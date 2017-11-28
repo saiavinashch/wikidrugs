@@ -1,0 +1,78 @@
+{{chembox
+| Watchedfields = changed
+| verifiedrevid = 470604751
+| Name = Tetramethrin
+| ImageFile1 = Tetramethrin-stereoisomers-2D-skeletal.png
+| ImageSize1 = 
+| ImageName1 = Tetramethrin
+| ImageFile2 = Tetramethrin 3D.png
+| ImageSize2 = 
+| ImageName2 = 3D model
+| IUPACName = (1,3-dioxo-4,5,6,7-tetrahydroisoindol-2-yl)methyl-2,2-dimethyl-3-(2-methylprop-1-enyl)cyclopropane-1-carboxylate
+|Section1={{Chembox Identifiers
+
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 75773
+| PubChem = 83975
+| EINECS = 214-619-0
+| RTECS = GZ1730000
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07368
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = Z72930Q46K
+| InChI = 1/C19H25NO4/c1-11(2)9-14-15(19(14,3)4)18(23)24-10-20-16(21)12-7-5-6-8-13(12)17(20)22/h9,14-15H,5-8,10H2,1-4H3
+| InChIKey = CXBMCYHAMVGWJQ-UHFFFAOYAA
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H25NO4/c1-11(2)9-14-15(19(14,3)4)18(23)24-10-20-16(21)12-7-5-6-8-13(12)17(20)22/h9,14-15H,5-8,10H2,1-4H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = CXBMCYHAMVGWJQ-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo = 7696-12-0
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 39397
+| SMILES = O=C1\C3=C(/C(=O)N1COC(=O)C2C(\C=C(/C)C)C2(C)C)CCCC3
+}}
+|Section2={{Chembox Properties
+| Formula = C<sub>19</sub>H<sub>25</sub>NO<sub>4</sub>
+| MolarMass = 331.406 g/mol
+| Appearance = white crystalline solid
+| Odor = strong, [[pyrethrum]]-like
+| Density = 1.108 g/cm<sup>3</sup>
+| MeltingPtC = 65 to 80
+| MeltingPt_notes = 
+| BoilingPt = 
+| Solubility = 0.00183 g/100 mL
+| SolubleOther = soluble in [[methane]], [[hexane]] <br> slightly soluble in [[acetone]], [[n-octanol]], [[ethanol]] <br> very slightly soluble in [[xylene]] 
+| VaporPressure = 10 Pa
+| LogP = 4.73
+| RefractIndex = 1.5175
+}}
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = P03
+| ATCCode_suffix = BA04
+| ATC_Supplemental = {{ATCvet|P53|AC13}}
+}}
+|Section7={{Chembox Hazards
+| LD50 = 20,000 mg/kg (rat, oral)
+ }}
+}}
+
+'''Tetramethrin''' is a potent synthetic [[insecticide]] in the [[pyrethroid]] family.<ref>[http://www.alanwood.net/pesticides/tetramethrin.html Tetramethrin], alanwood.net</ref>  It is a white [[crystal]]line [[solid]] with a [[melting point]] of 65-80 °C.  The commercial product is a mixture of [[stereoisomer]]s.
+
+It is commonly used as an insecticide, and affects the insect's nervous system.  It is found in many household insecticide products.<ref>[http://householdproducts.nlm.nih.gov/cgi-bin/household/brands?tbl=chem&id=637&query=tetramethrin&searchas=TblChemicals Tetramethrin], Household Products Database</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://npic.orst.edu/factsheets/pyrethrins.pdf Pyrethrins and Pyrethroids Fact Sheet - National Pesticide Information Center]
+*[http://extoxnet.orst.edu/pips/pyrethri.htm Pyrethrins and Pyrethroids Pesticide Information Profile - Extension Toxicology Network]
+*{{PPDB|628}}
+{{insecticides}}
+
+[[Category:Imides]]
+[[Category:Pyrethroids]]
+[[Category:Household chemicals]]
+[[Category:Isoindoles]]
+
+{{antiinfective-drug-stub}}

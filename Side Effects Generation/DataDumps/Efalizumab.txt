@@ -1,0 +1,79 @@
+{{Drugbox
+<!--Monoclonal antibody data -->
+| Verifiedfields = changed
+| verifiedrevid = 461092863
+| type = mab
+| mab_type = mab
+| source = zu/o
+| target = [[CD11a]]
+<!--Clinical data -->
+| tradename = Raptiva  
+| Drugs.com = {{drugs.com|monograph|efalizumab}}
+| pregnancy_category = 
+| legal_status            =
+| routes_of_administration = subcutaneous injection  
+<!--Pharmacokinetic data -->
+| bioavailability = 
+| protein_bound = 
+<!--Identifiers -->
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 214745-43-4
+| ATC_prefix = L04
+| ATC_suffix = AA21
+| ATC_supplemental = 
+| PubChem = 
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00095
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = XX2MN88N5D
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201575
+<!--Chemical data -->
+| chemical_formula = 
+| molecular_weight = 
+| melting_point = 66
+}}
+'''Efalizumab''' (trade name Raptiva, [[Genentech]], [[Merck Serono]]) is a formerly available [[medication]] designed to treat autoimmune diseases, originally marketed to treat [[psoriasis]]. As [[Nomenclature of monoclonal antibodies|implied by the suffix ''-zumab'']], it is a [[Recombinant DNA|recombinant]] [[humanized antibody|humanized]] [[monoclonal antibody]]  administered once weekly by [[subcutaneous injection]]. Efalizumab binds to the [[CD11a]] subunit of [[lymphocyte function-associated antigen 1]] and acts as an [[immunosuppressant]] by inhibiting lymphocyte activation and cell migration out of blood vessels into tissues. Efalizumab was associated with fatal brain infections and was withdrawn from the market in 2009.<ref name=Major/>
+
+Known side effects include bacterial [[sepsis]], viral [[meningitis]], invasive fungal disease and [[progressive multifocal leukoencephalopathy]] (PML), a brain infection caused by reactivation of latent [[JC virus]] infection.<ref name="urlEfalizumab FDA Warning">{{cite web|url=http://www.medpagetoday.com/InfectiousDisease/PublicHealth/11358|title=Efalizumab FDA Warning|accessdate=7 December 2008}}</ref><ref>{{Cite journal
+| pmid = 20073129
+| year = 2009
+| last1 = Berger | first1 = J. R.
+| last2 = Houff | first2 = S. A.
+| last3 = Major | first3 = E. O.
+| title = Monoclonal antibodies and progressive multifocal leukoencephalopathy
+| volume = 1
+| issue = 6
+| pages = 583–589
+| pmc = 2791316
+| journal = MAbs
+| doi = 10.4161/mabs.1.6.9884
+}}</ref> Four cases of PML were reported in plaque psoriasis patients, an incidence of approximately one in 500 treated patients.<ref name=Major>{{Cite journal
+| doi = 10.1146/annurev.med.080708.082655
+| pmid = 19719397
+| year = 2010
+| last1 = Major | first1 = E.
+| title = Progressive multifocal leukoencephalopathy in patients on immunomodulatory therapies
+| volume = 61
+| issue = 1
+| pages = 35–47
+| journal = Annual Review of Medicine 
+}}</ref>
+
+Due to the risk of PML, the [[European Medicines Agency]] and the [[Food and Drug Administration|FDA]] recommended suspension from the market in the [[European Union]] and the United States, respectively.<ref name="urlEMEA suspension press release">{{cite web|url=http://www.emea.europa.eu/humandocs/PDFs/EPAR/raptiva/2085709en.pdf |title=EMEA press release regarding suspension |format=PDF |accessdate=20 February 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20091226101218/http://www.emea.europa.eu/humandocs/PDFs/EPAR/raptiva/2085709en.pdf |archivedate=26 December 2009 |df= }}</ref> In April 2009, Genentech Inc. announced a phased voluntary withdrawal of Raptiva from the U.S. market.<ref name=Major/><ref>{{cite press release|title=Genentech Announces Voluntary Withdrawal of Raptiva from the U.S. Market|publisher=Genentech, Inc.|date=8 April 2009|url=http://www.drugs.com/news/genentech-announces-voluntary-raptiva-u-s-market-17125.html|accessdate=9 April 2009}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Immunosuppressants}}
+{{Monoclonals for immune system}}
+
+[[Category:Recombinant proteins]]
+[[Category:Immunosuppressants]]
+[[Category:Withdrawn drugs]]
+
+
+{{monoclonal-antibody-stub}}
+{{antineoplastic-drug-stub}}

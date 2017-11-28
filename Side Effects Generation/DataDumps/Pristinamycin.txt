@@ -1,0 +1,65 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464214518
+| image = Pristinamycin IA.png
+| image2 = Streptogramin A.svg
+<!--Combo data-->
+| type = combo
+| component1 = Pristinamycin IA
+| class1 = [[antibiotic]]
+| component2 = Pristinamycin IIA
+| class2 = [[antibiotic]]
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|pristinamycin}}
+| MedlinePlus = a603007
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 270076-60-3
+| ATCvet =  
+| ATC_prefix = J01
+| ATC_suffix = FG01
+| PubChem = 11979535
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 10152812
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1256399
+<!--Chemical data-->
+}}
+
+'''Pristinamycin''' ([[International Nonproprietary Name|INN]]), also spelled '''pristinamycine''', is an [[antibiotic]] used primarily in the treatment of [[Staphylococcus|staphylococcal]] infections, and to a lesser extent [[Streptococcus|streptococcal]] infections. It is a [[streptogramin]] group antibiotic, similar to [[virginiamycin]], derived from the bacterium ''[[Streptomyces|Streptomyces pristinaespiralis]]''. It is marketed in Europe by [[Sanofi-Aventis]] under the trade name '''Pyostacine'''.
+
+Pristinamycin is a mixture of two components that have a synergistic antibacterial action. [[Pristinamycin IA]] is a [[macrolide]], and results in pristinamycin's having a similar spectrum of action to [[erythromycin]]. [[Pristinamycin IIA]] (streptogramin A) is a [[depsipeptide]].<ref name="Hamilton-Miller1991">{{cite journal | author = Hamilton-Miller J | title = From foreign pharmacopoeias: 'new' antibiotics from old? | journal = J Antimicrob Chemother | volume = 27 | issue = 6 | pages = 702–5 | year = 1991 | pmid = 1938680 | doi = 10.1093/jac/27.6.702}}</ref> PI and PII are coproduced by ''S. pristinaespiralis'' in a ratio of 30:70. Each compound binds to the bacterial 50 S ribosomal subunit and inhibits the elongation process of the protein synthesis, thereby exhibiting only a moderate bacteriostatic activity. However, the combination of both substances acts synergistically and  leads to a potent bactericidal activity that can reach up to 100 times that of the separate components.
+
+The pristinamycin biosynthetic gene cluster is the largest antibiotic supercluster known so far, with a size of ~210 kb, wherein the PI and PII biosynthetic genes are not clustered individually but are scattered across the complete sequence region.<ref>Mast Y, Weber T, Gölz M, Ort-Winklbauer R, Gondran A, Wohlleben W, Schinko E (2010) Characterization of the ‘pristinamycin supercluster’ of Streptomyces pristinaespiralis. Microbial Biotechnology. {{doi|10.1111/j.1751-7915.2010.00213.x}}</ref> Furthermore, this biosynthetic gene region is interrupted by a cryptic type II PKS gene cluster.
+
+==Clinical use==
+Despite the macrolide component, it is effective against erythromycin-resistant staphylococci and strepcococci.<ref name="Weber2001">{{cite journal | author = Weber P | title = [Streptococcus pneumoniae: lack of emergence of pristinamycin resistance] | journal = Pathol Biol (Paris) | volume = 49 | issue = 10 | pages = 840–5 | year = 2001 | pmid = 11776696 | doi = 10.1016/S0369-8114(01)00255-3}}</ref><ref name="Leclercq2003">{{cite journal |vauthors=Leclercq R, Soussy C, Weber P, Moniot-Ville N, Dib C | title = [In vitro activity of the pristinamycin against the isolated staphylococci in the french hospitals in 1999-2000] | journal = Pathol Biol (Paris) | volume = 51 | issue = 7 | pages = 400–4 | year = 2003 | pmid = 12948760 | doi = 10.1016/S0369-8114(03)00054-3}}</ref>  It is active against [[Methicillin-resistant Staphylococcus aureus|methicillin-resistant ''Staphylococcus aureus'']] (MRSA). Its usefulness for severe infections, however, may be limited by the lack of an [[intravenous]] formulation owing to its poor solubility.<ref name="Martindale34">{{cite book | editor= Edited by Sean C. Sweetman | title=[[Martindale: The complete drug reference]] | edition=34th | date=November 30, 2004 | publisher=Pharmaceutical Press | location=London | isbn= 0-85369-550-4}}</ref> Nevertheless, it is sometimes used as an alternative to [[rifampicin]]+[[fusidic acid]] or [[linezolid]] for the treatment of MRSA.
+
+The lack of an intravenous formulation led to the development of the pristinamycin-derivative [[quinupristin/dalfopristin]] (i.e., [[Synercid]]), which may be administered intravenously for more severe MRSA infections.
+
+== See also ==
+* [[Methicillin-resistant Staphylococcus aureus|Methicillin-resistant ''Staphylococcus aureus'']] (MRSA)
+* [[Quinupristin/dalfopristin]]
+
+== Footnotes ==
+{{reflist}}
+
+{{Macrolides, lincosamides and streptogramins}}
+
+[[Category:Antibiotics]]
+[[Category:Combination antibiotics]]
+[[Category:Depsipeptides]]
+[[Category:Cyclic peptides]]

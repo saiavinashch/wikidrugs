@@ -1,0 +1,128 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 445236160
+| IUPAC_name = (1''S'',2''R'',5''R'',7''R'',8''R'',9''S'',11''R'',13''R'',14''R'')-8-[(2''S'',3''R'',4''S'',6''R'')- 4-Dimethylamino-3-hydroxy-6-methyloxan-2-yl]oxy-2-ethyl-1,5,7,9,11,13- hexamethyl-9-[(''E'')-3-quinolin-3-ylprop-2-enoxy] -3,17-dioxa-15-azabicyclo[12.3.0]heptadecane-4,6,12,16-tetrone
+| image = Cethromycin.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US_comment = [[Clinical trial|Phase III Clinical Trials]]
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = Between 35.8 and 60% in animal studies.
+| protein_bound =  
+| metabolism = [[Liver]]
+| elimination_half-life = 1.6, 3.0, 4.5, 5.9 and 6 hours. Mouse, Monkey, Rat, Dog and Human respectively.
+| excretion = 7.0% urine 87.2% faeces
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 205110-48-1
+| ATC_prefix = none
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem = 5282045
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 365528
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = J0086219X6
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D02391|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 23258189
+|  smiles = CC[C@@H]1[C@@]2([C@@H]([C@H](C(=O)[C@@H](C[C@]([C@@H]([C@H](C(=O)[C@H](C(=O)O1)C)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)OC/C=C/c4cc5ccccc5nc4)C)C)NC(=O)O2)C
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C42H59N3O10/c1-11-32-42(8)36(44-40(50)55-42)25(4)33(46)23(2)21-41(7,51-18-14-15-28-20-29-16-12-13-17-30(29)43-22-28)37(26(5)34(47)27(6)38(49)53-32)54-39-35(48)31(45(9)10)19-24(3)52-39/h12-17,20,22-27,31-32,35-37,39,48H,11,18-19,21H2,1-10H3,(H,44,50)/b15-14+/t23-,24-,25+,26+,27-,31+,32-,35-,36-,37-,39+,41+,42-/m1/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = PENDGIOBPJLVBT-HMMOOPTJSA-N
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=42 | H=59 | N=3 | O=10 
+| molecular_weight = 765.931 g/mol
+| melting_point = 211
+| melting_high = 213
+}}
+
+'''Cethromycin''', trade name Restanza (initially known as '''ABT-773'''<ref name="pmid11572654">{{cite journal
+|author=Lawrence LE
+|title=ABT-773 (Abbott Laboratories)
+|journal=Current Opinion in Investigational Drugs
+|volume=2
+|issue=6
+|pages=766–72
+|date=June 2001
+|pmid=11572654
+|doi=
+|url=
+}}</ref><ref name="pmid11178346">{{cite journal
+|vauthors=Dougherty TJ, Barrett JF
+|title=ABT-773: a new ketolide antibiotic
+|journal=Expert Opinion on Investigational Drugs
+|volume=10
+|issue=2
+|pages=343–51
+|date=February 2001
+|pmid=11178346
+|doi=10.1517/13543784.10.2.343	
+|url=
+}}</ref>) is a [[ketolide]] [[antibiotic]] undergoing research for the treatment of [[community acquired pneumonia]] (CAP)<ref name="pmid11572654"/><ref name="pmid14661991">{{cite journal
+|vauthors=Zhanel GG, Hisanaga T, Nichol K, Wierzbowski A, Hoban DJ
+|title=Ketolides: an emerging treatment for macrolide-resistant respiratory infections, focusing on S. pneumoniae
+|journal=Expert Opinion on Emerging Drugs
+|volume=8
+|issue=2
+|pages=297–321
+|date=November 2003
+|pmid=14661991
+|doi=10.1517/14728214.8.2.297
+|url=
+}}</ref><ref name="pmid15117934">{{cite journal
+|author=Reinert RR
+|title=Clinical efficacy of ketolides in the treatment of respiratory tract infections
+|journal=[[The Journal of Antimicrobial Chemotherapy]]
+|volume=53
+|issue=6
+|pages=918–27
+|date=June 2004
+|pmid=15117934
+|doi=10.1093/jac/dkh169
+|url=
+}}</ref><ref name="pmid18321237">{{cite journal
+|vauthors=Hammerschlag MR, Sharma R
+|title=Use of cethromycin, a new ketolide, for treatment of community-acquired respiratory infections
+|journal=Expert Opinion on Investigational Drugs
+|volume=17
+|issue=3
+|pages=387–400
+|date=March 2008
+|pmid=18321237
+|doi=10.1517/13543784.17.3.387	
+|url=
+}}</ref> and for the prevention of post-exposure inhalational [[anthrax]], and was given an "[[orphan drug]]" status for this indication.<ref>[http://www.advancedlifesciences.com/product.php?id=1 Cethromycin - Advanced Life Sciences<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20080420171224/http://www.advancedlifesciences.com/product.php?id=1 |date=April 20, 2008 }}</ref>  Originally discovered and developed by [[Abbott Laboratories|Abbott]], it was acquired by Advanced Life Sciences Inc. for further development.
+
+On October 1, 2008 Advanced Life Sciences submitted a [[New Drug Application]] (NDA) to [[Food and Drug Administration]] (FDA) for cethromycin to treat mild-to-moderate community acquired pneumonia.<ref>[http://www.drugs.com/nda/cethromycin_081001.html Cethromycin New Drug Application]</ref>
+
+On December 3, 2008 Advanced Life Sciences announced that this New Drug Application has been accepted for filing by the FDA.<ref>[http://www.marketwatch.com/news/story/Advanced-Life-Sciences-Announces-Cethromycin/story.aspx?guid={03EDC600-9DFB-4B87-962C-D6700F247F3F} Cethromycin New Drug Application accepted for filing by FDA]</ref>
+
+In June 2009, an FDA Anti-Infective Drugs Advisory Committee review found insufficient evidence for cethromycin efficacy in treatment of community acquired pneumonia, as the Phase 3 clinical trial followed standards that were updated after the clinical trial but three months prior to review. The committee did, however, find the drug safe to use.<ref>{{cite web |url=http://www.drugs.com/nda/restanza_090806.html |title=Complete Response Letter for Restanza NDA |publisher=Drugs.com |author=Advanced Life Sciences Holdings, Inc. |accessdate=2014-03-26}}</ref>
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*[http://aac.asm.org/cgi/content/full/48/4/1096 Interaction of the New Ketolide ABT-773 (Cethromycin) with Human Polymorphonuclear Neutrophils and the Phagocytic Cell Line PLB-985 In Vitro. 2004]
+
+{{Macrolides, lincosamides and streptogramins}}
+
+[[Category:Quinolines]]
+[[Category:Ketolide antibiotics]]

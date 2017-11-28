@@ -1,0 +1,125 @@
+{{Drugbox
+| Verifiedfields = 
+| Watchedfields = 
+| verifiedrevid = 
+| IUPAC_name = (6aR,9R,10aR)-N-cyclohexyl-7-methyl-4-propan-2-yl-6,6a,8,9,10,10a-hexahydroindolo[4,3-fg]quinoline-9-carboxamide
+| image = 
+| width = 
+
+<!--Clinical data-->
+| tradename = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = 
+| legal_UK = 
+| legal_US = 
+| legal_status = 
+| routes_of_administration = [[Oral administration|Oral]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+
+<!-- Identifiers -->
+| CAS_number_Ref = 
+| CAS_number = 121588-75-8
+| CAS_supplemental = 
+| class = 
+| ATC_prefix = 
+| ATC_suffix = 
+| ATC_supplemental = 
+| PubChem = 9821951
+| IUPHAR_ligand = 
+| DrugBank_Ref = 
+| DrugBank = 
+| ChemSpiderID_Ref = 
+| ChemSpiderID = 7997700
+| UNII = EJL329H95R
+| KEGG = D02893
+| ChEBI = 
+| ChEMBL = 160293
+| synonyms = LY-237733; ''N''-Cyclohexyl-11-isopropyllysergamide
+
+<!--Chemical data-->
+| C=25 | H=35 | N=3 | O=1
+| molecular_weight = 393.575 g/mol
+| SMILES = CC(C)N1C=C2C[C@@H]3[C@H](C[C@H](CN3C)C(=O)NC4CCCCC4)C5=C2C1=CC=C5
+| StdInChI_Ref = 
+| StdInChI = 1S/C25H35N3O/c1-16(2)28-15-17-13-23-21(20-10-7-11-22(28)24(17)20)12-18(14-27(23)3)25(29)26-19-8-5-4-6-9-19/h7,10-11,15-16,18-19,21,23H,4-6,8-9,12-14H2,1-3H3,(H,26,29)/t18-,21-,23-/m1/s1
+| StdInChIKey_Ref = 
+| StdInChIKey = KEMOOQHMCGCZKH-JMUQELJHSA-N
+}}
+
+'''Amesergide''' ({{abbrlink|INN|International Nonproprietary Name}}, {{abbrlink|USAN|United States Adopted Name}}; developmental code name '''LY-237733''') is a [[serotonin receptor antagonist]] of the [[ergoline]] and [[lysergamide]] families related to [[methysergide]] which was under development by [[Eli Lilly and Company]] for the treatment of a variety of conditions including [[depression (mood)|depression]], [[anxiety]], [[schizophrenia]], [[male sexual dysfunction]], [[migraine]], and [[thrombosis]] but was never marketed.<ref name="AdisInsight">http://adisinsight.springer.com/drugs/800001117</ref><ref name="Publishing2013">{{cite book|author=William Andrew Publishing|title=Pharmaceutical Manufacturing Encyclopedia|url=https://books.google.com/books?id=_J2ti4EkYpkC&pg=PA239|date=22 October 2013|publisher=Elsevier|isbn=978-0-8155-1856-3|pages=239–}}</ref><ref name="PertzEich1999">Pertz, H. E. I. N. Z., & Eich, E. C. K. A. R. T. (1999). Ergot alkaloids and their derivatives as ligands for serotoninergic, dopaminergic, and adrenergic receptors. Ergot: the genus Claviceps. Harwood Academic Publishers, Amsterdam, The Netherlands, 411-440.</ref> It reached [[Phases of clinical research#Phase II|phase II]] [[clinical trial]]s for the treatment of depression, [[erectile dysfunction]], and [[premature ejaculation]] prior to the discontinuation of its development.<ref name="AdisInsight" />
+
+==Pharmacology==
+
+===Pharmacodynamics===
+{| class="wikitable floatleft" style="font-size:small;"
+|+ Amesergide<ref name="PDSP">{{cite web | title = PDSP K<sub>i</sub> Database | work = Psychoactive Drug Screening Program (PDSP) | author1 = Roth, BL | author2 = Driscol, J | publisher = University of North Carolina at Chapel Hill and the United States National Institute of Mental Health || format = HTML | accessdate = 14 August 2017 | url = https://pdsp.unc.edu/databases/pdsp.php?knowID=0&kiKey=&receptorDD=&receptor=&speciesDD=&species=&sourcesDD=&source=&hotLigandDD=&hotLigand=&testDDRadio=testDDRadio&testLigandDD=782&testLigand=&referenceDD=&reference=&KiGreater=&KiLess=&doQuery=Submit+Query}}</ref>
+|-
+! Site !! K<sub>i</sub> (nM) !! Species !! Ref
+|-
+| [[5-HT1A receptor|5-HT<sub>1A</sub>]] || 177.3 || Rat || <ref name="pmid1731051">{{cite journal | vauthors = Foreman MM, Fuller RW, Nelson DL, Calligaro DO, Kurz KD, Misner JW, Garbrecht WL, Parli CJ | title = Preclinical studies on LY237733, a potent and selective serotonergic antagonist | journal = J. Pharmacol. Exp. Ther. | volume = 260 | issue = 1 | pages = 51–7 | year = 1992 | pmid = 1731051 | doi = | url = }}</ref>
+|-
+| [[5-HT1B receptor|5-HT<sub>1B</sub>]] || {{abbr|ND|No data}} || {{abbr|ND|No data}} || {{abbr|ND|No data}}
+|-
+| '''[[5-HT1D receptor|5-HT<sub>1D</sub>]]''' || '''57.9''' || '''Cow''' || <ref name="pmid1731051" />
+|-
+| '''[[5-HT2A receptor|5-HT<sub>2A</sub>]]''' || '''15.1'''<br />'''12.4''' || '''Human'''<br />'''Rat''' || <ref name="pmid8632342">{{cite journal | vauthors = Wainscott DB, Lucaites VL, Kursar JD, Baez M, Nelson DL | title = Pharmacologic characterization of the human 5-hydroxytryptamine2B receptor: evidence for species differences | journal = J. Pharmacol. Exp. Ther. | volume = 276 | issue = 2 | pages = 720–7 | year = 1996 | pmid = 8632342 | doi = | url = }}</ref><br /><ref name="pmid1731051" />
+|-
+| '''[[5-HT2B receptor|5-HT<sub>2B</sub>]]''' || '''1.96''' || '''Human''' || <ref name="pmid8632342" />
+|-
+| '''[[5-HT2C receptor|5-HT<sub>2C</sub>]]''' || '''6.27'''<br />'''13.27''' || '''Human'''<br />'''Pig''' || <ref name="pmid8632342" /><br /><ref name="pmid1731051" />
+|-
+| [[5-HT3 receptor|5-HT<sub>3</sub>]] || >10,000 || Rat || <ref name="pmid1731051" />
+|-
+| [[5-HT6 receptor|5-HT<sub>6</sub>]] || {{abbr|ND|No data}} || {{abbr|ND|No data}} || {{abbr|ND|No data}}
+|-
+| '''[[5-HT7 receptor|5-HT<sub>7</sub>]]''' || '''78.0''' || '''Human''' || <ref name="pmid8667223">{{cite journal | vauthors = Cushing DJ, Zgombick JM, Nelson DL, Cohen ML | title = LY215840, a high-affinity 5-HT7 receptor ligand, blocks serotonin-induced relaxation in canine coronary artery | journal = J. Pharmacol. Exp. Ther. | volume = 277 | issue = 3 | pages = 1560–6 | year = 1996 | pmid = 8667223 | doi = | url = }}</ref>
+|-
+| [[Alpha-1 adrenergic receptor|α<sub>1</sub>]] || 730 || Rat || <ref name="pmid1731051" />
+|-
+| '''[[Alpha-2 adrenergic receptor|α<sub>2</sub>]]''' || '''50'''<br />'''13 ({{abbr|MB|Metabolite}})''' || '''Rat''' || <ref name="pmid1731051" /><br /><ref name="pmid8027933">{{cite journal | vauthors = Cohen ML, Kurz KD, Fuller RW, Calligaro DO | title = Comparative 5-HT2-receptor antagonist activity of amesergide and its active metabolite 4-hydroxyamesergide in rats and rabbits | journal = J. Pharm. Pharmacol. | volume = 46 | issue = 3 | pages = 226–9 | year = 1994 | pmid = 8027933 | doi = | url = }}</ref>
+|-
+| [[Beta adrenergic receptor|β]] || >10,000 || Rat || <ref name="pmid1731051" />
+|-
+| [[Dopamine D1 receptor|D<sub>1</sub>]] || 150 || Rat || <ref name="pmid1731051" />
+|-
+| [[Dopamine D2 receptor|D<sub>2</sub>]] || 520 || Rat || <ref name="pmid1731051" />
+|-
+| [[Histamine H1 receptor|H<sub>1</sub>]] || >10,000 || Rat || <ref name="pmid1731051" />
+|-
+| {{abbrlink|mACh|Muscarinic acetylcholine receptor}} || >10,000 || Rat || <ref name="pmid1731051" />
+|- class="sortbottom"
+| colspan="4" style="width: 1px;" | Values are K<sub>i</sub> (nM). The smaller the value, the more strongly the drug binds to the site.
+|}
+
+Amesergide acts as a [[binding selectivity|selective]] [[receptor antagonist|antagonist]] of the [[serotonin receptor|serotonin]] [[5-HT2A receptor|5-HT<sub>2A</sub>]], [[5-HT2B receptor|5-HT<sub>2B</sub>]], [[5-HT2C receptor|5-HT<sub>2C</sub> receptor]]s (K<sub>i</sub> = 1.96–15.1&nbsp;nM).<ref name="pmid1731051" /><ref name="pmid8632342" /> It is also an antagonist of the serotonin [[5-HT7 receptor|5-HT<sub>7</sub> receptor]] with relatively lower [[affinity (pharmacology)|affinity]] (K<sub>i</sub> = 78.0&nbsp;nM).<ref name="pmid15032609">{{cite journal | vauthors = Leopoldo M | title = Serotonin(7) receptors (5-HT(7)Rs) and their ligands | journal = Curr. Med. Chem. | volume = 11 | issue = 5 | pages = 629–61 | year = 2004 | pmid = 15032609 | doi = | url = }}</ref> The drug is a [[potency (pharmacology)|potent]] antagonist of the [[alpha-2 adrenergic receptor|α<sub>2</sub>-adrenergic receptor]] in addition to the [[5-HT2 receptor|5-HT<sub>2</sub> receptor]]s via its major [[active metabolite]] 4-hydroxyamesergide (K<sub>i</sub> = 13&nbsp;nM).<ref name="pmid8027933" /><ref name="HertzmanFeltner1997">{{cite book|author1=Marc Hertzman|author2=Douglas E. Feltner|title=The Handbook of Psychopharmacology Trials: An Overview of Scientific, Political, and Ethical Concerns|url=https://books.google.com/books?id=Mn9lrAQ_nxUC&pg=PA390|date=June 1997|publisher=NYU Press|isbn=978-0-8147-3532-9|pages=390–}}</ref> This profile of activity is similar to that of the so-called [[noradrenergic and specific serotonergic antidepressant]] (NaSSA) [[mirtazapine]] (Remeron).<ref name="pmid9017762">{{cite journal | vauthors = Stimmel GL, Dopheide JA, Stahl SM | title = Mirtazapine: an antidepressant with noradrenergic and specific serotonergic effects | journal = Pharmacotherapy | volume = 17 | issue = 1 | pages = 10–21 | year = 1997 | pmid = 9017762 | doi = | url = }}</ref>
+
+Amesergide also has affinity for the serotonin [[5-HT1D receptor|5-HT<sub>1D</sub> receptor]] (K<sub>i</sub> = 57.9&nbsp;nM) and lower affinity for the serotonin [[5-HT1A receptor|5-HT<sub>1A</sub>]], [[alpha-1 adrenergic|α<sub>1</sub>-adrenergic]], and [[dopamine receptor|dopamine]] [[D1 receptor|D<sub>1</sub>]] and [[D2 receptor|D<sub>2</sub> receptor]]s (K<sub>i</sub> = 150–730&nbsp;nM).<ref name="pmid1731051" /> It has negligible affinity for the [[histamine receptor|histamine]] [[H1 receptor|H<sub>1</sub>]] and [[muscarinic acetylcholine receptor]]s (K<sub>i</sub> > 10,000&nbsp;nM).<ref name="pmid1731051" /> The drug does not appear to have been assessed at the serotonin [[5-HT1E receptor|5-HT<sub>1E</sub>]], [[5-HT1F receptor|5-HT<sub>1F</sub>]], [[5-HT4 receptor|5-HT<sub>4</sub>]], [[5-HT5A receptor|5-HT<sub>5A</sub>]], and [[5-HT6 receptor|5-HT<sub>6</sub> receptor]]s, nor at the dopamine [[D3 receptor|D<sub>3</sub>]], [[D4 receptor|D<sub>4</sub>]], and [[D5 receptor|D<sub>5</sub> receptor]]s.<ref name="PDSP" />
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://adisinsight.springer.com/drugs/800001117 Amesergide - AdisInsight]
+
+
+{{Adrenergic receptor modulators}}
+{{Serotonin receptor modulators}}
+
+[[Category:5-HT2A antagonists]]
+[[Category:5-HT2B antagonists]]
+[[Category:5-HT2C antagonists]]
+[[Category:5-HT7 antagonists]]
+[[Category:Abandoned drugs]]
+[[Category:Alpha-2 blockers]]
+[[Category:Antidepressants]]
+[[Category:Anxiolytics]]
+[[Category:Lysergamides]]

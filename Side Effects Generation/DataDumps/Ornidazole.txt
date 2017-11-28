@@ -1,0 +1,70 @@
+{{distinguish|ronidazole}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 447378516
+| IUPAC_name = 1-Chloro-3-(2-methyl-5-nitro-1''H''-imidazol-1-yl)propan-2-ol
+| image = Ornidazole.svg
+
+<!--Clinical data-->
+| tradename =  '''Xynor'''
+| Drugs.com = {{drugs.com|international|ornidazole}}
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism = Metabolized via the liver, excreted in the Urine and Feces
+| excretion = 85% of single oral dose is eliminated with 5 days - Urine (63%) and Feces (22%)
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 16773-42-5
+| ATC_prefix = G01
+| ATC_suffix = AF06
+| ATC_supplemental = {{ATC|J01|XD03}} {{ATC|P01|AB03}} {{ATCvet|P51|AA03}}
+| PubChem = 28061
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 26102
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1449676
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 62XCK0G93T
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05274
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 75176
+
+<!--Chemical data-->
+| C=7 | H=10 | Cl=1 | N=3 | O=3 
+| smiles = [O-][N+](=O)c1cnc(n1CC(O)CCl)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C7H10ClN3O3/c1-5-9-3-7(11(13)14)10(5)4-6(12)2-8/h3,6,12H,2,4H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IPWKIXLWTCNBKN-UHFFFAOYSA-N
+}}
+
+'''Ornidazole''' is a drug used to treat some [[protozoan]] infections.  It has also been investigated for use in [[Crohn's disease]] after bowel resection.<ref name="pmid15825069">{{cite journal  |vauthors=Rutgeerts P, Van Assche G, Vermeire S, etal |title=Ornidazole for prophylaxis of postoperative Crohn's disease recurrence: a randomized, double-blind, placebo-controlled trial |journal=Gastroenterology |volume=128 |issue=4 |pages=856–61 |date=April 2005 |pmid=15825069 |doi= 10.1053/j.gastro.2005.01.010|url=http://linkinghub.elsevier.com/retrieve/pii/S0016508505000302}}</ref>
+
+Synthesis is a straightforward reaction between 2-methyl-nitroimidazole and [[epichlorohydrin]] under acid catalyst conditions.<ref name="HofferGrunberg1974">{{cite journal|last1=Hoffer|first1=Max|last2=Grunberg|first2=Emanuel|title=Synthesis and antiprotozoal activity of 1-(3-chloro-2-hydroxypropyl)-substituted nitroimidazoles|journal=Journal of Medicinal Chemistry|volume=17|issue=9|year=1974|pages=1019–1020|issn=0022-2623|doi=10.1021/jm00255a026}}</ref>
+
+==Mechanism of action and susceptible organisms==
+After passive absorption into bacterium cell, the nitro group of ornidazole is reduced to an amine group by [[ferrodoxin]]-type redox systems. The formation of redox intermediate intracellular metabolites is believed to be the key component responsible for killing microorganisms. The drug is active against anaerobic bacteria including ''[[Peptostreptococcus]]'', ''[[Clostridium]]'', ''[[Bacteroides fragilis]]'', ''[[Prevotella]]'', ''[[Porphyromonas gingivalis]]'', and ''[[Fusobacterium]]'' as well as [[protozoa]] including ''[[Entamoeba histolytica]]'', ''[[Trichomonas vaginalis]]'', and ''[[Giardia lamblia]]''.<ref>http://webcache.googleusercontent.com/search?q=cache:OFkC_pjHLZ4J:www.panacea-biotec.com/product-pdf/Ocimix_28-11-2010.pdf</ref>
+
+==References==
+{{reflist}}
+
+{{Nucleic acid inhibitors}}
+{{Gynecological anti-infectives and antiseptics}}
+{{Agents against amoebozoa}}
+
+[[Category:Antiprotozoal agents]]
+[[Category:Disulfiram-like drugs]]
+[[Category:Poultry diseases]]
+[[Category:Nitroimidazole antibiotics]]
+[[Category:Organochlorides]]
+[[Category:Halohydrins]]
+
+{{antiinfective-drug-stub}}
+{{genito-urinary-drug-stub}}

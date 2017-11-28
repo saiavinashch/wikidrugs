@@ -1,0 +1,64 @@
+{{Chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 462091242
+| ImageFile = Levopropoxyphene structure.svg
+| ImageSize = 200px
+| IUPACName = (1''R'',2''S'')-1-benzyl-3-(dimethylamino)-2-methyl-1-phenylpropyl propionate
+| OtherNames = [(2''R'',3''S'')-4-dimethylamino-3-methyl-1,2-diphenyl-butan-2-yl]propanoate
+| Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = U75VZ9PK1J
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1213351
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 21234163
+| SMILES = CCC(=O)OC(Cc1ccccc1)(c2ccccc2)C(C)CN(C)C
+| InChI = 1/C22H29NO2/c1-5-21(24)25-22(18(2)17-23(3)4,20-14-10-7-11-15-20)16-19-12-8-6-9-13-19/h6-15,18H,5,16-17H2,1-4H3/t18-,22-/m1/s1
+| InChIKey = XLMALTXPSGQGBX-XMSQKQJNBJ
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C22H29NO2/c1-5-21(24)25-22(18(2)17-23(3)4,20-14-10-7-11-15-20)16-19-12-8-6-9-13-19/h6-15,18H,5,16-17H2,1-4H3
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = XLMALTXPSGQGBX-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|changed|??}}
+| CASNo = 2338-37-6
+| PubChem = 200742
+| SMILES2 = O=C(O[C@](c1ccccc1)(Cc2ccccc2)[C@@H](C)CN(C)C)CC
+ }}
+|Section2={{Chembox Properties
+| Formula = | C=22 | H=29 | N=1 | O=2 
+| MolarMass = 339.471
+| Appearance = 
+| Density = 
+| MeltingPt = 
+| BoilingPt = 
+| Solubility = 
+ }}
+|Section3={{Chembox Hazards
+| MainHazards = 
+| FlashPt = 
+| AutoignitionPt =
+ }}
+}}
+
+'''Levopropoxyphene''' is an [[antitussive]].  It is an [[optical isomer]] of [[dextropropoxyphene]]. The [[racemate|racemic mixture]] is called [[propoxyphene]]. Only the dextro-isomer (dextropropoxyphene) has an analgesic effect; the levo-isomer appears to exert only an antitussive effect.  It was formerly marketed in the U.S. by Eli Lilly under the tradename '''Novrad''' (a reversal of [[Darvon]]) as an antitussive.<ref>Reference.MD: [http://www.reference.md/files/C084/mC084813.html Propoxyphene napsylate]</ref><ref>{{cite web|url=http://irs.ub.rug.nl/ppn/242581676|publisher=Rijksuniversiteit Groningen|title=Enantioselective biocatalytic conversions of epoxides|author=Lutje Spelberg|author2=Jeffrey Harald |year=2003}}</ref>
+
+==Synthesis==
+[[File:Propoxyphene synthesis.png|thumb|center|500px|Propoxyphene synthesis<ref>Chenier, Philip J. (2002) ''Survey of Industrial Chemistry''. Springer. {{ISBN|0306472465}}. p. 455.</ref>]]
+#[[Mannich reaction]] of [[propiophenone]] with [[formaldehyde]] and [[dimethylamine]] affords the corresponding aminoketone.
+#Reaction of the ketone with benzylmagnesium bromide gives the amino alcohol. It is of note that this intermediate fails to show analgesic activity in animal assays.
+#Esterification of the alcohol by means of propionic anhydride affords the propionate.<ref>{{cite journal|last1=Pohland|first1=A.|last2=Sullivan|first2=H. R.|title=Analgesics: Esters of 4-Dialkylamino-1,2-diphenyl-2-butanols|journal=Journal of the American Chemical Society|volume=75|issue=18|year=1953|pages=4458–4461|url=http://www.electronicsandbooks.com/eab1/manual/Magazine/J/Journal%20of%20the%20American%20Chemical%20Society%20US/Journal%20of%20the%20American%20Chemical%20Society%201879-1995/75/18/ja01114a019.pdf|doi=10.1021/ja01114a019}}</ref>
+
+===Chirality===
+The presence of two chiral centers in this molecule means that the compound can exist as any of four isomers. The biologic activity has been found to be associated with the α-isomer. Resolution of that isomer into its optical antipodes showed the d isomer to be the active analgesic; this is now denoted as propoxyphene. The l isomer is almost devoid of analgesic activity; the compound does, however,
+show useful [[antitussive]] activity and is named levopropoxyphene.{{citation needed|date=November 2014}}
+
+==References==
+{{reflist}}
+
+[[Category:Synthetic opioids]]
+[[Category:Antitussives]]
+[[Category:Propionates]]
+
+
+{{respiratory-system-drug-stub}}

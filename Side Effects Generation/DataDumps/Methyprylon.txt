@@ -1,0 +1,95 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 457635672
+| IUPAC_name = (''RS'')-3,3-diethyl-5-methylpiperidine-2,4-dione
+| image = Methyprylon.svg
+| width = 150
+| chirality = [[Racemic mixture]]
+| image2 = Methyprylon ball-and-stick.png
+| width2 = 200
+<!--Clinical data-->
+| tradename =   Dimerin, Methyprylone, Noctan, Noludar
+| Drugs.com = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_CA = Schedule IV
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = Schedule III<!-- OTC / Rx-only -->
+| legal_DE = Anlage II
+| routes_of_administration = oral 
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 60%
+| metabolism =  
+| elimination_half-life = 6-16 hours
+| excretion =  
+<!--Identifiers-->
+| IUPHAR_ligand = 7238
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 125-64-4
+| ATC_prefix = N05
+| ATC_suffix = CE02
+| ATC_supplemental =  
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H17NO2/c1-4-10(5-2)8(12)7(3)6-11-9(10)13/h7H,4-6H2,1-3H3,(H,11,13)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SIDLZWOQUZRBRU-UHFFFAOYSA-N
+| PubChem = 4162
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01107
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4018
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = CUT48I42ON
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D01150
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1200790
+<!--Chemical data-->
+| C=10 | H=17 | N=1 | O=2
+| molecular_weight = 183.248 g/mol
+}}
+'''Methyprylon''' (Noludar) is a [[sedative]] of the [[piperidinedione]] derivative family developed by Hoffmann-La Roche.<ref>
+{{ cite patent
+| country = US 
+| status  = patent
+| number  = 2680116 
+| title   = Piperidiones and Process for the Manufacture thereof 
+| gdate   = 1954-06-01 
+| invent1 = Frick, H. 
+| invent2 = Lutz, A. H. 
+| assign1 = Hoffmann-La Roche 
+}}</ref>
+This medicine was used for treating [[insomnia]], but is now rarely used as it has been replaced by newer drugs with fewer side effects, such as [[benzodiazepines]].<ref>{{Cite journal | last1 = Lomen | first1 = P. | last2 = Linet | first2 = O. I. | title = Hypnotic efficacy of triazolam and methyprylon in insomniac in-patients | journal = The Journal of international medical research | volume = 4 | issue = 1 | pages = 55–58 | year = 1976 | pmid = 16792}}</ref>
+Methyprylon was withdrawn from the US market in June 1989 and the Canadian market in September 1990.
+Some other trade names are Noctan and Dimerin.
+
+==Adverse effects==
+Side effects can include skin rash, fever, depression, ulcers or sores in mouth or throat, unusual bleeding or bruising, confusion, fast heartbeat, respiratory depression, swelling of feet or lower legs, dizziness, drowsiness, headache, double vision, clumsiness, constipation, diarrhea, nausea, vomiting, unusual weakness.{{Citation needed|date=October 2011}}
+
+==Pharmacokinetics==
+A study of single oral doses of 300&nbsp;mg in healthy volunteers found that the zero-order absorption model fit the data best. Mean (+/- SD) values for the half-life (9.2 +/- 2.2 h), apparent clearance, (11.91 +/- 4.42 mL/h/kg) and apparent steady-state volume of distribution, (0.97 +/- 0.33 L/kg) were found.<ref>{{Cite journal | last1 = Gwilt | first1 = P. R. | last2 = Pankaskie | first2 = M. C. | last3 = Thornburg | first3 = J. E. | last4 = Zustiak | first4 = R. | last5 = Shoenthal | first5 = D. R. | title = Pharmacokinetics of methyprylon following a single oral dose | journal = Journal of pharmaceutical sciences | volume = 74 | issue = 9 | pages = 1001–1003 | year = 1985 | pmid = 2866242 | doi=10.1002/jps.2600740920}}</ref>
+
+A case report found that the pharmacokinetics of methyprylon were not concentration dependent in an overdose case; explanations included saturation or inhibition of metabolic pathways. The generally accepted half-life for a therapeutic dose was not found appropriate in intoxicated patients and would underestimate the time required to reach a safe concentration of the drug.<ref>{{Cite journal | last1 = Contos | first1 = D. A. | last2 = Dixon | first2 = K. F. | last3 = Guthrie | first3 = R. M. | last4 = Gerber | first4 = N. | last5 = Mays | first5 = D. C. | title = Nonlinear elimination of methyprylon (noludar) in an overdosed patient: Correlation of clinical effects with plasma concentration | journal = Journal of pharmaceutical sciences | volume = 80 | issue = 8 | pages = 768–771 | year = 1991 | pmid = 1686463 | doi=10.1002/jps.2600800813}}</ref>
+
+==See also==
+{{Colbegin|2}}
+*[[Pyrithyldione]]
+*[[Piperidione]]
+*[[Bemegride]]
+*[[Thalidomide]]
+*[[Glutethimide]]
+*[[Phenglutarimide]]
+{{Colend}}
+
+==References==
+{{reflist}}
+
+{{Sedatives}}
+{{GABAAR PAMs}}
+
+[[Category:Piperidinones]]
+[[Category:Ketones]]
+[[Category:GABAA receptor positive allosteric modulators]]

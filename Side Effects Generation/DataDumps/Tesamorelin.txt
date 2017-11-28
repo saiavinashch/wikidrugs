@@ -1,0 +1,70 @@
+{{Drugbox
+<!--Clinical data-->
+| tradename = Egrifta
+| image = Tesamorelin.svg
+| width = 300
+
+| Drugs.com = {{Drugs.com|MTM|tesamorelin}}
+| MedlinePlus = a611035
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = X
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = Rx-only
+| legal_status = ℞-only
+| routes_of_administration = [[Subcutaneous injection]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = ≤4%<ref name = "PI">{{cite web|title=Egrifta (tesamorelin for injection) for Subcutaneous Use. U.S. Full Prescribing Information|url=http://www.egrifta.com/Pdfs/Prescribing_Information.pdf|publisher=EMD Serono, Inc.|accessdate=9 April 2016}}</ref>
+| protein_bound = 
+| metabolism = [[Proteolysis]]
+| elimination_half-life = 26–38 min
+| excretion = Renal/proteolysis
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 901758-09-6
+| ATC_prefix = H01
+| ATC_suffix = AC06
+| PubChem = 16137828
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = MQG94M5EEO
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D09015
+|  ChemSpiderID = 34982925
+
+<!--Chemical data-->
+| C=221 | H=366 | N=72 | O=67 | S=1 
+| molecular_weight = 5135.86 g/mol
+| StdInChI = 1S/C220H364N72O67S/c1-24-28-30-54-162(307)259-144(92-119-55-59-121(298)60-56-119)197(342)254-115(20)178(323)275-149(96-168(315)316)198(343)255-116(21)179(324)290-171(110(15)26-3)213(358)283-146(91-118-44-31-29-32-45-118)205(350)292-173(117(22)297)214(359)284-148(95-161(229)306)204(349)288-154(104-296)209(354)279-145(93-120-57-61-122(299)62-58-120)202(347)267-130(52-41-84-247-219(239)240)186(331)266-126(47-34-36-79-222)196(341)289-170(109(13)14)211(356)282-140(87-105(5)6)182(327)251-100-165(310)257-133(64-71-156(224)301)189(334)277-143(90-108(11)12)201(346)287-151(101-293)207(352)256-114(19)177(322)263-129(51-40-83-246-218(237)238)185(330)265-125(46-33-35-78-221)188(333)276-142(89-107(9)10)200(345)278-141(88-106(7)8)199(344)272-137(67-74-159(227)304)194(339)281-150(97-169(317)318)206(351)291-172(111(16)27-4)212(357)274-139(77-86-360-23)195(340)286-152(102-294)208(353)268-131(53-42-85-248-220(241)242)187(332)270-135(65-72-157(225)302)191(336)269-132(63-70-155(223)300)181(326)250-99-164(309)258-134(68-75-166(311)312)190(335)285-153(103-295)210(355)280-147(94-160(228)305)203(348)273-136(66-73-158(226)303)192(337)271-138(69-76-167(313)314)193(338)264-124(48-37-80-243-215(231)232)180(325)249-98-163(308)252-112(17)175(320)261-127(49-38-81-244-216(233)234)183(328)253-113(18)176(321)262-128(50-39-82-245-217(235)236)184(329)260-123(43-25-2)174(230)319/h28-32,44-45,55-62,105-117,123-154,170-173,293-299H,24-27,33-43,46-54,63-104,221-222H2,1-23H3,(H2,223,300)(H2,224,301)(H2,225,302)(H2,226,303)(H2,227,304)(H2,228,305)(H2,229,306)(H2,230,319)(H,249,325)(H,250,326)(H,251,327)(H,252,308)(H,253,328)(H,254,342)(H,255,343)(H,256,352)(H,257,310)(H,258,309)(H,259,307)(H,260,329)(H,261,320)(H,262,321)(H,263,322)(H,264,338)(H,265,330)(H,266,331)(H,267,347)(H,268,353)(H,269,336)(H,270,332)(H,271,337)(H,272,344)(H,273,348)(H,274,357)(H,275,323)(H,276,333)(H,277,334)(H,278,345)(H,279,354)(H,280,355)(H,281,339)(H,282,356)(H,283,358)(H,284,359)(H,285,335)(H,286,340)(H,287,346)(H,288,349)(H,289,341)(H,290,324)(H,291,351)(H,292,350)(H,311,312)(H,313,314)(H,315,316)(H,317,318)(H4,231,232,243)(H4,233,234,244)(H4,235,236,245)(H4,237,238,246)(H4,239,240,247)(H4,241,242,248)/b30-28+/t110-,111-,112-,113-,114-,115-,116-,117+,123-,124-,125-,126-,127+,128-,129-,130-,131-,132-,133-,134-,135-,136-,137-,138-,139-,140-,141-,142-,143-,144-,145-,146-,147-,148-,149-,150-,151-,152-,153-,154-,170-,171-,172-,173-/m0/s1
+| StdInChIKey = VQFDKKWXORFBDI-VAVVJCQZSA-N
+| smiles = CCC[C@@H](C(=O)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](C)NC(=O)[C@@H](CCCNC(=N)N)NC(=O)[C@H](C)NC(=O)CNC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CCC(=O)O)NC(=O)CNC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CO)NC(=O)[C@H](CCSC)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](C)NC(=O)[C@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCC(=O)N)NC(=O)CNC(=O)[C@H](CC(C)C)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](Cc1ccc(cc1)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](C)NC(=O)[C@H](Cc3ccc(cc3)O)NC(=O)C/C=C/CC
+}}
+
+'''Tesamorelin''' ([[International Nonproprietary Name|INN]]) (trade name '''Egrifta''') is a [[Organic compound#Synthetic compounds|synthetic]] form of [[growth-hormone-releasing hormone]] (GHRH) which is used in the treatment of [[HIV-associated lipodystrophy]]. It is produced and developed by Theratechnologies, Inc. of Canada. The drug is a synthetic [[peptide]] consisting of all 44 [[amino acid]]s of human GHRH with the addition of a ''trans''-3-hexenoic acid group.<ref>{{cite web|title=FDA Application Chemistry Review|url=http://www.accessdata.fda.gov/drugsatfda_docs/nda/2010/022505Orig1s000ChemR.pdf}}</ref>
+
+==See also==
+* [[CJC-1295]]
+* [[Modified GRF (1-29)]]
+* [[Sermorelin]]
+
+==References==
+{{Reflist}}
+
+
+{{GH/IGF-1 axis signaling modulators}}
+
+[[Category:Growth hormone secretagogues]]
+[[Category:Growth hormone-releasing hormone receptor agonists]]
+[[Category:HIV/AIDS]]
+[[Category:Hormonal agents]]
+[[Category:Peptides]]
+[[Category:Recombinant proteins]]
+[[Category:World Anti-Doping Agency prohibited substances]]
+
+
+{{systemic-hormonal-drug-stub}}

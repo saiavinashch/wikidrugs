@@ -1,0 +1,87 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 477235883
+| IUPAC_name = 1-[2-(morpholin-4-yl)ethyl]-2-methyl-3-(4-methoxybenzoyl)-6-iodoindole
+| image = AM-630_structure.png
+| width = 200
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = Schedule II
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| IUPHAR_ligand = 750
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 164178-33-0
+| ATC_prefix =  
+| ATC_suffix =  
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 181633
+| PubChem = 4302963
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3508738
+
+<!--Chemical data-->
+| C=23 | H=25 | I=1 | N=2 | O=3 
+| molecular_weight = 504.360 g/mol
+| smiles = C4COCCN4CCn(c1C)c2cc(I)ccc2c1C(=O)c3ccc(OC)cc3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C23H25IN2O3/c1-16-22(23(27)17-3-6-19(28-2)7-4-17)20-8-5-18(24)15-21(20)26(16)10-9-25-11-13-29-14-12-25/h3-8,15H,9-14H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = JHOTYHDSLIUKCJ-UHFFFAOYSA-N
+}}
+
+'''AM-630''' ('''6-Iodopravadoline''') is a drug that acts as a potent and selective [[inverse agonist]] for the [[cannabinoid receptor]] [[Cannabinoid receptor 2|CB<sub>2</sub>]], with a [[Dissociation constant#Protein-ligand binding|''K''<sub>i</sub>]] of 32.1&nbsp;nM at CB<sub>2</sub> and 165x selectivity over [[Cannabinoid receptor 1|CB<sub>1</sub>]], at which it acted as a weak [[partial agonist]].<ref name="pmid10188977">{{cite journal |author =Ross RA |title=Agonist-inverse agonist characterization at CB1 and CB2 cannabinoid receptors of L759633, L759656, and AM630 |journal=[[British Journal of Pharmacology]] |volume=126 |issue=3 |pages=665–72 |date=February 1999 |pmid=10188977 |pmc=1565857 |doi=10.1038/sj.bjp.0702351 |display-authors=etal}}</ref><ref>{{Cite journal 
+| last1 = Murataeva | first1 = N. 
+| last2 = MacKie | first2 = K. 
+| last3 = Straiker | first3 = A. 
+| doi = 10.1016/j.phrs.2012.08.002 
+| title = The CB2-preferring agonist JWH015 also potently and efficaciously activates CB1 in autaptic hippocampal neurons 
+| journal = Pharmacological Research 
+| volume = 66 
+| issue = 5 
+| pages = 437–42 
+| year = 2012 
+| pmid = 22921769 
+| pmc = 3601544
+}}</ref> It is used in the study of CB<sub>2</sub> mediated responses and has been used to investigate the possible role of CB<sub>2</sub> receptors in the brain.<ref name="pmid19616018">{{cite journal |vauthors=Morgan NH, Stanford IM, Woodhall GL |title=Functional CB2 type cannabinoid receptors at CNS synapses |journal=Neuropharmacology |volume=57 |issue=4 |pages=356–68 |date=September 2009 |pmid=19616018 |doi=10.1016/j.neuropharm.2009.07.017 }}</ref><ref name="pmid19931854">{{cite journal |author =Ishiguro H |title=Brain cannabinoid CB2 receptor in schizophrenia |journal=Biological Psychiatry |volume=67 |issue=10 |pages=974–82 |date=May 2010 |pmid=19931854 |doi=10.1016/j.biopsych.2009.09.024 |display-authors=etal}}</ref> AM-630 is significant as one of the first indole derived cannabinoid ligands substituted on the 6-position of the indole ring, a position that has subsequently been found to be important in determining affinity and efficacy at both the CB<sub>1</sub> and CB<sub>2</sub> receptors, and has led to the development of a large number of related derivatives.<ref>{{Cite journal |author = Eissenstat, M. A.. |doi= 10.1021/jm00016a013 |title= Aminoalkylindoles: Structure-Activity Relationships of Novel Cannabinoid Mimetics |journal= Journal of Medicinal Chemistry |volume= 38 |issue= 16 |pages= 3094–105 |year= 1995 |pmid= 7636873 |display-authors=etal}}
+</ref><ref>[http://proquest.umi.com/pqdlink?did=726066941&Fmt=7&clientId=79356&RQT=309&VName=PQD Hongfeng Deng. Design and synthesis of selective cannabinoid receptor ligands: Aminoalkylindole and other heterocyclic analogs. PhD Dissertation, University of Connecticut, 2000.]</ref><ref name="pmid12161142">{{cite journal |author =Hynes J |title=C-3 Amido-indole cannabinoid receptor modulators |journal=Bioorganic & Medicinal Chemistry Letters |volume=12 |issue=17 |pages=2399–402 |date=September 2002 |pmid=12161142 |doi= 10.1016/S0960-894X(02)00466-3 |display-authors=etal}}</ref><ref>{{Cite journal |last1= Frost |first1= J. M. |doi= 10.1021/jm7011613 |title= Indol-3-yl-tetramethylcyclopropyl Ketones: Effects of Indole Ring Substitution on CB2 Cannabinoid Receptor Activity |journal= Journal of Medicinal Chemistry |volume= 51 |issue= 6 |pages= 1904–12 |year= 2008 |pmid= 18311894 |display-authors=etal}}
+</ref><ref>{{Cite journal |author = Adam, J. M. |title= Design, synthesis, and structure–activity relationships of indole-3-carboxamides as novel water soluble cannabinoid CB1 receptor agonists |doi= 10.1039/c0md00022a |journal= [[MedChemComm]]|publisher= [[Royal Society of Chemistry]]|volume= 1 |pages= 54 |year= 2010 |display-authors=etal}}</ref>
+
+==See also==
+* [[WIN 48,098]] (Pravadoline)
+* [[WIN 54,461]] (6-Bromopravadoline)
+* [[AM-1221]]
+
+==References==
+{{reflist}}
+
+{{Cannabinoids}}
+
+[[Category:Cannabinoids]]
+[[Category:Benzoylindoles]]
+[[Category:AM cannabinoids]]
+[[Category:Morpholines]]
+[[Category:Aminoalkylindoles]]
+[[Category:Iodoarenes]]
+[[Category:Designer drugs]]
+
+
+{{cannabinoid-stub}}

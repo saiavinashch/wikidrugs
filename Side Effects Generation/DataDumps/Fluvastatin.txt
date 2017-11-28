@@ -1,0 +1,91 @@
+{{Drugbox
+| verifiedrevid = 461102905
+| IUPAC_name = (3''R'',5''S'',6''E'')-7-[3-(4-Fluorophenyl)-1-(propan-2-yl)-1''H''-indol-2-yl]-3,5-dihydroxyhept-6-enoic acid
+| image = Fluvastatin.svg
+| width = 250
+
+<!--Clinical data-->
+| tradename = Lescol, others
+| Drugs.com = {{drugs.com|monograph|lescol}}
+| MedlinePlus = a694010
+| pregnancy_AU = D
+| pregnancy_US = X
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status = Rx-only
+| routes_of_administration = [[Oral administration|By mouth]] ([[Capsule (pharmacy)|capsules]], [[Tablet (pharmacy)|tablets]])
+
+<!--Pharmacokinetic data-->
+| bioavailability = 24–30%<ref name="AC" /><ref name=PK>{{cite journal|last=Neuvonen|first=PJ|author2=Backman, JT|author3=Niemi, M|title=Pharmacokinetic comparison of the potential over-the-counter statins simvastatin, lovastatin, fluvastatin and pravastatin.|journal=Clinical Pharmacokinetics|date=2008|volume=47|issue=7|pages=463–74|doi=10.2165/00003088-200847070-00003|pmid=18563955}}</ref>
+| protein_bound = >98%<ref name=PK/>
+| metabolism = [[Liver|Hepatic]]: [[CYP2C9]] (75%), [[CYP3A4]] (20%), [[CYP2C8]] (5%)<ref name=PK/><ref name = MSR>{{cite web|title=Lescol, Lescol XR (fluvastatin) dosing, indications, interactions, adverse effects, and more|work=Medscape Reference|publisher=WebMD|accessdate=18 March 2014|url=http://reference.medscape.com/drug/lescol-xl-fluvastatin-342456#showall}}</ref>
+| elimination_half-life = 1–3 hours (capsule), 9 hours (XR formulations)<ref name=PK/><ref name = MSR/>
+| excretion = Faeces (95%), urine (5%)<ref name=PK/>
+
+<!--Identifiers-->
+| IUPHAR_ligand = 2951
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 93957-54-1
+| ATC_prefix = C10
+| ATC_suffix = AA04
+| ATC_supplemental =  
+| PubChem = 446155
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01095
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 393587
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 4L066368AS
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07983
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 38565
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1078
+
+<!--Chemical data-->
+| C=24 | H=26 | F=1 | N=1 | O=4
+| molecular_weight = 411.466 g/mol
+| smiles = O=C(O)C[C@H](O)C[C@H](O)/C=C/c2c(c1ccccc1n2C(C)C)c3ccc(F)cc3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C24H26FNO4/c1-15(2)26-21-6-4-3-5-20(21)24(16-7-9-17(25)10-8-16)22(26)12-11-18(27)13-19(28)14-23(29)30/h3-12,15,18-19,27-28H,13-14H2,1-2H3,(H,29,30)/b12-11+/t18-,19-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = FJLGEFLZQAZZCD-MCBHFWOFSA-N
+}}
+
+'''Fluvastatin''' ([[International nonproprietary name|INN]],<ref name="INN">{{cite web | title = International Nonproprietary Names for Pharmaceutical Substances (INN). Recommended International Nonproprietary Names (Rec. INN): List 30 | url = http://www.who.int/medicines/publications/druginformation/innlists/RL30.pdf | publisher = World Health Organization | accessdate = 29 November 2016 | date = 1990}}</ref> trade names '''Lescol''', '''Canef''', '''Vastin''') is a member of the [[statin]] [[medication|drug]] class, used to treat [[hypercholesterolemia]] and to prevent [[cardiovascular disease]].
+
+==Adverse effects==
+Adverse effects are comparable to other statins. Common are [[nausea]], [[indigestion]], [[insomnia]] and headache. [[Myalgia]] (muscle pain), and rarely [[rhabdomyolysis]], characteristic side effects for statins, can also occur.<ref name="Dinnendahl">{{cite journal|title=Arzneistoff-Profile|veditors=Dinnendahl, V, Fricke, U|publisher=Govi Pharmazeutischer Verlag|location=Eschborn, Germany|date=2012|edition=26|volume=2|isbn=978-3-7741-9846-3|language=German}}</ref>
+
+==Interactions==
+Contrary to [[lovastatin]], [[simvastatin]] and [[atorvastatin]], fluvastatin has no relevant interactions with drugs that inhibit the liver enzyme [[CYP3A4]], and a generally lower potential for interactions than most other statins. [[Fluconazole]], a potent inhibitor of [[CYP2C9]], does increase fluvastatin levels.<ref name="Dinnendahl" />
+
+==Pharmacology==
+
+===Mechanism of action===
+{{main|Statin}}
+Fluvastatin works by blocking the liver enzyme [[HMG-CoA reductase]], which facilitates an important step in [[cholesterol]] synthesis.<ref name="AC">{{cite book|title=Austria-Codex|editor=Haberfeld, H|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2015|language=German}}</ref>
+
+===Pharmacokinetics===
+The drug is quickly and almost completely (98%) absorbed from the gut. Food intake slows down absorption, but does not decrease it. Due to its [[First pass effect|first-pass effect]], [[bioavailability]] is lower: about 24–30%<ref name="AC" /><ref name=PK /> according to different sources. Over 98% of the substance is [[Plasma protein binding|bound to plasma proteins]].<ref name="AC" />
+
+Several [[cytochrome P450]] enzymes (mainly CYP2C9, but also CYP3A4 and [[CYP2C8]])<ref>Lescol {{drugs.com|monograph|lescol}} on [[Drugs.com]].</ref> are involved in the metabolism of fluvastatin, which makes is less liable to interactions than most other statins. The main metabolite is inactive and is called "''N''-desisopropyl propionic acid" in the literature.<ref name="AC" /><ref name="Dinnendahl" />
+
+93–95% of the drug are excreted via the feces, less than 2% of which in form of the original substance.<ref name="AC" />
+
+==Research==
+Fluvastatin has also been shown to exhibit [[Antiviral drug|antiviral]] activity against [[hepatitis C virus]] in a study with 31 patients. This effect has been described as modest, variable, and often short-lived, by the authors.<ref>{{cite journal |vauthors=Bader T, Fazili J, Madhoun M |title=Fluvastatin Inhibits Hepatitis C Replication in Humans |journal=Am. J. Gastroenterol. |volume= 103|issue= 6|pages= 1383–9|date=April 2008 |pmid=18410471 |doi=10.1111/j.1572-0241.2008.01876.x|display-authors=etal}}</ref>
+
+==References==
+{{reflist|35em}}
+
+{{Statins}}
+
+[[Category:Carboxylic acids]]
+[[Category:Diols]]
+[[Category:Indoles]]
+[[Category:Fluoroarenes]]
+[[Category:Statins]]

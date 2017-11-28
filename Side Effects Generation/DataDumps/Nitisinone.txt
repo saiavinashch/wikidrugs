@@ -1,0 +1,96 @@
+{{Drugbox
+| verifiedrevid = 462261617
+| IUPAC_name = 2-[2-nitro-4-(trifluoromethyl)benzoyl]<br>cyclohexane-1,3-dione
+| image = Nitisinone.svg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CDI|nitisinone}}
+| licence_EU = Orfadin
+| licence_US = Nitisinone
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = Rx-only
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| elimination_half-life = Approximately 54 h
+<!--Identifiers-->
+| IUPHAR_ligand = 6834
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 104206-65-7
+| ATC_prefix = A16
+| ATC_suffix = AX04
+| PubChem = 115355
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00348
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 103195
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = K5BN214699
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05177
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 50378
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1337
+<!--Chemical data-->
+| C=14 | H=10 | F=3 | N=1 | O=5
+| molecular_weight = 329.228 g/mol
+| smiles = O=C(c1ccc(cc1[N+]([O-])=O)C(F)(F)F)C2C(=O)CCCC2=O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C14H10F3NO5/c15-14(16,17)7-4-5-8(9(6-7)18(22)23)13(21)12-10(19)2-1-3-11(12)20/h4-6,12H,1-3H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OUBCNLGXQFSTLU-UHFFFAOYSA-N
+}}
+'''Nitisinone''' ([[international nonproprietary name|INN]]), also known as '''NTBC''' (an abbreviation of its full [[chemical nomenclature|chemical name]]) is a [[pharmaceutical drug|medication]] used to slow the effects of [[Tyrosinemia#Types|hereditary tyrosinemia type 1]].  Since its first use for this indication in 1991, it has replaced [[liver transplantation]] as the [[therapy#Lines of therapy|first-line treatment]] for this rare condition.  It is also being studied in the related condition [[alkaptonuria]]. It is marketed under the brand name '''Orfadin''' by the company [[Swedish Orphan Biovitrum]] (Sobi); it was first brought to market by Swedish Orphan International. It was originally developed as a candidate [[herbicide]].
+
+==Uses==
+Nitisinone is used to treat [[Tyrosinemia#Types|hereditary tyrosinemia type 1]], in combination with restriction of tyrosine in the diet.<ref name=NORD/><ref>{{cite web|url=http://www.mayoclinic.com/health/drug-information/DR601005 |title=Nitisinone (Oral Route) Description and Brand Names |publisher=Mayoclinic.com |date=2015-04-01 |accessdate=2015-06-04}}</ref><ref>Sobi [http://www.sobi.com/en/Healthcare-Professionals/Products-alphabetical-list/Orfadin-nitisinone/ Orfadin® (nitisinone)]</ref>
+
+Since its first use for this indication in 1991, it has replaced [[liver transplantation]] as the first-line treatment for this rare condition.<ref name="pmid16706549">{{cite journal |doi=10.2165/00003495-200666060-00002|pmid=16706549|title=Nitisinone in the Treatment of Hereditary Tyrosinaemia Type 1|journal=Drugs|volume=66|issue=6|pages=743–50|year=2006|last1=McKiernan|first1=Patrick J}}</ref> I It is marketed under the brand name '''Orfadin'''.
+
+It has been demonstrated that treatment with nitisinone can reduce urinary levels of homogentisic acid in alkaptonuria patients by 95%.<ref name=pmid21620748>{{cite journal |doi=10.1016/j.ymgme.2011.04.016|pmid=21620748|title=A 3-year randomized therapeutic trial of nitisinone in alkaptonuria|journal=Molecular Genetics and Metabolism|volume=103|issue=4|pages=307–14|year=2011|last1=Introne|first1=Wendy J.|last2=Perry|first2=Monique B.|last3=Troendle|first3=James|last4=Tsilou|first4=Ekaterini|last5=Kayser|first5=Michael A.|last6=Suwannarat|first6=Pim|last7=O'Brien|first7=Kevin E.|last8=Bryant|first8=Joy|last9=Sachdev|first9=Vandana|last10=Reynolds|first10=James C.|last11=Moylan|first11=Elizabeth|last12=Bernardini|first12=Isa|last13=Gahl|first13=William A.|pmc=3148330}}</ref> A series of clinical trials run by DevelopAKUre to determine whether nitisinone is effective at treating the [[ochronosis]] suffered by patients with alkaptonuria are ongoing.<ref name="ReferenceA">{{cite web|url=http://www.developakure.eu/what-is-developakure/ |title=About DevelopAKUre &#124; DevelopAKUre |publisher=Developakure.eu |date=2014-06-20 |accessdate=2015-06-04}}</ref> If the trials are successful, DevelopAKUre will try to get nitisinone licensed for use by alkaptonuria patients.<ref name="akusociety.org">{{cite web|url=http://www.akusociety.org/a-potential-drug-nitisinone |title=A Potential Drug – Nitisinone |publisher=Akusociety.org |date= |accessdate=2015-06-04}}</ref>
+
+==Mechanism of action==
+The [[mechanism of action]] of nitisinone involves reversibile [[enzyme inhibitor|inhibition]] of [[4-Hydroxyphenylpyruvate dioxygenase]] (HPPD),.<ref name="pmid9728330">{{cite journal |doi=10.1023/A:1005458703363|pmid=9728330|year=1998|last1=Lock|first1=E. A.|title=From toxicological problem to therapeutic use: The discovery of the mode of action of 2-(2-nitro-4-trifluoromethylbenzoyl)-1,3-cyclohexanedione (NTBC), its toxicology and development as a drug|journal=Journal of Inherited Metabolic Disease|volume=21|issue=5|pages=498–506|last2=Ellis|first2=M. K.|last3=Gaskin|first3=P.|last4=Robinson|first4=M.|last5=Auton|first5=T. R.|last6=Provan|first6=W. M.|last7=Smith|first7=L. L.|last8=Prisbylla|first8=M. P.|last9=Mutter|first9=L. C.|last10=Lee|first10=D. L.}}</ref><ref name="pmid12939152">{{cite journal |doi=10.1021/bi034658b|pmid=12939152|title=Interaction of (4-Hydroxyphenyl)pyruvate Dioxygenase with the Specific Inhibitor 2-[2-Nitro-4-(trifluoromethyl)benzoyl]-1,3-cyclohexanedione†|journal=Biochemistry|volume=42|issue=34|pages=10238–45|year=2003|last1=Kavana|first1=Michael|last2=Moran|first2=Graham R.}}</ref> This is a treatment for patients with Tyrosinemia type 1 as it prevents the formation of [[maleylacetoacetic acid]] and [[fumarylacetoacetic acid]], which have the potential to be converted to [[succinyl acetone]], a toxin that damages the liver and kidneys.<ref name="pmid16706549"/> This causes the symptoms of Tyrosinemia type 1 experienced by untreated patients.<ref>{{cite web|url=http://www.newbornscreening.info/Parents/aminoaciddisorders/Tyrosinemia.html |title=Newborn Screening |publisher=Newbornscreening.info |date=2013-05-14 |accessdate=2015-06-04}}</ref>
+
+[[Alkaptonuria]] is caused when an enzyme called homogentisic dioxygenase (HGD) is faulty, leading to a buildup of homogenisate.<ref>{{cite web|url=http://www.akusociety.org/what-is-alkaptonuria |title=What is Alkaptonuria? |publisher=Akusociety.org |date= |accessdate=2015-06-04}}</ref> [[Alkaptonuria]] patients treated with nitisinone produce far less HGA than those not treated (95% less in the urine),<ref name=pmid21620748/>  because nitisinone inhibits HPPD, resulting in less homogenisate accumulation. Clinical trials are ongoing to test whether nitisinone can prevent [[ochronosis]] experienced by older [[alkaptonuria]] patients.<ref name="ReferenceA"/>
+
+==Adverse effects==
+Nitisinone has several negative side effects; these include but are not limited to: bloated abdomen, dark urine, abdominal pain, feeling of tiredness or weakness, headache, light-colored stools, loss of appetite, weight loss, vomiting, and yellow-colored eyes or skin.<ref>{{cite web|url=http://www.mayoclinic.com/health/drug-information/DR601005/DSECTION=side-effects |title=Nitisinone (Oral Route) Side Effects |publisher=Mayoclinic.com |date=2015-04-01 |accessdate=2015-06-04}}</ref>
+
+==Research==
+Nitisinone is being studied as a treatment for [[alkaptonuria]].<ref name=Phornphutkul>{{cite journal |doi=10.1056/NEJMoa021736|pmid=12501223|title=Natural History of Alkaptonuria|journal=New England Journal of Medicine|volume=347|issue=26|pages=2111–21|year=2002|last1=Phornphutkul|first1=Chanika|last2=Introne|first2=Wendy J.|last3=Perry|first3=Monique B.|last4=Bernardini|first4=Isa|last5=Murphey|first5=Mark D.|last6=Fitzpatrick|first6=Diana L.|last7=Anderson|first7=Paul D.|last8=Huizing|first8=Marjan|last9=Anikster|first9=Yair|last10=Gerber|first10=Lynn H.|last11=Gahl|first11=William A.}}</ref>
+
+Research at the National Institutes of Health (NIH) has demonstrated that nitisinone can reduce urinary levels of HGA by up to 95% in patients with [[alkaptonuria]]. The primary parameter of the NIH trial was range of hip motion, for which the results were inconclusive.{{citation needed|date=February 2015}}
+
+Research done using alkaptonuric mice has shown that mice treated with nitisinone experience no [[ochronosis]] in knee joint cartilage. In contrast, all of the mice in the untreated control group developed [[ochronotic]] knee joints.<ref>{{cite journal |doi=10.1136/annrheumdis-2012-202878|pmid=23511227|title=Ochronotic osteoarthropathy in a mouse model of alkaptonuria, and its inhibition by nitisinone|journal=Annals of the Rheumatic Diseases|volume=73|issue=1|pages=284–9|year=2013|last1=Preston|first1=A. J.|last2=Keenan|first2=C. M.|last3=Sutherland|first3=H.|last4=Wilson|first4=P. J.|last5=Wlodarski|first5=B.|last6=Taylor|first6=A. M.|last7=Williams|first7=D. P.|last8=Ranganath|first8=L. R.|last9=Gallagher|first9=J. A.|last10=Jarvis|first10=J. C.}}</ref>
+
+The efficacy of Nitisinone is now being studied in a series international clinical trials called DevelopAKUre.<ref name="developakure.eu">{{cite web|url=http://www.developakure.eu/ |title=DevelopAKUre |publisher=Developakure.eu |date=2014-06-20 |accessdate=2015-06-04}}</ref> The studies will recruit [[alkaptonuria]] patients in Europe.<ref>{{cite web|url=https://www.clinicaltrialsregister.eu/ctr-search/trial/2012-005340-24/GB |title=2012-005340-24 |publisher=Clinicaltrialsregister.eu |accessdate=2015-06-04}}</ref> A larger number of patients will be recruited in these trials than in the previous NIH trial.<ref>{{cite web|url=http://www.developakure.eu/theprogramme/ |title=The Programme &#124; DevelopAKUre |publisher=Developakure.eu |date=2014-06-20 |accessdate=2015-06-04}}</ref> The trials are funded by the European Commission.<ref>{{cite web|url=http://cordis.europa.eu/search/index.cfm?fuseaction=proj.document&PJ_RCN=13426747 |title=European Commission : CORDIS : Search : Simple |publisher=Cordis.europa.eu |date=2012-05-30 |accessdate=2015-06-04}}</ref>
+
+Nitisinone has been shown to increase skin and eye pigmentation in mice, and has been suggested as a possible treatment for oculocutaneous [[albinism]].<ref>{{cite journal |doi=10.1172/JCI59372 |pmid=21968110 |laysummary=http://www.sciencedaily.com/releases/2011/09/110926131748.htm |laysource=ScienceDaily |laydate=September 26, 2011|title=Nitisinone improves eye and skin pigmentation defects in a mouse model of oculocutaneous albinism |journal=Journal of Clinical Investigation |volume=121 |issue=10 |pages=3914–23 |year=2011 |last1=Onojafe |first1=Ighovie F. |last2=Adams |first2=David R. |last3=Simeonov |first3=Dimitre R. |last4=Zhang |first4=Jun |last5=Chan |first5=Chi-Chao |last6=Bernardini |first6=Isa M. |last7=Sergeev |first7=Yuri V. |last8=Dolinska |first8=Monika B. |last9=Alur |first9=Ramakrishna P. |last10=Brilliant |first10=Murray H. |last11=Gahl |first11=William A. |last12=Brooks |first12=Brian P. |pmc=3223618}}</ref><ref>{{cite web|url=http://clinicaltrials.gov/ct2/show/NCT01838655?term=Nitisinone&rank=6 |title=Nitisinone for Type 1B Oculocutaneous Albinism - Full Text View |publisher=ClinicalTrials.gov |date= |accessdate=2015-06-04}}</ref>
+
+==History==
+Nitisinone was discovered as part of a program to develop a class of [[herbicides]] called [[P-hydroxyphenylpyruvate dioxygenase inhibitor|HPPD inhibitors]]. It is a member of the benzoylcyclohexane-1,3-dione family of herbicides, which are chemically derived from a natural phytotoxin obtained from the Australian bottlebrush plant, [[Callistemon citrinus]].<ref>G. Mitchell, D.W. Bartlett, T.E. Fraser, T.R. Hawkes, D.C. Holt, J.K. Townson, R.A. Wichert Mesotrione: a new selective herbicide for use in maize Pest Management Science, 57 (2) (2001), pp. 120–128</ref> [[4-Hydroxyphenylpyruvate dioxygenase|HPPD]] is essential in plants and animals for [[catabolism]], or breaking apart, of [[tyrosine]].<ref name=Moran>{{cite journal |doi=10.1016/j.abb.2004.08.015|pmid=15581571|title=4-Hydroxyphenylpyruvate dioxygenase|journal=Archives of Biochemistry and Biophysics|volume=433|issue=1|pages=117–28|year=2005|last1=Moran|first1=Graham R.}}</ref>  In plants, preventing this process leads to destruction of [[chlorophyll]] and the death of the plant.<ref name=Moran/>  In [[toxicology]] studies of the herbicide, it was discovered that it had activity against HPPD in rats<ref>{{cite journal |doi=10.1006/taap.1995.1121|pmid=7597701|title=Inhibition of 4-Hydroxyphenylpyruvate Dioxygenase by 2-(2-Nitro-4-trifluoromethylbenzoyl)-cyclohexane-1,3-dione and 2-(2-Chloro-4-methanesulfonylbenzoyl)-cyclohexane-1,3-dione|journal=Toxicology and Applied Pharmacology|volume=133|issue=1|pages=12–9|year=1995|last1=Ellis|first1=M.K.|last2=Whitfield|first2=A.C.|last3=Gowans|first3=L.A.|last4=Auton|first4=T.R.|last5=Provan|first5=W.M.|last6=Lock|first6=E.A.|last7=Smith|first7=L.L.}}</ref> and humans.<ref>{{cite book|doi=10.1016/S0076-6879(87)42021-1|pmid=3037254|chapter=4-Hydroxyphenylpyruvate dioxygenase from human liver|title=Metabolism of Aromatic Amino Acids and Amines|volume=142|pages=139–42|series=Methods in Enzymology|year=1987|last1=Lindstedt|first1=Sven|last2=Odelhög|first2=Birgit|isbn=978-0-12-182042-8|editor1-first=Seymour |editor1-last=Kaufman}}</ref>
+
+In [[Type I tyrosinemia]], a different enzyme involved in the breakdown of tyrosine, [[fumarylacetoacetate hydrolase]] is mutated and doesn't work, leading to very harmful products building up in the body.<ref name=NORD>National Organization for Rare Disorders. [https://www.rarediseases.org/docs/Tyrosinemia2_3_11.pdf Physician’s Guide to Tyrosinemia Type 1]</ref> Fumarylacetoacetate hydrolase acts on tyrosine after HPPD does, so scientists working on making [[herbicides]] in the class of [[P-hydroxyphenylpyruvate dioxygenase inhibitor|HPPD inhibitors]] hypothesized that inhibiting HPPD and controlling tyrosine in the diet could treat this disease.  A series of small clinical trials attempted with one of their compounds, nitisinone, were conducted and were successful, leading to nitisinone being brought to market as an [[orphan drug]]  Swedish Orphan International,<ref name="pmid9728330"/> which was later acquired by [[Swedish Orphan Biovitrum]] (Sobi).
+
+Sobi is now a part of the DevelopAKUre consortium. They are responsible for drug supply and regulatory support in the ongoing clinical trials that will test the efficiacy of nitisinone as a treatment for alkaptonuria.<ref>{{cite web|url=http://www.developakure.eu/others/ |title=Others &#124; DevelopAKUre |publisher=Developakure.eu |date=2014-06-20 |accessdate=2015-06-04}}</ref> It is hoped that if the trials are successful, nitisinone could also be licensed for treatment of [[alkaptonuria]].<ref name="akusociety.org"/>
+
+==Generic versions==
+There is no generic version of Orfadin in G7 countries. Prior to the market authorization of MDK-Nitisinone in Canada, the only Nitisinone product available globally was Orfadin.<ref>Pr MDK-Nitisinone  Summary Basis of Decisions, Health Canada 2016. http://www.hc-sc.gc.ca/dhp-mps/prodpharma/sbd-smd/drug-med/sbd-smd-2016-mdk-nitisinone-190564-eng.php</ref> Until recently, Nitisinone was not approved in Canada where it was distributed for over 20 years via a Health Canada Special Access Program. In September 2016, MendeliKABS was granted approval of a Priority New Drug Submission (PNDS) by Health Canada for a bioequivalent generic version of Orfadin capsules (MDK-Nitisinone). In November 2016 Cycle Pharma was also granted approval of a PNDS by Health Canada for Nitisinone tablets that are bioequivalent to Orfadin capsules.<ref>Pr Nitisinone Tablets Regulatory Decision Summary Health Canada, 2016. http://www.hc-sc.gc.ca/dhp-mps/prodpharma/rds-sdr/drug-med/rds-sdr-nitisinone-tab-193770-eng.php</ref> SOBI was granted approval of a PNDS in December 2016.<ref>PrOrfadin Regulatory Decision Summary Health Canada, 2016. http://www.hc-sc.gc.ca/dhp-mps/prodpharma/rds-sdr/drug-med/rds-sdr-orfadin-193226-eng.php</ref>
+
+==References==
+{{Reflist|colwidth=30em}}
+
+== External links ==
+* [http://www.developakure.eu/ DevelopAKUre]
+
+{{Other alimentary tract and metabolism products}}
+
+[[Category:Herbicides]]
+[[Category:Nitrobenzenes]]
+[[Category:Orphan drugs]]
+[[Category:Aromatic ketones]]
+[[Category:Trifluoromethyl compounds]]

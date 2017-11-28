@@ -1,0 +1,87 @@
+{{Drugbox
+| Verifiedfields = 
+| Watchedfields = 
+| verifiedrevid = 
+| IUPAC_name = (5''S'')-5-<nowiki>[[</nowiki>4-(1,3-benzodioxol-5-yl)-4-hydroxypiperidin-1-yl]methyl]-3-(4-methoxyphenyl)-1,3-oxazolidin-2-one
+| image = 
+| width =
+
+<!--Clinical data-->
+| tradename = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = 
+| legal_UK = 
+| legal_US = 
+| legal_status = 
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| metabolites = [[EMD-59983]]
+| elimination_half-life = 
+| excretion =
+
+<!-- Identifiers -->
+| CAS_number_Ref = 
+| CAS_number = 139225-22-2
+| CAS_supplemental = 
+| class = 
+| ATC_prefix = 
+| ATC_suffix = 
+| ATC_supplemental = 
+| PubChem = 3047810
+| IUPHAR_ligand = 
+| DrugBank_Ref = 
+| DrugBank = 
+| ChemSpiderID_Ref = 
+| ChemSpiderID = 
+| UNII = 023D9E916L
+| KEGG = 
+| ChEBI = 
+| ChEMBL = 45686
+| synonyms = EMD-57455
+
+<!--Chemical data-->
+| C=23 | H=26 | N=2 | O=6
+| molecular_weight = 426.469 g/mol
+| SMILES = COC1=CC=C(C=C1)N2C[C@@H](OC2=O)CN3CCC(CC3)(C4=CC5=C(C=C4)OCO5)O
+| StdInChI_Ref = 
+| StdInChI = 1S/C23H26N2O6/c1-28-18-5-3-17(4-6-18)25-14-19(31-22(25)26)13-24-10-8-23(27,9-11-24)16-2-7-20-21(12-16)30-15-29-20/h2-7,12,19,27H,8-11,13-15H2,1H3/t19-/m0/s1
+| StdInChIKey_Ref = 
+| StdInChIKey = NINYZUDVKTUKIA-IBGZPJMESA-N
+}}
+
+'''Panamesine''' ({{abbrlink|INN|International Nonproprietary Name}}) (developmental code name '''EMD-57455''') is a [[sigma receptor]] [[receptor antagonist|antagonist]] that was under development by [[Merck Group|Merck]] as a potential [[antipsychotic]] for the treatment of [[schizophrenia]] in the 1990s but was never marketed.<ref name="AdisInsight">http://adisinsight.springer.com/drugs/800001428</ref> It is a [[binding selectivity|selective]] antagonist of both sigma receptor subtypes, the [[sigma-1 receptor|σ<sub>1</sub>]] and [[sigma-2 receptor|σ<sub>2</sub>]] receptors ([[IC50|IC<sub>50</sub>]] = 6&nbsp;nM).<ref name="pmid15197533">{{cite journal | vauthors = Guitart X, Codony X, Monroy X | title = Sigma receptors: biology and therapeutic potential | journal = Psychopharmacology | volume = 174 | issue = 3 | pages = 301–19 | year = 2004 | pmid = 15197533 | doi = 10.1007/s00213-004-1920-9 | url = }}</ref>{{Additional citation needed|date=August 2017}} In addition, the major [[metabolite]] of the drug, [[EMD-59983]], has high [[affinity (pharmacology)|affinity]] for the sigma receptors (IC<sub>50</sub> = 24&nbsp;nM) and the [[dopamine]] [[D2 receptor|D<sub>2</sub>]] (IC<sub>50</sub> = 23&nbsp;nM) and [[D3 receptor|D<sub>3</sub> receptor]]s, with [[potency (pharmacology)|potent]] [[antidopaminergic]] activity.<ref name="pmid9272763">{{cite journal | vauthors = Frieboes RM, Murck H, Wiedemann K, Holsboer F, Steiger A | title = Open clinical trial on the sigma ligand panamesine in patients with schizophrenia | journal = Psychopharmacology | volume = 132 | issue = 1 | pages = 82–8 | year = 1997 | pmid = 9272763 | doi = | url = }}</ref><ref name="pmid10333165">{{cite journal | vauthors = Huber MT, Gotthardt U, Schreiber W, Krieg JC | title = Efficacy and safety of the sigma receptor ligand EMD 57445 (panamesine) in patients with schizophrenia: an open clinical trial | journal = Pharmacopsychiatry | volume = 32 | issue = 2 | pages = 68–72 | year = 1999 | pmid = 10333165 | doi = 10.1055/s-2007-979194 | url = }}</ref><ref name="pmid10485968">{{cite journal | vauthors = Gründer G, Müller MJ, Andreas J, Heydari N, Wetzel H, Schlösser R, Schlegel S, Nickel O, Eissner D, Benkert O | title = Occupancy of striatal D(2)-like dopamine receptors after treatment with the sigma ligand EMD 57445, a putative atypical antipsychotic | journal = Psychopharmacology | volume = 146 | issue = 1 | pages = 81–6 | year = 1999 | pmid = 10485968 | doi = | url = }}</ref> Panamesine reached [[Phases of clinical research#Phase II|phase II]] [[clinical trial]]s for schizophrenia prior to the discontinuation of its development.<ref name="AdisInsight" />
+
+==See also==
+* [[BMY-14802]]
+* [[Eliprodil]]
+* [[Rimcazole]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://adisinsight.springer.com/drugs/800001428 Panamesine - AdisInsight]
+
+{{Dopamine receptor modulators}}
+{{Sigma receptor modulators}}
+
+[[Category:Abandoned drugs]]
+[[Category:Alcohols]]
+[[Category:Antipsychotics]]
+[[Category:Benzodioxoles]]
+[[Category:D2 antagonists]]
+[[Category:D3 antagonists]]
+[[Category:Ketones]]
+[[Category:Oxazolidines]]
+[[Category:Piperidines]]
+[[Category:Sigma antagonists]]
+
+
+{{nervous-system-drug-stub}}

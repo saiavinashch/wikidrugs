@@ -1,0 +1,73 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 470611857
+| IUPAC_name = ''N''-[(isopropylamino)carbonyl]-4-[(3-methylphenyl)amino]pyridine-3-sulfonamide
+| image = Torasemide.svg
+| image2 = Torasemide_bas.png
+| USAN = Torsemide
+
+<!--Clinical data-->
+| tradename =  Demadex, Tortas
+| Drugs.com = {{drugs.com|international|torasemide}}
+| MedlinePlus = a601212
+| pregnancy_US = C
+| legal_US = Rx-only
+| routes_of_administration = Oral, [[Intraveneous|IV]]
+<!--Pharmacokinetic data-->
+| bioavailability = 80-90%
+| protein_bound = Highly bound (>99%).
+| metabolism = Hepatic (80%)
+| elimination_half-life = 3.5 hours; [[Cirrhosis]]: 7-8 hours
+<!--Identifiers-->
+| IUPHAR_ligand = 7312
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 56211-40-6
+| ATC_prefix = C03
+| ATC_suffix = CA04
+| ATC_supplemental =  
+| PubChem = 41781
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00214
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 38123
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = W31X2H97FB
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 9637
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00382
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1148
+<!--Chemical data-->
+| C=16 | H=20 | N=4 | O=3 | S=1
+| molecular_weight = 348.421 g/mol
+| smiles = CC(C)NC(=O)NS(=O)(=O)c1cnccc1Nc2cc(C)ccc2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H20N4O3S/c1-11(2)18-16(21)20-24(22,23)15-10-17-8-7-14(15)19-13-6-4-5-12(3)9-13/h4-11H,1-3H3,(H,17,19)(H2,18,20,21)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = NGBFQHCMQULJNZ-UHFFFAOYSA-N
+}}
+
+'''Torasemide''' or '''torsemide''' is a [[pyridine]]-[[sulfonyl]] [[urea]] type [[loop diuretic]] mainly used in the management of [[edema]] associated with [[congestive heart failure]]. It is also used at low doses for the management of [[hypertension]]. It is marketed under the brand names Demadex, Diuver, and Examide.
+
+Compared with other loop diuretics, torasemide has a more prolonged [[diuretic]] effect than equipotent doses of [[furosemide]] and relatively decreased [[potassium]] loss. No evidence of torasemide-induced [[ototoxicity]] has been demonstrated in humans.<ref>{{cite journal |vauthors =Dunn CJ, Fitton A, Brogden RN |title=Torasemide. An update of its pharmacological properties and therapeutic efficacy |journal=Drugs |volume=49 |issue=1 |pages=121–42 |date=January 1995 |pmid=7705212 |doi= 10.2165/00003495-199549010-00009|url=}}</ref>
+
+Recent publications suggest improved outcomes when used for heart failure compared with furosemide.<ref>{{cite journal|pmid=24243991 | doi=10.1177/1074248413497257 | volume=19 | issue=1 | title=Diuretics: a review and update | year=2014 | journal=J. Cardiovasc. Pharmacol. Ther. | pages=5–13 | vauthors=Roush GC, Kaur R, Ernst ME}}</ref><ref>{{cite journal|pmid=25728721 | doi=10.1016/j.ahj.2014.12.009 | volume=169 | issue=3 | title=A reappraisal of loop diuretic choice in heart failure patients | pmc=4346710 | year=2015 | journal=Am. Heart J. | pages=323–33 | vauthors=Buggey J, Mentz RJ, Pitt B, Eisenstein EL, Anstrom KJ, Velazquez EJ, O'Connor CM}}</ref><ref>{{cite journal|pmid=26704029 | pmc=4718787 | doi=10.1016/j.amjcard.2015.10.059 | volume=117 | issue=3 | title=Torsemide Versus Furosemide in Patients With Acute Heart Failure (from the ASCEND-HF Trial) | year=2016 | journal=Am. J. Cardiol. | pages=404–11 | vauthors=Mentz RJ, Hasselblad V, DeVore AD, Metra M, Voors AA, Armstrong PW, Ezekowitz JA, Tang WH, Schulte PJ, Anstrom KJ, Hernandez AF, Velazquez EJ, O'Connor CM}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.nlm.nih.gov/medlineplus/druginfo/meds/a601212.html Medlineplus drug information: Torsemide (Systemic)] – information from USP DI Advice for the Patient
+
+{{Diuretics}}
+
+[[Category:Loop diuretics]]
+[[Category:Sulfonylureas]]
+[[Category:Pyridines]]
+[[Category:Aromatic amines]]
+[[Category:Anilines]]
+[[Category:Carbonic anhydrase inhibitors]]
+
+
+{{cardiovascular-drug-stub}}

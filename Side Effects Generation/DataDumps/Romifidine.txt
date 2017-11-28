@@ -1,0 +1,71 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 448113917
+| IUPAC_name = N-(2-bromo-6-fluorophenyl)-4,5-dihydro-1H-imidazol-2-amine
+| image = Romifidine.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|romifidine}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = Veterinary use only
+| routes_of_administration = IV
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 65896-16-4
+| ATCvet = yes
+| ATC_prefix = N05
+| ATC_suffix = CM93
+| PubChem = 71969
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 876351L05K
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 64975
+
+<!--Chemical data-->
+| C=9 | H=9 | Br=1 | F=1 | N=3 
+| molecular_weight = 258.09
+| smiles = C1CN=C(N1)NC2=C(C=CC=C2Br)F
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C9H9BrFN3/c10-6-2-1-3-7(11)8(6)14-9-12-4-5-13-9/h1-3H,4-5H2,(H2,12,13,14)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = KDPNLRQZHDJRFU-UHFFFAOYSA-N
+}}
+
+'''Romifidine''' is a [[medication|drug]] that is used in [[veterinary medicine]] as a sedative mainly in large animals such as horses,<ref>Spadavecchia C, Arendt-Nielsen L, Andersen OK, Spadavecchia L, Schatzmann U. Effect of romifidine on the nociceptive withdrawal reflex and temporal summation in conscious horses. ''American Journal of Veterinary Research''. 2005 Nov;66(11):1992-8. {{PMID|16334961}}</ref> although it may be used in a wide variety of species.<ref>De Lucas JJ, Rodríguez C, Marín M, González F, Ballesteros C, San Andrés MI. Pharmacokinetics of intramuscular ketamine in young ostriches premedicated with romifidine. ''Journal of Veterinary Medicine A. Physiology, Pathology, Clinical Medicine''. 2007 Feb;54(1):48-50. {{PMID|17359455}}</ref><ref>Belda E, Laredo FG, Escobar M, Soler M, Lucas X, Agut A. Sedative and cardiorespiratory effects of three doses of romifidine in comparison with medetomidine in five cats. ''Veterinary Record''. 2008 Jan 19;162(3):82-7. {{PMID|18204032}}</ref> It is not used in humans, but is closely related in structure to the commonly used drug [[clonidine]]. 
+
+Romifidine acts as an [[agonist]] at the α<sub>2</sub> [[adrenergic receptor]] subtype. Side effects can include [[bradycardia]] and [[respiratory depression]]. It is often used alongside other sedative or analgesic drugs such as [[ketamine]] or [[butorphanol]].<ref>Corletto F, Raisis AA, Brearley JC. Comparison of morphine and butorphanol as pre-anaesthetic agents in combination with romifidine for field castration in ponies. ''Veterinary Anaesthesia and Analgesia''. 2005 Jan;32(1):16-22. {{PMID|15663735}}</ref><ref>Kerr CL, McDonell WN, Young SS. Cardiopulmonary effects of romifidine/ketamine or xylazine/ketamine when used for short duration anesthesia in the horse. ''Canadian Journal of Veterinary Research''. 2004 Oct;68(4):274-82. {{PMID|15581222}}</ref> [[Yohimbine]] can be used as an [[antidote]] to rapidly reverse the effects.
+
+==References==
+{{reflist|2}}
+
+
+{{Hypnotics and sedatives}}
+{{Adrenergic agonists}}
+
+[[Category:Analgesics]]
+[[Category:Alpha-adrenergic agonists]]
+[[Category:Organobromides]]
+[[Category:Fluoroarenes]]
+[[Category:Anilines]]
+[[Category:Sedatives]]
+[[Category:Imidazolines]]
+
+
+{{nervous-system-drug-stub}}

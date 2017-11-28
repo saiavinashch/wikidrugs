@@ -1,0 +1,190 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 402690453
+| IUPAC_name = (±)-''trans''-2-phenylcyclopropan-1-amine<br />or<br />''rel''-(1''R'',2''S'')-2-phenylcyclopropan-1-amine
+| image = Tranylcypromine.svg
+| width = 175
+| caption = (1''S'',2''R'')-(−)-tranylcypromine (top),<br />(1''R'',2''S'')-(+)-tranylcypromine (bottom)
+| chirality = [[Racemic mixture]]
+
+<!--Clinical data-->
+| tradename = originally Parnate, many generics<ref name=generics/>
+| Drugs.com = {{drugs.com|monograph|tranylcypromine-sulfate}}
+| MedlinePlus = a682088
+| pregnancy_AU = B2
+| pregnancy_US = C
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status = Rx-only
+| routes_of_administration = [[Mouth|Oral]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 50%<ref name="Foye's">{{cite book | author = Williams, David A. | chapter = Antidepressants | chapterurl = https://books.google.com/books?id=R0W1ErpsQpkC&lpg=PP1&dq=isbn%3A0781768799&pg=PA590#v=onepage&q&f=false |editor1=Foye, William O. |editor2=Lemke, Thomas L. |editor3=Williams, David A. | title = Foye's Principles of Medicinal Chemistry | publisher = Lippincott Williams & Wilkins | location = Hagerstwon, USA | year = 2007 | pages = 590–1 | isbn = 0-7817-6879-9}}</ref>
+| metabolism = Liver ([[MAOA|MAO<sub>A</sub>]] and [[MAOB|MAO<sub>B</sub>]]) 
+([[CYP2A6]])<ref name="PMID28655495"/>
+| elimination_half-life = 2.5 hours<ref name="Foye's"/>
+| excretion = [[Urine]], [[Feces]]<ref name="Foye's"/>
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 155-09-9
+| ATC_prefix = N06
+| ATC_suffix = AF04
+| PubChem = 19493
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00752
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 18369
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 9652
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 3E3V44J4Z9
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1179
+| KEGG = D08625
+
+<!--Chemical data-->
+| C=9 | H=11 | N=1
+| molecular_weight = 133.19 g/mol
+| smiles = c1cccc(c1)[C@@H]2C[C@H]2N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C9H11N/c10-9-6-8(9)7-4-2-1-3-5-7/h1-5,8-9H,6,10H2/t8-,9+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = AELCINSCMGFISI-DTWKUNHWSA-N
+}}
+
+'''Tranylcypromine''' ([[International Nonproprietary Name|INN]], [[United States Adopted Name|USAN]], [[British Approved Name|BAN]] (contracted from <u>''tran</u>s''-2-phen<u>ylcy</u>clo<u>pro</u>pyla<u>mine</u>); original trade name '''Parnate''')<ref name=generics>Drugs.com [http://www.drugs.com/international/tranylcypromine.html International brands for Tranylcypromine]. Page accessed April 17, 2016</ref> is a [[monoamine oxidase inhibitor]] (MAOI) — it is a [[binding selectivity|nonselective]] and [[irreversible inhibition|irreversible]] [[enzyme inhibitor|inhibitor]] of the [[enzyme]] [[monoamine oxidase]] (MAO).<ref name="Foye's"/><ref name=G&G>{{cite book |author=Baldessarini, Ross J. |chapter=17. Drug therapy of depression and anxiety disorders |title=Goodman & Gilman's The Pharmacological Basis of Therapeutics |editors=Brunton, Laurence L.; Lazo, John S.; Parker, Keith L. (eds.) |year=2005 |isbn=0-07-142280-3 |location=New York |publisher=McGraw-Hill}}</ref> It is used as an [[antidepressant]] and [[anxiolytic]] agent in the [[clinic]]al [[therapy|treatment]] of [[mood disorder|mood]] and [[anxiety disorder]]s, respectively.
+
+==Medical uses==
+Tranylcypromine is used to treat [[major depressive disorder]], including [[atypical depression]], especially when there is an [[anxiety disorder|anxiety component]], typically as a second line treatment.<ref name=EMC>UK Electronic medicines compendium. [https://www.medicines.org.uk/emc/medicine/25577 Tranylcypromine] Llast updated October 28, 2015</ref> It is also used in depression that is not responsive to [[reuptake inhibitor]] antidepressants, such as the [[Selective serotonin reuptake inhibitor|SSRIs]], [[Tricyclic antidepressant|TCAs]], or [[bupropion]].<ref name="pmid22110357"/>
+
+==Contraindications==
+Contraindications include:<ref name=EMC/><ref name="pmid22110357"/><ref name="pmid21192146">{{cite journal|last1=Gillman|first1=PK|title=Advances pertaining to the pharmacology and interactions of irreversible nonselective monoamine oxidase inhibitors.|journal=Journal of clinical psychopharmacology|date=February 2011|volume=31|issue=1|pages=66-74|doi=10.1097/JCP.0b013e31820469ea|pmid=21192146}}</ref>
+* [[Porphyria]]
+* [[Cardiovascular disease|Cardiovascular]] or [[cerebrovascular disease]]
+* [[Pheochromocytoma]]
+* [[Tyramine]], found in several foods, is metabolized by MAO. Ingestion and absorption of tyramine causes extensive release of [[norepinephrine]], which can rapidly increase blood pressure to the point of causing [[hypertensive crisis]].
+* Concomitant use of serotonin-enhancing drugs, including [[Selective serotonin reuptake inhibitor|SSRIs]], serotonergic [[Tricyclic antidepressant|TCAs]], [[dextromethorphan]], and [[pethidine|meperidine]] may cause [[serotonin syndrome]].
+* Concomitant use of [[Monoamine releasing agent|MRAs]], including [[fenfluramine]], [[amphetamine]], and [[pseudoephedrine]] may cause toxicity via serotonin syndrome or [[hypertensive crisis]].
+* [[L-DOPA|<small>L</small>-DOPA]] given without [[carbidopa]] may cause hypertensive crisis.
+
+===Dietary restrictions===
+{{Main|Foods containing tyramine}}
+
+[[Tyramine]] is a common component in many foods, and is normally rapidly metabolized by [[Monoamine oxidase A|MAO-A]]. Individuals not taking MAOIs may consume at least 2 grams of tyramine in a meal and not experience an increase in blood presure, whereas those taking MAOIs such as tranylcypromine may experience a sharp increase in blood pressure following consumption of as little as 10 mg of tyramine, which can lead to hypertensive crisis.<ref name="PMID28655495"/><ref name="pmid21192146"/>
+
+Foods containing tyramine include [[aged cheese]]s, [[cured meat]]s, [[tofu]] and certain [[red wine]]s. Some, such as [[yeast extract]]s, contain enough tyramine to be potentially fatal in a single serving. [[Spoiled food]] is also likely to contain dangerous levels of tyramine.<ref name=EMC/>
+
+==Adverse effects==
+'''<big>Incidence of adverse effects</big>'''<ref name="pmid28579071">{{cite journal|last1=Ricken|first1=R|last2=Ulrich|first2=S|last3=Schlattmann|first3=P|last4=Adli|first4=M|title=Tranylcypromine in mind (Part II): Review of clinical pharmacology and meta-analysis of controlled studies in depression.|journal=European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology|date=August 2017|volume=27|issue=8|pages=714-731|doi=10.1016/j.euroneuro.2017.04.003|pmid=28579071}}</ref>
+
+'''Very common (>10% incidence) adverse effects include:'''
+* Dizziness secondary to [[orthostatic hypotension]] (17%)
+
+'''Common (1-10% incidence) adverse effects include:'''
+* [[Tachycardia]] (5-10%)
+* [[Hypomania]] (7%)
+* Weight loss (2%)
+* Confusion (2%)
+* [[Xerostomia|Dry mouth]] (2%)
+* Sexual function disorders (2%)
+* [[Hypertension]] (1-2 hours after ingestion) (2%)
+* Rash (2%)
+* [[Urinary retention]] (2%)
+
+'''Other (unknown incidence) adverse effects include:'''
+* Increased/decreased appetite
+* Blood dyscrasias
+* Chest pain
+* [[Diarrhea]]
+* [[Edema]]
+* [[Hallucination]]s
+* [[Hyperreflexia]]
+* [[Insomnia]]
+* [[Jaundice]]
+* Leg cramps
+* [[Myalgia]]
+* [[Palpitations]]
+* Sensation of cold
+* [[Suicidal ideation]]
+* Tremor
+
+Of note, there has not been found to be a correlation between sex and age below 65 regarding incidence of adverse effects.<ref name="pmid28579071"/>
+
+Tranylcypromine is not associated with [[Weight gain|weight gain]] and has a low risk for hepatotoxicity compared to the [[hydrazine (Antidepressant)|hydrazine]] MAOIs.<ref name="pmid28579071"/><ref name="pmid22110357"/>
+
+It is generally recommended that MAOIs be discontinued prior to [[anesthesia]]; however, this creates a risk of recurrent depression. In a retrospective observational cohort study, patients on tranylcypromine undergoing general anesthesia had a lower incidence of intraoperative hypotension, while there was no difference between patients not taking an MAOI regarding intraoperative incidence of bradycardia, tachycardia, or hypertension.<ref>{{cite journal|last1=van Haelst|first1=IM|last2=van Klei|first2=WA|last3=Doodeman|first3=HJ|last4=Kalkman|first4=CJ|last5=Egberts|first5=TC|last6=MAOI Study|first6=Group.|title=Antidepressive treatment with monoamine oxidase inhibitors and the occurrence of intraoperative hemodynamic events: a retrospective observational cohort study.|journal=The Journal of clinical psychiatry|date=August 2012|volume=73|issue=8|pages=1103-9|doi=10.4088/JCP.11m07607|pmid=22938842}}</ref> The use of indirect [[sympathomimetic drug]]s or drugs affecting serotonin reuptake, such as [[meperidine]] or [[dextromethorphan]] poses a risk for [[hypertension]] and [[serotonin syndrome]] respectively; alternative agents are recommended.<ref>{{cite journal|last1=Smith|first1=MS|last2=Muir|first2=H|last3=Hall|first3=R|title=Perioperative management of drug therapy, clinical considerations.|journal=Drugs|date=February 1996|volume=51|issue=2|pages=238-59|pmid=8808166}}</ref><ref>{{cite journal|last1=Blom-Peters|first1=L|last2=Lamy|first2=M|title=Monoamine oxidase inhibitors and anesthesia: an updated literature review.|journal=Acta anaesthesiologica Belgica|date=1993|volume=44|issue=2|pages=57-60|pmid=8237297}}</ref> Other studies have come to similar conclusions.<ref name="pmid28579071"/> Pharmacokinetic interactions with anesthetics are unlikely, given that tranylcypromine is a high-affinity substrate for [[CYP2A6]] and does not inhibit CYP enzymes at therapeutic concentrations.<ref name="PMID28655495"/>
+
+Tranylcypromine [[substance abuse|abuse]] has been reported at doses ranging from 120-600 mg per day.<ref name=EMC/><ref>{{cite journal|last1=Le Gassicke|first1=J|last2=Ashcroft|first2=GW|last3=Eccleston|first3=D|last4=Evans|first4=JI|last5=Oswald|first5=I|last6=Ritson|first6=EB|title=The Clinical State, Sleep and Amine Metabolism of a Tranylcypromine (`Parnate') Addict|journal=The British Journal of Psychiatry|date=1 April 1965|volume=111|issue=473|pages=357–364|doi=10.1192/bjp.111.473.357}}</ref><ref name="pmid28579071"/> It is thought that higher doses have more [[amphetamine]]-like effects and abuse is promoted by the fast onset and short half-life of tranylcypromine.<ref name="pmid28579071"/>
+
+Cases of suicidal ideation and suicidal behaviours have been reported during tranylcypromine therapy or early after treatment discontinuation.<ref name=EMC/>
+
+Symptoms of tranylcypromine overdose are generally more intense manifestations of its usual effects.<ref name=EMC/>
+
+==Interactions==
+In addition to contraindicated concomitant medications, tranylcypromine inhibits [[CYP2A6]], which may reduce the metabolism and increase the toxicity of substrates of this enzyme, such as:<ref name="pmid21192146"/>
+
+* [[Dexmedetomidine]]
+* [[nicotine]]
+* [[Tobacco-specific nitrosamines|TSNAs]] (found in cured tobacco products, including [[cigarette]]s)
+* [[Valproate]]
+
+[[Norepinephrine reuptake inhibitor]]s prevent neuronal uptake of [[tyramine]] and may reduce its [[pressor]] effects.<ref name="pmid21192146"/>
+
+==Pharmacology==
+===Pharmacodynamics===
+Tranylcypromine acts as a nonselective and irreversible inhibitor of monoamine oxidase.<ref name="Foye's"/> Regarding the [[isoform]]s of monoamine oxidase, it shows slight preference for the [[MAO-B|MAOB]] [[isoenzyme]] over [[MAO-A|MAOA]].<ref name="PMID28655495"/> This leads to an increase in the availability of [[Monoamine neurotransmitter|monoamines]], such as [[serotonin]], [[norepinephrine]], and [[dopamine]], as well as a marked increase in the availability of [[trace amine]]s, such as [[tryptamine]], [[octopamine]], and [[phenethylamine]].<ref name="PMID28655495"/><ref name="pmid21192146"/> The clinical relevance of increased trace amine availability is unclear.
+
+It may also act as a [[norepinephrine reuptake inhibitor]] at higher therapeutic doses.<ref name="PMID28655495"/> Compared to [[amphetamine]], tranylcypromine shows low potency as a [[dopamine]] [[releasing agent]], with even weaker potency for [[norepinephrine]] and [[serotonin]] release.<ref name="PMID28655495"/><ref name="pmid21192146"/>
+
+Tranylcypromine has also been shown to inhibit the [[histone]] demethylase, BHC110/[[LSD1]]. Tranylcypromine inhibits this enzyme with an IC50 < 2 µM, thus acting as a small molecule inhibitor of histone demethylation with an effect to derepress the transcriptional activity of BHC110/LSD1 target genes.<ref name="pmid16793513">{{cite journal|last1=Lee|first1=MG|last2=Wynder|first2=C|last3=Schmidt|first3=DM|last4=McCafferty|first4=DG|last5=Shiekhattar|first5=R|title=Histone H3 lysine 4 demethylation is a target of nonselective antidepressive medications.|journal=Chemistry & Biology|date=June 2006|volume=13|issue=6|pages=563–7|doi=10.1016/j.chembiol.2006.05.004|pmid=16793513}}</ref> The clinical relevance of this effect is unknown.
+
+Tranylcypromine has been found to inhibit [[CYP46A1]] at nanomolar concentrations.<ref>{{cite journal|last1=Mast|first1=N|last2=Charvet|first2=C|last3=Pikuleva|first3=IA|last4=Stout|first4=CD|title=Structural basis of drug binding to CYP46A1, an enzyme that controls cholesterol turnover in the brain.|journal=The Journal of biological chemistry|date=8 October 2010|volume=285|issue=41|pages=31783-95|doi=10.1074/jbc.M110.143313|pmid=20667828}}</ref> The clinical relevance of this effect is unknown.
+
+[[File:Tranylcypromine-MAO-inhibiton.png|thumb|none|600px|Mechanism of tranylcypromine inhibition of MAO.<ref name="pmid22022344">{{cite journal|last1=Gaweska|first1=H|last2=Fitzpatrick|first2=PF|title=Structures and Mechanism of the Monoamine Oxidase Family.|journal=Biomolecular concepts|date=1 October 2011|volume=2|issue=5|pages=365-377|doi=10.1515/BMC.2011.030|pmid=22022344}}</ref>]]
+
+===Pharmacokinetics===
+Tranylcypromine reaches its maximum concentration (t<sub>max</sub>) within 1-2 hours.<ref name="PMID28655495">{{cite journal|last1=Ulrich|first1=S|last2=Ricken|first2=R|last3=Adli|first3=M|title=Tranylcypromine in mind (Part I): Review of pharmacology.|journal=European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology|date=August 2017|volume=27|issue=8|pages=697-713|doi=10.1016/j.euroneuro.2017.05.007|pmid=28655495}}</ref> After a 20 mg dose, plasma concentrations reach at most 50-200 ng/mL.<ref name="PMID28655495"/> While its [[Biological half-life|half-life]] is only about 2 hours, its pharmacodynamic effects last several days to weeks due to irreversible inhibition of MAO.<ref name="PMID28655495"/>
+
+Metabolites of tranylcypromine include 4-hydroxytranylcypromine, ''N''-acetyltranylcypromine, and ''N''-acetyl-4-hydroxytranylcypromine, which are less potent MAO inhibitors than tranylcypromine itself.<ref name="PMID28655495"/> [[Amphetamine]] was once thought to be a metabolite of tranylcypromine, but has not been shown to be.<ref name="PMID28655495"/><ref>{{cite journal|last1=Sherry|first1=RL|last2=Rauw|first2=G|last3=McKenna|first3=KF|last4=Paetsch|first4=PR|last5=Coutts|first5=RT|last6=Baker|first6=GB|title=Failure to detect amphetamine or 1-amino-3-phenylpropane in humans or rats receiving the MAO inhibitor tranylcypromine.|journal=Journal of affective disorders|date=December 2000|volume=61|issue=1-2|pages=23-9|pmid=11099737}}</ref><ref name="pmid21192146"/>
+
+Tranylcypromine inhibits [[CYP2A6]] at therapeutic concentrations.<ref name="pmid21192146"/>
+
+==Chemistry==
+[[File:Tranylcypromine-10mg-Quarter.jpg|thumb|150px|none|Tranylcypromine 10-mg tablet]]
+
+===Synthesis===
+[[File:Tranylcypromine-synth.png|thumb|none|1000px|Synthesis of tranylcypromine<ref>{{cite patent|country=US|number=4016204 A|status=patent|title=Method of synthesis of trans-2-phenylcyclopropylamine|pubdate=1977-04-05|fdate=1975-10-31|pridate=1975-10-31|invent1=Vithal Jagannath Rajadhyaksha|assign1=Nelson Research & Development Company|}}</ref>]]
+
+==History==
+Tranylcypromine was originally developed as an [[analog (chemistry)|analog]] of [[amphetamine]].<ref name="Foye's"/><ref name="PMID28655495"/> Although it was first synthesized in 1948,<ref>{{cite journal|last1=Burger|first1=A|last2=Yost|first2=WL|title=Arylcycloalkylamines. I. 2-Phenylcyclopropylamine|journal=Journal of the American Chemical Society|volume=70|issue=6|pages=2198–2201|doi=10.1021/ja01186a062}}</ref> its MAOI action was not discovered until 1959. Precisely because tranylcypromine was not, like [[isoniazid]] and [[iproniazid]], a [[hydrazine]] derivative, its clinical interest increased enormously, as it was thought it might have a more acceptable [[therapeutic index]] than previous MAOIs.<ref>{{cite journal|last1=López-Muñoz|first1=F|last2=Alamo|first2=C|title=Monoaminergic neurotransmission: the history of the discovery of antidepressants from 1950s until today.|journal=Current Pharmaceutical Design|date=2009|volume=15|issue=14|pages=1563–86|doi=10.2174/138161209788168001 |pmid=19442174}}</ref>
+
+The drug was introduced by [[Smith, Kline and French]] in the [[United Kingdom]] in 1960, and approved in the [[United States]] in 1961.<ref name="isbn0-19-536874-6">{{cite book | author = Shorter, Edward | title = Before Prozac: the troubled history of mood disorders in psychiatry | publisher = Oxford University Press | location = Oxford [Oxfordshire] | year = 2009 | pages = | isbn = 0-19-536874-6 | oclc = | doi = | url = https://books.google.com/?id=8VaYF8pIPxgC&lpg=PR13&pg=PR13#v=onepage&q}}</ref> It was withdrawn from the market in February 1964 due to a number of patient deaths involving hypertensive crises with intracranial bleeding. However, it was reintroduced later that year with more limited indications and specific warnings of the risks.<ref>{{cite journal|last1=ATCHLEY|first1=DW|title=Reevaluation of Tranylcypromine Sulfate(Parnate Sulfate)|journal=JAMA|date=September 1964|volume=189|pages=763–4|doi=10.1001/jama.1964.03070100057011|pmid=14174054}}</ref><ref name="PMID28655495"/><ref name="pmid21192146"/>
+
+==Research==
+Tranylcypromine is known to inhibit [[KDM1A|LSD1]], an enzyme that selectively [[Methyl group|demethylates]] two [[lysine]]s found on [[histone H3]].<ref name="pmid16793513"/><ref name="PMID28655495"/><ref name="pmid26881714">{{cite journal|last1=Zheng|first1=YC|last2=Yu|first2=B|last3=Jiang|first3=GZ|last4=Feng|first4=XJ|last5=He|first5=PX|last6=Chu|first6=XY|last7=Zhao|first7=W|last8=Liu|first8=HM|title=Irreversible LSD1 Inhibitors: Application of Tranylcypromine and Its Derivatives in Cancer Treatment.|journal=Current topics in medicinal chemistry|date=2016|volume=16|issue=19|pages=2179-88|pmid=26881714}}</ref> Genes promoted downstream of LSD1 are involved in cancer cell growth and metastasis, and several tumor cells express high levels of LSD1.<ref name="pmid26881714"/> Tranylcypromine analogues with more potent and selective LSD1 inhibitory activity are being researched in the potential treatment of cancers.<ref name="pmid26881714"/><ref name="pmid27077938">{{cite journal|last1=Przespolewski|first1=A|last2=Wang|first2=ES|title=Inhibitors of LSD1 as a potential therapy for acute myeloid leukemia.|journal=Expert opinion on investigational drugs|date=July 2016|volume=25|issue=7|pages=771-80|doi=10.1080/13543784.2016.1175432|pmid=27077938}}</ref>
+
+Tranylcypromine may have neuroprotective properties applicable to the treatment of [[Parkinson's disease]], similar to the [[Monoamine oxidase B|MAO-B]] inhibitors [[selegiline]] and [[rasagiline]].<ref name="pmid22960850">{{cite journal|last1=Al-Nuaimi|first1=SK|last2=Mackenzie|first2=EM|last3=Baker|first3=GB|title=Monoamine oxidase inhibitors and neuroprotection: a review.|journal=American journal of therapeutics|date=November 2012|volume=19|issue=6|pages=436-48|doi=10.1097/MJT.0b013e31825b9eb5|pmid=22960850}}</ref><ref name="pmid22110357">{{cite journal|last1=Riederer|first1=P|last2=Laux|first2=G|title=MAO-inhibitors in Parkinson's Disease.|journal=Experimental neurobiology|date=March 2011|volume=20|issue=1|pages=1-17|doi=10.5607/en.2011.20.1.1|pmid=22110357}}</ref> As of 2017, only one clinical trial in Parkinsonian patients has been conducted, which found some improvement initially and only slight worsening of symptoms after a 1.5 year followup.<ref name="pmid22110357"/>
+
+==See also==
+* [[Phenelzine]]
+* [[Amphetamine]]
+* [[Cibenzoline]] (also based on cyclopropane)
+* [[Ticagrelor]] (contains 3',4'-difluoro-tranylcypromine [[structural motif]])
+* [[Tranylcypromine/trifluoperazine]]
+
+==References==
+{{Reflist|2}}
+
+{{Antidepressants}}
+{{Monoamine metabolism modulators}}
+{{Prostanoid signaling modulators}}
+{{Phenethylamines}}
+{{GlaxoSmithKline}}
+
+[[Category:Cyclopropanes]]
+[[Category:Monoamine oxidase inhibitors]]
+[[Category:Norepinephrine-dopamine releasing agents]]

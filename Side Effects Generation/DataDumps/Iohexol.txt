@@ -1,0 +1,79 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 461935422
+| IUPAC_name = 1-''N'',3-''N''-bis(2,3-dihydroxypropyl)-5-[''N''-(2,3-dihydroxypropyl)acetamido]-2,4,6-triiodobenzene-1,3-dicarboxamide
+| synonyms = 5-[N-(2,3-Dihydroxypropyl)acetamido]-2,4,6-triiodo-N,N'-bis(2,3-dihydroxypropyl)isophthalamide
+| image = Iohexol.svg
+<!--Clinical data-->
+| tradename = Omnipaque, others
+| Drugs.com = {{drugs.com|CONS|iohexol}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = B
+| legal_status = Rx-only
+| routes_of_administration = [[intrathecal]], [[blood vessel|intravascular]], by mouth, intracavital, [[rectal]]
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = Low
+| metabolism = Nil
+| elimination_half-life = Variable
+| excretion = [[Kidney]], unchanged
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 66108-95-0
+| ATC_prefix = V08
+| ATC_suffix = AB02
+| PubChem = 3730
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01362
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3599
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 4419T9MX03
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01817
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 31709
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1200455
+<!--Chemical data-->
+| C=19 | H=26 | I=3 | N=3 | O=9
+| molecular_weight = 821.138 g/mol
+| smiles = O=C(N(c1c(I)c(c(I)c(c1I)C(=O)NCC(O)CO)C(=O)NCC(O)CO)CC(O)CO)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H26I3N3O9/c1-8(29)25(4-11(32)7-28)17-15(21)12(18(33)23-2-9(30)5-26)14(20)13(16(17)22)19(34)24-3-10(31)6-27/h9-11,26-28,30-32H,2-7H2,1H3,(H,23,33)(H,24,34)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = NTHXOOBQLCIOLC-UHFFFAOYSA-N
+}}
+<!-- Definition and medical uses -->
+'''Iohexol''', sold under the trade names '''Omnipaque''' among others, is a [[radiocontrast|contrast agent]] used during [[X-rays]].<ref name=WHO2008/> This includes when visualizing [[angiography|arteries]], [[venography|veins]], [[Cerebral ventriculography|ventricles of the brain]], the [[urography|urinary system]], and [[arthroscopy|joints]], as well as during [[computer tomography]] (CT scan).<ref name=WHO2008/> It is given by mouth, [[intravenous|injection into a vein]], or into a body cavity.<ref name=Ric2015/>
+
+<!-- Side effects and mechanism -->
+Side effects include [[vomiting]], [[skin flushing]], headache, itchiness, [[kidney problems]], and [[low blood pressure]].<ref name=WHO2008/> Less commonly [[allergic reactions]] or [[seizures]] may occur.<ref name=WHO2008/> It should not be used by those who have a [[iodine allergy]].<ref name=WHO2008/> Use in the later part of [[pregnancy]] may cause [[hypothyroidism]] in the baby.<ref>{{cite book|last1=Briggs|first1=Gerald G.|last2=Freeman|first2=Roger K.|last3=Yaffe|first3=Sumner J.|title=Drugs in Pregnancy and Lactation: A Reference Guide to Fetal and Neonatal Risk|date=2011|publisher=Lippincott Williams & Wilkins|isbn=9781608317080|page=761|url=https://books.google.ca/books?id=OIgTE4aynrMC&pg=PA761|language=en}}</ref> Iohexol is an [[iodinated non-ionic radiocontrast agent]].<ref name=WHO2008>{{cite book|title=WHO Model Formulary 2008|date=2009|publisher=World Health Organization|isbn=9789241547659|page=317-318|url=http://apps.who.int/medicinedocs/documents/s16879e/s16879e.pdf|accessdate= 8 December 2016}}</ref> It is in the low [[osmolar]] family.<ref>{{cite book|last1=Sutton|first1=David|last2=Young|first2=Jeremy W. R.|title=A Short Textbook of Clinical Imaging|date=2012|publisher=Springer Science & Business Media|isbn=9781447117551|page=235|url=https://books.google.ca/books?id=muflBwAAQBAJ&pg=PA235|language=en}}</ref>
+
+<!-- History and culture -->
+Iohexol was approved for medical use in 1985.<ref>{{cite book|last1=Broe|first1=Marc E. de|last2=Porter|first2=George A.|last3=Bennett|first3=William M.|last4=Verpooten|first4=G. A.|title=Clinical Nephrotoxins: Renal Injury from Drugs and Chemicals|date=2013|publisher=Springer Science & Business Media|isbn=9789401590884|page=325|url=https://books.google.ca/books?id=tkPwCAAAQBAJ&pg=PA325|language=en}}</ref> It is on the [[World Health Organization's List of Essential Medicines]], the most effective and safe medicines needed in a [[health system]].<ref name=WHO19th>{{cite web|title=WHO Model List of Essential Medicines (19th List)|url=http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|work=World Health Organization|accessdate=8 December 2016|date=April 2015}}</ref> The wholesale cost in the [[developing world]] is about 10.99 USD per 50 ml vial.<ref name=ERC2014>{{cite web|title=Iohexol|url=http://erc.msh.org/dmpguide/resultsdetail.cfm?language=english&code=IOH350I&s_year=2014&year=2014&str=350%20mg%2Fml&desc=Iohexol&pack=new&frm=VIAL&rte=INJ&class_code2=14%2E2%2E&supplement=&class_name=%2814%2E2%2E%29Radiocontrast%20media%3Cbr%3E|website=International Drug Price Indicator Guide|accessdate=8 December 2016}}</ref> In the United States a dose costs 50 to 100 USD.<ref name=Ric2015>{{cite book|last1=Hamilton|first1=Richart|title=Tarascon Pocket Pharmacopoeia 2015 Deluxe Lab-Coat Edition|date=2015|publisher=Jones & Bartlett Learning|isbn=9781284057560|page=171}}</ref>
+
+==Chemistry==
+The [[osmolality]] of iohexol ranges from 322 [[Osmole (unit)|mOsm]]/kg—approximately 1.1 times that of [[blood plasma]]—to 844 mOsm/kg, almost three times that of blood.<ref>{{cite web | url = http://dailymed.nlm.nih.gov/dailymed/fdaDrugXsl.cfm?id=3465&type=display | title = Omnipaque (Iohexol) injection. Product label | author = [[GE Healthcare]] |date=May 2006 | accessdate = 2007-03-28 | publisher = U.S. [[National Library of Medicine]] | work = DailyMed}}</ref> Despite this difference, iohexol is still considered a low-osmolality contrast agent; the osmolality of older agents, such as [[diatrizoic acid|diatrizoate]], may be more than twice as high.<ref>{{cite web | url = http://dailymed.nlm.nih.gov/dailymed/fdaDrugXsl.cfm?id=997&type=display | title = Hypaque (Diatrizoate Meglumine and Diatrizoate Sodium) injection, solution. Product label | author = Amersham Health |date=April 2006 | accessdate = 2007-03-29 | publisher = U.S. [[National Library of Medicine]] | work = DailyMed}}</ref> 
+
+==Society and culture==
+
+===Names===
+It is sold under the brand names Omnipaque and Exypaque. It is also sold as a density gradient medium under the names Accudenz, Histodenz and Nycodenz.<ref>[https://www.sigmaaldrich.com/content/dam/sigma-aldrich/docs/Sigma/Product_Information_Sheet/d2158pis.pdf "HistoDenz (D2158)"], product information sheet, Sigma-Aldrich.  Accessed on line Nov. 19, 2015.</ref><ref>[http://www.axis-shield-density-gradient-media.com/Leaflet%20Nycodenz.pdf "Nycodenz®: A universal density gradient medium"], Axis-Shield Density Gradient Media.  Accessed on line Nov. 19, 2015.</ref>
+
+===Formulations===
+It is available in various concentrations, from 140 to 350 [[milligrams]] of [[iodine]] per [[milliliter]].
+
+== References==
+{{Reflist}}
+
+== External links ==
+* [http://dailymed.nlm.nih.gov/dailymed/fdaDrugXsl.cfm?id=928&type=display Omnipaque (Iohexol)  injection, solution]
+
+{{Contrast media}}
+
+[[Category:Radiocontrast agents]]
+[[Category:Benzamides]]
+[[Category:Iodoarenes]]
+[[Category:RTT]]
+[[Category:World Health Organization essential medicines]]

@@ -1,0 +1,59 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 443208622
+| IUPAC_name = ''N''-(4,5-Dihydro-1''H''-imidazol-2-ylmethyl)-''N''-(phenylmethyl)aniline
+| image = Antazoline.svg
+| width = 215
+
+<!--Clinical data-->
+| tradename = Vasocon-a
+| Drugs.com = {{drugs.com|CONS|vasocon-a}}
+| routes_of_administration = Topical (nasal, [[eye drop]]s)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7116
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 91-75-8
+| ATC_prefix = R01
+| ATC_suffix = AC04
+| ATC_supplemental = {{ATC|R06|AX05}}
+| PubChem = 2200
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB08799
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 84115
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2115
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = DHA8014SS1
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07458
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1305
+
+<!--Chemical data-->
+| C=17 | H=19 | N=3 
+| molecular_weight = 265.353 g/mol
+| smiles = N\1=C(\NCC/1)CN(c2ccccc2)Cc3ccccc3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H19N3/c1-3-7-15(8-4-1)13-20(14-17-18-11-12-19-17)16-9-5-2-6-10-16/h1-10H,11-14H2,(H,18,19)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = REYFJDPCWQRWAA-UHFFFAOYSA-N
+}}
+
+'''Antazoline''' is a 1st generation [[antihistamine]] with [[anticholinergic]] properties used to relieve [[nasal congestion]] and in [[eye drop]]s, usually in combination with [[naphazoline]], to relieve the symptoms of [[allergy|allergic]] [[conjunctivitis]].<ref>{{cite journal |journal = Am J Ophthalmol |year = 1980 |volume =90 |pages = 254–7 |title = Effects of topically applied ocular decongestant and antihistamine |vauthors=Abelson MB, Allansmith MR, Friedlaender MH |pmid=7425039 |issue=2 |doi=10.1016/s0002-9394(14)74864-0}}</ref> To treat allergic conjunctivitis, antazoline can be combined in a solution with [[tetryzoline]].<ref name="Castillo">{{cite journal |authors=Castillo M, Scott NW, Mustafa MZ, Mustafa MS, Azuara-Blanco A |title= Topical antihistamines and mast cell stabilisers for treating seasonal and perennial allergic conjunctivitis |journal=Cochrane Database Syst Rev|volume=6 |pages= CD009566 |date=2015 |pmid= 26028608 |doi= 10.1002/14651858.CD009566.pub2}}</ref> The drug is a [[Histamine H1 receptor]] antagonist:<ref>{{Cite journal|last=Noguchi|first=Seiji|last2=Inukai|first2=Toshiya|last3=Kuno|first3=Takayoshi|last4=Tanaka|first4=Chikako|title=The suppression of olfactory bulbectomy-induced muricide by antidepressants and antihistamines via histamine H1 receptor blocking|journal=Physiology & Behavior|volume=51|issue=6|pages=1123–1127|doi=10.1016/0031-9384(92)90297-f|pmid=1353628|date=June 1992}}</ref> selectively binding to but not activating the receptor, thereby blocking the actions of endogenous [[histamine]] and subsequently leading to the temporary relief of the negative symptoms brought on by histamine.
+
+== References ==
+{{Reflist|1}}
+
+{{Nasal preparations}}
+{{Antihistamines}}
+{{Cholinergics}}
+{{Histaminergics}}
+
+[[Category:H1 receptor antagonists]]
+[[Category:Imidazolines]]
+
+
+{{respiratory-system-drug-stub}}

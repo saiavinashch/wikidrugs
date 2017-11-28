@@ -1,0 +1,101 @@
+{{Drugbox
+| verifiedrevid = 447992382
+| IUPAC_name = ethyl 1-(2-morpholin-4-ylethyl)-4-phenyl-piperidine-4-carboxylate
+| image = Morpheridine2DCSD.svg
+| width = 160
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = S9
+| legal_CA = Schedule I
+| legal_UK = CD
+| legal_US = Schedule I
+| legal_DE = Anlage I
+| legal_UN = P I
+| legal_status =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 469-81-8
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 61121
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 55069
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 1854GKB41Y
+
+<!--Chemical data-->
+| C=20 | H=30 | N=2 | O=3 
+| molecular_weight = 346.46 g/mol
+| smiles = O=C(OCC)C3(c1ccccc1)CCN(CCN2CCOCC2)CC3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C20H30N2O3/c1-2-25-19(23)20(18-6-4-3-5-7-18)8-10-21(11-9-20)12-13-22-14-16-24-17-15-22/h3-7H,2,8-17H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = JDEDMCKQPKGSAX-UHFFFAOYSA-N
+| synonyms =  
+}}
+
+'''Morpheridine''' ('''Morpholinoethylnorpethidine''')<ref>{{cite patent | country = US | number = 2795581 | title = Piperidine Compounds and Their Production| inventor = STERN EDWARD S; ANDERSON RONALD J | assign1 = J.F. McFarlan & Co | gdate = 06/11/1957}}</ref> is a 4-[[phenyl]][[piperidine]] derivative that is related to the [[opioid]] [[analgesic]] drug [[pethidine]] (meperidine). It is a strong analgesic with around 4 times the potency of pethidine,<ref>{{Cite journal 
+| last1 = Holmes | first1 = J. M. 
+| title = Morpholinoethylnorpethidine hydrochloride in obstetrics 
+| journal = The Journal of obstetrics and gynaecology of the British Empire 
+| volume = 65 
+| issue = 1 
+| pages = 98–99 
+| year = 1958 
+| pmid = 13514558
+ | doi=10.1111/j.1471-0528.1958.tb06218.x
+}}</ref> and unlike pethidine, does not cause [[convulsion]]s, although it produces the standard opioid side effects such as [[sedation]] and [[respiratory depression]].<ref>{{Cite journal 
+| last1 = Green | first1 = A. F. 
+| last2 = Ward | first2 = N. B. 
+| title = Analgesic and other properties of morpholinoethylnorpethidine 
+| journal = British Journal of Pharmacology and Chemotherapy 
+| volume = 11 
+| issue = 1 
+| pages = 32–34 
+| year = 1956 
+| pmid = 13304251 
+| pmc = 1509567
+}}</ref>
+
+Morpheridine is not currently used in medicine and is a [[Convention on Psychotropic Substances#Schedules of Controlled Substances|Schedule I]] drug which is controlled under UN drug conventions.<ref>{{ cite web | url = http://www.ukcia.org/pollaw/lawlibrary/singleconventiononnarcoticdrugs1961.php | title = Single convention on drugs 1961 }}</ref>
+
+==Synthesis==
+[[File:Normeperidine synthesis.svg|thumb|center|600px|Normeperidine synthesis:<ref>{{Cite journal | doi = 10.1039/JR9480000559| title = 114. Search for new analgesics. Part II. Further homologues of pethidine and the pharmacology of these and other compounds| journal = Journal of the Chemical Society (Resumed)| pages = 559| year = 1948| last1 = Thorp | first1 = R. H.| last2 = Walton | first2 = E.}}</ref>]]
+The key intermediate, [[normeperidine]], is obtained by a scheme closely akin to the parent molecule. Thus, alkylation of [[benzyl cyanide]] ('''1''') with the [[tosyl]] analog of the bischloroethylamine ('''2''') leads to the substituted piperidine ('''3'''). Basic hydrolysis serves to convert the nitrile to the acid ('''4'''). Treatment of this last with [[sulfuric acid]] in [[ethanol]] serves both to esterify the acid and to remove the [[tosyl]] group to yield the secondary amine ('''5''').
+
+Alkylation of that amine by means of ''N''-(2-chloroethyl)morpholine gives morpheridine.<ref>{{Cite journal | doi = 10.1039/JR9560004088| title = 788. Some new analogues of pethidine. Part I| journal = Journal of the Chemical Society (Resumed)| pages = 4088| year = 1956| last1 = Anderson | first1 = R. J.| last2 = Frearson | first2 = P. M.| last3 = Stern | first3 = E. S.}}</ref>
+
+==See also==
+*[[Anileridine]]
+*[[Furethidine]]
+*[[Carbetidine]]
+
+== References ==
+{{Reflist|2}}
+
+{{Analgesics}}
+{{Opioidergics}}
+
+[[Category:Analgesics]]
+[[Category:Ethyl esters]]
+[[Category:Morpholines]]
+[[Category:Mu-opioid agonists]]
+[[Category:Piperidines]]
+[[Category:Synthetic opioids]]
+
+
+{{analgesic-stub}}

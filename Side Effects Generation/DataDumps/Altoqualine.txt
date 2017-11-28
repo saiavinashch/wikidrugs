@@ -1,0 +1,41 @@
+{{Chembox
+| ImageFile =Altoqualine.svg
+| ImageSize = 200px
+| ImageAlt =
+| IUPACName = (3''S'')-7-Amino-4,5,6-triethoxy-3-[(1''R'')-6,7,8-trimethoxy-2-methyl-3,4-dihydro-1''H''-isoquinolin-1-yl]-3''H''-2-benzofuran-1-one
+| OtherNames = 458 L
+|Section1={{Chembox Identifiers
+| CASNo =121029-11-6 
+<!-- CAS# 73604-83-8 for unspecified stereochemistry (458 L) -->
+| PubChem =3037346
+| ChEMBL = 2104645
+| SMILES = CCOC1=C(C(=C(C2=C1[C@H](OC2=O)[C@H]3C4=C(C(=C(C=C4CCN3C)OC)OC)OC)N)OCC)OCC
+| ChemSpiderID = 2301104
+| InChI = 1/C27H36N2O8/c1-8-34-24-18-17(19(28)25(35-9-2)26(24)36-10-3)27(30)37-22(18)20-16-14(11-12-29(20)4)13-15(31-5)21(32-6)23(16)33-7/h13,20,22H,8-12,28H2,1-7H3/t20-,22+/m1/s1
+| InChIKey = FPSZSEINEGCRIJ-IRLDBZIGBP
+| StdInChI = 1S/C27H36N2O8/c1-8-34-24-18-17(19(28)25(35-9-2)26(24)36-10-3)27(30)37-22(18)20-16-14(11-12-29(20)4)13-15(31-5)21(32-6)23(16)33-7/h13,20,22H,8-12,28H2,1-7H3/t20-,22+/m1/s1
+| StdInChIKey = FPSZSEINEGCRIJ-IRLDBZIGSA-N
+}}
+|Section2={{Chembox Properties
+| C=27 | H=36 | N=2 | O=8
+| Appearance =
+| Density =
+| MeltingPtC = 144
+| MeltingPt_ref = <ref name=Ganellin/>
+| BoilingPt =
+| Solubility = }}
+|Section3={{Chembox Hazards
+| MainHazards =
+| FlashPt =
+| AutoignitionPt = }}
+}}
+
+'''Altoqualine''' is an [[isoquinoline]] once studied for its potential use as an [[antihistamine]] and [[antiallergic]],<ref name=Ganellin>{{cite book | title = Dictionary of Pharmacological Agents, | volume = 1-2 |author1=C.R. Ganellin |author2=David J. Triggle | publisher = CRC Press | date = Nov 21, 1996 | page = 58}}</ref><ref name= Lallouette >{{Cite journal |vauthors=Lallouette P, Mordelet-Dambrine M, Treize G, N'Guyen VT, Dubois AM, Parrot JL | title = Pharmacological approach of a new isoquinoline derivative (458 L) | journal = Agents and actions | year = 1981 | volume = 11 | issue = 1–2 | pages = 41–43 | doi = 10.1007/BF01991453 | pmid = 7195643}}</ref><ref>{{Cite journal |vauthors=Bargnoux H, Kantelip JP, Bastide M, Duchene-Marullaz P, Boyer R, Lallouette P, Petit J, Berger JA | title = Pharmacokinetic study of a new benzyl-1 isoquinoline derivative (458 L) after oral administration in men | journal = Therapie  | year = 1990 | volume = 45 | pages = 7–11 | issue = 1 | pmid = 1971461}}</ref> but it was never a marketed drug.  It is an [[enzyme inhibitor|inhibitor]] of [[histidine decarboxylase]].<ref name= Lallouette/>
+
+==References==
+{{reflist}}
+
+[[Category:Isoquinolines]]
+[[Category:Antihistamines]]
+
+{{pharma-stub}}

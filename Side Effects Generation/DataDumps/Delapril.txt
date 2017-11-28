@@ -1,0 +1,76 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 444593478
+| IUPAC_name = 2-[2,3-dihydro-1''H''-inden-2-yl-[(2''S'')-2-<nowiki>[[</nowiki>(2''S'')-1-ethoxy-1-oxo-4-phenylbutan-2-yl]amino]propanoyl]amino]acetic acid
+| image = Delapril.svg
+| width = 222
+
+<!--Clinical data-->
+| tradename = 
+| Drugs.com = {{drugs.com|international|delapril}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = 
+| routes_of_administration = 
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 83435-66-9
+| ATC_prefix = C09
+| ATC_suffix = AA12
+| ATC_supplemental = 
+| PubChem = 5362116
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = W77UAL9THI
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2106126
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07781
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 4514931
+| SMILES = O=C(OCC)[C@@H](N[C@H](C(=O)N(CC(=O)O)C2Cc1ccccc1C2)C)CCc3ccccc3
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C26H32N2O5/c1-3-33-26(32)23(14-13-19-9-5-4-6-10-19)27-18(2)25(31)28(17-24(29)30)22-15-20-11-7-8-12-21(20)16-22/h4-12,18,22-23,27H,3,13-17H2,1-2H3,(H,29,30)/t18-,23-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = WOUOLAUOZXOLJQ-MBSDFSHPSA-N
+
+<!--Chemical data-->
+| C=26 | H=32 | N=2 | O=5 
+| molecular_weight = 452.542 g/mol
+}}
+
+'''Delapril''' ([[International Nonproprietary Name|INN]], also known as '''alindapril''') is an [[ACE inhibitor]] used as an [[antihypertensive]] drug<ref>{{Cite journal | last1 = Otero | first1 = M. L. | title = Manidipine-delapril combination in the management of hypertension | journal = Vascular health and risk management | volume = 3 | issue = 3 | pages = 255–263 | year = 2007 | pmid = 17703633 | pmc = 2293964}}</ref> in some European and Asian countries but not in America.<ref>Drugs.com: [http://www.drugs.com/international/delapril.html Delapril]</ref> It is taken orally, available in 15mg and 30mg tablets.<ref>{{Cite web|url=http://cursoenarm.net/UPTODATE/contents/mobipreview.htm?16/0/16396?source=HISTORY|title=http://cursoenarm.net/UPTODATE/contents/mobipreview.htm?16/0/16396?source=HISTORY|website=cursoenarm.net|access-date=2016-08-28}}</ref>
+
+== Mechanism ==
+Delapril is a prodrug; it is converted into two active metabolites, 5-hydroxy delapril diacid and delapril diacid. These metabolites bind completely to and inhibit [[angiotensin-converting enzyme]] (ACE), hence blocking angiotensin I to angiotensin II conversion. The resulting vasodilation prevents the vasoconstrictive effects of angiotensin II. Angiotensin II-induced aldosterone secretion by the adrenal cortex is also decreased by Delapril, leading to increases in excretion of sodium and therefore increases water outflow.<ref>{{Cite web|url=https://pubchem.ncbi.nlm.nih.gov/compound/delapril#section=Pharmacology-and-Biochemistry|title=DELAPRIL {{!}} C26H32N2O5 - PubChem|last=Pubchem|website=pubchem.ncbi.nlm.nih.gov|access-date=2016-08-28}}</ref>
+
+==References==
+{{reflist}}
+
+{{ACE inhibitors}}
+{{Angiotensin receptor modulators}}
+
+[[Category:ACE inhibitors]]
+[[Category:Acetic acids]]
+[[Category:Enantiopure drugs]]
+[[Category:Ethyl esters]]
+[[Category:Indanes]]
+[[Category:Prodrugs]]
+[[Category:Propionamides]]
+
+{{cardiovascular-drug-stub}}

@@ -1,0 +1,82 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 458780494
+| IUPAC_name = 3-(8,8-dipropyl-3-azaspiro[4.5]decan-3-yl)-''N'',''N''- diethylpropan-1-amine
+| image = Atiprimod.svg
+| width = 250
+| image2 = Atiprimod molecule ball.png
+| alt2 = Ball-and-stick model of the atiprimod molecule
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 123018-47-3
+| ATC_prefix = none
+| ATC_suffix =  
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H44N2/c1-5-10-21(11-6-2)12-14-22(15-13-21)16-19-24(20-22)18-9-17-23(7-3)8-4/h5-20H2,1-4H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SERHTTSLBVGRBY-UHFFFAOYSA-N
+| PubChem = 129869
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 114962
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = MG7D3QD743
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 103735
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D03003
+
+<!--Chemical data-->
+| C=22 | H=44 | N=2 
+| molecular_weight = 336.598 g/mol
+| smiles = N(CC)(CC)CCCN2CCC1(CCC(CC1)(CCC)CCC)C2
+}}
+'''Atiprimod''' ([[International Nonproprietary Name|INN]], codenamed '''SK&F106615''') is a substance being studied in the treatment of certain [[multiple myeloma]]s and other advanced [[cancer]]s. It may block the growth of tumors and the growth of [[blood vessels]] from surrounding tissue to the [[tumor]].  This drug is also being researched as a potential treatment for various [[autoimmune diseases]].  It was first developed by [[GlaxoSmithKline]] as a potential treatment for [[rheumatoid arthritis]].<ref>{{cite journal |url=http://myeloma.org/ArticlePage.action?tabId=0&menuId=0&articleId=1379&aTab=0 |title=Atiprimod: A New Drug Candidate in Early-Stage Development for Myeloma |author=Jacobs GS |journal=Myeloma Today |date=Spring 2004 |volume=5 |issue=10 |publisher=International Myeloma Foundation |format=}}</ref> The substance is also known as '''azaspirane''', although this more properly refers to the class of chemicals to which atiprimod belongs.
+
+This compound has also been shown to kill [[mantle cell lymphoma]] cells ''[[in vitro]]''.<ref>{{cite journal|doi=10.1182/blood-2006-12-063958|pmid=17317853|title=Atiprimod inhibits the growth of mantle cell lymphoma in vitro and in vivo and induces apoptosis via activating the mitochondrial pathways|journal=Blood|volume=109|issue=12|pages=5455|year=2007|last1=Wang|first1=M.|last2=Zhang|first2=L.|last3=Han|first3=X.|last4=Yang|first4=J.|last5=Qian|first5=J.|last6=Hong|first6=S.|last7=Samaniego|first7=F.|last8=Romaguera|first8=J.|last9=Yi|first9=Q.}}</ref>
+
+==Mechanism of action==
+Atiprimod has been shown to inhibit [[angiogenesis]] (growth of blood vessels) in a blood vessel model using chicken eggs. It is thought to inhibit the secretion of [[vascular endothelial growth factor]] (VEGF), a growth factor that promotes angiogenesis.
+
+==Chemistry==
+Atiprimod is a [[amphiphilic]] compound and a [[cation]] at neutral [[pH]].
+
+===Synthesis===
+[[File:Atiprimod.png|1000px|thumb|center|Atiprimod synthesis: Anormed Inc. Dagger, R. E.; Grady, C. W.; 1999, {{US Patent|5,952,365}}.]]
+
+==References==
+<references/>
+
+==Further reading==
+*{{cite journal |vauthors=Hamasaki M, Hideshima T, Tassone P |title=Azaspirane (N-N-diethyl-8,8-dipropyl-2-azaspiro 4.5 decane-2-propanamine) inhibits human multiple myeloma cell growth in the bone marrow milieu in vitro and in vivo |journal=[[Blood (journal)|Blood]] |volume=105 |issue=11 |pages=4470–6 |date=June 2005 |pmid=15705788 |doi=10.1182/blood-2004-09-3794 |pmc=1895034|display-authors=etal }}
+
+==External links==
+* [http://www.cancer.gov/dictionary?CdrID=486451 Atiprimod] entry in the public domain NCI Dictionary of Cancer Terms
+
+{{NCI-cancer-dict}}
+{{Cytokine receptor modulators}}
+
+[[Category:Experimental cancer drugs]]
+[[Category:Pyrrolidines]]
+[[Category:Spiro compounds]]

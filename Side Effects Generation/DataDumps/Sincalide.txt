@@ -1,0 +1,79 @@
+{{one source|date=October 2014}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 408748961
+| IUPAC_name = α-aspartyl-''O''-sulfotyrosylmethionylglycyltryptophylmethionyl-α-aspartylphenylalaninamide
+| image = Sincalide.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|sincalide}}
+| pregnancy_AU = <!-- A, B1, B2, B3, C, D, X -->
+| pregnancy_US = B
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled, S2, S3, S4, S5, S6, S7, S8, S9 -->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK_comment = Available on a named-patient basis <!-- GSL, P, POM, CD, Class A, B, C -->
+| legal_US = Rx-only
+| legal_status = 
+| routes_of_administration = [[Intravenous therapy|Intravenous]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 25126-32-3
+| ATC_prefix = V04
+| ATC_suffix = CC03
+| PubChem = 32800
+| IUPHAR_ligand = 864
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = M03GIQ7Z6P
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05845
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1121
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 8009168
+
+
+
+<!--Chemical data-->
+| C=49 | H=62 | N=10 | O=16 | S=3 
+| molecular_weight = 1143.27 g/mol
+| synonyms = <small>1-De(5-oxo-L-proline)-2-de-L-glutamine-<br>5-L-methioninecaerulein, <nowiki>3-[[2-[[2-[[2-[[2-[[2-</nowiki>[(2-amino-3-carboxy-propanoyl)<br>amino]-3-(4-sulfooxyphenyl)propanoyl]amino]-4-<br>methylsulfanyl-butanoyl]amino]acetyl]amino]-3-<br>(1''H''-indol-3-yl)propanoyl]amino]-4-methylsulfanyl-<br>butanoyl]amino]-3-[(1-carbamoyl-2-phenyl-ethyl)<br>carbamoyl]propanoic acid</small>
+|  smiles = CSCC[C@@H](C(=O)NCC(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)N[C@@H](CCSC)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)N)NC(=O)[C@H](CC4=CC=C(C=C4)OS(=O)(=O)O)NC(=O)[C@H](CC(=O)O)N
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C49H62N10O16S3/c1-76-18-16-34(55-47(69)37(58-44(66)32(50)23-41(61)62)21-28-12-14-30(15-13-28)75-78(72,73)74)45(67)53-26-40(60)54-38(22-29-25-52-33-11-7-6-10-31(29)33)48(70)56-35(17-19-77-2)46(68)59-39(24-42(63)64)49(71)57-36(43(51)65)20-27-8-4-3-5-9-27/h3-15,25,32,34-39,52H,16-24,26,50H2,1-2H3,(H2,51,65)(H,53,67)(H,54,60)(H,55,69)(H,56,70)(H,57,71)(H,58,66)(H,59,68)(H,61,62)(H,63,64)(H,72,73,74)/t32-,34-,35-,36-,37-,38-,39-/m0/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = IZTQOLKUZKXIRV-YRVFCXMDSA-N
+}}
+'''Sincalide''' ([[International Nonproprietary Name|INN]]) is a [[cholecystokinetic]] drug administered by [[Injection (medicine)|injection]] to aid in diagnosing disorders of the gallbladder and pancreas. It is the 8-amino acid [[C-terminal end|C-terminal]] fragment of [[cholecystokinin]], and also known as '''CCK-8'''.
+
+Common adverse effects following administration include abdominal discomfort and nausea.  These effects are more pronounced following rapid infusion.
+
+==Clinical Use==
+
+===Indications===
+Sincalide may be used to stimulate [[gallbladder]] contraction, as may be assessed by contrast agent cholecystography or ultrasonography, or to obtain by duodenal aspiration a sample of concentrated bile for analysis of cholesterol, bile salts, phospholipids, and crystals. It can also be used to stimulate pancreatic secretion (especially in conjunction with secretin) prior to obtaining a duodenal aspirate for analysis of enzyme activity, composition, and [[Cytopathology|cytology]]. In some instances it is used to accelerate the transit of a barium meal through the small bowel, thereby decreasing the time and-extent of radiation associated with [[fluoroscopy]] and x-ray examination of the intestinal tract.<ref>Kinevac Package Insert</ref>
+
+==External links==
+* [http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d7f3d501-a389-4fe1-b20a-c9665b3f3d37 KINEVAC (sincalide)] on NIH.gov
+
+==References==
+{{reflist}}
+
+{{Diagnostic agents}}
+
+[[Category:Peptide hormones]]
+
+
+{{drug-stub}}

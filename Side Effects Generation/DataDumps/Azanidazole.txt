@@ -1,0 +1,66 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 477351359
+| IUPAC_name = 4-[(''E'')-2-(1-methyl-5-nitro-1''H''-imidazol-<br>2-yl)ethenyl]pyrimidin-2-amine
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number =  53409-75-9
+| image = Azanidazole.svg
+<!--Clinical data-->
+| tradename = 
+| Drugs.com = {{drugs.com|international|azanidazole}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = 
+| routes_of_administration = 
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+<!--Identifiers-->
+| ATC_prefix = G01
+| ATC_suffix = AF13
+| ATC_supplemental = {{ATC|P01|AB04}} {{ATCvet|P51|AA04}}
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 134920
+| PubChem = 6436171
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = YP2Y0DRX4S
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03028
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4940835
+| smiles = [O-][N+](=O)c2cnc(\C=C\c1nc(ncc1)N)n2C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H10N6O2/c1-15-8(13-6-9(15)16(17)18)3-2-7-4-5-12-10(11)14-7/h2-6H,1H3,(H2,11,12,14)/b3-2+
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = LHIALLMPKJMSIQ-NSCUHMNNSA-N
+<!--Chemical data-->
+| C=10 | H=10
+| N=6 | O=2
+| molecular_weight = 246.226 g/mol
+}}
+'''Azanidazole''' is a [[nitroimidazole]] derivative used in [[gynecology]] for the treatment of [[trichomonas vaginalis|trichomonal]] infections.<ref>{{cite journal |vauthors=Marchionni M, Innocenti Degli A, Penna C |title=Combined systemic and topical treatment of trichomoniasis vaginalis with azanidazol |journal=Clin Exp Obstet Gynecol |volume=8 |issue=1 |pages=18–20 |year=1981 |pmid=7307267}}</ref>
+
+==References==
+<references/>
+
+{{Agents against amoebozoa}}
+{{Gynecological anti-infectives and antiseptics}}
+
+[[Category:Nitroimidazole antibiotics]]
+[[Category:Antiprotozoal agents]]
+[[Category:Pyrimidines]]
+[[Category:Alkene derivatives]]
+
+
+{{antiinfective-drug-stub}}
+{{genito-urinary-drug-stub}}

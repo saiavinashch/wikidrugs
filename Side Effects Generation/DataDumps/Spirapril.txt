@@ -1,0 +1,74 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 409958627
+| IUPAC_name = (8''S'')-7-[(2''S'')-2-<nowiki>[[</nowiki>(2''S'')-1-ethoxy-1-oxo-4-phenylbutan-2-yl]amino]propanoyl]-1,4-dithia-7-azaspiro[4.4]nonane-8-carboxylic acid
+| image = Spirapril structure.svg
+| width = 250
+
+<!--Clinical data-->
+| tradename = Renormax
+| Drugs.com = {{drugs.com|international|spirapril}}
+| pregnancy_category = D
+| legal_status = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 50%
+| metabolism = converted to spiraprilat
+| elimination_half-life = 30 to 35 hours
+| excretion = [[Liver|Hepatic]] and [[Kidney|renal]]
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6575
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 83647-97-6
+| ATC_prefix = C09
+| ATC_suffix = AA11
+| PubChem = 5311447
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB01348
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4470933
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 96U2K78I3V
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08529
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 431
+
+<!--Chemical data-->
+| C=22 | H=30 | N=2 | O=5 | S=2
+| molecular_weight = 466.616 g/mol
+| smiles = O=C(OCC)[C@@H](N[C@H](C(=O)N2[C@H](C(=O)O)CC1(SCCS1)C2)C)CCc3ccccc3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H30N2O5S2/c1-3-29-21(28)17(10-9-16-7-5-4-6-8-16)23-15(2)19(25)24-14-22(30-11-12-31-22)13-18(24)20(26)27/h4-8,15,17-18,23H,3,9-14H2,1-2H3,(H,26,27)/t15-,17-,18-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = HRWCVUIFMSZDJS-SZMVWBNQSA-N
+}}
+
+'''Spirapril hydrochloride''' (Renormax) is an [[ACE inhibitor]] [[antihypertensive]] drug used to treat [[hypertension]]. It belongs to dicarboxy group of ACE inhibitors.{{citation needed|date=December 2015}}
+
+[[File:Spiraprilat.svg|thumb|left|Spiraprilat — the active metabolite]] {{clear left}}
+
+Like many ACE inhibitors, this [[prodrug]] is converted to the active metabolite [[spiraprilat]] following oral administration. Unlike other members of the group, it is eliminated both by renal and hepatic routes, which may allow for greater use in patients with renal impairment.<ref>{{cite journal |vauthors=Shohat J, Wittenberg C, Erman A, Rosenfeld J, Boner G | title = Acute and chronic effects of spirapril, alone or in combination with isradipine on kidney function and blood pressure in patients with reduced kidney function and hypertension. | journal = Scand J Urol Nephrol | volume = 33 | issue = 1 | pages = 57&ndash;62 | year = 1999 | pmid = 10100366 | doi = 10.1080/003655999750016294}}</ref>
+However, data on its effect upon the [[renal function]] are conflicting.<!--
+  --><ref>{{cite journal |vauthors=Noble S, Sorkin E | title = Spirapril. A preliminary review of its pharmacology and therapeutic efficacy in the treatment of hypertension. | journal = Drugs | volume = 49 | issue = 5 | pages = 750&ndash;66 | year = 1995 | pmid = 7601014 | doi=10.2165/00003495-199549050-00008}}</ref>
+
+==References==
+<references/>
+
+{{ACE inhibitors}}
+{{Angiotensin receptor modulators}}
+
+[[Category:ACE inhibitors]]
+[[Category:Carboxamides]]
+[[Category:Enantiopure drugs]]
+[[Category:Ethyl esters]]
+[[Category:Nitrogen heterocycles]]
+[[Category:Prodrugs]]
+[[Category:Spiro compounds]]
+[[Category:Dithiolanes]]
+
+
+{{cardiovascular-drug-stub}}

@@ -1,0 +1,82 @@
+{{Drugbox
+| verifiedrevid = 458941862
+| IUPAC_name = 5-chloro-3''H''-benzooxazol-2-one
+| image = Chlorzoxazone.svg
+<!--Clinical data-->
+| tradename = Parafonforte
+| Drugs.com = {{drugs.com|monograph|chlorzoxazone}}
+| MedlinePlus = a682577
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status =  
+| routes_of_administration = oral
+<!--Pharmacokinetic data-->
+| bioavailability = well absorbed
+| protein_bound = 13–18%
+| metabolism = hepatic
+| elimination_half-life = 1.1 hr
+| excretion = urine (<1%)
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 95-25-0
+| ATC_prefix = M03
+| ATC_suffix = BB03
+| ATC_supplemental =  
+| PubChem = 2733
+| IUPHAR_ligand = 2322
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00356
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2632
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = H0DE420U8G
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00771
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 3655
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1371
+<!--Chemical data-->
+| C=7 | H=4 | Cl=1 | N=1 | O=2
+| molecular_weight = 169.565 g/mol
+| smiles = Clc2cc1c(OC(=O)N1)cc2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C7H4ClNO2/c8-4-1-2-6-5(3-4)9-7(10)11-6/h1-3H,(H,9,10)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = TZFWDZFKRBELIQ-UHFFFAOYSA-N
+}}
+'''Chlorzoxazone''' ([[International Nonproprietary Name|INN]]) is a centrally acting [[muscle relaxant]] used to treat muscle [[spasm]] and the resulting pain or discomfort.  It acts on the spinal cord by depressing reflexes.  It is sold under the trade names "'Lorzone'", '''Paraflex''' and '''Muscol''' and in combination form as '''Parafon Forte''', a combination of chlorzoxazone and [[acetaminophen]] (paracetamol).  Possible side effects include [[dizziness]], [[lightheadedness]], [[malaise]], [[nausea]], [[vomiting]], and liver dysfunction. Used with acetaminophen it has added risk of [[hepatoxicity]],{{medcn|date=December 2013}} which is why the combination is not recommended. It can also be administered for acute pain in general and for tension headache (muscle contraction headache).
+
+Like [[metaxalone]], no specific mechanism of action has been identified for chlorzoxazone, with general [[central nervous system]] [[depressant|depression]] being the only currently accepted aspect to its medical benefits. Search for the exact mechanism of action is ongoing but limited due to the existence of more-effective safe muscle relaxers (ex. [[diazepam]], [[cyclobenzaprine]], [[tizanidine]]) greatly limiting the potential benefit of identifying novel compounds which share chlozoxazone's mechanism of action.
+
+As of 2015 the cost for a typical course of medication in the United States is less than 25 USD.<ref name=Ric2015>{{cite book|last1=Hamilton|first1=Richart|title=Tarascon Pocket Pharmacopoeia 2015 Deluxe Lab-Coat Edition|date=2015|publisher=Jones & Bartlett Learning|isbn=9781284057560|page=1}}</ref>
+
+==See also==
+* [[Zoxazolamine]]
+
+==References==
+{{Reflist}}
+{{refbegin}}
+* D.F. Marsh, {{US Patent|2895877}} (1959).
+* {{cite journal |vauthors=Dong DL, Luan Y, Feng TM, Fan CL, Yue P, Sun ZJ, Gu RM, Yang BF | title = Chlorzoxazone inhibit contraction of rat thoracic aorta | journal = Eur J Pharmacol | volume = 545| issue = 2–3| pages = 161–6| year = 2006  | pmid = 16859676 | doi = 10.1016/j.ejphar.2006.06.063}}
+* {{cite journal |vauthors=Park J, Kim K, Park P, Ha J | title = Effect of high-dose aspirin on CYP2E1 activity in healthy subjects measured using chlorzoxazone as a probe | journal = J Clin Pharmacol | volume = 46 | issue = 1 | pages = 109–14 | year = 2006 | pmid = 16397290 | doi = 10.1177/0091270005282635}}
+* {{cite journal |vauthors=Wan J, Ernstgård L, Song B, Shoaf S | title = Chlorzoxazone metabolism is increased in fasted Sprague-Dawley rats | journal = J Pharm Pharmacol | volume = 58 | issue = 1 | pages = 51–61 | year = 2006 | pmid = 16393464 | doi = 10.1211/jpp.58.1.0007 | pmc = 1388188}}
+* [http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=15262 PARAFON DSC (chlorzoxazone) tablet], Daily Med, U.S. National Library of Medicine
+{{refend}}
+
+
+{{Muscle relaxants}}
+{{Ion channel modulators}}
+
+[[Category:Muscle relaxants]]
+[[Category:Carbamates]]
+[[Category:Chloroarenes]]
+[[Category:Benzoxazoles]]
+[[Category:Hepatotoxins]]
+
+
+{{Musculoskeletal-drug-stub}}

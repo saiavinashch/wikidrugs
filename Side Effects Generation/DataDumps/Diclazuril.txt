@@ -1,0 +1,92 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 408790816
+| IUPAC_name = 2-(4-Chlorophenyl)-2-[2,6-dichloro-4-(3,5-dioxo-1,2,4-triazin-2-yl)phenyl]acetonitrile
+| image = diclazuril.svg
+
+<!--Clinical data-->
+| tradename = Vecoxan
+| Drugs.com = {{drugs.com|international|diclazuril}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = 
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 101831-37-2
+| ATCvet = yes
+| ATC_prefix = P51
+| ATC_suffix = AJ03
+| PubChem = 456389
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = K110K1B1VE
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03794
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 284733
+ | ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 401855
+
+<!--Chemical data-->
+| chemical_formula = 
+| C=17 | H=9 | Cl=3 | N=4 | O=2 
+| molecular_weight = 407.64 g/mol
+| smiles = C1=CC(=CC=C1C(C#N)C2=C(C=C(C=C2Cl)N3C(=O)NC(=O)C=N3)Cl)Cl
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C17H9Cl3N4O2/c18-10-3-1-9(2-4-10)12(7-21)16-13(19)5-11(6-14(16)20)24-17(26)23-15(25)8-22-24/h1-6,8,12H,(H,23,25,26)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = ZSZFUDFOPOMEET-UHFFFAOYSA-N
+}}
+
+'''Diclazuril''' (trade name '''Vecoxan''') is a [[coccidiostat]].<ref>{{Cite journal 
+| last1 = Diaferia | first1 = M. 
+| last2 = Veronesi | first2 = F. 
+| last3 = Morganti | first3 = G. 
+| last4 = Nisoli | first4 = L. 
+| last5 = Fioretti | first5 = D. P. 
+| title = Efficacy of Toltrazuril 5 % Suspension (Baycox®, Bayer) and Diclazuril (Vecoxan®, Janssen-Cilag) in the Control of ''Eimeria'' spp. in Lambs 
+| doi = 10.1007/s00436-013-3440-1 
+| journal = Parasitology Research 
+| volume = 112 
+| pages = 163–168 
+| year = 2013 
+| pmid = 23756962 
+| pmc = 
+}}</ref>
+
+==See also==
+* [[Clazuril]]
+* [[Ponazuril]]
+* [[Toltrazuril]]
+
+==References==
+{{reflist}}
+
+
+{{Xenobiotic-sensing receptor modulators}}
+
+[[Category:Antiparasitic agents]]
+[[Category:Nitriles]]
+[[Category:Chloroarenes]]
+[[Category:Triazines]]
+[[Category:Lactams]]
+[[Category:Ureas]]
+
+
+{{antiinfective-drug-stub}}

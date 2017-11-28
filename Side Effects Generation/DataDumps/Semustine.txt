@@ -1,0 +1,79 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 443222760
+| IUPAC_name = ''N''-(2-Chloroethyl)-''N'''-(4-methylcyclohexyl)-''N''-nitrosourea
+| image = Semustine.svg
+| width = 200
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 13909-09-6
+| ATC_prefix = L01
+| ATC_suffix = AD03
+| PubChem = 5198
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 6YY7T1T567
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05822
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 6863
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 5009
+
+<!--Chemical data-->
+| C=10 | H=18 | Cl=1 | N=3 | O=2 
+| molecular_weight = 247.72 g/mol
+|  smiles = CC1CCC(CC1)NC(=O)N(CCCl)N=O
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C10H18ClN3O2/c1-8-2-4-9(5-3-8)12-10(15)14(13-16)7-6-11/h8-9H,2-7H2,1H3,(H,12,15)
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = FVLVBPDQNARYJU-UHFFFAOYSA-N
+}}
+
+'''Semustine''' is a drug used in [[chemotherapy]].<ref>{{Cite journal 
+| title = Radiation therapy and fluorouracil with or without semustine for the treatment of patients with surgical adjuvant adenocarcinoma of the rectum. Gastrointestinal Tumor Study Group 
+| journal = Journal of Clinical Oncology 
+| volume = 10 
+| issue = 4 
+| pages = 549–557 
+| year = 1992 
+| pmid = 1548520
+| doi=10.1200/jco.1992.10.4.549
+}}</ref>
+It is structurally similar to [[lomustine]], being distinguished from it only by an additional [[methyl]] group. It has been taken off the drug market for investigation of its cancerous effects, rated as [[IARC Group 1 carcinogen]] or a known carcinogen.<ref>http://www.cancer.org/cancer/cancercauses/othercarcinogens/generalinformationaboutcarcinogens/known-and-probable-human-carcinogens, Known and Probable Human Carcinogens, American Cancer Society</ref>
+
+==References==
+{{reflist}}
+
+{{Chemotherapeutic agents}}
+
+[[Category:Alkylating antineoplastic agents]]
+[[Category:IARC Group 1 carcinogens]]
+[[Category:Nitrosamines]]
+[[Category:Nitrosoureas]]
+[[Category:Organochlorides]]
+[[Category:Withdrawn drugs]]
+
+{{antineoplastic-drug-stub}}

@@ -1,0 +1,74 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470635509
+| image =  
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = u
+| target = [[Epidermal growth factor receptor]]
+<!-- Clinical data -->
+| tradename =  
+| pregnancy_AU =  
+| pregnancy_US =  
+| pregnancy_category =  
+| legal_AU =  
+| legal_CA =  
+| legal_UK =  
+| legal_US =  
+| legal_status =  
+| routes_of_administration =  
+| KEGG = D10031
+| KEGG_Ref = {{keggcite|changed|kegg}}
+<!-- Pharmacokinetic data -->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 667901-13-5
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+<!-- Chemical data -->
+| C=6512 | H=10074 | N=1734 | O=2032 | S=46
+| molecular_weight = 148 kg/mol
+}}
+
+'''Zalutumumab''' (proposed trade name '''HuMax-EGFR''') is a fully human IgG1 [[monoclonal antibody]] (mAb) directed towards the [[epidermal growth factor receptor]] (EGFR).  It is a product developed by [[Genmab]] in [[Utrecht (city)|Utrecht]], the Netherlands. Specifically, zalutumumab is designed for the treatment of [[squamous cell carcinoma]] of the head and neck ([[SCCHN]]), a type of [[cancer]].  
+
+== Mechanism of action ==
+Zalutumumab works through inhibition of the EGFR signal.  The EGFR is a [[receptor tyrosine kinase]]. Its structure includes an extracellular [[binding domain]], a transmembrane [[lipophilic]] segment, and an intracellular tyrosine kinase domain.
+
+=== Mechanism of EGFR ===
+EGFR is over-expressed by many tumor cells. Upon binding by a ligand, such as the [[epidermal growth factor]] or [[TGF alpha]], [[protein dimerization|dimerization]] occurs, leading to auto[[phosphorylation]] on the intracellular tyrosine residues.  Following phosphorylation, the [[Grb2]]-SOS signaling complex is stimulated.  This causes the activation of the G protein [[Ras (protein)|RAS]] through the exchange of [[guanosine diphosphate]] (GDP) for [[guanosine triphosphate]] (GTP).  The exchange of GDP for GTP induces a conformational change of RAS to allow it to bind to [[Raf-1]].  Raf-1 is then activated through another multistep mechanism in which dephosphorylation of inhibitory sites by [[protein phosphatase 2A]] (PP2A), as well as the phosphorylation of activating sites by [[p21 activated kinase]] (PAK) occurs.  After this, Raf-1 activates [[MAPK/ERK kinase]] (MEK), which then goes on to activate [[extracellular-signal-regulated kinase]] (ERK).  ERK is then able to enter the cell nucleus and control gene expression by phosphorylating various transcription factors, such as [[Elk-1]]. It is from there that the specific gene transcription occurs to initiate the [[cell cycle]]. Through this mechanisam, [[apoptosis]] is inhibited, [[angiogenesis]], [[cell migration|migration]], [[cell adhesion|adhesion]], and invasion occur.  Each of these is a functional element to the progression and development of cancer, which is defined as an abnormal growth of cells with a tendency to proliferate in an uncontrolled way and, in some cases, to [[metastasize]].<ref name="mednet">[http://www.medicinenet.com/cancer/article.htm What is Cancer], MedicineNet.com</ref>
+
+=== Mechanism of zalutumumab ===
+In order to combat SCCHN, zalutumumab was designed to inhibit the EGFR signaling.  Specifically, it binds to the EGFR Domain III on the cell surface.  This locks the receptor in an inactive conformation, making the drug an [[inverse agonist]]. In doing this it is also acting as a [[competitive antagonist]] for the [[Epidermal growth factor|EGF ligand]]. In the inactive conformation, the distance between the intracellular tyrosine kinase residues is larger, which inhibits dimerization. Phosphorylation is consequently inhibited, so that no signal is released.  Without a signal, cell cycle characteristics to enhance tumor growth are inhibited and the cancer progression is suppressed.<ref name="jer"/>
+
+This is not the only way in which zalutumumab works. It also is responsible for some antitumor affects through [[antibody-dependent cellular cytotoxicity]] (ADCC). The Fab, or [[fragment antigen binding]] region of the antibody, binds to the antigen on the EGFr expressing tumor cells. Through an immunological response, the body’s [[Natural killer cell|natural killer (NK) cells]], which are a type of [[lymphocyte]], recognize and bind to the [[Fragment crystallizable region|Fc]] portion on the antibody through an Fc receptor, [[CD16]]. The NK cell is then activated through the cross linking of the Fc receptors which sends a signal to induce apoptosis and cell death. The target tumor cell is then destroyed.<ref name="jer">Jeroen J. Lammerts van Bueren, Wim K. Bleeker, Annika Brännström, Anne von Euler, Magnus Jansson†, Matthias Peipp, Tanja Schneider-Merck, Thomas Valerius, Jan G. J. van de Winkel, and Paul W. H. I. Parren. The antibody zalutumumab inhibits epidermal growth factor receptor signaling by limiting intra- and intermolecular flexibility. 2008. 105, 16: 6109-6114.</ref>
+
+== Developmental status ==
+2009: Zalutumumab treatment was approved for [[FDA Fast Track Development Program|Fast Track status]] by the [[U.S. Food and Drug Administration]] for patients suffering from SCCHN who have failed standard therapies and have no other options.  The drug has undergone pre-clinical and Phase I and II studies and is also in Phases I and II for SCCHN front-line with chemo-radiation and SCCHN with radiation.  Additionally, a Phase II is under way for SCCHN and Phase III studies are also being performed for SCCHN and SCCHN front-line with radio therapy.<ref name="genmab">[http://www.genmab.com/ Genmmab A/S.  Science and Research], 2009</ref> 
+
+2010:A phase III study (of zalutumamab as an addition to 'best supportive care' in patients after failed standard platinum-based [[chemotherapy]]) reported a [[Statistical significance|non-significant]] improvement in [[overall survival]], and a [[Statistical significance|significant]] 61% improvement in [[Progression-free survival]]<ref>http://www.genengnews.com/news/bnitem.aspx?name=77261239 March 2010</ref>
+
+2014:A study of zalutumumab as addition to chemoradiation for SCCHN showed no benefit,<ref name=MHNCS2014>[http://www.medpagetoday.com/MeetingCoverage/MHNCS/44436 Zalutumumab Misses Mark in H&N Cancer]</ref> and 94% developed a skin rash (11% severe enough to discontinue).
+
+2015:Genmab not proceeding with zalutamamb.<ref>[http://www.ukmi.nhs.uk/applications/ndo/record_view_open.asp?newDrugID=4638 UKMI - zalutumumab]</ref>
+
+== References ==
+{{Reflist}}
+
+{{Monoclonals for tumors}}
+{{Growth factor receptor modulators}}
+
+[[Category:Monoclonal antibodies for tumors]]
+[[Category:Abandoned drugs]]

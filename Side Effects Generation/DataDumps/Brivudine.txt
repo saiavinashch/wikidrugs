@@ -1,0 +1,139 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 459982797
+| IUPAC_name = 5-[(''E'')-2-bromoethenyl]-1-[(2''R'',4''S'',5''R'')-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-1,2,3,4-tetrahydropyrimidine-2,4-dione
+| image = Brivudine - Brivudin.svg
+
+<!--Clinical data-->
+| tradename = Zostex, Mevir, Brivir, many others
+| Drugs.com = {{drugs.com|international|brivudine}}
+| pregnancy_category = Contraindicated
+| legal_status = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability   = 30%
+| protein_bound     = >95%
+| metabolism        = [[Thymidine phosphorylase]]
+| metabolites       = Bromovinyluracil
+| onset             =
+| elimination_half-life = 16 hours
+| duration_of_action =
+| excretion = 65% [[Kidney|renal]] (mainly metabolites), 20% [[faeces]]
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 69304-47-8
+| ATC_prefix = J05
+| ATC_suffix = AB15
+| PubChem = 446727
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 394011
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 2M3055079H
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 31634
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D07249
+| synonyms = BVDU
+
+<!--Chemical data-->
+| C=11 | H=13 | Br=1 | N=2 | O=5
+| molecular_weight = 333.135 g/mol
+| smiles = Br[C@H]=CC=1C(=O)NC(=O)N(C=1)[C@@H]2O[C@@H]([C@@H](O)C2)CO
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C11H13BrN2O5/c12-2-1-6-4-14(11(18)13-10(6)17)9-3-7(16)8(5-15)19-9/h1-2,4,7-9,15-16H,3,5H2,(H,13,17,18)/b2-1+/t7-,8+,9+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ODZBBRURCPAEIQ-PIXDULNESA-N
+| density = 1.86
+| melting_point = 165
+| melting_high = 166
+| melting_notes = (decomposes)
+| specific_rotation = +9°±1°
+}}
+'''Brivudine''' (trade names '''Zostex''', '''Mevir''', '''Brivir''', among others) is an [[antiviral drug]] used in the treatment of [[herpes zoster]] ("shingles").  Like other antivirals, it acts by inhibiting [[Viral replication|replication]] of the target virus.
+
+==Medical uses==
+Brivudine is used for the treatment of herpes zoster in adult patients. It is taken orally once daily, in contrast to [[aciclovir]], [[valaciclovir]] and other antivirals.<ref name="Austria-Codex" /> A study has found that it is more effective than [[aciclovir]], but this has been disputed because of a possible [[conflict of interest]] on part of the study authors.<ref name="at" />
+
+==Contraindications==
+The drug is contraindicated in patients undergoing [[immunosuppression]] (for example because of an [[organ transplant]]) or cancer therapy, especially with [[fluorouracil]] (5-FU) and chemically related [[prodrug|(pro)drugs]] such as [[capecitabine]] and [[tegafur]], as well as the [[antimycotic]] drug [[flucytosine]], which is also related to 5-FU. It has not been proven to be safe in children and pregnant or breastfeeding women.<ref name="Austria-Codex" />
+
+==Adverse effects==
+The drug is generally well tolerated. The only common side effect is [[nausea]] (in 2% of patients). Less common side effects (<1%) include headache, increased or lowered blood cell counts ([[granulocytopenia]], [[anaemia]], [[lymphocytosis]], [[monocytosis]]), increased liver enzymes, and allergic reactions.<ref name="Austria-Codex" />
+
+==Interactions==
+Brivudine interacts strongly and in rare cases lethally with the anticancer drug [[fluorouracil]] (5-FU), its prodrugs and related substances. Even [[Topical medication|topically]] applied 5-FU can be dangerous in combination with brivudine. This is caused by the main [[metabolite]], bromovinyluracil (BVU), irreversibly inhibiting the enzyme [[dihydropyrimidine dehydrogenase]] (DPD) which is necessary for inactivating 5-FU. After a standard brivudine therapy, DPD function can be compromised for up to 18 days. This interaction is shared with the closely related drug [[sorivudine]] which also has BVU as its main metabolite.<ref name="Austria-Codex" /><ref name="DÄB" />
+
+There are no other relevant interactions. Brivudine does not significantly influence the [[cytochrome P450]] enzymes in the liver.<ref name="Austria-Codex" />
+
+==Pharmacology==
+
+===Spectrum of activity===
+The drug inhibits [[viral replication|replication]] of [[varicella zoster virus]] (VZV) – which causes herpes zoster – and [[herpes simplex virus]] type 1 (HSV-1), but not HSV-2 which typically causes genital herpes. ''[[In vitro]]'', [[half maximal inhibitory concentration|inhibitory concentration]]s against VZV are 200- to 1000-fold lower than those of aciclovir and [[penciclovir]], theoretically indicating a much higher potency of brivudine. Clinically relevant VZV strains are particularly sensitive.<ref name="Steinhilber" />
+
+===Mechanism of action===
+Brivudine is an analogue of the [[nucleoside]] [[thymidine]]. The active compound is brivudine 5'-triphosphate, which is formed in subsequent [[phosphorylation]]s by viral (but not human) [[thymidine kinase]] and presumably by [[nucleoside-diphosphate kinase]]. Brivudine 5'-triphosphate works because it is incorporated into the viral DNA, but then blocks the action of [[DNA polymerases]], thus inhibiting viral replication.<ref name="Austria-Codex" /><ref name="Steinhilber" />
+
+===Pharmacokinetics===
+Brivudine is well and rapidly absorbed from the gut and undergoes [[first-pass metabolism]] in the liver, where the enzyme [[thymidine phosphorylase]]<ref>{{cite journal|doi=10.1016/0006-2952(83)90307-6|pmid=6651877|title=Phosphorolysis of (E)-5-(2-bromovinyl)-2'-deoxyuridine (BVDU) and other 5-substituted-2'-deoxyuridines by purified human thymidine phosphorylase and intact blood platelets|journal=Biochemical Pharmacology|volume=32|issue=23|pages=3583|year=1983|last1=Desgranges|first1=C.|last2=Razaka|first2=G.|last3=Rabaud|first3=M.|last4=Bricaud|first4=H.|last5=Balzarini|first5=J.|last6=De Clercq|first6=E.}}</ref> quickly splits off the sugar component, leading to a [[bioavailability]] of 30%. The resulting metabolite is bromovinyluracil (BVU), which does not have antiviral activity. BVU is also the only metabolite that can be detected in the blood plasma.<ref name="Austria-Codex" /><ref name="Mutschler" />
+
+Highest blood plasma concentrations are reached after one hour. Brivudine is almost completely (>95%) [[Plasma protein binding|bound to plasma proteins]]. [[Terminal half-life]] is 16 hours; 65% of the substance are found in the urine and 20% in the faeces, mainly in form of an [[acetic acid]] derivative (which is not detectable in the plasma), but also other water-soluble metabolites, which are [[urea]] derivatives. Less than 1% is excreted in form of the original compound.<ref name="Austria-Codex" />
+
+<gallery mode=packed>
+File:Brivudine triphosphate.svg|Brivudine 5'-triphosphate, the [[active metabolite]]
+File:Bromovinyluracil skeletal.svg|Bromovinyluracil (BVU), the main inactive metabolite
+File:Uracil acetic acid.svg|The [[acetic acid]] derivative predominantly found in urine
+</gallery>
+
+==Chemistry==
+The molecule has three [[Chirality (chemistry)|chiral]] carbon atoms in the [[deoxyribose]] (sugar) part all of which have defined orientation; i.e. the drug is [[stereochemical]]ly pure.<ref name="Austria-Codex" /> The substance is a white powder.
+
+==Manufacturing==
+Main supplier is Berlin-Chemie, now part of Italy's [[Menarini]] Group. In Central America is provided by Menarini Centro America and Wyeth.{{citation needed|date=February 2016}}
+
+==History==
+The substance was first synthesized by scientists at the [[University of Birmingham]] in the UK in 1976. It was shown to be a potent inhibitor of HSV-1 and VZV by [[Erik De Clercq]] at the [[Rega Institute for Medical Research]] in [[Belgium]] in 1979. In the 1980s the drug became commercially available in [[East Germany]], where it was marketed as ''Helpin'' by a pharmaceutical company called Berlin-Chemie. Only after the indication was changed to the treatment of herpes zoster in 2001 did it become more widely available in Europe.<ref name="DeClerq" /><ref name="bioactive" />
+
+Brivudine is approved for use in a number of European countries including Austria, Belgium, Germany, Greece, Italy, Portugal, Spain and Switzerland.<ref name="International">{{drugs.com|international|brivudine}}: Brivudine.</ref>
+
+==Etymology==
+The name ''brivudine'' derives from the chemical nomenclature ''[[bromine|bromo]]-[[vinyl group|vinyl]]-[[deoxyuridine]]'' or BVDU for short. It is sold under trade names such as Bridic, Brival, Brivex, Brivir, Brivirac, Brivox, Brivuzost, Zerpex, Zonavir, Zostex, and Zovudex.<ref name="International" />
+
+==Research==
+A [[Cochrane Collaboration|Cochrane Systematic Review]] examined the effectiveness of multiple antiviral drugs in the treatment of [[herpes of the eye|herpes simplex virus epithelial keratitis]]. Brivudine was found to be significantly more effective than [[idoxuridine]] in increasing the number of successfully healed eyes of participants.<ref name="Wilhelmus2015" />
+
+==See also==
+'''Related antiviral drugs'''
+* [[Aciclovir]]
+* [[Valacyclovir]], a prodrug form of aciclovir
+* [[Famciclovir]], an analogue of Penciclovir with greater oral availability
+* [[Foscarnet]], an intravenous antiviral for aciclovir-resistant VZV
+* [[Penciclovir]], a topical preparation
+
+'''Vaccines and other treatments'''
+* [[Zostavax]], a live virus Herpes zoster (shingles) vaccine
+* [[Varivax]], a live virus Varicella Zoster (chickenpox) vaccine
+* [[Shingrix]], a recombinant subunit vaccine for shingles
+* [[VZV immune globulin]], an antibody-based treatment for immune-suppressed patients with zoster
+
+==References==
+{{reflist|35em|refs=
+<ref name="Wilhelmus2015">{{cite journal|last1=Wilhelmus|first1=KR|title=Antiviral treatment and other therapeutic interventions for herpes simplex virus epithelial keratitis.|journal=The Cochrane database of systematic reviews|date=9 January 2015|volume=1|pages=CD002898|doi=10.1002/14651858.CD002898.pub5|pmid=25879115}}</ref>
+<ref name="Austria-Codex">{{cite book|title=Austria-Codex|editor=Jasek, W|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2007|edition=62nd|isbn=978-3-85200-181-4|pages=5246–8|language=German}}</ref>
+<ref name="Steinhilber">{{cite book|title=Medizinische Chemie|last1=Steinhilber|first1=D|last2=Schubert-Zsilavecz|first2=M|last3=Roth|first3=HJ|publisher=Deutscher Apotheker Verlag|location=Stuttgart|year=2005|isbn=3-7692-3483-9|pages=581–2|language=German}}</ref>
+<ref name="Mutschler">{{Cite book|last1=Mutschler|first1=Ernst|last2=Schäfer-Korting|first2=Monika|title=Arzneimittelwirkungen|language=German|location=Stuttgart|publisher=Wissenschaftliche Verlagsgesellschaft|year=2001|edition=8|page=847|isbn=3-8047-1763-2}}</ref>
+<ref name="at">{{cite journal|url=http://www.arznei-telegramm.de/html/2007_05/0705047_01.html|journal=Arznei-telegramm|volume=5/2007|title=Brivudin (Zostex) besser als Aciclovir (Zovirax a.a.)?|language=de}}</ref>
+<ref name="DÄB">{{cite journal|url=http://www.akdae.de/Arzneimittelsicherheit/Bekanntgaben/Archiv/2006/764-200607071.pdf|title=UAW – Aus Fehlern lernen - Potenziell tödlich verlaufende Wechselwirkung zwischen Brivudin (Zostex) und 5-Fluoropyrimidinen|journal=Deutsches Ärzteblatt|volume=103|issue=27|date=7 July 2006|language=de}}</ref>
+<ref name="DeClerq">{{cite journal|title=Discovery and development of BVDU (brivudin) as a therapeutic for the treatment of herpes zoster|journal=Biochemical Pharmacology|volume=68|issue=12|pages=2301–15|pmid=15548377|year=2004|author1=De Clercq|first1=E|doi=10.1016/j.bcp.2004.07.039}}</ref>
+<ref name="bioactive">{{cite book|title=Bioactive Compounds from Natural Sources|editor=Corrado Tringali|publisher=CRC Press|year=2012|edition=2nd|page=170}}</ref>
+}}
+
+{{Antivirals}}
+
+[[Category:Nucleosides]]
+[[Category:Pyrimidinediones]]
+[[Category:Organobromides]]
+[[Category:Anti-herpes virus drugs]]

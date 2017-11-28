@@ -1,0 +1,113 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 375046138
+| IUPAC_name = (3''R'',4''R'',5''E'',10''E'',12''E'',14''S'',26''R'',26a''S'')-26-<nowiki>[[</nowiki>2-(diethylamino)ethyl]sulfonyl]-8,9,14,15,24,25,26,26a- octahydro-14-hydroxy-3-isopropyl-4,12-dimethyl-3''H''-21,18-nitrilo-1''H'',22''H''-pyrrolo[2,1-''c''][1,8,4,19]-dioxadiazacyclotetracosine-1,7,16,22(4''H'',17''H'')-tetrone
+| image = Dalfopristin chemical structure.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|dalfopristin}}
+| MedlinePlus = a603007
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US =  Rx-only
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life = 1 hour
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 112362-50-2
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 6435782
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB01764
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = R9M4FJE48E
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D00853
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1200937
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 16736919
+
+<!--Chemical data-->
+| C=34 | H=50 | N=4 | O=9 | S=1 
+| molecular_weight = 690.85 g/mol
+| smiles            = CCN(CC)CCS(=O)(=O)[C@@H]1CCN2[C@H]1C(=O)O[C@@H]([C@@H](/C=C/C(=O)NC/C=C/C(=C/[C@H](CC(=O)CC3=NC(=CO3)C2=O)O)/C)C)C(C)C
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C34H50N4O9S/c1-7-37(8-2)16-17-48(44,45)28-13-15-38-31(28)34(43)47-32(22(3)4)24(6)11-12-29(41)35-14-9-10-23(5)18-25(39)19-26(40)20-30-36-27(21-46-30)33(38)42/h9-12,18,21-22,24-25,28,31-32,39H,7-8,13-17,19-20H2,1-6H3,(H,35,41)/b10-9+,12-11+,23-18+/t24-,25-,28-,31-,32-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = SUYRLXYYZQTJHF-VMBLUXKRSA-N
+|drug_name=|alt=|type=|licence_EU=|licence_US=}}
+
+'''Dalfopristin''' is a semi-synthetic [[streptogramin]] [[antibiotic]] analogue of ostreogyrcin A ([[Virginiamycin|virginiamycin M]], [[pristinamycin|pristinamycin IIA]], [[streptogramin A]]).<ref name=scbt>[http://www.scbt.com/datasheet-362728.html Dalfopristin (as mesylate) (CAS 112362-50-2)]</ref>  The combination [[quinupristin/dalfopristin]] (marketed under the trade name [[Quinupristin/dalfopristin|Synercid]]) was brought to the market by [[Rhône-Poulenc|Rhone-Poulenc Rorer Pharmaceuticals]] in 1999.<ref name=fda>http://www.accessdata.fda.gov/drugsatfda_docs/nda/99/50747_Synercid.cfm</ref> [[Synercid]] (weight-to-weight ratio of 30% [[quinupristin]] to 70% dalfopristin) is used to treat [[infection]]s by [[staphylococcus|staphylococci]] and by [[vancomycin]]-resistant ''[[Enterococcus|Enterococcus faecium]]''.<ref>{{cite journal | doi = 10.1016/S0149-2918(01)80028-X | author = Allington DR, Rivey MP | title = Quinupristin/dalfopristin: a therapeutic review | journal = Clin Ther | year = 2001 | volume = 23 | issue = 1 | pages = 24–44 | pmid = 11219478}}</ref>
+
+==Synthesis==
+Through the [[addition]] of diethylaminoethylthiol to the 2-[[pyrroline]] group and [[oxidation]] of the [[sulfate]] of ostreogrycin A, a structurally more [[hydrophobic]] compound is formed. This [[hydrophobic]] compound contains a readily [[ionizable]] group that is available for salt formation.<ref name=scbt />
+
+==Large Scale Preparation==
+Dalfopristin is synthesized from [[Pristinamycine|pristinamycine IIa]] through achieving a stereoselective [[Michael addition|Michael-type addition]] of 2-diethylaminoethanethiol on the conjugated double bond of the dehydroproline ring <ref name=recentdevelopments>{{cite journal |last=Barriere |first=J.C. |last2=Berthaud |first2=N. |last3=Beyer |first3=D. |last4=Dutka-Malen |first4=S. |last5=Paris |first5=J.M. |last6=Desnottes |first6=J.F. |date=April 1998 |title=Recent Developments in Streptogramin Research |journal=Current Pharmaceutical Design |publisher= |volume=4 |issue=2 |pages=155–190 |doi= |pmid=10197038}}</ref>
+. The first method found was using [[sodium periodate]] associated with [[ruthenium dioxide]] to directly oxidize the sulfur derivative into a [[sulfone]]. However, using [[hydrogen peroxide]] with [[sodium tungstate]] in a 2-phase medium produces an improved yield, and is therefore the method of choice for large scale production.
+
+The production of the dalfopristin portion of [[quinupristin/dalfopristin]] is achieved through purifying cocrystallization of the quinupristin and dalfopristin from [[acetone]] solutions.<ref name=recentdevelopments />
+
+==Physical Characteristics (as mesylate salt)==
+{| class="wikitable"
+|-
+| '''Appearance''' || White to yellow solid
+|-
+| '''[[State of matter|Physical State]]''' || Solid
+|-
+| '''[[Solubility]]''' || Soluble in ethanol, methanol, DMSO, DMF, and water (0.072&nbsp;mg/ml)
+|-
+| '''Storage''' || -20&nbsp;°C
+|-
+| '''[[Boiling Point]]''' || 940.5&nbsp;°C at 760 mmHg
+|-
+| '''[[Melting Point]]''' || 150&nbsp;°C
+|-
+| '''[[Density]]''' || 1.27 g/cm^3
+|-
+| '''[[Refractive Index]]''' || n20D 1.58
+|-
+| '''[[PKa|pK Values]]''' || pKa: 13.18 (Predicted), pKb: 8.97 (Predicted)
+|}
+
+==Antimicrobial Activity==
+Alone, both dalfopristin and [[quinupristin]] have modest [[in vitro]] [[bacteriostatic]] activity. However, 8-16 times higher in vitro [[bactericidal]] activity is seen against many [[gram-positive bacteria]] when the two [[streptogramins]] are combined <ref name=therapeuticreview>{{cite journal |last=Allington |first=Douglas R. |last2=Rivey |first2=Michael P. |date=January 2001 |title=Quinupristin/Dalfopristin: A Therapeutic Review |url= |journal=Clinical Therapeutics |volume=23 |issue=1 |pages=1–21 |pmid=11219478  |doi=10.1016/S0149-2918(01)80028-X}}<!--|accessdate=24 November 2013 --></ref>
+. While [[quinupristin/dalfopristin]] is effective against [[staphylococcus|staphylococci]] and [[Vancomycin-resistant Enterococcus|vancomycin-resistant Enterococcus faecium]], in vitro studies have not demonstrated bactericidal activity against all strains and species of common gram-positive bacteria.
+
+==Mechanism of Action==
+Both dalfopristin and quinupristin bind to sites located on the 50S subunit of the [[ribosome]]. Initial dalfopristin binding results in a conformational change of the ribosome, allowing for increased binding by quinupristin.<ref name=therapeuticreview /> A stable drug-ribosome complex is created when the two drugs are used together. This complex inhibits [[protein synthesis]] through prevention of peptide-chain formation and blocking the extrusion of newly formed peptide chains. In many cases, this leads to bacterial cell death.
+
+==Mechanism of Resistance==
+Streptogramin resistance is mediated through enzymatic drug inactivation, efflux or active transport of drug out of the cell, and most commonly, conformational alterations in ribosomal target binding sites.<ref name=therapeuticreview /> Enzymatic drug inactivation may occur in [[staphylococcal]] and [[enterococcal]] species through production of dalfopristin-inactivating acetyltransferase or quinupristin-inactivating hydrolase. Efflux or active transport of the drug may occur in coagulase-negative staphylococci and [[Enterococcus faecium]]. Constitutive ribosome modification has been seen in staphylococci with resistance seen in quinupristin only.
+
+While resistance to dalfopristin may be conferred via a single point of mutation, [[quinupristin/dalfopristin]] offers the benefit of requiring multiple points of mutation targeting both dalfopristin and quinupristin components to confer drug resistance.<ref name=therapeuticreview /> Comparatively, only 2-5% of staphylococcal isolates collected in France show resistance to a related streptogramin, [[pristinamycin]], in over 35 years of use.
+
+==Drug Interactions==
+Both dalfopristin and quinupristin are extensively hepatically metabolized, excreted from the feces, and serve as an inhibitor of [[cytochrome P450]] (CYP) 3A4 enzyme pathway.<ref name=therapeuticreview /> Caution should be taken with concommitent use with drugs metabolized by the [[CYP3A4]] pathway. Concomitant use of [[quinupristin/dalfopristin]] with [[cyclosporine]] for 2–5 days has shown to result in a two-fold increase in cyclosporine levels.
+
+No adverse effects have been seen in patients with [[hepatic impairment]] and no recommendations by the manufacturer have been made for dose reduction of [[quinupristin/dalfopristin]] in this patient population.
+
+==Commercialization==
+While little information is available regarding the regulatory and commercialization history of Dalfopristin alone, Synercid (quinupristin/dalfopristin), made by Rhone-Poulenc Rorer Pharmaceuticals, was approved in 1999 as an IV injectable for the treatment of vancomycin resistant Enterococcus faecium and complicated skin and skin structure infections.<ref name=fda /> Dalfopristin can be purchased alone on the internet from various chemical manufacturers as a [[mesylate]] salt.
+
+==References==
+{{reflist}}
+
+[[Category:Antibiotics]]
+[[Category:Oxazoles]]

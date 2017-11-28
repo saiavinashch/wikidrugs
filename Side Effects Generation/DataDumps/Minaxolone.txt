@@ -1,0 +1,75 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 447905095
+| IUPAC_name = 1-[(1''S'',2''S'',4''S'',5''S'',7''S'',10''S'',11''S'',14''S'',15''S'',17''R'')-17-(dimethylamino)-4-ethoxy-5-hydroxy-2,15-dimethyltetracyclo[8.7.0.0<sup>2,7</sup>.0<sup>11,15</sup>]heptadecan-14-yl]ethan-1-one
+| image = Minaxolone.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5478
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 62571-87-3
+| ATC_prefix = none
+| PubChem = 71960
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2105209
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 737SKC73L0
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05041
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 64967
+
+<!--Chemical data-->
+| C=25 | H=43 | N=1 | O=3 
+| molecular_weight = 405.614 g/mol
+| SMILES            = CCO[C@H]1C[C@]2([C@@H](CC[C@@H]3[C@@H]2[C@@H](C[C@]4([C@H]3CC[C@@H]4C(=O)C)C)N(C)C)C[C@@H]1O)C
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C25H43NO3/c1-7-29-22-14-24(3)16(12-21(22)28)8-9-17-19-11-10-18(15(2)27)25(19,4)13-20(23(17)24)26(5)6/h16-23,28H,7-14H2,1-6H3/t16-,17-,18+,19-,20+,21-,22-,23+,24-,25+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = NCGLTZSBTFVVAW-KNXRZYMVSA-N
+| synonyms = 11α-(Dimethylamino)-2β-ethoxy-3α-hydroxy-5α-pregnan-20-one
+}}
+
+'''Minaxolone''' ('''CCI-12923''') is a [[neuroactive steroid]] which was developed as a [[general anesthetic]] but was withdrawn before registration due to [[toxicity]] seen with long-term administration in rats, and hence was never marketed.<ref name="GanellinTriggle1996">{{cite book|author1=C.R. Ganellin|author2=David J. Triggle|title=Dictionary of Pharmacological Agents|url=https://books.google.com/books?id=A0THacd46ZsC&pg=PA1358|date=21 November 1996|publisher=CRC Press|isbn=978-0-412-46630-4|pages=1358–}}</ref><ref name="BovillHowie1999">{{cite book|author1=J. G. Bovill|author2=Michael B. Howie|title=Clinical Pharmacology for Anaesthetists|url=https://books.google.com/books?id=sD1sAAAAMAAJ|year=1999|publisher=W.B. Saunders|isbn=978-0-7020-2167-1}}</ref><ref name="HemmingsHopkins2006">{{cite book|author1=Hugh C. Hemmings|author2=Philip M. Hopkins|title=Foundations of Anesthesia: Basic Sciences for Clinical Practice|url=https://books.google.com/books?id=xaXu1wHmENoC&pg=PA305|year=2006|publisher=Elsevier Health Sciences|isbn=0-323-03707-0|pages=305–}}</ref> It is a [[positive allosteric modulator]] of the [[GABAA receptor|GABA<sub>A</sub> receptor]],<ref name="BiggioPurdy2001">{{cite book|author1=Giovanni Biggio|author2=Robert H. Purdy|title=Neurosteroids and Brain Function|url=https://books.google.com/books?id=13jQfYIkwhkC&pg=PA196|year=2001|publisher=Academic Press|isbn=978-0-12-366846-2|pages=196–}}</ref> as well as, less potently, a positive allosteric modulator of the [[glycine receptor]].<ref name="BiggioPurdy2001" /><ref name="pmid15033889">{{cite journal |vauthors=Weir CJ, Ling AT, Belelli D, Wildsmith JA, Peters JA, Lambert JJ | title = The interaction of anaesthetic steroids with recombinant glycine and GABAA receptors | journal = Br J Anaesth | volume = 92 | issue = 5 | pages = 704–11 |date=May 2004  | pmid = 15033889 | doi = 10.1093/bja/aeh125 | url = http://bja.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=15033889}}</ref>
+
+==Chemistry==
+{{See also|List of neurosteroids}}
+
+==See also==
+* [[Alfadolone]]
+* [[Alfaxolone]]
+* [[Ganaxolone]]
+* [[Hydroxydione]]
+* [[Pregnanolone]]
+* [[Renanolone]]
+
+==References==
+{{Reflist|2}}
+
+{{General anesthetics}}
+{{GABAAR PAMs}}
+{{Glycinergics}}
+
+[[Category:General anesthetics]]
+[[Category:Neurosteroids]]
+[[Category:Alcohols]]
+[[Category:Ethers]]
+[[Category:Amines]]
+[[Category:Ketones]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:Glycine receptor agonists]]
+[[Category:Pregnanes]]
+
+
+{{nervous-system-drug-stub}}

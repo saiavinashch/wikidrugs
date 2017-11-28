@@ -1,0 +1,87 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 417579163
+| IUPAC_name = 2-[(pyridin-3-ylcarbonyl)amino]ethyl nitrate
+| image = Nicorandil.svg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|nicorandil}}
+| pregnancy_AU = B3
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_CA = <!--                             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = POM
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability = 75 to 80%
+| protein_bound = 25%
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life = 1 hour
+| excretion = [[Kidney|Renal]] (21%)
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 65141-46-0
+| ATC_prefix = C01
+| ATC_suffix = DX16
+| PubChem = 47528
+| IUPHAR_ligand = 2411
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 43240
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 260456HAM0
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01810
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 31905
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 284906
+<!--Chemical data-->
+| C=8 | H=9 | N=3 | O=4
+| molecular_weight = 211.175 g/mol
+| smiles = O=C(NCCO[N+]([O-])=O)c1cccnc1
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C8H9N3O4/c12-8(7-2-1-3-9-6-7)10-4-5-15-11(13)14/h1-3,6H,4-5H2,(H,10,12)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = LBHIOVVIQHSOQN-UHFFFAOYSA-N
+}}
+'''Nicorandil''' is a vasodilatory [[drug]] used to treat [[Angina pectoris|angina]]. It is marketed under the trade names '''Ikorel''' (in the [[United Kingdom]], [[Australia]] and most of Europe), '''Angedil''' (in [[Romania]], [[Poland]]), '''Dancor''' (in [[Switzerland]]), '''Nikoran''','''PCA''' (in [[India]]), '''Aprior''' (in the [[Philippines]]), '''Nitorubin''' (in [[Japan]]), and '''Sigmart''' (in [[Japan]], [[South Korea]] and [[Taiwan]]). Nicorandil is not available in the [[United States]].
+
+[[Angina]] is chest pain that results from episodes of transient myocardial [[ischemia]]. This can be caused by diseases such as [[atherosclerosis]], [[coronary artery disease]] and [[aortic stenosis]]. Angina commonly arises from vasospasm of the coronary arteries. There are multiple mechanisms causing the increased smooth muscle contraction involved in coronary vasospasm, including increased [[Rho-kinase]] activity. Increased levels of Rho-kinase inhibit myosin phosphatase activity, leading to increased calcium sensitivity and hypercontraction.<ref>{{cite journal|last=Kandabashi|first=T |author2=Shimokawa, H |author3=Miyata, K |author4=Kunihiro, I |author5=Kawano, Y |author6=Fukata, Y |author7=Higo, T |author8=Egashira, K |author9=Takahashi, S |author10=Kaibuchi, K |author11=Takeshita, A|title=Inhibition of myosin phosphatase by upregulated rho-kinase plays a key role for coronary artery spasm in a porcine model with interleukin-1beta.|journal=Circulation|date=Mar 21, 2000|volume=101|issue=11|pages=1319–23|pmid=10725293|doi=10.1161/01.cir.101.11.1319}}</ref>  Rho-kinase also decreases [[nitric oxide synthase]] activity, which reduces nitric oxide concentrations.<ref>{{cite journal|last=Takemoto|first=M|author2=Sun, J |author3=Hiroki, J |author4=Shimokawa, H |author5= Liao, JK |title=Rho-kinase mediates hypoxia-induced downregulation of endothelial nitric oxide synthase.|journal=Circulation|date=Jul 2, 2002|volume=106|issue=1|pages=57–62|pmid=12093770 |doi=10.1161/01.cir.0000020682.73694.ab}}</ref> Lower levels of [[nitric oxide]] are present in spastic coronary arteries.<ref>{{cite journal|last=Kugiyama|first=K|author2=Yasue, H |author3=Okumura, K |author4=Ogawa, H |author5=Fujimoto, K |author6=Nakao, K |author7=Yoshimura, M |author8=Motoyama, T |author9=Inobe, Y |author10= Kawano, H |title=Nitric oxide activity is deficient in spasm arteries of patients with coronary spastic angina.|journal=Circulation|date=Aug 1, 1996|volume=94|issue=3|pages=266–71|pmid=8759065 |doi=10.1161/01.cir.94.3.266}}</ref> [[L-type calcium channel]] expression increases in spastic vascular smooth muscle cells, which could result in excessive calcium influx, and hypercontraction.<ref>{{cite journal|last=Kuga|first=T|author2=Shimokawa, H |author3=Hirakawa, Y |author4=Kadokami, Y |author5=Arai, Y |author6=Fukumoto, Y |author7=Kuwata, K |author8=Kozai, T |author9=Egashira, K |author10= Takeshita, A |title=Increased expression of L-type calcium channels in vascular smooth muscle cells at spastic site in a porcine model of coronary artery spasm.|journal=Journal of cardiovascular pharmacology|date=May 2000|volume=35|issue=5|pages=822–8|pmid=10813387 |doi=10.1097/00005344-200005000-00021}}</ref>
+
+Nicorandil is an [[Antianginal|anti-angina]] medication that has the dual properties of a [[nitrate]] and [[ATP-sensitive K+ channels|K+ATP channel]] agonist.<ref name=Nakae>{{cite journal|last=Nakae|first=I |author2=Matsumoto, T |author3=Horie, H |author4=Yokohama, H |author5=Omura, T |author6=Minai, K |author7=Matsui, T |author8=Nozawa, M |author9=Takahashi, M |author10=Sugimoto, Y |author11=Ito, M |author12=Izumi, M |author13=Nakamura, Y |author14=Mitsunami, K |author15=Kinoshita, M |title=Effects of intravenous nicorandil on coronary circulation in humans: plasma concentration and action mechanism.|journal=Journal of cardiovascular pharmacology|date=Jun 2000|volume=35|issue=6|pages=919–25|pmid=10836727|doi=10.1097/00005344-200006000-00014}}</ref> In humans, the nitrate action of nicorandil dilates the large coronary arteries at low plasma concentrations.<ref name="Nakae" /> At high plasma concentrations nicorandil reduces coronary vascular resistance, which is associated with increased K+ATP channel opening.<ref name="Nakae" />
+
+== Mechanism of action ==
+
+Nicorandil stimulates [[guanylate cyclase]] to increase formation of [[cyclic GMP]] (cGMP).<ref name=Sauzeau>{{cite journal|last=Sauzeau|first=V |author2=Le Jeune, H |author3=Cario-Toumaniantz, C |author4=Smolenski, A |author5=Lohmann, SM |author6=Bertoglio, J |author7=Chardin, P |author8=Pacaud, P |author9=Loirand, G |title=Cyclic GMP-dependent protein kinase signaling pathway inhibits RhoA-induced Ca2+ sensitization of contraction in vascular smooth muscle.|journal=The Journal of Biological Chemistry|date=Jul 14, 2000|volume=275|issue=28|pages=21722–9|pmid=10783386|doi=10.1074/jbc.M000753200}}</ref> cGMP activates [[protein kinase G]] (PKG), which phosphorylates and inhibits [[GTPase]] RhoA and decreases Rho-kinase activity.<ref name="Sauzeau" /> Reduced Rho-kinase activity permits an increase in myosin phosphatase activity, decreasing the calcium sensitivity of the smooth muscle.
+
+<ref name="Sauzeau" /> PKG also activates the [[sarcolemma]] calcium pump to remove activating calcium.<ref>{{cite journal|last=Vrolix|first=M|author2=Raeymaekers, L |author3=Wuytack, F |author4=Hofmann, F |author5= Casteels, R |title=Cyclic GMP-dependent protein kinase stimulates the plasmalemmal Ca2+ pump of smooth muscle via phosphorylation of phosphatidylinositol.|journal=The Biochemical Journal|date=Nov 1, 1988|volume=255|issue=3|pages=855–63|pmid=2850801 |pmc=1135320 |doi=10.1042/bj2550855}}</ref> PKG acts on [[K+ channels]] to promote K+ efflux and the ensuing [[Hyperpolarization (biology)|hyperpolarization]] inhibits [[voltage-gated calcium channels]].<ref name="Nakae" /> Overall, this leads to relaxation of the smooth muscle and coronary vasodilation.
+
+The effect of nicorandil as a [[vasodilator]] is mainly attributed to its nitrate property.<ref name="Nakae" /> Yet, nicorandil is effective in cases where nitrates, such as [[nitroglycerine]], are not effective.<ref name="Nakae" /> Studies show that this is due to its K+ATP channel agonist action which causes pharmacological preconditioning and provides cardioprotective effects against ischemia.<ref name="Nakae" /> Nicorandil activates K+ATP channels in the mitochondria of the myocardium, which appears to relay the cardioprotective effects, although the mechanism is still unclear.<ref>{{cite journal|last=Liu|first=Y|author2=Sato, T |author3=O'Rourke, B |author4= Marban, E |title=Mitochondrial ATP-dependent potassium channels: novel effectors of cardioprotection?|journal=Circulation|date=Jun 23, 1998|volume=97|issue=24|pages=2463–9|pmid=9641699 |doi=10.1161/01.cir.97.24.2463}}</ref>
+
+== Side effects ==
+
+Side effects listed in the British National Formulary include flushing, [[palpitations]], weakness and vomiting. More recently, [[perianal]], [[ileal]] and peristomal ulceration has been reported as a side effect. Anal ulceration is now included in the [[British National Formulary]] as a reported side effect. Other side effects include severe toothache, and nasal congestion.
+
+== See also ==
+*[[Nitrovasodilator]]
+
+== References ==
+{{Reflist}}
+*{{cite journal |vauthors=Kukovetz WR, Holzmann S, Pöch G |title=Molecular mechanism of action of nicorandil |journal=J. Cardiovasc. Pharmacol. |volume=20 |issue=Suppl 3 |pages=S1–7 |year=1992 |pmid=1282168 }}
+*{{cite book|last=Tripathi|first=K.D.|title=Essentials of Medical Pharmacology|location=Ch. 37|isbn=8180611876|page=499}}
+ 
+{{Vasodilators used in cardiac diseases}}
+{{Channel openers}}
+{{Nitric oxide signaling}}
+
+[[Category:Antianginals]]
+[[Category:Vasodilators]]
+[[Category:Nitrate esters]]
+[[Category:Pyridines]]
+[[Category:Nicotinamides]]
+[[Category:Potassium channel openers]]

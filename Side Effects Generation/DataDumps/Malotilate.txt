@@ -1,0 +1,69 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 458620741
+| IUPAC_name = diisopropyl 1,3-dithiol-2-ylidenemalonate
+| image = Malotilate.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|malotilate}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 59937-28-9
+| ATC_prefix = none
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem = 4006
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = RV59PND975
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1697754
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 3866
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=12 | H=16 | O=4 | S=2 
+| molecular_weight = 288.38 g/mol
+| smiles = CC(C)OC(=O)C(=C1SC=CS1)C(=O)OC(C)C
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C12H16O4S2/c1-7(2)15-10(13)9(11(14)16-8(3)4)12-17-5-6-18-12/h5-8H,1-4H3
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = YPIQVCUJEKAZCP-UHFFFAOYSA-N
+}}
+
+'''Malotilate''' ([[International Nonproprietary Name|INN]]) is a drug used in the treatment of liver disease. It has been shown to facilitate liver regeneration in rats.<ref>[http://www.journalarchive.jst.go.jp/english/jnlabstract_en.php?cdjournal=jphs1951&cdvol=40&noissue=3&startpage=411 Niwano et al,  	Acceleration of Liver Regeneration by Malotilate in Partially Hepatectomized Rats]</ref>
+
+==References==
+{{Reflist}}
+
+*{{cite journal |vauthors=Bührer M, Le Cotonnec JY, Wermeille M, Bircher J |title=Treatment of liver disease with malotilate. A pharmacokinetic and pharmacodynamic phase II study in cirrhosis |journal=Eur. J. Clin. Pharmacol. |volume=30 |issue=4 |pages=407–16 |year=1986 |pmid=3743616 |doi= 10.1007/BF00607952|url=}}
+*{{cite journal |vauthors=Siegers CP, Pauli V, Korb G, Younes M |title=Hepatoprotection by malotilate against carbon tetrachloride-alcohol-induced liver fibrosis |journal=Agents Actions |volume=18 |issue=5–6 |pages=600–3 |date=August 1986 |pmid=3766314 |doi= 10.1007/BF01964970|url=}}
+*{{cite journal |vauthors=Younes M, Siegers CP |title=Effect of malotilate on paracetamol-induced hepatotoxicity |journal=Toxicol. Lett. |volume=25 |issue=2 |pages=143–6 |date=May 1985 |pmid=4002245 |doi= 10.1016/0378-4274(85)90074-8|url=}}
+
+{{DEFAULTSORT:Malotilate}}
+[[Category:Hepatology]]
+[[Category:Drugs acting on the gastrointestinal system and metabolism]]
+[[Category:Medical treatments]]
+
+
+{{pharma-stub}}

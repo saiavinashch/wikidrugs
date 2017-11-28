@@ -1,0 +1,103 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 462248502
+| IUPAC_name = ''N'',2-dimethyl-1-phenylpropan-2-amine
+| image = Mephentermine.svg
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  IM/IV
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  Rapidly demethylated in the body followed by hydroxylation.
+| elimination_half-life =  
+| excretion =  Via urine (as unchanged and metabolites); more rapid in acidic urine.
+<!--Identifiers-->
+| IUPHAR_ligand = 7222
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 100-92-5
+| ATC_prefix = C01
+| ATC_suffix = CA11
+| PubChem = 3677
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01365
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3549
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = TEZ91L71V4
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08180
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201234
+<!--Chemical data-->
+| C=11 | H=17 | N=1
+| molecular_weight = 163.259 g/mol
+| smiles = N(C(Cc1ccccc1)(C)C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C11H17N/c1-11(2,12-3)9-10-7-5-4-6-8-10/h4-8,12H,9H2,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = RXQCGGRTAILOIN-UHFFFAOYSA-N
+| synonyms = <small>methyl(2-methyl-1-phenylpropan-2-yl)amine</small>
+}}
+
+'''Mephentermine''' is a [[cardiac stimulant]].  It was formerly used in Wyamine nasal decongestant inhalers and before that as a stimulant in psychiatry.
+
+It has been used as a treatment for [[hypotension|low blood pressure]].<ref name="pmid14000433">{{cite journal |author=WHITTINGTON RM |title=Mephentemine Sulphate as a Hypertensive Agent in General Practice |journal=J Coll Gen Pract |volume=6 |issue= 2|pages=336–7 |date=May 1963 |pmid=14000433 |pmc=1878111 |doi= |url=}}</ref>
+
+'''ATC Classification:''' 	C01CA11 - mephentermine ; Belongs to the class of adrenergic and dopaminergic cardiac stimulants excluding [[glycoside]]s. Used in the treatment of [[heart failure]].
+
+==Mechanism of Action==
+Mephentermine appears to act by indirect stimulation of β-adrenergic receptors causing the release of [[norepinephrine]] from its storage sites. It has a positive [[Inotrope|inotropic]] effect on the [[myocardium]]. AV conduction and refractory period of [[Atrioventricular node|AV node]] is shortened with an increase in ventricular conduction velocity. It dilates arteries and arterioles in the skeletal muscle and mesenteric vascular beds, leading to an increase in venous return.
+
+'''Onset:''' 5–15 minutes (IM), immediate (IV).
+
+'''Duration:''' 4 hr (IM), 30 minutes (IV).
+
+==Indication & Dosage==
+'''Maintenance of blood pressure in hypotensive states'''
+Adult: 30–45&nbsp;mg as a single dose, repeated as necessary or followed by IV infusion of 0.1% mephentermine in 5% dextrose, rate and duration of administration will depend on patient's response.
+
+'''Hypotension secondary to spinal anaesthesia in obstetric patients'''
+Adult: 15&nbsp;mg as a single dose, repeat if needed.Maximum dose 30 mg.
+
+==Caution==
+
+===Contraindications===
+Low blood pressure caused by [[phenothiazine]]s. [[Hypertension]]. [[Pheochromocytoma]].
+
+===Special Precautions===
+Patient on [[Monoamine oxidase inhibitor|MAOIs]]. 
+For shock due to loss of blood or fluid, give fluid replacement therapy primarily, CVS disease, hypertension, [[hyperthyroidism]], chronic illnesses, lactation, pregnancy.
+
+===Adverse Drug Reactions===
+Drowsiness, incoherence, hallucinations, convulsions, slow heart rate (Reflex Bradycardia). Fear, anxiety, restlessness, tremor, insomnia, confusion, irritability, and psychosis. Nausea, vomiting, reduced appetite, urinary retention, dyspnea, weakness.
+
+'''Potentially Fatal:''' AV block, CNS stimulation. Cerebral hemorrhage and pulmonary edema, ventricular arrhythmias.
+
+===Drug Interactions===
+Antagonizes effect of agents that lower blood pressure. Severe hypertension with MAOIs and possibly [[tricyclic antidepressant]]s. Additive vasoconstricting effects with [[ergot]] alkaloids, [[oxytocin]].
+
+'''Potentially Fatal:''' Risk of abnormal heart rhythm in people undergoing anesthesia with [[cyclopropane]] and [[halothane]].
+
+==References==
+{{Reflist}}
+
+{{Cardiac stimulants excluding cardiac glycosides}}
+{{Monoamine releasing agents}}
+
+[[Category:Substituted amphetamines]]
+[[Category:Alpha-adrenergic agonists]]
+[[Category:Cardiac stimulants]]
+[[Category:Norepinephrine releasing agents]]
+[[Category:Decongestants]]
+
+
+{{cardiovascular-drug-stub}}

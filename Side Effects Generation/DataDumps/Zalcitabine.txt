@@ -1,0 +1,102 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 477869167
+| IUPAC_name = 4-amino-1-((2''R'',5''S'')-5-(hydroxymethyl)tetrahydrofuran-2-yl)pyrimidin-2(1H)-one
+| image = Zalcitabine.svg
+<!--Clinical data-->
+| tradename = Hivid (discontinued)
+| Drugs.com = {{drugs.com|monograph|zalcitabine}}
+| pregnancy_AU = D
+| pregnancy_US = C
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status = Rx-only
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability = >80%
+| protein_bound = <4%
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life = 2 hours
+| excretion = [[Kidney|Renal]] (circa 80%)
+<!--Identifiers-->
+| IUPHAR_ligand = 4828
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 7481-89-2
+| ATC_prefix = J05
+| ATC_suffix = AF03
+| PubChem = 24066
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00943
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 22498
+| NIAID_ChemDB = 000006
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 6L3XT8CB3I
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00412
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 10101
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 853
+<!--Chemical data-->
+| C=9 | H=13 | N=3 | O=3
+| molecular_weight = 211.218 g/mol
+| smiles = O=C1/N=C(/N)\C=C/N1[C@@H]2O[C@@H](CC2)CO
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C9H13N3O3/c10-7-3-4-12(9(14)11-7)8-2-1-6(5-13)15-8/h3-4,6,8,13H,1-2,5H2,(H2,10,11,14)/t6-,8+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WREGKURFCTUGRC-POYBYMJQSA-N
+}}
+'''Zalcitabine''' (2′-3′-di[[deoxycytidine]], '''ddC'''), also called dideoxycytidine, is a nucleoside analog [[reverse transcriptase inhibitor]] (NRTI) sold under the trade name '''Hivid'''. Zalcitabine was the third antiretroviral to be approved by the Food and Drug Administration (FDA) for the treatment of [[HIV/AIDS]]. It is used as part of a [[combination therapy|combination regimen]].
+
+Zalcitabine appears less potent than some other nucleoside RTIs, has an inconvenient three-times daily frequency and is associated with serious adverse events. For these reasons it is now rarely used to treat human immunodeficiency virus ([[HIV]]), and it has even been removed from pharmacies entirely in some countries.{{Citation needed|date=January 2008}}
+
+==History==
+Zalcitabine was first synthesized in the 1960s by [[Jerome Horwitz]]<ref>{{cite journal |title=Nucleosides. IX. The formation of 2′,3′-unsaturated pyrimidine nucleosides via a novel β-elimination reaction |authors=J. P. Horwitz, J Chua, M DaRooge |journal=Journal of Organic Chemistry |volume=31 |pages=205–211 |year=1966 |pmid=5900814 |doi=10.1021/jo01339a045|display-authors=etal}}</ref><ref>Oral account of the history of [[Zidovudine|AZT]], [[Stavudine|d4T]] and ddC by [[Jerome Horwitz]] and [[Hiroaki Mitsuya]] in the documentary film [http://www.detourshenry.eu/en/azt.html I am alive today - History of an AIDS drug].</ref> and subsequently developed as an anti-HIV agent by [[Samuel Broder]], [[Hiroaki Mitsuya]], and [[Robert Yarchoan]] at the [[National Cancer Institute]] (NCI). Like [[didanosine]], it was then licensed because the NCI may not market or sell drugs. The [[National Institutes of Health]] (NIH) thus licensed it to [[Hoffmann-La Roche]].
+
+Zalcitabine was the third antiretroviral to be approved by the [[Food and Drug Administration]] (FDA) for the treatment of HIV/AIDS. It was approved on June 19, 1992 as a monotherapy and again in 1996 for use in combination with [[zidovudine]] (AZT). Using combinations of NRTIs was in practice prior to the second FDA approval and the triple drug combinations with dual NRTIs and a [[protease inhibitor (pharmacology)|protease inhibitor]] (PI) were not far off by this time.
+
+The sale and distribution of zalcitabine has been discontinued since December 31, 2006.<ref name="hividletter">[http://www.fda.gov/downloads/Drugs/DrugSafety/DrugShortages/ucm086099.pdf HIVID (zalcitabine) tablets. Dear Health Care Professional Letter. (June 2006)]</ref>
+
+==Mechanism of action==
+Zalcitabine is an [[analog (chemistry)|analog]] of [[pyrimidine]]. It is a derivative of the naturally existing deoxy[[cytidine]], made by replacing the [[hydroxyl]] group in position 3' with a [[hydrogen]].
+
+It is phosphorylated in [[T cell]]s and other HIV target cells into its active triphosphate form, ddCTP.  This active metabolite works as a substrate for HIV  [[reverse transcriptase]], and also by incorporation into the viral DNA, hence terminating the [[chain elongation]] due to the missing hydroxyl group.  Since zalcitabine is a [[reverse transcriptase]] inhibitor it possesses activity only against [[retrovirus]]es.
+
+==Pharmacokinetics==
+Zalcitabine has a very high oral absorption rate of over 80%. It is predominantly eliminated by the renal route, with a half-life of 2 hours.<ref name="hividpi">[http://www.rocheusa.com/products/hivid/pi.pdf HIVID (zalcitabine) tablets. Product information. (September 2002)]</ref>
+
+==Drug interactions==
+[[Lamivudine]] (3TC) significantly inhibits the intracellular phosphorylation of zalcitabine to the active form, and accordingly the drugs should not be administered together.<ref name="hividpi" />
+
+Additionally, zalcitabine should not be used with other drugs that can cause peripheral [[neuropathy]], such as [[didanosine]] and [[stavudine]].<ref name="hividpi" />
+
+==Adverse events==
+The most common adverse events at the beginning of treatment are nausea and headache. More serious adverse events are [[peripheral neuropathy]], which can occur in up to 33% of patients with advanced disease, [[Mouth ulcer|oral ulcers]], [[oesophagitis|oesophageal ulcers]] and, rarely, [[pancreatitis]].<ref name="hividpi" />
+
+==Resistance==
+Resistance to zalcitabine develops infrequently compared with other nRTIs, and generally only occurs at a low level.<ref name="Moyle">{{cite journal | author = Moyle GJ | year = 1996 | title = Use of viral resistance patterns to antiretroviral drugs in optimising selection of drug combinations and sequences | url = | journal = Drugs | volume = 52 | issue = | pages = 168–185 | doi=10.2165/00003495-199652020-00002}}</ref> The most common mutation observed ''in vivo'' is T69D, which does not appear to give rise to cross-resistance to other nRTIs; mutations at positions 65, 74, 75, 184 and 215 in the ''pol'' gene are observed more rarely.<ref name="hividpi" /><ref name="Moyle" />
+
+==Specialty drugs==
+In 1992 dideoxycytidine was listed as a [[specialty drugs|specialty drug]].<ref name="Austria_1992">{{cite journal | title=New, in Austria registered specialty drugs. Hivid (2',3'-dideoxycytidine; ddC) | date=1992 | author=Töglhofer, W. | pages=363–7 | pmid=1353278 | volume=104 | number=12 | journal=Wien Klin Wochenschr}}</ref>
+
+==Sources==
+{{reflist}}
+
+==Further reading==
+* {{cite journal | author = Yarchoan R, Mitsuya H, Broder S | year = 1988 | title = AIDS therapies | url = | journal = Scientific American | volume = 259 | issue = 4| pages = 110–9 | doi=10.1038/scientificamerican1088-110 | pmid=3072667}}
+* Harvey Stewart C. in ''Remington's Pharmaceutical Sciences'' 18th edition: (ed. Gennard, Alfonso R.)  Mack Publishing Company, 1990
+* Rang H.P., Dale M.M., Ritter J.M.: ''Pharmacology'', 3rd edition.  Pearson Professional Ltd, 1995.
+* {{cite journal | author = Mitsuya H, Broder S | year = 1986 | title = Inhibition of the in vitro infectivity and cytopathic effect of human T-lymphotropic virus type III/lymphadenopathy virus-associated virus (HTLV-III/LAV) by 2',3'-dideoxynucleosides | url = | journal = Proc Natl Acad Sci USA | volume = 83 | issue = | pages = 1911–5 | doi=10.1073/pnas.83.6.1911}}
+* {{cite journal | author = Yarchoan R, Perno CF, Thomas RV ''et al.'' | year = 1988 | title = Phase I studies of 2',3'-dideoxycytidine in severe human immunodeficiency virus infection as a single agent and alternating with zidovudine (AZT) | doi = 10.1016/s0140-6736(88)90283-8 | journal = Lancet | volume = 1 | issue = | pages = 76–81 }}
+* {{cite journal | author = Mitsuya H, Yarchoan R, Broder S | year = 1990 | title = Molecular targets for AIDS therapy | url = | journal = Science | volume = 249 | issue = | pages = 1533–44 | doi=10.1126/science.1699273 | pmid=1699273}}
+* NIH Bio and Oral History of Samuel Broder describing the development of anti-HIV drugs: http://aidshistory.nih.gov/transcripts/bios/Samuel_Broder.html
+* NIH Bio and Oral History of Robert Yarchoan describing the development of anti-HIV drugs: http://aidshistory.nih.gov/transcripts/bios/Robert_Yarchoan.html
+* Moyle G. "A re-evaluation of zalcitabine. ''Expert Opin Investig Drugs'' 1998;7:451-62
+
+{{HIVpharm}}
+
+[[Category:Nucleoside analog reverse transcriptase inhibitors]]
+[[Category:IARC Group 2B carcinogens]]
+[[Category:Pyrimidones]]
+[[Category:Specialty drugs]]

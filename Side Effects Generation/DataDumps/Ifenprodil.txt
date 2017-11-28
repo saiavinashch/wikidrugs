@@ -1,0 +1,65 @@
+{{chembox
+| Verifiedfields = changed
+| verifiedrevid = 461742484
+| ImageFile=Ifenprodil.svg
+| IUPACName=4-[2-(4-benzylpiperidin-1-yl)-1-hydroxypropyl]phenol
+| OtherNames=
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = R8OE3P6O5S
+| IUPHAR_ligand = 5472
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3561
+| InChI = 1/C21H27NO2/c1-16(21(24)19-7-9-20(23)10-8-19)22-13-11-18(12-14-22)15-17-5-3-2-4-6-17/h2-10,16,18,21,23-24H,11-15H2,1H3
+| InChIKey = UYNVMODNBIQBMV-UHFFFAOYAU
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H27NO2/c1-16(21(24)19-7-9-20(23)10-8-19)22-13-11-18(12-14-22)15-17-5-3-2-4-6-17/h2-10,16,18,21,23-24H,11-15H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = UYNVMODNBIQBMV-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo=
+| PubChem=3689
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 305187
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08064
+| SMILES = OC(c1ccc(O)cc1)C(N2CCC(CC2)Cc3ccccc3)C
+}}
+|Section2={{Chembox Properties
+| Formula=C<sub>21</sub>H<sub>27</sub>NO<sub>2</sub>
+| MolarMass=325.445
+| Appearance=
+| Density=
+| MeltingPt=
+| BoilingPt=
+| Solubility=
+  }}
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = C04
+| ATCCode_suffix = AX28
+}}
+|Section7={{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| AutoignitionPt =
+  }}
+}}
+'''Ifenprodil''' is an inhibitor of the [[NMDA receptor]],<ref name="pmid2555674">{{cite journal |vauthors=Reynolds IJ, Miller RJ |title=Ifenprodil is a novel type of N-methyl-D-aspartate receptor antagonist: interaction with polyamines |journal=Mol. Pharmacol. |volume=36 |issue=5 |pages=758–65 |year=1989 |pmid=2555674 |doi=}}</ref> specifically of GluN1 (glycine-binding NMDA receptor subunit 1) and GluN2B (glutamate-binding NMDA receptor subunit 2) subunits.<ref>{{cite journal |vauthors=Korinek M, Kapras V, Vyklicky V, Adamusova E, Borovska J, Vales K, Stuchlik A, Horak M, Chodounska H, ((Vyklicky L Jr)) |title=Neurosteroid modulation of N-methyl-d-aspartate receptors: Molecular mechanism and behavioral effects |journal=Steroids |volume=76 |issue=13 |pages=1409–18 |date=Dec 2011 |pmid= 21925193 |doi=10.1016/j.steroids.2011.09.002 }}</ref> Additionally, ifenprodil inhibits GIRK channels, and interacts with alpha1 adrenergic, serotonin, and sigma receptors.<ref>{{cite journal|last1=Kobayashi|first1=Toru|last2=Washiyama|first2=Kazuo|last3=Ikeda|first3=Kazutaka|title=Inhibition of G Protein-Activated Inwardly Rectifying K+ Channels by Ifenprodil|journal=Neuropsychopharmacology|date=3 August 2005|volume=31|issue=3|pages=516–524|doi=10.1038/sj.npp.1300844|pmid=16123769}}</ref>
+
+NMDA receptors are multimeric [[ionotropic]] [[glutamate]] [[Receptor (biochemistry)|receptor]]s composed of four subunits. [[GRIN1|GluN1]] is obligate for functional expression. Other subunits include GluN2A, GluN2B, and the more recently discovered GluN3 subunits. Ifenprodil selectively blocks NMDA receptors containing the GluN2B subunit.
+
+==References==
+<references/>
+
+{{Peripheral vasodilators}}
+{{Ionotropic glutamate receptor modulators}}
+{{Sigma receptor modulators}}
+
+[[Category:NMDA receptor antagonists]]
+[[Category:Piperidines]]
+[[Category:Phenols]]
+[[Category:Alcohols]]
+[[Category:Sigma receptor ligands]]
+
+
+{{cardiovascular-drug-stub}}

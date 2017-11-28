@@ -1,0 +1,72 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 477240878
+| IUPAC_name = (1''S'',2''S'',4''R'')-Methyl 4-(((2''S'',5''R'',6''R'')-4-(dimethylamino)-5-(((1''S'',3''R'',4''S'')-3-hydroxy-5-methyl-4-(((2''S'',6''R'')-6-methyl-5-oxotetrahydro-2''H''-pyran-2-yl)oxy)cyclohexyl)oxy)-6-methyltetrahydro-2''H''-pyran-2-yl)oxy)-2-ethyl-2,5,7-trihydroxy-6,11-dioxo-1,2,3,4,6,11-hexahydrotetracene-1-carboxylate
+| image = Aclarubicin.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|aclarubicin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = [[Intravenous therapy|IV]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 57576-44-0
+| ATC_prefix = L01
+| ATC_suffix = DB04
+| ATC_supplemental =  
+| PubChem = 42474
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 1931
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 74KXF8I502
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02756
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 74619
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 502620
+
+<!--Chemical data-->
+| C=42 | H=53 | N=1 | O=15 
+| molecular_weight = 811.86 g/mol
+| smiles = CCC1(CC(C2=C(C1C(=O)OC)C=C3C(=C2O)C(=O)C4=C(C3=O)C=CC=C4O)OC5CC(C(C(O5)C)OC6CC(C(C(O6)C)OC7CCC(=O)C(O7)C)O)N(C)C)O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C42H53NO15/c1-8-42(51)17-28(33-22(35(42)41(50)52-7)14-23-34(38(33)49)37(48)32-21(36(23)47)10-9-11-26(32)45)56-30-15-24(43(5)6)39(19(3)54-30)58-31-16-27(46)40(20(4)55-31)57-29-13-12-25(44)18(2)53-29/h9-11,14,18-20,24,27-31,35,39-40,45-46,49,51H,8,12-13,15-17H2,1-7H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = USZYSDMBJDPRIF-UHFFFAOYSA-N
+| melting_point     = 151
+| melting_high      = 153
+| melting_notes     = (decomposes)
+}}
+
+'''Aclarubicin''' ([[International Nonproprietary Name|INN]]) or '''aclacinomycin A'''<ref name="pubchem">{{PubChem|451415}}</ref> is an [[anthracycline]] drug<ref name="pmid1655244">{{cite journal |vauthors=Jensen PB, Jensen PS, Demant EJ |title=Antagonistic effect of aclarubicin on daunorubicin-induced cytotoxicity in human small cell lung cancer cells: relationship to DNA integrity and topoisomerase II |journal=Cancer Res. |volume=51 |issue=19 |pages=5093–9 |date=October 1991 |pmid=1655244 |doi= |url=http://cancerres.aacrjournals.org/cgi/pmidlookup?view=long&pmid=1655244|display-authors=etal}}</ref> that is used in the treatment of [[cancer]]. Soil bacteria ''[[Streptomyces galilaeus]]'' can produce aclarubicin. It can induce [[histone]] eviction from [[chromatin]] upon [[Intercalation (biochemistry)|intercalation]].<ref name="Pang">{{cite journal |vauthors=Pang B, Qiao X, Janssen L, Velds A, Groothuis T, Kerkhoven R, Nieuwland M, Ovaa H, Rottenberg S, van Tellingen O, Janssen J, Huijgens P, Zwart W, Neefjes J |title= Drug-induced histone eviction from open chromatin contributes to the chemotherapeutic effects of doxorubicin |journal= Nature Communications |volume=4 |pages=1908 |year=2013 |url=http://www.nature.com/ncomms/journal/v4/n5/full/ncomms2921.html |pmid= 23715267 |doi= 10.1038/ncomms2921 |pmc=3674280}}</ref><ref name="pang">{{cite journal |vauthors= Pang B, de Jong J, Qiao X, Wessels LF, Neefjes J |title= Chemical profiling of the genome with anti-cancer drugs defines target specificities |journal= Nature Chemical Biology |volume=11 |pages=472 |year=2015 |url=http://www.nature.com/nchembio/journal/v11/n7/full/nchembio.1811.html |pmid= 25961671 |doi=10.1038/nchembio.1811 |issue=7}}</ref>
+
+==References==
+{{reflist}}
+
+{{Chemotherapeutic agents}}
+
+[[Category:Anthracyclines]]
+[[Category:Topoisomerase inhibitors]]
+
+
+{{antineoplastic-drug-stub}}

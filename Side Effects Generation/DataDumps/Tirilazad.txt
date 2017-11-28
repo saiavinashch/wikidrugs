@@ -1,0 +1,70 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 470610761
+| IUPAC_name = (16α)-21-[4-(2,6-dipyrrolidin-1-ylpyrimidin-4-yl)piperazin-1-yl]-16-methylpregna-1,4,9(11)-triene-3,20-dione
+| image = Tirilazad.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 110101-66-1
+| ATC_prefix = N07
+| ATC_suffix = XX01
+| PubChem = 104903
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 94673
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = YD064E883I
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08606
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1630578
+
+<!--Chemical data-->
+| C=38 | H=52 | N=6 | O=2 
+| molecular_weight = 624.859 g/mol
+| smiles = O=C(CN4CCN(c2nc(nc(N1CCCC1)c2)N3CCCC3)CC4)[C@H]6[C@H](C)C[C@H]5[C@H]8C(=C/C[C@@]56C)\[C@]/7(/C=C\C(=O)\C=C\7CC8)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C38H52N6O2/c1-26-22-31-29-9-8-27-23-28(45)10-12-37(27,2)30(29)11-13-38(31,3)35(26)32(46)25-41-18-20-43(21-19-41)34-24-33(42-14-4-5-15-42)39-36(40-34)44-16-6-7-17-44/h10-12,23-24,26,29,31,35H,4-9,13-22,25H2,1-3H3/t26-,29-,31+,35-,37+,38+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = RBKASMJPSJDQKY-RBFSKHHSSA-N
+| synonyms = <small>(8''S'',10''S'',13''S'',14''S'',16''R'',17''S'')-17-[2-[4-(2,6-dipyrrolidin-1-ylpyrimidin-4-yl)piperazin-1-yl]acetyl]-10,13,16-trimethyl-6,7,8,12,14,15,16,17-octahydrocyclopenta[''a'']phenanthren-3-one</small>
+}}
+
+'''Tirilazad''' is a drug that has been proposed to treat acute ischaemic [[stroke]]. When tested on animal models, tirilazad protects brain tissue, and reduces brain damage. However, the drug fails to treat, and even worsens a stroke when studied on a human being.<ref>{{cite web |url=http://www.cochrane.org/reviews/en/ab002087.html |title=Tirilazad for acute ischaemic stroke |accessdate=2007-07-28 |format= |work=}}</ref>
+
+== Usage in treatment of stroke ==
+Tirilazad currently has no usage in the clinical treatment of stroke.
+
+==References==
+{{reflist}}
+
+{{Other nervous system drugs}}
+{{Piperazines}}
+
+[[Category:Piperazines]]
+[[Category:Pregnanes]]
+[[Category:Pyrimidines]]
+[[Category:Pyrrolidines]]
+
+{{nervous-system-drug-stub}}

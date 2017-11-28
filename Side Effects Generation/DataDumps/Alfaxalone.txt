@@ -1,0 +1,207 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 477317167
+| IUPAC_name = (3''R'',5''S'',8''S'',9''S'',10''S'',13''S'',14''S'',17''S'')-17-acetyl-3-hydroxy-10,13-dimethyl-1,2,3,4,5,6,7,8,9,12,14,15,16,17-tetradecahydrocyclopenta[''a'']phenanthren-11-one
+| image = Alphaxolone.svg
+| width = 225px
+
+<!--Clinical data-->
+| tradename = Alfaxan
+| Drugs.com = {{drugs.com|international|alfaxalone}}
+| DailyMedID = Alfaxan
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| legal_AU = S4<!-- https://www.legislation.gov.au/Details/F2017L00605-->
+| legal_CA = Rx-only<!--https://www.pharmacompass.com/health-canada-drug-product-database/alfaxalone,  https://www.canada.ca/en/health-canada/services/drugs-health-products/drug-products/prescription-drug-list/list.html-->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = Schedule IV
+| legal_US_comment = (by veterinarian only)
+
+<!--Pharmacokinetic data-->
+  | bioavailability   = 
+  | protein_bound     = 30–50%
+  | metabolism        = Hepatic
+  | metabolites       = 
+{{Plainlist|
+* Alfaxalone glucuronide (major in dogs)
+* 20-Hydroxyalfaxalone sulfate (major in cats)
+}}
+  | onset             = 
+  | elimination_half-life = 
+{{Plainlist|
+* 25 min (dogs)
+* 45 min (cats)
+}}
+  | duration_of_action=  
+  | excretion         = Mostly [[renal]]
+
+<!--Identifiers-->
+ | class             = 
+{{plainlist|
+* [[Neuroactive steroid]]
+* [[General anesthetic]]
+}}
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 23930-19-0
+| ATCvet = yes
+| ATC_prefix = N01
+| ATC_suffix = AX05
+| PubChem = 104845
+| DrugBank = DB11371
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 94637
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = BD07M97B2A
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07282
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 190279
+| IUPHAR_ligand = 5461
+
+<!--Chemical data-->
+| C=21 | H=32 | O=3 
+| molecular_weight = 332.477 g/mol
+| SMILES = O=C2[C@H]3[C@H]([C@@H]1CC[C@H](C(=O)C)[C@@]1(C)C2)CC[C@H]4C[C@H](O)CC[C@]34C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H32O3/c1-12(22)16-6-7-17-15-5-4-13-10-14(23)8-9-20(13,2)19(15)18(24)11-21(16,17)3/h13-17,19,23H,4-11H2,1-3H3/t13-,14+,15-,16+,17-,19+,20-,21+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = DUHUCHOQIDJXAT-OLVMNOGESA-N
+| synonyms = Alphaxalone; Alphaxolone; Alfaxolone; 3α-Hydroxy-5α-pregnane-11,20-dione; PHAX-001; Phaxan
+}}
+
+'''Alfaxalone''', also known as '''alphaxalone''' or '''alphaxolone''', is a [[neuroactive steroid]] and [[general anaesthetic|general anesthetic]].<ref name="Elks2014">{{cite book|last=Elks|first=J|title=The Dictionary of Drugs: Chemical Data: Chemical Data, Structures and Bibliographies|url=https://books.google.com/books?id=0vXTBwAAQBAJ&pg=PA664|date=14 November 2014|publisher=Springer|isbn=978-1-4757-2085-3|pages=664–}}</ref><ref name="MortonHall2012">{{cite book|last=Morton|first=I.K.|last2=Hall|first2=Judith M.|title=Concise Dictionary of Pharmacological Agents: Properties and Synonyms|url=https://books.google.com/books?id=tsjrCAAAQBAJ&pg=PA11|date=6 December 2012|publisher=Springer Science & Business Media|isbn=978-94-011-4439-1|page=11}}</ref> It is used in [[veterinary practice]] under the trade name '''Alfaxan'''<ref name="Drugs.com">{{cite web| url=http://www.drugs.com/international/alfaxalone.html | title=Alfaxalone | publisher=Drugs.com}}</ref> as an [[General anaesthesia#Induction|induction agent]] for [[anesthesia]] and as an injectable anesthetic. Though it is more expensive than other induction agents,<ref name=rezende>{{cite web | last=Rezende | first=Marlis | title=Reintroduced Anesthetic Alfaxalone | work=Clinician's Brief | accessdate=July 14, 2017 | date=June 2015 | url=https://www.cliniciansbrief.com/sites/default/files/attachments/MEDS_Reintroduced%20Anesthetic%20Alfaxalone.pdf}}</ref> it often preferred due to the lack of depressive effects on the [[cardiovascular system]]. The most common side effect is [[Respiratory system|respiratory]] depression; when [[premedications]] aren't given, patients also become agitated and hypersensitive when waking up.
+
+Alfaxalone works as a [[positive allosteric modulator]] on [[GABAA receptors|GABA<sub>A</sub> receptors]] and, at high concentrations, as a direct [[GABA receptor agonist|agonist]] of the GABA<sub>A</sub> receptor. It is cleared quickly by the [[liver]], giving it a relatively short [[terminal half-life]] and preventing it from accumulating in the body, lowering the chance of overdose.
+
+==Medical use==
+Alfaxalone is used as an [[General anesthesia#Induction|induction agent]], an injectable anesthetic, and as a [[sedative]] in animals.<ref name=dailymed /> While its commonly used in [[cats]] and [[dogs]], it has also been successfully used in [[rabbits]],<ref name=varga /> [[horses]], [[sheep]], [[pigs]], and exotics such as [[Red-eared slider|red-eared turtles]], [[axolotl]], [[green iguana]]s, [[marmosets]],<ref name=clarke6 /> and [[koi fish]].<ref name=minter>{{cite journal | last1=Minter | first1=Larry J | last2=Bailey | first2=Kate M | last3=Harms | first3=Craig A | last4=Lewbart | first4=Gregory A | last5=Posner | first5=Lysa P | title=The efficacy of alfaxalone for immersion anesthesia in koi carp (''Cyprinus carpio'') | journal=Veterinary Anaesthesia and Analgesia | date=July 1, 2014 | url=http://www.vaajournal.org/article/S1467-2987(16)30300-2/fulltext | doi=10.1111/vaa.12113 | pmid=24754530 | issn=1467-2987 | volume=41 | issue=4 | pages=398–405}}</ref> As an induction agent, alfaxalone causes the animal to relax enough to be [[intubated]], allowing [[Inhalational anaesthetic|inhalational anesthesia]] to be administered. Premedication (administering [[sedative drugs]] prior this event) increases the potency of alfaxalone as an induction agent.<ref name=clarke6 /> It can be used instead of gas anesthetics in surgeries that are under 30 minutes, where it is being given at a constant rate via IV (constant rate infusion); this is especially useful in procedures such as [[Bronchoscopy|bronchoscopies]] or repairing [[Tracheal tear|tracheal tears]], as there is no [[endotracheal tube]] in the way.<ref name="rezende" /><ref name=clarke16 /> Once the administration of alfaxalone stops, the animal quickly recovers from anesthesia.<ref name=ferre /> 
+
+Alfaxalone can be used as a sedative when given [[intramuscularly]] (IM), though this requires a larger volume (and not all countries allow alfaxalone to be administered IM).<ref name=warne /><ref name=zeltzman />
+
+Despite its use as an anesthetic, alfaxalone itself has no [[analgesic]] properties.<ref name="clarke6" />
+
+===Available forms===
+Though alfaxalone is not licensed for IM or [[Subcutaneous injection|subcutaneous]] use in the [[United States]] (as both cause longer recoveries with greater agitation and hypersensitivity to stimuli), it is routinely used IM in cats, and is licensed as such in other countries.<ref name=rezende /><ref name=nieu />
+
+Alfaxalone is dissolved in [[Cyclodextrin|2-hydroxylpropyl-β cyclodextrin]] (which is toxic to people);<ref name=absalom /> the cyclodextrin is a large, [[Starch|starch-derived]] molecule with a [[Hydrophobe|hydrophobic]] core where alfaxalone stays, allowing the mixture to be dissolved in water and sold as an aqueous solution. They act as one unit, and only dissociate once ''in vivo''.<ref name="warne" /><ref name=kloppel />
+
+The lack of preservatives in alfaxalone vials gives them an extremely short shelf-life once the seal has been broken, as [[microbes]] can grow inside the vial.<ref name=absalom /> Official instructions in the [[United Kingdom|U.K.]] are to take up enough alfaxalone into a syringe as needed and to discard the rest immediately. In the United States, a vial of alfaxalone can be kept up to six hours after its first use.<ref name=zeltzman /> In [[New Zealand]] and [[Australia]], a used vial can be kept in a fridge for up to seven days.<ref name=nieu />
+
+===Specific populations===
+Alfaxalone has been used to perform [[Caesarean section|c-sections]] in pregnant cats; though it crosses the [[placental barrier]] and had some effects on the kittens, there is no respiratory depression and no lasting effect. Alfaxalone has also been found to be safe in young puppies and kittens.<ref name=clarke19 /><ref name=grimm />
+
+Alfaxalone has been noted to be a good anesthetic agent for dogs with [[ventricular arrhythmias]] and for [[sighthounds]].<ref name=clarke15 /><ref name=nieu />
+
+==Side effects==
+Alfaxalone has relatively few side effects compared to other anesthetics; most notable is its lack of [[cardiovascular]] depression at clinical doses, which makes it unique among anesthetics.<ref name=ferre /><ref name=nieu /> The most common side effect is respiratory depression: in addition to [[apnea]], the most prevalent, alfaxalone can also decrease the [[respiratory rate]], [[minute volume]], and [[oxygen saturation]] in the blood in cats and dogs.<ref name=grimm /> Alfaxalone should be administered slowly over a period of at least 60 seconds or until anesthesia is induced; as quick administration increases the risk of apnea.<ref name="dailymed" /><ref name=nieu /> Alfaxalone has some depressive effects on the [[central nervous system]], including a reduction in [[Cerebral circulation|cerebral flood flow]] and [[intracranial pressure]], as well as in [[Thermoregulation|body temperature]].<ref name=grimm />
+
+[[Greyhound]]s, who are particularly susceptible to anesthetic side effects, can have decreased blood flow and oxygen supply to the [[liver]].<ref name=grimm /> 
+
+When no premedications are used, alfaxalone causes animals (especially cats) to be agitated when recovering.<ref name="rezende" /><ref name=nieu /> Dogs and cats will paddle in the air, vocalize excessively, may remain rigid or twitch, and have exaggerated reactions to external stimuli such as light and noise. For this reason, it is recommended that animals recovering from anesthesia by alfaxalone stay in a quiet, dark area.<ref name=grimm />
+
+===Overdose===
+The quick metabolism and elimination of alfaxalone from the body decreases the chance of overdose.<ref name=ferre /> It would takes over 28 times the normal dose to cause toxicity in cats.<ref name=warne /> Such doses, however, can cause [[low blood pressure]], apnea, [[Hypoxia (medical)|hypoxia]], arrhythmia (caused by the apnea and hypoxia), death.<ref name=warne />
+
+==Pharmacology==
+
+===Mechanism of action===
+[[File:GABAa receptor.gif|thumb|GABA<sub>A</sub> receptor and the location of various ligand-binding sites.]]
+Alfaxalone is a [[neuroactive steroid]] derived from [[progesterone]], though it has no [[glucocorticoid]] or [[mineralocorticoid]] action.<ref name="rezende" /><ref name=ferre /> Instead, it works by acting on [[GABAA receptor|GABA<sub>A</sub> receptors]].<ref>{{cite journal | last1=Harrison | first1=N. L. | last2=Vicini | first2=S. | last3=Barker | first3=J. L. | title=A steroid anesthetic prolongs inhibitory postsynaptic currents in cultured rat hippocampal neurons | journal=Journal of Neuroscience| volume=7 | issue=2 | pages=604–609 | year=1987 | pmid=3819824| url=http://www.jneurosci.org/content/7/2/604.full.pdf| format=pdf}}</ref> It binds to the M3/M4 domains of the α subunit and [[allosterically]] modifies the receptor to facilitate the movement of [[chloride ions]] into the cell, resulting in [[Hyperpolarization (biology)|hyperpolarization]] of the post-synaptic nerve (which inhibits [[Action potential|actions potentials]]). At concentrations over 1 micromolar,<ref name=visser /> alfaxalone binds to a site at the interface between the α and β subunits (near the actual GABA binding site) and acts as a GABA agonist, similar to [[benzodiazepines]].<ref name="grimm" /><ref name=martinez /> Alfaxalone, however, does not share the benzodiazepine binding site,<ref>{{cite journal | last1=Mihic | first1=S. J. | last2=Whiting | first2=P. J. | last3=Klein | first3=R. L. | last4=Wafford | first4=K. A. | last5=Harris | first5=R. A. | title=A single amino acid of the human gamma-aminobutyric acid type A receptor gamma 2 subunit determines benzodiazepine efficacy | journal=The Journal of Biological Chemistry | volume=269 | issue=52 | pages=32768–32773 | year=1994 | pmid=7806498 | url=http://www.jbc.org/content/269/52/32768.full.pdf | format=pdf }}</ref> and actually prefers different GABA<sub>A</sub> receptors than benzodiazepenes do. It works best on the [[GABAA receptor#Subunits|α1-β2-γ2-L isoform]].<ref name=warne /> Research suggests that neuroactive steroids increase the expression of GABA<sub>A</sub> receptors, making it more difficult to build [[Drug tolerance|tolerance]].<ref name=martinez /> 
+
+===Pharmacokinetics===
+Alfaxalone is metabolized quickly and does not accumulate in the body; its use as an induction agent thus doesn't increase the time needed to recover from anesthesia.<ref name="rezende" /><ref name="ferre" /> If it administered more slowly by diluting it in sterile water, less actual alfaxalone is needed.<ref name=clarke16 /> It binds to 30–50% of plasma proteins,<ref name=maddison /> and has a terminal half-life of 25&nbsp;minutes in dogs and 45&nbsp;minutes in cats when given at clinical doses (2&nbsp;mg/kg and 5&nbsp;mg/kg respectively). The pharmacokinetics of alfaxalone are nonlinear in cats and dogs.<ref name="absalom" /><ref name=suarez />
+
+Most alfaxalone metabolism takes place in the liver, though some takes place in the [[lungs]] and [[kidneys]] as well.<ref name=suarez /> In the liver, it undergoes both [[Phase I metabolism|phase I]] ([[cytochrome P450]]-dependent) and [[Phase II metabolism|phase II]] (conjugation-dependent) metabolism. The phase I metabolites products are the same in cats and dogs: allopregnatrione, 3β-alfaxalone, 20-hydroxy-3β-alfaxalone, 2-hydroxyalfaxalone, and 2α-hydroxyalfaxalone.<ref name="warne" /><ref name=grimm /> In dogs, the phase II metabolites are alfaxalone glucuronide (the major metabolite), 20-hydroxyalfaxalone sulfate, and 2α-hydroxyalfaxalone glucuronid. In cats, there is a greater production of 20-hydroxyalfaxalone sulfate than alfaxalone glucuronide; cats also have 3β-alfaxalone-sulfate, which is not present in dogs.<ref name=grimm /><ref name=warne />
+
+Alfaxalone is mostly excreted in the [[urine]], though some is excreted in the [[bile]] as well.
+
+==Chemistry==
+[[File:Progesterone vs alfaxalone.svg|thumb|250x250px|[[Progesterone]] (left) and its derivative, alfaxolan (right); the differences are highlighted in pink.]]
+{{See also|List of neurosteroids}}
+
+Alfaxalone, also known as ''11-oxo-3α,5α-tetrahydroprogesterone'', ''5α-pregnan-3α-ol-11,20-dione'', or ''3α-hydroxy-5α-pregnane-11,20-dione'', is a [[synthetic compound|synthetic]] [[pregnane]] [[steroid]] and a [[chemical derivative|derivative]] of [[progesterone]] (pregn-4-ene-3,20-dione).<ref name="Elks2014" /> It is specifically a [[structural modification|modification]] of progesterone in which the C3 [[ketone]] has been [[redox|reduced]] to a [[hydroxyl group]], the [[double bond]] between the C4 and C5 positions has been reduced and is now a [[single bond]], and a ketone has been [[substituent|substituted]] at the C11 position.<ref name="Elks2014" /> Alfaxalone is also a derivative of [[allopregnanolone]] (5α-pregnane-3α-ol-20-one), differing from it only by the addition of the C11 ketone.<ref name="Elks2014" /> Other closely related steroids include [[ganaxolone]] (3β-methyl-5α-pregnan-3α-ol-20-one), [[hydroxydione]] (21-hydroxy-5β-pregnane-3,20-dione), [[minaxolone]] (11α-(dimethylamino)-2β-ethoxy-5α-pregnan-3α-ol-20-one), [[pregnanolone]] (3α-hydroxy-5β-pregnan-20-one), and [[renanolone]] (5β-pregnan-3α-ol-11,20-dione).<ref name="Elks2014" />
+
+==History==
+In 1941, [[progesterone]] and [[5β-dihydroprogesterone|5β-pregnanedione]] were discovered to have [[CNS depressant]] effects in rodents. This began a search to make a synthetic steroid that could be used as an anesthetic. Most of these efforts were aimed at making alfaxalone more water-soluble.<ref name=martinez />
+
+In 1971, a combination of alfaxalone and [[alfadolone acetate]] was released as the anesthetics [[Althesin]] (for human use) and Saffan (for veterinary use).<ref name=clarke6 /><ref name=suarez /> The two were dissolved in [[Cremophor EL]]: a polyoxyelthylated [[castor oil]] [[surfactant]].<ref name=absalom />
+
+Althesin was removed from the market in 1984 for causing [[anaphylaxis]]; it was later found that this was due to Cremphor EL, which caused the body to release [[histamine]], rather than alfaxolone or alfadolone.<ref name=clarke6 /><ref name="nieu" /><ref name=martinez /> Saffan was removed from use for dogs only, but stayed on for other animals, none of which histamine release to the same extant that dogs did.<ref name=welsh /> It was still especially valued in cats for its lack of depressant effects on the cardiovascular system, which made it three times less fatal than any other anesthetic on the market at the time.<ref name=clarke6 /><ref name=clarke16 /> The release of histamine caused most cats (70%) to have [[edema]] and [[hyperemia]] in their ears and paws;<ref name=liao /> only some also got [[Larynx|laryngeal]] or [[pulmonary edema]].<ref name=welsh />
+
+In 1999, a [[lyophilized]] form of alfaxalone was released for cats.<ref name=warne /> The new drug, Alfaxan, used a [[cyclodextrin]] as a carrier agent to make alfaxalone more water soluble rather than Camphor EL.<ref name=nieu /> Alfadolone was not included in the mixture, as its hypnotic effects were quite weak.<ref name=welsh /> An [[aqueous]] form of Alfaxan was released in Australia in 2000–2001, and Saffan was finally removed from the market in 2002. Alfaxan was released in the UK in 2007, central Europe in 2008, Canada in 2011, and the United States in 2012.<ref name=warne /><ref name=zeltzman />
+
+Currently, a human form of alfaxalone is in development under the name "Phaxan": alfaxalone will be dissolved in 7-sulfo-butyl-ether-β-cyclodextrin, which, unlike the cyclodextrin used in Alfaxan, is not toxic to people.<ref name=absalom />
+
+==Society and culture==
+
+===Generic names===
+''Alfaxalone'' is the {{abbrlink|INN|International Nonproprietary Name}}, {{abbrlink|BAN|British Approved Name}}, {{abbrlink|DCF|Dénomination Commune Française}}, and {{abbrlink|JAN|Japanese Accepted Name}} of alfaxolone. ''Alphaxalone'' was the former {{abbr|BAN|British Approved Name}} of the drug,<ref name="Elks2014" /><ref name="MortonHall2012" /> but this was eventually changed. ''Alphaxolone'' and ''alfaxolone'' are additional alternative spellings.<ref name="Elks2014" /><ref name="MortonHall2012" /><ref name="Drugs.com" /><ref name="ChemIDplus">{{cite web|title=Substance Name: Alfaxalone [INN:BAN:DCF:JAN]| website=ChemIDplus | publisher=US National Library of Medicine | url=https://chem.nlm.nih.gov/chemidplus/name/alfaxalone}}</ref>
+
+===Brand names===
+Alfaxalone was marketed in 1971 in combination with alfadolone acetate under the brand name ''Althesin'' for human use and ''Saffan'' for veterinary use.<ref name="GrimmLamont2015">{{cite book | last1=Grimm | first1=Kurt A. | last2=Lamont | first2=Leigh A. | last3=Tranquilli | first3=William J. | last4=Greene | first4=Stephen A. | last5=Robertson | first5=Sheilah A. | title=Veterinary Anesthesia and Analgesia: The Fifth Edition of Lumb and Jones | date=2015-03-16 | page=289 | url=https://books.google.com/books?id=WG9uBwAAQBAJ&pg=PA289 | edition=5 | publisher=John Wiley & Sons | isbn=978-1-118-52620-0}}</ref><ref name="Papich2015">{{cite book|last=Papich|first=Mark G. |title=Saunders Handbook of Veterinary Drugs: Small and Large Animal|url=https://books.google.com/books?id=ip8_CwAAQBAJ&pg=PA17|date=October 2015|publisher=Elsevier Health Sciences|isbn=978-0-323-24485-5|pages=17–}}</ref> Althesin was withdrawn from the market in 1984, whereas Saffan remained marketed.<ref name="ClarkeTrim2013">{{cite book|author1=Kathy W. Clarke|author2=Cynthia M. Trim|title=Veterinary Anaesthesia E-Book|url=https://books.google.com/books?id=hZh5AAAAQBAJ&pg=PA143|date=28 June 2013|publisher=Elsevier Health Sciences|isbn=978-0-7020-5423-5|pages=143–}}</ref> A new formulation containing alfaxalone only was introduced for veterinary use in 1999 under the brand name ''Alfaxan''.<ref name="GrimmLamont2015" /><ref name="Papich2015" /> Following the introduction of Alfaxan, Saffan was gradually discontinued and is now no longer marketed.<ref name="ClarkeTrim2013" /><ref name="Fish2008">{{cite book|author=Richard E. Fish|title=Anesthesia and Analgesia in Laboratory Animals|url=https://books.google.com/books?id=zMfSuAuyKwUC&pg=PA315|year=2008|publisher=Academic Press|isbn=978-0-12-373898-1|pages=315–}}</ref> Another new formulation containing alfaxalone alone is currently under development for use in humans with the tentative brand name ''Phaxan''.<ref name="absalom" /><ref name="AdisInsight">{{cite web | title = Alfaxalone (PHAX-001; Phaxan) | work= AdisInsight | accessdate = 27 July 2017 | format = HTML | url = http://adisinsight.springer.com/drugs/800045359}}</ref>
+
+===Availability===
+Alfaxalone is marketed for veterinary use under the brand name Alfaxan in a number of countries, including [[Australia]], [[Belgium]], [[Canada]], [[France]], [[Germany]], [[Ireland]], [[Japan]], the [[Netherlands]], [[New Zealand]], [[South Africa]], [[South Korea]], [[Spain]], [[Taiwan]], the [[United Kingdom]], and the [[United States]].<ref name="Drugs.com" /><ref name="Alfaxan.com">{{Official website|http://alfaxan.com/|name=Official website of Alfaxan}}</ref><ref name="tamura2015">{{cite journal | last1=Tamura | first1=Jun | last2=Ishizuka | first2=Tomohito | last3=Fukui | first3=Sho | last4=Oyama | first4=Norihiko | last5=Kawase | first5=Kodai | last6=Miyoshi | first6=Kenjiro | last7=Sano | first7=Tadashi | last8=Pasloske | first8=Kirby | last9=Yamashita | first9=Kazuto | title=The pharmacological effects of the anesthetic alfaxalone after intramuscular administration to dogs | journal=The Journal of Veterinary Medical Science | date=2015 | pmc=4383774 | doi=10.1292/jvms.14-0368 | issn=0916-7250 | volume=77 | issue=3 | pages=289–296| quote = [Alfaxalone] is approved in some countries (e.g., Australia, New Zealand, Europe, Korea, Japan, USA and Canada) as an IV anesthetic agent in dogs and cats.}}</ref>
+
+==References==
+{{Reflist|2|refs=
+
+<ref name=absalom>{{cite book | last1=Absalom | first1=Anthony R. | last2=Mason | first2=Keira P. | title=Total Intravenous Anesthesia and Target Controlled Infusions: A Comprehensive Global Anthology | date=March 1, 2017 | publisher=Springer | isbn=9783319476094 | pages=31, 306 | url=https://books.google.com/books?id=PLI-DgAAQBAJ&pg=PA608}}</ref>
+
+<ref name=clarke6>{{cite book | editor-last1=Clarke | editor-first1=K. W. | editor-last2=Trim | editor-first2=C. M. | editor-last3=Hall | editor-first3=L. W. | title=Veterinary Anaesthesia | chapter=Chapter 6: General pharmacology of the injectable agents used in anaesthesia | location=Oxford | date=2014 | edition=11th | publisher=W.B. Saunders | isbn=9780702027932 | pages=135–153 | doi=10.1016/B978-0-7020-2793-2.00006-2}}</ref>
+
+<ref name=clarke15>{{cite book | editor-last1=Clarke | editor-first1=K. W. | editor-last2=Trim | editor-first2=C. M. | editor-last3=Hall | editor-first3=L. W. | title=Veterinary Anaesthesia | chapter=Chapter 15: Anaesthesia of the dog | location=Oxford | date=2014 | edition=11th | publisher=W.B. Saunders | isbn=9780702027932 | pages=135–153 | doi=10.1016/B978-0-7020-2793-2.00015-3}}</ref>
+
+<ref name=clarke16>{{cite book | editor-last1=Clarke | editor-first1=K. W. | editor-last2=Trim | editor-first2=C. M. | editor-last3=Hall | editor-first3=L. W. | title=Veterinary Anaesthesia | chapter=Chapter 16: Anaesthesia of the cat | location=Oxford | date=2014 | edition=11th | publisher=W.B. Saunders | isbn=9780702027932 | pages=499–534| doi=10.1016/B978-0-7020-2793-2.00016-5}}</ref>
+
+<ref name=clarke19>{{cite book | editor-last1=Clarke | editor-first1=K. W. | editor-last2=Trim | editor-first2=C. M. | editor-last3=Hall | editor-first3=L. W. | title=Veterinary Anaesthesia | chapter=Chapter 19: Anaesthesia for obstetrics | location=Oxford | date=2014 | edition=11th | publisher=W.B. Saunders | isbn=9780702027932 | pages=587–598 | doi=10.1016/B978-0-7020-2793-2.00019-0}}</ref>
+
+<ref name=dailymed>{{cite web | last=US National Library of Medicine | title=ALFAXAN- alfaxalone injection, solution | work=DailyMed | accessdate=July 15, 2017 | url=https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f5d57f72-71e4-46af-b262-673ceabeff04}}</ref>
+
+<ref name=ferre>{{cite journal | last1=Ferré | first1=Pierre J. | last2=Pasloske | first2=Kirby | last3=Whittem | first3=Ted | last4=Ranasinghe | first4=Millagahamanda G. | last5=Li | first5=Qiang | last6=Lefebvre | first6=Hervé P. | title=Plasma pharmacokinetics of alfaxalone in dogs after an intravenous bolus of Alfaxan-CD RTU | journal=Veterinary Anaesthesia and Analgesia | date=2006 | doi=10.1111/j.1467-2995.2005.00264.x | doi-access=free | issn=1467-2987 | volume=33 | issue=4 | pages=229–236}}</ref>
+
+<ref name=grimm>{{cite book | last1=Grimm | first1=Kurt A. | last2=Lamont | first2=Leigh A. | last3=Tranquilli | first3=William J. | last4=Greene | first4=Stephen A. | last5=Robertson | first5=Sheilah A. | title=Veterinary Anesthesia and Analgesia | date=2015 | url=https://books.google.com/books?id=WG9uBwAAQBAJ&pg=PA289 | edition=5th | publisher=John Wiley & Sons | isbn=9781118526200 | pages=289–290}}</ref>
+
+<ref name=liao>{{cite thesis | last=Liao | first=PenTing | title=Anesthetic and Cardio-pulmonary Effects of Propofol or Alfaxalone with or without Midazolam Co-Induction in Fentanyl Sedated Dogs | type=DVM | publisher=University of Guelph | date=August 2016 | location=Guelph, Ontario | url=https://atrium.lib.uoguelph.ca/xmlui/bitstream/handle/10214/9991/Liao_PenTing_201609_DVSc.pdf}}</ref>
+
+<ref name=kloppel>{{cite journal | last1=Klöppel | first1=Heide | last2=Leece | first2=Elizabeth A | title=Comparison of ketamine and alfaxalone for induction and maintenance of anaesthesia in ponies undergoing castration | journal=Veterinary Anaesthesia and Analgesia | date=January 2011 | doi=10.1111/j.1467-2995.2010.00584.x | pmid=21214708 | doi-access=free | issn=14672987 | volume=38 | issue=1 | pages=37–43}}</ref>
+
+<ref name=maddison>{{cite book | editor-last1=Maddison | editor-first1=Jill E. | editor-last2=Page | editor-first2=Stephen W. | editor-last3=Church | editor-first3=David | title=Small Animal Clinical Pharmacology | chapter=Alphaxalone (±alphadolone) | date=2008 | publisher=Elsevier Health Sciences | isbn=9780702028588 | pages=101–103 | url=https://books.google.com/books?id=RpsROVqemk8C&pg=PA101}}</ref>
+
+<ref name=martinez>{{cite journal | last1=Martinez-Botella | first1=Gabriel | last2=Ackley | first2=Michael A. | last3=Salituro | first3=Francesco G. | last4=Doherty | first4=James J. | title=Natural and Synthetic Neuroactive Steroid Modulators of GABAA and NMDA Receptors | journal=Annual Reports in Medicinal Chemistry | date=January 1, 2014 | doi=10.1016/B978-0-12-800167-7.00003-1 | issn=0065-7743 | volume=49 | pages=27–42 | url=https://books.google.com/books?id=OCOOAwAAQBAJ&pg=PA27| isbn=9780128003725 | series=Annual Reports in Medicinal Chemistry }}</ref>
+
+<ref name=nieu>{{cite web | last=Nieuwendijk | first=Hans | title=Alfaxalone | work=Veterinary Anesthesia & Analgesia Support Group | accessdate=July 14, 2017 | date=March 2011 | url=http://www.vasg.org/alfaxalone.htm}}</ref>
+
+<ref name=rezende>{{cite web | last=Rezende | first=Marlis | title=Reintroduced Anesthetic Alfaxalone | work=Clinician's Brief | accessdate=July 14, 2017 | date=June 2015 | url=https://www.cliniciansbrief.com/sites/default/files/attachments/MEDS_Reintroduced%20Anesthetic%20Alfaxalone.pdf}}</ref>
+
+<ref name=suarez>{{cite journal | last1=Suarez | first1=Martin A | last2=Dzikiti | first2=Brighton T | last3=Stegmann | first3=Frik G | last4=Hartman | first4=Marthinus | title=Comparison of alfaxalone and propofol administered as total intravenous anaesthesia for ovariohysterectomy in dogs | journal=Veterinary Anaesthesia and Analgesia | date=May 2012 |  doi=10.1111/j.1467-2995.2011.00700.x | doi-access=free | issn=14672987 | volume=39 | issue=3 | pages=236–244}}</ref>
+
+<ref name=visser>{{cite journal | last1=Visser | first1=S. a. G. | last2=Smulders | first2=C. J. G. M. | last3=Reijers | first3=B. P. R. | last4=Graaf | first4=P. H. van der | last5=Peletier | first5=L. A. | last6=Danhof | first6=M. | title=Mechanism-Based Pharmacokinetic-Pharmacodynamic Modeling of Concentration-Dependent Hysteresis and Biphasic Electroencephalogram Effects of Alphaxalone in Rats | journal=Journal of Pharmacology and Experimental Therapeutics | date=September 1, 2002 | pmid=12183676 | doi=10.1124/jpet.302.3.1158 | doi-access=free | issn=0022-3565 | volume=302 | issue=3 | pages=1158–1167}}</ref>
+
+<ref name=warne>{{cite journal | last1=Warne | first1=Leon N. | last2=Beths | first2=Thierry | last3=Whittem | first3=Ted | last4=Carter | first4=Jennifer E. | last5=Bauquier | first5=Sébastien H. | title=A review of the pharmacology and clinical application of alfaxalone in cats | journal=The Veterinary Journal| date=January 2, 2015 | doi=10.1016/j.tvjl.2014.12.011 | doi-access=free | issn=1090-0233 | volume=203 | issue=2 | pages=141–148}}</ref>
+
+<ref name=varga>{{cite book | last=Varga | first=Molly | title=Textbook of Rabbit Medicine | chapter=Chapter 4: Anaesthesia and Analgesia | date=2014 | edition=2nd | publisher=Butterworth-Heinemann | isbn=9780702049798 | pages=178–202}}</ref>
+
+<ref name=welsh>{{cite book | last=Welsh | first=Liz | title=Anaesthesia for Veterinary Nurses | date=May 8, 2013 | url=https://books.google.com/books?id=1F0_tIVik8gC&pg=PT153| publisher=John Wiley & Sons | isbn=9781118693148 | page=153}}</ref>
+
+<ref name=zeltzman>{{cite web | last=Zeltzman | first=Phil | title=Why Administering Alfaxalone Requires A Bit of Education | work=Veterinary Practice News | accessdate=July 14, 2017 | date=November 17, 2014 | url=http://www.veterinarypracticenews.com/Why-Administering-Alfaxalone-Requires-A-Bit-of-Education/}}</ref>
+}}
+
+==External links==
+* [http://adisinsight.springer.com/drugs/800045359 Alfaxalone (PHAX-001; Phaxan) - AdisInsight]
+
+{{General anesthetics}}
+{{GABAA receptor positive allosteric modulators}}
+{{Glycine receptor modulators}}
+
+[[Category:Alcohols]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:GABAA-rho receptor positive allosteric modulators]]
+[[Category:General anesthetics]]
+[[Category:Glycine receptor agonists]]
+[[Category:Ketones]]
+[[Category:Neurosteroids]]
+[[Category:Pregnanes]]
+[[Category:Veterinary drugs]]

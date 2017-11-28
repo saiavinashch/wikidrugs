@@ -1,0 +1,176 @@
+{{Drugbox
+| verifiedrevid = 470609114
+| IUPAC_name = (9''Z'')-''N'',''N''-dimethyl-9-[3-(4-methylpiperazin-1-yl)propylidene]-9''H''-thioxanthene-2-sulfonamide
+| image = Thiothixene.svg
+| width = 225px
+| USAN = Thiothixene
+
+<!--Clinical data-->
+| tradename = Navane
+| Drugs.com = {{drugs.com|monograph|thiothixene}}
+| MedlinePlus = a682867
+| pregnancy_AU = B1
+| pregnancy_category = 
+| legal_AU = S4
+| legal_status = Rx-only
+| routes_of_administration = [[Oral administration|By mouth]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| metabolism = Hepatic
+| elimination_half-life = 10–20 hours
+| excretion = 
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 5591-45-7
+| ATC_prefix = N05
+| ATC_suffix = AF04
+| PubChem = 941651
+| IUPHAR_ligand = 212
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01623
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 819430
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 7318FJ13YJ
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1201
+| synonyms = 
+
+<!--Chemical data-->
+| C=23 | H=29 | N=3 | O=2 | S=2
+| molecular_weight = 443.627 g/mol
+| SMILES = O=S(=O)(N(C)C)c2cc1C(\c3c(Sc1cc2)cccc3)=C/CCN4CCN(C)CC4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C23H29N3O2S2/c1-24(2)30(27,28)18-10-11-23-21(17-18)19(20-7-4-5-9-22(20)29-23)8-6-12-26-15-13-25(3)14-16-26/h4-5,7-11,17H,6,12-16H2,1-3H3/b19-8-
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GFBKORZTTCHDGY-UWVJOHFNSA-N
+}}
+
+'''Tiotixene''', or '''thiothixene''', sold under the brand name '''Navane''' among others, is a [[typical antipsychotic]] of the [[thioxanthene]] class which is related to [[chlorprothixene]] and is used in the treatment of [[psychosis|psychoses]] like [[schizophrenia]] and [[bipolar disorder|bipolar]] [[mania]]. It was introduced in the [[United States]] in 1967<ref>http://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm</ref> by [[Pfizer]].<ref name="isbn3-527-31058-4">{{cite book |author1=José Miguel Vela |author2=Helmut Buschmann |author3=Jörg Holenz |author4=Antonio Párraga |author5=Antoni Torrens | title = Antidepressants, Antipsychotics, Anxiolytics: From Chemistry and Pharmacology to Clinical Application | publisher = Wiley-VCH | location = Weinheim | year = 2007 | page = 520 | isbn = 3-527-31058-4 | oclc = | doi = | accessdate = | url = https://books.google.com/?id=yXD4QA-Y_Z0C&lpg=PA520&pg=PA520#v=onepage}}</ref>
+
+==Pharmacology==
+
+===Pharmacodynamics===
+{{See also|Antipsychotic#Mechanism of action|Antipsychotic#Comparison of medications}}
+{| class="wikitable floatleft" style="font-size:small;"
+|+ Tiotixene<ref name="PDSP">{{cite web | title = PDSP K<sub>i</sub> Database | work = Psychoactive Drug Screening Program (PDSP) | author1 = Roth, BL | author2 = Driscol, J | publisher = University of North Carolina at Chapel Hill and the United States National Institute of Mental Health || format = HTML | accessdate = 14 August 2017 | url = https://kidbdev.med.unc.edu/databases/pdsp.php?knowID=0&kiKey=&receptorDD=&receptor=&speciesDD=&species=&sourcesDD=&source=&hotLigandDD=&hotLigand=&testLigandDD=&testFreeRadio=testFreeRadio&testLigand=thiothixene&referenceDD=&reference=&KiGreater=&KiLess=&kiAllRadio=all&doQuery=Submit+Query}}</ref>
+|-
+! Site !! K<sub>i</sub> (nM) !! Species !! Ref
+|-
+| {{abbrlink|SERT|Serotonin transporter}} || 3,162–3,878 || Human || <ref name="PDSP" /><ref name="pmid16082416">{{cite journal | vauthors = Silvestre JS, Prous J | title = Research on adverse drug events. I. Muscarinic M3 receptor binding affinity could predict the risk of antipsychotics to induce type 2 diabetes | journal = Methods Find Exp Clin Pharmacol | volume = 27 | issue = 5 | pages = 289–304 | year = 2005 | pmid = 16082416 | doi = 10.1358/mf.2005.27.5.908643 | url = }}</ref>
+|-
+| {{abbrlink|NET|Norepinephrine transporter}} || 30,200 || Human || <ref name="PDSP" /><ref name="pmid16082416" />
+|-
+| {{abbrlink|DAT|Dopamine transporter}} || 3,630 || Human || <ref name="PDSP" /><ref name="pmid16082416" />
+|-
+| [[5-HT1A receptor|5-HT<sub>1A</sub>]] || 410–912 || Human || <ref name="PDSP" /><ref name="pmid12629531">{{cite journal | vauthors = Kroeze WK, Hufeisen SJ, Popadak BA, Renock SM, Steinberg S, Ernsberger P, Jayathilake K, Meltzer HY, Roth BL | title = H1-histamine receptor affinity predicts short-term weight gain for typical and atypical antipsychotic drugs | journal = Neuropsychopharmacology | volume = 28 | issue = 3 | pages = 519–26 | year = 2003 | pmid = 12629531 | doi = 10.1038/sj.npp.1300027 | url = }}</ref><ref name="pmid16082416" />
+|-
+| [[5-HT1B receptor|5-HT<sub>1B</sub>]] || 151 || Human || <ref name="PDSP" />
+|-
+| [[5-HT1D receptor|5-HT<sub>1D</sub>]] || 659 || Human || <ref name="PDSP" />
+|-
+| [[5-HT1E receptor|5-HT<sub>1E</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[5-HT2A receptor|5-HT<sub>2A</sub>]] || 50–89 || Human || <ref name="pmid12629531" /><ref name="pmid16082416" />
+|-
+| [[5-HT2C receptor|5-HT<sub>2C</sub>]] || 1,350–1,400 || Human || <ref name="pmid12629531" /><ref name="pmid16082416" />
+|-
+| [[5-HT3 receptor|5-HT<sub>3</sub>]] || 1,860 || Human || <ref name="PDSP" /><ref name="pmid16082416" />
+|-
+| [[5-HT5A receptor|5-HT<sub>5A</sub>]] || 361 || Human || <ref name="PDSP" />
+|-
+| [[5-HT6 receptor|5-HT<sub>6</sub>]] || 208–320 || Human || <ref name="PDSP" /><ref name="pmid12629531" /><ref name="pmid16082416" />
+|-
+| '''[[5-HT7 receptor|5-HT<sub>7</sub>]]''' || '''15.5''' || '''Human''' || <ref name="PDSP" /><ref name="pmid12629531" /><ref name="pmid16082416" />
+|-
+| '''[[Alpha-1 adrenergic receptor|α<sub>1</sub>]]''' || '''19''' || '''{{abbr|ND|No data}}''' || <ref name="pmid16082416" />
+|-
+| &nbsp;&nbsp;'''[[Alpha-1A adrenergic receptor|α<sub>1A</sub>]]''' || '''11–12''' || '''Human''' || <ref name="PDSP" /><ref name="pmid12629531" />
+|-
+| &nbsp;&nbsp;[[Alpha-1B adrenergic receptor|α<sub>1B</sub>]] || 35 || Human || <ref name="PDSP" />
+|-
+| [[Alpha-2 adrenergic receptor|α<sub>2</sub>]] || 95 || {{abbr|ND|No data}} || <ref name="pmid16082416" />
+|-
+| &nbsp;&nbsp;[[Alpha-2A adrenergic receptor|α<sub>2A</sub>]] || 80 || Human || <ref name="PDSP" /><ref name="pmid12629531" />
+|-
+| &nbsp;&nbsp;[[Alpha-2B adrenergic receptor|α<sub>2B</sub>]] || 50 || Human || <ref name="PDSP" /><ref name="pmid12629531" />
+|-
+| &nbsp;&nbsp;[[Alpha-2C adrenergic receptor|α<sub>2C</sub>]] || 52 || Human || <ref name="PDSP" /><ref name="pmid12629531" />
+|-
+| [[Beta-1 adrenergic receptor|β<sub>1</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[Beta-2 adrenergic receptor|β<sub>2</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[Dopamine D1 receptor|D<sub>1</sub>]] || 51–339 || Human || <ref name="PDSP" /><ref name="pmid16082416" />
+|-
+| '''[[Dopamine D2 receptor|D<sub>2</sub>]]''' || '''0.03–1.4''' || '''Human''' || <ref name="PDSP" /><ref name="pmid12629531" /><ref name="pmid16135699">{{cite journal | vauthors = Burstein ES, Ma J, Wong S, Gao Y, Pham E, Knapp AE, Nash NR, Olsson R, Davis RE, Hacksell U, Weiner DM, Brann MR | title = Intrinsic efficacy of antipsychotics at human D2, D3, and D4 dopamine receptors: identification of the clozapine metabolite N-desmethylclozapine as a D2/D3 partial agonist | journal = J. Pharmacol. Exp. Ther. | volume = 315 | issue = 3 | pages = 1278–87 | year = 2005 | pmid = 16135699 | doi = 10.1124/jpet.105.092155 | url = }}</ref>
+|-
+| '''[[Dopamine D3 receptor|D<sub>3</sub>]]''' || '''0.3–186''' || '''Human''' || <ref name="pmid16135699" /><ref name="pmid16082416" />
+|-
+| [[Dopamine D4 receptor|D<sub>4</sub>]] || 203–363 || Human || <ref name="PDSP" /><ref name="pmid16082416" />
+|-
+| [[Dopamine D4 receptor|D<sub>4.2</sub>]] || 410–685 || Human || <ref name="pmid16135699" />
+|-
+| [[Dopamine D5 receptor|D<sub>5</sub>]] || 261 || Human || <ref name="PDSP" />
+|-
+| '''[[Histamine H1 receptor|H<sub>1</sub>]]''' || '''4.0–12''' || '''Human''' || <ref name="PDSP" /><ref name="pmid12629531" /><ref name="pmid6146381">{{cite journal | vauthors = Kanba S, Richelson E | title = Histamine H1 receptors in human brain labelled with [3H]doxepin | journal = Brain Res. | volume = 304 | issue = 1 | pages = 1–7 | year = 1984 | pmid = 6146381 | doi = | url = }}</ref>
+|-
+| [[Histamine H2 receptor|H<sub>2</sub>]] || 411 || Human || <ref name="PDSP" />
+|-
+| [[Histamine H3 receptor|H<sub>3</sub>]] || 1,336 || Guinea pig || <ref name="PDSP" />
+|-
+| [[Histamine H4 receptor|H<sub>4</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| {{abbrlink|mACh|Muscarinic acetylcholine receptor}} || 3,310 || {{abbr|ND|No data}} || <ref name="pmid16082416" />
+|-
+| &nbsp;&nbsp;[[Muscarinic acetylcholine receptor M1|M<sub>1</sub>]] || ≥2,820 || Human || <ref name="PDSP" /><ref name="pmid16082416" />
+|-
+| &nbsp;&nbsp;[[Muscarinic acetylcholine receptor M2|M<sub>2</sub>]] || ≥2,450 || Human || <ref name="PDSP" /><ref name="pmid16082416" />
+|-
+| &nbsp;&nbsp;[[Muscarinic acetylcholine receptor M3|M<sub>3</sub>]] || ≥5,750 || Human || <ref name="PDSP" /><ref name="pmid12629531" /><ref name="pmid16082416" />
+|-
+| &nbsp;&nbsp;[[Muscarinic acetylcholine receptor M4|M<sub>4</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| &nbsp;&nbsp;[[Muscarinic acetylcholine receptor M5|M<sub>5</sub>]] || 5,376 || Human || <ref name="PDSP" />
+|-
+| [[Sigma receptor|σ]] || 1,780 || {{abbr|ND|No data}} || <ref name="pmid16082416" />
+|- class="sortbottom"
+| colspan="4" | Values are K<sub>i</sub> (nM). The smaller the value,<br />the more strongly the drug binds to the site.
+|}
+
+Tiotixene acts primarily as a highly potent [[receptor antagonist|antagonist]] of the [[dopamine]] [[D2 receptor|D<sub>2</sub>]] and [[D3 receptor|D<sub>3</sub> receptor]]s (subnanomolar [[affinity (pharmacology)|affinity]]).<ref name="PDSP" /> It is also an antagonist of the [[histamine]] [[H1 receptor|H<sub>1</sub>]], [[alpha-1 adrenergic receptor|α<sub>1</sub>-adrenergic]], and [[serotonin]] [[5-HT7 receptor|5-HT<sub>7</sub> receptor]]s (low nanomolar affinity), as well as of various other receptors to a much lesser extent (lower affinity).<ref name="PDSP" /> It does not have any [[anticholinergic]] activity.<ref name="PDSP" /> Antagonism of the D<sub>2</sub> receptor is thought to be responsible for the antipsychotic effects of tiotixene.
+
+==History==
+Tiotixene was introduced in 1967.<ref name="Publishing2013">{{cite book|author=William Andrew Publishing|title=Pharmaceutical Manufacturing Encyclopedia|url=https://books.google.com/books?id=_J2ti4EkYpkC&pg=PA3214|date=22 October 2013|publisher=Elsevier|isbn=978-0-8155-1856-3|pages=3214–}}</ref><ref name="Shorter2009">{{cite book|author=Edward Shorter|title=Before Prozac: The Troubled History of Mood Disorders in Psychiatry|url=https://books.google.com/books?id=nCtnDAAAQBAJ&pg=PA51|year=2009|publisher=Oxford University Press, USA|isbn=978-0-19-536874-1|pages=51–}}</ref>
+
+==Chemistry==
+Tiotixene is a member of the [[thioxanthene]] class of antipsychotics. [[Structural analog|Analogue]]s include [[chlorprothixene]], [[clopenthixol]], [[flupentixol]], and [[zuclopenthixol]].
+
+==References==
+{{Reflist|2}}
+
+
+{{Antipsychotics}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Adrenergic receptor modulators}}
+{{Dopamine receptor modulators}}
+{{Histamine receptor modulators}}
+{{Serotonin receptor modulators}}
+{{Xenobiotic-sensing receptor modulators}}
+}}
+{{Tricyclics}}
+
+[[Category:5-HT7 antagonists]]
+[[Category:Alpha-1 blockers]]
+[[Category:Antihistamines]]
+[[Category:D2 antagonists]]
+[[Category:D3 antagonists]]
+[[Category:H1 receptor antagonists]]
+[[Category:Piperazines]]
+[[Category:Sulfonamides]]
+[[Category:Thioxanthene antipsychotics]]

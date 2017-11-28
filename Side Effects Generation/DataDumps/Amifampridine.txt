@@ -1,0 +1,138 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 477217342
+| IUPAC_name = Pyridine-3,4-diamine
+| image = Diaminopyridine.png
+| image2 = 3,4-diaminopyridine-3D-balls.png
+| width = 120
+
+<!--Clinical data-->
+| tradename = Firdapse
+| Drugs.com = {{Drugs.com|UK|firdapse}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = No clinical data
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = POM
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 93–100%<ref name=EMAlabel2010/>
+| protein_bound =
+| metabolism = [[Acetylation]] to 3-''N''-acetyl&shy;amifampridine
+| elimination_half-life = 2.5 hrs (amifampridine)<br/>4 hrs (3-''N''-acetyl&shy;amifampridine)
+| excretion = [[Kidney|Renal]] (19% unmetabolized, 74–81% 3-''N''-acetyl&shy;amifampridine
+
+<!--Identifiers-->
+| IUPHAR_ligand = 8032
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 54-96-6
+| ATC_prefix = N07
+| ATC_suffix = XX05
+| PubChem = 5918
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5705
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = RU4S6E2G0J
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 354077
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D10228
+
+<!--Chemical data-->
+| C=5 | H=7 | N=3
+| smiles = c1cncc(c1N)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C5H7N3/c6-4-1-2-8-3-5(4)7/h1-3H,7H2,(H2,6,8)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OYTKINVCDFNREN-UHFFFAOYSA-N
+| melting_point     = 218
+| melting_high      = 220
+| melting_notes     = decomposes
+| solubility        = 24
+}}
+'''Amifampridine''' ('''pyridine-3,4-diamine''', '''3,4-diaminopyridine''', '''3,4-DAP''')  is used as a drug, predominantly in the treatment of a number of rare muscle diseases. The [[free base]] form of the drug has been used to treat [[congenital myasthenic syndrome]]s and [[Lambert–Eaton myasthenic syndrome]] (LEMS) through [[expanded access|compassionate use programs]] since the 1990s and was recommended as a first line treatment for LEMS in 2006, using ''ad hoc'' forms of the drug, since there was no marketed form.
+
+Around 2000 doctors at [[Assistance Publique – Hôpitaux de Paris]] created a phosphate [[Salt (chemistry)|salt]] form, which was developed through a series of companies ending with [[BioMarin Pharmaceutical]] which obtained European approval in 2009 under the trade name '''Firdapse''', and which licensed the US rights to [[Catalyst Pharmaceuticals]] in 2012.   As of January 2017, Catalyst and another US company, Jacobus Pharmaceuticals, which had been manufacturing the free base form and giving it away for free since the 1990s, were racing to obtain FDA approval for their versions first; the company that obtained the approval would have seven years of marketing exclusivity.
+
+Amifampridine phosphate has [[orphan drug]] status in the EU for Lambert–Eaton myasthenic syndrome and Catalyst holds both an orphan designation and a [[breakthrough therapy]] designation in the US.
+
+== Medical uses ==
+Amifampridine is used to treat many of the [[congenital myasthenic syndrome]]s, particularly those with defects in [[choline acetyltransferase]], [[Dok-7|downstream kinase 7]], and those where any kind of defect causes "fast channel" behaviour of the [[acetylcholine receptor]].<ref>{{cite journal | vauthors = Argov Z | title = Management of myasthenic conditions: nonimmune issues | journal = Current Opinion in Neurology | volume = 22 | issue = 5 | pages = 493–7 | date = Oct 2009 | pmid = 19593127 | doi = 10.1097/WCO.0b013e32832f15fa }}</ref><ref>{{cite web|last1=Abicht|first1=Angela|last2=Müller|first2=Juliane|last3=Lochmüller|first3=Hanns|title=Congenital Myasthenic Syndromes |url=https://www.ncbi.nlm.nih.gov/books/NBK1168/ |website=GeneReviews|publisher=University of Washington, Seattle|date=July 14, 2016}}</ref>
+
+It is also used to treat symptoms of [[Lambert–Eaton myasthenic syndrome]].<ref name=EMAlabel2010>{{cite web|title=Firdapse Summary of Product Characteristics|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/001032/WC500069915.pdf|publisher=EMA|date=February 11, 2010}} See [http://www.ema.europa.eu/ema/index.jsp?curl=pages/medicines/human/medicines/001032/human_med_001298.jsp EMA Index page, product tab]</ref><ref name=Cochrane2011>{{cite journal | vauthors = Keogh M, Sedehizadeh S, Maddison P | title = Treatment for Lambert-Eaton myasthenic syndrome | journal = The Cochrane Database of Systematic Reviews | issue = 2 | pages = CD003279 | year = 2011 | pmid = 21328260 | doi = 10.1002/14651858.CD003279.pub3 }}</ref>
+
+== Contraindications ==
+Because it affects voltage-gated ion channels, it is contraindicated in people with [[long QT syndrome]] and in people taking a drug that might prolong QT like  [[sultopride]], [[disopyramide]], [[cisapride]], [[domperidone]], [[rifampicin]] or [[ketoconazol]]. It is also contraindicated in people with [[epilepsy]] or badly controlled [[asthma]].<ref name=EMAlabel2010/>
+
+== Adverse effects ==
+The dose-limiting side effects include [[paresthesia|tingling or numbness]], difficulty sleeping, fatigue, and loss of muscle strength.<ref name=Tarr2015rev/>
+
+Interactions via the liver's [[cytochrome P450]] enzyme system are considered unlikely.<ref name=EMAlabel2010/>
+
+== Pharmacology ==
+
+=== Mechanism of action ===
+In Lambert–Eaton myasthenic syndrome, [[acetylcholine]] release is inhibited as antibodies involved in the host response against certain cancers cross-react with [[voltage dependent calcium channel|Ca<sup>2+</sup> channels]] on the prejunctional membrane. Amifampridine works by blocking [[potassium channel]] efflux in nerve terminals so that action potential duration is increased.<ref name="kirsch narahashi 1978">{{cite journal|journal=Biophys J|title=3,4-diaminopyridine. A potent new potassium channel blocker|date=June 1978|volume=22|issue=3|pages=507–12|vauthors=Kirsch GE, Narahashi T|pmc=1473482|pmid=667299|doi=10.1016/s0006-3495(78)85503-9}}</ref> Ca<sup>2+</sup> channels can then be open for a longer time and allow greater acetylcholine release to stimulate muscle at the end plate.<ref name=Tarr2015rev>{{cite journal|last1=Tarr|first1=TB|last2=Wipf|first2=P|last3=Meriney|first3=SD|title=Synaptic Pathophysiology and Treatment of Lambert-Eaton Myasthenic Syndrome.|journal=Molecular neurobiology|date=August 2015|volume=52|issue=1|pages=456–63|pmid=25195700|pmc=4362862|doi=10.1007/s12035-014-8887-2}}</ref>
+
+=== Pharmacokinetics ===
+[[File:Acetylamifampridine skeletal.svg|''N''-(4-Amino-3-pyridinyl)acetamide or 3-''N''-acetylamifampridine, the [[metabolite]]|thumb]]
+Amifampridine is quickly and almost completely (93–100%) absorbed from the gut. In a study with 91 healthy subjects, maximum amifampridine concentrations in [[blood plasma]] were reached after 0.6 (±0.25) hours when taken without food, or after 1.3 (±0.9) hours after a fatty meal, meaning that the speed of absorption varies widely. [[Biological half-life]] (2.5±0.7&nbsp;hrs) and the [[area under the curve (pharmacokinetics)|area under the curve]] (AUC = 117±77&nbsp;ng∙h/ml) also vary widely between subjects, but are nearly independent of food intake.<ref name=EMAlabel2010/>
+
+The substance is deactivated by [[acetylation]] via [[N-acetyltransferase]]s to the single [[metabolite]] 3-''N''-acetylamifampridine. Activity of these enzymes (primarily [[N-acetyltransferase 2]]) in different individuals seems to be primarily responsible for the mentioned differences in half-life and AUC: the latter is increased up to 9-fold in slow metabolizers as compared to fast metabolizers.<ref name=EMAlabel2010/>
+
+Amifampridine is eliminated via the kidneys and urine to 74–81% as ''N''-acetylamifampridine and to 19% in unchanged form.<ref name=EMAlabel2010/>
+
+== Chemistry ==
+3,4-Diaminopyridine is a pale yellow to pale brown crystalline powder that melts at about {{convert|218|-|220|C}} under decomposition. It is readily soluble in [[methanol]], [[ethanol]] and hot water, but only slightly in [[diethyl ether]].<ref>{{cite web|url=http://www.fda.gov/ohrms/dockets/dockets/98n0182/nom007b.pdf|title=Diaminopyridine (3,4-)|publisher=FDA|access-date=28 November 2015}}. Index page: [http://www.fda.gov/ohrms/dockets/dockets/98n0182/98n0182.htm FDA Docket 98N-0812: Bulk Drug Substances to be Used in Pharmacy Compounding]</ref><ref name="Dinnendahl">{{cite book|title=Arzneistoff-Profile|editor=Dinnendahl, V |editor2=Fricke, U|publisher=Govi Pharmazeutischer Verlag|location=Eschborn, Germany|date=2015|edition=28th|volume=1|isbn=978-3-7741-9846-3|language=German}}</ref> Solubility in water at {{convert|20|C}} is 25&nbsp;g/L.
+
+The drug formulation amifampridine phosphate contains the phosphate salt, more specifically 4-aminopyridine-3-ylammonium dihydrogen phosphate.<ref name="Dinnendahl" /> This salt forms prismatic, [[monoclinic]] crystals ([[space group]] C2/c)<ref>{{cite journal|title=Crystal Structure and Solid-State Properties of 3,4-Diaminopyridine Dihydrogen Phosphate and Their Comparison with Other Diaminopyridine Salts|journal=Cryst Growth Des|year=2013|volume=13|issue=2|pages=708–715|doi=10.1021/cg3014249}}</ref> and is readily soluble in water.<ref name="Klement">{{cite journal| author = A. Klement| date = 9 November 2015| title = Firdapse| journal = Österreichische Apothekerzeitung| issue = 23/2015| page = 10f| language = German}}</ref>  The phosphate salt is stable, and does not require refrigeration.<ref name=NHS2015/>
+
+==History==
+3,4-DAP was discovered in Scotland in the 1970s, and doctors in Sweden first showed its use in LEMS in the 1980s.<ref name=BillHealth2016>{{cite news|last1=Deak|first1=Dalia|title=Jacobus and Catalyst Continue to Race for Approval of LEMS Drug|url=http://blogs.harvard.edu/billofhealth/2016/02/22/jacobus-and-catalyst-approval/|work=Bill of Health|date=February 22, 2016}}</ref>
+
+In the 1990s, doctors in the US, on behalf of [[Muscular Dystrophy Association]], approached a small family-owned manufacturer of [[active pharmaceutical ingredients]] in New Jersey, Jacobus Pharmaceuticals, about manufacturing amifampridine so they could test it in clinical trials.  Jacobus did so, and when the treatment turned out to be effective, Jacobus and the doctors were faced with a choice — invest in clinical trials to get FDA approval or give the drug away for free under a [[expanded access|compassionate use program]].  Jacobus elected to give the drug away, and did so for about twenty years.<ref name=Stat2016>{{cite news|last1=Silverman|first1=Ed|title=A family-run drug maker tries to stay afloat in the Shkreli era|url=https://www.statnews.com/pharmalot/2016/04/05/jacobus-pharmaceuticals-martin-shkreli/|work=STAT News|date=5 April 2016}}</ref><ref name=DrugR&D2015>{{cite news|title=Jacobus Pharmaceuticals|url=https://yixiblog.wordpress.com/tag/jacobus-pharmaceuticals/|work=Drug R&D Insight|date=April 25, 2015}}</ref>
+
+Doctors at the [[Assistance Publique – Hôpitaux de Paris]] had created a phosphate [[Salt (chemistry)|salt]] of 3,4-DAP (3,4-DAPP), and obtained an orphan designation for it in Europe in 2002.<ref name=EMAorphan>{{cite web|title=Public summary of opinion on orphan designation|url=http://www.ema.europa.eu/docs/en_GB/document_library/Orphan_designation/2009/10/WC500005405.pdf|publisher=EMA|date=14 June 2010}}</ref> The hospital licensed the intellectual property on the phosphate form to the French biopharma company OPI, which was acquired by EUSA Pharma in 2007,<ref>{{cite news|last1=Chapelle|first1=François-Xavier|title=OPi ou comment construire une biopharma en moins de dix ans - Private Equity Magazine|url=http://www.pemagazine.fr/MTQ3NQ/opi-ou-comment-construire-une-biopharma-en-moins-de-dix-ans|work=Private Equity Magazine|date=November 4, 2008|language=Fr}}</ref> and the orphan application was transferred to EUSA in 2008.<ref name=EMAorphan/>  In 2008 EUSA submitted an application for approval to market the phosphate form to the [[European Medicines Agency]] under the brand name, Zenas.<ref name=ZenasEMA2009>{{cite web|title=Assessment report: Zenas|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Public_assessment_report/human/001032/WC500069918.pdf|publisher=EMA CHMP committee|date=2009}}</ref>  EUSA, through a vehicle called Huxley Pharmaceuticals, sold the rights to 3,4-DAPP to Biomarin in 2009,<ref>{{cite news|title=Huxley Acquisition Lands Biomarin New LEMS Treatment|url=http://www.pharmaceutical-technology.com/news/news68256.html|work=Pharmaceutical Technology|date=October 28, 2009}}</ref> the same year that 3,4-DAPP was approved in Europe under the new name Firdapse.<ref name=EMAorphan/>   BioMarin launched the drug in Europe in April 2010 and through the first nine months of 2012 year had sales of $10.8 million.<ref name=SFBJ2012/>
+
+The licensing of Firdapse in 2010 in Europe led to a sharp increase in price for the drug. In some cases, this has led to hospitals using an unlicensed form rather than the licensed agent, as the price difference proved prohibitive. BioMarin has been criticized for licensing the drug on the basis of previously conducted research, and yet charging exorbitantly for it.<ref>{{cite news|last1=Goldberg|first1=Adrian|title=Drug firms accused of exploiting loophole for profit|url=http://www.bbc.com/news/health-11798183|work=BBC News|date=21 November 2010}}</ref>  A group of UK neurologists and pediatricians petitioned to prime minister [[David Cameron]] in an open letter to review the situation.<ref name=Nichol>{{cite journal | vauthors = Nicholl DJ, Hilton-Jones D, Palace J, Richmond S, Finlayson S, Winer J, Weir A, Maddison P, Fletcher N, Sussman J, Silver N, Nixon J, Kullmann D, Embleton N, Beeson D, Farrugia ME, Hill M, McDermott C, Llewelyn G, Leonard J, Morris M | title = Open letter to prime minister David Cameron and health secretary Andrew Lansley | journal = BMJ | volume = 341 | issue =  | pages = c6466 | year = 2010 | pmid = 21081599 | doi = 10.1136/bmj.c6466 | url = http://www.bmj.com/content/341/bmj.c6466.full }}</ref> The company responded that it submitted the licensing request at the suggestion of the French government, and points out that the increased cost of a licensed drug also means that it is monitored by regulatory authorities (e.g. for uncommon side effects), a process that was previously not present in Europe.<ref>{{cite journal | vauthors = Hawkes N, Cohen D | title = What makes an orphan drug? | journal = BMJ | volume = 341 | issue =  | pages = c6459 | year = 2010 | pmid = 21081607 | doi = 10.1136/bmj.c6459 }}</ref>  A 2011 Cochrane review compared the cost of the 3,4-DAP and 3,4-DAPP in the UK and found an average price for 3,4-DAP base of £1/tablet and an average price for 3,4-DAP phosphate of £20/tablet; and the authors estimated a yearly cost per person of £730 for the base versus £29,448 for the phosphate formulation.<ref name=Cochrane2011/><ref name=NHS2015>{{cite web|title=Evidence Review: Amifampridine phosphate for the treatment of Lambert–Easton Myasthenic Syndrome|url=https://www.engage.england.nhs.uk/consultation/clinical-commissioning-wave2/user_uploads/d04-x01-amifampridine-ev-review.pdf|publisher=NHS England|date=December 2015}}</ref>
+
+Meanwhile, in Europe, a task force of neurologists had recommended 3,4-DAP as the firstline treatment for LENS symptoms in 2006, even though there was no approved form for marketing; it was being supplied ''ad hoc''.<ref name=ZenasEMA2009/>{{rp|5}}<ref>{{cite journal|last1=Vedeler|first1=CA|last2=Antoine|first2=JC|last3=Giometto|first3=B|last4=Graus|first4=F|last5=Grisold|first5=W|last6=Hart|first6=IK|last7=Honnorat|first7=J|last8=Sillevis Smitt|first8=PA|last9=Verschuuren|first9=JJ|last10=Voltz|first10=R|last11=Paraneoplastic Neurological Syndrome Euronetwork.|title=Management of paraneoplastic neurological syndromes: report of an EFNS Task Force.|journal=European journal of neurology|date=July 2006|volume=13|issue=7|pages=682–90|doi=10.1111/j.1468-1331.2006.01266.x|pmid=16834698}}</ref>  In 2007 the drug's [[international nonproprietary name]] was published by the WHO.<ref>{{cite journal|title=International Nonproprietary Names for Pharmaceutical Substances (INN) Recommended INN: List 58|journal=WHO Drug Information|date=2007|volume=21|issue=3|url=http://www.who.int/medicines/publications/druginformation/innlists/RL58.pdf?ua=1}}</ref>
+
+In the US, an [[orphan drug]] designation for 3,4-DAPP had been granted in 2009<ref>{{cite web|title=Orphan Drug Designations for amifampridine phosphate  for LAMS|url=http://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=295309|website=www.accessdata.fda.gov|publisher=FDA|accessdate=14 January 2017}}</ref> and clinical trials were well under way by 2012.<ref name=SFBJ2012/>
+
+In the face of the 7 year exclusivity that an orphan approval would give to Biomarin, and of the increase in price that would accompany it, Jacobus began racing to conduct formal clinical trials in order to get approval for the free base form before BioMarin; its first Phase II trial was opened in January 2012.<ref>{{cite news|last1=Wahl|first1=Margaret|title=Jacobus Begins Invitation-Only Trial of 3,4-DAP in LEMS|url=http://quest.mda.org/news/jacobus-begins-invitation-only-trial-34-dap-lems|work=Muscular Dystrophy Association Quest Magazine Online|date=January 25, 2012}}</ref>
+
+In October 2012, while BioMarin had a Phase III trial ongoing in the US, it licensed the US rights to 3,4-DAPP, including the orphan designation and the ongoing trial, to [[Catalyst Pharmaceuticals]].<ref name=SFBJ2012>{{cite news|last1=Leuty|first1=Ron|title=BioMarin licenses North American rights to rare disease drug, invests $5M in Florida company|url=http://www.bizjournals.com/sanfrancisco/blog/biotech/2012/10/biomarin-catalyst-firdapse-lems.html|work=San Francisco Business Journal|date=October 31, 2012}}</ref>  Catalyst anticipated that  it could earn $300 to $900 million per year in sales for treatment of people with LEMS and other indications, and analysts anticipated the drug would be priced at around. $100,000 in the US.<ref name=BillHealth2016/>   Catalyst went on to obtain a [[breakthrough therapy]] designation for 3,4-DAPP in LEMS in 2013,<ref>{{cite journal | vauthors = Baker DE | title = Breakthrough Drug Approval Process and Postmarketing ADR Reporting | journal = Hospital Pharmacy | volume = 48 | issue = 10 | pages = 796–8 | date = Nov 2013 | pmid = 24421428 | doi = 10.1310/hpj4810-796 | pmc=3859287}}</ref> an orphan designation for congenital myasthenic syndromes in 2015<ref>{{cite web|title=Orphan Drug Designations: amifampridine phosphate for congenital myasthenic syndromes|url=http://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=464814|publisher=FDA|accessdate=14 January 2017}}</ref> and an orphan designation for [[myasthenia gravis]] in 2016.<ref>{{cite web|title=Orphan Drug Designations:  amifampridine phosphate for myasthenia gravis|url=http://www.accessdata.fda.gov/scripts/opdlisting/oopd/detailedIndex.cfm?cfgridkey=534916|website=www.accessdata.fda.gov|publisher=FDA|accessdate=14 January 2017}}</ref>
+
+In August 2013, analysts anticipated that FDA approval would be granted to Catalyst in LEMS by 2015.<ref name="SFBJ">{{cite web | url = http://www.bizjournals.com/southflorida/news/2013/08/27/shares-of-catalyst-pharmaceuticals.html | title = Shares of Catalyst Pharmaceuticals soar 42% on FDA news | work = South Florida Business Journal | date = August 28, 2013 | author = Bandell B }}</ref>
+
+In April 2015, Jacobus presented clinical trial results at a scientific meeting, causing Catalyst shares to fall by 42%.<ref name=DrugR&D2015/>
+
+In December 2015 a group of 106 neuromuscular doctors who had worked with both Jacobus and BioMarin/Catalyst published an editorial in the journal, ''Muscle & Nerve'', expressing concern about the potential for the price of the drug to be dramatically increased should Catalyst obtain FDA approval, and stating that 3,4-DAPP represented no real innovation and didn't deserve exclusivity under the Orphan Drug Act, which was meant to spur innovation to meet unmet needs.<ref name=BillHealth2016/><ref>{{cite journal|last1=Burns|first1=TM, et al.I|title=Editorial by concerned physicians: Unintended effect of the orphan drug act on the potential cost of 3,4-diaminopyridine.|journal=Muscle & nerve|date=February 2016|volume=53|issue=2|pages=165–8|doi=10.1002/mus.25009|pmid=26662952}}</ref>  Other commentators noted, however, that Jacobus was not able to meet the needs of all people who could benefit from the drug via its free program, and that its manufacturing practices had quality control problems, with 483 FDA citations in 2011 and 2012.<ref name=Stat2016/>  Similarly, at the urging of Assistance Publique-Hôpitaux de Paris, the French drug authority had reviewed the use of the free base in light of the manufactured phosphate form in 2006, and had urged doctors in France not to use the free base form due to quality issues.<ref>{{cite web|title=Point d’information sur l’utilisation de la 3.4 diaminopyridine|url=http://ansm.sante.fr/S-informer/Informations-de-securite-Lettres-aux-professionnels-de-sante/Point-d-information-sur-l-utilisation-de-la-3.4-diaminopyridine|publisher=ANSM : Agence nationale de sécurité du médicament et des produits de santé|date=December 18, 2006}}</ref>
+
+Catalyst submitted its [[new drug application]] to the FDA and in February 2016 the FDA refused to accept it, on the basis that it wasn't complete and in April 2016 the FDA told Catalyst it would have to gather further data.<ref>{{cite news|last1=Adams|first1=Ben|title=Catalyst Pharmaceuticals hit by FDA extra studies request for Firdapse|url=http://www.fiercebiotech.com/biotech/catalyst-pharmaceuticals-hit-by-fda-extra-studies-request-for-firdapse|work=FierceBiotech|date=April 26, 2016}}</ref>
+
+==Research==
+Amifampridine has also been proposed for the treatment of [[multiple sclerosis]] (MS),. A 2002 Cochrane systematic review found that there was no unbiased data to support its use for treating MS.<ref>{{Cite journal|last=Solari|first=A.|last2=Uitdehaag|first2=B.|last3=Giuliani|first3=G.|last4=Pucci|first4=E.|last5=Taus|first5=C.|date=2002|title=Aminopyridines for symptomatic treatment in multiple sclerosis|url=|journal=The Cochrane Database of Systematic Reviews|volume=|issue=4|pages=CD001330|doi=10.1002/14651858.CD001330|issn=1469-493X|pmid=12804404|via=}}</ref> There was no change as of 2012.<ref>{{cite journal|last1=Sedehizadeh|first1=S|last2=Keogh|first2=M|last3=Maddison|first3=P|title=The use of aminopyridines in neurological disorders.|journal=Clinical neuropharmacology|date=2012|volume=35|issue=4|pages=191–200|doi=10.1097/WNF.0b013e31825a68c5|pmid=22805230}}</ref>
+
+== See also ==
+* [[4-Aminopyridine]]
+
+== References ==
+{{reflist|40em}}
+
+{{Other nervous system drugs}}
+{{Potassium channel blockers}}
+
+{{DEFAULTSORT:Diaminopyridine, 3,4-}}
+[[Category:Orphan drugs]]
+[[Category:Potassium channel blockers]]
+[[Category:Pyridines]]
+[[Category:Aromatic amines]]

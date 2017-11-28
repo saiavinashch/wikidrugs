@@ -1,0 +1,135 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 455344444
+| IUPAC_name = Methyl ''N''-[4,6-Diamino-2-[1-[(2-fluorophenyl)methyl]-1''H''-pyrazolo[3,4-b]pyridin-3-yl]-5-pyrimidinyl]-''N''-methyl-carbaminate
+| image = Riociguat_structure.svg
+| alt = Skeletal formula of riociguat
+| image2 = Riociguat-3D-balls.png
+| alt2 = Ball-and-stick model of riociguat
+| width = 160px
+
+<!--Clinical data-->
+| tradename = Adempas
+| Drugs.com = {{Drugs.com|parent|adempas}}
+| pregnancy_AU = X
+| pregnancy_US = X
+| legal_AU = S4
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Rx-only
+| routes_of_administration = [[Mouth|Oral]]
+
+<!--Pharmacokinetic data-->
+| bioavailability   = 94%
+| protein_bound     = 95%
+| metabolism        = [[CYP1A1]], [[CYP3A4]], [[CYP2C8]], [[CYP2J2]]
+| metabolites       = ''N''-desmethylriociguat (active), [[glucuronide]] (inactive)
+| onset             = 
+| elimination_half-life = 5–10 h
+| duration_of_action= 
+| excretion         = 33–45% [[kidney|renal]],<br/>48–59% [[biliary]]
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5257
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 625115-55-1
+| ATC_prefix = C02
+| ATC_suffix = KX05
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 76018
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB08931
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = RU3FE2Y4XI
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 9479719
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D09572
+| synonyms = BAY 63-2521
+
+<!--Chemical data-->
+| C=20 | H=19 | F=1 | N=8 | O=2 
+| molecular_weight = 422.415 g/mol
+| smiles = c14ncccc4c(-c(nc2N)nc(N)c2N(C)C(=O)OC)nn1Cc3ccccc3F
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C20H19FN8O2/c1-28(20(30)31-2)15-16(22)25-18(26-17(15)23)14-12-7-5-9-24-19(12)29(27-14)10-11-6-3-4-8-13(11)21/h3-9H,10H2,1-2H3,(H4,22,23,25,26)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = WXXSNCNJFUAIDG-UHFFFAOYSA-N
+}}
+
+'''Riociguat''' (trade name '''Adempas''') is a drug by [[Bayer]] that is a stimulator of [[soluble guanylate cyclase]] (sGC). It is used to treat two forms of [[pulmonary hypertension]] (PH): [[chronic thromboembolic pulmonary hypertension]] (CTEPH) and [[pulmonary arterial hypertension]] (PAH). Riociguat constitutes the first drug of the class of sGC stimulators.<ref name="TS2">{{cite web|url=http://www.investor.bayer.de/user_upload/3249/|archive-url=https://web.archive.org/web/20110718201645/http://www.investor.bayer.de/user_upload/3249/|dead-url=yes|archive-date=18 July 2011|title=Background Riociguat|publisher=Bayer HealthCare|accessdate=15 December 2009}}</ref>
+
+==Contraindications==
+Riociguat can cause [[fetal]] harm and is therefore contraindicated in pregnant women.<ref name="Drugs.com">{{Drugs.com|pro|adempas-tablets}}</ref>
+
+The substance is also contraindicated in pulmonary hypertension in combination with [[idiopathic interstitial pneumonia]] (PH-IIP). A clinical trial testing riociguat for this purpose was prematurely terminated because it increased severe adverse effects and [[death|mortality]] in patients with PH-IIP when compared to [[placebo]].<ref>{{cite news|url=http://www.ema.europa.eu/ema/index.jsp?curl=pages/news_and_events/news/2016/06/news_detail_002558.jsp|title=Adempas not for use in patients with pulmonary hypertension caused by idiopathic interstitial pneumonia|publisher=[[European Medicines Agency]]|date=24 June 2016}}</ref>
+
+== Adverse effects==
+Serious adverse effects in clinical trials included bleeding. Hypotension (low blood pressure), headache, and [[gastrointestinal disorder]]s also occurred.<ref name="Drugs.com" />
+
+==Interactions==
+[[Nitrate (pharmacology)|Nitrate]]s and [[phosphodiesterase inhibitor]]s (including [[PDE5 inhibitor]]s) increase the hypotensive (blood pressure lowering) effect of riociguat. Combining such drugs is therefore contraindicated. Riociguat levels in the blood are reduced by [[tobacco smoking]] and strong inducers of the liver enzyme [[CYP3A4]], and increased by strong [[cytochrome]] inhibitors.<ref name="Drugs.com" />
+
+==Chemistry and mechanism of action ==
+In healthy individuals [[nitric oxide]] (NO) acts as a signalling molecule on vascular smooth muscle cells to induce [[vasodilation]]. NO binds to soluble guanylate cyclase (sGC) and mediates the synthesis of the secondary messenger [[cyclic guanosine monophosphate]] (cGMP). sGC forms [[heterodimers]] consisting of a larger alpha-subunit and a smaller haem-binding beta-subunit. The synthesised cGMP acts as a secondary messenger and activates [[cGMP-dependent protein kinase]] (protein kinase G) to regulate [[cytosolic]] [[calcium]] ion concentration. This changes the [[actin]]–[[myosin]] [[contractility]], which results in vasodilation. NO is produced by the enzyme endothelial nitric oxide synthetase ([[Endothelial NOS|eNOS]]). In patients with pulmonary arterial hypertension eNOS levels are reduced. This results in overall lower levels of endothelial cell-derived NO and reduced vasodilation of smooth muscle cells. NO also reduces pulmonary smooth muscle cell growth and antagonises platelet inhibition, factors which play a key role in the pathogenesis of PAH.<ref>{{cite journal |vauthors=Giaid A, Saleh D |title=Reduced expression of endothelial nitric oxide synthase in the lungs of patients with pulmonary hypertension |journal=The New England Journal of Medicine |volume=333 |issue=4 |pages=214–21 |date=July 1995 |pmid=7540722 |doi=10.1056/NEJM199507273330403}}</ref>
+In contrast to NO- and haem-independent sGC activators like [[cinaciguat]], the sGC stimulator riociguat directly stimulates sGC activity independent of NO<ref name="Evgenov OV, Pacher P, Schmidt PM, Haskó G, Schmidt HH, Stasch JP 2006 755–68"/> and also acts in synergy with NO to produce anti-aggregatory, anti-proliferative, and vasodilatory effects.<ref name="Grimminger">{{cite journal  |vauthors=Grimminger F, Weimann G, Frey R, etal |title=First acute haemodynamic study of soluble guanylate cyclase stimulator riociguat in pulmonary hypertension |journal=The European Respiratory Journal |volume=33 |issue=4 |pages=785–92 |date=April 2009 |pmid=19129292 |doi=10.1183/09031936.00039808}}</ref><ref>{{cite journal |vauthors=Stasch JP, Hobbs AJ |title=NO-independent, haem-dependent soluble guanylate cyclase stimulators |journal=Handbook of Experimental Pharmacology |volume= 191|issue=191 |pages=277–308 |year=2009 |pmid=19089334 |doi=10.1007/978-3-540-68964-5_13 |series=Handbook of Experimental Pharmacology |isbn=978-3-540-68960-7}}</ref>
+
+==Pharmacology==
+Riociguat at concentration between 0.1 and 100&nbsp;[[Micromolar|µM]] stimulates in a dose-dependent manner sGC activity up to 73-fold. In addition, it acts synergistically with diethylamine/NO, the donor of NO, to increase sGC activity in vitro up to 112-fold.<ref>{{cite journal  |vauthors=Schermuly RT, Stasch JP, Pullamsetti SS, etal |title=Expression and function of soluble guanylate cyclase in pulmonary arterial hypertension |journal=The European Respiratory Journal |volume=32 |issue=4 |pages=881–91 |date=October 2008 |pmid=18550612 |doi=10.1183/09031936.00114407}}</ref> A phase I study showed that riociguat is rapidly absorbed, and maximum plasma concentration is reached between 0.5–1.5 h.<ref name= "TS1">{{cite journal |vauthors=Frey R, Mück W, Unger S, Artmeier-Brandt U, Weimann G, Wensing G |title=Pharmacokinetics, pharmacodynamics, tolerability, and safety of the soluble guanylate cyclase activator cinaciguat (BAY 58-2667) in healthy male volunteers |journal=Journal of Clinical Pharmacology |volume=48 |issue=12 |pages=1400–10 |date=December 2008 |pmid=18779378 |doi=10.1177/0091270008322906}}</ref> The mean elimination half-life appears to be 5–10 hours.<ref name="TS1"/> Riociguat plasma concentrations have been also shown to be quite variable between patients, indicating that for clinical use it is probably necessary to titrate the drug specifically for each individual.
+
+==History==
+
+===Discovery===
+The first [[nitric oxide]] (NO) independent, [[haem]]-dependent sGC stimulator, YC-1, a synthetic benzyl[[indazole]] derivative, was described in 1978.<ref>{{cite journal |vauthors=Yoshina S, Tanaka A, Kuo SC |title=Studies on heterocyclic compounds. XXXVI. Synthesis of furo[3,2-c]pyrazole derivatives. (4) Synthesis of 1,3-diphenylfuro[3,2-c]pyrazole-5-carboxaldehyde and its derivatives (author's transl) |language=Japanese |journal=Yakugaku Zasshi |volume=98 |issue=3 |pages=272–9 |date=March 1978 |pmid=650406}}</ref> The characterisation 20 years later demonstrated that as well as increasing sGC activity, YC-1 acted in synergy with NO to stimulate sGC. However, YC-1 was a relatively weak vasodilator and had side effects.{{Vague|date=February 2017}} Therefore, the search began for novel indazole compounds that were more potent and more specific sGC stimulators. The result was the identification of BAY 41-2272 and BAY 41-8543.<ref>{{cite journal  |vauthors=Stasch JP, Becker EM, Alonso-Alija C, etal |title=NO-independent regulatory site on soluble guanylate cyclase |journal=Nature |volume=410 |issue=6825 |pages=212–5 |date=March 2001 |pmid=11242081 |doi=10.1038/35065611}}</ref> Both compounds were tested in various preclinical studies on different animal models and appeared to improve systemic arterial oxygenation. To improve the pharmacologic and [[pharmacokinetic]] profile an additional 1000 compounds were screened leading to the discovery of riociguat.<ref name="Evgenov OV, Pacher P, Schmidt PM, Haskó G, Schmidt HH, Stasch JP 2006 755–68">{{cite journal |vauthors=Evgenov OV, Pacher P, Schmidt PM, Haskó G, Schmidt HH, Stasch JP |title=NO-independent stimulators and activators of soluble guanylate cyclase: discovery and therapeutic potential |journal=Nature Reviews. Drug Discovery |volume=5 |issue=9 |pages=755–68 |date=September 2006 |pmid=16955067 |pmc=2225477 |doi=10.1038/nrd2038}}</ref><ref>{{cite journal  |vauthors=Mittendorf J, Weigand S, Alonso-Alija C, etal |title=Discovery of riociguat (BAY 63-2521): a potent, oral stimulator of soluble guanylate cyclase for the treatment of pulmonary hypertension |journal=Chemmedchem |volume=4 |issue=5 |pages=853–65 |date=May 2009 |pmid=19263460 |doi=10.1002/cmdc.200900014}}</ref> Riociguat was tested in mouse and rat disease models, where it effectively reduced pulmonary hypertension and reversed the associated [[right heart hypertrophy]] and [[ventricular remodelling]].
+
+Several clinical trials have been undertaken to investigate and evaluate diverse aspects of riociguat, and some of them are still ongoing.<ref name="ClinicalTrials">[[ClinicalTrials.gov]]: [http://clinicaltrials.gov/ct2/results?term=riociguat Riociguat]</ref>
+
+===Phase I clinical trials===
+One of the first studies was designed to test the safety profile, pharmacokinetics and [[pharmacodynamics]] of single oral doses of riociguat (0.25–5&nbsp;mg). 58 healthy male subjects were given riociguat orally (oral solution or immediate-release tablet) in a randomised, placebo-controlled trial. Doses of riociguat were increased stepwise, and riociguat was well tolerated up to 2.5&nbsp;mg.<ref name="TS1" />
+
+===Phase II clinical trials===
+A [[proof-of-concept]] study, reported by the [[University of Gießen]] Lung Center, was the first small study (in 4 PAH patients) to investigate safety, tolerability, pharmacokinetics and efficacy parameters.<ref name="Grimminger" /> The drug was well-tolerated and superior to NO in efficacy and duration.
+
+An open-label, non-controlled phase II trial of riociguat in 75 adult patients (42 with CTEPH and 33 with PAH, all in [[World Health Organization]] (WHO) functional class II or III) evaluated the safety and tolerability, and the effects on hemodynamics, exercise capacity and functional class.
+Riociguat was given three times daily for 12 weeks. Doses were titrated at 2-week intervals from 1.0&nbsp;mg three times daily to a maximum of 2.5&nbsp;mg three times daily. Riociguat had a favourable safety profile, and also significantly improved exercise capacity and hemodynamic parameters such as pulmonary vascular resistance, cardiac output and pulmonary arterial pressure compared to baseline values.<ref>{{cite web|title=ATS International conference|date=2009|url=http://www.thoracic.org/sections/meetings-and-courses/international-conference/2009/index.html|publisher=American Thoracic Society}}</ref>
+
+In addition, a phase II study of riociguat is underway in patients suffering from other forms of PH such as associated with [[interstitial lung disease]] (PH-ILD).<ref>{{ClinicalTrialsGov|NCT00694850|Impact of Multiple Doses of BAY 63-2521 on Safety, Tolerability, Pharmacokinetics and Pharmacodynamics in Patients With Interstitial Lung Disease (ILD) Associated Pulmonary Hypertension}}</ref>
+
+===Phase III clinical trials===
+The phase III trials on riociguat are multi-center studies. The study program included large randomized, double-blind, placebo-controlled pivotal trial phase (CHEST-1 and PATENT-1), and open-label extensions of these studies (CHEST-2 and PATENT-2). Details of these studies are reported on [[ClinicalTrials.gov]], a register of studies maintained by the [[National Institutes of Health]] (NIH).<ref name="ClinicalTrials" />
+
+====CHEST====
+The '''Ch'''ronic Thrombo'''e'''mbolic Pulmonary Hypertension sGC-'''S'''timulator '''T'''rial (CHEST) was a randomized, placebo-controlled trial aimed to analyse the efficacy and safety of riociguat in CTEPH patients.<ref>{{cite journal|last1=Ghofrani|first1=Hossein-Ardeschir|last2=D'Armini|first2=Andrea M.|last3=Grimminger|first3=Friedrich|last4=Hoeper|first4=Marius M.|last5=Jansa|first5=Pavel|last6=Kim|first6=Nick H.|last7=Mayer|first7=Eckhard|last8=Simonneau|first8=Gerald|last9=Wilkins|first9=Martin R.|last10=Fritsch|first10=Arno|last11=Neuser|first11=Dieter|last12=Weimann|first12=Gerrit|last13=Wang|first13=Chen|title=Riociguat for the Treatment of Chronic Thromboembolic Pulmonary Hypertension|journal=New England Journal of Medicine|date=25 July 2013|volume=369|issue=4|pages=319–329|doi=10.1056/NEJMoa1209657}}</ref> After a 16-week riociguat treatment the patient’s exercise capacity were evaluated by measuring the change in the six-minute walk test (6-MWT).<ref>{{ClinicalTrialsGov|NCT00855465|A Study to Evaluate Efficacy and Safety of Oral BAY63-2521 in Patients With CTEPH}}</ref> Patients having completed CHEST-1 were invited to enter the extension trial, CHEST-2. The first interim analysis of CHEST-2 showed that riociguat was well-tolerated with a good long-term safety profile in patients with CTEPH.<ref>{{ClinicalTrialsGov|NCT00910429|BAY63-2521 - Long-term Extension Study in Patients With Chronic Thromboembolic Pulmonary Hypertension}}</ref>
+
+====PATENT====
+The '''P'''ulmonary '''A'''rterial Hyper'''ten'''sion sGC-Stimulator '''T'''rial (PATENT) was a randomized, placebo-controlled trial that investigated the efficacy and safety of riociguat in PAH patients. After a 12-week treatment the patient’s exercise capacity was evaluated by measuring the change in the 6-MWT.<ref>{{ClinicalTrialsGov|NCT00810693|A Study to Evaluate Efficacy and Safety of Oral BAY63-2521 in Patients With Pulmonary Arterial Hypertension (PAH)}}</ref> Patients having completed PATENT-1 were invited to enter the extension trial, PATENT-2.<ref>{{ClinicalTrialsGov|NCT00863681|BAY63-2521:Long-term Extension Study in Patients With Pulmonary Arterial Hypertension}}</ref> The first interim analysis of PATENT-2 showed that at one year, long-term riociguat was well tolerated in patients with PAH and showed sustained benefits in 6MWD and WHO FC. The safety profile of riociguat in PATENT-2 was similar to that observed in PATENT-1.
+
+===Other studies===
+
+====Effect of riociguat on bone metabolism====
+This randomized, double blind, placebo controlled Phase I study investigated the effect of riociguat, administered as 2.5&nbsp;mg immediate-release (IR)-tablets twice daily over 14 days, on the bone metabolism.<ref>{{ClinicalTrialsGov|NCT00855660|Effect of Riociguat on Bone Metabolism}}</ref> Effects on bone formation had been seen in growing, juvenile and adolescent rats. In juvenile rats, the changes consisted of thickening of trabecular bone and hyperostosis and remodeling of metaphyseal and diaphyseal bone, whereas in adolescent rats an overall increase of bone mass was observed. On the other hand, no such effects were observed in adult rats.
+
+====Interaction study with sildenafil====
+This study investigated safety, tolerability, pharmacokinetics and the impact on pulmonary and systemic haemodynamics of single doses of 0.5&nbsp;and 1&nbsp;mg of riociguat in patients with PAH and stable treatment of [[sildenafil]] (20&nbsp;mg thrice daily) in a non-randomized uncontrolled trial.<ref>{{ClinicalTrialsGov|NCT00680654|Interaction Study in Patients With Pulmonary Hypertension and Stable Treatment of Sildenafil 20 mg TID}}</ref> The study showed potentially unfavorable safety signals with sildenafil plus riociguat and no evidence of a positive benefit/risk ratio. Therefore, the concomitant use of riociguat with phosphodiesterase-5 inhibitors is contraindicated.
+
+==See also==
+* [[Cinaciguat]], a sGC activator (not sCG stimulator).
+* [[PDE5 inhibitor]]s act downstream in the nitric oxide signalling pathway, reducing cyclic GMP degradation.
+* [[Endothelin receptor antagonist]], another class of drugs used in PAH
+
+== References ==
+{{Reflist|2}}
+{{Use dmy dates|date=January 2011}}
+
+==External links==
+* [http://house-of-papers.com/hop/index.php?title=Riociguat Bibliography on HOP]
+
+{{PAH rx}}
+{{Nitric oxide signaling}}
+
+[[Category:Vasodilators]]
+[[Category:Carbamates]]
+[[Category:Pyrimidines]]
+[[Category:Pyrazolopyridines]]
+[[Category:Organofluorides]]

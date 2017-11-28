@@ -1,0 +1,60 @@
+{{chembox
+| ImageFile = Tamibarotene2DACS.svg
+| ImageSize = 
+| IUPACName = 4-[(1,1,4,4-tetramethyltetralin-6-yl)carbamoyl]benzoic acid
+| OtherNames = 
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 08V52GZ3H9
+| IUPHAR_ligand = 2648
+| CASNo = 94497-51-5
+| ChEMBL = 25202
+| ChEBI = 32181
+| PubChem = 108143
+| ChemSpiderID = 97231
+| Beilstein = 3564473
+| DrugBank = DB04942
+| SMILES = O=C(O)c1ccc(cc1)C(=O)Nc2ccc3c(c2)C(CCC3(C)C)(C)C
+| InChI = InChI=1S/C22H25NO3/c1-21(2)11-12-22(3,4)18-13-16(9-10-17(18)21)23-19(24)14-5-7-15(8-6-14)20(25)26/h5-10,13H,11-12H2,1-4H3,(H,23,24)(H,25,26)
+  }}
+|Section2={{Chembox Properties
+| C=22 | H=25 | N=1 | O=3 
+| Appearance = 
+| Density = 
+| MeltingPt = 
+| BoilingPt = 
+| Solubility =
+  }}
+|Section3={{Chembox Hazards
+| MainHazards = 
+| FlashPt = 
+| AutoignitionPt =
+  }}
+}}
+'''Tamibarotene''' (brand name: '''Amnolake'''), also called retinobenzoic acid, is orally active, synthetic [[retinoid]], developed to overcome [[Tretinoin|all-trans retinoic acid]] (ATRA) resistance, with potential [[antineoplastic]] activity against [[acute promyelocytic leukaemia]] (APL) .<ref>{{cite journal | pmid = 15563242 |year = 2004 | title = Tamibarotene: AM 80, retinobenzoic acid, Tamibaro | volume= 5 | issue = 6 | pages = 359–62 | journal = Drugs in R&D | doi=10.2165/00126839-200405060-00010}}</ref> It is currently marketed only in Japan and early trials have demonstrated that it tends to be better tolerated than ATRA.<ref name = drugs07>{{cite journal|title=Tamibarotene|journal=Drugs Today (Barc)|date=August 2007|volume=43|issue=8|pages=563–568|doi=10.1358/dot.2007.43.8.1072615|pmid=17925887|author1=Miwako, I |author2=Kagechika, H }}</ref> It has also been investigated as a possible treatment for [[Alzheimer's disease]], [[multiple myeloma]] and [[Crohn's disease]].<ref name = drugs07/><ref>{{cite journal|title=Tamibarotene: a candidate retinoid drug for Alzheimer's disease|journal=Biological & Pharmaceutical Bulletin|date=2012|volume=35|issue=8|pages=1206–1212|doi=10.1248/bpb.b12-00314|pmid=22863914|author1=Fukasawa, H |author2=Nakagomi, M |author3=Yamagata, N |author4=Katsuki, H |author5=Kawahara, K |author6=Kitaoka, K |author7=Miki, T |author8=Shudo, K |url=https://www.jstage.jst.go.jp/article/bpb/35/8/35_b12-00314/_pdf|format=PDF}}</ref>
+
+==Synthesis==
+
+The tetralin-based compound tamibarotene (7) has been tested as an agent for treating leukaemias.
+
+[[File:Tamibarotene synth.png|700px]]
+
+Reaction of the
+diol (1) with hydrogen chloride affords the corresponding dichloro derivative (2). Aluminum chloride mediated Friedel–Crafts alkylation of acetanilide with the dichloride affords the tetralin (3). Basic hydrolysis leads to the primary amine (4). Acylation of the primary amino group with the half acid chloride half ester from terephthalic acid (5) leads to
+the amide (6). Basic hydrolysis of the ester grouping then affords (7).<ref>Y. Hamada, I. Yamada, M. Uenaka, T. Sakata, {{US Patent|5,214,202}} (1993).</ref>
+
+==References==
+{{reflist|2}}
+
+{{Chemotherapeutic agents}}
+{{Carotenoids}}
+{{Retinoid receptor modulators}}
+
+[[Category:Retinoids]]
+[[Category:Antineoplastic drugs]]
+[[Category:Benzoic acids]]
+[[Category:Tetralins]]
+[[Category:SRI International]]
+
+
+{{Antineoplastic-drug-stub}}

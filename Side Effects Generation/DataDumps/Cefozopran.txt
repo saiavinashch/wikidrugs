@@ -1,0 +1,73 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 443787193
+| IUPAC_name = (6''R'',7''R'')-7-<nowiki>[</nowiki>[(2''Z'')-2-(5-amino-1,2,4-thiadiazol-3-yl)- 2-methoxyiminoacetyl]amino]-3-(imidazo[2,3-''f'']pyridazin- 4-ium-1-ylmethyl)-8-oxo-5-thia-1-azabicyclo[4.2.0] oct-2-ene-2-carboxylate
+| image = Cefozopran.svg
+| width = 280
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|cefozopran}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 113359-04-9
+| ATC_prefix = J01
+| ATC_suffix = DE03
+| ATC_supplemental =  
+| PubChem = 9571080
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1276663
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 1LG87K28LW
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01052
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 7845546
+|  smiles = O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)C(=N\OC)/c3nc(sn3)N)Cn5c4cccn[n+]4cc5)C([O-])=O
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C19H17N9O5S2/c1-33-24-11(14-23-19(20)35-25-14)15(29)22-12-16(30)28-13(18(31)32)9(8-34-17(12)28)7-26-5-6-27-10(26)3-2-4-21-27/h2-6,12,17H,7-8H2,1H3,(H3-,20,22,23,25,29,31,32)/b24-11-/t12-,17-/m1/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = QDUIJCOKQCCXQY-WHJQOFBOSA-N
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=19 | H=17 | N=9 | O=5 | S=2 
+| molecular_weight = 515.52 g/mol
+}}
+
+'''Cefozopran''' ([[International Nonproprietary Name|INN]]) is a fourth-generation [[cephalosporin]].
+
+==Spectrum of bacterial susceptibility and resistance==
+Most of the strains of '' [[Stenotrophomonas maltophilia]]'' have developed resistance toward cefozopran.<ref>{{cite web|title=Cefozopran Susceptibility and Resistance Data|url=http://www.toku-e.com/Assets/MIC/Cefozopran%20hydrochloride.pdf|accessdate=23 July 2013}}</ref>
+
+== References ==
+{{reflist}}
+
+{{CephalosporinAntiBiotics|state=collapsed}}
+
+[[Category:Cephalosporin antibiotics]]
+[[Category:Thiadiazoles]]
+[[Category:Oximes]]
+
+
+{{antibiotic-stub}}

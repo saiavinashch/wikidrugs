@@ -1,0 +1,72 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 443440571
+| IUPAC_name = (2''R'',3''R'',4''R'',5''R'')-2-<nowiki/>{[(1''S'',2''S'',3''R'',4''S'',6''R'')-4,6-diamino-3-<nowiki/>{[(2''S'',3''R'')-3-amino-6-(aminomethyl)-3,4-dihydro-2''H''-pyran-2-yl]oxy}-2-hydroxycyclohexyl]oxy}-5-methyl-4-(methylamino)oxane-3,5-diol
+| image = Sisomicin.svg
+
+<!--Clinical data-->
+| tradename = bactoCeaze 
+| Drugs.com = {{drugs.com|international|sisomicin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = Rx Only  
+| routes_of_administration = topical
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|CAS}}
+| CAS_number        = 32385-11-8
+| ATC_prefix = J01
+| ATC_suffix = GB08
+| PubChem = 36119
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = X55XSL74YQ
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02544
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 221886
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 9169
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 33222
+
+<!--Chemical data-->
+| C=19 | H=37 | N=5 | O=7 
+| molecular_weight = 447.53 g/mol
+| smiles            = C[C@@]1(CO[C@@H]([C@@H]([C@H]1NC)O)O[C@H]2[C@@H](C[C@@H]([C@H]([C@@H]2O)O[C@@H]3[C@@H](CC=C(O3)CN)N)N)N)O
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C19H37N5O7/c1-19(27)7-28-18(13(26)16(19)24-2)31-15-11(23)5-10(22)14(12(15)25)30-17-9(21)4-3-8(6-20)29-17/h3,9-18,24-27H,4-7,20-23H2,1-2H3/t9-,10+,11-,12+,13-,14-,15+,16-,17-,18-,19+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = URWAJWIAIPFPJE-YFMIWBNJSA-N
+}}
+
+'''Sisomicin''' ('''bactoCeaze''' or '''Ensamycin''') is an [[aminoglycoside]] [[antibiotic]], isolated from the
+fermentation broth of a new species of the genus ''[[Micromonospora]]''.<ref name="pmid5487129">{{cite journal |author1=M. J. Weinstein |author2=J. A. Marquez |author3=R. T. Testa |author4=G. H. Wagman |author5=E. M. Oden |author6=J. A. Waitz |title=Antibiotic 6640, a new Micromonospora-produced aminoglycoside antibiotic. |journal=J. Antibiot. |volume=23 |issue=11 |pages=551–554 |date=Nov 1970 |pmid=5487129 |doi= 10.7164/antibiotics.23.551|pmc= }}</ref> It is a newer broad-spectrum aminoglycoside most structurally related to [[gentamicin]].
+
+Sisomicin is the most predictably active aminoglycoside against gram-positive bacteria.<ref name="pmid6994206">{{cite journal |author1=WE Sanders Jr |author2=CC Sanders. |title=Sisomicin: a review of eight years' experience. |journal=Rev Infect Dis. |volume=2 |issue=2 |pages=182–195 |date=Mar–Apr 1980 |pmid=6994206 |doi= 10.1093/clinids/2.2.182|pmc= }}</ref> Like most other aminoglycosides, Sisomicin is bactericidal for sensitive clinical isolates. The minimum bactericidal concentrations (MBC) have been found to be equivalent or very close to the minimum inhibitory concentrations (MIC).<ref name="pmid15825423">{{cite journal |author1=ME Levison |author2=D Kaye. |title=In vitro comparison of four aminoglycoside antibiotics: sisomicin, gentamicin, tobramycin, and BB-K8. |journal=Antimicrob Agents Chemother. |volume=5 |issue=6 |pages=667–669 |date=Jun 1974 |pmid=15825423 |doi= 10.1128/aac.5.6.667|pmc=429032 }}</ref> Like other aminoglycosides, most clinical isolates of ''Pseudomonas aeruginosa'' remain susceptible to sisomicin. Resistance to sisomicin may be enzymatically or non-enzymatically mediated. Sisomicin is inactivated by the same enzymes as gentamicin but it is active against many, not all, organisms that resist gentamicin by non-enzymatic mechanisms.<ref name="pmid=649532" >{{cite journal |author1=I Phillips |author2=BA King |author3=KP Shannon. |title=The mechanisms of resistance to aminoglycosides in the genus Pseudomonas. |journal=J Antimicrob Chemother. |volume=4 |issue=2 |pages=121–129 |date=Mar 1978 |pmid=649532 |doi= 10.1093/jac/4.2.121|pmc= }}</ref>
+
+Some studies show that sisomicin has been effective in the treatment of infections that either had failed to respond to other drugs or were due to microorganisms resistant ''in vitro'' to other aminoglycosides.<ref name="pmid431401">{{cite journal |author1=ME Levison |author2=D Kaye. |title=A randomized comparative trial of three aminoglycosides--comparison of continuous infusions of gentamicin, amikacin and sisomicin combined with carbenicillin in the treatment of infections in neutropenic patients with malignancies. |journal=Medicine (Baltimore). |volume=58 |issue=2 |pages=159–170 |date=Mar 1979 |pmid=431401 |doi= 10.1097/00005792-197903000-00004|pmc= }}</ref><ref>{{cite journal |author1=DG Maki |author2=WA Craig |author3=WA Agger. |title=A comparative clinical trial of sisomicin and gentamicin in major gram-negative infections. |journal=Infection 7(Suppl. 3) |volume=5 |issue=6 |pages=298–300 |date=Jun 1979 |pmid= |doi= 10.1007/bf01646260|pmc= }}</ref>
+
+== References ==
+{{Reflist}}
+
+{{AminoglycosideAntiBiotics}}
+
+[[Category:Aminoglycoside antibiotics]]
+
+
+{{antibiotic-stub}}

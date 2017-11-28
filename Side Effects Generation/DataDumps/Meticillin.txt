@@ -1,0 +1,89 @@
+{{distinguish|metacycline}}
+
+{{drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 404016571
+| IUPAC_name = (2''S'',5''R'',6''R'')-6-(2,6-dimethoxybenzamido)-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+| image = Methicillin.svg
+<!--Clinical data-->
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| routes_of_administration = [[Intravenous|IV]]
+<!--Pharmacokinetic data-->
+| bioavailability = Not orally absorbed
+| metabolism = hepatic, 20–40%
+| elimination_half-life = 25–60 minutes
+| excretion = renal
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 61-32-5
+| ATC_prefix = J01
+| ATC_suffix = CF03
+| ATC_supplemental =  {{ATCvet|J51|CF03}}
+| PubChem = 6087
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01603
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 5862
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = Q91FH1328A
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 575
+<!--Chemical data-->
+| C=17 | H=20 | N=2 | O=6 | S=1
+| molecular_weight = 380.42 g/mol
+| smiles = OC(=O)[C@@H]2N3C(=O)[C@@H](NC(=O)c1c(OC)cccc1OC)[C@H]3SC2(C)C
+}}
+'''Meticillin''' ([[international nonproprietary name|INN]]), also known as '''methicillin''' ([[United States Adopted Name|USAN]]), is a [[narrow-spectrum antibiotic|narrow-spectrum]] [[β-lactam antibiotic]] of the [[penicillin]] class. It should not be confused with the antibiotic [[metacycline]].
+
+<!-- History -->
+Meticillin was discovered in 1960.<ref name=Wal2012>{{cite book|last1=Walker|first1=S. R.|title=Trends and Changes in Drug Research and Development|date=2012|publisher=Springer Science & Business Media|isbn=9789400926592|page=109|url=https://books.google.com/books?id=FB_2CAAAQBAJ&pg=PA109|language=en}}</ref>
+
+== Medical uses ==
+
+Compared to other penicillins that face [[antimicrobial resistance]] due to [[beta-lactamase|β-lactamase]], it is less active, can be administered only [[Route of administration#Parenteral|parenterally]], and has a higher frequency of [[interstitial nephritis]], an otherwise-rare [[adverse effect]] of penicillins. However, selection of meticillin depended on the outcome of [[antibiotic sensitivity|susceptibility testing]] of the sampled infection, and since it is no longer produced, it is also not routinely tested for any more. It also served a purpose in the [[laboratory]] to determine the antibiotic sensitivity of ''[[Staphylococcus aureus]]'' to other penicillins facing β-lactam resistance; this role has now been passed on to other penicillins, namely ''[[cloxacillin]]'', as well as genetic testing for the presence of ''[[mecA]]'' gene by ''[[PCR]]''.
+
+=== Spectrum of activity ===
+At one time, meticillin was used to treat infections caused by certain [[gram-positive bacteria]] including ''Staphylococcus aureus'', ''Staphylococcus epidermidis'', ''Streptococcus pyogenes'', and ''Streptococcus pneumoniae''. Meticillin is no longer effective against these organisms due to resistance.
+
+Resistance to methicillin is conferred by activation of a new bacterial [[penicillin binding protein]] (PBP) ''[[mecA (gene)|mecA gene]]''. This encodes protein PBP2a. PBP2a works in a similar manner to other PBPs, but it binds β-lactams with very low affinity, meaning they do not compete efficiently with the natural substrate of the enzyme and will not inhibit cell wall biosynthesis. Expression of ''PBPA2'' confers resistance to all β-lactams.
+
+These susceptibility data are given on a few medically significant bacteria:
+* ''Staphylococcus aureus'' - 0.125 - >100 μg/ml
+* [[Methicillin resistant Staphylococcus aureus]] (MRSA) - 15.6 - >1000 μg/ml
+* ''Streptococcus pneumoniae'' 0.39 μg/ml
+<ref>http://www.toku-e.com/Assets/MIC/Methicillin%20sodium.pdf</ref>
+
+== Mechanism of action ==
+
+{{main|β-Lactam antibiotic}}
+
+Like other beta-lactam antibiotics, meticillin acts by inhibiting the synthesis of bacterial [[cell wall]]s. It inhibits cross-linkage between the linear [[peptidoglycan]] polymer chains that make up a major component of the cell wall of gram-positive bacteria. It does this by binding to and competitively inhibiting the [[DD-transpeptidase|transpeptidase]] enzyme (also known as [[penicillin-binding proteins]] (PBPs)). These PBPs crosslink glycopeptides (''<small>D</small>-alanyl-alanine''), forming the peptidoglycan cell wall. Meticillin and other β-lactam antibiotics are structural analogs of <small>D</small>-alanyl-alanine, and the transpeptidase enzymes that bind to them are sometimes called [[penicillin-binding proteins]] (PBPs).<ref>Gladwin M., Trattler B. Clinical Microbiology made ridiculously simple. 3rd edition. Miami: MedMaster, Inc.; 2004.</ref>
+
+Meticillin is actually a [[penicillinase]]-resistant B-lactam antibiotic. Penicillinase is a bacterial enzyme produced by bacteria resistant to other B-lactam antibiotics which hydrolyses the antibiotic, rendering it nonfunctional. Meticillin is not bound and hydrolysed by penicillinase, meaning it can kill the bacteria, even if this enzyme is present.
+
+== Medicinal chemistry ==
+
+Meticillin is insensitive to [[beta-lactamase]] (also known as penicillinase) enzymes secreted by many penicillin-resistant bacteria. The presence of the ''ortho''-dimethoxyphenyl group directly attached to the [[Side chain|side-chain]] carbonyl group of the penicillin nucleus facilitates the β-lactamase  resistance, since those enzymes are relatively intolerant of side-chain [[steric hindrance]]. Thus, it is able to bind to PBPs and inhibit [[peptidoglycan]] crosslinking, but it is not bound by or inactivated by β-lactamases.
+
+==History==
+Meticillin was developed by [[Beecham (pharmaceutical company)|Beecham]] in 1959.<ref name="Dutfield2009">{{cite book|author=Graham Dutfield|title=Intellectual property rights and the life science industries: past, present and future|url=https://books.google.com/books?id=hnleY38aUxYC&pg=PA140|accessdate=18 November 2010|date=30 July 2009|publisher=World Scientific|isbn=978-981-283-227-6|pages=140–}}</ref> It was previously used to treat [[infection]]s caused by susceptible gram-positive bacteria, in particular, [[penicillinase]]-producing organisms such as ''[[Staphylococcus aureus]]'' that would otherwise be resistant to most penicillins.
+
+Its role in therapy has been largely replaced by [[flucloxacillin]] and [[dicloxacillin]], but the term [[methicillin-resistant Staphylococcus aureus]] (MRSA) continues to be used to describe ''S. aureus'' strains resistant to all penicillins.<ref>{{cite journal | pmc = 1079642 | pmid=15520143 | doi=10.1258/jrsm.97.11.509 | volume=97 | title=MRSA--past, present, future | journal=J R Soc Med | pages=509–10 | last1 = Newsom | first1 = SW}}</ref>
+
+Meticillin is no longer manufactured because the more stable and similar penicillins such as [[oxacillin]] (used for clinical antimicrobial susceptibility testing), flucloxacillin, and dicloxacillin are used medically.
+
+== References ==
+{{wikinews|Supergerm deaths soar, surpass AIDS in the United States}}
+{{reflist}}
+
+{{Cell wall disruptive antibiotics}}
+
+[[Category:Penicillins]]
+[[Category:Benzamides]]
+[[Category:Phenol ethers]]

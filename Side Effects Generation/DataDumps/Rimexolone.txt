@@ -1,0 +1,81 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464382584
+| IUPAC_name = (8''S'',9''S'',10''R'',11''S'',13''S'',14''S'',16''R'',17''S'')-11-Hydroxy-10,13,16,17-tetramethyl-17-propanoyl-7,8,9,11,12,14,15,16-octahydro-6H-cyclopenta[a]phenanthren-3-one
+| image = Rimexolone structure.png
+<!--Clinical data-->
+| tradename = Vexol
+| Drugs.com = {{drugs.com|monograph|rimexolone}}
+| MedlinePlus = a606003
+| pregnancy_US = C <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_status =  
+| routes_of_administration = Eye drops
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = estimated 1–2 hours
+| excretion = >80% faeces
+<!--Identifiers-->
+| IUPHAR_ligand = 7099
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 49697-38-3
+| ATC_prefix = H02
+| ATC_suffix = AB12
+| ATC_supplemental =  {{ATC|S01|BA13}}
+| PubChem = 5311412
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00896
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 4470902
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = O7M2E4264D
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05729
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1200617
+<!--Chemical data-->
+| C=24 | H=34 | O=3
+| molecular_weight = 370.525 g/mol
+| smiles = CCC(=O)[C@]1([C@@H](C[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2CCC4=CC(=O)C=C[C@]34C)O)C)C)C
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C24H34O3/c1-6-20(27)24(5)14(2)11-18-17-8-7-15-12-16(25)9-10-22(15,3)21(17)19(26)13-23(18,24)4/h9-10,12,14,17-19,21,26H,6-8,11,13H2,1-5H3/t14-,17+,18+,19+,21-,22+,23+,24-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = QTTRZHGPGKRAFB-OOKHYKNYSA-N
+| synonyms = Trimexolone; Org 6216; 11β-Hydroxy-16α,17α,21-trimethylpregna-1,4-dien-3,20-dione
+}}
+
+'''Rimexolone''' is a [[glucocorticoid]] [[steroid]] used to treat [[inflammation]] in the [[human eye|eye]].<ref name="pmid17762913">{{cite journal |vauthors=Kavuncu S, Horoz H, Ardagil A, Erbil HH |title=Rimexolone 1% versus prednisolone acetate in preventing early postoperative inflammation after cataract surgery |journal=Int Ophthalmol |volume=28 |issue=4 |pages=281–5 |date=August 2008 |pmid=17762913 |doi=10.1007/s10792-007-9131-0}}</ref> It is marketed as a 1% [[eye drop]] suspension under the trade name '''Vexol''' by [[Alcon|Alcon Laboratories]], but was discontinued in the US and other countries.<ref name="AC">{{cite book|title=Austria-Codex|at=Vexol 1% (10 mg/ml)-Augentropfensuspension|editor=Haberfeld, H|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2015|language=German}}</ref><ref name="Drugs.com">[[Drugs.com]]: {{drugs.com|monograph|rimexolone}}.</ref>
+
+==Medical uses==
+Rimexolone is used to treat inflammation after [[eye surgery]], to treat [[anterior uveitis]], [[conjunctivitis]] and [[keratitis]].<ref name="AC" /><ref name="Drugs.com" />
+
+==Contraindications==
+The substance is contraindicated in [[herpes simplex]] and most other viral eye infections, as well as [[mycobacterial]], [[fungal]] and [[amoeba]]l eye infections<ref name="AC" /><ref name="Drugs.com" /> because it only reduces the inflammation but does not act against such microorganisms.
+
+==Side effects==
+The most common adverse effects are blurred vision, [[Lacrimation|tearing]] and other kinds of eye discomfort. Eye pain, eye [[oedema]], headache, increased [[intraocular pressure]] and other side effects are seen in less than 1% of patients.<ref name="AC" /><ref name="Drugs.com" />
+
+==Pharmacology==
+
+===Pharmacodynamics===
+{{See|Glucocorticoid#Mechanism of action}}
+As a glucocorticoid, rimexolone acts as an [[agonist]] of the [[glucocorticoid receptor]].
+
+===Pharmacokinetics===
+A small amount of rimexolone is absorbed into the systemic circulation. On hourly treatment with the eye drops for a week, [[blood serum]] concentrations peaked at 150&nbsp;[[picogram|pg]]/ml on average, with many patients remaining below the detection threshold of 80&nbsp;pg/ml. The [[elimination half-life]] from the circulation is estimated at one to two hours; the substance is mainly (over 80%) excreted via the faeces.<ref name="AC" /><ref name="Drugs.com" />
+
+==References==
+{{Reflist|2}}
+
+
+{{Glucocorticoids and antiglucocorticoids}}
+{{Glucocorticoid receptor modulators}}
+{{Xenobiotic-sensing receptor modulators}}
+
+[[Category:Alcohols]]
+[[Category:Diketones]]
+[[Category:Glucocorticoids]]
+[[Category:Pregnanes]]

@@ -1,0 +1,69 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 407427669
+| IUPAC_name = 3-(5-<nowiki/>{[3-carboxy-2,4,6-triiodo-5-(methylcarbamoyl)phenyl]carbamoyl}pentanamido)-2,4,6-triiodo-5-(methylcarbamoyl)benzoic acid
+| image = Iocarmic acid.png
+| alt = Skeletal formula of iocarmic acid
+| width = 260
+| image2 = Iocarmic-acid-3D-spacefill.png
+| alt2 = Space-filling model of the iocarmic acid molecule
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 10397-75-8
+| ATC_prefix = V08
+| ATC_suffix = AA08
+| PubChem = 25229
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 82PB24K6TZ
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01099
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 23564
+
+<!--Chemical data-->
+| C=24 | H=20 | I=6 | N=4 | O=8 
+| molecular_weight = 1253.86 g/mol
+| synonyms = <small>3-<nowiki/>{{bracket|[6-[{{bracket|3-Carboxy-2,4,6-triiodo-5-(methylcarbamoyl)phenyl]amino}}-6-oxohexanoyl]amino}}-2,4,6-triiodo-5-(methylcarbamoyl)benzoic acid </small>
+| smiles            = CNC(=O)c1c(c(c(c(c1I)NC(=O)CCCCC(=O)Nc2c(c(c(c(c2I)C(=O)O)I)C(=O)NC)I)I)C(=O)O)I
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C24H20I6N4O8/c1-31-21(37)9-13(25)11(23(39)40)17(29)19(15(9)27)33-7(35)5-3-4-6-8(36)34-20-16(28)10(22(38)32-2)14(26)12(18(20)30)24(41)42/h3-6H2,1-2H3,(H,31,37)(H,32,38)(H,33,35)(H,34,36)(H,39,40)(H,41,42)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = SMQYOVYWPWASGU-UHFFFAOYSA-N
+
+}}
+
+'''Iocarmic acid''' is a molecule used as a [[contrast medium]].
+
+
+{{pharmacology-stub}}
+
+{{Contrast media}}
+
+[[Category:Radiocontrast agents]]
+[[Category:Iodoarenes]]
+[[Category:Benzoic acids]]
+[[Category:Benzamides]]
+[[Category:Anilides]]

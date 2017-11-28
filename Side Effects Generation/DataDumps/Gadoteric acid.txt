@@ -1,0 +1,61 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 407376289
+| IUPAC_name = gadolinium(+3) cation; 2-[4,7,10-tris(carboxymethyl)-1,4,7,10-tetrazacyclododec-1-yl]acetate
+| image = Gadoteric acid.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|gadoteric-acid}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 72573-82-1
+| ATC_prefix = V08
+| ATC_suffix = CA02
+| PubChem = 3085828
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = QVF9Y6955W
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08007
+
+<!--Chemical data-->
+| C=16 | H=25 | Gd=1 | N=4 | O=8 
+| molecular_weight = 558.64 g/mol
+}}
+'''Gadoteric acid''' ('''gadoterate meglumine''', trade names '''Artirem''', '''Dotarem''') is a [[macrocycle]]-structured [[gadolinium-based MRI contrast agent|gadolinium-based MRI contrast agent (GBCA)]].  It consists of the organic acid [[DOTA (chelator)|DOTA]] as a [[chelating agent]], and [[gadolinium]] (Gd<sup>3+</sup>), and is used in form of the [[meglumine]] salt (Gadoterate meglumine).<ref name=USlabel2013/>
+
+It is used for imaging of blood vessels and inflamed or diseased tissue where the blood vessels become 'leaky'. It is often used when viewing [[intracranial]] [[lesion]]s with abnormal [[blood vessel|vascularity]] or abnormalities in the [[blood–brain barrier]]. Gadoteric acid is used for MRI imaging of the brain, spine, and associated tissues for adult and pediatric (2 years of age or older) patients. The meglumine salt it takes the form of crosses the blood brain barrier of tissue with abnormal vasculature, highlighting the affected area with MRI. Gadoterate does not cross the intact blood-brain barrier, so it does not affect or enhance normal brain tissue in imaging.<ref name=":0">{{Cite journal|date=2016-08-22|editor-last=DrugBank|title=Gadoteric acid|url=http://www.drugbank.ca/drugs/DB09132|journal=DrugBank}}</ref>   Dotarem is administered through an intravenous bolus injection, either manually or through a power injection.<ref name=USlabel2013>{{cite web|title=US gadoterate meglumine label|url=http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/204781s000lbl.pdf|publisher=FDA|date=March 2013}}</ref>
+
+The most common adverse effects (>0.2%) in clinical studies were nausea, headache, injection site pain, injection site coldness, and burning sensation. Drugs with gadolinium-based contrasting agents can increase the risk of [[nephrogenic systemic fibrosis]] (NSF) for those with impaired elimination of the drug. Those most at risk for NSF include patients with chronic or severe kidney disease and acute kidney injury.<ref name=USlabel2013/><ref>{{cite journal|last1=Todd|first1=DJ|last2=Kay|first2=J|title=Gadolinium-Induced Fibrosis.|journal=Annual Review of Medicine|date=2016|volume=67|pages=273–91|pmid=26768242}}</ref>
+
+The [[paramagnetic]] property of gadoteric acid reduces the [[Spin-lattice relaxation time|T1]] [[Relaxation (NMR)|relaxation time]] (and to some extent the T2 and T2* relaxation times) in [[MRI]], which is the source of its clinical utility. Because it has magnetic properties, gadoteric acid develops a magnetic moment when put under a magnetic field, which increases the signal intensity (brightness) of tissues during MRI imaging.<ref name=":0" />
+
+The drug, under the brand Dotarem, was brought to market by [[Guerbet]].<ref name=Fierce2014/> As of 2013 gadoteric acid was approved in around 70 countries.<ref>{{cite web|title=Gadoteric Acid international brands|url=http://www.drugs.com/international/gadoteric-acid.html|publisher=Drugs.com|accessdate=7 March 2017}}</ref><ref>{{cite web|last1=Guerbet LLC|title=Advisory Committee Briefing Document for NDA 204-781|url=https://www.fda.gov/downloads/AdvisoryCommittees/UCM339378|publisher=FDA|date=14 February 2013}}</ref>  It was launched in the French market in 1989 and was FDA approved in the US in March, 2013.<ref name=Fierce2014>{{cite news|last1=Hollmer|first1=Mark|title=Dotarem: A safe(r) gadolinium-based contrast imaging agent|url=http://www.fiercebiotech.com/special-report/dotarem-a-safe-r-gadolinium-based-contrast-imaging-agent|work=FierceBiotech|date=January 6, 2014}}</ref> Dotarem is the seventh FDA approved GBCA for use in central nervous system (CNS) MRI. In 2017, GE Healthcare launched a gadoteric acid (as gadoterate meglumine) under the trade name Clariscan<ref>http://www.mhra.gov.uk/home/groups/spcpil/documents/spcpil/con1487912585095.pdf</ref> Other FDA approved GBCAs for similar purposes include Magnevist (1988), Prohance (1992), Omniscan (1993), Optimark (1999), Multihance (2004) and Gadavist (2011).<ref name=":3">{{Cite web|url=http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm344758.htm|title=Press Announcements - FDA approves Dotarem, a new magnetic resonance imaging agent|website=www.fda.gov|language=en|access-date=2016-11-14}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Contrast media}}
+
+[[Category:Gadolinium compounds]]
+[[Category:MRI contrast agents]]

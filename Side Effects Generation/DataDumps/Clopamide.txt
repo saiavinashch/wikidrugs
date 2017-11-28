@@ -1,0 +1,80 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 447611902
+| IUPAC_name = 4-chloro-''N''-(2,6-dimethyl-1-piperidyl)-3-sulfamoyl-<br>benzamide
+| image = Clopamide.svg
+| image2 = Clopamide ball-and-stick.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|clopamide}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_UK = <!-- GSL         / P       / POM / CD -->
+| legal_US = <!-- OTC                   / Rx-only  -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 636-54-4
+| ATC_prefix = C03
+| ATC_suffix = BA03
+| PubChem = 2804
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1361347
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2702
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 17S83WON0I
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02460
+
+<!--Chemical data-->
+| C=14 | H=20 | Cl=1 | N=3 | O=3 | S=1 
+| molecular_weight = 345.846 g/mol
+| smiles = O=C(NN1C(CCCC1C)C)c2ccc(Cl)c(c2)S(=O)(=O)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C14H20ClN3O3S/c1-9-4-3-5-10(2)18(9)17-14(19)11-6-7-12(15)13(8-11)22(16,20)21/h6-10H,3-5H2,1-2H3,(H,17,19)(H2,16,20,21)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = LBXHRAWDUMTPSE-UHFFFAOYSA-N
+}}
+
+'''Clopamide''' (trade name '''Brinaldix''') is a [[piperidine]] [[diuretic]].<ref>{{Cite journal 
+| last1 = McNeil | first1 = J. J. 
+| last2 = Conway | first2 = E. L. 
+| last3 = Drummer | first3 = O. H. 
+| last4 = Howes | first4 = L. G. 
+| last5 = Christophidis | first5 = N. 
+| last6 = Louis | first6 = W. J. 
+| title = Clopamide: Plasma concentrations and diuretic effect in humans 
+| journal = Clinical pharmacology and therapeutics 
+| volume = 42 
+| issue = 3 
+| pages = 299–304 
+| year = 1987 
+| pmid = 3621784 | doi=10.1038/clpt.1987.151
+}}</ref>
+
+==Mechanism of action==
+Clopamide is categorised as a [[thiazide-like diuretic]] and works in similar way as the [[thiazide]] diuretics do. It acts in the kidneys, at the [[distal convoluted tubule]] (PCT) of the [[nephron]] where it inhibits the [[sodium-chloride symporter]]. Clopamide selectively binds at the chloride binding site of the sodium-chloride symporter in the PCT cells on the luminal (interior) side and thus interferes with the reabsorption of [[sodium chloride]], causing an equi[[osmolar]] excretion of water along with sodium chloride.
+
+== References ==
+<references />
+
+[[Category:Piperidines]]
+[[Category:Sulfonamides]]
+[[Category:Hydrazides]]
+[[Category:Diuretics]]
+[[Category:Carbonic anhydrase inhibitors]]

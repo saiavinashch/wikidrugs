@@ -1,0 +1,70 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 418028930
+| IUPAC_name = 3-[(''E'')-3-anilino-3-oxoprop-1-enyl]-4,6-dichloro-1''H''-indole-2-carboxylic acid
+| image = Gavestinel.svg
+| width = 230
+
+<!--Clinical data-->
+| tradename = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- Schedule I -->
+| legal_UK = <!-- Class A -->
+| legal_US = 
+| legal_status = 
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| excretion = 
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 153436-22-7
+| ATC_prefix = none
+| ATC_suffix = 
+| PubChem = 6450546
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 318X4QY113
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 419045
+| synonyms = GV-150,526A
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 4953148
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C18H12Cl2N2O3/c19-10-8-13(20)16-12(17(18(24)25)22-14(16)9-10)6-7-15(23)21-11-4-2-1-3-5-11/h1-9,22H,(H,21,23)(H,24,25)/b7-6+
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = WZBNEZWCNKUOSM-VOTSOKGWSA-N
+
+<!--Chemical data-->
+| C=18 | H=12 | Cl=2 | N=2 | O=3 
+| molecular_weight = 375.205 g/mol
+| smiles = OC(C1=C(/C=C/C(NC2=CC=CC=C2)=O)C3=C(Cl)C=C(Cl)C=C3N1)=O
+}}
+
+'''Gavestinel''' ('''GV-150,526''') was an investigational drug developed by [[GlaxoSmithKline]] for acute [[intracerebral hemorrhage]], which in 2001 failed to show an effect in what was at the time, the largest clinical trial in [[stroke]] that had been conducted.<ref> Elda Hauschildt for PSL. 3 April, 2001 [http://www.pslclub.com/news/content.nsf/MedicalNews/8525697700573E1885256A2400487E25 No Benefit From Early Gavestinel Therapy For Acute Stroke Patients A DGReview of :"Glycine Antagonist in Neuroprotection for Patients With Acute Stroke GAIN Americas: A Randomized Controlled Trial" Journal of the American Medical Association (JAMA)]</ref><ref>Susan Jeffrey for Medscape News.  April 04, 2001 [http://www.medscape.com/viewarticle/783600 GAIN Americas trial again shows no benefit from neuroprotectant agent in stroke]</ref>
+
+Gavestinel is an [[NMDA antagonist]], binding selectively to the [[glycine]] site on the NMDA receptor complex, rather than the [[glutamate]] site many NMDA antagonists bind to.<ref>Chopra B, Chazot PL, Stephenson FA. Characterization of the binding of two novel glycine site antagonists to cloned NMDA receptors: evidence for two pharmacological classes of antagonists. ''British Journal of Pharmacology''. 2000 May;130(1):65-72. {{PMID|10780999}}</ref><ref>Ikonomidou C, Turski L. Why did NMDA receptor antagonists fail clinical trials for stroke and traumatic brain injury? Lancet Neurol. 2002 Oct;1(6):383-6. {{PMID|12849400}}</ref><ref>Hoyte L, et al  The rise and fall of NMDA antagonists for ischemic stroke. Curr Mol Med. 2004 Mar;4(2):131-6. {{PMID|15032709}}</ref>
+
+==Pharmacology and Toxicology==
+''N''-methyl-D-aspartate (NMDA) receptors are amino acid receptors, overstimulation to which lead to increased intracellular Ca<sup>2+</sup> level, and become deleterious to neural cell. In ischaemic or hypoxic conditions such as stroke, the concentration of glutamate in synaptic clefts is increased, and continuously stimulates NMDA receptors.  Gavestinel was synthesized by substituting indole-2-carboxylate at the C-3 position with an unsaturated lateral side chain. It binds to NMDA receptor on the glycine site with high affinity, selectivity and a broad time window efficacy, thus gains interests in testing its efficacy in treating stroke. In pre-clinical studies, gavestinel showed no significant side effects on memory, learning, and cardiovascular system, side effects that are very common in NMDA antagonists.<ref>Bordi, F., Mugnaini, M., Terron, A., Barnaby, R., & Reggiani, A. (2000). GV150526: a neuroprotective agent. CNS Drug Reviews, 6(2), 135-152.</ref>
+
+==Clinical Studies==
+In phase ΙΙ clinical studies to investigate safety, tolerability of gavestinel, no findings showed that it had significant side effects. The dose determined in phase ΙΙ trials was selected for further phase ΙΙΙ trials.<ref>Dyker, A. G., & Lees, K. R. (1999). Safety and tolerability of GV150526 (a glycine site antagonist at the N-methyl-D-aspartate receptor) in patients with acute stroke. Stroke, 30(5), 986-992.</ref>Later, however, in two large phase ΙΙΙ trials, gavestinel showed no efficacy in treating ischemic stroke.<ref>Haley, E. C., Thompson, J. L., Levin, B., Davis, S., Lees, K. R., Pittman, J. G., ... & Sacco, R. L. (2005). Gavestinel Does Not Improve Outcome After Acute Intracerebral Hemorrhage An Analysis From the GAIN International and GAIN Americas Studies. Stroke, 36(5), 1006-1010.</ref>
+
+==References==
+{{Reflist}}
+
+{{Ionotropic glutamate receptor modulators}}
+
+[[Category:NMDA receptor antagonists]]
+
+
+{{nervous-system-drug-stub}}

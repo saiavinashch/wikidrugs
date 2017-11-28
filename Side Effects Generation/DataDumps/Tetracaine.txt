@@ -1,0 +1,82 @@
+{{Drugbox
+| verifiedrevid = 470603479
+| IUPAC_name = 2-(dimethylamino)ethyl 4-(butylamino)benzoate
+| image = Tetracaine2DCSD.svg
+<!--Clinical data-->
+| tradename =  Pontocaine, Ametop, Dicaine, others
+| Drugs.com = {{drugs.com|monograph|tetracaine}}
+| MedlinePlus = a682640
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = Rx Only
+| routes_of_administration = topical
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 75.6
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 94-24-6
+| CAS_supplemental = <br/>{{CAS|136-47-0}} ([[hydrochloride]]) <!-- Also CAS verified -->
+| ATC_prefix = C05
+| ATC_suffix = AD02
+| ATC_supplemental =  {{ATC|D04|AB06}} {{ATC|N01|BA03}} {{ATC|S01|HA03}}
+| PubChem = 5411
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5218
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0619F35CGV
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00551
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 9468
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 698
+| PDB_ligand = TE4
+<!--Chemical data-->
+| C=15 | H=24 | N=2 | O=2
+| molecular_weight = 264.363 g/mol
+| smiles = O=C(OCCN(C)C)c1ccc(NCCCC)cc1
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C15H24N2O2/c1-4-5-10-16-14-8-6-13(7-9-14)15(18)19-12-11-17(2)3/h6-9,16H,4-5,10-12H2,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GKCBAIGFKIBETG-UHFFFAOYSA-N
+}}
+<!-- Definition and medical uses -->
+'''Tetracaine''', also known as '''amethocaine''', is a [[local anesthetic]] used to numb the eyes, nose, or throat.<ref name=AHFS2016/> It may also be used before starting an [[intravenous]] to decrease pain from the procedure.<ref name=BNF69>{{cite book|title=British national formulary : BNF 69|date=2015|publisher=British Medical Association|isbn=9780857111562|page=769, 897|edition=69}}</ref> Typically it is applied as a liquid to the area.<ref name=AHFS2016/> Onset of effects when used in the eyes is within 30 seconds and last for less than 15 minutes.<ref name=AHFS2016>{{cite web|title=Tetracaine|url=https://www.drugs.com/monograph/tetracaine.html|publisher=The American Society of Health-System Pharmacists|accessdate= 8 December 2016}}</ref>
+
+<!-- Side effects and mechanism -->
+Common side effects include a brief period of burning at the site of use.<ref name=AHFS2016/> [[Allergic reactions]] may uncommonly occur.<ref name=WHO2008/> Long term use is generally not recommended as it may slow healing of the eye.<ref name=AHFS2016/> It is unclear if use during [[pregnancy]] is safe for the baby.<ref name=AHFS2016/> Tetracaine is in the [[local_anesthetic#Ester_group|ester-type local anesthetic]] family of medications.<ref name=WHO2008>{{cite book|title=WHO Model Formulary 2008|date=2009|publisher=World Health Organization|isbn=9789241547659|page=437|url=http://apps.who.int/medicinedocs/documents/s16879e/s16879e.pdf|accessdate= 8 December 2016}}</ref> It works by blocking the sending of [[nerve impulses]].<ref name=AHFS2016/> 
+
+<!-- History and culture -->
+Tetracaine was patented in 1930 and came into medical use in 1941.<ref name=Fis2006>{{cite book|last1=Fischer|first1=Janos|last2=Ganellin|first2=C. Robin|title=Analogue-based Drug Discovery|date=2006|publisher=John Wiley & Sons|isbn=9783527607495|page=475|url=https://books.google.ca/books?id=FjKfqkaKkAAC&pg=PA475|language=en}}</ref> It is on the [[World Health Organization's List of Essential Medicines]], the most effective and safe medicines needed in a [[health system]].<ref name=WHO19th>{{cite web|title=WHO Model List of Essential Medicines (19th List)|url=http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|work=World Health Organization|accessdate=8 December 2016|date=April 2015}}</ref> The wholesale cost in the [[developing world]] is about 1.34 to 1.63 USD per 10 ml bottle.<ref name=ERC2014>{{cite web|title=Tetracaine|url=http://erc.msh.org/dmpguide/resultsdetail.cfm?language=english&code=TER05O&s_year=2014&year=2014&str=0%2E5%25&desc=Tetracaine&pack=new&frm=OPHT%20DROP&rte=OPHT&class_code2=21%2E3%2E&supplement=&class_name=%2821%2E3%2E%29Ophthalmological%20local%20anaesthetics%3Cbr%3E|website=International Drug Price Indicator Guide|accessdate=8 December 2016}}</ref> In the United Kingdom the eye drops cost the [[NHS]] about 0.49 pounds per dose.<ref name=BNF69/>
+
+==Medical uses==
+A [[systematic review]] investigated tetracaine for use in emergency departments, especially for starting intravenous lines in children, in view of its analgesic and cost-saving properties. However, it did not find an improvement in first-attempt cannulations.<ref>{{cite journal|last=Pywell|first=A|author2=Xyrichis, A |title=Does topical Amethocaine cream increase first-time successful cannulation in children compared with a eutectic mixture of local anaesthetics (EMLA) cream? A systematic review and meta-analysis of randomised controlled trials|publisher=Emerg Med J|volume=0|issue=0|year=2014|pages=1&ndash;5|doi=10.1136/emermed-2014-204066}}</ref>
+
+Tetracaine is the T in [[Topical_tac|TAC]], a mixture of 5 to 12% tetracaine, 0.05% [[adrenaline]], and 4 or 10% [[cocaine]] hydrochloride used in ear, nose, and throat surgery and in the emergency department where numbing of the surface is needed rapidly, especially when children have been injured in the eye, ear, or other sensitive locations.<ref>Appleton's Nursing Manual - "Cocaine"</ref>
+
+==Mechanism==
+In [[biomedical research]], tetracaine is used to alter the function of calcium release channels ([[ryanodine receptor]]s) that control the release of calcium from intracellular stores. Tetracaine is an [[allosteric regulation|allosteric blocker]] of channel function. At low concentrations, tetracaine causes an initial inhibition of spontaneous calcium release events, while at high concentrations, tetracaine blocks release completely.<ref>{{cite journal|last=Györke|first=S|author2=Lukyanenko, V|title=Dual effects of tetracaine on spontaneous sodium release in rat ventricular myocytes|publisher=J Physiol|volume=500|issue=2|year=1997|pages=297&ndash;309|display-authors=etal}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Vasoprotectives}}
+{{Local anesthetics}}
+
+{{nervous-system-drug-stub}}
+
+[[Category:Local anesthetics]]
+[[Category:Ethyl esters]]
+[[Category:World Health Organization essential medicines]]
+[[Category:RTT]]

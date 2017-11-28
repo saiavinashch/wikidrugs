@@ -1,0 +1,117 @@
+{{Drugbox
+| verifiedrevid = 464214288
+| IUPAC_name = (''RS'')-''N''-(6-methoxyquinolin-8-yl)pentane-1,4-diamine
+| image = Primaquine.svg
+| chirality = [[Racemic mixture]]
+
+<!--Clinical data-->
+| tradename =  
+| synonyms = primaquine phosphate
+| Drugs.com = {{drugs.com|monograph|primaquine-phosphate}}
+| MedlinePlus = a607037
+| pregnancy_category =
+| legal_US = Rx-only
+| legal_UK = Unlicensed
+| routes_of_administration = by mouth
+
+<!--Pharmacokinetic data-->
+| bioavailability = 96%<ref>{{cite journal  |vauthors=Mihaly GW, Ward SA, Edwards G, etal | title = Pharmacokinetics of primaquine in man. I. Studies of the absolute bioavailability and effects of dose size | year = 1985 | journal = Br J Clin Pharmacol | volume = 19 | pages = 745&ndash;50 | pmid = 4027117 | issue = 6 | pmc = 1463857 | doi=10.1111/j.1365-2125.1985.tb02709.x}}</ref>
+| metabolism = Liver
+| elimination_half-life = 6 hours
+| excretion = ?
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 90-34-6
+| ATC_prefix = P01
+| ATC_suffix = BA03
+| PubChem = 4908
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01087
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4739
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = MVR3634GX1
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08420
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 8405
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 506
+<!--Chemical data-->
+| C=15 | H=21 | N=3 | O=1
+| molecular_weight = 259.347 g/mol
+| smiles = O(c1cc(NC(C)CCCN)c2ncccc2c1)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C15H21N3O/c1-11(5-3-7-16)18-14-10-13(19-2)9-12-6-4-8-17-15(12)14/h4,6,8-11,18H,3,5,7,16H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = INDBQLZJXZLFIT-UHFFFAOYSA-N
+}}
+<!-- Definition and medical uses -->
+'''Primaquine''' is a medication used to treat and prevent [[malaria]] and to treat [[Pneumocystis pneumonia|''Pneumocystis'' pneumonia]].<ref name=AHFS2016/> Specifically it is used for malaria due to ''[[Plasmodium vivax]]'' and ''[[Plasmodium ovale]]'' along with other medications and for prevention if other options cannot be used.<ref name=AHFS2016/> It is an alternative treatment for ''Pneumocystis'' pneumonia together with [[clindamycin]].<ref name=AHFS2016/><ref name=Vale2009rev>{{cite journal|last1=Vale|first1=Nuno|last2=Moreira|first2=Rui|last3=Gomes|first3=Paula|title=Primaquine revisited six decades after its discovery|journal=European Journal of Medicinal Chemistry|date=March 2009|volume=44|issue=3|pages=937–953|doi=10.1016/j.ejmech.2008.08.011|pmid=18930565}}</ref> It is taken by mouth.<ref name=AHFS2016/>
+
+<!-- Side effects and mechanism -->
+Common side effects include [[nausea]], vomiting, and stomach cramps.<ref name=AHFS2016/><ref name=YellowBook2016>{{cite book|last1=Arguin|first1=Paul M.|last2=Tan|first2=Kathrine R.|editor1-last=Brunette|editor1-first=Gary W.|title=CDC Health Information for International Travel 2016 (Yellow Book)|date=2016|publisher=CDC and Oxford University Press|isbn=978-0-19-937915-6|url=http://wwwnc.cdc.gov/travel/yellowbook/2016/infectious-diseases-related-to-travel/malaria#1939|chapter=Malaria - Chapter 3|deadurl=no|archiveurl=https://web.archive.org/web/20160114185552/http://wwwnc.cdc.gov/travel/yellowbook/2016/infectious-diseases-related-to-travel/malaria#1939|archivedate=2016-01-14|df=}}</ref> Primaquine should not be given to people with [[Glucose-6-phosphate dehydrogenase deficiency|glucose-6-phosphate dehydrogenase (G6PD) deficiency]] due to the risk of [[hemolysis|red blood cell breakdown]].<ref name=YellowBook2016/> It is often recommended that primaquine not be used during [[pregnancy]].<ref name=Ric2015/><ref name="Hill2006">{{Cite journal|last1=Hill|first1=D. R.|last2=Baird|first2=J. K.|last3=Parise|first3=M. E.|last4=Lewis|first4=L. S.|last5=Ryan|first5=E. T.|last6=Magill|first6=A. J.|year=2006|title=Primaquine: Report from CDC expert meeting on malaria chemoprophylaxis I|journal=The American journal of tropical medicine and hygiene|volume=75|issue=3|pages=402–15|pmid=16968913|url=http://www.ajtmh.org/content/75/3/402.long|deadurl=no|archiveurl=https://web.archive.org/web/20140123071557/http://www.ajtmh.org/content/75/3/402.long|archivedate=2014-01-23|df=}}</ref> It may be okay in [[breastfeeding]] when the baby is known not to have G6PD deficiency.<ref name="Hill2006"/> The mechanisms of action is not entirely clear but is believed to involve effects on the malaria parasites [[DNA]].<ref name=AHFS2016/>
+
+<!-- Society and culture -->
+Primaquine was first made in 1946.<ref name=Vale2009rev/> It is on the [[World Health Organization's List of Essential Medicines]], the most effective and safe medicines needed in a [[health system]].<ref name=WHO19th>{{cite web|title=WHO Model List of Essential Medicines (19th List)|url=http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|work=World Health Organization|accessdate=8 December 2016|date=April 2015|deadurl=no|archiveurl=https://web.archive.org/web/20161213052708/http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|archivedate=13 December 2016|df=}}</ref> It is available as a [[Generic drug|generic medication]].<ref name=AHFS2016>{{cite web|title=Primaquine Phosphate|url=https://www.drugs.com/monograph/primaquine-phosphate.html|publisher=The American Society of Health-System Pharmacists|accessdate=2 December 2016|deadurl=no|archiveurl=https://web.archive.org/web/20161220060718/https://www.drugs.com/monograph/primaquine-phosphate.html|archivedate=20 December 2016|df=}}</ref> The wholesale cost in the [[developing world]] is 0.04 to 0.11 USD per day.<ref>{{cite web|title=Primaquine|url=http://erc.msh.org/dmpguide/resultsdetail.cfm?language=english&code=PRI15T&s_year=2014&year=2014&str=15%20mg&desc=Primaquine&pack=new&frm=TAB-CAP&rte=PO&class_code2=06%2E5%2E3%2E1&supplement=&class_name=%2806%2E5%2E3%2E1%29Antimalarial%20medicines%2C%20for%20curative%20treatment%3Cbr%3E|website=International Drug Price Indicator Guide|accessdate=3 December 2016}}</ref> In the United States a typical course of treatment is 50 to 100 USD.<ref name=Ric2015>{{cite book|last1=Hamilton|first1=Richart|title=Tarascon Pocket Pharmacopoeia 2015 Deluxe Lab-Coat Edition|date=2015|publisher=Jones & Bartlett Learning|isbn=9781284057560|page=57}}</ref>
+
+==Medical uses==
+
+===Malaria===
+Primaquine is primarily used to prevent relapse of malaria due to ''[[Plasmodium vivax]]'' and ''[[Plasmodium ovale]]''.<ref name=CDC2013>{{cite web|title=Treatment of Malaria (Guidelines For Clinicians)|url=https://www.cdc.gov/malaria/resources/pdf/clinicalguidance.pdf|publisher=CDC|date=July 2013|deadurl=no|archiveurl=https://web.archive.org/web/20170829173925/https://www.cdc.gov/malaria/resources/pdf/clinicalguidance.pdf|archivedate=2017-08-29|df=}}</ref>  It eliminates [[Plasmodium#Life cycle|hypnozoites]], the dormant liver form of the parasite, after the plasmodia have been cleared from the bloodstream.<ref name=CDC2013/> If primaquine is not administered to patients with proven ''P. vivax'' or ''P. ovale'' infection, a very high likelihood of relapse exists for weeks or months (sometimes years).<ref name=CDC2013/>  Use in combination with [[quinine]] or [[chloroquine]] each of which is very effective at clearing ''P. vivax'' from blood, improves outcomes; they appear to also potentiate the action of primaquine.<ref name=Baird2003rev>{{cite journal |author=Baird JK, Rieckmann KH |title=Can primaquine therapy for vivax malaria be improved? |journal=Trends Parasitol. |volume=19 |issue=3 |pages=115–20 |date=March 2003 |pmid=12643993 |doi= 10.1016/S1471-4922(03)00005-9|url=}}</ref>
+
+As of 2016, the [[Centers for Disease Control and Prevention]] recommended the use of primaquine for primary prophylaxis prior to travel to areas with a high incidence of ''P. vivax'', and for terminal prophylaxis (anti-relapse therapy) after travel.<ref name=YellowBook2016/>
+
+A single dose of primaquine has rapid and potent ability to kill gametocytes (stage V) of ''P. falciparum'' and ''P. vivax'' in blood; it also kills asexual trophozoites of  ''P. vivax'' in blood, but not of ''P. falciparum''.<ref name=Baird2003rev/>  Because of its action against gametocytes, the WHO recommends it for use in reducing transmission to control ''P. falciparum'' infections.<ref name=WHOtrans>{{cite book|title=Single dose primaquine as a gametocytocide in ''Plasmodium falciparum'' malaria|publisher=World Health Organization|location=Geneva, Switzerland|url=http://www.who.int/malaria/publications/atoz/who_pq_policy_recommendation/en/index.html|date=October 2012|accessdate=2 January 2014|deadurl=no|archiveurl=https://web.archive.org/web/20140102193933/http://www.who.int/malaria/publications/atoz/who_pq_policy_recommendation/en/index.html|archivedate=2 January 2014|df=}}</ref>
+
+===''Pneumocystis'' pneumonia===
+Primaquine is also used in the treatment of [[Pneumocystis pneumonia|''Pneumocystis'' pneumonia]] (PCP), a [[fungus|fungal]] infection commonly occurring in people with [[AIDS]] and, more rarely, in those taking [[immunosuppressive drug]]s. To treat PCP effectively, it is usually combined with [[clindamycin]].<ref name=Vale2009rev/>
+
+===Special populations===
+Primaquine has not been studied extensively in people 65 and older so it is not known if dosing should be adjusted for this population.<ref name=USlabel>{{cite web|title=Primaquine label|url=http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/008316s017lbl.pdf|publisher=FDA|accessdate=10 November 2016|date=November 2007|deadurl=no|archiveurl=https://web.archive.org/web/20161110175038/http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/008316s017lbl.pdf|archivedate=10 November 2016|df=}}</ref>
+
+Primaquine should not be administered to anyone with G6PD deficiency because a severe reaction can occur, resulting in [[hemolytic anemia]].<ref name=YellowBook2016/> However, the WHO has recommended that a single dose of primaquine (0.25&nbsp;mg/kg) is safe to give even in individuals with G6PD deficiency, for the purpose of preventing transmission of ''P. falciparum'' malaria.<ref name=WHOtrans/>
+
+Primaquine is contraindicated in pregnancy, because the [[glucose-6-phosphate dehydrogenase]] status of the fetus would be unknown.<ref name=YellowBook2016/>
+
+Primaquine overdose can cause a dangerous reduction in various blood cell counts, and therefore should be avoided in people at risk for [[agranulocytosis]], which include people with conditions such as [[rheumatoid arthritis]] and [[lupus erythematosus]], and those taking concurrent medications that also decrease blood cell counts.<ref name=USlabel/>
+
+==Adverse reactions==
+Common side effects of primaquine administration include nausea, vomiting, and stomach cramps.<ref name=YellowBook2016/><ref name=USlabel/>
+
+In persons with [[cytochrome b5 reductase]] deficiency, primaquine causes [[methemoglobinemia]], a condition in which the blood carries less oxygen that it does normally.<ref name=USlabel/>
+
+Overdosing can reduce the number of function of various kinds of blood cells, including [[anemia|loss of red blood cells]], methemoglobinemia, and [[leukopenia|loss of white blood cells]].<ref name=USlabel/>
+
+== Pharmacology ==
+
+=== Mechanism of action ===
+Primaquine is lethal to ''P. vivax'' and ''P. ovale'' in the liver stage, and also to ''P. vivax'' in the blood stage through its ability to do oxidative damage to the cell. However, the exact mechanism of action is not fully understood.<ref name="Hill2006" />
+
+=== Pharmacokinetics ===
+Primaquine is well-absorbed in the gut and extensively distributed in the body without accumulating in red blood cells. Administration of primaquine with food or grapefruit juice increases its oral bioavailibity.<ref>Cuong BT, Binh VQ, Dai B, et al. Does gender, food or grapefruit juice alter the pharmacokinetics of primaquine in healthy subjects? British Journal of Clinical Pharmacology. 2006;61(6):682-689. doi:10.1111/j.1365-2125.2006.02601.x.</ref> In blood, about 20% of circulating primaquine is protein-bound, with preferential binding to the acute phase protein [[orosomucoid]]. With a half-life on the order of 6 hours, it is quickly metabolized by liver enzymes to carboxyprimaquine, which does not have anti-malarial activity. Renal excretion of the parent drug is less than 4%.<ref name="Hill2006" /><ref>{{Cite web|url=https://pubchem.ncbi.nlm.nih.gov/compound/primaquine#section=Mechanism-of-Action|title=PRIMAQUINE {{!}} C15H21N3O - PubChem|last=Pubchem|website=pubchem.ncbi.nlm.nih.gov|access-date=2016-11-09|deadurl=no|archiveurl=https://web.archive.org/web/20161110105944/https://pubchem.ncbi.nlm.nih.gov/compound/primaquine#section=Mechanism-of-Action|archivedate=2016-11-10|df=}}</ref>
+
+==Chemistry==
+Primaquine is an analog of [[pamaquine]] which was the first drug of the [[8-aminoquinoline]] class; [[tafenoquine]] is another such drug.<ref name=Baird2003rev/>
+
+==History==
+Primaquine was first made by [[Robert Elderfield]] of [[Columbia University]] in the 1940s as part of a coordinated effort led by the [[Office of Scientific Research and Development]] in World War II to develop anti-malarial drugs to protect and treat soldiers fighting in the Pacific theater.<ref name=Baird2003rev/><ref>{{cite journal |vauthors=Edgcomb JH, Arnold J, Young EH, etal | year = 1950 | title = Primaquine, SN 13272, a new curative agent in vivax malaria; a preliminary report. | journal = Journal National Malaria Society | volume = 9 | issue = 4 | pages = 285&ndash;92 | pmid = 14804087}}</ref>
+
+==Society and culture==
+It is on the [[World Health Organization's List of Essential Medicines]], the most important medications needed in a basic [[health system]].<ref name=WHOList>{{cite web|title=WHO Model List of EssentialMedicines|url=http://apps.who.int/iris/bitstream/10665/93142/1/EML_18_eng.pdf?ua=1|work=World Health Organization|accessdate=22 April 2014|date=October 2013|deadurl=no|archiveurl=https://web.archive.org/web/20140423005004/http://apps.who.int/iris/bitstream/10665/93142/1/EML_18_eng.pdf?ua=1|archivedate=23 April 2014|df=}}</ref>
+
+It is a generic drug and is available under many brand names worldwide, including Jasoprim, Malirid, Neo-Quipenyl, Pimaquin, Pmq, Primachina, Primacin, Primaquina, Primaquine, Primaquine diphosphate, Primaquine Phosphate, and Remaquin.<ref name=brands>{{cite web|title=Primaquine brand names|url=https://www.drugs.com/international/primaquine.html|publisher=Drugs.com|accessdate=10 November 2016|deadurl=no|archiveurl=https://web.archive.org/web/20161111062111/https://www.drugs.com/international/primaquine.html|archivedate=11 November 2016|df=}}</ref>
+
+==Research ==
+Primaquine has been studied in animal models of [[Chagas disease]] and was about four times as effective as the standard of care, [[nifurtimox]].<ref name=Vale2009rev/>
+
+==References==
+{{Reflist|32em}}
+
+{{Antimalarials|state=collapsed}}
+
+[[Category:Antimalarial agents]]
+[[Category:Quinolines]]
+[[Category:Phenol ethers]]
+[[Category:World Health Organization essential medicines]]
+[[Category:RTT]]

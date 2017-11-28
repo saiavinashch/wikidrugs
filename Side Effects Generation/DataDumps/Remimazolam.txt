@@ -1,0 +1,63 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 451607085
+| IUPAC_name = methyl 3-[(4''S'')-8-bromo-1-methyl-6-(pyridin-2-yl)-4''H''-imidazo[1,2-''a''][1,4]benzodiazepin-4-yl]propanoate
+| image = Remimazolam.svg
+| width = 222
+
+<!--Clinical data-->
+| tradename =  
+| legal_status =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 308242-62-8
+| PubChem = 9824461
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 7V4A8U16MB
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 8043503
+
+<!--Chemical data-->
+| C=21 | H=19 | Br=1 | N=4 | O=2 
+| molecular_weight = 439.304 g/mol
+| smiles = c4cccnc4C1=NC(CCC(=O)OC)c(ncc2C)n2-c(cc3)c1cc3Br
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C21H19BrN4O2/c1-13-12-24-21-17(7-9-19(27)28-2)25-20(16-5-3-4-10-23-16)15-11-14(22)6-8-18(15)26(13)21/h3-6,8,10-12,17H,7,9H2,1-2H3/t17-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = CYHWMBVXXDIZNZ-KRWDZBQOSA-N
+}}
+
+'''Remimazolam'''<ref>EP Patent 1183243</ref> ('''CNS-7056''') is a benzodiazepine derivative drug, developed by PAION, in collaboration with Japanese licensee Ono Pharmaceutical as an alternative to the short-acting imidazobenzodiazepine [[midazolam]], for use in induction of anaesthesia and conscious sedation for minor invasive procedures. Remimazolam was found to be both faster acting and shorter lasting than midazolam, and human [[clinical trial]]s showed a faster recovery time and predictable, consistent pharmacokinetics, suggesting some advantages over existing drugs for these applications.<ref name="pmid21154153">{{cite journal |vauthors=Rogers WK, McDowell TS |title=Remimazolam, a short-acting GABA(A) receptor agonist for intravenous sedation and/or anesthesia in day-case surgical and non-surgical procedures |journal=IDrugs : the Investigational Drugs Journal |volume=13 |issue=12 |pages=929–37 |date=December 2010 |pmid=21154153 |doi= |url=}}</ref><ref name="pmid21245208">{{cite journal |vauthors=Saari TI, Uusi-Oukari M, Ahonen J, Olkkola KT |title=Enhancement of GABAergic activity: neuropharmacological effects of benzodiazepines and therapeutic use in anesthesiology |journal=Pharmacological Reviews |volume=63 |issue=1 |pages=243–67 |date=March 2011 |pmid=21245208 |doi=10.1124/pr.110.002717 |url=}}</ref>
+
+== Trials ==
+Phase I<ref>{{Cite journal|url = |title = A placebo- and midazolam-controlled phase I single ascending-dose study evaluating the safety, pharmacokinetics, and pharmacodynamics of remimazolam (CNS 7056): Part I. Safety, efficacy, and basic pharmacokinetics.|date = Aug 2012|journal = Anesth Analg|accessdate = |doi = 10.1213/ANE.0b013e31823f0c28|pmid = 22190555 |volume=115 |pages=274–83}}</ref> and Ib<ref>{{Cite journal|url = |title = A phase Ib, dose-finding study of multiple doses of remimazolam (CNS 7056) in volunteers undergoing colonoscopy.|date = Nov 2013|journal = Anesth Analg.|accessdate = |doi = 10.1213/ANE.0b013e3182a705ae|pmid = 24108261 |volume=117 |pages=1093–100}}</ref> dose-finding studies for procedural sedation with patients recovering faster from remimazolam than midazolam. Phase II trials comparing remimazolam to the standard anesthesia protocols for cardiac surgery and colonoscopy were presented at major conferences in October 2014.<ref>{{Cite web|url = http://www.marketwired.com/press-release/two-scientific-remimazolam-presentations-are-accepted-asa-acg-meeting-october-2014-frankfurt-pa8-1952388.htm|title = Two Scientific Remimazolam Presentations Are Accepted for ASA and ACG Meeting in October 2014|date = Oct 1, 2014|accessdate = 2014-10-24|website = MarketWired|publisher = }}</ref>
+
+A phase IIa trial comparing remimazolam to midazolam for upper endoscopy was published in December 2014, finding a similar safety profile.<ref>{{Cite journal|url = |title = A Phase IIa, Randomized, Double-Blind Study of Remimazolam (CNS 7056) Versus Midazolam for Sedation in Upper Gastrointestinal Endoscopy.|date = Dec 11, 2014|journal = Anesthesia|doi = 10.1213/ANE.0000000000000548|pmid = 25502841|access-date = |volume=120 |pages=771–80}}</ref> Remimazolam was originally discovered in the late 1990s at Glaxo Wellcome in their labs in Research Triangle Park, NC.
+
+==See also==
+* [[List of investigational sleep drugs]]
+
+==References==
+{{reflist|2}}
+
+{{Benzodiazepines}}
+{{GABAAR PAMs}}
+
+[[Category:Benzodiazepines]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:Imidazobenzodiazepines]]
+[[Category:Pyridines]]
+[[Category:Bromoarenes]]
+[[Category:Methyl esters]]
+
+
+{{sedative-stub}}

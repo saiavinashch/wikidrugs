@@ -1,0 +1,61 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 406208293
+| IUPAC_name = 8-(2-phenylethyl)-1-oxa-3,8-diazaspiro[4.5]decan-2-one
+| image = Fenspiride.svg
+| width = 200
+| image2 = Fenspiride ball-and-stick model.png
+| width2 = 230
+<!--Clinical data-->
+| tradename = Eurespal, Pneumorel
+| Drugs.com = {{drugs.com|international|fenspiride}}
+| pregnancy_category =  
+| legal_status = Rx-only
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability = 90%<ref>{{cite journal|last=Montes|first=B|author2=Catalan, M |author3=Roces, A |author4=Jeanniot, JP |author5= Honorato, JM |title=Single dose pharmacokinetics of fenspiride hydrochloride: phase I clinical trial.|journal=European journal of clinical pharmacology|year=1993|volume=45|issue=2|pages=169–72|pmid=7901024 |doi=10.1007/bf00315501}}</ref> 
+| metabolism =  
+| elimination_half-life = 14–16 hours
+| excretion = Urine (90%), feces (~10%)
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 5053-06-5
+| ATC_prefix = R03
+| ATC_suffix = BX01
+| ATC_supplemental =  {{ATC|R03|DX03}}
+| PubChem = 68626
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB08979
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = S983QC7HKM
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07949
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 576127
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 3227
+
+<!--Chemical data-->
+| C=15 | H=20 | N=2 | O=2 
+| molecular_weight = 260.331 g/mol
+| smiles = c1ccc(cc1)CCN2CCC3(CC2)CN=C(O3)O
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C15H20N2O2/c18-14-16-12-15(19-14)7-10-17(11-8-15)9-6-13-4-2-1-3-5-13/h1-5H,6-12H2,(H,16,18)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = FVNFBBAOMBJTST-UHFFFAOYSA-N
+}}
+
+'''Fenspiride''' ([[International Nonproprietary Name|INN]], brand names '''Eurespal''', '''Pneumorel''' and others) is an [[oxazolidinone]] [[spiro compound]] used as a drug in the treatment of certain respiratory diseases.<ref>{{cite journal |title = Efficacy and tolerance of fenspiride in adult patients with acute respiratory tract infections |author = Płusa T, Nawacka D |journal = Pol Merkur Lekarski |date = Dec 1998 |volume =5 |pages = 368–71 |pmid=10101527 |issue=30}}</ref> The pharmacotherapeutic classification is [[antitussives]]. In Russia it is approved for the treatment of acute and chronic inflammatory diseases of [[Otorhinolaryngology|ENT organs]] (ear, nose, throat) and the respiratory tract (like rhinopharyngitis, laryngitis, tracheobronchitis, otitis and sinusitis), as well as for maintenance treatment of [[asthma]].<ref name=PI>{{cite web|title=Эреспал<sup>®</sup> (Eurespal<sup>®</sup>) Prescribing Information. VIDAL Drug Compendium|url=http://www.vidal.ru/poisk_preparatov/eurespal~34706.htm|accessdate=6 February 2014|language=Russian}}</ref>
+== References ==
+{{reflist}}
+
+{{Drugs for obstructive airway diseases}}
+{{Adrenergics}}
+
+[[Category:Bronchodilators]]
+[[Category:Oxazolidinones]]
+[[Category:Spiro compounds]]
+
+
+{{respiratory-system-drug-stub}}

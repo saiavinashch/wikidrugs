@@ -1,0 +1,102 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 409344559
+| IUPAC_name = (1''R'',2''R'',4''S'')-4-{(2''R'')-2-[(3''S'',6''R'',7''E'',9''R'',10''R'',12''R'',14''S'',15''E'',17''E'',19''E'',21''S'',23''S'',26''R'',27''R'',34a''S'')-9,27-dihydroxy-10,21-dimethoxy-6,8,12,14,20,26-hexamethyl-1,5,11,28,29-pentaoxo-1,4,5,6,9,10,11,12,13,14,21,22,23,24,25,26,27,28,29,31,32,33,34,34a-tetracosahydro-3''H''-23,27-epoxypyrido[2,1-''c''][1,4]oxazacyclohentriacontin-3-yl]propyl}-2-methoxycyclohexyl 3-hydroxy-2-(hydroxymethyl)-2-methylpropanoate
+| image = Temsirolimus.svg
+
+<!--Clinical data-->
+| tradename = Torisel
+| Drugs.com = {{drugs.com|monograph|temsirolimus}}
+| MedlinePlus = a607071
+| licence_EU = Torisel
+| licence_US = Torisel
+| pregnancy_AU = D
+| pregnancy_US = D
+| pregnancy_category =  
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status =
+| routes_of_administration = [[Intravenous therapy|Intravenous]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life =  17.3 hours (temsirolimus); 54.6 hours (sirolimus)<ref name="a">{{cite book|title=Temsirolimus Drug Monograph|publisher=Cancer Care Ontario|location=CCO Formulary - June 2014|page=2|accessdate=7 March 2015}}</ref>
+| excretion =  Urine (4.6%), faeces (78%)<ref name="a"/>
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5892
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 162635-04-3
+| ATC_prefix = L01
+| ATC_suffix = XE09
+| PubChem = 6918289
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB06287
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 21468899
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 624KN6GM2T
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D06068
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201182
+
+<!--Chemical data-->
+| chemical_formula =
+| C=56 | H=87 | N=1 | O=16 
+| molecular_weight = 1030.28
+}}
+
+'''Temsirolimus''' (codenamed '''CCI-779''') is an intravenous drug for the treatment of [[renal cell carcinoma]] (RCC), developed by [[Wyeth]] Pharmaceuticals and approved by the [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]] (FDA) in late May 2007,<ref>{{cite press release |url=http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/2007/ucm108924.htm |title=FDA Approves New Drug for Advanced Kidney Cancer |publisher=[[Food and Drug Administration]] |date=May 30, 2007 |accessdate=October 15, 2013}}</ref> and was also approved by the [[European Medicines Agency]] (EMEA) on November 2007. It is a derivative and prodrug of [[sirolimus]] and is sold as '''Torisel'''.
+
+==Mechanism of action==
+Temsirolimus is a specific inhibitor of [[mammalian target of rapamycin|mTOR]] and interferes with the synthesis of proteins that regulate proliferation, growth, and survival of tumor cells. Though temsirolimus shows activity on its own, it is also known to be converted to [[Sirolimus| sirolimus (rapamycin)]] in vivo;<ref>{{cite web|title=Pharmacology Review, Application Number 22-088|last1=Hastings|first1=Kenneth|url=http://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/022088s000_PharmR.pdf|publisher=FDA|accessdate=7 March 2015}}</ref> therefore, its activity may be more attributed to its metabolite rather than the [[prodrug]] itself (despite claims to the contrary by the manufacturer).<ref>{{cite web|title=Temsirolimus Monograph for Professionals|url=http://www.drugs.com/monograph/temsirolimus.html|website=Drugs.com|publisher=Drugs.com|accessdate=7 March 2015}}</ref> Treatment with temsirolimus leads to [[Cell cycle#Inhibitors|cell cycle arrest]] in the [[G1 phase]], and also inhibits [[Angiogenesis#Tumor angiogenesis|tumor angiogenesis]] by reducing synthesis of [[Vascular endothelial growth factor|VEGF]].<ref>{{cite journal |doi=10.1593/neo.05820 |title=CCI-779 Inhibits Rhabdomyosarcoma Xenograft Growth by an Antiangiogenic Mechanism Linked to the Targeting of mTOR/Hif-1α/VEGF Signaling |year=2006 |last1=Wan |first1=Xiaolin |last2=Shen |first2=Na |last3=Mendoza |first3=Arnulfo |last4=Khanna |first4=Chand |last5=Helman |first5=Lee J. |journal=Neoplasia |volume=8 |issue=5 |pages=394–401 |pmid=16790088 |pmc=1592447}}</ref>
+
+mTOR ([[mammalian target of rapamycin]]) is a [[kinase]] [[enzyme]] inside the cell that collects and interprets the numerous and varied growth and survival signals received by tumor cells.<ref>{{cite journal |pmid=16784020 |year=2006 |last1=Rubio-Viqueira |first1=B |last2=Hidalgo |first2=M |title=Targeting mTOR for cancer treatment |volume=7 |issue=6 |pages=501–12 |journal=Current Opinion in Investigational Drugs}}</ref> When the kinase activity of mTOR is activated, its downstream effectors, the synthesis of cell cycle proteins such as [[cyclin D]] and hypoxia-inducible factor-1a ([[HIF1A|HIF-1a]]) are increased. HIF-1a then stimulates [[Vascular endothelial growth factor|VEGF]].<ref>{{cite journal |doi=10.1128/MCB.22.20.7004-7014.2002 |title=Regulation of Hypoxia-Inducible Factor 1  Expression and Function by the Mammalian Target of Rapamycin |year=2002 |last1=Hudson |first1=C. C. |last2=Liu |first2=M. |last3=Chiang |first3=G. G. |last4=Otterness |first4=D. M. |last5=Loomis |first5=D. C. |last6=Kaper |first6=F. |last7=Giaccia |first7=A. J. |last8=Abraham |first8=R. T. |journal=Molecular and Cellular Biology |volume=22 |issue=20 |pages=7004–14 |pmid=12242281 |pmc=139825}}</ref> Whether or not mTOR kinase is activated, determines whether the tumor cell produces key [[protein]]s needed for proliferation, growth, survival, and [[angiogenesis]].<ref>{{cite journal |doi=10.1158/0008-5472.CAN-05-2825 |title=Antiangiogenic Potential of the Mammalian Target of Rapamycin Inhibitor Temsirolimus |year=2006 |last1=Del Bufalo |first1=D. |journal=Cancer Research |volume=66 |issue=11 |pages=5549–54 |pmid=16740688 |last2=Ciuffreda |first2=L |last3=Trisciuoglio |first3=D |last4=Desideri |first4=M |last5=Cognetti |first5=F |last6=Zupi |first6=G |last7=Milella |first7=M}}</ref>
+
+mTOR is activated in tumor cells by various mechanisms including growth factor surface receptor tyrosine kinases, [[oncogene]]s, and loss of [[tumor suppressor gene]]s. These activating factors are known to be important for [[malignant]] transformation and progression.<ref>{{cite journal |doi=10.4161/cbt.5.9.3175 |title=Therapeutic targets: MTOR and related pathways |year=2006 |last1=Dancey |first1=Janet E. |journal=Cancer Biology & Therapy |volume=5 |issue=9 |pages=1065}}</ref> mTOR is particularly important in the biology of [[renal cancer]] (RCC) owing to its function in regulating HIF-1a levels. Mutation or loss of the ''von Hippel Lindau'' tumor-suppressor gene is common in RCC and is manifested by reduced degradation of HIF-1a. In RCC tumors, activated mTOR further exacerbates accumulation of HIF-1a by increasing synthesis of this transcription factor and its angiogenic target gene products.<ref>{{cite journal |doi=10.1038/nm1337 |title=Hypoxia-inducible factor determines sensitivity to inhibitors of mTOR in kidney cancer |year=2005 |last1=Thomas |first1=George V |last2=Tran |first2=Chris |last3=Mellinghoff |first3=Ingo K |last4=Welsbie |first4=Derek S |last5=Chan |first5=Emily |last6=Fueger |first6=Barbara |last7=Czernin |first7=Johannes |last8=Sawyers |first8=Charles L |journal=Nature Medicine |volume=12 |pages=122–7 |pmid=16341243 |issue=1}}</ref>
+
+==Efficacy==
+In an international Three-arm phase III study with 626 previously untreated, poor-prognosis patients, temsirolimus, interferon-α and the combination of both agents was compared. Median overall survival improved significantly in the temsirolimus group (10.9 months) compared with interferon-α group (7.3 months) and the combination group (8.4 months). Further studies are needed to determine the role of temsirolimus in the first-line treatment of patients with a more favorable prognosis, how it can be combined with other targeted agents and as sequential therapy with [[sunitinib]] or [[sorafenib]].<ref>{{cite journal |doi=10.1056/NEJMoa066838 |title=Temsirolimus, Interferon Alfa, or Both for Advanced Renal-Cell Carcinoma |year=2007 |last1=Hudes |first1=Gary |last2=Carducci |first2=Michael |last3=Tomczak |first3=Piotr |last4=Dutcher |first4=Janice |last5=Figlin |first5=Robert |last6=Kapoor |first6=Anil |last7=Staroslawska |first7=Elzbieta |last8=Sosman |first8=Jeffrey |last9=McDermott |first9=David |last10=Bodrogi |first10=István |last11=Kovacevic |first11=Zoran |last12=Lesovoy |first12=Vladimir |last13=Schmidt-Wolf |first13=Ingo G.H. |last14=Barbarash |first14=Olga |last15=Gokmen |first15=Erhan |last16=O'Toole |first16=Timothy |last17=Lustgarten |first17=Stephanie |last18=Moore |first18=Laurence |last19=Motzer |first19=Robert J. |journal=New England Journal of Medicine |volume=356 |issue=22 |pages=2271–81 |pmid=17538086 |last20=Global Arcc |first20=Trial}}</ref>
+
+==Adverse reactions==
+The toxicity profile is based on what was found in the phase III trial.<ref name="b"/>
+
+*adverse reaction
+**fatigue
+**skin rash
+**[[mucositis]]
+*hematologic abnormalities
+**[[hemoglobin]] decreased
+**[[lymphocyte]]s decreased
+*laboratory abnormalities
+**triglycerides increased
+**glucose increased
+**phosphorus decreased
+Temsirolimus has been generally well tolerated in clinical settings by patients with advanced RCC.
+In patients with RCC, the adverse effect profile of temsirolimus is primarily metabolic in nature, with minimal impact on QoL compared with the commonly seen side-effects with oral multikinase inhibitors. Temsirolimus’ high level of specificity for mTOR likely contributes to the tolerability of temsirolimus. However, temsirolimus increases mortality in cancer patients.<ref>{{cite journal |doi=10.1093/annonc/mdt155 |laysummary=http://www.medpagetoday.com/MeetingCoverage/MGUCS/37404 |laysource=[[MedPage Today]] |laydate=Feb 17, 2013 |title=Incidence and risk of treatment-related mortality in cancer patients treated with the mammalian target of rapamycin inhibitors |year=2013 |last1=Choueiri |first1=T. K. |last2=Je |first2=Y. |last3=Sonpavde |first3=G. |last4=Richards |first4=C. J. |last5=Galsky |first5=M. D. |last6=Nguyen |first6=P. L. |last7=Schutz |first7=F. |last8=Heng |first8=D. Y. |last9=Kaymakcalan |first9=M. D. |journal=Annals of Oncology |volume=24 |issue=8 |pages=2092–7 |pmid=23658373 }}</ref>
+
+==Lung toxicity==
+Temsirolimus is associated with lung toxicity, and the risk of developing this complication may be increased among subjects with abnormal pre-treatment pulmonary functions or history of lung disease.<ref>{{cite journal |doi=10.1016/j.ejca.2006.03.015 |title=Characterisation of the lung toxicity of the cell cycle inhibitor temsirolimus |year=2006 |last1=Duran |first1=I. |last2=Siu |first2=L.L. |last3=Oza |first3=A.M. |last4=Chung |first4=T.-B. |last5=Sturgeon |first5=J. |last6=Townsley |first6=C.A. |last7=Pond |first7=G.R. |last8=Seymour |first8=L. |last9=Niroumand |first9=M. |journal=European Journal of Cancer |volume=42 |issue=12 |pages=1875–80 |pmid=16806903 }}</ref> The risk of interstitial lung disease is increased with temsirolimus doses greater than 25&nbsp;mg, symptoms of which may include dry cough, fever, eosinophilia, chest pain, and dyspnea on exertion. Toxicity usually occurred early (within days to weeks) or late (months to years) after treatment.<ref name="c">{{cite book|title=Temsirolimus Drug Monograph|publisher=Cancer Care Ontario|location=CCO Formulary - June 2014|page=4|accessdate=7 March 2015}}</ref>
+
+==Dosing==
+The recommended dose of temsirolimus is 25&nbsp;mg IV infused over 30–60 minutes once per week (Wyeth Pharmaceuticals, Inc., 2007). Weekly treatment may continue until disease progression or until patients experience intolerable side effects.
+
+Although infusion reactions can occur while temsirolimus is being administered, most hypersensitivity reactions occurring on the same day as temsirolimus administration were not severe. [[Antihistamine]] pretreatment (e.g. 25–50&nbsp;mg diphenhydramine, 30 minutes prior to administration) is recommended to minimize the risk of an allergic reaction.<ref name="b">{{cite journal |doi=10.1093/annonc/mdn066 |title=Temsirolimus safety profile and management of toxic effects in patients with advanced renal cell carcinoma and poor prognostic features |year=2008 |last1=Bellmunt |first1=J. |last2=Szczylik |first2=C. |last3=Feingold |first3=J. |last4=Strahs |first4=A. |last5=Berkenblit |first5=A. |journal=Annals of Oncology |volume=19 |issue=8 |pages=1387–92 |pmid=18385198}}</ref><ref name="c"/>
+
+==See also==
+*[[Discovery and development of mTOR inhibitors]]
+
+==References==
+{{Reflist}}
+
+{{Extracellular chemotherapeutic agents}}
+{{Immunosuppressants}}
+
+[[Category:Macrolides]]
+[[Category:Antineoplastic drugs]]
+[[Category:Polyenes]]

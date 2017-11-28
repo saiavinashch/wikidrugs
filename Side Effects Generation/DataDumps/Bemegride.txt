@@ -1,0 +1,67 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 413884367
+| IUPAC_name = 4-ethyl-4-methylpiperidine-2,6-dione
+| image = Bemegride.svg
+| width = 123px
+<!--Clinical data-->
+| tradename =  Migimide, others
+| Drugs.com = {{drugs.com|international|bemegride}}
+| routes_of_administration =  
+| legal_AU = S4
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 64-65-3
+| ATC_prefix = R07
+| ATC_suffix = AB05
+| PubChem = 2310
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2220
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 57DQA39DO2
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01957
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1214192
+<!--Chemical data-->
+| C=8 | H=13
+| N=1 | O=2
+| molecular_weight = 155.194 g/mol
+| smiles = O=C1NC(=O)CC(CC)(C1)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C8H13NO2/c1-3-8(2)4-6(10)9-7(11)5-8/h3-5H2,1-2H3,(H,9,10,11)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ORRZGUBHBVWWOP-UHFFFAOYSA-N
+| synonyms = Methetharimide<br>β,β-methylethylglutarimide
+| melting_point = 127
+}}
+'''Bemegride''' (trademarked as '''Megimide''') is a [[central nervous system]] [[stimulant]] and antidote for [[barbiturate]] poisoning<ref>{{cite journal|last1=Hofmeister|first1=Alfred|title=Analeptics|journal=Ullmann's Encyclopedia of Industrial Chemistry|date=2000|pages=1-2|doi=10.1002/14356007.a02_267}}</ref> as its [[chemoreceptor]] agonism increases mean [[tidal volume]], thereby increasing [[Respiration (physiology)|respiration]] and the concentration of O<sub>2</sub> in blood although it may be theoretically used as a supportive measure in treating any [[depressant]] overdose. The drug was first synthesized in 1911.<ref name=Thole>{{cite journal|last1=Thole|first1=Ferdinand Bernard|last2=Thorpe|first2=Jocelyn Field|title=LIII.—The formation and reactions of iminocompounds. Part XV. The production of imino-derivatives of piperidine leading to the formation of the ββ-disubstituted glutaric acids|journal=Journal of the Chemical Society, Transactions|date=1911|volume=99|pages=422-448|doi=10.1039/CT9119900422}}</ref>
+
+As with other chemoreceptor agonists, it is a potent [[emetic]] at doses above those normally used in management of barbiturate overdose although emesis and [[Pulmonary aspiration|aspiration]] are a concern during treatment.
+
+== John Bodkin Adams case ==
+{{details|John Bodkin Adams#Gertrude Hullett}}
+
+Bemegride is notable in legal history as the drug suspected [[serial killer]] [[John Bodkin Adams|Dr John Bodkin Adams]] failed to prescribe correctly to his patient [[Gertrude Hullett]]. Hullett took an overdose of barbiturates on 19 July 1956 but Adams only gave her a single 10[[Cubic centimetre|cc]] dose of bemegride three days later on the 22nd, despite having acquired 100cc for her treatment. Hullett died the next day on 23 July 1956. Adams was charged but never tried for her murder.<ref>Cullen, Pamela V., ''A Stranger in Blood: The Case Files on Dr John Bodkin Adams'', London, Elliott & Thompson, 2006, {{ISBN|1-904027-19-9}}</ref>
+
+==Animal use==
+Bemegride is also used to induce [[convulsion]]s in experimental animals.<ref>[http://cancerweb.ncl.ac.uk/cgi-bin/omd?bemegride Definition: bemegride from Online Medical Dictionary<!-- Bot generated title -->]</ref>
+==Synthesis==
+[[File:Bemegride synthesis.svg|thumb|center|500px|Bemegride synthesis:<ref name=Thole/>]]
+The original synthesis involves first the condensation of [[methylethylketone]] with two equivalents of [[cyanoacetamide]]. The product can be rationalized by assuming first aldol condensation of ketone and active methylene compound followed by dehydration to give 3. [[Conjugate addition]] of a second molecule of [[cyanoacetamide]] would afford 4. Addition of one of the amide amines to the nitrile would then afford the iminonitrile 5. The observed product 6 can be rationalized by assuming loss of the [[carboxamide]] under strongly basic conditions. Decarboxylative hydrolysis of 6 then leads to bemigride 7.
+
+==References==
+{{Reflist}}
+
+{{Respiratory stimulants}}
+{{GABAergics}}
+
+[[Category:Antidotes]]
+[[Category:Stimulants]]
+[[Category:Respiratory agents]]
+[[Category:Convulsants]]
+[[Category:Glutarimides]]
+[[Category:GABAA receptor negative allosteric modulators]]
+
+
+{{respiratory-system-drug-stub}}

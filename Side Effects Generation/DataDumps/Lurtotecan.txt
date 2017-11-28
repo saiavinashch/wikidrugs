@@ -1,0 +1,65 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 462094678
+| ImageFile = Lurtotecan.svg
+| ImageSize = 225
+| IUPACName = (8''S'')-8-Ethyl-8-hydroxy-15-[(4-methyl-1-piperazinyl)methyl]-2,3-dihydro-11''H''-[1,4]dioxino[2,3-g]pyrano[3',4':6,7]indolizino[1,2-b]quinoline-9,12(8''H'',14''H'')-dione
+| OtherNames =
+
+| Section1={{Chembox Identifiers
+  | UNII_Ref = {{fdacite|correct|FDA}}
+  | UNII = 4J1L80T08I
+  | ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+  | ChemSpiderID = 54919
+  | InChI = 1/C28H30N4O6/c1-3-28(35)20-11-22-25-18(14-32(22)26(33)19(20)15-38-27(28)34)17(13-31-6-4-30(2)5-7-31)16-10-23-24(12-21(16)29-25)37-9-8-36-23/h10-12,35H,3-9,13-15H2,1-2H3/t28-/m0/s1
+  | InChIKey = RVFGKBWWUQOIOU-NDEPHWFRBI
+  | ChEMBL_Ref = {{ebicite|correct|EBI}}
+  | ChEMBL = 305666
+  | StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+  | StdInChI = 1S/C28H30N4O6/c1-3-28(35)20-11-22-25-18(14-32(22)26(33)19(20)15-38-27(28)34)17(13-31-6-4-30(2)5-7-31)16-10-23-24(12-21(16)29-25)37-9-8-36-23/h10-12,35H,3-9,13-15H2,1-2H3/t28-/m0/s1
+  | StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+  | StdInChIKey = RVFGKBWWUQOIOU-NDEPHWFRSA-N
+  | CASNo_Ref = {{cascite|changed|??}}
+  | CASNo = 149882-10-0
+  | PubChem = 60956
+  | SMILES = O=C2OCC=1C(=O)N6/C(=C\C=1[C@@]2(O)CC)c5nc4cc3OCCOc3cc4c(c5C6)CN7CCN(C)CC7
+  }}
+
+| Section2 = {{Chembox Properties
+  | Formula=C<sub>28</sub>H<sub>30</sub>N<sub>4</sub>O<sub>6</sub>
+  | MolarMass=518.561 g/mol
+  | Appearance=
+  | Density=
+  | MeltingPt=
+  | BoilingPt=
+  | Solubility=
+  }}
+
+| Section3 = {{Chembox Hazards
+  | MainHazards=
+  | FlashPt=
+  | AutoignitionPt =
+  }}
+}}
+
+'''Lurtotecan''' is a semi-synthetic analog of [[camptothecin]] with antineoplastic activity. [[Liposome|Liposomal]] lurtotecan was in clinical trials as a treatment for [[topotecan]]-resistant [[ovarian cancer]],<ref>{{cite journal | last1 = Seiden | first1 = MV | last2 = Muggia | first2 = F | last3 = Astrow | first3 = A | last4 = Matulonis | first4 = U | last5 = Campos | first5 = S | last6 = Roche | first6 = M | last7 = Sivret | first7 = J | last8 = Rusk | first8 = J | last9 = Barrett | first9 = E | title = A Phase II Study of Liposomal Lurtotecan (OSI-211) in Patients with Topotecan Resistant Ovarian Cancer | journal = Gynecologic Oncology | date = April 2004 | volume = 93 | issue = 1 | pages = 229–32 | doi = 10.1016/j.ygyno.2003.12.037 | pmid = 15047241 | accessdate = 15 July 2016}}</ref> but was discontinued.<ref>{{cite web|title=Liposomal lurtotecan (OSI 211) on AdisInsight|url=http://adisinsight.springer.com/drugs/800010410|website=Adis Insight|publisher=Springer International Publishing AG|accessdate=15 July 2016}}</ref>
+
+==Synthesis==
+[[File:Lurtotecan synthesis.png|thumb|center|600px|Lurtotecan synthesis<ref>{{Cite journal | doi = 10.1016/S0040-4020(97)00357-8| title = Convergent catalytic asymmetric synthesis of camptothecin analog GI147211C| journal = Tetrahedron| volume = 53| issue = 32| pages = 10953| year = 1997| last1 = Fang | first1 = F. G. | last2 = Bankston | first2 = D. D. | last3 = Huie | first3 = E. M. | last4 = Ross Johnson | first4 = M.| last5 = Kang | first5 = M. C. | last6 = Lehoullier | first6 = C. S. | last7 = Lewis | first7 = G. C. | last8 = Lovelace | first8 = T. C. | last9 = Lowery | first9 = M. W. | last10 = McDougald | first10 = D. L. | last11 = Meerholz | first11 = C. A. | last12 = Partridge | first12 = J. J. | last13 = Sharp | first13 = M. J. | last14 = Xie | first14 = S. }}</ref>]]{{Clear}}
+* [[Heck reaction]]
+* [[Mitsunobu reaction]]
+* [[Potassium osmate]]
+* [[Sharpless asymmetric dihydroxylation]]
+* [[Swern oxidation]]
+
+==References==
+<references />
+
+{{Chemotherapeutic agents}}
+
+[[Category:Antineoplastic drugs]]
+[[Category:Piperazines]]
+[[Category:Topoisomerase inhibitors]]
+
+{{antineoplastic-drug-stub}}

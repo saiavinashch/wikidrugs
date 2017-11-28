@@ -1,0 +1,41 @@
+{{Chembox
+| ImageFile = Adozelesin.svg
+| ImageAlt = 
+| IUPACName = 
+| OtherNames = 
+|Section1={{Chembox Identifiers
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo = 110314-48-2
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 6N3M4XJR2V
+| PubChem = 357194
+| ChEMBL = 35493
+| SMILES =CC1=CNC2=C1C34CC3CN(C4=CC2=O)C(=O)C5=CC6=C(N5)C=CC(=C6)NC(=O)C7=CC8=CC=CC=C8O7 
+| ChemSpiderID = 317091
+| InChI = 1/C30H22N4O4/c1-15-13-31-27-22(35)11-25-30(26(15)27)12-18(30)14-34(25)29(37)21-9-17-8-19(6-7-20(17)33-21)32-28(36)24-10-16-4-2-3-5-23(16)38-24/h2-11,13,18,31,33H,12,14H2,1H3,(H,32,36)
+| InChIKey = BYRVKDUQDLJUBX-UHFFFAOYAA
+| StdInChI = 1S/C30H22N4O4/c1-15-13-31-27-22(35)11-25-30(26(15)27)12-18(30)14-34(25)29(37)21-9-17-8-19(6-7-20(17)33-21)32-28(36)24-10-16-4-2-3-5-23(16)38-24/h2-11,13,18,31,33H,12,14H2,1H3,(H,32,36)
+| StdInChIKey = BYRVKDUQDLJUBX-UHFFFAOYSA-N
+
+}}
+|Section2={{Chembox Properties
+| C=30 | H=22 | N=4 | O=4
+| Appearance = 
+| Density = 
+| MeltingPt = 
+| BoilingPt = 
+| Solubility = }}
+|Section3={{Chembox Hazards
+| MainHazards = 
+| FlashPt = 
+| AutoignitionPt = }}
+}}
+
+'''Adozelesin''' is an experimental antitumor drug of the [[duocarmycin]] class.<ref>{{cite journal|pmid=11325853|year=2001|last1=Wang|first1=Y|last2=Beerman|first2=TA|last3=Kowalski|first3=D|title=Antitumor drug adozelesin differentially affects active and silent origins of DNA replication in yeast checkpoint kinase mutants|volume=61|issue=9|pages=3787–94|journal=Cancer Research}}</ref> It binds to and alkylates DNA, resulting in a reduction of both cellular and simian virus 40 ([[SV40]]) DNA replication which ultimately reduces the rate of cancer growth.<ref>{{cite journal|last1=Liu|first1=J.-S.|last2=Kuo|first2=S.-R.|last3=McHugh|first3=M. M.|last4=Beerman|first4=T. A.|last5=Melendy|first5=T.|title=Adozelesin Triggers DNA Damage Response Pathways and Arrests SV40 DNA Replication through Replication Protein A Inactivation|journal=Journal of Biological Chemistry|date=14 January 2000|volume=275|issue=2|pages=1391–1397|doi=10.1074/jbc.275.2.1391}}</ref>
+
+==References==
+{{reflist}}
+
+{{pharma-stub}}
+
+[[Category:Experimental cancer drugs]]

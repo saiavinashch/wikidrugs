@@ -1,0 +1,66 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 458639103
+| image = 
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = u
+| target = [[IGF-1 receptor]]
+<!-- Clinical data -->
+| tradename = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled -->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = 
+| routes_of_administration = IV
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none 
+<!-- Pharmacokinetic data -->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 947687-12-9
+| ATC_prefix = none
+| ATC_suffix = 
+| PubChem = 
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 2285XW22DR
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D09328
+<!-- Chemical data -->
+| C=6500 | H=10052 | N=1724 | O=2036 | S=44
+| molecular_weight = 146.3 kg/mol
+}}
+'''Cixutumumab''' (IMC-A12) is a human [[monoclonal antibody]] for the treatment of solid tumors.<ref>[http://www.ama-assn.org/ama1/pub/upload/mm/365/cixutumumab.pdf Statement On A Nonproprietary Name Adopted By The Usan Council - Cixutumumab] ''American Medical Association.''</ref><ref>{{cite journal|pmid=19548856|year=2009|last1=McKian|first1=KP|last2=Haluska|first2=P|title=Cixutumumab|volume=18|issue=7|pages=1025–33|doi=10.1517/13543780903055049|journal=Expert Opinion on Investigational Drugs|pmc=2939377}}</ref>
+
+This drug was developed by [[ImClone Systems]], since acquired by [[Eli Lilly]], using [[phage display]] technology from [[Dyax]].
+
+It is a fully human IgG1 monoclonal antibody directed against the human insulin-like growth factor-1 receptor ([[IGF-1R]]) with potential antineoplastic activity. Cixutumumab selectively binds to membrane-bound IGF-1R, thereby preventing the binding of the ligand IGF-1 and subsequent activation of [[PI3K]]/[[AKT]] signaling pathway. Downregulation of the PI3K/AKT survival pathway may result in the induction of cancer cell apoptosis and may decrease cancer cellular proliferation. IGF-1R, a receptor tyrosine kinase of the insulin receptor superfamily overexpressed by many cancer cell types, stimulates cell proliferation, enables oncogenic transformation, and suppresses apoptosis; IGF-1R signaling has been implicated in tumorigenesis and metastasis.<ref>[http://www.cancer.gov/drugdictionary/?CdrID=561575] ''National Cancer Institute''{{http://www.cancer.gov/drugdictionary/?CdrID=561575}}</ref>
+
+==Research==
+Phase II clinical trials have been completed in patients with [[non-small cell lung cancer]],<ref>https://clinicaltrials.gov/ct2/show/NCT01263782</ref><ref>https://clinicaltrials.gov/ct2/show/NCT00955305</ref> <ref>https://clinicaltrials.gov/ct2/show/NCT00986674</ref> metastatic [[rhabdomyosarcoma]],<ref>https://clinicaltrials.gov/ct2/show/NCT01055314</ref> metastatic [[prostate cancer]],<ref>https://clinicaltrials.gov/ct2/show/NCT01120236</ref> metastatic [[pancreatic cancer]],<ref>https://clinicaltrials.gov/ct2/show/NCT00617708</ref> metastatic [[esophageal cancer]],<ref>https://clinicaltrials.gov/ct2/show/NCT01142388</ref> [[bone cancer]],<ref>https://clinicaltrials.gov/ct2/show/NCT01016015</ref><ref>https://clinicaltrials.gov/ct2/show/NCT00668148</ref> [[sarcoma]],<ref>https://clinicaltrials.gov/ct2/show/NCT01614795</ref> solid tumors,<ref>https://clinicaltrials.gov/ct2/show/NCT00831844</ref> [[ocular melanoma]],<ref>https://clinicaltrials.gov/ct2/show/NCT01413191</ref> [[hepatocellular carcinoma]],<ref>https://clinicaltrials.gov/ct2/show/NCT00906373</ref><ref>https://clinicaltrials.gov/ct2/show/NCT00639509</ref>, [[breast cancer]]<ref>https://clinicaltrials.gov/ct2/show/NCT00728949</ref> and other forms of cancer. Despite these extensive trials, more than 45 phase I and II clinical trials in total, phase III trials have never been undertaken and Eli Lilly has removed cixutumumab from their development pipeline.<ref>https://www.lilly.com/pipeline/index.html</ref>
+
+== References ==
+<references/>
+
+{{Monoclonals for tumors}}
+{{Growth factor receptor modulators}}
+
+[[Category:Monoclonal antibodies]]
+[[Category:Experimental cancer drugs]]
+
+
+{{monoclonal-antibody-stub}}
+{{antineoplastic-drug-stub}}

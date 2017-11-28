@@ -1,0 +1,70 @@
+{{Drugbox
+| verifiedrevid = 437174432
+| IUPAC_name = 4-amino-''N''-(4-methoxy-1,2,5-thiadiazol-3-yl)benzenesulfonamide
+| image = Sulfametrole.svg
+| alt = Skeletal formula of sulfametrole
+| width = 240
+| image2 = Sulfametrole 3D spacefill.png
+| alt2 = Space-filling model of the sulfametrole molecule
+| width2 = 210
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|sulfametrole}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number = 32909-92-5
+| ATC_prefix = J01
+| ATC_suffix = EE03
+| ATC_supplemental = (with [[trimethoprim]])
+| PubChem = 64939
+| ChEBI_Ref = {{ebicite|correct|EBI}} 
+| ChEBI = 88258
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = F5AK41IPQG
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08541
+|  ChemSpiderID = 58466
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=9 | H=10 | N=4 | O=3 | S=2 
+| molecular_weight = 286.33 g/mol
+| smiles = COc1c(nsn1)NS(=O)(=O)c2ccc(cc2)N
+|  StdInChI = 1S/C9H10N4O3S2/c1-16-9-8(11-17-12-9)13-18(14,15)7-4-2-6(10)3-5-7/h2-5H,10H2,1H3,(H,11,13)
+|  StdInChIKey = IZOYMGQQVNAMHS-UHFFFAOYSA-N
+
+}}
+
+'''Sulfametrole''' ([[International Nonproprietary Name|INN]]) is a [[sulfonamide (medicine)|sulfonamide]] [[antibacterial]].
+
+It can be given with [[trimethoprim]].<ref name="pmid6343878">{{cite journal  |vauthors=Plummer FA, Nsanze H, D'Costa LJ, etal |title=Single-dose therapy of chancroid with trimethoprim-sulfametrole |journal=N. Engl. J. Med. |volume=309 |issue=2 |pages=67–71 |date=July 1983 |pmid=6343878 |doi= 10.1056/NEJM198307143090202|url=}}</ref>
+
+==References==
+{{reflist}}
+
+{{Sulfonamides and trimethoprim}}
+
+[[Category:Sulfonamide antibiotics]]
+[[Category:Thiadiazoles]]
+
+
+{{antibiotic-stub}}

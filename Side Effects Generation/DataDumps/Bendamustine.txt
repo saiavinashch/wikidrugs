@@ -1,0 +1,115 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 461512035
+| IUPAC_name = 4-[5-[Bis(2-chloroethyl)amino]-1-methylbenzimidazol-2-yl]butanoic acid
+| image = Bendamustine.png
+
+<!--Clinical data-->
+| synonyms   = SDX-105
+| tradename = Treanda, Treakisym, Ribomustin, Levact, others
+| Drugs.com = {{drugs.com|monograph|bendamustine-hydrochloride}}
+| MedlinePlus = a608034
+| licence_US = Treanda
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = D
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = Rx-only
+| routes_of_administration = intravenous infusion
+
+<!--Pharmacokinetic data-->
+| bioavailability = NA ([[Intravenous therapy|intravenous]] only)
+| protein_bound = 94–96%
+| metabolism = [[Hydrolysis|Hydrolyzed]] to inactive metabolites. Two minor metabolites (M3 and M4) formed by [[CYP1A2]]
+| elimination_half-life = 40&nbsp;min (bendamustine), 3&nbsp;h (M3), 30&nbsp;min (M4)
+| excretion = ~50% urinary, ~25% fecal <ref>{{cite journal | title= Pharmacokinetics and excretion of 14C-bendamustine in patients with relapsed or refractory malignancy  | journal=Drugs R D | date=March 2013 | doi=10.1007/s40268-012-0001-5 | pmid=23322528 | volume=13 | pmc=3627029 | pages=17–28 | vauthors=Dubbelman AC, Rosing H, Darwish M, D'Andrea D, Bond M, Hellriegel E, Robertson P, Beijnen JH, Schellens JH}}</ref>
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7478
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 16506-27-7
+| ATC_prefix = L01
+| ATC_suffix = AA09
+| PubChem = 65628
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 9266D9P3PQ
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 487253
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 59069
+| smiles = ClCCN(c2ccc1c(nc(n1C)CCCC(=O)O)c2)CCCl
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H21Cl2N3O2/c1-20-14-6-5-12(21(9-7-17)10-8-18)11-13(14)19-15(20)3-2-4-16(22)23/h5-6,11H,2-4,7-10H2,1H3,(H,22,23)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YTKUWDBFDASYHO-UHFFFAOYSA-N
+
+<!--Chemical data-->
+| C=16 | H=21 | Cl=2 | N=3 | O=2 
+| molecular_weight = 358.262 g/mol
+}}
+<!-- Definition and symptoms -->
+'''Bendamustine''', sold under the brand name '''Treanda''' among others, is a [[chemotherapy medication]] used in the treatment of [[chronic lymphocytic leukemia]] (CLL), [[multiple myeloma]], and [[non-Hodgkin's lymphoma]].<ref name=AHFS2016/><ref name=BNF69/> It is given by [[intravenous|injection into a vein]].<ref name=AHFS2016/> 
+
+<!-- Side effects and mechanism -->
+Common side effects include [[cytopenia|low blood cell counts]], fever, nausea, [[diarrhea]], loss of appetite, cough, and rash.<ref name=AHFS2016/> Other severe side effects include [[allergic reactions]] and increased risk of infection.<ref name=AHFS2016/> Use in [[pregnancy]] is known to harm the baby.<ref name=AHFS2016/> Bendamustine is in the [[alkylating antineoplastic agent|alkylating agent]]s family of medication.<ref name=AHFS2016/> It works by interfering with the function of [[DNA]] and [[RNA]].<ref name=AHFS2016/>
+
+<!-- History and culture -->
+Bendamustine was approved for medical use in the United States in 2008.<ref name=AHFS2016>{{cite web|title=Bendamustine Hydrochloride|url=https://www.drugs.com/monograph/bendamustine-hydrochloride.html|publisher=The American Society of Health-System Pharmacists|accessdate=8 December 2016|deadurl=no|archiveurl=https://web.archive.org/web/20161221013540/https://www.drugs.com/monograph/bendamustine-hydrochloride.html|archivedate=21 December 2016|df=}}</ref> It is on the [[World Health Organization's List of Essential Medicines]], the most effective and safe medicines needed in a [[health system]].<ref name=WHO19th>{{cite web|title=WHO Model List of Essential Medicines (19th List)|url=http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|work=World Health Organization|accessdate=8 December 2016|date=April 2015|deadurl=no|archiveurl=https://web.archive.org/web/20161213052708/http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|archivedate=13 December 2016|df=}}</ref> The cost in the United Kingdom for the [[NHS]] is about 275.81 pounds per 100 mg vial.<ref name=BNF69>{{cite book|title=British national formulary : BNF 69|date=2015|publisher=British Medical Association|isbn=9780857111562|page=579|edition=69}}</ref> It was originally made from [[nitrogen mustard]].<ref name=AHFS2016/>
+
+== Medical uses ==
+
+Bendamustine has been used both as sole therapy and in combination with other agents including [[etoposide]], [[fludarabine]], [[mitoxantrone]], [[methotrexate]], [[prednisone]], [[rituximab]], [[vincristine]] and <sup>90</sup>Y-[[ibritumomab tiuxetan]].{{citation needed|date=December 2012}}
+
+===Lymphomas===
+One combination for stage III/IV relapsed or refractory indolent [[lymphoma]]s and [[mantle cell lymphoma]] (MCL), with or without prior rituximab-containing chemoimmunotherapy treatment, is bendamustine with mitoxantrone and rituximab.<ref name="Weide2007">{{cite journal |vauthors=Weide R, Hess G, Köppler H |title=High anti–lymphoma activity of bendamustine/mitoxantrone/rituximab in rituximab pretreated relapsed or refractory indolent lymphomas and mantle cell lymphomas. A muticenter phase II study of the German Low Grade Lymphoma Study Group (GLSG) |journal=Leuk. Lymphoma. |volume=48 |issue=7 |pages=1299–1306 |year=2007 |doi=10.1080/10428190701361828 |url=http://informahealthcare.com/doi/abs/10.1080/10428190701361828 |pmid=17613757|display-authors=etal}}</ref> In Germany in 2012 it has become the first line treatment of choice for indolent lymphoma.<ref>[http://www.medpagetoday.com/MeetingCoverage/ASHHematology/36418 New Combo Replaces CHOP for Lymphoma. Dec 2012] {{webarchive|url=https://web.archive.org/web/20140911002243/http://www.medpagetoday.com/MeetingCoverage/ASHHematology/36418 |date=2014-09-11 }}</ref> after Trial results released in June 2012 showed that it more than doubled disease [[progression-free survival]] when given along with [[rituximab]]. The combination also left patients with fewer side effects than the older [[R-CHOP]] treatment.<ref>{{cite news |url=http://health.usnews.com/health-news/news/articles/2012/06/03/rediscovered-lymphoma-drug-helps-double-survival-study |title='Rediscovered' Lymphoma Drug Helps Double Survival: Study |date=June 3, 2012 |deadurl=no |archiveurl=https://web.archive.org/web/20120712193314/http://health.usnews.com/health-news/news/articles/2012/06/03/rediscovered-lymphoma-drug-helps-double-survival-study |archivedate=July 12, 2012 |df= }}</ref>
+
+==Adverse effects==
+Common adverse reactions are typical for the class of [[nitrogen mustard]]s, and include nausea, fatigue, vomiting, diarrhea, fever, constipation, loss of appetite, cough, headache, unintentional weight loss, difficulty breathing, rashes, and [[stomatitis]], as well as immunosuppression, anemia, and [[thrombocytopenia|low platelet counts]].
+Notably, this drug has a low incidence of hair loss ([[alopecia]]) unlike most other chemotherapy drugs.<ref>{{cite journal | vauthors = Tageja N, Nagi J | date = Aug 2010 | title = Bendamustine: something old, something new | url = | journal = Cancer Chemotherapy and Pharmacology | volume = 66 | issue = 3| pages = 413–23 | doi = 10.1007/s00280-010-1317-x }}</ref>
+
+===Warning===
+Bendamustine solution is not compatible with Closed System Transfer Devices (CSTD)
+Situation:
+* FDA issued a warning on March 11, 2015 not to use bendamustine solution with CSTDs, adapters and syringes which contain either polycarbonate or acrylonitrile-butadiene-styrene (ABS) due to the incompatibility with N,N-dimethylacetamide (DMA).
+Background:
+* PhaSealR & SpirosR CSTDs contain either polycarbonate or ABS can dissolve when coming into contact with bendamustine (which contains DMA).
+Assessment:
+* This can lead to device failure, possible product contamination, and potential serious adverse health consequences, including skin reactions in health care professionals preparing and administering this product and the risk of small blood vessel blockage in patients.
+Recommendations:
+* Immediately, stop using all PhaSealR &/or SpirosR products including adapters when preparing & administering bendamustine.
+* Only use polypropylene syringes with bendamustine. These syringes are translucent in appearance.
+* Continue to use all universal PPE & safety precautions for hazardous drugs when preparing & administering bendamustine.
+
+==Pharmacology==
+
+Bendamustine is a white, water-soluble microcrystalline powder with [[amphoterism|amphoteric]] properties. It acts as an alkylating agent causing intra-strand and inter-strand cross-links between [[DNA]] bases.
+
+After intravenous infusion it is extensively metabolised in the [[liver]] by [[cytochrome p450]]. More than 95% of the drug is bound to protein – primarily [[albumin]]. Only free bendamustine is active. Elimination is biphasic with a half-life of 6–10 minutes and a terminal half-life of approximately 30 minutes. It is eliminated primarily through the [[kidney]]s.
+
+==History==
+Bendamustine was first synthesized in 1963 by Ozegowski and Krebs in [[East Germany]] (the former German Democratic Republic). Until 1990 it was available only in East Germany. East German investigators found that it was useful for treating [[chronic lymphocytic leukemia]], [[Hodgkin’s disease]], [[non-Hodgkin’s lymphoma]], [[multiple myeloma]] and [[lung cancer]].
+
+Bendamustine received its first marketing approval in Germany, where it is marketed under the tradename Ribomustin, by Astellas Pharma GmbH's licensee, Mundipharma International Corporation Limited. It is indicated as a single-agent or in combination with other anti-cancer agents for indolent [[non-Hodgkin's lymphoma]], multiple myeloma, and chronic lymphocytic leukemia. SymBio Pharmaceuticals Ltd. holds exclusive rights to develop and market bendamustine HCl in Japan and selected Asia Pacific Rim countries.
+
+In March 2008, [[Cephalon]] received approval from the [[United States]] [[Food and Drug Administration]] to market bendamustine in the US, where it is sold under the tradename Treanda, for treatment of chronic lymphocytic leukemia.<ref>{{cite web |url=http://www.cephalon.com/newsroom/news_reader.aspx?ID=1120688 |title=Cephalon press release – Cephalon Receives FDA Approval for TREANDA, a Novel Chemotherapy for Chronic Lymphocytic Leukemia |accessdate=2008-03-23 |format= |work= |deadurl=no |archiveurl=https://web.archive.org/web/20080421212459/http://www.cephalon.com/newsroom/news_reader.aspx?ID=1120688 |archivedate=2008-04-21 |df= }}</ref>
+
+In October 2008, the FDA granted further approval to market Treanda for the treatment of indolent B-cell non-Hodgkin's lymphoma that has progressed during or within six months of treatment with rituximab or a rituximab-containing regimen.<ref>{{cite web |url=http://www.cephalon.com/media/news-releases/article/video-cephalon-receives-fda-approval-for-treanda-to-treat-patients-with-relapsed-indolent-non-hodgk/ |title=Cephalon press release -Cephalon Receives FDA Approval for TREANDA to Treat Patients with Relapsed Indolent Non-Hodgkin's Lymphoma |accessdate=2008-11-03 |format= |work= |deadurl=no |archiveurl=https://web.archive.org/web/20081207010837/http://www.cephalon.com/media/news-releases/article/video-cephalon-receives-fda-approval-for-treanda-to-treat-patients-with-relapsed-indolent-non-hodgk/ |archivedate=2008-12-07 |df= }}</ref>
+
+==Research==
+It is also being studied for the treatment of [[sarcoma]].<ref>{{cite journal |author=Bagchi S |title=Bendamustine for advanced sarcoma |journal=Lancet Oncol. |volume=8 |issue=8 |pages=674 |date=August 2007 |pmid=17726779 |doi= 10.1016/S1470-2045(07)70225-5|url=}}</ref> It is also being investigated in phase II trials for the non-cancer treatment of [[AL amyloidosis]].
+
+==References==
+{{Reflist|32em}}
+
+==External links==
+* [http://www.treanda.com/ Manufacturer's website (US)]
+
+{{Chemotherapeutic agents}}
+
+[[Category:Benzimidazoles]]
+[[Category:Organochlorides]]
+[[Category:Nitrogen mustards]]
+[[Category:World Health Organization essential medicines]]
+[[Category:RTT]]

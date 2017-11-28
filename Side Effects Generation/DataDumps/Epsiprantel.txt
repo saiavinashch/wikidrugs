@@ -1,0 +1,60 @@
+{{Drugbox
+| drug_name =
+| IUPAC_name = 2-(Cyclohexylcarbonyl)-2,3,6,7,8,12b-hexahydropyrazino[2,1-''a''][2]benzazepin-4(1''H'')-one
+| image = Epsiprantel 200.svg
+| width = 175
+
+<!--Clinical data -->
+| tradename = Cestex
+| Drugs.com =
+| MedlinePlus =
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = Rx-only
+| legal_status =
+| routes_of_administration = [[Oral administration|By mouth]] ([[Tablet (pharmacy)|tablets]])
+
+<!--Pharmacokinetic data -->
+| bioavailability = Minimal<ref name="PI">{{cite web|title=Cestex (epsiprantel) Veterinary Tablets. Prescribing Information|url=https://www.zoetisus.com/_locale-assets/mcm-portal-assets/products/pdf/cestex-zoetis-pi.pdf|publisher=Zoetis Inc. Kalamazoo, MI 49007|accessdate=2 October 2016}}</ref>
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers -->
+| CAS_number = 98123-83-2
+| PubChem = 72026
+| ChemSpiderID = 65020
+| ChEMBL = 64979
+| ATCvet = yes
+| ATC_prefix = P52
+| ATC_suffix = AA04
+| DrugBank =
+| synonyms = BRL 38705
+
+<!--Chemical data -->
+| C=20 | H=26 | N=2 | O=2
+| molecular_weight = 326.433 g/mol
+| smiles = O=C4N2C(c1c(cccc1)CCC2)CN(C(=O)C3CCCCC3)C4
+| StdInChI = 1S/C20H26N2O2/c23-19-14-21(20(24)16-8-2-1-3-9-16)13-18-17-11-5-4-7-15(17)10-6-12-22(18)19/h4-5,7,11,16,18H,1-3,6,8-10,12-14H2
+| StdInChIKey = LGUDKOQUWIHXOV-UHFFFAOYSA-N
+}}
+
+'''Epsiprantel''' (trade name '''Cestex''') is a [[veterinary drug]] which is used as an [[anthelmintic]] against [[tapeworm]]s such as ''[[Echinococcus granulosus]]''.<ref>{{cite journal |author1=Arru, E. |author2=Garippa, G. |author3=Manger, B. R. | title = Efficacy of epsiprantel against Echinococcus granulosus infections in dogs | journal = Research in Veterinary Science | year = 1990 | volume = 49 | issue = 3 | pages = 378–379 | pmid = 2267429}}</ref>
+
+==Indications==
+It is indicated for the removal of [[Cestoda|cestodes]] (tapeworms) in cats (''[[Dipylidium caninum]]'' and ''[[Taenia taeniaeformis]]'') and dogs (''Dipylidium caninum'' and ''[[Taenia pisiformis]]'') 7 weeks of age and older.<ref name="PI" />
+
+==References==
+{{reflist}}
+
+{{anthelmintics}}
+
+[[Category:Anthelmintics]]
+[[Category:Veterinary drugs]]
+
+{{antiinfective-drug-stub}}

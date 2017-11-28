@@ -1,0 +1,127 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 470611468
+| IUPAC_name = (3,4-Dihydroxy-5-nitrophenyl)(4-methylphenyl)methanone
+| image = Tolcapone.svg
+| image2 = Tolcapone3d.png
+
+<!--Clinical data-->
+| tradename = Tasmar
+| Drugs.com = {{drugs.com|monograph|tolcapone}}
+| MedlinePlus = a698036
+| pregnancy_US = C
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = [[Oral administration|By mouth]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 65%
+| protein_bound = >99.9%
+| metabolism =  [[Hepatic]] (mainly glucuronidation)
+| elimination_half-life = 2–3 hours
+| excretion = Urine (60%), faeces (40%);<br/>only 0.5% in unmetabolised form
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6646
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 134308-13-7
+| ATC_prefix = N04
+| ATC_suffix = BX01
+| ATC_supplemental =
+| PubChem = 4659569
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00323
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3848682
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = CIF6334OLY
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00786
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1324
+
+<!--Chemical data-->
+| C=14 | H=11 | N=1 | O=5
+| molecular_weight = 273.241 g/mol
+| smiles = [O-][N+](=O)c2cc(C(=O)c1ccc(cc1)C)cc(O)c2O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C14H11NO5/c1-8-2-4-9(5-3-8)13(17)10-6-11(15(19)20)14(18)12(16)7-10/h2-7,16,18H,1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = MIQPIUSUKVNLNT-UHFFFAOYSA-N
+| melting_point     = 143
+| melting_high      = 146
+| solubility        = not soluble
+| sol_units         = 
+}}
+
+'''Tolcapone''' (brand name '''Tasmar''') is a drug used to treat [[Parkinson's disease]] (PD).  It is a selective, potent and reversible nitrocatechol-type inhibitor of the [[enzyme]] [[Catechol-O-methyl transferase|catechol-''O''-methyltransferase]] (COMT).<ref name="pmid18728767">{{cite journal | last1 = Antonini | first1 = A. | last2 = Abbruzzese | first2 = G. | last3 = Barone | first3 = P. | last4 = Bonuccelli | first4 = U. | last5 = Lopiano | first5 = L. | last6 = Onofrj | first6 = M. | last7 = Zappia | first7 = M. | last8 = Quattrone | first8 = A. | title = COMT inhibition with tolcapone in the treatment algorithm of patients with Parkinson's disease (PD): Relevance for motor and non-motor features | journal = Neuropsychiatric Disease and Treatment | year = 2008 | volume = 4 | issue = 1 | pages = 1–9 | doi = 10.2147/NDT.S2404 | pmid = 18728767 | pmc = 2515921 }}</ref> It has demonstrated significant liver toxicity, which has led to suspension of marketing authorisations in a number of countries.
+
+In comparison with [[entacapone]], another nitrocatechol COMT inhibitor, tolcapone has a longer half life (2.9 hours vs. 0.8 hours) and can better penetrate the [[blood–brain barrier]], acting both in the [[central nervous system]] and in the periphery.<ref>{{cite journal|last2=Lehtonen|first2=M.|last3=Heikkinen|first3=M.|last4=Savolainen|first4=J.|last5=Järvinen|first5=T.|last6=Männistö|first6=P. T.|year=2003|title=Pharmacokinetics and Pharmacodynamics of Entacapone and Tolcapone after Acute and Repeated Administration: A Comparative Study in the Rat|journal=Journal of Pharmacology and Experimental Therapeutics|volume=304|issue=2|pages=498–506|doi=10.1124/jpet.102.042846|pmid=12538800|last1=Forsberg|first1=M.}}</ref> However, entacapone is less toxic for the liver.
+[[File:3s68 tcw.png|thumb|Rat catechol-''O''-methyltransferase bound to tolcapone. PDB entry {{PDBe|3s68}}<ref>{{cite journal | last1 = Ellermann | first1 = M. | last2 = Lerner | first2 = C. | last3 = Burgy | first3 = G. | last4 = Ehler | first4 = A. | last5 = Bissantz | first5 = C. | last6 = Jakob-Roetne | first6 = R. | last7 = Paulini | first7 = R. | last8 = Allemann | first8 = O. | last9 = Tissot | first9 = H. | last10 = Grünstein | first10 = Dan | last11 = Stihle | first11 = Martine | last12 = Diederich | first12 = Francois | last13 = Rudolph | first13 = Markus G. | title = Catechol-O-methyltransferase in complex with substituted 3′-deoxyribose bisubstrate inhibitors | journal = Acta Crystallographica D | year = 2012 | volume = 68 | issue = 3 | pages = 253–260 | doi = 10.1107/S0907444912001138 | pmid = 22349227 | display-authors = 8 }}</ref>]]
+
+== Medical uses ==
+Tolcapone is used in the treatment of Parkinson's disease as an adjunct to [[levodopa/carbidopa]] or levodopa/[[benserazide]] medications. [[Levodopa]] is a [[prodrug]] for [[dopamine]], which reduces Parkinson symptoms; [[carbidopa]] and benserazide are [[Aromatic L-amino acid decarboxylase|aromatic <small>L</small>-amino acid decarboxylase]] (AADC) inhibitors.<ref>{{cite journal |doi=10.1111/j.1365-2125.1995.tb05781.x |title=Pharmacokinetic-pharmacodynamic interaction between the COMT inhibitor tolcapone and single-dose levodopa  |year=1995 |last1=Dingemanse |first1=J. |last2=Jorga |first2=K. |last3=Zurcher |first3=G. |last4=Schmitt |first4=M. |last5=Sedek |first5=G. |last6=Prada |first6=M. |last7=Brummelen |first7=P. |journal=British Journal of Clinical Pharmacology |volume=40 |issue=3 |pages=253–262 |pmid=8527287 |pmc=1365105}}</ref>
+
+Without administration of tolcapone, the beneficial effects of levodopa tend to wear off more quickly, resulting in motor fluctuations.<ref name="ncbi_a" />
+
+==Contraindications==
+Combining tolcapone with non-selective [[monoamine oxidase inhibitor]]s such as [[phenelzine]] or [[tranylcypromine]] is contraindicated.<ref name="Dinnendahl" /> Tolcapone is also contraindicated for people with liver diseases or increased [[liver enzymes]].<ref name="EMA">{{cite web|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/000132/WC500034731.pdf|title=Tasmar: EPAR – Product Information|publisher=[[European Medicines Agency]]|date=3 August 2016}}</ref>
+
+==Adverse effects==
+Tolcapone has demonstrated significant [[liver toxicity]] (hepatotoxicity)<ref name="pmid17909307">{{cite journal | doi = 10.1097/wnf.0b013e318038d2b6 | title = Tolcapone | year = 2007 | last1 = Olanow | first1 = C. W. | last2 = Watkins | first2 = P. B. | journal = Clinical Neuropharmacology | volume = 30 | issue = 5 | pages = 287–294 | pmid = 17909307 }}</ref> that limits the drug's utility. Entacapone is an alternative, largely since it has a more favorable toxicity profile.
+
+The hepatotoxicity can be related to elevated levels of [[transaminase]]s, but studies have shown that minimal risk exists for those without preexisting liver conditions when their enzyme levels were being monitored. No clear mechanism is implicated, but it has been hypothesized that it has something to do with abnormal [[Mitochondrion|mitochondrial]] respiration due to the uncoupling of [[oxidative phosphorylation]].<ref name="ncbi_b">{{cite journal | last1 = Truong | first1 = D. | title = Tolcapone: Review of its pharmacology and use as adjunctive therapy in patients with Parkinson's disease | journal = Clinical Interventions in Aging | year = 2009 | volume = 4 | pages = 109–113 | doi = 10.2147/CIA.S3787 | pmid = 19503773 | pmc = 2685232 }}</ref> 
+
+Other side effects regard the increase in dopaminergic activity, including digestive symptoms.<ref name="EMA" /> Treatment with tolcapone runs the risk of eliciting or prolonging [[dyskinesia]]; this can be counteracted by decreasing the dose of levodopa. This occurs because the administration of tolcapone results in the accumulation of the biological methyl donor [[S-Adenosyl methionine|''S''-adenosyl-<small>L</small>-methionine]] (SAM) in the [[striatum]] that induces Parkinson symptoms.<ref name="ncbi_b" />
+
+Digestive symptoms include [[nausea]] and [[diarrhea]]; further dopaminergic side effects include [[orthostatic hypotension]], dry mouth, sweating and dizziness.  Tolcapone causes more severe diarrhea than entacapone; this was the most common reason for therapy termination in studies.<ref name="Dinnendahl" /> Urine discoloration comes from yellow tolcapone [[metabolite]]s being excreted in the urine and is harmless.<ref name="EMA" /><ref name="ncbi_b" />
+
+==Interactions==
+While increase of dopamine levels is a desired interaction, tolcapone can theoretically also increase the levels of other drugs metabolised by COMT, such as the AADC inhibitors carbidopa and benzerazide, as well as [[methyldopa]], [[dobutamine]], [[apomorphine]], [[adrenaline]], and [[isoprenaline]]. In studies, a slight interaction with benzerazide was seen, but not with carbidopa. Other interactions with this group of drugs have not been studied. A related type of theoretical interactions is with drugs that increase [[catecholamine]] concentrations, such as monoamine oxidase (MAO) inhibitors and [[noradrenaline reuptake inhibitor]]s; these also showed only slight effects in practice. Combination with ''non-selective'' MAO inhibitors might be dangerous.<ref name="Dinnendahl" /><ref name="EMA" />
+
+Due to its affinity to the liver enzyme [[CYP2C9]], interactions with drugs being metabolised by this enzyme are also possible, but unlikely. No interaction with [[tolbutamide]], a 2C9 [[substrate (biochemistry)|substrate]], was observed in studies.<ref name="EMA" />
+
+==Pharmacology==
+===Mechanism of action===
+Tolcapone selectively and reversibly<ref name="Dinnendahl">{{cite book|title=Arzneistoff-Profile|editor1=Dinnendahl, V |editor2=Fricke, U |publisher=Govi Pharmazeutischer Verlag|location=Eschborn, Germany|date=1998|edition=13|volume=10|isbn=978-3-7741-9846-3|language=German}}</ref> binds to the [[catalytic site]] of COMT in both the periphery and the central nervous system (CNS) with greater affinity than any of the three [[catecholamine]]s, including levodopa.<ref>{{cite journal |doi=10.2165/00003088-200241040-00003 |title=Clinical Pharmacokinetic and Pharmacodynamic Properties of Drugs Used in the Treatment of Parkinsons Disease |year=2002 |last1=Deleu |first1=D. |last2=Northway |first2=M. G. |last3=Hanssens |first3=Y. |journal=Clinical Pharmacokinetics |volume=41 |issue=4 |pages=261–309 |pmid=11978145}}</ref> It thereby prevents the 3-''O''-methylation of levodopa by COMT in the periphery, which produces 3-''O''-methyldopa, a major metabolite that competes with levodopa to cross the [[blood–brain barrier]]. More of the levodopa that is administered reaches the CNS. Additionally, levodopa that has already reached the CNS, after being converted to dopamine, will not be degraded as quickly when tolcapone inhibits COMT activity. Thus, tolcapone improves the bioavailability and reduces the clearance of levodopa and subsequently dopamine from the CNS.<ref name="ncbi">{{cite journal |doi=10.1046/j.1365-2125.1999.00036.x |title=Metabolism and excretion of tolcapone, a novel inhibitor of catechol-O-methyltransferase |year=2001 |last1=Jorga |first1=K. | last2=Fotteler |first2=B. |last3=Heizmann |first3=P. |last4=Gasser |first4=R. |journal=British Journal of Clinical Pharmacology |volume=48 |issue=4 |pages=513–520 |pmid=10583021 |pmc=2014389}}</ref>
+
+[[File:COMT activity.svg|thumb|400px|center|alt=3-''O''-Methylation of levodopa (3-hydroxy-<small>L</small>-tyrosine) via COMT activity|3-''O''-Methylation of levodopa (3-hydroxy-<small>L</small>-tyrosine) via COMT activity]]
+
+The strength of the binding affinity of tolcapone, represented by the inhibition constant K<sub>i</sub> (2.5 nM), can be thought of as the [[dissociation constant]] for enzyme and inhibitor complex kinetics. Maximum catalytic activity denotes the efficacy of tolcapone (V<sub>max</sub> = 58.4 pmol/min·mg).<ref>{{cite journal | doi = 10.1016/j.ejps.2005.01.005 | title = The role of physicochemical properties of entacapone and tolcapone on their efficacy during local intrastriatal administration | year = 2005 | last1 = Forsberg | first1 = M. M. | last2 = Huotari | first2 = M. | last3 = Savolainen | first3 = J. | last4 = Männistö | first4 = P. T. | journal = European Journal of Pharmaceutical Sciences | volume = 24 | issue = 5 | pages = 503–511 | pmid = 15784340 }}</ref>
+
+===Pharmacokinetics===
+Tolcapone is quickly absorbed from the gut to about 85%. It has an absolute [[bioavailability]] of 65%, which is only slightly decreased when taken with food. The substance reaches highest blood plasma concentrations after about two hours. When in the bloodstream, it is almost completely (>99.9%) bound to [[plasma protein]]s, primarily [[albumin]]. The main inactivation step is [[glucuronidation]]; other processes are methylation by COMT, hydroxylation by [[CYP3A4]] and [[CYP2A6]] with subsequent oxidation to a [[carboxylic acid]], and possibly a minor path with reduction to an amine with subsequent [[acetyl]]ation.<ref name="Dinnendahl" /><ref name="EMA" />
+
+The half-life of tolcapone is two to three hours, the volume of distribution (V<sub>d</sub>) being 0.3&nbsp;L/kg (21 L in an average 70&nbsp;kg person).<ref name="ncbi_a">{{cite journal |doi=10.1007/s002280050490 |title=Pharmacokinetics and pharmacodynamics after oral and intravenous administration of tolcapone, a novel adjunct to Parkinson's disease therapy |year=1998 |last1=Jorga |first1=K. M. |last2=Fotteler |first2=B. |last3=Heizmann |first3=P. |last4=Zürcher |first4=G. |journal=European Journal of Clinical Pharmacology |volume=54 |issue=5 |pages=443–447 |pmid=9754991}}</ref> 60% of the metabolites are excreted via the urine and 40% via the feces. Only 0.5% of the drug are excreted in unchanged form via the urine.<ref name="Dinnendahl" /><ref name="EMA" />
+
+[[File:Tolcapone metabolism.svg|thumb|center|600px|Tolcapone and its metabolites. The reduction to the amine and subsequent ''N''-acetylation is putative.<ref name="EMA" />]]
+
+99% of tolcapone is in mono[[anionic]] form in the body because the physiological pH is 7.4. Tolcapone penetrates the blood–brain barrier much better than two other nitrocatechols, [[nitecapone]] and [[entacapone]], because it has higher [[lipophilicity]] due to its R-substituent.{{vague|date=March 2015}} Partition coefficients quantify the ability of the molecule to cross the blood–brain barrier. LogPIdce= 0.2, –1.4, –0.4 for tolcapone, nitecapone and entacopone respectively.  Partition coefficients in this case were measured in 1,2-dichloroethane/H<sub>2</sub>O solution which caused molecules to be in ionized form. There is no current explanation for how these charged molecules permeate the blood–brain barrier.<ref>{{cite journal | last1 = Novaroli | first1 = L. | last2 = Bouchard Doulakas | first2 = G. | last3 = Reist | first3 = M. | last4 = Rolando | first4 = B. | last5 = Fruttero | first5 = R. | last6 = Gasco | first6 = A. | last7 = Carrupt | first7 = P.-A. | title = The Lipophilicity Behavior of Three Catechol-O-methyltransferase (COMT) Inhibitors and Simple Analogues | journal = Helvetica Chimica Acta | year = 2006 | volume = 89 | issue = 1 | pages = 144–152 | doi = 10.1002/hlca.200690007 }}</ref>
+
+== Chemistry ==
+Tolcapone is an intensely yellow, odorless, bitter tasting, non-[[hygroscopic]], [[crystalline]] compound with a relative [[molecular mass]] of 273.25&nbsp;g/mol. It melts at {{convert|143 to 146|C|F}}, is practically insoluble in water and acids but soluble in 0.1&nbsp;[[molar (unit)|M]] aqueous sodium hydroxide solution. The [[acid dissociation constant|p''K''<sub>a</sub>]] values are 4.5 and 10.6 for the two [[phenyl]] groups; and the maximum absorption is at 268&nbsp;[[nanometre|nm]] (in 0.1&nbsp;M hydrochloric acid / ethanol).<ref name="Dinnendahl" /> Its chemical name is 3,4-dihydroxy-4'-methyl-5-nitrobenzophenone.
+
+===Synthesis===
+A synthesis of tolcapone proposed in 2008 begins with a [[Grignard reaction]] between a benzaldehyde derivative and ''p''-tolyl magnesium bromide. The alcohol thus produced is then converted to a ketone using sodium ''t''-butoxide. The benzyl protecting group is removed by [[palladium]]-catalyzed [[hydrogenation]] in the presence of ammonium formate. A nitro group is introduced at the 5-position adjacent to the hydroxyl group unmasked in the cleavage of the benzyl ether. The synthesis ends with cleavage of the methoxy group using aluminum chloride to yield the product alcohol.<ref name="Manikumar">{{cite journal |doi=10.1080/00397910701821077 |title=Convenient Synthesis of Tolcapone, a Selective Catechol‐O‐methyltransferase Inhibitor |year=2008 |last1=Manikumar |first1=G. |last2=Jin |first2=C. |last3=Rehder |first3=K. S. |journal=Synthetic Communications |volume=38 |issue=5 |pages=810}}</ref>
+
+[[File:Tolcapone synthesis.svg|thumb|600px|center|alt=Borrowed figure of synthesis scheme.|Synthesis of tolcapone<ref name="Manikumar" />]]{{Clear}}
+
+==History==
+Tolcapone was introduced into European market in August 1997 and subsequently into the United States market in March 1998. Liver toxicity was reported in four people who were administered tolcapone, three people died due to complications.  Consequentially, the marketing authorization of tolcapone was suspended from December, 1998 until August, 2004 when it was lifted. In November 1998, the company that manufactured tolcapone voluntarily<ref name="apps">{{cite web|title=2001 Pharmaceuticals: Restrictions in Use and Availability|url=http://apps.who.int/medicinedocs/en/d/Js2203e/2.59.html|publisher=World Health Organization|accessdate=2012-10-31}}</ref>  removed the drug from the market. The authorization was then renewed in August 2009.<ref name="EMEA/474722/2009">{{cite web|title=Tasmar tolcapone EPAR summary for the public|url=http://www.emea.europa.eu/docs/en_GB/document_library/EPAR_-_Summary_for_the_public/human/000132/WC500034729.pdf|publisher=European Medicine Agency|accessdate=2012-10-31}}</ref>
+
+As a result of reported complications, the U.S. [[Food and Drug Administration]] (FDA) issued a [[Boxed warning|black box warning]] for tolcapone and label revisions that aimed to regulate the monitoring of those prescribed tolcapone for Parkinson's disease in November 1998.<ref>{{cite web|first=U.S. Department of Health and Human Services|title=FDA Talk Paper|url=http://scienceblog.com/community/older/archives/M/1/fda0533.htm|work=New Warnings for Parkinson's Drug, Tasmar|publisher=Food and Drug Administration|author=Press Office}}</ref> A number of other countries withdrew tolcapone from the market; Australia in February 1999, Bulgaria in April 1999, Iceland in November 1998, Lithuania in December 1998.<ref name="apps" />
+
+== References ==
+{{Reflist|35em}}
+
+==External links==
+* [http://www.ebi.ac.uk/pdbe-srv/PDBeXplore/ligand/?ligand=TCW Tolcapone bound to proteins] in the [[Protein Data Bank|PDB]]
+
+{{Antiparkinson}}
+{{Monoamine metabolism modulators}}
+
+[[Category:COMT inhibitors]]
+[[Category:Catechols]]
+[[Category:Hepatotoxins]]
+[[Category:Nitrobenzenes]]
+[[Category:Benzophenones]]

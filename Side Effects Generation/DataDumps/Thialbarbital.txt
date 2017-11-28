@@ -1,0 +1,72 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 470606170
+| IUPAC_name = 5-allyl-5-cyclohex-2-en-1-yl-2-thioxodihydropyrimidine-4,6(1''H'',5''H'')-dione
+| image = Thialbarbital.svg
+| width = 100
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = Schedule IV
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 3546-29-0
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 3032306
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2104657
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2297316
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = ENV72C33QD
+
+<!--Chemical data-->
+| C=13 | H=16 | N=2 | O=2 | S=1 
+| molecular_weight = 264.344 g/mol
+| smiles = O=C1NC(=S)NC(=O)C1(C2/C=C\CCC2)C\C=C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C13H16N2O2S/c1-2-8-13(9-6-4-3-5-7-9)10(16)14-12(18)15-11(13)17/h2,4,6,9H,1,3,5,7-8H2,(H2,14,15,16,17,18)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = PXLVRFQEBVNJOH-UHFFFAOYSA-N
+| synonyms = Kemithal, 5-(1-cyclohex-2-enyl)-5-prop-2-enyl-2-sulfanylidene-1,3-diazinane-4,6-dione
+}}
+
+'''Thialbarbital''' (Intranarcon) is a [[barbiturate]] derivative invented in the 1960s. It has [[sedative]] effects, and was used primarily for induction in [[surgical]] [[anaesthesia]]. <ref> Golovchinsky VB, Plehotkina SI. Difference in the sensitivity of the cerebral cortex and midbrain reticular formation to the action of diethylether and thialbarbital. Brain Research. 1971 Jul 9;30(1):37-47. </ref> Thialbarbital is short acting and has less of a tendency to induce respiratory depression than other barbiturate derivatives such as [[pentobarbital]]. <ref> Bercovitz AB, Godke RA, Biellier HV, Short CE. Surgical anesthesia in turkeys with thialbarbital sodium. American Journal of Veterinary Research. 1975 Mar;36(3):301-2. </ref>
+==Synthesis==
+[[File:Thialbarbital synthesis.svg|thumb|center|500px|Thialbarbital synthesis: Volwiler, Tabern, {{US patent|2153730}} (1939 to [[Abbott Laboratories|Abbott]])]]
+
+==See also==
+*[[Thiamylal]]
+
+== References ==
+<references />
+
+{{Sedatives}}
+{{GABAAR PAMs}}
+
+[[Category:Thiobarbiturates]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:Allyl compounds]]
+[[Category:Cyclohexenes]]
+
+
+{{sedative-stub}}

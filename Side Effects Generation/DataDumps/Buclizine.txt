@@ -1,0 +1,55 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 459985078
+| IUPAC_name = (''RS'')-1-[(4-chlorophenyl)- phenyl-methyl]-4- [(4-tert-butylphenyl) methyl] piperazine
+| image = Buclizine.svg
+| width = 280px
+| chirality = [[Racemic mixture]]
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|buclizine}}
+<!--Identifiers-->
+| IUPHAR_ligand = 7134
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 82-95-1
+| ATC_prefix = R06
+| ATC_suffix = AE01
+| PubChem = 6729
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00354
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 6473
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0C94V6X681
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 3205
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201271
+<!--Chemical data-->
+| C=28 | H=33 | Cl=1 | N=2
+| molecular_weight = 433.028 g/mol
+| smiles = Clc1ccc(cc1)C(c2ccccc2)N3CCN(CC3)Cc4ccc(cc4)C(C)(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C28H33ClN2/c1-28(2,3)25-13-9-22(10-14-25)21-30-17-19-31(20-18-30)27(23-7-5-4-6-8-23)24-11-15-26(29)16-12-24/h4-16,27H,17-21H2,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = MOYGZHXDRJNJEP-UHFFFAOYSA-N
+}}
+
+'''Buclizine''' is an [[antihistamine]] and [[anticholinergic]] of the [[diphenylmethylpiperazine]] group. It is considered to be an [[antiemetic]], similar to [[meclizine]].<ref name="pmid22469258">{{cite journal | vauthors = Mostafa GA, Al-Badr AA | title = Buclizine | journal = Profiles Drug Subst Excip Relat Methodol | volume = 36 | issue = | pages = 1–33 | year = 2011 | pmid = 22469258 | doi = 10.1016/B978-0-12-387667-6.00001-4 | url = }}</ref>
+
+In the [[United Kingdom]], buclizine is one of three drugs contained in [[Migraleve]] tablets, marketed by [[McNeil Laboratories|McNeil Healthcare]] at [[migraine]] sufferers.<ref name="pmid4070325">{{cite journal | vauthors = Behrendt WA, Cserepes J | title = Acute toxicity and analgesic action of a combination of buclizine, codeine and paracetamol ('Migraleve') in tablet and suppository form in rats | journal = Pharmatherapeutica | volume = 4 | issue = 5 | pages = 322–31 | year = 1985 | pmid = 4070325 | doi = | url = }}</ref>
+
+==References==
+{{Reflist}}
+
+{{Antihistamines}}
+{{Histamine receptor modulators}}
+{{Muscarinic acetylcholine receptor modulators}}
+{{Piperazines}}
+
+[[Category:Chloroarenes]]
+[[Category:Muscarinic antagonists]]
+[[Category:Piperazines]]
+
+
+{{respiratory-system-drug-stub}}

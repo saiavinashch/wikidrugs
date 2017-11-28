@@ -1,0 +1,86 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 459980346
+| IUPAC_name = 2,2'-sulfanediylbis(4,6-dichlorophenol)
+| image = Bithionol.png
+| image2 = Bithionol molecule ball.png
+| alt2 = Ball-and-stick model of the bithionol molecule
+| width2 = 240
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 97-18-7
+| ATC_prefix = D10
+| ATC_suffix = AB01
+| ATC_supplemental =  {{ATC|P02|BX01}} {{ATCvet|P52|AG07}}
+| PubChem = 2406
+| IUPHAR_ligand = 2338
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB04813
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = AMT77LS62O
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 290106
+|  ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2313
+|  ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 3131
+| smiles = Clc2cc(Cl)cc(Sc1cc(Cl)cc(Cl)c1O)c2O
+|  StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C12H6Cl4O2S/c13-5-1-7(15)11(17)9(3-5)19-10-4-6(14)2-8(16)12(10)18/h1-4,17-18H
+|  StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = JFIOVJDNOJYLKP-UHFFFAOYSA-N
+
+<!--Chemical data-->
+| C=12 | H=6 | Cl=4 | O=2 | S=1 
+| molecular_weight = 356.05 g/mol
+| synonyms = 2,4-dichloro- 6-(3,5-dichloro- 2-hydroxyphenyl)sulfanylphenol
+}}
+
+'''Bithionol''' is an [[anthelmintic]] used to treat ''[[Anoplocephala perfoliata]]'' (tapeworms) in horses<ref>{{ cite journal | vauthors = Sanada Y, Senba H, Mochizuki R, Arakaki H, Gotoh T, Fukumoto S, Nagahata H | title = Evaluation of Marked Rise in Fecal Egg Output after Bithionol Administration to Horse and its Application as a Diagnostic Marker for Equine ''Anoplocephala perfoliata'' Infection | journal = Journal of Veterinary Medical Science | year = 2009 | volume = 71 | issue = 5 | pages = 617–620 | pmid = 19498288 | doi = 10.1292/jvms.71.617 | url = https://www.jstage.jst.go.jp/article/jvms/71/5/71_5_617/_pdf | format = pdf }}</ref> and ''[[Fasciola hepatica]]'' (liver flukes).
+
+Bithionol has antibacterial and [[anthelmintic]] properties along with [[algaecide]] activity. It was formerly used in soaps and cosmetics until the FDA banned it for its [[photosensitizing]] effects. The compound has been known to cause photocontact sensitization.<ref>{{ Morton, I. K., & Hall, J. M. (1999). Concise Dictionary of Pharmacological Agents. doi:10.1007/978-94-011-4439-1 }}</ref>
+
+Bithionol has been shown to be a potent inhibitor of [[soluble adenylyl cyclase]] (sAC),<ref>{{ Kleinboelting, S., Ramos-Espiritu, L., Buck, H., Colis, L., Heuvel, J. V., Glickman, J. F., . . . Steegborn, C. (2016). Bithionol Potently Inhibits Human Soluble Adenylyl Cyclase through Binding to the Allosteric Activator Site. Journal of Biological Chemistry J. Biol. Chem., 291(18), 9776-9784. doi:10.1074/jbc.m115.708255 }}</ref> an intracellular enzyme important in the catalysis of [[Adenosine triphosphate|ATP]] to [[cyclic adenosine monophosphate|cAMP]].  [[Soluble adenylyl cyclase]] is uniquely activated by [[bicarbonate]]. The [[cyclic adenosine monophosphate|cAMP]] formed by this enzyme is associated with capacitation of sperm, eye pressure regulation, acid-base regulation, and [[astrocyte]]/[[neuron]] communication.
+
+Based on its relationship to the [[organochlorine]], [[hexachlorophene]], which has been shown to be a successful, but isomer-specific inhibitor of [[soluble adenylyl cyclase]], bithionol was chosen to study potential inhibitors of the sAC enzyme. These two [[organochlorine]] compounds have similar chemical structures. Bithionol has two aromatic rings with a [[sulfur]] atom bonded between them and multiple chlorine ions and hydroxyl groups coming off of the phenyl groups. These functional groups are capable of hydrophobic, ionic, and polar interactions.
+
+These intermolecular interactions are capable of binding bithionol to the bicarbonate binding site of [[soluble adenylyl cyclase]] efficiently enough to cause a sort of competitive inhibition with the usual bicarbonate substrate. The side chain of [[Arginine]] 176 within the bicarbonate binding site of the sAC protein interacts significantly with the aromatic ring of the bithionol molecule. This allosteric, conformational change interferes with the ability of the active site of sAC to adequately bind ATP to convert it into cAMP. The Arginine 176 usually interacts with the ATP and other catalytic ions at the active site, so when it turns from its normal position to interact with the bithionol inhibitor, it no longer functions in keeping the ATP bound to the active site.
+
+In another form of inhibition, bithionol is a much larger molecule than simple sodium bicarbonate, so it is large enough to reach through a small channel in the sAC compound and physically interfere with the ability of ATP to fit into and thus bind to the active site to be converted to cAMP.
+
+This inhibition of the sAC enzyme by bithionol at the bicarbonate binding site is demonstrated through a [[mixed-inhibition]] graph, where higher concentrations of bithionol have a lower [[Michaelis–Menten kinetics|Vmax]] and a larger [[Michaelis–Menten kinetics|Km]]. This translates to a decreased rate of reaction and a decreased affinity between substrates when bithionol is in higher concentrations.
+
+Unfortunately, in order for bithionol to potently inhibit the soluble adenylyl cyclase enzyme, it requires concentrations that are [[cytotoxic]] [[in vivo]]. Thus, it cannot be used as the therapeutic drug needed to inhibit [[soluble adenylyl cyclase]] and therefore decrease the accumulation of cAMP within the cell. However, it does shed some light on the search for a compound that will eventually be able to target the bicarbonate binding site of the [[soluble adenylyl cyclase]] [[enzyme]]. Bithionol is the first known sAC inhibitor to act through the bicarbonate binding site via a mostly allosteric mechanism.
+
+==References==
+{{reflist}}
+
+{{Anthelmintics}}
+{{Glutamate metabolism and transport modulators}}
+{{Xenobiotic-sensing receptor modulators}}
+
+[[Category:Antiparasitic agents]]
+[[Category:Chloroarenes]]
+[[Category:Phenols]]
+[[Category:Thioethers]]

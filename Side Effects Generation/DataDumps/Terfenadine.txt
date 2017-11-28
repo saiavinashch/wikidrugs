@@ -1,0 +1,82 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470602363
+| IUPAC_name = (''RS'')-1-(4-''tert''-butylphenyl)-4-{4-[hydroxy(diphenyl)methyl]piperidin-1-yl}-butan-1-ol
+| image = Terfenadine.svg
+| width = 250px
+<!--Clinical data-->
+| tradename = Seldane, Triludan, Teldane
+| Drugs.com = {{drugs.com|MTM|terfenadine}}
+| MedlinePlus = a600034
+| pregnancy_US = C
+| legal_status = Withdrawn
+| routes_of_administration = [[Oral administration|By mouth]]
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 70%
+| metabolism = [[Liver|Hepatic]] ([[CYP3A4]])
+| metabolites = [[Fexofenadine]]
+| elimination_half-life = 3.5 hours
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 50679-08-8
+| ATC_prefix = R06
+| ATC_suffix = AX12
+| PubChem = 5405
+| IUPHAR_ligand = 2608
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00342
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5212
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 7BA5G9Y06Q
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00521
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 17157
+<!--Chemical data-->
+| C=32 | H=41 | N=1 | O=2
+| molecular_weight = 471.673 g/mol
+| SMILES = OC(c1ccccc1)(c2ccccc2)C4CCN(CCCC(O)c3ccc(cc3)C(C)(C)C)CC4
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C32H41NO2/c1-31(2,3)26-18-16-25(17-19-26)30(34)15-10-22-33-23-20-29 (21-24-33)32(35,27-11-6-4-7-12-27)28-13-8-5-9-14-28/ h4-9,11-14,16-19,29-30,34-35H,10,15,20-24H2,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GUGOEEXESWIERI-UHFFFAOYSA-N
+| chirality = [[Racemic mixture]]
+}}
+
+'''Terfenadine''' is an [[antihistamine]] formerly used for the treatment of [[allergy|allergic]] conditions. It was brought to market by [[Hoechst Marion Roussel]] (now [[Sanofi-Aventis]]) and was marketed under various brand names, including '''Seldane''' in the [[United States]], '''Triludan''' in the [[United Kingdom]], and '''Teldane''' in [[Australia]].<ref name="jama96"/> It was superseded by [[fexofenadine]] in the 1990s due to the risk of a particular type of disruption of the electrical rhythms of the heart (specifically [[Cardiac dysrhythmia|cardiac arrhythmia]] caused by [[QT interval]] prolongation) and has been withdrawn from markets worldwide.<Ref>Horak F. Antialergic and Vasoactive Drugs for Allergic Rhinitis. Chapter 4 in Allergy Frontiers:Therapy and Prevention. Volume 5 of Allergy Frontiers. Eds Pawankar R et al Springer Science & Business Media, 2010 {{ISBN|9784431993629}}</ref>{{rp|53}}
+
+==Pharmacology==
+Terfenadine acts as a [[peripherally-selective drug|peripherally-selective]] [[antihistamine]], or [[receptor antagonist|antagonist]] of the [[histamine]] [[H1 receptor|H<sub>1</sub> receptor]]. It is a [[prodrug]], generally completely [[metabolism|metabolized]] to the active form [[fexofenadine]] in the [[liver]] by the [[enzyme]] [[cytochrome P450 3A4]]. Due to its near complete metabolism by the liver immediately after leaving the gut, terfenadine normally is not measurable in the plasma. Terfenadine itself, however, is [[cardiotoxic]] at higher doses, while its major [[active metabolite]] is not. Terfenadine, in addition to its antihistamine effects, also acts as a [[potassium channel blocker]] (K<sub>v</sub>11.1 encoded by the gene ''[[hERG]]''). Since its active metabolite is not a potassium channel blocker, no cardiotoxicity is associated with [[fexofenadine]].<ref name="Cir1996"/> Toxicity is possible after years of continued use with no previous problems as a result of an interaction with other medications such as [[erythromycin]], or foods such as [[List of drugs affected by grapefruit|grapefruit]]. The addition of, or a dosage increase in, these CYP3A4 inhibitors makes it harder for the body to metabolize and remove terfenadine. In larger plasma concentrations, it may lead to toxic effects on the heart's rhythm (e.g. [[ventricular tachycardia]] and ''[[torsades de pointes]]'').
+
+==History==
+In the United States, Seldane was brought to market in 1985 as the first [[non-sedating antihistamines|nonsedating antihistamine]] for the treatment of [[allergic rhinitis]].<ref name="jama96"/><ref name="ladainews"/> In June 1990, evidence of serious ventricular arrhythmias among those taking Seldane prompted the FDA to issue a report on the [[risk factor]]s associated with [[wikt:concomitant|concomitant]] use of the drug with [[macrolide]] antibiotics and [[ketoconazole]].<ref name="jama96"/> Two months later, the FDA required the manufacturer to send a letter to all physicians, alerting them to the problem; in July 1992, the existing precautions were elevated to a [[black box warning]]<ref name="jama96"/> and the issue attracted mass media attention in reports that people with liver disease or who took ketoconazole, an antifungal agent, or the antibiotic [[erythromycin]], could suffer [[cardiac dysrhythmia|cardiac arrhythmia]] if they also took Seldane.<ref name="ladainews"/>
+
+In January 1997, the same month when the U.S. [[Food and Drug Administration]] (FDA) had earlier approved a generic version of Seldane made by [[Ivax Corporation|IVAX Corporation]] of Miami, the FDA recommended terfenadine-containing drugs be removed from the market and physicians consider alternative medications for their patients.<ref name="ladainews"/> Seldane (and Seldane-D, terfenadine combined with the decongestant [[pseudoephedrine]]) were removed from the U.S. market by their manufacturer in late 1997 after the FDA approval of Allegra-D (fexofenadine/pseudoephedrine).<ref>{{cite web| title= FDA Approves Allegra-D, Manufacturer To Withdraw Seldane From Marketplace | publisher= [[Food and Drug Administration]] | url= http://www.fda.gov/bbs/topics/ANSWERS/ANS00843.html | archiveurl= https://web.archive.org/web/20080223144824/http://www.fda.gov/bbs/topics/ANSWERS/ANS00843.html | archivedate= 2008-02-23 | accessdate=2010-11-11}}</ref> Terfenadine-containing drugs were subsequently removed from the Canadian market in 1999,<ref>[http://www.hc-sc.gc.ca/dhp-mps/medeff/advers-react-neg/fs-if/terfenadine_e.html Status of Terfenadine-Containing Drugs in Canada<!-- Bot generated title -->] from [[Health Canada]]</ref> and are no longer available for prescription in the UK.<ref>[http://www.gpnotebook.com/simplepage.cfm?ID=-1603600346 Terfenadine- General Practice notebook] from GPnotebook.co.uk</ref>
+
+==References==
+{{Reflist|refs=
+<ref name="jama96">{{cite journal| year=1996 | volume=275 | issue=17 | journal= [[Journal of the American Medical Association]]| issn= 0098-7484 |pages=1339–1341| title= Use of Terfenadine and Contraindicated Drugs | first1= David |last1= Thompson |first2= Gerry | last2= Oster| url=http://jama.ama-assn.org/cgi/content/abstract/275/17/1339 |accessdate=2010-11-11 | publisher= [[American Medical Association]] | doi=10.1001/jama.275.17.1339}}</ref>
+<ref name="ladainews">{{cite web| title= FDA May Pull Plug on Seldane | url= http://www.thefreelibrary.com/FDA+MAY+PULL+PLUG+ON+SELDANE-a083851730 | date= January 14, 1997 | author= Harry F. Rosenthal ([[Associated Press|AP]]) | work = [[Los Angeles Daily News]] | publisher= [[TheFreeLibrary.com]] | accessdate= 2010-11-11}}</ref> 
+<ref name="Cir1996">{{cite journal| year=1996 | volume=94 | issue=4 | journal= [[Circulation (journal)|Circulation]]| issn= |pages=817–823| title= HERG, a Primary Human Ventricular Target of the Nonsedating Antihistamine Terfenadine | first1= Mary-Louise|last1= Roy|first2= Arthur| last2= Brown| url=http://circ.ahajournals.org/content/94/4/817.short |accessdate=2014-01-27 | publisher= [[American Heart Association]] | doi=10.1161/01.cir.94.4.817}}</ref>
+}}
+
+==External links==
+* [http://www.pslgroup.com/dg/800A.htm Hoechst Marion Roussel Committed to Education Regarding Seldane Usage], an April 30, 1996 press release
+
+
+{{Antihistamines}}
+{{Histamine receptor modulators}}
+{{PAF receptor modulators}}
+
+[[Category:1985 introductions]]
+[[Category:Alcohols]]
+[[Category:German inventions]]
+[[Category:Hepatotoxins]]
+[[Category:H1 receptor antagonists]]
+[[Category:Peripherally selective drugs]]
+[[Category:Piperidines]]
+[[Category:Prodrugs]]
+[[Category:Withdrawn drugs]]

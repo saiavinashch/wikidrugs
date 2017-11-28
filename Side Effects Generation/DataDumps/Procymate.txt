@@ -1,0 +1,64 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 448231710
+| IUPAC_name = carbamic acid 1-cyclohexylpropyl ester
+| image = Procymate.svg
+| width = 150 px
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 13931-64-1
+| ATC_prefix = none
+| PubChem = 3050432
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2104652
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 308EUN932K
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 2312494
+
+
+<!--Chemical data-->
+| C=10 | H=19 | O=2 
+| molecular_weight = 185.263 g/mol
+| smiles = CCC(C1CCCCC1)OC(=O)N
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C10H19NO2/c1-2-9(13-10(11)12)8-6-4-3-5-7-8/h8-9H,2-7H2,1H3,(H2,11,12)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = IGISNRIWPJVXDB-UHFFFAOYSA-N
+}}
+'''Procymate''' ('''Equipax''') is a carbamate derivative which is a [[sedative]] and [[anxiolytic]] drug. It was previously manufactured and marketed in [[Belgium]]. The usual dose for adults is 800 to 1200 mg per day.<ref>"Procymate," ''Bank of Automated Data on Drugs.'' VIDAL Drug Database. <http://www.biam2.org/www/Sub394.html> </ref> Procymate shares a similar structure and [[mechanism of action]] with the related drugs [[hexapropymate]] and [[phenprobamate]].
+
+==References==
+<references/>
+
+{{Sedatives}}
+{{GABAAR PAMs}}
+
+[[Category:Sedatives]]
+[[Category:Carbamates]]
+[[Category:GABAA receptor positive allosteric modulators]]
+
+
+{{sedative-stub}}

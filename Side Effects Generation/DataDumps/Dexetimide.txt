@@ -1,0 +1,92 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 460779595
+| IUPAC_name = 3-(1-benzyl-4-piperidyl)-3-phenylpiperidine-2,6-dione
+| image = Dexetimide.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|dexetimide}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_UK = <!-- GSL         / P       / POM / CD -->
+| legal_US = <!-- OTC                   / Rx-only  -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 21888-98-2
+| ATC_prefix = N04
+| ATC_suffix = AA08
+| PubChem = 30843
+| IUPHAR_ligand = 354
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB08997
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 28615
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 43477QYX3D
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03711
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1908364
+
+<!--Chemical data-->
+| C=23 | H=26 | N=2 | O=2 
+| molecular_weight = 362.465 g/mol
+| smiles = O=C2NC(=O)CCC2(c1ccccc1)C4CCN(Cc3ccccc3)CC4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C23H26N2O2/c26-21-11-14-23(22(27)24-21,19-9-5-2-6-10-19)20-12-15-25(16-13-20)17-18-7-3-1-4-8-18/h1-10,20H,11-17H2,(H,24,26,27)/t23-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = LQQIVYSCPWCSSD-HSZRJFAPSA-N
+}}
+
+'''Dexetimide''' (brand name '''Tremblex''') is a [[piperidine]] [[anticholinergic]]. It is a [[muscarinic acetylcholine receptor|muscarinic]] [[receptor antagonist|antagonist]] that is used to treat [[Parkinsonism|drug induced parkinsonism]]. Dexetimide was discovered at [[Janssen Pharmaceutica]] in 1968.<ref>{{Cite journal 
+| last1 = Dom | first1 = R. 
+| last2 = Van Lommel | first2 = R. 
+| last3 = Baro | first3 = F. 
+| title = A quantitative study of neuroleptic-induced extrapyramidal symptoms and their response to dexetimide, a potent and long-acting antiparkinsonian agent 
+| journal = Acta Psychiatrica Scandinavica 
+| volume = 47 
+| issue = 4 
+| pages = 399–410 
+| year = 1971 
+| pmid = 4947805
+ | doi=10.1111/j.1600-0447.1971.tb03697.x
+}}</ref><ref>{{Cite journal 
+| last1 = Huygens | first1 = H. 
+| last2 = Vereecken | first2 = J. L. 
+| last3 = Tanghe | first3 = A. 
+| title = Dexetimide (R 16470) in the control of neuroleptic-induced extrapyramidal side-effects. Its prophylactic value and duration of action 
+| journal = Psychiatria, neurologia, neurochirurgia 
+| volume = 76 
+| issue = 4 
+| pages = 251–259 
+| year = 1973 
+| pmid = 4581374
+}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{Antiparkinson}}
+{{Muscarinic acetylcholine receptor modulators}}
+
+[[Category:Muscarinic antagonists]]
+[[Category:Piperidines]]
+[[Category:Glutarimides]]
+[[Category:Janssen Pharmaceutica]]
+[[Category:Belgian inventions]]
+
+
+{{nervous-system-drug-stub}}

@@ -1,0 +1,145 @@
+{{Distinguish|Sarin}}
+{{For|the French wine grape|Serine (grape)}}
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464389254
+| Name = Serine
+| ImageFileL1 = L-Serin - L-Serine.svg
+| ImageNameL1 = Skeletal formula
+| ImageFileR1 = Serine at 7.4 pH.png
+| ImageNameR1 = Serine at physiological pH
+| IUPACName = Serine
+| OtherNames = 2-Amino-3-hydroxypropanoic acid
+|Section1={{Chembox Identifiers
+| InChI = 1/C3H7NO3/c4-2(1-5)3(6)7/h2,5H,1,4H2,(H,6,7)
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 11298
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C3H7NO3/c4-2(1-5)3(6)7/h2,5H,1,4H2,(H,6,7)/t2-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = MTCFGRXMJLQNBG-REOHCLBHSA-N
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo = 56-45-1
+| CASNo_Comment = (L-)
+| CASNo1_Ref = {{cascite|correct|CAS}}
+| CASNo1 = 302-84-1
+| CASNo1_Comment = (DL-)
+| CASNo2_Ref = {{cascite|correct|CAS}}
+| CASNo2 = 312-84-5
+| CASNo2_Comment = (D-)
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 452VLY9402
+| UNII_Comment = (L-)
+| UNII1_Ref = {{fdacite|changed|FDA}}
+| UNII1 = 00PAR1C66F
+| UNII1_Comment = (DL-)
+| UNII2_Ref = {{fdacite|changed|FDA}}
+| UNII2 = 1K77H2Z9B1
+| UNII2_Comment = (D-)
+| EC_number = 206-130-6
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5736
+| ChemSpiderID_Comment = (L-form)
+| ChemSpiderID1_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID1 = 597
+| PubChem = 617
+| IUPHAR_ligand = 726
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00133
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 17115
+| SMILES = C([C@@H](C(=O)O)N)O
+}}
+|Section2={{Chembox Properties
+| Properties_ref = <ref>{{cite book | editor-last = Weast | editor-first = Robert C. | name-list-format = vanc | title = CRC Handbook of Chemistry and Physics | edition = 62nd | location = Boca Raton, FL | publisher = CRC Press | date = 1981 | isbn = 0-8493-0462-8 |  page = C-512 }}</ref>
+| C=3 | H=7 | N=1 | O=3
+| Appearance = white crystals or powder
+| Density = 1.603 g/cm<sup>3</sup> (22&nbsp;°C)
+| MeltingPtC = 246
+| MeltingPt_notes = decomposes
+| Solubility = soluble
+| pKa=2.21 (carboxyl), 9.15 (amino)<ref>Dawson, R.M.C., et al., ''Data for Biochemical Research'', Oxford, Clarendon Press, 1959.</ref>
+  }}
+}}
+'''Serine''' (abbreviated as '''Ser''' or '''S''')<ref>{{IUPAC-IUB amino acids 1983}}.</ref> encoded by the [[codons]] UCU, UCC, UCA, UCG, AGU and AGC is an ɑ-amino acid that is used in the biosynthesis of proteins. It contains an α-[[amino group]] (which is in the [[protonated]] −{{chem|N|H|3|+}} form under biological conditions), a [[carboxyl group]] (which is in the [[deprotonated]] –{{chem|C|O|O|-}} form in physiological conditions), and a side chain consisting of a hydroxymethyl group (see [[hydroxyl]]), classifying it as a [[Chemical polarity|polar]] amino acid. It can be synthesized in the human body under normal physiological circumstances, making it a nonessential amino acid.
+
+== Occurrence ==
+[[File:Betain-Serin.png|thumb|left|250px|(''S'')-Serine (left) and (''R'')-serine (right) in zwitterionic form at neutral pH]]
+This compound is one of the naturally occurring [[proteinogenic amino acid]]s. Only the <small>L</small>-[[stereoisomer]] appears naturally in proteins. It is [[non-essential amino acid|not essential]] to the human diet, since it is synthesized in the body from other [[metabolites]], including [[glycine]]. Serine was first obtained from [[silk]] protein, a particularly rich source, in 1865 by Emil Cramer<ref>{{cite web|title=Ueber die Bestandtheile der Seide|url=http://reader.digitale-sammlungen.de/de/fs1/object/display/bsb10072519_00012.html|work=Journal für praktische Chemie 96}}</ref>.  Its name is derived from the [[Latin]] for silk, ''sericum''.  Serine's structure was established in 1902.<ref>{{cite web|title=Serine|url=http://www.encyclopedia.com/topic/serine.aspx|work=The Columbia Encyclopedia 6th ed.|publisher=encyclopedia.com|accessdate=22 October 2012}}</ref>
+
+== Biosynthesis ==
+The biosynthesis of serine starts with the [[oxidation]] of [[3-phosphoglycerate]] (an intermediate from [[glycolysis]]) to [[3-phosphohydroxypyruvate]] and [[NADH]] by [[phosphoglycerate dehydrogenase]] ({{EC number|1.1.1.95}}). [[Reductive amination]] (transamination) of this ketone by [[phosphoserine transaminase]] ({{EC number|2.6.1.52}}) yields [[3-phosphoserine]] (''O''-phosphoserine) which is hydrolyzed to  serine by [[phosphoserine phosphatase]] ({{EC number|3.1.3.3}}).<ref name=Stryer1988>{{cite book | last1 = Stryer | first1 = Lubert | name-list-format = vanc | title = Biochemistry | date = 1988 | publisher = W.H. Freeman | location = New York | isbn = 978-0-7167-1843-7 | edition = 3rd | page = 580 }}</ref><ref>KEGG [http://www.genome.jp/dbget-bin/www_bget?ec:3.1.3.3 EC 3.1.3.3] etc.</ref>
+
+In bacteria such as [[Escherichia coli|''E. coli'']] these enzymes are encoded by the genes serA (EC 1.1.1.95), serC (EC 2.6.1.52), and serB (EC 3.1.3.3).<ref>Uniprot: [http://www.uniprot.org/uniprot/P0AGB0 serB]</ref>
+
+[[File:Serine biosynthesis.png|thumb|400 px|left|Serine biosynthesis]]
+
+'''Glycine biosynthesis''': [[Serine hydroxymethyltransferase]] (SHMT = serine transhydroxymethylase) also catalyzes the reversible conversions of <small>L</small>-serine to [[glycine]] (retro-aldol cleavage) and [[5,6,7,8-tetrahydrofolate]] to [[5,10-methylenetetrahydrofolate]] (mTHF) (hydrolysis).<ref>{{cite book | first1 = Albert L. | last1 = Lehninger | first2 = David L. | last2 = Nelson | first3 = Michael M. | last3 = Cox | name-list-format = vanc | title = Principles of Biochemistry | edition = 3rd | publisher = W.&nbsp;H. Freeman | location = New York | year = 2000 | isbn = 1-57259-153-6 }}</ref> SHMT is a [[pyridoxal phosphate]] (PLP) dependent enzyme. Glycine can also be formed from CO<sub>2,</sub> NH<sub>4</sub><sup>+</sup>, and mTHF in a reaction catalyzed by [[Glycine cleavage system|glycine synthase]].<ref name="Stryer1988"/>
+
+==Synthesis and industrial production==
+Industrially, L-serine is produced by fermentation, with an estimated 100-1000 tonnes per year produced.<ref name = Ullmann>{{cite book | title = [[Ullmann's Encyclopedia of Industrial Chemistry]] | year = 2005 
+  | publisher = Wiley-VCH | location = Weinheim | doi = 10.1002/14356007.a02_057.pub2 | first1 = Karlheinz | last1 = Drauz | first2 = Ian | last2 = Grayson | first3 = Axel | last3 = Kleemann | first4 = Hans-Peter | last4 = Krimmer | first5 = Wolfgang | last5 = Leuchtenberger | first6 = Christoph | last6 = Weckbecker | name-list-format = vanc | chapter = Amino Acids }}</ref> In the laboratory, racemic serine can be prepared from [[methyl acrylate]] via several steps:<ref>{{cite journal | journal =  [[Organic Syntheses|Org. Synth.]] | last1 = Carter | first1 = Herbert E. | authorlink1 = H. E. Carter | last2 = West | first2 = Harold D. | authorlink2 = Harold Dadford West | name-list-format = vanc | title = ''dl''-Serine | url = http://www.orgsyn.org/demo.aspx?prep=cv3p0774 | volume = 20 | pages = 81 | year = 1940 | doi=10.15227/orgsyn.020.0081}}</ref>
+:[[File:Synthesis of dl-serine.png|450px]]
+
+== Biological function ==
+
+=== Metabolic ===
+
+[[File:Cysteine biosynthesis.svg|thumb|150px|Cysteine synthesis from serine. [[Cystathionine beta synthase]] catalyzes the upper reaction and [[cystathionine gamma-lyase]] catalyzes the lower reaction.]]
+
+Serine is important in [[metabolism]] in that it participates in the [[biosynthesis]] of [[purines]] and [[pyrimidines]]. It is the precursor to several amino acids including [[glycine]] and [[cysteine]], as well as [[tryptophan]] in bacteria. It is also the precursor to numerous other metabolites, including [[sphingolipid]]s and [[folate]], which is the principal donor of one-carbon fragments in biosynthesis.
+
+=== Structural role ===
+
+Serine plays an important role in the catalytic function of many [[enzyme]]s. It has been shown to occur in the active sites of [[chymotrypsin]], [[trypsin]], and many other enzymes. The so-called [[nerve gas]]es and many substances used in [[insecticide]]s have been shown to act by combining with a residue of serine in the active site of [[acetylcholine esterase]], inhibiting the enzyme completely. <!-- moved to [[Cholinesterase]] : The enzyme acetylcholine esterase breaks down the neurotransmitter acetylcholine, which is released at nerve and muscle junctions in order to allow the muscle or organ to relax. The result of acetylcholine inhibition is that acetylcholine builds up and continues to act so that any nerve impulses are continually transmitted and muscle contractions do not stop. -->
+
+Serine sidechains are often hydrogen bonded; the commonest small motifs formed are [[ST turn]]s, [[ST motif]]s (often at the beginning of alpha helices) and [[ST staple]]s (usually at the middle of alpha helices).
+
+As a constituent (residue) of proteins, its [[side chain]] can undergo ''O''-linked [[glycosylation]], which may be functionally related to{{Clarify|date=February 2011}} [[diabetes]].
+
+It is one of three amino acid residues that are commonly [[phosphorylation|phosphorylated]] by [[kinases]] during [[signal transduction|cell signaling]] in [[eukaryote]]s.  Phosphorylated serine residues are often referred to as [[phosphoserine]].
+
+[[Serine protease]]s are a common type of protease.
+
+=== Signaling ===
+
+<small>D</small>-Serine, synthesized in neurons by [[serine racemase]] from <small>L</small>-serine (its [[enantiomer]]), serves as a neuromodulator by coactivating [[NMDA receptor]]s, making them able to open if they then also bind [[glutamate]]. <small>D</small>-serine is a potent [[agonist]] at the [[glycine]] site (NR1) of the [[NMDA receptor|NMDA-type glutamate receptor]] (NMDAR). For the receptor to open, glutamate and either glycine or <small>D</small>-serine must bind to it; in addition a pore blocker must not be bound (e.g. Mg2+ or Pb2+).<ref>{{cite journal |vauthors=Liu Y, Hill RH, Arhem P, von Euler G |title=NMDA and glycine regulate the affinity of the Mg2+-block site in NR1-1a/NR2A NMDA receptor channels expressed in Xenopus oocytes |journal=Life Sciences |volume=68 |issue=16 |pages=1817–26 |year=2001 |pmid=11292060 |doi=10.1016/S0024-3205(01)00975-4 }}</ref> In fact, <small>D</small>-serine is a more potent agonist at the glycine site on the NMDAR than glycine itself.
+
+<small>D</small>-serine was thought to exist only in bacteria until relatively recently; it was the second <small>D</small> amino acid discovered to naturally exist in humans, present as a signaling molecule in the brain, soon after the discovery of [[aspartate|<small>D</small>-aspartate]]. Had <small>D</small> amino acids been discovered in humans sooner, the glycine site on the NMDA receptor might instead be named the <small>D</small>-serine site.<ref>{{cite journal | vauthors = Mothet JP, Parent AT, Wolosker H, Brady RO, Linden DJ, Ferris CD, Rogawski MA, Snyder SH | title = D-serine is an endogenous ligand for the glycine site of the N-methyl-D-aspartate receptor | journal = Proceedings of the National Academy of Sciences of the United States of America | volume = 97 | issue = 9 | pages = 4926–31 | date = Apr 2000 | pmid = 10781100 | pmc = 18334 | doi = 10.1073/pnas.97.9.4926 | bibcode = 2000PNAS...97.4926M }}</ref> Apart from central nervous system, <small>D</small>-serine plays a signaling role in peripheral tissues and organs such as cartilage,<ref>{{cite journal | vauthors = Takarada T, Hinoi E, Takahata Y, Yoneda Y | title = Serine racemase suppresses chondrogenic differentiation in cartilage in a Sox9-dependent manner | journal = Journal of Cellular Physiology | volume = 215 | issue = 2 | pages = 320–8 | date = May 2008 | pmid = 17929246 | doi = 10.1002/jcp.21310 }}</ref> kidney<ref>{{cite journal | vauthors = Ma MC, Huang HS, Chen YS, Lee SH | title = Mechanosensitive N-methyl-D-aspartate receptors contribute to sensory activation in the rat renal pelvis | journal = Hypertension | volume = 52 | issue = 5 | pages = 938–44 | date = Nov 2008 | pmid = 18809793 | doi = 10.1161/HYPERTENSIONAHA.108.114116 }}</ref> and corpus cavernosum.<ref>{{cite journal | vauthors = Ghasemi M, Rezania F, Lewin J, Moore KP, Mani AR | title = d-Serine modulates neurogenic relaxation in rat corpus cavernosum | journal = Biochemical Pharmacology | volume = 79 | issue = 12 | pages = 1791–6 | date = Jun 2010 | pmid = 20170643 | doi = 10.1016/j.bcp.2010.02.007 }}</ref>
+
+=== Gustatory sensation ===
+
+<small>L</small>-Serine is sweet with minor [[umami]] and sour tastes at high concentration.
+
+Pure <small>D</small>-serine is an off-white crystalline powder with a very faint musty aroma.  <small>D</small>-Serine is sweet with an additional minor sour taste at medium and high concentrations.<ref name="AAs">{{cite journal | vauthors = Kawai M, Sekine-Hayakawa Y, Okiyama A, Ninomiya Y | title = Gustatory sensation of (L)- and (D)-amino acids in humans | journal = Amino Acids | volume = 43 | issue = 6 | pages = 2349–58 | date = Dec 2012 | pmid = 22588481 | doi = 10.1007/s00726-012-1315-x }}</ref>
+
+== Clinical significance ==
+Serine deficiency disorders are rare defects in the biosynthesis of the amino acid <small>L</small>-serine. At present three disorders have been reported: 3-phosphoglycerate dehydrogenase deficiency, 3-phosphoserine phosphatase deficiency and Phosphoserine aminotransferase deficiency. These enzyme defects lead to severe neurological symptoms such as congenital microcephaly and severe psychomotor retardation and in addition in patients with 3-phosphoglycerate dehydrogenase deficiency to intractable seizures. These symptoms respond to a variable degree to treatment with <small>L</small>-serine, sometimes combined with glycine.<ref>{{Cite journal| author = de Koning TJ| title = Treatment with amino acids in serine deficiency disorders | journal= [[Journal of Inherited Metabolic Disease]]| volume = 29| issue = 2|  pages = 347–351|date=April 2006|pmid = 16763900| doi=10.1007/s10545-006-0269-0}}</ref><ref>{{Cite journal|author1=Tabatabaie L |author2=Klomp LW |author3=Berger R |author4=de Koning TJ | title = L-serine synthesis in the central nervous system: a review on serine deficiency disorders| journal = [[Mol Genet Metab]]| volume = 99| issue = 3|  pages = 256–262|date=March 2010| doi= 10.1016/j.ymgme.2009.10.012| pmid = 19963421}}</ref>
+Response to treatment is variable and the long-term and functional outcome is unknown. To provide a basis for improving the understanding of the epidemiology, genotype/phenotype correlation and outcome of these diseases their impact on the quality of life of patients, as well as for evaluating diagnostic and therapeutic strategies a patient registry was established by the noncommercial International Working Group on Neurotransmitter Related Disorders (iNTD).<ref>{{cite web|title=Patient registry|url=http://intd-online.org/}}</ref>
+
+=== Research for therapeutic use ===
+
+<small>D</small>-Serine is being studied in rodents as a potential treatment for schizophrenia and <small>L</small>-serine is in a FDA-approved human clinical trial as a possible treatment for Amyotrophic Lateral Sclerosis [[ALS]] (ClinicalTrials.gov identifier: NCT01835782).<ref>{{cite journal | vauthors = Balu DT, Li Y, Puhl MD, Benneyworth MA, Basu AC, Takagi S, Bolshakov VY, Coyle JT | title = Multiple risk pathways for schizophrenia converge in serine racemase knockout mice, a mouse model of NMDA receptor hypofunction | journal = Proceedings of the National Academy of Sciences of the United States of America | volume = 110 | issue = 26 | pages = E2400-9 | date = Jun 2013 | pmid = 23729812 | doi = 10.1073/pnas.1304308110 | pmc=3696825}}</ref><ref>{{cite journal | vauthors = Dunlop RA, Cox PA, Banack SA, Rodgers KJ | title = The non-protein amino acid BMAA is misincorporated into human proteins in place of L-serine causing protein misfolding and aggregation | journal = PLOS ONE | volume = 8 | issue = 9 | pages = e75376 | pmid = 24086518 | pmc = 3783393 | doi = 10.1371/journal.pone.0075376 }}</ref> A 2011 meta-analysis found adjunctive [[sarcosine]] to have a medium effect size for negative and total symptoms.<ref>{{cite journal | vauthors = Singh SP, Singh V | title = Meta-analysis of the efficacy of adjunctive NMDA receptor modulators in chronic schizophrenia | journal = CNS Drugs | volume = 25 | issue = 10 | pages = 859–85 | date = Oct 2011 | pmid = 21936588 | doi = 10.2165/11586650-000000000-00000 }}</ref> <small>D</small>-Serine has  also been described as a potential biomarker for early [[Alzheimer's disease]] (AD) diagnosis, due to a relatively high concentration of it in the [[cerebrospinal fluid]] of probable AD patients.<ref>{{cite journal | vauthors = Madeira C, Lourenco MV, Vargas-Lopes C, Suemoto CK, Brandão CO, Reis T, Leite RE, Laks J, Jacob-Filho W, Pasqualucci CA, Grinberg LT, Ferreira ST, Panizzutti R | title = d-serine levels in Alzheimer's disease: implications for novel biomarker development | journal = Translational Psychiatry | volume = 5 | issue = 5 | pages = e561 | date = May 5, 2015 | pmid = 25942042 | doi = 10.1038/tp.2015.52 | pmc=4471283}}</ref>
+
+== See also ==
+* [[Isoserine]]
+* [[Serine octamer cluster]]
+
+== References ==
+{{reflist|33em}}
+
+== External links ==
+* [http://gmd.mpimp-golm.mpg.de/Spectrums/5aef15ff-bca8-4625-9dc1-a1c891cf43a7.aspx Serine MS Spectrum]
+
+{{Amino acids}}
+{{Amino acid metabolism intermediates}}
+{{Neurotransmitters}}
+{{Ionotropic glutamate receptor modulators}}
+{{Glycine receptor modulators}}
+{{Lysophospholipid signaling}}
+
+[[Category:Proteinogenic amino acids]]
+[[Category:Glucogenic amino acids]]
+[[Category:NMDA receptor agonists]]
+[[Category:Glycine receptor agonists]]

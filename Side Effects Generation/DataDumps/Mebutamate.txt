@@ -1,0 +1,95 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 457633911
+| IUPAC_name = 2-''sec''-Butyl-2-methylpropane-1,3-diyl dicarbamate
+| image =  Mebutamate.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = Schedule IV
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 64-55-1
+| ATC_prefix = N05
+| ATC_suffix = BC04
+| PubChem = 6151
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 5H8F175RER
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01807
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1200922
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 5919
+
+<!--Chemical data-->
+| C=10 | H=20 | N=2 | O=4 
+| molecular_weight = 232.277 g/mol
+| smiles            = CCC(C)C(C)(COC(=O)N)COC(=O)N
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C10H20N2O4/c1-4-7(2)10(3,5-15-8(11)13)6-16-9(12)14/h7H,4-6H2,1-3H3,(H2,11,13)(H2,12,14)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = LEROTMJVBFSIMP-UHFFFAOYSA-N
+}}
+
+'''Mebutamate''' ('''Capla''', '''Dormate''') is an [[anxiolytic]] and [[sedative]] [[drug]] with [[antihypertensive]] effects of the carbamate class.<ref name="TaylorFrancis2000">{{cite book | title = Index Nominum 2000: International Drug Directory | url = https://books.google.com/books?id=5GpcTQD_L2oC&pg=PA634 | date = January 2000 | publisher = Taylor & Francis | isbn = 978-3-88763-075-1 | page = 634}}</ref><ref>{{ cite book | title = The Merck Index | edition = 14 | publisher = Merck Publishers | isbn = 978-0-911910-00-1 | at = 5813 }}</ref> It has effects comparable to those of [[barbiturate]]s such as [[secobarbital]], but is only around 1/3 the potency of secobarbital as a sedative. Side effects include [[dizziness]] and [[headaches]].<ref>{{Cite journal 
+| last1 = Tetreault | first1 = L. 
+| last2 = Richer | first2 = P. 
+| last3 = Bordeleau | first3 = J. M. 
+| title = Hypnotic properties of mebutamate: A comparative study of mebutamate, secobarbital and placebo in psychiatric patients 
+| journal = Canadian Medical Association journal 
+| volume = 97 
+| issue = 8 
+| pages = 395–398 
+| year = 1967 
+| pmid = 6037393 
+| pmc = 1923261
+}}</ref>
+
+Mebutamate is one of many [[Gabaergic|GABAergic]] drugs which act via [[allosteric]] agonism of the [[GABAA receptor|GABA<sub>A</sub> receptor]] at the β-subreceptor similar to barbiturates. In contrast, [[benzodiazepines]] act at the α-subreceptor. As such, carbamates and barbiturates, possess analgesic properties which the benzodiazepine class of drugs do not.
+
+Other carbamates with the same mechanism of action and pharmacological properties include [[meprobamate]], [[carisoprodol]], [[felbamate]], and [[tybamate]]).
+
+==Synthesis==
+[[File:Mebutamate synthesis.svg|thumb|center|700px|Mebutamate synthesis: Berger, Ludwig, {{US patent|2878280}} (1959 to [[Carter-Wallace|Carter Prod]].).]]
+
+==[[Structural analog]]s==
+*[[Lorbamate]]
+*[[Carisoprodol]]
+*[[Pentabamate]]
+*Mebutamate
+*[[Meprobamate]]
+*[[Felbamate]]
+*[[Tybamate]]
+
+== References ==
+{{Reflist}}
+
+{{Anxiolytics}}
+{{GABAAR PAMs}}
+
+[[Category:Anxiolytics]]
+[[Category:Carbamates]]
+[[Category:GABAA receptor positive allosteric modulators]]
+
+
+{{nervous-system-drug-stub}}

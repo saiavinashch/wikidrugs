@@ -1,0 +1,99 @@
+{{Drugbox
+| IUPAC_name = 4-[2-(4-Carbamimidoylphenyl)iminohydrazinyl]benzenecarboximidamide
+| image = Diminazene.svg
+| width = 260
+| image2 = Diminazen 3D ball.png
+| alt2 = Ball-and-stick model of diminazen
+<!--Clinical data-->
+| tradename = Azidin, Berenil, Ganasag, Pirocide
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = Veterinary
+| routes_of_administration = [[intramuscular injection|IM]], [[subcutaneous injection|SC]]
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| index_label = 
+| index2_label =[[aceturate]]
+| CAS_number = 536-71-0
+| CAS_number2 = 908-54-3
+| ATCvet = yes
+| ATC_prefix = P51
+| ATC_suffix = AF01
+| ATC_supplemental =  {{ATCvet|P51|AX07}}
+| PubChem = 2354
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = Y5G36EEA5Z
+| UNII2 = JI8SAD85NO
+| DrugBank =  
+| ChemSpiderID = 2264
+| ChEBI_Ref = {{ebicite|correct|EBI}} 
+| ChEBI = 81724
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 124025
+| synonyms = 4,4'-(1-Triazene-1,3-diyl)bis(benzenecarboximidamide)
+<!--Chemical data-->
+| C=14 | H=15 | N=7
+| molecular_weight = 281.316 g/mol
+| smiles = C1=CC(=CC=C1C(=N)N)N/N=N/C2=CC=C(C=C2)C(=N)N
+| StdInChI=1S/C14H15N7/c15-13(16)9-1-5-11(6-2-9)19-21-20-12-7-3-10(4-8-12)14(17)18/h1-8H,(H3,15,16)(H3,17,18)(H,19,20)
+| StdInChIKey = XNYZHCFCZNMTFY-UHFFFAOYSA-N
+}}
+
+'''Diminazene''' ([[International nonproprietary name|INN]]; also known as '''diminazen''') is an anti-infective [[medication]] for animals that is sold under a variety of brand names (see drugbox). It is effective against certain [[protozoa]] such as ''[[Babesia]]'', ''[[Trypanosoma]]'' and ''[[Cytauxzoon]]''. The drug may also be effective against certain [[bacteria]] including ''[[Brucella]]'' and ''[[Streptococcus]]''.<ref name="Peregrine">{{Cite journal 
+| doi = 10.1016/0001-706X(93)90092-P 
+| last1 = Peregrine | first1 = A. S. 
+| last2 = Mamman | first2 = M. 
+| title = Pharmacology of diminazene: A review 
+| journal = Acta tropica 
+| volume = 54 
+| issue = 3–4 
+| pages = 185–203 
+| year = 1993 
+| pmid = 7902657
+}}</ref><ref>{{Cite journal 
+| last1 = Mungube | first1 = E. O. 
+| last2 = Vitouley | first2 = H. S. 
+| last3 = Allegye-Cudjoe | first3 = E. 
+| last4 = Diall | first4 = O. 
+| last5 = Boucoum | first5 = Z. 
+| last6 = Diarra | first6 = B. 
+| last7 = Sanogo | first7 = Y. 
+| last8 = Randolph | first8 = T. 
+| last9 = Bauer | first9 = B. 
+| last10 = Zessin | first10 = K. H. 
+| last11 = Clausen | first11 = P. H. 
+| title = Detection of multiple drug-resistant Trypanosoma congolense populations in village cattle of south-east Mali 
+| doi = 10.1186/1756-3305-5-155 
+| journal = Parasites & Vectors 
+| volume = 5 
+| pages = 155 
+| year = 2012 
+| pmid = 22852796 
+| pmc =3432589 
+}}</ref>
+
+Chemically it is a di-[[amidine]], and it is used in form of the [[aceturate]] (''N''-acetylglycinate).
+
+The mechanism is not well understood; it probably inhibits [[DNA replication]],<ref name="Peregrine" /> but also has affinity to [[RNA]].
+
+==Side effects==
+Acute side effects include vomiting, diarrhoea and [[hypotension]] (low blood pressure). Diminazen can harm the liver, kidneys and brain, which is potentially life-threatening; especially camels are susceptible to these effects.<ref name="Peregrine" />
+
+==References==
+{{reflist}}
+
+[[Category:Amidines]]
+[[Category:Antiprotozoal agents]]
+
+
+{{antiinfective-drug-stub}}

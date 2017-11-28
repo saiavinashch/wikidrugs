@@ -1,0 +1,122 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 460793850
+| IUPAC_name = 2,2',2<nowiki>''</nowiki>,2<nowiki>'''</nowiki>-(4,8-di(piperidin-1-yl)pyrimido[5,4-''d'']pyrimidine-2,6-diyl)bis(azanetriyl)tetraethanol
+| image = Dipyridamole.svg
+| width = 225
+
+<!--Clinical data-->
+| tradename = Persantine, others
+| Drugs.com = {{drugs.com|monograph|dipyridamole}}
+| MedlinePlus = a682830
+| pregnancy_category = B
+| legal_UK = POM
+| legal_US = Rx-only  
+| routes_of_administration = [[Oral administration|By mouth]], [[Intravenous therapy|IV]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 37–66%<ref>{{cite journal | last1 = Nielsen-Kudsk | first1 = F | last2 = Pedersen | first2 = AK | title = Pharmacokinetics of Dipyridamole | journal = Acta Pharmacologica et Toxicologica | date = May 1979 | volume = 44 | issue = 5 | pages = 391–9 | pmid = 474151 | accessdate = 1 December 2016}}</ref>
+| protein_bound = ~99%
+| metabolism = [[Liver]] ([[glucuronidation]])<ref name="Aggrenox PI">{{cite web | title = Aggrenox (aspirin/extended-release dipyridamole) Capsules. Full Prescribing Information | url = http://docs.boehringer-ingelheim.com/Prescribing%20Information/PIs/Aggrenox%20Caps/Aggrenox.pdf | publisher = Boehringer Ingelheim Pharmaceuticals, Inc. | accessdate = 1 December 2016}}</ref>
+| elimination_half-life = α phase: 40 min,<br />β phase: 10 hours
+| excretion = [[Bile|Biliary]] (95%), [[urine]] (negligible)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 4807
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 58-32-2
+| ATC_prefix = B01
+| ATC_suffix = AC07
+| PubChem = 3108
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00975
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2997
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 64ALC7F90C
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00302
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 4653
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 932
+
+<!--Chemical data-->
+| C=24 | H=40 | N=8 | O=4
+| molecular_weight = 504.626 g/mol
+| SMILES = OCCN(CCO)C(N=C1N2CCCCC2)=NC3=C1N=C(N(CCO)CCO)N=C3N4CCCCC4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C24H40N8O4/c33-15-11-31(12-16-34)23-26-20-19(21(27-23)29-7-3-1-4-8-29)25-24(32(13-17-35)14-18-36)28-22(20)30-9-5-2-6-10-30/h33-36H,1-18H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IZEKFCXSFNUWAM-UHFFFAOYSA-N
+}}
+
+'''Dipyridamole''' (trademarked as '''Persantine''' and others) is a [[medication]] that inhibits [[thrombus|blood clot]] formation<ref>{{DorlandsDict|three/000030395|Dipyridamole}}</ref> when given chronically and causes [[vasodilation|blood vessel dilation]] when given at high doses over a short time.
+
+==Mechanism and effects==
+* Dipyridamole inhibits the [[phosphodiesterase]] enzymes that normally break down [[Cyclic adenosine monophosphate|cAMP]] (increasing cellular cAMP levels and blocking the [[platelet aggregation]] response<ref name=Brown2015>{{cite journal|vauthors=Brown DG, Wilkerson EC, Love WE | title=A review of traditional and novel oral anticoagulant and antiplatelet therapy for dermatologists and dermatologic surgeons|journal=Journal of the American Academy of Dermatology|volume=72|issue=3|pages=524–34|date=March 2015|pmid=25486915|doi= 10.1016/j.jaad.2014.10.027}}</ref>  to [[Adenosine diphosphate|ADP]]) and/or [[cyclic guanosine monophosphate|cGMP]].
+* It inhibits the cellular reuptake of [[adenosine]] into [[platelets]], [[red blood cell]]s, and [[endothelial cell]]s leading to increased extracellular concentrations of adenosine.
+
+==Medical uses==
+* Dipyridamole is used to dilate blood vessels in people with [[peripheral arterial disease]] and [[coronary artery disease]]<ref name=Brown2015/>
+* Dipyridamole has been shown to lower [[pulmonary hypertension]] without significant drop of systemic [[blood pressure]]
+* It inhibits formation of pro-inflammatory cytokines ([[MCP-1]], [[MMP-9]]) in vitro and results in reduction of hsCRP in patients.
+* It inhibits proliferation of smooth muscle cells in vivo and modestly increases unassisted patency of synthetic arteriovenous hemodialysis grafts.<ref>{{cite journal |vauthors=Dixon BS, Beck GJ, Vazquez MA | year = 2009 | title = Effect of dipyridamole plus aspirin on hemodialysis graft patency | url = | journal = N Engl J Med | volume = 360 | issue = 21| pages = 2191–2201 | doi=10.1056/nejmoa0805840|display-authors=etal}}</ref>
+* It increases the release of [[Tissue plasminogen activator|t-PA]] from brain microvascular endothelial cells
+* It results in an increase of [[13-HODE]] and decrease of [[12-Hydroxyeicosatetraenoic acid|12-HETE]] in the subendothelial matrix (SEM) and reduced thrombogenicity of the SEM.
+* Pretreatment it reduced reperfusion injury in volunteers.
+* It has been shown to increase myocardial perfusion and left ventricular function in patients with ischemic cardiomyopathy.
+* It results in a reduction of the number of [[Thrombin receptor|thrombin]] and [[CD31|PECAM-1]] receptors on platelets in stroke patients.
+* [[Cyclic adenosine monophosphate|cAMP]] impairs platelet aggregation and also causes [[arteriole|arteriolar]] [[smooth muscle]] relaxation. Chronic therapy did not show significant drop of systemic blood pressure.
+* It inhibits the replication of [[mengovirus]] RNA.<ref>Dipyridamole in the laboratory: {{cite web  | last = Fata-Hartley   | first = Cori L.   |author2=Ann C. Palmenberg   | title = Dipyridamole reversibly inhibits mengovirus RNA replication
+| url=http://jvi.asm.org/cgi/content/full/79/17/11062?view=long&pmid=16103157  | accessdate=2007-02-13  | doi=10.1128/JVI.79.17.11062-11070.2005 }}</ref>
+* It can be used for myocardial stress testing as an alternative to exercise-induced stress methods such as treadmills.
+
+===Use in individuals with a history of stroke===
+A combination of dipyridamole and [[aspirin]] ([[acetylsalicylic acid/dipyridamole]]) is [[Food and Drug Administration|FDA]]-approved for the secondary prevention of [[stroke]] and has a bleeding risk equal to that of aspirin use alone.<ref name=Brown2015/> Dipyridamole absorption is [[pH]]-dependent and concomitant treatment with gastric acid suppressors (such as a [[proton pump inhibitor]]) will inhibit the absorption of liquid and plain tablets.<ref>Russell TL, Berardi RR, Barnett JL, O’Sullivan TL, Wagner JG, Dressman JB. pH-related changes in the absorption of "dipyridamole"  in the elderly. Pharm Res (1994) 11 136–43.</ref><ref>Derendorf H, VanderMaelen CP, Brickl R-S, MacGregor TR, Eisert W. "Dipyridamole" bioavailability in subjects with reduced gastric acidity. J Clin Pharmacol (2005) 45, 845–50.</ref> Modified release preparations are buffered and absorption is not affected.<ref>http://emc.medicines.org.uk/medicine/304/SPC/Persantin+Retard+200mg/#EXCIPIENTS</ref><ref>{{Cite book|last=Stockley |first=Ivan |year=2009 |title='''Stockley’s Drug Interactions''' |publisher = The Pharmaceutical Press|isbn=0-85369-424-9}}</ref>
+
+However, it is not licensed as monotherapy for stroke prophylaxis, although a [[Cochrane Review]] suggested that dipyridamole may reduce the risk of further vascular events in patients presenting after cerebral [[ischemia]].<ref name="Dipyridamole for preventing stroke and other vascular events in patients with vascular disease">{{cite journal |vauthors=De Schryver EL, Algra A, van Gijn J |editor1-last=Algra |editor1-first=Ale |title=Dipyridamole for preventing stroke and other vascular events in patients with vascular disease. |journal=Cochrane Database of Systematic Reviews |issue=2 |year=2007 |pages=CD001820 |doi=10.1002/14651858.CD001820.pub3 |url=http://www.cochrane.org/reviews/en/ab001820.html |pmid=17636684}}</ref>
+
+A triple therapy of [[aspirin]], [[clopidogrel]], and dipyridamole has been investigated, but this combination led to an increase in adverse bleeding events.<ref name="pmid18682741">{{cite journal  |vauthors=Sprigg N, Gray LJ, England T |display-authors=etal |editor1-last=Berger |editor1-first=Jeffrey S. |title=A randomised controlled trial of triple antiplatelet therapy (aspirin, clopidogrel and dipyridamole) in the secondary prevention of stroke: safety, tolerability and feasibility |journal=PLoS ONE |volume=3 |issue=8 |pages=e2852 |year=2008 |pmid=18682741 |pmc=2481397 |doi=10.1371/journal.pone.0002852 |url=http://www.plosone.org/article/info:doi/10.1371/journal.pone.0002852}}</ref>
+
+* Vasodilation occurs in healthy arteries, whereas [[stenosis|stenosed]] arteries remain narrowed.  This creates a "steal" phenomenon where the coronary blood supply will increase to the dilated healthy vessels compared to the stenosed arteries which can then be detected by clinical symptoms of chest pain, [[electrocardiogram]] and [[echocardiography]] when it causes ischemia.
+* Flow heterogeneity (a necessary precursor to ischemia) can be detected with [[gamma camera]]s and [[SPECT]] using nuclear imaging agents such as [[Thallium]]-201, [[Technetium-99m|Tc99m]]-[[Tetrofosmin]] and [[Technetium-99m|Tc99m]]-[[Sestamibi]]. However, relative differences in perfusion do not necessarily imply any absolute decrease in blood supply in the tissue supplied by a stenosed artery.
+
+===Other uses===
+Dipyridamole also has non-medicinal uses in a laboratory context, such as the inhibition of [[cardiovirus]] growth in [[cell culture]].
+
+==Overdose==
+{{Infobox medical condition
+| Name = Dipyridamole overdose
+| Image =
+| Caption =
+| DiseasesDB = 3840
+| ICD10 = {{ICD10|T|46|3|t|36}}
+| ICD9 = {{ICD9|972.4}}
+| ICDO =
+| OMIM =
+| MedlinePlus =
+| eMedicineSubj =
+| eMedicineTopic =
+| MeshID =
+}}
+Dipyridamole [[overdose]] can be treated with [[aminophylline]]<ref name="Aggrenox PI" />{{rp|6}} which reverses its [[hemodynamics|dilating effect on the blood vessels]].  Symptomatic treatment is recommended, possibly including a vasopressor drug. Gastric lavage should be considered. Administration of xanthine derivatives (e.g., aminophylline) may reverse the hemodynamic effects of dipyridamole overdose. Since dipyridamole is highly protein bound, [[hemodialysis|dialysis]] is not likely to be of benefit.
+
+==See also==
+* [[Acetylsalicylic acid/dipyridamole]]
+* [[Cilostazol]]
+
+==References==
+{{reflist|30em}}
+
+{{Antithrombotics}}
+{{Phosphodiesterase inhibitors}}
+{{Purinergics}}
+
+[[Category:Adenosine reuptake inhibitors]]
+[[Category:Amines]]
+[[Category:Antiplatelet drugs]]
+[[Category:Phosphodiesterase inhibitors]]
+[[Category:Piperidines]]
+[[Category:Pyrimidopyrimidines]]
+[[Category:Stroke]]

@@ -1,0 +1,69 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 461113915
+| IUPAC_name = (''RS'')-diethyl (1-<nowiki/>{[(2-chloroethyl)(nitroso)carbamoyl]amino}<br>ethyl)phosphonate
+| image = Fotemustine.svg
+| width = 200
+
+<!--Clinical data-->
+| tradename =  Mustophoran
+| Drugs.com = {{drugs.com|international|fotemustine}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 92118-27-9
+| ATC_prefix = L01
+| ATC_suffix = AD05
+| ATC_supplemental =  
+| PubChem = 104799
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB04106
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 94600
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = GQ7JL9P5I2
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07255
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 549386
+
+<!--Chemical data-->
+| C=9 | H=19 | Cl=1 | N=3 | O=5 | P=1 
+| molecular_weight = 315.691 g/mol
+| smiles = O=P(OCC)(OCC)C(NC(=O)N(N=O)CCCl)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C9H19ClN3O5P/c1-4-17-19(16,18-5-2)8(3)11-9(14)13(12-15)7-6-10/h8H,4-7H2,1-3H3,(H,11,14)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YAKWPXVTIGTRJH-UHFFFAOYSA-N
+}}
+
+'''Fotemustine''' is a [[nitrosourea]] [[alkylating antineoplastic agent|alkylating agent]] approved for use in the treatment of [[metastasis]]ing [[melanoma]].  A study<ref>{{cite journal |vauthors=Avril MF, Aamdal S, Grob JJ, Hauschild A, Mohr P, Bonerandi JJ, Weichenthal M |date=March 2004 |title=Fotemustine Compared With Dacarbazine in Patients With Disseminated Malignant Melanoma: A Phase III Study |volume=22 |issue=6 |pmid=15020614 |doi=10.1200/JCO.2004.04.165 |url=http://jco.ascopubs.org/content/22/6/1118.full |pages=1118–25}}</ref> has shown that fotemustine produces improved response rates and but does not increase survival (over [[dacarbazine]] in the treatment of disseminated cutaneous melanoma. Median survival was 7.3 months with fotemustine versus 5.6 months with DTIC (P=.067). There was also toxicity prevalence in fotemustine arm. The main toxicity was grade 3 to 4 neutropenia (51% with fotemustine v 5% with DTIC) and thrombocytopenia (43% v 6%, respectively).
+
+==External links==
+{{reflist}}
+
+{{Chemotherapeutic agents}}
+
+[[Category:Alkylating antineoplastic agents]]
+[[Category:Nitrosamines]]
+[[Category:Nitrosoureas]]
+[[Category:Organochlorides]]
+[[Category:Phosphonate esters]]
+[[Category:Ureas]]
+
+{{antineoplastic-drug-stub}}

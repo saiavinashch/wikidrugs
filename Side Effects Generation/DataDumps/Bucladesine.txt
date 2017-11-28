@@ -1,0 +1,77 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 443480569
+| IUPAC_name = boring(3a''R'',4''R'',6''R'',6a''R'')-4-(6-butanamido-9''H''-purin-9-yl)-6-[(butanoyloxy)methyl]-2-oxo-tetrahydro-2''H''-1,3,5,2λ<sup>5</sup>-furo[3,4-d][1,3,2]dioxaphosphol-2-olate
+| image = Bucladesine.svg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|bucladesine}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_UK = <!-- GSL         / P       / POM / CD -->
+| legal_US = <!-- OTC                   / Rx-only  -->
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| IUPHAR_ligand = 5485
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 362-74-3
+| ATC_prefix = C01
+| ATC_suffix = CE04
+| PubChem = 28177
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 9306
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 63X7MBT2LQ
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 50095
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 485980
+<!--Chemical data-->
+| C=18 | H=23 | N=5 | Na=1 | O=8 | P=1
+| molecular_weight = 491.368 g/mol
+| smiles = O=C(Nc4ncnc1c4ncn1[C@@H]2O[C@@H]3COP(=O)(O[C@H]3[C@H]2OC(=O)CCC)O)CCC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C18H24N5O8P/c1-3-5-11(24)22-16-13-17(20-8-19-16)23(9-21-13)18-15(30-12(25)6-4-2)14-10(29-18)7-28-32(26,27)31-14/h8-10,14-15,18H,3-7H2,1-2H3,(H,26,27)(H,19,20,22,24)/t10-,14-,15-,18-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = CJGYSWNGNKCJSB-YVLZZHOMSA-N
+| synonyms = • Dibutyryl cyclic adenosine monophosphate<br>• (N6,2'-O-dibutyryl)-adenosine-3',5'-mono-phosphate<br>•  Dibutyryl cAMP<br>• DcAMP<br>• DBcAMP
+}}
+
+'''Bucladesine'''  is a cyclic nucleotide derivative which mimics the action of endogenous [[Cyclic adenosine monophosphate|cAMP]] and is a [[phosphodiesterase inhibitor]].
+
+Bucladesine is a cell permeable cAMP analog. The compound is used in a wide variety of research applications because it mimics cAMP and can induce normal physiological responses when added to cells in experimental conditions. cAMP is only able to elicit minimal responses in these situations.
+
+The [[neurite]] outgrowth instigated by bucladesine in cell cultures has been shown to be enhanced by [[nardosinone]].
+
+==Bucladesine and seizure==
+Recently, the effect of bucladesine as a cAMP analog has been studied on the pentylenetetrazol-induced seizure in the wild-type mice. The data showed that bucladesine (300nM/mouse) reduced the seizure latency and threshold. In addition they found that combination of bucladesine and pentoxyfillin has additive effect on seizure latency and threshold.<ref>{{cite journal |vauthors=Hosseini-Zare MS, Salehi F, Seyedi SY, Azami K, Ghadiri T, Mobasseri M, Gholizadeh S, Beyer C, Sharifzadeh M |title=Effects of pentoxifylline and H-89 on epileptogenic activity of bucladesine in pentylenetetrazol-treated mice |journal=European Journal of Pharmacology |volume=670 |issue=2–3 |pages=464–70 |year=2011 |pmid=21946102 |doi=10.1016/j.ejphar.2011.09.026 }}</ref>
+
+==Bucladesine and morphine withdrawal syndrome==
+Bucladesine (50-100nM/mouse) showed significant attenuation in the morphine withdrawal syndrome in the wild-type mice. In addition, its high dose (200nM/mouse) combination with H-89, as a protein kinase inhibitor, had additive attenuating effect on withdrawal syndromes.<ref>{{cite journal |vauthors=Seyedi SY, Salehi F, Payandemehr B, Hossein S, Hosseini-Zare MS, Nassireslami E, Yazdi BB, Sharifzadeh M |title=Dual effect of cAMP agonist on ameliorative function of PKA inhibitor in morphine-dependent mice |journal=Fundamental & Clinical Pharmacology |volume=28 |issue=4 |pages=445–54 |year=2014 |pmid=24033391 |doi=10.1111/fcp.12045 }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{MeshName|Bucladesine}}
+
+{{Phosphodiesterase inhibitors}}
+{{Cardiac stimulants excluding cardiac glycosides}}
+
+[[Category:Nucleotides]]
+[[Category:Carboxamides]]
+[[Category:PDE3 inhibitors]]
+
+
+{{cardiovascular-drug-stub}}

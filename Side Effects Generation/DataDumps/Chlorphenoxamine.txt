@@ -1,0 +1,93 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 447811372
+| IUPAC_name = {2-[1-(4-chlorophenyl)-1-phenylethoxy]ethyl}dimethylamine
+| image = Chlorphenoxamine.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|chlorphenoxamine}}
+| pregnancy_category =  
+| legal_status =  
+| routes_of_administration = Oral, topical
+
+<!--Pharmacokinetic data-->
+| bioavailability = Well absorbed
+| protein_bound =  
+| metabolism = Likely [[liver|hepatic]]
+| elimination_half-life =  
+| excretion = [[Kidney|Renal]]
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 77-38-3
+| CAS_supplemental = {{CAS|562-09-4}}
+| ATC_prefix = D04
+| ATC_suffix = AA34
+| ATC_supplemental =  {{ATC|R06|AA06}}
+| PubChem = 6475
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB09007
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 6230
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2110774
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 3UVD77BP8R
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07198
+
+<!--Chemical data-->
+| C=18 | H=22 | Cl=1 | N=1 | O=1 
+| molecular_weight = 303.826 g/mol
+| smiles = Clc1ccc(cc1)C(OCCN(C)C)(c2ccccc2)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C18H22ClNO/c1-18(21-14-13-20(2)3,15-7-5-4-6-8-15)16-9-11-17(19)12-10-16/h4-12H,13-14H2,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = KKHPNPMTPORSQE-UHFFFAOYSA-N
+}}
+
+'''Chlorphenoxamine''' ('''Phenoxene''') is an [[antihistamine]] and [[anticholinergic]] used as an [[antipruritic]]<ref>{{Cite journal 
+| last1 = Bazex | first1 = A. 
+| last2 = Dupre | first2 = A. 
+| last3 = Christol | first3 = B. 
+| title = Trial treatment of urticaria with chlorphenoxamine 
+| journal = Clinique (Paris, France) 
+| volume = 58 
+| pages = 447–450 
+| year = 1963 
+| pmid = 13967113
+}}</ref> and [[antiparkinsonian]]<ref>{{Cite journal 
+| doi = 10.1136/bmj.1.5240.1649 
+| last1 = Uldall | first1 = P. R. 
+| last2 = Walton | first2 = J. N. 
+| last3 = Newell | first3 = D. J. 
+| title = Chlorphenoxamine hydrochloride in parkinsonism. A controlled trial 
+| journal = British Medical Journal 
+| volume = 1 
+| issue = 5240 
+| pages = 1649–1652 
+| year = 1961 
+| pmid = 13779077 
+| pmc = 1954253
+}}</ref> agent. It is an analog of [[diphenhydramine]].<ref>H. Arnold, N. Brock, E. Kuhas, and D. Lorenz, Arzneimittel Forsch., 4, 189 (1954).</ref>
+
+== References ==
+{{Reflist}}
+
+{{Antipruritics}}
+{{Antiparkinsonian}}
+{{Antihistamines}}
+{{Cholinergics}}
+{{Histaminergics}}
+
+[[Category:H1 receptor antagonists]]
+[[Category:Chloroarenes]]
+[[Category:Ethers]]
+[[Category:Amines]]
+
+
+{{respiratory-system-drug-stub}}
+{{dermatologic-drug-stub}}
+{{nervous-system-drug-stub}}

@@ -1,0 +1,85 @@
+{{Use dmy dates|date=September 2012}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 446573380
+| IUPAC_name = (3''R'')-1-<nowiki/>{(1''R'',2''R'')-2-[2-(3,4-dimethoxyphenyl)<br>ethoxy]cyclohexyl}pyrrolidin-3-ol
+| image = Vernakalant.svg
+
+<!--Clinical data-->
+| tradename =  
+| licence_EU = Brinavess
+| licence_US = <!-- FDA may use generic name -->
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = [[Intravenous therapy|Intravenous]], oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 794466-70-9
+| CAS_supplemental = <br />{{CAS|748810-28-8}} ([[hydrochloride|HCl]])
+| ATC_prefix = C01
+| ATC_suffix = BG11
+| PubChem = 9930049
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 9G468C8B13
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 8105680
+| smiles            = O(c1ccc(cc1OC)CCO[C@@H]3CCCC[C@H]3N2CC[C@@H](O)C2)C
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C20H31NO4/c1-23-19-8-7-15(13-20(19)24-2)10-12-25-18-6-4-3-5-17(18)21-11-9-16(22)14-21/h7-8,13,16-18,22H,3-6,9-12,14H2,1-2H3/t16-,17-,18-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = VBHQKCBVWWUUKN-KZNAEPCWSA-N
+
+<!--Chemical data-->
+| C=20 | H=31 | N=1 | O=4 
+| molecular_weight = 349.464 g/mol
+}}
+'''Vernakalant''' ([[International Nonproprietary Name|INN]]; codenamed '''RSD1235''', proposed tradenames '''Kynapid''' and '''Brinavess''') is an investigational drug under regulatory review for the acute conversion of [[atrial fibrillation]]. It was initially developed by [[Cardiome Pharma]], and the [[intravenous]] formulation was bought for further development by [[Merck & Co.|Merck]] in April 2009.<ref name="FierceBiotech">{{cite news|url=http://www.fiercebiotech.com/press-releases/merck-and-cardiome-pharma-sign-license-agreement-vernakalant-investigational-drug-tre|title=Merck and Cardiome Pharma Sign License Agreement for Vernakalant, an Investigational Drug for Treatment of Atrial Fibrillation|date=9 April 2009|accessdate=12 October 2010|publisher=FierceBiotech}}</ref> In September 2012, Merck terminated its agreements with Cardiome and has consequently returned all rights of the drug back to Cardiome.
+
+On 11 December 2007, the Cardiovascular and Renal Drugs Advisory Committee of the US [[Food and Drug Administration]] (FDA) voted to recommend the approval of vernakalant,<ref>{{cite web |url=http://www.drugs.com/nda/kynapid_071212.html |title=FDA Advisory Committee Recommends Approval of Kynapid for Acute Atrial Fibrillation
+ |accessdate=2008-03-15 |publisher=Drugs.com }}</ref> but in August 2008 the FDA judged that additional information was necessary for approval.<ref name="FierceBiotech" /> 
+The drug (under brand name Brinavess) was approved in Europe on 1 September 2010.<ref>{{cite press release
+  | title = BRINAVESS (vernakalant) for Infusion Approved in the European Union for Rapid Conversion of Recent Onset Atrial Fibrillation
+  | publisher = Merck & Co., Inc.
+  | date = 1 September 2010
+  | url = http://www.merck.com/newsroom/news-release-archive/research-and-development/2010_0901.html
+  | accessdate = 28 September 2010  
+}}</ref>
+
+An oral formulation underwent Phase II [[clinical trial]]s between 2005 and 2008.<ref>{{ClinicalTrialsGov|NCT00267930|Study of RSD1235-SR for the Prevention of Atrial Fibrillation/Atrial Flutter Recurrence}}</ref><ref>{{ClinicalTrialsGov|NCT00526136|Vernakalant (Oral) Prevention of Atrial Fibrillation Recurrence Post-Conversion Study}}</ref>
+
+==Mechanism of action==
+Like other [[Antiarrhythmic agent#Class III agents|class III antiarrhythmics]], vernakalant blocks [[atrial]] [[potassium channel]]s, thereby prolonging repolarization. It differs from typical class III agents by blocking a certain type of potassium channel, the [[cardiac transient outward potassium current]], with increased potency as the [[heart rate]] increases. This means that it is more effective at high heart rates, while other class III agents tend to lose effectiveness under these circumstances. It also slightly blocks the [[hERG]] potassium channel, leading to a prolonged [[QT interval]]. This may theoretically increase the risk of [[ventricular tachycardia]], though this does not seem to be clinically relevant.<ref name="Finnin">{{cite |url=http://www.medscape.com/viewarticle/725628_4|title=Vernakalant: A Novel Agent for the Termination of Atrial Fibrillation: Pharmacology|publisher=Medscape Today|author=Miki Finnin|accessdate=12 October 2010}}</ref>
+
+The drug also blocks atrial [[sodium channel]]s.<ref name="Finnin" />
+
+It's mainly used for rapid conversion of acute-onset AF (AF lasting 3 to 72 hours)
+
+==Metabolism==
+Vernakalant is cleared by both renal and hepatic mechanisms. Majority via cytochrome CYP2D6 and excreted as glucuronide. Elimination half life is 3-4 hours.
+
+==References==
+{{reflist}}
+
+{{Antiarrhythmic agents}}
+
+[[Category:Antiarrhythmic agents]]
+[[Category:Phenol ethers]]
+[[Category:Pyrrolidines]]
+[[Category:Alcohols]]

@@ -1,0 +1,147 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 458042196
+| IUPAC_name = ''N''-Methyl-2-<nowiki>[[</nowiki>3-[(''E'')-2-pyridin-2-ylethenyl]-1''H''-indazol-6-yl]sulfanyl]benzamide
+| image = Axitinib2DACS.svg
+| width = 220px
+| image2 = Axitinib3Dan.gif
+| width2 = 250px
+
+<!--Clinical data-->
+| tradename = Inlyta
+| Drugs.com = {{drugs.com|monograph|axitinib}}
+| MedlinePlus       = a612017
+| licence_EU        = Inlyta
+| licence_US        = Axitinib
+| pregnancy_AU = D
+| pregnancy_US = D
+| pregnancy_category =  
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 58%<ref name = MSR>{{cite web|title=Inlyta (axitinib) dosing, indications, interactions, adverse effects, and more|work=Medscape Reference|publisher=WebMD|accessdate=25 January 2014|url=http://reference.medscape.com/drug/inlyta-axitinib-999715#showall}}</ref>
+| protein_bound = >99%<ref name = MSR/>
+| metabolism = [[Hepatic]] (mostly [[CYP3A4]]/[[CYP3A5]]-mediated but with some contributions from [[CYP1A2]], [[CYP2C19]], [[UGT1A1]])<ref name = MSR/>
+| elimination_half-life =  2.5-6.1 hours<ref name = MSR/>
+| excretion = Faeces (41%; 12% as unchanged drug), urine (23%)<ref name = MSR/>
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5659
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 319460-85-0
+| ATC_prefix = L01
+| ATC_suffix = XE17
+| ATC_supplemental =  
+| PubChem = 6450551
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 66910 
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1289926
+| PDB_ligand = AXI
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = C9LVQ0YUXG
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03218
+|  ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4953153
+|  smiles = O=C(NC)c4ccccc4Sc1ccc2c(c1)nnc2\C=C\c3ncccc3
+|  StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H18N4OS/c1-23-22(27)18-7-2-3-8-21(18)28-16-10-11-17-19(25-26-20(17)14-16)12-9-15-6-4-5-13-24-15/h2-14H,1H3,(H,23,27)(H,25,26)/b12-9+
+|  StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = RITAVMQDGBJQJZ-FMIVXFBMSA-N
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=22 | H=18 | N=4 | O=1 | S=1 
+| molecular_weight = 386.469 g/mol
+}}
+
+'''Axitinib''' ('''AG013736'''; trade name '''Inlyta''') is a small molecule [[tyrosine kinase inhibitor]] developed by [[Pfizer]]. It has been shown to significantly inhibit growth of breast cancer in animal ([[xenograft]]) models<ref>{{cite journal|author1=Wilmes, LJ |author2=Pallavicini, MG |author3=Fleming, LM |author4=Gibbs, J |author5=Wang, D |author6=Li, KL |author7=Partridge, SC |author8=Henry, RG |author9=Shalinsky, DR |author10=Hu-Lowe, D |author11=Park, JW |author12=McShane, TM |author13=Lu, Y |author14=Brasch, RC |author15=Hylton, NM |date=April 2007|title=AG-013736, a novel inhibitor of VEGF receptor tyrosine kinases, inhibits breast cancer growth and decreases vascular permeability as detected by dynamic contrast-enhanced magnetic resonance imaging|journal=Magnetic Resonance Imaging|volume=25|issue=3|pages=319–27|doi=10.1016/j.mri.2006.09.041|pmid=17371720}}</ref> and has shown partial responses in clinical trials with [[renal cell carcinoma]] (RCC)<ref>{{cite journal|author1=Rini, B |author2=Rixe, O |author3=Bukowski, R |author4=Michaelson, MD |author5=Wilding, G |author6=Hudes, G |author7=Bolte, O |author8=Steinfeldt, H |author9=Reich, SD |author10=Motzer, R |date=June 2005|title=AG-013736, a multi-target tyrosine kinase receptor inhibitor, demonstrates anti-tumor activity in a Phase 2 study of cytokine-refractory, metastatic renal cell cancer (RCC)|journal=Journal of Clinical Oncology ASCO Annual Meeting Proceedings|pages=4509|volume=23|issue=16S|url=http://meeting.ascopubs.org/cgi/content/abstract/23/16_suppl/4509}}</ref> and several other tumour types.<ref>{{cite journal|author1=Rugo, HS |author2=Herbst, RS |author3=Liu, G |author4=Park, JW |author5=Kies, MS |author6=Steinfeldt, HM |author7=Pithavala, YK |author8=Reich, SD |author9=Freddo, JL |author10=Wilding, G |date=August 2005|title=Phase I trial of the oral antiangiogenesis agent AG-013736 in patients with advanced solid tumors: pharmacokinetic and clinical results|journal=Journal of Clinical Oncology|volume=23|issue=24|pages=5474–83|pmid=16027439|url=http://jco.ascopubs.org/content/23/24/5474.full.pdf|format=PDF|doi=10.1200/JCO.2005.04.192}}</ref>
+
+It was approved for RCC by the U.S. Food and Drug Administration after showing a modest increase in [[progression-free survival]],<ref name=FDA3072>{{cite web |url=http://www.drugs.com/newdrugs/fda-approves-inlyta-advanced-renal-cell-carcinoma-3072.html |title=FDA Approves Inlyta for Advanced Renal Cell Carcinoma |date=January 27, 2012 |website=Drugs.com}}</ref> though there have been reports of fatal adverse effects.<ref name="endpoint">{{cite journal | title =The Slippery Slope: Is a Surrogate Endpoint Evidence of Efficacy? | journal =Milwaukee Journal Sentinel/MedPage Today | date =Oct 27, 2014 | author =John Fauber | author2 =Elbert Chu | url =http://www.medpagetoday.com/PublicHealthPolicy/FDAGeneral/48244 }}</ref>
+
+==Approvals and indications==
+
+===Renal cell carcinoma===
+It has received approval for use as a treatment for renal cell carcinoma from [[Food and Drug Administration|US FDA]] (27 January 2012), [[European Medicines Agency|EMA]] (13 September 2012), [[Medicines and Healthcare Products Regulatory Agency|UK MHRA]] (3 September 2012) and [[Therapeutic Goods Administration|Australian TGA]] (26 July 2012) .<ref name = DM>{{cite web|title=INLYTA (axitinib) tablet, film coated  [Pfizer Laboratories Div Pfizer Inc]|work=DailyMed|publisher=Pfizer Laboratories Div Pfizer Inc.|date=September 2013|accessdate=25 January 2014|url=http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=84137882-e000-47da-bd5b-fa76ab3c76f9}}</ref><ref name = EMA>{{cite web|title=Inlyta : EPAR - Product Information|work=European Medicines Agency|publisher=Pfizer Ltd.|date=17 December 2013|accessdate=25 January 2014|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/002406/WC500132188.pdf|format=PDF}}</ref><ref name = EMC>{{cite web|title=Inlyta 1 mg 3mg, 5 mg & 7mg film-coated tablets - Summary of Product Characteristics (SPC)|work=electronic Medicines Compendium|publisher=Pfizer Limited|date=5 December 2013|accessdate=25 January 2014|url=http://www.medicines.org.uk/emc/medicine/27051/SPC/Inlyta+1+mg+3mg%2c+5+mg+%26+7mg+film-coated+tablets/}}</ref><ref name = TGA>{{cite web|title=PRODUCT INFORMATION INLYTA (axitinib)|work=TGA eBusiness Services|publisher=Pfizer Australia Pty Ltd.|date=5 July 2013|accessdate=25 January 2014|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2012-PI-02467-1|format=PDF}}</ref>
+
+==Clinical trials==
+A Phase II [[clinical trial]] showed good response in combination chemotherapy with [[gemcitabine]] for advanced [[pancreatic cancer]].<ref>{{cite journal|author1=Spano, JP |author2=Chodkiewicz, C |author3=Maurel, J |author4=Wong, R |author5=Wasan, H |author6=Barone, C |author7=Létourneau, R |author8=Bajetta, E |author9=Pithavala, Y |author10=Bycott, P |author11=Trask, P |author12=Liau, K |author13=Ricart, AD |author14=Kim, S |author15=Rixe, O |date=June 2008|title=Efficacy of gemcitabine plus axitinib compared with gemcitabine alone in patients with advanced pancreatic cancer: an open-label randomised phase II study|journal=Lancet|volume=371|issue=9630|pages=2101–2108|doi=10.1016/S0140-6736(08)60661-3|pmid=18514303}}</ref> However, Pfizer reported on January 30, 2009 that Phase III [[clinical trial]]s of the drug when used in combination with gemcitabine showed no evidence of improved survival rates over treatments using gemcitabine alone for advanced pancreatic cancer and halted the trial.<ref>{{cite web |url =https://www.reuters.com/article/marketsNews/idINN3039502020090130?rpc=44 | title = Pfizer pancreatic cancer drug fails, trial halted|date = January 30, 2009 | publisher = Reuters}}</ref>
+
+In 2010, a Phase III trial for previously treated metastatic [[renal cell carcinoma]] (mRCC) showed significantly extended progression-free survival when compared to [[sorafenib]].<ref>{{cite news |url=http://www.genengnews.com/gen-news-highlights/pfizer-s-phase-iii-trial-in-mrcc-turns-up-positive-results/81244271/ |title=Pfizer’s Phase III Trial in mRCC Turns Up Positive Results |date=19 Nov 2010 }}</ref> In December 2011, the [[Oncologic Drugs Advisory Committee]] (ODAC) voted unanimously to recommend that [[US FDA]] approve axitinib for the second-line treatment of patients with advanced renal cell carcinoma (RCC), based on the results of the Phase III trial comparing axitinib and sorafenib.<ref name=ODAC-rcc2011>{{cite news |url=http://www.onclive.com/web-exclusives/ODAC-Unanimously-Supports-Axitinib-for-Renal-Cell-Carcinoma|title=ODAC Unanimously Supports Axitinib for Renal Cell Carcinoma |date=7 Dec 2011 }}</ref> It has also been studied in combination with the [[ALK1 inhibitor]] [[dalantercept]].<ref>[http://www.cancernetwork.com/renal-cell-carcinoma/alk1-vegf-combo-active-advanced-rcc ALK1/VEGF Combo Active in Advanced RCC. Jan 2017]</ref>
+
+A study published in 2015<ref name="bcrabl">{{cite journal |author1=Tea Pemovska |author2=Eric Johnson |author3=Mika Kontro |author4=Gretchen A. Repasky |author5=Jeffrey Chen |author6=Peter Wells |author7=Ciarán N. Cronin |author8=Michele McTigue |author9=Olli Kallioniemi |author10=Kimmo Porkka |author11=Brion W. Murray |author12=Krister Wennerberg |title=Axitinib effectively inhibits BCR-ABL1(T315I) with a distinct binding conformation |journal=Nature|doi=10.1038/nature14119 |url=http://www.nature.com/nature/journal/vaop/ncurrent/full/nature14119.html |volume=519 |pages=102–105 |pmid=25686603}}</ref> showed that axitinib effectively inhibits a mutated gene ([[Philadelphia chromosome|BCR-ABL1]][T315I]) that is common in [[chronic myeloid leukemia]]s and [[Acute lymphoblastic leukemia|adult acute lymphoblastic leukemias]] which have become resistant to other [[tyrosine kinase inhibitors]] like [[imatinib]]. This is one of the first examples of a new indication for an existing drug being discovered by screening known drugs using a patient's own cells.
+
+==Contraindications==
+
+The only contraindication to axitinib is hypersensitivity to axitinib.<ref name = TGA/>
+
+Cautions include:<ref name = MSR/>
+
+* Hypertension
+* Thromboembolic (both venous and arterial) events
+* Haemorrhagic events (including cerebral haemorrhage)
+* GI perforations and fistula
+* Thyroid function, it is advised that thyroid function is measured initially and then periodically during treatment with axitinib.
+* Stop treatment 24 hours prior to surgery due to potential clotting changes
+* Proteinuria, it is advised that proteinuria is monitored initially and then periodically during therapy
+* Elevated liver enzymes reported, it is advised that AST, ALT and bilirubin are regularly monitored during treatment with axitinib
+* Moderate hepatic impairment requires dose reduction
+
+==Adverse effects==
+{{See also|List of adverse effects of axitinib}}
+Diarrhea, hypertension, fatigue, decreased appetite, nausea, dysphonia, [[hand-foot syndrome]], weight decreased, vomiting, asthenia, and constipation are the most common side effects occurring in more than 20% of patients.<ref name=fda>{{cite web | title=FDA Prescribing Information | url=http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/202324lbl.pdf |date=30 Jan 2012}}</ref>
+
+==Interactions==
+Coadministration with strong [[CYP3A4]]/[[CYP3A5]] inhibitors should be avoided where possible as they may reduce plasma clearance of axitinib.<ref name = MSR/>
+
+==Mechanism of action==
+Its primary mechanism of action is thought to be [[VEGF receptor|Vascular endothelial growth factor receptor]] 1-3, [[v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog|c-KIT]] and [[platelet-derived growth factor receptor|PDGFR]] inhibition, this, in turn, enables it to inhibit [[angiogenesis]] (the formation of new blood vessels by tumours).<ref name = mech>{{cite journal|title=Axitinib for the Management of Metastatic Renal Cell Carcinoma|journal=Drugs in R&d|volume=11|issue=2|pages=113–126|doi=10.2165/11591240-000000000-00000|pmid=21679004|pmc=3585900|author1=Escudier, B |author2=Gore, M |url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3585900/pdf/40268_2012_Article_11020113.pdf|format=PDF}}</ref>
+ 
+It was also proposed that it might act by inducing [[autophagy]], as some other tyrosine kinase inhibitors, like [[sorafenib]].<ref name=" pmid = 24213221">{{cite journal | author = Zhang Y | title = Screening of kinase inhibitors targeting BRAF for regulating autophagy based on kinase pathways. | journal = J Mol Med Rep | volume = 9 | issue = 1|date=Jan 2014 | pmid = 24213221 | url = http://www.spandidos-publications.com/mmr/9/1/83 | pages = 83–90 | doi=10.3892/mmr.2013.1781}}</ref>
+
+It has also been shown<ref name="bcrabl" /> to bind (in a different conformation from the VEGF binding) to the [[Philadelphia chromosome|BCR-ABL]] fusion protein, specifically inhibiting the drug-resistant T315I mutant isoform.
+
+{| class = wikitable width = 350px
+|+ '''<big>The effect of axitinib on tyrosine kinases</big>'''
+! Protein !! IC<sub>50</sub> (nM)
+|-
+| [[VEGFR1]] || 0.1
+|-
+| [[VEGFR2]] || 0.2
+|-
+| [[VEGFR3]] || 0.1-0.3
+|-
+| [[PDGFR]] || 1.6
+|-
+| [[c-KIT]] || 1.7
+|}
+
+==Pharmacokinetics==
+{| class = wikitable
+|+ '''<big>Pharmacokinetic parameters of Axitinib</big>'''<ref name = MSR/> 
+! Bioavailability !! T<sub>max</sub> !! C<sub>max</sub> !! [[Area under the curve (pharmacokinetics)|AUC]] !! [[Volume of distribution|V<sub>d</sub>]] !! Plasma protein binding !! width = 250 px | Metabolising enzymes !! t<sub>1/2</sub> !! Excretion routes
+|-
+| 58% || 2.5-4.1 hr || 27.8&nbsp;ng/mL || 265&nbsp;ng•h/mL || 160 L || >99% || Mostly [[CYP3A4]] and [[CYP3A5]]. Lesser contributions from [[CYP1A2]], [[CYP2C19]], [[UGT1A1]] || 2.5-6.1 hr || Faeces (41%), urine (23%)
+|}
+
+==References==
+{{reflist|2}}
+
+{{Extracellular chemotherapeutic agents}}
+{{Growth factor receptor modulators}}
+
+[[Category:Receptor tyrosine kinase inhibitors]]
+[[Category:Pyridines]]
+[[Category:Alkene derivatives]]
+[[Category:Indazoles]]
+[[Category:Thioethers]]
+[[Category:Benzamides]]

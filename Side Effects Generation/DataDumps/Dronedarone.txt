@@ -1,0 +1,128 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 461091509
+| IUPAC_name = ''N''-(2-Butyl-3-(''p''-(3-(dibutylamino)propoxy)benzoyl)-5-benzofuranyl)methanesulfonamide
+| image = Dronedarone structure.svg
+
+<!--Clinical data-->
+| tradename = Multaq
+| Drugs.com = {{drugs.com|monograph|dronedarone-hydrochloride}}
+| MedlinePlus = a609034
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = X
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_CA = <!--                             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = Rx-only
+| legal_status = 
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 15% (with a high-fat meal)<ref name=PI>{{cite web|title=MULTAQ<sup>®</sup> (dronedarone) Tablets. Prescribing Information|url=http://www.multaq.com/docs/consumer_pdf/pi.aspx|publisher=Sanofi-Aventis U.S. LLC|accessdate=6 February 2014|date=March 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20140223171612/http://www.multaq.com/docs/consumer_pdf/pi.aspx|archivedate=23 February 2014|df=}}</ref>
+| protein_bound = >98%
+| metabolism = Extensive [[Liver|hepatic]] (mainly by [[CYP3A]])
+| elimination_half-life = 13–19 hours
+| excretion = Feces (84%), urine (~6%)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7465
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 141626-36-0
+| ATC_prefix = C01
+| ATC_suffix = BD07
+| PubChem = 208898
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 180996
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = JQZ1L091Y2
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02537
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 50659
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 184412
+
+<!--Chemical data-->
+| C=31 | H=44 | N=2 | O=5 | S=1
+| molecular_weight = 556.758 g/mol
+| smiles = O=S(=O)(Nc3cc1c(oc(c1C(=O)c2ccc(OCCCN(CCCC)CCCC)cc2)CCCC)cc3)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C31H44N2O5S/c1-5-8-12-29-30(27-23-25(32-39(4,35)36)15-18-28(27)38-29)31(34)24-13-16-26(17-14-24)37-22-11-21-33(19-9-6-2)20-10-7-3/h13-18,23,32H,5-12,19-22H2,1-4H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ZQTNQVWKHCQYLQ-UHFFFAOYSA-N
+}}
+
+'''Dronedarone''' (development codename '''SR33589''' and marketed as '''Multaq''') is a [[medication|drug]] by [[Sanofi-Aventis]], mainly for the indication of [[cardiac arrhythmia]]s. It was approved by the FDA on July 2, 2009. It was recommended as an alternative to [[amiodarone]]  for the treatment of [[atrial fibrillation]] and [[atrial flutter]] in people whose hearts have either returned to normal rhythm or who undergo drug therapy or [[defibrillation|electric shock treatment]] i.e. direct current [[cardioversion]] (DCCV) to maintain normal rhythm. It is a [[class III antiarrhythmic]] drug.<ref>{{cite press release
+  | title = FDA Approves Multaq to Treat Heart Rhythm Disorder
+  | publisher = FDA
+  | date = 2009-07-02
+  | url = http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm170276.htm
+  | accessdate = July 2, 2009  
+}}</ref> In the United States, the FDA approved label includes a claim for reducing hospitalization, but not for reducing mortality, as a reduction in mortality was not demonstrated in the clinical development program.<ref name="Zimetbaum">{{cite journal | last1 = Zimetbaum | first1 = PJ | title = Dronedarone for atrial fibrillation--an odyssey | url = http://content.nejm.org/cgi/content/full/360/18/1811 | journal = The New England Journal of Medicine | volume = 360 | issue = 18 | pages = 1811–3 | year = 2009 | pmid = 19403901 | doi = 10.1056/NEJMp0902248 }}</ref> A trial of the drug in [[heart failure]] was stopped as an interim analysis showed a possible increase in heart failure deaths, in patients with moderate to severe CHF.<ref name=Kober>{{cite journal |vauthors=Køber L, Torp-Pedersen C, McMurray JJ | title=Increased mortality after dronedarone therapy for severe heart failure | journal=N Engl J Med |date=June 2008 | volume=358 | issue=25 | pages=2678–87 | doi=10.1056/NEJMoa0800456 | pmid=18565860|display-authors=etal}}</ref>
+
+The U.S. label for dronedarone includes a [[boxed warning]], stating that dronedarone is contraindicated in patients with [[NYHA classification|NYHA Class IV heart failure]], with NYHA Class II–III heart failure with a recent decompensation requiring hospitalization or referral to a specialized heart failure clinic, or with permanent atrial fibrillation."<ref name="PI" />  Dronedarone is also associated with rare cases of severe liver damage, including liver failure.<ref name = fda>{{cite web|title=FDA Drug Safety Communication: Severe liver injury associated with the use of dronedarone (marketed as Multaq). Safety Announcement|url=http://www.fda.gov/Drugs/DrugSafety/ucm240011.htm|publisher=U.S. FDA|date=January 14, 2011}}</ref>
+
+==Mechanism of action==
+Dronedarone has been termed a “multichannel blocker” however it is unclear which channel(s) play a pivotal role in its success.<ref name="Guillemare">Guillemare E, Marion A, Nisato D, Gautier P, “Inhibitory effects of dronedarone on muscarinic K+ current in guinea pig atrial cells,” in Journal of Cardiovascular Pharmacology, 2000 7</ref> Thus, dronedarone's actions at the cellular level are controversial with most studies suggesting an inhibition in multiple outward potassium currents including rapid delayed rectifier, slow delayed rectifier and ACh-activated inward rectifier.<ref name="Aimond">Aimond F, Beck L, Gautier P, Chérif OK, Davy JM, Lorente P, Nisato D, Vassort G, “Cellular and in vivo electrophysiological effects of dronedarone in normal and postmyocardial infarcted rats,” in The Journal of Pharmacology and experimental therapeutics, 2000. 11</ref> It is also believed to reduce inward rapid Na current and L-type Ca channels. The reduction in K current in some studies was shown to be due to the inhibition of K-ACh channel or associated GTP-binding proteins.<ref name="Guillemare" /> Reduction of K+ current by 69% led to increased AP duration and increased effective refractory periods, thus shown to suppress [[pacemaker]] potential of the SA node and return patients to a normal heart rhythm.<ref name="Aimond" /> In a European trial, the average time to recurrence of an arrhythmia was 41 days in the placebo group vs. 96 days in the dronedarone group (similar results obtained in the non-European trial, 59 and 158 days respectively).<ref>Singh BN, Connolly SJ, Crijns HJ, Roy D, Kowey PR, Capucci A, Radzik D, Aliot EM, Hohnloser SH; EURIDIS and ADONIS Investigators, “Dronedarone for maintenance of sinus rhythm in atrial fibrillation or flutter,” in The New England Journal of Medicine, 2007. 12</ref>
+
+==Chemistry==
+Chemically, dronedarone is a [[benzofuran]] derivative related to [[amiodarone]], a popular [[Antiarrhythmic agent|antiarrhythmic]]. The use of amiodarone is limited by toxicity due its high [[iodine]] content ([[pulmonary fibrosis]], [[thyroid]] disease) as well as by [[liver]] disease. In dronedarone, the iodine moieties are not present, reducing toxic effects on the thyroid and other organs. A methylsulfonamide group is added to reduce solubility in fats (lipophobicity) and thus reduce neurotoxic effects.<ref name="Zimetbaum"/>
+
+Dronedarone displays amiodarone-like [[class III antiarrhythmic]] activity in vitro<ref>{{cite journal |vauthors=Sun W, Sarma JS, Singh BN |title=Electrophysiological effects of dronedarone (SR33589), a noniodinated benzofuran derivative, in the rabbit heart : comparison with amiodarone |journal=Circulation |volume=100 |issue=22 |pages=2276–81 |date=30 November 1999|pmid=10578003  |url=http://circ.ahajournals.org/cgi/content/full/100/22/2276 |doi=10.1161/01.CIR.100.22.2276 }}</ref> and in clinical trials.<ref name=Kober/> The drug also appears to exhibit activity in each of the 4 Vaughan-Williams antiarrhythmic classes.<ref name="Medscape">http://www.medscape.com/druginfo/monograph?cid=med&drugid=152656&drugname=Multaq+Oral&monotype=monograph&print=1.</ref>
+
+==Pharmacokinetics==
+Dronedarone is less lipophilic than amiodarone, has a much smaller volume of distribution, and has an elimination half-life of 13–19 hours—this stands in contrast to amiodarone's half-life of several weeks.<ref name="PI" /><ref>{{cite journal |vauthors=Dale KM, White CM |title=Dronedarone: an amiodarone analog for the treatment of atrial fibrillation and atrial flutter |journal=Ann Pharmacother |volume=41 |issue=4 |pages=599–605 |date=April 2007 |pmid=17389667 |doi=10.1345/aph.1H524 |url=}}</ref>  As a result of these pharmacokinetic characteristics, dronedarone dosing may be less complicated than amiodarone.
+
+==Contraindications==
+* Permanent AF (patients in whom normal sinus rhythm will not or cannot be restored)<ref name="accessdata.fda.gov">http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/022425s023lbl.pdf</ref>
+* Recently decompensated heart failure requiring hospitalization or Class IV heart failure.<ref name="accessdata.fda.gov"/>
+* Second-or third-degree AV block or sick sinus syndrome (except when used in conjunction with a functioning pacemaker)<ref name="accessdata.fda.gov"/>
+* Bradycardia<ref name="accessdata.fda.gov"/>
+* Concomitant use of a strong CYP3A inhibitor<ref name="accessdata.fda.gov"/>
+* Concomitant use of drugs or herbal products that prolong the QT interval and may induce Torsade de Pointes<ref name="accessdata.fda.gov"/>
+* Liver or lung toxicity related to the previous use of amiodarone<ref name="accessdata.fda.gov"/>
+* Severe hepatic impairment<ref name="accessdata.fda.gov"/>
+* QTc Bazett interval ≥500 ms,<ref name="accessdata.fda.gov"/> or use with drugs or herbal supplements that prolong QT interval or increase risk of torsades de points (Class I or III antiarrhythmic agents, phenothiazines, tricyclic antidepressants, certain oral macrolides, ephedra).{{Citation needed|date=March 2014}}
+* Pregnancy and nursing mothers<ref name="accessdata.fda.gov"/>
+*Hypersensitivity to dronedarone<ref name="accessdata.fda.gov"/>
+* [[Hepatic]] impairment. In Jan 2011 the FDA advised about cases of rare, but severe, liver injury, including two cases of acute liver failure leading to liver transplant in patients treated with dronedarone (Multaq).  It is not known whether routine periodic monitoring of serum liver enzymes (ALT, AST, and alkaline phosphatase) and bilirubin in patients taking dronedarone will prevent the development of severe liver injury.<ref name="fda" />
+* PR interval exceeding 280 ms {{Citation needed|date=March 2014}}
+* Use of cytochrome P-450 (CYP) 3a isoenzyme inhibitors (includes: clarithromycin, cyclosporine, itraconazole, ketoconazole, nefazodone, ritonavir, telithromycin, voriconazole)
+
+==Clinical trials==
+Clinical trials have compared dronedarone to placebo and to amiodarone, for its ability to reduce atrial fibrillation, to reduce mortality overall and from cardiac causes, and for its adverse effects, including excess mortality.<ref name="Zimetbaum"/><ref>Guillemare E, Marion A, Nisato D, Gautier P, “Inhibitory effects of dronedarone on muscarinic K+ current in guinea pig atrial cells,” in Journal of Cardiovascular Pharmacology, 2000. 7</ref> Dronedarone is a non-iodinated [[Class III antiarrhythmic|class III anti-arrhythmic drug]] which helps patients return to normal [[sinus rhythm]]. This treatment for AF is also known to reduce associated [[Mortality rate|mortality]] and [[Inpatient care|hospitalizations]] compared to other similar [[antiarrhythmic agent]]s.<ref>Connolly SJ, Crijns HJ, Torp-Pedersen C, van Eickels M, Gaudin C, Page RL, Hohnloser SH; ATHENA Investigators, “Analysis of stroke in ATHENA: a placebo-controlled, double-blind, parallel-arm trial to assess the efficacy of dronedarone 400 mg BID for the prevention of cardiovascular hospitalization or death from any cause in patients with atrial fibrillation/atrial flutter,” in Circulation, 2009.8</ref>
+
+In the EURIDIS and ADONIS trials in [[atrial fibrillation]] (2007), dronedarone was significantly more effective than placebo in maintaining sinus rhythm, with no difference in lung and thyroid function in the short term.<ref>{{cite journal |vauthors=Singh BN, Connolly SJ, Crijns HJ |date=September 2007|title=Dronedarone for maintenance of sinus rhythm in atrial fibrillation or flutter |journal=N Engl J Med |volume= 357 |pages=987–999 |pmid=17804843 |url=http://content.nejm.org/cgi/content/full/357/10/987 |doi=10.1056/NEJMoa054686 |issue=10|display-authors=etal}}</ref>
+
+However, in the ANDROMEDA study (2007), dronedarone doubled the death rate compared to placebo, and the trial was halted early.<ref name=Kober/> ANDROMEDA enrolled patients with moderate to severe congestive heart failure, a relatively sicker patient population.
+
+In a more recent [[atrial fibrillation]] trial, ATHENA, with 4628 subjects, dronedarone was significantly more effective than placebo in reducing the composite endpoint of first hospitalization due to cardiovascular events or death.<ref>{{cite journal |vauthors=Hohnloser SH, Crijns HJ, van Eickels M |date=February 2009|title=Effect of Dronedarone on Cardiovascular Events in Atrial Fibrillation|journal=N Engl J Med |volume= 360 |pages=668–678  |pmid=19213680 |url=http://content.nejm.org/cgi/content/short/360/7/668?query=TOC|doi=10.1056/NEJMoa0803778 |issue=7 |display-authors=etal}}</ref> There was a significant reduction in the rate of cardiovascular death, but not in the rate of death from any cause.<ref name="Zimetbaum"/> Later post-hoc analysis of the ATHENA-results showed a significant reduction in the rate of stroke.<ref>{{cite journal |author1=Connolly SJ |author2=Crijns HJGM |author3=Torp-Pedersen C |author4=van Eyckels M |author5=Gaudin C |author6=Page RL |author7=Hohnloser SH |date=September 2009|title=Analysis of Stroke in ATHENA: A Placebo-Controlled, Double-Blind, Parallel-Arm Trial to Assess the Efficacy of Dronedarone 400 mg BID for the Prevention of Cardiovascular Hospitalization or Death From Any Cause in Patients With Atrial Fibrillation/Atrial Flutter|journal=Circulation|volume=120|pages=1174–80|pmid=19752319|url=http://circ.ahajournals.org/cgi/content/abstract/CIRCULATIONAHA.109.875252v1 |doi=10.1161/CIRCULATIONAHA.109.875252 |issue=13}}</ref>
+
+Patients [[randomized]] to dronedarone were more likely to develop [[bradycardia]] and [[QT-interval]] prolongation (but only 1 case of [[Torsades]]).  Nausea, diarrhea, rash, and creatinine elevation also were more common in the dronedarone arm.
+
+The PALLAS trial (2011) was stopped for safety concerns due to the finding that "dronedarone increased rates of heart failure, stroke, and death from cardiovascular causes in patients with permanent atrial fibrillation who were at risk for major vascular events".<ref>{{cite journal |vauthors=Connolly SJ, Camm AJ, Halperin JL |date=December 2011|title=Dronedarone in High-Risk Permanent Atrial Fibrillation |journal=N Engl J Med |volume= 365 |pages=2268–2276  |doi=10.1056/NEJMoa1109867 |issue=24|display-authors=etal}}</ref> A Black Box warning was subsequently added by the FDA stating that the risk of death, stroke, and hospitalization for congestive heart failure doubled in patients with permanent atrial fibrillation.
+
+===Direct current cardioversion results===
+Dronedarone has been tested in some trials as a way to improve the success rate of electrical cardioversion. In one such trial by the Veteran's Administration it was used prepare patients for electrical conversion to sinus rhythm. In the ATHENA study, 25% of patients were started on dronedarone before [[cardioversion]].<ref>Effect of Dronedarone on Cardiovascular Events in Atrial Fibrillation.Stefan H. Hohnloser, M.D., Harry J.G.M. Crijns, M.D., Martin van Eickels, M.D., Christophe Gaudin,  M.D., Richard L. Page, M.D., Christian Torp-Pedersen, M.D., and Stuart J. Connolly, M.D. for the ATHENA Investigators. N Engl J Med 2009; 360:668-678 February 12, 2009 DOI: 10.1056/NEJMoa0803778</ref> The results of a recently concluded randomized study (ELECTRA) may clarify the safety and ideal modalities of dronedarone use at the time of cardioversion.<ref>http://clinicaltrials.gov/ct2/show/NCT01026090</ref>
+
+==Regulatory review==
+Originally submitted as a New Drug Application in 2005, dronedarone was reviewed and recommended for approval on March 18, 2009 by an Advisory Committee of the United States Food and Drug Administration (FDA).  The FDA is not bound by the Committee's recommendation, but it takes its advice into consideration when reviewing new drug applications.<ref>[http://www.fda.gov/ohrms/dockets/ac/09/briefing/2009-4417b1-02-Sanofi_Aventis.pdf FDA briefing document on dronedarone]</ref> The FDA approved dronedarone on July 2, 2009.
+
+[[Health Canada]] was the second major regulatory body to approve the drug, giving its approval on August 12, 2009. The approval is for "treatment of patients with a history of, or current atrial fibrillation to reduce their risk of cardiovascular hospitalization due to this condition."<ref>{{cite web|url=http://insciences.org/article.php?article_id%3D6454 |title=Archived copy |accessdate=2009-08-13 |deadurl=yes |archiveurl=https://web.archive.org/web/20110718112952/http://insciences.org/article.php?article_id=6454 |archivedate=2011-07-18 |df= }}</ref>
+
+The [[European Medicines Agency]] issued a Summary of Positive Opinion regarding dronedarone on 24 September 2009 recommending to the European Commission to grant a marketing authorization within the European Union.<ref name="emea-spo">[http://www.emea.europa.eu/pdfs/human/opinion/Multaq_37683909en.pdf Summary of Positive Opinion]{{dead link|date=December 2016 |bot=InternetArchiveBot |fix-attempted=yes }} (retrieved 1 December 2009)</ref>
+
+==References==
+<references/>
+
+{{Antiarrhythmic agents}}
+
+[[Category:Antiarrhythmic agents]]
+[[Category:Sulfonamides]]
+[[Category:Benzofurans]]
+[[Category:Aromatic ketones]]
+[[Category:Phenol ethers]]

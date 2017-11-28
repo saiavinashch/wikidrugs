@@ -1,0 +1,113 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 417553629
+| IUPAC_name =  
+| image = Degarelix.svg
+
+<!--Clinical data-->
+| tradename = Firmagon
+| Drugs.com = {{drugs.com|MTM|degarelix}}
+| MedlinePlus = a609022
+| licence_EU = Firmagon
+| licence_US = Degarelix
+| pregnancy_AU =  
+| pregnancy_US =  
+| pregnancy_category = N/A
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Rx-only
+| legal_status = rx only
+| routes_of_administration = [[Subcutaneous injection]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 30-40%
+| protein_bound = ~90%
+| metabolism = Subject to common peptidic degradation during passage through the hepato-biliary system; not a substrate for the human CYP450 system
+| elimination_half-life = 23-61 days
+| excretion = ~20-30% in the urine, ~70-80% in the faeces
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 214766-78-6
+| ATC_prefix = L02
+| ATC_suffix = BX02
+| IUPHAR_ligand = 5585
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB06699
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = SX0XJI3A11
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08901
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 264089
+|  PubChem = 16136245
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 17292756
+
+<!--Chemical data-->
+| C=82 | H=103 | Cl=1 | N=18 | O=16 
+| molecular_weight = 1630.75 g/mol
+| smiles = C[C@H](C(=O)N)NC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCCNC(C)C)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](Cc2ccc(cc2)NC(=O)N)NC(=O)[C@H](Cc3ccc(cc3)NC(=O)[C@@H]4CC(=O)NC(=O)N4)NC(=O)[C@H](CO)NC(=O)[C@@H](Cc5cccnc5)NC(=O)[C@@H](Cc6ccc(cc6)Cl)NC(=O)[C@@H](Cc7ccc8ccccc8c7)NC(=O)C
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C82H103ClN18O16/c1-45(2)35-60(72(107)92-59(16-9-10-33-87-46(3)4)80(115)101-34-12-17-68(101)79(114)88-47(5)70(84)105)93-74(109)63(38-51-23-30-58(31-24-51)91-81(85)116)95-76(111)64(39-50-21-28-57(29-22-50)90-71(106)66-42-69(104)100-82(117)99-66)97-78(113)67(44-102)98-77(112)65(41-53-13-11-32-86-43-53)96-75(110)62(37-49-19-26-56(83)27-20-49)94-73(108)61(89-48(6)103)40-52-18-25-54-14-7-8-15-55(54)36-52/h7-8,11,13-15,18-32,36,43,45-47,59-68,87,102H,9-10,12,16-17,33-35,37-42,44H2,1-6H3,(H2,84,105)(H,88,114)(H,89,103)(H,90,106)(H,92,107)(H,93,109)(H,94,108)(H,95,111)(H,96,110)(H,97,113)(H,98,112)(H3,85,91,116)(H2,99,100,104,117)/t47-,59+,60+,61-,62-,63-,64+,65-,66+,67+,68+/m1/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = MEUCPCLKGZSHTA-XYAYPHGZSA-N
+}}
+'''Degarelix''' ([[International Nonproprietary Name|INN]]) or '''degarelix acetate''' ([[United States Adopted Name|USAN]]) (tradename '''Firmagon''') is a [[hormonal therapy]] used in the treatment of [[prostate cancer]]. During development it was known as '''FE200486'''.
+
+[[Testosterone]] is a male [[hormone]] that promotes growth of many prostate [[tumours]] and therefore reducing circulating testosterone to very low ([[castration]]) levels is often the treatment goal in the management of advanced prostate cancer. Degarelix has an immediate onset of action, binding to [[gonadotropin-releasing hormone]] (GnRH) receptors in the [[pituitary gland]] and blocking their interaction with GnRH.  This induces a fast and profound reduction in [[luteinising hormone]] (LH), [[follicle-stimulating hormone]] (FSH) and in turn, testosterone suppression.<ref>Princivalle M, Broqua P, White R, et al (March 2007). Rapid suppression of plasma testosterone levels and tumor growth in the dunning rat model treated with degarelix, a new gonadotropin-releasing hormone antagonist. J. Pharmacol. Exp. Ther. '''320''': 1113-8.</ref>
+
+== Status ==
+On 24 December 2008, the [[Food and Drug Administration]] (FDA) approved degarelix for the treatment of patients with advanced prostate cancer in the USA.<ref>PR Newswire. FDA approves Ferring Pharmaceuticals' Degarelix (generic name) for the treatment of advanced prostate cancer. PR Newswire, Europe Ltd 2008 [cited 2009 Mar 2]; Available from [http://www.prnewswire.co.uk/cgi/news/release?id=245656 here]</ref> It was subsequently approved by the European Commission at the recommendation of the [[European Medicines Agency]] (EMEA) on February 17, 2009 for use in adult male patients with advanced, hormone-dependent prostate cancer. [[Ferring Pharmaceuticals]] markets the drug under the name ''Firmagon''.
+
+== Mode of action ==
+GnRH antagonists ([[receptor (biochemistry)|receptor]] blockers) such as degarelix are a new type of hormonal therapy for prostate cancer. These agents are synthetic [[peptide]] derivatives of the natural GnRH decapeptide – a hormone that is made by [[neuron]]s in the [[hypothalamus]]. GnRH antagonists compete with natural GnRH for binding to [[GnRH]] [[Receptor (biochemistry)|receptors]] in the pituitary gland. This reversible binding blocks the release of LH and FSH from the pituitary. The reduction in LH subsequently leads to a rapid and sustained suppression of testosterone release from the [[testes]] and subsequently reduces the size and growth of the prostate cancer. This in turn results in a reduction in [[prostate-specific antigen]] (PSA) levels in the patient's blood. Measuring PSA levels is a way to monitor how patients with prostate cancer are responding to treatment.
+
+Unlike the GnRH agonists, which cause an initial stimulation of the [[hypothalamic-pituitary-gonadal axis]] (HPGA), leading to a surge in testosterone levels, and under certain circumstances, a flare-up of the tumour, GnRH antagonists do not cause a surge in testosterone or clinical flare.<ref>Van Poppel H, Nilsson S (June 2008). Testosterone surge: rationale for gonadotropin-releasing hormone blockers? Urology '''71''': 1001-6.</ref> Clinical flare is a phenomenon that occurs in patients with advanced disease, which can precipitate a range of clinical symptoms such as [[bone pain]], [[urethral]] obstruction, and [[spinal cord compression]]. Drug agencies have issued boxed warnings regarding this phenomenon in the prescribing information for GnRH agonists. As testosterone surge does not occur with GnRH antagonists, there is no need for patients to receive an [[antiandrogen]] as flare protection during prostate cancer treatment. GnRH agonists also induce an increase in testosterone levels after each reinjection of the drug – a phenomenon that does not occur with GnRH antagonists such as degarelix.
+
+GnRH antagonists have an immediate onset of action leading to a fast and profound suppression of testosterone and are therefore especially valuable in the treatment of patients with prostate cancer where fast control of disease is needed.
+
+==Clinical effectiveness==
+A [[Phase III]], randomised, 12 month [[clinical trial]] (CS21) in prostate cancer<ref name="Klotz">Klotz L, Boccon-Gibod L, Shore ND, et al (December 2008). The efficacy and safety of degarelix: a 12-month, comparative, randomized, open-label, parallel-group phase III study in patients with prostate cancer. BJU Int. '''102''': 1531-8.</ref> compared [[androgen deprivation]] with one of two doses of degarelix or the GnRH agonist, [[leuprolide]]. Both degarelix doses were at least as effective as leuprolide at suppressing testosterone to [[castration]] levels (≤0.5&nbsp;ng/mL) from Day 28 to study end (Day 364). Testosterone levels were suppressed significantly faster with degarelix than with leuprolide, with degarelix uniformly achieving castration levels by Day 3 of treatment which was not seen in the leuprolide group. There were no testosterone surges with degarelix compared with surges in 81% of those who received leuprolide. Degarelix resulted in a faster reduction in PSA levels compared with leuprolide indicating faster control of the prostate cancer.  Recent results also suggest that degarelix therapy may result in longer control of prostate cancer compared with leuprolide.<ref>Schröder FH, Boccon-Gibod L, Tombal B, et al (March 2009) Degarelix versus leuprolide in patients with prostate cancer: effect in metastatic patients as assessed by serum alkaline phosphatase. [[European Association of Urology]] (EAU) Annual congress 17–21 March 2009, Stockholm, Sweden. Abstract 40.</ref>
+
+==Side effects==
+As with all hormonal therapies, degarelix is commonly associated with hormonal side effects such as [[hot flashes]] and [[weight gain]].<ref name="Klotz"/><ref>Gittelman M, Pommerville PJ, Persson BE, et al (November 2008). A 1-year, open label, randomized phase II dose finding study of degarelix for the treatment of prostate cancer in North America. J. Urol. '''180''': 1986-92.</ref><ref>Van Poppel H, Tombal B, de la Rosette JJ, et al (October 2008). Degarelix: a novel gonadotropin-releasing hormone (GnRH) receptor blocker--results from a 1-yr, multicentre, randomised, phase 2 dosage-finding study in the treatment of prostate cancer. Eur. Urol. '''54''': 805-13.</ref>  Due to its mode of administration ([[subcutaneous injection]]), degarelix is also associated with injection-site reactions such as injection-site pain, [[erythema]] or swelling.  Injection-site reactions are usually mild or moderate in intensity and occur predominantly after the first dose, decreasing in frequency thereafter.<ref name="Klotz"/>
+
+== FSH receptors in other solid tumors ==
+
+FSH [[Receptor (biochemistry)|receptor]]s are selectively expressed on the [[lumen (anatomy)|luminal]] surface of the blood vessels of a wide range of tumors.<ref name="Radu2010">{{Cite journal 
+| last1 = Radu | first1 = A. 
+| last2 = Pichon | first2 = C. 
+| last3 = Camparo | first3 = P. 
+| last4 = Antoine | first4 = M. 
+| last5 = Allory | first5 = Y. 
+| last6 = Couvelard | first6 = A. 
+| last7 = Fromont | first7 = G. L. 
+| last8 = Hai | first8 = M. T. V. 
+| last9 = Ghinea | first9 = N. 
+| doi = 10.1056/NEJMoa1001283 
+| title = Expression of Follicle-Stimulating Hormone Receptor in Tumor Blood Vessels 
+| journal = New England Journal of Medicine 
+| volume = 363 
+| issue = 17 
+| pages = 1621–1630 
+| year = 2010 
+| pmid = 20961245 
+| pmc = 
+}}</ref> There may be a potential role for suppression of FSH or FSH receptors. This work is in early stages. It is thought that FSH receptors are important in tumor [[angiogenesis]] by signalling via two pathways, one involving [[VEGF]], and a [[Gq alpha subunit|Gq/11]] mechanism that activates [[VEGFR-2]] independently of VEGF.<ref name="Radu2010"/>
+
+==Alternative use==
+Degarelix is studied for use as a [[chemical castration]] agent on sex offenders in [[Sweden]].<ref>{{cite news|title=Pedofiler ska stoppas – med kemisk kastrering|url=http://www.expressen.se/nyheter/pedofiler-ska-stoppas--med-kemisk-kastrering/|website=Expressen}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.firmagon.us/ Degarelix Product website in the US]
+
+{{Gonadotropins and GnRH}}
+{{Peptidergics}}
+
+[[Category:GnRH antagonists]]

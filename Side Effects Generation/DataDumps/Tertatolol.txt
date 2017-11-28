@@ -1,0 +1,70 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 408926545
+| IUPAC_name = (±)-1-(''tert''-Butylamino)-3-(3,4-dihydro-2''H''-thiochromen-8-yloxy)propan-2-ol
+| image = Tertatolol.svg
+| chirality = [[Racemic mixture]]
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|tertatolol}}
+| pregnancy_category =  
+| legal_status = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 34784-64-0
+| ATC_prefix = C07
+| ATC_suffix = AA16
+| PubChem = 36920
+| IUPHAR_ligand = 571
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 9ZO341YQXP
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07182
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 434200
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 33875
+
+<!--Chemical data-->
+| C=16 | H=25 | N=1 | O=2 | S=1 
+| molecular_weight = 295.44 g/mol
+| smiles            = CC(C)(C)NCC(COC1=CC=CC2=C1SCCC2)O
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C16H25NO2S/c1-16(2,3)17-10-13(18)11-19-14-8-4-6-12-7-5-9-20-15(12)14/h4,6,8,13,17-18H,5,7,9-11H2,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = HTWFXPCUFWKXOP-UHFFFAOYSA-N
+}}
+
+'''Tertatolol''' ('''Artex''', '''Artexal''', '''Prenalex''') is a [[medication]] in the class of [[beta blocker]]s, used in the treatment of [[hypertension|high blood pressure]]. It was discovered by the French pharmaceutical company [[Servier]] and is marketed in [[Europe]].<ref name="isbn3-88763-075-0">{{cite book | author = Swiss Pharmaceutical Society | title = Index Nominum 2000: International Drug Directory (Book with CD-ROM) | publisher = Medpharm Scientific Publishers | location = Boca Raton | year = 2000 | pages = | isbn = 3-88763-075-0 | oclc = | doi = | url = https://books.google.com/books?id=5GpcTQD_L2oC&lpg=PA1002&pg=PA1002#v=onepage&q=&f=false}}</ref>
+
+Tertatolol has also been shown to act as a [[serotonin]] [[5-HT1A receptor|5-HT<sub>1A</sub>]] and [[5-HT1B receptor|5-HT<sub>1B</sub> receptor]] [[receptor antagonist|antagonist]], similarly to [[propranolol]] and [[pindolol]].<ref name="pmid8093601">{{cite journal | vauthors = Langlois M, Brémont B, Rousselle D, Gaudy F | title = Structural analysis by the comparative molecular field analysis method of the affinity of beta-adrenoreceptor blocking agents for 5-HT1A and 5-HT1B receptors | journal = Eur. J. Pharmacol. | volume = 244 | issue = 1 | pages = 77–87 | year = 1993 | pmid = 8093601 | doi = | url = }}</ref><ref name="pmid7686633">{{cite journal  |vauthors=Jolas T, Haj-Dahmane S, Lanfumey L, etal | title = (-)Tertatolol is a potent antagonist at pre- and postsynaptic serotonin 5-HT1A receptors in the rat brain | journal = Naunyn-Schmiedeberg's Archives of Pharmacology | volume = 347 | issue = 5 | pages = 453–63 |date=May 1993 | pmid = 7686633 | doi = 10.1007/bf00166735| url = }}</ref><ref name="isbn0-444-82041-8">{{cite book |author1=Soudijn, W. |author2=Olivier, Berend |author3=Wijngaarden, I. van | title = Serotonin receptors and their ligands | publisher = Elsevier | location = Amsterdam | year = 1997 | pages = | isbn = 0-444-82041-8 | oclc = | doi = | url = https://books.google.com/books?id=lfo0hGqIex0C&lpg=PA37&pg=PA37#v=onepage&q=&f=false}}</ref>
+
+== See also ==
+* [[Hydroxytertatolol]]
+
+== References ==
+{{Reflist}}
+
+
+{{Beta blockers}}
+{{Adrenergic receptor modulators}}
+{{Serotonin receptor modulators}}
+
+[[Category:5-HT1A antagonists]]
+[[Category:5-HT1B antagonists]]
+[[Category:Alcohols]]
+[[Category:Beta blockers]]
+[[Category:Phenol ethers]]
+[[Category:Thiochromanes]]
+
+
+{{Cardiovascular-drug-stub}}

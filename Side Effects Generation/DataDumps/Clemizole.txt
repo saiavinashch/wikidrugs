@@ -1,0 +1,60 @@
+{{Drugbox
+| IUPAC_name = 1-[(4-Chlorophenyl)methyl]-2-(pyrrolidin-1-ylmethyl)benzimidazole
+| image = Clemizole.svg
+| width = 200
+
+<!--Clinical data-->
+| tradename =
+| pregnancy_category =
+| legal_status =
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number = 442-52-4
+| ATC_prefix = None
+| ATC_suffix =
+| ChEBI = 52140
+| StdInChI = 1S/C19H20ClN3/c20-16-9-7-15(8-10-16)13-23-18-6-2-1-5-17(18)21-19(23)14-22-11-3-4-12-22/h1-2,5-10H,3-4,11-14H2
+| StdInChIKey = CJXAEXPPLWQRFR-UHFFFAOYSA-N
+| PubChem = 2782
+| ChemSpiderID = 2680
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = T97CB3796L
+| ChEMBL = 1407943
+| NIAID_ChemDB = 033090
+| KEGG = D01705
+
+<!--Chemical data-->
+| C=19 | H=20 | Cl=1 | N=3
+| molecular_weight = 325.84 g/mol
+| smiles = Clc1ccc(cc1)Cn3c(nc2ccccc23)CN4CCCC4
+}}
+
+'''Clemizole''' is an [[H1 antagonist|H<sub>1</sub> antagonist]].
+
+==Synthesis==
+Benzimidazoles substituted with an alkylamine at position 2 have a venerable history as H<sub>1</sub> antihistaminic agents. The standard starting material for many benzimidazoles consists of [[phenylenediamine]], or its derivatives.
+[[File:Clemizole synthesis.svg|500px|center|thumb|Clemizole synthesis:<ref>{{Cite journal | doi = 10.1002/jlac.19525750204| title = Zur Darstellung der Benzimidazole| journal = Justus Liebigs Annalen der Chemie| volume = 575| issue = 2| pages = 162| year = 1952| last1 = Jerchel | first1 = D. | last2 = Fischer | first2 = H. | last3 = Kracht | first3 = M. }}</ref><ref>{{Cite patent|GB|703272}}; M. Schenck, W. Heinz, {{US patent|2689853}} (both 1954 to [[Schering AG]]).</ref>]]
+Reaction of that compound with [[chloroacetic acid]] can be rationalized by invoking initial formation of the chloromethyl amide. [[Imide]] formation with the remaining free amino group closes the ring to afford 2-chloromethyl benzimidazole ('''3'''). Displacement of halogen with [[pyrrolidine]] affords the alkylation product. The proton on the fused imidazole nitrogen is then removed by reaction with [[sodium hydride]]. Treatment of the resulting anion with α,4-dichlorotoluene gives the H<sub>1</sub> antihistaminic agent clemizole ('''5''').
+
+==See also==
+* [[Chlormidazole]]
+
+== References ==
+{{Reflist|2}}
+
+{{Histaminergics}}
+
+[[Category:Benzimidazoles]]
+[[Category:Chloroarenes]]
+[[Category:H1 receptor antagonists]]
+[[Category:Pyrrolidines]]
+
+{{respiratory-system-drug-stub}}

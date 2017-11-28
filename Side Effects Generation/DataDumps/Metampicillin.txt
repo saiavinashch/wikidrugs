@@ -1,0 +1,67 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 390738137
+| IUPAC_name = 3,3-Dimethyl-6-<nowiki>[[</nowiki>2-(methylideneamino)-2-phenylacetyl]amino]-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+| image = Metampicillin.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 6489-97-0
+| ATC_prefix = J01
+| ATC_suffix = CA14
+| ATC_supplemental =  
+| PubChem = 6713928
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 5145919
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = G0H6U7VSTK
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1908324
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=17 | H=19 | N=3 | O=4 | S=1 
+| molecular_weight = 361.415 g/mol
+|  smiles = CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](c3ccccc3)N=C)C(=O)O)C
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C17H19N3O4S/c1-17(2)12(16(23)24)20-14(22)11(15(20)25-17)19-13(21)10(18-3)9-7-5-4-6-8-9/h4-8,10-12,15H,3H2,1-2H3,(H,19,21)(H,23,24)/t10-,11-,12+,15-/m1/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = FZECHKJQHUVANE-MCYUEQNJSA-N
+
+}}
+
+'''Metampicillin''' ([[International Nonproprietary Name|INN]]) is a [[penicillin]] [[antibiotic]]. It is prepared by the reaction of ampicillin with formaldehyde, and is hydrolysed in aqueous solution with the formation of ampicillin. Hydrolysis is rapid under acid conditions, e.g., in the stomach, less rapid in neutral media, and incomplete in solutions such as human serum.<ref name="pmid4556172">{{cite journal |vauthors=Sutherland R, Elson S, Croydon EA |title=Metampicillin. Antibacterial activity and absorption and excretion in man |journal=Chemotherapy |volume=17 |issue=3 |pages=145–60 |year=1972 |pmid=4556172 |doi= 10.1159/000220849|url=}}</ref>
+
+==References==
+{{Reflist}}
+
+{{PenicillinAntiBiotics}}
+
+== External links ==
+* [http://www.ebi.ac.uk/chebi/searchId.do;1B6B6295EDD65241DA88E9DBD49C079E?chebiId=CHEBI:52060 ChEBI ID]
+
+[[Category:Penicillins]]
+
+
+{{antibiotic-stub}}

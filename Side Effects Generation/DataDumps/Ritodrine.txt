@@ -1,0 +1,74 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 464382866
+| IUPAC_name = 4-{{Square bracket open}}2-{{Square bracket open|2}}(1''R'',2''S'')-1-hydroxy-1-(4-hydroxyphenyl)propan-2-yl{{Square bracket close}}amino{{Square bracket close}}ethyl{{Square bracket close}}phenol
+| image = Ritodrine.svg
+| width = 260
+| image2 = Ritodrine ball-and-stick model.png
+
+<!--Clinical data-->
+|pronounce={{IPAc-en|ˈ|r|aɪ|t|oʊ|d|r|iː|n}} {{respell|RY|toh|dreen}}
+| tradename = 
+| Drugs.com = {{drugs.com|CONS|ritodrine}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US_comment = Discontinued
+| routes_of_administration = Oral ([[Tablet (pharmacy)|tablets]]), parenteral ([[Intravenous therapy|IV]])
+
+<!--Pharmacokinetic data-->
+| protein_bound = ~56%
+| metabolism = [[Liver|Hepatic]], metabolites are inactive<ref>{{cite journal|last1=Finkelstein|first1=BW|title=Ritodrine (Yutopar, Merrell Dow Pharmaceuticals Inc.)|journal=Drug Intelligence & Clinical Pharmacy|date=1981|volume=15|pages=425–33|accessdate=14 February 2016}}</ref>
+| elimination_half-life = 1.7–2.6 hours
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7294
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 26652-09-5
+| ATC_prefix = G02
+| ATC_suffix = CA01
+| PubChem = 33572
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00867
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 30971
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = I0Q6O6740J
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02359
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 785
+
+<!--Chemical data-->
+| C=17 | H=21 | N=1 | O=3
+| molecular_weight = 287.354 g/mol
+| smiles = O[C@H](c1ccc(O)cc1)[C@@H](NCCc2ccc(O)cc2)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H21NO3/c1-12(17(21)14-4-8-16(20)9-5-14)18-11-10-13-2-6-15(19)7-3-13/h2-9,12,17-21H,10-11H2,1H3/t12-,17-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IOVGROKTTNBUGK-SJCJKPOMSA-N
+}}
+
+'''Ritodrine''' (trade name '''Yutopar''') is a [[tocolytic]] [[drug]] used to stop [[premature labor]].<ref name="pmid15756046">{{cite journal |vauthors=Li X, Zhang Y, Shi Z |title=Ritodrine in the treatment of preterm labour: a meta-analysis |journal=The Indian journal of medical research |volume=121 |issue=2 |pages=120–7 |date=February 2005 |pmid=15756046 |doi= |url=http://www.icmr.nic.in/ijmr/2005/February/0207.pdf}}</ref>  This drug has been removed from the US market, according to [[Approved Drug Products with Therapeutic Equivalence Evaluations|FDA Orange Book]]. It was available in oral tablets or as an injection and was typically used as the [[hydrochloride]] [[salt (chemistry)|salt]], ritodrine hydrochloride.
+
+==Mechanism==
+Ritodrine is a short-acting [[Beta2-adrenergic agonist|β<sub>2</sub> adrenoreceptor agonist]] — a class of medication used for smooth muscle relaxation (other similar drugs are used in asthma or other pulmonary diseases such as [[salbutamol]] (albuterol)). Since ritodrine has a bulky ''N''-substituent, it has high β<sub>2</sub> selectivity. Also, the 4-hydroxy group on the benzene ring is important for activity as it is needed to form hydrogen bonds. However, the 4-hydroxy group makes it susceptible to metabolism by [[Catechol-O-methyl transferase|catechol-''O''-methyl transferase]] (COMT). Since it is β<sub>2</sub>-selective it is used for premature labor.<ref>[http://pharmaxchange.info/notes/medicinal_chemistry/adrenergics_cholinergics.html Medicinal Chemistry of Adrenergics and Cholinergics]</ref>
+
+==Side effects and potential contraindications==
+Most side effects of β<sub>2</sub> agonists result from their concurrent β<sub>1</sub> activity, and include increase in heart rate, rise in systolic pressure, decrease in diastolic pressure, chest pain secondary to myocardial infarction, and arrhythmia. Beta agonists may also cause fluid retention secondary to decrease in water clearance, which when added to the [[tachycardia]] and increased [[Cardiac muscle|myocardial]] work, may result in [[heart failure]]. In addition, they increase [[gluconeogenesis]] in the liver and muscle resulting in hyperglycemia, which increases insulin requirements in diabetic patients. The passage of β agonists through the placenta does occur and may be responsible for fetal tachycardia, as well as hypoglycemia or hyperglycemia at birth.
+
+Patients with [[Diabetes mellitus type 2|type 2 diabetes]], [[Hypertension|high blood pressure]] or [[migraine]]s should bring this to their doctor's attention before receiving care.
+
+It has also been associated with [[postpartum bleeding]].{{Citation needed|date=October 2010}}
+
+==References==
+{{reflist}}
+
+{{Other gynecologicals}}
+{{Adrenergic agonists}}
+
+[[Category:Beta2-adrenergic agonists]]
+[[Category:Phenols]]
+[[Category:Substituted amphetamines]]
+[[Category:Tocolytics]]

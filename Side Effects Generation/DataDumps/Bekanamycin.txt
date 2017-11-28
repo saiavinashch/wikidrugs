@@ -1,0 +1,78 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 461747587
+| IUPAC_name = (2''S'',3''R'',4''S'',5''S'',6''R'')-4-amino-2-<nowiki/>{[(2''S'',3''R'',4''S'',6''R'')-4,6-diamino-3-<nowiki/>{[(2''R'',3''R'',4''R'',5''S'',6''R'')-3-amino-6-(aminomethyl)-4,5-dihydroxyoxan-2-yl]oxy}-2-hydroxycyclohexyl]oxy}-6-(hydroxymethyl)oxane-3,5-diol
+| image = Bekanamycin.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|bekanamycin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 4696-76-8
+| CAS_supplemental =  
+| ATC_prefix = J01
+| ATC_suffix =  GB13
+| ATC_supplemental =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 15JT14C3GI
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 176
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 28098
+| PubChem = 439318
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 388449
+| NIAID_ChemDB = 005087
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=18 | H=37 | N=5 | O=10 
+| molecular_weight = 483.51 g/mol
+| smiles = C1[C@@H]([C@H]([C@@H]([C@H]([C@@H]1N)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)N)O)O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CN)O)O)N)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C18H37N5O10/c19-2-6-11(26)12(27)9(23)17(30-6)32-15-4(20)1-5(21)16(14(15)29)33-18-13(28)8(22)10(25)7(3-24)31-18/h4-18,24-29H,1-3,19-23H2/t4-,5+,6+,7+,8-,9+,10+,11+,12+,13+,14-,15+,16-,17+,18+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SKKLOUVUUNMCJE-FQSMHNGLSA-N
+}}
+
+'''Bekanamycin''' ([[International Nonproprietary Name|INN]], or '''kanamycin B''') is an [[aminoglycoside]] [[antibiotic]].<ref>{{Cite journal 
+| last1 = Morales | first1 = M. A. 
+| last2 = Castrillon | first2 = J. L. 
+| last3 = Hernandez | first3 = D. A. 
+| title = Effects of bekanamycin and dibekacin on the electrical activity of cardiac pacemaker cells 
+| journal = Archives of medical research 
+| volume = 24 
+| issue = 4 
+| pages = 339–345 
+| year = 1993 
+| pmid = 8118157
+}}</ref>
+
+==References==
+{{reflist}}
+
+{{AminoglycosideAntiBiotics}}
+
+[[Category:Aminoglycoside antibiotics]]
+
+
+{{antibiotic-stub}}

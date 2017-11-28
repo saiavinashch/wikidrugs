@@ -1,0 +1,55 @@
+{{Drugbox
+| IUPAC_name = 2-[8-Fluoro-2-(naphthalene-1-carbonyl)-3,4-dihydro-1''H''-pyrido[4,3-b]indol-5-yl]acetic acid
+| image = Setipiprant.svg
+
+<!--Clinical data-->
+| tradename = 
+| pregnancy_category = 
+| legal_status = Investigational
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| metabolism = 
+| elimination_half-life = 
+| excretion =
+
+<!--Identifiers-->
+| CAS_number = 866460-33-5
+| ATC_prefix = none
+| ATC_suffix = 
+| KEGG = D10326
+| PubChem = 49843471
+| ChemSpiderID = 29738718
+| UNII = BHF20LA2GM
+
+<!--Chemical data-->
+| C=24 | H=19 | F=1 | N=2 | O=3 
+| molecular_weight = 402.417 g/mol
+| smiles = c15ccccc5cccc1C(=O)N(CC3)Cc2c3n(CC(O)=O)c(cc4)c2cc4F
+| StdInChI=1S/C24H19FN2O3/c25-16-8-9-21-19(12-16)20-13-26(11-10-22(20)27(21)14-23(28)29)24(30)18-7-3-5-15-4-1-2-6-17(15)18/h1-9,12H,10-11,13-14H2,(H,28,29)
+| StdInChIKey = IHAXLPDVOWLUOS-UHFFFAOYSA-N
+}}
+
+'''Setipiprant''' ([[International Nonproprietary Name|INN]]) (developmental code names '''ACT-129,968''', '''KYTH-105''') is a [[pharmaceutical drug|drug]] originally developed by [[Actelion]] which acts as a selective, orally available [[receptor antagonist|antagonist]] of the [[prostaglandin DP2 receptor|prostaglandin D<sub>2</sub> receptor 2]] (DP<sub>2</sub>).<ref>Fretz H, Valdenaire A, Pothier J, Hilpert K, Gnerre C, Peter O, Leroy X, Riederer MA. Identification of 2-(2-(1-naphthoyl)-8-fluoro-3,4-dihydro-1H-pyrido[4,3-b]indol-5(2H)-yl)acetic acid (setipiprant/ACT-129968), a potent, selective, and orally bioavailable chemoattractant receptor-homologous molecule expressed on Th2 cells (CRTH2) antagonist. ''J Med Chem''. 2013 Jun 27;56(12):4899-911. doi: 10.1021/jm400122f {{PMID|23721423}}</ref> It was initially researched as a treatment for allergies and inflammatory disorders, particularly [[asthma]], but despite being well tolerated in [[clinical trial]]s and showing reasonable efficacy against allergen-induced airway responses in asthmatic patients,<ref>Sidharta PN, Diamant Z, Dingemanse J. Single- and multiple-dose tolerability and pharmacokinetics of the CRTH2 antagonist setipiprant in healthy male subjects. ''Fundam Clin Pharmacol''. 2014 Dec;28(6):690-9. doi: 10.1111/fcp.12079 {{PMID|24734908}}</ref><ref>Diamant Z, Sidharta PN, Singh D, O'Connor BJ, Zuiker R, Leaker BR, Silkey M, Dingemanse J. Setipiprant, a selective CRTH2 antagonist, reduces allergen-induced airway responses in allergic asthmatics. ''Clin Exp Allergy''. 2014 Aug;44(8):1044-52. doi: 10.1111/cea.12357 {{PMID|24964348}}</ref> it failed to show sufficient advantages over existing drugs and was discontinued from further development in this application.<ref>Norman P. Update on the status of DP2 receptor antagonists; from proof of concept through clinical failures to promising new drugs. ''Expert Opin Investig Drugs''. 2014 Jan;23(1):55-66. doi: 10.1517/13543784.2013.839658 {{PMID|24073896}}</ref>
+
+However, following the discovery in 2012 that the [[prostaglandin D2 receptor|prostaglandin D<sub>2</sub> receptor]] (DP/PGD<sub>2</sub>) is expressed at high levels in the scalp of men affected by [[male pattern baldness]],<ref>Garza LA, et al. Prostaglandin D2 inhibits hair growth and is elevated in bald scalp of men with androgenetic alopecia. ''Science Translational Medicine'', 21 March 2012; 4(126):126ra34. doi: 10.1126/scitranslmed.3003122</ref> the rights to setipiprant were acquired by Kythera with a view to potentially developing this drug as a novel treatment for baldness, with a previously unexploited mechanism of action.<ref>[https://www.google.com/patents/US20150072963 George Cotsarelis, Garret Fitzgerald, Luis Garza. Compositions and methods for regulating hair growth. US Patent application 2015/0072963]</ref> While it is too early to tell whether setipiprant will be an effective treatment for this condition, the favorable pharmacokinetics and relative lack of side effects seen in earlier clinical trials mean that fresh clinical trials for this new application can be conducted fairly quickly.<ref>[http://www.kythera.com/products/kyth-105-setipiprant/ Pipeline KYTH-105 (setipiprant)]</ref>
+
+A phase 2A study is underway to evaluate the safety, tolerability, and efficacy of oral setipiprant relative to a [[placebo]] and the active comparator, [[finasteride]], in 18 to 41 years old males with androgenetic [[alopecia]].<ref>https://clinicaltrials.gov/ct2/show/NCT02781311?intr=ACT-129968+OR+Setipiprant&rank=4</ref>
+
+==See also==
+* [[Prostaglandin DP2 receptor]]
+* [[Fevipiprant]]
+* [[Ramatroban]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://adisinsight.springer.com/drugs/800018368 Setipiprant - AdisInsight]
+
+{{Other dermatological preparations}}
+{{Prostanoid signaling modulators}}
+
+[[Category:Prostaglandins]]
+[[Category:Receptor antagonists]]

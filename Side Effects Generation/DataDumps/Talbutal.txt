@@ -1,0 +1,68 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470476789
+| IUPAC_name = (RS)-5-allyl-5-''sec''-butylpyrimidine-2,4,6(1''H'',3''H'',5''H'')-trione
+| image = Talbutal.svg
+| width = 120
+<!--Clinical data-->
+| tradename =  
+| pregnancy_category = 
+| legal_CA = Schedule IV
+| legal_US = Schedule III
+| routes_of_administration = 
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 115-44-6
+| ATC_prefix = N05
+| ATC_suffix = CA07
+| PubChem = 8275
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00306
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 7976
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 4YIR8202AX
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1200802
+<!--Chemical data-->
+| C=11 | H=16 | N=2 | O=3
+| molecular_weight = 224.256 g/mol
+| smiles = O=C1NC(=O)NC(=O)C1(C(C)CC)C\C=C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C11H16N2O3/c1-4-6-11(7(3)5-2)8(14)12-10(16)13-9(11)15/h4,7H,1,5-6H2,2-3H3,(H2,12,13,14,15,16)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = BJVVMKUXKQHWJK-UHFFFAOYSA-N
+| synonyms = <small>5-(1-methylpropyl)-5-(2-propenyl)-2,4,6(1''H'',3''H'',5''H'')-pyrimidinetrione</small>
+}}
+
+'''Talbutal''' ('''Lotusate''') is a [[barbiturate]] with a short to intermediate duration of action. It is a [[structural isomerism|structural isomer]] of [[butalbital]]. Talbutal is a schedule III drug in the U.S.
+
+==Pharmacology==
+Talbutal is a short to intermediate-acting barbiturate. Barbiturates act as nonselective depressants of the [[central nervous system]] (CNS), capable of producing all levels of CNS mood alteration from excitation to mild sedation, hypnosis, and deep coma. In sufficiently high therapeutic doses, barbiturates induce [[anesthesia]].<ref name="Mutschler">{{Cite book|last1=Mutschler|first1=Ernst|last2=Schäfer-Korting|first2=Monika|title=Arzneimittelwirkungen|language=German|location=Stuttgart|publisher=Wissenschaftliche Verlagsgesellschaft|year=2001|edition=8|pages=280ff|isbn=3-8047-1763-2}}</ref>
+
+==Mechanism of action==
+Talbutal binds at a distinct binding site associated with a Cl<sup>−</sup> ionopore at the [[GABAA receptor|GABA<sub>A</sub> receptor]], increasing the duration of time for which the Cl<sup>−</sup> ionopore is open. The post-synaptic inhibitory effect of GABA in the thalamus is, therefore, prolonged.
+
+==Toxicity==
+Symptoms of acute barbiturate poisoning include drowsiness, confusion, coma, respiratory depression, [[hypotension]],<ref name="Mutschler" /> and shock.
+
+==References==
+{{Refimprove|date=December 2009}}
+{{reflist}}
+
+
+{{Hypnotics and sedatives}}
+{{GABAAR PAMs}}
+
+[[Category:Barbiturates]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:Allyl compounds]]
+
+
+{{sedative-stub}}

@@ -1,0 +1,81 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 459812486
+| IUPAC_name = (1''S'',2''R'',4''R'')-''N'',2,3,3-Tetramethylbicyclo[2.2.1]heptan-2-amine
+| image = Mecamylamine3.svg
+<!--Clinical data-->
+| tradename =
+| Drugs.com = {{drugs.com|CDI|mecamylamine}}
+| pregnancy_category =
+| legal_status = Rx-only
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound = 40%
+| metabolism =
+| elimination_half-life =
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 60-40-2
+| ATC_prefix = C02
+| ATC_suffix = BB01
+| PubChem = 4032
+| IUPHAR_ligand = 3990
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00657
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5036243
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 6EE945D3OK
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1398031
+<!--Chemical data-->
+| C=11 | H=21 | N=1
+| molecular_weight = 167.291 g/mol
+| smiles = N([C@@]2([C@@H]1CC[C@@H](C1)C2(C)C)C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C11H21N/c1-10(2)8-5-6-9(7-8)11(10,3)12-4/h8-9,12H,5-7H2,1-4H3/t8-,9+,11+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IMYZQPCYWPFTAG-IQJOONFLSA-N
+}}
+
+'''Mecamylamine''' ([[International nonproprietary name|INN]], [[British Approved Name|BAN]]; or '''mecamylamine hydrochloride''' ([[United States Adopted Name|USAN]]); brand names '''Inversine''', '''Vecamyl'''<ref>{{cite web | url = https://www.drugs.com/mtm/mecamylamine.html | publisher = [[drugs.com]]| title = Mecamylamine | accessdate = May 15, 2015}}</ref>) is a [[binding selectivity|non-selective]], [[Noncompetitive inhibition|non-competitive]] [[receptor antagonist|antagonist]] of the [[nicotinic acetylcholine receptor]]s (nAChRs) that was introduced in the 1950s as an [[antihypertensive]] [[drug]].<ref name="pmid19874251">{{cite journal |vauthors=Bacher I, Wu B, Shytle DR, George TP | title = Mecamylamine - a nicotinic acetylcholine receptor antagonist with potential for the treatment of neuropsychiatric disorders | journal = Expert Opinion on Pharmacotherapy | volume = 10 | issue = 16 | pages = 2709–21 |date=November 2009 | pmid = 19874251 | doi = 10.1517/14656560903329102 | url = http://informahealthcare.com/doi/abs/10.1517/14656560903329102}}</ref> In the [[United States]], it was voluntarily withdrawn from the market in 2009 but was brought to market in 2013 as Vecamyl and eventually was marketed by [[Turing Pharmaceuticals]].<ref>{{Cite web | url = http://adisinsight.springer.com/drugs/800014114 | title = Drug Profile: Mecamylamine - Targacept}}</ref><ref>{{Cite web|url=https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&applno=204054|title=Drugs@FDA: FDA Approved Drug Products|website=www.accessdata.fda.gov|access-date=2017-10-16}}</ref>
+
+Chemically, mecamylamine is a secondary [[aliphatic]] [[amine]], with a pK<sub>aH</sub> of 11.2<ref name="pmid13476377">{{cite journal |vauthors=Schanker LS, Shore PA, Brodie BB, Hogben CA |title=Absorption of drugs from the stomach. I. The rat |journal=J. Pharmacol. Exp. Ther. |volume=120 |issue=4 |pages=528–39 |year=1957 |pmid=13476377 }}</ref>
+
+==Pharmacology and clinical applications==
+Mecamylamine has been used as an orally-active [[ganglionic blocker]] in treating [[autonomic dysreflexia]] and [[hypertension]],<ref>{{cite book | author = T. O. Soine | date = 1966 | title = Textbook of Organic Medicinal and Pharmaceutical Chemistry | edition = 5th| editor = C. O. Wilson, O. Gisvold and R. F. Doerge | pages = 468–546 | location = Philadelphia | publisher = Lippincott}}</ref> but, like most ganglionic blockers, it is more often used now as a research tool.
+
+Mecamylamine is also sometimes used as an [[antiaddictive]] drug to help people stop smoking tobacco,<ref name="pmid12080428">{{cite journal |vauthors=Shytle RD, Penny E, Silver AA, Goldman J, Sanberg PR |title=Mecamylamine (Inversine): an old antihypertensive with new research directions |journal=J Hum Hypertens |volume=16 |issue=7 |pages=453–7 |date=July 2002 |pmid=12080428 |doi=10.1038/sj.jhh.1001416}}</ref> and is now more widely used for this application than it is for lowering blood pressure. This effect is thought to be due to its blocking [[Alpha-3 beta-4 nicotinic receptor|α3β4]] [[nicotinic receptors]] in the brain. It has also been reported to bring about sustained relief from tics in [[Tourette syndrome]] when a series of more usually used agents had failed.{{medcn|date=October 2016}}
+
+In a recent double-blind, placebo-controlled Phase II trial in Indian patients with major depression, (''S'')-mecamylamine (TC-5214) appeared to have efficacy as an [[Augmentation (psychiatry)|augmentation]] therapy. This is the first substantive evidence that shows that compounds where the primary pharmacology is antagonism to neuronal nicotinic receptors will have antidepressant properties.<ref name="pmid19040552">{{cite journal  |vauthors=Lippiello PM, Beaver JS, Gatto GJ, etal |title=TC-5214 (S-(+)-mecamylamine): a neuronal nicotinic receptor modulator with antidepressant activity |journal=CNS Neurosci Ther |volume=14 |issue=4 |pages=266–77 |year=2008 |pmid=19040552 |doi=10.1111/j.1755-5949.2008.00054.x |url=}}</ref><ref name="pmid17016705">{{cite journal |vauthors=Rabenstein RL, Caldarone BJ, Picciotto MR |title=The nicotinic antagonist mecamylamine has antidepressant-like effects in wild-type but not beta2- or alpha7-nicotinic acetylcholine receptor subunit knockout mice |journal=Psychopharmacology |volume=189 |issue=3 |pages=395–401 |date=December 2006 |pmid=17016705 |doi=10.1007/s00213-006-0568-z |url=}}</ref> TC-5214 is currently in Phase III of clinical development as an add-on treatment and on stage II as a monotherapy treatment for major depression. The first results reported from the Phase III trials showed that TC-5214 failed to meet the primary goal and the trial did not replicate the effects that had been encouraging in the Phase II trial.<ref>{{cite web| author=John Carroll |url=http://www.fiercebiotech.com/story/key-aztargacept-depression-drug-flunks-first-phase-iii-test/2011-11-08 |title=Key AZ/Targacept depression drug flunks first Phase III test |publisher=Fiercebiotech.com |date= |accessdate=2011-11-09}}</ref><ref>{{cite web|url=http://news.businessweek.com/article.asp?documentKey=1376-LUBZKL6JIJVL01-1OBSNUJNAR30QM320MFNHCQ74T |title=Targacept Shares Fall After Depression Medicine Misses Goal |publisher=News.businessweek.com |date=2007-01-15 |accessdate=2011-11-09}}</ref> Development is funded by Targacept and AstraZeneca.<ref>{{cite web|url=http://www.astrazeneca.com/cs/Satellite?blobcol=urldata&blobheader=application%2Fpdf&blobheadername1=Content-Disposition&blobheadername2=MDT-Type&blobheadervalue1=inline%3B+filename%3DDownload-pipeline-summary.pdf&blobheadervalue2=abinary%3B+charset%3DUTF-8&blobkey=id&blobtable=MungoBlobs&blobwhere=1285619440126&ssbinary=true |title=AstraZeneca Pipeline as of the 27th of January 2011 |date= |accessdate=2011-11-09}}</ref>  It did not produce meaningful, beneficial results on patients as measured by changes on the [[Montgomery-Asberg Depression Rating Scale]] after eight weeks of treatment as compared with placebo.
+
+(''S'')-(+)-Mecamylamine [[Dissociation constant|dissociates]] more slowly from [[alpha-4 beta-2|α4β2]] and [[alpha-3 beta-4|α3β4]] receptors than does the (''R'')-(−)-[[enantiomer]].<ref name="pmid11303054">{{cite journal |vauthors=Papke RL, Sanberg PR, Shytle RD |title=Analysis of mecamylamine stereoisomers on human nicotinic receptor subtypes |journal=J. Pharmacol. Exp. Ther. |volume=297 |issue=2 |pages=646–56 |date=May 2001 |pmid=11303054 |doi= |url=http://jpet.aspetjournals.org/cgi/pmidlookup?view=long&pmid=11303054}}</ref>
+
+A large [[QSAR|SAR]] study of mecamylamine and its analogs was reported by a group from Merck in 1962.<ref name = Stone>{{cite journal |vauthors=Stone CA, Torchiana ML, Meckelnberg KL, Stavorski J, Sletzinger M, Stein GA, Ruyle WV, Reinhold DF, Gaines WA, Arnold H, Pfister K|display-authors = etal |title=CHEMISTRY AND STRUCTURE-ACTIVITY RELATIONSHIPS OF MECAMYLAMINE AND DERIVATIVES |journal=J Med Pharm Chem |volume=91 |issue= |pages=665–90 |year=1962 |pmid=14061006 }}</ref> Another, more recent [[QSAR|SAR]] study was undertaken by Suchocki et al.<ref>{{ cite journal | url = http://pubs.acs.org/doi/abs/10.1021/jm00107a019 | title = Synthesis of 2-exo- and 2-endo-mecamylamine analogs. Structure-activity relationships for nicotinic antagonism in the central nervous system |author1=Suchocki, J. A. |author2=May, E. L. |author3=Martin ,T. J. |author4=George, C. |author5=Martin, B. R. | journal = Journal of Medicinal Chemistry | year = 1991 | volume = 34 | issue = 3 | pages = 1003–1010 | doi = 10.1021/jm00107a019 | pmid = 2002445 }}</ref>
+
+A comprehensive review of the pharmacology of mecamylamine was published in 2001.<ref>{{cite journal | last1 = Young | first1 = J. M. | display-authors = etal   | year = 2001 | title =  Mecamylamine: New therapeutic uses and toxicity/risk profile| url = | journal = Clin. Ther. | volume = 23 | issue = 4| pages = 532–565 | pmid = 11354389 | doi=10.1016/s0149-2918(01)80059-x}}</ref>
+
+==Toxicology==
+The {{LD50}} for the HCl salt<ref>In view of the time period when these data were generated, they presumably refer to the HCl salt of  the racemic drug</ref> in mice: 21&nbsp;mg/kg (i.v.); 37&nbsp;mg/kg (i.p.); 96&nbsp;mg/kg (p.o.).<ref>{{cite journal | last1 = Spinks | first1 = A. | display-authors = etal   | year = 1958 | title =  The pharmacological actions of pempidine and its ethyl homologue| url = | journal = Br. J. Pharmacol. Chemother | volume = 13 | issue = 4| pages = 501–520 | pmid = 13618559 | pmc = 1481871 | doi=10.1111/j.1476-5381.1958.tb00246.x}}</ref>
+
+==History==
+Mecamylamine was brought to market by [[Merck & Co.]] in the 1950s; in 1996 Merck sold the asset to [[Layton Bioscience]].<ref>{{cite journal|last1=Shytle|first1=RD|last2=Penny|first2=E|last3=Silver|first3=AA|last4=Goldman|first4=J|last5=Sanberg|first5=PR|title=Mecamylamine (Inversine): an old antihypertensive with new research directions.|journal=Journal of human hypertension|date=July 2002|volume=16|issue=7|pages=453-7|doi=10.1038/sj.jhh.1001416|pmid=12080428|url=http://www.nature.com/jhh/journal/v16/n7/full/1001416a.html}}</ref> In 2002, Targacept acquired it from Layton, intending to repurpose it for CNS conditions.<ref>{{cite news|title=Press release: Targacept, Inc. Acquires Marketed Drug To Expand Its CNS Portfolio {{!}} Evaluate|url=http://www.evaluategroup.com/Universal/View.aspx?type=Story&id=86220&sectionID=&isEPVantage=no|work=Targacept via Evaluate|date=August 27, 2002}}</ref>
+Targacept voluntarily withdrew mecamylamine from the market in 2009<ref>{{cite web|title=Notification letter from Targacept|url=https://www.fda.gov/downloads/Drugs/NewsEvents/UCM167332.pdf|publisher=FDA|date=June 4, 2009}}</ref> for reasons not related to safety or efficacy.<ref>{{cite web|title=Determination That INVERSINE (Mecamylamine Hydrochloride) Tablet and Six Other Drug Products Were Not Withdrawn From Sale for Reasons of Safety or Effectiveness|url=https://www.federalregister.gov/documents/2011/07/28/2011-19110/determination-that-inversine-mecamylamine-hydrochloride-tablet-and-six-other-drug-products-were-not|publisher=Federal Register|date=28 July 2011}}</ref>  Manchester Pharmaceuticals brought the drug back to market in 2013.<ref>{{cite news|title=Press release: Manchester Announces FDA Approval of Vecamyl|url=http://www.evaluategroup.com/Universal/View.aspx?type=Story&id=487170|work=Manchester Pharamceuticals via  Evaluate|date=May 1, 2013}}</ref>  [[Retrophin]] acquired Manchester in 2014<ref>{{cite news|last1=Fidler|first1=Ben|title=Retrophin Shares Boom Following Manchester Pharma Buyout|url=http://www.xconomy.com/new-york/2014/02/13/retrophin-shares-boom-following-manchester-pharma-buyout/|work=Xconomy|date=13 February 2014}}</ref> and after [[Martin Shkreli]] was forced out of Retrophin, in 2014 his new company, [[Turing Pharmaceuticals]], acquired the rights to mecamylamine from Retrophin.<ref>{{cite news|last1=Fidler|first1=Ben|title=Shkreli Leads $90M Round for New Startup, Turing Pharma {{!}} Xconomy|url=http://www.xconomy.com/new-york/2015/08/10/shkreli-leads-90m-round-for-new-startup-turing-pharma/#|work=Xconomy|date=10 August 2015}}</ref>
+
+==See also==
+* [[Bupropion]]
+* [[Hyoscine hydrobromide|Scopolamine]]
+
+==References==
+{{Reflist|2}}
+
+{{Antihypertensives and diuretics}}
+{{Antiaddictives}}
+{{Nicotinic acetylcholine receptor modulators}}
+
+[[Category:Amines]]
+[[Category:Nicotinic antagonists]]
+[[Category:Withdrawn drugs]]
+[[Category:Bicyclic compounds]]

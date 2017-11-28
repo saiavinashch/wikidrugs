@@ -1,0 +1,57 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 387321143
+| IUPAC_name = 3-oxo-1,3-dihydro-2-benzofuran-1-yl (2''S'',5''R'',6''R'')-6-{[(2''R'')-2-amino-2-phenylacetyl]amino}-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate
+| image = Talampicillin.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|talampicillin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 47747-56-8
+| ATC_prefix = J01
+| ATC_suffix = CA15
+| PubChem = 5373
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 29OJI73DPC
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1322719
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 64529
+
+<!--Chemical data-->
+| C=24 | H=23 | N=3 | O=6 | S=1 
+| molecular_weight = 481.52092 g/mol
+| smiles            = O=C(OC2OC(=O)c1ccccc12)[C@@H]4N5C(=O)[C@@H](NC(=O)[C@@H](c3ccccc3)N)[C@H]5SC4(C)C
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C24H23N3O6S/c1-24(2)17(22(31)33-23-14-11-7-6-10-13(14)21(30)32-23)27-19(29)16(20(27)34-24)26-18(28)15(25)12-8-4-3-5-9-12/h3-11,15-17,20,23H,25H2,1-2H3,(H,26,28)/t15-,16-,17+,20-,23?/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = SOROUYSPFADXSN-SUWVAFIASA-N
+}}
+'''Talampicillin''' is a [[beta lactam]] [[antibiotic]] from the [[penicillin]] family. It is an acid stable prodrug that was administered orally. It is not approved by the FDA for use in the United States.
+
+==Synthesis==
+[[Ampicillin]] remains the penicillin of choice for many infections  because of its oral activity and good potency against [[Gram-negative bacteria]]. A number of [[prodrugs]] have been examined in attempts to improve upon the [[pharmacodynamic]] characteristics, and one of these is talampicillin.
+[[File:Talampicillin synthesis.svg|thumb|center|500px|Talampicillin synthesis:<ref>I. Isaka, K. Nakano, T. Kashiwagi, A. Koda, H.Horiguchi, H. Matsui, K. Takahashi and M.Murakami, Chem. and Pharm. Bull., 24, 102 (1976).</ref><ref>J. P. Clayton, M. Cole, S. W. Elson, H. Ferres,J. C. Hanson, L. W. Mizen and R. Sutherland, J.Med. Chem., 19, 1385 (1976).</ref><ref>H. Ferres, M. P. Clayton, DE 2228012; eidem, US 3860579 (1972, 1975 both to Beecham).</ref><ref>See also: M. Murakami et al., US 3951954 (1976 to Yamanouchi).</ref>]]
+One synthesis involved protecting the primary amino group of [[ampicillin]] ('''1''') as the enamine with [[ethyl acetoacetate]] ('''2'''). THis was then esterified by reaction with 3-bromopthalide ('''3'''), and the enamine was carefully hydrolyzed with dilute HCl in acetonitrile to produce talampicillin ('''4''').
+{{Cell wall disruptive antibiotics}}
+
+==References==
+{{Reflist}}
+
+[[Category:Penicillins]]
+[[Category:Isobenzofurans]]
+[[Category:Lactones]]
+
+
+{{Antibiotic-stub}}

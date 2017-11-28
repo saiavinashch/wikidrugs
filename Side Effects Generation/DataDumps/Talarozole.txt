@@ -1,0 +1,71 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 451730052
+| IUPAC_name = N-(2-Benzothioazolyl)-N-[4-[2-ethyl-1-(1,2,4-triazo-1-yl)butyl]phenyl]amine
+| image =Talarozole_skeletal.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = oral, topical
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 201410-53-9
+| ATC_prefix = none
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem = 9799888
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 101854
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = XKD9N5CJ6W
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 7975653
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=21 | H=23 | N=5 | S=1 
+| molecular_weight = 377.505 g/mol
+| smiles = c2ncnn2C(C(CC)CC)c(cc3)ccc3Nc4nc1ccccc1s4
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C21H23N5S/c1-3-15(4-2)20(26-14-22-13-23-26)16-9-11-17(12-10-16)24-21-25-18-7-5-6-8-19(18)27-21/h5-15,20H,3-4H2,1-2H3,(H,24,25)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = SNFYYXUGUBUECJ-UHFFFAOYSA-N
+}}
+
+'''Talarozole''' (formerly '''R115866''', planned trade name '''Rambazole''') was an investigational drug for the treatment of [[acne]], [[psoriasis]] and other [[keratinization]] disorders. Development has been discontinued.<ref name="AdisInsight">http://adisinsight.springer.com/drugs/800020802</ref>
+
+Talarozole inhibits the metabolism of [[retinoic acid]] by blocking [[cytochrome P450]] enzyme CYP26 [[isoenzyme]]s ([[CYP26A1]] and possibly also [[CYP26B1]]), retinoic acid [[hydroxylase]]s.<ref name="pmid23688132">{{cite journal | vauthors = Nelson CH, Buttrick BR, Isoherranen N | title = Therapeutic potential of the inhibition of the retinoic acid hydroxylases CYP26A1 and CYP26B1 by xenobiotics | journal = Curr Top Med Chem | volume = 13 | issue = 12 | pages = 1402–28 | year = 2013 | pmid = 23688132 | pmc = 4366427 | doi = | url = }}</ref> Because of this mechanism, it is called a [[retinoic acid metabolism blocking agent]] (RAMBA).<ref name="pmid23688132" /><ref name="pmid19120344">{{cite journal|last=Giltaire|first=S|author2=Herphelin F |author3=Frankart A |author4=Hérin M |author5=Stoppie P |author6=Poumay Y |date=11 December 2008|title=The CYP26 inhibitor R115866 potentiates the effects of all-trans retinoic acid on cultured human epidermal keratinocytes|journal=Br J Dermatol|pmid=19120344|volume=160|issue=3|pages=505–13|doi=10.1111/j.1365-2133.2008.08960.x}}</ref>
+
+It has 750-fold higher [[potency (pharmacology)|potency]] than the earlier drug [[liarozole]] as well as greater [[binding selectivity|selectivity]], with more than 300-fold selectivity for inhibition of CYP26A1 over other steroid-metabolizing enzymes like [[CYP17A1]] (17α-hydroxylase/17,20-lyase) and [[aromatase]] (CYP19A1).<ref name="pmid23688132" /><ref name="pmid22989911">{{cite journal | vauthors = Gomaa MS, Lim AS, Lau SC, Watts AM, Illingworth NA, Bridgens CE, Veal GJ, Redfern CP, Brancale A, Armstrong JL, Simons C | title = Synthesis and CYP26A1 inhibitory activity of novel methyl 3-[4-(arylamino)phenyl]-3-(azole)-2,2-dimethylpropanoates | journal = Bioorg. Med. Chem. | volume = 20 | issue = 20 | pages = 6080–8 | year = 2012 | pmid = 22989911 | doi = 10.1016/j.bmc.2012.08.044 | url = }}</ref>
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://adisinsight.springer.com/drugs/800020802 Talarozole - AdisInsight]
+
+
+[[Category:Anti-acne preparations]]
+[[Category:Benzothiazoles]]
+[[Category:Triazoles]]
+
+
+{{dermatologic-drug-stub}}

@@ -1,0 +1,84 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 458284977
+| IUPAC_name = 4-(2-Ethyl-1,3-dihydroinden-2-yl)-3''H''-imidazole
+| image = Atipamezole.svg
+| image2 = Atipamezole-3D-balls.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|atipamezole}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Veterinary use only
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 104054-27-5
+| ATCvet = yes
+| ATC_prefix = V03
+| ATC_suffix = AB90
+| ATC_supplemental =  
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 353972
+| PubChem = 71310
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 03N9U5JAF6
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03002
+|  ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 64427
+|  smiles = n1cc(nc1)C3(Cc2c(cccc2)C3)CC
+|  StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C14H16N2/c1-2-14(13-9-15-10-16-13)7-11-5-3-4-6-12(11)8-14/h3-6,9-10H,2,7-8H2,1H3,(H,15,16)
+|  StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = HSWPZIDYAHLZDD-UHFFFAOYSA-N
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=14 | H=16 | N=2 
+| molecular_weight = 212.290 g/mol
+}}
+
+'''Atipamezole''' (brand name Antisedan, [[Pfizer]]) is a synthetic [[Alpha-2 adrenergic receptor|α<sub>2</sub> adrenergic receptor]] [[adrenergic antagonist|antagonist]], indicated for the reversal of the sedative and analgesic effects of [[dexmedetomidine]] and [[medetomidine]] in dogs.<ref>[http://www.pfizerah.com/product_overview.asp?drug=AS&country=US&lang=EN&species=CN Pfizer Animal Health ANTISEDAN Product Overview<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20080617044114/http://www.pfizerah.com/product_overview.asp?drug=AS&country=US&lang=EN&species=CN |date=June 17, 2008 }}</ref>
+
+It has also been researched in humans as a potential [[Parkinson's disease#Treatment|anti-Parkinsonian]] drug.<ref name="pmid16389294">{{cite journal |vauthors=Pertovaara A, Haapalinna A, Sirviö J, Virtanen R |title=Pharmacological properties, central nervous system effects, and potential therapeutic applications of atipamezole, a selective alpha2-adrenoceptor antagonist |journal=CNS Drug Reviews |volume=11 |issue=3 |pages=273–88 |year=2005 |pmid=16389294 |doi= 10.1111/j.1527-3458.2005.tb00047.x|url=}}</ref>
+
+==Dosing==
+In a study using [[New Zealand white rabbit]]s, the optimal dose for revival of sedation by a [[medetomidine]]-[[ketamine]] mixture was found to be equal to or double the dose of medetomidine.<ref>{{cite journal |author=Kim MS|title=Reversal of Medetomidine-Ketamine Combination Anesthesia in Rabbits by Atipamezole |journal=Experimental Animals |volume=53 |issue=5 |pages=423–428 |year=2004 |doi= 10.1538/expanim.53.423|url=https://www.jstage.jst.go.jp/article/expanim/53/5/53_5_423/_article|display-authors=etal}}</ref>
+
+==See also==
+*[[Detomidine]], etc.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20080617044114/http://www.pfizerah.com/product_overview.asp?drug=AS&country=US&lang=EN&species=CN ANTISEDAN product information page (Pfizer Animal Health)]
+
+{{Alpha blockers}}
+
+[[Category:Veterinary drugs]]
+[[Category:Imidazoles]]
+[[Category:Indanes]]
+[[Category:Antidotes]]
+[[Category:Alpha-2 blockers]]
+
+
+{{Veterinary-med-stub}}

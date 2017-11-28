@@ -1,0 +1,70 @@
+{{Drugbox
+| verifiedrevid = 470473641
+| IUPAC_name = 1,2-diphenyl-4-[2-(phenylsulfinyl)ethyl]pyrazolidine-3,5-dione
+| image = Sulfinpyrazone.svg
+<!--Clinical data-->
+| tradename = Apo-sulfinpyrazone
+| Drugs.com = {{drugs.com|monograph|sulfinpyrazone}}
+| MedlinePlus = a682339
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status =  
+| routes_of_administration = oral intravenous
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 98–99%
+| metabolism = hepatic
+| elimination_half-life =  
+| excretion = renal
+<!--Identifiers-->
+| IUPHAR_ligand = 5826
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 57-96-5
+| ATC_prefix = M04
+| ATC_suffix = AB02
+| ATC_supplemental =  
+| PubChem = 5342
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01138
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5149
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = V6OFU47K3W
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00449
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 9342
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 832
+<!--Chemical data-->
+| C=23 | H=20 | N=2 | O=3 | S=1
+| molecular_weight = 404.48 g/mol
+| smiles = O=C2N(c1ccccc1)N(C(=O)C2CCS(=O)c3ccccc3)c4ccccc4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C23H20N2O3S/c26-22-21(16-17-29(28)20-14-8-3-9-15-20)23(27)25(19-12-6-2-7-13-19)24(22)18-10-4-1-5-11-18/h1-15,21H,16-17H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = MBGGBVCUIVRRBF-UHFFFAOYSA-N
+}}
+
+'''Sulfinpyrazone''' is a [[uricosuric]] [[medication]] used to treat [[gout]].  It also sometimes is used to reduce [[platelet]] aggregation by inhibiting [[degranulation]] of platelets which reduces the release of [[Adenosine diphosphate|ADP]] and [[thromboxane]]. 
+
+Like other uricosurics, sulfinpyrazone works by competitively inhibiting [[uric acid]] reabsorption in the [[proximal tubule]] of the [[kidney]].
+
+==Contraindications==
+Sulfinpyrazone must not be used in persons with [[renal impairment]] or a history of uric acid kidney stones.<ref name="pmid16740561">{{cite journal |author=Underwood M |title=Diagnosis and management of gout |journal=BMJ |volume=332 |issue=7553 |pages=1315–9 |date=June 2006 |pmid=16740561 |pmc=1473078 |doi=10.1136/bmj.332.7553.1315 |url=}}</ref>
+
+==References==
+{{reflist}}
+
+{{Anti-inflammatory and antirheumatic products}}
+{{Antigout preparations}}
+
+[[Category:Antigout agents]]
+[[Category:Pyrazolidindiones]]
+
+
+{{musculoskeletal-drug-stub}}

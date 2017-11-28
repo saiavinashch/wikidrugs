@@ -1,0 +1,92 @@
+{{distinguish|eculizumab}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 458282664
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = zu/o
+| target = [[CD20]]
+<!-- Clinical data -->
+| tradename =Ocrevus 
+| pregnancy_AU = 
+| pregnancy_US = 
+| pregnancy_category = 
+| legal_AU = 
+| legal_CA = 
+| legal_UK = 
+| legal_US =Approved 
+| routes_of_administration = [[Intravenous infusion]]
+<!-- Pharmacokinetic data -->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 637334-45-3
+| ATC_prefix = L04
+| ATC_suffix = AA36
+| PubChem = 
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = A10SJL62JY
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+<!-- Chemical data -->
+| C=6494 | H=9978 | N=1718 | O=2014 | S=46
+| molecular_weight = 148 kg/mol
+|drug_name=|image=|alt=|caption=|MedlinePlus=|licence_EU=|licence_US=}}
+'''Ocrelizumab''' is a [[Humanized antibody|humanized]] anti-[[CD20]] [[monoclonal antibody]]. It targets CD20 marker on [[B cell|B lymphocyte]]s and hence is an [[immunosuppressive drug]] candidate.<ref name=McGinley2017rev>{{cite journal|last1=McGinley|first1=MP|last2=Moss|first2=BP|last3=Cohen|first3=JA|title=Safety of monoclonal antibodies for the treatment of multiple sclerosis.|journal=Expert opinion on drug safety|date=January 2017|volume=16|issue=1|pages=89–100|doi=10.1080/14740338.2017.1250881|pmid=27756172}}</ref>   Ocrelizumab binds to an [[epitope]] that overlaps with the epitope to which [[rituximab]] binds.<ref name=McGinley2017rev/>
+
+It was approved by the FDA in March 2017 as a treatment for [[multiple sclerosis]], and the first FDA approved drug for the primary progressive form of MS; it was discovered and developed and is marketed by [[Hoffmann–La Roche]]'s subsidiary [[Genentech]] under the trade name Ocrevus.<ref name=STATapproval/><ref name=FDAlabel2017>{{cite web|title=Ocrelizumab label|url=https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/761053lbl.pdf|publisher=FDA|accessdate=1 April 2017|date=March 2017}} See [http://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&varApplNo=761053 FDA index page for BLA 761053] for updates.</ref>  With the approval, the FDA also required the company to conduct several [[Phases of clinical research#Phase IV|Phase IV]] clinical trials to better understand whether the drug is safe and effective in young people, cancer risks, and effects on pregnant women and children they might bear.<ref name=FDABLAapproval>{{cite web|title=BLA Approval Letter|url=https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/761053Orig1s000ltr.pdf|publisher=FDA|date=March 28, 2017}}</ref>
+
+At launch, the drug was priced at $65,000 (annual cost, for two infusions per year).<ref name=STATapproval>{{cite news| title=After 40-year odyssey, first drug for aggressive MS wins FDA approval |url=https://www.statnews.com/2017/03/28/multiple-sclerosis-ms-drug-ocrelizumab/ |date=March 28, 2017 |author=Ron Winslow |publisher=STAT}}</ref>
+
+==Medical use==
+Ocrelizumab is used to treat relapsing or primary progressive forms of [[multiple sclerosis]].<ref name=FDAlabel2017/>  It is administered by intravenous infusion.<ref name=FDAlabel2017/>
+
+==Contraindications==
+Ocrelizumab should not be used in people with [[hepatitis B]] infection or a history of severe reaction to this drug.  If someone has an infection or infectious disease, treatment should be delayed until the infection is resolved.   It has not been tested in pregnant women, but based on animal studies does not appear to be safe for pregnant women to take; it is excreted in breast milk and effects on infants are unknown.<ref name=FDAlabel2017/>
+
+==Adverse effects ==
+As of October 2016 the three Phase III clinical trials of ocrelizumab used to obtain approval had not been published. Based on published data from clinical trials at that time, the most common adverse events were infusion reactions including itchy skin, rash, [[urticaria|hives]], flushing, throat and mouth irritation, fever, fatigue, nausea, [[tachycardia|rapid heart beating]], headache, and dizziness.  One person died from a [[systemic inflammatory response syndrome]] and in another trial, rates of cancer were three times higher (2.3% vs 0.8%) in people taking the drug than people taking placebo.  Clinical trials in [[rheumatoid arthritis]] and [[lupus]] were halted because rates of serious infections were too high; these results were not seen in published trials in people with MS, and the differences may be due to the differences in the bodies of people with the different diseases, as well as other drugs they were taking.<ref name=McGinley2017rev/>
+
+There is an increased risk of infections of all kinds, including respiratory infections, in people taking [[immunosupressive drug]]s like ocrelizumab; however, in clinical trials submitted to the FDA, more people taking ocrelizumab got infections than people taking [[Interferon beta-1a]] did, including upper and lower respiratory infections, herpes, and hepatitis B reactivation; the risk of [[progressive multifocal leukoencephalopathy]], a disease caused by viral infection of the brain, is also increased.<ref name=FDAlabel2017/>
+
+There is an increased risk of breast cancer with ocrelizumab; 6 of 781 females with MS who participated in clinical trials submitted to the FDA developed breast cancer, while none of the 668 females in the other arms of the clinical trials developed breast cancer.<ref name=FDAlabel2017/>
+
+==Pharmacology==
+Ocrelizumab is an [[immunosuppresive drug]]; it binds to [[CD20]], which is selectively made by [[B cells]], and when ocrelizumab binds to CD20 it kills B cells by causing [[antibody-dependent cell-mediated cytotoxicity]] and, to a lesser extent, [[complement-dependent cytotoxicity]].<ref name=McGinley2017rev/><ref>{{cite journal|last1=Reddy|first1=V|last2=Dahal|first2=LN|last3=Cragg|first3=MS|last4=Leandro|first4=M|title=Optimising B-cell depletion in autoimmune disease: is obinutuzumab the answer?|journal=Drug discovery today|date=August 2016|volume=21|issue=8|pages=1330–8|doi=10.1016/j.drudis.2016.06.009|pmid=27343722}}</ref>
+
+==Chemistry ==
+Ocrelizumab is a [[Humanized antibody|humanized monoclonal antibody]] that binds to an CD20 [[epitope]] that overlaps partially with the epitope to which [[rituximab]] binds.<ref name=McGinley2017rev/>   It has an immunoglobulin G1 with a variable region against human CD20, with a human-mouse monoclonal 2H7 γ1-chain, bound via disulfide links with human-mouse monoclonal 2H7 κ-chain in a dimer.<ref name=INN>{{cite journal|title=Recommended INN List 56|journal=WHO Drug Information, Vol. 20, No. 3, 2006|date=2006|volume=20|issue=3|page=220|url=http://www.who.int/medicines/publications/druginformation/innlists/RL56.pdf?ua=1}}</ref>
+
+==History==
+A study of rituximab in MS with strong results, published in the New England Journal of Medicine in 2008, drove interest in B-cell depletion as a strategy to treat MS and has led to extensive off-label use of rituximab to treat primary and relapsing MS.<ref name=McGinley2017rev/><ref>{{cite journal|last1=Sorensen|first1=PS|last2=Blinkenberg|first2=M|title=The potential role for ocrelizumab in the treatment of multiple sclerosis: current evidence and future prospects.|journal=Therapeutic advances in neurological disorders|date=January 2016|volume=9|issue=1|pages=44–52|pmid=26788130|pmc=4710102}}</ref> Rituximab is a mouse protein, and is [[Immunogenicity|immunogenic]] in humans, and Genentech and its parent Roche decided to focus on the similar, but humanized mAb that they already had, ocrelizumab, for MS instead.<ref name=STATapproval/>
+
+[[Clinical trial]]s in people with [[rheumatoid arthritis]] and [[lupus]] were halted in 2010 because people with these conditions developed too many [[opportunistic infection]]s when taking ocrelizumab.<ref name=McGinley2017rev/><ref>Katie Reid (2010-03-08). ''[https://www.reuters.com/article/idUSLDE62705720100308 Update 2. Roche suspends arthritis treatment after deaths.]'' Reuters. Retrieved 2010-03-08.</ref>   It was also studied in [[hematological cancer]].<ref>{{cite journal|pmid=18951300|year=2008 |last1=Hutas|first1=G |title=Ocrelizumab, a humanized monoclonal antibody against CD20 for inflammatory disorders and B-cell malignancies|volume=9|issue=11|pages=1206–15 |journal=Current opinion in investigational drugs (London, England : 2000)}}</ref>
+
+In MS, phase II results were announced in October 2010, and in October 2015, [[Genentech]] presented interim results of three Phase III clinical trials.<ref name=Oct2015>{{cite web|url=http://www.medscape.com/viewarticle/852408|title=First Data From Ocrelizumab Phase 3 Studies in MS. Oct 2015|publisher=Medscape Log}}</ref> Progression of  [[Expanded Disability Status Scale|disability]] was reduced at 12 and 24 weeks.<ref name=ECTRIMS2015>{{cite web|url=http://journals.lww.com/neurotodayonline/blog/NeurologyTodayConferenceReportersCongressofECTRIMS/pages/post.aspx?PostID=8|title=In Third Trial, Ocrelizumab Shows Promise in Progressive MS |publisher=Neurology Today |date=October 12, 2015}}</ref>  In February, 2016 the FDA  granted [[Breakthrough Therapy]] Designation for primary progressive multiple sclerosis.<ref>{{cite news|last1=Nather|first1=David|title=New drug for severe form of MS generates glimmer of hope|url=https://www.statnews.com/2016/02/19/progressive-multiple-sclerosis-ocrelizumab/|work=STAT|date=19 February 2016}}</ref>
+
+On March 29, 2017, the FDA approved ocrelizumab for relapsing-remitting and primary-progressive [[multiple sclerosis]]. It is the first FDA-approved treatment for the primary progressive form.<ref name=STATapproval/> When the FDA approved the drug, it required Roche to conduct several [[Phases of clinical research#Phase IV|Phase IV]] clinical trials, including: a two-part study in people between ten and 17 years old with relapsing multiple sclerosis to determine dosing, then safety and efficacy in these people, required to be completed by 2024; a prospective five-year study to better understand the risk of cancer, required to be completed by 2030; a prospective study creating a registry of women with MS exposed to ocrelizumab before and during pregnancy, women with MS not exposed to  ocrelizumab, and women without MS, to understand the effect on women and children they might bear, due by 2029; an additional pregnancy outcomes study due by 2024; and an additional non-human primate study on fetal development and outcomes due by 2019.<ref name=FDABLAapproval/>
+
+==Society and culture==
+At launch, the drug was priced at $65,000 per year.<ref name=STATapproval/>
+
+== See also ==
+* Other anti-CD20 drugs:
+** [[Rituximab]], a chimeric antibody that is directed against CD20.
+** [[Ofatumumab]] (HuMax-CD20) a fully human antibody that is directed against CD20 
+* [[BIIB033]] (Anti-LINGO-1): another monoclonal antibody designed for treating multiple sclerosis
+
+==References==
+{{reflist|30em}}
+
+{{Monoclonals for immune system}}
+
+[[Category:Monoclonal antibodies]]
+[[Category:Breakthrough therapy]]

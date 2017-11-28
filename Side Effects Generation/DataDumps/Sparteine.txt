@@ -1,0 +1,95 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464405926
+| IUPAC_name = (7α,9α)-sparteine
+| image = (−)-Sparteine.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|sparteine}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_UK = <!-- GSL         / P       / POM / CD -->
+| legal_US = <!-- OTC                   / Rx-only  -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 90-39-1
+| ATC_prefix = C01
+| ATC_suffix = BA04
+| PubChem = 644020
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB06727
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 559096
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 298897D62S
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01041
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 28827
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 44625
+
+<!--Chemical data-->
+| C=15 | H=26 | N=2 
+| molecular_weight = 234.380 g/mol
+| smiles = C1CCN2C[C@@H]3C[C@H]([C@H]2C1)CN4[C@H]3CCCC4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C15H26N2/c1-3-7-16-11-13-9-12(14(16)5-1)10-17-8-4-2-6-15(13)17/h12-15H,1-11H2/t12-,13-,14-,15+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SLRCCWJSBJZJBV-ZQDZILKHSA-N
+| synonyms = (6''R'',8''S'',10''R'',12''S'')-7,15-diazatetracyclo[7.7.1.0<sup>2,7</sup>.0<sup>10,15</sup>]heptadecane
+
+<!--Physical data -->
+ | density           = 1.02
+ | melting_point     = 30
+ | boiling_point     = 325
+ | solubility        = 3.04
+}}
+
+'''Sparteine''' is a class 1a [[antiarrhythmic agent]]; a sodium channel blocker. It is an [[alkaloid]] and can be extracted from [[scotch broom]]. It is the predominant alkaloid in ''[[Lupinus mutabilis]]'', and is thought to [[chelate]] the bivalent cations [[calcium]] and [[magnesium]].  It is not FDA approved for human use as an antiarrhythmic agent, and it is not included in the [[Antiarrhythmic agent#Vaughan Williams antiarrhythmic classification|Vaughn Williams classification of antiarrhythmic drugs]].
+
+It is also used as a [[chirality (chemistry)|chiral]] [[ligand]] in [[organic chemistry]], especially in syntheses involving [[organolithium reagent|organolithium reagents]].
+
+==Biosynthesis==
+
+Sparteine is a lupin [[alkaloid]] containing a tetracyclic bis-quinolizidine ring system derived from three C<sub>5</sub> chains of [[lysine]], or more specifically, L-lysine.<ref name="NatProdBook">{{cite book |author=Dewick, P.M. |title= Medicinal Natural Products, 3rd. Ed. |publisher=Wiley |pages=311 |year=2009}}</ref> The first intermediate in the biosynthesis is [[cadaverine]], the decarboxylation product of lysine catalyzed by the enzyme lysine decarboxylase (LDC).<ref name="Spenser">{{cite journal |doi=10.1139/v88-280 |author=Golebiewski, W.M., Spenser |title=Biosynthesis of the lupine alkaloids. II. Sparteine and lupanine |journal=Can. J. Chem. |volume=66 |pages=1734 |year=1988 |issue=7}}</ref>  Three units of cadaverine are used to form the quinolizidine skeleton.  The mechanism of formation has been studied enzymatically, as well as with tracer experiments, but the exact route of synthesis still remains unclear.
+
+Tracer studies using <sup>13</sup>C-<sup>15</sup>N-doubly labeled cadaverine have shown three units of cadaverine are incorporated into sparteine and two of the C-N bonds from two of the cadaverine units remain intact.<ref name="Rana">{{cite journal |author=Rana, J., Robins, D.J. |title=Quinolizidine alkaloid biosynthesis: incorporation of [1-amino-15N,1-13C]cadaverine into sparteine |journal=J. Chem. Soc., Chem. Comm.|volume=22 |pages=1335–6 |year=1983}}</ref>  The observations have also been confirmed using <sup>2</sup>H NMR labeling experiments.<ref name="Fraser">{{cite journal |author=Fraser, A.M., Robins, D.J. |journal=J. Chem. Soc., Chem. Comm. |volume=22 |pages=1147–9 |year=1984}}</ref>
+
+Enzymatic evidence then showed that the three molecules of cadaverine are transformed to the quinolizidine ring via enzyme bound intermediates, without the generation of any free intermediates.  Originally, it was thought that conversion of cadaverine to the corresponding aldehyde, 5-aminopentanal, was catalyzed by the enzyme diamine oxidase.<ref name="SecretLife">{{cite book |author=Aniszewski, T. |title= Alkaloids - Secrets of Life, 1st Ed. |publisher=Elseview |pages=98–101 |year=2007}}</ref>  The aldehyde then spontaneously converts to the corresponding Schiff base, Δ<sup>1</sup>-piperideine.  Coupling of two molecules occurs between the two tautomers of Δ<sup>1</sup>-piperideine in an aldol-type reaction.  The imine is then hydrolyzed to the corresponding aldehyde/amine.  The primary amine is then oxidized to an aldehyde followed by formation of the imine to yield the quinolizidine ring.<ref name="SecretLife" />  The breakdown of this mechanism is shown in figure 1; however, the intermediates, as mentioned before, were not isolated.
+
+[[File:BiosynthesisofSparteine.gif|frame|center|'''Figure 1.''' Mechanistic Biosynthesis of Sparteine]]
+
+More recent enzymatic evidence has indicated the presence of 17-oxosparteine synthase (OS), a transaminase enzyme.<ref name="Wink84">{{cite book |author=Wink, M., Hartmann, T. |title=Enzymology of Quinolizidine Alkaloid Biosynthesis; Natural Products Chemistry: Zalewski and Skolik (Eds.) |pages=511–520 |year=1984}}</ref><ref name="Wink87">{{cite journal |author=Wink, M. |title=Quinolizidine Alkaloids: Biochemistry, Metabolism, and Function in Plants and Cell Suspension Cultures |journal=Plant Medica |pages=509–514 |year=1987}}</ref><ref name="Wink79">{{cite journal |doi=10.1016/0014-5793(79)81040-6 |author=Wink, M., Hartmann, T. |title=Cadaverine--pyruvate transamination: the principal step of enzymatic quinolizidine alkaloid biosynthesis in Lupinus polyphyllus cell suspension cultures |journal=FEBS Letters |volume= 101 |issue=2 |pages=343–346  |year=1979 |pmid=446758}}</ref><ref name="Perrey">{{cite journal |author=Perrey, R., Wink, M. |journal=Z. Naturforsch. |volume= 43 |pages=363–369  |year=1988}}</ref><ref name="Atta">{{cite book |author=Atta-ur-Rahman (Ed.) |title=Natural Products Chemistry |volume= 15 |publisher=Elsevier |pages=537  |year=1995 |isbn=0-444-42691-4}}</ref><ref name="Roberts">{{cite book |author=Roberts, M., Wink, M. (Eds.) |title=Alkaloids: Biochemistry, Ecology, and Medicinal Applications. |publisher=Plenum Press |pages=112–114  |year=1998}}</ref>   The deaminated cadaverine is not released from the enzyme, thus is can be assumed that the enzyme catalyzes the formation of the quinolizidine skeleton in a channeled fashion (Figure 2).,<ref name="Perrey" /><ref name="Atta" /><ref name="Roberts" />  7-oxosparteine requires four units of pyruvate as the NH<sub>2</sub> acceptors and produces four molecules of alanine (Figure 3).  Both lysine decarboxylase and the quinolizidine skeleton-forming enzyme are localized in chloroplasts.<ref name="Wink80">{{cite journal |author=Wink, M., Hartmann, T. |journal=Z. Naturforsch. |volume= 35 |pages=93–97  |year=1980}}</ref>
+
+[[File:BiosynthesisSparteine2.png|frame|center|'''Figure 2.'''Biosynthesis of sparteine showing proposed ring cyclization steps]]
+
+[[File:GeneralbiosynthesisSparteine.gif|frame|center|'''Figure 3.'''Schematic Biosynthesis of Sparteine with OS]]
+
+==See also==
+* [[Lupinus]]
+* [[Lupin poisoning]]
+
+== References ==
+<references />
+
+{{Antiarrhythmic agents}}
+
+[[Category:Antiarrhythmic agents]]
+[[Category:Alkaloids]]
+[[Category:Sodium channel blockers]]
+[[Category:Quinolizidines]]

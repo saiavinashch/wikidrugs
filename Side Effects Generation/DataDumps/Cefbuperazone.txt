@@ -1,0 +1,83 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 444604058
+| IUPAC_name = (6''R'',7''S'')-7-([(2''R'',3''S'')-2-[(4-Ethyl-2,3-dioxopiperazine-1-carbonyl)amino]-3-hydroxybutanoyl]amino)-7-methoxy-3-[(1-methyltetrazol-5-yl)sulfanylmethyl]-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+| image = Cefbuperazone.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|cefbuperazone}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = IM, IV
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 76610-84-9
+| ATC_prefix = J01
+| ATC_suffix = DC13
+| ATC_supplemental =  
+| PubChem = 127527
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1908372
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = T0785J3X40
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03423
+
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 113142
+|  smiles = CCN1CCN(C(=O)C1=O)C(=O)N[C@H]([C@H](C)O)C(=O)N[C@]2([C@@H]3N(C2=O)C(=C(CS3)CSC4=NN=NN4C)C(=O)O)OC
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C22H29N9O9S2/c1-5-29-6-7-30(16(35)15(29)34)20(39)23-12(10(2)32)14(33)24-22(40-4)18(38)31-13(17(36)37)11(8-41-19(22)31)9-42-21-25-26-27-28(21)3/h10,12,19,32H,5-9H2,1-4H3,(H,23,39)(H,24,33)(H,36,37)/t10-,12+,19+,22-/m0/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = SMSRCGPDNDCXFR-CYWZMYCQSA-N
+
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=22 | H=29 | N=9 | O=9 | S=2 
+| molecular_weight = 627.65 g/mol
+}}
+
+'''Cefbuperazone''' ([[International Nonproprietary Name|INN]]) is a second-generation [[cephalosporin]] antibiotic.<ref>{{Cite journal 
+| last1 = Izumi | first1 = K. 
+| last2 = Kawazoe | first2 = K. 
+| last3 = Mikamo | first3 = H. 
+| last4 = Ito | first4 = K. 
+| last5 = Tamaya | first5 = T. 
+| title = In vivo bacterial regrowth-inhibition effect of cefbuperazone and amikacin in puerperal uterine cavity 
+| journal = Journal of chemotherapy (Florence, Italy) 
+| volume = 7 Suppl 4 
+| pages = 173–176 
+| year = 1995 
+| pmid = 8904147
+}}</ref><ref>{{Patent|US|4754030|"Cefbuperazone crystalline triethylamine salt"}}</ref>
+
+==References==
+{{reflist}}
+
+{{Cell wall disruptive antibiotics}}
+
+[[Category:Cephalosporin antibiotics]]
+[[Category:Tetrazoles]]
+[[Category:Piperazines]]
+
+
+{{antibiotic-stub}}

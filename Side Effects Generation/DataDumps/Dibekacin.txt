@@ -1,0 +1,53 @@
+{{Drugbox
+| IUPAC_name = (2''S'',3''R'',4''S'',5''S'',6''R'')-4-Amino-2-[(1''S'',2''S'',3''R'',4''S'',6''R'')-4,6-diamino-3-[(2''R'',3''R'',6''S'')-3-amino-6-(aminomethyl)oxan-2-yl]oxy-2-hydroxycyclohexyl]oxy-6-(hydroxymethyl)oxane-3,5-diol
+| image = Dibekacin.svg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|dibekacin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| CAS_number = 34493-98-6
+| ATC_prefix = J01
+| ATC_suffix = GB09
+| PubChem = 470999
+| DrugBank =  
+| ChemSpiderID = 413666
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 45ZFO9E525
+| KEGG = D07811
+| ChEMBL= 560976
+<!--Chemical data-->
+| C=18 | H=37 | N=5 | O=8
+| molecular_weight = 451.52 g/mol
+| smiles = C1C[C@H]([C@H](O[C@@H]1CN)O[C@@H]2[C@H](C[C@H]([C@@H]([C@H]2O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)N)O)N)N)N
+| StdInChI = 1S/C18H37N5O8/c19-4-6-1-2-7(20)17(28-6)30-15-8(21)3-9(22)16(14(15)27)31-18-13(26)11(23)12(25)10(5-24)29-18/h6-18,24-27H,1-5,19-23H2/t6-,7+,8-,9+,10+,11-,12+,13+,14-,15+,16-,17+,18+/m0/s1
+| StdInChIKey = JJCQSGDBDPYCEO-XVZSLQNASA-N
+}}
+
+'''Dibekacin''' is an [[aminoglycoside]] [[antibiotic]].
+
+It has been used in combination with [[sulbenicillin]].<ref name="pmid3114912">{{cite journal |vauthors=Aonuma S, Ariji F, Oizumi K, Konno K |title=Electron microscopy of Pseudomonas aeruginosa treated with sulbenicillin and dibekacin |journal=Tohoku J. Exp. Med. |volume=152 |issue=2 |pages=119–28 |date=June 1987 |pmid=3114912 |doi= 10.1620/tjem.152.119|url=http://joi.jlc.jst.go.jp/JST.Journalarchive/tjem1920/152.119?from=PubMed|archive-url=https://archive.is/20121219154615/http://joi.jlc.jst.go.jp/JST.Journalarchive/tjem1920/152.119?from=PubMed|dead-url=yes|archive-date=2012-12-19}} </ref>
+
+==References==
+{{reflist}}
+
+{{AminoglycosideAntiBiotics}}
+
+[[Category:Aminoglycoside antibiotics]]
+
+
+{{antibiotic-stub}}

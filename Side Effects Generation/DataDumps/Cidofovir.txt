@@ -1,0 +1,141 @@
+{{Drugbox
+| verifiedrevid = 477165826
+| IUPAC_name = ({[(''S'')-1-(4-amino-2-oxo-1,2-dihydropyrimidin-1-yl)-3-hydroxypropan-2-yl]oxy}methyl)phosphonic acid
+| image = Cidofovir.svg
+| width = 225
+
+<!--Clinical data-->
+| tradename = Vistide
+| Drugs.com = {{drugs.com|monograph|cidofovir}}
+| licence_EU = Vistide
+| licence_US = Cidofovir
+| pregnancy_AU = D
+| pregnancy_US = C
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = [[Intravenous|IV]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = complete
+| protein_bound = <6%
+| elimination_half-life = 2.6 hours (active metabolites: 15-65&nbsp;hours)
+| excretion = renal
+The above pharmacokinetic parameters are measured for cidofovir used in conjunction with probenecid.<ref>Cundy, Kenneth C. "Clinical Pharmacokinetics of the Antiviral Nucleotide Analogues Cidofovir and Adefovir." Clinical Pharmacokinetics 36.2 (1999): 127-43.</ref>
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 113852-37-2
+| ATC_prefix = J05
+| ATC_suffix = AB12
+| ATC_supplemental =  
+| PubChem = 60613
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00369
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 54636
+| NIAID_ChemDB = 001049
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 768M1V522C
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 3696
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 152
+
+<!--Chemical data-->
+| C=8 | H=14 | N=3 | O=6 | P=1
+| molecular_weight = 279.187 g/mol
+| smiles = O=C1/N=C(\C=C/N1C[C@H](OCP(=O)(O)O)CO)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C8H14N3O6P/c9-7-1-2-11(8(13)10-7)3-6(4-12)17-5-18(14,15)16/h1-2,6,12H,3-5H2,(H2,9,10,13)(H2,14,15,16)/t6-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = VWFCHDSQECPREK-LURJTMIESA-N
+| melting_point = 260
+| specific_rotation = -97.3
+}}
+
+'''Cidofovir''' (brand name '''Vistide''') is an injectable [[Antiviral drug|antiviral]] medication primarily used as a treatment for [[cytomegalovirus]] (CMV) [[retinitis]] (an infection of the retina of the eye) in people with [[AIDS]].<ref name = MSR/><ref name =TGA/>
+
+Cidofovir was approved for medical use in 1996.<ref>{{cite book|last1=Long|first1=Sarah S.|last2=Pickering|first2=Larry K.|last3=Prober|first3=Charles G.|title=Principles and Practice of Pediatric Infectious Disease|date=2012|publisher=Elsevier Health Sciences|isbn=1437727026|page=1502|url=https://books.google.com/books?id=nQ7-o8JAH7kC&pg=PA1502|language=en}}</ref>
+
+==Medical use==
+
+===DNA virus===
+Its only indication that has received regulatory approval worldwide is [[cytomegalovirus]] retinitis.<ref name = MSR/><ref name = TGA/> Cidofovir has also shown efficacy in the treatment of [[aciclovir]]-resistant [[herpes simplex virus|HSV]] infections.<ref>{{cite journal|last=Chilukuri|first=S|author2=Rosen, T|title=Management of acyclovir-resistant herpes simplex virus.|journal=Dermatologic clinics|date=Apr 2003|volume=21|issue=2|pages=311–20|doi=10.1016/S0733-8635(02)00093-1|pmid=12757254}}</ref> Cidofovir has also been investigated as a treatment for [[progressive multifocal leukoencephalopathy]] with successful case reports of its use.<ref name="pmid11408993">{{cite journal |vauthors=Segarra-Newnham M, Vodolo KM |title=Use of cidofovir in progressive multifocal leukoencephalopathy |journal=Ann Pharmacother |volume=35 |issue=6 |pages=741–4 |date=June 2001 |pmid=11408993 |doi= 10.1345/aph.10338|url=http://www.theannals.com/cgi/pmidlookup?view=long&pmid=11408993}}</ref> Despite this,  the drug failed to demonstrate any efficacy in controlled studies.<ref>{{Cite journal
+ | pmid = 23737811
+| pmc = 3659475
+| year = 2013
+| author1 = De Gascun
+| first1 = C. F.
+| title = Human polyomavirus reactivation: Disease pathogenesis and treatment approaches
+| journal = Clinical and Developmental Immunology
+| volume = 2013
+| pages = 373579
+| last2 = Carr
+| first2 = M. J.
+| doi = 10.1155/2013/373579
+}}</ref> Cidofovir might have anti-[[smallpox]] efficacy and might be used on a limited basis in the event of a [[bioterror]] incident involving smallpox cases.<ref name="pmid12076747">{{cite journal |author=De Clercq E |title=Cidofovir in the treatment of poxvirus infections|journal=Antiviral Res. |volume=55 |issue=1 |pages=1–13 |date=July 2002 |pmid=12076747 |doi= 10.1016/S0166-3542(02)00008-6|url=http://linkinghub.elsevier.com/retrieve/pii/S0166354202000086}}</ref> [[Brincidofovir]], a cidofovir derivative with much higher activity against smallpox that can be taken orally has been developed.<ref>{{cite journal|last=Bradbury|first=J|title=Orally available cidofovir derivative active against smallpox.|journal=Lancet|date=March 2002|volume=359|issue=9311|pages=1041|doi=10.1016/S0140-6736(02)08115-1|pmid=11937193}}</ref> It has inhibitory effects on varicella-zoster virus replication ''in vitro'' although no clinical trials have been done to date, likely due to the abundance of safer alternatives such as [[aciclovir]].<ref>{{cite journal|last=Magee|first=WC|author2=Hostetler, KY |author3=Evans, DH |title=Mechanism of Inhibition of Vaccinia Virus DNA Polymerase by Cidofovir Diphosphate|journal=Antimicrobial Agents and Chemotherapy|date=August 2005|volume=49|issue=8|pages=3153–3162|doi=10.1128/AAC.49.8.3153-3162.2005|pmid=16048917|url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1196213/pdf/0032-05.pdf|pmc=1196213}}</ref> Cidofovir shows anti-[[BK virus]] activity in a subgroup of transplant recipients.<ref name="pmid16499584">{{cite journal |vauthors=Araya CE, Lew JF, Fennell RS, Neiberger RE, Dharnidharka VR |title=Intermediate-dose cidofovir without probenecid in the treatment of BK virus allograft nephropathy |journal=Pediatr Transplant |volume=10 |issue=1 |pages=32–7 |date=February 2006|pmid=16499584 |doi=10.1111/j.1399-3046.2005.00391.x |url=http://www3.interscience.wiley.com/resolve/openurl?genre=article&sid=nlm:pubmed&issn=1397-3142&date=2006&volume=10&issue=1&spage=32}}</ref> Cidofovir is being investigated as a complementary intralesional therapy against [[papillomatosis]] caused by [[HPV]].<ref name="pmid18458927">{{cite journal |vauthors=Broekema FI, Dikkers FG |title=Side-effects of cidofovir in the treatment of recurrent respiratory papillomatosis |journal=Eur Arch Otorhinolaryngol |volume=265 |issue=8 |pages=871–9 |date=August 2008 |pmid=18458927|pmc=2441494 |doi=10.1007/s00405-008-0658-0}}</ref><ref name="pmid18197029">{{cite journal |vauthors=Soma MA, Albert DM |title=Cidofovir: to use or not to use? |journal=Curr Opin Otolaryngol Head Neck Surg |volume=16 |issue=1 |pages=86–90 |date=February 2008 |pmid=18197029|doi=10.1097/MOO.0b013e3282f43408|url=http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?an=00020840-200802000-00019}}</ref>
+
+It first received [[Food and Drug Administration|FDA]] approval on 26 June 1996,<ref name = drugs.com>{{cite web|title=Cidofovir Monograph for Professionals - Drugs.com|work=Drugs.com|publisher=American Society of Health-System Pharmacists|accessdate=5 February 2014|url=http://www.drugs.com/monograph/cidofovir.html}}</ref> [[Therapeutic Goods Administration|TGA]] approval on 30 April 1998<ref name = TGA/> and [[European Medicines Agency|EMA]] approval on 23 April 1997.<ref>{{cite web|title=Vistide : EPAR -Product Information|work=European Medicines Agency|publisher=Gilead Sciences International Ltd.|date=7 November 2013|accessdate=5 February 2014|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/000121/WC500052072.pdf|format=PDF}}</ref>
+
+===Other===
+It has been suggested as an antitumour agent, due to its suppression of [[FGF2]].<ref name="pmid17158200">{{cite journal |vauthors=Liekens S, Gijsbers S, Vanstreels E, Daelemans D, De Clercq E, Hatse S |title=The nucleotide analog cidofovir suppresses basic fibroblast growth factor (FGF2) expression and signaling and induces apoptosis in FGF2-overexpressing endothelial cells |journal=Mol. Pharmacol.|volume=71|issue=3 |pages=695–703 |date=March 2007 |pmid=17158200|doi=10.1124/mol.106.026559|url=http://molpharm.aspetjournals.org/cgi/pmidlookup?view=long&pmid=17158200}}</ref><ref name="pmid18669159">{{cite journal|author=Liekens S |title=Regulation of cancer progression by inhibition of angiogenesis and induction of apoptosis|journal=Verh. K. Acad. Geneeskd. Belg. |volume=70 |issue=3 |pages=175–91 |year=2008 |pmid=18669159 |doi= |url=}}</ref>
+
+==Administration==
+Cidofovir is only available as an intravenous formulation. Cidofovir is to be administered with [[probenecid]] which decreases side effects to the kidney.<ref name="gilead.com">http://www.gilead.com/~/media/Files/pdfs/medicines/other/vistide/vistide.pdf</ref> Probenecid mitigate nephrotoxicity by inhibiting organic anion transport of the proximal tubule epithelial cells of the kidney.<ref>Lacy, S. "Effect of Oral Probenecid Coadministration on the Chronic Toxicity and Pharmacokinetics of Intravenous Cidofovir in Cynomolgus Monkeys.</ref> In addition, hydration must be administered to patients receiving cidofovir. 1 liter of normal saline is recommended in conjunction with each dose of cidofovir.<ref name="gilead.com"/>
+
+==Side effects==
+The major dose-limiting side effect of cidofovir is nephrotoxicity (that is, kidney damage).<ref name="AMH">{{cite book | editor = Rossi, S | isbn = 978-0-9805790-9-3 | title = Australian Medicines Handbook | place = Adelaide | publisher = The Australian Medicines Handbook Unit Trust | year = 2013 | edition = 2013 }}</ref> Other common side effects (occurring in >1% of people treated with the drug) include:<ref name = MSR>{{cite web|title=Vistide (cidofovir) dosing, indications, interactions, adverse effects, and more|work=Medscape Reference|publisher=WebMD|accessdate=4 February 2014|url=http://reference.medscape.com/drug/vistide-cidofovir-342606#showall}}</ref><ref name = AMH/>
+{{colbegin|4}}
+* Nausea
+* Vomiting
+* [[Neutropenia]]
+* Hair loss
+* Weakness
+* Headache
+* Chills
+* Decreased intraocular pressure
+* [[Uveitis]]
+* [[Iritis]]
+{{colend}}
+Whereas uncommon side effects include: [[anaemia]] and elevated liver enzymes and rare side effects include: [[tachycardia]] and [[Fanconi syndrome]].<ref name = AMH/> [[Probenecid]] (a uricosuric drug) and intravenous saline should always be administered with each cidofovir infusion to prevent this nephrotoxicity.<ref name="vistide">{{cite web |title= Vistide (cidofovir) |url=http://www.gilead.com/~/media/Files/pdfs/medicines/other/vistide/vistide.pdf |type= [[package insert]] |date=September 2010 |publisher=[[Gilead Sciences]] |pages= DOSAGE AND ADMINISTRATION: Dosage |nopp= yes}}</ref>
+
+===Contraindications===
+Hypersensitivity to cidofovir or probenecid (as probenecid needs to be given concurrently to avoid nephrotoxicity).<ref name = MSR/>
+
+===Interactions===
+It is known to interact with nephrotoxic agents (e.g. [[amphotericin B]], [[foscarnet]], IV [[aminoglycosides]], IV pentamide, [[vancomycin]], [[tacrolimus]], non-steroid anti-inflammatory drugs, etc.) to increase their nephrotoxic potential.<ref name = MSR/><ref name = TGA>{{cite web|title=Product Information VISTIDE®|work=TGA eBusiness Services|publisher=Gilead Sciences Pty Ltd|date=3 September 2013|accessdate=5 February 2014|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2010-PI-01028-3}}</ref> As it must be given concurrently with probenecid it is advised that drugs that are known to interact with probenecid (e.g. drugs that probenecid interferes with the renal tubular secretion of, such as paracetamol, aciclovir, aminosalicylic acid, etc.) are also withheld.<ref name = TGA/>
+
+==Mechanism of action==
+Its active metabolite, cidofovir diphosphate, inhibits viral replication by selectively inhibiting viral [[DNA polymerases]].<ref name =TGA/> It also inhibits human polymerases but this action is 8-600 times weaker than its actions on viral DNA polymerases.<ref name =TGA/> It also incorporates itself into viral DNA hence inhibiting viral DNA synthesis during reproduction.<ref name = TGA/>
+
+It possesses ''in vitro'' activity against the following viruses:<ref>{{cite journal|last=Safrin|first=S|author2=Cherrington, J |author3=Jaffe, HS |title=Clinical uses of cidofovir|journal=Reviews in Medical Virology|date=September 1997|volume=7|issue=3|pages=145–156|doi=10.1002/(SICI)1099-1654(199709)7:3<145::AID-RMV196>3.0.CO;2-0|pmid=10398479}}</ref>
+* Human [[herpesviruses]]
+* [[Adenoviruses]]
+* Human [[poxviruses]] (including the [[smallpox]] virus)
+* [[Human papillomavirus]]
+
+==History==
+Cidofovir was discovered at the Institute of Organic Chemistry and Biochemistry, Prague, by [[Antonín Holý]], and developed by [[Gilead Sciences]]<ref name="titlePress Releases: Gilead">{{cite web |url=http://www.gilead.com/pr_881577 |title=Press Releases: Gilead|accessdate=2007-12-05 |format= |work=}}</ref> and is marketed with the brand name '''Vistide''' by Gilead in the USA, and by [[Pfizer]] elsewhere.
+
+==Synthesis==
+Cidofovir can be synthesized from a pyrimidone [[derivative (chemistry)|derivative]] and a [[protecting group|protected]] derivative of [[glycidol]].<ref>{{Cite journal|doi=10.1016/S0040-4039(00)76875-4|title=A practical synthesis of (S)-HPMPC|year=1994|last1=Brodfuehrer|first1=P|journal=Tetrahedron Letters|volume=35|pages=3243|last2=Howell|first2=Henry G.|last3=Sapino|first3=Chester|last4=Vemishetti|first4=Purushotham|issue=20}}</ref>
+
+:[[File:Cidofovir syn.png|600px]]
+
+== See also==
+* [[Brincidofovir]], a novel prodrug of cidofovir that can be taken orally
+
+==References==
+{{reflist|2}}
+
+{{Antivirals}}
+
+[[Category:Gilead Sciences]]
+[[Category:Anti-herpes virus drugs]]
+[[Category:Pyrimidones]]
+[[Category:Amines]]
+[[Category:Ethers]]
+[[Category:Phosphonic acids]]
+[[Category:Alcohols]]

@@ -1,0 +1,75 @@
+{{Chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 444599209
+| ImageFile = Niperotidine.svg
+| ImageSize = 300
+| IUPACName = (''Z'')-1-''N&prime;''-(1,3-Benzodioxol-5-ylmethyl)-1-''N''-[2-<nowiki>[[</nowiki>5-[(dimethylamino)methyl]furan-2-yl]methylsulfanyl]ethyl]-2-nitroethene-1,1-diamine
+| OtherNames =
+
+| Section1 = {{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 12JBD7U72K
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo = 84845-75-0
+| PubChem = 3033952
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07072
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1909284
+| SMILES = CN(C)Cc1ccc(o1)CSCCN/C(=C\[N+](=O)[O-])NCc2cc3OCOc3cc2
+| EINECS = 284-304-0
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 11644617
+| InChI = 1/C20H28N4O5S/c1-23(2)11-16-4-5-17(29-16)13-30-8-7-21-20(12-24(25)26)22-10-15-3-6-18-19(9-15)28-14-27-18/h3-6,9,20-22H,7-8,10-14H2,1-2H3
+| InChIKey = VZPXHGJTEAPNAA-UHFFFAOYAQ
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C20H28N4O5S/c1-23(2)11-16-4-5-17(29-16)13-30-8-7-21-20(12-24(25)26)22-10-15-3-6-18-19(9-15)28-14-27-18/h3-6,9,20-22H,7-8,10-14H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = VZPXHGJTEAPNAA-UHFFFAOYSA-N
+| RTECS = 
+| MeSHName = C073716
+ }}
+
+| Section2 = {{Chembox Properties
+| C=20
+| H=26
+| N=4
+| O=5
+| S=1
+| Appearance =
+| Density =
+| MeltingPt =
+| BoilingPt =
+| Solubility = 
+ }}
+
+|Section6 = {{Chembox Pharmacology
+| ATCCode_prefix = A02
+| ATCCode_suffix = BA05
+}}
+
+|Section7 = {{Chembox Hazards
+| MainHazards =
+| FlashPt =
+| AutoignitionPt = 
+ }}
+}}
+
+'''Niperotidine''' is a [[histamine antagonist]] selective for the [[Histamine H2 receptor|H<sub>2</sub>]] subtype. It was studied as a treatment for excessive gastric acidity,<ref>{{cite journal | pmid = 1983712| year = 1990| author1 = Palasciano| first1 = G| title = The effect of the H2-antagonist niperotidine on intragastric acidity in healthy subjects undergoing 24-hour pH-monitoring| journal = The Italian journal of gastroenterology| volume = 22| issue = 5| pages = 291–4| last2 = Maggi| first2 = V| last3 = Portincasa| first3 = P}}</ref> but withdrawn after human trials showed [[hepatotoxicity|liver damage]].<ref>{{cite journal | pmid = 9314138| year = 1997| author1 = Gasbarrini| first1 = G| title = Acute liver injury related to the use of niperotidine| journal = Journal of hepatology| volume = 27| issue = 3| pages = 583–6| last2 = Gentiloni| first2 = N| last3 = Febbraro| first3 = S| last4 = Gasbarrini| first4 = A| last5 = Di Campli| first5 = C| last6 = Cesana| first6 = M| last7 = Miglio| first7 = F| last8 = Miglioli| first8 = M| last9 = Ghinelli| first9 = F| last10 = d'Ambrosi| first10 = A| last11 = Amoroso| first11 = P| last12 = Pacini| first12 = F| last13 = Salvadori| first13 = G}}</ref>
+
+==References==
+<references/>
+
+{{Histaminergics}}
+{{Drugs for peptic ulcer and GORD}}
+
+[[Category:Abandoned drugs]]
+[[Category:Amines]]
+[[Category:Benzodioxoles]]
+[[Category:Furans]]
+[[Category:H2 receptor antagonists]]
+[[Category:Nitroethenes]]
+[[Category:Thioethers]]
+
+{{gastrointestinal-drug-stub}}

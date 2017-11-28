@@ -1,0 +1,59 @@
+{{Chembox
+| ImageFile = avoparcins.svg
+| ImageSize = 250px
+| ImageCaption = α-Avoparcin (R=H)<br>β-Avoparcin (R=Cl)
+| IUPACName = 
+| OtherNames = 
+|Section1={{Chembox Identifiers 
+| CASNo = 37332-99-3
+| CASNo_Ref = {{cascite|correct|}}
+| CASNo_Comment = (α/β mix)
+| CASNo1 = 73957-86-5
+| CASNo1_Ref = {{cascite|correct|}}
+| CASNo1_Comment = (α)
+| CASNo2 = 73957-87-6
+| CASNo2_Ref = {{cascite|correct|}}
+| CASNo2_Comment = (β)
+| ChemSpiderID = 16736403
+| ChemSpiderID_Comment = (α)
+| ChemSpiderID1 = 16736404
+| ChemSpiderID1_Comment = (β)
+| SMILES = CN[C@H](C(=O)N[C@@H]5[C@H](O[C@@H]1O[C@@H](CO)[C@H](O)[C@@H](O)[C@H]1O)c2ccc(cc2)Oc%13cc7cc(Oc4cc(O[C@H]3C[C@@H](N)[C@@H](O)[C@H](C)O3)c(cc4Cl)C[C@@H]%10NC(=O)[C@H](NC(=O)[C@@H]7NC(=O)[C@@H](NC5=O)c6ccc(O)cc6)c8ccc(O)c(c8)c9c(O)cc(O)cc9[C@@H](NC%10=O)C(=O)O)c%13O[C@@H]%12O[C@H](CO)[C@@H](O)[C@H](O)[C@H]%12O[C@H]%11C[C@@H](N)[C@@H](O)[C@H](C)O%11)c%15ccc(O[C@@H]%14O[C@@H](C)[C@H](O)[C@@H](O)[C@H]%14O)cc%15
+| SMILES_Comment = (α)
+| StdInChI = 1S/C89H102ClN9O36/c1-31-67(106)47(91)26-58(124-31)130-52-28-53-46(90)20-38(52)21-49-80(116)98-65(86(122)123)45-24-41(103)25-51(105)60(45)44-19-37(11-18-50(44)104)63(82(118)94-49)96-84(120)64-39-22-54(78(55(23-39)129-53)135-89-79(74(113)71(110)57(30-101)132-89)133-59-27-48(92)68(107)32(2)125-59)127-42-16-9-36(10-17-42)77(134-88-76(115)73(112)70(109)56(29-100)131-88)66(85(121)95-62(83(119)97-64)35-5-12-40(102)13-6-35)99-81(117)61(93-4)34-7-14-43(15-8-34)128-87-75(114)72(111)69(108)33(3)126-87/h5-20,22-25,28,31-33,47-49,56-59,61-77,79,87-89,93,100-115H,21,26-27,29-30,91-92H2,1-4H3,(H,94,118)(H,95,121)(H,96,120)(H,97,119)(H,98,116)(H,99,117)(H,122,123)/t31-,32-,33-,47+,48+,49-,56-,57+,58-,59-,61-,62-,63+,64+,65+,66+,67-,68-,69-,70-,71+,72+,73+,74-,75+,76+,77+,79+,87-,88-,89-/m0/s1
+| StdInChI_Comment = (α)
+| StdInChIKey = JWFVWARSGMYXRN-HTQQBIQNSA-N
+
+| SMILES1 = CN[C@H](C(=O)N[C@@H]5[C@H](O[C@@H]1O[C@@H](CO)[C@H](O)[C@@H](O)[C@H]1O)c2ccc(cc2)Oc%13cc7cc(Oc4cc(O[C@H]3C[C@@H](N)[C@@H](O)[C@H](C)O3)c(cc4Cl)C[C@@H]%10NC(=O)[C@H](NC(=O)[C@@H]7NC(=O)[C@@H](NC5=O)c6ccc(O)c(Cl)c6)c8ccc(O)c(c8)c9c(O)cc(O)cc9[C@@H](NC%10=O)C(=O)O)c%13O[C@@H]%12O[C@H](CO)[C@@H](O)[C@H](O)[C@H]%12O[C@H]%11C[C@@H](N)[C@@H](O)[C@H](C)O%11)c%15ccc(O[C@@H]%14O[C@@H](C)[C@H](O)[C@@H](O)[C@H]%14O)cc%15
+| SMILES1_Comment = (β)
+| InChI2 = 1S/C89H101Cl2N9O36/c1-30-67(107)46(92)25-58(125-30)131-52-27-53-45(91)19-37(52)20-48-80(117)99-65(86(123)124)43-23-39(103)24-51(106)60(43)42-17-35(9-15-49(42)104)62(82(119)95-48)96-84(121)64-38-21-54(78(55(22-38)130-53)136-89-79(74(114)71(111)57(29-102)133-89)134-59-26-47(93)68(108)31(2)126-59)128-40-13-7-34(8-14-40)77(135-88-76(116)73(113)70(110)56(28-101)132-88)66(85(122)97-63(83(120)98-64)36-10-16-50(105)44(90)18-36)100-81(118)61(94-4)33-5-11-41(12-6-33)129-87-75(115)72(112)69(109)32(3)127-87/h5-19,21-24,27,30-32,46-48,56-59,61-77,79,87-89,94,101-116H,20,25-26,28-29,92-93H2,1-4H3,(H,95,119)(H,96,121)(H,97,122)(H,98,120)(H,99,117)(H,100,118)(H,123,124)/t30-,31-,32-,46+,47+,48-,56-,57+,58-,59-,61-,62+,63-,64+,65+,66+,67-,68-,69-,70-,71+,72+,73+,74-,75+,76+,77+,79+,87-,88-,89-/m0/s1
+
+| InChI2_Comment = (β)
+| InChIKey2 = CASDGWYZIKZSQE-ZUWMJMDKSA-N
+ }}
+|Section2={{Chembox Properties
+| Formula = C<sub>89</sub>H<sub>102</sub>ClN<sub>9</sub>O<sub>36</sub> (α)<br>C<sub>89</sub>H<sub>101</sub>Cl<sub>2</sub>N<sub>9</sub>O<sub>36</sub> (β)
+| MolarMass = 1909.254 (α)<br>1943.699 (β)
+| Appearance = 
+| Density = 
+| MeltingPt = 
+| BoilingPt = 
+| Solubility =
+ }}
+|Section3={{Chembox Hazards
+| MainHazards = 
+| FlashPt = 
+| AutoignitionPt =
+ }}
+}}
+
+'''Avoparcin''' is a [[glycopeptide antibiotic]] effective against [[Gram-positive bacteria]]. It has been used in agriculture as an additive to livestock feed to promote growth in chickens, pigs, and cattle.<ref name=apvma>{{cite web | url = http://www.apvma.gov.au/products/review/completed/avoparcin.php | title = Avoparcin | publisher = Australian Pesticides and Veterinary Medicine Authority}}</ref> It is also used as an aid in the prevention of [[enteritis|necrotic enteritis]] in poultry.<ref name=apvma/>
+
+Avoparcin is a mixture of two closely related chemical compounds, known as α-avoparcin and β-avoparcin, which differ by the presence of an additional chlorine atom in β-avoparcin.  Avoparcin also shares a chemical similarity with [[vancomycin]].  Because of this similarity, concern exists that widespread use of avoparcin in animals may lead to an increased prevalence of vancomycin-resistant strains of bacteria.<ref>{{cite journal | doi = 10.1046/j.1469-0691.2000.00128.x | title = Avoparcin and virginiamycin as animal growth promoters: A plea for science in decision-making | year = 2000 | last1 = Acar | first1 = J. | last2 = Casewell | first2 = M. | last3 = Freeman | first3 = J. | last4 = Friis | first4 = C. | last5 = Goossens | first5 = H. | journal = Clinical Microbiology and Infection | volume = 6 | issue = 9 | pages = 477–82 | pmid = 11168181}}</ref><ref>{{Cite journal | doi = 10.1016/S0167-5877(96)01119-1 | title = Avoparcin used as a growth promoter is associated with the occurrence of vancomycin-resistant Enterococcus faecium on Danish poultry and pig farms | year = 1997 | last1 = Bager | first1 = F | last2 = Madsen | first2 = M | last3 = Christensen | first3 = J | last4 = Aarestrup | first4 = F.M | journal = Preventive Veterinary Medicine | volume = 31 | pages = 95–112 | pmid = 9234429 | issue = 1–2}}</ref><ref>{{cite journal | title = Vancomycin-resistant enterococci and use of avoparcin in animal feed: is there a link? | author = [[Peter Collignon|Peter J Collignon]] | journal = Med J Aust | year = 1999 | volume = 171 | issue = 3 | pages = 144–146 | pmid = 10474607}}</ref><ref>{{Cite journal | pmid = 17298380 | year = 2007 | last1 = Lauderdale | first1 = TL | last2 = Shiau | first2 = YR | last3 = Wang | first3 = HY | last4 = Lai | first4 = JF | last5 = Huang | first5 = IW | last6 = Chen | first6 = PC | last7 = Chen | first7 = HY | last8 = Lai | first8 = SS | last9 = Liu | first9 = YF | title = Effect of banning vancomycin analogue avoparcin on vancomycin-resistant enterococci in chicken farms in Taiwan | volume = 9 | issue = 3 | pages = 819–23 | doi = 10.1111/j.1462-2920.2006.01189.x | journal = Environmental Microbiology }}</ref>
+
+Avoparcin was once widely used in Australia and the European Union, but it is currently not permitted in either.<ref name=apvma/><ref>[http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31997L0006:EN:HTML Commission Directive 97/6/EC of 30 January 1997 amending Council Directive 70/524/EEC concerning additives in feedingstuffs], Official Journal L 035 , 05/02/1997 P. 0011-0013</ref>  It was never approved for use in the United States.<ref>{{Cite web | url = http://www.salon.com/2007/11/07/staph/ | title = Is the way we raise our food giving us MRSA? | publisher = Salon.com | author = Alex Koppelman | date = Nov 7, 2007}}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Glycopeptide antibiotics]]

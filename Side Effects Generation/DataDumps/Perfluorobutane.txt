@@ -1,0 +1,60 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 408536064
+| ImageFileL1 = Perflubutane.png
+| ImageSizeL1 = 140
+| ImageAltL1 = Structural formula of perfluorobutane
+| ImageFileR1 = Decafluorobutane 3D ball.png
+| ImageSizeR1 = 140
+| ImageAltR1 = Ball-and-stick model of perfluorobutane
+| PIN = Decafluorobutane
+| OtherNames = Perfluorobutane (no longer recommended<ref name=iupac2013>{{cite book | title =  Nomenclature of Organic Chemistry : IUPAC Recommendations and Preferred Names 2013 (Blue Book) | publisher = [[Royal Society of Chemistry|The Royal Society of Chemistry]] | date = 2014 | location = Cambridge | page = 33 | doi = 10.1039/9781849733069-FP001 | isbn = 978-0-85404-182-4 | quote = The prefix ‘per-’ is no longer recommended.}}</ref>)<br />DFB<br />Perflubutane ([[United_States_Adopted_Name|USAN]])<br />Halocarbon 610<br />R610
+|Section1={{Chembox Identifiers
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo = 355-25-9
+| PubChem =9638 
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05440
+| ChEBI = 134964
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 13862701
+| EINECS = 206-580-3
+| SMILES = C(C(C(F)(F)F)(F)F)(C(F)(F)F)(F)F
+| InChI = 1/C4F10/c5-1(6,3(9,10)11)2(7,8)4(12,13)14
+| InChIKey = KAVGMUDTWQVPDF-UHFFFAOYAC
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C4F10/c5-1(6,3(9,10)11)2(7,8)4(12,13)14
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = KAVGMUDTWQVPDF-UHFFFAOYSA-N}}
+|Section2={{Chembox Properties
+| C=4 | F=10
+| Appearance = 
+| Density = 11.21 kg/m<sup>3</sup> (gas, 101.3 kPa at boiling point)<ref name=airliquide>{{cite web | url = http://encyclopedia.airliquide.com/Encyclopedia.asp?GasID=19 | work = Gas Encyclopaedia | publisher = Air Liquide | title = Perfluorobutane (R610) | accessdate = November 1, 2012}}</ref><br>1594 kg/m<sup>3</sup> (liquid, 101.3 kPa at boiling point)<ref name=airliquide/>
+| MeltingPtC = -128 
+| MeltingPt_ref = <ref name=aus_health>{{cite web | url = http://www.nicnas.gov.au/publications/car/new/na/nasummr/na0300sr/na317.asp | title = Summary Report: PERFLUOROBUTANE}}</ref>
+| BoilingPtC = -1.7 
+| BoilingPt_ref = <ref name=airliquide/>
+| Solubility = 1.5 mg/L (101.3 kPa)<ref name=aus_health/>
+| Viscosity = 0.0001218 Poise<ref name=airliquide/>
+| VaporPressure = 330.3 kPa (at 25 °C)<ref name=aus_health/>
+| LogP = > 3.93 (n-octanol/water)<ref name=aus_health/>}}
+|Section3={{Chembox Hazards
+| ExternalSDS = [https://customer.linde.com/lig/custpt/print/msds/servlet/PrintDocument?OrderName=/oracle/GPF/linde/PERSISTENT/GPA/WW/Portal/SDS/SDS_SG_161_NL_EN.PDF&noDeletePdf=true MSDS at Linde Gas]
+| MainHazards = 
+| FlashPt = 
+| AutoignitionPt = }}
+}}
+
+'''Perfluorobutane (PFB)''' is a colorless gas. It is a simple [[fluorocarbon]] with a [[butane|''n''-butane]] skeleton and all the [[hydrogen]] atoms replaced with [[fluorine]] atoms. It is used as a replacement for [[Halon 1301]] [[fire extinguisher]]s,<ref>{{cite web | publisher = [[National Industrial Chemicals Notification and Assessment Scheme]] | title = Perfluorobutane &mdash; Full Public Report | url = http://www.nicnas.gov.au/publications/car/new/na/nafullr/na0300fr/na317fr.pdf.pan.txt | year = 1996}}</ref> as well as the gas component for newer generation [[microbubbles|microbubble]] [[Contrast-enhanced_ultrasound#Microbubble_contrast_agents|ultrasound contrast agents]]. Sonazoid<ref>{{cite web | title = Sonoazoid - US TIP | url = http://www.us-tip.com/serv1.php?type=db1&dbs=sonazoid}}</ref> is one such microbubble formulation developed by Amersham Health that uses perfluorobutane for the gas core.
+
+==References==
+{{reflist}}
+
+[[Category:Fluorocarbons]]
+[[Category:Perfluorinated compounds]]
+[[Category:Fire suppression agents]]
+[[Category:Dielectric gases]]
+
+
+{{pharma-stub}}

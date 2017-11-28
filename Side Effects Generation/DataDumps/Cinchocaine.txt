@@ -1,0 +1,84 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 460037677
+| IUPAC_name = 2-butoxy-''N''-[2-(diethylamino)ethyl]quinoline-4-carboxamide
+| image = Cinchocaine.svg
+| image2 = Cinchocaine 3D ball-and-stick.png
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|cinchocaine}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = OTC
+| legal_status =  
+| routes_of_administration = topical, intravenous (for [[animal euthanasia]])
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| IUPHAR_ligand = 7159
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 85-79-0
+| ATC_prefix = C05
+| ATC_suffix = AD04
+| ATC_supplemental =  {{ATC|D04|AB02}} {{ATC|N01|BB06}} {{ATC|S01|HA06}} {{ATC|S02|DA04}}
+| PubChem = 3025
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00527
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2917
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = L6JW2TJG99
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00733
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 247956
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1086
+<!--Chemical data-->
+| C=20 | H=29 | N=3 | O=2
+| molecular_weight = 343.463 g/mol
+| smiles = O=C(c1c2ccccc2nc(OCCCC)c1)NCCN(CC)CC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C20H29N3O2/c1-4-7-14-25-19-15-17(16-10-8-9-11-18(16)22-19)20(24)21-12-13-23(5-2)6-3/h8-11,15H,4-7,12-14H2,1-3H3,(H,21,24)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = PUFQVTATUTYEAL-UHFFFAOYSA-N
+}}
+'''Cinchocaine''' ([[International Nonproprietary Name|INN]]/[[British Approved Name|BAN]]) or '''dibucaine''' ([[United States Adopted Name|USAN]]) is an [[amide]] [[local anesthetic]]. Among the most potent and toxic of the long-acting local anesthetics, current use of cinchocaine is generally restricted to spinal and topical anesthesia.<ref>Martindale, The Extra Pharmacopoeia, 30th ed, p1006</ref><ref>[http://www.nlm.nih.gov/cgi/mesh/2009/MB_cgi?mode=&term=Dibucaine Dibucaine]</ref> It is sold under the brand names '''Cincain''', '''Nupercainal''', '''Nupercaine''' and '''Sovcaine'''.
+
+==Medical use==
+Cinchocaine is the active ingredient in some topical hemorrhoid creams such as [[Proctosedyl]]. It is also a component of the [[veterinary]] drug '''Somulose''', used for [[animal euthanasia|euthanasia]] of [[horse]]s and [[cattle]].
+
+==Physical properties==
+Cinchocaine is relatively [[insoluble]] in [[alkaline]] aqueous solutions.
+
+==See also==
+* [[Dibucaine number]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite journal | vauthors = Abdel-Ghani N, Youssef A, Awady M | title = Cinchocaine hydrochloride determination by atomic absorption spectrometry and spectrophotometry. | journal = Farmaco | volume = 60 | issue = 5 | pages = 419–24 | year = 2005 | pmid = 15910814 | doi = 10.1016/j.farmac.2005.03.001}}
+* {{cite journal | vauthors = Souto-Padron T, Lima AP, de Oliveira Ribeiro R | title = Effects of dibucaine on the endocytic/exocytic pathways in Trypanosoma cruzi. | journal = Parasitol Res | volume = 99| issue = 4| pages = 317–20| year = 2006 | pmid = 16612626 | doi = 10.1007/s00436-006-0192-1}}
+* {{cite journal | vauthors = Nounou M, El-Khordagui L, Khalafallah N | title = Effect of various formulation variables on the encapsulation and stability of dibucaine base in multilamellar vesicles. | journal = Acta Pol Pharm | volume = 62 | issue = 5 | pages = 369–79 | year = 2005| pmid = 16459486}}
+* {{cite journal | author = Aroti, A. | author2 = Leontidis, E. | title =  Simultaneous Determination of the Ionization Constant and the Solubility of Sparingly Soluble Drug Substances. A Physical Chemistry Experiment . | journal = Journal of Chemical Education| volume = 78 | issue =  6 | pages = 786–788 | year = 2001 | doi = 10.1021/ed078p786}}
+
+{{Vasoprotectives}}
+{{Antipruritics}}
+{{local anesthetics}}
+
+[[Category:Local anesthetics]]
+[[Category:Quinolines]]
+[[Category:Phenol ethers]]
+[[Category:Carboxamides]]
+
+
+{{dermatologic-drug-stub}}
+{{nervous-system-drug-stub}}

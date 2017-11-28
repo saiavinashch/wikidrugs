@@ -1,0 +1,95 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 461750802
+| IUPAC_name = ''N''-(4-<nowiki/>{1-[(2,4-diaminopteridin-6-yl)methyl]but-3-yn-1-yl}benzoyl)-<small>L</small>-glutamic acid
+| image = Pralatrexate.png
+| width = 300
+| image2 = Pralatrexate ball-and-stick.png
+| width2 = 300
+
+<!--Clinical data-->
+| tradename = Folotyn
+| Drugs.com = {{drugs.com|monograph|pralatrexate}}
+| licence_US = Pralatrexate
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = D
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = [[Intravenous therapy|Intravenous]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6840
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 146464-95-1
+| ATC_prefix = L01
+| ATC_suffix = BA05
+| PubChem = 148121
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 71223
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 130578
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = A8Q8I19Q20
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201746
+
+<!--Chemical data-->
+| C=23 | H=23 | N=7 | O=5 
+| molecular_weight = 477.47 g/mol
+| smiles = O=C(O)[C@@H](NC(=O)c1ccc(cc1)C(CC#C)Cc2nc3c(nc2)nc(nc3N)N)CCC(=O)O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C23H23N7O5/c1-2-3-14(10-15-11-26-20-18(27-15)19(24)29-23(25)30-20)12-4-6-13(7-5-12)21(33)28-16(22(34)35)8-9-17(31)32/h1,4-7,11,14,16H,3,8-10H2,(H,28,33)(H,31,32)(H,34,35)(H4,24,25,26,29,30)/t14?,16-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OGSBUKJUDHAQEA-WMCAAGNKSA-N
+}}
+
+'''Pralatrexate''' (brand name '''Folotyn''') is an anti-cancer therapy.<ref name="PR">[http://ir.allos.com/phoenix.zhtml?c=125475&p=irol-newsArticle&ID=1277828&highlight], Allos Therapeutics Press Release, “Allos Therapeutics' Pralatrexate Demonstrates Anticancer Activity in Multiple Cancer Cell Lines”.</ref> It is the first drug approved as a treatment for patients with relapsed or refractory peripheral T-cell lymphoma, or [[Peripheral_T-cell_lymphoma|PTCL]]<ref name="PR2">[http://ir.allos.com/phoenix.zhtml?c=125475&p=irol-newsArticle&ID=1335492&highlight], Allos Therapeutics Press Release, “Allos Therapeutics' FOLOTYN(TM) First and Only FDA-Approved Therapy for Relapsed or Refractory Peripheral T-cell Lymphoma”.</ref> — a biologically diverse group of aggressive blood cancers that have a poor prognosis.<ref name="PR2"/>
+
+==Approval==
+Folotyn was approved by the U.S. [[Food and Drug Administration]] (FDA) in September 2009 under the FDA’s accelerated approval,<ref name="PR2"/> which allows for earlier approval of drugs that meet unmet medical needs.<ref name="PR3">[http://www.fda.gov/forconsumers/byaudience/forpatientadvocates/speedingaccesstoimportantnewtherapies/ucm128291.htm], FDA, “Fast Track, Accelerated Approval and Priority Review”.</ref> Pralatrexate injection is marketed in the U.S. under the name Folotyn by Spectrum Pharmaceuticals.<ref name="PR2"/> [[Clinical trials]] are currently underway to explore the potential of Folotyn in other blood related cancers and solid tumors.<ref name="PR4">[http://seekingalpha.com/article/203251-allos-therapeutics-inc-q1-2010-earnings-call-transcript], Allos Therapeutics, “Allos Therapeutics, Inc. Q1 2010 Earnings Call Transcript”.</ref>
+
+==Mechanism==
+Pralatrexate is an [[antifolate]] (a [[folate]] analogue metabolic inhibitor) designed to accumulate preferentially in [[cancer cells]].<ref name="PR"/> Based on preclinical studies, researchers believe that pralatrexate selectively enters cells expressing reduced folate carrier type 1 (RFC-1), a protein that is overexpressed on certain cancer cells compared to normal cells.<ref name="PR"/>
+
+Antifolates, such as pralatrexate, are part of a group of compounds known as [[antimetabolites]] with structural similarity to naturally occurring molecules involved in DNA synthesis.<ref name="PR5">[http://www.psychiatrictimes.com/display-old/article/10165/1166026], Psychiatric Times, “Principles of Oncologic Pharmacotherapy”.</ref> Cancer cells mistake antimetabolites for normal [[metabolites]]<ref name="PR5"/> allowing the compound to stop or slow critical enzymes involved in DNA synthesis which then triggers cell death.<ref name="PR"/> Because of their primary effect on DNA synthesis, the antimetabolites are most effective against actively dividing cells and are largely cell-cycle phase specific.<ref name="PR5"/>
+
+==Discovery==
+Research on this class of drugs began in the 1950s at [[SRI International]], where scientists were focused on developing new [[chemotherapies]] and antifolates that would be effective against [[tumor cells]].<ref name="PR"/>
+
+In the late 1970s, researchers at Memorial Sloan Kettering Cancer Center discovered that cancerous cells take in natural folate through a protein identified as plasma membrane transporter (now referred to as “reduced folate carrier type 1” or “RFC-1”).  Further research showed that when normal cells evolve into cancerous cells they often overproduce RFC-1 to ensure they get enough folate.<ref name="PR6">[http://www.mskcc.org/mskcc/html/95988.cfm], Memorial Sloan Kettering Cancer Center Press Release, “FDA Approves Lymphoma Drug Developed at Memorial Sloan Kettering”.</ref>
+
+A subsequent scientific collaboration was ultimately formed among SRI International, Memorial Sloan Kettering Cancer Center, and the Southern Research Institute with the intention of developing an antifolate with greater therapeutic selectivity – an agent that could be more effectively internalized into tumors (transported into the cells through RFC-1) and would be more toxic to cancer cells than normal cells.<ref name="PR6"/>
+
+This collaboration, supported by the National Cancer Institute,<ref name="PR8">[http://www.cancer.gov/ncicancerbulletin/102009/page4], National Cancer Institute “NCI Cancer Bulletin: The Next Steps in Drug Development at NCI”.</ref> led to the identification of pralatrexate in the mid-1990s.  Pralatrexate was later licensed to Allos Therapeutics in 2002 for further development.<ref name="PR7">{{cite pressrelease|url=http://www.sri.com/newsroom/press-releases/fda-approves-pralatrexate|title=FDA Approves Pralatrexate for Treatment of Peripheral T-Cell Lymphoma|publisher=[[SRI International]]|date=2009-09-25|accessdate=2013-07-10}}</ref> Allos Therapeutics, Inc. was acquired by Spectrum Pharmaceuticals, Inc. on September 5, 2012. Allos is now a wholly owned subsidiary of Spectrum.<ref>{{cite news|url=http://www.bizjournals.com/denver/news/2012/09/05/purchase-of-allos-therapeutics-is.html|title=Purchase of Allos Therapeutics is completed|first=Greg|last=Avery|work=[[Denver Business Journal]]|date=2012-09-07|accessdate=2013-07-10}}</ref>
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://www.sri.com/work/timeline-innovation/timeline.php?timeline=health#!&innovation=targretin Pralatrexate Development Information]
+*[http://www.clinicaltrials.gov/ct2/results?term=pralatrexate Clinical trials of pralatrexate] at ClinicalTrials.gov
+*[http://www.folotyn.com/ Folotyn website]
+*[http://www.focusonptcl.com/ FocusonPTCL website]
+*[http://www.getasapinfo.com/ ASAP Support For Assisting Patients]
+
+{{Intracellular chemotherapeutic agents}}
+
+{{DEFAULTSORT:Propargyl-10-Deazaaminopterin, 10-}}
+[[Category:Mammalian dihydrofolate reductase inhibitors]]
+[[Category:Pteridines]]
+[[Category:Antifolates]]
+[[Category:Alkynes]]
+[[Category:SRI International]]

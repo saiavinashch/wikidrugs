@@ -1,0 +1,106 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470631860
+| IUPAC_name = ''N''-Hydroxy-''N'''-phenyloctanediamide
+| image = Vorinostat.svg
+| width = 275
+
+<!--Clinical data-->
+| pronounce = {{IPAc-en|v|ɒ|ˈ|r|ɪ|n|oʊ|s|t|æ|t}} {{respell|vorr|IN|oh-stat}}
+| tradename = Zolinza
+| Drugs.com = {{drugs.com|monograph|vorinostat}}
+| MedlinePlus = a607050
+| licence_US = Vorinostat
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = D
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = Rx-only
+| legal_status = ℞-only
+| routes_of_administration = Oral ([[Capsule (pharmacy)|capsules]])
+
+<!--Pharmacokinetic data-->
+| bioavailability = 1.8–11%<ref>{{cite web|title=Withdrawal Assessment Report for Vorinostat MSD 100 mg Hard Capsules (vorinostat)|url=http://www.ema.europa.eu/docs/en_GB/document_library/Application_withdrawal_assessment_report/2010/01/WC500063049.pdf|publisher=European Medicines Agency|accessdate=1 September 2016|page=9|date=23 October 2008}}</ref>
+| protein_bound = ~71%
+| metabolism = [[Liver|Hepatic]] [[glucuronidation]] and [[Beta oxidation|β-oxidation]]<br>[[Cytochrome P450 oxidase|CYP]] system not involved
+| metabolites = vorinostat ''O''-glucuronide, 4-anilino-4-oxobutanoic acid (both inactive)<ref name="Zolinza PI">{{cite web|title=Zolinza (vorinostat) Capsules. Full Prescribing Information|url=https://www.merck.com/product/usa/pi_circulars/z/zolinza/zolinza_pi.pdf|publisher=Merck & Co., Inc., Whitehouse Station, NJ 08889, USA|accessdate=1 September 2016}}</ref>
+| elimination_half-life = ~2 hours (vorinostat and ''O''-glucuronide), 11 hours (4-anilino-4-oxobutanoic acid)
+| excretion = [[Kidney|Renal]] (negligible)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6852
+| CAS_number_Ref = {{cascite|correct|CAS}}
+| CAS_number = 149647-78-9
+| ATC_prefix = L01
+| ATC_suffix = XX38
+| PubChem = 5311
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB02546
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5120
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 58IFB293JI
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D06320
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 45716
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 98
+
+<!--Chemical data-->
+| C=14 | H=20 | N=2 | O=3 
+| molecular_weight = 264.32 g/mol
+| smiles = O=C(Nc1ccccc1)CCCCCCC(=O)NO
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C14H20N2O3/c17-13(15-12-8-4-3-5-9-12)10-6-1-2-7-11-14(18)16-19/h3-5,8-9,19H,1-2,6-7,10-11H2,(H,15,17)(H,16,18)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WAEXFXRVDQXREF-UHFFFAOYSA-N
+}}
+
+'''Vorinostat''' ([[International Nonproprietary Name|rINN]])<ref>{{cite journal|title=International Nonproprietary Names for Pharmaceutical Substances (INN). Recommended International Nonproprietary Names: List 56|journal=WHO Drug Information|date=2006|volume=20|issue=3|page=232|url=http://apps.who.int/medicinedocs/documents/s14181e/s14181e.pdf|accessdate=1 September 2016}}</ref> also known as '''suberanilohydroxamic acid'''  ([[suberic acid|suberoyl]]+[[aniline|anilide]]+[[hydroxamic acid]] abbreviated as '''SAHA''') is a member of a larger class of compounds that inhibit [[histone deacetylase]]s (HDAC).  [[Histone deacetylase inhibitor]]s (HDI) have a broad spectrum of [[epigenetic]] activities.
+
+Vorinostat is marketed under the name '''Zolinza''' ({{IPAc-en|z|oʊ|ˈ|l|ɪ|n|z|ə}} {{respell|zoh|LIN|zə}}) by [[Merck & Co.|Merck]] for the treatment of cutaneous manifestations in patients with [[cutaneous T cell lymphoma]] (CTCL) when the disease persists, gets worse, or comes back during or after two systemic therapies.<ref name="Zolinza PI" /><ref>{{cite press release | title = ZOLINZA, Merck's Investigational Medicine for Advanced Cutaneous T-Cell Lymphoma (CTCL), To Receive Priority Review from U.S. Food and Drug Administration | publisher = Merck & Co. | date = June 7, 2006 | url = http://www.merck.com/newsroom/press_releases/research_and_development/2006_0607.html | accessdate = 2006-10-06 }}</ref> The compound was developed by Columbia University chemist [[Ronald Breslow]] and Memorial Sloan-Kettering researcher Paul Marks.<ref>{{cite journal |last1=Lee |first1=J.-H. |last2=Mahendran |first2=A. |last3=Yao |first3=Y. |last4=Ngo |first4=L. |last5=Venta-Perez |first5=G. |last6=Choy |first6=M. L. |last7=Kim |first7=N. |last8=Ham |first8=W.-S. |last9=Breslow |first9=R. |last10=Marks |first10=P. A. |title=Development of a histone deacetylase 6 inhibitor and its biological effects |journal=Proceedings of the National Academy of Sciences |volume=110 |issue=39 |pages=15704–9 |year=2013 |pmid=24023063 |pmc=3785767 |doi=10.1073/pnas.1313893110 |bibcode=2013PNAS..11015704L }}</ref><ref>{{cite journal |last1=Marks |first1=Paul A |last2=Breslow |first2=Ronald |title=Dimethyl sulfoxide to vorinostat: development of this histone deacetylase inhibitor as an anticancer drug |journal=Nature Biotechnology |volume=25 |issue=1 |pages=84–90 |year=2007 |pmid=17211407 |doi=10.1038/nbt1272 }}</ref>
+
+==Medical uses==
+Vorinostat was the first [[histone deacetylase inhibitor]]<ref>[http://www.hdacis.com/zolinza.html HDAC Inhibitors Base (vorinostat)]</ref> approved by the U.S. [[Food and Drug Administration]] (FDA) for the treatment of CTCL on October 6, 2006.<ref name = MSR>{{cite web|title=Zolinza (vorinostat) dosing, indications, interactions, adverse effects, and more|work=Medscape Reference|publisher=WebMD|accessdate=16 February 2014|url=http://reference.medscape.com/drug/zolinza-vorinostat-342102}}</ref> It also failed to demonstrate efficacy in treating [[acute myeloid leukemia]] in a phase II study.<ref>{{cite journal |last1=Schaefer |first1=E. W. |last2=Loaiza-Bonilla |first2=A. |last3=Juckett |first3=M. |last4=DiPersio |first4=J. F. |last5=Roy |first5=V. |last6=Slack |first6=J. |last7=Wu |first7=W. |last8=Laumann |first8=K. |last9=Espinoza-Delgado |first9=I. |last10=Gore |first10=S. D. |title=A phase 2 study of vorinostat in acute myeloid leukemia |journal=Haematologica |volume=94 |issue=10 |pages=1375–82 |year=2009 |pmid=19794082 |pmc=2754953 |doi=10.3324/haematol.2009.009217 }}</ref>
+
+==Mechanism of action==
+Vorinostat has been shown to bind to the active site of [[histone deacetylase]]s and act as a chelator for zinc ions also found in the active site of histone deacetylases.<ref name="Richon">{{cite journal |last1=Richon |first1=V M |title=Cancer biology: mechanism of antitumour action of vorinostat (suberoylanilide hydroxamic acid), a novel histone deacetylase inhibitor |journal=British Journal of Cancer |volume=95 |issue=Suppl 1 |year=2006 |pages=S2–S6 |pmc=2360770 |doi=10.1038/sj.bjc.6603463 }}</ref> 
+Vorinostat's inhibition of histone deacetylases results in the accumulation of acetylated histones and acetylated proteins, including transcription factors crucial for the expression of genes needed to induce cell differentiation.<ref name="Richon" />
+
+==Clinical trials==
+Vorinostat has also been used to treat [[Sézary syndrome]], another type of lymphoma closely related to CTCL.<ref name="atlas">{{cite web | last = Cuneo A  | first = Castoldi | title = Mycosis fungoides/Sezary's syndrome | url=http://atlasgeneticsoncology.org/Anomalies/MycosFungID2039.html | accessdate = 2008-02-15 }}</ref>
+
+A recent study suggested that vorinostat also possesses some activity against recurrent [[glioblastoma multiforme]], resulting in a median overall survival of 5.7 months (compared to 4–4.4 months in earlier studies).<ref>{{cite press release | title = Vorinostat shows anti-cancer activity in recurrent gliomas | publisher = Mayo Clinic | date = June 3, 2007 | url = http://www.eurekalert.org/pub_releases/2007-06/mc-vsa053007.php | accessdate = 2007-06-03 }}</ref> Further brain tumor trials are planned in which vorinostat will be combined with other drugs.
+
+Including vorinostat in treatment of advanced [[non-small-cell lung carcinoma]] (NSCLC) showed improved response rates and increased median progression free survival and overall survival.<ref>{{cite journal |last1=Ramalingam |first1=S. S. |last2=Maitland |first2=M. L. |last3=Frankel |first3=P. |last4=Argiris |first4=A. E. |last5=Koczywas |first5=M. |last6=Gitlitz |first6=B. |last7=Thomas |first7=S. |last8=Espinoza-Delgado |first8=I. |last9=Vokes |first9=E. E. |last10=Gandara |first10=D. R. |last11=Belani |first11=C. P. |title=Carboplatin and Paclitaxel in Combination With Either Vorinostat or Placebo for First-Line Therapy of Advanced Non-Small-Cell Lung Cancer |journal=Journal of Clinical Oncology |volume=28 |issue=1 |pages=56–62 |year=2010 |pmid=19933908 |pmc=2799233 |doi=10.1200/JCO.2009.24.9094 }}</ref>
+
+It has given encouraging results in a phase II trial for [[myelodysplastic syndrome]]s in combination with [[idarubicin]] and [[cytarabine]].<ref>{{cite web |url=http://www.mdsbeacon.com/news/2012/01/11/zolinza-vorinostat-idarubicin-cytarabine-combination-yields-high-response-rates-for-mds-patients-ash-2011/ |title=Zolinza, Idarubicin, Cytarabine Combination Yields High Response Rates In MDS Patients (ASH 2011) }}</ref>
+
+==Preclinical investigations==
+Vorinostat is an interesting target for scientists interested in eradicating [[HIV]] from infected persons.<ref>{{ClinicalTrialsGov|NCT01319383|The Effect of Vorinostat on HIV RNA Expression in the Resting CD4+ T Cells of HIV+ Pts on Stable ART}}</ref> Vorinostat was recently shown to have both ''in vitro'' and ''in vivo'' effects against latently HIV infected [[T cell]]s.<ref name="pmid19239360">{{cite journal |last1=Archin |first1=Nancie M. |last2=Espeseth |first2=Amy |last3=Parker |first3=Daniel |last4=Cheema |first4=Manzoor |last5=Hazuda |first5=Daria |last6=Margolis |first6=David M. |title=Expression of Latent HIV Induced by the Potent HDAC Inhibitor Suberoylanilide Hydroxamic Acid |journal=AIDS Research and Human Retroviruses |volume=25 |issue=2 |pages=207–12 |year=2009 |pmid=19239360 |pmc=2853863 |doi=10.1089/aid.2008.0191 }}</ref><ref name="pmid19136668">{{cite journal |last1=Contreras |first1=X. |last2=Schweneker |first2=M. |last3=Chen |first3=C.-S. |last4=McCune |first4=J. M. |last5=Deeks |first5=S. G. |last6=Martin |first6=J. |last7=Peterlin |first7=B. M. |title=Suberoylanilide Hydroxamic Acid Reactivates HIV from Latently Infected Cells |journal=Journal of Biological Chemistry |volume=284 |issue=11 |pages=6782–9 |year=2009 |pmid=19136668 |pmc=2652322 |doi=10.1074/jbc.M807898200 }}</ref>
+
+Vorinostat also has shown some activity against the pathophysiological changes in [[Alpha 1-antitrypsin deficiency|α<sub>1</sub>-antitrypsin deficiency]]<ref>{{cite journal |last1=Bouchecareilh |first1=M. |last2=Hutt |first2=D. M. |last3=Szajner |first3=P. |last4=Flotte |first4=T. R. |last5=Balch |first5=W. E. |title=Histone Deacetylase Inhibitor (HDACi) Suberoylanilide Hydroxamic Acid (SAHA)-mediated Correction of  1-Antitrypsin Deficiency |journal=Journal of Biological Chemistry |volume=287 |issue=45 |pages=38265–78 |year=2012 |pmid=22995909 |pmc=3488095 |doi=10.1074/jbc.M112.404707 }}</ref> and [[cystic fibrosis]].<ref>{{cite journal |last1=Hutt |first1=Darren M |last2=Herman |first2=David |last3=Rodrigues |first3=Ana P C |last4=Noel |first4=Sabrina |last5=Pilewski |first5=Joseph M |last6=Matteson |first6=Jeanne |last7=Hoch |first7=Ben |last8=Kellner |first8=Wendy |last9=Kelly |first9=Jeffery W |last10=Schmidt |first10=Andre |last11=Thomas |first11=Philip J |last12=Matsumura |first12=Yoshihiro |last13=Skach |first13=William R |last14=Gentzsch |first14=Martina |last15=Riordan |first15=John R |last16=Sorscher |first16=Eric J |last17=Okiyoneda |first17=Tsukasa |last18=Yates |first18=John R |last19=Lukacs |first19=Gergely L |last20=Frizzell |first20=Raymond A |last21=Manning |first21=Gerard |last22=Gottesfeld |first22=Joel M |last23=Balch |first23=William E |title=Reduced histone deacetylase 7 activity restores function to misfolded CFTR in cystic fibrosis |journal=Nature Chemical Biology |volume=6 |issue=1 |pages=25–33 |year=2010 |pmid=19966789 |pmc=2901172 |doi=10.1038/nchembio.275 }}</ref>
+Recent evidences also indicate Vorinostat as a therapeutic tool for Niemann-Pick type C1 (NPC1), a rare lysosomal lipid storage disease.<ref>{{cite journal |last1=Alam |first1=M. S. |last2=Getz |first2=M. |last3=Haldar |first3=K. |title=Chronic administration of an HDAC inhibitor treats both neurological and systemic Niemann-Pick type C disease in a mouse model |journal=Science Translational Medicine |volume=8 |issue=326 |pages=326ra23 |year=2016 |pmid=26888431 |doi=10.1126/scitranslmed.aad9407 }}</ref>
+
+==See also==
+* [[Trichostatin A]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://www.ebi.ac.uk/pdbe-srv/PDBeXplore/ligand/?ligand=SHH Vorinostat bound to proteins] in the [[Protein Data Bank|PDB]]
+
+{{Merck&Co}}
+{{Chemotherapeutic agents}}
+{{HDAC inhibitors}}
+
+[[Category:Anilides]]
+[[Category:Antineoplastic drugs]]
+[[Category:Histone deacetylase inhibitors]]
+[[Category:Hydroxamic acids]]
+[[Category:Orphan drugs]]

@@ -1,0 +1,60 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 413651449
+| IUPAC_name = 2-piperazin-1-ylquinoline
+| image = Quipazine.png
+
+<!--Clinical data-->
+| tradename =
+| pregnancy_category =
+| legal_status =
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 4774-24-7
+| ATC_prefix = none
+| ATC_suffix =
+| PubChem = 5011
+| IUPHAR_ligand = 173
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 4WCY05C0SJ
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 18772
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 4836
+
+<!--Chemical data-->
+| C=13 | H=15 | N=3
+| molecular_weight = 213.278 g/mol
+| smiles = C1CN(CCN1)C2=NC3=CC=CC=C3C=C2
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C13H15N3/c1-2-4-12-11(3-1)5-6-13(15-12)16-9-7-14-8-10-16/h1-6,14H,7-10H2
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = XRXDAJYKGWNHTQ-UHFFFAOYSA-N
+}}
+
+'''Quipazine''' is a [[piperazine]] [[drug]] used in [[scientific research]]. It is a moderately [[binding selectivity|selective]] [[serotonin receptor]] [[receptor (biochemistry)|receptor]] [[Receptor agonist|agonist]], binding to a range of different [[serotonin]] receptors, but particularly to the [[5-HT2A receptor|5-HT<sub>2A</sub>]]<ref>{{cite journal|pmid=7473132|year=1995|author1=Smith|first1=R. L.|title=Neurochemical and behavioral evidence that quipazine-ketanserin discrimination is mediated by serotonin2A receptor|journal=The Journal of pharmacology and experimental therapeutics|volume=275|issue=2|pages=1050–7|last2=Barrett|first2=R. J.|last3=Sanders-Bush|first3=E}}</ref> and [[5-HT3 receptor|5-HT<sub>3</sub>]].<ref>{{cite journal|pmid=9513601|year=1998|author1=Cappelli|first1=A|title=Novel potent and selective central 5-HT3 receptor ligands provided with different intrinsic efficacy. 1. Mapping the central 5-HT3 receptor binding site by arylpiperazine derivatives|journal=Journal of Medicinal Chemistry|volume=41|issue=5|pages=728–41|last2=Anzini|first2=M|last3=Vomero|first3=S|last4=Mennuni|first4=L|last5=Makovec|first5=F|last6=Doucet|first6=E|last7=Hamon|first7=M|last8=Bruni|first8=G|last9=Romeo|first9=M. R.|last10=Menziani|first10=M. C.|last11=De Benedetti|first11=P. G.|last12=Langer|first12=T|doi=10.1021/jm970645i}}</ref>
+
+==See also==
+* [[Substituted piperazine]]
+
+== References ==
+{{Reflist|2}}
+
+{{Serotonergics}}
+{{Piperazines}}
+
+[[Category:Piperazines]]
+[[Category:Serotonin receptor agonists]]
+[[Category:Quinolines]]
+[[Category:5-HT3 agonists]]
+
+
+{{nervous-system-drug-stub}}

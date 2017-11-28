@@ -1,0 +1,78 @@
+{{Drugbox
+| Verifiedfields = 
+| Watchedfields = 
+| verifiedrevid = 
+| IUPAC_name = [(8''R'',9''S'',13''S'',14''S'',17''S'')-3-[''bis''(2-Chloroethyl)carbamoyloxy]-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthren-17-yl] (2''S'')-2-aminopropanoate
+| image = Alestramustine.svg
+| width = 250
+
+<!--Clinical data-->
+| tradename = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = 
+| legal_UK = 
+| legal_US = 
+| legal_status = 
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = 
+| CAS_number = 139402-18-9
+| CAS_supplemental = 
+| ATC_prefix = 
+| ATC_suffix = 
+| PubChem = 20055302
+| DrugBank_Ref = 
+| DrugBank = 
+| ChemSpiderID_Ref = 
+| ChemSpiderID = 16736564
+| UNII = 81U8A51CHK
+| ChEMBL = 2106670
+
+<!--Chemical data-->
+| C=26 | H=36 | Cl=2 | N=2 | O=4
+| molecular_weight = 511.48104 g/mol
+| smiles = CC(C(=O)OC1CCC2C1(CCC3C2CCC4=C3C=CC(=C4)OC(=O)N(CCCl)CCCl)C)N
+| StdInChI_Ref = 
+| StdInChI = 1S/C26H36Cl2N2O4/c1-16(29)24(31)34-23-8-7-22-21-5-3-17-15-18(33-25(32)30(13-11-27)14-12-28)4-6-19(17)20(21)9-10-26(22,23)2/h4,6,15-16,20-23H,3,5,7-14,29H2,1-2H3/t16-,20+,21+,22-,23-,26-/m0/s1
+| StdInChIKey_Ref = 
+| StdInChIKey = NRUFLTXGIPFVSH-KBVRNWHJSA-N
+| synonyms = Estradiol 3-(bis(2-chloroethyl)carbamate) 17β-(<small>L</small>-alaninate); Estradiol 3-(bis(2-chloroethyl)carbamate) 17β-(2β-aminopropanoate); Estradiol 3-(bis(2-chloroethyl)carbamate) 17β-((2''S'')-2-aminopropanoate)
+}}
+
+'''Alestramustine''' ([[International Nonproprietary Name|INN]]), also known as '''estradiol 3-(''bis''(2-chloroethyl)carbamate) 17β-(<small>L</small>-alaninate)''', is a [[nitrogen mustard]] [[alkylating antineoplastic agent|alkylating]] [[antineoplastic drug]] that was never marketed.<ref name="NCI">{{cite web | title = Alestramustine | author = NCI Thesaurus | url = https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=NCI_Thesaurus&code=C77370 | accessdate = 24 June 2016}}</ref><ref name="Milne2000">{{cite book|author=G. W. A. Milne|title=Ashgate Handbook of Antineoplastic Agents|url=https://books.google.com/books?id=ZNkhAQAAMAAJ|date=1 July 2000|publisher=Wiley|isbn=978-0-566-08382-2|page=5}}</ref> It is the [[alanine|<small>L</small>-alanine]] [[ester]] of [[estramustine]], which is a combination of the nitrogen mustard [[normustine]] coupled via a [[carbamate]] to the [[estrogen]] [[estradiol]].<ref name="NCI" /><ref name="Tripathi2013">{{cite book|author=KD Tripathi|title=Essentials of Medical Pharmacology|url=https://books.google.com/books?id=FfG8AQAAQBAJ&pg=PA866|date=30 September 2013|publisher=JP Medical Ltd|isbn=978-93-5025-937-5|pages=866–}}</ref> Alestramustine acts as a [[prodrug]] to estramustine, and also forms [[estradiol]] as a [[by-product|byproduct]].<ref name="NCI" /><ref name="Tripathi2013" /> The drug, via its [[active metabolite]]s, binds to [[microtubule-associated protein]]s and [[tubulin|β-tubulin]] and interferes with [[microtubule]] function, thereby inhibiting [[cell division]].<ref name="NCI" /><ref name="Tripathi2013" /> Due to its estrogen [[moiety (chemistry)|moiety]], alestramustine is selectively concentrated in [[estrogen receptor]]-positive [[Cell (biology)|cell]]s such as [[prostate]] and [[breast]].<ref name="NCI" />
+
+==See also==
+* [[Atrimustine]]
+* [[Cytestrol acetate]]
+* [[Estradiol mustard]]
+* [[Estramustine phosphate]]
+* [[ICI-85966]]
+* [[Sturamustine]]
+
+==References==
+{{Reflist}}
+
+{{Estrogen receptor modulators}}
+
+[[Category:Estradiol esters]]
+[[Category:Estranes]]
+[[Category:Nitrogen mustards]]
+[[Category:Prodrugs]]
+[[Category:Synthetic estrogens]]
+[[Category:Organochlorides]]
+[[Category:Abandoned drugs]]
+
+{{antineoplastic-drug-stub}}
+{{genito-urinary-drug-stub}}
+{{steroid-stub}}

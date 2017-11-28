@@ -1,0 +1,86 @@
+{{Drugbox
+| Verifiedfields = 
+| Watchedfields = 
+| verifiedrevid = 
+| IUPAC_name = 3-(4-chlorophenyl)-5-morpholin-4-yl-4''H''-imidazol-2-one
+| image = 
+| width = 
+
+<!--Clinical data-->
+| tradename = Pexion
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = 
+| legal_UK = 
+| legal_US = 
+| legal_status = 
+| routes_of_administration = [[Oral administration|Oral]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+
+<!-- Identifiers -->
+| CAS_number_Ref = 
+| CAS_number = 188116-07-6
+| CAS_supplemental = 
+| class = 
+| ATCvet = yes
+| ATC_prefix = N03
+| ATC_suffix = AX90
+| ATC_supplemental = 
+| PubChem = 3083511
+| IUPHAR_ligand = 
+| DrugBank_Ref = 
+| DrugBank = 
+| ChemSpiderID_Ref = 
+| ChemSpiderID = 2340703
+| UNII = 19V39682LI
+| KEGG = 
+| ChEBI = 
+| ChEMBL = 204240
+| synonyms = AWD 131-138; ELB-138
+
+<!--Chemical data-->
+| C=13 | H=14 | Cl=1 | N=3 | O=2
+| molecular_weight = 279.724 g/mol
+| SMILES = C1COCCN1C2=NC(=O)N(C2)C3=CC=C(C=C3)Cl
+| StdInChI_Ref = 
+| StdInChI = 1S/C13H14ClN3O2/c14-10-1-3-11(4-2-10)17-9-12(15-13(17)18)16-5-7-19-8-6-16/h1-4H,5-9H2
+| StdInChIKey_Ref = 
+| StdInChIKey = IQHYCZKIFIHTAI-UHFFFAOYSA-N
+}}
+
+'''Imepitoin''' ({{abbrlink|INN|International Nonproprietary Name}}), sold under the brand name '''Pexion''', is an [[anticonvulsant]] which is used in [[veterinary medicine]] in [[Europe]] to treat [[epilepsy]] in dogs.<ref name="pmid24357084">{{cite journal | vauthors = Rundfeldt C, Löscher W | title = The pharmacology of imepitoin: the first partial benzodiazepine receptor agonist developed for the treatment of epilepsy | journal = CNS Drugs | volume = 28 | issue = 1 | pages = 29–43 | year = 2014 | pmid = 24357084 | doi = 10.1007/s40263-013-0129-z | url = }}</ref><ref name="Sanders2015">{{cite book|author=Sean Sanders|title=Seizures in Dogs and Cats|url=https://books.google.com/books?id=BoXgCAAAQBAJ&pg=PA209|date=29 April 2015|publisher=Wiley|isbn=978-1-118-68970-7|pages=209–}}</ref><ref name="DeweyCosta2015">{{cite book|author1=Curtis W. Dewey|author2=Ronaldo C. da Costa|title=Practical Guide to Canine and Feline Neurology|url=https://books.google.com/books?id=JSWJCgAAQBAJ&pg=PT806|date=8 September 2015|publisher=Wiley|isbn=978-1-119-06204-2|pages=806–}}</ref><ref name="Drugs.com">https://www.drugs.com/international/imepitoin.html</ref> It is not approved in the [[United States]].<ref name="Sanders2015" /><ref name="DeweyCosta2015" /><ref name="Drugs.com" /> The drug also has [[anxiolytic]] effects.<ref name="pmid24357084" /><ref name="Sanders2015" /> It was originally developed to treat epilepsy in humans, but [[clinical trial]]s were terminated upon findings of unfavorable [[metabolism|metabolic]] differences in [[smoking|smoker]]s and non-smokers.<ref name="pmid24357084" /><ref name="Sanders2015" />
+
+Imepitoin acts as a low-[[affinity (pharmacology)|affinity]] (4,350–5,140&nbsp;nM; relative to K<sub>i</sub> = 6.8&nbsp;nM for [[diazepam]] and K<sub>i</sub> = 1.7&nbsp;nM for [[clonazepam]]) [[partial agonist]] of the [[benzodiazepine site]] of the [[GABAA receptor|GABA<sub>A</sub> receptor]] (up to 12–21% of the maximal potentiation of diazepam, a [[full agonist]] of this site).<ref name="pmid24357084" /> It is the first [[partial agonist]] to be approved for the treatment of epilepsy.<ref name="pmid24357084" /> The drug also dose-dependently [[channel blocker|block]]s [[voltage-gated calcium channel]]s.<ref name="DeweyCosta2015" /> It is [[nonbenzodiazepine|not a benzodiazepine]]; instead, it is an [[imidazolone]], and bears some [[chemical structure|structural]] [[structural analog|similarities]] to [[hydantoin]] anticonvulsants like [[ethotoin]] and [[phenytoin]].<ref name="pmid24357084" />
+
+==See also==
+* [[Separation anxiety in dogs#Benzodiazepine treatment|Separation anxiety in dogs § Benzodiazepine treatment]]
+
+==References==
+{{Reflist|2}}
+
+
+{{Anticonvulsants}}
+{{Anxiolytics}}
+{{GABAA receptor positive allosteric modulators}}
+{{Ion channel modulators}}
+
+[[Category:Anticonvulsants]]
+[[Category:Anxiolytics]]
+[[Category:Calcium channel blockers]]
+[[Category:Chloroarenes]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:Imidazoles]]
+[[Category:Ketones]]
+[[Category:Morpholines]]
+[[Category:Veterinary drugs]]
+
+
+{{Nervous-system-drug-stub}}

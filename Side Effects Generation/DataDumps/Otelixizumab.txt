@@ -1,0 +1,50 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 458269768
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = xizu/a
+| target = [[CD3E]]
+<!-- Clinical data -->
+| tradename =
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 881191-44-2
+| ATC_prefix = none
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = I5HF2X04PB
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08959
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+<!-- Chemical data -->
+| C=6448 | H=9954 | N=1718 | O=2016 | S=42
+| molecular_weight = 145.1 kg/mol
+}}
+
+'''Otelixizumab''', also known as TRX4, is a [[monoclonal antibody]],<ref>Bolt, S., Routledge, E., Lloyd, I., Chatenoud, L., Pope, H., Gorman, S., Clark, M. & Waldmann, H. (1993). The generation of humanized, non-mitogenic CD3 monoclonal antibody which retains in-vitro immunosuppressive properties. Europ. J. Immunol. 23, 403-411.</ref> which is  being developed for the treatment of type 1 diabetes and other autoimmune diseases. The antibody is being developed by [[Tolerx, Inc.]] in collaboration with [[GlaxoSmithKline]] and is being manufactured by [[Abbott Laboratories]].<ref>[http://sis.windhover.com/buy/abstract.php?id=200720729 Windhover Information “GSK buys rights to Tolerx's diabetes antibody otelixizumab”]</ref><ref>{{cite news|url=http://www.bioworld.com/img/bwt11302005sample.pdf|date=30 November 2005|publisher=Thomson Bioworld|page=6|accessdate=2 December 2009}}</ref>
+
+==Mechanism of action==
+Otelixizumab is one of several [[investigational drug|investigational]] monoclonal antibodies that target [[CD3 (immunology)|CD3]], a [[T cell receptor|T lymphocyte receptor]] involved in normal cell signaling. More specifically, otelixizumab targets the [[CD3E|epsilon chain of CD3]]. Data suggest that the drug works by blocking the function of effector T cells, which mistakenly attack and destroy insulin-producing [[B cell|beta cells]], while stimulating regulatory T cells, which are understood to protect against effector T cell damage, thus preserving the beta cells' normal ability to make insulin.<ref>{{cite journal |author= Chatenoud, L |title= CD3-specific antibodies: a portal to the treatment of autoimmunity. |journal= Nature Reviews Immunology |volume=7 |issue=8 |pages=622–32 |year=2007 |pmid=17641665 |doi= 10.1038/nri2134 |last2= Bluestone |first2= JA}}</ref>
+
+Proof of concept was established in a randomized, placebo-controlled Phase 2 study.  These data demonstrated otelixizumab’s ability to preserve beta cell function, as measured by [[C-peptide]], in patients up to 18 months after dosing, as well as reduce the need for delivered insulin to maintain glucose control.<ref>{{cite journal |author= Chatenoud, L. |title= Insulin needs after CD3-antibody therapy in new-onset type 1 diabetes |journal= N Engl J Med. |volume=352 |issue=25 |pages=2598–608 | date=June 2005 |pmid= 15972866 |doi= 10.1056/NEJMoa043980 |last2= Vandemeulebroucke |first2= E |last3= Ziegler |first3= AG |last4= Mathieu |first4= C |last5= Kaufman |first5= L |last6= Hale |first6= G |last7= Gorus |first7= F |last8= Goldman |first8= M |last9= Walter |first9= M }}</ref><ref>{{cite journal |author=Kaufman, A |title=Anti-CD3 mAbs for treatment of type 1 diabetes. |journal= Diabetes Metab Res Rev. | date=24 March 2009 |pmid= 19319985 |last2=Herold |first2=KC |volume=25 |issue=4 |pages=302–6 |doi=10.1002/dmrr.933}}</ref>
+
+==Clinical progress==
+The efficacy and safety of otelixizumab for the treatment of autoimmune type 1 diabetes was studied in a pivotal Phase 3 study called DEFEND (Durable-response therapy Evaluation For Early or New-onset type 1 Diabetes).<ref>[http://www.clinicaltrials.gov/ct2/show/NCT00678886?term=otelixizumab&rank=2 From ClinicalTrials.gov, a Service from the U.S. National Institutes of Health]</ref> DEFEND was a randomized, placebo-controlled Phase 3 trial designed to enroll approximately 240 adult patients, age 18 to 45, with newly diagnosed autoimmune type 1 diabetes. DEFEND was conducted at multiple centers in North America and Europe.  The trial was designed to evaluate whether a single course of otelixizumab, administered not more than 90 days after the initial diagnosis, would reduce the amount of administered insulin required to control blood glucose levels by inhibiting the destruction of beta cells.<ref>[http://www.DefendAgainstDiabetes.com www.DefendAgainstDiabetes.com]</ref> The trial failed to show efficacy of the treatment.<ref>[http://www.biospace.com/news_story.aspx?StoryID=213614&full=1 Biospace:''Tolerx, Inc. and GlaxoSmithKline (GSK) Announce Phase 3 Defend-1 Study of Otelixizumab in Type 1 Diabetes Did Not Meet Its Primary Endpoint'']</ref>
+
+==Orphan drug status==
+Otelixizumab has been granted "[[orphan drug]]" status by the [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]].<ref>[http://www.masshightech.com/stories/2008/05/12/focus1-NE-drug-makers-find-individual-paths-into-growing-diabetes-arena.html Mass High Tech, May 16, 2008, “N.E. drug makers find individual paths into growing diabetes arena”]</ref>
+
+==Chemistry==
+As a monoclonal antibody, otelixizumab consists of two [[immunoglobulin heavy chain|heavy chains]] and two [[immunoglobulin light chain|light chains]]. The heavy chains are [[humanized]] γ1 (gamma-1) chains from rats, making otelixizumab an [[immunoglobulin G1]]. The light chains are [[chimeric protein|chimeric]] human/rat λ (lambda) chains.<ref>{{cite journal|url=http://apps.who.int/medicinedocs/index/assoc/s14915e/s14915e.pdf|journal=WHO Drug Information|volume=22|issue=3|year=2008|title=Recommended INN List 60}}</ref>
+
+==References==
+{{reflist|2}}
+
+{{immunosuppressants}}
+{{Monoclonals for immune system}}
+
+[[Category:Monoclonal antibodies]]
+[[Category:Experimental drugs]]

@@ -1,0 +1,92 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 456687368
+| IUPAC_name = 6-Methoxy-1-phenylpyridazin-1-ium-4-amine; methyl sulfate
+| image = Amezinium metilsulfate.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|amezinium-metilsulfate}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 30578-37-1
+| ATC_prefix = C01
+| ATC_suffix = CA25
+| ATC_supplemental =  
+| PubChem = 71926
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2106667
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 64937
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 03NR868ICX
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01304
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=12 | H=15 | N=3 | O=5 | S=1 
+| molecular_weight = 313.32 g/mol
+| smiles = COC1=[N+](N=CC(=C1)N)C2=CC=CC=C2.COS(=O)(=O)[O-]
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C11H11N3O.CH4O4S/c1-15-11-7-9(12)8-13-14(11)10-5-3-2-4-6-10;1-5-6(2,3)4/h2-8,12H,1H3;1H3,(H,2,3,4)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ZEASXVYVFFXULL-UHFFFAOYSA-N
+}}
+
+'''Amezinium metilsulfate''' ([[International Nonproprietary Name|INN]], trade name '''Regulton''') is a [[sympathomimetic]] drug used for the treatment of low [[blood pressure]]. It has multiple mechanisms, including stimulation of [[alpha receptor|alpha]] and [[beta-1 receptor]]s and inhibition of [[noradrenaline]] and [[tyramine]] uptake.<ref>{{Cite journal 
+| last1 = Araújo 
+| first1 = D 
+| last2 = Caramona 
+| first2 = MM 
+| last3 = Osswald 
+| first3 = W 
+| title = On the mechanism of action of amezinium methylsulphate on the dog saphenous vein 
+| journal = European Journal of Pharmacology 
+| volume = 90 
+| issue = 2–3 
+| pages = 203–14 
+| year = 1983 
+| pmid = 6873182
+| doi=10.1016/0014-2999(83)90238-8
+}}</ref><ref>{{Cite journal 
+| last1 = Lenke | first1 = D. 
+| last2 = Gries | first2 = J. 
+| last3 = Kretzschmar | first3 = R. 
+| title = Pharmacology of amezinium, a novel antihypotensive drug. III. Studies on the mechanism of action 
+| journal = Arzneimittel-Forschung 
+| volume = 31 
+| issue = 9a 
+| pages = 1558–1565 
+| year = 1981 
+| pmid = 7197970
+}}</ref>
+
+==References==
+{{reflist}}
+
+{{Cardiac stimulants excluding cardiac glycosides}}
+
+[[Category:Pyridazines]]
+
+
+{{cardiovascular-drug-stub}}

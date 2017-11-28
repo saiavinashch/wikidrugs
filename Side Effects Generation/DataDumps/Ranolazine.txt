@@ -1,0 +1,104 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464380109
+| IUPAC_name = (''RS'')-''N''-(2,6-Dimethylphenyl)-2-[4-[2-hydroxy-3-(2-methoxyphenoxy)-propyl]piperazin-1-yl]acetamide
+| image = Ranolazine.svg
+| width = 275
+| chirality = [[Racemic mixture]]
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|monograph|ranolazine}}
+| MedlinePlus = a606015
+| licence_EU = Ranexa
+| licence_US = Ranolazine
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = C
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = Rx-only
+| routes_of_administration = [[Oral administration|By mouth]] ([[Tablet (pharmacy)|tablets]])
+
+<!--Pharmacokinetic data-->
+| bioavailability = 35 to 50%
+| protein_bound = ~62%
+| metabolism = Extensive in [[liver]] ([[CYP3A]], [[CYP2D6]]) and [[Human gastrointestinal tract#Lower gastrointestinal tract|intestine]]
+| elimination_half-life = 7 hours
+| excretion = [[Kidney|Renal]] (75%) and fecal (25%)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7291
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 142387-99-3
+| ATC_prefix = C01
+| ATC_suffix = EB18
+| PubChem = 56959
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00243
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 51354
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = A6IEZ5M406
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1404
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 87681
+
+<!--Chemical data-->
+| C=24 | H=33 | N=3 | O=4 
+| molecular_weight = 427.537 g/mol
+| smiles = O=C(Nc1c(cccc1C)C)CN3CCN(CC(O)COc2ccccc2OC)CC3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C24H33N3O4/c1-18-7-6-8-19(2)24(18)25-23(29)16-27-13-11-26(12-14-27)15-20(28)17-31-22-10-5-4-9-21(22)30-3/h4-10,20,28H,11-17H2,1-3H3,(H,25,29)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = XKLMZUWKNUAPSZ-UHFFFAOYSA-N
+}}
+
+'''Ranolazine''', sold under the [[trade name]] '''Ranexa''' by [[Gilead Sciences]], is a drug to treat [[angina]] that was first approved in 2006.
+
+==Medical uses==
+Ranolazine is used to treat chronic [[angina]].<ref name=Banon>Banon D et al.  The usefulness of ranolazine for the treatment of refractory chronic stable angina pectoris as determined from a systematic review of randomized controlled trials. Am J Cardiol. 2014 Mar 15;113(6):1075-82. {{PMID|24462341}}</ref> It may be used concomitantly with [[Beta blocker|β blocker]]s, [[Nitrovasodilator|nitrate]]s, [[calcium channel blocker]]s, [[Antiplatelet drug|antiplatelet therapy]], [[Lipid-lowering agent|lipid-lowering therapy]], [[ACE inhibitor]]s, and [[Angiotensin II receptor antagonist|angiotensin receptor blocker]]s.<ref name="Ranexa PI">{{cite web|title=Ranexa (ranolazine) Extended-Release Tablets, for Oral Use. Full Prescribing Information|url=http://www.gilead.com/~/media/Files/pdfs/medicines/cardiovascular/ranexa/ranexa_pi.ashx|publisher=Gilead Sciences, Inc. Foster City, CA 94404|accessdate=8 September 2016}}</ref>
+
+==Contraindications==
+Some contraindications for ranolazine are related to its metabolism and are described under Drug Interactions. Additionally, in clinical trials ranolazine slightly increased [[QT interval]] in some patients<ref name=Kloner/> and the FDA label contains a warning for doctors to beware of this effect in their patients.<ref name="Ranexa PI" /> The drug's effect on the QT interval is increased in the setting of liver dysfunction; thus it is contraindicated in persons with mild to severe liver disease.<ref name="FDANews-2006">{{cite news |url=http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/2006/ucm108587.htm |title=FDA Approves New Treatment for Chest Pain |publisher=FDA News |date=2006-01-31 |accessdate=2011-03-02}}</ref>
+
+==Side effects==
+The most common side effects are dizziness (11.8%) and constipation (10.9%).<ref name=Banon/>  Other side effects include headache and nausea.<ref name=Kloner>Kloner RA, et al.  Efficacy and safety of ranolazine in patients with chronic stable angina. Postgrad Med. 2013 Nov;125(6):43-52. {{PMID|24200760}}</ref>
+
+==Drug interactions==
+Ranolazine is metabolized mainly by the [[CYP3A]] enzyme. It also inhibits another metabolizing enzyme, [[CYP2D6|cytochrome CYP2D6]].<ref name="Ranexa PI" /> For this reason, the doses of ranolazine and drugs that interact with those enzymes need to be adjusted when they are used by the same patient.
+
+Ranolazine should not be used with drugs like [[ketoconazole]], [[clarithromycin]], and [[nelfinavir]] that strongly inhibit CYP3A nor with drugs that activate CYP3A like [[rifampin]] and [[phenobarbital]].<ref name="Ranexa PI" />
+
+For drugs that are moderate CYP3A inhibitors like [[diltiazem]], [[verapamil]], [[erythromycin]], the dose of ranolazine should be reduced.<ref name="Ranexa PI" />
+
+Drugs that are metabolized by CYP2D6 like [[tricyclic antidepressants]] may need to be given at reduced doses when administered with ranolazine.<ref name="Ranexa PI" />
+
+==Mechanism of action==
+Ranolazine inhibits persistent or late inward sodium current (''I''<sub>Na</sub>) in heart muscle<ref>D Noble and P J Noble. Late sodium current in the pathophysiology of cardiovascular disease: consequences of sodium–calcium overload Heart. Jul 2006; 92(Suppl 4): iv1–iv5. {{PMID|16775091}} {{PMC|1861316}}</ref> in a variety of [[Sodium channel#Voltage-gated|voltage-gated sodium channel]]s.<ref>{{cite journal|last1=Sokolov|first1=S|last2=Peters|first2=CH|last3=Rajamani|first3=S|last4=Ruben|first4=PC|title=Proton-dependent inhibition of the cardiac sodium channel Na<sub>v</sub>1.5 by ranolazine|journal=Frontiers in Pharmacology|date=2013|volume=4|pages=78|doi=10.3389/fphar.2013.00078|pmid=23801963|url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3689222/pdf/fphar-04-00078.pdf|accessdate=8 September 2016|pmc=3689222}}</ref>  Inhibiting that current leads to reductions in elevated intracellular calcium levels.  This in turn leads to reduced tension in the heart wall, leading to reduced oxygen requirements for the muscle.<ref name=Kloner/> The [[Drug-induced QT prolongation|QT prolongation effect]] of ranolazine on the surface electrocardiogram is the result of inhibition of [[hERG|''I''<sub>Kr</sub>]], which prolongs the ventricular [[action potential]].<ref name="Ranexa PI" /> Ranolazine also exhibits its effects on the delayed rectifier current (hERG/''I''<sub>Kr</sub> Potassium channels), it readily stimulates myogenesis, it reduces a pro-oxidant inflammation/oxidative condition, and activates the calcium signaling pathway.<ref>{{Cite journal|last=Thomsen|first=Morten B.|year=2006|title=Assessing the proarrhythmic potential of drugs: Current status of models and surrogate parameters of torsades de pointes arrhythmias|url=|journal=Pharmacology & Therapeutics|volume=|pages=151–163|via=}}</ref>
+
+Ranolazine prolongs the action potential duration, with corresponding QT interval prolongation on electrocardiography, blocks the ''I''<sub>Na</sub> current, and prevents calcium overload caused by the hyperactive ''I''<sub>Na</sub> current, thus it stabilizes the membrane and reducing excitability.<ref>{{Cite journal|last=Banerjee|first=Kinjal|year=2017|title=Role of Ranolazine in cardiovascular disease and diabetes: Exploring beyond angina|url=|journal=International Journal of Cardiology|volume=|pages=557|via=}}</ref>
+
+==Legal status==
+Ranolazine was approved by the FDA in January 2006, for the treatment of patients with chronic angina as a second-line treatment in addition to other drugs.<ref name=Kloner/> In 2007 the label was updated to make ranolazine a first-line treatment, alone or with other drugs.<ref name=Kloner/> In April 2008 ranolazine was approved by the European EMEA for use in angina.<ref>EMEA [http://www.ema.europa.eu/ema/index.jsp?curl=pages/medicines/human/medicines/000805/human_med_001009.jsp&mid=WC0b01ac058001d124 Ranolazine page at the EMEA]</ref>
+
+==History==
+In 1996, CV Therapeutics licensed the North American and European rights to ranolazine from [[Syntex]], a subsidiary of [[Hoffmann-La Roche|Roche]], which had discovered the drug and had developed it through Phase II trials in angina.<ref>CV Therapeutics press release.  April 1, 1996 [http://www.thefreelibrary.com/CV+THERAPEUTICS+LICENSES+LATE-STAGE+ANTI-ANGINAL+DRUG+FROM+SYNTEX...-a018143758 CV Therapeutics Licenses Late-Stage Anti-Anginal Drug from Syntex (U.S.A.), an Affiliate of Roche Holding Ltd.]</ref>  In 2006, CV Therapeutics acquired the remaining worldwide rights to ranolazine from Roche.<ref>CV Therapeutics, 22 June 2006 [http://www.prnewswire.com/news-releases/cv-therapeutics-acquires-rights-to-ranolazine-in-asia-56223507.html CV Therapeutics Acquires Rights to Ranolazine in Asia]</ref> In 2008 CV Therapeutics exclusively licensed rights for ranolazine in Europe and some other countries to [[Menarini]].<ref>Thepharmaletter.com 22 September 2008 [http://www.thepharmaletter.com/article/italy-s-menarini-to-pay-up-to-385-million-for-rights-to-cv-thera-s-ranexa Italy's Menarini to pay up to $385 million for rights to CV Thera's Ranexa]</ref>
+In 2009, Gilead acquired CV Therapeutics.<ref>Reuters, via the New York Times. 12 March 2009. [https://www.nytimes.com/2009/03/13/business/13biotech.html?_r=0 Gilead, a White Knight, to Buy CV Therapeutics]</ref>  In 2013 Gilead expanded the partnership with Menarini to include additional countries, including those in Asia.<ref>Menarini press release. 18 June 2013 [http://www.menariniapac.com/2013/06/menarini-group-announces-agreement-with-gilead-sciences-to-commercialize-ranexa-ranolazine-in-50-new-countries/ Memarii Group announces agreement with Gilead Sciences to commercialize Ranexa® (ranolazine) in 50 new countries]</ref>
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [https://www.ranexa.com Ranexa (ranolazine) Official Patient Website]
+
+{{Channelergics}}
+{{Piperazines}}
+
+[[Category:Alcohols]]
+[[Category:Antianginals]]
+[[Category:Carboxamides]]
+[[Category:Phenol ethers]]
+[[Category:Piperazines]]
+[[Category:Sodium channel blockers]]

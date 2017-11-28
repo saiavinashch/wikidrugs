@@ -1,0 +1,77 @@
+{{Drugbox
+| verifiedrevid = 461746289
+| IUPAC_name = (2''S'',5''R'',6''R'')-6-{[(2''R'')-2-[(4-ethyl-2,3-dioxo-piperazine-1-carbonyl)amino]-2-phenyl-acetyl]amino}-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+| image = Piperacillin.svg
+<!--Clinical data-->
+| tradename = Pipracil
+| Drugs.com = {{Drugs.com|CDI|piperacillin}}
+| pregnancy_category = B
+| legal_UK = POM
+| legal_US = Rx
+| routes_of_administration = [[Intravenous therapy|IV]], [[Intramuscular injection|IM]]
+<!--Pharmacokinetic data-->
+| bioavailability = 0% oral
+| protein_bound = 30%
+| metabolism = Largely not metabolized
+| elimination_half-life = 36–72 minutes
+| excretion = 20% in bile, 80% unchanged in urine
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 61477-96-1
+| ATC_prefix = J01
+| ATC_suffix = CA12
+| ATC_supplemental =  
+| PubChem = 43672
+| IUPHAR_ligand = 422
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00319
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 39798
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 9I628532GX
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08380
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 8232
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 702
+<!--Chemical data-->
+| C=23 | H=27 | N=5 | O=7 | S=1
+| molecular_weight = 517.555 g/mol
+| smiles = O=C(O)[C@@H]3N4C(=O)[C@@H](NC(=O)[C@@H](c1ccccc1)NC(=O)N2C(=O)C(=O)N(CC)CC2)[C@H]4SC3(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C23H27N5O7S/c1-4-26-10-11-27(19(32)18(26)31)22(35)25-13(12-8-6-5-7-9-12)16(29)24-14-17(30)28-15(21(33)34)23(2,3)36-20(14)28/h5-9,13-15,20H,4,10-11H2,1-3H3,(H,24,29)(H,25,35)(H,33,34)/t13-,14-,15+,20-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IVBHGBMCVLDMKU-GXNBUGAJSA-N
+}}
+'''Piperacillin''' is a broad-spectrum [[β-lactam antibiotic]] of the [[ureidopenicillin]] class.<ref>{{cite journal |vauthors=Tan JS, File TM |title=Antipseudomonal penicillins |journal=Medical Clinics of North America|volume=79 |issue=4 |pages=679–93 |year=1995 |pmid=7791416 |doi= |url=}}</ref> The chemical structure of piperacillin and other ureidopenicillins incorporates a polar side chain that enhances penetration into [[Gram negative]] bacteria and reduces susceptibility to cleavage by Gram negative beta lactamase enzymes. These properties confer activity against the important hospital pathogen ''[[Pseudomonas aeruginosa]]''. Thus piperacillin is sometimes referred to as an "anti-pseudomonal penicillin".
+
+When used alone, piperacillin lacks strong activity against the [[Gram positive]] pathogens such as ''[[Staphylococcus aureus]]'', as the beta-lactam ring is hydrolyzed by the bacteria's [[beta-lactamase]].<ref>Hauser, AR ''Antibiotic Basics for Clinicians'', 2nd Ed., Wolters Kluwer, 2013, pg 26-27</ref>
+
+Piperacillin is most commonly used in combination with the [[β-Lactamase inhibitor|beta-lactamase inhibitor]] tazobactam ([[Piperacillin/Tazobactam]]) (tradename "Zosyn" or "Tazocin"), which enhances piperacillin's effectiveness by inhibiting many beta lactamases to which it is susceptible.  However, the co-administration of tazobactam does not confer activity against [[MRSA]], as penicillins (and most other beta lactams) do not avidly bind to the penicillin-binding proteins of this pathogen.<ref>{{cite journal |vauthors=Zhanel GG, DeCorby M, Laing N, Weshnoweski B, Vashisht R, Tailor F, Nichol KA, Wierzbowski A, Baudry PJ, Karlowsky JA, Lagacé-Wiens P, Walkty A, McCracken M, Mulvey MR, Johnson J, Hoban DJ |title=Antimicrobial-resistant pathogens in intensive care units in Canada: results of the Canadian National Intensive Care Unit (CAN-ICU) study, 2005-2006 |journal=Antimicrobial Agents and Chemotherapy |volume=52 |issue=4 |pages=1430–7 |year=2008 |pmid=18285482 |pmc=2292546 |doi=10.1128/AAC.01538-07 |url=}}</ref>
+
+==Medical uses==
+Piperacillin is used almost exclusively in combination with the beta lactamase inhibitor tazobactam for the treatment of serious, hospital-acquired infections. This combination is among the most widely used drug therapies in United States non-federal hospitals, accounting for $388M in spending in spite of being a low-cost generic drug.<ref>{{cite journal |vauthors=Schumock GT, Li EC, Suda KJ, Wiest MD, Stubbings J, Matusiak LM, Hunkler RJ, Vermeulen LC |title=National trends in prescription drug expenditures and projections for 2015 |journal=American Journal of Health System Pharmacy |volume=72 |issue=9 |pages=717–36 |year=2015 |pmid=25873620 |doi=10.2146/ajhp140849 |url=}}</ref>
+
+Piperacillin-tazobactam is recommended as part of a three drug regimen for the treatment of hospital-acquired pneumonia suspected as being due to infection by multi-drug resistant pathogens.<ref>Mandell LA, Wunderink R, in ''Harrison's Principles of Internal Medicine'' 18th Ed., Chapter 257, pp. 2139-2141.</ref>  It is also one of several antibacterials recommended for the treatment of infections known to be caused by anaerobic Gram negative rods.<ref>Kasper DL, Cohen-Poradosu R, in ''Harrison's Principles of Internal Medicine'' 18th Ed., Chapter 164, pp. 1331-1339.</ref>
+
+Piperacillin-tazobactam is recommended by the [[National Institute for Health and Care Excellence]] as initial empiric treatment for people with suspected neutropenic sepsis.<ref>{{cite journal |title=Neutropenic Sepsis: Prevention and Management of Neutropenic Sepsis in Cancer Patients | pmid=26065059 | date = 2012}}</ref>
+
+==Adverse effects==
+The most common adverse effects associated with piperacillin-tazobactam are diarrhea, constipation, nausea, headache and insomnia.  Less commonly, severe adverse effects may include anaphylaxis, Stevens-Johnson syndrome, and ''Clostridium difficile'' associated diarrhea.<ref>{{cite web |url=http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/050684s063s074s080,050750s021s026s030lbl.pdf |title=Highlights of Prescribing Information - Zosyn (Piperacillin/Tazobactam) |format= |work= |accessdate=}}</ref>
+
+==Administration==
+Piperacillin is not absorbed orally, and must therefore be given by [[intravenous therapy|intravenous]] or [[intramuscular injection]]. It has been shown that the bactericidal actions of the drug do not increase with concentrations of piperacillin higher than 4-6 x [[minimum inhibitory concentration|MIC]], which means that the drug is concentration-independent in terms of its actions. Piperacillin has instead shown to offer higher bactericidal activity when its concentration remains above the MIC for longer periods of time (50% time>MIC showing the highest activity). This higher activity present in continuous dosing has not been directly linked to clinical outcomes, but however does show promise of lowering possibility of resistance and decreasing mortality.<ref>{{cite journal | title=Randomized, open-label, comparative study of piperacillin-tazobactam administered by continuous infusion versus intermittent infusion for treatment of hospitalized patients with complicated intra-abdominal infection  |vauthors=Lau W, Mercer D, Itani K, etal | journal=Antimicrobial Agents and Chemotherapy | year=2006 | volume=50 | issue=11 | pages=3556–3561 | pmid=16940077 | doi=10.1128/AAC.00329-06 | pmc=1635208 }}</ref>
+
+==References==
+{{Reflist}}
+
+{{PenicillinAntiBiotics}}
+
+[[Category:Penicillins]]
+[[Category:Enantiopure drugs]]
+[[Category:Wyeth]]
+[[Category:Diketopiperazines]]
+[[Category:Phenyl compounds]]
+[[Category:Carboxylic acids]]
+[[Category:Acetamides]]

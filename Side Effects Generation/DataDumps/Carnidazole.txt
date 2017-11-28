@@ -1,0 +1,61 @@
+{{Drugbox
+| drug_name = 
+| IUPAC_name = ''O''-Methyl [2-(2-methyl-5-nitro-1''H''-imidazol-1-yl)ethyl]carbamothioate
+| image = Carnidazole.svg
+| width = 175
+| alt =
+| caption =
+
+<!--Clinical data -->
+| tradename = Spartrix
+| Drugs.com = {{drugs.com|international|carnidazole}}
+| MedlinePlus = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = 
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data -->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers -->
+| CAS_number = 42116-76-7
+| ATCvet = yes
+| ATC_prefix = P51
+| ATC_suffix = AA09
+| UNII = RH5KI819JG
+| PubChem = 3032998
+| ChEMBL = 135000
+| DrugBank =
+| ChemSpiderID = 2297829 
+| synonyms = R 25831
+
+<!--Chemical data -->
+| C=8 | H=12 | N=4 | O=3 | S=1
+| molecular_weight = 244.271 g/mol
+| smiles = [O-][N+](=O)c1cnc(n1CCNC(=S)OC)C
+| StdInChI = 1S/C8H12N4O3S/c1-6-10-5-7(12(13)14)11(6)4-3-9-8(16)15-2/h5H,3-4H2,1-2H3,(H,9,16)
+| StdInChIKey = OVEVHVURWWTPFC-UHFFFAOYSA-N
+| melting_point = 124.4
+| melting_notes = <ref name=Merck>''[[Merck Index]]'', 11th Edition, '''1855'''</ref>
+}}
+
+'''Carnidazole''' (trade names '''Spartrix''', '''Pantrix, Gambamix''') is an [[antiprotozoal drug]] of the [[nitroimidazole]] class used in [[veterinary medicine]]. It is used to treat ''[[Trichomonas]]'' infection in pigeons.<ref name=Merck/>
+
+==References==
+{{Reflist}}
+
+[[Category:Antiprotozoal agents]]
+[[Category:Nitroimidazoles]]
+[[Category:Veterinary drugs]]
+
+{{Antiinfective-drug-stub}}

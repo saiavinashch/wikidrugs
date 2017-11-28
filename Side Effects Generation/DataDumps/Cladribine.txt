@@ -1,0 +1,99 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 460040776
+| IUPAC_name = 5-(6-Amino-2-chloro-purin-9-yl)-2-(hydroxymethyl)oxolan-3-ol
+| image = Cladribine.svg
+| width = 200
+<!--Clinical data-->
+| tradename =  Leustatin, others<ref name="drugs.comINT">Drugs.com [http://www.drugs.com/international/cladribine.html International trade names for Cladribine] Page accessed Jan 14, 2015</ref>
+| Drugs.com = {{drugs.com|monograph|cladribine}}
+| MedlinePlus = a693015
+| pregnancy_AU = D
+| pregnancy_US = D
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_status =  
+| routes_of_administration = [[Intravenous]], [[Subcutaneous injection|subcutaneous]] (liquid)
+<!--Pharmacokinetic data-->
+| bioavailability = 100% ([[Intravenous|i.v.]])
+| protein_bound = 25% (range 5-50%)<ref name = TGA>{{cite web|title=PRODUCT INFORMATION LITAK© 2 mg/mL solution for injection|date=10 May 2010|accessdate=27 November 2014|location=St Leonards, Australia|publisher=Orphan Australia Pty. Ltd|work=TGA eBusiness Services|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2010-PI-02734-3|format=PDF}}</ref>
+| metabolism =  Mostly via [[intracellular]] [[kinase]]s; 15-18% is excreted unchanged<ref name = TGA/>
+| elimination_half-life = Terminal elimination half-life: Approximately 10 hours after both intravenous infusion an subcutaneous bolus injection<ref name = TGA>{{cite web|title=PRODUCT INFORMATION LITAK© 2 mg/mL solution for injection|date=10 May 2010|accessdate=27 November 2014|location=St Leonards, Australia|publisher=Orphan Australia Pty. Ltd|work=TGA eBusiness Services|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2010-PI-02734-3|format=PDF}}</ref>
+
+| excretion = Urinary<ref name = TGA/>
+<!--Identifiers-->
+| IUPHAR_ligand = 4799
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 4291-63-8
+| ATC_prefix = L01
+| ATC_suffix = BB04
+| ATC_supplemental =  
+| PubChem = 20279
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00242
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 19105
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 47M74X9YT5
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01370
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 567361
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1619
+<!--Chemical data-->
+| C=10 | H=12 | Cl=1 | N=5 | O=3
+| molecular_weight = 285.687 g/mol
+| smiles = Clc1nc(c2ncn(c2n1)[C@@H]3O[C@@H]([C@@H](O)C3)CO)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H12ClN5O3/c11-10-14-8(12)7-9(15-10)16(3-13-7)6-1-4(18)5(2-17)19-6/h3-6,17-18H,1-2H2,(H2,12,14,15)/t4-,5+,6+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = PTOAARAWEBMLNO-KVQBGUIXSA-N
+}}
+'''Cladribine''' is a medication used to treat [[hairy cell leukemia]] (HCL, leukemic reticuloendotheliosis) and [[B-cell chronic lymphocytic leukemia]].<ref name=EMA>{{cite journal|title=European Medicines Agency -  - Litak|journal=www.ema.europa.eu|url=http://www.ema.europa.eu/ema/index.jsp?curl=pages/medicines/human/medicines/000504/human_med_000888.jsp&amp;mid=WC0b01ac058001d124}}</ref><ref name=EMC>{{cite journal|title=Leustat Injection. - Summary of Product Characteristics (SPC) - (eMC)|journal=www.medicines.org.uk|url=http://www.medicines.org.uk/emc/medicine/6737}}</ref>  Its chemical name is 2-chloro-2'-deoxyadenosine (2CdA).
+
+As a [[purine analog]], it is a synthetic chemotherapy agent that targets lymphocytes and selectively suppresses the immune system.  Chemically, it mimics the [[nucleoside]] [[adenosine]] and thus inhibits the enzyme [[adenosine deaminase]], which interferes with the cell's ability to process DNA.  Cladribine is activated only by lymphocytes, and non-activated cladribine is removed quickly from all other cells. This means that there is very little non-target cell loss.<ref name=EMA/><ref>{{cite journal|last1=Leist|first1=TP|last2=Weissert|first2=R|title=Cladribine: mode of action and implications for treatment of multiple sclerosis.|journal=Clinical neuropharmacology|date=2010|volume=34|issue=1|pages=28–35|pmid=21242742|doi=10.1097/wnf.0b013e318204cd90}}</ref>
+
+==Medical uses==
+Cladribine is used for as a first and second-line treatment for symptomatic [[hairy cell leukemia]] and for [[B-cell chronic lymphocytic leukemia]] and is administered by intravenous infusion.<ref name=EMC/><ref name=Label>[http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020229s034lbl.pdf Cladribine label], last updated July 2012.  Page accessed January 14, 2015</ref>
+
+It used, often in combination with other cytotoxic agents, to treat various kinds of [[histiocytosis]], including [[Erdheim–Chester disease]]<ref>Histiocytosis Association [http://www.histio.org/page.aspx?pid=405#.V1BDvuTaHqk Erdheim-Chester Disease] Page accessed Aug 20, 2016</ref> and [[Langerhans cell histiocytosis]],<ref>{{cite journal | author = Aricò M | year = 2016 | title = Langerhans cell histiocytosis in children: from the bench to bedside for an updated therapy | url = | journal = Br J Haematol | volume = 173 | issue = 5| pages = 663–70 | doi = 10.1111/bjh.13955 | pmid = 26913480 | quote=The combination of cytarabine and cladribine is the current standard for second-line therapy of refractory cases with vital organ dysfunction. }}</ref>
+
+Cladribine can cause fetal harm when administered to a pregnant woman and is listed by the FDA as [[Pregnancy category#United States|Pregnancy Category D]]; safety and efficacy in children has not been established.<ref name=Label/>
+
+==Adverse effects==
+Injectable cladribine suppresses the body's ability to make new blood cells (called [[Bone marrow suppression|Myelosuppression]]); data from HCL studies showed that about 70% of people taking the drug had [[Neutropenia|fewer white blood cells]] and about 30% developed infections and some of those progressed to [[septic shock]]; about 40% of people taking the drug had fewer [[red blood cells]] and became severely [[anemia|anemic]];  and about 10% of people had too few [[platelets]].<ref name=Label/>
+
+At the dosage used to treat HCL in two clinical trials, 16% of people had rashes and 22% had nausea, the nausea generally did not lead to vomiting.<ref name=Label/>
+
+==History==
+[[Ernest Beutler]] and [[Dennis A. Carson]] had studied [[adenosine deaminase deficiency]] and recognized that because the lack of adenosine deaminase led to the destruction of B cell lymphocytes, a drug designed to inhibit adenosine deaminase might be useful in lymphomas.  Carson then synthesized cladribine, and through clinical research at Scripps starting in the 1980s, Beutler tested it as intravenous infusion and found it was especially useful to treat hairy cell leukemia (HCL).  No pharmaceutical companies were interested in selling the drug because HCL was an orphan disease, so Beutler's lab synthesized and packaged it and supplied it to the hospital pharmacy; the lab also developed a test to monitor blood levels.  This was the first treatment that led to prolonged remission of HCL, which was previously untreatable.<ref name=NASbeutler>Marshall A. Lichtman [http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/beutler-ernest.pdf Biographical Memoir: Ernest Beutler 1928–2008] National Academy of Sciences, 2012</ref>{{rp|14–15}}
+
+In February 1991 Scripps began a collaboration with [[Johnson & Johnson]] to bring intravenous cladribine to market and by December of that year J&J had filed an [[New Drug Application|NDA]]; cladrabine was approved by the FDA in 1993 for HCL as an [[orphan drug]],<ref name=Pink1993>Staff, The Pink Sheet Mar 8, 1993 [https://pink.pharmamedtechbi.com/PS022259/ORTHO-BIOTECHs-LEUSTATIN-FOR-HAIRY-CELL-LEUKEMIA Ortho Biotech’s Leustatin For Hairy Cell Leukemia]</ref> and was approved in Europe later that year.<ref name=EMAsciLitak>EMA 2004 [http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Scientific_Discussion/human/000504/WC500041660.pdf Litak EMA package: Scientific Discussion]</ref>{{rp|2}}
+
+The subcutaneous formulation was developed in Switzerland in the early 1990s and it was commercialized by Lipomed GmbH in the 2000s.<ref name=EMAsciLitak/>{{rp|2}}<ref>EMA 2004 [http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Procedural_steps_taken_before_authorisation/human/000504/WC500041661.pdf Litak: Background Information one the Procedure]</ref>
+
+===Multiple sclerosis===
+In the mid-1990s Buetler, in collaboration with Jack Sipe, a neurologist at Scripps, ran several clinical trials exploring the utility of cladribine in multiple sclerosis, based on the drug's immunosuppressive effects, Sipe's insight into MS, and Buetler's interest in MS due to his sister's having it.<ref name=NASbeutler/>{{rp|17}}<ref>Eric Sauter and Mika Ono for Scripps News and Views. Vol 9. Issue 18. June 1, 2009 [https://www.scripps.edu/newsandviews/e_20090601/MS.html A Potential New MS Treatment's Long and Winding Road]</ref>  Ortho-Clinical, a subsidiary of J&J, filed an NDA for cladribine for MS in 1997 but withdrew it in the late 1990s after discussion with the FDA proved that more clinical data would be needed.<ref>{{cite journal | pmid = 11892941 | volume=2 | title=Cladribine. Ortho Biotech Inc | year=2001 | journal=Curr Opin Investig Drugs | pages=1751–6 |vauthors=Tortorella C, Rovaris M, Filippi M }}</ref><ref name=WSJSerono/> 
+
+Ivax acquired the rights for oral administration of cladribine to treat MS from Scripps in 2000,<ref>Reuters.  Dec 4, 2000. [http://www.mult-sclerosis.org/news/Dec2000/CladribineforMultipleSclerosis.html Ivax to Develop Cladribine for Multiple Sclerosis]</ref> and partnered with Serono in 2002.<ref name=WSJSerono>Carey Sargent for Dow Jones Newswires in the Wall Street Journal. Oct. 31, 2002 [https://www.wsj.com/articles/SB1035995148253461151 Serono Purchases Rights To Experimental MS Drug]</ref>  Ivax was acquired by [[Teva Pharmaceutical Industries|Teva]] in 2006,<ref>Jennifer Bayot for the New York Times. July 26, 2005  [https://www.nytimes.com/2005/07/26/business/teva-to-acquire-ivax-another-maker-of-generic-drugs.html?_r=0 Teva to Acquire Ivax, Another Maker of Generic Drugs]</ref><ref>Teva Press Release, 2006. [http://tevapharm.com/news/teva_completes_acquisition_of_ivax_01_06.aspx Teva Completes Acquisition of Ivax]</ref> and [[Merck KGaA]] acquired control of Serono's drug business in 2006.<ref>Staff, First Word Pharma. Sept 21, 2006  [http://www.firstwordpharma.com/node/135767#axzz4HwfDP98J Merck KGaA to acquire Serono]</ref>
+
+An oral formulation of the drug with [[cyclodextrin]] was developed<ref name=MovectroWithdraw>EMA. 2011 [http://www.ema.europa.eu/docs/en_GB/document_library/Application_withdrawal_assessment_report/2011/03/WC500104393.pdf Withdrawal Assessment Report for Movectro] Procedure No. EMEA/H/C/001197</ref>{{rp|16}} and Ivax and Serono, and then Merck KGgA conducted several clinical studies.  Merck KGgA submitted an application to the [[European Medicines Agency]] in 2009, which was rejected in 2010, and an appeal was denied in 2011.<ref name=MovectroWithdraw/>{{rp|4–5}}  Likewise Merck KGgA's NDA with the FDA rejected in 2011.<ref name=MedPage>John Gever for MedPage Today June 22, 2011 [http://www.medpagetoday.com/neurology/multiplesclerosis/27207 06.22.2011 0 Merck KGaA Throws in Towel on Cladribine for MS]</ref>  The concerns were that several cases of cancer had arisen, and the ratio of benefit to harm was not clear to regulators.<ref name=MovectroWithdraw/>{{rp|54–55}}  The failures with the FDA and the EMA were a blow to Merck KGgA and were one of a series of events that led to a reorganization, layoffs, and closing the Swiss facility where Serono had arisen.<ref name=Fierce2015reup>John Carroll for FierceBiotech Sep 11, 2015 [http://www.fiercebiotech.com/regulatory/four-years-after-a-transatlantic-slapdown-merck-kgaa-will-once-again-seek-cladribine-ok  Four years after a transatlantic slapdown, Merck KGaA will once again seek cladribine OK]</ref><ref>{{cite news|last1=Connolly|first1=Allison|title=Merck KGaA to Close Merck Serono Site in Geneva, Cut Jobs|url=https://www.bloomberg.com/news/articles/2012-04-24/merck-kgaa-to-close-merck-serono-site-in-geneva-cut-jobs|work=Bloomberg|date=24 April 2012}}</ref>  However, several MS clinical trials were still ongoing at the time of the rejections, and Merck KGgA committed to completing them.<ref name=MedPage/>  A meta-analysis of data from clinical trials showed that cladiribine did not increase the risk of cancer at the doses used in the clinical trials.<ref>{{cite journal|last1=Pakpoor|first1=J, et al. |title=No evidence for higher risk of cancer in patients with multiple sclerosis taking cladribine.|journal=Neurology(R) neuroimmunology & neuroinflammation|date=December 2015|volume=2|issue=6|pages=e158|pmid=26468472|pmc=4592538|doi=10.1212/nxi.0000000000000158}}</ref>  
+
+In 2015 Merck KGgA announced it would again seek regulatory approval with data from the completed clinical trials in hand,<ref name=Fierce2015reup/> and in 2016 the EMA accepted its application for review.<ref>[http://www.prnewswire.com/news-releases/merck-receives-european-medicines-agency-acceptance-for-review-of-marketing-authorization-application-for-cladribine-tablets-587207901.html Press release]</ref> On June 22, 2017, the&nbsp;EMA's Committee for Medicinal Products for Human Use&nbsp;(CHMP) adopted a positive opinion, recommending the granting of a&nbsp;marketing authorisation for the treatment of relapsing forms of multiple sclerosis.<ref>{{Cite web|url=http://www.prnewswire.co.uk/news-releases/cladribine-tablets-receives-positive-chmp-opinion-for-treatment-of-relapsing-forms-of-multiple-sclerosis-630335053.html|title=Cladribine Tablets Receives Positive CHMP Opinion for Treatment of Relapsing Forms of Multiple Sclerosis|last=Merck|website=www.prnewswire.co.uk|access-date=2017-08-22}}</ref>
+
+Finally, after all these problems it was approved in Europe on August 2017 for highly active RRMS.<ref>Cladribine approved in Europe, Press Release [https://www.merckgroup.com/en/news/mavenclad-25-08-2017.html]</ref>
+
+== Research directions ==
+Cladribine has been studied as part of a multi-drug [[chemotherapy regimen]] for drug-resistant [[T-cell prolymphocytic leukemia]].<ref>{{Cite journal|title = Epigenetic therapy overcomes treatment resistance in T cell prolymphocytic leukemia|url = http://stm.sciencemag.org/content/7/293/293ra102|journal = Science Translational Medicine|date = 24 June 2015|issn = 1946-6234|pmid = 26109102|pages = 293ra102-293ra102|volume = 7|issue = 293|doi = 10.1126/scitranslmed.aaa5079|first = Zainul S.|last = Hasanali|first2 = Bikramajit Singh|last2 = Saroya|first3 = August|last3 = Stuart|first4 = Sara|last4 = Shimko|first5 = Juanita|last5 = Evans|first6 = Mithun Vinod|last6 = Shah|first7 = Kamal|last7 = Sharma|first8 = Violetta V.|last8 = Leshchenko|first9 = Samir|last9 = Parekh|pmc=4807901}}</ref>
+
+==References==
+{{reflist}}
+
+{{Chemotherapeutic agents}}
+
+[[Category:Orphan drugs]]
+[[Category:Purine antagonists]]
+[[Category:Purines]]
+[[Category:Organochlorides]]

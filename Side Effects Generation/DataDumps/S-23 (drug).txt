@@ -1,0 +1,73 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| drug_name = S-23
+| verifiedrevid = 405764708
+| IUPAC_name = (2''S'')-''N''-(4-cyano-3-trifluoromethylphenyl)-3-(3-fluoro-4-chlorophenoxy)-2-hydroxy-2-methyl-propanamide
+| image = S-23.svg
+| width = 250
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A, B1, B2, B3, C, D, X -->
+| pregnancy_US = <!-- A, B, C, D, X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Investigational New Drug
+| legal_status = 
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers--> 
+| CAS_number_Ref = {{cascite|changed|CAS}}
+| CAS_number = 1010396-29-8
+| ATC_prefix =  
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem = 24892822
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank          = DB07419
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 24715019
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = XDK89456WM
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=18 | H=13 | Cl=1 | F=4 | N=2 | O=3 
+| molecular_weight = 416.753 g/mol
+| smiles            = C[C@](COC1=CC(=C(C=C1)Cl)F)(C(=O)NC2=CC(=C(C=C2)C#N)C(F)(F)F)O
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C18H13ClF4N2O3/c1-17(27,9-28-12-4-5-14(19)15(20)7-12)16(26)25-11-3-2-10(8-24)13(6-11)18(21,22)23/h2-7,27H,9H2,1H3,(H,25,26)/t17-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = SSFVOEAXHZGTRJ-KRWDZBQOSA-N
+
+}}
+
+'''S-23''' is an investigational [[selective androgen receptor modulator]] (SARM) developed by [[Gtx inc|GTX, Inc]] as a potential [[male contraceptive|male]] [[hormonal contraceptive]]. It binds to the [[androgen receptor]] more strongly than older drugs such as [[andarine]] with a [[Dissociation constant#Protein-ligand binding|K<sub>i</sub>]] of 1.7&nbsp;nM, and in animal studies it showed both a good ratio of [[anabolic]] to [[androgen]]ic effects, and dose-dependent suppression of [[spermatogenesis]] with spontaneous recovery after cessation of treatment.<ref>Marhefka CA, Gao W, Chung K, Kim J, He Y, Yin D, Bohl C, Dalton JT, Miller DD. Design, synthesis, and biological characterization of metabolically stable selective androgen receptor modulators. ''Journal of Medicinal Chemistry''. 2004 Feb 12;47(4):993-8. {{PMID|14761201}}</ref><ref>Jones A, Chen J, Hwang DJ, Miller DD, Dalton JT. Preclinical characterization of a (S)-N-(4-cyano-3-trifluoromethyl-phenyl)-3-(3-fluoro, 4-chlorophenoxy)-2-hydroxy-2-methyl-propanamide: a selective androgen receptor modulator for hormonal male contraception. ''Endocrinology''. 2009 Jan;150(1):385-95. {{DOI|10.1210/en.2008-0674}} {{PMID|18772237}}</ref>
+
+==References==
+{{Reflist|2}}
+
+
+{{Androgen receptor modulators}}
+
+[[Category:Anilides]]
+[[Category:Alcohols]]
+[[Category:Chloroarenes]]
+[[Category:Nitriles]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Phenol ethers]]
+[[Category:Selective androgen receptor modulators]]
+[[Category:Fluoroarenes]]
+
+
+{{genito-urinary-drug-stub}}

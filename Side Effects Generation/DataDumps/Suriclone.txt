@@ -1,0 +1,76 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470475198
+| IUPAC_name = [6-(7-chloro-1,8-naphthyridin-2-yl)-5-oxo-3,7-dihydro-2''H''-[1,4]dithiino[2,3-c]pyrrol-7-yl] 4-methylpiperazine-1-carboxylate
+| image = Suriclone.svg
+| width = 200
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 53813-83-5
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 40903
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 37353
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = LNC9G689VR
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG =
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI =
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2105561
+
+<!--Chemical data-->
+| C=20 | H=20 | Cl=1 | N=5 | O=3 | S=2 
+| molecular_weight = 477.988 g/mol
+| smiles = Clc4nc5nc(N3C(=O)C=1SCCSC=1C3OC(=O)N2CCN(C)CC2)ccc5cc4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C20H20ClN5O3S2/c1-24-6-8-25(9-7-24)20(28)29-19-16-15(30-10-11-31-16)18(27)26(19)14-5-3-12-2-4-13(21)22-17(12)23-14/h2-5,19H,6-11H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = RMXOUBDDDQUBKD-UHFFFAOYSA-N
+}}
+
+'''Suriclone''' ('''Suril''') is a [[sedative]] and [[anxiolytic]] drug in the [[cyclopyrrolone]] family of drugs. Other cyclopyrrolone drugs include [[zopiclone]] and [[pagoclone]]. 
+
+Suriclone has a very similar pharmacological profile to the [[benzodiazepine]] family of drugs including sedative and anxiolytic properties but with less [[amnestic]] effects,<ref>Gilburt SJ, Fairweather DB, Kerr JS, Hindmarch I. The effects of acute and repeated doses of suriclone on subjective sleep, psychomotor performance and cognitive function in young and elderly volunteers. Fundamental and Clinical Pharmacology. 1992;6(6):251-8.</ref><ref>Saletu B, Grunberger J, Linzmayer L, Semlitsch HV, Anderer P, Chwatal K. Pharmacokinetic and -dynamic studies with a new anxiolytic, suriclone, utilizing EEG mapping and psychometry. British Journal of Clinical Pharmacology. 1994 Feb;37(2):145-56.</ref> and its [[chemical structure]] is quite different from that of the benzodiazepine drugs. 
+
+The mechanism of action by which suriclone produces its sedative and anxiolytic effects is by modulating [[benzodiazepine receptor|GABA<sub>A</sub> receptors]], although suriclone is more subtype-selective than most benzodiazepines.<ref>{{cite journal | author = Blanchard JC |author2=Julou L.  |date=March 1983 | title = Suriclone: a new cyclopyrrolone derivative recognizing receptors labeled by benzodiazepines in rat hippocampus and cerebellum. | journal = J Neurochem. | volume = 40 | issue = 3 | pages = 601–7 | pmid = 6298365 | doi = 10.1111/j.1471-4159.1983.tb08023.x }}</ref>
+
+==References==
+<references/>
+
+{{Hypnotics and sedatives}}
+{{GABAAR PAMs}}
+
+[[Category:Carbamates]]
+[[Category:Chloroarenes]]
+[[Category:Cyclopyrrolones]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:Naphthyridines]]
+[[Category:Piperazines]]
+[[Category:Sedatives]]
+[[Category:Sulfur heterocycles]]

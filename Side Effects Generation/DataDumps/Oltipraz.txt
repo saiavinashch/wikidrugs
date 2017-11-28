@@ -1,0 +1,61 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 449559107
+| IUPAC_name = 4-methyl-5-(2-pyrazinyl)-3-dithiolethione
+| image = Oltipraz.png
+<!--Clinical data-->
+| tradename = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = 
+| routes_of_administration = 
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 64224-21-1
+| ATC_prefix = none
+| ATC_suffix = 
+| PubChem = 47318
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 6N510JUL1Y
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 77319
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 178459
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 43066
+<!--Chemical data-->
+| chemical_formula =
+| C=8 | H=6 | N=2 | S=3
+| molecular_weight = 226.34 g/mol
+| smiles = CC1=C(SSC1=S)C2=NC=CN=C2
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C8H6N2S3/c1-5-7(12-13-8(5)11)6-4-9-2-3-10-6/h2-4H,1H3
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = CKNAQFVBEHDJQV-UHFFFAOYSA-N  
+}}
+
+'''Oltipraz''' is an organosulfur compound belonging to the [[dithiolethione]] class.<ref name="pmid19150646">{{cite journal |vauthors=Prince M, Li Y, Childers A, Itoh K, Yamamoto M, Kleiner HE | title = Comparison of citrus coumarins on carcinogen-detoxifying enzymes in Nrf2 knockout mice | journal = Toxicol. Lett. | volume = 185 | issue = 3 | pages = 180–6 |date=March 2009 | pmid = 19150646 | pmc = 2676710 | doi = 10.1016/j.toxlet.2008.12.014 | url = }}</ref> It acts as a [[schistosomicide]] and has been shown in [[rodent]] models to inhibit the formation of cancers in the bladder, blood, colon, kidney, liver, lung, pancreas, stomach, and trachea, skin, and mammary tissue.<ref name="pmid15252150">{{cite journal |vauthors=Zhang Y, Gordon GB | title = A strategy for cancer prevention: stimulation of the Nrf2-ARE signaling pathway | journal = Mol. Cancer Ther. | volume = 3 | issue = 7 | pages = 885–93 |date=July 2004 | pmid = 15252150 | doi = | url = }}</ref><ref name="pmid15374950">{{cite journal  |vauthors=Iida K, Itoh K, Kumagai Y, etal |title=Nrf2 is essential for the chemopreventive efficacy of oltipraz against urinary bladder carcinogenesis |journal=Cancer Res. |volume=64 |issue=18 |pages=6424–31 |date=September 2004 |pmid=15374950 |doi=10.1158/0008-5472.CAN-04-1906 |url=http://cancerres.aacrjournals.org/cgi/pmidlookup?view=long&pmid=15374950}}</ref> Clinical trials of oltipraz have failed to demonstrate efficacy and have shown significant side effects, including neurotoxicity and gastrointestinal toxicity.<ref name="pmid15252150"/> Oltipraz has also been shown to generate [[superoxide radical]], which can be toxic.<ref name="pmid15680910">{{cite journal |vauthors=Velayutham M, Villamena FA, Fishbein JC, Zweier JL | title = Cancer chemopreventive oltipraz generates superoxide anion radical | journal = Arch. Biochem. Biophys. | volume = 435 | issue = 1 | pages = 83–8 |date=March 2005 | pmid = 15680910 | doi = 10.1016/j.abb.2004.11.028 | url = }}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Antiparasitic agents]]
+[[Category:Pyrazines]]
+[[Category:Dithioles]]
+[[Category:Thiocarbonyl compounds]]
+
+
+{{antiinfective-drug-stub}}

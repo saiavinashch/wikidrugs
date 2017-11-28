@@ -1,0 +1,105 @@
+{{chembox
+| Verifiedfields = changed
+| verifiedrevid = 470635612
+| ImageFile = Zaprinast.svg
+| ImageSize = 150
+| ImageAlt = 
+| IUPACName = 5-(2-Propoxyphenyl)-1''H''-[1,2,3]triazolo[4,5-d]pyrimidin-7(4''H'')-one
+| OtherNames = M&B 22,948
+
+| Section1 = {{Chembox Identifiers
+| IUPHAR_ligand = 2919
+| CASNo = 37762-06-4
+| CASNo_Ref = {{cascite|changed|??}}
+| PubChem = 5722
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5520
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 28079
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = REZGGXNDEMKIQB-UHFFFAOYSA-N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI=1S/C13H13N5O2/c1-2-7-20-9-6-4-3-5-8(9)11-14-12-10(13(19)15-11)16-18-17-12/h3-6H,2,7H2,1H3,(H2,14,15,16,17,18,19)
+| SMILES = O=C1C2=C(N=NN2)NC(C3=CC=CC=C3OCCC)=N1
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = GXT25D5DS0
+  }}
+
+| Section2 = {{Chembox Properties
+| C=13 | H=13 | N=5 | O=2 
+| Appearance =
+| Density =
+| MeltingPt =
+| BoilingPt =
+| Solubility =
+  }}
+
+| Section3 = {{Chembox Hazards
+| MainHazards =
+| FlashPt =
+| AutoignitionPt =
+  }}
+
+| Section5 = {{Chembox Pharmacology
+| AdminRoutes =
+| Bioavail =
+| Metabolism =
+| HalfLife =
+| ProteinBound =
+| Excretion =
+| Legal_status =
+| Legal_US =
+| Legal_UK =
+| Legal_AU =
+| Legal_CA =
+| PregCat =
+| PregCat_AU =
+| PregCat_US =
+  }}
+}}
+
+'''Zaprinast''' was an unsuccessful clinical drug candidate that was a precursor to the chemically related [[PDE5 inhibitor]]s, such as [[sildenafil]] (Viagra), which successfully reached the market. It is a [[phosphodiesterase inhibitor]],<ref>{{cite journal | last1 = Choi | first1 = SH | last2 = Choi | first2 = DH | last3 = Song | first3 = KS | last4 = Shin | first4 = KH | last5 = Chun | first5 = BG | title = Zaprinast, an inhibitor of cGMP-selective phosphodiesterases, enhances the secretion of TNF-alpha and IL-1beta and the expression of iNOS and MHC class II molecules in rat microglial cells | journal = Journal of neuroscience research | volume = 67 | issue = 3 | pages = 411–21 | year = 2002 | pmid = 11813247 | doi = 10.1002/jnr.10102 }}</ref> selective for the subtypes [[CGMP-specific phosphodiesterase type 5|PDE5]], [[PDE6]], [[PDE9]] and [[PDE11]].  [[IC50|IC<sub>50</sub>]] values are 0.76, 0.15, 29.0, and 12.0 ''μ''M, respectively.<ref>{{Cite journal 
+| last1 = Taniguchi | first1 = Y. 
+| last2 = Tonaikachi | first2 = H. 
+| last3 = Shinjo | first3 = K. 
+| doi = 10.1016/j.febslet.2006.08.015 
+| title = Zaprinast, a well-known cyclic guanosine monophosphate-specific phosphodiesterase inhibitor, is an agonist for GPR35 
+| journal = FEBS Letters 
+| volume = 580 
+| issue = 21 
+| pages = 5003–5008 
+| year = 2006 
+| pmid = 16934253 
+| pmc = 
+}}</ref><ref>{{Cite journal 
+| last1 = Keswani | first1 = A. N. 
+| last2 = Peyton | first2 = K. J. 
+| last3 = Durante | first3 = W. 
+| last4 = Schafer | first4 = A. I. 
+| last5 = Tulis | first5 = D. A. 
+| title = The Cyclic GMP Modulators YC-1 and Zaprinast Reduce Vessel Remodeling Through Antiproliferative and Proapoptotic Effects 
+| doi = 10.1177/1074248409333266 
+| journal = Journal of Cardiovascular Pharmacology and Therapeutics 
+| volume = 14 
+| issue = 2 
+| pages = 116–124 
+| year = 2009 
+| pmid = 19342499 
+| pmc =2702762 
+}}</ref>
+
+Zaprinast inhibits the growth of asexual blood-stage [[malaria]] parasites ([[Plasmodium falciparum|''P. falciparum'']]) ''in vitro'' with an [[ED-50|ED<sub>50</sub>]] value of 35 ''μ''M, and inhibits PfPDE1, a ''[[P. falciparum]]'' cGMP-specific phosphodiesterase, with an IC<sub>50</sub> value of 3.8 ''μ''M.<ref>{{Cite journal|title = PfPDE1, a novel cGMP-specific phosphodiesterase from the human malaria parasite Plasmodium falciparum|author1=Keizo Yuasa |author2=Fumika Mi-Ichi |author3=Tamaki Kobayashi |author4=Masaya Yamanouchi |author5=Jun Kotera |author6=Kiyoshi Kita |author7=Kenji Omori |date = 2005|journal = Biochem. J.|doi = 10.1042/BJ20050425|pmid = 16038615|pmc=1317681|volume=392|pages=221–9}}</ref>
+
+Zaprinast has also been shown to activate the orphan [[G-protein coupled receptor]] known as [[GPR35]], both in rats and humans,<ref>{{cite journal|journal = FEBS Letters|title = Zaprinast, a well-known cyclic guanosine monophosphate-specific phosphodiesterase inhibitor, is an agonist for GPR35|author1=Yasuhito Taniguchi |author2=Hiroko Tonai-Kachi |author3=Katsuhiro Shinjo |volume = 580|issue = 21|pages = 5003–5008|year = 2006|doi=10.1016/j.febslet.2006.08.015|pmid=16934253}}</ref> however, the clinical significance of this has yet to be determined.
+
+==References==
+{{reflist}}
+
+{{Phosphodiesterase inhibitors}}
+
+[[Category:Abandoned drugs]]
+[[Category:Phosphodiesterase inhibitors]]
+[[Category:PDE5 inhibitors]]
+
+
+{{pharma-stub}}

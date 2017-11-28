@@ -1,0 +1,65 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 448082882
+| IUPAC_name = ''N,N''-Diethyl-5-methyl-[1,2,4]triazolo[1,5-''a'']pyrimidin-7-amine
+| image = Trapidil.svg
+| width = 150
+
+<!--Clinical data-->
+| tradename = Rocornal, Avantrin, Travisco
+| Drugs.com = {{drugs.com|international|trapidil}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = Not approved
+| legal_status = Rx-only
+| routes_of_administration = [[Oral administration|By mouth]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 15421-84-8
+| ATC_prefix = C01
+| ATC_suffix = DX11
+| PubChem = 5531
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = EYG5Y6355E
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 5330
+
+<!--Chemical data-->
+| C=10 | H=15 | N=5 
+| molecular_weight = 205.26 g/mol
+| smiles = CCN(CC)c1cc(nc2n1ncn2)C
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C10H15N5/c1-4-14(5-2)9-6-8(3)13-10-11-7-12-15(9)10/h6-7H,4-5H2,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = GSNOZLZNQMLSKJ-UHFFFAOYSA-N
+}}
+
+'''Trapidil''' is a [[vasodilator]] and an [[antiplatelet drug]].<ref>{{cite journal | last1 = Büyükafşar | first1 = K | last2 = Yazar | first2 = A | last3 = Düşmez | first3 = D | last4 = Oztürk | first4 = H | last5 = Polat | first5 = G | last6 = Levent | first6 = A | title = Effect of Trapidil, an Antiplatelet and Vasodilator Agent on Gentamicin-Induced Nephrotoxicity in Rats | journal = Pharmacological Research | date = October 2001 | volume = 44 | issue = 4 | pages = 321–8 | doi = 10.1006/phrs.2001.0864 | pmid = 11592868 | accessdate = 24 December 2016}}</ref><ref>{{cite journal | last1 = Liu | first1 = M | last2 = Sun | first2 = Q | last3 = Wang | first3 = Q | last4 = Wang | first4 = X | last5 = Lin | first5 = P | last6 = Yang | first6 = M | last7 = Yan | first7 = Y | title = Effect of Trapidil in Myocardial Ischemia-Reperfusion Injury in Rabbit | journal = Indian Journal of Pharmacology | date = March–April 2014 | volume = 46 | issue = 2 | pages = 207–10 | doi = 10.4103/0253-7613.129320 | pmid = 24741195 | accessdate = 24 December 2016 | pmc = 3987192}}</ref> It also acts as an antagonist of [[platelet-derived growth factor]].<ref>{{cite journal | last1 = Maresta | first1 = A | last2 = Balducelli | first2 = M | last3 = Cantini | first3 = L | last4 = Casari | first4 = A | last5 = Chioin | first5 = R | last6 = Fabbri | first6 = M | last7 = Fontanelli | first7 = A | last8 = Monici Preti | first8 = PA | last9 = Repetto | first9 = S | last10 = De Servi | first10 = S | title = Trapidil (triazolopyrimidine), a Platelet-Derived Growth Factor Antagonist, Reduces Restenosis After Percutaneous Transluminal Coronary Angioplasty. Results of the Randomized, Double-Blind STARC Study | journal = Circulation | date = December 1994 | volume = 90 | issue = 6 | pages = 2710–5 | pmid = 7994812 | accessdate = 24 December 2016}}</ref>
+
+==References==
+{{reflist}}
+
+{{Antithrombotics}}
+{{Vasodilators used in cardiac diseases}}
+{{Phosphodiesterase inhibitors}}
+
+[[Category:Vasodilators]]
+[[Category:Phosphodiesterase inhibitors]]
+[[Category:Triazolopyrimidines]]
+
+{{cardiovascular-drug-stub}}

@@ -1,0 +1,78 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 443725104
+| IUPAC_name = 4-Methyl-5-{[4-(methylsulfanyl)phenyl]carbonyl}-2,3-dihydro-1''H''-imidazol-2-one
+| image = Enoximone.svg
+
+<!--Clinical data-->
+| tradename = Perfan
+| Drugs.com = {{drugs.com|international|enoximone}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_UK = POM
+| legal_US = <!-- OTC / Rx-only  -->
+| legal_status =  
+| routes_of_administration = [[Intravenous therapy|Intravenous]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 50% (oral)
+| protein_bound = 85%
+| metabolism = [[Liver]] ([[oxidation]])
+| elimination_half-life = 4 to 10 hours
+| excretion = [[Kidney|Renal]] (60 to 70%)
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 77671-31-9
+| ATC_prefix = C01
+| ATC_suffix = CE03
+| PubChem = 53708
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB04880
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 48492
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = C7Z4ITI7L7
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D04004
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 249856
+
+<!--Chemical data-->
+| C=12 | H=12 | N=2 | O=2 | S=1
+| molecular_weight = 248.302 g/mol
+| smiles = O=C(/C1=C(/NC(=O)N1)C)c2ccc(SC)cc2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C12H12N2O2S/c1-7-10(14-12(16)13-7)11(15)8-3-5-9(17-2)6-4-8/h3-6H,1-2H3,(H2,13,14,16)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ZJKNESGOIKRXQY-UHFFFAOYSA-N
+| melting_point = 255
+| melting_high = 258
+| melting_notes = (decomposes)
+}}
+
+'''Enoximone''' ([[International Nonproprietary Name|INN]], trade name '''Perfan''') is an [[imidazole]] [[phosphodiesterase inhibitor]]. It is used in the treatment of [[congestive heart failure]] and is selective for [[PDE3 inhibitor|phosphodiesterase 3]].<ref name="pmid17714066">{{cite journal |vauthors=Boldt J, Suttner S |title=Combined use of ultra-short acting beta-blocker esmolol and intravenous phosphodiesterase 3 inhibitor enoximone |journal=Expert Opin Pharmacother |volume=8 |issue=13 |pages=2135–47 |date=September 2007 |pmid=17714066 |doi=10.1517/14656566.8.13.2135 |url=}}</ref>
+
+==Synthesis==
+<ref name="SchnettlerDage1982">{{cite journal|last1=Schnettler|first1=Richard A.|last2=Dage|first2=Richard C.|last3=Grisar|first3=J. Martin|title=4-Aroyl-1,3-dihydro-2H-imidazol-2-ones, a new class of cardiotonic agents|journal=Journal of Medicinal Chemistry|volume=25|issue=12|year=1982|pages=1477–1481|issn=0022-2623|doi=10.1021/jm00354a017}}</ref>
+
+Prepn: {{Cite patent|BE|883856}} (1980 to Richardson-Merrell); R. A. Schnettler et al., {{US patent|4405635}} (1983 to Merrell-Dow)
+
+==References==
+{{reflist}}
+
+{{Phosphodiesterase inhibitors}}
+{{Cardiac stimulants excluding cardiac glycosides}}
+
+[[Category:Cardiac stimulants]]
+[[Category:Imidazolines]]
+[[Category:Inotropic agents]]
+[[Category:Ketones]]
+[[Category:Lactams]]
+[[Category:PDE3 inhibitors]]
+[[Category:Thioethers]]
+[[Category:Ureas]]
+
+{{cardiovascular-drug-stub}}

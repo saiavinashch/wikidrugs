@@ -1,0 +1,293 @@
+{{Use dmy dates|date=March 2014}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 455249171
+| IUPAC_name = 7-[(3-chloro-6-methyl-5,5-dioxo-11''H''-benzo[''c''][2,1]benzothiazepin-11-yl)amino]heptanoic acid
+| image = Tianeptine2DACS.svg
+| width = 225px
+| image2 = Tianeptine molecule ball.png
+| width2 = 225px
+
+<!--Clinical data-->
+| tradename = Stablon, Coaxil, others
+| Drugs.com = {{drugs.com|international|tianeptine}}
+| legal_status = Rx-only ([[Tianeptine#Brand names|many countries]]); Legal (Unscheduled) ([[United States|US]]); Controlled ([[France|FR]], [[Bahrain|BH]], [[Singapore|SG]]), [[Standard_for_the_Uniform_Scheduling_of_Medicines_and_Poisons#Schedule_4:_Prescription_only_medicine| S4]] ([[Australia|AU]]) [https://www.legislation.gov.au/Details/F2017L00605]
+| routes_of_administration = [[Oral administration|By mouth]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 99%<ref name="pmid3180120">{{cite journal |author1=Royer, RJ |author2=Albin, H |author3=Barrucand, D |author4=Salvadori-Failler, C |author5=Kamoun, A |title = Pharmacokinetic and metabolic parameters of tianeptine in healthy volunteers and in populations with risk factors | journal = Clinical Neuropharmacology | volume = 11 Suppl 2 | issue = | pages = S90–6 | year = 1988 | pmid = 3180120 | doi = | url = }}</ref><ref name = Tian2001>{{cite journal|title=Tianeptine A Review of its Use in Depressive Disorders|journal=CNS Drugs|date=March 2001|volume=15|issue=3|doi=10.2165/00023210-200115030-00006|pages=231–259|pmid=11463130|author1=Wagstaff, AJ |author2=Ormrod, D |author3=Spencer, CM }}</ref>
+| protein_bound = 95%<ref name = Tian2001/>
+| metabolism = [[Hepatic]]<ref name = Tian2001/>
+| elimination_half-life = 2.5–3 hours<ref name="pmid3180120" /><ref name = Tian2001/><br />4–9 hours ([[elderly]])<ref name =Tian2001/><ref name="CarlhantLeGarrec1990">{{cite journal|title=Pharmacokinetics and bioavailability of tianeptine in the elderly|journal=Drug Investigation|date=September 1990|volume=2|issue=3|pages=167–172|doi=10.1007/BF03259191|author1=Carlhant, D |author2=Le Garrec, J |author3=Guedes, Y |author4=Salvadori, C |author5=Mottier, D |author6=Riche, C }}</ref>
+| excretion = [[Urine]]: 65%<ref name="pmid3180120" /><br />[[Feces]] (15%)<ref name =Tian2001/>
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 66981-73-5
+| CAS_supplemental = <br />30123-17-2 ([[sodium]])<br />1224690-84-9 ([[sulfate]])
+| ATC_prefix = N06
+| ATC_suffix = AX14
+| PubChem = 68870
+| IUPHAR_ligand = 7558
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 62102
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1289110
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0T493YFU8O
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02575
+| synonyms = S-1574;<ref name="Elks2014" /><ref name="IndexNominum2000" /><ref name="Drugs.com" /> JNJ-39823277; TPI-1062<ref name="AdisInsight" />
+
+<!--Chemical data-->
+| C=21 | H=25 | Cl=1 | N=2 | O=4 | S=1
+| molecular_weight = 436.953 g/mol
+| SMILES = Clc1cc2c(cc1)C(c3c(N(C)S2(=O)=O)cccc3)NCCCCCCC(=O)O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H25ClN2O4S/c1-24-18-9-6-5-8-16(18)21(23-13-7-3-2-4-10-20(25)26)17-12-11-15(22)14-19(17)29(24,27)28/h5-6,8-9,11-12,14,21,23H,2-4,7,10,13H2,1H3,(H,25,26)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = JICJBGPOMZQUBB-UHFFFAOYSA-N
+}}
+<!-- Definition and medical uses -->
+'''Tianeptine''', sold under the brand names '''Stablon''' and '''Coaxil''' among others, is an [[atypical antidepressant]] which is used mainly in the treatment of [[major depressive disorder]], although it may also be used to treat [[anxiety]], [[asthma]], and [[irritable bowel syndrome]].<ref name="Elks2014">{{cite book|author=J. Elks|title=The Dictionary of Drugs: Chemical Data: Chemical Data, Structures and Bibliographies|url=https://books.google.com/books?id=0vXTBwAAQBAJ&pg=PA1195|date=14 November 2014|publisher=Springer|isbn=978-1-4757-2085-3|pages=1195–}}</ref><ref name="IndexNominum2000">{{cite book|title=Index Nominum 2000: International Drug Directory|url=https://books.google.com/books?id=5GpcTQD_L2oC&pg=PA1024|year=2000|publisher=Taylor & Francis|isbn=978-3-88763-075-1|pages=1024–}}</ref><ref name="Drugs.com">https://www.drugs.com/international/tianeptine.html</ref> In terms of [[chemical structure]], it is technically a [[tricyclic antidepressant]] (TCA), but it has a very different drug profile than other TCAs, and is not usually grouped with them.<ref name = mp09>{{cite journal|last1=McEwen|first1=BS|last2=Chattarji|first2=S|last3=Diamond|first3=DM|last4=Jay|first4=TM|last5=Reagan|first5=LP|last6=Svenningsson|first6=P|last7=Fuchs|first7=E|title=The neurobiological properties of tianeptine (Stablon): from monoamine hypothesis to glutamatergic modulation.|journal=Molecular Psychiatry|date=March 2010|volume=15|issue=3|pages=237–49|doi=10.1038/mp.2009.80|pmid=19704408|pmc=2902200}}</ref><ref name="pmid15550348">{{cite journal |author1=McEwen, BS |author2=Chattarji, S |title=Molecular mechanisms of neuroplasticity and pharmacological implications: the example of tianeptine |journal=European Neuropsychopharmacology |volume=14 Suppl 5 |issue= |pages=S497–502 |date=December 2004 |pmid=15550348 |doi=10.1016/j.euroneuro.2004.09.008 |url= }}</ref><ref name="pmid15753957">{{cite journal |author1=McEwen, BS |author2=Olié, JP |title=Neurobiology of mood, anxiety, and emotions as revealed by studies of a unique antidepressant: tianeptine |journal=Molecular Psychiatry |volume=10 |issue=6 |pages=525–37 |date=June 2005 |pmid=15753957 |doi=10.1038/sj.mp.4001648 |url= }}</ref><ref name="pmid18221189">{{cite journal |author1=Brink, CB |author2=Harvey, BH |author3=Brand, L |title=Tianeptine: a novel atypical antidepressant that may provide new insights into the biomolecular basis of depression |journal=Recent Patents on CNS Drug Discovery |volume=1 |issue=1 |pages=29–41 |date=January 2006 |pmid=18221189 |doi= 10.2174/157488906775245327|url=http://www.bentham-direct.org/pages/content.php?PRN/2006/00000001/00000001/0002PRN.SGM}}</ref><ref name=CNS2008>{{cite journal |author1=Kasper, S |author2=McEwen, BS |title=Neurobiological and clinical effects of the antidepressant tianeptine |journal=CNS Drugs |volume=22 |issue=1 |pages=15–26 |year=2008 |pmid=18072812 |doi= 10.2165/00023210-200822010-00002|url= }}</ref><ref name="akiki">{{cite journal|last1=Akiki|first1=T|title=The etiology of depression and the therapeutic implications|journal=Glob. J. Med. Res.|volume= 13|issue= 6|url=http://medicalresearchjournal.org/index.php/GJMR/article/viewFile/465/383|issn=2249-4618}}</ref>
+
+<!-- Side effects and mechanism of action -->
+Tianeptine has antidepressant and [[anxiolytic]] effects<ref name="pmid2902922">{{cite journal|last1=Defrance|first1=R|last2=Marey|first2=C|last3=Kamoun|first3=A|title=Antidepressant and anxiolytic activities of tianeptine: an overview of clinical trials.|journal=Clinical Neuropharmacology|date=1988|volume=11 Suppl 2|pages=S74-82|pmid=2902922|url=https://dl.dropboxusercontent.com/u/238511/papers/1988_defrance.pdf}}</ref> with a relative lack of [[sedation|sedative]], [[anticholinergic]], and [[cardiovascular]] [[side effect]]s.<ref name="Tian2001" /><ref name=CNS2008 /> It has been found to act as an atypical [[agonist]] of the [[μ-opioid receptor]] with clinically negligible effects on the [[δ-opioid receptor|δ-]] and [[κ-opioid receptor]]s.<ref name="pmid25026323" /> μ-Opioid receptor agonists typically induce [[euphoria]], and in accordance, tianeptine does so at high doses well above the normal therapeutic range.<ref>{{cite journal|last1=Berridge|first1=KC|last2=Kringelbach|first2=ML|title=Affective neuroscience of pleasure: reward in humans and animals.|journal=Psychopharmacology|date=August 2008|volume=199|issue=3|pages=457–80|doi=10.1007/s00213-008-1099-6|pmid=18311558|pmc=3004012}}</ref>
+
+<!-- History and culture -->
+Tianeptine was discovered and patented by the French Society of Medical Research in the 1960s. Currently, tianeptine is approved in [[France]] and manufactured and marketed by Laboratories [[Servier]] SA; it is also marketed in a number of other European countries under the trade name Coaxil as well as in Asia (including [[Singapore]]) and Latin America as Stablon and Tatinol but it is not available in [[Australia]], [[Canada]], [[New Zealand]], the [[United Kingdom]], or the [[United States]].<ref name="akiki"/><ref name = MD>{{cite book|title=Tianeptine Sodium|date=5 December 2011|accessdate=2 December 2013|url=http://www.medicinescomplete.com/mc/martindale/current/17007-n.htm|work=Martindale: The Complete Drug Reference|publisher=Pharmaceutical Press|location=London, UK}}</ref>
+
+{{TOC limit|3}}
+
+==Medical uses==
+
+===Depression and anxiety===
+Tianeptine shows efficacy against serious depressive episodes ([[major depression]]), comparable to [[amitriptyline]], [[imipramine]] and [[fluoxetine]], but with significantly fewer side effects.<ref name="akiki"/> It was shown to be more effective than [[maprotiline]] in a group of people with co-existing depression and anxiety.<ref name="Tian2001" /> Tianeptine also displays significant [[anxiolytic]] properties and is useful in treating a spectrum of anxiety disorders including [[panic disorder]], as evidenced by a study in which those administered 35% [[carbon dioxide|CO<sub>2</sub>]] gas ([[carbogen]]) on [[paroxetine]] or tianeptine therapy showed equivalent panic-blocking effects.<ref name=Schruers_and_Griez_2004>{{cite journal |author1=Schruers, K |author2=Griez, E |title=The effects of tianeptine or paroxetine on 35% CO2 provoked panic in panic disorder |journal=Journal of Psychopharmacology |volume=18 |issue=4 |pages=553–8 |date=December 2004|pmid=15582922 |doi=10.1177/0269881104047283}}</ref> Like many antidepressants (including [[bupropion]], the [[selective serotonin reuptake inhibitors]], the [[serotonin-norepinephrine reuptake inhibitors]], [[moclobemide]] and numerous others) it may also have a beneficial effect on cognition in people with [[pseudodementia|depression-induced cognitive dysfunction]].<ref>{{cite journal|last1=Baune|first1=BT|last2=Renger|first2=L|title=Pharmacological and non-pharmacological interventions to improve cognitive dysfunction and functional ability in clinical depression - A systematic review.|journal=Psychiatry Research|date=September 2014|volume=219|issue=1|pages=25–50|doi=10.1016/j.psychres.2014.05.013|pmid=24863864}}</ref>
+
+===Other uses===
+Tianeptine has been found to be effective in depression in Parkinson's disease<ref>{{cite journal |author=Levin, OS |title=Coaxil (tianeptine) in the treatment of depression in Parkinson's disease |journal=Neuroscience and Behavioral Physiology |volume=37|issue=4|pages=419–24 |date=May 2007 |pmid=17457538 |doi=10.1007/s11055-007-0029-0}}</ref> and in [[post-traumatic stress disorder]]<ref>{{cite journal|last1=Aleksandrovskiĭ|first1=IuA|last2=Avedisova|first2=AS|last3=Boev|first3=IV|last4=Bukhanovkskiĭ|first4=AO|last5=Voloshin|first5=VM|last6=Tsygankov|first6=BD|last7=Shamreĭ|first7=BK|script-title=ru:Эффективность и переносимость коаксила (тианептина) при терапии посттравматического стрессового расстройства|journal=Zhurnal Nevrologii i Psikhiatrii Imeni S.S. Korsakov|date=2005|volume=105|issue=11|pages=24–9|pmid=16329631|trans_title=Efficacy and tolerability of coaxil (tianeptine) in the therapy of posttraumatic stress disorder|language=Russian}}</ref> of which it was as safe and effective as [[fluoxetine]] and [[moclobemide]].<ref>{{cite journal |author1=Onder, E |author2=Tural, U |author3=Aker, T |title=A comparative study of fluoxetine, moclobemide, and tianeptine in the treatment of posttraumatic stress disorder following an earthquake |journal=European Psychiatry |volume=21 |issue=3 |pages=174–9 |date=April 2006|pmid=15964747|doi=10.1016/j.eurpsy.2005.03.007}}</ref> A clinical trial has been conducted to compare its efficacy and tolerability with [[amitriptyline]] in the treatment of [[irritable bowel syndrome]]. The results of this trial showed that tianeptine was at least as effective as amitriptyline and produced less prominent adverse effects such as dry mouth and constipation.<ref>{{cite journal|last=Sohn|first=W|author2=Lee, OY |author3=Kwon, JG |author4=Park, KS |author5=Lim, YJ |author6=Kim, TH |author7=Jung, SW |author8= Kim, JI |title=Tianeptine vs amitriptyline for the treatment of irritable bowel syndrome with diarrhea: a multicenter, open-label, non-inferiority, randomized controlled study|journal=Neurogastroenterology & Motility|date=September 2012|volume=24|issue=9|pages=860–e398|doi=10.1111/j.1365-2982.2012.01945.x|pmid=22679908}}</ref>
+
+Tianeptine has been reported to be very effective for [[asthma]]. In August 1998, Dr. Fuad Lechin and colleagues at the [[Central University of Venezuela]] Institute of Experimental Medicine in [[Caracas]] published the results of a 52-week [[randomized controlled trial]] of asthmatic children; the children in the groups that received tianeptine had a sharp decrease in clinical rating and increased lung function.<ref name=By_2004/> Two years earlier, they had found a close, positive association between free serotonin in [[blood plasma|plasma]] and severity of asthma in symptomatic persons.<ref name=By_2004/> As tianeptine was the only agent known to both reduce free serotonin in plasma and enhance uptake in platelets, they decided to use it to see if reducing free serotonin levels in plasma would help.<ref name=By_2004 /> By November 2004, there had been two double-blind placebo-controlled crossover trials and a >25,000 person open-label study lasting over seven years, all showing effectiveness.<ref name=By_2004>{{cite journal|author1=Lechin, F |author2=van der Dijs, B |author3=Lechin, AE |title=Treatment of bronchial asthma with tianeptine |journal=Methods and Findings in Experimental and Clinical Pharmacology |volume=26 |issue=9 |pages=697–701 |date=November 2004 |pmid=15632955|doi=10.1358/mf.2004.26.9.872567}}</ref> A 2005 study in Egypt demonstrated tianeptine to be effective in men with depression and [[erectile dysfunction]].<ref name=erectile_dysfunction>{{cite journal |author1=El-Shafey, H |author2=Atteya, A |author3=el-Magd, SA |author4=Hassanein, A |author5=Fathy, A |author6=Shamloul, R |title=Tianeptine can be effective in men with depression and erectile dysfunction |journal=The Journal of Sexual Medicine|volume=3 |issue=5 |pages=910–7|date=September 2006 |pmid=16942535 |doi=10.1111/j.1743-6109.2005.00141.x}}</ref> Tianeptine also has [[anticonvulsant]] and [[analgesic]] effects,<ref name="pmid17826881">{{cite journal |author=Uzbay, TI |title=Tianeptine: potential influences on neuroplasticity and novel pharmacological effects |journal=Progress in Neuro-psychopharmacology & Biological Psychiatry|volume=32 |issue=4 |pages=915–24|date=May 2008 |pmid=17826881 |doi=10.1016/j.pnpbp.2007.08.007}}</ref> and a clinical trial in Spain that ended in January 2007 has shown that tianeptine is effective in treating pain due to [[fibromyalgia]].<ref>{{cite web|url=http://www.controlled-trials.com/ISRCTN16400909/ |title=ISRCTN16400909 - Tianeptine for the treatment of fibromyalgia: a prospective double-blind, randomised, single-centre, placebo-controlled, parallel group study |publisher=Controlled-trials.com |accessdate=13 August 2010}}</ref> Tianeptine has been shown to have efficacy with minimal side effects in the treatment of [[attention-deficit hyperactivity disorder]].<ref name="pmid15034228">{{cite journal |author=Niederhofer, H |title=Tianeptine as a slightly effective therapeutic option for attention-deficit hyperactivity disorder |journal=Neuropsychobiology |volume=49 |issue=3 |pages=130–3|year=2004 |pmid=15034228|doi=10.1159/000076721 |url=}}</ref>
+
+==Contraindications==
+Known contraindications include the following:<ref>{{cite web|title=PACKAGE INSERT STABLON|work=Health Sciences Authority|publisher=SERVIER (S) PTE LTD|date=20 August 2012|accessdate=2 December 2013|url=http://eservice.hsa.gov.sg/prism/common/enquirepublic/}} ''<u>Note:</u> This cite's url takes one to a search engine. Type in "tianeptine" into one of the lines under "Active Ingredient(s)" and search and it will take you to the page with a link to the package insert cite here in pdf format.''</ref>
+
+* Treatment with [[monoamine oxidase inhibitors]] (MAOIs) 14 days or less prior to treatment with tianeptine. Due to the potential for cardiovascular effects (including hypertension and cardiovascular collapse), convulsions, [[hyperthermia]] (high body temperature) and death.
+* Hypersensitivity to tianeptine or any of the tablet's excipients.
+* Being under the age of 15 years.
+
+==Side effects==
+Compared to other {{abbr|TCAs|tricyclic antidepressants}} it produces significantly fewer cardiovascular, [[anticholinergic]] (like dry mouth or constipation), [[sedative]] and appetite-stimulating effects.<ref name = CNS2008/><ref name="akiki"/> A recent review found that it was amongst the antidepressants most prone to causing hepatotoxicity (liver damage), although the evidence to support this concern was of limited quality.<ref>{{cite journal|last1=Voican|first1=CS|last2=Corruble|first2=E|last3=Naveau|first3=S|last4=Perlemuter|first4=G|title=Antidepressant-induced liver injury: a review for clinicians.|journal=The American Journal of Psychiatry|date=April 2014|volume=171|issue=4|pages=404–15|doi=10.1176/appi.ajp.2013.13050709|pmid=24362450}}</ref> Although not well studied with tianeptine, it has been shown for tricyclic antidepressants that they may cause [[cardiac arrhythmia]]s.<ref>{{cite book |url=https://books.google.si/books?id=3Ap2Tn4QMQkC&pg=PA587 |title=Stahl's Essential Psychopharmacology: The Prescriber's Guide |year=2011 |publisher=Cambridge University Press |editor-first=Meghan |editor-last=M. Grady |isbn=9780521173643 |page=587}}</ref>
+
+===By frequency===
+''Sources:''<ref name = Tian2001/><ref name="CNS2008" /><ref>{{cite journal|title=Efficacy and safety of tianeptine in major depression: evidence from a 3-month controlled clinical trial versus paroxetine|journal=CNS Drugs|volume=16|issue=1|date=January 2002|pages=65–75|doi=10.2165/00023210-200216010-00005|pmid=11772119|author1=Waintraub, L |author2=Septien L |author3=Azoulay, P }}</ref>
+
+;Common (>1% frequency)
+{{colbegin|3}}
+* Headache (up to 18%)
+* Dizziness (up to 10%)
+* Insomnia/nightmares (up to 20%)
+* Drowsiness (up to 10%)
+* Dry mouth (up to 20%)
+* Constipation (up to 15%)
+* Nausea
+* Abdominal pain
+* Weight gain (~3%)
+* Agitation
+* Anxiety/irritability
+{{colend}}
+
+;Uncommon (0.1-1% frequency)
+{{colbegin|3}}
+* [[Bitter taste]]
+* Flatulence
+* [[Gastralgia]]
+* Blurred vision
+* [[Myalgia|Muscle aches]]
+* [[Premature ventricular contractions]]
+* Micturition disturbances
+* [[Palpitations]]
+* [[Orthostatic hypotension]]
+* [[Hot flushes]]
+* [[Tremor]]
+{{colend}}
+
+;Rare (<0.1% frequency)
+{{colbegin|4}}
+* [[Hepatitis]]
+* [[Hypomania]]<ref name=mania>{{cite journal | first = Sema Gülen | last = Yıldırım | author2 = Ayşe Devrim Başterzi and Erol Göka | year = 2004 | title = Tianeptinin Neden Olduğu Hipomani; Bir Olgu Sunumu |trans_title=Tianeptine Induced Mania: A Case Report|journal = Klinik Psikiyatri Dergisi | volume = 7| issue = 4 | language = Turkish| pages = 177–180 | url = http://www.klinikpsikiyatri.org/pdf/4/7/177.pdf|format = PDF}}</ref>
+* [[Euphoria]]
+* ECG changes
+* Pruritus/allergic-type skin reactions
+* Protracted [[myalgia|muscle aches]]
+* General fatigue
+{{colend}}
+
+==Pharmacology==
+
+===Pharmacodynamics===
+{{See also|Pharmacology of antidepressants|Tricyclic antidepressant#Binding profiles}}
+{| class="wikitable floatright" style="font-size:small;"
+|+ Tianeptine<ref name="PDSP">{{cite web | title = PDSP K<sub>i</sub> Database | work = Psychoactive Drug Screening Program (PDSP) | author1 = Roth, BL | author2 = Driscol, J | publisher = University of North Carolina at Chapel Hill and the United States National Institute of Mental Health || format = HTML | accessdate = 14 August 2017 | url = https://pdsp.unc.edu/databases/pdsp.php?knowID=0&kiKey=&receptorDD=&receptor=&speciesDD=&species=&sourcesDD=&source=&hotLigandDD=&hotLigand=&testLigandDD=&testFreeRadio=testFreeRadio&testLigand=tianeptine&referenceDD=&reference=&KiGreater=&KiLess=&kiAllRadio=all&doQuery=Submit+Query}}</ref>
+|-
+! Site !! K<sub>i</sub> (nM) !! Species !! Ref
+|-
+| '''{{abbrlink|MOR|μ-Opioid receptor}}''' || '''383–768 (K<sub>i</sub>)'''<br />'''194 ({{abbrlink|EC50|Half-maximal effective concentration}})''' || '''Human''' || <ref name="pmid25026323" /><ref name="PDSP" /><br /><ref name="pmid25026323" />
+|-
+| {{abbrlink|DOR|δ-Opioid receptor}} || >10,000 (K<sub>i</sub>)<br />37,400 ({{abbr|EC50|Half-maximal effective concentration}}) || Human || <ref name="pmid25026323" /><ref name="PDSP" /><br /><ref name="pmid25026323" />
+|-
+| {{abbrlink|KOR|κ-Opioid receptor}} || >10,000 (K<sub>i</sub>)<br />>100,000 ({{abbr|EC50|Half-maximal effective concentration}}) || Human || <ref name="pmid25026323" /><ref name="PDSP" /><br /><ref name="pmid25026323" />
+|-
+| {{abbrlink|SERT|Serotonin transporter}} || >10,000 || Human || <ref name="PDSP" />
+|-
+| {{abbrlink|NET|Norepinephrine transporter}} || >10,000 || Human || <ref name="PDSP" />
+|-
+| {{abbrlink|DAT|Dopamine transporter}} || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[5-HT1A receptor|5-HT<sub>1A</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[5-HT1B receptor|5-HT<sub>1B</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[5-HT1D receptor|5-HT<sub>1D</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[5-HT1E receptor|5-HT<sub>1E</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[5-HT2A receptor|5-HT<sub>2A</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[5-HT2B receptor|5-HT<sub>2B</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[5-HT2C receptor|5-HT<sub>2C</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[5-HT3 receptor|5-HT<sub>3</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[5-HT5A receptor|5-HT<sub>5A</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[5-HT6 receptor|5-HT<sub>6</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[5-HT7 receptor|5-HT<sub>7</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[Alpha-1A adrenergic receptor|α<sub>1A</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[Alpha-1B adrenergic receptor|α<sub>1B</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[Alpha-2A adrenergic receptor|α<sub>2A</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[Alpha-2B adrenergic receptor|α<sub>2B</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[Alpha-2C adrenergic receptor|α<sub>2C</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[Beta-1 adrenergic receptor|β<sub>1</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[Beta-2 adrenergic receptor|β<sub>2</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[D1 receptor|D<sub>1</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[D2 receptor|D<sub>2</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[D3 receptor|D<sub>3</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[D4 receptor|D<sub>4</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[D5 receptor|D<sub>5</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[Histamine H1 receptor|H<sub>1</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[Histamine H2 receptor|H<sub>2</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[Histamine H3 receptor|H<sub>3</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[Histamine H4 receptor|H<sub>4</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| {{abbrlink|mACh|Muscarinic acetylcholine receptor}} || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[Sigma-1 receptor|σ<sub>1</sub>]] || >10,000 || Guinea pig || <ref name="PDSP" />
+|-
+| [[Sigma-2 receptor|σ<sub>2</sub>]] || >10,000 || Rat || <ref name="PDSP" />
+|-
+| [[Imidazoline I1 receptor|I<sub>1</sub>]] || >10,000 || Human || <ref name="PDSP" />
+|-
+| [[Adenosine A1 receptor|A<sub>1</sub>]] || >10,000 ({{abbr|EC<sub>50</sub>|Half-maximal effective concentration}}) || Human || <ref name="pmid25026323" />
+|-
+| {{abbrlink|VDCC|Voltage-dependent calcium channel}} || >10,000 || Human || <ref name="PDSP" />
+|- class="sortbottom"
+| colspan="4" style="width: 1px;" | Values are K<sub>i</sub> (nM), unless otherwise noted. The smaller the value, the more strongly the drug interacts with the site.
+|}
+
+Initial studies found that upon acute and repeated administration, tianeptine decreased the extracellular levels of serotonin in rat brain without a decrease in serotonin release and it was hence called a "(selective) serotonin [[reuptake enhancer]]".<ref name="akiki"/> In vitro tianeptine and its two principal metabolites showed no effects on monoamine uptake, release or neurotransmitter receptor binding in rats.<ref name="pmid3437921">{{cite journal |author1=Mennini, T |author2=Mocaer, E |author3=Garattini, S | title = Tianeptine, a selective enhancer of serotonin uptake in rat brain. | journal = Naunyn Schmiedebergs Arch Pharmacol. | volume = 336 | issue = 5 | pages = 478–482 | year = 1987 | pmid = 3437921 | doi=10.1007/bf00169302}}</ref> The (−) [[enantiomer]] is more active in this sense than the (+) enantiomer.<ref>{{Cite journal |author1=Oluyomi, AO |author2=Datla, KP |author3=Curzon, G | title = Effects of the (+) and (-) enantiomers of the antidepressant drug tianeptine on 5-HTP-induced behaviour |journal = [[Neuropharmacology (journal)|Neuropharmacology]] | volume = 36 | issue = 3 | pages = 383–387 |date=March 1997  | pmid = 9175617 | doi=10.1016/s0028-3908(97)00016-6}}</ref> However, more recent studies found that long-term administration of tianeptine does not elicit any marked alterations (neither increases nor decreases) in extracellular levels of serotonin in rats.<ref name=mp09/> However, coadministration of tianeptine and the [[selective serotonin reuptake inhibitor]] [[fluoxetine]] inhibited tianeptine's effect on [[long-term potentiation]] in [[hippocampus anatomy|hippocampal CA1 area]]. This is considered an argument for the opposite effects of tianeptine and fluoxetine on serotonin uptake,<ref name="CNS2008" /> although it has been shown that [[fluoxetine]] can be partially substituted for tianeptine in animal studies.<ref name="pmid16292591">{{cite journal |author1=Alici, T |author2=Kayir, H |author3=Aygoren, MO |author4=Saglam, E |author5=Uzbay, IT |title=Discriminative stimulus properties of tianeptine |journal=Psychopharmacology |volume=183 |issue=4 |pages=446–51 |date=January 2006 |pmid=16292591 |doi=10.1007/s00213-005-0210-5 |url= }}</ref>
+
+In contrast to most SSRIs and tricyclic antidepressants, tianeptine modestly enhances the [[mesolimbic]] release of [[dopamine]]<ref>{{cite journal |author1=Invernizzi, R |author2=Pozzi, L |author3=Garattini, S |author4=Samanin, R |title=Tianeptine increases the extracellular concentrations of dopamine in the nucleus accumbens by a serotonin-independent mechanism |journal=Neuropharmacology|volume=31 |issue=3 |pages=221–7|date=March 1992 |pmid=1630590 |doi=10.1016/0028-3908(92)90171-K}}</ref> and potentiates [[Central nervous system|CNS]] [[Dopamine D2 receptor|D<sub>2</sub>]] and [[Dopamine D3 receptor|D<sub>3</sub> receptors]],<ref>{{cite journal|last=Dziedzicka-Wasylewska|first=M|author2=Rogoz, Z; Skuza, G; Dlaboga, D; Maj, J |title=Effect of repeated treatment with tianeptine and fluoxetine on central dopamine D(2) /D(3) receptors. |journal=Behavioural Pharmacology|date=March 2002  |volume=13 |issue=2 |pages=127–138 |pmid=11981225 |doi=10.1097/00008877-200203000-00004}}</ref> but it is also unclear how this occurs because tianeptine has no affinity for the [[dopamine transporter]] or the [[dopamine receptor]]s.<ref name=mp09 />
+
+Research suggests that tianeptine produces its antidepressant effects through indirect alteration of [[glutamate (neurotransmitter)|glutamate]] receptor activity (i.e., [[AMPA receptor]]s and [[NMDA receptor]]s) and release of {{abbrlink|BDNF|brain-derived neurotrophic factor}}, in turn affecting [[neural plasticity]].<ref name="mp09" /><ref name="pmid15550348" /><ref name="pmid15753957" /><ref name="pmid18221189" /<ref name="CNS2008" /><ref name="akiki" /> Some researchers hypothesize that tianeptine has a protective effect against stress induced [[neuroplasticity|neuronal remodeling]].<ref name=mp09/><ref name=CNS2008 /> There is also action on the [[NMDA receptor|NMDA]] and [[AMPA receptor]]s.<ref name=mp09/><ref name=CNS2008 /> In animal models, tianeptine inhibits the pathological stress-induced changes in glutamatergic neurotransmission in the amygdala and hippocampus. It may also facilitate signal transduction at the CA3 commissural associational synapse by altering the phosphorylation state of glutamate receptors. With the discovery of the rapid and novel antidepressant effects of drugs such as [[ketamine]], many believe the efficacy of antidepressants is related to promotion of [[synaptic plasticity]]. This may be achieved by regulating the excitatory amino acid systems that are responsible for changes in the strength of synaptic connections as well as enhancing [[BDNF]] expression, although these findings are based largely on [[preclinical]] studies.<ref name="akiki"/>
+
+Research indicates possible [[anticonvulsant]] (anti-seizure) and [[analgesic]] (painkilling) activity of tianeptine via downstream modulation of [[adenosine]] [[adenosine A1 receptor|A<sub>1</sub> receptors]] (as the effects could be experimentally blocked by [[receptor antagonist|antagonists]] of this receptor).<ref name="pmid17826881"/>
+
+====Atypical μ-opioid receptor agonist====
+In 2014, tianeptine was found to be a [[μ-opioid receptor]] (MOR) [[full agonist]] using human proteins.<ref name="pmid25026323">{{cite journal | vauthors = Gassaway MM, Rives ML, Kruegel AC, Javitch JA, Sames D | title = The atypical antidepressant and neurorestorative agent tianeptine is a μ-opioid receptor agonist | journal = Transl Psychiatry | volume = 4 | issue = | pages = e411 | year = 2014 | pmid = 25026323 | pmc = 4119213 | doi = 10.1038/tp.2014.30 | url = }}</ref> It was also found to act as a full agonist of the [[δ-opioid receptor]] (DOR), although with approximately 200-fold lower potency.<ref name="pmid25026323" /> The same researchers subsequently found that the MOR is required for the acute and chronic antidepressant-like behavioral effects of tianeptine in mice and that its primary [[metabolite]] had similar activity as a MOR agonist but with a much longer [[elimination half-life]].<ref name="pmid28303899">{{cite journal | vauthors = Samuels BA, Nautiyal KM, Kruegel AC, Levinstein MR, Magalong VM, Gassaway MM, Grinnell SG, Han J, Ansonoff MA, Pintar JE, Javitch JA, Sames D, Hen R | title = The Behavioral Effects of the Antidepressant Tianeptine Require the Mu Opioid Receptor | journal = Neuropsychopharmacology | volume = | issue = | pages = | year = 2017 | pmid = 28303899 | doi = 10.1038/npp.2017.60 | url = }}</ref> Moreover, although tianeptine produced other [[opioid]]-like behavioral effects such as [[analgesia]] and [[reward system|reward]], it did not result in [[drug tolerance|tolerance]] or [[drug withdrawal|withdrawal]].<ref name="pmid28303899" /> The authors suggested that tianeptine may be acting as a [[biased agonist]] of the MOR and that this may be responsible for its atypical profile as a MOR agonist.<ref name="pmid28303899" /> However anecdotal reports from recreational, non-medical tianeptine users suggest that significant withdrawal effects resembling those of other typical opioid drugs (including but not limited to depression, insomnia, cold/flu-like symptoms) do manifest following prolonged high dose usage. In addition to its therapeutic effects, activation of the MOR is likely to also be responsible for the [[abuse potential]] of tianeptine at high doses that are well above the normal therapeutic range.<ref name="pmid25026323" />
+
+When co-administered with morphine, tianeptine prevents morphine-induced [[respiratory depression]] without impairing analgesia.<ref name="pmid26068549">{{cite journal|last1=Cavalla|first1=D|last2=Chianelli|first2=F|title=Tianeptine prevents respiratory depression without affecting analgesic effect of opiates in conscious rats.|journal=European Journal of Pharmacology|date=August 2015|doi=10.1016/j.ejphar.2015.05.067|pmid=26068549}}</ref>
+
+===Pharmacokinetics===
+The [[bioavailability]] of tianeptine is approximately 99%.<ref name="pmid3180120" /><ref name="Tian2001" /> Its [[plasma protein binding]] is about 95%.<ref name="Tian2001" /> The [[metabolism]] of tianeptine is [[liver|hepatic]].<ref name="Tian2001" /> Its [[elimination half-life]] is 2.5 to 3&nbsp;hours.<ref name="pmid3180120" /><ref name="Tian2001" /> The elimination half-life has been found to be increased to 4 to 9&nbsp;hours in the [[elderly]].<ref name="CarlhantLeGarrec1990" /> The drug has an [[active metabolite]], with a much longer elimination half-life.<ref name="pmid28303899" /> Tianeptine is [[excretion|excreted]] 65% in the [[urine]] and 15% in [[feces]].<ref name="pmid3180120" /><ref name="Tian2001" />
+
+==Chemistry==
+
+===Analogues===
+Although several related compounds are disclosed in the original patent,<ref>Charles Malen, Bernard Danrée, Jean-Claude Poignant. Nouveaux dérivés tricycliques et leur procédé de préparation. French Patent FR 2104728, 7 September 1971.</ref> it is unclear whether these share tianeptine's unique pharmacological effects. [[Amineptine]], the most closely related drug to have been widely studied, is a [[dopamine reuptake inhibitor]] with no significant effect on serotonin levels.
+
+===Synthesis===
+Prepn: C. Malen et al., {{Cite patent|DE|2011806}} corresp to {{US patent|3758528}} (1970, 1973 both to Sci. Union et Cie-Soc. Franc. Rech. Med.).
+
+==Society and culture==
+[[Image:StablonBox.jpg|thumb|right|Stablon box and blister pack.]]
+
+===Brand names===
+Brand names include:
+
+* Stablon <small>([[Argentina|AR]], [[Austria|AT]], [[Brazil|BR]], [[France|FR]], [[India|IN]], [[Indonesia|ID]], [[Malaysia|MY]], [[Mexico|MX]], [[Portugal|PT]], [[Singapore|SG]], [[Thailand|TH]], [[Turkey|TR]], [[Venezuela|VE]])</small>
+* Coaxil <small>([[Bulgaria|BG]], [[Czech Republic|CZ]], [[Hungary|HU]], [[Poland|PL]], [[Romania|RO]], [[Russian Federation|RU]], [[Ukraine|UA]])</small>
+* Salymbra <small>([[Estonia|EE]])</small>
+* Tatinol <small>([[China|CN]])</small>
+* Tianeurax <small>([[Germany|DE]])</small>
+* Zinosal <small>([[Spain|ES]])</small>
+
+===Development===
+Under the code names JNJ-39823277 and TPI-1062, tianeptine was previously under development for the treatment of major depressive disorder in the [[United States]] and [[Belgium]].<ref name="AdisInsight">{{cite web | title = Tianeptine - AdisInsight | author = AdisInsight | publisher = Springer | url = http://adisinsight.springer.com/drugs/800039841 | accessdate = 31 January 2016}}</ref> [[Phases of clinical research#Phase I|Phase I]] [[clinical trial]]s were completed in Belgium and the United States in May and June 2009, respectively.<ref name="AdisInsight" /> For reasons that are unclear, development of tianeptine was discontinued in both countries in January 2012.<ref name="AdisInsight" />
+
+===Recreational use===
+Recreational use of tianeptine is rare and thus far has only been seen in persons already using multiple substances for recreational purposes. 141 cases of recreational use were identified in France between 1989 and 2004, correlating to an incidence of 1 to 3 cases per 1000 persons treated with tianeptine and 45 between 2006 and 2011. The main reason for recreational use is to achieve an anxiolytic effect. According to Servier, cessation of treatment with tianeptine is difficult, due to the possibility of [[drug withdrawal|withdrawal]] symptoms in a person. The severity of the withdrawal is dependent on the daily dose, with high doses being extremely difficult to quit.<ref>{{cite web | author=APM Health Europe| year=2007 | title= Addiction leads to warning on Servier's antidepressant Stablon  | url=http://health.apmnews.com/depechesPublieesDepeches.php?annee=2007&mois=5&jour=21 | accessdate=24 July 2008 }}</ref><ref>{{cite web | author= Valerie Gibaja| year=2006 | title= Use, Drug Abuse and Tianeptine (in French) | url=http://www.chu-toulouse.fr/IMG/pdf/Actes_des_Xemes_rencontres_version_finale.pdf|format=PDF|accessdate=24 July 2008 }}</ref><ref>http://www.prescrire.org/fr/3/31/47483/0/NewsDetails.aspx</ref>
+
+In 2007, according to [[French Health Products Safety Agency]], tianeptine's manufacturer Servier agreed to modify the drug's label, following problems with dependency.<ref>{{cite web | author=French Health Products Safety Agency (Afssaps)| year=2007 | title=Important Information on Drug: Update of the Summary of Product Characteristics Stablon, 16 May 2007 (French)|url=http://agmed.sante.gouv.fr/htm/10/filltrpsc/lp070502.htm | accessdate=24 July 2008 }}</ref>
+
+[[Singapore]]'s Ministry of Health has restricted the use of tianeptine to psychiatrists due to its recreational potential,<ref>{{cite web|author=World Health Organization| year=2001 | title=Pharmaceuticals: Restrictions in use and availability, March 2001|url=http://www.who.int/medicinedocs/pdf/s2203e/s2203e.pdf |format=PDF| accessdate=24 July 2008 }}</ref> while [[Bahrain]] has classified it a controlled substance due to increasing reports of misuse and recreational use by persons.<ref>{{cite web | author=World Health Organization|year=2003 | title=Pharmaceuticals: Restrictions in use and availability, April 2003|url=http://whqlibdoc.who.int/hq/2003/EDM_QSM_2003.5.pdf |format=PDF| accessdate=24 July 2008 }}</ref> In September 2012, France began treating Stablon as a controlled substance. Its use now requires a "secure prescription" form in France, just as is required for narcotics.
+
+Tianeptine has been intravenously injected by drug users in [[Russia]].<ref name=mrp>{{cite web|author=Richard Ives | year=2008 |title=Assessment Mission Report for the SCAD V Programme, Component on Prevention and on Media Work|url=http://scadarmenia.org/docs/eng/mission_report_prevention.pdf |format=PDF| accessdate=4 November 2008}}</ref><ref name=dt>{{cite web| work=United Nations Office on Drugs and Crime | date=April 2008|title=Illicit Drug Trades in the Russian Federation|url=http://www.unodc.org/documents/regional/central-asia/Illicit%20Drug%20Trends%20Report_Russia.pdf |format=PDF| accessdate=16 July 2014}}</ref> This method of administration reportedly causes an [[opioid]]-like effect and is sometimes used in an attempt to lessen [[opioid#Dependence|opioid withdrawal symptoms]].<ref name=mrp /> Tianeptine tablets contain [[Silicon dioxide|silica]] and do not dissolve completely. Often the solution is not filtered well thus particles in the injected fluid block [[Capillary|capillaries]], leading to [[thrombosis]] and then severe [[necrosis]]. Thus, in Russia tianeptine (sold under the brand name “Coaxil”) is a Schedule III controlled substance in the same list as the majority of [[benzodiazepines]] and [[barbiturates]].<ref>[http://base.garant.ru/12112176 Decision of the Government of the Russian Federation No. 681 of June 30, 1998 on the Approval of the List of Narcotic Drugs, Psychotropic Substances and Their Precursors That Shall Be Subject to Control in the Russian Federation (with Amendments and Additions) ''(in Russian)'']</ref>
+
+==See also==
+* [[List of antidepressants]]
+* [[List of investigational anxiolytics]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://www.tianeptine.com/ Tianeptine - David Pearce - The Good Drug Guide]
+
+
+{{Antidepressants}}
+{{Anxiolytics}}
+<!--{{Nootropics}}--><!--Causing unwanted line breaks-->
+{{Opioid receptor modulators}}
+{{Xenobiotic-sensing receptor modulators}}
+{{Tricyclics}}
+
+[[Category:Alcohols]]
+[[Category:Amines]]
+[[Category:Anxiolytics]]
+[[Category:Chloroarenes]]
+[[Category:Dibenzothiazepines]]
+[[Category:Euphoriants]]
+[[Category:Laboratoires Servier]]
+[[Category:Mu-opioid agonists]]
+[[Category:Tricyclic antidepressants]]
+[[Category:Triketones]]

@@ -1,0 +1,118 @@
+{{Drugbox
+| verifiedrevid = 414638558
+| IUPAC_name = ''N''-benzyl-2-(2-nitro-1''H''-imidazol-1-yl)acetamide
+| image = Benznidazole.svg
+<!--Clinical data-->
+| tradename = Rochagan, Radanil<ref name=JAMA2007/>
+| Drugs.com = {{drugs.com|CONS|benznidazole}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_CA = <!--                             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = by mouth
+<!--Pharmacokinetic data-->
+| bioavailability = High
+| protein_bound =  
+| metabolism = [[Liver]]
+| elimination_half-life = 12 hours
+| excretion = [[Kidney]] and fecal
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|CAS}}
+| CAS_number = 22994-85-0
+| ATC_prefix = P01
+| ATC_suffix = CA02
+| PubChem = 31593
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 29299
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = YC42NRJ1ZD
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02489
+| ChEBI_Ref = {{ebicite|correct|EBI}} 
+| ChEBI = 133833
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 110
+<!--Chemical data-->
+| C=12 | H=12
+| N=4 | O=3
+| molecular_weight = 260.249 g/mol
+| smiles = O=[N+]([O-])c1nccn1CC(=O)NCc2ccccc2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C12H12N4O3/c17-11(14-8-10-4-2-1-3-5-10)9-15-7-6-13-12(15)16(18)19/h1-7H,8-9H2,(H,14,17)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = CULUWZNBISUWAS-UHFFFAOYSA-N
+| melting_point = 188.5
+| melting_high = 190
+}}
+<!--  Definition and medical uses-->
+'''Benznidazole''' is an [[antiparasitic medication]] used in the treatment of [[Chagas disease]].<ref name=CDC2016/> While it is highly effective in early disease this decreases in those who have long term infection.<ref name=WHO2016>{{cite web|title=Chagas disease|url=http://www.who.int/mediacentre/factsheets/fs340/en/|website=World Health Organization|accessdate=7 December 2016|date=March 2016|deadurl=no|archiveurl=https://web.archive.org/web/20140227181940/http://www.who.int/mediacentre/factsheets/fs340/en/|archivedate=27 February 2014|df=}}</ref> It is the first line treatment given its moderate side effects compared to [[nifurtimox]].<ref name=JAMA2007>{{Cite journal|last=Bern|first=Caryn|last2=Montgomery|first2=Susan P.|last3=Herwaldt|first3=Barbara L.|last4=Rassi|first4=Anis|last5=Marin-Neto|first5=Jose Antonio|last6=Dantas|first6=Roberto O.|last7=Maguire|first7=James H.|last8=Acquatella|first8=Harry|last9=Morillo|first9=Carlos|date=2007-11-14|title=Evaluation and Treatment of Chagas Disease in the United States: A Systematic Review|url=http://jamanetwork.com/journals/jama/fullarticle/209410|journal=JAMA|volume=298|issue=18|doi=10.1001/jama.298.18.2171|issn=0098-7484|pmid=18000201|pages=2171–81|deadurl=no|archiveurl=https://web.archive.org/web/20161107015027/http://jamanetwork.com/journals/jama/fullarticle/209410|archivedate=2016-11-07|df=}}</ref> It is taken by mouth.<ref name=CDC2016/>
+
+<!-- Side effects and mechanism -->
+Side effects are fairly common.<ref name=CDC2013Tx/> They include rash, numbness, [[fever]], [[muscle pain]], loss of appetite, and trouble sleeping.<ref name=CDC2013Tx/><ref name=Cas2006/> Rare side effects include [[bone marrow suppression]] which can lead to [[cytopenia|low blood cell levels]].<ref name=JAMA2007/><ref name=Cas2006>{{Cite journal|last=Castro|first=José A.|last2=de Mecca|first2=Maria Montalto|last3=Bartel|first3=Laura C.|date=2006-08-01|title=Toxic side effects of drugs used to treat Chagas' disease (American trypanosomiasis)|journal=Human & Experimental Toxicology|volume=25|issue=8|pages=471–479|issn=0960-3271|pmid=16937919|doi=10.1191/0960327106het653oa}}</ref> It is not recommended during [[pregnancy]] or in people with severe liver or kidney disease.<ref name=CDC2013Tx>{{Cite web|url=https://www.cdc.gov/parasites/chagas/health_professionals/tx.html|title=CDC - Chagas Disease - Resources for Health Professionals - Antiparasitic Treatment|last=Prevention|first=CDC - Centers for Disease Control and|website=www.cdc.gov|access-date=2016-11-05|deadurl=no|archiveurl=https://web.archive.org/web/20161106123343/http://www.cdc.gov/parasites/chagas/health_professionals/tx.html|archivedate=2016-11-06|df=}}</ref><ref name=WHO2016/> Benznidazole is in the [[nitroimidazole]] family of medication and works by the production of [[Radical (chemistry)|free radicals]].<ref name=Cas2006/><ref name=Urbina2002>{{cite web|url=http://www.fac.org.ar/fec/chagas2/llave/md5/md508/urbina.htm|title=Nuevas drogas para el tratamiento etiológico  de la Enfermedad de Chagas|language=Spanish|accessdate=March 24, 2012|author=Urbina, Julio A.|deadurl=no|archiveurl=https://web.archive.org/web/20120508013300/http://www.fac.org.ar/fec/chagas2/llave/md5/md508/urbina.htm|archivedate=May 8, 2012|df=}}</ref>
+
+<!--History and culture  -->
+Benznidazole came into medical use in 1971.<ref name=CDC2016/> It is on the [[World Health Organization's List of Essential Medicines]], the most effective and safe medicines needed in a [[health system]].<ref name=WHO19th>{{cite web|title=WHO Model List of Essential Medicines (19th List)|url=http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|work=World Health Organization|accessdate=8 December 2016|date=April 2015|deadurl=no|archiveurl=https://web.archive.org/web/20161213052708/http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|archivedate=13 December 2016|df=}}</ref> It is not commercially available in the United States, but can be obtained from the [[Centers for Disease Control and Prevention|Centers of Disease Control]].<ref name=CDC2016>{{cite web|title=Our Formulary {{!}} Infectious Diseases Laboratories {{!}} CDC|url=https://www.cdc.gov/laboratory/drugservice/formulary.html#benznidazole|website=www.cdc.gov|accessdate=7 December 2016|date=22 September 2016|deadurl=no|archiveurl=https://web.archive.org/web/20161216173833/https://www.cdc.gov/laboratory/drugservice/formulary.html#benznidazole|archivedate=16 December 2016|df=}}</ref> As of 2012 Laboratório Farmacêutico do Estado de Pernambuco, a government run pharmaceutical company in Brazil was the only producer.<ref>{{cite web|title=Treatment for Chagas: Enter Supplier Number Two {{!}} End the Neglect|url=http://endtheneglect.org/2012/03/treatment-for-chagas-enter-supplier-number-two/|website=endtheneglect.org|accessdate=7 December 2016|date=21 March 2012|deadurl=no|archiveurl=https://web.archive.org/web/20161106123651/http://endtheneglect.org/2012/03/treatment-for-chagas-enter-supplier-number-two/|archivedate=6 November 2016|df=}}</ref>
+
+==Medical uses== 
+Benznidazole has a significant activity during the acute phase of Chagas disease, with a success rate up to 80%. Its curative capabilities during the chronic phase are, however, limited. Some studies have found parasitologic cure (a complete elimination of ''T. cruzi'' from the body) in children during the early stage of the chronic phase, but overall failure rate in chronically infected individuals is typically above 80%.<ref name=Urbina2002 />
+
+Some studies indicate treatment with benznidazole during the chronic phase, even if incapable of producing parasitologic cure, because it reduces electrocardiographic changes and a delays worsening of the clinical condition of the patient.<ref name=Urbina2002/>
+
+Benznidazole has proven to be effective in the treatment of reactivated  ''T. cruzi''  infections caused by [[immunosuppression]], such as in people with [[AIDS]] or in those under immunosuppressive therapy related to organ transplants.<ref name=Urbina2002/>
+
+=== Children ===
+Benznidazole can be used in children, with the same 5–7&nbsp;mg/kg per day weight-based dosing regimen that is used to treat adult infections.<ref name=":3">{{Cite journal|last=Carlier|first=Yves|last2=Torrico|first2=Faustino|last3=Sosa-Estani|first3=Sergio|last4=Russomando|first4=Graciela|last5=Luquetti|first5=Alejandro|last6=Freilij|first6=Hector|last7=Vinas|first7=Pedro Albajar|date=2011-10-25|title=Congenital Chagas Disease: Recommendations for Diagnosis, Treatment and Control of Newborns, Siblings and Pregnant Women|url=http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0001250|journal=PLOS Negl Trop Dis|volume=5|issue=10|pages=e1250|doi=10.1371/journal.pntd.0001250|issn=1935-2735|pmc=3201907|pmid=22039554|deadurl=no|archiveurl=https://web.archive.org/web/20170831180544/http://journals.plos.org/plosntds/article?id=10.1371%2Fjournal.pntd.0001250|archivedate=2017-08-31|df=}}</ref> Children are found to be at a lower risk of adverse events compared to adults, possibly due to increased hepatic clearance of the drug. The most prevalent adverse effects in children were found to be gastrointestinal, dermatologic, and neurologic in nature. However, the incidence of severe dermatologic and neurologic adverse events is lower in the pediatric population compared to adults.<ref>{{Cite journal|last=Altcheh|first=Jaime|last2=Moscatelli|first2=Guillermo|last3=Moroni|first3=Samanta|last4=Garcia-Bournissen|first4=Facundo|last5=Freilij|first5=Hector|date=2011-01-01|title=Adverse Events After the Use of Benznidazole in Infants and Children With Chagas Disease|url=http://pediatrics.aappublications.org/content/127/1/e212|journal=Pediatrics|language=en|volume=127|issue=1|pages=e212–e218|doi=10.1542/peds.2010-1172|issn=0031-4005|pmid=21173000|deadurl=no|archiveurl=https://web.archive.org/web/20160220193205/http://pediatrics.aappublications.org/content/127/1/e212|archivedate=2016-02-20|df=}}</ref> It use for Chagas in children was approved by the FDA in the US in 2017.<ref>{{cite web|title=Press Announcements - FDA approves first U.S. treatment for Chagas disease|url=https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm573942.htm|website=www.fda.gov|accessdate=31 August 2017|language=en|deadurl=no|archiveurl=https://web.archive.org/web/20170903080854/https://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm573942.htm|archivedate=3 September 2017|df=}}</ref>
+
+=== Pregnant women ===
+Studies in animals have shown that benznidazole can cross the placenta.<ref name=":4" /> Due to its potential for teratogenicity, use of benznidazole in pregnancy is not recommended.<ref name=":3" />
+
+==Side effects==
+Side effects tend to be common and occur more frequently with increased age.<ref name=":02">{{Cite web|url=https://www.cdc.gov/parasites/chagas/health_professionals/tx.html|title=CDC - Chagas Disease - Resources for Health Professionals - Antiparasitic Treatment|last=Prevention|first=CDC - Centers for Disease Control and|website=www.cdc.gov|access-date=2016-11-07|deadurl=no|archiveurl=https://web.archive.org/web/20161106123343/http://www.cdc.gov/parasites/chagas/health_professionals/tx.html|archivedate=2016-11-06|df=}}</ref> The most common adverse reactions associated with benznidazole are allergic dermatitis and peripheral neuropathy.<ref name=JAMA2007/> It is reported that up to 30% of people will experience dermatitis when starting treatment.<ref name=":4" /><ref name=":5">{{Cite book|url=https://books.google.com/books?id=XR3cBQAAQBAJ&pg=PA2152&lpg=PA2152&dq=benznidazole+drug+interactions&source=bl&ots=F2Z9FMKStm&sig=uXrU_2W0-BuBDUTzWm6k088Tj_o&hl=en&sa=X&ved=0ahUKEwiz0oS-xZjQAhVKHGMKHV8vD1sQ6AEITjAI#v=onepage&q=benznidazole%20drug%20interactions&f=false|title=Kucers' The Use of Antibiotics Sixth Edition: A Clinical Review of Antibacterial, Antifungal and Antiviral Drugs|last=Grayson|first=M. Lindsay|last2=Crowe|first2=Suzanne M.|last3=McCarthy|first3=James S.|last4=Mills|first4=John|last5=Mouton|first5=Johan W.|last6=Norrby|first6=S. Ragnar|last7=Paterson|first7=David L.|last8=Pfaller|first8=Michael A.|date=2010-10-29|publisher=CRC Press|isbn=9781444147520|language=en|deadurl=no|archiveurl=https://web.archive.org/web/20170910145707/https://books.google.com/books?id=XR3cBQAAQBAJ&pg=PA2152&lpg=PA2152&dq=benznidazole+drug+interactions&source=bl&ots=F2Z9FMKStm&sig=uXrU_2W0-BuBDUTzWm6k088Tj_o&hl=en&sa=X&ved=0ahUKEwiz0oS-xZjQAhVKHGMKHV8vD1sQ6AEITjAI#v=onepage&q=benznidazole%20drug%20interactions&f=false|archivedate=2017-09-10|df=}}</ref> Benznidazole may cause photosensitization of the skin, resulting in rashes.<ref name=JAMA2007/> Rashes usually appear within the first 2 weeks of treatment and resolve over time.<ref name=":5" /> In rare instances, skin hypersensitivity can result in exfoliative skin eruptions, edema, and fever.<ref name=":5" /> [[Peripheral neuropathy]] may occur later on in the treatment course and is dose dependent.<ref name=JAMA2007/> It is not permanent, but takes time to resolve.<ref name=":5" />
+
+Other adverse reactions include anorexia, weight loss, nausea, vomiting, insomnia, and [[Dysgeusia|dysguesia]], and bone marrow suppression.<ref name=JAMA2007/> Gastrointestinal symptoms usually occur during the initial stages of treatment and resolves over time.<ref name=":5" /> Bone marrow suppression has been linked to the cumulative dose exposure.<ref name=":5" />
+
+== Contraindications ==
+Benznidazole should not be used in people with severe liver and/or kidney disease.<ref name=":02"/> Pregnant women should not use benznidazole because it can cross the placenta and cause [[teratogenicity]].<ref name=":4">{{Cite journal|last=Pérez-Molina|first=José A.|last2=Pérez-Ayala|first2=Ana|last3=Moreno|first3=Santiago|last4=Fernández-González|first4=M. Carmen|last5=Zamora|first5=Javier|last6=López-Velez|first6=Rogelio|date=2009-12-01|title=Use of benznidazole to treat chronic Chagas' disease: a systematic review with a meta-analysis|url=http://jac.oxfordjournals.org/content/64/6/1139|journal=Journal of Antimicrobial Chemotherapy|language=en|volume=64|issue=6|pages=1139–1147|doi=10.1093/jac/dkp357|issn=0305-7453|pmid=19819909}}</ref>
+
+== Pharmacology ==
+
+=== Mechanism of action ===
+Benznidazole is a [[nitroimidazole]] antiparasitic with good activity against [[Infection|acute infection]] with ''Trypanosoma cruzi,'' commonly referred to as Chagas disease''.''<ref name=":4"/> Like other nitroimidazoles, benznidazole's main mechanism of action is to generate radical species which can damage the [[Protozoa|parasite's]] [[DNA]] or [[Organelle|cellular machinery]].<ref name=":0">{{cite journal | last1 = Edwards | first1 = David I | year = 1993 | title = Nitroimidazole drugs - action and resistance mechanisms. I. Mechanism of action | url = | journal = Journal of Antimicrobial Chemotherapy | volume = 31 | issue = | pages = 9–20 | doi = 10.1093/jac/31.1.9 }}</ref> The mechanism by which nitroimidazoles do this seems to depend on whether or not oxygen is present.<ref name=":1">{{Cite journal|last=Eller|first=Gernot|title=Synthetic Nitroimidazoles: Biological Activities and Mutagenicity Relationships|url=http://www.scipharm.at/default.asp?id=549&lid=2|doi=10.3797/scipharm.0907-14|volume=77|journal=Scientia Pharmaceutica|pages=497–520|deadurl=no|archiveurl=https://web.archive.org/web/20161106123909/http://www.scipharm.at/default.asp?id=549&lid=2|archivedate=2016-11-06|df=}}</ref> This is particularly relevant in the case of ''[[Trypanosoma]]'' species, which are considered [[Facultative anaerobic organism|facultative anaerobes]].<ref>{{Cite book|title=General Parasitology|last=Cheng|first=Thomas C.|publisher=Academic Press|year=1986|isbn=0-12-170755-5|location=Orlando, Florida|pages=140|quote=|via=}}</ref>
+
+Under anaerobic conditions, the [[Nitro compound|nitro]] group of nitroimidazoles is believed to be [[Chemical reduction|reduced]] by the [[pyruvate:ferredoxin oxidoreductase]] complex to create a reactive nitro radical species.<ref name=":0" /> The nitro radical can then either engage in other [[Redox|redox reactions]] directly or spontaneously give rise to a [[nitrite]] ion and [[imidazole]] radical instead.<ref name=":1" /> The initial reduction takes place because nitroimidazoles are better [[electron acceptor]]s for [[ferredoxin]] than the natural [[Substrate (chemistry)|substrates]].<ref name=":0" /> In mammals, the principal mediators of electron transport are [[Nicotinamide adenine dinucleotide|NAD+/NADH]] and [[NADP+/NADPH]], which have a more positive [[reduction potential]] and so will not reduce nitroimidazoles to the radical form.<ref name=":0" /> This limits the spectrum of activity of nitroimidazoles so that [[Host (biology)|host]] cells and DNA are not also damaged. This mechanism has been well-established for 5-nitroimidazoles such as [[metronidazole]], but it is unclear if the same mechanism can be expanded to 2-nitroimidazoles (including benznidazole).<ref name=":1" />
+
+In the [[Aerobic condition|presence of oxygen]], by contrast, any radical nitro compounds produced will be rapidly oxidized by [[Oxygen|molecular oxygen]], yielding the original nitroimidazole compound and a [[superoxide]] anion in a process known as "[[Futile cycle|futile cycling]]".<ref name=":0" /> In these cases, the generation of superoxide is believed to give rise to other [[reactive oxygen species]].<ref name=":1" /> The degree of [[toxicity]] or [[mutagen]]icity produced by these oxygen radicals depends on cells' ability to [[Detoxification|detoxify]] superoxide radicals and other reactive oxygen species.<ref name=":1" /> In mammals, these radicals can be converted safely to [[hydrogen peroxide]], meaning benznidazole has very limited direct toxicity to human cells.<ref name=":1" /> In ''Trypanosoma'' species, however, there is a reduced capacity to detoxify these radicals, which results in [[Oxidative stress|damage to the parasite's cellular machinery]].<ref name=":1" />
+
+=== Pharmacokinetics ===
+[[Oral administration|Oral]] benznidazole has a [[bioavailability]] of 92%, with a [[Cmax (pharmacology)|peak concentration]] time of 3–4 hours after administration.<ref name=":2">{{cite journal | last1 = Raaflaub | first1 = J | last2 = Ziegler | first2 = WH | year = 1979 | title = Single-dose pharmacokinetics of the trypanosomicide benznidazole in man | url = | journal = Arzneimittelforschung | volume = 29 | issue = 10| pages = 1611–1614 }}</ref> 5% of the parent drug is excreted unchanged in the [[urine]], which implies that [[Clearance (pharmacology)|clearance]] of benznidazole is mainly through [[Hepatic metabolism|metabolism by the liver]].<ref>{{Cite journal|last=Workman|first=P.|last2=White|first2=R. A.|last3=Walton|first3=M. I.|last4=Owen|first4=L. N.|last5=Twentyman|first5=P. R.|date=1984-09-01|title=Preclinical pharmacokinetics of benznidazole.|journal=British Journal of Cancer|volume=50|issue=3|pages=291–303|issn=0007-0920|pmc=1976805|pmid=6466543|doi=10.1038/bjc.1984.176}}</ref> Its [[elimination half-life]] is 10.5-13.6 hours.<ref name=":2" />
+
+== Interactions ==
+Benznidazole and other nitroimidazoles have been shown to decrease the rate of clearance of [[5-fluorouracil]] (including 5-fluorouracil produced from its [[prodrug]]s [[capecitabine]], [[doxifluridine]], and [[tegafur]]).<ref>Product Information: Teysuno oral capsules, tegafur gimeracil oteracil oral capsules. Nordic Group BV (per EMA), Hoofddorp, The Netherlands, 2012.</ref> While co-administration of any of these drugs with benznidazole is not [[Contraindication|contraindicated]], monitoring for 5-fluorouracil [[Side effect|toxicity]] is recommended in the event they are used together.<ref>Product Information: TINDAMAX(R) oral tablets, tinidazole oral tablets. Mission Pharmacal Company, San Antonio, TX, 2007.</ref>
+
+The [[Glucagon-like peptide-1 receptor agonist|GLP-1 receptor agonist]] [[lixisenatide]] may slow down the [[Absorption (pharmacokinetics)|absorption]] and activity of benznidazole, presumably due to delayed [[Digestion|gastric emptying]].<ref>Product Information: ADLYXIN(TM) subcutaneous injection, lixisenatide subcutaneous injection. sanofi-aventis US LLC (per manufacturer), Bridgewater, NJ, 2016.</ref>
+
+Because nitroimidazoles can kill ''[[Vibrio cholerae]]'' cells, use is not recommended within 14 days of receiving a live [[cholera]] [[Cholera vaccine|vaccine]].<ref>Product Information: VAXCHORA(TM) oral suspension, cholera vaccine live oral suspension. PaxVax Inc (per manufacturer), Redwood City, CA, 2016.</ref>
+
+Alcohol consumption can cause a [[disulfiram]] like reaction with benznidazole.<ref name=JAMA2007/>
+
+==References==
+<!--This article uses the Cite.php citation mechanism. If you would like more information on how to add references to this article, please see http://meta.wikimedia.org/wiki/Cite/Cite.php -->
+{{Reflist|32em}}
+
+==External links==
+*{{cite web | title = Rochagan <nowiki>[Patient Information]</nowiki> | url= http://www.roche.com.br/NR/rdonlyres/26F1D9BB-FE75-4CC4-8EFD-96CB85C374BD/603/Rochagan.pdf | format = [[PDF]] | publisher = [[Hoffmann-La Roche]] | accessdate = 2006-11-27|language=pt}}
+
+{{Excavata antiparasitics}}
+
+[[Category:Antiprotozoal agents]]
+[[Category:Disulfiram-like drugs]]
+[[Category:Nitroimidazoles]]
+[[Category:Carboxamides]]
+[[Category:World Health Organization essential medicines]]
+[[Category:RTT]]

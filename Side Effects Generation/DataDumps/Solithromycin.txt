@@ -1,0 +1,116 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 417774847
+| IUPAC_name = (3a''S'',4''R'',7''S'',9''R'',10''R'',11''R'',13''R'',15''R'',15a''R'')-1-[4-[4-(3-aminophenyl)-1''H''-1,2,3-triazol-1-yl]butyl]-4-ethyl-7-fluorooctahydro-11-methoxy-3a,7,9,11,13,15-hexamethyl-10-{[3,4,6-trideoxy-3-(dimethylamino)-β-<small>D</small>-''xylo''-hexopyranosyl]oxy}-2''H''-Oxacyclotetradecino[4,3-d]oxazole-2,6,8,14(1''H'',7''H'',9''H'')-tetrone
+| image = Solithromycin.svg
+| width = 250
+<!--Clinical data-->
+| tradename = Solithera
+| legal_status = Under FDA and EMA review for approval
+| routes_of_administration = Oral, intravenous
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 760981-83-7
+| ATC_prefix = J01
+| ATC_suffix = FA16
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 9U1ETH79CK
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1240704
+| synonyms = CEM-101; OP-1068
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 25056854
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB09308
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D09965
+
+<!--Chemical data-->
+| C=43 | H=65 | F=1 | N=6 | O=10
+| molecular_weight = 845.01 g/mol
+| smiles = CC[C@@H]1[C@@]2([C@@H]([C@H](C(=O)[C@@H](C[C@@]([C@@H]([C@H](C(=O)[C@](C(=O)O1)(C)F)C)O[C@H]3[C@@H]([C@H](C[C@H](O3)C)N(C)C)O)(C)OC)C)C)N(C(=O)O2)CCCCn4cc(nn4)c5cccc(c5)N)C
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C43H65FN6O10/c1-12-32-43(8)35(50(40(55)60-43)19-14-13-18-49-23-30(46-47-49)28-16-15-17-29(45)21-28)26(4)33(51)24(2)22-41(6,56-11)37(27(5)36(53)42(7,44)39(54)58-32)59-38-34(52)31(48(9)10)20-25(3)57-38/h15-17,21,23-27,31-32,34-35,37-38,52H,12-14,18-20,22,45H2,1-11H3/t24-,25-,26+,27+,31+,32-,34-,35-,37-,38+,41-,42+,43-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = IXXFZUPTQVDPPK-ZAWHAJPISA-N
+}}
+
+'''Solithromycin''' (trade name '''Solithera''') is a [[ketolide]] [[antibiotic]] undergoing clinical development for the treatment of [[community-acquired pneumonia]] (CAP)<ref name="pmid15117934">{{cite journal
+| author=Reinert RR
+| title=Clinical efficacy of ketolides in the treatment of respiratory tract infections
+| journal=[[The Journal of Antimicrobial Chemotherapy]]
+| volume=53
+| issue=6
+| pages=918–27
+| date=June 2004
+| pmid=15117934
+| doi=10.1093/jac/dkh169
+| url=
+| issn=
+}}</ref> and other infections.<ref>http://www.cempra.com/research/antibacterials/</ref>
+
+Solithromycin exhibits excellent ''[[in vitro]]'' activity against a broad spectrum of [[Gram-positive bacteria|Gram-positive]] [[respiratory tract infections|respiratory tract]] [[pathogen]]s,<ref name="pmid2017690">{{cite journal
+|author1=Woolsey LN |author2=Castaneira M |author3=Jones RN. | title=CEM-101 activity against Gram-positive organisms
+| journal=[[Antimicrobial Agents and Chemotherapy]]
+| volume=54
+| issue=5
+| pages=2182–2187
+| date=May 2010
+| pmid=20176910
+| doi=10.1128/AAC.01662-09
+| issn=
+ | pmc=2863667
+}}</ref><ref name="pmid20211548">{{cite journal
+|author1=Farrell DJ |author2=Sader HS |author3=Castanheira M |author4=Biedenbach DJ |author5=Rhomberg PR |author6=Jones RN. | title=Antimicrobial characterization of CEM-101 activity against respiratory tract pathogens including multidrug-resistant pneumococcal serogroup 19A isolates
+| journal=International Journal of Antimicrobial Agents
+| volume=35
+| issue=6
+| pages=537–543
+| date=June 2010
+| pmid=20211548
+| doi=10.1016/j.ijantimicag.2010.01.026
+| url=
+| issn=
+}}</ref> including macrolide-resistant strains.<ref name="pmid19884376">{{cite journal
+|author1=McGhee P |author2=Clark C |author3=Kosowska-Shick K |author4=Nagai K |author5=Dewasse B |author6=Beachel L |author7=Appelbaum PC. | title=In Vitro Activity of Solithromycin against ''Streptococcus pneumoniae'' and ''Streptococcus pyogenes'' with Defined Macrolide Resistance Mechanisms
+| journal=Antimicrobial Agents and Chemotherapy
+| volume=54
+| issue=1
+| pages=230–238
+| date=January 2010
+| pmid=19884376
+| doi=10.1128/AAC.01123-09
+| url=
+| issn=
+| pmc=2798494
+}}</ref>  Solithromycin has activity against most common respiratory Gram-(+) and fastidious Gram-(-) pathogens,<ref>{{cite journal | doi = 10.1016/j.diagmicrobio.2009.10.013 |author1=Putnam, Shannon D. |author2=Castanheira, Mariana |author3=Moet, Gary J. |author4=Farrell, David J. |author5=Jones, Ronald N. | title =  CEM-101, a novel fluoroketolide: antimicrobial activity against a diverse collection of Gram-positive and Gram-negative bacteria | journal = Diagnostic Microbiology and Infectious Disease  | year = 2010 | volume = 66 | issue = 4 | pages = 393–401 | pmid = 20022192}}</ref><ref>{{Cite journal | doi = 10.1016/j.ijantimicag.2010.08.021 |author1=Putnam, Shannon D. |author2=Sader, Helio S. |author3=Farrell, David J. |author4=Biedenbach, Douglas J. |author5=Castanheira, Mariana | title =  Antimicrobial characterisation of solithromycin (CEM-101), a novel fluoroketolide: activity against staphylococci and enterococci | journal = International Journal of Antimicrobial Agents  | year = 2011 | volume = 37 | issue = 1 | pages = 39–45 | pmid = 21075602}}</ref> and is being evaluated for its utility in treating gonorrhea.
+
+*May 2011: Solithromycin is in a Phase 2 clinical trial for serious [[community-acquired bacterial pneumonia]] (CABP) and in a Phase 1 clinical trial with an intravenous formulation.<ref name=May2011>{{cite news |url=http://www.prnewswire.com/news-releases/intravenous-iv-administration-of-cempra-pharmaceuticals-solithromycin-cem-101-demonstrates-excellent-systemic-tolerability-in-a-phase-1-clinical-trial-121433699.html |title=Intravenous (IV) Administration of Cempra Pharmaceutical's Solithromycin (CEM-101) Demonstrates Excellent Systemic Tolerability in a Phase 1 Clinical Trial |date=7 May 2011 }}</ref>
+*September 2011 : Solithromycin demonstrated comparable efficacy to levofloxacin with reduced adverse events in Phase 2 trial in  people with community-acquired pneumonia<ref>{{cite news |url=http://www.medcitynews.com/2011/09/cempra-antibiotic-compound-as-effective-safer-than-levofloxacin/?edition=pharmaceuticals |title=Cempra antibiotic compound as effective, safer than levofloxacin |date=15 Sep 2011 }}</ref>
+*January 2015: In a Phase 3 clinical trial for community-acquired bacterial pneumonia (CABP), Solithromycin administered orally demonstrated statistical non-inferiority to the fluoroquinolone, [[Moxifloxacin]].<ref>http://investor.cempra.com/releasedetail.cfm?ReleaseID=889300. 4 Jan 2015</ref>
+*July 2015: Patient enrollment for the second Phase 3 clinical trial (Solitaire IV) for community-acquired bacterial pneumonia (CABP) was completed with results expected in Q4 2015.<ref>http://investor.cempra.com/releasedetail.cfm?ReleaseID=920866. 7 July 2015</ref>
+*Oct 2015:  IV to oral solithromycin demonstrated statistical non-inferiority to IV to oral moxifloxacin in adults with CABP.<ref>http://investor.cempra.com/releasedetail.cfm?ReleaseID=936994</ref>
+*July 2016: Cempra Announces FDA Acceptance of IV and oral formulations of Solithera (solithromycin) New Drug Applications for in the Treatment of Community-Acquired Bacterial Pneumonia.<ref>http://investor.cempra.com/releasedetail.cfm?ReleaseID=978096</ref>
+
+==Structure==
+[[X-ray crystallography]] studies have shown solithromycin, the first fluoroketolide in clinical development, has a third region of interactions with the bacterial ribosome,<ref>{{cite journal | doi = 10.1128/AAC.00860-10 |vauthors=Llano-Sotelo B, Dunkle J, Klepacki D, Zhang W, Fernandes P, Cate JH, Mankin AS | title =  Binding and Action of CEM-101, a New Fluoroketolide Antibiotic That Inhibits Protein Synthesis| journal = Antimicrobial Agents and Chemotherapy| year = 2010 | volume = 54 | issue = 12 | pages = 4961–4970| pmid = 20855725 | pmc=2981243}}</ref> as compared with two binding sites for other [[ketolide]]s.
+
+The only (previously) marketed [[ketolide]], [[telithromycin]], suffers from rare but serious [[side effect]]s.  Recent studies<ref>{{cite journal | doi = 10.1128/AAC.00840-10|vauthors=Bertrand D, Bertrand S, Neveu E, Fernandes P | title =  Molecular characterization of off-target activities of telithromycin: a potential role for nicotinic acetylcholine receptors| journal = Antimicrobial Agents and Chemotherapy| year = 2010 | volume = 54 | issue = 12 | pages = 599–5402| pmid = 20855733 | pmc=2981250}}</ref> have shown this to be likely due to the presence of the [[pyridine]]-[[imidazole]] group of the telithromycin side chain acting as an antagonist towards various [[nicotinic acetylcholine receptor]]s.
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*[http://www.cempra.com/research/antibacterials/ Profile of and Research on Solithromycin]
+
+{{Macrolides, lincosamides and streptogramins}}
+
+[[Category:Ketolide antibiotics]]
+[[Category:Antibiotics]]
+[[Category:Macrolides]]
+[[Category:Macrolide antibiotics]]
+[[Category:Triazoles]]
+
+
+{{antibiotic-stub}}

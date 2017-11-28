@@ -1,0 +1,225 @@
+{{Drugbox
+| verifiedrevid = 437144053
+| IUPAC_name = (1''R'',3''S'')-3-(3,4-dichlorophenyl)-''N''-methyl-2,3-dihydro-1''H''-inden-1-amine
+| image = Indatraline.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_category =  
+| legal_status = Uncontrolled
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 86939-10-8
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 126280
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 16736639
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 4U40Y96J1Z
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 146332
+
+<!--Chemical data-->
+| C=16 | H=15 | Cl=2 | N=1 
+| molecular_weight = 292.2072 g/mol
+| smiles = Clc1ccc(cc1Cl)[C@@H]3C[C@H](NC)c2ccccc23
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H15Cl2N/c1-19-16-9-13(11-4-2-3-5-12(11)16)10-6-7-14(17)15(18)8-10/h2-8,13,16,19H,9H2,1H3/t13-,16-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SVFXPTLYMIXFRX-BBRMVZONSA-N
+}}
+
+'''Indatraline''' ('''Lu 19-005''') is a non-[[binding selectivity|selective]] [[monoamine transporter]] inhibitor that has been shown to block the [[reuptake]] of [[dopamine]], [[norepinephrine]], and [[serotonin]] with effects similar to those of [[cocaine]]. However, the effects have been shown to have slower onset and longer duration than cocaine, suggesting that the compound may, along with similar compounds, be used for treatment of cocaine addiction.<ref>{{Cite journal 
+| pmid = 10490887 
+| year = 1999 
+| last1 = Negus | first1 = S. S. 
+| last2 = Brandt 
+| last3 = Mello 
+| title = Effects of the long-acting monoamine reuptake inhibitor indatraline on cocaine self-administration in rhesus monkeys 
+| volume = 291 
+| issue = 1 
+| pages = 60–69 
+| journal = The Journal of Pharmacology and Experimental Therapeutics | first2 = M. R. | first3 = N. K.
+}}</ref> Apparently, Lu 19-005 can be used to block the action of [[methamphetamine]] and [[MDMA]].<ref>{{Cite journal
+| last1 = Rothman | first1 = R. B.
+| last2 = Partilla | first2 = J. S.
+| last3 = Baumann | first3 = M. H.
+| last4 = Dersch | first4 = C. M.
+| last5 = Carroll | first5 = F. I.
+| last6 = Rice | first6 = K. C.
+| year = 2000
+| title = Neurochemical neutralization of methamphetamine with high-affinity nonselective inhibitors of biogenic amine transporters: a pharmacological strategy for treating stimulant abuse
+| journal = Synapse
+| volume = 35
+| issue = 3
+| pages = 222–7
+| doi = 10.1002/(SICI)1098-2396(20000301)35:3<222::AID-SYN7>3.0.CO;2-K
+| pmid = 10657029
+}}</ref>
+
+Compare Indatraline with [[tametraline]] since they are directly homologous. There are some differences though. [[Superposition principle|Superposition]] should make it possible to see that there is at least a relationship between the pharmacophore of indatraline and various phenyltropanes. More recently, additional work has been done also.<ref name=Gardner>{{Cite journal
+| last4 = Giordano | first1 = E.
+| last2 = Liu
+| last3 = Paredes | first2 = X. | first3 = W.| first4 = A.
+| last6 = Lepore
+| last7 = Wu
+| last1 = Gardner | first5 = J.| first6 = M. | first7 = K.| first8 = M.
+| title = A slow-onset, long-duration indanamine monoamine reuptake inhibitor as a potential maintenance pharmacotherapy for psychostimulant abuse: effects in laboratory rat models relating to addiction
+| journal = Neuropharmacology
+| volume = 51
+| last8 = Froimowitz
+| last5 = Spector
+| issue = 5
+| pages = 993–1003
+| year = 2006
+| pmid = 16901516
+| doi = 10.1016/j.neuropharm.2006.06.009
+}}</ref>
+
+==Trans==
+
+If indatraline is N-alkylated it is possible to slow the onset of action, if the choice of alkyl group is sufficiently bulky, so that it is not until ''N''-demethylation occurs that the molecules become really active.<ref name=Gardner/> N-methyl indatraline has a much longer duration than indatraline, because norindatraline is inactive whereas demethylating N-methyl-indatraline does not terminate the actions of the parent compound. Most drug addiction programs are of the opinion that a "slow onset, long duration" DRI is less likely to be abused (c.f. Volkow and others). The N-methyl products are clearly not just inactive [[prodrug]]s though. 
+
+Measurement of [[ambulation]] was recorded in 10-minute bins. Whereas for cocaine, locomotor activity (LMA) was already apparent at 10 min, ''at least'' 20 minutes were needed before the NMe<sub>2</sub> analogs even started to increase locomotor activity. Very high doses actually meant less ambulation. The reason for this was increased [[stereotypy]]. It is apparent from the table that larger N-groups result in increased DAT selectivity relative to the SERT and NET. Although it is not necessary to enter into the details, the authors actually wanted a SNDRI.{{Citation needed|reason=clearly from some scientific article, but no source|date=February 2014}}
+
+===Racemic===
+
+''N''-'''De'''methyl analogs situated on the right-side of the arrow, assuming that this is the way they are metabolized ''in vivo''. 
+
+[[Iodine-125|[<sup>125</sup>I]]]RTI-55 used as the binding ligand at all 3 transporters.
+{| class="wikitable"
+|colspan=9|'''Racemic''' (trans) 3',4'-Dichloro Indamines. K<sub>i</sub> and IC<sub>50</sub> (nM)</td>
+|-
+|Stereo||'''R1''' || '''R2''' ||DAT||DA||SERT||5-HT||NET||NE
+|-
+|''Rac''||Me||Me||19 → 27||200 → 23||0.33 → 5.0||65 → 4.8||95 → 22||34 → 15 
+|-
+|''Rac''||Et||Me||39 → 8.1||270 → 61||16 → 2.0||24 → 13||250 → 48||150 → 28
+|-
+|''Rac''||Pr||Me||250 → 220||340 → 53||91 → 130||190 → 480||400 → 55||640 → 130
+|-
+|''Rac''||Pr<sup>i</sup>||Me||180 → 32||190 → 51||44 → 93||1500 → 240||260 → 110||420 → 75 
+|-
+|''Rac''||Bu<sup>t</sup>||Me||890 → 130||2700 → 370||4700 → 740||>10μM → 3100||440 → 150||1000 → 310
+|-
+|''Rac''||Bn||Me||120 → 80||550 → 380||180 → >10μM||3700 → >10μM||2800 → 460||1600 → 2600
+|}
+
+===Single enantiomers===
+
+{| class="wikitable"
+|colspan=9|'''Trans''' 3',4'-Dichloro indamines. K<sub>i</sub> and IC<sub>50</sub> (nM)</td>
+|-
+|Stereo||'''R1''' || '''R2''' ||DAT||DA||SERT||5-HT||NET||NE
+|-
+|(±)-''trans''||Me||Me||19||200||0.33||65||95||34
+|-
+|(+)-''trans''||Me||Me||8.7||120||0.06||6.3||52||21 
+|-
+|(–)-''trans''||Me||Me||38||650||3.6||130||130||130
+|}
+
+The [[eudysmic ratio]] between the two enantiomers of N-methyl-indatraline is not as high as was reported in the case of [[tametraline]]. The toxicity of the R,S isomer is less than for the S,R isomer.
+
+===Cis===
+{| class="wikitable"
+|colspan=9|'''Cis''' 3',4'-Dichloro indamines. K<sub>i</sub> and IC<sub>50</sub> (nM)</td>
+|-
+|'''R1''' || '''R2''' ||DAT||DA||SERT||5-HT||NET||NE
+|-
+|Me||Me||63 → 290||550 → 500||2.4 → 38||5.5 → 4.0||150 → 600||86 → 130
+|-
+|Et||Me||660 → 140||530 → 1000||13 → 4.7||72 → 19||2400 → ?||4400 → 170
+|-
+|Pr||Me||1200 → 280||1000 → 620||200 → 500||810 → 1300||2000 → 540||540 → 630
+|-
+|Pr<sup>i</sup>||Me||680 → 450||960 → 1400||73 → 130||1800 → 300||650 → 3500||1800 → 1500
+|-
+|Bu<sup>t</sup>||Me||2800 → 650||>10μM → 1500||>10μM → 1700||? → >10μM||2200 → 1100||>10μM → 1800
+|-
+|Bn||Me||>10μM → 1100||? → 5300||300 → 2100||700 → >10μM||>10μM → 4800||>10μM → >10μM
+|}
+
+==Chemistry==
+Two main routes have been reported. The first route shown is the original one reported by Bøgesø and co-workers.<ref>{{Cite journal 
+| pmid = 2999402 
+| year = 1985 
+| last1 = Bøgesø | first1 = K. P. 
+| last2 = Christensen 
+| last3 = Hyttel 
+| last4 = Liljefors 
+| title = 3-Phenyl-1-indanamines. Potential antidepressant activity and potent inhibition of dopamine, norepinephrine, and serotonin uptake 
+| volume = 28 
+| issue = 12 
+| pages = 1817–1828 
+| journal = [[Journal of Medicinal Chemistry]] 
+| doi = 10.1021/jm00150a012 | first2 = A. V. | first3 = J. | first4 = T.
+}}</ref>
+
+[[File:Indatralinesynth.png|800px]]
+
+the other had been adapted to scale-up:<ref>{{Cite journal 
+| pmid = 11150168 
+| year = 2000 
+| last1 = Froimowitz | first1 = M. 
+| last2 = Wu 
+| last3 = Moussa 
+| last4 = Haidar 
+| last5 = Jurayj 
+| last6 = George 
+| last7 = Gardner 
+| title = Slow-onset, long-duration 3-(3',4'-dichlorophenyl)-1-indanamine monoamine reuptake blockers as potential medications to treat cocaine abuse 
+| volume = 43 
+| issue = 26 
+| pages = 4981–4992 
+| journal = Journal of Medicinal Chemistry 
+| doi = 10.1021/jm000201d | first2 = K. M. | first3 = A. | first4 = R. M. | first5 = J. | first6 = C. | first7 = E. L.
+}}</ref>
+
+[[File:Indatra.png|800px]]
+
+Although a new method of making indatraline was recently published,<ref>{{Cite journal
+| last1 = Silva Lf | first1 = J.
+| last2 = Siqueira | first2 = F.
+| last3 = Pedrozo | first3 = E.
+| last4 = Vieira | first4 = F.
+| last5 = Doriguetto | first5 = A.
+| title = Iodine(III)-promoted ring contraction of 1,2-dihydronaphthalenes: a diastereoselective total synthesis of (+/-)-indatraline
+| journal = Organic Letters
+| volume = 9
+| issue = 8
+| pages = 1433–1436
+| year = 2007
+| pmid = 17371034 
+| doi = 10.1021/ol070027o
+}}</ref> there is obviously more than one way of making this compound.
+
+See for example: [http://www.google.com/patents?vid=6525206 6525206]
+
+Unfortunately for the [[indanone]] intermediates a method is not available for direct reduction of the [[imine]] or [[oxime]]. It is reported that the wrong diastereomers are formed (cis) whereas the trans isomers are the ones that are needed. This frustrates the synthesis since an extra step has to be inserted. First the ketones are reduced to get mostly cis alcohols, which are then converted to the corresponding mesylates conserving stereochemistry. These can then be reacted with e.g. N-methylbenzylamine, effecting a [[Walden inversion]] (SN2). Final removal of the benzyl affords product, although it is racemic.
+
+== See also ==
+[[File:Dimefadane.svg|thumb|left|100px|[[Dimefadane]]<ref>{{Cite journal | doi = 10.1039/JR9560002928| title = 570. Compounds of potential pharmacological interest. Part IV. Aryl and alkyl derivatives of 1-aminoindane| journal = Journal of the Chemical Society (Resumed)| pages = 2928| year = 1956| last1 = Barltrop | first1 = J. A.| last2 = Acheson | first2 = R. M.| last3 = Philpott | first3 = P. G.| last4 = MacPhee | first4 = K. E.| last5 = Hunt | first5 = J. S.}}</ref>]]
+* [[Sertraline]]
+* [[Tametraline]]
+
+== References ==
+{{Reflist}}
+
+{{Stimulants}}
+{{Monoamine reuptake inhibitors}}
+
+[[Category:Substance dependence]]
+[[Category:Indanes]]
+[[Category:Chloroarenes]]
+[[Category:Serotonin-norepinephrine-dopamine reuptake inhibitors]]
+[[Category:Stimulants]]

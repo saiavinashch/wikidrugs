@@ -1,0 +1,71 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 443525834
+| IUPAC_name = (''RS'')-2-[4-(2,2-dichlorocyclopropyl)phenoxy]-2-<br />methylpropanoic acid
+| image = Ciprofibrate.svg
+| width = 200px
+| chirality = [[Racemic mixture]]
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|ciprofibrate}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| IUPHAR_ligand = 3438
+| CAS_number = 52214-84-3
+| ATC_prefix = C10
+| ATC_suffix = AB08
+| PubChem = 2763
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2661
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = F8252JGO9S
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03521
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 50867
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 557555
+
+<!--Chemical data-->
+| C=13 | H=14 | Cl=2 | O=3 
+| molecular_weight = 289.154 g/mol
+| smiles = ClC2(Cl)CC2c1ccc(OC(C(=O)O)(C)C)cc1
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C13H14Cl2O3/c1-12(2,11(16)17)18-9-5-3-8(4-6-9)10-7-13(10,14)15/h3-6,10H,7H2,1-2H3,(H,16,17)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = KPSRODZRAIWAKH-UHFFFAOYSA-N
+}}
+
+'''Ciprofibrate''' is a [[fibrate]] that was developed as a [[lipid-lowering agent]].
+
+==References==
+{{Reflist|2}}
+
+
+{{Lipid modifying agents}}
+{{PPAR modulators}}
+
+[[Category:Fibrates]]
+[[Category:Organochlorides]]
+[[Category:Phenol ethers]]
+
+
+{{cardiovascular-drug-stub}}

@@ -1,0 +1,121 @@
+{{enzyme| drug_name = hyaluronoglucosaminidase
+| EC_number = 3.2.1.35
+| CAS_number = 37326-33-3
+| IUBMB_EC_number = 3/2/1/35
+| GO_code = 0004415
+| image = Hyaluronidase 1 2PE4.png
+| width = 
+| caption = 
+}}
+{{Infobox protein family
+| Symbol = Hyaluronidase_1| drug_name = Hyaluronidase protein (HylP)
+| image = 
+| width = 
+| caption = the partial structure of a group a streptococcal phage-encoded tail fibre hyaluronate lyase hylp2
+| Pfam = PF07212
+| Pfam_clan =  
+| InterPro = IPR009860
+| SMART = 
+| PROSITE = 
+| MEROPS = 
+| SCOP = 
+| TCDB = 
+| OPM family = 
+| OPM protein = 
+| CAZy = 
+| CDD = 
+}}
+{{Pfam_box 
+| Symbol = Hyaluronidase_2 | drug_name = Hyaluronidase 
+| image = 
+| width = 
+| caption = 
+| Pfam= PF07555
+| InterPro= IPR011496
+| SMART= 
+| Prosite =          
+| SCOP =     
+| TCDB = 
+| OPM family= 
+| OPM protein= 
+| PDB= 
+}}
+
+'''Hyaluronidases''' are a family of [[enzyme]]s that catalyse the degradation of [[hyaluronic acid]] (HA). [[Karl Meyer (biochemist)|Karl Meyer]] classified these enzymes in 1971 into three distinct groups, a scheme based on the [[enzyme]] reaction products.<ref>{{cite book | last = Meyer | first = K | chapter = Hyaluronidases | publisher = Academic Press |editor= Boyer PD | title = Enzymes | volume = V | date = 1971 | location = New York | pages = 307–320 | isbn = 978-0-12-122705-0 }}</ref> The three main types of hyaluronidases are two classes of eukaryotic endoglycosidase hydrolases and a prokaryotic lyase-type of [[glycosidase]].<ref>{{cite journal|last1=Stern|first1=Robert|last2=Kogan|first2=Grigorij|last3=Jedrzejas|first3=Mark J.|last4=Šoltés|first4=Ladislav|title=The many ways to cleave hyaluronan|journal=Biotechnology Advances|date=November 2007|volume=25|issue=6|pages=537–557|doi=10.1016/j.biotechadv.2007.07.001}}</ref>
+
+In humans, there are five functional hyaluronidases: [[HYAL1]], [[HYAL2]], [[HYAL3]], HYAL4 and HYAL5 (also known as [[SPAM1]] or PH-20); plus a pseudogene, HYAL6 (also known as HYALP1).<ref name="ABC">{{cite journal|last1=Csóka|first1=Antonei Benjamin|last2=Scherer|first2=Stephen W.|last3=Stern|first3=Robert|title=Expression Analysis of Six Paralogous Human Hyaluronidase Genes Clustered on Chromosomes 3p21 and 7q31|journal=Genomics|date=September 1999|volume=60|issue=3|pages=356–361|doi=10.1006/geno.1999.5876|pmid=10493834}}</ref><ref name="pmid11731267">{{cite journal |vauthors=Csoka AB, Frost GI, Stern R |title=The six hyaluronidase-like genes in the human and mouse genomes |journal=Matrix biology : journal of the International Society for Matrix Biology |volume=20 |issue=8 |pages=499–508 |date=December 2001 |pmid=11731267 |doi= 10.1016/S0945-053X(01)00172-X|url=http://linkinghub.elsevier.com/retrieve/pii/S0945-053X(01)00172-X}}</ref> The genes for HYAL1-3 are clustered in [[chromosome 3]], while HYAL4-6 are clustered in [[chromosome 7]].<ref name="ABC" /> HYAL1 and HYAL2 are the major hyaluronidases in most tissues. [[GPI-anchor]]ed HYAL2 is responsible for cleaving high-molecular weight HA, which is mostly bound to the [[CD44]] receptor. The resulting HA fragments of variable size are then further hydrolized by HYAL1 after being internalized into [[endosome|endo]]-[[lysosome]]s; this generates HA [[oligosaccharides]].<ref name="Chanmee">{{cite journal|last1=Chanmee|first1=Theerawut|last2=Ontong|first2=Pawared|last3=Itano|first3=Naoki|title=Hyaluronan: A modulator of the tumor microenvironment|journal=Cancer Letters|date=May 2016|volume=375|issue=1|pages=20–30|doi=10.1016/j.canlet.2016.02.031|pmid=26921785}}</ref>
+
+According to their enzymatic mechanism, hyaluronidases are '''hyaluronoglucosidases''' ({{EC number|3.2.1.35}}), i.e. they cleave the (1->4)-linkages between N-acetylglucosamine and glucuronate. The term hyaluronidase may also refer to [[hyaluronoglucuronidase]]s ({{EC number|3.2.1.36}}), which cleave (1->3)-linkages. In addition, bacterial hyaluronate lyases ({{EC number|4.2.2.1}}) may also be referred to as hyaluronidases, although this is uncommon.<ref>{{cite web|title=Hyaluronidase|url=http://enzyme.expasy.org/cgi-bin/enzyme/enzyme-search-de|website=ENZYME|publisher=ExPASy|accessdate=17 November 2016}}</ref>
+
+==Use as a drug==
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 461771405
+| IUPAC_name = hyaluronidase
+| image =  
+<!--Clinical data -->
+| tradename =  
+| Drugs.com = {{drugs.com|CDI|hyaluronidase}}
+| pregnancy_category = C
+| legal_status =  
+| routes_of_administration = [[Subcutaneous injection|subcutaneous]]
+<!--Pharmacokinetic data -->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+<!--Identifiers -->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 488712-31-8
+| ATC_prefix = B06
+| ATC_suffix = AA03
+| ATC_supplemental =  
+| PubChem =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00070
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 8KOG53Z5EM
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201636
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+<!--Chemical data -->
+| C=2455 | H=3775 | N=617 | O=704 | S=21
+| molecular_weight = 53870.9 g/mol
+}}
+By [[catalysis|catalyzing]] the [[hydrolysis]] of [[hyaluronan]], a constituent of the [[extracellular matrix]] (ECM), hyaluronidase lowers the [[viscosity]] of hyaluronan, thereby increasing [[Biological tissue|tissue]] permeability.  It is, therefore, used in medicine in conjunction with other [[medication|drugs]] to speed their dispersion and delivery.  Common applications are [[Ophthalmology|ophthalmic]] [[surgery]], in combination with [[local anesthetic]]s. It also increases the absorption rate of [[parenteral]] fluids given by [[hypodermoclysis]], and is an adjunct in subcutaneous [[urography]] for improving resorption of [[radiodensity|radiopaque]] agents. Hyaluronidase is also used for extravasation of hyperosmolar solutions.
+
+Brand names of animal-derived hyaluronidase include Hydase (developed and manufactured by [http://www.primapharm.net PrimaPharm Inc.], distributed by [[Akorn|Akorn Inc.]]), which has been FDA-approved as a "[[thimerosal]]-free" animal-derived hyaluronidase, Vitrase (Bausch + Lomb/Valeant Pharmaceuticals), Amphadase (Amphastar Pharmaceuticals), and Wydase. Wydase, however, is no longer manufactured.
+
+On December 2, 2005, the FDA approved a synthetic (recombinant or rDNA) "human" hyaluronidase, Hylenex ([[Halozyme Therapeutics]]).<ref name="urlHalozyme Therapeutics and Baxter Healthcare Corporation Announce FDA Approval of Hylenex">{{cite web|url=http://www.baxter.com/about_baxter/news_room/news_releases/2005/12-05-05-hylenex.html |title=Halozyme Therapeutics and Baxter Healthcare Corporation Announce FDA Approval of Hylenex |work= |accessdate=2008-11-07 |deadurl=yes |archiveurl=https://web.archive.org/web/20071018065242/http://baxter.com/about_baxter/news_room/news_releases/2005/12-05-05-hylenex.html |archivedate=October 18, 2007 }}</ref> The FDA also approved [[HyQvia]] in late 2014,<ref name=fdahyq1>{{cite web|title=September 12, 2004 Approval Letter|url=http://www.fda.gov/BiologicsBloodVaccines/BloodBloodProducts/ApprovedProducts/LicensedProductsBLAs/FractionatedPlasmaProducts/ucm414148.htm|website=FDA|publisher=FDA.gov|accessdate=20 November 2015}}</ref> a form of [[sub-cutaneous immunoglobulin]] (SCIG) that uses Hylenex to allow for a far greater volume of SCIG to be administered than would normally be possible to administer sub-cutaneously, providing a form of SCIG that can be dosed on a monthly basis, a longer period of time than other forms of SCIG allow. HyQvia had a rate of systemic adverse effects higher than traditional subcutaneous forms of immunoglobulin injection, but lower than those typical in [[IVIG]] patients.<ref name=biodrugs>{{cite journal|last1=Sanford|first1=Mark|title=Human Immunoglobulin 10% with Recombinant Human Hyaluronidase: Replacement Therapy in Patients with Primary Immunodeficiency Disorders|journal=BioDrugs|date=13 June 2014|volume=28|issue=4|pages=411–420|doi=10.1007/s40259-014-0104-3}}<!--|accessdate=20 November 2015--></ref>
+
+Hyaluronidase is a recommended [[antidote]] for [[vinca alkaloid]] ovderose or extravasation.<ref>{{cite web|title=Chemotherapy extravasation guideline|url=http://www.beatson.scot.nhs.uk/content/mediaassets/doc/Extravasation%20guidance.pdf|website=WOSCAN Cancer Nursing and Pharmacy Group|accessdate=4 June 2017|date=September 2009}}</ref>
+
+==Role in cancer==
+
+The role of hyaluronidases in cancer has been historically controversial due to contradictory observations, namely that levels of hyaluronidase (HYAL1/2) are increased in some cancers (colorectal,<ref>{{cite journal|last1=Bouga|first1=Helen|last2=Tsouros|first2=Isidoros|last3=Bounias|first3=Dimitrios|last4=Kyriakopoulou|first4=Dora|last5=Stavropoulos|first5=Michael S|last6=Papageorgakopoulou|first6=Nikoletta|last7=Theocharis|first7=Dimitrios A|last8=Vynios|first8=Demitrios H|title=Involvement of hyaluronidases in colorectal cancer|journal=BMC Cancer|date=17 September 2010|volume=10|issue=1|doi=10.1186/1471-2407-10-499}}</ref> bladder, prostate, breast and brain), whereas low expression of HYAL1 is correlated with a decrease in survival of [[pancreatic adenocarcinoma]] patients<ref name="Prognostic impact of hyaluronan and its regulators in pancreatic ductal adenocarcinoma">{{cite journal|last1=Cheng|first1=XB|last2=Sato|first2=N|last3=Kohi|first3=S|last4=Yamaguchi|first4=K|title=Prognostic impact of hyaluronan and its regulators in pancreatic ductal adenocarcinoma.|journal=PloS one|date=2013|volume=8|issue=11|pages=e80765|pmid=24244714}}</ref>. The reason for this apparent contradiction is that both the accumulation of HA (due to increased [[hyaluronan synthase|HAS]] levels and decreased HYAL levels), and the degradation of HA into HA oligosaccharides by high HYAL levels result in increased tumor malignancy.<ref name="Chanmee" />
+
+Elevated tissue expression of hyaluronic acid and hyaluronidase validates the HA-HAase urine test for bladder cancer.<ref>{{cite journal|last1=Hautmann|first1=SH|last2=Lokeshwar|first2=VB|last3=Schroeder|first3=GL|last4=Civantos|first4=F|last5=Duncan|first5=RC|last6=Gnann|first6=R|last7=Friedrich|first7=MG|last8=Soloway|first8=MS|title=Elevated tissue expression of hyaluronic acid and hyaluronidase validates the HA-HAase urine test for bladder cancer.|journal=The Journal of Urology|date=June 2001|volume=165|issue=6 Pt 1|pages=2068–74|pmid=11371930}}</ref> Limited data support a role of lysosomal hyaluronidases in metastasis, while other data support a role in tumor suppression. Other studies suggest no contribution or effects independent of enzyme activity. Non-specific inhibitors (apigenin, sulfated glycosaminoglycans) or crude enzyme extracts have been used to test most hypotheses, making data difficult to interpret. It has been hypothesized that, by helping degrade the ECM surrounding the tumor, hyaluronidases help cancer cells escape from primary tumor masses. However, studies show that removal of hyaluronan from tumors prevents tumor invasion.{{citation needed|date=December 2016}} Hyaluronidases are also thought to play a role in the process of [[angiogenesis]], although most hyaluronidase preparations are contaminated with large amounts of angiogenic growth factors.<ref>{{cite journal|last1=Rahmanian|first1=Mehdi|last2=Heldin|first2=Paraskevi|title=Testicular hyaluronidase induces tubular structures of endothelial cells grown in three-dimensional colagen gel through a CD44-mediated mechanism|journal=International Journal of Cancer|date=10 February 2002|volume=97|issue=5|pages=601–607|doi=10.1002/ijc.10087}}</ref>
+
+==Role in pathogenesis==
+Some bacteria, such as ''[[Staphylococcus aureus]]'', ''[[Streptococcus pyogenes]]'',<ref name="pmid16368955">{{cite journal |vauthors=Starr CR, Engleberg NC |title=Role of hyaluronidase in subcutaneous spread and growth of group A streptococcus |journal=Infection and immunity |volume=74 |issue=1 |pages=40–8 |date=January 2006 |pmid=16368955 |pmc=1346594 |doi=10.1128/IAI.74.1.40-48.2006 |url=http://iai.asm.org/cgi/pmidlookup?view=long&pmid=16368955}}</ref> and ''[[Clostridium perfringens]]'',<ref name="pmid10747251">{{cite journal |vauthors=Zukaite V, Biziulevicius GA |title=Acceleration of hyaluronidase production in the course of batch cultivation of Clostridium perfringens can be achieved with bacteriolytic enzymes |journal=Letters in applied microbiology |volume=30 |issue=3 |pages=203–6 |date=March 2000 |pmid=10747251 |doi= 10.1046/j.1472-765x.2000.00693.x|url=http://www.blackwell-synergy.com/openurl?genre=article&sid=nlm:pubmed&issn=0266-8254&date=2000&volume=30&issue=3&spage=203}}</ref> produce hyaluronidase as a means of using hyaluronan as a carbon source.  It is often speculated that ''Streptococcus'' and ''Staphylococcus'' pathogens use hyaluronidase as a [[virulence factor]] to destroy the polysaccharide that holds animal cells together, making it easier for the pathogen to spread through the tissues of the host organism, but no valid experimental data are available to support this hypothesis.
+
+Hyaluronidases are found in the [[venom]] of certain lizards and snakes, as well as honeybees, where they are referred to as "spreading factors", having a function akin to bacterial hyaluronidases.<ref>{{cite journal|last1=Isoyama|first1=T.|title=Differential selectivity of hyaluronidase inhibitors toward acidic and basic hyaluronidases|journal=Glycobiology|date=13 July 2005|volume=16|issue=1|pages=11–21|doi=10.1093/glycob/cwj036|pmid=16166602}}</ref>
+
+==Role in fertilization==
+In most mammalian [[fertilization]], hyaluronidase is released by the [[acrosome]] of the [[Spermatozoon|sperm]] cell after it has reached the [[oocyte]], by digesting hyaluronan in the [[Corona radiata (embryology)|corona radiata]], thus enabling [[Conception (biology)|conception]]. Gene-targeting studies show that hyaluronidases such as PH20 are not essential for fertilization{{citation needed|date=January 2017}}, although exogenous hyaluronidases can disrupt the cumulus matrix.
+
+The majority of mammalian ova are covered in a layer of granulosa cells intertwined in an ECM that contains a high concentration of hyaluronan. When a capacitated sperm reaches the ovum, it is able to penetrate this layer with the assistance of hyaluronidase enzymes present on the surface of the sperm. Once this occurs, the sperm is capable of binding with the zona pellucida, and the acrosome reaction can occur.<ref name="isbn0-8153-4105-9">{{cite book | author = Alberts, Bruce | title = Molecular biology of the cell | edition = | language = | publisher = Garland Science | location = New York | year = 2008 | origyear = | pages = 1298 | quote = | isbn = 0-8153-4105-9 | oclc = | doi = | url = | accessdate = }}</ref>
+
+==References==
+{{reflist |2}}
+
+==External links==
+* {{MeshName|Hyaluronidase}}
+
+{{Sugar hydrolases}}
+{{Enzymes}}
+{{Portal bar|Molecular and Cellular Biology|border=no}}
+
+[[Category:EC 3.2.1]]
+[[Category:Extracellular matrix remodeling enzymes]]

@@ -1,0 +1,121 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 407631517
+| IUPAC_name = Chloromethyl 17-ethoxycarbonyloxy-11-hydroxy-10,13-dimethyl-3-oxo-7,8,9,11,12,14,15,16-octahydro-6''H''-cyclopenta[''a'']phenanthrene-17-carboxylate
+| image = Loteprednol etabonate.svg
+| drug_name = Loteprednol etabonate
+<!-- Clinical data -->
+| tradename = Lotemax
+| Drugs.com = {{drugs.com|CONS|loteprednol}}
+| MedlinePlus = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = C
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = Rx-only
+| legal_status = 
+| routes_of_administration = Eye drops
+<!-- Pharmacokinetic data -->
+| bioavailability = None
+| protein_bound = 95%
+| onset = ≤2 hrs ([[allergic conjunctivitis]])
+| metabolism = [[Ester hydrolysis]]
+| metabolites = Δ<sup>1</sup>-cortienic acid and its etabonate
+| elimination_half-life = 2.8 hrs
+| excretion = 
+<!-- Identifiers -->
+| IUPHAR_ligand = 7085
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 82034-46-6
+| ATC_prefix = S01
+| ATC_suffix = BA14
+| ATC_supplemental =  
+| PubChem = 444025
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB00873
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 392049
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = Z8CBU6KR16
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01689
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201389
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 31784
+| synonyms = 11β,17α,Dihydroxy-21-oxa-21-chloromethylpregna-1,4-diene-3,20-dione 17α-ethylcarbonate
+<!-- Chemical data -->
+| C=24 | H=31 | Cl=1 | O=7
+| molecular_weight = 466.951 g/mol
+| smiles = CCOC(=O)O[C@@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2CCC4=CC(=O)C=C[C@]34C)O)C)C(=O)OCCl
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI=1S/C24H31ClO7/c1-4-30-21(29)32-24(20(28)31-13-25)10-8-17-16-6-5-14-11-15(26)7-9-22(14,2)19(16)18(27)12-23(17,24)3/h7,9,11,16-19,27H,4-6,8,10,12-13H2,1-3H3/t16-,17-,18-,19+,22-,23-,24-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = DMKSVUSAATWOCU-HROMYWEYSA-N
+| melting_point = 220.5
+| melting_high  = 223.5
+| solubility    = 0.0005
+}}
+
+'''Loteprednol''' (as the [[ester]] '''loteprednol etabonate''') is a [[corticosteroid]] used to treat inflammations of the eye. It is marketed by [[Bausch and Lomb]] as '''Lotemax'''<ref name="AC" /> and '''Loterex'''.
+
+==Medical uses==
+Applications for this drug include the reduction of [[inflammation]] after eye surgery,<ref name="AC" /> seasonal [[allergic conjunctivitis]], [[uveitis]],<ref name="Drugs.com" /> as well as chronic forms of [[keratitis]] (e.g. [[adenovirus|adenoviral]] and [[Thygeson's superficial punctate keratopathy|Thygeson's keratitis]]), [[vernal keratoconjunctivitis]], [[Pinguecula|pingueculitis]], and [[episcleritis]].{{citation needed|date=June 2016}}
+
+==Contraindications==
+As corticosteroids are [[immunosuppressive]], loteprednol is contraindicated in patients with [[virus|viral]], [[fungal]] or [[mycobacterial]] infections of the eye.<ref name="AC" /><ref name="Drugs.com" /><ref name="Dinnendahl" />
+
+==Adverse effects==
+Common adverse effects include foreign body sensation in the eye, dry eye and [[epiphora (medicine)|epiphora]] (overflow of tears), [[chemosis]] (swelling of the [[conjunctiva]]), headache, and itching. Increased [[intraocular pressure]] (IOP), a side effect typical of corticosteroids, occurs in about 2% of patients<ref name="AC" /><ref name="Drugs.com" /> (compared to 7% under [[prednisolone acetate]], an older anti-inflammatory agent which is prescribed after eye surgery, and 0.5% under [[placebo]]).<ref name="Dinnendahl" />  Loteprednol is also far less likely to cause elevated IOP compared to [[dexamethasone]].{{fact|date=October 2016}}
+
+==Interactions==
+The effect of drugs lowering intraocular pressure may be reduced. Loteprednol is not detectable in the bloodstream; so interactions with systemic drugs are highly unlikely.<ref name="AC" />
+
+==Pharmacology==
+
+===Mechanism of action===
+{{main article|Glucocorticoid#Mechanism of action}}
+
+===Pharmacokinetics===
+Neither loteprednol etabonate nor its inactive [[metabolite]]s Δ<sup>1</sup>-[[cortienic acid]] and Δ<sup>1</sup>-cortienic acid [[etabonate]] are detectable in the bloodstream, even after [[oral administration]]. A study with patients receiving loteprednol eye drops over 42 days showed no [[adrenal suppression]], which would be a sign of the drug reaching the bloodstream to a clinically relevant extent.<ref name="AC" />
+
+[[Steroid receptor]] affinity was 4.3 times that of [[dexamethasone]] in animal studies.<ref name="AC" />
+
+===Retrometabolic drug design===
+Loteprednol etabonate was developed using [[retrometabolic drug design]]. It is a so-called soft drug, meaning its structure was designed so that it is predictably metabolised to inactive substances. These metabolites, Δ<sup>1</sup>-cortienic acid and its etabonate, are derivatives of cortienic acid, itself an inactive metabolite of [[hydrocortisone]].<ref name="AC" /><ref name="Dinnendahl" /><ref name="Dekker" />
+
+<gallery>
+File:Delta1-cortienic acid skeletal.svg|Δ<sup>1</sup>-Cortienic acid, inactive metabolite of loteprednol
+File:Cortienic acid skeletal.svg|Cortienic acid, inactive metabolite of [[hydrocortisone]]
+File:Cortisol2.svg|Hydrocortisone, the "parent compound" of corticosteroids
+</gallery>
+
+==Chemistry==
+Loteprednol etabonate is an ester of loteprednol with [[etabonate]] (ethyl carbonate), with a melting point between {{convert|220.5|C|F}} and {{convert|223.5|C|F}}. Its solubility in water is 1:2,000,000.<ref name="Dinnendahl" /> The [[ketone]] in the side chain of classical corticosteroids such as hydrocortisone is replaced by a cleavable ester, which accounts for the rapid inactivation.<ref name="Pavesio" /> (This is not the same as the etabonate ester.)
+
+===Chemical synthesis===
+{{expand section|date=June 2016}}
+[[File:Loteprednol.png|500px]]
+<ref name="Druzgala" />
+
+==References==
+{{reflist|refs=
+<ref name="Drugs.com">Loteprednol {{Drugs.com|ppa|loteprednol}}.</ref>
+<ref name="AC">{{cite book|title=Austria-Codex|editor=Haberfeld, H.|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2015|language=German}}</ref>
+<ref name="Dinnendahl">{{cite book|title=Arzneistoff-Profile|editor1=Dinnendahl, V.|editor2=Fricke, U.|publisher=Govi Pharmazeutischer Verlag|location=Eschborn, Germany|date=2008|edition=22|volume=6|isbn=978-3-7741-9846-3|language=German}}</ref>
+<ref name="Druzgala">{{cite journal |author1=Druzgala, P. |author2=Hochhaus, G. |author3=Bodor, N. | title = Soft drugs—10. Blanching activity and receptor binding affinity of a new type of glucocorticoid: Loteprednol etabonate | journal = J. Steroid Biochem. Mol. Biol. | date = 1991 | volume = 38 | issue = 2 | pages = 149–54 | doi = 10.1016/0960-0760(91)90120-T| pmid = 2004037 }}</ref>
+<ref name="Dekker">{{cite book|title=Inhaled Steroids in Asthma. Optimizing Effects in the Airways|year=2002|publisher=Marcel Dekker, New York|pages=541–564|author=Bodor, N.|chapter=Design and development of a soft corticosteroid, loteprednol etabonate|author2=Buchwald, P. |editor=Schleimer, R.P. |editor2=O'Byrne, P.M. |editor3=Szefler, S.J. |editor4=Brattsand, R.|work=Lung Biology in Health and Disease, Vol. 163}}</ref>
+<ref name="Pavesio">{{cite journal|last=Pavesio|first=C.E.|year=2008|title=Treatment of ocular inflammatory conditions with loteprednol etabonate|journal=Br J Ophthalmol|volume=92|pages=455–459|doi=10.1136/bjo.2007.132621|pmid=18245274|last2=Decory|first2=H.H.|issue=4}}</ref>
+}}
+
+==Further reading==
+* {{cite journal|last=Steward|first=R.|date=November 1998|title=Double-masked, placebo-controlled evaluation of loteprednol etabonate 0.5% for postoperative inflammation. Loteprednol Etabonate Post-operative Inflammation Study Group 1|journal=J Cataract Refract Surg|volume=24|issue=11|pages=1480–1489|display-authors=etal|pmid=9818338}}
+
+{{Glucocorticoids}}
+{{Glucocorticoidics}}
+
+[[Category:Ophthalmology drugs]]
+[[Category:Corticosteroids]]
+[[Category:Organochlorides]]

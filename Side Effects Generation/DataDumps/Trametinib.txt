@@ -1,0 +1,73 @@
+{{Drugbox
+| drug_name = 
+| IUPAC_name        = ''N''-(3-<nowiki/>{3-Cyclopropyl-5-[(2-fluoro-4-iodophenyl)amino]-6,8-dimethyl-2,4,7-trioxo-3,4,6,7-tetrahydropyrido[4,3-d]pyrimidin-1(2''H'')-yl}phenyl)acetamide
+| image             = Trametinib.svg
+| alt               = 
+| caption           = 
+
+<!-- Clinical data -->
+| tradename         = Mekinist 
+| Drugs.com         = 
+| MedlinePlus       = 
+| pregnancy_AU      = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US      = D 
+| pregnancy_category= 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = Rx-only
+| legal_status      = 
+| routes_of_administration = 
+
+<!-- Pharmacokinetic data -->
+| bioavailability   = 
+| protein_bound     = 
+| metabolism        = 
+| elimination_half-life = 
+| excretion         = 
+
+<!-- Identifiers -->
+| CAS_number        = 871700-17-3
+| ATCvet            = 
+| ATC_prefix        = L01
+| ATC_suffix        = XE25
+| PubChem           = 11707110
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 33E86K87QN
+| DrugBank          = 
+| ChemSpiderID      = 9881833
+| ChEMBL = 2103875
+| ChEBI             = 75998
+| synonyms          = GSK1120212
+| KEGG = D10175
+
+<!-- Chemical data -->
+| C=26 | H=23 | F=1 | I=1 | N=5 | O=4
+| molecular_weight  = 615.39 g/mol
+| smiles            = Ic1ccc(c(F)c1)N\C3=C\2/C(=O)N(C(=O)N(C/2=C(\C(=O)N3C)C)c4cccc(NC(=O)C)c4)C5CC5
+| StdInChI = 1S/C26H23FIN5O4/c1-13-22-21(23(31(3)24(13)35)30-20-10-7-15(28)11-19(20)27)25(36)33(17-8-9-17)26(37)32(22)18-6-4-5-16(12-18)29-14(2)34/h4-7,10-12,17,30H,8-9H2,1-3H3,(H,29,34)
+| StdInChIKey          = LIRYPHYGHXZJBZ-UHFFFAOYSA-N
+}}
+
+'''Trametinib''' (trade name '''Mekinist''') is a cancer drug.  It is a [[MEK inhibitor]] drug with anti-cancer activity.<ref name=nci>[http://www.cancer.gov/drugdictionary?cdrid=599034 Trametinib], NCI Drug Dictionary</ref>
+
+It inhibits [[MEK1]] and [[MEK2]].<ref name=nci/>
+
+Trametinib had good results for metastatic [[melanoma]] carrying the [[BRAF (gene)|BRAF]] [[V600E]] mutation in a phase III clinical trial. In this mutation, the amino acid [[valine]] (V) at position 600 within the BRAF protein has become replaced by [[glutamic acid]] (E) making the mutant BRAF protein constitutively active.<ref>[http://www.asco.org/ASCOv2/Meetings/Abstracts?&vmview=abst_detail_view&confID=114&abstractID=96304 METRIC phase III study: Efficacy of trametinib (T), a potent and selective MEK inhibitor (MEKi), in progression-free survival (PFS) and overall survival (OS), compared with chemotherapy (C) in patients (pts) with BRAFV600E/K mutant advanced or metastatic melanoma (MM).]</ref>
+
+In May 2013, trametinib was approved as a single-agent by the [[Food and Drug Administration]] for the treatment of patients with V600E mutated metastatic melanoma.<ref>{{cite news | url = https://www.reuters.com/article/2013/05/30/us-glaxosmithkline-approvals-idUSBRE94S1A020130530 | title = GSK melanoma drugs add to tally of U.S. drug approvals | publisher = Reuters | date = May 30, 2013}}</ref> 
+Clinical trial data demonstrated that resistance to single-agent trametinib often occurs within 6 to 7 months.<ref name="NEJM">{{cite journal | url = http://www.nejm.org/doi/full/10.1056/NEJMoa1210093 | title = Combined BRAF and MEK Inhibition in Melanoma with BRAF V600 Mutations | publisher = New England Journal of Medicine | date = November 1, 2012 | doi=10.1056/NEJMoa1210093 | pmid=23020132 | pmc=3549295 | volume=367 | issue=18 | pages=1694–703}}</ref> To overcome this, trametinib was combined with the [[BRAF (gene) | BRAF]] inhibitor [[dabrafenib]].<ref name="NEJM" /> As a result of this research, on January 8, 2014, the FDA approved the combination of dabrafenib and trametinib for the treatment of patients with BRAF V600E/K-mutant metastatic melanoma.<ref>{{cite news | url = http://www.onclive.com/web-exclusives/FDA-Approves-First-Ever-Combination-for-Metastatic-Melanoma | title = Dabrafenib/Trametinib Combination Approved for Advanced Melanoma | publisher = OncLive | date = January 9, 2014}}</ref>
+
+==References==
+{{reflist}}
+
+{{Extracellular chemotherapeutic agents}}
+
+[[Category:Cancer treatments]]
+[[Category:Cyclopropanes]]
+[[Category:Fluoroarenes]]
+[[Category:Iodoarenes]]
+[[Category:Acetanilides]]
+[[Category:MEK inhibitor]]
+
+{{antineoplastic-drug-stub}}

@@ -1,0 +1,83 @@
+{{distinguish2|[[Betaxolol]], a selective β<sub>1</sub>-adrenergic receptor antagonist}}
+
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 459977851
+| ImageFile1 = Betazole.svg
+| ImageSize1 = 180px
+| ImageFile2 = Betazole 3D.png
+| ImageSize2 = 180px
+| IUPACName = 2-(1''H''-pyrazol-5-yl)ethanamine
+| OtherNames =
+
+|Section1 = {{Chembox Identifiers
+| IUPHAR_ligand = 7126
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 7455
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201323
+| DrugBank = DB00272
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 1C065P542O
+| InChI = 1/C5H9N3/c6-3-1-5-2-4-7-8-5/h2,4H,1,3,6H2,(H,7,8)
+| InChIKey = JXDFEQONERDKSS-UHFFFAOYAY
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C5H9N3/c6-3-1-5-2-4-7-8-5/h2,4H,1,3,6H2,(H,7,8)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = JXDFEQONERDKSS-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo = 105-20-4
+| PubChem = 7741
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 59170
+| SMILES = n1ccc(n1)CCN
+}}
+
+|Section2 = {{Chembox Properties
+| C=5 | H=9 | N=3
+| MolarMass = 111.145 g/mol
+| Appearance =
+| Density =
+| MeltingPt =
+| BoilingPt =
+| Solubility =
+ }}
+
+|Section7 = {{Chembox Hazards
+| MainHazards =
+| FlashPt =
+| AutoignitionPt =
+ }}
+
+|Section6 = {{Chembox Pharmacology
+| Bioavail =
+| Metabolism =
+| HalfLife =
+| Excretion =
+| Pregnancy_category =
+| AdminRoutes =
+| ATCCode_prefix = V04
+| ATCCode_suffix = CG02
+}}
+}}
+
+'''Betazole''' (also known as '''ametazole''') is a histamine [[histamine H2 receptor|H<sub>2</sub> receptor]] [[agonist]]. Betazole hydrochloride is known as '''gastramine''' and '''histalog'''.
+
+It has been used as a gastric stimulant to test for maximal production of [[gastric secretion]] activity.<ref>{{cite journal | author =Wruble LD Cummins AJ Goldenberg J Schapiro H| title =The effect of intravenous histalog on gastric secretion in man | journal =Digestive Diseases and Sciences | year = 1967 | volume =12 | issue =11 | pages =1087–1090 | doi = 10.1007/BF02233873| url = http://www.springerlink.com/content/lx0747711465t346/ | pmid=6057052}}</ref> The test can be used in diagnosis of diseases such as [[Zollinger-Ellison syndrome]] where there is excess acid production, in this case driven by over production of [[gastrin]]. The volume of acid secretion is measured following administration of betazole, diagnosis being secretion greater than 60% of the maximal acid secretion following betazole stimulation. This procedure can lead to complications and should be avoided in subjects with [[coronary artery disease]].<ref>{{cite journal | author =Stoller JL Holubitsky IB Harrison RC Munro AI| title =Complications of the histalog test of gastric acid secretion | journal =Digestive Diseases and Sciences | year = 1970 | volume =15 | issue =7 | pages = 647–651 | doi = 10.1007/BF02236024| url = http://www.springerlink.com/content/y02538734w75pjm3/ | pmid=4951403}}</ref> It is also used in diagnosis of [[gastritis]] in association with a test for [[secretin]] activity.
+
+Betazole is used as a stimulant in preference to histamine because of its specificity for the [[histamine H2 receptor|H<sub>2</sub> receptor]] and its advantage of not generating the undesirable side effects that histamine would induce. It therefore does not require concomitant use of antihistaminic compounds to block the actions of histamine at other histamine receptor types.
+
+Its action in stimulating histamine release can be of use when testing the effectiveness of H<sub>2</sub> receptor blocking drugs such as [[nizatidine]].<ref>{{cite journal | author =Hammond JB, Offen WW| title =Effect of nizatidine and cimetidine on betazole-stimulated gastric secretion of normal subjects: comparison of effects on acid, water, and pepsin. |journal =Am J Gastroenterol.|year =1988 |volume =83 |pages = 32–6 | pmid =2892392 | issue =1}}</ref>
+
+==References==
+<references/>
+
+{{Histaminergics}}
+{{Diagnostic agents}}
+
+[[Category:Amines]]
+[[Category:Pyrazoles]]
+
+{{gastrointestinal-drug-stub}}

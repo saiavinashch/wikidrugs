@@ -1,0 +1,65 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 449584845
+| IUPAC_name = (''RS'')-2-(4-imidazo[1,2-''a'']pyridin-2-ylphenyl)propanoic acid
+| image = Miroprofen.svg
+| width = 250px
+| chirality = [[Racemic mixture]]
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 55843-86-2
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 68752
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 76249 
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 61997
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = S00I5XG484
+
+<!--Chemical data-->
+| C=16 | H=14 | N=2 | O=2 
+| molecular_weight = 266.295 g/mol
+| smiles = O=C(O)C(c3ccc(c1nc2ccccn2c1)cc3)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H14N2O2/c1-11(16(19)20)12-5-7-13(8-6-12)14-10-18-9-3-2-4-15(18)17-14/h2-11H,1H3,(H,19,20)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OJGQFYYLKNCIJD-UHFFFAOYSA-N
+| synonyms = Antopen; BRN 0888858; NSC 261037; Ro 07-0582; Y 9213; <small>2-[4-(1,7-diazabicyclo[4.3.0]nona-2,4,6,8-tetraen-8-yl)phenyl]propanoic acid</small>
+}}
+
+'''Miroprofen''' ([[International Nonproprietary Name|INN]]) is an [[analgesic]] and [[Non-steroidal anti-inflammatory drug|NSAID]], meaning that it has [[anti-inflammatory]], [[antipyretic]] and [[Antiplatelet drug|antiplatelet aggregation]] activity. Chemically it is a [[carbocycle|carbocyclic]] acid and a [[phenylpropionate]].<ref name="Mikashima-1982">{{Cite journal  | last1 = Mikashima | first1 = H. | last2 = Goto | first2 = K. | title = [Inhibitory effect of 2-(4-(2-imidazo(1,2-a)pyridyl)phenyl) propionic acid (miroprofen) on platelet aggregation and prostaglandin I2 generation (author's transl)] | journal = Yakugaku Zasshi | volume = 102 | issue = 1 | pages = 99–103 |date=Jan 1982 | doi =  | pmid = 7045328 }}</ref>
+
+==References==
+<references/>
+
+{{NSAIDs}}
+{{Prostanoidergics}}
+
+[[Category:Nonsteroidal anti-inflammatory drugs]]
+[[Category:Imidazopyridines]]
+
+
+{{musculoskeletal-drug-stub}}

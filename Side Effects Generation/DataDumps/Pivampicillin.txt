@@ -1,0 +1,70 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464208299
+| IUPAC_name = 2,2-Dimethylpropanoyloxymethyl&nbsp;(2''S'',5''R'',6''R'')-6-{[(2''R'')-2-amino-2-phenyl-acetyl]amino}-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate
+| image = Pivampicillin.svg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|pivampicillin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_CA = <!--                             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion = [[Kidney|Renal]] (76%)
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 33817-20-8
+| ATC_prefix = J01
+| ATC_suffix = CA02
+| PubChem = 33478
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01604
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 30899
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0HLM346LL7
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08396
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 8255
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 323354
+<!--Chemical data-->
+| C=22 | H=29 | N=3 | O=6 | S=1
+| molecular_weight = 463.548 g/mol
+| smiles = O=C(OCOC(=O)C(C)(C)C)[C@@H]2N3C(=O)[C@@H](NC(=O)[C@@H](c1ccccc1)N)[C@H]3SC2(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H29N3O6S/c1-21(2,3)20(29)31-11-30-19(28)15-22(4,5)32-18-14(17(27)25(15)18)24-16(26)13(23)12-9-7-6-8-10-12/h6-10,13-15,18H,11,23H2,1-5H3,(H,24,26)/t13-,14-,15+,18-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ZEMIJUDPLILVNQ-ZXFNITATSA-N
+}}
+
+'''Pivampicillin''' is a [[pivaloyloxymethyl]] [[ester]] of [[ampicillin]]. It is a [[prodrug]], which is thought to enhance the oral [[bioavailability]] of ampicillin because of its greater [[lipophilicity]] compared to that of ampicillin.
+
+==Adverse effects==
+Prodrugs that release [[pivalic acid]] when broken down by the body—such as pivampicillin, [[pivmecillinam]] and [[cefditoren pivoxil]]—have long been known to deplete levels of [[carnitine]].<ref>{{cite journal |author=Holme E |title=Carnitine deficiency induced by pivampicillin and pivmecillinam therapy |journal=Lancet |volume=2 |issue=8661 |pages=469–73 |date=August 1989 |pmid=2570185 |doi= 10.1016/S0140-6736(89)92086-2|url=http://linkinghub.elsevier.com/retrieve/pii/S0140-6736(89)92086-2 |name-list-format=vanc|author2=Greter J |author3=Jacobson CE |display-authors=3 |last4=Greter |first4=Joachim |last5=Lindstedt |first5=Sven |last6=Kristiansson |first6=Bengt |last7=Jodal |first7=Ulf}}</ref><ref name=Brass>{{cite journal |author=Brass EP |title=Pivalate-generating prodrugs and carnitine homeostasis in man |journal=Pharmacol Rev |volume=54 |issue=4 |pages=589–98 |date=December 2002 |pmid=12429869 |doi= 10.1124/pr.54.4.589|url=http://pharmrev.aspetjournals.org/cgi/pmidlookup?view=long&pmid=12429869}}</ref> This is not due to the drug itself, but to pivalate, which is mostly removed from the body by forming a conjugate with carnitine. Although short-term use of these drugs can cause a marked decrease in blood levels of carnitine,<ref>{{cite journal |vauthors=Abrahamsson K, Holme E, Jodal U, Lindstedt S, Nordin I |title=Effect of short-term treatment with pivalic acid containing antibiotics on serum carnitine concentration—a risk irrespective of age |journal=Biochem. Mol. Med. |volume=55 |issue=1 |pages=77–9 |date=June 1995 |pmid=7551831 |doi= 10.1006/bmme.1995.1036|url=http://linkinghub.elsevier.com/retrieve/pii/S1077315085710368}}</ref> it is unlikely to be of clinical significance;<ref name=Brass/> long-term use, however, appears problematic and is not recommended.<ref name=Brass/><ref>{{cite journal |vauthors=Holme E, Jodal U, Linstedt S, Nordin I |title=Effects of pivalic acid-containing prodrugs on carnitine homeostasis and on response to fasting in children |journal=Scand J Clin Lab Invest |volume=52 |issue=5 |pages=361–72 |date=September 1992 |pmid=1514015 |doi= 10.3109/00365519209088371|url=}}</ref><ref>{{cite journal |vauthors=Makino Y, Sugiura T, Ito T, Sugiyama N, Koyama N |title=Carnitine-associated encephalopathy caused by long-term treatment with an antibiotic containing pivalic acid |journal=Pediatrics |volume=120 |issue=3 |pages=e739–41 |date=September 2007 |pmid=17724113 |doi=10.1542/peds.2007-0339}}</ref>
+
+==Availability==
+Worldwide, pivampicillin is only available in Denmark, where it is sold as Pondocillin® by [[PharmaCoDane]], or Miraxid® by [[LEO Pharma]].<ref>{{cite web|title=Pondocillin®|url=https://pro.medicin.dk/Medicin/Praeparater/524|accessdate=2016-09-18}}</ref>
+
+==References==
+{{Reflist}}
+
+{{PenicillinAntiBiotics}}
+
+[[Category:Penicillins]]
+[[Category:Prodrugs]]
+
+
+{{antibiotic-stub}}

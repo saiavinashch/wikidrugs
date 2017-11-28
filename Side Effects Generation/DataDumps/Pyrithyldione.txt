@@ -1,0 +1,128 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 464377493
+| IUPAC_name = 3,3-diethylpyridine-2,4(1''H'',3''H'')-dione
+| image = pyrithyldione.png
+| width = 120px
+| image2 = Pyrithyldione ball-and-stick.png
+| width2 = 120px
+
+<!--Clinical data-->
+| tradename =   Benedorm, Didropyridine, Dihydroprylone, Persedon, Presidon, Pyridion, Pyridione, Pyrithyldion, Pyrithyldione, Tetridin, Tetridine 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 77-04-3
+| ATC_prefix = N05
+| ATC_suffix = CE03
+| PubChem = 4994
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1722501
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4820
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 8AB20823CK
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07329
+
+<!--Chemical data-->
+| C=9 | H=13 | N=1 | O=2 
+| molecular_weight = 167.205 g/mol
+| smiles = O=C1N/C=C\C(=O)C1(CC)CC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C9H13NO2/c1-3-9(4-2)7(11)5-6-10-8(9)12/h5-6H,3-4H2,1-2H3,(H,10,12)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = NZASCBIBXNPDMH-UHFFFAOYSA-N
+}}
+
+'''Pyrithyldione''' (Presidon, Persedon) is a [[psychoactive drug]] invented in 1949.<ref>{{Cite journal 
+| last1 = Becker  | first1 = E. L. 
+| last2 = Fabing  | first2 = H. D. 
+| last3 = Hawkins | first3 = J. R. 
+| title = Presidon; A New Sedative-Hypnotic 
+| journal = Christ Hospital Medical Bulletin 
+| volume = 2 
+| issue = 4 
+| pages = 80–84 
+| year = 1949 
+| pmid = 18144514
+}}</ref>
+An improved method of manufacture was patented by Roche in 1959.<ref>
+{{ cite patent 
+| country = US 
+| status  = patent 
+| number  = 3019230 
+| invent1 = Hinderling, R. 
+| invent2 = Lutz, A. H.
+| invent3 = Schnider, O. 
+| assign1 = Hoffmann-La Roche 
+| title   = Method for the preparation of 2,4-dioxo-tetrahydropyridines 
+| gdate   = 1962-01-30
+}}</ref> It was used as a [[hypnotic]] or [[sedative]] and presumed to be less toxic than [[barbiturates]].<ref>{{Cite journal | last1   = Pribilla | first1 = O. | doi     = 10.1007/BF00577351 | title   = Zur Toxikologie des Persedons | journal = Archiv für Toxikologie | volume  = 16 | issue   = 1| pages   = 34–49 | year    = 1956 }}</ref> Today, this substance is no longer used. [[Agranulocytosis]] was sometimes reported as [[adverse effect]].<ref>{{Cite journal 
+| last1   = Ibáñez   | first1 = L. 
+| last2   = Ballarín | first2 = E. 
+| last3   = Pérez    | first3 = E. 
+| last4   = Vidal    | first4 = X. 
+| last5   = Capellà  | first5 = D. 
+| last6   = Laporte  | first6 = J. R. 
+| title   = Agranulocytosis Induced by Pyrithyldione, a Sedative Hypnotic Drug 
+| journal = European Journal of Clinical Pharmacology 
+| volume  = 55 
+| issue   = 10 
+| pages   = 761–764 
+| year    = 2000 
+| pmid    = 10663456
+| doi     = 10.1007/s002280050011
+}}</ref><ref>
+{{Cite journal 
+| last1 = Covner | first1 = A. H. 
+| last2 = Halpern | first2 = S. L. 
+| doi = 10.1056/NEJM195001122420203 
+| title = Fatal Agranulocytosis Following Therapy with Presidon (3,3-Diethyl-2,4-Dioxotetrahydropyridine), a New Sedative Hypnotic Agent 
+| journal = New England Journal of Medicine 
+| volume = 242 
+| issue = 2 
+| pages = 49–52 
+| year = 1950 
+| pmid = 15399031 
+| pmc = 
+}}</ref>
+
+== See also ==
+* [[Methyprylon]]
+* [[Piperidione]]
+* [[Glutethimide]]
+
+== References ==
+{{Reflist}}
+
+{{Hypnotics and sedatives}}
+{{GABAAR PAMs}}
+
+[[Category:Hypnotics]]
+[[Category:Lactams]]
+[[Category:Ketones]]
+[[Category:Piperidines]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:Abandoned drugs]]
+
+
+{{sedative-stub}}

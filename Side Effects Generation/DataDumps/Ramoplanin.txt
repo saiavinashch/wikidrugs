@@ -1,0 +1,73 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 307712718
+| IUPAC_name =  
+| image = Ramoplanin A2.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 76168-82-6
+| ATC_prefix = none
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem = 16132338
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 0WX9996O2G
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1095892
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 17286439
+|  ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 29670
+|  KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = C12008
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=119 | H=154 | Cl=1 | N=21 | O=40 
+| molecular_weight = 2554.07 g/mol
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C119H154ClN21O40/c1-54(2)17-11-9-14-22-82(153)127-77(50-81(123)152)107(166)141-93-99(101(124)160)180-117(176)92(66-33-44-78(151)72(120)49-66)140-102(161)56(5)126-105(164)75(47-55(3)4)128-83(154)51-125-108(167)87(61-23-34-67(147)35-24-61)136-111(170)86(59(8)146)134-113(172)89(65-31-42-71(43-32-65)177-119-100(97(158)95(156)80(53-143)179-119)181-118-98(159)96(157)94(155)79(52-142)178-118)135-104(163)73(20-15-45-121)129-106(165)76(48-60-18-12-10-13-19-60)131-109(168)84(57(6)144)133-114(173)90(63-27-38-69(149)39-28-63)138-115(174)91(64-29-40-70(150)41-30-64)137-110(169)85(58(7)145)132-103(162)74(21-16-46-122)130-112(171)88(139-116(93)175)62-25-36-68(148)37-26-62/h9-14,18-19,22-44,49,54-59,73-77,79-80,84-100,118-119,142-151,155-159H,15-17,20-21,45-48,50-53,121-122H2,1-8H3,(H2,123,152)(H2,124,160)(H,125,167)(H,126,164)(H,127,153)(H,128,154)(H,129,165)(H,130,171)(H,131,168)(H,132,162)(H,133,173)(H,134,172)(H,135,163)(H,136,170)(H,137,169)(H,138,174)(H,139,175)(H,140,161)(H,141,166)/b11-9+,22-14-/t56-,57+,58-,59-,73-,74-,75+,76+,77+,79-,80-,84+,85-,86-,87+,88-,89+,90-,91+,92+,93+,94-,95-,96+,97+,98+,99+,100+,118-,119+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = KGZHFKDNSAEOJX-WIFQYKSHSA-N
+| smiles            = C[C@@H]1C(=O)N[C@H](C(=O)O[C@@H]([C@@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N1)CC(C)C)c2ccc(cc2)O)[C@@H](C)O)c3ccc(cc3)O[C@@H]4[C@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O[C@@H]5[C@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)CCCN)Cc6ccccc6)[C@H](C)O)c7ccc(cc7)O)c8ccc(cc8)O)[C@@H](C)O)CCCN)c9ccc(cc9)O)NC(=O)[C@H](CC(=O)N)NC(=O)/C=C\C=C\CC(C)C)C(=O)N)c1ccc(c(c1)Cl)O
+}}
+
+'''Ramoplanin''' ([[International Nonproprietary Name|INN]]) is a glycolipodepsipeptide [[antibiotic]] drug derived from strain ATCC 33076 of ''[[Actinoplanes]]''.<ref>Farver DK, Hedge DD, Lee SC. Ramoplanin: a lipoglycodepsipeptide antibiotic. ''Annals of Pharmacotherapy''. 2005 May;39(5):863-8. {{PMID|15784805}}</ref> 
+
+== Mechanism ==
+It exerts its bacteriocidal effect by inhibiting [[cell wall]] biosynthesis, acting by inhibiting the transglycosylation step of [[peptidoglycan]] synthesis.<ref>Fang X, Tiyanont K, Zhang Y, Wanner J, Boger D, Walker S. The mechanism of action of ramoplanin and enduracidin. ''Molecular Biosystems''. 2006 Jan;2(1):69-76. {{PMID|16880924}}</ref> 
+
+== Uses ==
+Its development has been fast-tracked by the [[U.S. Food and Drug Administration]] as a treatment for multiple antibiotic-resistant ''[[Clostridium difficile colitis|Clostridium difficile]]'' infection of the [[gastrointestinal tract]],<ref>Fulco P, Wenzel RP. Ramoplanin: a topical lipoglycodepsipeptide antibacterial agent. ''Expert Review of Anti Infective Therapy''. 2006 Dec;4(6):939-45. {{PMID|17181409}}</ref> Unlike [[Vancomycin]], it is absorbed in the gastrointestinal tract, although it is unstable in the bloodstream, so can be taken only orally against Clostridium difficile infections of the gastrointestinal tract.<ref>Scheinfeld N. A comparison of available and investigational antibiotics for complicated skin infections and treatment-resistant Staphylococcus aureus and enterococcus. ''Journal of Drugs in Dermatology''. 2007 Jan;6(1):97-103. {{PMID|17373167}}</ref><ref>Balagopal A, Sears CL. Clostridium difficile: new therapeutic options. ''Current Opinion in Pharmacology''. 2007 Oct;7(5):455-8. {{PMID|17644040}}</ref><ref>Gerding DN, Muto CA, Owens RC Jr. Treatment of Clostridium difficile infection. ''Clinical Infectious Diseases''. 2008 Jan 15;46 Suppl 1:S32-42. {{PMID|18177219}}</ref> 
+
+== References ==
+{{reflist}}
+
+{{Cell wall disruptive antibiotics}}
+
+[[Category:Antibiotics]]
+
+{{antibiotic-stub}}

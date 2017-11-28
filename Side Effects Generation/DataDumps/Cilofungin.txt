@@ -1,0 +1,67 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 444209640
+| ImageFile = Cilofungin.svg
+| ImageSize = 300px
+| IUPACName = ''N''-[(11''R'',20''R'',21''R'',25''S'',26''S'')-6-[(1''S'',2''S'')-1,2-Dihydroxy-2-(4-hydroxyphenyl)ethyl]-11,20,21,25-tetrahydroxy-3,15-bis(1-hydroxyethyl)-26-methyl-2,5,8,14,17,23-hexaoxo-1,4,7,13,16,22-hexaazatricyclo[22.3.0.0<sup>9,13</sup>]heptacosan-18-yl]-4-(octyloxy)benzamide
+| OtherNames = 1-[(4''R'',5''R'')-4,5-Dihydroxy-''N''<sup>2</sup>-[''p''-(octyloxy)benzoyl]-<small>L</small>-ornithine]echinocandin B<ref name="INN">{{cite web|title=International Nonproprietary Names for Pharmaceutical Substances (INN). Recommended International Nonproprietary Names (Rec. INN): List 29|url=http://www.who.int/medicines/publications/druginformation/innlists/RL29.pdf|publisher=World Health Organization}}</ref><br />
+(4''R'',5''R'')-4,5-Dihydroxy-''N''<sup>2</sup>-[''p''-(octyloxy)benzoyl]-<small>L</small>-ornithyl-<small>L</small>-threonyl-''trans''-4-hydroxy-<small>L</small>-prolyl-(''S'')-4-hydroxy-4-(''p''-hydroxyphenyl)-<small>L</small>-threonyl-<small>L</small>-threonyl-(3''S'',4''S'')-3-hydroxy-4-methyl-<small>L</small>-proline cyclic (6→1)-peptide<ref name="INN" />
+
+| Section1 = {{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 8ZJC54A39X
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo=79404-91-4
+| PubChem = 6918120
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2103748
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 5293334
+| SMILES = O=C2N5[C@H](C(=O)N[C@H](O)[C@H](O)C[C@H](NC(=O)c1ccc(OCCCCCCCC)cc1)C(=O)N[C@H](C(=O)N4[C@H](C(=O)N[C@H](C(=O)N[C@H]2[C@H](O)C)[C@H](O)[C@@H](O)c3ccc(O)cc3)C[C@@H](O)C4)[C@H](O)C)[C@@H](O)[C@@H](C)C5
+| InChI = 1/C49H71N7O17/c1-5-6-7-8-9-10-19-73-31-17-13-28(14-18-31)42(65)50-32-21-34(61)45(68)54-47(70)38-39(62)24(2)22-56(38)49(72)36(26(4)58)52-46(69)37(41(64)40(63)27-11-15-29(59)16-12-27)53-44(67)33-20-30(60)23-55(33)48(71)35(25(3)57)51-43(32)66/h11-18,24-26,30,32-41,45,57-64,68H,5-10,19-23H2,1-4H3,(H,50,65)(H,51,66)(H,52,69)(H,53,67)(H,54,70)/t24-,25+,26+,30+,32-,33-,34+,35-,36-,37-,38-,39-,40-,41-,45+/m0/s1
+| InChIKey = ZKZKCEAHVFVZDJ-MTUMARHDBF
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C49H71N7O17/c1-5-6-7-8-9-10-19-73-31-17-13-28(14-18-31)42(65)50-32-21-34(61)45(68)54-47(70)38-39(62)24(2)22-56(38)49(72)36(26(4)58)52-46(69)37(41(64)40(63)27-11-15-29(59)16-12-27)53-44(67)33-20-30(60)23-55(33)48(71)35(25(3)57)51-43(32)66/h11-18,24-26,30,32-41,45,57-64,68H,5-10,19-23H2,1-4H3,(H,50,65)(H,51,66)(H,52,69)(H,53,67)(H,54,70)/t24-,25+,26+,30+,32-,33-,34+,35-,36-,37-,38-,39-,40-,41-,45+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = ZKZKCEAHVFVZDJ-MTUMARHDSA-N
+| MeSHName = Cilofungin
+  }}
+
+| Section2 = {{Chembox Properties
+| C=49 | H=71 | N=7 | O=17
+| MolarMass = 1030.12474
+| Appearance =
+| Density =
+| MeltingPt =
+| BoilingPt =
+| Solubility =
+  }}
+
+| Section3 = {{Chembox Hazards
+| MainHazards =
+| FlashPt =
+| AutoignitionPt =
+  }}
+}}
+
+'''Cilofungin''' ([[International nonproprietary name|INN]])<ref name="INN" /> is the first clinically applied member of the [[echinocandin]] family of [[antifungal]] drugs. It was derived from a fungus in the genus ''[[Aspergillus]]''. It accomplishes this by interfering with an invading fungus' ability to synthesize the cell wall (specifically, it inhibits the synthesis of [[Beta-glucan|(1→3)-β-<small>D</small>-glucan]]).<ref>{{cite book
+  | last = Hudler
+  | first = George
+  | title = Magical Mushrooms, Mischievous Molds
+  | publisher = Princeton University Press
+  | date = 1998
+  | location = [[Princeton, New Jersey]]
+  | pages = 112
+  | isbn = 978-0-691-07016-2}}</ref>
+
+== References ==
+{{reflist}}
+
+{{antifungals}}
+
+[[Category:Abandoned drugs]]
+[[Category:Antifungals]]
+[[Category:Echinocandins]]
+
+{{antiinfective-drug-stub}}

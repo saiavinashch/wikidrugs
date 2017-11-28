@@ -1,0 +1,79 @@
+{{Drugbox
+| verifiedrevid = 408966679
+| IUPAC_name = ''N''-[(azepan-1-ylamino)carbonyl]-4-methylbenzenesulfonamide
+| image = Tolazamide.svg
+| image2 = Tolazamide ball-and-stick.png
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|monograph|tolazamide}}
+| MedlinePlus = a682482
+| licence_US = Tolazamide
+| pregnancy_AU = C
+| pregnancy_US = C
+| legal_US = Rx-only
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability = ?
+| metabolism = metabolized in the liver to active metabolites
+| elimination_half-life = 7 hours
+| excretion = [[Kidney|Renal]] (85%) and fecal (7%)
+<!--Identifiers-->
+| IUPHAR_ligand = 6847
+| CAS_number = 1156-19-0
+| ATC_prefix = A10
+| ATC_suffix = BB05
+| PubChem = 5503
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00839
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5302
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 9LT1BRO48Q
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00379
+| ChEBI = 9613
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 817
+<!--Chemical data-->
+| C=14 | H=21 | N=3 | O=3 | S=1
+| molecular_weight = 311.401 g/mol
+| SMILES = O=S(=O)(c1ccc(cc1)C)NC(=O)NN2CCCCCC2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C14H21N3O3S/c1-12-6-8-13(9-7-12)21(19,20)16-14(18)15-17-10-4-2-3-5-11-17/h6-9H,2-5,10-11H2,1H3,(H2,15,16,18)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OUDSBRTVNLOZBN-UHFFFAOYSA-N
+}}
+
+'''Tolazamide''' is an [[Wiktionary:oral|oral]] [[blood glucose]] lowering [[medication|drug]] used for people with [[Type 2 diabetes]]. It is part of the [[sulfonylurea (medicine)|sulfonylurea]] family (ATC A10BB).
+
+==Synthesis==
+[[para-toluenesulfonamide|''para''-Toluenesulfonamide]] is converted to its [[carbamate]] with [[ethyl chloroformate]] in the presence of a base. Heating that intermediate with [[azepane]] leads to the displacement of the ethoxy group and the formation of tolazemide:<ref>{{cite journal |author1=Wright, J. B. |author2=Willette, R. E. | journal = J. Med. Chem. | year = 1962 | volume = 5 | pages = 815–822 | doi = 10.1021/jm01239a016 | issue = 4}}</ref>
+
+[[File:Tolazamide synthesis.png|700px|center|thumb|Tolazemide synthesis:<ref>{{Cite journal
+ | pmid = 14056414
+| year = 1962
+| author1 = Wright
+| first1 = J. B.
+| title = Antidiabetic Agents. N4-Arylsulfonylsemicarbazides
+| journal = Journal of Medicinal and Pharmaceutical Chemistry
+| volume = 91
+| pages = 815–22
+| last2 = Willette
+| first2 = R. E.
+}}</ref> {{US patent|3063903}} {{Cite patent|GB|887886}} {{Cite patent|DE|1196200}}]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.nlm.nih.gov/medlineplus/druginfo/medmaster/a682482.html NIH/Medline]
+
+{{Oral hypoglycemics}}
+{{Ion channel modulators}}
+
+[[Category:Potassium channel blockers]]
+[[Category:Sulfonylureas]]
+[[Category:Azepanes]]
+
+
+{{gastrointestinal-drug-stub}}

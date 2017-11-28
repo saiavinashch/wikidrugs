@@ -1,0 +1,58 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 443998605
+| IUPAC_name = 1-[(1''R'',2''S'')-2-methyl-1-thiophen-2-ylcyclohexyl]piperidine
+| image = Gacyclidine.png
+| width = 150
+
+<!--Clinical data-->
+| tradename =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 68134-81-6
+| ATC_prefix = none
+| PubChem = 176265
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1742478
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 9290ND070R
+ | ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 153540
+| smiles = C[C@@H](CCCC1)[C@@]1(N2CCCCC2)C3=CC=CS3
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C16H25NS/c1-14-8-3-4-10-16(14,15-9-7-13-18-15)17-11-5-2-6-12-17/h7,9,13-14H,2-6,8,10-12H2,1H3/t14-,16+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = DKFAAPPUYWQKKF-GOEBONIOSA-N
+
+<!--Chemical data-->
+| C=16 | H=25 | N=1 | S=1 
+| molecular_weight = 263.4414 g/mol
+}}
+
+'''Gacyclidine'''<ref>{{US patent reference | number = 6107495 | title = Thienylcyclohexane derivatives for thienylcyclohexyl synthesis | inventor = Jean-Bernard Cazaux, Michel Dafniet, Jean-Marc Kamenka, Eric Manginot}}</ref> ('''GK-11''')<ref>{{cite journal | title = The search for TCP analogues binding to the low affinity PCP receptor sites in the rat cerebellum |author1=Jacques Hamon |author2=Florence Espaze |author3=Jacques Vignon |author4=Jean-Marc Kamenka | journal = Eur. J. Med. Chem. | volume = 34 | year = 1999 | pages = 125–135 | doi = 10.1016/S0223-5234(99)80046-4 | issue = 2}}</ref> is a [[psychoactive drug]] which acts as a [[dissociative]] via functioning as a [[non-competitive inhibition|non-competitive]] [[NMDA receptor]] [[NMDA antagonist|antagonist]]. It is closely related to [[phencyclidine]] (PCP), and specifically, is a [[chemical derivative|derivative]] of [[tenocyclidine]] (TCP).<ref>{{cite journal |vauthors=Hirbec H, Gaviria M, Vignon J | title = Gacyclidine: a new neuroprotective agent acting at the N-methyl-D-aspartate receptor | journal = CNS Drug Reviews | year = 2001 | volume = 7 | issue = 2 | pages = 172–98 | doi = 10.1111/j.1527-3458.2001.tb00194.x | pmid = 11474423}}</ref><ref>{{cite journal |vauthors=Hirbec H, Mausset AL, Kamenka JM, Privat A, Vignon J | title = Re-evaluation of phencyclidine low-affinity or "non-NMDA" binding sites | journal = J Neurosci Res | year = 2002 | volume = 68 | issue = 3 | pages = 305–314 | doi = 10.1002/jnr.10203 | pmid = 12111860}}</ref>
+
+==Synthesis==
+The condensation of 2-methylcyclohexanone (I) with 2-thienyllithium (II) or 2-thienylmagnesium bromide (III) gives cyclohexanol (IV) as a diastereomeric mixture, which was treated with [[sodium azide]] (NaN<sub>3</sub>) in [[trichloroacetic acid]] to yield the azide (V). The reduction of (V) with [[lithium aluminium hydride]] (LiAlH<sup>4</sup>) or [[Raney nickel]] in [[isopropanol]] affords the corresponding amine (VI), preferentially with the ''cis''-configuration. Finally, this compound is condensed with [[1,5-dibromopentane]] (VII) by means of [[potassium carbonate]] (K<sub>2</sub>CO<sub>3</sub>) in [[acetonitrile]] to provide the target compound as a diastereomeric mixture.<ref>{{US patent reference | title = Pharmaceutical compositions for neuroprotection containing arylcyclohexylamines | number = 5179109 | inventor = Jean-Marc Kamenka et al | date = 1993}}</ref>
+[[Image:Gacyclidine-synth.gif|center|540px|Gacyclidine synthesis]]
+
+==See also==
+* [[Arylcyclohexylamine]]
+
+==References==
+{{Reflist|2}}
+
+{{General_anesthetics}}
+{{Hallucinogens}}
+{{Dopamine receptor modulators}}
+{{Ionotropic glutamate receptor modulators}}
+
+[[Category:Dissociative drugs]]
+[[Category:NMDA receptor antagonists]]
+[[Category:Thiophenes]]
+[[Category:Piperidines]]
+
+
+{{nervous-system-drug-stub}}

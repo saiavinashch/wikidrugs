@@ -1,0 +1,122 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 458284190
+| image =
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = o
+| target = [[TAG-72]]
+<!-- Clinical data -->
+| tradename =
+| pregnancy_AU =
+| pregnancy_US =
+| pregnancy_category =
+| legal_AU =
+| legal_CA =
+| legal_UK =
+| legal_US =
+| legal_status =
+| routes_of_administration =
+<!-- Pharmacokinetic data -->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 195189-17-4
+| ATC_prefix = V09
+| ATC_suffix = IX03
+| ATC_supplemental = ([[Iodine-125|<sup>125</sup>I]] [[radiolabelled]])
+| PubChem =
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+| synonyms = CC49
+<!-- Chemical data -->
+| chemical_formula =
+| molecular_weight =
+}}
+
+'''Minretumomab''' ('''CC49''') is a [[mouse]] [[monoclonal antibody]]<ref>[http://whqlibdoc.who.int/druginfo/INN_1999_list42.pdf WHO Drug Information].</ref> that was designed for the treatment of [[cancer]]s that express the [[TAG-72]] antigen. This includes [[breast cancer|breast]], [[colon cancer|colon]], [[lung cancer|lung]], and [[pancreas cancer|pancreatic]] cancers.<ref>[http://www.cancer.gov/dictionary?CdrID=45925 TAG-72 antigen] entry in the public domain NCI Dictionary of Cancer Terms.</ref><ref>{{cite journal|doi=10.1038/nrc3236|pmid=22437872|title=Antibody therapy of cancer|journal=Nature Reviews Cancer|volume=12|issue=4|pages=278|year=2012|last1=Scott|first1=Andrew M.|last2=Wolchok|first2=Jedd D.|last3=Old|first3=Lloyd J.}}</ref> Apparently, it never got past [[Phase I clinical trial]]s for this purpose.<ref>[https://clinicaltrials.gov/ct2/results?term=cc49&Search=Search CC49] on [[ClinicalTrials.gov]].</ref>
+
+== Derivatives ==
+A wide range of derivatives has been used in pharmaceutical research. Examples include chimeric<ref name="Trahan" /> and humanized minretumomab,<ref>{{Cite journal 
+| last1 = Milenic | first1 = D. E. 
+| last2 = Brady | first2 = E. D. 
+| last3 = Garmestani | first3 = K. 
+| last4 = Albert | first4 = P. S. 
+| last5 = Abdulla | first5 = A. 
+| last6 = Brechbiel | first6 = M. W. 
+| title = Improved efficacy of α-particle-targeted radiation therapy 
+| journal = Cancer 
+| volume = 116 
+| issue = 4 Suppl 
+| pages = 1059–1066 
+| year = 2010 
+| pmid = 20127951 
+| doi = 10.1002/cncr.24793
+}}</ref> as well as a [[fusion protein]] of a minretumomab [[single-chain variable fragment]] and the enzyme [[beta-lactamase]].<ref>{{Cite journal 
+| last1 = Alderson | first1 = R. F. 
+| last2 = Toki | first2 = B. E. 
+| last3 = Roberge | first3 = M. 
+| last4 = Geng | first4 = W. 
+| last5 = Basler | first5 = J. 
+| last6 = Chin | first6 = R. 
+| last7 = Liu | first7 = A. 
+| last8 = Ueda | first8 = R. 
+| last9 = Hodges | first9 = D. 
+| last10 = Escandon | first10 = E. 
+| last11 = Chen | first11 = T. 
+| last12 = Kanavarioti | first12 = T. 
+| last13 = Babé | first13 = L. 
+| last14 = Senter | first14 = P. D. 
+| last15 = Fox | first15 = J. A. 
+| last16 = Schellenberger | first16 = V. 
+| title = Characterization of a CC49-Based Single-Chain Fragment−β-Lactamase Fusion Protein for Antibody-Directed Enzyme Prodrug Therapy (ADEPT) 
+| journal = Bioconjugate Chemistry 
+| volume = 17 
+| issue = 2 
+| pages = 410–418 
+| year = 2006 
+| pmid = 16536473 
+| doi = 10.1021/bc0503521
+}}</ref>
+
+===Radiopharmaceuticals===
+Iodine (<sup>125</sup>I) minretumomab is an [[iodine-125]] radiolabelled derivative that was developed for the detection of [[tumour]]s in [[radioimmunoassay]]s such as [[CA 72-4]].<ref>{{Cite journal 
+| last1 = Guadagni | first1 = F. 
+| last2 = Roselli | first2 = M. 
+| last3 = Cosimelli | first3 = M. 
+| last4 = Spila | first4 = A. 
+| last5 = Cavaliere | first5 = F. 
+| last6 = Tedesco | first6 = M. 
+| last7 = Arcuri | first7 = R. 
+| last8 = Abbolito | first8 = M. R. 
+| last9 = Casale | first9 = V. 
+| last10 = Pericoli | first10 = M. N. 
+| last11 = Vecchione | first11 = A. 
+| last12 = Casciani | first12 = C. U. 
+| last13 = Greiner | first13 = J. W. 
+| last14 = Schlom | first14 = J. 
+| title = Correlation between tumor-associated glycoprotein 72 mucin levels in tumor and serum of colorectal patients as measured by the quantitative CA 72-4 immunoassay 
+| journal = Cancer Research 
+| volume = 56 
+| issue = 22 
+| pages = 5293–5298 
+| year = 1996 
+| pmid = 8912871
+}}</ref>
+
+Radiolabelled minretumomab has also been tested for the treatment of solid tumours, but without success. Iodine ([[Iodine-131|<sup>131</sup>I]]) and lutetium ([[Lutetium-177|<sup>177</sup>Lu]]) minretumomab, for example, were shown to induce [[human anti-mouse antibodies]]; no tumour response was observed in Phase I and II [[clinical trials]].<ref name="Trahan">{{cite book|title=Biotherapy|editor-first=Paula|editor-last=Trahan Rieger|publisher=Jones and Bartlett|edition=2nd|year=2001|pages=334–335|isbn=0-7637-1428-3}}</ref>
+
+==References==
+{{reflist|35em}}
+
+{{Monoclonals for tumors}}
+
+[[Category:Monoclonal antibodies for tumors]]

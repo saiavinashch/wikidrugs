@@ -1,0 +1,69 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 459955213
+| IUPAC_name = 6-chloro-1,1-dioxo-3-(phenylmethylsulfanylmethyl)- 4''H''-benzo[''e''][1,2,4]thiadiazine-7-sulfonamide
+| image = Benzthiazide.svg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|benzthiazide}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability = 60 to 70%
+| protein_bound = 30%
+| metabolism =  
+| elimination_half-life = 5 to 15 hours
+| excretion = [[Kidney|Renal]]
+<!--Identifiers-->
+| IUPHAR_ligand = 7125
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 91-33-8
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 2343
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00562
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2253
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 1TD8J48L61
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00651
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 3047
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201039
+<!--Chemical data-->
+| C=15 | H=14
+| Cl=1 | N=3
+| O=4 | S=3
+| molecular_weight = 431.94 g/mol
+| smiles = O=S(=O)(c1c(Cl)cc2c(c1)S(=O)(=O)/N=C(\N2)CSCc3ccccc3)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C15H14ClN3O4S3/c16-11-6-12-14(7-13(11)25(17,20)21)26(22,23)19-15(18-12)9-24-8-10-4-2-1-3-5-10/h1-7H,8-9H2,(H,18,19)(H2,17,20,21)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = NDTSRXAMMQDVSW-UHFFFAOYSA-N
+}}
+'''Benzthiazide''' ([[British Approved Name|BAN]]/[[International Nonproprietary Name|INN]], also known as '''benzothiazide'''; trade names '''Aquatag''', '''Dihydrex''', '''Diucen''', '''Edemax''', '''Exna''', '''Foven''' and others<ref name=DPA>{{cite book |author=David J. Triggle |author2=C. R. Ganellin|author3=F. MacDonald |title=Dictionary of Pharmacological Agents |publisher=Chapman & Hall/CRC |location=Boca Raton |year=1996 |volume=1 |pages=246 |isbn=0-412-46630-9 |url=https://books.google.com/books?id=DeX7jgInYFMC&printsec=frontcover&source=gbs_summary_r&cad=0#PRA1-PA711,M1}} Retrieved on August 29, 2008 through [[Google Book Search]].</ref>) is a [[thiazide]] [[diuretic]] used in the treatment of [[hypertension|high blood pressure]] and [[edema]]. It is no longer available in the United States.
+
+In the United Kingdom, it was also sold in combination with the [[potassium-sparing diuretic]] [[triamterene]] under the trade name '''Dytide'''.<ref>{{cite web |url=http://www.patient.co.uk/showdoc/30002902 |title=Triamterene and Benzthiazide |date=2005 |publisher=PatientUK |accessdate=2008-08-29}}</ref> The same combination is still available in [[Switzerland]] as '''Dyrenium compositum'''.<ref>{{cite web|url=http://www.doetschgrether.ch/de/Dyrenium_Detail.asp |title=Dyrenium compositum |date=n.d. |publisher=Doetsch Grether |accessdate=2008-08-29 |deadurl=yes |archiveurl=https://web.archive.org/web/20070211161238/http://www.doetschgrether.ch/de/Dyrenium_Detail.asp |archivedate=February 11, 2007 }}</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:Sulfonamides]]
+[[Category:Thiazides]]
+[[Category:Benzothiadiazines]]
+[[Category:Chloroarenes]]
+[[Category:Thioethers]]
+[[Category:Carbonic anhydrase inhibitors]]
+
+
+{{antihypertensive-stub}}

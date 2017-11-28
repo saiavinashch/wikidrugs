@@ -1,0 +1,71 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 443959861
+| IUPAC_name = 4-chlorobenzene-1,3-disulfonamide
+| image = Clofenamide.png
+| alt = Skeletal formula of clofenamide
+| image2 = Clofenamide-3D-spacefill.png
+| alt2 = Ball-and-stick model of clofenamide
+| width = 180
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 671-95-4
+| ATC_prefix = C03
+| ATC_suffix = BA07
+| PubChem = 69594
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1865258
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 62797
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 582ILN204B
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01822
+
+<!--Chemical data-->
+| C=6 | H=7 | Cl=1 | N=2 | O=4 | S=2 
+| molecular_weight = 270.714 g/mol
+| smiles = O=S(=O)(c1cc(ccc1Cl)S(=O)(=O)N)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C6H7ClN2O4S2/c7-5-2-1-4(14(8,10)11)3-6(5)15(9,12)13/h1-3H,(H2,8,10,11)(H2,9,12,13)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = NENBAISIHCWPKP-UHFFFAOYSA-N
+}}
+
+'''Clofenamide''' (or '''diumide''') is a [[diuretic#Low ceiling diuretics|low-ceiling]] [[sulfonamide (medicine)|sulfonamide]] [[diuretic]].
+
+==References==
+{{Reflist|2}}
+
+
+{{Diuretics}}
+
+[[Category:Diuretics]]
+[[Category:Sulfonamides]]
+[[Category:Carbonic anhydrase inhibitors]]
+
+
+{{cardiovascular-drug-stub}}

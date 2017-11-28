@@ -1,0 +1,108 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470474499
+| IUPAC_name = {(1''Z'')-5-fluoro-2-methyl-1-[4-(methylsulfinyl)benzylidene]-1H-indene-3-yl}acetic acid
+| image = Sulindac structure.svg
+<!--Clinical data-->
+| tradename = Clinoril
+| Drugs.com = {{drugs.com|monograph|sulindac}}
+| MedlinePlus = a681037
+| pregnancy_AU = C
+| pregnancy_US = C
+| legal_AU = S4
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability = Approximately 90% (Oral)
+| metabolism = ?
+| elimination_half-life = 7.8 hours, metabolites up to 16.4 hours
+| excretion = [[Kidney|Renal]] (50%) and fecal (25%)
+<!--Identifiers-->
+| IUPHAR_ligand = 5425
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 38194-50-2
+| ATC_prefix = M01
+| ATC_suffix = AB02
+| PubChem = 1548887
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00605
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 1265915
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 184SNS8VUH
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00120
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 9352
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 15770
+| PDB_ligand = SUZ
+<!--Chemical data-->
+| C=20 | H=17 | F=1 | O=3 | S=1
+| molecular_weight = 356.412 g/mol
+| smiles = O=S(c1ccc(cc1)\C=C3/c2ccc(F)cc2\C(=C3C)CC(=O)O)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C20H17FO3S/c1-12-17(9-13-3-6-15(7-4-13)25(2)24)16-8-5-14(21)10-19(16)18(12)11-20(22)23/h3-10H,11H2,1-2H3,(H,22,23)/b17-9-
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = MLKXDPUZXIRXEP-MFOYZWKCSA-N
+| melting_point = 182
+| melting_high = 185
+| melting_notes = (decomp.)
+}}
+
+'''Sulindac''' is a [[nonsteroidal anti-inflammatory drug]] (NSAID) of the arylalkanoic acid class that is marketed in the UK & U.S. by [[Merck & Co.|Merck]] as '''Clinoril'''. Imbaral (not [[mebaral]]) is another name for this drug.
+
+==Uses==
+Like other NSAIDs, it is useful in the treatment of [[Acute (medical)|acute]] or [[Chronic (medicine)|chronic]] [[inflammation|inflammatory]] conditions. Sulindac is a [[prodrug]], derived from [[sulfinylindene]], that is converted in the body to the active NSAID. More specifically, the agent is converted by liver enzymes to a sulfide that is excreted in the bile and then reabsorbed from the intestine. This is thought to help maintain constant blood levels with reduced gastrointestinal side effects. Some studies have shown sulindac to be relatively less irritating to the stomach than other NSAIDs except for drugs of the [[COX-2 inhibitor]] class {{Citation needed|date=February 2007}}. The exact mechanism of its NSAID properties is unknown, but it is thought to act on enzymes COX-1 and COX-2, inhibiting [[prostaglandin]] synthesis.
+
+Its usual [[dose (biochemistry)|dosage]] is 150-200 [[milligram]]s twice per day, with food. It should not be used by persons with a history of major allergic reactions ([[urticaria]] or [[anaphylaxis]]) to [[aspirin]] or other NSAIDs, and should be used with caution by persons having pre-existing [[peptic ulcer]] disease. Sulindac is much more likely than other NSAIDs to cause damage to the liver or pancreas, though it is less likely to cause kidney damage than other NSAIDs.
+
+Sulindac seems to have a property, independent of COX-inhibition, of reducing the growth of polyps and precancerous lesions in the colon, especially in association with [[familial adenomatous polyposis]], and may have other anti-cancer properties.<ref>{{cite journal |vauthors=Scheper MA, Nikitakis NG, Chaisuparat R, Montaner S, Sauk JJ |title=Sulindac induces apoptosis and inhibits tumor growth in vivo in head and neck squamous cell carcinoma |journal=Neoplasia |volume=9 |issue=3 |pages=192–9 |date=March 2007 |pmid=17401459 |pmc=1838577 |url=http://www.neoplasia.com/abstract.php?msid=1062 |doi=10.1593/neo.06781}}</ref><ref>{{cite journal |vauthors=Shiff SJ, Qiao L, Tsai LL, Rigas B |title=Sulindac sulfide, an aspirin-like compound, inhibits proliferation, causes cell cycle quiescence, and induces apoptosis in HT-29 colon adenocarcinoma cells |journal=J. Clin. Invest. |volume=96 |issue=1 |pages=491–503 |date=July 1995 |pmid=7615821 |pmc=185223 |doi=10.1172/JCI118060 }}</ref>
+
+Sulindac is an effective [[tocolytic]] and may be used in the treatment of [[preterm labor]]. In common with other NSAIDs, sulindac is currently being investigated for its role in the treatment of [[Alzheimer's disease]].
+
+Since it was found that the sulfoxide functional group can be reduced by [[MSRA (gene)|methionine sulfoxide reductase A (MsrA)]], a possible anti-oxidative capability is being discussed.{{Citation needed|date=August 2016}}
+
+==Litigation==
+In September 2010 a federal jury in New Hampshire awarded $21 million to Karen Bartlett, a woman who developed [[Stevens–Johnson syndrome]]/[[Toxic epidermal necrolysis]] as a result of taking a generic brand of sulindac manufactured by Mutual Pharmaceuticals for her shoulder pain. Ms. Bartlett suffered severe injuries including the loss of over 60% of her surface skin and permanent near-blindness.  The case had been appealed to the United States Supreme Court, where the main issue was whether federal law preempts Ms. Bartlett's claim.<ref>{{cite web|last=Thomas|first=Katie|title=Justices to Take Up Case on Generic Drug Markers' Liability|url=https://www.nytimes.com/2013/03/05/business/justices-to-take-up-case-on-generic-drug-makers-liability.html?pagewanted=all&_r=0|publisher=New York Times|accessdate=4 March 2013}}</ref> On June 24, 2013, the Supreme Court ruled 5-4 in favor of Mutual Pharmaceuticals, throwing out the earlier $21 million jury verdict.<ref>{{cite web|last=Kendall|first=Brent|title=Supreme Court Again Limits Product-Liability Suits on Generic Drugs|url=https://online.wsj.com/article/BT-CO-20130624-706631.html?mod=googlenews_wsj|publisher=Wall Street Journal|accessdate=24 June 2013}}</ref><!-- ORIGINALLY WAS: "Bartlett v. Mut. Pharm. Co., Inc., 678 F.3d 30, 34 (1st Cir. 2012)." -->
+<ref>{{cite court
+|litigants= Bartlett v. Mut. Pharm. Co., Inc.
+|vol=678
+|reporter=F.3d
+|opinion=30
+|pinpoint=
+|court=D.C. Cir.
+|date=March 19, 2013
+|url=https://www.law.cornell.edu/supct/cert/12-142
+|accessdate=Sept 3, 2017
+}}</ref>
+
+==Synthesis==
+[[Image:Sulindac synthesis.svg|700px|thumb|center|Sulindac synthesis:<ref>{{Cite journal | doi = 10.1021/jo00431a019| title = A sterically efficient synthesis of (Z)-5-fluoro-2-methyl-1-(p-methylthiobenzylidene)-3-indenylacetic acid and its S-oxide, sulindac| journal = The Journal of Organic Chemistry| volume = 42| issue = 11| pages = 1914| year = 1977| last1 = Shuman | first1 = R. F. | last2 = Pines | first2 = S. H. | last3 = Shearin | first3 = W. E. | last4 = Czaja | first4 = R. F. | last5 = Abramson | first5 = N. L. | last6 = Tull | first6 = R. }}</ref><ref>R.B. Greenwald, E.B. Witzel, {{Cite patent|DE|2039426}} (1971).</ref><ref>J.B. Conn, D.F. Hinkley,{{US Patent|3647858}} (1972).</ref><ref>R.B. Greenwald, H. Jones, {{US Patent|3654349}} (1972).</ref>]]
+
+Rxn of ''p''-fluorobenzyl chloride ('''1''') with the anion of diethylmethyl malonate ('''2''') gives intermediate diester ('''3'''), saponification of which and subsequent decarboxylation leads to '''4'''. {Alternatively it can be formed by [[Perkin reaction]] between p-[[fluorobenzaldehyde]] and [[propionic anhydride]] in the presence of [[NaOAc]], followed by [[catalytic hydrogenation]] of the olefinic bond using a palladium on carbon catalyst.}
+
+[[Polyphosphoric acid]] (PPA) cyclization leads to 5-fluoro-2-methyl-3-[[indanone]] ('''4'''). A [[Reformatsky reaction]] with [[zinc]] [[Amalgam (chemistry)|amalgam]] and bromoacetic ester leads to carbinol ('''5'''), which is then dehydrated with [[tosic acid]] to indene '''6'''.  {Alternatively ths step can be performed in a [[Knoevenagel condensation]] with [[cyanoacetic acid]], which is then further decarboxylated.}
+
+The active methylene group is condensed with ''p''-[[methylthiobenzaldehyde]], using [[sodium methoxide]] as catalyst, and then saponified to give [[E-Z notation|Z]] ('''7''') which in turn oxidized with [[sodium metaperiodate]] to sulfoxide '''8''', the [[antiinflammatory]] agent sulindac.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.rxlist.com/cgi/generic3/sulindac.htm RxList information on Sulindac]
+*[http://www.pdrhealth.com/drug_info/rxdrugprofiles/drugs/cli1087.shtml Drug Profile]
+*[http://www.businessweek.com/ap/financialnews/D9I0J7HO0.htm Jury Awards $21 Million]
+
+{{Anti-inflammatory and antirheumatic products}}
+{{Prostanoidergics}}
+
+[[Category:Nonsteroidal anti-inflammatory drugs]]
+[[Category:Prodrugs]]
+[[Category:Hepatotoxins]]
+[[Category:Indenes]]
+[[Category:Fluoroarenes]]
+[[Category:Carboxylic acids]]
+[[Category:Sulfoxides]]

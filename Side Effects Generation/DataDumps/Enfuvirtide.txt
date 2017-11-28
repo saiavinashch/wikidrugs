@@ -1,0 +1,103 @@
+{{drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 399917793
+| width = 280
+| image = Enfuvirtid.svg
+
+<!--Clinical data-->
+| tradename = Fuzeon
+| Drugs.com = {{drugs.com|monograph|enfuvirtide}}
+| pregnancy_AU = B2
+| pregnancy_US = B
+| legal_status =  
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = [[Subcutaneous injection|Subcutaneous]] (SC)
+
+<!--Pharmacokinetic data-->
+| bioavailability = 84.3% ([[Subcutaneous injection|SC]])
+| protein_bound = 92%
+| metabolism = Hepatic
+| elimination_half-life = 3.8 hours
+| excretion = unknown
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 159519-65-0
+| ATC_prefix = J05
+| ATC_suffix = AX07
+| ATC_supplemental = 
+| PubChem = 16130199
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00109
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 16743716
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 19OWO1T3ZE
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D02499
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 608828
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 525076
+| NIAID_ChemDB = 059486
+
+<!--Chemical data-->
+| C=204 | H=301 | N=51 | O=64 
+| molecular_weight = 4492.1 g/mol
+| smiles = CC[C@H](C)[C@@H](C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](Cc1c[nH]c2c1cccc2)C(=O)N[C@@H](C)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc3c[nH]c4c3cccc4)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](Cc5c[nH]c6c5cccc6)C(=O)N[C@@H](Cc7ccccc7)C(=O)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CO)NC(=O)[C@H](Cc8cnc[nH]8)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](Cc9ccc(cc9)O)NC(=O)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C204H301N51O64/c1-20-102(15)166(253-195(310)137(75-100(11)12)239-200(315)150(93-258)251-190(305)143(82-112-90-215-95-219-112)248-203(318)167(103(16)21-2)254-196(311)138(76-101(13)14)240-201(316)151(94-259)252-204(319)168(105(18)260)255-197(312)139(221-106(19)261)78-108-45-47-113(262)48-46-108)202(317)233-131(58-68-164(280)281)178(293)228-130(57-67-163(278)279)182(297)250-149(92-257)198(313)232-125(52-62-155(210)266)179(294)245-145(84-157(212)268)191(306)229-124(51-61-154(209)265)175(290)224-122(49-59-152(207)263)173(288)226-126(53-63-159(270)271)176(291)222-120(43-31-33-69-205)172(287)244-144(83-156(211)267)192(307)231-127(54-64-160(272)273)177(292)225-123(50-60-153(208)264)174(289)227-128(55-65-161(274)275)180(295)235-134(72-97(5)6)185(300)237-133(71-96(3)4)184(299)230-129(56-66-162(276)277)181(296)236-135(73-98(7)8)187(302)247-147(86-165(282)283)194(309)223-121(44-32-34-70-206)171(286)241-140(79-109-87-216-117-40-28-25-37-114(109)117)183(298)220-104(17)170(285)249-148(91-256)199(314)238-136(74-99(9)10)186(301)242-142(81-111-89-218-119-42-30-27-39-116(111)119)189(304)246-146(85-158(213)269)193(308)243-141(80-110-88-217-118-41-29-26-38-115(110)118)188(303)234-132(169(214)284)77-107-35-23-22-24-36-107/h22-30,35-42,45-48,87-90,95-105,120-151,166-168,216-218,256-260,262H,20-21,31-34,43-44,49-86,91-94,205-206H2,1-19H3,(H2,207,263)(H2,208,264)(H2,209,265)(H2,210,266)(H2,211,267)(H2,212,268)(H2,213,269)(H2,214,284)(H,215,219)(H,220,298)(H,221,261)(H,222,291)(H,223,309)(H,224,290)(H,225,292)(H,226,288)(H,227,289)(H,228,293)(H,229,306)(H,230,299)(H,231,307)(H,232,313)(H,233,317)(H,234,303)(H,235,295)(H,236,296)(H,237,300)(H,238,314)(H,239,315)(H,240,316)(H,241,286)(H,242,301)(H,243,308)(H,244,287)(H,245,294)(H,246,304)(H,247,302)(H,248,318)(H,249,285)(H,250,297)(H,251,305)(H,252,319)(H,253,310)(H,254,311)(H,255,312)(H,270,271)(H,272,273)(H,274,275)(H,276,277)(H,278,279)(H,280,281)(H,282,283)/t102-,103-,104-,105+,120-,121-,122-,123-,124-,125-,126-,127-,128-,129-,130-,131-,132-,133-,134-,135-,136-,137-,138-,139-,140-,141-,142-,143-,144-,145-,146-,147-,148-,149-,150-,151-,166-,167-,168-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = PEASPLKKXBYDKL-FXEVSJAOSA-N
+}}
+'''Enfuvirtide''' ([[International Nonproprietary Name|INN]]) is an [[HIV]] [[fusion inhibitor]], the first of a novel class of [[antiretroviral drug]]s used in [[combination therapy]] for the treatment of [[HIV]]-1 infection. It is marketed under the trade name '''Fuzeon''' ([[Hoffmann-La Roche|Roche]]).
+
+Enfuvirtide therapy costs an estimated US$25,000 per year in the United States. Its cost and inconvenient dosing regimen are factors behind its use as a reserve, for [[salvage therapy]] in patients with multi-drug resistant HIV.
+
+==Structural formula==
+[[Image:Enfuvirtid.svg|500px]]
+
+[[Acetyl|Ac]]-[[Tyrosine|Tyr]]-[[Threonine|Thr]]-[[Serine|Ser]]-[[Leucine|Leu]]-[[Isoleucine|Ile]]-[[Histidine|His]]-Ser-Leu-Ile-[[Glutamic acid|Glu]]-Glu-Ser-[[Glutamine|Gln]]-[[Asparagine|Asn]]-Gln-Gln-Glu-[[Lysine|Lys]]-Asn-Glu-Gln-Glu-Leu-Leu-Glu-Leu-[[Aspartic Acid|Asp]]-[[Lysine|Lys]]-[[Tryptophan|Trp]]-[[Alanine|Ala]]-Ser-Leu-Trp-[[Asparagine|Asn]]-Trp-[[Phenylalanine|Phe]]-[[Amine|NH<sub>2</sub>]]
+
+==History==
+Enfuvirtide originated at [[Duke University]], where researchers formed a pharmaceutical company known as Trimeris.  Trimeris began development on enfuvirtide in 1996 and initially designated it '''T-20'''. In 1999, Trimeris entered into partnership with [[Hoffmann-La Roche]] to complete the development of the drug. It was approved by the U.S. [[Food and Drug Administration]] (FDA) on March 13, 2003 <!-- or was it march 15? --> as the first HIV [[fusion inhibitor]], a new class of antiretroviral drugs. It was approved on the basis of two studies (TORO 1 and TORO 2) which compared the effect of optimized regimens of antiretroviral medication with and without the addition of enfuvirtide on serum [[viral load]].
+
+==Pharmacology==
+
+===Mechanism of action===
+Enfuvirtide works by disrupting the [[HIV]]-1 molecular machinery at the final stage of [[viral entry|fusion]] with the target [[Cell (biology)|cell]], preventing uninfected cells from becoming infected. A [[biomimetic]] [[peptide]], enfuvirtide was designed to mimic components of the [[HIV]]-1 fusion machinery and displace them, preventing normal fusion. Drugs that disrupt fusion of [[virus]] and target [[Cell (biology)|cell]] are termed [[entry inhibitors]] or [[fusion inhibitor]]s.
+
+HIV binds to the host CD4+ cell receptor via the viral protein gp120; gp41, a viral [[transmembrane protein]], then undergoes a [[conformational change]] that assists in the fusion of the viral membrane to the host cell membrane. Enfuvirtide binds to gp41 preventing the creation of an entry pore for the capsid of the virus, keeping it out of the cell.<ref>{{cite journal|pmid=12646792|year=2003|last1=Lalezari|first1=JP|last2=Eron|first2=JJ|last3=Carlson|first3=M|last4=Cohen|first4=C|last5=Dejesus|first5=E|last6=Arduino|first6=RC|last7=Gallant|first7=JE|last8=Volberding|first8=P|last9=Murphy|first9=RL|last10=Valentine|first10=F|last11=Nelson|first11=E. L.|last12=Sista|first12=P. R.|last13=Dusek|first13=A|last14=Kilby|first14=J. M.|title=A phase II clinical study of the long-term safety and antiviral activity of enfuvirtide-based antiretroviral therapy|volume=17|issue=5|pages=691–8|doi=10.1097/01.aids.0000050825.06065.84|journal=AIDS (London, England)
+ |display-authors=8|doi-broken-date=2017-08-24}}</ref>
+
+T20 is also an activator of the chemotactic factor receptor, '''formyl peptide receptor 1''' ('''FPR1'''), and thereby activates phaogocytes and presumably other cells bearing this receptor (See [[Formyl peptide receptors]] section on FPR1 receptors).<ref>Blood 93: 3885-3892</ref>  The physiological significance of this activation is unknown.
+
+
+===Microbiology===
+Enfuvirtide is considered to be active against HIV-1 only. Low activity against HIV-2 isolates has been demonstrated ''[[in vitro]]''.<ref name="FuzeonPI">Roche Products Pty Ltd. Fuzeon (Australian Approved Product Information). Dee Why (NSW): Roche; 2005.</ref>
+
+Variable susceptibility to enfuvirtide has been observed in clinical isolates, with [[acquired resistance]] the result of a mutated 10 [[amino acid]] motif in viral gp41. [[Primary resistance]], however, has yet to be observed.<ref name="Greenberg2004">{{cite journal | last1 = Greenberg | first1 = ML | last2 = Cammack | first2 = N | title = Resistance to enfuvirtide, the first HIV fusion inhibitor | journal = [[Journal of antimicrobial chemotherapy]] | volume = 54 | issue = 2 | pages = 333–40 | year = 2004 | pmid = 15231762 | doi = 10.1093/jac/dkh330 }}</ref>
+
+==Clinical use==
+
+===Indications===
+Enfuvirtide is indicated for the treatment of HIV-1 infection, in [[combination therapy]] with other antiretrovirals, in patients where all other treatments have failed.<ref name="AMH2006">Rossi S, editor. [[Australian Medicines Handbook]] 2006. Adelaide: Australian Medicines Handbook; 2006. {{ISBN|0-9757919-2-3}}</ref>
+
+===Dosage forms===
+By virtue of its peptide nature, enfuvirtide is marketed in injectable form. The lyophilised enfuvirtide powder must be reconstituted by the patient and administered twice daily by [[Subcutaneous injection|subcutaneous]] injection. Due to the chronic nature of this kind of therapy, this dosage form may be a major problem for the patient's adherence to this drug regimen.<ref>{{cite web|url=http://www.fda.gov/ForConsumers/ByAudience/ForPatientAdvocates/HIVandAIDSActivities/ucm125088.htm |archive-url=https://web.archive.org/web/20090825164901/http://www.fda.gov/ForConsumers/ByAudience/ForPatientAdvocates/HIVandAIDSActivities/ucm125088.htm |dead-url=yes |archive-date=25 August 2009 |title=FDA approves Fuzeon |first=Richard |last=Klein |work=fda.gov |date=13 March 2003 |accessdate=2 July 2011 }}</ref>
+
+===Adverse effects===
+Common [[adverse drug reaction]]s (≥1% of patients) associated with enfuvirtide therapy include: injection site reactions (pain, hardening of skin, [[erythema]], [[Nodule (medicine)|nodule]]s, [[cyst]]s, itch; experienced by nearly all patients, particularly in the first week), [[peripheral neuropathy]], [[insomnia]], [[clinical depression|depression]], cough, [[dyspnoea]], [[anorexia (symptom)|anorexia]], [[arthralgia]], infections (including bacterial [[pneumonia]]) and/or [[eosinophilia]]. Various [[hypersensitivity]] reactions occur infrequently (0.1–1% of patients), symptoms of which include rash, fever, nausea, vomiting, chills, rigors, [[hypotension]], elevated hepatic [[transaminase]]s; and possibly more severe reactions including [[respiratory distress]], [[glomerulonephritis]] and/or [[anaphylaxis]] – [[Challenge-dechallenge-rechallenge|rechallenge]] is not recommended.<ref name="AMH2006" />
+
+==References==
+{{Reflist}}
+
+{{HIVpharm}}
+
+[[Category:Entry inhibitors]]
+[[Category:Hepatotoxins]]
+[[Category:Peptides]]

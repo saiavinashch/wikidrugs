@@ -1,0 +1,113 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470612724
+| image =  Tremelimumab 5GGV.png
+| caption = [[Fragment antigen-binding|Fab fragment]] of tremelimumab (blue) binding CTLA-4 (green). From [[Protein Data Bank|PDB]] entry {{PDBe|5GGV}}.
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = u
+| target = [[CTLA-4]]
+<!-- Clinical data -->
+| tradename =  
+| pregnancy_AU =  
+| pregnancy_US =  
+| pregnancy_category =  
+| legal_AU =  
+| legal_CA =  
+| legal_UK =  
+| legal_US =  
+| legal_status =  
+| routes_of_administration =  
+<!-- Pharmacokinetic data -->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!-- Identifiers -->
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 745013-59-6
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem =  
+| IUPHAR_ligand = 8462
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = QEN1X95CIX
+<!-- Chemical data -->
+| C=6500 | H=9974 | N=1726 | O=2026 | S=52
+| molecular_weight = 146380.472 g/mol
+}}
+'''Tremelimumab''' (formerly '''ticilimumab''', '''CP-675,206''') is a fully human [[monoclonal antibody]] against CTLA-4. It is an [[immune checkpoint blockade|immune checkpoint blocker]]. Previously in development by [[Pfizer]],<ref name=PR>{{cite news|title=Pfizer Announces Discontinuation of Phase III Clinical Trial for Patients with Advanced Melanoma|url=http://www.pfizer.com/news/press-release/press-release-detail/pfizer_announces_discontinuation_of_phase_iii_clinical_trial_for_patients_with_advanced_melanoma|accessdate=5 December 2015|publisher=Pfizer.com|date=1 April 2008}}</ref> it is now in investigation by [[MedImmune]], a wholly owned subsidiary of [[AstraZeneca]].<ref>[https://www.azimmuno-oncology.com/ctla-4-inhibition#Tremelimumab Mechanism of Pathway: CTLA-4 Inhibition]</ref> It has been undergoing human trials for the treatment of various cancers but has not attained approval for any.
+
+==Mechanism of action==
+Tremelimumab aims to stimulate an immune system attack on tumors. [[Cytotoxic T lymphocytes]] (CTLs) can recognize and destroy cancer cells. However, there is also an inhibitory mechanism ([[immune checkpoint]]) that interrupts this destruction. Tremelimumab turns off this inhibitory mechanism and allows CTLs to continue to destroy the cancer cells.<ref name="Ribas">{{cite journal
+| title =Tumor immunotherapy directed at PD-1
+| journal =New England Journal of Medicine
+| date =28 June 2012
+| author = Antoni Ribas
+| volume =366
+| issue =26
+| pages =2517–9
+| url =
+| doi =10.1056/nejme1205943
+| pmid =
+| pmc =
+}}</ref> This is [[immune checkpoint blockade]].
+
+Tremelimumab binds to the protein [[CTLA-4]], which is expressed on the surface of activated [[T lymphocytes]] and inhibits the killing of cancer cells. Tremelimumab blocks the binding of the [[antigen-presenting cell]] ligands [[B7.1]] and [[B7.2]] to CTLA-4, resulting in inhibition of B7-CTLA-4-mediated downregulation of [[T-cell activation]]; subsequently, B7.1 or B7.2 may interact with another T-cell surface receptor protein, [[CD28]], resulting in a B7-CD28-mediated T-cell activation unopposed by B7-CTLA-4-mediated inhibition.
+
+Unlike [[Ipilimumab]] (another fully human [[anti-CTLA-4]] monoclonal antibody), which is an [[IgG]]1 isotype, tremelimumab is an IgG2 isotype.<ref name="pmid19088949">{{cite journal |vauthors=Tomillero A, Moral MA | title = Gateways to clinical trials | journal = Methods Find Exp Clin Pharmacol | volume = 30 | issue = 8 | pages = 643–72 |date=October 2008 | pmid = 19088949 }}</ref><ref name="pmid19052265">{{cite journal | author = Poust J | title = Targeting metastatic melanoma | journal = Am J Health Syst Pharm | volume = 65 | issue = 24 Suppl 9 | pages = S9–S15 |date=December 2008 | pmid = 19052265 | doi = 10.2146/ajhp080461 }}</ref>
+
+==Clinical trials==
+
+===Melanoma===
+Phase 1 and 2 [[clinical studies]] in metastatic [[melanoma]] showed some responses.<ref>{{cite journal|last=Reuben|first=JM|date=1 Jun 2006|title=Biologic and immunomodulatory events after CTLA-4 blockade with tremelimumab in patients with advanced malignant melanoma|journal=Cancer|volume=106|issue=11|pages=2437–44|doi=10.1002/cncr.21854|pmid=16615096|display-authors=etal}}</ref> However, based on early interim analysis of phase III data, [[Pfizer]] designated tremelimumab as a failure and terminated the trial in April 2008.<ref name=PR/><ref>{{cite journal
+ |author=A. Ribas, A. Hauschild, R. Kefford, C. J. Punt, J. B. Haanen, M. Marmol, C. Garbe, J. Gomez-Navarro, D. Pavlov and M. Marsha
+ |title=Phase III, open-label, randomized, comparative study of tremelimumab (CP-675,206) and chemotherapy (temozolomide [TMZ] or dacarbazine [DTIC]) in patients with advanced melanoma
+ |journal=Journal of Clinical Oncology,
+ |volume=26
+ |issue=15S
+ |pages=
+ |date=May 20, 2008
+ |pmid=
+ |doi=
+ |url=http://meeting.ascopubs.org/cgi/content/short/26/15_suppl/LBA9011
+}}</ref>
+
+However, within a year, the survival curves showed separation of the treatment and control groups.<ref>{{cite journal
+ |author=M.A. Marshall, A. Ribas, B. Huang;
+  |lastauthoramp=yes |title=Evaluation of baseline serum C-reactive protein (CRP) and benefit from tremelimumab compared to chemotherapy in first-line melanoma
+ |journal=Journal of Clinical Oncology,
+ |volume=28
+ |issue=15S
+ |pages=
+ |date=May 2010
+ |pmid=
+ |doi=
+ |url=http://meeting.ascopubs.org/cgi/content/short/26/15_suppl/LBA9011
+}}</ref>
+The conventional [[Response Evaluation Criteria in Solid Tumors]] (RECIST) may underrepresent the merits of [[immunotherapies]]. Subsequent immunotherapy trials (e.g. [[ipilimumab]]) have used the [[Immune-Related Response Criteria]] (irRC) instead.
+
+===Mesothelioma===
+Although it was designated in April 2015 as [[orphan drug]] status in [[mesothelioma]],<ref>FDA Grants AstraZeneca's Tremelimumab Orphan Drug Status for Mesothelioma [http://www.mesothelioma.com/news/2015/04/fda-grants-astrazenecas-tremelimumab-orphan-drug-status-for-mesothelioma.htm]</ref> tremelimumab failed to improve lifespan in the phase IIb DETERMINE trial, which assessed the drug as a second or third-line treatment for unresectable malignant mesothelioma.<ref>[http://www.fdanewsalert.com/astrazeneca-fails-mesothelioma-drug-trial/8517952/ Tremelimumab Fails Mesothelioma Drug Trial]</ref><ref>[http://www.pharmatimes.com/Article/16-03-01/AZ_tremelimumab_fails_in_mesothelioma_trial.aspx AZ' tremelimumab fails in mesothelioma trial]</ref>
+
+=== Non-small cell lung cancer ===
+In a phase III trial, AstraZeneca paired tremelimumab with a PD-L1 inhibitor, [[durvalumab]], for the first-line treatment of [[non-small cell lung cancer]].<ref>http://www.fiercebiotech.com/biotech/astrazeneca-hit-by-mystic-lung-cancer-pfs-failure</ref> The trial was conducted across 17 countries, and in July 2017, AstraZeneca announced that it had failed to meet its primary endpoint of progression-free survival.<ref>https://www.astrazeneca.com/media-centre/press-releases/2017/astrazeneca-reports-initial-results-from-the-ongoing-mystic-trial-in-stage-iv-lung-cancer-27072017.html</ref>
+
+==References==
+{{Reflist|2}}
+
+{{Monoclonals for immune system}}
+{{immunosuppressants}}
+
+[[Category:Pfizer]]
+
+
+{{monoclonal-antibody-stub}}
+{{antineoplastic-drug-stub}}

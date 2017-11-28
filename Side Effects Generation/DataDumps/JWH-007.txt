@@ -1,0 +1,86 @@
+{{Drugbox
+| verifiedrevid = 451554740
+| IUPAC_name = 1-pentyl-2-methyl-3-(1-naphthoyl)indole
+| image = JWH-007_structure.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = Schedule II
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_DE = Anlage II
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 155471-10-6
+| ATC_prefix =  
+| ATC_suffix =  
+| PubChem = 10360860
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID      = 8536309
+
+<!--Chemical data-->
+| C=25 | H=25 | N=1 | O=1 
+| molecular_weight = 355.471 g/mol
+| smiles = c14ccccc4cccc1C(=O)c3c2ccccc2n(c3C)CCCCC
+| StdInChI          = 1S/C25H25NO/c1-3-4-9-17-26-18(2)24(22-14-7-8-16-23(22)26)25(27)21-15-10-12-19-11-5-6-13-20(19)21/h5-8,10-16H,3-4,9,17H2,1-2H3
+| StdInChIKey       = IBBNKINXTRKICJ-UHFFFAOYSA-N
+}}
+
+'''JWH-007''' is an [[analgesic]] chemical from the [[naphthoylindole]] family, which acts as a [[cannabinoid]] agonist at both the [[Cannabinoid receptor 1|CB<sub>1</sub>]] and [[Cannabinoid receptor 2|CB<sub>2</sub>]] receptors. It was the most active of the first group of N-[[alkyl]] naphoylindoles discovered by the team led by [[John W Huffman]], several years after the family was initially described with the discovery of the N-morpholinylethyl compounds [[pravadoline|pravadoline (WIN 48,098)]], [[JWH-200|WIN 55,225 (JWH-200)]] and [[WIN 55,212-2]] by the [[Sterling Winthrop]] group.<ref>{{Cite journal |pmid= 1335057 |year= 1992 |author= Compton, D. R.|title= Aminoalkylindole analogs: cannabimimetic activity of a class of compounds structurally distinct from delta 9-tetrahydrocannabinol |volume= 263 |issue= 3 |pages= 1118–1126 |journal= The Journal of Pharmacology and Experimental Therapeutics |display-authors=etal}}
+</ref> Several other N-alkyl substituents were found to be active by Huffman's team including the ''n''-[[butyl]], ''n''-[[hexyl]], 2-[[heptyl]] and [[cyclohexyl]][[Ethyl group|ethyl]] groups,<ref>{{cite journal | last1 = Huffman | first1 = JW | last2 = Dong | first2 = D | year = 1994 | title = Design, Synthesis and Pharmacology of Cannabimimetic Indoles | url = | journal = Bioorganic and Medicinal Chemistry Letters | volume = 4 | issue = 4| pages = 563–566 | doi=10.1016/s0960-894x(01)80155-4}}</ref> but it was subsequently determined that the 2-methyl group on the [[indole]] ring is not required for CB<sub>1</sub> binding, and tends to increase affinity for CB<sub>2</sub> instead.<ref>{{Cite journal |doi= 10.1016/j.bmc.2004.09.050 |pmid= 15582455 |year= 2005 |last= Huffman |first= J.|title= Structure-activity relationships for 1-alkyl-3-(1-naphthoyl)indoles at the cannabinoid CB(1) and CB(2) receptors: steric and electronic effects of naphthoyl substituents. New highly selective CB(2) receptor agonists. |volume= 13 |issue= 1 |pages= 89–112 |journal= Bioorganic & Medicinal Chemistry |display-authors=etal}}
+</ref><ref>{{Cite journal 
+| pmid = 15974991 
+| year = 2005 
+| last1 = Huffman | first1 = J. W. 
+| last2 = Padgett | first2 = L. W. 
+| title = Recent developments in the medicinal chemistry of cannabimimetic indoles, pyrroles and indenes 
+| volume = 12 
+| issue = 12 
+| pages = 1395–1411 
+| journal = Current medicinal chemistry 
+| doi = 10.2174/0929867054020864
+}}</ref>  Consequently, the 2-[[desmethyl]] derivative of JWH-007, [[JWH-018]] has slightly higher [[Dissociation constant#Protein-ligand binding|binding affinity]] for CB<sub>1</sub>, with an optimum binding of 9.00nM at CB<sub>1</sub> and 2.94nM at CB<sub>2</sub>, and JWH-007 displayed optimum binding of 9.50nM at CB<sub>1</sub> and 2.94nM at CB<sub>2</sub>.<ref>{{Cite journal |pmid= 10940540 |year= 2000 |author= Aung, M. M.|title= Influence of the N-1 alkyl chain length of cannabimimetic indoles upon CB(1) and CB(2) receptor binding |volume= 60 |issue= 2 |pages= 133–140 |journal= Drug and Alcohol Dependence |doi= 10.1016/S0376-8716(99)00152-0 |display-authors=etal}}
+</ref>
+
+Another drug similarly named [[JHW-007]] (not JWH) is a [[cocaine]] analogue (the di-''para''-fluoro [[List of cocaine analogues#Benztropine (3α-Diphenylmethoxy Tropane) Analogs|benztropine]], being essentially a hybrid between [[benzatropine]] & [[difluoropine]]; with fluorine groups in the former or being descarbmethoxy in the latter) and atypical [[dopamine reuptake inhibitor]],<ref name="RothmanBaumann2008">{{cite journal|last1=Rothman|first1=Richard B.|last2=Baumann|first2=Michael H.|last3=Prisinzano|first3=Thomas E.|last4=Newman|first4=Amy Hauck|title=Dopamine transport inhibitors based on GBR12909 and benztropine as potential medications to treat cocaine addiction|journal=Biochemical Pharmacology|volume=75|issue=1|year=2008|pages=2–16|issn=0006-2952|doi=10.1016/j.bcp.2007.08.007|pmid=17897630|pmc=2225585}}</ref> but is distinct from and not the same as this JWH-007.<ref name="Velázquez-SánchezGarcía-Verdugo2013">{{cite journal|last1=Velázquez-Sánchez|first1=Clara|last2=García-Verdugo|first2=José M.|last3=Murga|first3=Juan|last4=Canales|first4=Juan J.|title=The atypical dopamine transport inhibitor, JHW 007, prevents amphetamine-induced sensitization and synaptic reorganization within the nucleus accumbens|journal=Progress in Neuro-Psychopharmacology and Biological Psychiatry|volume=44|year=2013|pages=73–80|issn=0278-5846|doi=10.1016/j.pnpbp.2013.01.016|pmid=23385166}}</ref>
+
+== Law ==
+JWH-007 was banned in Sweden on 1 October 2010 as a hazardous good harmful to health, after being identified as an ingredient in "herbal" [[synthetic cannabis]] products.<ref>[http://www.riksdagen.se/webbnav/index.aspx?nid=3911&bet=1999:58 Swedish Code of Statutes Regulation (2010:1086).]</ref><ref>[http://www.lagboken.se/files/SFS/2010/101086.PDF Swedish Code of Statutes Regulation (2010:1086). (pdf)]</ref>
+
+JWH-007 is illegal in [[Poland]] since 08.06.2010 on the basis of 'Ustawa z dnia 15 kwietnia 2011 r. o zmianie ustawy o przeciwdziałaniu narkomanii' published in Dz.U. 2011 nr 105 poz. 614<ref>{{cite web|title=Ustawa z dnia 15 kwietnia 2011 r. o zmianie ustawy o przeciwdziałaniu narkomanii ( Dz.U. 2011 nr 105 poz. 614 )|url=http://isap.sejm.gov.pl/DetailsServlet?id=WDU20111050614|publisher=ISAP|accessdate=12 June 2011}}</ref>
+
+As of October 2015 JWH-007 is a controlled substance in China.<ref>{{cite web | url=http://www.sfda.gov.cn/WS01/CL0056/130753.html | title=关于印发《非药用类麻醉药品和精神药品列管办法》的通知 | publisher=China Food and Drug Administration | date=27 September 2015 | language=Chinese | accessdate=1 October 2015}}</ref>
+
+==See also==
+*[[JWH-015]]
+*[[JWH-018]]
+*[[JWH-019]]
+*[[JWH-073]]
+*[[List of JWH cannabinoids]]
+
+==References==
+<references/>
+
+{{Cannabinoids}}
+{{Cannabinoidergics}}
+
+[[Category:Designer drugs]]
+[[Category:JWH cannabinoids]]
+[[Category:Naphthoylindoles]]
+
+
+{{cannabinoid-stub}}

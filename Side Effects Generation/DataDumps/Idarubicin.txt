@@ -1,0 +1,69 @@
+{{Drugbox
+| verifiedrevid = 458281600
+| IUPAC_name = (1''S'',3''S'')-3-acetyl-3,5,12-trihydroxy-6,11-dioxo-1,2,3,4,6,11-hexahydrotetracen-1-yl 3-amino-2,3,6-trideoxo-α-<small>L</small>-''lyxo''-hexopyranoside
+| image = Idarubicin.svg
+| image2 = Idarubicin ball-and-stick.png
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|monograph|idarubicin-hydrochloride}}
+| MedlinePlus = a691004
+| pregnancy_US = D
+| legal_US = Rx-only
+| routes_of_administration = 
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 97%
+| metabolism =  
+| elimination_half-life = 22 hours
+<!--Identifiers-->
+| IUPHAR_ligand = 7083
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 58957-92-9
+| ATC_prefix = L01
+| ATC_suffix = DB06
+| ATC_supplemental =  
+| PubChem = 42890
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01177
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 39117
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = ZRP63D75JW
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08062
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 42068
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1117
+<!--Chemical data-->
+| C=26 | H=27 | N=1 | O=9
+| molecular_weight = 497.494 g/mol
+| smiles = O=C2c1c(O)c5c(c(O)c1C(=O)c3ccccc23)C[C@@](O)(C(=O)C)C[C@@H]5O[C@@H]4O[C@H]([C@@H](O)[C@@H](N)C4)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C26H27NO9/c1-10-21(29)15(27)7-17(35-10)36-16-9-26(34,11(2)28)8-14-18(16)25(33)20-19(24(14)32)22(30)12-5-3-4-6-13(12)23(20)31/h3-6,10,15-17,21,29,32-34H,7-9,27H2,1-2H3/t10-,15-,16-,17-,21+,26-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = XDXDZDZNSLXDNA-TZNDIEGXSA-N
+| synonyms = <small>9-acetyl-7-(4-amino-5-hydroxy-6-methyl-tetrahydropyran-2-yl)oxy-6,9,11-trihydroxy-7,8,9,10-tetrahydrotetracene-5,12-dione</small>
+}}
+'''Idarubicin''' {{IPAc-en|ˌ|aɪ|d|ə|ˈ|r|uː|b|ᵻ|s|ɪ|n}} or '''4-demethoxydaunorubicin''' is an [[anthracycline]] [[antileukemic drug]]. It inserts <ref name="Miller">{{cite journal |vauthors=Miller JP, Stoodley RJ |title= Studies directed towards anthracyclinone syntheses: The use of d-glucose as a chiral auxiliary in asymmetric Diels–Alder reactions |journal= J. Saudi Chem. Soc. |volume=17 |pages=29–42 |year=2013 |url=http://www.sciencedirect.com/science/article/pii/S1319610311000524 |doi= 10.1016/j.jscs.2011.02.019}}</ref> itself into DNA and prevents DNA unwinding by interfering with the enzyme [[topoisomerase II]]. It is an analog of [[daunorubicin]], but the absence of a methoxy group increases its fat solubility and cellular uptake.<ref>[http://www.pfizer.com/files/products/uspi_idamycin.pdf Package insert]</ref>
+Similar to other anthracyclines, it also induces [[histone]] eviction from [[chromatin]].<ref name="Pang">{{cite journal |vauthors=Pang B, Qiao X, Janssen L, Velds A, Groothuis T, Kerkhoven R, Nieuwland M, Ovaa H, Rottenberg S, van Tellingen O, Janssen J, Huijgens P, Zwart W, Neefjes J |title= Drug-induced histone eviction from open chromatin contributes to the chemotherapeutic effects of doxorubicin |journal= Nature Communications |volume=4 |pages=1908 |year=2013 |url=http://www.nature.com/ncomms/journal/v4/n5/full/ncomms2921.html |pmid= 23715267 |doi= 10.1038/ncomms2921 |pmc=3674280}}</ref>
+
+It belongs to the family of drugs called [[Chemotherapy#Cytotoxic antibiotics|antitumor antibiotic]]s.
+
+It is currently combined with [[cytosine arabinoside]] as a first line treatment of [[acute myeloid leukemia]].
+
+It is distributed under the trade names '''Zavedos''' (UK) and '''Idamycin''' (USA).
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [http://www.ebi.ac.uk/pdbe-srv/PDBeXplore/ligand/?ligand=DM5 Idarubicin bound to proteins] in the [[Protein Data Bank|PDB]]
+
+{{Chemotherapeutic agents}}
+
+[[Category:Anthracyclines]]
+[[Category:Topoisomerase inhibitors]]
+
+
+{{antineoplastic-drug-stub}}

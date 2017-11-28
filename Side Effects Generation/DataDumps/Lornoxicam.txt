@@ -1,0 +1,78 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 443926586
+| IUPAC_name = (3''E'')-6-chloro-3-[hydroxy(pyridin-2-ylamino)methylene]-2-methyl-2,3-dihydro-4''H''-thieno[2,3-''e''][1,2]thiazin-4-one 1,1-dioxide
+| image = Lornoxicam skeletal.svg
+| image2 = Lornoxicam ball-and-stick.png
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|lornoxicam}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = Not recommended; [[contraindicated]] in months 7–9
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = Rx
+| routes_of_administration = [[oral administration|Oral]], [[parenteral]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 90–100%
+| protein_bound = 99%
+| metabolism = [[CYP2C9]]
+| elimination_half-life = 3–4 hours
+| excretion = 2/3 [[hepatic]], 1/3 [[renal]]
+
+<!--Identifiers-->
+| ATC_prefix = M01
+| ATC_suffix = AC05
+| PubChem = 5282204
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB06725
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 10442760
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = ER09126G7A
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01866
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 31783
+
+<!--Chemical data-->
+| C=13 | H=10 | Cl=1 | N=3 | O=4 | S=2 
+| molecular_weight = 371.8192 g/mol
+|  smiles = CN1C(=C(C2=C(S1(=O)=O)C=C(S2)Cl)O)C(=O)NC3=CC=CC=N3
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C13H10ClN3O4S2/c1-17-10(13(19)16-9-4-2-3-5-15-9)11(18)12-7(23(17,20)21)6-8(14)22-12/h2-6,18H,1H3,(H,15,16,19)
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = WLHQHAUOOXYABV-UHFFFAOYSA-N
+}}
+
+'''Lornoxicam''' ([[International Nonproprietary Name|INN]], or '''chlortenoxicam'''; trade name '''Xefo''', among others) is a [[nonsteroidal anti-inflammatory drug]] (NSAID) of the [[oxicam]] class with [[analgesic]] (pain relieving), [[anti-inflammatory]] and [[antipyretic]] (fever reducing) properties. It is available in [[oral administration|oral]] and [[parenteral]] formulations.
+
+==Indications==
+Lornoxicam is used for the treatment of various types of pain, especially resulting from inflammatory diseases of the joints, [[osteoarthritis]], surgery, [[sciatica]], and other inflammations.<ref name="AC">{{cite book|title=Austria-Codex|editor=Haberfeld, H|at=Xefo Filmtabletten|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2009|edition=2009/2010|isbn=3-85200-196-X|language=German}}</ref>
+
+==Contraindications==
+The drug is contraindicated in patients who must not take other NSAIDs, possible reasons including [[salicylate sensitivity]], gastrointestinal bleeding and [[bleeding disorder]]s, and severe impairment of heart, liver or kidney function. Lornoxicam is not recommended during pregnancy and breastfeeding and is contraindicated during the last third of pregnancy.<ref name="AC" />
+
+==Adverse effects==
+Lornoxicam has side effects similar to other NSAIDs, most commonly mild ones like gastrointestinal disorders ([[nausea]] and [[diarrhea]]) and [[headache]]. Severe but seldom side effects include bleeding, [[bronchospasm]]s and the extremely rare [[Stevens–Johnson syndrome]].<ref name="AC" />
+
+== Interactions ==
+Interactions with other drugs are typical of NSAIDs. Combination with [[vitamin K antagonist]]s like [[warfarin]] increases the risk of bleeding. Combination with [[ciclosporin]] can lead to reduced kidney function, and to acute [[renal failure]] in rare cases. Lornoxicam can also increase the adverse effects of [[lithium]], [[methotrexate]] and [[digoxin]] and its derivatives. The effect of [[diuretic]]s, [[ACE inhibitor]]s and [[angiotensin II receptor antagonist]]s can be reduced, but this is only relevant in patients with special risks like [[heart failure]]. As with [[piroxicam]], [[cimetidine]] can increase plasma levels but is unlikely to cause relevant interactions.<ref name="Arzneimittel-Interaktionen">{{cite book|title=Arzneimittel-Interaktionen|editor=Klopp, T|publisher=Arbeitsgemeinschaft für Pharmazeutische Information|date=2010|edition=2010/2011|isbn=978-3-85200-207-1|language=German}}</ref>
+
+==References==
+{{Reflist|2}}
+
+
+{{Anti-inflammatory and antirheumatic products}}
+{{Prostanoidergics}}
+
+[[Category:Nonsteroidal anti-inflammatory drugs]]
+[[Category:Thienothiazines]]
+[[Category:Pyridines]]
+[[Category:Chloroarenes]]
+[[Category:Carboxamides]]

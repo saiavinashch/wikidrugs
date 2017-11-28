@@ -1,0 +1,74 @@
+{{Drugbox
+
+| image = Enramycins.png
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|CAS}}
+| CAS_number = 11115-82-5
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 4GP7CLG9EG
+
+| PubChem = 56842192
+| ATCvet = yes
+| ATC_prefix = A07
+| ATC_suffix = AA94
+<!--Chemical data-->
+| C=107 | H=138
+| Cl=2 | N=26 | O=31
+| molecular_weight = 2355.30 g/mol
+}}
+
+'''Enramycin''' or '''Enduracidin''' is a [[polypeptide antibiotic]] produced by ''[[Streptomyces fungicidus]]''. Enramycin is widely used as a feed additive for pigs and chickens to prevent necrotic enteritis induced by [[Gram positive|Gram-positive]] gut pathogens.<ref>Schering-Plough. "Enramycin." Darou Gostar Group. N.p., n.d. Web. 13 Mar. 2014.</ref>
+
+== Mechanism of action ==
+Enramycin acts as an inhibitor of the enzyme, MurG, which is essential for [[Cell wall#Bacterial cell walls|cell wall]] biosynthesis in [[Gram positive|Gram-positive]] bacteria. MurG catalyzes the transglycosylation reaction in the last step of [[peptidoglycan]] biosynthesis. Inhibiting this step greatly compromises cell wall integrity leading to cell lysis.<ref>{{Cite journal
+ | pmid = 16880924
+| year = 2006
+| author1 = Fang
+| first1 = X
+| title = The mechanism of action of ramoplanin and enduracidin
+| journal = Molecular BioSystems
+| volume = 2
+| issue = 1
+| pages = 69-76
+| last2 = Tiyanont
+| first2 = K
+| last3 = Zhang
+| first3 = Y
+| last4 = Wanner
+| first4 = J
+| last5 = Boger
+| first5 = D
+| last6 = Walker
+| first6 = S
+| doi = 10.1039/b515328j
+}}</ref>
+
+== Spectrum of susceptibility ==
+Enramycin has been found to be very effective against [[Gram positive|Gram-positive]] gut pathogens, most notably, ''[[Clostridium perfringens]]''; a leading cause of necrotic enteritis.{{Citation needed|reason="leading cause" claim not found in toku-e.com reference below|date=May 2017}} The following represents MIC data for a couple of veterinary pathogens.<ref>{{cite web |url=http://www.toku-e.com/Assets/MIC/Enramycin.pdf |title=Enramycin Susceptibilty and Resistance Data}}</ref>
+* ''Clostridium perfringens'': 0.05 μg/ml – 1.6 μg/ml
+* ''Staphylococcus aureus'': 0.013 μg/ml – 0.413 μg/ml
+
+== Composition ==
+Standard grade enramycin is composed of two main components called enramycin A and enramycin B. These two components are routinely used as analytical reference standards; however, their activity as individual compounds does not appear to be widely studied or characterized.<ref>{{Cite journal
+ | pmid = 20004073
+| year = 2010
+| author1 = Inoue
+| first1 = K
+| title = An approach to on-line electrospray mass spectrometric detection of polypeptide antibiotics of enramycin for high-speed counter-current chromatographic separation
+| journal = Journal of Pharmaceutical and Biomedical Analysis
+| volume = 51
+| issue = 5
+| pages = 1154-60
+| last2 = Hattori
+| first2 = Y
+| last3 = Hino
+| first3 = T
+| last4 = Oka
+| first4 = H
+| doi = 10.1016/j.jpba.2009.11.010
+}}</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:Polypeptide antibiotics]]

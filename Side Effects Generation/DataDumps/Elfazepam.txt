@@ -1,0 +1,59 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 447996514
+| IUPAC_name = 7-Chloro-1-(2-ethylsulfonylethyl)-5-(2-fluorophenyl)-3''H''-1,4-benzodiazepin-2-one
+| image = Elfazepam.svg
+| width = 190
+
+<!--Clinical data-->
+| tradename =  
+| legal_status =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 52042-01-0
+| ATC_prefix = none
+| PubChem = 65445
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 58907
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = RM53R5R2BL
+
+<!--Chemical data-->
+| C=19 | H=18 | Cl=1 | F=1 | N=2 | O=3 | S=1 
+| molecular_weight = 408.87
+| smiles = O=S(CC)(CCN1C(CN=C(C2=CC=CC=C2F)C3=C1C=CC(Cl)=C3)=O)=O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H18ClFN2O3S/c1-2-27(25,26)10-9-23-17-8-7-13(20)11-15(17)19(22-12-18(23)24)14-5-3-4-6-16(14)21/h3-8,11H,2,9-10,12H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = BSPSXMXQKZZNFP-UHFFFAOYSA-N
+}}
+
+'''Elfazepam'''<ref>{{US Patent | 4010154}}</ref> is a drug which is a [[benzodiazepine]] derivative.<ref>[http://www.psychotropics.dk/moleculeView/default.aspx?ID=1445&Catalogtype=A&ChapterID=1&Thissortorder=42 Psychotropics.dk]</ref> Presumably it has [[sedative]] and [[anxiolytic]] actions like those of other benzodiazepines.
+
+[[Orexigenic]] properties in animals.<ref>{{Cite journal | last1 = Baile | first1 = CA. | last2 = McLaughlin | first2 = CL. | title = A review of the behavioral and physiological responses to elfazepam, a chemical feed intake stimulant. | journal = J Anim Sci | volume = 49 | issue = 5 | pages = 1371–95 |date=Nov 1979 | PMID = 396294 }}</ref><ref>{{Cite journal | last1 = Baile | first1 = CA. | last2 = Naylor | first2 = J. | last3 = McLaughlin | first3 = CL. | last4 = Catanzaro | first4 = CA. | title = Endotoxin-elicited fever and anorexia and elfazepam-stimulated feeding in sheep. | journal = Physiol Behav | volume = 27 | issue = 2 | pages = 271–7 |date=Aug 1981 | PMID = 7029576 | doi=10.1016/0031-9384(81)90269-9}}</ref> The mechanism for increasing feed intake is not clear and has been subject of investigation.<ref>{{Cite journal | last1 = Keim | first1 = DA. | last2 = Baile | first2 = CA. | last3 = Bolton | first3 = JR. | last4 = Wangsness | first4 = PJ. | last5 = Della Fera | first5 = MA. | title = Abomasal function following injections of elfazepam and 9-aza-cannabinol. | journal = Pharmacol Biochem Behav | volume = 10 | issue = 1 | pages = 63–70 |date=Jan 1979 | PMID = 35793 | doi=10.1016/0091-3057(79)90170-9}}</ref> It has been found that elfazepam suppresses [[gastric acid]] secretion.<ref>{{Cite journal | last1 = Van Den Broek | first1 = GW. | last2 = Robertson | first2 = J. | last3 = Keim | first3 = DA. | last4 = Baile | first4 = CA. | title = Feeding and depression of abomasal secretion in sheep elicited by elfazepam and 9-aza-cannabinol. | journal = Pharmacol Biochem Behav | volume = 11 | issue = 1 | pages = 51–6 |date=Jul 1979 | PMID = 493298 | doi=10.1016/0091-3057(79)90296-x}}</ref>
+
+==Synthesis==
+[[File:Elfazepam synthesis.svg|thumb|center|500px|Elfazepam synthesis: U.S. Patent 4,010,154]]
+Benzophenone derivative '''1''' is reacted with a [[glycine]] equivalent masked as an oxazolidine-2,5-dione '''2''' to give the final product '''3''' Elfazepam.
+
+==References==
+<references/>
+
+{{Benzodiazepines}}
+{{GABAAR PAMs}}
+
+[[Category:Benzodiazepines]]
+[[Category:Chloroarenes]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:Lactams]]
+[[Category:Fluoroarenes]]
+
+{{sedative-stub}}

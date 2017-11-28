@@ -1,0 +1,73 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 443623479
+| IUPAC_name = Methyl&nbsp;''N''-(6-phenylsulfanyl-1''H''-benzoimidazol-2-yl)carbamate
+| image = Fenbendazole.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|fenbendazole}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 43210-67-9
+| ATC_prefix = P02
+| ATC_suffix = CA06
+| ATC_supplemental =  {{ATCvet|P52|AC13}}
+| PubChem = 3334
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3217
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 621BVT9M36
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D04140
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 77092
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 37161
+
+<!--Chemical data-->
+| C=15 | H=13 | N=3 | O=2 | S=1
+| molecular_weight = 299.349 g/mol
+| smiles = O=C(OC)Nc3nc2ccc(Sc1ccccc1)cc2n3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C15H13N3O2S/c1-20-15(19)18-14-16-12-8-7-11(9-13(12)17-14)21-10-5-3-2-4-6-10/h2-9H,1H3,(H2,16,17,18,19)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = HDDSHPAODJUKPD-UHFFFAOYSA-N
+}}
+
+'''Fenbendazole''' ([[Hoechst AG|Hoechst]] brand names ''Panacur'' and ''Safe-Guard'', [[Intervet]] ''Panacur'' and ''Panacur Rabbit'') is a broad spectrum [[benzimidazole]] [[anthelmintic]] used against gastrointestinal parasites including: [[giardia]], [[roundworm]]s, [[hookworm]]s, [[whipworm]]s, the [[Taenia (genus)|''Taenia'' genus]] of [[tapeworm]]s (but not effective against ''[[Dipylidium caninum]]'', a common dog tapeworm), [[pinworm]]s, [[aelurostrongylus]], [[paragonimiasis]], [[Strongyle (worm)|strongyle]]s and [[strongyloides]] and can be administered to [[sheep]], [[cattle]], [[horse]]s, [[fish]], [[dog]]s, [[cat]]s, [[rabbits]] and [[Pinniped|seal]]s.  Drug interactions may occur if [[salicylanilide]]s like [[dibromsalan]] and [[niclosamide]] are co-administered. Abortions in cattle and death in sheep have been reported.<ref name=Plumb>''Plumb's Veterinary Drug Handbook'', Fifth Edition, 2005.</ref>
+
+==Toxicity==
+Despite being widely used as a dewormer in many species, toxicity has been reported. Birds (storks, pink pelicans, vultures, pigeons and doves) and reptiles (vipers, turtles and tortoises) have shown toxicity associated with bone marrow suppression, intestinal crypt cell necrosis and distal villi sloughing.{{Citation needed|date=July 2010}} Abortions in domestic ruminants have been associated with concurrent use of anti-trematode therapeutic agents.{{Citation needed|date=July 2010}}
+
+Fenbendazole is poorly absorbed from the gastrointestinal tract in most species. The {{LD50}} in laboratory animals exceeds 10&nbsp;g/kg when administered orally.<ref name=Plumb/>
+
+== Metabolism ==
+It gets metabolized in the liver to [[oxfendazole]], which is anthelmintic too; [[oxfendazole]] partially gets reduced back to fenbendazole in the liver and [[rumen]].<ref>{{Cite web|url=http://parasitipedia.net/index.php?option=com_content&view=article&id=2512&Itemid=2785|title=FENBENDAZOLE, anthelmintic for veterinary use on CATTLE, SHEEP, GOATS, PIG, POULTRY, HORSES, DOGS and CATS against roundworms and tapeworms|last=Junquera|first=P.|date=2015-07-26|website=PARASITIPEDIA|access-date=2015-09-08}}</ref><ref>{{Cite web|url=http://parasitipedia.net/index.php?option=com_content&view=article&id=2517&Itemid=2790|title=OXFENDAZOLE, anthelmintic for veterinary use on CATTLE, SHEEP, GOATS, HORSES, DOGS and CATS against roundworms and tapeworms|last=Junquera|first=P.|date=2015-07-26|website=PARASITIPEDIA|access-date=2015-09-08}}</ref> Also, fenbendazole itself is an active metabolite of another anthelmintic drug, [[febantel]].<ref>{{Cite web|url=http://parasitipedia.net/index.php?option=com_content&view=article&id=2521&Itemid=2794|title=FEBANTEL for veterinary use on DOGS, CATS, CATTLE, SHEEP, GOATS, PIG and POULTRY against roundworms and tapeworms|last=Junquera|first=P.|date=2015-07-26|website=PARASITIPEDIA|access-date=2015-09-08}}</ref>
+
+==See also==
+* [[Oxfendazole]]
+* [[Nocodazole]]
+* [[Praziquantel]]
+
+==References==
+{{Reflist}}
+
+
+{{Anthelmintics}}
+{{Xenobiotic-sensing receptor modulators}}
+
+[[Category:Anthelmintics]]
+[[Category:Thioethers]]
+[[Category:Benzimidazoles]]
+[[Category:Carbamates]]

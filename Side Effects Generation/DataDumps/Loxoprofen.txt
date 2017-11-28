@@ -1,0 +1,74 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 462094150
+| IUPAC_name = (''RS'')-2-<nowiki/>{4-[(2-oxocyclopentyl)methyl]phenyl}propanoic acid
+| image = Loxoprofen.svg
+| width = 250px
+| image2 = Loxoprofen 3D.png
+| chirality = [[Racemic mixture]]
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|loxoprofen}}
+| pregnancy_category =  
+| legal_status = Red Stripe <small>([[Brazil]])</small>
+| routes_of_administration = Oral, [[transdermal patch|transdermal]]
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 97%
+| metabolism = [[Liver|Hepatic]] [[glucuronidation]]
+| elimination_half-life = 75 minutes
+| excretion = [[Kidney|Renal]]
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 68767-14-6
+| ATC_prefix = M01
+| ATC_suffix = AE
+| PubChem = 3965
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3828
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 3583H0GZAP
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08149
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 76172
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 19299
+<!--Chemical data-->
+| C=15 | H=18 | O=3
+| molecular_weight = 246.302 g/mol<br />304.314 g/mol (sodium salt as the dihydrate)
+| SMILES = O=C2C(Cc1ccc(cc1)C(C(=O)O)C)CCC2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C15H18O3/c1-10(15(17)18)12-7-5-11(6-8-12)9-13-3-2-4-14(13)16/h5-8,10,13H,2-4,9H2,1H3,(H,17,18)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YMBXTVYHTMGZDW-UHFFFAOYSA-N
+}}
+
+'''Loxoprofen''' ([[International Nonproprietary Name|INN]]) is a [[nonsteroidal anti-inflammatory drug]] (NSAID) in the [[propionic acid]] derivatives group, which also includes [[ibuprofen]] and [[naproxen]] among others. It is marketed in [[Brazil]], [[Mexico]] and [[Japan]] by [[Daiichi Sankyo|Sankyo]] as its [[sodium]] salt, '''loxoprofen sodium''', under the trade name '''Loxonin''', [[Argentina]] as '''Oxeno''' and in [[India]] as '''Loxomac'''. It is available in these countries for oral administration, and a [[transdermal patch|transdermal]] preparation was approved for sale in Japan on January 2006.<ref>{{cite press release | url = http://www.daiichisankyo.com/media_investors/media_relations/press_releases/detail/005643.html | title = Percutaneous Absorption-Type Analgesic and Anti-inflammatory Drug Loxonin Poultice 100mg Receives Approval for Manufacture | author = [[Daiichi Sankyo Co.]] | date = January 24, 2006 | accessdate = 2007-04-19 | publisher = Doctor's Guide Global Edition}}</ref>
+
+==Pharmacokinetics==
+Loxoprofen is a [[prodrug]]. It is quickly converted to its active ''trans''-alcohol [[metabolite]] following oral administration, and reaches its peak plasma concentration within 30 to 50 minutes.
+
+==Mechanism of action==
+As most [[NSAID]]s, loxoprofen is a non-selective [[cyclooxygenase]] inhibitor, and works by reducing the synthesis of [[prostaglandin]]s from [[arachidonic acid]].
+
+==Interactions==
+Loxoprofen should not be administered at the same time as second-generation [[quinolone antibiotic]]s such as [[ciprofloxacin]] and [[norfloxacin]], as it increases their inhibition of [[gamma-aminobutyric acid|GABA]] and this may cause [[seizure]]s.<ref name="Label">{{cite web | url = http://bulas.cxpass.net/index.asp?C=A&V=66506F737449443D36323834266163743D73686F7752656164436F6D6D656E7473<!--
+--convenience link--> | title = LOXONIN - Bula do Medicamento [Label Information<nowiki>]</nowiki> | year = 2007 | accessdate = 2007-04-19 | publisher = Centralx|language=pt}}</ref>
+It may also increase the plasma concentration of [[warfarin]], [[methotrexate]], [[sulfonylurea]] derivatives and [[lithium salt]]s, so care should be taken when loxoprofen is administered to patients taking any of these drugs.<ref name="Label"/>
+
+==References==
+{{Reflist}}
+
+{{Commons category}}
+
+{{NSAIDs}}
+{{Prostanoidergics}}
+
+[[Category:Nonsteroidal anti-inflammatory drugs]]
+[[Category:Prodrugs]]
+[[Category:Cycloalkanones]]
+[[Category:Propionic acids]]

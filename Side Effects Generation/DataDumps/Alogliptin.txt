@@ -1,0 +1,138 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 454952697
+| IUPAC_name = 2-({6-[(3''R'')-3-aminopiperidin-1-yl]-3-methyl-2,4-dioxo-3,4-dihydropyrimidin-1(2''H'')-yl}methyl)benzonitrile
+| image = Alogliptin.svg
+
+<!--Clinical data-->
+| tradename = Nesina, Vipidia<br>Kazano, Vipidomet (with [[metformin]])<br>Oseni, Incresync (with [[pioglitazone]])
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = B
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 100%
+| protein_bound = 20%
+| metabolism = Limited, [[liver|hepatic]] ([[CYP2D6]]- and [[CYP3A4|3A4]]-mediated)
+| elimination_half-life = 12–21 hours
+| excretion = Renal (major) and fecal (minor)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6319
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 850649-62-6
+| ATC_prefix = A10
+| ATC_suffix = BH04
+| PubChem = 11450633
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 72323  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = JHC049LO86
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D06553
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 376359
+| synonyms = SYR-322
+
+<!--Chemical data-->
+| C=18 | H=21 | N=5 | O=2 
+| molecular_weight = 339.39 g/mol
+| smiles = N#Cc3ccccc3CN\1C(=O)N(C)C(=O)/C=C/1N2CCC[C@@H](N)C2
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 9625485
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C18H21N5O2/c1-21-17(24)9-16(22-8-4-7-15(20)12-22)23(18(21)25)11-14-6-3-2-5-13(14)10-19/h2-3,5-6,9,15H,4,7-8,11-12,20H2,1H3/t15-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ZSBOMTDTBDDKMP-OAHLLOKOSA-N
+}}
+'''Alogliptin''' (trade name '''Nesina''' in the US<ref name=takedapr28864/> and '''Vipidia''' in Europe<ref>[http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Summary_for_the_public/human/002182/WC500152272.pdf Vipidia: EPAR summary for the public] ([[European Medicines Agency]])</ref>) is an orally administered [[anti-diabetic drug]] in the [[Dipeptidyl peptidase-4 inhibitor|DPP-4 inhibitor]] class,<ref name=pmid17441705/> developed by Syrrx, a company which was acquired by [[Takeda Pharmaceutical Company]] in 2005.<ref>[http://www.utsandiego.com/uniontrib/20050208/news_1b8syrrx.html]</ref> Like other medications for the treatment of Type 2 diabetes, alogliptin does not decrease the risk of heart attack and stroke. Like other members of the gliptin class, it causes little or no weight gain, exhibits relatively little risk of causing hypoglycemia, and exhibits relatively modest glucose-lowering activity.  Alogliptin and other gliptins are commonly used in combination with metformin in patients whose diabetes cannot adequately be controlled with metformin alone.<ref>{{cite web |url=https://www.aace.com/files/algorithm-07-11-2013.pdf |title=www.aace.com |format= |work= |accessdate=}}</ref> In April 2016, the U.S. FDA added a warning about increased risk of [[heart failure]].<ref name=FDA2016>{{cite web|title=Safety Alerts for Human Medical Products - Diabetes Medications Containing Saxagliptin and Alogliptin: Drug Safety Communication - Risk of Heart Failure|url=http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm494252.htm|website=www.fda.gov|accessdate=7 April 2016|language=en}}</ref>
+
+==Medical uses==
+Alogliptin is a [[dipeptidyl peptidase-4 inhibitor]] that decreases blood sugar similar to the other.<ref>{{cite journal|last1=Saisho|first1=Y|title=Alogliptin benzoate for management of type 2 diabetes.|journal=Vascular health and risk management|date=2015|volume=11|pages=229–43|pmid=25914541|doi=10.2147/VHRM.S68564|pmc=4401208}}</ref>
+
+==Side effects==
+Adverse events include mild [[hypoglycemia]] based on clinical studies.<ref name=seino2011/><ref name=kutoh2012/><ref name=bosi2011/> It may cause severe joint pain.<ref>{{cite web|title=DPP-4 Inhibitors for Type 2 Diabetes: Drug Safety Communication - May Cause Severe Joint Pain|url=http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm460238.htm|website=FDA|accessdate=1 September 2015|date=2015-08-28}}</ref>
+
+Alogliptin is not associated with increased weight, increased risk of cardiovasular events.<ref>{{cite journal |vauthors=White WB, Cannon CP, Heller SR |title=Alogliptin after acute coronary syndrome in patients with type 2 diabetes |journal=N. Engl. J. Med. |volume=369 |issue=14 |pages=1327–35 |date=October 2013  |pmid=23992602 |doi=10.1056/NEJMoa1305889 |url=|display-authors=etal}}</ref><ref>{{cite journal |vauthors=White WB, Zannad F |title=Saxagliptin, alogliptin, and cardiovascular outcomes |journal=N. Engl. J. Med. |volume=370 |issue=5 |pages=484 |date=January 2014  |pmid=24482824 |doi=10.1056/NEJMc1313880 |url=}}</ref> In April 2016, the U.S. FDA added a warning about increased risk of [[heart failure]].<ref name=FDA2016/>
+
+==Market access==
+[[File:Nesina Sales In China.jpg|thumb|Alogliptin tablets sales in Mainland China. Specification is 25mg * 10 tablets.]]
+In December 2007, Takeda submitted a [[New Drug Application]] (NDA) for alogliptin to the [[Food and Drug Administration|United States Food and Drug Administration]] (USFDA),<ref name=grogan2012/> after positive results from [[clinical trial#Phase III|Phase III clinical trials]].<ref name=takedapr28864/>  In September 2008, the company also filed for approval in Japan,<ref name=geneng2009/> winning approval in April 2010.<ref name=grogan2012/>  The company also filed a [[Marketing Authorization Application]] (MAA) elsewhere outside the United States, which was withdrawn in June 2009 needing more data.<ref name=geneng2009/>  The first USFDA NDA failed to gain approval and was followed by a pair of NDAs (one for alogliptin and a second for a combination of alogliptin and [[pioglitazone]]) in July 2011.<ref name=grogan2012/>  In 2012, Takeda received a negative response from the USFDA on both of these NDAs, citing a need for additional data.<ref name=grogan2012/>
+
+In 2013 the FDA approved the drug in three formulations: As a stand-alone with the brand-name Nesina. Combined with [[metformin]] using the name Kazano, and when combined with [[pioglitazone]] as Oseni.
+
+==See also==
+* [[Trelagliptin]]
+{{Clear}}
+
+==References==
+{{reflist|2||refs=
+
+<ref name=geneng2009>{{cite news
+ |url=http://www.genengnews.com/news/bnitem.aspx?name=55661199&source=genwire
+ |title=GEN News Highlights: Takeda Pulls MAA for Type 2 Diabetes Therapy |date=June 4, 2009
+ |publisher=[[Genetic Engineering & Biotechnology News]]
+}}</ref>
+
+<ref name=grogan2012>{{Citation
+ |last=Grogan |first=Kevin |publication-date=April 26, 2012 |title=FDA wants yet more data on Takeda diabetes drug alogliptin
+ |periodical=[[PharmaTimes]] |at=PharmaTimes online |publisher=PharmaTimes |accessdate=April 26, 2012
+ |url=http://www.pharmatimes.com/Article/12-04-26/FDA_wants_yet_more_data_on_Takeda_diabetes_drug_alogliptin.aspx
+}}</ref>
+
+<ref name=pmid17441705>{{cite journal
+ |last=Feng |first=Jun |last2=Zhang |first2=Zhiyuan |last3=Wallace |first3=Michael B. |last4=Stafford |first4=Jeffrey A.
+ |last5=Kaldor |first5=Stephen W. |last6=Kassell |first6=Daniel B. |last7=Navre |first7=Marc |last8=Shi |first8=Lihong
+ |last9=Skene |first9=Robert J. |last10=Asakawa |first10=Tomoko |last11=Takeuchi |first11=Koji |last12=Xu |first12=Rongda
+ |last13=Webb |first13=David R. |last14=Gwaltney II |first14=Stephen L.
+ |title=Discovery of alogliptin: a potent, selective, bioavailable, and efficacious inhibitor of dipeptidyl peptidase IV
+ |journal=[[J. Med. Chem.]] |volume=50 |issue=10 |pages=2297&ndash;2300 |year=2007 |pmid=17441705 |doi=10.1021/jm070104l
+}}</ref>
+
+<ref name=seino2011>{{Citation
+ |last=Seino |first=Yutaka |last2=Fujita |first2=Tetsuya |last3=Hiroi |first3=Shinzo |last4=Hirayama |first4=Masashi
+ |last5=Kaku |first5=Kohei |date=September 2011 |accessdate=April 26, 2012
+ |title=Efficacy and safety of alogliptin in Japanese patients with type 2 diabetes mellitus: a randomized, double-blind, dose-ranging comparison with placebo, followed by a long-term extension study (abstract only)
+ |journal=[[Current Medical Research and Opinion]] |volume=27 |issue=9 |pages=1781&ndash;1792 |pmid=21806314
+ |doi=10.1185/03007995.2011.599371 |url=http://informahealthcare.com/doi/abs/10.1185/03007995.2011.599371
+}}</ref>
+
+<ref name=kutoh2012>{{Citation
+ |last=Kutoh |first=Eiji |last2=Ukai |first2=Yasuhiro |publication-date=January 17, 2012 |year=2012
+ |title=Alogliptin as an initial therapy in patients with newly diagnosed, drug naïve type 2 diabetes: a randomized, control trial (abstract only) |journal=[[Endocrine (journal)|Endocrine]] |pages= 435–41|pmid=22249941 |doi=10.1007/s12020-012-9596-0
+ |url=http://www.springerlink.com/content/g615228rv8p58748/ |accessdate=April 26, 2012 |volume=41
+}}</ref>
+
+<ref name=bosi2011>{{Citation
+ |last=Bosi |first=Emanuele |last2=Ellis |first2=G.C. |last3=Wilson |first3=C.A. |last4=Fleck |first4=P.R. |publication-date=October 27, 2011 |date=October 2011
+ |title=Alogliptin as a third oral antidiabetic drug in patients with type 2 diabetes and inadequate glycaemic control on metformin and pioglitazone: a 52-week, randomized, double-blind, active-controlled, parallel-group study
+ |journal=[[Diabetes, Obesity and Metabolism]] |volume=13 |issue=12 |publisher= |publication-place= |pages=1088&ndash;1096 |isbn= |oclc= |pmid= |doi=10.1111/j.1463-1326.2011.01463.x |url=http://onlinelibrary.wiley.com/doi/10.1111/j.1463-1326.2011.01463.x/abstract |accessdate=April 26, 2012
+}}</ref>
+
+<ref name=takedapr28864>{{cite press release
+ |url=http://www.takeda.com/press/article_28864.html
+ |title=Takeda Submits New Drug Application for Alogliptin (SYR-322) in the U.S. |date=January 4, 2008 |accessdate=January 9, 2008
+ |publisher=[[Takeda Pharmaceutical Company]]
+}}</ref>
+
+}}
+
+{{Oral hypoglycemics}}
+
+[[Category:Dipeptidyl peptidase-4 inhibitors]]
+[[Category:Nitriles]]
+[[Category:Piperidines]]
+[[Category:Ureas]]
+[[Category:Imides]]
+[[Category:Pyrimidinediones]]
+[[Category:Enantiopure drugs]]
+[[Category:Takeda Pharmaceutical Company]]

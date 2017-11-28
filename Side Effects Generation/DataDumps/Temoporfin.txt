@@ -1,0 +1,74 @@
+{{Drugbox
+| verifiedrevid = 448134770
+| IUPAC_name = 3,3',3<nowiki>''</nowiki>,3<nowiki>'''</nowiki>-(2,3-dihydroporphyrin-5,10,15,20-tetrayl)tetraphenol
+| image = Temoporfin.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|temoporfin}}
+| licence_EU = Foscan
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 122341-38-2
+| ATC_prefix = L01
+| ATC_suffix = XD05
+| ATC_supplemental =  
+| PubChem = 60751
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChEMBL = 383675
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = FU21S769PF
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D06066
+| ChemSpiderID      = 54754
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=44 | H=32 | N=4 | O=4 
+| molecular_weight = 680.74 g/mol
+| smiles            = c1cc(cc(c1)O)c2/c3ccc([nH]3)/c(c/4\nc(/c(c\5/cc/c(/[nH]5)c(/c6n\c2\CC6)\c7cccc(c7)O)/c8cccc(c8)O)C=C4)/c9cccc(c9)O
+| StdInChI          = 1S/C44H32N4O4/c49-29-9-1-5-25(21-29)41-33-13-15-35(45-33)42(26-6-2-10-30(50)22-26)37-17-19-39(47-37)44(28-8-4-12-32(52)24-28)40-20-18-38(48-40)43(36-16-14-34(41)46-36)27-7-3-11-31(51)23-27/h1-17,19,21-24,46-47,49-52H,18,20H2/b41-33-,41-34-,42-35-,42-37-,43-36-,43-38-,44-39-,44-40-
+| StdInChIKey       = LYPFDBRUNKHDGX-LWQDQPMZSA-N
+}}
+
+'''Temoporfin''' ([[International Nonproprietary Name|INN]]) is a [[photosensitizer]] (based on [[chlorin]]) used in [[photodynamic therapy]] for the treatment of [[squamous cell carcinoma]] of the [[head and neck cancer|head and neck]]<ref name="pmid17516041">{{cite journal |vauthors=Lorenz KJ, Maier H |title=[Squamous cell carcinoma of the head and neck. Photodynamic therapy with Foscan] |language=German |journal=HNO |volume=56 |issue=4 |pages=402–9 |date=April 2008 |pmid=17516041 |doi=10.1007/s00106-007-1573-1 |url=}}</ref>
+.<ref name=OGB2009>{{cite news |url=http://findarticles.com/p/articles/mi_qa3931/is_200909/ai_n42040200/pg_7/ |title=Porphyrin and Nonporphyrin Photosensitizers in Oncology: Preclinical and Clinical Advances in Photodynamic Therapy.  Photochemistry and Photobiology, Sep/Oct 2009 |author=O'Connor, Aisling E |author2=Gallagher, William M |author3=Byrne, Annette T | work=Photochemistry and Photobiology |year=2009}}</ref> 
+It is marketed in the [[European Union]] under the brand name '''Foscan'''.  The U.S. [[Food and Drug Administration]] (FDA) declined to approve Foscan in 2000.  The EU approved its use in June 2001.<ref>http://www.highbeam.com/doc/1P2-18794532.html Foscan approval saves Scotia's skin.</ref>
+
+Good results were obtained in 21 of 35 patients treated in Germany.<ref>http://www.springerlink.com/content/g74w224824v8l013/</ref>
+
+It is photoactivated at 652&nbsp;nm<ref>{{cite news| url=http://findarticles.com/p/articles/mi_qa3931/is_200909/ai_n42040200/pg_7/ | work=Photochemistry and Photobiology | title=Porphyrin and Nonporphyrin Photosensitizers in Oncology: Preclinical and Clinical Advances in Photodynamic Therapy | year=2009}}</ref> i.e. by red light.
+
+Patients can remain photosensitive for several weeks after treatment.<ref name=OGB2009/>
+
+==Further reading==
+*[http://www.nature.com/bjc/journal/v96/n6/full/6603631a.html Relationship between subcellular localisation of Foscan and caspase activation in photosensitised MCF-7 cells. Marchal et al. 2007]
+
+==References==
+{{reflist|30em}}
+
+{{Chemotherapeutic agents}}
+
+[[Category:Photosensitizing agents]]
+[[Category:Tetrapyrroles]]
+
+
+{{antineoplastic-drug-stub}}

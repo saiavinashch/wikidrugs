@@ -1,0 +1,75 @@
+{{ref improve|date=August 2014}}
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 470473035
+| IUPAC_name = 4-amino-''N''-(4-methylpyrimidin-2-yl)<br>benzenesulfonamide
+| image = Sulfamerazine_Structural_Formulae_V.1.svg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|sulfamerazine}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 127-79-7
+| ATC_prefix = D06
+| ATC_suffix = BA06
+| ATC_supplemental = {{ATC|J01|ED07}} {{ATCvet|J01|EQ17}}
+| PubChem = 5325
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01581
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5134
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = UR1SAB295F
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02435
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 102130
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 438
+<!--Chemical data-->
+| C=11 | H=12 | N=4 | O=2 | S=1
+| molecular_weight = 264.305 g/mol
+| smiles = O=S(=O)(Nc1nc(ccn1)C)c2ccc(N)cc2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C11H12N4O2S/c1-8-6-7-13-11(14-8)15-18(16,17)10-4-2-9(12)3-5-10/h2-7H,12H2,1H3,(H,13,14,15)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = QPPBRPIAZZHUNT-UHFFFAOYSA-N
+}}
+'''Sulfamerazine''' is a [[sulfonamide (medicine)|sulfonamide]] [[antibacterial]].
+==Synthesis==
+[[File:Sulfamerazine synthesis.svg|thumb|center|700px|Sulfamerazine synthesis:<ref>{{Cite journal | doi = 10.1021/ja01865a027| title = Chemotherapy. II. Some Sulfanilamido Heterocycles1| journal = Journal of the American Chemical Society| volume = 62| issue = 8| pages = 2002| year = 1940| last1 = Roblin | first1 = R. O. | last2 = Williams | first2 = J. H. | last3 = Winnek | first3 = P. S. | last4 = English | first4 = J. P. }}</ref><ref>{{Cite journal | doi = 10.1021/ja01856a046| title = Sulfonamido Derivatives of Pyrimidines| journal = Journal of the American Chemical Society| volume = 63| issue = 11| pages = 3028| year = 1941| last1 = Sprague | first1 = J. M. | last2 = Kissinger | first2 = L. W.| last3 = Lincoln | first3 = R. M. }}</ref> {{US patent|2378813}}]]
+==See also==
+*[[Sulfadiazine]]
+*[[Sulfamethazine]]
+*[[Sulfamethizole]]
+==References==
+{{reflist}}
+
+==External links==
+{{commonscatinline|Sulfonamide antibiotics}}
+* [http://www.drugbank.ca/drugs/DB01581 Sulfamerazine] ([[DrugBank]])
+* [http://webbook.nist.gov/cgi/cbook.cgi?ID=127-79-7 Sulfamerazine] ([[NIST]])
+
+{{Antibiotics and chemotherapeutics for dermatological use}}
+{{Sulfonamides and trimethoprim}}
+
+[[Category:Sulfonamide antibiotics]]
+[[Category:Pyrimidines]]
+
+{{antibiotic-stub}}
+{{dermatologic-drug-stub}}

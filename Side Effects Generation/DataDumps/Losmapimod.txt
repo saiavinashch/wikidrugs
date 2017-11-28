@@ -1,0 +1,66 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 444926440
+| IUPAC_name = 6-[5-(cyclopropylcarbamoyl)-3-fluoro-2-methylphenyl]-''N''-(2,2-dimethylpropyl)pyridine-3-carboxamide
+| image = Losmapimod.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = Investigational New Drug
+| legal_status = 
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7835
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 585543-15-3
+| ATC_prefix =  
+| ATC_suffix =  
+| PubChem = 11552706
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = F2DQF16BXE
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1088752
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D09639
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 9727484
+ 
+
+<!--Chemical data-->
+ | C=22 | H=26 | F=1 |N=3 | O=2 
+| molecular_weight = 383.458 g/mol
+| smiles = C3CC3NC(=O)c(cc(F)c1C)cc1-c(cc2)ncc2C(=O)NCC(C)(C)C
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C22H26FN3O2/c1-13-17(9-15(10-18(13)23)21(28)26-16-6-7-16)19-8-5-14(11-24-19)20(27)25-12-22(2,3)4/h5,8-11,16H,6-7,12H2,1-4H3,(H,25,27)(H,26,28)
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = KKYABQBFGDZVNQ-UHFFFAOYSA-N
+}}
+
+'''Losmapimod''' ('''GW856553X''') is a drug developed by [[GlaxoSmithKline]] which acts as a selective inhibitor of the [[enzyme]] family known as [[p38 mitogen-activated protein kinases]].<ref>Aston N, Bamborough P, Buckton J, Edwards C, Holmes D, Jones K, Patel V, Smee P, Somers D, Vitulli G, Walker A. p38α Mitogen-Activated Protein Kinase Inhibitors: Optimization of a Series of Biphenylamides to Give a Molecule Suitable for Clinical Progression. ''Journal of Medicinal Chemistry'' 2009, 52(20), 6257. {{doi|10.1021/jm9004779}}</ref> 
+
+[[p38 mitogen-activated protein kinases]] are mediators of [[inflammation]]. A Phase II human [[clinical trial]] for the treatment of [[COPD]] (chronic obstructive pulmonary disease)<ref>[http://clinicaltrials.gov/ct2/show/NCT01218126 Randomised, Double-Blind, Placebo-Controlled, Parallel-Group, Multi-centre, Dose Ranging Study to Evaluate the Efficacy and Safety of Losmapimod Tablets Administered Twice Daily Compared With Placebo for 24 Weeks in Adult Subjects With Chronic Obstructive Pulmonary Disease (COPD)]</ref> is underway. Inhibiting these enzymes has been shown to produce [[antidepressant]] and [[antipsychotic]] effects in animal studies, with the mechanism thought to involve increased [[neurogenesis]]<ref>Noh JS, Kang HJ, Kim YE, Sohn S, Chung YK, Kim SU, Gwag BJ. Haloperidol-Induced Neuronal Apoptosis: role of p38 and c-Jun-NH(2)-terminal protein kinase. ''Journal of Neurochemistry'' 2000, 75(6), 2327. {{PMID|11080184}} {{doi|10.1046/j.1471-4159.2000.0752327.x}}</ref> probably related to [[BDNF]] release. Losmapimod has completed Phase II human [[clinical trials]] for the treatment of [[Depression (mood)|depression]] although its safety and efficacy have yet to be proven in further trials.<ref>[http://clinicaltrials.gov/ct2/show/NCT00569062 A Study of GW856553X For the Treatment of Depression]</ref>
+
+Losmapimod is also being studied for cardiovascular disease.<ref>Cheriyan et al., Circulation 2011, 123(5), 515-523. Inhibition of p38 Mitogen-Activated Protein Kinase Improves Nitric Oxide–Mediated Vasodilatation and Reduces Inflammation in Hypercholesterolemia {{doi|10.1161/CIRCULATIONAHA.110.971986}}</ref> A Phase II trial (LATITUDE) to study its effects in [[myocardial infarction]] (heart attack) has been stopped in January 2016 because of disappointing results in phase A of the trial.<ref>[http://clinicaltrials.gov/ct2/show/NCT00910962 A Study to Evaluate the Safety of 12 Weeks of Dosing With GW856553 and Its Effects on Inflammatory Markers, Infarct Size, and Cardiac Function in Subjects With Myocardial Infarction Without ST-segment Elevation (Solstice)]</ref> 
+
+== References ==
+{{Reflist}}
+
+
+[[Category:Protein kinase inhibitors]]

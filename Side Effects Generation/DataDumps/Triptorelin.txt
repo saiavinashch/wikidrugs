@@ -1,0 +1,68 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 477865893
+| IUPAC_name = 5-oxo-<small>D</small>-prolyl-<small>L</small>-histidyl-<small>L</small>tryptophyl-<small>L</small>-seryl-<small>L</small>tyrosyl-3-(1''H''-indol-2-yl)-<small>L</small>-alanylleucyl-<small>L</small>-arginyl-<small>L</small>-prolylglycinamide
+| image = Triptorelin.png
+
+<!--Clinical data-->
+| tradename = Trelstar 
+| Drugs.com = {{drugs.com|CONS|triptorelin}}
+| MedlinePlus = 
+| pregnancy_category = X
+| legal_status = ℞-only
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| excretion = [[Kidney]]
+
+<!--Identifiers-->
+| IUPHAR_ligand = 1177
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 57773-63-4
+| ATC_prefix = L02
+| ATC_suffix = AE04
+| ATC_supplemental = {{ATCvet|H01|CA97}}
+| PubChem = 25074470
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 17290424
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 9081Y98W2V
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D06247
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 63633
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201334
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB06825
+| C=64 | H=82 | N=18 | O=13
+| molecular_weight = 1311.5 g/mol
+| smiles=CC(C)C[C@@H](C(=O)N[C@@H](CCCNC(=N)N)C(=O)N1CCC[C@H]1C(=O)NCC(=O)N)NC(=O)[C@@H](Cc2c[nH]c3c2cccc3)NC(=O)[C@H](Cc4ccc(cc4)O)NC(=O)[C@H](CO)NC(=O)[C@H](Cc5c[nH]c6c5cccc6)NC(=O)[C@H](Cc7cnc[nH]7)NC(=O)[C@@H]8CCC(=O)N8
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C64H82N18O13/c1-34(2)23-46(56(88)75-45(13-7-21-69-64(66)67)63(95)82-22-8-14-52(82)62(94)72-31-53(65)85)76-58(90)48(25-36-28-70-42-11-5-3-9-40(36)42)78-57(89)47(24-35-15-17-39(84)18-16-35)77-61(93)51(32-83)81-59(91)49(26-37-29-71-43-12-6-4-10-41(37)43)79-60(92)50(27-38-30-68-33-73-38)80-55(87)44-19-20-54(86)74-44/h3-6,9-12,15-18,28-30,33-34,44-52,70-71,83-84H,7-8,13-14,19-27,31-32H2,1-2H3,(H2,65,85)(H,68,73)(H,72,94)(H,74,86)(H,75,88)(H,76,90)(H,77,93)(H,78,89)(H,79,92)(H,80,87)(H,81,91)(H4,66,67,69)/t44-,45-,46-,47-,48+,49-,50-,51-,52-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = VXKHXGOKWPXYNA-PGBVPBMZSA-N 
+}}
+
+'''Triptorelin''', a decapeptide (pGlu-His-Trp-Ser-Tyr-D-Trp-Leu-Arg-Pro-Gly-NH<sub>2</sub>), is a [[gonadotropin-releasing hormone agonist]] (GnRH agonist) used as the [[acetate]] or [[pamoate]] [[salt (chemistry)|salts]]. By causing constant stimulation of the [[pituitary gland|pituitary]], it decreases pituitary secretion of gonadotropins [[luteinizing hormone]] (LH) and [[follicle stimulating hormone]] (FSH).
+
+==Medical uses==
+Triptorelin is used to treat [[prostate cancer]].<ref>{{cite web|title=triptorelin (Intramuscular route)|url=https://www.drugs.com/cons/triptorelin-intramuscular-injection.html|website=drugs.com|accessdate=11 November 2016}}</ref>
+
+==Names==
+Triptorelin is marketed under the brand names Decapeptyl (''[[Ipsen]]'') and  Diphereline and Gonapeptyl (''[[Ferring Pharmaceuticals]]''). In the United States, it is sold by [[Actavis|Watson Pharmaceuticals]] as  Trelstar. In Iran Triptorelin is marketed under the brand name Variopeptyl.
+
+== References ==
+{{Reflist}}
+*{{cite journal |vauthors=Lahlou N, Carel JC, Chaussain JL, Roger M |title=Pharmacokinetics and pharmacodynamics of GnRH agonists: clinical implications in pediatrics |journal=J Pediatr Endocrinol Metab |volume=13 Suppl 1 |issue= |pages=723–37 |date=July 2000 |pmid=10969915 |doi=}}
+*{{cite journal |author=Padula AM |title=GnRH analogues—agonists and antagonists |journal=[[Anim Reprod Sci]] |volume=88 |issue=1–2 |pages=115–26 |date=August 2005 |pmid=15955640 |doi=10.1016/j.anireprosci.2005.05.005}}
+
+{{Gonadotropins and GnRH}}
+{{Peptidergics}}
+
+[[Category:GnRH agonists]]
+
+
+{{antineoplastic-drug-stub}}
+{{genito-urinary-drug-stub}}

@@ -1,0 +1,69 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 449580698
+| IUPAC_name = 2-(3-(4-(p-Fluorophenyl)-1-piperazinyl)propyl)-2H-naphth(1,8-cd)isothiazole 1,1-dioxide
+| image = Fananserin.svg
+| width = 240
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA =  
+| legal_UK =  
+| legal_US =  
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5434
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 127625-29-0
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 60785
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 54781
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 38QJ762ET6
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02656
+
+<!--Chemical data-->
+| C=23 | H=24 | F=1 | N=3 | O=2 | S=1 
+| molecular_weight = 425.519 g/mol
+| smiles = C1CN(CCN1CCCN2C3=CC=CC4=C3C(=CC=C4)S2(=O)=O)C5=CC=C(C=C5)F
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C23H24FN3O2S/c24-19-8-10-20(11-9-19)26-16-14-25(15-17-26)12-3-13-27-21-6-1-4-18-5-2-7-22(23(18)21)30(27,28)29/h1-2,4-11H,3,12-17H2
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = VGIGHGMPMUCLIQ-UHFFFAOYSA-N
+| synonyms = Fananserin
+}}
+
+'''Fananserin''' ('''RP-62203''') is a drug which acts as a potent [[Antagonist (pharmacology)|antagonist]] at both the [[5-HT2A receptor|5HT<sub>2A</sub>]] [[Receptor (biochemistry)|receptor]],<ref>Malleron JL, Comte MT, Gueremy C, Peyronel JF, Truchon A, Blanchard JC, Doble A, Piot O, Zundel JL, Huon C, et al. Naphthosultam derivatives: a new class of potent and selective 5-HT2 antagonists. ''Journal of Medicinal Chemistry''. 1991 Aug;34(8):2477-83. {{PMID|1908521}}</ref> and the [[Dopamine receptor D4|Dopamine D<sub>4</sub> receptor]],<ref>Heuillet E, Petitet F, Mignani S, Malleron JL, Lavayre J, Néliat G, Doble A, Blanchard JC. The naphtosultam derivative RP 62203 (fananserin) has high affinity for the dopamine D4 receptor. ''European Journal of Pharmacology''. 1996 Oct 24;314(1-2):229-33. {{PMID|8957240}}</ref> but without blocking other dopamine receptors such as D<sub>2</sub>.<ref>Doble A, Girdlestone D, Piot O, Allam D, Betschart J, Boireau A, Dupuy A, Guérémy C, Ménager J, Zundel JL, et al. Pharmacological characterization of RP 62203, a novel 5-hydroxytryptamine 5-HT2 receptor antagonist. ''[[British Journal of Pharmacology]]''. 1992 Jan;105(1):27-36. {{PMID|1596688}}</ref> It has [[sedative]]<ref>Stutzmann JM, Eon B, Lucas M, Blanchard JC, Laduron PM. RP 62203, a 5-hydroxytryptamine2 antagonist, enhances deep NREM sleep in rats. ''Sleep''. 1992 Apr;15(2):119-24. {{PMID|1579785}}</ref> and [[antipsychotic]] effects, and has been researched for the treatment of [[schizophrenia]],<ref>Sramek JJ, Kirkesseli S, Paccaly-Moulin A, Davidson J, Jhee SS, Hourani J, Sémiond D, Cutler NR. A bridging study of fananserin in schizophrenic patients. ''Psychopharmacology Bulletin''. 1998;34(4):811-8. {{PMID|10513457}}</ref> although efficacy was less than expected and results were disappointing.<ref>Truffinet P, Tamminga CA, Fabre LF, Meltzer HY, Rivière ME, Papillon-Downey C. Placebo-controlled study of the D4/5-HT2A antagonist fananserin in the treatment of schizophrenia. ''American Journal of Psychiatry''. 1999 Mar;156(3):419-25. {{PMID|10080558}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{Serotonergics}}
+{{Dopaminergics}}
+
+[[Category:Antipsychotics]]
+[[Category:Fluoroarenes]]
+[[Category:Piperazines]]
+[[Category:Nitrogen heterocycles]]
+[[Category:Sulfur heterocycles]]
+[[Category:D4 antagonists]]
+[[Category:5-HT2A antagonists]]
+[[Category:Sulfonamides]]

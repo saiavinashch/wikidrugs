@@ -1,0 +1,57 @@
+{{Drugbox
+| verifiedrevid = 456081350
+| IUPAC_name = ''N''-(1-azabicyclo[2.2.2]octan-8-yl)-6-chloro-4-methyl-3-oxo-1,4-benzoxazine-8-carboxamide
+| image = Azasetron.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|azasetron}}
+| pregnancy_category =  
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  90%
+| metabolism =  
+| elimination_half-life =  
+| excretion =  60-70%
+
+<!--Identifiers-->
+| CAS_number = 123039-99-6
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 2264
+| IUPHAR_ligand = 2285
+| ChEMBL = 1598608
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 77HC7URR9Z
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07481
+
+<!--Chemical data-->
+| C=17 | H=20 | Cl=1 | N=3 | O=3 
+| molecular_weight = 349.81 g/mol
+| smiles = CN1C(=O)COC2=C1C=C(C=C2C(=O)NC3CN4CCC3CC4)Cl
+|  ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2177
+|  StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H20ClN3O3/c1-20-14-7-11(18)6-12(16(14)24-9-15(20)22)17(23)19-13-8-21-4-2-10(13)3-5-21/h6-7,10,13H,2-5,8-9H2,1H3,(H,19,23)
+|  StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WUKZPHOXUVCQOR-UHFFFAOYSA-N
+|drug_name=|alt=|caption=|type=|MedlinePlus=|licence_EU=|pregnancy_AU=|pregnancy_US=|licence_US=|DrugBank=}}
+
+'''Azasetron''' is an [[antiemetic]] which acts as a [[5-HT3 antagonist|5-HT<sub>3</sub> receptor]] [[receptor antagonist|antagonist]], pK<sub>i</sub> = 9.27 <ref>{{Cite web|url=http://drugcentral.org/drugcard/267/view?q=azasetron|title=Azasetron|last=|first=|date=2016-07-31|website=http://drugcentral.org/|publisher=UNM School of Medicine|access-date=2016-11-11}}</ref> It is used in the management of nausea and vomiting induced by cancer chemotherapy (such as [[cisplatin]] chemotherapy). Azasetron hydrochloride is given in a usual dose of 10&nbsp;mg once daily by mouth or intravenously. It is approved for marketing in Japan, and marketed exclusively by [http://www.torii.co.jp/en/ Torii Pharmaceutical Co., Ltd.] under the trade names "Serotone® I.V. Injection 10 mg" and "Serotone® Tablets 10 mg".<ref>{{Cite web|url=http://www.torii.co.jp/en/ir/releases/20090113.html|title=Torii Pharmaceutical to Solely Market Antiemetic Drugs|last=|first=|date=2009-01-13|website=|publisher=Torii Pharmaceutical Co Ltd|access-date=2016-11-11}}</ref>  Pharmacokinetics data from S. Tsukagoshi.<ref>{{Cite journal|last=Tsukagoshi|first=S.|date=1999-06-01|title=[Pharmacokinetics of azasetron (Serotone), a selective 5-HT3 receptor antagonist]|journal=Gan to Kagaku Ryoho. Cancer & Chemotherapy|volume=26|issue=7|pages=1001–1008|issn=0385-0684|pmid=10396331}}</ref>
+
+'''References'''{{Reflist|2}}
+
+<nowiki/>{{Serotonergics}}
+
+[[Category:5-HT3 antagonists]]
+[[Category:Morpholines]]
+[[Category:Quinuclidines]]
+[[Category:Lactams]]
+[[Category:Chloroarenes]]
+[[Category:Carboxamides]]
+
+
+{{gastrointestinal-drug-stub}}

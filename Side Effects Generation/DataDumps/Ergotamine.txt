@@ -1,0 +1,101 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 443732840
+| IUPAC_name = (6a''R'',9''R'')-''N''-((2''R'',5''S'',10a''S'',10b''S'')-5-Benzyl-10b-hydroxy-2-methyl-3,6-dioxooctahydro-2''H''-oxazolo[3,2-''a'']pyrrolo[2,1-''c'']pyrazin-2-yl)-7-methyl-4,6,6a,7,8,9-hexahydroindolo[4,3-''fg'']quinoline-9-carboxamide
+| image = Ergotamine-skeletal.svg
+| width = 250
+| image2 = Ergotamine ball-and-stick.png
+<!--Clinical data-->
+| tradename = [[Cafergot]], Ergomar
+| Drugs.com = {{drugs.com|monograph|ergomar}}
+| pregnancy_US = X
+| pregnancy_category =  
+| legal_AU = Schedule 4
+| legal_CA = Schedule VI
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_US_comment = [[DEA list of chemicals|DEA controlled precursor]]
+| routes_of_administration = [[wikt:oral|Oral]]
+<!--Pharmacokinetic data-->
+| bioavailability = Intravenous: 100%,<ref name="kinetics1">{{cite journal|last=Sanders|first=SW|author2=Haering N |author3=Mosberg H |author4=Jaeger H |title=Pharmacokinetics of ergotamine in healthy volunteers following oral and rectal dosing|journal=Eur J Clin Pharmacol|date=1986|volume=30|issue=3|pages=331–4|doi=10.1007/BF00541538|pmid=3732370}}</ref> <br />Intramuscular: 47%,<ref name="kinetics2">Tfelt-Hansen P, Johnson ES. Ergotamine. In: Olesen J, Tfelt-Hansen P, Welch KM, editors. The headaches. New York: Raven Press; 1993. p. 313–22.</ref><br />Oral: <1%<ref>Ibraheem JJ, Paalzow L, Tfelt-Hansen P. Low bioavailability of ergotamine tartrate after oral and rectal administration in migraine sufferers. ''Br J Clin Pharmacol'' 1983; 16: 695–9.</ref> (Enhanced by co-administration of caffeine<ref name="kinetics1" />)
+| metabolism = Hepatic<ref name="kinetics2" />
+| elimination_half-life = 2 hours<ref name="kinetics2" />
+| excretion = 90% biliary<ref name="kinetics2" />
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 113-15-5
+| ATC_prefix = N02
+| ATC_suffix = CA02
+| PubChem = 8223
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 64318
+| IUPHAR_ligand = 149
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00696
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 7930
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = PR834Q503T
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07906
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 442
+<!--Chemical data-->
+| C=33 | H=35 | N=5 | O=5
+| molecular_weight = 581.66 g/mol
+| smiles = O=C3N1CCC[C@H]1[C@]2(O)O[C@](C(=O)N2[C@H]3Cc4ccccc4)(NC(=O)[C@@H]8/C=C7/c5cccc6c5c(cn6)C[C@H]7N(C)C8)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C33H35N5O5/c1-32(35-29(39)21-15-23-22-10-6-11-24-28(22)20(17-34-24)16-25(23)36(2)18-21)31(41)38-26(14-19-8-4-3-5-9-19)30(40)37-13-7-12-27(37)33(38,42)43-32/h3-6,8-11,15,17,21,25-27,34,42H,7,12-14,16,18H2,1-2H3,(H,35,39)/t21-,25-,26+,27+,32-,33+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = XCGSFFUVFURLIX-VFGNJEKYSA-N
+}}
+
+'''Ergotamine''' is an [[ergopeptine]] and part of the [[ergot]] family of [[alkaloid]]s; it is structurally and biochemically closely related to [[ergoline]]. It possesses structural similarity to several [[neurotransmitter]]s, and has [[biological activity]] as a [[vasoconstrictor]].
+
+It is used [[Pharmacology|medicinally]] for treatment of acute [[migraine]] attacks (sometimes in combination with [[caffeine]]). Medicinal usage of ergot fungus began in the 16th century to induce [[childbirth]], yet dosage uncertainties discouraged the use. It has been used to prevent [[post-partum]] [[hemorrhage]] (bleeding after childbirth).  It was first isolated from the ergot fungus by [[Arthur Stoll]] at [[Sandoz]] in 1918 and marketed as Gynergen in 1921.<ref>AJ Giannini, AE Slaby. Drugs of Abuse. Oradell, NJ, Medical Economics Books, 1989.</ref>
+
+==Mechanism of action==
+The mechanism of action of ergotamine is complex.<ref name="pmid16041395">{{cite journal |vauthors=Walkembach J, Brüss M, Urban BW, Barann M |title=Interactions of metoclopramide and ergotamine with human 5-HT3A receptors and human 5-HT reuptake carriers |journal=Br. J. Pharmacol. |volume=146 |issue=4 |pages=543–52 |date=October 2005 |pmid=16041395 |pmc=1751187 |doi=10.1038/sj.bjp.0706351}}</ref> The molecule shares structural similarity with neurotransmitters such as [[serotonin]], [[dopamine]], and [[epinephrine]] and can thus bind to several [[Receptor (biochemistry)|receptors]] acting as an [[agonist]]. The anti-migraine effect is due to constriction of the intracranial extracerebral blood vessels through the [[5-HT1B receptor|5-HT<sub>1B</sub> receptor]], and by inhibiting [[trigeminal nerve|trigeminal]] neurotransmission by [[5HT1D|5-HT<sub>1D</sub> receptors]]. Ergotamine also has effects on the [[dopamine]] and [[norepinephrine]] receptors. Its side effects are due mainly to its action at the [[D2 receptor|D2 dopamine]] and [[5HT1A|5-HT<sub>1A</sub> receptors]].<ref name="Tfelt">{{cite journal|vauthors=Tfelt-Hansen P, Saxena PR, Dahlof C, Pascual J, Lainez M, Henry P, Diener H, Schoenen J, Ferrari MD, Goadsby PJ |year=2000|title=Ergotamine in the acute treatment of migraine: a review and European consensus|journal= Brain|volume=123|pages=9–18|pmid=10611116|doi= 10.1093/brain/123.1.9}}</ref>
+
+==Biosynthesis==
+Ergotamine is a [[secondary metabolite]] ([[natural product]]) and the principal alkaloid produced by the ergot fungus, ''[[Claviceps purpurea]]'', and related fungi in the family [[Clavicipitaceae]].<ref>[http://pharmaxchange.info/press/2011/12/pharmacognosy-of-ergot-argot-or-st-anthonys-fire/ Pharmacognosy of Ergot]</ref> Its biosynthesis in these fungi requires the [[amino acid]] <small>L</small>-[[tryptophan]] and [[dimethylallyl diphosphate]]. These precursor compounds are the substrates for the enzyme, [[tryptophan dimethylallyltransferase]], catalyzing the first step in ergot alkaloid biosynthesis, i.e., the [[prenylation]] of <small>L</small>-tryptophan. Further reactions, involving [[methyltransferase]] and [[oxygenase]] enzymes, yield the [[ergoline]], [[lysergic acid]]. Lysergic acid (LA) is the substrate of ''lysergyl peptide synthetase'', a [[Nonribosomal peptide|nonribosomal peptide synthetase]], which [[covalent]]ly links LA to the amino acids, <small>L</small>-[[alanine]], <small>L</small>-[[proline]], and <small>L</small>-[[phenylalanine]]. Enzyme-catalyzed or spontaneous cyclizations, [[Oxygenation (medicine)|oxygenations]]/[[oxidation]]s, and [[isomerization]]s at selected residues precede, and give rise to, formation of ergotamine.<ref name="Schardl">{{cite journal|vauthors=Schardl CL, Panaccione DG, Tudzynski P |year=2006|title=Ergot alkaloids--biology and molecular biology|journal= Alkaloids Chem. Biol.|volume=63|pages=45–86|pmid=17133714|doi=10.1016/S1099-4831(06)63002-2|series=The Alkaloids: Chemistry and Biology|isbn=978-0-12-469563-4}}</ref>
+
+==Drug uses==
+Ergotamine produces vasoconstriction peripherally as well as damages the peripheral epithelium.  In high doses, ergotamine is conducive to vascular stasis, [[thrombosis]], and [[gangrene]]. It can increase uterine contractivity and occasionally is used therapeutically immediately post-partum to decrease uterine bleeding. See also [[ergometrine]].
+
+Ergotamine continues to be prescribed for migraines. The common form of prescription is Cafergot which is a combination of caffeine and ergotamine.
+
+Contraindications include: [[atherosclerosis]], [[Buerger's syndrome]], [[coronary artery disease]], hepatic disease, pregnancy, [[pruritus]], [[Raynaud's syndrome]],  and renal disease.<ref>AJ Giannini. Biological Foundations of Clinical Psychiatry. Oradell, NJ. Medical Economics Puclishing Co., 1986.</ref>
+It's also contraindicated if patient is taking [[Macrolide antibiotics]] (eg, [[erythromycin]]), certain HIV [[protease inhibitors]] (eg, [[ritonavir]], [[nelfinavir]], [[indinavir]]), certain azole antifungals (eg, [[ketoconazole]], [[itraconazole]], [[voriconazole]]) [[delavirdine]], [[efavirenz]] or a [[5-HT1 agonist]] (eg, [[sumatriptan]]).
+<ref>{{cite web|title=Ergotamine: Indications, Side Effects, Warnings - Drugs.com|url=https://www.drugs.com/cdi/ergotamine.html|website=Drugs.com|accessdate=25 March 2017}}</ref>
+
+==Availability and dosage==
+In the United States, ergotamine is available as a suppository, a sublingual tablet, and a tablet, sometimes in combination with caffeine. The suppository is available under the brand name Migergot, which contains 2&nbsp;mg of ergotamine with 100&nbsp;mg caffeine.  The sublingual tablet is available under the brand name Ergomar and contains 2&nbsp;mg of ergotamine. The combination tablet in combination with caffeine called [[Cafergot]] contains 1&nbsp;mg of ergotamine and 100&nbsp;mg of caffeine.<ref>FDA Orange Book http://www.accessdata.fda.gov/scripts/cder/ob/docs/tempai.cfm</ref>
+
+This preparation may be used immediately following the [[Aura (symptom)|aura]]/onset of pain to abort the migraine. For the best results, dosage should start at the first sign of an attack.<ref>http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b4a06de6-f837-43a8-ae7a-aadb38dd2a7d#DA</ref>
+
+==Side effects==
+Side effects of ergotamine include nausea and vomiting. At higher doses, it can cause raised arterial [[blood pressure]], [[vasoconstriction]] (including [[coronary vasospasm]]) and [[bradycardia]] or [[tachycardia]]. Severe vasoconstriction may cause symptoms of [[intermittent claudication]].<ref>{{cite web|url=http://www.drugs.com/pro/medihaler-ergotamine.html|title=Medihaler Ergotamine|website=[[drugs.com]]|accessdate=2016-05-20}}</ref>
+
+== See also ==
+* [[Dihydroergotamine]], a semi-synthetic form used as an abortive migraine treatment
+* [[Ergotism]]
+* [[Ergometrine]]
+
+==References==
+{{reflist|30em}}
+
+{{Ergolines}}
+{{Antimigraine preparations}}
+{{Adrenergic agonists}}
+{{Serotonergics}}
+
+[[Category:Antimigraine drugs]]
+[[Category:Alpha-adrenergic agonists]]
+[[Category:Ergot alkaloids]]
+[[Category:Lactams]]
+[[Category:Oxazolopyrrolopyrazines]]
+[[Category:Lysergamides]]
+[[Category:Vasoconstrictors]]
+[[Category:Biased ligands]]

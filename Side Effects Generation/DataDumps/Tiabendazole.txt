@@ -1,0 +1,133 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 457788234
+| IUPAC_name = 4-(1''H''-1,3-Benzodiazol-2-yl)-1,3-thiazole
+| image = Thiabendazole.svg
+| width = 150
+| image2 = Thiabendazole ball-and-stick.png
+
+<!--Clinical data-->
+| tradename = Mintezol, others
+| Drugs.com = {{drugs.com|international|tiabendazole}}
+| pregnancy_AU = B3
+| pregnancy_category =
+| legal_AU = S4
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status = Rx-only
+| routes_of_administration = [[Oral administration|By mouth]], [[Topical medication|topical]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = [[Cmax (pharmacology)|С<sub>max</sub>]] 1–2 hours (oral administration)
+| protein_bound =
+| metabolism = GI tract
+| elimination_half-life = 8 hours
+| excretion = Urine (90%)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7304
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 148-79-8
+| ATC_prefix = D01
+| ATC_suffix = AC06
+| ATC_supplemental =  {{ATC|P02|CA02}} {{ATCvet|P52|AC10}}
+| PubChem = 5430
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB00730
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = N1Q45E87DT
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00372
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 625
+| NIAID_ChemDB = 007903
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 5237
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C10H7N3S/c1-2-4-8-7(3-1)12-10(13-8)9-5-14-6-11-9/h1-6H,(H,12,13)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = WJCNZQLZVWNLKY-UHFFFAOYSA-N
+
+<!--Chemical data-->
+| C=10 | H=7 | N=3 | S=1
+| molecular_weight = 201.249 g/mol
+| smiles = [nH]1c2ccccc2nc1c3cscn3
+| density = 1.103
+| melting_point = 293
+| melting_high = 305
+}}
+
+'''Tiabendazole''' ([[International Nonproprietary Name|INN]], [[British Approved Name|BAN]]), '''thiabendazole''' ([[Australian Approved Name|AAN]], [[United States Adopted Name|USAN]]), '''TBZ''' (and the trade names Mintezol, Tresaderm, and Arbotect) is a [[fungicide]] and [[parasite|parasiticide]].
+
+== Uses ==
+
+=== Fungicide ===
+It is used primarily to control [[mold]], [[blight]], and other fungal diseases in fruits (e.g. [[Orange (fruit)|oranges]]) and vegetables; it is also used as a [[prophylaxis|prophylactic]] treatment for [[Dutch elm disease]].
+
+Use in treatment of [[aspergillosis]] has been reported.<ref name="pmid6766732">{{cite journal |vauthors=Upadhyay MP, West EP, Sharma AP |title=Keratitis due to Aspergillus flavus successfully treated with thiabendazole |journal=Br J Ophthalmol |volume=64 |issue=1 |pages=30–2 |date=January 1980 |pmid=6766732 |pmc=1039343 |doi= 10.1136/bjo.64.1.30|url=http://bjo.bmj.com/cgi/pmidlookup?view=long&pmid=6766732}}</ref>
+
+Used in anti-fungal Purple wallboards (optiSHIELD AT, mixture of [[Azoxystrobin]] and Thiabendazole).
+
+=== Parasiticide ===
+As an antiparasitic, it is able to control [[roundworm]]s (such as those causing  [[strongyloidiasis]]),<ref name="pmid15571478">{{cite journal |vauthors=Igual-Adell R, Oltra-Alcaraz C, Soler-Company E, Sánchez-Sánchez P, Matogo-Oyana J, Rodríguez-Calabuig D |title=Efficacy and safety of ivermectin and thiabendazole in the treatment of strongyloidiasis |journal=Expert Opin Pharmacother |volume=5 |issue=12 |pages=2615–9 |date=December 2004 |pmid=15571478 |doi=10.1517/14656566.5.12.2615 |url=http://www.informapharmascience.com/doi/abs/10.1517/14656566.5.12.2615}}</ref> [[hookworm]]s, and other [[helminth]] species which attack wild animals, [[livestock]] and humans.<ref name="pmid12031927">{{cite journal |vauthors=Portugal R, Schaffel R, Almeida L, Spector N, Nucci M |title=Thiabendazole for the prophylaxis of strongyloidiasis in immunosuppressed patients with hematological diseases: a randomized double-blind placebo-controlled study |journal=Haematologica |volume=87 |issue=6 |pages=663–4 |date=June 2002 |pmid=12031927 |doi= |url=http://www.haematologica.org/cgi/pmidlookup?view=long&pmid=12031927}}</ref>
+
+=== Angiogenesis inhibitor ===
+Genes responsible for the maintenance of cell walls in yeast have been shown to be responsible for [[angiogenesis]] in vertebrates. Tiabendazole serves to block angiogenesis in both frog embryos and human cells. It has also been shown to serve as a vascular disrupting agent to reduce newly established blood vessels. Tiabendazole has been shown to effectively do this in certain cancer cells.<ref>{{cite journal|last=Cha|first=HJ|author2=Byrom M |author3=Mead PE |author4=Ellington AD |author5=Wallingford JB |title=Evolutionarily Repurposed Networks Reveal the Well-Known Antifungal Drug Thiabendazole to Be a Novel Vascular Disrupting Agent|journal=PLoS Biology|date=August 2012|volume=10|issue=8|doi=10.1371/journal.pbio.1001379|url=http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001379|accessdate=2012-08-21|display-authors=etal |pmid=22927795 |pmc=3423972 |pages=e1001379}}</ref>
+
+== Pharmacodynamics ==
+TBZ works by inhibition of the mitochondrial, helminth-specific enzyme, fumarate reductase, with possible interaction with endogenous quinone.<ref>Gilman, A.G., T.W. Rall, A.S. Nies and P. Taylor (eds.). Goodman and Gilman's The Pharmacological Basis of Therapeutics. 8th ed. New York, NY. Pergamon Press, 1990., p. 970</ref>
+
+== Other ==
+Medicinally, thiabendazole is also a [[chelating agent]], which means it is used medicinally to bind metals in cases of metal poisoning, such as [[lead poisoning|lead]], [[mercury poisoning|mercury]], or [[antimony]] poisoning.
+
+In dogs and cats, thiabendazole is used to treat ear infections.
+
+Thiabendazole is also used as a [[food additive]],<ref name="pmid853540">{{cite journal|last1=Rosenblum|first1=C|title=Non-Drug-Related Residues in Tracer Studies|journal=Journal of Toxicology and Environmental Health|date=March 1977|volume=2|issue=4|pages=803–14|doi=10.1080/15287397709529480|pmid=853540|accessdate=2 October 2016}}</ref><ref>Sax, N.I. Dangerous Properties of Industrial Materials. Vol 1-3 7th ed. New York, NY: Van Nostrand Reinhold, 1989., p. 3251</ref> a [[preservative]] with [[E number]] E233 (INS number 233).  For example, it is applied to [[bananas]] to ensure freshness, and is a common ingredient in the [[wax]]es applied to the skins of [[citrus fruit]]s. It is not approved as a food additive in the EU,<ref>UK Food Standards Agency: {{cite web |url=http://www.food.gov.uk/safereating/chemsafe/additivesbranch/enumberlist |title=Current EU approved additives and their E Numbers |accessdate=2011-10-27}}</ref> Australia and New Zealand.<ref>Australia New Zealand Food Standards Code{{cite web |url=http://www.comlaw.gov.au/Details/F2011C00827 |title=Standard 1.2.4 – Labelling of ingredients |accessdate=2011-10-27}}</ref>
+
+== Safety ==
+The substance appears to have a slight toxicity in higher doses, with effects such as liver and intestinal disorders at high exposure in test animals (just below {{LD50}} level).{{Citation needed|date=June 2008}} Some reproductive disorders and decreasing weaning weight have been observed, also at high exposure. Effects on humans from use as a drug include nausea, vomiting, loss of appetite, diarrhea, dizziness, drowsiness, or headache; very rarely also ringing in the ears, vision changes, stomach pain, yellowing eyes and skin, dark urine, fever, fatigue, increased thirst and change in the amount of urine occur.{{Citation needed|date=June 2008}} Carcinogenic effects have been shown at higher doses.<ref>{{cite web|title=Reregistration Eligibility Decision THIABENDAZOLE|url=http://www.epa.gov/oppsrrd1/REDs/thiabendazole_red.pdf|publisher=Environmental Protection Agency|accessdate=8 January 2013}}</ref>
+
+== Synthesis ==
+[[File:Thiabendazole synthesis.svg|thumb|center|900px|Thiabendazole synthesis:<ref>{{Cite journal | doi = 10.1021/jo01012a061| title = Novel Preparation of Benzimidazoles from N-Arylamidines. New Synthesis of Thiabendazole1| journal = The Journal of Organic Chemistry| volume = 30| pages = 259–261| year = 1965| last1 = Grenda | first1 = V. J. | last2 = Jones | first2 = R. E. | last3 = Gal | first3 = G. | last4 = Sletzinger | first4 = M. }}</ref> L. H. Sarett, H. D. Brown, {{US patent|3017415}} (1962 to [[Merck & Co.]]).]]
+Intermediate aryl[[amidine]] '''2''' is prepared by the [[AlCl3]] catalyzed addition of aniline to the nitrile function of 4-cyanothiazole ('''1'''). [[Amidine]] ('''2''') is then converted to its ''N''-chloro analog '''3''' by means of [[NaOCl]]. On base treatment, this apparently undergoes a [[nitrene]] insertion reaction ('''4''') to produce thiabendazole ('''5'''). Note the direction of the arrow is from the benzene to the nitrene since the nitrene is an electrophilic species.
+
+Alternative route of synthesis: 4-thiazolecarboxamide with [[o-Phenylenediamine|''o''-phenylenediamine]] in polyphosphoric acid.<ref>{{Cite journal | doi = 10.1021/ja01468a052| title = Antiparasitic Drugs. Iv. 2-(4'-Thiazolyl)-Benzimidazole, A New Anthelmintic| journal = Journal of the American Chemical Society| volume = 83| issue = 7| pages = 1764–1765| year = 1961| last1 = Brown | first1 = H. D.| last2 = Matzuk | first2 = A. R.| last3 = Ilves | first3 = I. R.| last4 = Peterson | first4 = L. H.| last5 = Harris | first5 = S. A.| last6 = Sarett | first6 = L. H.| last7 = Egerton | first7 = J. R.| last8 = Yakstis | first8 = J. J.| last9 = Campbell | first9 = W. C.| last10 = Cuckler | first10 = A. C.}}</ref>
+
+Synthesis of labeled thiabendazole:<ref>{{Cite journal | doi = 10.1021/jm00334a002| title = The Metabolic Fate of Thiabendazole in Sheep1| journal = Journal of Medicinal Chemistry| volume = 7| issue = 4| pages = 399–405| year = 1964| last1 = Tocco | first1 = D. J. | last2 = Buhs | first2 = R. P. | last3 = Brown | first3 = H. D. | last4 = Matzuk | first4 = A. R. | last5 = Mertel | first5 = H. E. | last6 = Harman | first6 = R. E. | last7 = Trenner | first7 = N. R. }}</ref>
+
+===Analogues===
+[[File:Cambendazole synthesis.svg|thumb|center|700px|[[Cambendazole]] preparation and activity studies:<ref>Hoff, Fisher, {{Cite patent|ZA|6800351}} (1969 to [[Merck & Co.]]), C.A. 72, 90461q (1970).</ref><ref>{{Cite journal | doi = 10.1007/BF01898506| title = A new broad-spectrum anthelmintic: 2-(4-Thiazolyl)-5-isopropoxycarbonylamino-benzimidazole| journal = Experientia| volume = 26| issue = 5| pages = 550–551| year = 1970| last1 = Hoff | first1 = D. R.| last2 = Fisher | first2 = M. H.| last3 = Bochis | first3 = R. J.| last4 = Lusi | first4 = A.| last5 = Waksmunski | first5 = F.| last6 = Egerton | first6 = J. R.| last7 = Yakstis | first7 = J. J.| last8 = Cuckler | first8 = A. C.| last9 = Campbell | first9 = W. C.
+}}</ref>]]
+[[Cambendazole]] (best of 300 agents in an extensive study),<ref>Chronicles of Drug Discovery, Book 1, pp 239-256.</ref> is made by nitration of tiabendazole, followed by [[catalytic hydrogenation]] to '''2''', and acylation with [[Isopropyl chloroformate]].
+{{colbegin}}
+*[[Lobendazole]]
+*[[Albendazole]]
+*[[Oxfendazole]]
+*[[Mebendazole]]
+*[[Cyclobendazole]]
+*[[Flubendazole]] ([[antiprotozoal agent]])
+*[[Dribendazole]]
+{{Colend}}
+
+Additionally, tiabendazole was noted to exhibit moderate anti-inflammatory and analgesic activities, which led to the development of [[KB-1043]].
+
+== See also ==
+* [[Fungicide use in the United States]]
+* [[List of fungicides]]
+
+== References ==
+{{reflist}}
+* [http://pmep.cce.cornell.edu/profiles/extoxnet/pyrethrins-ziram/thiabendazole-ext.html Thiabendazole, Extension Toxicology Network]
+* [http://www.medicinenet.com/thiabendazole-oral/article.htm Medicinenet: Thiabendazole – Oral]
+
+{{Antifungals}}
+{{Anthelmintics}}
+
+{{Authority control}}
+
+[[Category:Antiparasitic agents]]
+[[Category:Benzimidazoles]]
+[[Category:Fungicides]]
+[[Category:Preservatives]]
+[[Category:Thiazoles]]

@@ -1,0 +1,108 @@
+{{Drugbox
+| verifiedrevid = 
+| IUPAC_name = ''N''-(2-<nowiki/>{2-dimethylaminoethyl-methylamino}-4-methoxy-5-<nowiki/>{[4-(1-methylindol-3-yl)pyrimidin-2-yl]amino}phenyl)prop-2-enamide
+| image = Osimertinib.svg
+| width = 250
+
+<!--Clinical data-->
+| tradename = Tagrisso, Tagrix
+| Drugs.com = {{Drugs.com|parent|tagrisso}}
+| MedlinePlus = 
+| licence_EU = 
+| licence_US = 
+| pregnancy_US = 
+| legal_UK = 
+| legal_US = Rx-only
+| routes_of_administration = Oral [[Tablet (pharmacy)|tablets]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = Probably high<ref name =USlabel>{{cite web|title=US Label|url=http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/208065s000lbl.pdf|publisher=FDA|date=November 2015}} [http://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&varApplNo=208065 Index page for NDA 208065]</ref>
+| metabolism = Oxidation ([[CYP3A]])
+| elimination_half-life = 48 hours
+| excretion = Feces (68%), urine (14%)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 
+| CAS_number_Ref = 
+| CAS_number = 1421373-65-0
+| ATC_prefix = L01
+| ATC_suffix = XE35
+| PubChem = 71496458
+| DrugBank_Ref = 
+| DrugBank = DB09330
+| ChemSpiderID_Ref = 
+| ChemSpiderID = 31042598
+| UNII_Ref = 
+| UNII = 3C06JJ0Z2O
+| KEGG_Ref = 
+| KEGG = D10766
+| ChEMBL_Ref = 
+| ChEMBL = 
+| ChEBI_Ref = {{ebicite|correct|EBI}} 
+| ChEBI = 90943
+| synonyms = AZD9291
+
+<!--Chemical data-->
+| C = 28 | H = 33 | N = 7 | O = 2
+| smiles = CN1C=C(C2=CC=CC=C21)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N(C)CCN(C)C)OC
+| StdInChI=1S/C28H33N7O2/c1-7-27(36)30-22-16-23(26(37-6)17-25(22)34(4)15-14-33(2)3)32-28-29-13-12-21(31-28)20-18-35(5)24-11-9-8-10-19(20)24/h7-13,16-18H,1,14-15H2,2-6H3,(H,30,36)(H,29,31,32)
+| StdInChIKey = DUYJMQONPNNFPI-UHFFFAOYSA-N
+| StdInChI_Ref = 
+| StdInChIKey_Ref = 
+}}
+
+'''Osimertinib''' (previously known as '''mereletinib''' or '''AZD9291'''; trade name '''Tagrisso''')<ref>{{cite web|title=Osimertinib|url=http://adisinsight.springer.com/drugs/800037784|publisher=AdisInsight|accessdate=27 February 2017|language=en}}</ref><ref>{{cite journal|title=Proposed INN: List 113|journal=International Nonproprietary Names for Pharmaceutical Substances (INN)|date=2015|volume=29|issue=2|pages=285|url=http://www.who.int/medicines/publications/druginformation/INN_List113.pdf|accessdate=16 November 2015}}</ref> is a third-generation [[epidermal growth factor receptor]] (EGFR) [[tyrosine kinase inhibitor]] (TKI) drug<ref>{{cite journal |authors=Ayeni D, Politi K, Goldberg SB |title=Emerging Agents and New Mutations in EGFR-Mutant Lung Cancer |journal=Clin. Cancer Res. |volume=21 |issue=17 |pages=3818–20 |year=2015 |pmid=26169963 |doi=10.1158/1078-0432.CCR-15-1211 |url=}}</ref><ref>{{cite journal |authors=Tan CS, Gilligan D, Pacey S |title=Treatment approaches for EGFR-inhibitor-resistant patients with non-small-cell lung cancer |journal=Lancet Oncol. |volume=16 |issue=9 |pages=e447–59 |year=2015 |pmid=26370354 |doi=10.1016/S1470-2045(15)00246-6 |url=}}</ref> developed by [[AstraZeneca]] Pharmaceuticals – for mutated EGFR cancers.
+
+==Medical uses==
+Osimertinib is used to treat locally advanced or metastatic [[non-small-cell lung cancer]] (NSCLC), when the cancer has the specific [[T790M]] mutation in the gene coding for [[epidermal growth factor receptor]].<ref name =USlabel/><ref name=UKlabel>{{cite web|title=UK label|url=https://www.medicines.org.uk/emc/medicine/31496|publisher=UK Electronic Medicines Compendium|accessdate=27 February 2017|language=en|date=26 January 2017}}</ref>  In the US the mutation must be detected with an FDA-approved [[companion diagnostic]] test, and the person must have been stopped responding to the other EGFR-inhibitors.<ref name =USlabel/><ref>{{cite journal |authors=Xu M, Xie Y, Ni S, Liu H |title=The latest therapeutic strategies after resistance to first generation epidermal growth factor receptor tyrosine kinase inhibitors (EGFR TKIs) in patients with non-small cell lung cancer (NSCLC) |journal=Ann Transl Med |volume=3 |issue=7 |pages=96 |year=2015 |pmid=26015938 |pmc=4430733 |doi=10.3978/j.issn.2305-5839.2015.03.60 |url=}}</ref>
+
+The NSCLC in people receiving the drug has developed resistance mutations, namely C797S occurs in EGFR exon 20 or amplifications of the EGFR gene, even as T790M clones have been eliminated.<ref name=Minari2016rev>{{cite journal|last1=Minari|first1=R|last2=Bordi|first2=P|last3=Tiseo|first3=M|title=Third-generation epidermal growth factor receptor-tyrosine kinase inhibitors in T790M-positive non-small cell lung cancer: review on emerged mechanisms of resistance.|journal=Translational lung cancer research|date=December 2016|volume=5|issue=6|pages=695–708|pmid=28149764|pmc=5233880}}</ref>
+
+It causes fetal harm, so should not be used in women who are pregnant, and women who take it should avoid becoming pregnant.<ref name =USlabel/><ref name=UKlabel/>
+
+Caution should be taken in people with a history of [[interstitial lung disease]] (ILD) were excluded from clinical trials, as the drug can cause severe ILD or pneumonia.  Caution should also be taken in people with a predisposition to [[long QT syndrome]] as the drug can provoke this.<ref name =USlabel/>
+
+==Adverse effects ==
+Very common (greater than 10% of clinical trial subjects) adverse effects include diarrhea, [[stomatitis]], rashes, dry or itchy skin, [[Paronychia|infections where finger or toenails abut skin]], low platelet counts, low leukocyte counts, and low neutrophil counts.<ref name=UKlabel/>
+
+Common (between 1% and 10% of clinical trial subjects) adverse effects include [[interstitial lung disease]].<ref name=UKlabel/>
+
+==Interactions==
+Osimertinib is metabolized by [[CYP3A4]] and [[CYP3A5]], so substances that strongly inhibit either enyzme, like macrolide antibiotics, antifungals, and antivirals may increase exposure to osimertinib, and substances like [[rifampicin]] that activate either enzyme will decrease the effectiveness of osimertinib.<ref name=USlabel/><ref name=UKlabel/>
+
+==Pharmacology==
+Osimertinib binds irreversibly to [[epidermal growth factor receptor]] proteins expressed by ''EGFR'' with a  [[T790M]] mutation;<ref name=UKlabel/> it also binds irreversibly to EGFR with a L858R mutation and with an exon 19 deletion.<ref name=USlabel/>
+
+It exhibits linear pharmacokinetics; the median time to Cmax is 6 hours (range 3–24 hours). The estimated mean half-life is 48 hours, and oral clearance (CL/F) is 14.2 (L/h).   68% of elimination is by feces and 14% by urine.<ref name=USlabel/>
+
+==Chemistry==
+Osimertinib is provided as the [[mesylate]]; the chemical formula is C<sub>28</sub>H<sub>33</sub>N<sub>7</sub>O<sub>2</sub>•CH<sub>4</sub>O<sub>3</sub>S, and the molecular weight is 596 g/mol. The chemical name is N-(2-<nowiki/>{2-dimethylaminoethyl-methylamino}-4-methoxy-5-<nowiki/>{[4-(1-methylindol-3-yl)pyrimidin-2-yl]amino}phenyl)prop-2-enamide mesylate salt.<ref name=USlabel/>
+
+==History==
+The [[drug discovery]] program that led to osimertinib started in 2009 and yielded the drug by 2012; the process was structure-driven and aimed to find a third generation EGFR inhibitor that would selectively target the T790M form of the EGFR receptor.<ref name=Yver2016>{{cite journal|last1=Yver|first1=A|title=Osimertinib (AZD9291)-a science-driven, collaborative approach to rapid drug design and development.|journal=Annals of Oncology|date=June 2016|volume=27|issue=6|pages=1165–70|pmid=26961148|url=https://academic.oup.com/annonc/article/27/6/1165/2196538/Osimertinib-AZD9291-a-science-driven-collaborative}}</ref>
+
+Osimertinib was designated as a [[Breakthrough Therapy]] in April 2014 based on Phase I trial results,<ref name=Yver2016/> and the drug was provisionally approved under the FDA [[Accelerated approval (FDA)|accelerated approval program]] with a  [[priority review voucher]], in November 2015.<ref name=FDA-osimertinib>{{cite web|title=Approved Drugs - Osimertinib |url=https://www.fda.gov/Drugs/InformationOnDrugs/ApprovedDrugs/ucm472565.htm|publisher=FDA Center for Drug Evaluation and Research|language=en|date=November 13, 2015}}</ref>
+
+In February 2016 the EMA provisionally approved osimertinib under an accelerated process—the first approval under the program.<ref name=Yver2016/>
+
+==Society and culture==
+At launch, Astrazeneca priced the drug at $12,750 per month.<ref name=AHRQ2015>{{cite web|title=AHRQ Healthcare Horizon Scanning System – Potential High-Impact Interventions Report Priority Area 02: Cancer|url=https://effectivehealthcare.ahrq.gov/ehc/assets/File/Cancer-Horizon-Scan-High-Impact-1512.pdf|publisher=AHRQ|date=December 2015}}</ref>{{rp|59}}
+
+==Research==
+As of December 2016 several clinical trials were ongoing.<ref name=Minari2016rev/>
+
+==References==
+{{Reflist|35em}}
+
+{{Targeted cancer therapeutic agents}}
+{{Growth factor receptor modulators}}
+
+[[Category:Acrylamides]]
+[[Category:Ethers]]
+[[Category:Indoles]]
+[[Category:Lung cancer]]
+[[Category:Pyrimidines]]
+[[Category:Receptor tyrosine kinase inhibitors]]
+[[Category:Breakthrough therapy]]
+[[Category:Experimental cancer drugs]]

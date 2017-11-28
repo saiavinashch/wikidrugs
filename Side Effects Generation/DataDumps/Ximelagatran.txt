@@ -1,0 +1,101 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470633864
+| IUPAC_name = ethyl 2-<nowiki>[[</nowiki>(1''R'')-1-cyclohexyl-2-<BR/>[(2''S'')-2-<nowiki>[[</nowiki>4-(''N'''-hydroxycarbamimidoyl)<BR/>phenyl]methylcarbamoyl]azetidin-1-yl]-<BR/>2-oxo-ethyl]amino]acetate
+| image = Ximelagatran.svg
+| width = 230
+
+<!--Clinical data-->
+| tradename = Exanta
+| pregnancy_category = Uncategorized
+| legal_status = Withdrawn from market
+| routes_of_administration = Oral ([[Tablet (pharmacy)|tablets]])
+
+<!--Pharmacokinetic data-->
+| bioavailability = 20%
+| metabolism = to melagatran
+| elimination_half-life = 3–5 hours
+| excretion = Renal (80%)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6381
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 192939-46-1
+| ATC_prefix = B01
+| ATC_suffix = AE05
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 522038
+| PubChem = 9574101
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB04898
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 7848559
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 49HFB70472
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01981
+
+<!--Chemical data-->
+| C=24 | H=35 | N=5 | O=5 
+| molecular_weight_comment = (429 g/mol after conversion)
+| smiles = O=C(NCc1ccc(C(=N\O)\N)cc1)[C@H]3N(C(=O)[C@H](NCC(=O)OCC)C2CCCCC2)CC3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C24H35N5O5/c1-2-34-20(30)15-26-21(17-6-4-3-5-7-17)24(32)29-13-12-19(29)23(31)27-14-16-8-10-18(11-9-16)22(25)28-33/h8-11,17,19,21,26,33H,2-7,12-15H2,1H3,(H2,25,28)(H,27,31)/t19-,21+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ZXIBCJHYVWYIKI-PZJWPPBQSA-N
+}}
+'''Ximelagatran''' ('''Exanta''' or '''Exarta''', H 376/95) is an [[anticoagulant]] that has been investigated extensively as a replacement for [[warfarin]]<ref>{{cite journal |vauthors=Hirsh J, O'Donnell M, Eikelboom JW |title=Beyond unfractionated heparin and warfarin: current and future advances |journal=Circulation |volume=116 |issue=5 |pages=552–560 |date=July 2007 |pmid=17664384 |doi=10.1161/CIRCULATIONAHA.106.685974 |url=http://circ.ahajournals.org/cgi/content/full/116/5/552}}</ref> that would overcome the problematic [[Diet (nutrition)|dietary]], [[drug interaction]], and [[therapeutic drug monitoring|monitoring]] issues associated with warfarin therapy. In 2006, its manufacturer [[AstraZeneca]] announced that it would withdraw pending applications for marketing approval after reports of [[hepatotoxicity]] (liver damage) during trials, and discontinue its distribution in countries where the drug had been approved (Germany, Portugal, Sweden, Finland, Norway, Iceland, Austria, Denmark, France, Switzerland, Argentina and Brazil).<ref name="az">{{cite press release
+  |publisher=AstraZeneca  |date=February 14, 2006
+  |url=http://www.astrazeneca.com/Media/Press-releases/Article/20060214--AstraZeneca-Decides-to-Withdraw-Exanta
+  |title=AstraZeneca Decides to Withdraw Exanta
+  |accessdate=2012-07-16
+}}</ref>
+
+==Method of action==
+Ximelagatran, a [[direct thrombin inhibitor]],<ref name="pmid17319469">{{cite journal |vauthors=Ho SJ, Brighton TA |title=Ximelagatran: direct thrombin inhibitor |journal=Vasc Health Risk Manag |volume=2 |issue=1 |pages=49–58 |year=2006 |pmid=17319469 |pmc=1993972 |doi= 10.2147/vhrm.2006.2.1.49|url=}}</ref> was the first member of this class that can be taken orally. It acts solely by inhibiting the actions of [[thrombin]]. It is taken orally twice daily, and rapidly absorbed by the [[small intestine]]. Ximelagatran is a [[prodrug]], being converted ''[[in vivo]]'' to the active agent '''melagatran'''. This conversion takes place in the liver and many other tissues through [[hydrolysis]] and [[dehydroxylation]] (replacing the [[ethyl group|ethyl]] and [[hydroxyl]] groups with [[hydrogen]]).
+
+==Uses==
+Ximelagatran was expected to replace [[warfarin]] and sometimes [[aspirin]] and [[heparin]] in many therapeutic settings, including [[deep venous thrombosis]], prevention of secondary venous [[thromboembolism]] and complications of [[atrial fibrillation]] such as stroke. The efficacy of ximelagatran for these indications had been well documented,<ref>{{cite journal
+ | last = Eriksson | first = H
+ |author2=Wahlander K |author3=Gustafsson D |author4=Welin LT |author5=Frison L |author6=Schulman S |author7=THRIVE Investigators
+  |date=January 2003
+ | title = A randomized, controlled, dose-guiding study of the oral direct thrombin inhibitor ximelagatran compared with standard therapy for the treatment of acute deep vein thrombosis: THRIVE I
+ | journal = [[Journal of Thrombosis and Haemostasis]] | volume = 1 | pages = 41&ndash;47
+ | pmid = 12871538
+ | doi = 10.1046/j.1538-7836.2003.00034.x
+ | issue = 1
+}}</ref><ref>{{cite journal
+ |vauthors=Francis CW, Berkowitz SD, Comp PC, Lieberman JR, Ginsberg JS, Paiement G, Peters GR, Roth AW, McElhattan J, Colwell CW Jr, ((EXULT A Study Group))
+ |date=October 2003
+ | title = Comparison of ximelagatran with warfarin for the prevention of venous thromboembolism after total knee replacement
+ | journal = [[New England Journal of Medicine]] | volume = 349 | issue = 18 | pages = 1703&ndash;1712
+ | pmid = 14585938 | doi =  10.1056/NEJMoa035162
+}}</ref><ref>{{cite journal
+ | last = Schulman | first = S |author2=Wåhlander K |author3=Lundström T |author4=Clason SB |author5=Eriksson H |author6=THRIVE III investigators
+  |date=October 2003
+ | title = Secondary prevention of venous thromboembolism with the oral direct thrombin inhibitor ximelagatran
+ | journal = [[New England Journal of Medicine]]
+ | volume = 349 | issue = 18 | pages = 1713&ndash;1721 | pmid = 14585939
+ | doi =  10.1056/NEJMoa030104
+}}</ref> except for non valvular atrial fibrillation.
+
+An advantage, according to early reports by its manufacturer, was that it could be taken orally without any monitoring of its anticoagulant properties. This would have set it apart from [[warfarin]] and [[heparin]], which require monitoring of the [[international normalized ratio]] (INR) and the [[partial thromboplastin time]] (PTT), respectively. A disadvantage recognised early was the absence of an [[antidote]] in case acute bleeding develops, while warfarin can be antagonised by [[vitamin K]] and heparin by [[protamine sulfate]].
+
+==Side-effects==
+Ximelagatran was generally well tolerated in the trial populations, but a small proportion (5-6%) developed elevated [[liver enzyme]] levels, which prompted the [[U.S. Food and Drug Administration|FDA]] to reject an initial application for approval in 2004. The further development was discontinued in 2006 following reports of hepatotoxicity. Subsequent analysis of Phase 2 clinical study data using extreme value modelling (see [[Extreme value theory]]) showed that the elevated [[liver enzyme]] levels observed in Phase 3 clinical studies could have been predicted; if this had been known at the time, it might have affected decisions on future development of the compound.<ref name="Southworth 2014">{{cite journal|last1=Southworth|first1=Harry|title=Predicting potential liver toxicity from phase 2 data: a case study with ximelagatran|journal=Statistics in Medicine|date=30 Jul 2014|volume=33|issue=17|pages=2914–2923|doi=10.1002/sim.6142|url=http://onlinelibrary.wiley.com/doi/10.1002/sim.6142/full|accessdate=6 January 2017|ref=Southworth 2014}}</ref>
+
+According to AstraZeneca, a chemically different but pharmacologically similar substance, AZD0837, is undergoing testing for similar indications.<ref name="az" />
+
+==References==
+{{reflist|2}}
+
+{{Antithrombotics}}
+{{AstraZeneca}}
+
+[[Category:Direct thrombin inhibitors]]
+[[Category:Abandoned drugs]]
+[[Category:Prodrugs]]
+[[Category:Hepatotoxins]]
+[[Category:AstraZeneca]]
+[[Category:Azetidines]]

@@ -1,0 +1,109 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 387635110
+| IUPAC_name = (1''S'',4''S'',7''Z'',10''S'',16''E'',21''R'')-7-ethylidene-4,21-diisopropyl-2-oxa-12,13-dithia-5,8,20,23-tetrazabicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentone
+| image = Romidepsin structure (2).svg
+| width = 200
+| alt = Skeletal formula of (1S,4S,7Z,10S,16E,21R)-7-ethylidene-4,21-diisopropyl-2-oxa-12,13-dithia-5,8,20,23-tetrazabicyclo[8.7.6]tricos-16-ene-3,6,9,19,22-pentone
+| image2 = Romidepsin ball and spoke.png
+
+<!--Clinical data-->
+| tradename = Istodax
+| MedlinePlus = a610005
+| licence_US = Romidepsin
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = D
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Rx-only
+| routes_of_administration = [[Intravenous therapy|Intravenous infusion]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = Not applicable (IV only)
+| protein_bound = 92–94%
+| metabolism = [[Liver|Hepatic]] (mostly [[CYP3A4]]-mediated)
+| elimination_half-life = 3 hours
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7006
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 128517-07-7
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 5352062
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 61080
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = CX3T89XQBK
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1213490
+|  ChemSpiderID = 10122002
+
+
+<!--Chemical data-->
+| C=24 | H=36 | N=4 | O=6 | S=2 
+| molecular_weight = 540.695 g/mol
+| smiles = C/C=C\1/C(=O)N[C@H](C(=O)O[C@H]\2CC(=O)N[C@@H](C(=O)N[C@H](CSSCC/C=C2)C(=O)N1)C(C)C)C(C)C
+|  StdInChI = 1S/C24H36N4O6S2/c1-6-16-21(30)28-20(14(4)5)24(33)34-15-9-7-8-10-35-36-12-17(22(31)25-16)26-23(32)19(13(2)3)27-18(29)11-15/h6-7,9,13-15,17,19-20H,8,10-12H2,1-5H3,(H,25,31)(H,26,32)(H,27,29)(H,28,30)/b9-7+,16-6-/t15-,17-,19-,20+/m1/s1
+|  StdInChIKey = OHRURASPPZQGQM-GCCNXGTGSA-N
+
+| synonyms = FK228; FR901228; Istodax
+}}
+
+'''Romidepsin''', also known as '''Istodax''',  is an [[antineoplastic|anticancer agent]] used in [[cutaneous T-cell lymphoma]] (CTCL) and other [[peripheral T-cell lymphoma]]s (PTCLs). Romidepsin is a [[natural product]] obtained from the bacterium ''[[Chromobacterium violaceum]]'', and works by blocking enzymes known as [[histone deacetylase]]s, thus inducing [[apoptosis]].<ref name=NCI/> It is sometimes referred to as [[depsipeptide]], after the class of molecules to which it belongs. Romidepsin is branded and owned by Gloucester Pharmaceuticals, now a part of [[Celgene]].<ref name=Gloucester/>
+
+==History==
+Romidepsin was first reported in the scientific literature in 1994, by a team of researchers from Fujisawa Pharmaceutical Company (now [[Astellas Pharma]]) in [[Tsukuba, Ibaraki|Tsukuba]], Japan, who isolated it in a culture of ''[[Chromobacterium violaceum]]'' from a soil sample obtained in [[Yamagata Prefecture]].<ref name=Ueda/> It was found to have little to no antibacterial activity, but was potently [[cytotoxic]] against several human [[cancer]] [[cell culture|cell lines]], with no effect on normal cells; studies on mice later found it to have antitumor activity ''[[in vivo]]'' as well.<ref name=Ueda/>
+
+The first [[total synthesis]] of romidepsin was accomplished by [[Harvard University|Harvard]] researchers and published in 1996.<ref name=Li/> Its [[mechanism of action]] was elucidated in 1998, when researchers from Fujisawa and the [[University of Tokyo]] found it to be a [[histone deacetylase inhibitor]] with effects similar to those of [[trichostatin A]].<ref name=Nakajima/>
+
+===Clinical trials===
+[[Clinical trial#Phase I|Phase I]] studies of romidepsin, initially codenamed FK228 and FR901228, began in 1997.<ref name=Masuoka/> [[Clinical trial#Phase II|Phase II]] and phase III trials were conducted for a variety of indications. The most significant results were found in the treatment of [[cutaneous T-cell lymphoma]] (CTCL) and other [[peripheral T-cell lymphoma]]s (PTCLs).<ref name=Masuoka/>
+
+In 2004, romidepsin received [[FDA Fast Track Development Program|Fast Track]] designation from the FDA for the treatment of cutaneous T-cell lymphoma, and [[orphan drug]] status from the FDA and the [[European Medicines Agency]] for the same indication.<ref name=Masuoka/> The FDA approved romidepsin for CTCL in November 2009<ref>http://chembl.blogspot.com/2009/11/new-drug-approvals-pt-xxiii-romidepsin.html</ref> and approved romidepsin for other [[peripheral T-cell lymphoma]]s (PTCLs) in June 2011.<ref>http://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Reports.MonthlyApprovalsAll</ref>
+
+That same year, [[PLOS Pathogens]] published a study involving romidepsin in a trial designed to reactivate latent HIV virus in order to deplete the HIV reservoir. Latently infected [[T-cell]]s were exposed [[in vitro]] and [[ex vivo]] to romidepsin, leading to an increase in detectable levels of cell-associated HIV RNA. The trial also compared the effect of romidepsin to another histone deacetylase inhibitor, [[Vorinostat]] <ref name=Wei> Wei, D etal., "Histone Deacetylase Inhibitor Romidepsin Induces HIV Expression in CD4 T Cells from Patients on Suppressive Antiretroviral Therapy at Concentrations Achieved by Clinical Dosing" PLoS Pathog. 2014 Apr; 10(4): e1004071; doi:  10.1371/journal.ppat.1004071 </ref>
+
+==Mechanism of action==
+Romidepsin  acts as a [[prodrug]] with the [[disulfide bond]] undergoing [[Organic redox reaction|reduction]] within the cell to release a zinc-binding [[thiol]].<ref name=Ueda/><ref name=Shigematsu>{{cite journal |author1=Shigematsu, N. |author2=Ueda, H. |author3=Takase, S. |author4=Tanaka, H. |author5=Yamamoto, K. |author6=Tada, T. | journal = J. Antibiot. | year = 1994 | volume = 47 | pages = 311–314 | pmid = 8175483 | title = FR901228, a novel antitumor bicyclic depsipeptide produced by Chromobacterium violaceum No. 968. II. Structure determination. | issue = 3 | doi=10.7164/antibiotics.47.311}}</ref><ref name=Ueda2>{{cite journal |author1=Ueda, H. |author2=Manda, T. |author3=Matsumoto, S. |author4=Mukumoto, S. |author5=Nishigaki, F. |author6=Kawamura, I. |author7=Shimomura, K. | journal = J. Antibiot. | year = 1994 | volume = 47 | pages = 315–323 | pmid = 8175484 | title = FR901228, a novel antitumor bicyclic depsipeptide produced by Chromobacterium violaceum No. 968. III. Antitumor activities on experimental tumors in mice. | issue = 3 | doi=10.7164/antibiotics.47.315}}</ref> The thiol ''reversibly'' interacts with a zinc atom in the binding pocket of Zn-dependent [[histone deacetylase]] to block its activity. Thus it is an [[HDAC inhibitor]]. Many [[HDAC inhibitor]]s are potential treatments for cancer through the ability to epigenetically restore normal expression of tumor suppressor genes, which may result in cell cycle arrest, differentiation, and [[apoptosis]].<ref>{{cite journal | title = Improved Total Synthesis of the Potent HDAC Inhibitor FK228 (FR-901228)|author1=Greshock, Thomas J. |author2=Johns, Deidre M. |author3=Noguchi, Yasuo |author4=Williams, Robert M. | journal = Organic Letters | year = 2008 | volume = 10 | issue = 4 | pages = 613–616 | doi = 10.1021/ol702957z | pmid = 18205373 | pmc = 3097137}}</ref>
+
+==Adverse effects==
+The use of romidepsin is uniformly associated with [[adverse drug reaction|adverse effects]].<ref name=label/> In clinical trials, the most common were [[nausea]] and [[vomiting]], [[fatigue (medical)|fatigue]], [[infection]], [[anorexia (symptom)|loss of appetite]], and blood disorders (including [[anemia]], [[thrombocytopenia]], and [[leukopenia]]). It has also been associated with infections, and with metabolic disturbances (such as abnormal [[electrolyte]] levels), skin reactions, [[dysgeusia|altered taste perception]], and changes in [[electrocardiography|cardiac electrical conduction]].<ref name=label/>
+
+==References==
+{{reflist|colwidth=30em|refs=
+
+<ref name=NCI>{{cite web|url=http://www.cancer.gov/Templates/drugdictionary.aspx?CdrID=42600|title=Romidepsin|publisher=National Cancer Institute|accessdate=2009-09-11}}</ref>
+
+<ref name=Gloucester>{{cite web|url=http://www.gloucesterpharma.com/Romidepsin/Overview.htm|title=Romidepsin|publisher=Gloucester Pharmaceuticals|accessdate=2009-09-11}}</ref>
+
+<ref name=Ueda>{{cite journal  |vauthors=Ueda H, Nakajima H, Hori Y, etal |title=FR901228, a novel antitumor bicyclic depsipeptide produced by ''Chromobacterium violaceum'' No. 968. I. Taxonomy, fermentation, isolation, physico-chemical and biological properties, and antitumor activity |journal=Journal of Antibiotics |volume=47 |issue=3 |pages=301–10 |date=March 1994 |pmid=7513682 |doi=10.7164/antibiotics.47.301}}</ref>
+
+<ref name=Li>{{cite journal |vauthors=Li KW, Wu J, Xing W, Simon JA |title=Total synthesis of the antitumor depsipeptide FR-901,228 |journal=[[Journal of the American Chemical Society]] |volume=118 |issue=30 |pages=7237–8 |date=July 1996 |doi=10.1021/ja9613724}}</ref>
+
+<ref name=Nakajima>{{cite journal |vauthors=Nakajima H, Kim YB, Terano H, Yoshida M, Horinouchi S |title=FR901228, a potent antitumor antibiotic, is a novel histone deacetylase inhibitor |journal=Experimental Cell Research |volume=241 |issue=1 |pages=126–33 |date=May 1998 |pmid=9633520 |doi=10.1006/excr.1998.4027}}</ref>
+
+<ref name=Masuoka>{{cite book |vauthors=Masuoka Y, Shindoh N, Inamura N |chapter=Histone deacetylase inhibitors from microorganisms: the Astellas experience |editors=Petersen F, Amstutz R |title=Natural compounds as drugs |volume=2 |year=2008 |location=Basel |publisher=Birkhäuser |pages=335–59 |isbn=978-3-7643-8594-1 |url=https://books.google.com/books?id=c5vigDmiUiAC}} Retrieved on November 8, 2009 through [[Google Book Search]].</ref>
+
+<ref name=label>{{cite web |author=[No authors listed] |title=ISTODEX Label Information (updated to October 2014)|date=October 2014 |publisher=U.S. Food and Drug Administration |url=http://www.istodax.com/pdfs/ISTODAX_PackageInsert_11192009.pdf }}</ref>
+}}
+
+==External links==
+* [http://www.clinicaltrials.gov/ct2/results?term=romidepsin Clinical trials of romidepsin] at [[ClinicalTrials.gov]]
+
+
+{{Intracellular chemotherapeutic agents}}
+{{HDAC inhibitors}}
+
+[[Category:Antineoplastic drugs]]
+[[Category:Orphan drugs]]
+[[Category:Prodrugs]]
+[[Category:Histone deacetylase inhibitors]]
+[[Category:Depsipeptides]]
+[[Category:Astellas Pharma]]

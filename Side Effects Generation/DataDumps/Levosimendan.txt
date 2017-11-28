@@ -1,0 +1,87 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 462091419
+| IUPAC_name = 2-[<nowiki />[4-[(4''R'')-4-methyl-6-oxo-4,5-dihydro-1''H''-pyridazin-3-yl]phenyl]hydrazinylidene]propanedinitrile
+| image = Levosimendan.svg
+| width = 250
+| image2 = Levosimendan ball-and-stick.png
+
+<!--Clinical data-->
+| tradename = Simdax
+| Drugs.com = {{drugs.com|international|levosimendan}}
+| pregnancy_category = 
+| legal_status = Rx-only
+| routes_of_administration = [[intravenous|IV]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 85% (oral)
+| protein_bound = 97–98%
+| metabolism = Extensive [[Liver|hepatic]]
+| elimination_half-life = ~1 hour (levosimendan), 75–80 hours (metabolites)
+| excretion = urine (54%), feces (44%)
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 141505-33-1
+| ATC_prefix = C01
+| ATC_suffix = CX08
+| PubChem = 3033825
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00922
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2298414
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = C6T4514L4E
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D04720
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 50567
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 313136
+
+<!--Chemical data-->
+| C=14 | H=12 | N=6 | O=1 
+| molecular_weight = 280.28 g/mol
+| smiles = O=C2N/N=C(/c1ccc(N/N=C(\C#N)C#N)cc1)[C@H](C)C2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C14H12N6O/c1-9-6-13(21)19-20-14(9)10-2-4-11(5-3-10)17-18-12(7-15)8-16/h2-5,9,17H,6H2,1H3,(H,19,21)/t9-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WHXMKTBCFHIYNQ-SECBINFHSA-N
+}}
+
+'''Levosimendan''' ([[International Nonproprietary Name|INN]]) {{IPAc-en|ˌ|l|iː|v|oʊ|s|aɪ|ˈ|m|ɛ|n|d|ən}} is a [[calcium]] sensitiser used in the management of acutely decompensated [[congestive heart failure]]. It is marketed under the [[trade name]] '''Simdax''' ([[Orion Corporation]]).
+
+==Mechanism of action==
+Levosimendan is a calcium sensitizer — it increases the sensitivity of the heart to calcium, thus increasing cardiac contractility without a rise in intracellular calcium. Levosimendan exerts its positive [[inotrope|inotropic]] effect by increasing calcium sensitivity of [[myocyte]]s by binding to cardiac [[troponin|troponin C]] in a calcium-dependent manner. It also has a [[vasodilation|vasodilatory]] effect, by opening [[adenosine triphosphate]] (ATP)-sensitive [[potassium]] channels in vascular [[smooth muscle]] to cause smooth muscle relaxation. The combined inotropic and vasodilatory actions result in an increased force of contraction, decreased [[Preload (cardiology)|preload]] and decreased [[afterload]]. Moreover, by opening also the mitochondrial (ATP)-sensitive potassium channels in cardiomyocytes, the drug exerts a cardioprotective effect.<ref name = "Papp">{{cite journal|last1=Papp|first1=Z|last2=Édes|first2=I|last3=Fruhwald|first3=S|last4=De Hert|first4=SG|last5=Salmenperä|first5=M|last6=Leppikangas|first6=H|last7=Mebazaa|first7=A|last8=Landoni|first8=G|last9=Grossini|first9=E|last10=Caimmi|first10=P|last11=Morelli|first11=A|last12=Guarracino|first12=F|last13=Schwinger|first13=RH|last14=Meyer|first14=S|last15=Algotsson|first15=L|last16=Wikström|first16=BG|last17=Jörgensen|first17=K|last18=Filippatos|first18=G|last19=Parissis|first19=JT|last20=González|first20=MJ|last21=Parkhomenko|first21=A|last22=Yilmaz|first22=MB|last23=Kivikko|first23=M|last24=Pollesello|first24=P|last25=Follath|first25=F|title=Levosimendan: Molecular Mechanisms and Clinical Implications: Consensus of Experts on the Mechanisms of Action of Levosimendan|journal=International Journal of Cardiology|date=23 August 2012|volume=159|issue=2|pages=82–7|pmid=21784540|doi=10.1016/j.ijcard.2011.07.022}}</ref>
+
+==Clinical use==
+
+===Indications===
+Levosimendan is indicated for inotropic support in acutely-[[decompensation|decompensated]] severe [[congestive heart failure]] in situations where conventional therapy is not sufficient, and in cases where inotropic support is considered appropriate. 
+
+Some of the Phase III studies in the extensive clinical program including the trials LIDO (200 patients), RUSSLAN (500), REVIVE-I (100), REVIVE-II (600) and SURVIVE (1350). In total, the clinical data base includes more than 3500 patients in Phase IIb and III double-blind randomized studies.<ref name = "Nieminen">{{cite journal|last1=Nieminen|first1=MS|last2=Fruhwald|first2=S|last3=Heunks|first3=LM|last4=Suominen|first4=PK|last5=Gordon|first5=AC|last6=Kivikko|first6=M|last7=Pollesello|first7=P|title=Levosimendan: Current Data, Clinical Use and Future Development|journal=Heart, Lung and Vessels|date=2013|volume=5|issue=4|pages=227–45|pmid=24364017|pmc=3868185}}</ref>
+
+In the SURVIVE study, despite a reduction in plasma B-type natriuretic peptide level in patients in the levosimendan group compared with patients in the dobutamine group, levosimendan did not significantly reduce all-cause mortality at 180 days.<ref name = "Mebazaa">{{cite journal|last1=Mebazaa|first1=A|last2=Nieminen|first2=MS|last3=Packer|first3=M|last4=Cohen-Solal|first4=A|last5=Kleber|first5=FX|last6=Pocock|first6=SJ|last7=Thakkar|first7=R|last8=Padley|first8=RJ|last9=Põder|first9=P|last10=Kivikko|first10=M|last11=SURVIVE|first11=Investigators|title=Levosimendan vs Dobutamine for Patients with Acute Decompensated Heart Failure: the SURVIVE Randomized Trial|journal=JAMA|date=2 May 2007|volume=297|issue=17|pages=1883–91|pmid=17473298|doi=10.1001/jama.297.17.1883}}</ref> However, the drug was proven to be superior to dobutamine for treating patients with a history of CHF or those on beta-blocker therapy when they are hospitalized with acute decompensations.<ref name = "Böhm">{{cite journal|last1=Böhm|first1=M|last2=Link|first2=A|last3=Cai|first3=D|last4=Nieminen|first4=MS|last5=Filippatos|first5=GS|last6=Salem|first6=R|last7=Cohen_Solal|first7=A|last8=Huang|first8=B|last9=Padley|first9=RJ|last10=Kivikko|first10=M|last11=Mebazaa|first11=A|title= Beneficial association of β-blocker therapy on recovery from severe acute heart failure treatment: data from the Survival of Patients With Acute Heart Failure in Need of Intravenous Inotropic Support trial.|journal=Critical Care Medicine|date=May 2011|volume=39|issue=5|pages=940–4|pmid=21283007|doi=10.1097/CCM.0b013e31820a91ed}}</ref>
+
+===Licensing status===
+The [[Orion Corporation]] originally developed levosimendan and applied for a [[new drug application]] in 1998 in the U.S. However the [[Food and Drug Administration]] (FDA) requested further trials be conducted and Orion withdrew the application in November 1999. Initially, Orion obtained the approval to market the drug in Sweden in 2000.<ref>{{cite web|last=Orion|title=Simdax (levosimendan) Fact Sheet|url=http://www.orion.fi/Documents/Publications%20and%20Media%20main%20file/Presentation%20materials%20PDF/Simdax%20Fact%20Sheet.pdf|publisher=Orion|accessdate=16 February 2013}}</ref> Since then 60 countries worldwide have approved the drug but it remains unapproved in North America, where it is currently in Phase III development by Tenax Therapeutics for reduction in morbidity and mortality of cardiac surgery patients at risk of low cardiac output syndrome.<ref>{{cite web|last=Tenax Theraputics|title=Levosimendan - Tenax Theraputics|url=http://www.tenaxthera.com/pipeline/levosimendan/|publisher=Tenax Theraputics|accessdate=27 November 2016}}</ref>
+
+===Contraindications===
+The use of levosimendan is contraindicated in patients with moderate-to-severe [[chronic renal failure|kidney impairment]], severe [[liver]] impairment, severe [[Ventricle (heart)|ventricular]] filling or outflow obstruction, very [[hypotension|low blood pressure]] and [[tachycardia|fast heart rate]], and/or history of the [[arrhythmia|abnormal heart rhythm]] [[torsades de pointes]] (Rossi, 2006).<ref>Rossi S, editor. [[Australian Medicines Handbook]] 2006. Adelaide: Australian Medicines Handbook; 2006.</ref>
+
+===Adverse effects===
+Common [[adverse drug reaction]]s (≥1% of patients) associated with levosimendan therapy include: headache, hypotension, [[arrhythmia]]s ([[atrial fibrillation]], [[Systole (medicine)|extrasystoles]], [[atrium (anatomy)|atrial]] [[tachycardia]], [[ventricular tachycardia]]), [[myocardial ischaemia]], [[hypokalaemia]] and/or nausea (Rossi, 2006).
+
+===Formulations===
+Levosimendan is marketed as a 2.5&nbsp;mg/mL concentrated solution for IV infusion. The concentrate is diluted with [[glucose]] 5% solution before infusion.
+
+==References==
+{{reflist}}
+
+{{Cardiac stimulants excluding cardiac glycosides}}
+
+[[Category:Calcium sensitizers]]
+[[Category:Inotropic agents]]
+[[Category:Lactams]]
+[[Category:Nitriles]]
+[[Category:Pyridazines]]

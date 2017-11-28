@@ -1,0 +1,59 @@
+{{Drugbox
+| verifiedrevid = 448018348
+| IUPAC_name = (4E,6E,8E,10E,12E,14E,16E)-3-[(2R,3S,4S,5S,6R)-4-amino-3,5-dihydroxy-6-methyloxan-2-yl]oxy-19-[7-(4-aminophenyl)-5-hydroxy-7-oxoheptan-2-yl]-25,27,31,33,35,37-hexahydroxy-18-methyl-21,23-dioxo-20,39-dioxabicyclo[33.3.1]nonatriaconta-4,6,8,10,12,14,16-heptaene-38-carboxylic acid;(4E,6E,8E,10E,12E,14E,16E)-3-[(2R,3S,4S,5S,6R)-4-amino-3,5-dihydroxy-6-methyloxan-2-yl]oxy-19-[7-(4-aminophenyl)-5-hydroxy-7-oxoheptan-2-yl]-27,29,31,33,35,37-hexahydroxy-18-methyl-21,23-dioxo-20,39-dioxabicyclo[33.3.1]nonatriaconta-4,6,8,10,12,14,16-heptaene-38-carboxylic acid
+| image = Hachimycin.svg
+| width = 300
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 1394-02-1
+| ATC_prefix = D01
+| ATC_suffix = AA03
+| ATC_supplemental =  {{ATC|G01|AA06}} {{ATC|J02|AA02}}
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 10153168
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/2C58H84N2O18/c1-35-17-14-12-10-8-6-4-5-7-9-11-13-15-20-46(76-57-54(71)52(60)53(70)37(3)75-57)32-49-51(56(72)73)48(68)34-58(74,78-49)33-45(66)29-44(65)28-43(64)27-40(61)18-16-19-41(62)31-50(69)77-55(35)36(2)21-26-42(63)30-47(67)38-22-24-39(59)25-23-38;1-35-17-14-12-10-8-6-4-5-7-9-11-13-15-20-46(76-57-54(71)52(60)53(70)37(3)75-57)32-49-51(56(72)73)48(68)34-58(74,78-49)33-45(66)28-41(62)19-16-18-40(61)27-43(64)29-44(65)31-50(69)77-55(35)36(2)21-26-42(63)30-47(67)38-22-24-39(59)25-23-38/h4-15,17,20,22-25,35-37,40,42-46,48-49,51-55,57,61,63-66,68,70-71,74H,16,18-19,21,26-34,59-60H2,1-3H3,(H,72,73);4-15,17,20,22-25,35-37,40-43,45-46,48-49,51-55,57,61-64,66,68,70-71,74H,16,18-19,21,26-34,59-60H2,1-3H3,(H,72,73)/b5-4-,8-6-,9-7-,12-10-,13-11-,17-14-,20-15-;5-4+,8-6+,9-7+,12-10+,13-11+,17-14-,20-15+/t35?,36?,37-,40?,42?,43?,44?,45?,46?,48?,49?,51?,52+,53-,54+,55?,57+,58?;35?,36?,37-,40?,41?,42?,43?,45?,46?,48?,49?,51?,52+,53-,54+,55?,57+,58?/m11/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = RZWQQZWPVPHLSY-UGMBPVHXSA-N
+| SMILES = CC1C=CC=CC=CC=CC=CC=CC=CC(CC2C(C(CC(O2)(CC(CC(CC(CC(CCCC(=O)CC(=O)OC1C(C)CCC(CC(=O)C3=CC=C(C=C3)N)O)O)O)O)O)O)O)C(=O)O)OC4C(C(C(C(O4)C)O)N)O.CC1C=CC=CC=CC=CC=CC=CC=CC(CC2C(C(CC(O2)(CC(CC(CCCC(CC(CC(=O)CC(=O)OC1C(C)CCC(CC(=O)C3=CC=C(C=C3)N)O)O)O)O)O)O)O)C(=O)O)OC4C(C(C(C(O4)C)O)N)O
+| PubChem = 11979956
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+
+<!--Chemical data-->
+| C=116 | H=168 | N=4 | O=36
+| molecular_weight = 2194.58032 g/mol
+}}
+'''Hachimycin''', also known as '''trichomycin''',<ref name="pubchem">{{cite web | url=https://pubchem.ncbi.nlm.nih.gov/compound/11979956 | title=Trichomycin - C116H168N4O36 - PubChem | accessdate=July 7, 2016}}</ref> is a [[polyene]] [[macrolide antibiotic]].<ref name="j-antibiotics-1">{{cite journal | url=https://www.jstage.jst.go.jp/article/antibiotics1968/33/6/33_6_591/_article | title=Characterization of aromatic heptaene macrolide antibiotics by high performance liquid chromatography. | author=Mechlinski W; Schaffner CP. | journal=The Journal of Antibiotics | date= June 1980 | volume=33 | issue=6 | pages=591–9 | doi=10.7164/antibiotics.33.591 | pmid=6893446}}</ref> It's used as a [[fungicidal]] [[antifungal]] agent, derived from [[streptomyces]].<ref name="j-antibiotics-2">{{cite journal | url=https://www.jstage.jst.go.jp/article/antibiotics1968/43/7/43_7_778/_article | title=Trichomycin B, a polyene macrolide from Streptomyces. | author=Komori, Tadaaki | journal=The Journal of Antibiotics | year=July 1990 | volume=43 | issue=7 | pages=778–82 | doi=10.7164/antibiotics.43.778 | pmid=2387771}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Gynecological anti-infectives and antiseptics|state=collapsed}}
+
+[[Category:Antibiotics]]
+[[Category:Macrolide antibiotics]]
+[[Category:Polyenes]]
+
+
+{{antibiotic-stub}}

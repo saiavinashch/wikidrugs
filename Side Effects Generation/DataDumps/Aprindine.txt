@@ -1,0 +1,65 @@
+{{Drugbox
+| verifiedrevid = 443395414
+| IUPAC_name = {3-[2,3-dihydro-1''H''-inden-2-yl(phenyl)amino]propyl}diethylamine
+| image = Aprindine.svg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|aprindine}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_UK = <!-- GSL         / P       / POM / CD -->
+| legal_US = <!-- OTC                   / Rx-only  -->
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 37640-71-4
+| ATC_prefix = C01
+| ATC_suffix = BB04
+| PubChem = 2218
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01429
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2132
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 5Y48085P9Q
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02969
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1213033
+<!--Chemical data-->
+| C=22 | H=30
+| N=2
+| molecular_weight = 322.487 g/mol
+| smiles = c1cccc3c1CC(N(c2ccccc2)CCCN(CC)CC)C3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H30N2/c1-3-23(4-2)15-10-16-24(21-13-6-5-7-14-21)22-17-19-11-8-9-12-20(19)18-22/h5-9,11-14,22H,3-4,10,15-18H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = NZLBHDRPUJLHCE-UHFFFAOYSA-N
+}}
+'''Aprindine''' is a Class 1b [[antiarrhythmic agent]].<ref name="pmid1660104">{{cite journal |vauthors=Sato R, Hisatome I, Tanaka Y |title=Aprindine blocks the sodium current in guinea-pig ventricular myocytes |journal=Naunyn Schmiedebergs Arch. Pharmacol. |volume=344 |issue=3 |pages=331–6 |date=September 1991 |pmid=1660104 |doi= 10.1007/bf00183008|url=|display-authors=etal}}</ref>
+
+In one study, it delayed [[atrial fibrillation]] more than [[digoxin]] did.<ref name="pmid12074271">{{cite journal |vauthors=Atarashi H, Inoue H, Fukunami M, Sugi K, Hamada C, Origasa H |title=Double-blind placebo-controlled trial of aprindine and digoxin for the prevention of symptomatic atrial fibrillation |journal=Circ. J. |volume=66 |issue=6 |pages=553–6 |date=June 2002 |pmid=12074271 |doi= 10.1253/circj.66.553|url=http://joi.jlc.jst.go.jp/JST.JSTAGE/circj/66.553?from=PubMed|archive-url=https://archive.is/20121219035343/http://joi.jlc.jst.go.jp/JST.JSTAGE/circj/66.553?from=PubMed|dead-url=yes|archive-date=2012-12-19}} </ref>
+
+It has shown effectiveness when given orally.<ref name="pmid603737">{{cite journal |vauthors=Reid PR, Greene HL, Varghese PJ |title=Suppression of refractory arrhythmias by aprindine in patients with the Wolff-Parkinson-White syndrome |journal=Br Heart J |volume=39 |issue=12 |pages=1353–60 |date=December 1977 |pmid=603737 |pmc=483421 |doi= 10.1136/hrt.39.12.1353|url=http://heart.bmj.com/cgi/pmidlookup?view=long&pmid=603737}}</ref>
+
+==References==
+{{reflist}}
+
+{{Antiarrhythmic agents}}
+
+[[Category:Antiarrhythmic agents]]
+[[Category:Sodium channel blockers]]
+[[Category:Indanes]]
+[[Category:Amines]]
+
+{{Amine-stub}}
+{{cardiovascular-drug-stub}}

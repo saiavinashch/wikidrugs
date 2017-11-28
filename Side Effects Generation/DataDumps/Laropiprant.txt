@@ -1,0 +1,182 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 408651073
+| drug_name = Niacin/laropiprant
+| type = combo
+| component1 = Niacin
+| class1 = [[Hypolipidemic agent]]
+| component2 = Laropiprant
+| class2 = [[Prostaglandin receptor]] [[receptor antagonist|antagonist]]
+
+<!-- Clinical data -->
+| tradename  = Cordaptive, Tredaptive
+| Drugs.com = {{drugs.com|UK|tredaptive-1000-mg-20-mg-modified-release-tablets-1360}}
+| MedlinePlus = 
+| licence_EU = yes
+| INN_EMA = laropiprant
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Withdrawn
+| routes_of_administration = Oral
+
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 
+| ATC_prefix  = C10
+| ATC_suffix = AD52
+| PubChem = 11948701
+}}
+
+{{Drugbox
+| drug_name =
+| Verifiedfields = changed
+| verifiedrevid = 408651073
+| IUPAC_name = (−)-[(3''R'')-4-(4-chlorobenzyl)-7-fluoro-5-(methylsulfonyl)-1,2,3,4-tetrahydrocyclopenta[b]indol-3-yl]acetic acid
+| image = Laropiprant.svg
+
+<!-- Clinical data -->
+| Drugs.com = {{drugs.com|international|laropiprant}}
+| legal_status = Withdrawn
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 3356
+| ATC_prefix = none
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 571170-77-9
+| PubChem = 9867642
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = G7N11T8O78
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08940
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 426559
+| ChemSpiderID = 8043333
+| synonyms = MK-0524A
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=21 | H=19 | Cl=1 | F=1 | N=1 | O=4 | S=1 
+| molecular_weight = 435.90 g/mol
+| smiles = O=S(=O)(c1cc(F)cc2c1n(c3c2CC[C@@H]3CC(=O)O)Cc4ccc(Cl)cc4)C
+| StdInChI = 1S/C21H19ClFNO4S/c1-29(27,28)18-10-15(23)9-17-16-7-4-13(8-19(25)26)20(16)24(21(17)18)11-12-2-5-14(22)6-3-12/h2-3,5-6,9-10,13H,4,7-8,11H2,1H3,(H,25,26)/t13-/m1/s1
+| StdInChIKey = NXFFJDQHYLNEJK-CYBMUJFWSA-N
+}}
+
+'''Laropiprant''' ([[International Nonproprietary Name|INN]]) was a drug used in combination with [[niacin]] to reduce blood cholesterol ([[Low-density lipoprotein|LDL]] and [[VLDL]]) that is no longer sold, due to increases in side-effects with no cardiovascular benefit. Laropiprant itself has no cholesterol lowering effect, but it reduces facial [[Flushing (physiology)|flushes]] induced by niacin.
+
+[[Merck & Co.]] planned to market this combination under the trade names '''Cordaptive''' in the US and '''Tredaptive''' in Europe. Both brands contained 1000&nbsp;mg of niacin and 20&nbsp;mg of laropiprant in each tablet.<ref name="Tredaptive_pi">{{cite web
+| url = http://www.merck.com/newsroom/pdf/Tredaptive_pi.pdf
+| format = PDF
+| title = Tredaptive Prescribing Information
+| publisher = [[Merck & Co.]]
+| accessdate = 2009-11-14
+}}</ref>
+
+==Mechanism of action==
+Niacin in cholesterol lowering doses (500–2000&nbsp;mg per day) causes facial flushes by stimulating biosynthesis of [[prostaglandin D2|prostaglandin D<sub>2</sub>]] (PGD<sub>2</sub>), especially in the skin. PGD<sub>2</sub> [[vasodilator|dilates the blood vessels]] via activation of the [[prostaglandin D2 receptor|prostaglandin D<sub>2</sub> receptor]] subtype [[prostaglandin DP1 receptor|DP<sub>1</sub>]], increasing blood flow and thus leading to flushes.<ref name="Tredaptive_pi" /><ref>{{Cite journal 
+| doi = 10.1111/j.1559-4572.2008.00050.x 
+| title = Mechanisms of Flushing Due to Niacin and Abolition of These Effects 
+| year = 2009 
+| last1 = Sood | first1 = A. 
+| last2 = Arora | first2 = R. 
+| journal = The Journal of Clinical Hypertension 
+| volume = 11 
+| pages = 685–9| pmid = 19878384 
+| issue = 11 
+}}</ref> Laropiprant acts as a selective DP<sub>1</sub> [[receptor antagonist]] to inhibit the vasodilation of prostaglandin D<sub>2</sub>-induced activation of DP<sub>1</sub>.<ref name="Tredaptive_pi" />
+
+Taking 325&nbsp;mg of [[aspirin]] 20–30 minutes prior to taking niacin has also been proven to prevent flushing in 90% of patients, presumably by suppressing prostaglandin synthesis,<ref>
+{{cite journal
+| author = Richard A. Kunin
+| url = http://www.orthomolecular.org/library/jom/1976/pdf/1976-v05n02-p089.pdf
+| title = The Action of Aspirin in Preventing the Niacin Flush and its Relevance to the Antischizophrenic Action of Megadose Niacin
+| journal = Orthomolecular Psychiatry
+| volume = 5
+| issue = 2
+| year = 1976
+| pages = 89–100
+| format = PDF
+| accessdate = 2009-11-14
+}}</ref> but this medication also increases the risk of [[gastrointestinal bleeding]],<ref>
+{{cite journal
+ |vauthors=Sørensen HT, Mellemkjaer L, Blot WJ, etal | title = Risk of upper gastrointestinal bleeding associated with use of low-dose aspirin
+| journal = Am. J. Gastroenterol.
+| volume = 95
+| issue = 9
+| pages = 2218–24
+|date=September 2000
+| pmid = 11007221
+| doi = 10.1111/j.1572-0241.2000.02248.x
+}}</ref> though the increased risk is less than 1 percent.<ref>{{cite news|title=For Healthy People Daily Aspirin May Do More Harm Than Good| url=http://www.medicalnewstoday.com/articles/162385.php|publisher=Medical News Today|date=31 August 2009}}</ref>
+
+==History==
+In the mid-2000s, in a trial with 1613 patients, 10.2% patients stopped taking the medication in the combination drug group versus 22.2% under niacin monotherapy.<ref>
+{{cite journal
+ |vauthors=Lai E, De Lepeleire I, Crumley TM, etal | title = Suppression of niacin-induced vasodilation with an antagonist to prostaglandin D2 receptor subtype 1
+| journal = Clin. Pharmacol. Ther.
+| volume = 81
+| issue = 6
+| pages = 849–57
+|date=June 2007
+| pmid = 17392721
+| doi = 10.1038/sj.clpt.6100180
+}}</ref>
+
+On April 28, 2008, the [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]] (FDA) issued a "not approved" letter for Cordaptive.<ref>
+{{cite news
+| title = FDA Rejects Merck's Cordaptive
+| url = http://www.businessweek.com/bwdaily/dnflash/content/apr2008/db20080429_182260.htm
+| date = April 29, 2008
+| accessdate= 2009-11-13
+| work = [[BusinessWeek]]
+| last = Carey
+| first= John
+}}</ref> Tredaptive was approved by the [[European Medicines Agency]] (EMA) on July 3, 2008.<ref>
+{{cite web
+ | url= http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Public_assessment_report/human/000889/WC500042219.pdf
+ | title= Tredaptive European Public Assessment Report
+ | publisher=[[European Medicines Agency]]
+ | accessdate=November 13, 2009
+}}</ref>
+
+On January 11, 2013, Merck & Co Inc. announced they were withdrawing the drug worldwide as a result of European regulators recommendations.<ref>{{cite web|title=Merck withdraws cholesterol drug Tredaptive globally|url=https://www.reuters.com/article/2013/01/11/us-merck-cholesteroldrug-withdrawal-idUSBRE90A0MB20130111?feedType=RSS&feedName=healthNews|publisher=Reuters|accessdate=11 January 2013|date=January 11, 2013}}</ref>
+
+The Heart Protection Study 2-Treatment of HDL to Reduce the Incidence of Vascular Events (HPS2-THRIVE) involved more than 25,000 adults. The treatment group received 2 g of extended-release niacin and 40&nbsp;mg of laropiprant daily. Study results, reported in July 2014, showed that the combination of niacin and laropiprant did not have any beneficial effects when compared with a [[placebo]] treatment and had an increase in adverse effects.<ref>{{cite journal
+| author = The HPS2-THRIVE Collaborative Group
+| url = http://www.nejm.org/doi/full/10.1056/NEJMoa1300955
+| title = Effects of Extended-Release Niacin with Laropiprant in High-Risk Patients
+| journal = New England Journal of Medicine
+| volume = 371
+|date=July 17, 2014
+|doi=10.1056/NEJMoa1300955
+| pages = 203–212
+| accessdate = 2014-10-27}}
+</ref>
+
+==References==
+{{Reflist|2}}
+
+{{Lipid modifying agents}}
+{{Prostanoidergics}}
+
+[[Category:Combination drugs]]
+[[Category:Merck]]
+[[Category:Indoles]]
+[[Category:Chloroarenes]]
+[[Category:Fluoroarenes]]
+[[Category:Sulfones]]

@@ -1,0 +1,84 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 431818918
+| IUPAC_name = (''RS'')-2-Amino-3-hydroxy-''N''′-(2,3,4-trihydroxybenzyl)propanehydrazide
+| image = Benserazid.svg
+| image2 = Benserazide ball-and-stick.png
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|benserazide}}
+| pregnancy_AU = B3
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_CA = <!--                             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = POM
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = (with [[levodopa]])
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion = [[Kidney|Renal]] and fecal
+<!--Identifiers-->
+| IUPHAR_ligand = 5150
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 14919-77-8
+| ATC_prefix =  
+| ATC_suffix =  
+| PubChem = 2327
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2237
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = B66E5RK36Q
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03082
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1096979
+<!--Chemical data-->
+| C=10 | H=15
+| N=3 | O=5
+| molecular_weight = 257.243 g/mol
+| smiles = O=C(NNCc1c(O)c(O)c(O)cc1)C(N)CO
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H15N3O5/c11-6(4-14)10(18)13-12-3-5-1-2-7(15)9(17)8(5)16/h1-2,6,12,14-17H,3-4,11H2,(H,13,18)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = BNQDCRGUHNALGH-UHFFFAOYSA-N
+}}
+
+'''Benserazide''' (also called '''Serazide''' or '''Ro 4-4602''') is a [[peripheral nervous system|peripherally-acting]] [[aromatic L-amino acid decarboxylase]] (AADC) or [[DOPA decarboxylase inhibitor]], which is unable to cross the [[blood–brain barrier]].<ref name="pmid12703659">{{cite journal |vauthors=Shen H, Kannari K, Yamato H, Arai A, Matsunaga M |title=Effects of benserazide on L-DOPA-derived extracellular dopamine levels and aromatic L-amino acid decarboxylase activity in the striatum of 6-hydroxydopamine-lesioned rats |journal=The Tohoku journal of experimental medicine |volume=199 |issue=3 |pages=149–59 |date=March 2003 |pmid=12703659 |doi= 10.1620/tjem.199.149|url=http://www.sciencedirect.com/science/article/pii/S0531513103001195 |format=}}</ref>
+
+== Indications ==
+
+It is used in the management of [[Parkinson's disease]] in combination with L-DOPA ([[levodopa]]) as  '''co-beneldopa''' ([[British Approved Name|BAN]]), under the brand names '''Madopar''' in the UK and '''Prolopa''' in Canada, both made by [[Hoffmann-La Roche|Roche]]. Benserazide is not approved for use in the US; [[carbidopa]] is used instead for the same purpose. These combinations are also used for the treatment of [[restless legs syndrome]].<ref>Ryan, Melody; Slevin, John T. (2006). [http://www.medscape.com/viewarticle/543705/ "Restless legs syndrome"]. ''American Journal of Health-System Pharmacy''. 63 (17): 1599-1612. Retrieved on 2008-02-06.</ref>
+
+== Pharmacology ==
+
+[[Levodopa]] is a [[precursor (chemistry)|precursor]] to the [[neurotransmitter]] [[dopamine]] which is administered to increase its levels in the [[central nervous system]]. However, most levodopa is [[decarboxylation|decarboxylated]] to dopamine before it reaches the brain, and since dopamine is unable to cross the blood–brain barrier, this translates to little therapeutic gain with strong peripheral side effects.
+
+Benserazide inhibits the aforementioned decarboxylation, and since it itself cannot cross the blood–brain barrier, this allows dopamine to build up solely in the brain instead. Adverse effects caused by peripheral dopamine, such as [[vasoconstriction]], [[nausea]], and [[arrhythmia]], are minimized. However, benserazide cannot reduce the centrally-mediated side effects of levodopa, particularly [[dyskinesia]].
+
+Benserazide has little therapeutic effect on its own, and its effect occurs synergically in combination with levodopa.
+
+The [[Aromatic L-amino acid decarboxylase|enzyme]] inhibited by Benzerazide, catalyzes many different decarboxylations. The same effect of concentrating the conversion of l-dopa into dopamine to the central nervous system can be achieved with the following decarboxylations being confined to the central nervous system:
+*[[5-HTP]] to [[serotonin]]
+*[[Tryptophan]] to [[tryptamine]]
+*[[Phenylalanine]] to [[phenethylamine]]
+*[[L-tyrosine]] to [[tyramine]]
+
+Centrally-mediated side effects of higher levels of [[neurotransmitter|neuro]] and [[Trace amine|trace amine transmitters]] may worsen in combination with [[Monoamine oxidase inhibitor#List of MAO inhibiting drugs|monoamine oxidase inhibitors]].
+
+== References ==
+{{Reflist|2}}
+
+{{Antiparkinson}}
+{{Monoamine metabolism modulators}}
+
+[[Category:Alcohols]]
+[[Category:Hydrazides]]
+[[Category:Pyrogallols]]
+[[Category:AAAD inhibitors]]
+[[Category:Antiparkinsonian agents]]
+[[Category:Peripherally selective drugs]]

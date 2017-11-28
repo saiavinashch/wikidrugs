@@ -1,0 +1,79 @@
+{{chembox
+| ImageFile = Acetylleucine.svg
+| ImageFile_Ref = {{chemboximage|correct|??}}
+| ImageSize = 160
+| ImageName = Stereo, skeletal model of acetylleucine (S)
+| IUPACName = 2-Acetamido-4-methylpentanoic acid<ref>{{cite web | title = N-Acetyl-DL-leucine | website = PubChem Open Chemistry Database | url = https://pubchem.ncbi.nlm.nih.gov/compound/N-Acetyl-DL-leucine#section=Top | accessdate = 26 Mar 2017}}</ref>
+|Section1={{Chembox Identifiers
+| CASNo = 99-15-0
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo1 = 19764-30-8
+| CASNo1_Ref = {{cascite|correct|??}}
+| CASNo1_Comment = <small>''R''</small>
+| CASNo2 = 1188-21-2
+| CASNo2_Ref = {{cascite|correct|??}}
+| CASNo2_Comment = <small>''S''</small>
+| PubChem = 1995
+| PubChem1 = 1241420
+| PubChem1_Comment = <small>''R''</small>
+| PubChem2 = 70912
+| PubChem2_Comment = <small>''S''</small>
+| ChemSpiderID = 1918
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID1 = 1042393
+| ChemSpiderID1_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID1_Comment = <small>''R''</small>
+| ChemSpiderID2 = 64075
+| ChemSpiderID2_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID2_Comment = <small>''S''</small>
+| UNII = K76S41V71X
+| UNII_Ref = {{fdacite|correct|FDA}}
+| EINECS = 202-734-9
+| KEGG = D07350
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| MeSHName = acetylleucine
+| ChEBI = 17786
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 174357
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL1 = 56021
+| ChEMBL1_Ref = {{ebicite|correct|EBI}}
+| Beilstein = 1724849 <small>''S''</small>
+| Gmelin = 985259 <small>''S''</small>
+| 3DMet = B00487
+| SMILES = CC(C)CC(NC(C)=O)C(O)=O
+| StdInChI = 1S/C8H15NO3/c1-5(2)4-7(8(11)12)9-6(3)10/h5,7H,4H2,1-3H3,(H,9,10)(H,11,12)
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WXNXCEHXYPACJF-UHFFFAOYSA-N
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+}}
+|Section2={{Chembox Properties
+| C=8 | H=15 | N=1 | O=3
+| Appearance = White crystals
+| MeltingPtK = 158 to 160
+| LogP = −0.265
+| pKa = 3.666
+| pKb = 10.331
+}}
+|Section8={{Chembox Related
+| OtherCompounds = [[ENU]]
+}}
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = N07
+| ATCCode_suffix = CA04
+}}
+}}
+'''Acetylleucine''' is a drug used in the treatment of [[vertigo (medical)|vertigo]].<ref>{{cite web | title = N07CA04 (acetylleucine) | website = WHO Collaborating Centre for Drug Statistics Methodology | publisher = Norwegian Institute of Public Health | date = 19 Dec 2016 | url = https://www.whocc.no/atc_ddd_index/?code=N07CA04&showdescription=yes | accessdate = 26 Mar 2017}}</ref> and cerebellar ataxia.
+
+==See also==
+* [[Leucine]]
+
+==References==
+<references />
+
+{{antivertigo preparations}}
+
+[[Category:Amino acid derivatives]]
+[[Category:Acetamides]]
+
+{{nervous-system-drug-stub}}

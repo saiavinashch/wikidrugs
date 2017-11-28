@@ -1,0 +1,84 @@
+{{chembox
+| Watchedfields = changed
+| verifiedrevid = 470604697
+| Name = Tetralin
+| ImageFile_Ref = {{chemboximage|correct|??}}
+| ImageFile = Tetralin.svg
+| ImageSize = 160px
+| ImageAlt = Skeletal formula
+| ImageFile1 = Tetralin-3D-balls.png
+| ImageSize1 = 170px
+| ImageAlt1 = Ball-and-stick model
+| IUPACName = 1,2,3,4-tetrahydronaphthalene
+| OtherNames = naphthalene 1,2,3,4-tetrahydride<br />Bacticin<br />benzocyclohexane<br />THN
+|Section1={{Chembox Identifiers
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 35008
+| SMILES = c1ccc2c(c1)CCCC2
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 8097
+| PubChem = 8404
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = FT6XMI58YQ
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = C14114
+| InChI = 1/C10H12/c1-2-6-10-8-4-3-7-9(10)5-1/h1-2,5-6H,3-4,7-8H2
+| InChIKey = CXWXQJXEFPUFDZ-UHFFFAOYAG
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H12/c1-2-6-10-8-4-3-7-9(10)5-1/h1-2,5-6H,3-4,7-8H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = CXWXQJXEFPUFDZ-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo = 119-64-2
+  }}
+|Section2={{Chembox Properties
+| C=10 |H=12
+| Appearance = Clear, colorless liquid with an odor similar to naphthalene
+| Density = 0.970 g/cm<sup>3</sup>
+| Solubility = Insoluble
+| MeltingPtC = -35.8
+| BoilingPtC = 206 to 208
+| Viscosity = 2.02 [[Poise|cP]] at 25&nbsp;°C<ref>{{cite journal|doi=10.1007/BF00514480|title=Density and viscosity of tetralin and trans-decalin|year=1989|last1=Gonçalves|first1=F. A.|last2=Hamano|first2=K.|last3=Sengers|first3=J. V.|journal=International Journal of Thermophysics|volume=10|issue=4|pages=845|bibcode=1989IJT....10..845G}}</ref>
+  }}
+|Section7={{Chembox Hazards
+| ExternalSDS = [http://hazard.com/msds/mf/baker/baker/files/t1313.htm JT Baker MSDS]
+| FlashPtC = 77
+| AutoignitionPtC = 385
+  }}
+}}
+
+'''Tetralin''' ('''1,2,3,4-tetrahydronaphthalene''') is a [[hydrocarbon]] having the [[chemical formula]] C<sub>10</sub>H<sub>12</sub>. This [[molecule]] is similar to the [[naphthalene]] [[chemical structure]] except that one [[functional group|ring]] is [[saturation (chemistry)|saturated]].
+
+==Synthesis==
+The [[chemical compound|compound]] can be [[Chemical synthesis|synthesized]] in a [[Bergman cyclization]] whereby cyclodeca-3-ene-1,5-diyne reacts with 1,3-cyclohexadiene to produce benzene and tetralin. In a classic [[named reaction]] called the '''Darzens tetralin synthesis''', named for [[Auguste Georges Darzens]] (1926), [[derivative (chemistry)|derivative]]s can be prepared by [[intramolecular]] [[electrophilic aromatic substitution]] reaction of an 1-aryl-4-pentene using [[concentration|concentrated]] [[sulfuric acid]],<ref>{{cite book |author= Michael B. Smith |title= Organic Synthesis |publisher= Academic Press |year= 2011 |pages= 1209–1210 |edition= third |isbn= 9780124158849 }}</ref>
+
+[[Image:Darzens Synthesis of Tetralin Derivatives.png|thumb|center|400px|Darzens synthesis of tetralin derivatives]]
+
+It can also be prepared by partial [[hydrogenation]] of [[naphthalene]] in the presence of a [[platinum]] [[catalyst]].
+
+==Production==
+Tetralin is produced by the catalytic hydrogenation of naphthalene.
+
+[[File:Tetralin synthesis 01.svg|440px]]
+
+A large amount of work has been devoted to the hydrogenation of naphthalene into tetralin. [[Mixture]]s containing different [[concentration|proportion]]s of naphthalene, tetralin, and [[decalin]] can be produced depending on the [[pressure]] and [[temperature]] of the process. Tetralin has been obtained from pressed naphthalene [[liquid-liquid extraction|isolated]] from [[coal tar]] by hydrogenating it over commercial catalyst WS<sub>2</sub> + NiS + Al<sub>2</sub>O<sub>3</sub> and CoO + MoO<sub>3</sub> + Al<sub>2</sub>O<sub>3</sub> under pressure of 50–300 atm. The extent to which naphthalene is hydrogenated at pressures up to 60–70 atm is determined by catalyst activity; it is maximum if CoO + MoO<sub>3</sub> + Al<sub>2</sub>O<sub>3</sub> or WS<sub>2</sub> + NiS + Al<sub>2</sub>O<sub>3</sub> catalyst are used at 300–370&nbsp;°C.<ref>{{cite journal|doi=10.1007/BF00727949|title=Production of tetralin by the hydrogenation of naphthalene-containing fractions|year=1969|last1=Krichko|first1=A. A.|last2=Skvortsov|first2=D. V.|last3=Titova|first3=T. A.|last4=Filippov|first4=B. S.|last5=Dogadkina|first5=N. E.|journal=Chemistry and Technology of Fuels and Oils|volume=5|pages=18}}</ref>
+
+==Uses==
+Tetralin is used as a solvent.
+
+It is also used for the laboratory synthesis of dry [[Hydrogen bromide|HBr]] gas:
+
+:C<sub>10</sub>H<sub>12</sub>  +  4 Br<sub>2</sub>   →   C<sub>10</sub>H<sub>8</sub>Br<sub>4</sub>  +  4 HBr
+
+==See also==
+* [[Decalin]]
+* [[Dialin]]
+* [[Naphthalene]]
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+[[Category:Tetralins| ]]
+[[Category:Alkylbenzenes]]
+[[Category:Aromatic solvents]]

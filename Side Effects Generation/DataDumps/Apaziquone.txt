@@ -1,0 +1,66 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 457134883
+| IUPAC_name = (''E'')-5-(1-Azirinyl)-3-(hydroxymethyl)-2-(3-hydroxy-1-propenyl)-1-methyl-1''H''-indole-4,7-dione
+| image = Apaziquone.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A, B1, B2, B3, C, D, X -->
+| pregnancy_US = <!-- A, B, C, D, X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Investigational New Drug
+| legal_status = 
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 114560-48-4
+| ATC_prefix = None
+| ATC_suffix =  
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 73822
+| PubChem = 5813717
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4710342
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = H464ZO600O
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02965
+
+<!--Chemical data-->
+| C=15 | H=16 | N=2 | O=4 
+| molecular_weight = 288 g/mol
+| smiles = Cn1c(c(c2c1C(=O)C=C(C2=O)N3CC3)CO)/C=C/CO
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C15H16N2O4/c1-16-10(3-2-6-18)9(8-19)13-14(16)12(20)7-11(15(13)21)17-4-5-17/h2-3,7,18-19H,4-6,8H2,1H3/b3-2+
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = MXPOCMVWFLDDLZ-NSCUHMNNSA-N
+}}
+
+'''Apaziquone''' (tentative trade name '''EOquin''')<ref>{{cite web|title=UvA researcher develops new bladder cancer medication |date=25 Jul 2007 |publisher=University of Amsterdam |url=http://www.student.uva.nl/eco/actueeleco.cfm/FCE6CA35-1321-B0BE-688CD4EE5D63A36B |deadurl=yes |archiveurl=https://web.archive.org/web/20110716090159/http://www.student.uva.nl/eco/actueeleco.cfm/FCE6CA35-1321-B0BE-688CD4EE5D63A36B |archivedate=2011-07-16 }}</ref> is an indolequinone that is a bioreductive [[prodrug]] and a [[chemical analog]] of the older [[chemotherapy|chemotherapeutic agent]] [[mitomycin C]]. In [[Hypoxia (medical)|hypoxic]] cells, such as those on the inner surface of the [[urinary bladder]], apaziquone is converted to active metabolites by intracellular [[reductase]]s. The active metabolites [[Alkylation|alkylate]] DNA and lead to [[apoptosis]].<ref>{{cite web |url=http://www.cancer.gov/Templates/drugdictionary.aspx?CdrID=42095 |author=NCI |title=apaziquone| accessdate=2009-06-07| archiveurl= https://web.archive.org/web/20090509182946/http://www.cancer.gov/Templates/drugdictionary.aspx?CdrID=42095| archivedate= 9 May 2009 <!--DASHBot-->| deadurl= no}}</ref> This activity is preferentially expressed in [[neoplasm|neoplastic cells]].
+
+After administration of apaziquone directly into the urinary bladder (intravesically), the drug and its active metabolite were not detected in [[Blood plasma|plasma]], and there were no systemic [[side effect]]s.<ref name=Puri06>{{cite journal |vauthors=Puri R, Palit V, Loadman PM |title=Phase I/II pilot study of intravesical apaziquone (EO9) for superficial bladder cancer |journal=J. Urol. |volume=176 |issue=4 Pt 1 |pages=1344–8 |date=October 2006 |pmid=16952628 |doi=10.1016/j.juro.2006.06.047 |url=http://linkinghub.elsevier.com/retrieve/pii/S0022-5347(06)01426-1|display-authors=etal}}</ref><ref>{{cite journal |vauthors=Hendricksen K, Gleason D, Young JM |title=Safety and side effects of immediate instillation of apaziquone following transurethral resection in patients with nonmuscle invasive bladder cancer |journal=J. Urol. |volume=180 |issue=1 |pages=116–20 |date=July 2008 |pmid=18485407 |doi=10.1016/j.juro.2008.03.031 |url=http://linkinghub.elsevier.com/retrieve/pii/S0022-5347(08)00591-0|display-authors=etal}}</ref>
+
+Apaziquone has been applied in clinical studies sponsored by [[Spectrum Pharmaceuticals]] and [[Allergan, Inc.]] for the treatment of superficial (non-muscle invasive) [[bladder cancer]].<ref name=Puri06/> Approximately 70% of all newly diagnosed patients with bladder cancer have non-muscle invasive bladder cancer and over one million patients in the United States and Europe are affected by the disease. The [[Food and Drug Administration|U.S. Food and Drug Administration]] (FDA) has granted [[Fast track (FDA)|Fast Track]] review status to apaziquone for this indication.<ref>{{cite web |title=FDA Designates Fast Track Status For Apaziquone (EOquin) For Bladder Cancer |date=22 Jul 2009 |publisher=Medical News Today |url=http://www.medicalnewstoday.com/articles/158443.php}}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Alcohols]]
+[[Category:Antineoplastic drugs]]
+[[Category:Aziridines]]
+[[Category:Indolequinones]]

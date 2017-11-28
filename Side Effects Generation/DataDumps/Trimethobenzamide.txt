@@ -1,0 +1,86 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470615098
+| IUPAC_name = ''N''-{[4-(2-dimethylaminoethoxy)phenyl]methyl}-<br>3,4,5-trimethoxy-benzamide
+| image = Trimethobenzamide2DACS.svg
+| image2 = Trimethobenzamidefinal.png
+| width = 250px
+<!--Clinical data-->
+| tradename = Tigan, Tebamide
+| Drugs.com = {{drugs.com|monograph|trimethobenzamide-hydrochloride}}
+| MedlinePlus = a682693
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = C
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = Rx-only
+| routes_of_administration = Oral, rectal, [[intramuscular injection|intramuscular]]
+<!--Pharmacokinetic data-->
+| bioavailability = 60-100%
+| elimination_half-life = 7 to 9 hours (mean)
+| excretion = urine (30-50%), faeces
+<!--Identifiers-->
+| IUPHAR_ligand = 7614
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 138-56-7
+| ATC_prefix = R06
+| ATC_suffix = AA10
+| PubChem = 5577
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00662
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5375
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = W2X096QY97
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 27796
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201256
+<!--Chemical data-->
+| C=21 | H=28 | N=2 | O=5
+| molecular_weight = 388.458 g/mol
+| smiles = O=C(c1cc(OC)c(OC)c(OC)c1)NCc2ccc(OCCN(C)C)cc2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H28N2O5/c1-23(2)10-11-28-17-8-6-15(7-9-17)14-22-21(24)16-12-18(25-3)20(27-5)19(13-16)26-4/h6-9,12-13H,10-11,14H2,1-5H3,(H,22,24)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = FEZBIKUBAYAZIU-UHFFFAOYSA-N
+}}
+
+'''Trimethobenzamide''' (trade names '''Tebamide''', '''Tigan''') is an [[antiemetic]] used to prevent [[nausea]] and [[vomiting]]. It is often prescribed for patients with [[gastroenteritis]], medication-induced nausea, and other illnesses. Trimethobenzamide is generally considered the most potent antiemetic that does not have effects on the serotonergic, dopaminergic, or histaminergic systems, so it has a lower likelihood of causing undesired side effects. In the United States, it requires a prescription.
+
+== Mechanism of action ==
+Trimethobenzamide is an [[receptor antagonist|antagonist]] of the [[D2 receptor|D<sub>2</sub> receptor]].<ref name="Smith2012">{{cite journal | vauthors = Smith HS, Cox LR, Smith BR | title = Dopamine receptor antagonists | journal = Ann Palliat Med | volume = 1 | issue = 2 | pages = 137–42 | year = 2012 | pmid = 25841474 | doi = 10.3978/j.issn.2224-5820.2012.07.09 | url = }}</ref> It is believed to affect the [[chemoreceptor trigger zone]] (CTZ) of the [[medulla oblongata]] to suppress [[nausea]] and [[vomiting]].
+
+== Side effects ==
+
+Possible side effects include drowsiness, dizziness, headache, diarrhea, muscle cramps, and blurred vision. More serious adverse effects include skin rash, tremors, [[parkinsonism]], and [[jaundice]].  
+
+== Formulations ==
+
+Trimethobenzamide is marketed under the brand names '''Tebamide''' and '''Tigan''', manufactured by [[GlaxoSmithKline]] and [[King Pharmaceuticals]], respectively. It is available as oral capsules and injectable formulations. 
+
+Trimethobenzamide was also available as a rectal [[suppository]], but such formulations were banned by the U.S. [[Food and Drug Administration]] on April 6, 2007 due to unproven efficacy.<ref>{{cite web | url = http://www.medscape.com/viewarticle/554812 | title = FDA Bans Suppositories With Trimethobenzamide | last = Waknine | first = Yael | date = April 6, 2007 | accessdate = 2007-04-06 | publisher = [[Medscape]]}}{{dead link|date=September 2016|bot=medic}}{{cbignore|bot=medic}}</ref>
+==Synthesis==
+[[File:Trimethobenzamide synthesis.svg|thumb|center|700px|Trimethobenzamide synthesis: [[Hoffmann La Roche]], {{US patent|2879293}} (1959).]]
+Alkylation of the sodium salt of ''p''-hydroxybenzaldehyde (1) with 2-dimethylaminoethyl chloride affords the ether (2). Reductive amination of the aldehyde in the presence of ammonia gives diamine (3). Acylation of that product with 3,4,5-trimethoxybenzoyl chloride affords trimethobenzamide (4).
+
+== See also ==
+* [[Domperidone]]
+* [[Metoclopramide]]
+
+== References ==
+{{Reflist|2}}
+
+== External links ==
+* [http://tranquilene.com/trimethobenzamide.html Tebamide]
+* [https://web.archive.org/web/20060311043101/http://www.kingpharm.com/uploads/pdf_inserts/Tigan_Web_PI_11_05.pdf Tigan] (manufacturer's website) 
+
+
+{{Antiemetics}}
+{{Dopaminergics}}
+
+[[Category:Antiemetics]]
+[[Category:Benzamides]]
+[[Category:D2 antagonists]]
+[[Category:Phenol ethers]]

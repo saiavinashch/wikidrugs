@@ -1,0 +1,82 @@
+{{Infobox_gene}}
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 409091966
+| IUPAC_name =
+<!-- Clinical data -->
+| tradename =  
+| Drugs.com = {{drugs.com|monograph|urokinase}}
+| pregnancy_category =  
+| legal_status =  
+| routes_of_administration =
+<!-- Pharmacokinetic data -->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 9039-53-6
+| ATC_prefix = B01
+| ATC_suffix = AD04
+| ATC_supplemental =  
+| PubChem =  
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB00013
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 83G67E21XI
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03341
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201420
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+<!-- Chemical data -->
+| C=1376 | H=2145 | N=383 | O=406 | S=18
+| molecular_weight = 31126.5 g/mol
+}}
+'''Urokinase''', also known as '''urokinase-type plasminogen activator''' ('''uPA'''), is a [[serine protease]] present in humans and other animals. The human urokinase protein was discovered, but not named, by McFarlane and Pilling in 1947.<ref>{{cite journal|last1=Degryse|first1=Bernard|title=The urokinase receptor system as strategic therapeutic target: challenges for the 21st century|journal=Current Pharmaceutical Design|date=1 June 2011|volume=17|issue=19|pages=1872–1873|doi=10.2174/138161211796718161}}</ref> Urokinase was originally isolated from human [[urine]], and it is also present in the [[blood]] and in the [[extracellular matrix]] of many tissues. The primary physiological substrate of this enzyme is [[plasminogen]], which is an inactive form ([[zymogen]]) of the serine protease [[plasmin]]. Activation of plasmin triggers a proteolytic cascade that, depending on the physiological environment, participates in [[thrombolysis]] or extracellular matrix degradation. This cascade had been involved in vascular diseases and cancer progression.<ref>{{cite journal|last1=Tang|first1=Linlin|last2=Han|first2=Xiuzhen|title=The urokinase plasminogen activator system in breast cancer invasion and metastasis|journal=Biomedicine & Pharmacotherapy|date=March 2013|volume=67|issue=2|pages=179–182|doi=10.1016/j.biopha.2012.10.003}}</ref>
+
+Urokinase is encoded in humans by the ''PLAU'' gene, which stands for "plasminogen activator, urokinase".<ref name="pmid2415429">{{cite journal | vauthors = Nagai M, Hiramatsu R, Kanéda T, Hayasuke N, Arimura H, Nishida M, Suyama T | title = Molecular cloning of cDNA coding for human preprourokinase | journal = Gene | volume = 36 | issue = 1-2 | pages = 183–8 | date = Dec 1985 | pmid = 2415429 | pmc =  | doi = 10.1016/0378-1119(85)90084-8 }}</ref> The same symbol represents the gene in other animal species.
+
+== Function ==
+The ''PLAU'' gene encodes a serine protease ({{EC number|3.4.21.73}}) involved in degradation of the extracellular matrix and possibly tumor cell migration and proliferation. A specific polymorphism in this gene may be associated with late-onset Alzheimer disease and also with decreased affinity for fibrin-binding. The protein encoded by this gene converts plasminogen to plasmin by specific cleavage of an Arg-Val bond in plasminogen. This gene's proprotein is cleaved at a Lys-Ile bond by plasmin to form a two-chain derivative in which a single disulfide bond connects the amino-terminal A-chain to the catalytically active, carboxy-terminal B-chain. This two-chain derivative is also called HMW-uPA (high molecular weight uPA). HMW-uPA can be further processed into LMW-uPA (low molecular weight uPA) by cleavage of chain A into a short chain A (A1) and an amino-terminal fragment. LMW-uPA is proteolytically active but does not bind to the uPA receptor.<ref>{{cite web | title = Entrez Gene: PLAU plasminogen activator, urokinase| url = http://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=5328| accessdate = }}</ref>
+
+== Structure ==
+Urokinase is a 411-[[residue (chemistry)|residue]] [[protein]], consisting of three [[Domain (biology)|domains]]: the serine protease domain, the [[kringle domain]], and the [[growth factor domain]]. Urokinase is synthesized as a zymogen form (prourokinase or single-chain urokinase), and is activated by proteolytic cleavage between Lys158 and Ile159. The two resulting chains are kept together by a [[disulfide]] bond.
+
+== Interaction partners ==
+The most important inhibitors of urokinase are the [[serpin]]s [[plasminogen activator inhibitor-1]] (PAI-1) and [[plasminogen activator inhibitor-2]] (PAI-2), which inhibit the protease activity irreversibly. In the extracellular matrix, urokinase is tethered to the [[cell membrane]] by its interaction to the [[urokinase receptor]].
+
+[[Image:Fibrinolysis.png|center|framed|Fibrinolysis (simplified). Blue arrows denote stimulation, and red arrows inhibition.]]
+
+uPa also interacts with [[protein C inhibitor]].<ref name=pmid2752144>{{cite journal | vauthors = Geiger M, Huber K, Wojta J, Stingl L, Espana F, Griffin JH, Binder BR | title = Complex formation between urokinase and plasma protein C inhibitor in vitro and in vivo | journal = Blood | volume = 74 | issue = 2 | pages = 722–8 | date = Aug 1989 | pmid = 2752144 }}</ref><ref name=pmid2551064>{{cite journal | vauthors = España F, Berrettini M, Griffin JH | title = Purification and characterization of plasma protein C inhibitor | journal = Thromb. Res. | volume = 55 | issue = 3 | pages = 369–84 | date = Aug 1989 | pmid = 2551064 | doi = 10.1016/0049-3848(89)90069-8 }}</ref>
+
+== Urokinase and cancer ==
+Elevated [[gene expression|expression]] levels of urokinase and several other components of the [[plasminogen activation system]] are found to be correlated with [[tumor]] [[malignancy]]. It is believed that the tissue degradation following plasminogen activation facilitates tissue invasion and, thus, contributes to [[metastasis]]. This makes urokinase an attractive [[drug target]], and, so, [[Enzyme inhibitor|inhibitor]]s have been sought to be used as anticancer agents.<ref name="pmid10738907">{{cite journal |vauthors=Jankun J, Skrzypczak-Jankun E | title = Molecular basis of specific inhibition of urokinase plasminogen activator by amiloride | journal = Cancer Biochem. Biophys. | volume = 17 | issue = 1-2 | pages = 109–23 |date=July 1999 | pmid = 10738907 | doi = }}</ref><ref name="pmid21544803">{{cite journal |vauthors=Matthews H, Ranson M, Kelso MJ | title = Anti-tumour/metastasis effects of the potassium-sparing diuretic amiloride: an orally active anti-cancer drug waiting for its call-of-duty? | journal = Int. J. Cancer | volume = 129 | issue = 9 | pages = 2051–61 |date=November 2011 | pmid = 21544803 | doi = 10.1002/ijc.26156 }}</ref> However, incompatibilities between the human and [[murine]] systems hamper clinical evaluation of these agents. Through its interaction with the [[urokinase receptor]], urokinase affects several other aspects of cancer biology such as cell adhesion, migration, and cellular [[mitotic]] pathways.
+
+As of December 7, 2012, Mesupron, a small molecule serine protease inhibitor developed by the WILEX pharmaceutical company, has completed phase II trials.<ref name="urlGemcitabine With or Without WX-671 in Treating Patients With Locally Advanced Pancreatic Cancer That Cannot Be Removed By Surgery - Full Text View - ClinicalTrials.gov">{{cite web | url = http://www.clinicaltrials.gov/ct2/show/NCT00499265 | title = Gemcitabine With or Without WX-671 in Treating Patients With Locally Advanced Pancreatic Cancer That Cannot Be Removed By Surgery  | work = | publisher = ClinicalTrials.gov }}</ref>  Mesupron appears to be safe when combined with chemotherapeutic drug Capecitabine for the progression-free survival in human breast cancer.<ref name="urlFox Chase Cancer Center : New Small Molecule Inhibitor Could be a Safe and First-Line Treatment for Metastatic Breast Cancer">{{cite web | url = http://www.fccc.edu/information/news/press-releases/2012/2012-12-07-SABC-Goldstein-WILEX.html | title = Fox Chase Cancer Center : New Small Molecule Inhibitor Could be a Safe and First-Line Treatment for Metastatic Breast Cancer | work = Press Release | publisher =Temple University Health System }}</ref>
+
+== Clinical applications ==
+Urokinase is used clinically as a [[thrombolysis|thrombolytic]] agent in the treatment of severe or massive [[deep venous thrombosis]], [[pulmonary embolism]], [[myocardial infarction]], and occluded [[intravenous]] or [[dialysis]] cannulas. It is also administered intrapleurally to improve the drainage of complicated pleural effusions and empyemas. Urokinase is marketed as Abbokinase or Kinlytic and competes with [[tissue plasminogen activator|recombinant tissue plasminogen activator]] (e.g., alteplase) as a thrombolytic drug in infarction. However, urokinase is not very selective for clot-bound plasminogen, unlike [[tissue plasminogen activator]] (TPA) which preferentially interacts with clot-bound plasminogen. Because urokinase binds about equally to freely circulating plasminogen and clot-bound plasminogen, it causes significant fibrinogenolysis and clot fibrinolysis making its use less favorable than TPA.<ref>http://www.cvpharmacology.com/thrombolytic/thrombolytic</ref>
+
+==References==
+{{Reflist|2}}
+
+== Further reading ==
+{{refbegin}}
+* {{cite journal | vauthors = Ploug M, Gårdsvoll H, Jørgensen TJ, Lønborg Hansen L, Danø K | title = Structural analysis of the interaction between urokinase-type plasminogen activator and its receptor: a potential target for anti-invasive cancer therapy. | journal = Biochem. Soc. Trans. | volume = 30 | issue = 2 | pages = 177–83 | year = 2002 | pmid = 12023847 | doi = 10.1042/BST0300177 }}
+* {{cite journal | vauthors = Alfano M, Sidenius N, Blasi F, Poli G | title = The role of urokinase-type plasminogen activator (uPA)/uPA receptor in HIV-1 infection. | journal = J. Leukoc. Biol. | volume = 74 | issue = 5 | pages = 750–6 | year = 2004 | pmid = 12960238 | doi = 10.1189/jlb.0403176 }}
+* {{cite journal | vauthors = Harbeck N, Kates RE, Gauger K, Willems A, Kiechle M, Magdolen V, Schmitt M | title = Urokinase-type plasminogen activator (uPA) and its inhibitor PAI-I: novel tumor-derived factors with a high prognostic and predictive impact in breast cancer. | journal = Thromb. Haemost. | volume = 91 | issue = 3 | pages = 450–6 | year = 2004 | pmid = 14983219 | doi = 10.1160/TH03-12-0798 }}
+* {{cite journal | vauthors = Gilabert-Estelles J, Ramon LA, España F, Gilabert J, Castello R, Estelles A | title = Expression of the fibrinolytic components in endometriosis. | journal = Pathophysiol. Haemost. Thromb. | volume = 35 | issue = 1-2 | pages = 136–40 | year = 2006 | pmid = 16855359 | doi = 10.1159/000093556 }}
+{{refend}}
+
+{{Coagulation}}
+{{Antithrombotics}}
+{{Serine endopeptidases}}
+{{Enzymes}}
+{{PDB Gallery|geneid=5328}}
+{{Portal bar|Molecular and Cellular Biology|border=no}}
+
+[[Category:Antithrombotic enzymes]]
+[[Category:EC 3.4.21]]

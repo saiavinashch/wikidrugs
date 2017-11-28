@@ -1,0 +1,66 @@
+{{Chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 460016047
+| ImageFile = Canertinib.svg
+| ImageSize = 200px
+| IUPACName = ''N''-<nowiki/>{4-[(3-Chloro-4-fluorophenyl)amino]-7-[3-(morpholin-4-yl)propoxy]quinazolin-6-yl}prop-2-enamide
+| OtherNames = CI-1033; PD-183805
+|Section1={{Chembox Identifiers
+| IUPHAR_ligand = 5675
+| CASNo_Ref = {{cascite|changed|??}}
+| CASNo = 267243-28-7
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = C78W1K5ASF
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 61399
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 31965
+| ChEMBL1_Ref = {{ebicite|changed|EBI}}
+| ChEMBL1 = 545315
+| PubChem = 156414
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 137741
+| SMILES = Fc1ccc(cc1Cl)Nc4ncnc3cc(OCCCN2CCOCC2)c(NC(=O)\C=C)cc34
+| InChI = 1/C24H25ClFN5O3/c1-2-23(32)30-21-13-17-20(14-22(21)34-9-3-6-31-7-10-33-11-8-31)27-15-28-24(17)29-16-4-5-19(26)18(25)12-16/h2,4-5,12-15H,1,3,6-11H2,(H,30,32)(H,27,28,29)
+| InChIKey = OMZCMEYTWSXEPZ-UHFFFAOYAG
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C24H25ClFN5O3/c1-2-23(32)30-21-13-17-20(14-22(21)34-9-3-6-31-7-10-33-11-8-31)27-15-28-24(17)29-16-4-5-19(26)18(25)12-16/h2,4-5,12-15H,1,3,6-11H2,(H,30,32)(H,27,28,29)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OMZCMEYTWSXEPZ-UHFFFAOYSA-N
+  }}
+|Section2={{Chembox Properties
+| C=24 | H=25 | Cl=1 | F=1 | N=5 | O=3
+| Appearance = 
+| Density = 
+| MeltingPt = 
+| BoilingPt = 
+| Solubility =
+  }}
+|Section3={{Chembox Hazards
+| MainHazards = 
+| FlashPt = 
+| AutoignitionPt =
+  }}
+}}
+
+'''Canertinib''' ('''CI-1033''') is an experimental drug candidate for the treatment of cancer.  It is an [[Enzyme inhibitor#Irreversible inhibitors|irreversible]] [[tyrosine-kinase inhibitor]] with activity against [[Epidermal growth factor receptor|EGFR]] (IC<sub>50</sub> 0.8&nbsp;nM), [[HER-2]] (IC<sub>50</sub> 19&nbsp;nM) and [[ErbB-4]] (IC<sub>50</sub> 7&nbsp;nM).<ref>{{cite journal | pmid =     10753475 | year =     2000 | last1 =     Smaill | first1 =     JB | last2 =     Rewcastle | first2 =     GW | last3 =     Loo | first3 =     JA | last4 =     Greis | first4 =     KD | last5 =     Chan | first5 =     OH | last6 =     Reyner | first6 =     EL | last7 =     Lipka | first7 =     E | last8 =     Showalter | first8 =     HD | last9 =     Vincent | first9 =     PW | last10 =     Elliott | first10 =     William L. | last11 =     Denny | first11 =     William A. | title =     Tyrosine kinase inhibitors. 17. Irreversible inhibitors of the epidermal growth factor receptor: 4-(phenylamino)quinazoline- and 4-(phenylamino)pyrido3,2-dpyrimidine-6-acrylamides bearing additional solubilizing functions | volume =     43 | issue =     7 | pages =     1380–97 | journal =     Journal of Medicinal Chemistry | doi=10.1021/jm990482t| display-authors =     8 }}</ref><ref>[http://www.selleckchem.com/products/CI-1033%28Canertinib%29.html CI-1033 (Canertinib)], Selleck Chemicals</ref> By 2015, Pfizer had discontinued development of the drug.<ref>http://adisinsight.springer.com/drugs/800012072</ref>
+
+Canertinib has been reported as a substrate for OATP1B3. Interaction of canertinib with OATP1B3 may alter its hepatic disposition and can lead to transporter mediated drug-drug interactions.<ref name="pmid24643910">{{cite journal |vauthors=Khurana V, Minocha M, Pal D, Mitra AK | title = Role of OATP-1B1 and/or OATP-1B3 in hepatic disposition of tyrosine kinase inhibitors. | journal = Drug Metabol Drug Interact. | volume =  29| issue = 3 | pages = 1–11 |date=March 2014 | pmid = 24643910 | doi = 10.1515/dmdi-2013-0062 }}</ref> Also, canertinib is not an inhibitor of OATP-1B1 or OATP-1B3 transporter.<ref name="Khurana V_2014">{{cite journal |vauthors=Khurana V, Minocha M, Pal D, Mitra AK | title = Inhibition of OATP-1B1 and OATP-1B3 by tyrosine kinase inhibitors. | journal = Drug Metabol Drug Interact. | volume =  29| issue = 4 | pages = 1–11 |date=May 2014 | pmid = 24807167 | doi = 10.1515/dmdi-2014-0014 }}</ref>
+
+==References==
+{{Reflist|2}}
+
+
+{{Growth factor receptor modulators}}
+
+[[Category:Acrylamides]]
+[[Category:Tyrosine kinase inhibitors]]
+[[Category:Quinazolines]]
+[[Category:Morpholines]]
+[[Category:Fluoroarenes]]
+[[Category:Chloroarenes]]
+[[Category:Experimental cancer drugs]]
+
+
+{{pharma-stub}}

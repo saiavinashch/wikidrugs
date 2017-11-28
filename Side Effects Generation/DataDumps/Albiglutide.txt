@@ -1,0 +1,109 @@
+{{Drugbox
+| drug_name = 
+| IUPAC_name        = 
+| image             = 
+| alt               = 
+| caption           = 
+
+<!-- Clinical data -->
+| tradename         = Eperzan (Europe), Tanzeum (US)
+| Drugs.com         = {{Drugs.com|parent|tanzeum}}
+| MedlinePlus       = 
+| licence_EU        = Eperzan
+| licence_US        = Albiglutide
+| pregnancy_AU      = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US      = C
+| pregnancy_category= 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = Rx-only
+| legal_status      = 
+| routes_of_administration = [[Subcutaneous injection|Subcutaneous]] (SC)
+
+<!-- Pharmacokinetic data -->
+| bioavailability   = 
+| protein_bound     = Probably none
+| metabolism        = Most likely [[proteolysis]]
+| metabolites       = 
+| onset             = 
+| elimination_half-life = 5 (4–7) days
+| duration_of_action= 
+| excretion         = 
+
+<!-- Identifiers -->
+| CAS_number        = 782500-75-8
+| ATCvet            = 
+| ATC_prefix        = A10
+| ATC_suffix        = BJ04
+| PubChemSubstance  = 96025526
+| ChemSpiderID      = none
+| DrugBank          = DB09043
+| UNII              = 5E7U48495E
+| KEGG              = D08843
+| synonyms          = GSK-716155
+
+<!-- Chemical data -->
+| C=3232 | H=5032 | N=864 | O=979 | S=41
+| molecular_weight  = 72,970 g/mol
+}}
+
+'''Albiglutide''' (trade names '''Eperzan''' in Europe and '''Tanzeum''' in the US) is a [[glucagon-like peptide-1 agonist]] (GLP-1 agonist) [[pharmaceutical drug|drug]] marketed by [[GlaxoSmithKline]] (GSK) for treatment of [[type 2 diabetes]].
+As of 2017 it is unclear if it affects a person's risk of death.<ref>{{cite journal|last1=Liu|first1=J|last2=Li|first2=L|last3=Deng|first3=K|last4=Xu|first4=C|last5=Busse|first5=JW|last6=Vandvik|first6=PO|last7=Li|first7=S|last8=Guyatt|first8=GH| last9=Sun|first9=X|title=Incretin based treatments and mortality in patients with type 2 diabetes: systematic review and meta-analysis|journal=BMJ (Clinical research ed.)|date=8 June 2017|volume=357|pages=j2499|pmid=28596247|pmc=5463186|doi=10.1136/bmj.j2499}}</ref> GSK has announced that it intends to withdraw the drug from the worldwide market by July 2018 for economic reasons.
+
+==Medical uses==
+Albiglutide is used for the treatment of type 2 diabetes in adults. It can be used alone (if [[metformin]] therapy is ineffective or not tolerated) or in combination with other [[antidiabetic drug]]s, including [[insulin (medication)|insulin]]s.<ref name="EPAR">{{cite web|title=Eperzan: EPAR — Product Information|publisher=[[European Medicines Agency]]|date=2017-08-04|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/002735/WC500165117.pdf}}</ref>
+
+According to a 2015 analysis, albiglutide is less effective than other GLP-1 agonists for lowering [[glycated hemoglobin]] (HbA<sub>1c</sub>, an indicator for long-term blood glucose control) and weight loss. It also seems to have fewer side effects than most other drugs of this class, except for reactions at the injection site which are more common under albiglutide than, for example, under [[liraglutide]].<ref>{{cite journal|title=Review of head‐to‐head comparisons of glucagon‐like peptide‐1 receptor agonists|journal=Diabetes, Obesity & Metabolism|volume=18|issue=4|pages=317–332|doi=10.1111/dom.12596|pmc=5064617|year=2015|author1=Madsbad|first1=S}}</ref>
+
+==Contraindications==
+The US approval lists the thyroid [[Parafollicular cell|C cell]] cancers [[medullary thyroid carcinoma]] (MTC) and [[multiple endocrine neoplasia type 2]] (MEN 2) as contraindications because other GLP-1 agonists are known to cause such cancers in rodents. Albiglutide causes [[immunogenicity]] in rodents, so its cancer risk could not be assessed.<ref name="Drugs.com">[[Drugs.com]]: {{Drugs.com|pro|tanzeum}} on Tanzeum.</ref> The European approval mentions the uncertainty about C cell cancers, but not as a contraindication.<ref name="EPAR" />
+
+==Side effects==
+Common side effects (in more than 10% of patients) in clinical trials were diarrhoea, [[nausea]], and, unsurprisingly, [[hypoglycaemia]] (low blood [[glucose]] levels) and reactions at the injection site. [[Upper respiratory tract infection]]s were also common, but only slightly more so than under [[placebo]]. Uncommon but potentially severe side effects included acute [[pancreatitis]] (in 0.3% of patients) and [[hypersensitivity]] reactions (in fewer than 0.1%).<ref name="EPAR" /><ref name="Drugs.com" />
+
+==Interactions==
+No clinically relevant interactions have been found in studies with a number of drugs that are known for their interaction potential ([[simvastatin]], [[warfarin]], [[digoxin]], and [[oral contraceptives]]). Nonetheless, since albiglutide slows [[Stomach|gastric]] emptying, it could conceivably increase absorption of other drugs if taken at the same time.<ref name="EPAR" /><ref name="Drugs.com" />
+
+==Pharmacology==
+===Mechanism of action===
+Albiglutide acts as an [[agonist]] at the [[GLP-1 receptor]], which makes it a type of [[incretin]] mimetic. This causes an increase of insulin secretion, predominantly in the presence of high [[blood glucose]], and also slows down gastric emptying.<ref name="EPAR" />
+
+===Pharmacokinetics===
+Following [[subcutaneous injection]], albiglutide reaches highest blood concentrations after three to five days. Steady-state concentrations are achieved after three to five weeks. The substance is most likely broken down by [[protease]] enzymes to small [[peptide]]s and [[amino acid]]s.<ref name="EPAR" /> Being resistant to [[dipeptidyl peptidase-4]] (DPP-4),<ref name="Drugs.com" /> the enzyme that breaks down GLP-1, albiglutide has a [[biological half-life]] of five (four to seven) days, which is considerably longer than the older GLP-1 analogs [[exenatide]] and liraglutide.<ref name="pmid18812476">{{cite journal |vauthors =Matthews JE, Stewart MW, De Boever EH |title=Pharmacodynamics, Pharmacokinetics, Safety, and Tolerability of Albiglutide, a Long-Acting Glucagon-Like Peptide-1 Mimetic, in Patients with Type 2 Diabetes |journal=J. Clin. Endocrinol. Metab. |volume=93 |issue=12 |pages=4810–4817 |date=December 2008 |pmid=18812476 |doi=10.1210/jc.2008-1518 |url=http://jcem.endojournals.org/cgi/pmidlookup?view=long&pmid=18812476|display-authors=etal}}</ref><ref name=Baggio2008>{{cite web |url=http://www.medscape.com/viewarticle/578304 |title=Glucagon-like Peptide-1 Analogs Other Than Exenatide |year=2008 |author =Baggio|display-authors=etal}}</ref> This allows for a once-weekly administration,<ref name="EPAR" /> unlike liraglutide but like the extended-release form of exenatide.
+
+==Chemistry==
+Albiglutide is a peptide consisting of 645 [[proteinogenic amino acid]]s with 17 [[disulfide bridge]]s. Amino acids 1–30 and 31–60 constitute two copies of modified human GLP-1, the [[alanine]] at position 2 having been exchanged for a [[glycine]] for better DPP-4 resistance.<ref name="Drugs.com" /> The remaining sequence is human [[albumin]]. The complete sequence is
+ H<u>G</u>EGTFTSDV SSYLEGQAAK EFIAWLVKGR H<u>G</u>EGTFTSDV SSYLEGQAAK EFIAWLVKGR (2 copies of modified GLP-1, modifications underlined)
+ DAHKSEVAHR FKDLGEENFK ALVLIAFAQY LQQCPFEDHV KLVNEVTEFA KTCVADESAE (albumin starts at the beginning of this line)
+ NCDKSLHTLF GDKLCTVATL RETYGEMADC CAKQEPERNE CFLQHKDDNP NLPRLVRPEV
+ DVMCTAFHDN EETFLKKYLY EIARRHPYFY APELLFFAKR YKAAFTECCQ AADKAACLLP
+ KLDELRDEGK ASSAKQRLKC ASLQKFGERA FKAWAVARLS QRFPKAEFAE VSKLVTDLTK
+ VHTECCHGDL LECADDRADL AKYICENQDS ISSKLKECCE KPLLEKSHCI AEVENDEMPA
+ DLPSLAADFV ESKDVCKNYA EAKDVFLGMF LYEYARRHPD YSVVLLLRLA KTYETTLEKC
+ CAAADPHECY AKVFDEFKPL VEEPQNLIKQ NCELFEQLGE YKFQNALLVR YTKKVPQVST
+ PTLVEVSRNL GKVGSKCCKH PEAKRMPCAE DYLSVVLNQL CVLHEKTPVS DRVTKCCTES
+ LVNRRPCFSA LEVDETYVPK EFNAETFTFH ADICTLSEKE RQIKKQTALV ELVKHKPKAT
+ KEQLKAVMDD FAAFVEKCCK ADDKETCFAE EGKKLVAASQ AALGL
+
+with disulfide bridges linking amino acids 113-122, 135-151, 150-161, 184-229, 228-237, 260-306, 305-313, 325-339, 338-349, 376-421, 420-429, 452-498, 497-508, 521-537, 536-547, 574-619, 618-627.<ref name="EPAR" /><ref>[[KEGG]]: [http://www.kegg.jp/entry/D08843 Albiglutide].</ref>
+
+===Synthesis===
+It is [[bioengineer]]ed in the yeast ''[[Saccharomyces cerevisiae]]'' using [[recombinant DNA]] technology.<ref name="EPAR" />
+
+==History==
+The drug was invented by [[Human Genome Sciences]] and was developed in collaboration with GSK.<ref>Matthew Herper for Forbes. 16 July 2012. [https://www.forbes.com/sites/matthewherper/2012/07/16/three-lessons-from-glaxosmithklines-purchase-of-human-genome-sciences/ Three Lessons From GlaxoSmithKline's Purchase Of Human Genome Sciences]</ref>
+
+GSK filed for [[US FDA]] approval on 14 January 2013 and for [[European Medicines Agency]] (EMA) approval on 7 March 2013.
+In March 2014, GSK received approval from the [[European Commission]] to market albiglutide under the name ''Eperzan''.<ref>{{cite web |url=https://www.wsj.com/news/articles/SB10001424052702304418404579462972516441990?KEYWORDS=glaxo&mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702304418404579462972516441990.html%3FKEYWORDS%3Dglaxo |title=Glaxo Gets EU Marketing Approval for Diabetes Drug Eperzan}}</ref>
+In April 2014, the US FDA approved albiglutide under the name ''Tanzeum''.<ref>{{cite web|title=FDA Approves Weekly Injectable Diabetes Drug: Albiglutide|url=http://www.medscape.com/viewarticle/823645}}</ref>
+
+In August 2017, GSK announced that it intended to withdraw the drug from the worldwide market by July 2018 for economic reasons.<ref>{{cite news|title=Typ-2-Diabetes: Albiglutid geht weltweit vom Markt|journal=Pharmazeutische Zeitung online|url=http://www.pharmazeutische-zeitung.de/index.php?id=70770|date=2017-08-02|language=de}}</ref>
+
+==References==
+{{Reflist|2}}
+
+{{Oral hypoglycemics and insulin analogs}}
+{{Peptidergics}}
+
+[[Category:Glucagon-like peptide-1 agonists]]

@@ -1,0 +1,92 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 384076476
+| IUPAC_name = (4''S'',7''S'',10a''S'')-Octahydro-4-[(''S'')-α-mercaptohydrocinnamamido]-5-oxo-7''H''-pyrido[2,1-''b''][1,3]thiazepine-7-carboxylic acid
+| image = Omapatrilat.svg
+
+<!--Clinical data-->
+| tradename =
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Development terminated
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 167305-00-2
+| ATC_prefix = None
+| ATC_suffix =
+| ATC_supplemental =
+| PubChem = 656629
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 36NLI90E7T
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 289556
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 570983
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D01970
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=19 | H=24 | N=2 | O=4 | S=2 
+| molecular_weight = 408.534 g/mol
+| smiles = c1ccc(cc1)C[C@@H](C(=O)N[C@H]2CCS[C@H]3CCC[C@H](N3C2=O)C(=O)O)S
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C19H24N2O4S2/c22-17(15(26)11-12-5-2-1-3-6-12)20-13-9-10-27-16-8-4-7-14(19(24)25)21(16)18(13)23/h1-3,5-6,13-16,26H,4,7-11H2,(H,20,22)(H,24,25)/t13-,14-,15-,16-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = LVRLSYPNFFBYCZ-VGWMRTNUSA-N
+| synonyms = BMS-186716
+| density =  
+| melting_notes =  
+| boiling_point =  
+| solubility =  
+| specific_rotation =  
+| sec_combustion =  
+}}
+
+'''Omapatrilat''' ([[International Nonproprietary Name|INN]],<ref name = "INN">{{cite web | title = International Nonproprietary Names for Pharmaceutical Substances (INN). Recommended International Nonproprietary Names (Rec. INN): List 40 | url = http://www.who.int/medicines/publications/druginformation/innlists/RL43.pdf | publisher = World Health Organization | accessdate = 2 March 2017 | page = 190}}</ref> tentative trade name '''Vanlev''') is an [[antihypertensive agent]] that inhibits both [[neprilysin]] (neutral endopeptidase, NEP) and [[angiotensin-converting enzyme]] (ACE). NEP inhibition results in elevated [[Atrial natriuretic peptide|natriuretic]] peptide levels, promoting [[natriuresis]], [[:wikt:diuresis|diuresis]], [[vasodilation]], and reductions in preload and ventricular remodeling.
+
+It was discovered and developed by [[Bristol-Myers Squibb]] but failed in clinical trials as a potential treatment for [[congestive heart failure]] due to safety concerns about its causing [[angioedema]].<ref>{{cite journal | last1 = Venugopal | first1 = J | title = Pharmacological Modulation of the Natriuretic Peptide System | journal = Expert Opinion on Therapeutic Patents | date = 2 March 2005 | volume = 13 | issue = 9 | pages = 1389–1409 | doi = 10.1517/13543776.13.9.1389 | accessdate = 2 March 2017}}</ref>
+
+Omapatrilat [[angioedema]] was attributed to its dual mechanism of action, inhibiting both [[angiotensin-converting enzyme]] (ACE), and [[neprilysin]] (neutral endopeptidase), both of these enzymes are responsible for the metabolism of [[bradykinin]] which causes vasodilation, angioedema, and airway obstruction.
+
+==See also==
+* [[Gemopatrilat]]
+* [[Cilazapril]]
+* [[Sacubitril]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{cite journal | last1 = Liao | first1 = WC | last2 = Vesterqvist | first2 = O | last3 = Delaney | first3 = C | last4 = Jemal | first4 = M | last5 = Ferreira | first5 = I | last6 = Ford | first6 = N | last7 = Swanson | first7 = B | last8 = Uderman | first8 = H | title = Pharmacokinetics and Pharmacodynamics of the Vasopeptidase Inhibitor, Omapatrilat in Healthy Subjects | journal = British Journal of Clinical Pharmacology | date = October 2003 | volume = 56 | issue = 4 | pages = 395–406 | pmid = 12968984 | accessdate = 2 March 2017 | pmc = 1884361}}
+
+{{Agents acting on the renin-angiotensin system}}
+{{Angiotensin receptor modulators}}
+
+[[Category:ACE inhibitors]]
+[[Category:Heterocyclic compounds (2 rings)]]
+[[Category:Carboxylic acids]]
+[[Category:Lactams]]
+[[Category:Propionamides]]
+[[Category:Thiols]]
+[[Category:Nitrogen heterocycles]]
+[[Category:Sulfur heterocycles]]
+
+{{cardiovascular-drug-stub}}

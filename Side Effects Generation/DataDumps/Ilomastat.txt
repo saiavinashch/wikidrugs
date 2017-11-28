@@ -1,0 +1,116 @@
+{{Chembox
+| Name = GM6001
+| ImageFile = Ilomastat.svg
+| ImageSize =
+| IUPACName = (''R'')-''N'''-Hydroxy-''N''-[(S)-2-indol-3-yl-1-(methylcarbamoyl)ethyl]-2-isobutylsuccinamide
+| OtherNames = Galardin, GM6001
+
+| Section1 = {{Chembox Identifiers
+| Abbreviations = GM6
+| CASNo = 142880-36-2
+| EINECS =
+| PubChem = 132519
+| ChemSpiderID = 117009
+| SMILES = CC(C)C[C@H](CC(=O)NO)C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)NC
+| InChI = 1S/C20H28N4O4/c1-12(2)8-13(10-18(25)24-28)19(26)23-17(20(27)21-3)9-14-11-22-16-7-5-4-6-15(14)16/h4-7,11-13,17,22,28H,8-10H2,1-3H3,(H,21,27)(H,23,26)(H,24,25)/t13-,17+/m1/s1
+| RTECS =
+| MeSHName = GM6001
+| DrugBank = DB02255
+| ChEBI = 137236
+| KEGG =
+  }}
+
+| Section2 = {{Chembox Properties
+| C=20 | H=28 | N=4 | O=4
+| Appearance =
+| Density =
+| MeltingPt =
+| MeltingPt_notes =
+| BoilingPt =
+| BoilingPt_notes =
+| Solubility =
+| SolubleOther =
+| Solvent =
+| LogP =
+| VaporPressure =
+| HenryConstant =
+| AtmosphericOHRateConstant =
+| pKa =
+| pKb =
+  }}
+
+| Section3 = {{Chembox Structure
+| CrystalStruct =
+| Coordination =
+| MolShape =
+  }}
+
+| Section4 = {{Chembox Thermochemistry
+| DeltaHf =
+| DeltaHc =
+| Entropy =
+| HeatCapacity =
+  }}
+
+| Section5 = {{Chembox Pharmacology
+| AdminRoutes =
+| Bioavail =
+| Metabolism =
+| HalfLife =
+| ProteinBound =
+| Excretion =
+| Legal_status =
+| Legal_US =
+| Legal_UK =
+| Legal_AU =
+| Legal_CA =
+| Pregnancy_category =
+| Pregnancy_AU =
+| Pregnancy_US =
+  }}
+
+| Section6 = {{Chembox Explosive
+| ShockSens =
+| FrictionSens =
+| DetonationV = 
+| REFactor =
+  }}
+
+| Section7 = {{Chembox Hazards
+| ExternalSDS =
+| EUClass =
+| MainHazards =
+| NFPA-H =
+| NFPA-F =
+| NFPA-R =
+| NFPA-S =
+| RPhrases =
+| SPhrases =
+| RSPhrases =
+| FlashPt =
+| AutoignitionPt =
+| ExploLimits =
+| LD50 =
+| PEL =
+  }}
+
+| Section8 = {{Chembox Related
+| OtherAnions =
+| OtherCations =
+| OtherFunction =
+| OtherFunction_label =
+| OtherCompounds =
+  }}
+}}
+
+'''Ilomastat''' ([[International nonproprietary name|INN]]),<ref name="INN">{{cite web|title=International Nonproprietary Names for Pharmaceutical Substances (INN). Recommended International Nonproprietary Names: List 36|url=http://www.who.int/medicines/publications/druginformation/innlists/RL36.pdf|publisher=World Health Organization|accessdate=23 February 2017|page=148}}</ref> also known as '''galardin''' or '''GM6001''' is a broad-spectrum [[matrix metalloproteinase]] [[enzyme inhibitor|inhibitor]].<ref name="pmid1322694">{{cite journal |vauthors=Grobelny D, Poncz L, Galardy RE | title = Inhibition of human skin fibroblast collagenase, thermolysin, and Pseudomonas aeruginosa elastase by peptide hydroxamic acids | journal = Biochemistry | volume = 31 | issue = 31 | pages = 7152–4 |date=August 1992 | pmid = 1322694 | doi = 10.1021/bi00146a017| url = }}</ref><ref name="pmid1385350">{{cite journal |vauthors=Schultz GS, Strelow S, Stern GA, Chegini N, Grant MB, Galardy RE, Grobelny D, Rowsey JJ, Stonecipher K, Parmley V | title = Treatment of alkali-injured rabbit corneas with a synthetic inhibitor of matrix metalloproteinases | journal = Invest. Ophthalmol. Vis. Sci. | volume = 33 | issue = 12 | pages = 3325–31 |date=November 1992 | pmid = 1385350 | doi = | url = }}</ref><ref name="pmid14568001">{{cite journal |vauthors=Santiskulvong C, Rozengurt E | title = Galardin (GM 6001), a broad-spectrum matrix metalloproteinase inhibitor, blocks bombesin- and LPA-induced EGF receptor transactivation and DNA synthesis in rat-1 cells | journal = Exp. Cell Res. | volume = 290 | issue = 2 | pages = 437–46 |date=November 2003 | pmid = 14568001 | doi = 10.1016/S0014-4827(03)00355-0| url = }}</ref>
+
+Ilomastat is a member of the [[hydroxamic acid]] class of [[Enzyme inhibitor#Reversible inhibitors|reversible]] metallopeptidase inhibitors. The anionic state of the hydroxamic acid group forms a bidentate complex with the active site [[zinc]].<ref name="urlMEROPS - the Peptidase Database">{{cite web | url = http://merops.sanger.ac.uk/cgi-bin/smi_summary?mid=J16.402 | title = Small-molecule inhibitor J16.402: galardin | publisher = Wellcome Trust Sanger Institute | work = MEROPS - the Peptidase Database | date = 2010-09-07 | accessdate = 2010-10-04 }}</ref>
+
+Examples of enzymes that ilomastat inhibit include [[thermolysin]],<ref name="pmid1322694"/> [[peptide deformylase]],<ref name="pmid16565079">{{cite journal |vauthors=Balakrishnan A, Patel B, Sieber SA, Chen D, Pachikara N, Zhong G, Cravatt BF, Fan H | title = Metalloprotease inhibitors GM6001 and TAPI-0 inhibit the obligate intracellular human pathogen Chlamydia trachomatis by targeting peptide deformylase of the bacterium | journal = J. Biol. Chem. | volume = 281 | issue = 24 | pages = 16691–9 |date=June 2006 | pmid = 16565079 | doi = 10.1074/jbc.M513648200 | url = }}</ref> and [[anthrax lethal factor endopeptidase]] (LF) produced by the bacterium ''[[Bacillus anthracis]]''.<ref name="pmid16239558">{{cite journal |vauthors=Kocer SS, Walker SG, Zerler B, Golub LM, Simon SR | title = Metalloproteinase inhibitors, nonantimicrobial chemically modified tetracyclines, and ilomastat block Bacillus anthracis lethal factor activity in viable cells | journal = Infect. Immun. | volume = 73 | issue = 11 | pages = 7548–57 |date=November 2005 | pmid = 16239558 | pmc = 1273843 | doi = 10.1128/IAI.73.11.7548-7557.2005 | url = }}</ref><ref name="pmid14718924">{{PDB|1PWU}}; {{cite journal |vauthors=Turk BE, Wong TY, Schwarzenbacher R, Jarrell ET, Leppla SH, Collier RJ, Liddington RC, Cantley LC | title = The structural basis for substrate and inhibitor selectivity of the anthrax lethal factor | journal = Nat. Struct. Mol. Biol. | volume = 11 | issue = 1 | pages = 60–6 |date=January 2004 | pmid = 14718924 | doi = 10.1038/nsmb708 | url = }}</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:Hydroxamic acids]]
+[[Category:Matrix metalloproteinase inhibitors]]

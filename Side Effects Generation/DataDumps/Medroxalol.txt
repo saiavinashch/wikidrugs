@@ -1,0 +1,61 @@
+{{Drugbox
+| drug_name = 
+| IUPAC_name        = 5-(2-{[4-(1,3-Benzodioxol-5-yl)-2-butanyl]amino}-1-hydroxyethyl)-2-hydroxybenzamide
+| image             = Medroxalol.svg
+| alt               = 
+| caption           =
+
+<!-- Clinical data -->
+| tradename         = 
+| Drugs.com         = 
+| MedlinePlus       = 
+| pregnancy_AU      = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US      = <!-- A / B            / C / D / X -->
+| pregnancy_category= 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status      = 
+| routes_of_administration =
+
+<!-- Pharmacokinetic data -->
+| bioavailability   = 
+| protein_bound     = 
+| metabolism        = 
+| elimination_half-life = 
+| excretion         =
+
+<!-- Identifiers -->
+| CAS_number        = 56290-94-9
+| ATCvet            = 
+| ATC_prefix        = <!-- 'none' if uncategorised -->
+| ATC_suffix        = 
+| PubChem           = 41835
+| DrugBank          = 
+| ChemSpiderID      = 38173
+
+<!-- Chemical data -->
+| C=20 | H=24 | N=2 | O=5
+| molecular_weight  = 372.415 g/mol
+|  smiles = O=C(N)c1cc(ccc1O)C(O)CNC(C)CCc2ccc3OCOc3c2
+|  StdInChI = 1S/C20H24N2O5/c1-12(2-3-13-4-7-18-19(8-13)27-11-26-18)22-10-17(24)14-5-6-16(23)15(9-14)20(21)25/h4-9,12,17,22-24H,2-3,10-11H2,1H3,(H2,21,25)
+|  StdInChIKey = MPQWSYJGFLADEW-UHFFFAOYSA-N
+}}
+
+'''Medroxalol''' is a [[vasodilator]] [[beta blocker]] also classified as a mixed receptor blocker as it blocks both alpha and beta receptors.
+
+==Synthesis==
+[[File:Medroxalol synthesis.svg|thumb|center|700px|Medroxalol synthesis:<ref>J. T. Suh and T. M. Bare, {{US Patent|3883560}}; Chem.Abstr. 83, 78914J (1975).</ref>]]
+For the first step, [[salicylamide]] ('''1''') is the subject of a [[Friedel-Crafts acetylation]] and then the aromatic [[methylketone]] is [[Ketone halogenation|halogenated.]] in the usual manner. The bromide in '''2''' is then displaced by the nitrogen in ''N''-benzyl-1-(3',4'-methylenedioxyphenyl)-3-butylamine ('''3'''), which is itself prepared by [[reductive amination]] on the corresponding ketone. The product of the last step ('''4''') is [[catalytic hydrogenation|catalytically hydrogenated]]. This serves the dual purpose both of reducing the ketone and removing the benzyl protecting group affording the product medroxalol ('''5'''). Note that a benzyl protecting group is not necessarily used.
+
+==See also==
+[[Labetalol]]
+
+==References==
+{{Reflist}}
+
+[[Category:Beta blockers]]
+
+
+{{antihypertensive-stub}}

@@ -1,0 +1,70 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 462262233
+| IUPAC_name = 5-nitroquinolin-8-ol
+| image = nitroxoline.png
+| width = 120px
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|nitroxoline}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 4008-48-4
+| ATC_prefix = J01
+| ATC_suffix = XX07
+| PubChem = 19910
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01422
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 18756
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = A8M33244M6
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07245
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1454910
+
+<!--Chemical data-->
+| C=9 | H=6 | N=2 | O=3 
+| molecular_weight = 190.156 g/mol
+| smiles = [O-][N+](=O)c1ccc(O)c2ncccc12
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C9H6N2O3/c12-8-4-3-7(11(13)14)6-2-1-5-10-9(6)8/h1-5,12H
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = RJIWZDNTCBHXAL-UHFFFAOYSA-N
+}}
+
+'''Nitroxoline''' is an [[antibiotic]]<ref name="pmid7793877">{{cite journal |vauthors=Pelletier C, Prognon P, Bourlioux P |title=Roles of divalent cations and pH in mechanism of action of nitroxoline against Escherichia coli strains |journal=Antimicrob. Agents Chemother. |volume=39 |issue=3 |pages=707–13 |year=1995 |pmid=7793877 |doi= 10.1128/aac.39.3.707|url=http://aac.asm.org/cgi/pmidlookup?view=long&pmid=7793877 |pmc=162609}}</ref> that has been in use in Europe for about fifty years, and has proven to be very effective at combating [[biofilm]] infections.  Nitroxoline was shown to cause a decrease in the biofilm density of ''[[P. aeruginosa]]'' infections, which would allow access to the infection by the immune system ''in vivo''.<ref>{{cite journal |vauthors=Sobke A, Klinger M, Hermann B, Sachse S, Nietzsche S, Makarewicz O, Keller PM, Pfister W, Straube E |title=The Urinary Antibiotic 5-Nitro-8-Hydroxyquinoline (Nitroxoline) Reduces the Formation and Induces the Dispersal of Pseudomonas aeruginosa Biofilms by Chelation of Iron and Zinc |journal=Antimicrob. Agents Chemother.  |volume=56 |pages=6021–6025 |year=2012 |url=http://aac.asm.org/content/56/11/6021 |issue=11 |doi=10.1128/aac.01484-12 |pmid=22926564 |pmc=3486607}}</ref> It was shown that nitroxoline functions by [[chelating]] Fe<sup>2+</sup> and Zn<sup>2+</sup> ions from the biofilm matrix; when Fe<sup>2+</sup> and Zn<sup>2+</sup> were reintroduced into the system, biofilm formation was reconstituted.  The activity of biofilm degradation is comparable to [[EDTA]], but has a history of human use in clinical settings and therefore has a precedent with which to allow its use against “slimy” biofilm infections.
+
+==Anticancer Activity==
+The chelating activities of nitroxoline have also been used in an anticancer setting.  Nitroxoline has been shown to be more [[cytotoxic]] to [[HL60]], DHL-4, Panc-1, and A2780 cells lines than [[clioquinol]] and other [[8-hydroxyquinoline]] derivatives.<ref>{{cite journal |vauthors=Jiang H, Taggart JE, Zhang X, Benbrook DM, Lind SE, Ding W |title=Nitroxoline (8-hydroxy-5-nitroquinoline) is more a potent anti-cancer agent than clioquinol (5-chloro-7-iodo-8-quinoline) |journal=Cancer Lett |volume=312 |pages=11–17 |year=2011 |pmc=3395224 |doi=10.1016/j.canlet.2011.06.032 |pmid=21899946 |issue=1}}</ref>   It also demonstrated an increase in [[reactive oxygen species]] (ROS) production over controls, especially when Cu<sup>2+</sup> was added.  The ROS levels reached over 350% of the controls with addition of CuCl<sub>2</sub>.  Interestingly, the cytotoxicity production was markedly decreased with addition of ZnCl<sub>2</sub>, indicating, based on this model, that nitroxoline is not a zinc chelator.  Because the zinc chelating action of clioquinol has been associated with [[subacute myelo-optic neuropathy]], the use of nitroxoline as a cytotoxic drug in the treatment of cancers should not exhibit neurotoxic effects in humans, and ''in vivo'' trials on tumour xenografts in mice have not yielded any negative neurodegenerative effects.
+
+Nitroxoline has been shown to [[Enzyme inhibitor|inhibit the enzymatic activity]] of [[cathepsin B]].<ref>{{cite journal |vauthors=Mirkovic B, Renko M, Turk S, Sosic I, Jevnikar Z, Obermajer N, Turk D, Gobec S, Kos J |title=Novel Mechanism of Cathepsin B Inhibition by Antibiotic Nitroxoline and Related Compounds |journal=ChemMedChem |volume=6 |pages=1351–1356 |year=2011  |doi=10.1002/cmdc.201100098}}</ref>  Cathepsin B degrades extra-cellular membrane proteins in tumor cells, allowing them to proliferate more freely, and metastasize throughout the body.  Nitroxoline was shown to be a noncompetitive, reversible inhibitor of these actions in MCF-10A neoT cells.  The ''K''<sub>i</sub> ([[dissociation constant]]) values it demonstrates are comparable to other reversible inhibitors of cathepsin B.  This indicates that it may be a candidate for further trials as an anticancer drug, especially given its history as an antimicrobial agent and its well-known [[pharmacokinetic]] profile.  The mechanism of action by which nitroxoline inhibits cathepsin B may also suggest that further research of noncovalent, noncompetitive inhibitors of cathepsin B could be warranted.  In fact, it was recently shown that a balance exists between the potency and the kinetics of a molecule, reflected in the molecular weight, which must be optimized in order to create the best drug for inhibition of a target enzyme.<ref>{{cite journal |vauthors=Sosic I, Mirkovic B, Arenz K, Stefane B, Kos J, Gobec S |title=Development of New Cathepsin B Inhibitors: Combining Bioisosteric Replacements and Structure-Based Design To Explore the Structure-Activity Relationships of Nitroxoline Derivatives |journal=J Med Chem |volume=56 |pages=521–533 |year=2013 |url=http://pubs.acs.org/doi/abs/10.1021/jm301544x |doi=10.1021/jm301544x}}</ref>  For example, a certain inhibitor may have a high affinity for an enzyme, but it may prove impractical to use in a clinical setting for treatment because of its size.
+
+Nitroxoline and its analogues have also been shown to have [[antiangiogenic]] properties.<ref name="doi=10.1093/jnci/djq457">{{cite journal |author=Joong Sup Shim, Yoshiyuki Matsui, Shridhar Bhat, Benjamin A. Nacev, Jing Xu, Hyo-eun CB, Surajit Dhara, Kee Chung Han, Curtis R. Chong, Martin G. Pomper, Alan So Jun O. Liu |title=Effect of Nitroxoline on Angiogenesis and Growth of Human Bladder Cancer |journal=J Natl Cancer Inst. |volume=102 |issue=24 |pages=1855–1873 |year=2010 |doi=10.1093/jnci/djq457 |url=http://jnci.oxfordjournals.org/content/102/24/1855.full |pmid=21088277 |pmc=3001967}}</ref> For example, nitroxoline inhibits [[METAP2|MetAP2]] activity, an enzyme associated with [[angiogenesis]], and [[HUVEC]] proliferation.<ref>{{cite journal |vauthors=Bhat S, Shim JS, Zhang F, Chong CR, Liu JO |title=Substituted oxines inhibit endothelial cell proliferation and angiogenesis |journal=Org Biomol Chem. |volume=10 |pages=2979–2992 |year=2012 |doi=10.1039/C2OB06978D |url=http://pubs.rsc.org/en/Content/ArticleLanding/2012/OB/c2ob06978d}}</ref>  This is further evidence that nitroxoline would make an effective anticancer drug.  With different derivatives of nitroxoline demonstrating various levels of inhibition, nitroxoline may also prove to be a novel starting point for future research into cancer treatment.
+
+==References==
+{{Reflist}}
+
+{{Other antibacterials}}
+
+[[Category:Quinolinols]]
+[[Category:Nitro compounds]]

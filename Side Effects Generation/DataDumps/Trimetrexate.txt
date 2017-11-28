@@ -1,0 +1,74 @@
+{{Drugbox
+| verifiedrevid = 470615984
+| IUPAC_name = 5-methyl-6-[(3,4,5-trimethoxyphenyl) aminomethyl] quinazoline-2,4-diamine
+| image = Trimetrexate.svg
+| width = 250
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CDI|trimetrexate}}
+| MedlinePlus = a694019
+| pregnancy_category =  
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability = VD: 20-30 Liters
+| protein_bound =  
+| metabolism = Oxidative O-demethylation, followed by conjugation with glucuronide or sulfate
+| elimination_half-life = 11 to 12 hours
+<!--Identifiers-->
+| IUPHAR_ligand = 7613
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 52128-35-5
+| ATC_prefix = P01
+| ATC_suffix = AX07
+| ATC_supplemental =  
+| PubChem = 5583
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01157
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5381
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = UPN4ITI8T4
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D06238
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 119
+<!--Chemical data-->
+| C=19 | H=23 | N=5 | O=3
+| molecular_weight = 369.418 g/mol
+| smiles = n3c1c(c(c(cc1)CNc2cc(OC)c(OC)c(OC)c2)C)c(nc3N)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H23N5O3/c1-10-11(5-6-13-16(10)18(20)24-19(21)23-13)9-22-12-7-14(25-2)17(27-4)15(8-12)26-3/h5-8,22H,9H2,1-4H3,(H4,20,21,23,24)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = NOYPYLRCIDNJJB-UHFFFAOYSA-N
+}}
+
+'''Trimetrexate''' is a [[quinazoline]] derivative. It is a [[dihydrofolate reductase inhibitor]].<ref name="pmid1981548">{{cite journal |vauthors =Wong BK, Woolf TF, Chang T, Whitfield LR |title=Metabolic disposition of trimetrexate, a nonclassical dihydrofolate reductase inhibitor, in rat and dog |journal=Drug Metab. Dispos. |volume=18 |issue=6 |pages=980–6 |year=1990 |pmid=1981548 |doi= |url=http://dmd.aspetjournals.org/cgi/pmidlookup?view=long&pmid=1981548}}</ref>
+
+==Uses==
+It has been used with [[leucovorin]] in treating [[pneumocystis pneumonia]].<ref name="pmid2136905">{{cite journal  |vauthors=Sattler FR, Allegra CJ, Verdegem TD, etal |title=Trimetrexate-leucovorin dosage evaluation study for treatment of Pneumocystis carinii pneumonia |journal=J. Infect. Dis. |volume=161 |issue=1 |pages=91–6 |date=January 1990 |pmid=2136905 |doi= 10.1093/infdis/161.1.91|url=}}</ref>
+
+It has been investigated for use in treating [[leiomyosarcoma]].<ref name="pmid11748990">{{cite journal |vauthors =Smith HO, Blessing JA, Vaccarello L |title=Trimetrexate in the treatment of recurrent or advanced leiomyosarcoma of the uterus: a phase II study of the Gynecologic Oncology Group |journal=Gynecol. Oncol. |volume=84 |issue=1 |pages=140–4 |date=January 2002 |pmid=11748990 |doi=10.1006/gyno.2001.6482 |url=http://linkinghub.elsevier.com/retrieve/pii/S0090825801964820}}</ref>
+It is a methotrexate (MTX) analog that is active against transport-deficient MTX-resistant tumor cells that overcome the acquired and natural resistance to methotrexate.  Other uses include skin lymphoma. <ref>Trimetrexate in relapsed T-cell lymphoma with skin involvement. J Clin Oncol. 2002 Jun 15;20(12):2876-80.</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{MedlinePlusDrugInfo|uspdi|202693}}
+* {{DiseasesDB|30480}}
+
+{{Agents against amoebiasis and other protozoal diseases}}
+
+[[Category:Antifungals]]
+[[Category:Mammalian dihydrofolate reductase inhibitors]]
+[[Category:Protozoal dihydrofolate reductase inhibitors]]
+[[Category:Fungal dihydrofolate reductase inhibitors]]
+[[Category:Quinazolines]]
+[[Category:Antiprotozoal agents]]
+[[Category:Aromatic amines]]
+[[Category:Phenol ethers]]
+[[Category:Anilines]]
+
+
+{{antimicrobial-stub}}

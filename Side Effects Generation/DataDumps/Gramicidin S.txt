@@ -1,0 +1,76 @@
+{{Drugbox
+| verifiedrevid = 443848998
+| IUPAC_name = Gramicidin S
+| image = Gramicidin S.svg
+| alt = Structural formula of Gramicidin S
+| image2 = Gramicidin S 3D ball.png
+| alt2 = Ball-and-stick model of the Gramicidin S molecule
+| width = 260
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| routes_of_administration = Topical
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 113-73-5
+| PubChem = 73357
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 66085
+| NIAID_ChemDB = 002002
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 5530
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 373496
+
+<!--Chemical data-->
+| C=60 | H=92 | N=12 | O=10 
+| molecular_weight = 1140.7059 g/mol
+| smiles = CC(C)C[C@H]1C(=O)N[C@@H](C(=O)N2CCC[C@H]2C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N3CCC[C@H]3C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)CCCN)C(C)C)Cc4ccccc4)CC(C)C)CCCN)C(C)C)Cc5ccccc5
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C60H92N12O10/c1-35(2)31-43-53(75)67-45(33-39-19-11-9-12-20-39)59(81)71-29-17-25-47(71)55(77)70-50(38(7)8)58(80)64-42(24-16-28-62)52(74)66-44(32-36(3)4)54(76)68-46(34-40-21-13-10-14-22-40)60(82)72-30-18-26-48(72)56(78)69-49(37(5)6)57(79)63-41(23-15-27-61)51(73)65-43/h9-14,19-22,35-38,41-50H,15-18,23-34,61-62H2,1-8H3,(H,63,79)(H,64,80)(H,65,73)(H,66,74)(H,67,75)(H,68,76)(H,69,78)(H,70,77)/t41-,42-,43-,44-,45+,46+,47-,48-,49-,50-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IUAYMJGZBVDSGL-XNNAEKOYSA-N
+}}
+ 
+'''Gramicidin S''' or '''Gramicidin Soviet'''<ref>{{Citation | last1 = Gause | first1 = G. F. | last2 = Brazhnikova | first2 = M. G. | doi = 10.1038/154703a0 | title = Gramicidin S and its use in the Treatment of Infected Wounds | year = 1944 | pages = 703–703 | volume = 154 | journal = [[Nature (journal)|Nature]] | postscript = . | issue=3918}}</ref> is an antibiotic effective against some [[Gram positive]] and [[Gram negative]] bacteria as well as some fungi. It is a derivative of [[gramicidin]], produced by the [[Gram positive]] bacterium ''Bacillus brevis''. Gramicidin S is a cyclodecapeptide, constructed as two identical [[pentapeptide]]s joined head to tail, formally written as ''cyclo''(-[[valine|Val]]-[[ornithine|Orn]]-[[leucine|Leu]]-D-[[phenylalanine|Phe]]-[[proline|Pro]]-)<sub>2</sub>. That is to say, it forms a ring structure composed of five different amino acids, each one used twice within the structure.<ref>
+
+{{Citation | last=Llamas-Saiz | first = Antonio | title= Double-stranded helical twisted b-sheet channels in crystals of gramicidin S grown in the presence of trifluoroacetic and hydrochloric acids | journal = [[Acta Crystallographica Section D]] | volume = D63 | pages = 401–407 | year = 2007 | doi = 10.1107/S0907444906056435 | pmid=17327677 | last2=Grotenbreg | first2=GM | last3=Overhand | first3=M | last4=Van Raaij | first4=MJ | issue=Pt 3}}
+
+</ref> Another interesting point is that it utilizes two amino acids uncommon in [[peptide]]s: [[ornithine]] as well as the atypical [[stereoisomer]] of [[phenylalanine]]. It is synthesized by gramicidin S synthetase.<ref>{{Citation | last = Conti  | first = E  | title = Structural basis for the activation of phenylalanine in the non-ribosomal biosynthesis of gramicidin S  | journal = The EMBO Journal  | volume = 16  | pages = 4174–4183  | year = 1997  | doi = 10.1093/emboj/16.14.4174 | pmid = 9250661 | last2 = Stachelhaus | first2 = T | last3 = Marahiel | first3 = MA | last4 = Brick | first4 = P | issue = 14 | pmc = 1170043 }}</ref>
+
+== Biosynthesis ==
+
+Gramicidin S biosynthetic pathway consists of two-enzyme of nonribosomal peptide synthases ([[Nonribosomal peptide|NRPSs]]), gramicidin S synthetase I (GrsA) and gramicidin S synthetase II (GrsB), to give a product as a cyclic decapeptide. Within the biosynthetic pathway, there are total of five modules that specifically recognize, activate, and condense the amino acids to gramicidin S. Starting module GrsA consists of three domains: 
+Adenylation (A) domain where it incorporates the amino acid and activates it by adenylation using ATP,
+Thiolation (T) domain or peptidyl carrier protein (PCP) in which the adenylated amino acid gets covalently attached to the 4´-phosphopantetheine group and this gets loaded onto the conserved serine in the T domain,
+Epimerization (E) domain where it epimerizes L-amino acid to D-amino acid.<ref>Stachelhaus, T., & Marahiel, M. A. (1995). Modular structure of peptide synthetases revealed by dissection of the multifunctional enzyme GrsA. Journal of Biological Chemistry.</ref><ref>Döhren, von, H., Keller, U., Vater, J., & Zocher, R. (1997). Multifunctional Peptide Synthetases. Chemical Reviews, 97(7), 2675–2706.</ref>
+<ref>Sieber, S. A., & Marahiel, M. A. (2005). Molecular mechanisms underlying nonribosomal peptide synthesis: approaches to new antibiotics. Chemical Reviews, 105(2), 715–738. http://doi.org/10.1021/cr0301191</ref> Starting module GrsA loads D-Phe onto the system.
+
+Second enzyme cluster GrsB contains four [[modules]], each containing condensation (C), adenylation (A), and thiolation (T) domains and [[thioesterase]] domain (TE) at the end. C domain forms a peptide bond between two amino acids, D-Phe and L-Pro. L-Val, L-Orn, and L-Leu are incorporated sequentially by the next three modules of GrsB. After repeating the whole module synthesis once again, TE domain cyclizes and releases the two peptides and dimerize them together to form the final product.<ref>Miller, L. M., Mazur, M. T., McLoughlin, S. M., & Kelleher, N. L. (2005). Parallel interrogation of covalent intermediates in the biosynthesis of gramicidin S using high-resolution mass spectrometry. Protein Science, 14(10), 2702–2712. http://doi.org/10.1110/ps.051553705</ref>
+
+[[Image:Gramicidin S biosynthetic pathway.jpg|thumb|center|550px|Biosynthetic pathway of gramicidin S]]
+
+== History ==
+Gramicidin S was discovered by Russian microbiologist [[Georgyi Frantsevitch Gause]] and his wife Maria Brazhnikova in 1942. Within the year Gramicidin S was being used in Soviet military hospitals to treat infection and eventually found usage at the front lines of combat by 1946.<ref name="pmid12212443">{{Citation | pmid=12212443 | last1=Gall | first1=YM | last2=Konashev | first2=MB | title= The discovery of Gramicidin S: the Intellectual Transformation of G.F. Gause from Biologist to Researcher of Antibiotics and on its Meaning for the Fate of Russian Genetics | journal = [[Hist. Phil. Life Sci.]] | volume = 23 | issue=1 | pages = 137–50 | year = 2001}}</ref> Gause was awarded the [[Stalin Prize]] for Medicine for his discovery in 1946. In 1944, Gramicidin S was sent by the [[Ministry of Health (Soviet Union)|Ministry of Health of the USSR]] to [[Great Britain]] via the [[International Red Cross]] in a collaborative effort to establish the exact structure. English chemist [[Richard Synge]] proved that the compound was an original antibiotic and a polypeptide using paper chromatography.<ref>[http://www.britannica.com/eb/article-9070753/RLM-Synge R.L.M. Synge - Britannica Online Encyclopedia<!-- Bot generated title -->]</ref> He would later go on to receive the [[Nobel Prize]] for his work in chromatography. The crystal structure was finally established by [[Dorothy Hodgkin]] and [[Gerhard Schmidt]]; [[Margaret Thatcher]] worked for a term in 1947 with Gerhard Schmidt on the antibiotic Gramicidin S, as an undergraduate research project.  The importance of Gramicidin S and antibiotic research in general was so great that Gause was not persecuted during the period of [[Lysenkoism]] in the USSR, while many of his colleagues were being executed. Indeed, it was his need for developing new strains to mass-produce antibiotics that allowed politically sanctioned collaborations with [[geneticist]]s like Joseph Rapoport and Alexander Malinovsky, who would both actively participate in the downfall of Lysenkoism.<ref name="pmid12212443" />
+
+== Structure and pharmacological effect ==
+[[Image:Crystal structure of modified Gramicidin S.png|thumb|200px|left|Crystal structure of modified Gramicidin S. Modification includes [[Tert-butyloxycarbonyl protecting group|Boc groups]] on the [[ornithine]] as well as [[methylation]] of select amide nitrogens to force cyclic conformation.<ref>{{citation |title=Stereochemistry of Protected Ornithine Side Chains of Gramicidin S Derivatives: X-ray Crystal Structure of the Bis-Boc-tetra-N-methyl Derivative of Gramicidin S |journal=[[Journal of the American Chemical Society]] |year=2002 |issue=43 |pages=12684–12688 |doi=10.1021/ja020307t |last1=Yamada |first1=Keiichi |last2=Unno |first2=Masafumi |last3=Kobayashi |first3=Kyoko |last4=Oku |first4=Hiroyuki |last5=Yamamura |first5=Hatsuo |last6=Araki |first6=Shuki |last7=Matsumoto |first7=Hideyuki |last8=Katakai |first8=Ryoichi |last9=Kawai |first9=Masao  |volume=124 |pmid=12392415}}</ref>]]
+
+Gramicidin S differs from other gramicidin types in that it is a cationic cyclic decapeptide and has a structure of an anti-parallel beta-sheet. Gramicidin S molecule is [[amphiphilic]], with hydrophobic amino acids (D-Phe, Val, Leu side chains) and charged aminoacid (L-Orn). It exhibits strong antibiotic activity towards [[Gram-negative]] and [[Gram-positive]] and even several pathogenic fungi.<ref>Kondejewski, L. H., Farmer, S. W., Wishart, D. S., Kay, C. M., Hancock, R. E., & Hodges, R. S. (1996). Modulation of structure and antibacterial and hemolytic activity by ring size in cyclic gramicidin S analogs. The Journal of Biological Chemistry, 271(41), 25261–25268.</ref> The mode of action is not entirely agreed upon, but it is generally accepted that it is disruption of the lipid membrane and enhancement of the permeability of the bacterial cytoplasmic membrane.<ref>Prenner, E. J., Lewis, R. N., Neuman, K. C., Gruner, S. M., Kondejewski, L. H., Hodges, R. S., & McElhaney, R. N. (1997). Nonlamellar phases induced by the interaction of gramicidin S with lipid bilayers. A possible relationship to membrane-disrupting activity. Biochemistry, 36(25), 7906–7916. http://doi.org/10.1021/bi962785k</ref> Unfortunately, being [[hemolytic]] at even low concentrations, gramicidin S is only used as topical applications at present. Additionally, Gramicidin S has been employed as a spermicide and therapeutic for genital ulcers caused by [[sexually transmitted disease]].<ref>Krylov YuF (1993) Compendium of medicinal products of Russia. Inpharmchem Press,
+Moscow, p 343 [in Russian]</ref>
+
+== References ==
+{{reflist|2}}
+
+{{Membrane proteins}}
+
+[[Category:Antibiotics]]
+[[Category:Cyclic peptides]]
+[[Category:Russian inventions]]

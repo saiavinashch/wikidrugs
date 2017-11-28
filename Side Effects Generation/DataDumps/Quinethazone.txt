@@ -1,0 +1,60 @@
+{{Drugbox
+| verifiedrevid = 464378622
+| IUPAC_name = 7-chloro-2-ethyl-4-oxo-1,2,3,4-tetrahydroquinazoline-<br>6-sulfonamide
+| image = Quinethazone.svg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|quinethazone}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status = Rx-only
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| IUPHAR_ligand = 7289
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 73-49-4
+| ATC_prefix = C03
+| ATC_suffix = BA02
+| PubChem = 6307
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01325
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 6068
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 455E0S048W
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00461
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1532
+<!--Chemical data-->
+| C=10 | H=12 | Cl=1 | N=3 | O=3 | S=1
+| molecular_weight = 289.739 g/mol
+| smiles = O=S(=O)(c2c(Cl)cc1c(C(=O)NC(N1)CC)c2)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H12ClN3O3S/c1-2-9-13-7-4-6(11)8(18(12,16)17)3-5(7)10(15)14-9/h3-4,9,13H,2H2,1H3,(H,14,15)(H2,12,16,17)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = AGMMTXLNIQSRCG-UHFFFAOYSA-N
+}}
+
+'''Quinethazone''' ([[International Nonproprietary Name|INN]], brand name '''Hydromox''') is a [[thiazide-like diuretic]] used to treat [[hypertension]].  Common side effects include [[dizziness]], dry mouth, [[nausea]], and [[hypokalemia|low potassium]] levels.
+
+==References==
+{{Reflist}}
+
+[[Category:Thiazides]]
+[[Category:Quinazolinones]]
+[[Category:Chloroarenes]]
+[[Category:Carbonic anhydrase inhibitors]]
+
+
+{{cardiovascular-drug-stub}}

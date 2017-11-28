@@ -1,0 +1,115 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 458639365
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = xi/o
+| target = [[CD30]]
+<!-- Clinical data -->
+| tradename = Adcetris
+| licence_US = Brentuximab
+| pregnancy_AU = 
+| pregnancy_US = D
+| pregnancy_category = 
+| legal_AU = 
+| legal_CA = 
+| legal_UK = 
+| legal_US = Rx-only
+| legal_status = 
+| routes_of_administration = Intravenous
+<!-- Pharmacokinetic data -->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion =
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|changed}}
+| CAS_number = 914088-09-8
+| ATC_prefix = L01
+| ATC_suffix = XC12
+| PubChem = 
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 7XL5ISS668
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+| synonyms = SGN-35, previously cAC10-vcMMAE
+<!-- Chemical data -->
+| chemical_formula = C<sub>6476</sub>H<sub>9930</sub>N<sub>1690</sub>O<sub>2030</sub>S<sub>40</sub> (C<sub>68</sub>H<sub>105</sub>N<sub>11</sub>O<sub>15</sub>)<sub>3–5</sub>
+| molecular_weight = 149.2–151.8 kg/mol
+}}
+'''Brentuximab vedotin''' ([[International Nonproprietary Name|INN]], trade name '''Adcetris''') is an [[antibody-drug conjugate]] (ADC) used to treat relapsed or refractory [[Hodgkin lymphoma]] (HL) and systemic [[anaplastic large cell lymphoma]] (ALCL). It selectively targets tumor cells expressing the [[CD30]] antigen, a defining marker of Hodgkin lymphoma and ALCL (a type of [[T cell]] [[non-Hodgkin lymphoma]]).<ref>Fierce Biotech: [http://www.fiercebiotech.com/press-releases/seattle-genetics-submits-bla-fda-brentuximab-vedotin-relapsed-or-refractory-0 Seattle Genetics Submits BLA to FDA for brentuximab vedotin in relapsed or refractory hodgkin lymphoma and systemic ALCL]</ref> 
+
+==Approvals and indications==
+In August 2011, the U.S. [[FDA]] granted accelerated approval to the [[biologics license application]] (BLA) submitted by [[Seattle Genetics]] for the use of brentuximab vedotin<ref>U.S. FDA: [http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm287672.htm Brentuximab Vedotin (marketed as Adcetris) Information]</ref> in the treatment of relapsed HL and ALCL. It received conditional [[marketing authorization]] from the [[European Medicines Agency]] (EMA) in October 2012<ref>EMA/European Medicines Agency: [http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Summary_for_the_public/human/002455/WC500135004.pdf EPAR summary for the public for Adcetris/brentuximab vedotin]</ref> for relapsed or refractory HL and ALCL.<ref>Genetic Engineering & Biotechnology News: [http://www.genengnews.com/gen-news-highlights/seattle-genetics-antibody-drug-conjugate-receives-fda-okay-to-treat-lymphomas/81245576 Seattle Genetics’ Antibody-Drug Conjugate Receives FDA Okay to Treat Lymphomas]</ref>
+
+=== Approval In Australia ===
+The Australian PBAC (Pharmaceutical Benefits Advisory Committee) considered a March 2014 application by the manufacturer for inclusion of Brentuximab Vedotin under a Pharmaceutical Benefits Scheme Section 100 (Efficient Funding of Chemotherapy) arrangement. While this application was accepted, the committee noted that on the basis of inadequate cost-benefit, the medicine would not be made available more generally for the first-line treatment of relapsed or refractory systemic anaplastic large cell lymphoma (sALCL).<ref>PBAC Meetings March 2014 - Brentuximab Vedotin, 50 mg injection, 1 x 50 mg vial Adcetris® - March 2014 [http://www.pbs.gov.au/info/industry/listing/elements/pbac-meetings/psd/2014-03/brentuximab-vedotin-psd-03-2014], March, 2014</ref>
+
+== Design ==
+Brentuximab vedotin<ref>ADC Review / Journal of Antibody-drug Conjugates: [http://adcreview.com/brentuximab-vedotin-sgn35/ Brentuximab Vedotin], February 18, 2014</ref> consists of the [[Chimera (protein)|chimeric]] [[monoclonal antibody]] brentuximab (cAC10, which targets the cell-membrane protein [[CD30]]) linked with [[maleimide]] attachment groups, cathepsin cleavable linkers ([[valine]]-[[citrulline]]), and [[Carbamate|para-aminobenzylcarbamate]] spacers to three to five units of the [[antimitotic agent]] [[monomethyl auristatin E]] (MMAE, reflected by the 'vedotin' in the drug's name).<ref>ADC Review / Journal of Antibody-drug Conjugates: [http://adcreview.com/page/monomethyl-auristatin-e-mmae Monomethyl auristatin E (MMAE)], May 23, 2013</ref> The peptide-based linker bonds the antibody to the cytotoxic compound in a stable manner so the drug is not easily released from the antibody under physiologic conditions to help prevent toxicity to healthy cells and ensure dosage efficiency. The peptide antibody-drug bond facilitates rapid and efficient drug cleavage inside target [[tumor]] cell. The antibody cAC10 part of the drug binds to CD30 which often occurs on diseased cells but rarely on normal tissues.The antibody portion of the drug attaches to CD30 on the surface of malignant cells, delivering MMAE which is responsible for the anti-tumour activity.<ref>Seattle Genetics: [http://www.seagen.com/clinical_trials_sgn35.shtml Clinical Trials with brentuximab vedotin (SGN-35)]</ref><ref name="Francisco">{{Cite journal 
+| last1 = Francisco | first1 = J. A. 
+| last2 = Cerveny | first2 = C. G. 
+| last3 = Meyer | first3 = D. L. 
+| last4 = Mixan | first4 = B. J. 
+| last5 = Klussman | first5 = K. 
+| last6 = Chace | first6 = D. F. 
+| last7 = Rejniak | first7 = S. X. 
+| last8 = Gordon | first8 = K. A. 
+| last9 = Deblanc | first9 = R. 
+| last10 = Toki | first10 = B. E. 
+| last11 = Law | first11 = C. L. 
+| last12 = Doronina | first12 = S. O. 
+| last13 = Siegall | first13 = C. B. 
+| last14 = Senter | first14 = P. D. 
+| last15 = Wahl | first15 = A. F. 
+| title = CAC10-vcMMAE, an anti-CD30-monomethyl auristatin E conjugate with potent and selective antitumor activity 
+| journal = Blood 
+| volume = 102 
+| issue = 4 
+| pages = 1458–1465 
+| year = 2003 
+| doi = 10.1182/blood-2003-01-0039 
+| pmid = 12714494 
+| pmc = 
+}}</ref> Once bound, brentuximab vedotin is internalised by endocytosis and thus selectively taken up by targeted cells. The vesicle containing the drug is fused with [[lysosomes]] and lysosomal cysteine proteases, particularly [[cathepsin B]], start to break down valine-citrulline linker and [[monomethyl auristatin E|MMAE]] is no longer bound to the antibody and is released directly into the tumor environment.
+<ref>Christos Vaklavas and Andres Forero-Torres; Safety and efficacy of brentuximab vedotin in patients with Hodgkin lymphoma or systemic anaplastic large cell lymphoma Therapeutic Advances in Hematology (August 2012) vol. 3 no. 4: 209-225 [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3627331/ doi: 10.1177/2040620712443076]</ref>
+
+[[File:MMAE-MAB-conjugate skeletal.svg|thumb|left|650px|Skeletal formula of brentuximab vedotin. Three to five units of MMAE are attached to the monoclonal antibody (MAB) brentuximab via the spacer ''para''-aminobenzyl[[carbamate]] (marked green), a cathepsin-cleavable linker (Cit=[[citrulline]], Val=[[valine]], marked blue), and an attachment group consisting of [[caproic acid]] and [[maleimide]] (marked brown).<ref name="Francisco" /><ref name="Klement">{{cite journal| author = A. Klement| date = 13 May 2013| title = Sprunginnovation beim Hodgkin-Lymphom: Adcetris| journal = Österreichische Apothekerzeitung| issue = 10/2013| page = 68| language = German}}</ref>]]
+{{clear left}}
+
+== Clinical trials ==
+In a 2010 [[clinical trial]],<ref>{{ClinicalTrialsGov|NCT00848926|A Pivotal Open-Label Trial of Brentuximab Vedotin for Hodgkin Lymphoma}}</ref> 34% of patients with refractory Hodgkin Lymphoma achieved complete remission and another 40% had partial remission.<ref>[http://investor.seagen.com/phoenix.zhtml?c=124860&p=irol-newsArticle&ID=1504306&highlight= Seattle Genetics and Millennium Report Positive Data from Pivotal Trial of Brentuximab Vedotin (SGN-35) in Relapsed or Refractory Hodgkin Lymphoma] at 2010 Annual Meeting of the American Society of Hematology (ASH) (Corporate Press Release)</ref> Tumor reductions were achieved in 94% of patients. In ALCL, 87% of patients had tumors shrink at least 50% and 97% of patients had some tumor shrinkage.<ref>Minyanville Business News: [http://www.minyanville.com/businessmarkets/articles/seattle-genetics-biotech-sector-dendreon-immunotherapy/12/2/2010/id/31470 Is Seattle Genetics the Next Big Thing?], December 2, 2010</ref> Reports from the 55th Annual Meeting of the American Society of Hematology (2013) showed interim results<ref>{{cite journal|title=A Phase 2 Study Of Brentuximab Vedotin In Patients With Relapsed Or Refractory CD30-Positive Non-Hodgkin Lymphomas: Interim Results In Patients With DLBCL and Other B-Cell Lymphomas|journal=Blood|date=21 October 2013|volume=122|issue=21|url=http://bloodjournal.hematologylibrary.org/content/122/21/848.abstract|author1=Jeff P. Sharman|pages=848}}</ref> from a  Phase II, open-label, single-arm study designed to evaluate the antitumor activity of brentuximab vedotin in relapsed or refractory CD30-positive NHL, including B-cell neoplasms. These results demonstrated that single-agent brentuximab vedotin induced a 42% objective response rate and manageable safety profile among advanced diffuse large B-cell lymphoma patients.<ref>{{ClinicalTrialsGov|NCT01421667|A Study of Brentuximab Vedotin in Relapsed or Refractory Non-Hodgkin Lymphoma}}</ref><ref>{{cite journal|journal=ADC Review / Journal of Antibody-drug Conjugates|url=http://adcreview.com/profiles/blogs/brentuximab-vedotin-shows-42-objective-response-rate-in-patients-|title=Brentuximab Vedotin Shows 42% Objective Response Rate in Patients with Relapsed or Refractory Diffuse Large B-cell Lymphoma, Study Shows|date=10 December 2013|deadurl=yes|archiveurl=https://web.archive.org/web/20131217230326/http://adcreview.com/profiles/blogs/brentuximab-vedotin-shows-42-objective-response-rate-in-patients-|archivedate=17 December 2013|df=}}</ref> 
+
+A phase III trial funded by Millennium Pharmaceuticals has the objective of comparing [[ABVD]] (a combination of the [[chemotherapy]] drugs [[doxorubicin]], [[bleomycin]], [[vinblastine]], and [[dacarbazine]]) versus brentuximab vedotin in combination with AVD (doxorubicin, vinblastine, and dacarbazine) for treatment of [[classical Hodgkin lymphoma]] is ongoing.  A previously completed phase I study demonstrated that a greater number of patients experienced pulmonary toxicity with brentuximab vedotin-ABVD than with ABVD alone. Pulmonary fibrosis is a classical adverse effect of [[bleomycin]]; however, the incidence of pulmonary fibrosis in the brentuximab vedotin-ABVD arm was higher than the expected historical rate with ABVD alone.<ref>{{Cite web|url=https://www.fda.gov/Drugs/DrugSafety/ucm287668.htm|title=Drug Safety and Availability - FDA Drug Safety Communication: New Boxed Warning and Contraindication for Adcetris (brentuximab vedotin)|last=Research|first=Center for Drug Evaluation and|website=www.fda.gov|language=en|access-date=2017-08-04}}</ref> Overall, 24 out of 25 patients treated with brentuximab vedotin and AVD achieved complete remission but further studies are required to find [[progression-free survival]] time and measure the effectiveness of this new combination therapy.<ref>Anas Younes, Joseph M. Connors, Steven I. Park, Michelle Fanale, Megan M. O'Meara, Naomi N. Hunder et al; Brentuximab vedotin combined with ABVD or AVD for patients with newly diagnosed Hodgkin's lymphoma: a phase 1, open-label, dose-escalation study  The Lancet Oncology, (December 2013) Volume 14, Issue 13, 1348 - 1356 [http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(13)70501-1/abstract doi:10.1016/S1470-2045(13)70501-1]</ref> 
+
+Brentuximab vedotin is also being investigated as a substitute for [[vincristine]] (another mitotic inhibitor which prevents [[tubulin]] polymerization) in patients with being treated with [[CHOP]] (a combination of [[cyclophosphamide]], [[hydroxydaunorubicin]], [[vincristine]], [[prednisone]] or [[prednisolone]]) for a non-Hodgkin lymphoma. 
+
+A phase III [[clinical trial]] is currently comparing the two combination therapies (CHOP and CHP-brentuximab vedotin) with estimated completion in December 2017.<ref>A Randomized, Double-blind, Placebo-controlled, Phase 3 Study of Brentuximab Vedotin and CHP (A+CHP) Versus CHOP in the Frontline Treatment of Patients With CD30-positive Mature T-cell Lymphomas [http://clinicaltrials.gov/show/NCT01777152 trial identifier: NCT01777152]</ref>
+
+The ECHELON-1 phase 3 trial compared brentuximab vedotin with [[bleomycin]] both in combination with adriamycin, vinblastine, dacarbazine (AVD) chemotherapy as a firstline treatment for advanced classical Hodgkin lymphoma.<ref>[http://www.biopharmadive.com/news/seattle-genetics-adcetris-echelon-study-lymphoma-frontline/445828/ Seattle Genetics' Adcetris succeeds in study but shares slide. June 2017]</ref>
+
+== Serious adverse events ==
+Brentuximab vedotin was studied as monotherapy in 160 patients in two phase II trials. Across both trials, the most common adverse reactions (≥20%), regardless of causality, were [[chemotherapy-induced peripheral neuropathy]] (a progressive, enduring and often irreversible tingling numbness, intense pain, and hypersensitivity to cold, beginning in the hands and feet and sometimes involving the arms and legs), [[neutropenia]] (an immune system impairment), fatigue, nausea, [[anemia]], [[upper respiratory tract infection]], diarrhea, fever, rash, [[thrombocytopenia]], cough and vomiting.<ref name="Prescribing Info">[http://www.adcetris.com/pdf/ADCETRIS_Prescribing_Information.pdf Highlights of Prescribing Information (US)/Adcetris (brentuximab vedotin) for Injection] {{webarchive |url=https://web.archive.org/web/20130525175719/http://www.adcetris.com/pdf/ADCETRIS_Prescribing_Information.pdf |date=May 25, 2013 }} (2012)</ref>
+
+=== Black box warning ===
+On January 13, 2012, the FDA announced that because brentuximab vedotin had been linked with two cases of [[progressive multifocal leukoencephalopathy]], they were requiring the addition of a [[Boxed warning|black box warning]] to the drug label regarding this potential risk.<ref>[http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm287710.htm Adcetris (brentuximab vedotin): Drug Safety Communication - Progressive Multifocal Leukoencephalopathy and Pulmonary Toxicity]</ref>
+
+== Interactions ==
+Patients who are receiving strong [[CYP3A4]] inhibitors concomitantly with brentuximab vedotin should be closely monitored for serious adverse events.<ref name="Prescribing Info" />
+
+== Development and marketing collaboration ==
+Brentuximab vedotin is marketed as ''Adcetris''.<ref>Onco'Zine - The International Cancer Network: [http://oncozine.com/profiles/blogs/european-medicines-agency European Medicines Agency Accepts Brentuximab Marketing Authorization Application], June 27, 2011</ref> Seattle Genetics and Millennium Pharmaceuticals/Takeda Oncology are jointly developing brentuximab vedotin. Under the terms of the collaboration agreement, Seattle Genetics has U.S. and Canadian commercialization rights and the Takeda Group has rights to commercialize  in the rest of the world. Seattle Genetics and the Takeda Group are funding joint development costs for brentuximab vedotin on a 50:50 basis, except in Japan where the Takeda Group will be solely responsible for development costs.
+
+== References ==
+{{reflist|35em}}
+
+{{Extracellular chemotherapeutic agents}}
+{{Monoclonals for tumors}}
+
+[[Category:Monoclonal antibodies]]
+[[Category:Antibody-drug conjugates]]

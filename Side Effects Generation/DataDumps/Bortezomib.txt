@@ -1,0 +1,112 @@
+{{Drugbox
+| verifiedrevid = 459493462
+| IUPAC_name = [(1''R'')-3-methyl-1-({(2''S'')-3-phenyl-2-[(pyrazin-2-ylcarbonyl)amino]propanoyl}amino)butyl]boronic acid
+| image = Bortezomib.svg
+| image2 = Bortezomib-from-PDB-2F16-3D-balls.png
+<!--Clinical data-->
+| tradename = Velcade
+| Drugs.com = {{drugs.com|monograph|bortezomib}}
+| MedlinePlus = a607007
+| licence_EU = Velcade
+| licence_US = Bortezomib
+| pregnancy_AU = C
+| pregnancy_US = D
+| legal_status = Rx-only
+| routes_of_administration =[[Subcutaneous administration|Subcutaneous]],  [[Intravenous therapy|IV]]
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound = 83%
+| metabolism = [[Liver|Hepatic]], [[Cytochrome P450 oxidase|CYP]] extensively involved
+| elimination_half-life = 9 to 15 hours
+| excretion =
+<!--Identifiers-->
+| IUPHAR_ligand = 6391
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 179324-69-7
+| ATC_prefix = L01
+| ATC_suffix = XX32
+| PubChem = 387447
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00188
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 343402
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 69G8BD63PP
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 325041
+| PDB_ligand = BO2
+| synonyms = PS-341
+<!--Chemical data-->
+| C=19 | H=25 | B=1 | N=4 | O=4
+| molecular_weight = 384.237 g/mol
+| smiles = O=C(N[C@H](C(=O)N[C@H](B(O)O)CC(C)C)Cc1ccccc1)c2nccnc2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H25BN4O4/c1-13(2)10-17(20(27)28)24-18(25)15(11-14-6-4-3-5-7-14)23-19(26)16-12-21-8-9-22-16/h3-9,12-13,15,17,27-28H,10-11H2,1-2H3,(H,23,26)(H,24,25)/t15-,17-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GXJABQQUPOEUTA-RDJZCZTQSA-N
+}}
+'''Bortezomib''' ([[British Approved Name|BAN]], [[International Nonproprietary Name|INN]] and [[United States Adopted Name|USAN]]; marketed as '''Velcade''' by [[Millennium Pharmaceuticals]]; '''Neomib''' by [[Getwell]] and '''Bortecad''' by [[Cadila Healthcare]]) is an anti-cancer drug and the first therapeutic [[proteasome inhibitor]] to be used in humans.  [[Proteasome]]s are cellular complexes that break down proteins. In some cancers, the proteins that normally kill cancer cells are broken down too quickly. Bortezomib interrupts this process and lets those proteins kill the cancer cells. It is approved in the U.S. and Europe for treating relapsed [[multiple myeloma]] and [[mantle cell lymphoma]].<ref>Takimoto CH, Calvo E. [http://www.cancernetwork.com/cancer-management-11/chapter03/article/10165/1402628 "Principles of Oncologic Pharmacotherapy"] in Pazdur R, Wagman LD, Camphausen KA, Hoskins WJ (Eds) [http://www.cancernetwork.com/cancer-management-11/ Cancer Management: A Multidisciplinary Approach]. 11 ed. 2008.</ref><ref name="house2014">{{cite news | author=House, Douglas W. | title=FDA clears Velcade label expansion | publisher=[[Seeking Alpha]] | date=2014-10-09 | url=http://seekingalpha.com/news/2023345-fda-clears-velcade-label-expansion }}</ref><ref name="AC">{{cite book|title=Austria-Codex|editor=Haberfeld, H|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2016|language=German}}</ref> In multiple myeloma, complete clinical responses have been obtained in patients with otherwise refractory or rapidly advancing disease.
+
+==Origin and development==
+
+Bortezomib was originally synthesized in 1995 at Myogenics. The drug (PS-341) was tested in a small Phase I clinical trial on patients with [[multiple myeloma]]. It was brought to further clinical trials by [[Millennium Pharmaceuticals]] in October 1999.
+
+In May 2003, seven years after the initial synthesis, bortezomib (marketed as Velcade by Millennium Pharmaceuticals Inc.) was approved in the United States by the [[Food and Drug Administration (United States)|Food and Drug Administration]] (FDA) for use in multiple myeloma, based on the results from the SUMMIT Phase II trial.<ref name="pmid15199612">{{cite journal |vauthors=Adams J, Kauffman M | title = Development of the Proteasome Inhibitor Velcade (Bortezomib) | journal = Cancer Invest | volume = 22 | issue = 2 | pages = 304–11 | year = 2004 | pmid = 15199612  | doi = 10.1081/CNV-120030218}}</ref> Bortezomib is approved for initial treatment of patients with multiple myeloma by the U.S. FDA in 2008.<ref>{{Cite web|url = http://www.fda.gov/AboutFDA/CentersOffices/OfficeofMedicalProductsandTobacco/CDER/ucm094633.htm|title = U.S. Department of Health and Human Services|date = June 23, 2008|accessdate = |website = fda.gov|publisher = }}</ref>
+
+Later in August 2014, this Administration approved Velcade for the retreatment of adult patients with multiple myeloma<ref>{{Cite web|url = http://investor.millennium.com/phoenix.zhtml?c=80159&p=irol-newsArticle&ID=1957192&highlight=|title = Millenium: The Takeda Oncology Company|date = 2014-08-08|website = .millennium.com|publisher = }}{{dead link|date=July 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> who had previously responded to Velcade therapy and relapsed at least six months following completion of prior treatment.
+
+==Pharmacology==
+[[Image:2f16.png|thumb|200px|left|Bortezomib bound to the core particle in a [[yeast]] proteasome. The bortezomib molecule is in the center colored by atom type (boron = pink, carbon = cyan, nitrogen = blue, oxygen = red), surrounded by the local protein surface. The blue patch is  catalytic [[threonine]] residue whose activity is blocked by the presence of bortezomib.]]
+
+===Structure===
+The drug is an N-protected [[dipeptide]] and can be written as Pyz-Phe-boroLeu, which stands for [[pyrazinoic acid]], [[phenylalanine]] and [[Leucine]] with a [[boronic acid]] instead of a [[carboxylic acid]]. Peptides are written N-terminus to C-terminus, and this convention is used here even though the "C-terminus" is a boronic acid instead of a carboxylic acid.
+
+===Mechanism===
+The [[boron]] atom in bortezomib binds the catalytic site of the [[proteasome|26S proteasome]]<ref name="pmid17268529">{{cite journal |vauthors=Bonvini P, Zorzi E, Basso G, Rosolen A |title=Bortezomib-mediated 26S proteasome inhibition causes cell-cycle arrest and induces apoptosis in CD-30+ anaplastic large cell lymphoma |journal=Leukemia |volume=21 |issue=4 |pages=838–42 |year=2007 |pmid=17268529 |doi=10.1038/sj.leu.2404528}}</ref> with high affinity and specificity. In normal cells, the proteasome regulates protein expression and function by degradation of ubiquitylated proteins, and also cleanses the cell of abnormal or misfolded proteins. Clinical and preclinical data support a role in maintaining the immortal phenotype of myeloma cells, and cell-culture and xenograft data support a similar function in solid tumor cancers. While multiple mechanisms are likely to be involved, proteasome inhibition may prevent degradation of pro-apoptotic factors, thereby triggering programmed cell death in neoplastic cells. Recently, it was found that bortezomib caused a rapid and dramatic change in the levels of intracellular peptides that are produced by the proteasome.<ref name="pmid23308178">{{cite journal |vauthors=Gelman JS, Sironi J, Berezniuk I, Dasgupta S, Castro LM, Gozzo FC, Ferro ES, Fricker LD |title=Alterations of the intracellular peptidome in response to the proteasome inhibitor bortezomib |journal = PLOS ONE |year = 2013 | issue = 1 | pages = e53263|doi= 10.1371/journal.pone.0053263| pmid=23308178 |volume=8 |pmc=3538785}}</ref> Some intracellular peptides have been shown to be biologically active, and so the effect of bortezomib on the levels of intracellular peptides may contribute to the biological and/or side effects of the drug.
+
+===Pharmacokinetics and pharmacodynamics===
+After subcutaneous administration, peak plasma levels are ~25-50 nM and this peak is sustained for 1-2 hrs. After intravenous injection, peak plasma levels are ~500 nM but only for ~5 minutes, after which the levels rapidly drop as the drug distributes to tissues (volume of distribution is ~500 L).<ref>{{cite journal |vauthors=Reece DE, Sullivan D, Lonial S, Mohrbacher AF, Chatta G, Shustik C, Burris H 3rd, Venkatakrishnan K, Neuwirth R, Riordan WJ, Karol M, von Moltke LL, Acharya M, Zannikos P, Keith Stewart A |title=Pharmacokinetic and pharmacodynamic study of two doses of bortezomib in patients with relapsed multiple myeloma. |journal=Cancer Chemother Pharmacol.|year=2011|volume=67 |pages=57–67 |doi=10.1007/s00280-010-1283-3}}</ref><ref>{{cite journal |vauthors=Voorhees PM, Dees EC, O'Neil B, Orlowski RZ |title=The proteasome as a target for cancer therapy |journal=Clin Cancer Res |volume=9 |issue=17 |pages=6316–25 |year=2003 |pmid=14695130 |doi=}}</ref> Both routes provide equal drug exposures and generally comparable therapeutic efficacy. Elimination half life is 9–15 hours and the drug is primarily cleared by hepatic metabolism.<ref>{{cite journal |vauthors=Moreau P, Pylypenko H, Grosicki S, Karamanesht I, Leleu X, Grishunina M, Rekhtman G, Masliak Z, Robak T, Shubina A, Arnulf B, Kropff M, Cavet J, Esseltine DL, Feng H, Girgis S, van de Velde H, Deraedt W, Harousseau JL |title=Subcutaneous versus intravenous administration of bortezomib in patients with relapsed multiple myeloma: a randomised, phase 3, non-inferiority study. |journal=The Lancet Oncology |year=2011 |volume=12 |pages=431–40 |doi=10.1016/s1470-2045(11)70081-x}}</ref>
+
+[[Pharmacodynamics]] are measured by measuring proteasome inhibition in peripheral blood mononuclear cells. The much greater sensitivity of myeloma cell lines and mantle cell lines to proteasome inhibition compared with normal peripheral blood mononuclear cells and most other cancer cell lines is poorly understood.
+
+==Costs==
+In the [[UK]], [[NICE]] recommended against Velcade in October 2006 due to its cost of about £18,000 per patient, and studies reviewed by NICE reported that it could only extend the life expectancy by an average of six months over standard treatment.<ref>{{cite web|url=http://news.bbc.co.uk/1/hi/health/6069386.stm | title=NHS watchdog rejects cancer drug | accessdate=2009-08-14 | publisher=BBC News UK | date=2006-10-20 }}</ref> However, the company later proposed a performance-linked cost reduction for multiple myeloma,<ref>{{cite web |url=http://www.nice.org.uk/nicemedia/pdf/MyelomaDofHSummaryResponderScheme.pdf |title=Summary of VELCADE Response Scheme |accessdate=2009-08-14 |deadurl=yes |archiveurl=https://web.archive.org/web/20090419091212/http://www.nice.org.uk/nicemedia/pdf/MyelomaDofHSummaryResponderScheme.pdf |archivedate=2009-04-19 |df= }}</ref> and this accepted.<ref>{{cite web | url=http://www.europharmatoday.com/2009/01/more-velcadestyle-risksharing-in-the-uk.html | archive-url=https://web.archive.org/web/20110710204841/http://www.europharmatoday.com/2009/01/more-velcadestyle-risksharing-in-the-uk.html | dead-url=yes | archive-date=2011-07-10 | title=More Velcade-Style Risk-Sharing In The UK? | accessdate=2009-08-14 | publisher=Euro Pharma Today | date=2009-01-21 }}</ref>
+
+==Adverse effects==
+Bortezomib is associated with [[peripheral neuropathy]] in 30% of patients; occasionally, it can be painful.  This can be worse in patients with pre-existing [[neuropathy]]. In addition, [[myelosuppression]] causing [[neutropenia]] and [[thrombocytopenia]] can also occur and be dose-limiting. However, these [[side effects]] are usually mild relative to [[bone marrow transplantation]] and other treatment options for patients with advanced disease. Bortezomib is associated with a high rate of [[shingles]],<ref name="pmid15953001">{{cite journal |vauthors=Oakervee HE, Popat R, Curry N | title=PAD combination therapy (PS-341/bortezomib, doxorubicin and dexamethasone) for previously untreated patients with multiple myeloma | journal=Br J Haematol | volume=129 | issue=6 | pages=755–62 | year=2005 | pmid=15953001 | doi=10.1111/j.1365-2141.2005.05519.x|display-authors=etal}}</ref> although [[Prophylaxis|prophylactic]] [[acyclovir]] can reduce the risk of this.<ref name="pmid19406726">{{cite journal |author1=Pour L. |author2=Adam Z. |author3=Buresova L. | title=Varicella-zoster virus prophylaxis with low-dose acyclovir in patients with multiple myeloma treated with bortezomib | journal=Clinical Lymphoma & Myeloma | volume=9 | issue=2 | pages=151–3 | year=2009 | pmid=19406726 | doi=10.3816/CLM.2009.n.036|display-authors=etal}}</ref>
+Acute interstitial nephritis has also been reported.<ref>{{cite journal | year = 2015 | title =  Bortezomib-induced acute interstitial nephritis| url = | journal = Nephrol. Dial. Transplant | volume = 30 | issue = 7| pages = 1225–1229 | doi = 10.1093/ndt/gfv222 }}</ref>
+
+[[Gastrointestinal tract|Gastro-intestinal]] (GI) effects and [[asthenia]] are the most common adverse events.<ref>[http://www.velcade.com/full_prescrib_velcade.pdf Highlights Of Prescribing Information<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20090219102450/http://www.velcade.com/full_prescrib_velcade.pdf |date=February 19, 2009 }}</ref>
+
+==Drug interactions==
+Green tea extract [[epigallocatechin gallate]] (EGCG), which had been expected to have a synergistic effect, was found to reduce the effectiveness of bortezomib.<ref>{{cite journal|last1=Golden|first1=EB|last2=Lam|first2=PY|last3=Kardosh|first3=A|last4=Gaffney|first4=KJ|last5=Cadenas|first5=E|last6=Louie|first6=SG|last7=Petasis|first7=NA|last8=Chen|first8=TC|last9=Schönthal|first9=AH|title=Green tea polyphenols block the anticancer effects of bortezomib and other boronic acid-based proteasome inhibitors.|journal=Blood|date=4 June 2009|volume=113|issue=23|pages=5927–37|pmid=19190249|doi=10.1182/blood-2008-07-171389|url=http://www.bloodjournal.org/content/113/23/5927?sso-checked=true}}</ref>
+
+==Therapeutic efficacy==
+Two open-label, phase II trials (SUMMIT and CREST) established the efficacy of bortezomib 1.3&nbsp;mg/m<sup>2</sup> (with or without [[dexamethasone]]) administered by intravenous bolus on days 1,4,8, and 11 of a 21-day cycle for a maximum of eight cycles in heavily pretreated patients with relapsed/refractory multiple myeloma.<ref name=Curran2009>{{cite journal |title=Bortezomib: A Review of its Use in Patients with Multiple Myeloma |vauthors=Curran M, McKeage K |url=http://adisonline.com/drugs/abstract/2009/69070/Bortezomib__A_Review_of_its_Use_in_Patients_with.6.aspx |journal=Drugs |year=2009 |volume=69 |issue=7 |pages=859–888 |doi=10.2165/00003495-200969070-00006 |pmid=19441872}}</ref> The phase III APEX trial demonstrated the superiority of bortezomib 1.3&nbsp;mg/m<sup>2</sup> over a high-dose dexamethasone regimen (e.g. median [[Time to progression|TTP]] 6.2 vs 3.5 months, and 1-year survival 80% vs 66%).<ref name=Curran2009/>
+
+== Experimental use ==
+Bortezomib has been trialled for [[systemic lupus erythematosus]] (SLE) and appeared to reduce disease activity and plasma cell numbers, however 7 of 12 patients dropped out due to side effects, some of which were severe.<ref>{{cite journal |title=The proteasome inhibitior bortezomib depletes plasma cells and ameliorates clinical manifestations of refractory systemic lupus erythematosus|author=Alexanter T |journal=Ann Rheum Dis |year=2015 |doi=10.1136/annrheumdis-2014-206016  |pmid=25710470|display-authors=etal |volume=74 |pmc=4484251 |pages=1474–8}}</ref>
+
+== See also ==
+* [[Ixazomib]], a proteasome inhibitor that is given by mouth
+
+==References==
+{{Reflist|33em}}
+
+==External links==
+*[http://harvardmedicine.hms.harvard.edu/magazine/spring2011/WE_1.php]
+*[https://web.archive.org/web/20071018015528/http://www.velcadethree.co.uk/ Myeloma patients campaigning for access to a life prolonging cancer drug]
+*[http://www.velcade.com/ Millennium Pharmaceuticals website on Velcade]
+*[http://www.multiplemyeloma.org/treatments/3.05.html Multiple Myeloma Research Foundation article on Velcade]
+*[http://myeloma.org/IndexPage.action?tabId=1&menuId=151&indexPageId=53&parentLinkId=976&categoryId=172&gParentType=menuitem&gParentId=151&parentIndexPageId=47&parentCategoryId=71 International Myeloma Foundation article on Velcade]
+*[http://www.fda.gov/cder/drug/infopage/velcade/default.htm U.S. Food and Drugs Administration on Velcade]
+*[https://web.archive.org/web/20051003233934/http://www.velcade.info/ Dedicated website for European audience]
+{{Clear}}
+{{Chemotherapeutic agents}}
+
+[[Category:Carboxamides]]
+[[Category:Boronic acids]]
+[[Category:Pyrazines]]
+[[Category:Proteasome inhibitors]]
+[[Category:Orphan drugs]]
+[[Category:Propionamides]]

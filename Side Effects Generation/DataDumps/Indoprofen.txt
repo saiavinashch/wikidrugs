@@ -1,0 +1,78 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 443762030
+| IUPAC_name = 2-[4-(1-oxo-1,3-dihydro-2''H''-isoindol-2-yl)<br />phenyl]propanoic acid
+| image = Indoprofen.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = Withdrawn
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = High (rapid and complete absorption)
+| protein_bound =  
+| metabolism = [[Glucuronidation]]
+| elimination_half-life = 2.3 hours
+| excretion = [[Kidney|Renal]]
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 31842-01-0
+| ATC_prefix = M01
+| ATC_suffix = AE10
+| PubChem = 3718
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB08951 
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3587
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = CPE46ZU14N
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D04530
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 76162
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 15870
+
+<!--Chemical data-->
+| C=17 | H=15 | N=1 | O=3 
+| molecular_weight = 281.306 g/mol
+| smiles = O=C(O)C(c1ccc(cc1)N3C(=O)c2ccccc2C3)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H15NO3/c1-11(17(20)21)12-6-8-14(9-7-12)18-10-13-4-2-3-5-15(13)16(18)19/h2-9,11H,10H2,1H3,(H,20,21)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = RJMIEHBSYVWVIN-UHFFFAOYSA-N
+}}
+
+'''Indoprofen''' is a [[nonsteroidal anti-inflammatory drug]] (NSAID). It was withdrawn worldwide in the 1980s after postmarketing reports of severe [[gastrointestinal bleeding]].<ref name=NINDS>{{cite web | url = http://www.ninds.nih.gov/news_and_events/news_articles/news_article_SMA_indoprofen.htm | last = Frazin | first = Natalie | title = Pain Reliever May Provide Clues for Treating Spinal Muscular Atrophy | date = March 9, 2005 | accessdate = 2007-10-06 | publisher = United States [[National Institute of Neurological Disorders and Stroke]]}}</ref>
+
+A 2004 study using [[high-throughput screening]] found indoprofen to increase production of the [[survival of motor neuron]] protein, suggesting it may provide insight into treatments for [[spinal muscular atrophy|spinal muscular atrophies]].<ref name=NINDS/><ref>{{cite journal |author=Lunn MR |title=Indoprofen upregulates the survival motor neuron protein through a cyclooxygenase-independent mechanism |journal=Chem Biol |volume=11 |issue=11 |pages=1489–1493 |year=2004 |pmid=15555999 |doi=10.1016/j.chembiol.2004.08.024 |name-list-format=vanc|author2=Root DE |author3=Martino AM |display-authors=3 |last4=Flaherty |first4=Stephen P. |last5=Kelley |first5=Brian P. |last6=Coovert |first6=Daniel D. |last7=Burghes |first7=Arthur H. |last8=Thi Man |first8=Nguyen |last9=Morris |first9=Glenn E. |pmc=3160629}}</ref>
+
+==Synthesis==
+The [[isoindolone]] ring system forms the nucleus for one of the more traditional "[[profen]]" NSAIDs.
+[[File:Indoprofen synthesis.svg|thumb|center|700px|Indoprofen synthesis:<ref>{{cite journal|pmid=4801034|year=1973|author1=Nannini|first1=G|title=New analgesic-anti-inflammatory drugs. 1-Oxo-2-substituted isoindoline derivatives|journal=Arzneimittel-Forschung|volume=23|issue=8|pages=1090–100|last2=Giraldi|first2=P. N.|last3=Molgora|first3=G|last4=Biasoli|first4=G|last5=Spinelli|first5=F|last6=Logemann|first6=W|last7=Dradi|first7=E|last8=Zanni|first8=G|last9=Buttinoni|first9=A|last10=Tommasini|first10=R}}</ref> Patents:<ref>{{Cite patent|BE|753600}}; R. W. J. Carney, G. de Stevens, {{US patent|4316850}} (1970, 1982 both to Ciba).</ref><ref>P. N. Giraldi et al., {{Cite patent|DE|2154525}} (1972 to [[Farmitalia|Carlo Erba]]), C.A. 77, 88292v (1972).</ref>]]
+Reduction of the nitro group in arylpropionic acid ('''1''') gives the corresponding aniline ('''2'''). Reaction of the intermediate with the imide ('''3''') from [[phthalic anhydride]] (ie. [[phthalimide]]) gives the product ('''4''') in which the aniline nitrogen has exchanged with ammonia (apparently [[phthalic anhydride]] was not used directly). Treatment of the new imide with zinc in acetic acid leads, interestingly to reduction of but one of the carbonyl groups to afford indolone, indoprofen.
+
+==References==
+{{Reflist}}
+
+{{Anti-inflammatory and antirheumatic products}}
+{{Prostanoidergics}}
+
+[[Category:Nonsteroidal anti-inflammatory drugs]]
+[[Category:Withdrawn drugs]]
+[[Category:Isoindolines]]
+[[Category:Lactams]]
+[[Category:Propionic acids]]
+
+
+{{musculoskeletal-drug-stub}}

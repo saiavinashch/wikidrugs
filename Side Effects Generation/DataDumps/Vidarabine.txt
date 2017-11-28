@@ -1,0 +1,111 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 461752813
+| IUPAC_name = (2''R'',3''S'',4''S'',5''R'')-2-(6-amino-9''H''-purin-9-yl)-5-(hydroxymethyl)oxolane-3,4-diol hydrate
+| image = Vidarabine.svg
+| width = 300
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|vidarabine}}
+| pregnancy_category =  
+| legal_status =  
+| routes_of_administration =
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 24-38%
+| metabolism =  
+| elimination_half-life =
+<!--Identifiers-->
+| IUPHAR_ligand = 4806
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 24356-66-9
+| ATC_prefix = J05
+| ATC_suffix = AB03
+| ATC_supplemental =  {{ATC|S01|AD06}}
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00194
+| PubChem = 21704
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 20400
+| NIAID_ChemDB = 007328
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = FA2DM6879K
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00406
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1090
+<!--Chemical data-->
+| C=10 | H=15 | N=5 | O=5
+| molecular_weight = 285.257 g/mol
+| smiles = C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@H]([C@@H]([C@H](O3)CO)O)O)N
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C10H13N5O4/c11-8-5-9(13-2-12-8)15(3-14-5)10-7(18)6(17)4(1-16)19-10/h2-4,6-7,10,16-18H,1H2,(H2,11,12,13)/t4-,6-,7+,10-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = OIRDTQYFTABQOQ-UHTZMRCNSA-N
+}}
+'''Vidarabine''' or '''9-β-D-arabinofuranosyladenine (ara-A)''' is an [[antiviral drug]] which is active against [[herpes simplex]] and [[varicella zoster virus]]es.
+
+== Discovery ==
+
+In the 1950s two [[nucleosides]] were isolated from the Caribbean [[sea sponge|sponge]] ''[[Tethya crypta]]'': spongothymidine and spongouridine; which contained [[D-arabinose]] rather than [[D-ribose]]. These compounds led to the synthesis of a new generation, sugar modified nucleoside analog vidarabine, and the related compound [[cytarabine]]. In 2004 these were the only marine related compounds in clinical use.<ref>Kijjoa, A.; Sawangwong, P. Drugs and Cosmetics from the Sea. Mar. Drugs. 2004, 2, 73-82.</ref>
+
+The drug was first synthesized in 1960 in the [[Bernard Randall Baker]] lab at the [[SRI International|Stanford Research Institute]] (now SRI International).<ref name=Sneader>{{cite book
+| author = Sneader, Walter
+| title = Drug discovery: a history
+| publisher = Wiley
+| location = New York
+| year = 2005
+| page = 258
+| isbn = 0-471-89979-8
+| oclc = }}</ref>
+
+The drug was originally intended as an anti-cancer drug.<ref name=Sneader />  The anti-viral activity of vidarabine was first described by M. Privat de Garilhe and J. De Rudder in 1964.<ref name="field">Field, H. J.; De Clercq, E. Antiviral Drugs – a short history of their discovery and development. Microbiology Today. 2004, 31, 58-61.</ref>  It was the first nucleoside analog [[antiviral drug|antiviral]] to be given systemically and was the first agent to be licensed for the treatment of systematic [[Herpes simplex virus|herpes virus]] infection in humans.<ref name="white">White, O. D.; Fenner, F. J. Medicinal Virology. 3rd Ed.</ref> It was [[University of Alabama at Birmingham]] researcher and physician [[Richard J. Whitley]] in 1976 where the clinical effectiveness of vidarabine was first realized, and vidarabine was used in the treatment of many viral diseases.<ref name="field"/>
+
+Vidarabine is an analog of adenosine with the D-ribose, replaced with D-arabinose. As you can see from figure 1.1 that it is a stereoisomer of adenosine.
+It has a [[half-life]] of 60 minutes, and its solubility is 0.05%, and is able to cross the [[blood–brain barrier]] (BBB) when converted to its active metabolite.<ref name="waterson">Waterson, A. P. Recent Advances in Clinical Virology (2).</ref>
+
+== Mode of action ==
+
+[[File:MECH.gif|580px]]
+
+''The Mechanism of action of vidarabine''
+
+Vidarabine works by interfering with the synthesis of viral DNA.<ref name="mm">Merck Manual. 17th Ed. Chapter 154, p.1127-1128.</ref> It is a nucleoside analog and therefore has to be phosphorylated to be active. This is a three-step process in which vidarabine is sequentially phosphorylated by kinases to the triphosphate ara-ATP. This is the active form of vidarabine and is both an inhibitor and a substrate of viral DNA polymerase.<ref name="mcguigan">McGuigan, C. Antiviral Chemotherapy – Cardiff University, 3rd Year Pharmacy Notes Lecture Notes.</ref>
+When used as a substrate for viral DNA polymerase, ara-ATP competitively inhibits dATP leading to the formation of ‘faulty’ DNA. This is where ara-ATP is incorporated into the DNA strand replacing many of the adenosine bases. This results in the prevention of DNA synthesis, as phosphodiester bridges can no longer to be built, destabilizing the strand.
+Vidarabine triphosphate (ara-ATP) also inhibits RNA polyadenylation; preventing polyadenylation essential for HIV-1 and other retroviruses; and S-adenosylhomocysteine hydrolase, preventing transmethylation reactions.
+Uniquely to vidarabine, the diphosphorylated vidarabine (ara-ADP) also has an inhibitory effect. Other nucleoside analogs need to be triphosphorlated to give any antiviral effect, but ara-ADP inhibits the enzyme ribonucleotide reductase. This prevents the reduction of nucleotide diphosphates, causing a reduction of viral replication.<ref name="mcguigan"/>
+
+== Mode of resistance ==
+
+Vidarabine is more toxic and less metabolically stable than many of the other current antivirals such as [[acyclovir]] and [[ganciclovir]]. Viral strains resistant to vidarabine show changes in [[DNA polymerase]]. It is prone to [[deamination]] by adenosine deaminase to [[inosine]].<ref>Whitley, R. J.; Tucker, B. C.; Kinkel, A. W.; Barton, N. H.; Pass, R. F.; Whelchel, J. D.; Cobbs, C. G.; Diethelm, A. G.; Buchanan, R. A. Pharmacology, Tolerance, and Antiviral Activity of Vidarabine Monophosphate In Humans.</ref> This metabolite still possesses antiviral activity, but is 10-fold less potent than vidarabine.<ref name="bmmc">Burgers Medicinal Chemistry and Drug Discovery. 6th Ed.</ref> 60% of vidarabine eliminated by the [[kidney]] is excreted as 9-β-D-arabinofuranosylhypoxanthine in the [[urine]]. Some breakdown of the purine ring may also occur, forming uric acid.
+Structural modifications of vidarabine have proven partially effective at blocking deamination, such as replacement of the amine with a methoxy group (ara-M). This results in about a 10-fold greater selectivity against [[Varicella Zoster Virus]] than ara-A, however analog of vidarabine is inactive against other viruses due to it not being able to be phosphorylated.<ref name="bmmc"/>
+The use of an inhibitor of adenosine deaminase to increase the half-life of vidarabine has also been tried, and drugs such as dCF and EHNA have been used with a small amount of success.
+
+== Synthesis, preparation and isolation ==
+
+Chemical synthesis of Vidarabine was first attained in 1960, as a part of studies on developing potential anticancer agents by B. R. Baker et al.<ref>Lee, W. W.; Benitez, A. Goodman, L.; Baker, B. R. Potential Anticancer Agents. XL. Synthesis of the β-Anomer of 9-(D-Arabinofuranosyl)adenine, J. Am. Chem. Soc. 1960, 82, 2648–2649.</ref> based on unique biological properties of 1-β-D-arabinofuranosyluracil (ara-U).<ref>Pizer, L. I.; Cohen, S. S. Abstr. 136th Meeting, Am. Chem. Soc., 1959, p. 9-C.</ref> More specifically some of its important reactions include treatments with 2'-deoxyribonucleoside phosphorylase, methyltransferase, or nucleoside phosphorylase, affording the corresponding 5'-phosphate, giving rise to no methylation at its 5-position, or no cleavage of the glycosyl bond in contrast to 5-fluoro-2'-deoxyuridine,<ref>Duschinsky, R.; Pleven, E.; Malvica, J. Heidelberger, C. Abstr. 132nd Meeting, Am. Chem. Soc., 1957, p. 19-C.</ref> respectively. This earlier work gave impetus to further synthetic studies on the nucleosides with the β-D-arabinofuranosyl moiety including Vidarabine,<ref>Glaudemans, C. P. J.; Fletcher, Jr., H. G. Syntheses with Partially Benzylated Sugars. II. A Simple Pathway to a "Cisnucleoside," 9-β-D-Arabinofuranosyladenine (Spongoadenosine), J. Org. Chem., 1963, 28, 3004–3006; Reist, E. J.; Goodman, L. Synthesis of 9-β-D-Arabinofuranosylguanine, Biochemistry, 1964, 3, 15–18; Ikehara, M.; Ogiso, Y.  Studies of Nucleosides and Nucleotides. LIV. Purine Cyclonucleosides - 19. Further Investigation on the Cleavage of the 8,2'-O-Anhydro Linkage. A New Synthesis of 9-β-D-Arabinofuranosyl-adenine, Tetrahedron, 1972, 28, 3695–3704; Ranganathan, R. A Novel Purine Nucleoside Synthesis of 9-β-D-arabinofuranosyl-adenine, Tetrahedron Lett., 1975, 1185 - 1188; Sowa, T.; Tsunoda, K. Novel Synthesis of Anhydronucleosides via 2',3'-O-Sulfinate of Purine Nucleosides as Intermediates, Bull. Chem. Soc. Jpn., 1975, 48, 3243–3245; Chattopadhyaya. J.; Reese, C. B. Reaction of 8,2'-O-Cycloadenosine with Hydrazine and Amines. Convenient Preparation of 9-β-D-Arabinofuranosyladenine, J. Chem. Soc., Chem. Commun., 1977, 414–415; Ishido, Y.; Sakairi, N.; Okazaki, K.; Nakazaki, N. Partial Protection of Carbohydrate Derivatives. Part 4. Regioselective 2'-O-Deacylation of Fully Acylated Purine and Pyrimidine Ribonucleosides with Hydroxyaminium Acetate, J. Chem. Soc., Perk. Trans. 1, 1980, 563–573.</ref> and the isolation of Vidarabine from the fermentation culture broth of Streptomyces antibioticus.<ref>No inventor data available, Fermentation of 9-(β-D-Arabinofuranosyl)adenine, Brit. (1969) GB 1159290 1969–0723.</ref>
+
+In addition to the potential anticancer properties antiviral activity of Vidarabine was also demonstrated in 1965.<ref>De Rudder, J.; Privat de Garlhe, M. Inhibitory Effect of Some Nucleosides on the Growth of Various Human Viruses in Tissue Culture, Antimicrobial Agents and Chemotherapy, 1965, 5, 578 - 584; Miller, F. A.; Dixon, G. J.; Ehrlich, J.; Sloan, B. J. McLean, Jr., I. W. Antiviral Activity of 9-β-D-Arabinofuranosyladenine. I. Cell Culture Studies, ibid.,  1968, 8, 136–147.</ref>   Particularly worthy of mention is the collaboration of efficient chemical and enzymatic reactions, i.e., transesterification from ethylene carbonate to uridine accompanied by spontaneous intramolecular elimination of carbon dioxide giving 2,2'-O-anhydro-1-β-D-arabinofuranosyluracil (anhydro-ara-U);<ref>Komura, H.; Yoshino, T.; Ishido, Y. An Easy Method of Preparing Cyclic Carbonates of Polyhydroxy Compounds by Transesterification with Ethylene Carbonate, Bull. Chem. Soc. Jpn., 1973, 46, 550–553.</ref> and acid-hydrolysis of anhydro-ara-U giving ara-U; and subsequent enzymatic transglycosylation  of the sugar moiety of ara-U to the 9-position of adenine with perfect retention of the β-configuration.<ref>Utagawa, T.; Morisawa, H.; Miyoshi, T.; Yoshinaga, F.; Yamazaki, A.; Mitsusgi, K. A Novel and Simple Method for the Preparation of Adenine Arabinoside by Bacterial Transglycosylation Reactions, FEBS Lett., 1980, 109, 261 - 263; Yokozeki, K.; Yamanaka, F.; Utagawa, T.; Takinami, K.; Hirose, Y.,; Tanaka, A.; Sonomoto, K.; Fukui, S. Production of Adenine Arabinoside by Gel-Entrapped Cells of Enterobacter aerogenes in Water-Organic Cosolvent System, Eur. J. Microbiol. Biotechnol. 1982, 14, 225 - 231; Utagawa, T.; Morisawa, H.; Yamanaka, F.; Yamazaki, A.; Mitsugi, K.; Hirose, Y. Enzymatic Synthesis of Nucleoside Antibiotics. Part 1. Microbial Synthesis of Adenine Arabinoside, Agric. Biol. Chem., 1985, 49, 1053–1058,</ref> and following papers.  Ultimately, in 1984, these pioneering syntheses led to the first commercial synthesis of Vidarabine in Japan under the trade name of "Arasena-A."   An enzymatic approach duplicating the same concept was also later reported.<ref>Roshevskaia, L. A.; Barai, V. N.; Zinchenko, A. I.; Kvasiuk, E. I.; Mikhailopulo, L. A. Preparative Synthesis of the Antiviral Nucleoside 9-β-D-Arabinofuranosyladenine by Using Bacterial Cells, Antibiot. Med. Biotekhnol., 1986, 31, 174–178.</ref>
+Furthermore, replacement of adenine with 2-fluoroadenine in the enzymatic transglycosylation reaction from ara-U to the 9-position of adenine made it bring about efficient synthesis of 2-fluoro-9-β-D-arabinofuranosyladenine (fludarabine).<ref>Caprioli, G; Colombo, P.; Farina, P.; Petricciani, L A process for the preparation of fludarabine phosphate from 2-fluroroadenine, EP1464708 A1, Oct. 6, 2004.</ref>
+
+== Selectivity ==
+
+Vidarabine is less susceptible to the development of drug resistant strains than other antivirals such as IDU, and has been used successfully in the treatment of IDU resistant viral strains.
+The half-life of the active triphosphate metabolite (ara-ATP) is three times longer in HSV-infected cells compared with uninfected cells,<ref name="bmmc"/> however the mechanism of selectivity is not known.
+
+== Clinical indication ==
+
+Vidarabine is an antiviral, active against herpes viruses, poxviruses, rhabdoviruses, hepadnaviruses and some [[RNA]] tumour viruses. A 3% ophthalmic ointment Vira-A is used in the treatment of acute keratoconjunctivitis and recurrent superficial keratitis caused by HSV-1 and HSV-2.<ref>Drug Information Online - http://www.drugs.com/MMX/Vidarabine.html</ref> Vidarabine is also used to treat herpes zoster in [[AIDS]] patients, reducing lesions formation and the duration of viral shedding.
+Many of the previous uses of vidarabine have been superseded by [[acyclovir]], due to the hospitalisation required for intra venous dosing, and acyclovir has a higher selectivity, lower inhibitory concentration and higher potency.
+Toxic side effects are rare, but have been reported with high concentrations of vidarabine, such as nausea, vomiting, [[leukopenia]] and [[thrombocytopenia]] in patients receiving high intravenous doses daily.
+
+== References ==
+{{Reflist|2}}
+
+{{Antivirals}}
+
+[[Category:Anti-herpes virus drugs]]
+[[Category:Purines]]
+[[Category:SRI International]]
+[[Category:Arabinosides]]

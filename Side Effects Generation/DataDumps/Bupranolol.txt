@@ -1,0 +1,78 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 460123491
+| IUPAC_name = (''RS'')-1-(''tert''-butylamino)-3-(2-chloro-5-methylphenoxy)propan-2-ol
+| image = Bupranolol.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|bupranolol}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Oral, topical (eye drops)
+
+<!--Pharmacokinetic data-->
+| bioavailability = < 10%
+| protein_bound = 76%
+| metabolism = First pass elimination > 90%
+| elimination_half-life = 2-4 hours (plasma)
+| excretion = > 88% renal (as carboxybupranolol)
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 23284-25-5
+| CAS_supplemental =  
+| ATC_prefix = C07
+| ATC_suffix = AA19
+| ATC_supplemental =  
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 305380
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C14H22ClNO2/c1-10-5-6-12(15)13(7-10)18-9-11(17)8-16-14(2,3)4/h5-7,11,16-17H,8-9H2,1-4H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = HQIRNZOQPUAHHV-UHFFFAOYSA-N
+| PubChem = 2475
+| IUPHAR_ligand = 550
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB08808
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2381
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 858YGI5PIT
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D07590
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=14 | H=22 | Cl=1 | N=1 | O=2 
+| molecular_weight = 271.78298 g/mol
+| smiles = CC1=CC(=C(C=C1)Cl)OCC(CNC(C)(C)C)O
+}}
+
+'''Bupranolol''' is a non-selective [[beta blocker]] without intrinsic sympathomimetic activity (ISA), but with strong membrane stabilizing activity. Its potency is similar to [[propranolol]].
+
+==Uses and dosage==
+Like other beta blockers, oral bupranolol can be used to treat [[hypertension]] and [[tachycardia]]. The initial dose is 50&nbsp;mg two times a day. It can be increased to 100&nbsp;mg four times a day. Bupranolol eye drops (0.05%-0.5%) are used against [[glaucoma]].
+
+== Pharmacology ==
+Bupranolol is quickly and completely absorbed from the gut. Over 90% undergo [[first-pass metabolism]]. Bupranolol has a plasma half life of about two to four hours, with levels never reaching 1&nbsp;µg/l in therapeutic doses. The main metabolite is carboxybupranolol, 4-chloro-3-[3-(1,1-dimethylethylamino)-2-hydroxy-propyloxy]benzoic acid &ndash; that is, the methyl group at the benzene ring is oxidized to a [[carboxyl]] group &ndash;, of which 88% are eliminated renally within 24 hours.
+
+== Adverse effects, contraindications, interactions ==
+Adverse effects, contraindications and interactions are similar to other beta blockers.
+
+== References ==
+* {{cite book|title=Arzneistoff-Profile|editor1=Dinnendahl, V |editor2=Fricke, U |publisher=Govi Pharmazeutischer Verlag|location=Eschborn, Germany|date=2007|edition=21|volume=2|isbn=978-3-7741-9846-3|language=German}}
+
+{{beta blockers}}
+
+[[Category:Antiarrhythmic agents]]
+[[Category:Beta blockers]]
+[[Category:Chloroarenes]]
+[[Category:Phenol ethers]]
+[[Category:Alcohols]]

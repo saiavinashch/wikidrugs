@@ -1,0 +1,56 @@
+{{Drugbox
+| IUPAC_name = ''trans''-4-(tert-butylsulfonylamino)-N-[5-(trifluoromethyl)pyridin-2-yl]cyclohexane-1-carboxamide
+| image = Velneperit_structure.png
+| width = 240
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA =  
+| legal_UK =  
+| legal_US = <!-- Schedule I / Schedule II / Schedule III -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number = 342577-38-2 
+| ATC_prefix = None
+| ATC_suffix =  
+| PubChem = 20629114
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID      = 25948511
+| ChEMBL            = 
+
+<!--Chemical data-->
+| C=17 | H=24 | F=3 | N=3 | O=3 | S=1 
+| molecular_weight = 407.451 g/mol
+| smiles = CC(C)(C)S(=O)(=O)NC2CCC(CC2)C(=O)Nc1ncc(C(F)(F)F)cc1
+| StdInChI          = 1S/C17H24F3N3O3S/c1-16(2,3)27(25,26)23-13-7-4-11(5-8-13)15(24)22-14-9-6-12(10-21-14)17(18,19)20/h6,9-11,13,23H,4-5,7-8H2,1-3H3,(H,21,22,24)/t11-,13-
+| StdInChIKey       = WGEWUYACXPEFPO-AULYBMBSSA-N
+| synonyms = 
+}}
+
+'''Velneperit''' ('''S-2367''') is a drug developed by [[Shionogi]], which acts as a potent and selective [[Receptor antagonist|antagonist]] for the [[Neuropeptide Y]] [[Receptor (biochemistry)|receptor]] [[Neuropeptide Y receptor Y5|Y<sub>5</sub>]]. It has [[anorectic]] effects and was developed as a possible treatment for [[obesity]], but was discontinued from further development after disappointing results in Phase II clinical trials. However it was still considered a successful proof of concept of the potential of Y<sub>5</sub> receptor antagonists as possible anti-obesity agents in future.<ref>Yukioka H. A potent and selective neuropeptide Y Y5-receptor antagonist, S-2367, as an anti-obesity agent. (Japanese). ''Nihon Yakurigaku Zasshi''. 2010 Nov;136(5):270-4. {{PMID|21079365}}</ref><ref>Oda S, et al. Development of an Optimized Synthetic and Purification Process of S-2367 (Velneperit), a Novel Neuropeptide Y (NPY) Y5 Receptor Antagonist. ''Org. Process Res. Dev.'' 2015; 19(4):531–536. doi: 10.1021/acs.oprd.5b00023</ref><ref>George M, Rajaram M, Shanmugam E. New and emerging drug molecules against obesity. ''J Cardiovasc Pharmacol Ther''. 2014 Jan;19(1):65-76. doi: 10.1177/1074248413501017 {{PMID|24064009}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Neuropeptide agonists and antagonists}}
+
+[[Category:Neuropeptide Y antagonists]]
+[[Category:Tert-butyl compounds]]
+[[Category:Sulfonamides]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Carboxamides]]
+
+
+{{nervous-system-drug-stub}}

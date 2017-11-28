@@ -1,0 +1,149 @@
+{{distinguish|apatinib}}
+{{Use dmy dates|date=February 2015}}
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 645735594
+| IUPAC_name = ''N''-[4-[(3-Chloro-4-fluorophenyl)amino]-7-<nowiki>[[</nowiki>(3''S'')-tetrahydro-3-furanyl]oxy]-6-quinazolinyl]-4(dimethylamino)-2-butenamide
+| image =Afatinib2DACS.svg
+
+<!--Clinical data-->
+| tradename = Gilotrif, Giotrif
+| Drugs.com = {{Drugs.com|MTM|afatinib}}
+| licence_EU = Gilotrif
+| licence_US = Afatinib
+| pregnancy_AU = C
+| pregnancy_US = D
+| pregnancy_category = 
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status = 
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 95%
+| metabolism = [[Cytochrome P450|CYP]] not involved
+| elimination_half-life = 37 hours
+| excretion = Faeces (85%), urine (4%)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5667
+| CAS_number_Ref = {{cascite|correct|Drugbank}}
+| CAS_number = 850140-72-6
+| CAS_supplemental =  
+| ATC_prefix = L01
+| ATC_suffix = XE13
+| ATC_supplemental =  
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1173655
+| PubChem = 10184653
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  DB08916
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 8360155
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 41UD74L59M
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 61390
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D09724
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=24 | H=25 | Cl=1 | F=1 | N=5 | O=3 
+| molecular_weight = 485.937 g/mol
+| smiles = CN(C)C\C=C\C(=O)Nc3cc1c(Nc(cc2Cl)ccc2F)ncnc1cc3OC4COCC4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C24H25ClFN5O3/c1-31(2)8-3-4-23(32)30-21-11-17-20(12-22(21)34-16-7-9-33-13-16)27-14-28-24(17)29-15-5-6-19(26)18(25)10-15/h3-6,10-12,14,16H,7-9,13H2,1-2H3,(H,30,32)(H,27,28,29)/b4-3+/t16-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ULXXDDBFHOBEHA-CWDCEQMOSA-N
+| synonyms = BIBW 2992
+}}
+
+'''Afatinib''' ([[International Nonproprietary Name|INN]]; trade name '''Gilotrif''' in the US and '''Giotrif''' in Europe, previously '''Tomtovok''' and '''Tovok'''<ref name="cancergrace" />) is a drug approved in [[United States]], [[Europe]], [[Taiwan]], [[Mexico]], [[Chile]] and [[Japan]] as well as other countries for the first-line treatment of patients with distinct types of metastatic (EGFR mutation positive) [[non-small cell lung carcinoma]] (NSCLC), developed by [[Boehringer Ingelheim]].<ref name="Spreitzer" /><ref name="Minkovsky" /><ref name="FDA" /> It acts as an irreversible covalent inhibitor of the [[receptor tyrosine kinase]]s epidermal growth factor receptor ([[epidermal growth factor receptor|EGFR]]) and erbB-2 ([[HER2/neu|HER2]]).
+
+==Medical uses==
+It has received regulatory approval for use as a treatment for non-small cell lung cancer,<ref name = DM/><ref name = TGA/><ref name =EMC/><ref name = EMA/> although there is emerging evidence to support its use in other cancers such as breast cancer.<ref name = Lin/>
+
+==Adverse effects==
+Adverse effects by frequency include:<ref name = DM>{{cite web|title=GILOTRIF (afatinib) tablet, film coated [Boehringer Ingelheim Pharmaceuticals, Inc.]|work=DailyMed|publisher=Boehringer Ingelheim Pharmaceuticals, Inc.|date=November 2013|accessdate=28 January 2014|url=http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fd638e5e-8032-e7ca-0179-95e96ab5d387}}</ref><ref name = TGA>{{cite web|title=GIOTRIF® Afatinib (as afatinib dimaleate)|work=TGA eBusiness Services|publisher=Boehringer Ingelheim Pty Limited|date=7 November 2013|accessdate=28 January 2014|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2013-PI-02417-1|format=PDF}}</ref><ref name = EMC>{{cite web|title=Giotrif 20 mg film-coated tablets – Summary of Product Characteristics (SPC)|work=electronic Medicines Compendium|publisher=Boehringer Ingelheim Limited|date=20 January 2014|accessdate=28 January 2014|url=http://www.medicines.org.uk/emc/medicine/28353/SPC/Giotrif+20+mg+film-coated+tablets/}}</ref><ref name = EMA>{{cite web|title=Giotrif : EPAR -Product Information|work=European Medicines Agency|publisher=Boehringer Ingelheim International GmbH|date=16 October 2013|accessdate=28 January 2014|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/002280/WC500152392.pdf|format=PDF}}</ref><ref name = MSR>{{cite web|title=Gilotrif (afatinib) dosing, indications, interactions, adverse effects, and more|work=Medscape Reference|publisher=WebMD|accessdate=28 January 2014|url=http://reference.medscape.com/drug/gilotrif-afatinib-999864#showall}}</ref>
+
+;Very common (>10% frequency):
+{{colbegin|4}}
+* Diarrhea (>90%)
+* Rash/dermatitis acneform
+* [[Stomatitis]]
+* [[Paronychia]]
+* Decreased appetite
+* [[Epistaxis|Nose bleed]]
+* [[Pruritus|Itchiness]]
+* Dry skin
+{{colend}}
+
+;Common (1–10% frequency):
+{{colbegin|4}}
+* Dehydration
+* [[Dysgeusia|Taste changes]]
+* Dry eye
+* [[Cystitis]]
+* [[Cheilitis]]
+* [[Pyrexia|Fever]]
+* [[Rhinorrhoea|Runny/stuffy nose]]
+* [[Hypokalaemia|Low amount of potassium in the blood]]
+* [[Conjunctivitis]]
+* Increased ALT
+* Increased AST
+* [[Hand-foot syndrome]]
+* Muscle spasms
+* Kidney impairment and/or failure
+{{colend}}
+
+;Uncommon (0.1-1% frequency):
+* [[Keratitis]]
+* [[Interstitial lung disease]]
+
+== Mechanism of action ==
+Like [[lapatinib]] and [[neratinib]], afatinib is a [[protein kinase inhibitor]] that also irreversibly inhibits human epidermal growth factor receptor 2 (Her2) and [[epidermal growth factor receptor]] (EGFR) kinases. Afatinib is not only active against EGFR mutations targeted by first generation [[tyrosine-kinase inhibitor]]s (TKIs) like [[erlotinib]] or [[gefitinib]], but also against mutations such as T790M which are not sensitive to these standard therapies.<ref>{{cite journal|last1=Li|title=BIBW2992, an irreversible EGFR/HER2 inhibitor highly effective in preclinical lung cancer models|journal=Oncogene|year=2008|volume=27|pages=4702–4711|pmid=18408761|doi=10.1038/onc.2008.109|pmc=2748240}}</ref> Because of its additional activity against Her2, it is being investigated for breast cancer as well as other EGFR and Her2 driven cancers.<ref name="Minkovsky" />
+
+[[File:Afatinib mechanism.svg|thumb|left|upright=2|Afatinib [[covalent]]ly binds to [[cysteine]] number 797 of the [[epidermal growth factor receptor]] (EGFR) via a [[Michael addition]] ([[IC50|IC<sub>50</sub>]] = 0.5&nbsp;[[nanomolar|nM]]).<ref>Schubert-Zsilavecz, M, Wurglics, M, ''Neue Arzneimittel Frühjahr 2013''. {{de icon}}</ref>]]
+
+==Clinical trials==
+In March 2010 a Phase III trial in NSCLC patients called ''Lux-Lung 5'' began with this drug.<ref name="LUX-Lung 5" />
+Fall 2010 interim results suggested the drug extended [[progression-free survival]] threefold compared to placebo, but did not extend overall survival.<ref name="businesswire" /> In May 2012, the Phase IIb/III trial ''Lux-Lung 1'' came to the same conclusion.<ref name="Miller" />
+
+In January 2015 a Phase III trial in people with NSCLC suggested the drug extended life expectancy in stage IV NSCLC adenocarcinoma with EGFR Mutation type del 19-positive tumors, compared to cisplatin-based chemotherapy by a year (33 months vs. 21 months).<ref>{{cite journal|last1=Yang|first1=JC|last2=Wu|first2=YL|last3=Schuler|first3=M|last4=Sebastian|first4=M|last5=Popat|first5=S|last6=Yamamoto|first6=N|last7=Zhou|first7=C|last8=Hu|first8=CP|last9=O'Byrne|first9=K|last10=Feng|first10=J|last11=Lu|first11=S|last12=Huang|first12=Y|last13=Geater|first13=SL|last14=Lee|first14=KY|last15=Tsai|first15=CM|last16=Gorbunova|first16=V|last17=Hirsh|first17=V|last18=Bennouna|first18=J|last19=Orlov|first19=S|last20=Mok|first20=T|last21=Boyer|first21=M|last22=Su|first22=WC|last23=Lee|first23=KH|last24=Kato|first24=T|last25=Massey|first25=D|last26=Shahidi|first26=M|last27=Zazulina|first27=V|last28=Sequist|first28=LV|title=Afatinib versus cisplatin-based chemotherapy for EGFR mutation-positive lung adenocarcinoma (LUX-Lung 3 and LUX-Lung 6): analysis of overall survival data from two randomised, phase 3 trials |journal=The Lancet Oncology|date=February 2015|volume=16|issue=2|pages=141–51|pmid=25589191|doi=10.1016/s1470-2045(14)71173-8}}</ref>  It also shows strong activity against [[exon]] 18 mutations (particularly G719) and is currently the preferred EGFR-TKI therapy for exon 18 mutations (particularly G719x).<ref>{{cite journal|journal=Clin Cancer Res|year=2015|volume=21|issue=23|pages=5305–13|title=EGFR Exon 18 Mutations in Lung Cancer: Molecular Predictors of Augmented Sensitivity to Afatinib or Neratinib as Compared with First- or Third-Generation TKIs|last1=Kobayashi|first1=Y|pmid=26206867|doi=10.1158/1078-0432.CCR-15-1046}}</ref>{{Verify source|date=September 2016}}
+
+Phase II results for breast cancer that over-expresses the protein [[human epidermal growth factor receptor 2]] (Her2-positive breast cancer) were described as promising by the authors, with 19 of 41 patients achieving benefit from afatinib.<ref name="Lin" /> [[Double-blind]] Phase III trials are under way to confirm or refute this finding. Her2-negative breast cancers showed limited or no response to the drug.<ref name="Schuler" />
+
+== References ==
+{{reflist|2|refs=
+<ref name="cancergrace">{{cite news|url=http://cancergrace.org/lung/2010/10/18/afatinib-bibw-2992-tomtovok-wins-a-battle-pfs-but-loses-the-war-os-for-egfr-tki-sensitive-patients/|title=Afatinib (BIBW-2992, Tomtovok) wins a battle (PFS) but loses the war (OS) for EGFR TKI-sensitive patients|publisher=GRACE|date=18 October 2010}}</ref>
+<!--ref name="Lux-Breast">{{ClinicalTrialsGov|NCT01125566|LUX-Breast 1: BIBW 2992 (Afatinib) in HER2-positive Metastatic Breast Cancer Patients After One Prior Herceptin Treatment}}</ref-->
+<!--ref name="Prostate">{{ClinicalTrialsGov|NCT01320280|BIBW 2992 (Afatinib) for the Treatment of Patients With HER2-positive, Hormone-refractory Prostate Cancer}}</ref-->
+<!--ref name="Lux-Head&Neck">{{ClinicalTrialsGov|NCT01345669|LUX-Head&Neck 2: A Phase III Trial of Afatinib (BIBW 2992) Versus Placebo for the Treatment of Head and Neck Squamous Cell Cancer After Treatment With Chemo-radiotherapy}}</ref-->
+<!--ref name="Glioma">{{ClinicalTrialsGov|NCT00977431|Open Label Trial to Explore Safety of Combining Afatinib (BIBW 2992) and Radiotherapy With or Without Temozolomide in Newly Diagnosed Glioblastoma Multiform}}</ref-->
+<ref name="Spreitzer">{{cite journal | author = H. Spreitzer | date = 13 May 2008 | title = Neue Wirkstoffe – Tovok | journal = Österreichische Apothekerzeitung | issue = 10/2008 | pages = 498 | language = German }}
+</ref>
+<ref name="Minkovsky">{{cite journal |vauthors=Minkovsky N, Berezov A | title = BIBW-2992, a dual receptor tyrosine kinase inhibitor for the treatment of solid tumors | journal = Curr Opin Investig Drugs | volume = 9 | issue = 12 | pages = 1336–46 | date = December 2008 | pmid = 19037840 }}</ref>
+<ref name="FDA">{{cite news|url=http://www.fda.gov/Drugs/InformationOnDrugs/ApprovedDrugs/ucm360574.htm|title=Afatinib|publisher=US Food and Drug Administration|date=12 July 2013}}</ref>
+<ref name="LUX-Lung 5">{{ClinicalTrialsGov|NCT01085136|LUX-Lung 5: BIBW 2992 Plus Weekly Paclitaxel Versus Investigator's Choice of Single Agent Chemotherapy Following BIBW 2992 Monotherapy in Non-small Cell Lung Cancer Patients Failing Erlotinib or Gefitinib}}</ref>
+<ref name="businesswire">{{cite news|url=http://www.businesswire.com/news/home/20101011005810/en/Afatinib-BIBW-2992*-Triples-Progression-Free-Survival|title=Afatinib (BIBW 2992*) Triples Progression Free Survival in Phase III Study in Lung Cancer Patients|publisher=BusinessWire|date=11 October 2010}}</ref>
+<ref name="Schuler">{{cite journal |vauthors=Schuler M, Awada A, Harter P, Canon JL, Possinger K, Schmidt M, De Grève J, Neven P, Dirix L, Jonat W, Beckmann MW, Schütte J, Fasching PA, Gottschalk N, Besse-Hammer T, Fleischer F, Wind S, Uttenreuther-Fischer M, Piccart M, Harbeck N | title = A phase II trial to assess efficacy and safety of afatinib in extensively pretreated patients with HER2-negative metastatic breast cancer | journal = Breast Cancer Research and Treatment | volume = 134 | issue = 3 | pages = 1149–59 | year = 2012 | pmid = 22763464 | pmc = 3409367 | doi = 10.1007/s10549-012-2126-1 }}</ref>
+<ref name="Lin">{{cite journal |vauthors=Lin NU, Winer EP, Wheatley D, Carey LA, Houston S, Mendelson D, Munster P, Frakes L, Kelly S, Garcia AA, Cleator S, Uttenreuther-Fischer M, Jones H, Wind S, Vinisko R, Hickish T | title = A phase II study of afatinib (BIBW 2992), an irreversible ErbB family blocker, in patients with HER2-positive metastatic breast cancer progressing after trastuzumab | journal = Breast Cancer Research and Treatment | volume = 133 | issue = 3 | pages = 1057–65 | year = 2012 | pmid = 22418700 | pmc = 3387495 | doi = 10.1007/s10549-012-2003-y }}</ref>
+<ref name="Miller">{{cite journal |vauthors=Miller VA, Hirsh V, Cadranel J, Chen YM, Park K, Kim SW, Zhou C, Su WC, Wang M, Sun Y, Heo DS, Crino L, Tan EH, Chao TY, Shahidi M, Cong XJ, Lorence RM, Yang JC | title = Afatinib versus placebo for patients with advanced, metastatic non-small-cell lung cancer after failure of erlotinib, gefitinib, or both, and one or two lines of chemotherapy (LUX-Lung 1): A phase 2b/3 randomised trial | journal = The Lancet Oncology | volume = 13 | issue = 5 | pages = 528–38 | year = 2012 | pmid = 22452896 | doi = 10.1016/S1470-2045(12)70087-6 }}</ref>
+}}
+
+{{Extracellular chemotherapeutic agents}}
+{{Growth factor receptor modulators}}
+
+[[Category:Receptor tyrosine kinase inhibitors]]
+[[Category:Chloroarenes]]
+[[Category:Fluoroarenes]]
+[[Category:Quinazolines]]
+[[Category:Phenol ethers]]
+[[Category:Tetrahydrofurans]]
+[[Category:Aromatic amines]]
+[[Category:Carboxamides]]
+[[Category:Covalent inhibitors]]

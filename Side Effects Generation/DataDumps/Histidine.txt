@@ -1,0 +1,128 @@
+{{chembox
+| Verifiedimages = changed
+| Watchedfields = changed
+| verifiedrevid = 443858318
+| Name = <small>L</small>-Histidine
+| ImageFileL1_Ref = {{chemboximage|correct|??}}
+| ImageFileL1 = L-Histidine physiological.svg
+| ImageSizeL1 = 175
+| ImageFileR1 = L-histidine-zwitterion-from-xtal-1993-3D-balls-B.png
+| ImageSizeR1 = 125
+| IUPACName = Histidine
+| OtherNames = 2-Amino-3-(1''H''-imidazol-4-yl)propanoic acid
+
+| Section1 = {{Chembox Identifiers
+| IUPHAR_ligand = 3310
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 6038
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 4QD397987E
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00032
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 17962
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 57595 
+| SMILES = O=C([C@H](CC1=CNC=N1)N)O
+| SMILES1 = O=C(O)[C@@H](N)Cc1c[nH]cn1
+| InChI = 1S/C6H9N3O2/c7-5(6(10)11)1-4-2-8-3-9-4/h2-3,5H,1,7H2,(H,8,9)(H,10,11)/t5-/m0/s1
+| InChIKey = HNDVDQJCIGZPNO-YFKPBYRVSA-N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C6H9N3O2/c7-5(6(10)11)1-4-2-8-3-9-4/h2-3,5H,1,7H2,(H,8,9)(H,10,11)/t5-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = HNDVDQJCIGZPNO-YFKPBYRVSA-N
+| CASNo = 71-00-1
+| CASNo_Ref = {{cascite|correct|CAS}}
+| PubChem = 773
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00117
+}}
+|Section2={{Chembox Properties
+| C=6 | H=9 | N=3 | O=2
+| Appearance = 
+| Density = 
+| MeltingPt = 
+| BoilingPt = 
+| Solubility = 4.19g/100g @ 25&nbsp;°C <ref>http://prowl.rockefeller.edu/aainfo/solub.htm{{full citation needed|date=March 2015}}</ref>
+}}
+|Section3={{Chembox Hazards
+| NFPA-H = 1
+| NFPA-F = 1
+| NFPA-R = 0
+| MainHazards = 
+| FlashPt = 
+| AutoignitionPt = }}
+}}
+
+'''Histidine''' (abbreviated as '''His''' or '''H'''; encoded by the [[Genetic code|codons]] '''CAU''' and '''CAC''') is an [[Amino acid|α-amino acid]] that is used in the biosynthesis of [[protein]]s. It contains an [[Amine|α-amino group]] (which is in the protonated –NH<sub>3</sub><sup>+</sup> form under [[Physiological condition|biological conditions]]), a [[carboxylic acid]] group (which is in the deprotonated –COO<sup>−</sup> form under biological conditions), and an [[imidazole]] side chain (which is partially protonated), classifying it as a positively charged amino acid at physiological pH. Initially thought [[essential amino acid|essential]] only for infants, longer-term studies have shown it is essential for adults also.<ref>{{cite journal |doi=10.1172/JCI108016 |title=Evidence that histidine is an essential amino acid in normal and chronically uremic man |year=1975 |last1=Kopple |first1=J D |last2=Swendseid |first2=M E |journal=Journal of Clinical Investigation |volume=55 |issue=5 |pages=881–91 |pmid=1123426 |pmc=301830}}</ref>
+
+Histidine was first isolated by German physician [[Albrecht Kossel]] and Sven Hedin in 1896.<ref>{{Cite journal|title = ON THE SEPARATION OF HISTIDINE AND ARGININE IV. THE PREPARATION OF HISTIDINE|url = http://www.jbc.org/content/78/3/627|journal = Journal of Biological Chemistry|date = 1928-08-01|issn = 0021-9258|pages = 627–635|volume = 78|issue = 3|language = en|first = Hubert Bradford|last = Vickery|first2 = Charles S.|last2 = Leavenworth}}</ref> It is also a precursor to [[histamine]], a vital inflammatory agent in immune responses. The acyl [[radical (chemistry)|radical]] is '''histidyl'''.
+
+==Chemical properties==
+The conjugate acid (protonated form) of the [[imidazole]] [[side chain]] in histidine has a [[Acid dissociation constant|p''K''<sub>a</sub>]] of approximately 6.0.  This means that, at physiologically relevant pH values, relatively small shifts in [[pH]] will change its average charge. Below a pH of 6, the imidazole ring is mostly [[Protonation|protonated]] as described by the [[Henderson–Hasselbalch equation]].  When protonated, the imidazole ring bears two NH bonds and has a positive charge. The positive charge is equally distributed between both [[nitrogen]]s and can be represented with two equally important [[resonance structure]]s.  As the pH increases past approximately 6, one of the protons is lost.  The remaining proton of the now-neutral imidazole ring can reside on either nitrogen, giving rise to what are known as the N1-H or N3-H [[tautomer]]s.  The N3-H tautomer, shown in the figure above, is protonated on the #3 nitrogen, farther from the amino acid backbone bearing the amino and carboxyl groups, whereas the N1-H tautomer is protonated on the nitrogen nearer the backbone.
+
+=== NMR and tautomerism ===
+When both imidazole ring nitrogens are protonated, their <sup>15</sup>N chemical shifts are similar (about 200 ppm, relative to [[nitric acid]] on the sigma scale, on which increased shielding corresponds to increased [[chemical shift]]).  [[NMR]] shows that the chemical shift of N1-H drops slightly, whereas the chemical shift of N3-H drops considerably (about 190 vs. 145 ppm).  This indicates that the N1-H tautomer is preferred, it is presumed due to hydrogen bonding to the neighboring [[ammonium]].  The shielding at N3 is substantially reduced due to the second-order [[Paramagnetism|paramagnetic]] effect, which involves a symmetry-allowed interaction between the nitrogen lone pair and the excited π* states of the [[aromatic ring]].  As the pH rises above 9, the chemical shifts of N1 and N3 become approximately 185 and 170 ppm.  An entirely deprotonated form of the imidazole ring, the imidazolate ion, would be formed only above a pH of 14, and is therefore not physiologically relevant.  This change in chemical shifts can be explained by the presumably decreased hydrogen bonding of an [[amine]] over an ammonium ion, and the favorable hydrogen bonding between a [[carboxylate]] and an NH.  This should act to decrease the N1-H tautomer preference.<ref>{{cite book|title=ABCs of FT-NMR|last=Roberts|first=John D.|publisher=University Science Books|year=2000|isbn=978-1-891389-18-4|location=Sausalito, CA|pages=258–9}}</ref>
+
+===Aromaticity===
+The imidazole ring of histidine is [[aromatic]] at all pH values.<ref>{{cite journal |doi=10.1016/S0022-2860(03)00282-5 |title=Five-membered heterocycles. Part III. Aromaticity of 1,3-imidazole in 5+n hetero-bicyclic molecules |year=2003 |last1=Mrozek |first1=Agnieszka |last2=Karolak-Wojciechowska |first2=Janina |last3=Kieć-Kononowicz |first3=Katarzyna |journal=Journal of Molecular Structure |volume=655 |issue=3 |pages=397–403 |bibcode=2003JMoSt.655..397M}}</ref> It contains six [[pi electron]]s: four from two [[double bond]]s and two from a nitrogen [[lone pair]].  It can form [[pi stacking]] interactions,<ref>{{cite journal |doi=10.1021/bi0615689 |title=A Histidine/Tryptophan π-Stacking Interaction Stabilizes the Heme-Independent Folding Core of Microsomal Apocytochrome b5Relative to that of Mitochondrial Apocytochrome b5 |year=2006 |last1=Wang |first1=Lijun |last2=Sun |first2=Na |last3=Terzyan |first3=Simon |last4=Zhang |first4=Xuejun |last5=Benson |first5=David R. |journal=Biochemistry |volume=45 |issue=46 |pages=13750–9 |pmid=17105194}}</ref> but is complicated by the positive charge.<ref>{{cite journal |doi=10.1021/ja00766a075 |title=Base stacking and hydrogen bonding in crystals of imidazolium dihydrogen orthophosphate |year=1972 |last1=Blessing |first1=Robert H. |last2=McGandy |first2=Edward L. |journal=Journal of the American Chemical Society |volume=94 |issue=11 |pages=4034–4035}}</ref>  It does not absorb at 280&nbsp;nm in either state, but does in the lower UV range more than some amino acids.<ref>{{cite journal |doi=10.1246/cl.2007.1256 |title=Absorption Spectra of Imidazolium Ionic Liquids |year=2007 |last1=Katoh |first1=Ryuzi |journal=Chemistry Letters |volume=36 |issue=10 |pages=1256–1257}}</ref><ref>{{cite journal |pmid=14907727 |url=http://www.jbc.org/cgi/pmidlookup?view=long&pmid=14907727 |title=The Ultraviolet Absorption Spectra of Proteins |date=1951-11-01 |author1=A. Robert Goldfarb |journal=Journal of Biological Chemistry |volume=193 |issue=1 |pages=397–404 |last2=Saidel |first2=LJ |last3=Mosovich |first3=E}}</ref>
+
+===Biochemistry===
+[[Image:Succinate Dehygrogenase 1YQ3 Haem group.png|thumb|The histidine-bound [[heme]] group of [[succinate dehydrogenase]], an [[electron carrier]] in the [[mitochondria]]l [[electron transfer chain]]. The large semi-transparent sphere indicates the location of the [[iron]] [[ion]]. From {{PDB|1YQ3}}.|205x205px]]
+The imidazole sidechain of histidine is a common coordinating [[ligand]] in [[metalloprotein]]s and is a part of [[catalyst|catalytic]] sites in certain [[enzyme]]s. It has the ability to switch between protonated and unprotonated states, which allows histidine to participate in acid-base catalysis.<ref name=":0">{{Cite journal|last=Ingle|first=Robert A.|title=Histidine Biosynthesis|url=http://www.bioone.org/doi/full/10.1199/tab.0141|journal=The Arabidopsis Book|volume=9|pages=e0141|doi=10.1199/tab.0141|pmc=3266711|pmid=22303266}}</ref> In [[catalytic triad]]s, the basic nitrogen of histidine is used to abstract a proton from [[serine]], [[threonine]], or [[cysteine]] to activate it as a [[nucleophile]]. In a histidine [[proton shuttle]], histidine is used to quickly shuttle protons. It can do this by abstracting a proton with its basic nitrogen to make a positively charged intermediate and then use another molecule, a buffer, to extract the proton from its acidic nitrogen. In [[carbonic anhydrase]]s, a histidine proton shuttle is utilized to rapidly shuttle protons away from a [[zinc]]-bound water molecule to quickly regenerate the active form of the enzyme. Histidine is also important in [[haemoglobin]] in helices E and F. Histidine assists in stabilising oxyhaemoglobin and destabilising CO-bound haemoglobin. As a result, [[carbon monoxide]] binding is only 200 times stronger in haemoglobin, compared to 20,000 times stronger in free [[haem]].
+
+==Metabolism==
+
+=== Biosynthesis ===
+[[File:WP514 85639.svg|thumb|775x775px|'''Histidine Biosynthesis Pathway'''
+Eight different enzymes can catalyze ten reactions. In this image, His4 catalyzes four different reactions in the pathway. 
+]]
+Histidine, also referred to as <small>L</small>-histidine, is an essential amino acid that is not synthesized ''[[De novo synthesis|de novo]]'' in humans.<ref>Roche Biochemical Pathways Map [http://web.expasy.org/pathways/ Roche biochemical pathways map]</ref> Humans and other animals must ingest histidine or histidine-containing proteins. The biosynthesis of histidine has been widely studied in prokaryotes such as ''E. coli''. Histidine synthesis in ''E. coli'' involves eight gene products (His1, 2, 3, 4, 5, 6, 7, and 8) and it occurs in ten steps. This is possible because a single gene product has the ability to catalyze more than one reaction. For example, as shown in the pathway, [[Histidinol dehydrogenase|His4]] catalyzes 4 different steps in the pathway.<ref name=":1">{{Cite journal|last=Alifano|first=P|last2=Fani|first2=R|last3=Liò|first3=P|last4=Lazcano|first4=A|last5=Bazzicalupo|first5=M|last6=Carlomagno|first6=M S|last7=Bruni|first7=C B|date=1996-03-01|title=Histidine biosynthetic pathway and genes: structure, regulation, and evolution.|journal=Microbiological Reviews|volume=60|issue=1|pages=44–69|issn=0146-0749|pmc=239417|pmid=8852895}}</ref>
+
+Histidine is synthesized from [[phosphoribosyl pyrophosphate]] (PRPP), a biochemical intermediate, which is made from [[ribose-5-phosphate]] by [[ribose-phosphate diphosphokinase]] during the [[pentose phosphate pathway]]. The first reaction of histidine biosynthesis is the condensation of PRPP and [[adenosine triphosphate]] (ATP) by the enzyme [[ATP phosphoribosyltransferase|ATP-phosphoribosyl transferase]]. ATP-phosphoribosyl tranferase is indicated by His1 in the image.<ref name=":1" /> His4 gene product then hydrolyzes the product of the condensation, phosphoribosyl-ATP, producing phosphoribosyl-AMP (PRAMP), which is an irreversible step. His4 then catalyzes the formation of phosphoribosylformiminoAICAR-phosphate, which is then converted to phosphoribulosylformimino-AICAR-P by the His6 gene product.<ref name=":2">{{Cite journal|last=Kulis-Horn|first=Robert K|last2=Persicke|first2=Marcus|last3=Kalinowski|first3=Jörn|date=2014-01-01|title=Histidine biosynthesis, its regulation and biotechnological application in Corynebacterium glutamicum|journal=Microbial Biotechnology|volume=7|issue=1|pages=5–25|doi=10.1111/1751-7915.12055|issn=1751-7915|pmc=3896937|pmid=23617600}}</ref> His7 splits phosphoribulosylformimino-AICAR-P to form <small>D</small>-erythro-imidazole-glycerol-phosphate. After, His3 forms imidazole acetol-phosphate releasing water. His5 then makes <small>L</small>-histidinol-phosphate, which is then hydrolyzed by His2 making [[histidinol]]. [[Histidinol dehydrogenase|His4]] catalyzes the oxidation of <small>L</small>-histidinol to form <small>L</small>-histidinal, an amino aldehyde. In the last step, <small>L</small>-histidinal is converted to <small>L</small>-histidine.<ref name=":2" /><ref>{{Cite journal|last=Adams|first=E.|date=1955-11-01|title=L-Histidinal, a biosynthetic precursor of histidine|journal=The Journal of Biological Chemistry|volume=217|issue=1|pages=325–344|issn=0021-9258|pmid=13271397}}</ref>
+
+Just like animals and microorganisms, plants need histidine for their growth and development.<ref name=":0" /> Microorganisms and plants are similar in that they can synthesize histidine.<ref>{{Cite web|url=http://genetics.thetech.org/ask/ask396|title=Understanding Genetics|website=genetics.thetech.org|access-date=2016-05-19}}</ref> Both synthesize histidine from the biochemical intermediate phosphoribosyl pyrophosphate. In general, the histidine biosynthesis is very similar in plants and microorganisms.<ref>{{Cite journal|last=Stepansky|first=A.|last2=Leustek|first2=T.|date=2006-03-01|title=Histidine biosynthesis in plants|journal=Amino Acids|volume=30|issue=2|pages=127–142|doi=10.1007/s00726-005-0247-0|issn=0939-4451|pmid=16547652}}</ref>
+
+==== Regulation of biosynthesis ====
+This pathway requires energy in order to occur therefore, the presence of ATP activates the first enzyme of the pathway, ATP-phosphoribosyl transferase (shown as His1 in the image on the right). ATP-phosphoribosyl transferase is the rate determining enzyme, which is regulated through feedback inhibition meaning that it is inhibited in the presence of the product, histidine.<ref>{{Cite journal|last=Cheng|first=Yongsong|last2=Zhou|first2=Yunjiao|last3=Yang|first3=Lei|last4=Zhang|first4=Chenglin|last5=Xu|first5=Qingyang|last6=Xie|first6=Xixian|last7=Chen|first7=Ning|date=2013-05-01|title=Modification of histidine biosynthesis pathway genes and the impact on production of L-histidine in Corynebacterium glutamicum|journal=Biotechnology Letters|volume=35|issue=5|pages=735–741|doi=10.1007/s10529-013-1138-1|issn=1573-6776|pmid=23355034}}</ref> {{Expand section|date=January 2016}}
+
+=== Degradation ===
+Histidine is one of the amino acids that can be converted to intermediates of the tricarboxylic acid (TCA) cycle.<ref name=":3">Board review series (BRS)-- Biochemistry, Molecular Biology, and Genetics (fifth edition): Swanson, Kim, Glucksman</ref> Histidine along with other amino acids such as, proline and arginine, takes part in deamination, a process in which its amino group is removed. In [[prokaryote]]s, histidine is first converted to urocanate by histidase. Then, urocanase converts urocanate to 4-imidazolone-5-propionate. Imidazolonepropionase catalyzes the reaction to form [[formiminoglutamate]] (FIGLU) from 4-imidazolone-5-propionate.<ref>{{Cite journal|last=Coote|first=J. G.|last2=Hassall|first2=H.|date=1973-03-01|title=The degradation of l-histidine, imidazolyl-l-lactate and imidazolylpropionate by Pseudomonas testosteroni|journal=Biochemical Journal|volume=132|issue=3|pages=409–422|issn=0264-6021|pmc=1177604|pmid=4146796|doi=10.1042/bj1320409}}</ref> The formimino group is transferred to [[tetrahydrofolate]], and the remaining five carbons form glutamate.<ref name=":3" /> Overall, these reactions result in the formation of glutamate and ammonia.<ref>{{Cite journal|last=Mehler|first=A. H.|last2=Tabor|first2=H.|date=1953-04-01|title=Deamination of histidine to form urocanic acid in liver|journal=The Journal of Biological Chemistry|volume=201|issue=2|pages=775–784|issn=0021-9258|pmid=13061415}}</ref> Glutamate can then be deaminated by glutamate dehydrogenase or transaminated to form α-ketoglutarate.<ref name=":3" />
+
+=== Conversion to other biologically active amines ===
+* The histidine amino acid is a precursor for [[histamine]], an amine produced in the body necessary for inflammation.<ref>{{Cite journal|last=Andersen|first=Hjalte H.|last2=Elberling|first2=Jesper|last3=Arendt-Nielsen|first3=Lars|date=2015-09-01|title=Human surrogate models of histaminergic and non-histaminergic itch|journal=Acta Dermato-Venereologica|volume=95|issue=7|pages=771–777|doi=10.2340/00015555-2146|issn=1651-2057|pmid=26015312}}</ref> 
+[[Image:Histidine decarboxylase.svg|thumb|center|473x473px|Conversion of histidine to [[histamine]] by [[histidine decarboxylase]]]]
+* The enzyme [[histidine ammonia-lyase]] converts histidine into [[ammonia]] and [[urocanic acid]]. A deficiency in this enzyme is present in the rare metabolic disorder [[histidinemia]], producing [[urocanic aciduria]] as a key diagnostic symptom.
+* Histidine is also a precursor for [[carnosine]] [[biosynthesis]], which is a dipeptide found in skeletal muscle.<ref>{{Cite journal|last=Derave|first=Wim|last2=Everaert|first2=Inge|last3=Beeckman|first3=Sam|last4=Baguet|first4=Audrey|date=2010-03-01|title=Muscle carnosine metabolism and beta-alanine supplementation in relation to exercise and training|journal=Sports Medicine|volume=40|issue=3|pages=247–263|doi=10.2165/11530310-000000000-00000|issn=1179-2035|pmid=20199122}}</ref>
+* In [[Actinobacteria]] and filamentous fungi, such as ''[[Neurospora crassa]]'', histidine can be converted into the [[antioxidant]] [[ergothioneine]].<ref name="Fahey">{{cite journal |doi=10.1146/annurev.micro.55.1.333 |title=Novelthiols Ofprokaryotes |year=2001 |last1=Fahey |first1=Robert C. |journal=Annual Review of Microbiology |volume=55 |pages=333–56 |pmid=11544359}}</ref>
+
+==Requirements==
+The Food and Nutrition Board (FNB) of the U.S. Institute of Medicine set Recommended Dietary Allowances (RDAs) for [[essential amino acid]]s in 2002. For histidine, for adults 19 years and older, 14&nbsp;mg/kg body weight/day.<ref name="DRItext">{{cite book | last1 = [[Institute of Medicine]] | title = Dietary Reference Intakes for Energy, Carbohydrates, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids | chapter = Protein and Amino Acids | publisher = The National Academies Press | year = 2002 | location = Washington, DC | pages = 589–768 | url = https://www.nap.edu/read/10490/chapter/12}}</ref>
+
+== See also ==
+*[[Carnosinemia]]
+*[[Beta-Alanine]]
+*[[Diphthamide]]
+*[[Pauly reaction]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[http://gmd.mpimp-golm.mpg.de/Spectrums/a4fc4f0c-0812-4f61-94fd-a79c61419670.aspx Histidine MS Spectrum]
+*[http://www.chem.qmul.ac.uk/iubmb/enzyme/reaction/AminoAcid/His1.html Histidine biosynthesis (early stages)]
+*[http://www.chem.qmul.ac.uk/iubmb/enzyme/reaction/AminoAcid/His2.html Histidine biosynthesis (later stages)]
+*[http://www.chem.qmul.ac.uk/iubmb/enzyme/reaction/AminoAcid/His3.html Histidine catabolism]
+
+{{Amino acids}}
+{{Amino acid metabolism intermediates}}
+{{Histaminergics}}
+
+{{commonscat}}
+
+{{Authority control}}
+
+[[Category:Proteinogenic amino acids]]
+[[Category:Basic amino acids]]
+[[Category:Essential amino acids]]
+[[Category:Imidazoles]]

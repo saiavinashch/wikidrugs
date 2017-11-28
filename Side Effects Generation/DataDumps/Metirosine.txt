@@ -1,0 +1,66 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 462251779
+| IUPAC_name = (2''S'')-2-amino- 3-(4-hydroxyphenyl)- 2-methylpropanoic acid
+| image = Metirosine.svg
+| alt = Skeletal formula
+| image2 = Metirosine zwitterion ball.png
+| alt2 = Ball-and-stick model of metirosine as a zwitterion
+<!--Clinical data-->
+| tradename = Demser
+| Drugs.com = {{drugs.com|CDI|metyrosine}}
+| pregnancy_category =  
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life = 3.4–3.7 hours
+<!--Identifiers-->
+| IUPHAR_ligand = 6956
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 672-87-7
+| ATC_prefix = C02
+| ATC_suffix = KB01
+| ATC_supplemental =  
+| PubChem = 10123
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00765
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 390103
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = DOQ0J0TPF7
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00762
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1200862
+<!--Chemical data-->
+| C=10 | H=13 | N=1 | O=3
+| molecular_weight = 195.215 g/mol
+| smiles = O=C(O)[C@@](N)(Cc1ccc(O)cc1)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H13NO3/c1-10(11,9(13)14)6-7-2-4-8(12)5-3-7/h2-5,12H,6,11H2,1H3,(H,13,14)/t10-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = NHTGHBARYWONDQ-JTQLQIEISA-N
+}}
+'''Metirosine''' ([[International Nonproprietary Name|INN]] and [[British Approved Name|BAN]]; '''α-Methyltyrosine''', '''Metyrosine''' [[United States Adopted Name|USAN]], [[AMPT]]) is an [[antihypertensive]] drug. It inhibits the enzyme [[tyrosine hydroxylase]] and, therefore, [[catecholamine]] synthesis, which, as a consequence, depletes the levels of the catecholamines [[dopamine]], [[adrenaline]] and [[noradrenaline]] in the body.
+
+==Clinical use==
+Metirosine has been used in the treatment of [[pheochromocytoma]].<ref name="pmid7179194">{{cite journal |vauthors=Green KN, Larsson SK, Beevers DG, Bevan PG, Hayes B |title=Alpha-methyltyrosine in the management of phaeochromocytoma |journal=Thorax |volume=37 |issue=8 |pages=632–3 |date=August 1982 |pmid=7179194 |pmc=459390 |doi= 10.1136/thx.37.8.632|url=}}</ref> It is contra-indicated for the treatment of [[essential hypertension]].
+
+However it is now rarely used in medicine, its primary use being in scientific research to investigate the effects of catecholamine depletion on behaviour.<ref>O'Leary OF, Bechtholt AJ, Crowley JJ, Hill TE, Page ME, Lucki I. Depletion of serotonin and catecholamines block the acute behavioral response to different classes of antidepressant drugs in the mouse tail suspension test. ''Psychopharmacology''. 2007 Jun;192(3):357-71. {{PMID|17318507}}</ref>
+
+==See also==
+* [[p-Chlorophenylalanine]]
+
+==References==
+{{reflist}}
+
+{{Antihypertensives and diuretics}}
+{{Monoamine metabolism modulators}}
+
+[[Category:Antihypertensive agents]]
+[[Category:Phenethylamines]]
+[[Category:Phenols]]
+[[Category:Tyrosine hydroxylase inhibitors]]

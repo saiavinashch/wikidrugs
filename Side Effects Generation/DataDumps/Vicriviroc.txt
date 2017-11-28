@@ -1,0 +1,169 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470630044
+| ImageFile=Vicriviroc structure.svg
+| ImageSize=270px
+| IUPACName= 5-({4-[(3''S'')-4-{2-methoxy-1-[4-(trifluoromethyl)phenyl]ethyl}-3-methylpiperazin-1-yl]-4-methylpiperidin-1-yl}carbonyl)-4,6-dimethylpyrimidine
+| OtherNames=
+|Section1= {{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = TL515DW4QS
+
+| InChI = 1/C28H38F3N5O2/c1-19-16-35(14-15-36(19)24(17-38-5)22-6-8-23(9-7-22)28(29,30)31)27(4)10-12-34(13-11-27)26(37)25-20(2)32-18-33-21(25)3/h6-9,18-19,24H,10-17H2,1-5H3/t19-,24?/m0/s1
+| InChIKey = CNPVJJQCETWNEU-XGLRFROIBK
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C28H38F3N5O2/c1-19-16-35(14-15-36(19)24(17-38-5)22-6-8-23(9-7-22)28(29,30)31)27(4)10-12-34(13-11-27)26(37)25-20(2)32-18-33-21(25)3/h6-9,18-19,24H,10-17H2,1-5H3/t19-,24?/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = CNPVJJQCETWNEU-XGLRFROISA-N
+| CASNo_Ref = {{cascite|changed|??}}
+| CASNo= 599179-03-0
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 82301
+| PubChem=3009355
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID=21106404   
+| IUPHAR_ligand = 807
+| SMILES = FC(F)(F)c1ccc(cc1)[C@H](COC)N2CCN(C[C@@H]2C)C3(C)CCN(CC3)C(=O)c4c(C)ncnc4C
+| MeSHName=Vicriviroc
+  }}
+|Section2= {{Chembox Properties
+| Formula=C<sub>28</sub>H<sub>38</sub>F<sub>3</sub>N<sub>5</sub>O<sub>2</sub>
+| MolarMass=533.629 g/mol
+| Appearance=
+| Density=
+| MeltingPt=
+| BoilingPt=
+| Solubility=
+  }}
+|Section3= {{Chembox Hazards
+| MainHazards =
+| FlashPt =
+| AutoignitionPt =
+  }}
+}}
+'''Vicriviroc''', previously named SCH 417690 and SCH-D, is a [[pyrimidine]] [[CCR5]] [[entry inhibitor]] of [[HIV-1]].  It was developed by the [[pharmaceutical]] company [[Schering-Plough]]. [[Merck & Co.|Merck]] decided to not pursue regulatory approval for use in treatment-experienced patients because the drug did not meet primary efficacy endpoints in late stage trials. Clinical trials continue in patients previously untreated for HIV.
+
+==HIV-1 background==
+
+The mechanisms of a number of available anti-HIV drugs prevent either viral reverse transcriptase enzyme or protease enzyme, allowing the virus to enter the cell before these drugs take effect.  However, CCR5 inhibitors such as vicriviroc, as well as other entry inhibitors of HIV-1, inhibit the initial stages of the virus life cycle.<ref name=Idemyor>{{cite journal |author=Idemyor V |title=Human immunodeficiency virus (HIV) entry inhibitors (CCR5 specific blockers) in development: are they the next novel therapies? |journal=HIV Clin Trials |volume=6 |issue=5 |pages=272–7 |year=2005 |pmid=16306033 |doi=10.1310/979L-39QP-NC9G-WFTF}}</ref>
+
+=== HIV-1 entry ===
+
+ 
+[[HIV]] binds to and fuses with the target [[T-cells]] or [[macrophages]] with the help of [[gp120]] and [[gp41]], the only two proteins that are currently known to be exhibited on the surface of the [[viral envelope]].<ref name=Tsibris>{{
+
+cite web
+ | author=Tsibris A | publisher= Physicians’ Research Network  | year=2007
+ | url = http://www.prn.org/index.php/management/article/ccr5_inhibitors_hiv_86
+ | title=Update On CCR5 Inhibitors: Scientific Rationale, Clinical Evidence, and Anticipated Uses
+ | accessdate=2008-05-11
+
+}}</ref>  One molecule of each protein associates noncovalently with the other on the viral membrane, and three of these units aggregate to form the gp120/gp41 [[heterotrimer]], which traps the gp41 in a conformationally [[metastable state]].<ref name=Tsibris/>
+
+Membrane fusion begins with the binding of gp120 to [[CD4]], a glycoprotein which is expressed on the surface of the target cell.<ref name=Idemyor/>  Upon binding, gp120 undergoes a conformational change, which causes the formation of the coreceptor binding site on gp120.<ref name=Tsibris/>  All strains of HIV-1 use one of two coreceptors:  CCR5 or CXCR4; coreceptor specificity will be described below.  Once gp120 binds to the coreceptor, gp41 undergoes a conformational change that releases it from its once-metastable position.<ref name=Tsibris/> This change causes the hydrophobic N-terminus of the gp41 protein, also known as the fusion domain, to insert into the host cell membrane and anchor the virus into place.<ref name=Idemyor/><ref name=Tsibris/>  The insertion of gp41 into the target cell causes a subtle rearrangement in the gp41 protein that brings together two trimeric coiled coils, HR1 and HR2, to form a six-helix bundle.<ref name=Tsibris/>  The bundle allows the viral and cellular membranes to approximate and eventually fuse together, leading to the release of the viral genome into the cytoplasm of the target cell.<ref name=Tsibris/>
+
+=== Coreceptors and tropism ===
+
+ 
+The two coreceptors involved in the entry of HIV-1, [[CCR5]] and [[CXCR4]], belong to the larger family of 7-transmembrane segment ([[7TM]]) G-protein coupled receptors.<ref name=Tsibris/>  HIV-1 can thus be classified according specificity for one coreceptor or the other.  R5 virus, also known as M-tropic HIV-1, targets macrophages and uses CCR5 as the coreceptor.  X4 virus, or T-tropic HIV-1, targets T-cells and uses CXCR4 as the coreceptor.  Dual-tropic strains of HIV-1, which utilize both receptors, also exist.<ref name=Idemyor/>  Selectivity for one coreceptor or the other is especially dependent upon the V3 loop, a highly variable and structurally flexible region of gp120 that is composed of approximately 35 amino acids.  Tropism can be predicted through the 11/25 method, which looks for basic amino acids at positions 11 and 25 in the V3 loop and suggests the presence of an X4 virus.<ref name=Tsibris/>
+
+Coreceptor usage, however, can change throughout the course of infection.  90% of patients in early phases of HIV-1 infection have R5 virus.  However, after five years of infection, about 50% of all patients have detectable amounts of X4 virus.<ref name=Tsibris/>  Causes for this switch are currently unclear.  However, viral changes from CCR5 to CXCR4 coreceptor usage have been associated with a faster rate of CD4+ T-cell loss, rapid viral progression, and an increased rate of development of AIDS and death.<ref name=Idemyor/><ref name=Tsibris/>
+
+===CCR5-Δ32===
+
+A focus on the CCR5 co-receptor as a potential target for anti-HIV medications began in 1996 with the discovery of CCR5-Δ32, or CCR5 delta-32, a mutational variant of the CCR5 coding gene.<ref name=Idemyor/> The deletion of 32 base pairs in this gene results in nonfunctional CCR5 receptors.<ref name=Idemyor/> While the frequency of this mutation within Caucasian populations is 0.0808, people of African or Asian descent do not appear to possess this allele.<ref name=Idemyor/>  Δ32 homozygotes, or individuals who possess two copies of the Δ32 variant, have no functional CCR5 receptors and are consequently highly resistant to HIV infection.<ref name=Idemyor/>  Individuals who inherit one copy of Δ32 variant and one copy of the normal CCR5 gene are CCR5 heterozygotes.<ref name=Idemyor/>  Δ32 heterozygotes are still susceptible to HIV-1 infection, but the progression of the disease is significantly delayed compared to those with two normal copies of the CCR5 gene. CCR5 antagonists have been developed which cause deformation in the CCR5 co-receptor, leading to the cell's failure to bind with the HIV gp120 protein.<ref name=Idemyor/>
+
+== SCH-C and vicriviroc ==
+
+In 2001, Schering-Plough developed one of the first small molecule CCR5 antagonists,  SCH-C or SCH 351125, which inhibited replication of a number of HIV-1 isolates that used CCR5 as a coreceptor for binding.<ref name=Palani>{{cite journal |vauthors=Palani A, Shapiro S, Clader JW, Greenlee WJ, Cox K, Strizki J, Endres M, Baroudy BM |title=Discovery of 4-[(Z)-(4-bromophenyl)- (ethoxyimino)methyl]-1'-[(2,4-dimethyl-3- pyridinyl)carbonyl]-4'-methyl-1,4'- bipiperidine N-oxide (SCH 351125): an orally bioavailable human CCR5 antagonist for the treatment of HIV infection. |journal= J Med Chem |volume=44 |issue=21 |pages=3339–42 |year=2001 |pmid=11585437 |doi=10.1021/jm015526o }}</ref>  However, SCH-C caused a modest but dose-dependent prolongation of the corrected cardiac QT interval ([[QTc]]),<ref name=Strizki>{{cite journal |vauthors=Strizki JM, Tremblay C, Xu S, Wojcik L, Wagner N, Gonsiorek W, Hipkin RW, Chou CC, Pugliese-Sivo C, Xiao Y, Tagat JR, Cox K, Priestley T, Sorota S, Huang W, Hirsch M, Reyes GR, Baroudy BM |title=Discovery and Characterization of Vicriviroc (SCH 417690), a CCR5 Antagonist with Potent Activity against Human Immunodeficiency Virus Type 1 |journal=Antimicrobial Agents and Chemotherapy|volume=49 |issue=12 |pages=4911–4919 |year=2005 |pmid=16304152 |doi=10.1128/AAC.49.12.4911-4919.2005 |pmc=1315929}}</ref> leading to examination of alternative compounds whose antiviral and pharmacokinetic properties exceeded those of first-generation compounds like SCH-C.  Vicriviroc was discovered in high-throughput screening and structure-activity relationships (SAR) analysis.<ref name=Tagat>{{cite journal  |vauthors=Tagat JR, McCombie SW, Nazareno D, Labroli MA, Xiao Y, Steensma RW, Strizki JM, Baroudy BM, Cox K, etal |title=Piperazine-based CCR5 antagonists as HIV-1 inhibitors. IV. Discovery of 1-[(4,6-dimethyl-5-pyrimidinyl)carbonyl]- 4-[4-[2-methoxy-1(R)-4-(trifluoromethyl)phenyl]ethyl-3(S)-methyl-1-piperazinyl]- 4-methylpiperidine (Sch-417690/Sch-D), a potent, highly selective, and orally bioavailable CCR5 antagonist |journal=J Med Chem |volume=47 |issue=10 |pages=2405–8 |year=2004 |pmid=15115380 |doi=10.1021/jm0304515}}</ref> When compared with SCH-C, vicriviroc consistently and more actively inhibits viral replication, binds with higher affinity to CCR5 than SCH-C, and possesses a lower affinity for the [[HERG|human ether-a-go-go-related gene]] transcript ion channel, which may suggest a lower risk of cardiac effects.<ref name=Strizki/>
+
+== Method of action ==
+
+Vicriviroc is a noncompetitive allosteric antagonist of CCR5.<ref name=AIDSinfo>{{
+
+cite web
+ | author=AIDSinfo | publisher=NIH | year=2007
+ | url= http://aidsinfo.nih.gov/DrugsNew/DrugDetailT.aspx?int_id=405
+ | title=Vicriviroc maleate
+ | accessdate=2008-05-11
+
+}}</ref>  It is orally administered and, because it is effective at nanomolar concentrations, it can be administered once daily.<ref name=Idemyor/><ref name=AIDSinfo/>  Vicriviroc binds to a small hydrophobic pocket between the transmembrane helices near the extracellular surface of the CCR5 receptor.<ref name=Idemyor/> Binding to this pocket induces a conformational change of the extracellular segment of CCR5 and prevents binding of gp120 to the target cell, consequently preventing the virus from entering the target cell at all.
+
+Specific binding interactions between CCR5 and vicriviroc were first described in 2008.<ref name=Kondru>{{cite journal |vauthors=Kondru R, Zhang J, Ji C, Mirzadegan T, Rotstein D, Sankuratri S, Dioszegi M |title=Molecular interactions of CCR5 with major classes of small-molecule anti-HIV CCR5 antagonists |journal=Mol Pharmacol. |volume=73 |issue=3 |pages=789–800 |year=2008 |pmid=18096812 |doi=10.1124/mol.107.042101}}</ref> Specifically, the trifluoromethyl phenyl group of vicriviroc may interact strongly with I198 residue on the fifth transmembrane helix (TM5) of CCR5 through hydrophobic interactions.  Additionally, electrostatic interactions may form between the positively charged tertiary nitrogen group of vicriviroc and the hydrophilic region provided by E238 residue on TM7 of CCR5.  Other strong interactions predicted by the group include the Y108 residue on TM3 and Y251 on TM6.
+
+==Clinical trials==
+
+Currently, vicriviroc is undergoing critical trials.  Vicriviroc demonstrated a significant decrease of HIV [[ribonucleic acid|RNA]] in [[R5 virus|R5]]-infected subjects. The mean decline from baseline of HIV RNA achieved 1.5 log<sub>10</sub> or greater in all treatment groups (10, 25, 50&nbsp;mg, [[b.i.d.]]) in a 14-day monotherapy trial in HIV-infected adults.<ref>{{cite journal  |vauthors=Schürmann D, etal |title=Antiviral activity, pharmacokinetics and safety of vicriviroc, an oral CCR5 antagonist, during 14-day monotherapy in HIV-infected adults |journal=AIDS |volume=21 |issue=10 |pages=1293–9 |year=2007 |pmid=17545705 |doi=10.1097/QAD.0b013e3280f00f9f}}</ref>
+
+A phase II trial in treatment-naïve HIV-1 infected subjects was discontinued after the rate of virologic relapse in those subjects who were administered vicriviroc increased compared to control subjects; however, further investigations suggest that the administered dosage of vicriviroc may have been too low.<ref name=Tsibris/>  A new Phase II trial of treatment-naive HIV-1 patients is currently underway.
+
+A 48-week phase II trial (ACTG5211) examining the safety and efficacy of 5, 10, and 15&nbsp;mg doses of vicriviroc found that patients in the 10&nbsp;mg and 15&nbsp;mg vicriviroc treatment groups achieved a median decrease in viral load of 1.92 and 1.44 (log<sub>10</sub> copies/mL) and a median increase in CD4 cell count of 130 and 96 (cell/uL) from baseline, respectively.  More patients in the vicriviroc groups had undetectable virus at 48 weeks (HIV-1 RNA <400/<50 copies/ml) compared to those in the placebo group (57/37 percent and 43/27 percent vs. 14/11 percent, respectively).<ref name=ACTG5211>{{
+
+cite web
+ | author=Baker R | publisher=HIVandHepatitis.com | year=2007
+ | url= http://www.hivandhepatitis.com/2007icr/ias/docs/072707_c.html
+ | title=Safety and Efficacy of Experimental CCR5 Antagonist Vicriviroc in Treatment-experienced HIV Patients: 48 week Results of ACTG 5211
+ | accessdate=2008-05-11
+
+}}  {{webarchive |url=https://web.archive.org/web/20071031073334/http://www.hivandhepatitis.com/2007icr/ias/docs/072707_c.html |date=October 31, 2007 }}</ref>
+
+The results from a 48-week phase II trial (VICTOR-E1) examining administration of 20 or 30&nbsp;mg dosages of vicriviroc in addition to > 3-drug optimized background therapy (OBT) regimen that included a ritonavir-boosted protease inhibitor were reported in February 2008. Investigators concluded that, “‘Vicriviroc 30 or 20 mg once daily plus ritonavir-containing OBT provided sustained viral suppression in treatment-experienced subjects and increased CD4 cell counts regardless of the number of active drugs in OBT.’"<ref name=VICTOR-E1>{{
+
+cite web
+ | author=Highleyman L | publisher=HIVandHepatitis.com | year=2008
+ | url= http://www.hivandhepatitis.com/2008icr/croi/docs/020508_f.html
+ | title=CCR5 Antagonist Vicriviroc Shows Continued Benefits and Good Tolerability at 48 Weeks: VICTOR-E1 Trial
+ | accessdate=2008-05-11
+
+}}</ref>
+
+As of May 2008, two phase III trials (VICTOR-E3 and VICTOR E4) in treatment-experienced patients were initiated.<ref name=Phase3>{{
+
+cite web
+ | author=Baker R | publisher=HIVandHepatitis.com | year=2008
+ | url= http://www.hivandhepatitis.com/recent/2007/091807_a.html
+ | title=Schering-Plough Opens Enrollment to 2 Phase III Trials of the Experimental CCR5 Antagonist Vicriviroc
+ | accessdate=2008-05-11
+
+|archiveurl = https://web.archive.org/web/20071112031341/http://www.hivandhepatitis.com/recent/2007/091807_a.html <!-- Bot retrieved archive --> |archivedate = 2007-11-12}}</ref> The late stage clinical trials by did not meet their primary efficacy endpoints and [[Merck & Co.|Merck]] has decided as of January 2010 to not pursue regulatory approval for the drug.<ref name=Phase3-stopped1>{{
+
+cite web
+ | author=Loftus P | publisher=wsj.com | year=2010
+ | url= http://mailview.custombriefings.com/mailview.aspx?m=2010012101dia&r=3468666-6559&l=034-43e&t=c
+ | title=Merck Won't Seek FDA Approval For HIV Drug 
+ | accessdate=2010-01-21
+
+}}</ref><ref name=Phase3-stopped2>{{
+
+cite news
+ | author=Pierson R | publisher=reuters.com 
+ | url= https://www.reuters.com/article/idUSN2017965820100120?type=marketsNews
+ | title=Merck HIV drug from Schering merger fails trials 
+ | accessdate=2010-01-21
+| date=2010-01-20
+}}</ref>
+
+==Concerns surrounding CCR5 antagonists==
+
+Available clinical trial data suggest that a new method of combating HIV-1 may be found in CCR5 antagonists.  Studies into vicriviroc are ongoing, and another CCR5 antagonist, [[maraviroc]], is currently on the market.  However, concerns have arisen regarding the use of CCR5 antagonists as anti-HIV treatments because such drugs may facilitate the emergence of resistant strains of HIV-1.  Two possibilities for such resistance have been hypothesized:  HIV-1 may evolve to use only CXCR4 as the coreceptor; or HIV-1 may mutate in such a way that it is still able to interact with CCR5, despite the presence of a receptor antagonist.<ref name=Idemyor/>  In fact, maraviroc-resistant variants of HIV-1 have already been generated ''in vitro'' by mutating residues in the V3 loop of gp120.<ref name=Tsibris/>
+
+==See also==
+* [[Discovery and development of CCR5 receptor antagonists]]
+* [[Cenicriviroc]]
+* [[Maraviroc]]
+
+==References==
+<references/>
+
+{{HIVpharm}}
+{{Chemokine receptor modulators}}
+
+[[Category:Entry inhibitors]]
+[[Category:Pyrimidines]]
+[[Category:Carboxamides]]
+[[Category:Piperazines]]
+[[Category:Piperidines]]
+[[Category:Ethers]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Experimental drugs]]

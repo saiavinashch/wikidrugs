@@ -1,0 +1,288 @@
+{{Distinguish|droperidol}}
+{{Use dmy dates|date=November 2016}}
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 458442916
+| IUPAC_name = 5-Chloro-1-(1-[3-(2-oxo-2,3-dihydro-1''H''-benzo[''d'']imidazol-1-yl)propyl]piperidin-4-yl)-1''H''-benzo[''d'']imidazol-2(3''H'')-one
+| image = Domperidone 2D structure.svg
+| width = 275
+| image2 = File:Domperidone ball-and-stick model.png
+| width2 = 275
+
+<!--Clinical data-->
+| tradename = Motilium, many others
+| Drugs.com = {{drugs.com|CONS|domperidone}}
+| pregnancy_US = Not classified
+| legal_UK = POM
+| legal_US_comment =Not approved for use or sale
+| legal_status = prescription medicine (Rx only): India, Australia, Canada, Israel, Belgium; [[over-the-counter]]: Egypt, Ireland, Italy, Japan, Netherlands, South Africa, Switzerland, China, Russia, Slovakia, Ukraine<ref>{{Cite web|url=http://mozdocs.kiev.ua/likiview.php?id=34385|title=БРЮЛІУМ ЛІНГВАТАБС|language=uk|trans-title=BRULIUM LINGUATABS|date=2014-03-18|website=Нормативно-директивні документи МОЗ України|access-date=2015-05-29}}</ref> Mexico, Thailand, Malta, South Korea, and Romania<ref>{{cite web |url=http://www.medsafe.govt.nz/downloads/MCC34Domperidone.doc |title=Domperidone |accessdate=2013-06-30 |deadurl=yes |archiveurl=https://web.archive.org/web/20130522022543/http://www.medsafe.govt.nz/downloads/MCC34Domperidone.doc |archivedate=22 May 2013 |df=dmy-all }}</ref>
+| routes_of_administration = [[Oral administration|Oral]], [[intramuscular administration|intramuscular]], [[intravenous therapy|intravenous]] ({{abbr|d/c'd|discontinued}}), [[rectal administration|rectal]]<ref name="ReddymasuSoykan2007" />
+
+<!--Pharmacokinetic data-->
+| bioavailability = Oral: 13–17%<ref name="ReddymasuSoykan2007">{{cite journal|last1=Reddymasu|first1=Savio C.|last2=Soykan|first2=Irfan|last3=McCallum|first3=Richard W.|title=Domperidone: Review of Pharmacology and Clinical Applications in Gastroenterology|journal=The American Journal of Gastroenterology|volume=102|issue=9|year=2007|pages=2036–2045|issn=0002-9270|doi=10.1111/j.1572-0241.2007.01255.x|pmid=17488253}}</ref><ref name="Rose2004">{{cite book|author=Suzanne Rose|title=Gastrointestinal and Hepatobiliary Pathophysiology|url=https://books.google.com/books?id=1W0JYuzTZsAC&pg=PA523|date=October 2004|publisher=Hayes Barton Press|isbn=978-1-59377-181-2|pages=523–}}</ref><br />Intramuscular: 90%<ref name="ReddymasuSoykan2007" />
+| protein_bound = ~92%<ref name="ReddymasuSoykan2007" />
+| metabolism = [[Liver|Hepatic]] ([[CYP3A4]]/[[CYP3A5|5]]) and [[Intestine|intestinal]] ([[first pass effect|first-pass]])<ref name="ReddymasuSoykan2007" /><ref name="SimardMichaud2008">{{cite journal|last1=Simard|first1=C.|last2=Michaud|first2=V.|last3=Gibbs|first3=B.|last4=Massé|first4=R.|last5=Lessard|first5=É|last6=Turgeon|first6=J.|title=Identification of the cytochrome P450 enzymes involved in the metabolism of domperidone|journal=Xenobiotica|volume=34|issue=11–12|year=2008|pages=1013–1023|issn=0049-8254|doi=10.1080/00498250400015301}}</ref>
+| metabolites = All inactive<ref name="ReddymasuSoykan2007" /><ref name="SimardMichaud2008" />
+| elimination_half-life = 7.5 hours<ref name="ReddymasuSoykan2007" /><ref name="Rose2004" />
+| excretion = [[Feces]]: 66%<ref name="ReddymasuSoykan2007" /><br />[[Urine]]: 32%<ref name="ReddymasuSoykan2007" /><br />[[Breast milk]]: small quantities<ref name="ReddymasuSoykan2007" />
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 57808-66-9
+| ATC_prefix = A03
+| ATC_suffix = FA03
+| ATC_supplemental = {{ATCvet|P51|AX24}}
+| PubChem = 3151
+| IUPHAR_ligand = 965
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01184
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3039
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 5587267Z69
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01745
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 31515
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 219916
+
+<!--Chemical data-->
+| C=22 | H=24 | Cl=1 | N=5 | O=2
+| molecular_weight = 425.911 g/mol
+| smiles = Clc1cc2c(cc1)N(C(=O)N2)C5CCN(CCCN4c3ccccc3NC4=O)CC5
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H24ClN5O2/c23-15-6-7-20-18(14-15)25-22(30)28(20)16-8-12-26(13-9-16)10-3-11-27-19-5-2-1-4-17(19)24-21(27)29/h1-2,4-7,14,16H,3,8-13H2,(H,24,29)(H,25,30)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = FGXWKSZFVQUSTL-UHFFFAOYSA-N
+| melting_point = 242.5
+}}
+
+'''Domperidone''', sold under the brand name '''Motilium''' among others, is a [[peripherally selective drug|peripherally selective]] [[dopamine]] [[D2 receptor|D<sub>2</sub> receptor]] [[receptor antagonist|antagonist]] that was developed by [[Janssen Pharmaceutica]] and is used as an [[antiemetic]], [[gastroprokinetic agent]], and [[galactagogue]].<ref name="ReddymasuSoykan2007">{{cite journal|last1=Reddymasu|first1=Savio C.|last2=Soykan|first2=Irfan|last3=McCallum|first3=Richard W.|title=Domperidone: Review of Pharmacology and Clinical Applications in Gastroenterology|journal=The American Journal of Gastroenterology|volume=102|issue=9|year=2007|pages=2036–2045|issn=0002-9270|doi=10.1111/j.1572-0241.2007.01255.x|pmid=17488253}}</ref><ref name="IndexNominum2000">{{cite book|title=Index Nominum 2000: International Drug Directory|url=https://books.google.com/books?id=5GpcTQD_L2oC&pg=PA366|date=January 2000|publisher=Taylor & Francis|isbn=978-3-88763-075-1|pages=366–}}</ref><ref name="pmid10332535">{{cite journal | vauthors = Barone JA | title = Domperidone: a peripherally acting dopamine2-receptor antagonist | journal = The Annals of Pharmacotherapy | volume = 33 | issue = 4 | pages = 429–40 | year = 1999 | pmid = 10332535 | doi = 10.1345/aph.18003| url = }}</ref> It may be administered [[oral administration|orally]] or [[rectal]]ly, and is available in the [[Dosage form|form]] of [[Tablet (pharmacy)|tablets]], [[orally disintegrating tablet]]s (based on [[Zydis]] technology),<ref name="mhra">{{Cite web|url=http://www.mhra.gov.uk/home/groups/par/documents/websiteresources/con076114.pdf |title=MOTILIUM INSTANTS PL 13249/0028 |author= |date=2010-02-23 |publisher=[[Medicines and Healthcare Products Regulatory Agency]] |accessdate=2014-10-31 |archiveurl=https://www.webcitation.org/6TkBvooxw?url=http://www.mhra.gov.uk/home/groups/par/documents/websiteresources/con076114.pdf |archivedate=31 October 2014 |deadurl=no |df=dmy }}</ref> [[Suspension (chemistry)|suspension]], and [[suppository|suppositories]].<ref name="ema" /> The drug is used to relieve [[nausea]] and [[vomiting]]; to increase the transit of food through the [[stomach]] (by increasing [[gastrointestinal]] [[peristalsis]]); and to promote [[lactation]] ([[breast milk]] production) by release of [[prolactin]].<ref name="ReddymasuSoykan2007" /><ref name="pmid10332535" />
+{{TOC limit|3}}
+
+==Medical uses==
+The uses or ''indications'' of domperidone vary between nations. For instance, in Italy it is used in the treatment of [[gastroesophageal reflux disease]] and in Canada, the drug is indicated in upper gastrointestinal motility disorders and to prevent gastrointestinal symptoms associated with the use of dopamine agonist antiparkinsonian agents.<ref>[http://www.hc-sc.gc.ca/dhp-mps/alt_formats/pdf/medeff/bulletin/carn-bcei_v17n1-eng.pdf "Domperidone - heart rate and rhythm disorders."] Canadian adverse reactions newsletter. Government of Canada. January 2007 17(1)</ref> In the United States, domperidone is not currently a legally marketed human drug and it is not approved for sale in the U.S. On 7 June 2004, FDA issued a public warning that distributing any domperidone-containing products is illegal.<ref>{{Cite web | url = http://www.fda.gov/drugs/developmentapprovalprocess/howdrugsaredevelopedandapproved/approvalapplications/investigationalnewdrugindapplication/ucm368736.htm | title = How to Obtain | publisher = Food and Drug Administration | date = 10 February 2015 | access-date = 24 February 2016}}</ref> In the United Kingdom, domperidone is only indicated for the treatment of nausea and vomiting and the treatment duration is usually limited to 1 week.
+
+It was reported in 2007 that domperidone is available in 58 countries, including [[Canada]].<ref name="pmid17488253">{{cite journal | vauthors = Reddymasu SC, Soykan I, McCallum RW | title = Domperidone: review of pharmacology and clinical applications in gastroenterology | journal = Am. J. Gastroenterol. | volume = 102 | issue = 9 | pages = 2036–45 | year = 2007 | pmid = 17488253 | doi = 10.1111/j.1572-0241.2007.01255.x | url = }}</ref>
+
+===Nausea and vomiting===
+There is some evidence that domperidone has [[antiemetic]] activity.<ref name="pmid519355">{{cite journal | vauthors = Swann IL, Thompson EN, Qureshi K | title = Domperidone or metoclopramide in preventing chemotherapeutically induced nausea and vomiting | journal = British Medical Journal | volume = 2 | issue = 6199 | pages = 1188 | date = November 1979 | pmid = 519355 | pmc = 1597274 | doi = 10.1136/bmj.2.6199.1188 }}</ref> It is recommended in the Canadian Headache Society's guidelines for treatment of nausea associated with acute [[migraine]].<ref>{{cite journal | vauthors = Worthington I, Pringsheim T, Gawel MJ, Gladstone J, Cooper P, Dilli E, Aube M, Leroux E, Becker WJ | title = Canadian Headache Society Guideline: acute drug therapy for migraine headache | journal = The Canadian Journal of Neurological Sciences | volume = 40 | issue = 5 Suppl 3 | pages = S1–S80 | date = September 2013 | pmid = 23968886 }}</ref>
+
+===Gastroparesis===
+[[Gastroparesis]] is a medical condition characterised by delayed emptying of the stomach when there is no mechanical [[stomach|gastric outlet obstruction]]. Its cause is most commonly [[idiopathic]], a [[diabetes|diabetic complication]] or a result of abdominal surgery. The condition causes nausea, vomiting, [[postprandial|fullness after eating]], early satiety (feeling full before the meal is finished), abdominal pain and bloating.
+
+Domperidone may be useful in diabetic and idiopathic [[gastroparesis]].<ref>{{cite journal | vauthors = Stevens JE, Jones KL, Rayner CK, Horowitz M | title = Pathophysiology and pharmacotherapy of gastroparesis: current and future perspectives | journal = Expert Opinion on Pharmacotherapy | volume = 14 | issue = 9 | pages = 1171–86 | date = June 2013 | pmid = 23663133 | doi = 10.1517/14656566.2013.795948 }}</ref><ref name="pmid9663360">{{cite journal | vauthors = Silvers D, Kipnes M, Broadstone V, Patterson D, Quigley EM, McCallum R, Leidy NK, Farup C, Liu Y, Joslyn A | title = Domperidone in the management of symptoms of diabetic gastroparesis: efficacy, tolerability, and quality-of-life outcomes in a multicenter controlled trial. DOM-USA-5 Study Group | journal = Clinical Therapeutics | volume = 20 | issue = 3 | pages = 438–53 | year = 1998 | pmid = 9663360 | doi = 10.1016/S0149-2918(98)80054-4 }}</ref>
+
+However, increased rate of gastric emptying induced by drugs like domperidone does not always correlate (equate) well with relief of symptoms.<ref>{{cite journal | vauthors = Janssen P, Harris MS, Jones M, Masaoka T, Farré R, Törnblom H, Van Oudenhove L, Simrén M, Tack J | title = The relation between symptom improvement and gastric emptying in the treatment of diabetic and idiopathic gastroparesis | journal = The American Journal of Gastroenterology | volume = 108 | issue = 9 | pages = 1382–91 | date = September 2013 | pmid = 24005344 | doi = 10.1038/ajg.2013.118 }}</ref>
+
+===Parkinson's disease===
+[[Parkinson's disease]] is a chronic neurological condition where a decrease in dopamine in the brain leads to rigidity (stiffness of movement), [[tremor]] and other symptoms and signs. Poor gastrointestinal function, nausea and vomiting is a major problem for people with Parkinson's disease because most medications used to treat Parkinson's disease are given by mouth. These medications, such as [[levodopa]], can cause nausea as a [[side effect]]. Furthermore, anti-nausea drugs, such as [[metoclopramide]], which do cross the blood–brain barrier may worsen the [[extra-pyramidal]] symptoms of Parkinson's disease.
+
+Domperidone can be used to relieve gastrointestinal symptoms in Parkinson's disease; it blocks peripheral D2 receptors but does not cross the [[blood–brain barrier]] in normal doses (the barrier between the blood [[Blood circulation|circulation]] of the brain and the rest of the body) so has no effect on the extrapyramidal symptoms of the disease.<ref>{{cite journal |pmc=3962062 | pmid=24660005 | doi=10.1177/1715163514521969 | volume=147 | title=Domperidone as an unintended antipsychotic | journal=Can Pharm J (Ott) | pages=76–7 | vauthors=Ferrier J}}</ref> In addition to this, domperidone may enhance the [[bioavailability]] (effect) of [[levodopa]] (one of the main treatments in Parkinson's disease).<ref>{{cite journal | vauthors = Nishikawa N, Nagai M, Tsujii T, Iwaki H, Yabe H, Nomoto M | title = Coadministration of domperidone increases plasma levodopa concentration in patients with Parkinson disease | journal = Clinical Neuropharmacology | volume = 35 | issue = 4 | pages = 182–4 | year = 2012 | pmid = 22751085 | doi = 10.1097/WNF.0b013e3182575cdb }}</ref>
+
+Although these features make domperidone a useful drug in Parkinson's disease, caution is needed due to the [[cardiotoxicity|cardiotoxic]] side effects of domperidone especially when given intravenously, in elderly people and in high doses (> 30&nbsp;mg per day).<ref>{{cite journal | vauthors = Lertxundi U, Domingo-Echaburu S, Soraluce A, García M, Ruiz-Osante B, Aguirre C | title = Domperidone in Parkinson's disease: a perilous arrhythmogenic or the gold standard? | journal = Current Drug Safety | volume = 8 | issue = 1 | pages = 63–8 | date = February 2013 | pmid = 23656449 | doi = 10.2174/1574886311308010009 | url = http://www.eurekaselect.com/110655/article }}</ref> A clinical sign of domperidone's potential [[toxic]]ity to the heart is the prolongation (lengthening) of the [[QT interval]] (a segment of the heart's electrical pattern).<ref>{{cite journal | vauthors = Malek NM, Grosset KA, Stewart D, Macphee GJ, Grosset DG | title = Prescription of drugs with potential adverse effects on cardiac conduction in Parkinson's disease | journal = Parkinsonism & Related Disorders | volume = 19 | issue = 6 | pages = 586–9 | date = June 2013 | pmid = 23522959 | doi = 10.1016/j.parkreldis.2013.02.004 }}</ref>
+
+===Functional dyspepsia===
+Domperidone may be used in [[functional dyspepsia]] in both adults and children.<ref>{{cite journal | vauthors = Xiao M, Qiu X, Yue D, Cai Y, Mo Q | title = Influence of hippophae rhamnoides on two appetite factors, gastric emptying and metabolic parameters, in children with functional dyspepsia | journal = Hellenic Journal of Nuclear Medicine | volume = 16 | issue = 1 | pages = 38–43 | year = 2013 | pmid = 23529392 | doi = 10.1967/s002449910070 | doi-broken-date = 2017-01-14 }}</ref><ref>{{cite journal | vauthors = Huang X, Lv B, Zhang S, Fan YH, Meng LN | title = Itopride therapy for functional dyspepsia: a meta-analysis | journal = World Journal of Gastroenterology | volume = 18 | issue = 48 | pages = 7371–7 | date = December 2012 | pmid = 23326147 | pmc = 3544044 | doi = 10.3748/wjg.v18.i48.7371 }}</ref>
+
+===Lactation===
+The hormone [[prolactin]] stimulates lactation (production of breast milk). [[Dopamine]], released by the [[hypothalamus]] stops the release of prolactin from the [[pituitary gland]]. Domperidone, by acting as an anti-dopaminergic agent, results in increased [[prolactin]] secretion, and thus promotes lactation (that is, it is a [[galactogogue]]). In some nations, including Australia, domperidone is used [[off-label]], based on uncertain and anecdotal evidence of its usefulness, as a therapy for mothers who are having difficulty breastfeeding.<ref>{{cite journal | vauthors = Grzeskowiak LE, Lim SW, Thomas AE, Ritchie U, Gordon AL | title = Audit of domperidone use as a galactogogue at an Australian tertiary teaching hospital | journal = Journal of Human Lactation | volume = 29 | issue = 1 | pages = 32–7 | date = February 2013 | pmid = 23015150 | doi = 10.1177/0890334412459804 }}</ref><ref>{{cite journal | vauthors = Donovan TJ, Buchanan K | title = Medications for increasing milk supply in mothers expressing breastmilk for their preterm hospitalised infants | journal = The Cochrane Database of Systematic Reviews | volume = 3 | issue =  3| pages = CD005544 | year = 2012 | pmid = 22419310 | doi = 10.1002/14651858.CD005544.pub2 }}</ref> In the United States, domperidone is not approved for this or any other use.<ref>{{cite journal | vauthors = da Silva OP, Knoppert DC | title = Domperidone for lactating women | journal = CMAJ | volume = 171 | issue = 7 | pages = 725–6 | date = September 2004 | pmid = 15451832 | pmc = 517853 | doi = 10.1503/cmaj.1041054 }}</ref><ref>[http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/psn/printer.cfm?id=253 "FDA warns against women using unapproved drug, domperidone to increase milk production."] [[U.S. Food and Drug Administration]] 7 June 2004.</ref> A study called the ''EMPOWER'' trial has been designed to assess the effectiveness and safety of domperidone in assisting mothers of [[preterm]] babies to supply breast milk for their infants.<ref>{{cite journal | vauthors = Asztalos EV, Campbell-Yeo M, daSilva OP, Kiss A, Knoppert DC, Ito S | title = Enhancing breast milk production with Domperidone in mothers of preterm neonates (EMPOWER trial) | journal = BMC Pregnancy and Childbirth | volume = 12 | issue =  | pages = 87 | year = 2012 | pmid = 22935052 | pmc = 3532128 | doi = 10.1186/1471-2393-12-87 }}</ref>
+
+To induce lactation, domperidone is used at a dosage of 10 to 20&nbsp;mg 3 or 4 times per day by mouth.<ref name="Henderson2003" /> Effects may be seen within 24 hours or may not been seen for 3 or 4 days.<ref name="Henderson2003" /> The maximum effect occurs after 2 or 3 weeks of treatment, and the treatment period generally lasts for 3 to 8 weeks.<ref name="Henderson2003" /> A 2012 review shows that no studies support prophylactic use of a galactagogue medication at any gestation including Domperidone.<ref>{{Cite book|url=http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD005544.pub2/abstract|title=Cochrane Database of Systematic Reviews|last=Donovan|first=Timothy J|last2=Buchanan|first2=Kerry|date=2012-03-14|publisher=John Wiley & Sons, Ltd|isbn = |language=en|doi=10.1002/14651858.cd005544.pub2/full}}</ref>
+
+===Pediatric reflux===
+Domperidone has been found effective in the treatment of pediatric [[gastroesophageal reflux disease|reflux]].<ref>{{cite book|last1=Kapoor|first1=A.K.|last2=Raju|first2=S.M.|year=2013|title=Illustrated Medical Pharmacology|chapter=7.2 Gastrointestinal Drugs|url=https://books.google.com/books?id=Le28AQAAQBAJ&pg=PA677&dq=#v=onepage&q&f=false|location= |publisher=JP Medical Ltd|page=677|isbn=9350906554|accessdate=2014-10-31}} (Google Books)</ref> However some specialists consider its risks prohibitory of the treatment of infantile reflux.<ref>{{Cite web|url=http://www.telegraph.co.uk/health/healthnews/11005559/Fear-that-reflux-treatment-for-babies-will-be-denied-under-new-Nice-guidance.html |title=Fear that reflux treatment for babies will be denied under new Nice guidance |author=Rebecca Smith |date=2014-08-01 |publisher=[[The Daily Telegraph]] |accessdate=2014-10-31 |archiveurl=https://www.webcitation.org/6Tk9XF8CU?url=http://www.telegraph.co.uk/health/healthnews/11005559/Fear-that-reflux-treatment-for-babies-will-be-denied-under-new-Nice-guidance.html |archivedate=31 October 2014 |deadurl=no |df=dmy }}</ref>
+
+==Side effects==
+Side effects associated with domperidone include [[dry mouth]], [[abdominal cramp]]s, [[diarrhea]], [[nausea]], [[rash]], [[pruritus|itching]], [[urticaria|hives]], and [[hyperprolactinemia]] (the symptoms of which may include [[mammoplasia|breast enlargement]], [[galactorrhea]], [[mastodynia|breast pain/tenderness]], [[gynecomastia]], [[hypogonadism]], and [[irregular menstruation|menstrual irregularities]]).<ref name="Henderson2003">{{cite journal|last1=Henderson|first1=Amanda|title=Domperidone: Discovering New Choices for Lactating Mothers|journal=AWHONN Lifelines|volume=7|issue=1|year=2003|pages=54–60|issn=1091-5923|doi=10.1177/1091592303251726|pmid=12674062}}</ref> Due to blockade of D<sub>2</sub> receptors in the [[central nervous system]], D<sub>2</sub> receptor antagonists like [[metoclopramide]] can also produce a variety of additional side effects including [[drowsiness]], [[akathisia]], [[psychomotor agitation|restlessness]], [[insomnia]], [[lassitude]], [[fatigue (medicine)|fatigue]], [[extrapyramidal symptom]]s, [[dystonia]], [[parkinsonism|Parkinsonian symptom]]s, [[tardive dyskinesia]], and [[depression (mood)|depression]].<ref name="ReddymasuSoykan2007" /><ref name="pmid10332535" /> However, this is not the case with domperidone, because, unlike other D<sub>2</sub> receptor antagonists, it minimally crosses the [[blood-brain-barrier]], and for this reason, is rarely associated with such side effects.<ref name="ReddymasuSoykan2007" /><ref name="pmid10332535" />
+
+===Excess prolactin levels===
+Due to D<sub>2</sub> receptor blockade, domperidone causes [[hyperprolactinemia]].<ref name="JoslinKahn2005">{{cite book|author1=Elliott Proctor Joslin|author2=[[C. Ronald Kahn]]|title=Joslin's Diabetes Mellitus: Edited by C. Ronald Kahn ... &#91;et Al.&#93;.|url=https://books.google.com/books?id=ohgjG0qAvfgC&pg=PA1084|year=2005|publisher=Lippincott Williams & Wilkins|isbn=978-0-7817-2796-9|pages=1084–}}</ref> Hyperprolactinemia can suppress the secretion of [[gonadotropin-releasing hormone]] (GnRH) from the [[hypothalamus]], in turn suppressing the secretion of [[follicle-stimulating hormone]] (FSH) and [[luteinizing hormone]] (LH) and resulting in [[hypogonadism]] (low [[sex hormone]] (e.g., [[testosterone]], [[estradiol]]) levels).<ref name="Jr.2010">{{cite book|author=Edmund S. Sabanegh, Jr.|title=Male Infertility: Problems and Solutions|url=https://books.google.com/books?id=YthJpK5clTMC&pg=PA83|date=20 October 2010|publisher=Springer Science & Business Media|isbn=978-1-60761-193-6|pages=83–}}</ref> As such, male patients may experience low [[libido]], [[erectile dysfunction]], and impaired [[spermatogenesis]].<ref name="Jr.2010" /> Also in accordance with hyperprolactinemia, 10–15% of female patients have been reported to experience [[mammoplasia]] (breast enlargement), [[mastodynia]] (breast pain/tenderness), [[galactorrhea]] (inappropriate or excessive milk production/secretion), and [[amenorrhea]] (cessation of [[menstrual cycle]]s) with domperidone treatment.<ref name="JoslinKahn2005" /> [[Gynecomastia]] has been reported in males treated with domperidone,<ref name="BriggsFreeman2012">{{cite book|author1=Gerald G. Briggs|author2=Roger K. Freeman|author3=Sumner J. Yaffe|title=Drugs in Pregnancy and Lactation: A Reference Guide to Fetal and Neonatal Risk|url=https://books.google.com/books?id=ScPvM03B3lUC&pg=PA442|date=28 March 2012|publisher=Lippincott Williams & Wilkins|isbn=978-1-4511-5359-0|pages=442–}}</ref> and [[galactorrhea]] could occur in males as well.<ref name="Jr.2010" />
+
+===Rare reactions===
+
+====Cardiac reactions====
+Domperidone use is associated with an increased risk of [[sudden cardiac death]] (by 70%)<ref name="pmid26649742">{{cite journal | vauthors = Leelakanok N, Holcombe A, Schweizer ML | title = Domperidone and Risk of Ventricular Arrhythmia and Cardiac Death: A Systematic Review and Meta-analysis | journal = Clin Drug Investig | volume = 36| issue = 2| pages = 97–107| year = 2015 | pmid = 26649742 | doi = 10.1007/s40261-015-0360-0 | url = }}</ref> most likely through its prolonging effect of the cardiac [[QT interval]] and [[ventricular arrhythmia]]s.<ref>{{cite journal | vauthors = van Noord C, Dieleman JP, van Herpen G, Verhamme K, Sturkenboom MC | title = Domperidone and ventricular arrhythmia or sudden cardiac death: a population-based case-control study in the Netherlands | journal = Drug Safety | volume = 33 | issue = 11 | pages = 1003–14 | date = November 2010 | pmid = 20925438 | doi = 10.2165/11536840-000000000-00000 }}</ref><ref>{{cite journal | vauthors = Johannes CB, Varas-Lorenzo C, McQuay LJ, Midkiff KD, Fife D | title = Risk of serious ventricular arrhythmia and sudden cardiac death in a cohort of users of domperidone: a nested case-control study | journal = Pharmacoepidemiology and Drug Safety | volume = 19 | issue = 9 | pages = 881–8 | date = September 2010 | pmid = 20652862 | doi = 10.1002/pds.2016 }}</ref> The cause is thought to be [[channel blocker|blockade]] of [[hERG]] [[voltage-gated potassium channel]]s.<ref name="pmid20394569">{{cite journal | vauthors = Rossi M, Giorgi G | title = Domperidone and long QT syndrome | journal = Curr Drug Saf | volume = 5 | issue = 3 | pages = 257–62 | year = 2010 | pmid = 20394569 | doi = 10.2174/157488610791698334| url = }}</ref><ref name="pmid24147629">{{cite journal | vauthors = Doggrell SA, Hancox JC | title = Cardiac safety concerns for domperidone, an antiemetic and prokinetic, and galactogogue medicine | journal = Expert Opin Drug Saf | volume = 13 | issue = 1 | pages = 131–8 | year = 2014 | pmid = 24147629 | doi = 10.1517/14740338.2014.851193 | url = }}</ref> The risks are dose-dependent, and appear to be greatest with high/very high doses via intravenous administration and in the elderly, as well as with drugs that interact with domperidone and increase its circulating concentrations (namely [[CYP3A4]] inhibitors).<ref name="MarziWeitz2015">{{cite journal|last1=Marzi|first1=Marta|last2=Weitz|first2=Darío|last3=Avila|first3=Aylén|last4=Molina|first4=Gabriel|last5=Caraballo|first5=Lucía|last6=Piskulic|first6=Laura|title=Efectos adversos cardíacos de la domperidona en pacientes adultos: revisión sistemática|journal=Revista médica de Chile|volume=143|issue=1|year=2015|pages=14–21|issn=0034-9887|doi=10.4067/S0034-98872015000100002}}</ref><ref name="pmid26117678">{{cite journal | vauthors = Buffery PJ, Strother RM | title = Domperidone safety: a mini-review of the science of QT prolongation and clinical implications of recent global regulatory recommendations | journal = N. Z. Med. J. | volume = 128 | issue = 1416 | pages = 66–74 | year = 2015 | pmid = 26117678 | doi = | url = }}</ref> Conflicting reports exist, however.<ref name="OrtizCooper2015">{{cite journal|last1=Ortiz|first1=Arleen|last2=Cooper|first2=Chad J.|last3=Alvarez|first3=Alicia|last4=Gomez|first4=Yvette|last5=Sarosiek|first5=Irene|last6=McCallum|first6=Richard W.|title=Cardiovascular Safety Profile and Clinical Experience With High-Dose Domperidone Therapy for Nausea and Vomiting|journal=The American Journal of the Medical Sciences|volume=349|issue=5|year=2015|pages=421–424|issn=0002-9629|doi=10.1097/MAJ.0000000000000439}}</ref> In neonates and infants, QT prolongation is controversial and uncertain.<ref>{{cite journal | vauthors = Djeddi D, Kongolo G, Lefaix C, Mounard J, Léké A | title = Effect of domperidone on QT interval in neonates | journal = The Journal of Pediatrics | volume = 153 | issue = 5 | pages = 663–6 | date = November 2008 | pmid = 18589449 | doi = 10.1016/j.jpeds.2008.05.013 }}</ref><ref>{{cite journal | vauthors = Günlemez A, Babaoğlu A, Arisoy AE, Türker G, Gökalp AS | title = Effect of domperidone on the QTc interval in premature infants | journal = Journal of Perinatology | volume = 30 | issue = 1 | pages = 50–3 | date = January 2010 | pmid = 19626027 | pmc = 2834362 | doi = 10.1038/jp.2009.96 }}</ref>
+
+UK drug regulatory authorities (MHRA) [http://www.mhra.gov.uk/Safetyinformation/DrugSafetyUpdate/CON418518 have issued] the following restriction on domperidone in 2014 due to increased risk of adverse cardiac effects:
+
+{{Quotation|''Domperidone (Motilium) is associated with a small increased risk of serious cardiac side effects. Its use is now restricted to the relief of nausea and vomiting and the dosage and duration of use have been reduced. It should no longer be used for the treatment of bloating and heartburn. Domperidone is now contraindicated in those with underlying cardiac conditions and other risk factors. Patients with these conditions and patients receiving long-term treatment with domperidone should be reassessed at a routine appointment, in light of the new advice.''}}
+
+However, a 2015 Australian review concluded the following:<ref name="pmid26117678" />
+
+{{Quotation|''Based on the results of the two TQT (the regulatory agency gold standard for assessment of QT prolongation) domperidone does not appear to be strongly associated with QT prolongation at oral doses of 20 mg QID in healthy volunteers. Further, there are limited case reports supporting an association with cardiac dysfunction, and the frequently cited case-control studies have significant flaws. While there remains an ill-defined risk at higher systemic concentrations, especially in patients with a higher baseline risk of QT prolongation, our review does not support the view that domperidone presents intolerable risk.''}}
+
+====Possible central toxicity in infants====
+In [[United Kingdom|Britain]] a legal case involved the death of two children of a mother whose three children had all had [[hypernatraemia]]. She was charged with poisoning the children with salt. One of the children, who was born at 28 weeks gestation with [[respiratory]] complications and had a [[fundoplication]] for [[gastroesophageal reflux]] and [[failure to thrive]] was prescribed domperidone. An [[advocate]] for the mother suggested the child may have suffered [[neuroleptic malignant syndrome]] as a side effect of domperidone due to the drug crossing the child's immature [[blood-brain-barrier]].<ref>{{cite journal | vauthors = Coulthard MG, Haycock GB | title = Distinguishing between salt poisoning and hypernatraemic dehydration in children | journal = BMJ (Clinical Research Ed.) | volume = 326 | issue = 7381 | pages = 157–60 | date = January 2003 | pmid = 12531853 | pmc = 1128889 | doi = 10.1136/bmj.326.7381.157 | url = http://www.bmj.com/cgi/pmidlookup?view=long&pmid=12531853 }}</ref>
+
+==Interactions==
+Domperidone is almost exclusively metabolized by [[CYP3A4]], and for this reason, [[enzyme inhibitor|inhibitor]]s and [[enzyme inducer|inducer]]s of this [[enzyme]] may alter the metabolism and concentrations of domperidone. Moreover, domperidone has been identified as a modest [[suicide inhibition|mechanism-based (irreversible)]] inhibitor of CYP3A4 (K<sub>i</sub> = 12 μM), and it has been estimated that it may increase the serum concentrations of CYP3A4 substrates by approximately 50%.<ref name="pmid20082577">{{cite journal | vauthors = Chang SY, Fancher RM, Zhang H, Gan J | title = Mechanism-based inhibition of human cytochrome P4503A4 by domperidone | journal = Xenobiotica | volume = 40 | issue = 2 | pages = 138–45 | year = 2010 | pmid = 20082577 | doi = 10.3109/00498250903406762 | url = }}</ref>
+
+[[Itraconazole]] and [[ketoconazole]], both used to treat fungal infections, are potent CYP3A4 inhibitors and increase the [[pharmacokinetics|plasma concentration]] of domperidone.<ref>{{cite journal | vauthors = Yoshizato T, Kotegawa T, Imai H, Tsutsumi K, Imanaga J, Ohyama T, Ohashi K | title = Itraconazole and domperidone: a placebo-controlled drug interaction study | journal = European Journal of Clinical Pharmacology | volume = 68 | issue = 9 | pages = 1287–94 | date = September 2012 | pmid = 22418831 | doi = 10.1007/s00228-012-1258-x }}</ref><ref>{{cite journal | vauthors = Boyce MJ, Baisley KJ, Warrington SJ | title = Pharmacokinetic interaction between domperidone and ketoconazole leads to QT prolongation in healthy volunteers: a randomized, placebo-controlled, double-blind, crossover study | journal = British Journal of Clinical Pharmacology | volume = 73 | issue = 3 | pages = 411–21 | date = March 2012 | pmid = 21883386 | pmc = 3370345 | doi = 10.1111/j.1365-2125.2011.04093.x }}</ref> In healthy volunteers, ketoconazole increased the [[Cmax (pharmacology)|C<sub>max</sub>]] and [[Area under the curve (pharmacokinetics)|AUC]] concentrations of domperidone by 3- to 10-fold.<ref name="Aronson2009">{{cite book|author=Jeffrey K. Aronson|title=Meyler's Side Effects of Antimicrobial Drugs|url=https://books.google.com/books?id=Zu2s5QBqiEkC&pg=PT2244|date=27 November 2009|publisher=Elsevier|isbn=978-0-08-093293-4|pages=2244–}}</ref> This was accompanied by a QT interval prolongation of about 10–20 milliseconds when domperidone 10&nbsp;mg four times daily and ketoconazole 200&nbsp;mg twice daily were administered, whereas domperidone by itself at the dosage assessed produced no such effect.<ref name="Aronson2009" /> As such, domperidone with ketoconazole or other CYP3A4 inhibitors is a potentially dangerous combination.<ref name="Aronson2009" />
+
+[[Erythromycin]] and certain other [[macrolide]] antibiotics are CYP3A4 inhibitors and inhibit the metabolism of domperidone (''[[in vitro]]''), thus increasing the concentration of domperidone and potential side effects of the drug. This is of concern as both drugs may be used to treat gastroparesis.<ref>{{cite journal | vauthors = Ung D, Parkman HP, Nagar S | title = Metabolic interactions between prokinetic agents domperidone and erythromycin: an in vitro analysis | journal = Xenobiotica | volume = 39 | issue = 10 | pages = 749–56 | date = October 2009 | pmid = 19575604 | doi = 10.1080/00498250903096121 }}</ref>
+
+There is evidence that domperidone should not be taken with [[grapefruit]] [[juice]], which is a known CYP3A4 inhibitor.<ref>{{Cite web|url=http://abcnews.go.com/blogs/health/2012/11/26/grapefruit-medicine-interaction-warning-expanded/ |title=Grapefruit, Medicine Interaction Warning Expanded |author= |date=2012-11-26 |publisher=[[ABC News]] |accessdate=2014-10-31 |archiveurl=https://www.webcitation.org/6Tk7Rlgml?url=http://abcnews.go.com/blogs/health/2012/11/26/grapefruit-medicine-interaction-warning-expanded/ |archivedate=31 October 2014 |deadurl=no |df=dmy }}</ref>
+
+==Contraindications==
+* CYP3A4 inhibitors.
+** [[Triazole]] antifungal medications such as [[ketoconazole]], [[itraconazole]], [[fluconazole]].
+** [[Macrolide]] antibiotics such as [[erythromycin]] and [[clarithromycin]].
+** [[Grapefruit juice]].
+** Other potent [[CYP3A4]] inhibitors.
+* QT-prolonging drugs like [[amiodarone]].<ref name="MIMS">Swannick G. (ed.) "MIMS Australia." December 2013</ref>
+* [[Prolactin]] secreting [[pituitary tumor]] ([[prolactinoma]]) or [[hyperprolactinemia]].
+* Mechanical bowel disorders such as [[bowel obstruction]], [[gastrointestinal haemorrhage]] or [[bowel perforation]]
+* Moderate hepatic impairment (liver disease).
+* Severe renal impairment (kidney disease).
+* Cardiac disease.
+
+==Pharmacology==
+
+===Pharmacodynamics===
+Domperidone is a peripherally selective dopamine [[D2 receptor|D<sub>2</sub>]] and [[D3 receptor|D<sub>3</sub> receptor]] antagonist.<ref name="pmid10332535" /> It has no clinically significant interaction with the [[D1 receptor|D<sub>1</sub> receptor]], unlike metoclopramide.<ref name="pmid10332535" /> The drug provides relief from nausea by blocking receptors at the [[chemoreceptor trigger zone]] (a location in the [[nervous system]] that mediates nausea) at the floor of the fourth [[Ventricular system|ventricle]] (a location near the [[brain]]). It increases motility in the upper gastrointestinal tract to a moderate degree and increases<ref>{{cite journal | vauthors = Bron B, Massih L | title = Domperidone: A drug with powerful action on the lower esophageal sphincter pressure | journal = Digestion | volume = 20 | issue = 6 | pages = 375–8 | year = 1980 | pmid = 7409348 | doi=10.1159/000198476}}</ref> [[lower esophageal sphincter]] pressure by blocking [[dopamine receptor]]s in the [[gastric antrum]] and the [[duodenum]]. It blocks dopamine receptors in the [[anterior pituitary]] gland increasing release of [[prolactin]] which in turn increases [[lactation]].<ref>Saeb-Parsy K. [https://books.google.com/books?id=F4-IdTewurIC&dq=domperidone+mechanism+of+action&source=gbs_navlinks_s "Instant pharmacology."] John Wiley & Sons, 1999 {{ISBN|0471976393}}, 9780471976394 p216.</ref><ref>{{cite journal | vauthors = Sakamoto Y, Kato S, Sekino Y, Sakai E, Uchiyama T, Iida H, Hosono K, Endo H, Fujita K, Koide T, Takahashi H, Yoneda M, Tokoro C, Goto A, Abe Y, Kobayashi N, Kubota K, Maeda S, Nakajima A, Inamori M | title = Effects of domperidone on gastric emptying: a crossover study using a continuous real-time 13C breath test (BreathID system) | journal = Hepato-gastroenterology | volume = 58 | issue = 106 | pages = 637–41 | year = 2011 | pmid = 21661445 }}</ref> Domperidone may be more useful in some patients and cause harm in others by way of the [[genotype|genetics]] of the person, such as [[polymorphism (biology)|polymorphism]]s in the drug transporter [[gene]] ''ABCB1'' (which encodes [[P-glycoprotein]]), the [[voltage-gated potassium channel]] ''KCNH2'' gene ([[hERG|hERG/K<sub>v</sub>11.1]]), and the [[Alpha-1D adrenergic receptor|α<sub>1D</sub>—adrenoceptor]] ''ADRA1D'' gene.<ref>{{cite journal | vauthors = Parkman HP, Jacobs MR, Mishra A, Hurdle JA, Sachdeva P, Gaughan JP, Krynetskiy E | title = Domperidone treatment for gastroparesis: demographic and pharmacogenetic characterization of clinical efficacy and side-effects | journal = Digestive Diseases and Sciences | volume = 56 | issue = 1 | pages = 115–24 | date = January 2011 | pmid = 21063774 | doi = 10.1007/s10620-010-1472-2 }}</ref>
+
+====Effects on prolactin levels====
+A single 20&nbsp;mg oral dose of domperidone has been found to increase mean serum prolactin levels (measured 90 minutes post-administration) in non-lactating women from 8.1&nbsp;ng/mL to 110.9&nbsp;ng/mL (a 13.7-fold increase).<ref name="pmid10332535" /><ref name="pmid12192964">{{cite journal | vauthors = Gabay MP | title = Galactogogues: medications that induce lactation | journal = J Hum Lact | volume = 18 | issue = 3 | pages = 274–9 | year = 2002 | pmid = 12192964 | doi = 10.1177/089033440201800311| url = }}</ref><ref name="pmid3882143">{{cite journal | vauthors = Hofmeyr GJ, Van Iddekinge B, Blott JA | title = Domperidone: secretion in breast milk and effect on puerperal prolactin levels | journal = Br J Obstet Gynaecol | volume = 92 | issue = 2 | pages = 141–4 | year = 1985 | pmid = 3882143 | doi = 10.1111/j.1471-0528.1985.tb01065.x| url = }}</ref><ref name="pmid7428183">{{cite journal | vauthors = Brouwers JR, Assies J, Wiersinga WM, Huizing G, Tytgat GN | title = Plasma prolactin levels after acute and subchronic oral administration of domperidone and of metoclopramide: a cross-over study in healthy volunteers | journal = Clin. Endocrinol. | volume = 12 | issue = 5 | pages = 435–40 | year = 1980 | pmid = 7428183 | doi = 10.1111/j.1365-2265.1980.tb02733.x| url = }}</ref> This was similar to the increase in prolactin levels produced by a single 20&nbsp;mg oral dose of metoclopramide (7.4&nbsp;ng/mL to 124.1&nbsp;ng/mL; 16.7-fold increase).<ref name="pmid3882143" /><ref name="pmid7428183" /> After two weeks of chronic administration (30&nbsp;mg/day in both cases), the increase in prolactin levels produced by domperidone was reduced (53.2&nbsp;ng/mL; 6.6-fold above baseline), but the increase in prolactin levels produced by metoclopramide, conversely, was heightened (179.6&nbsp;ng/mL; 24.3-fold above baseline).<ref name="pmid10332535" /><ref name="pmid7428183" /> This indicates that acute and chronic administration of both domperidone and metoclopramide is effective in increasing prolactin levels, but that there are differential effects on the secretion of prolactin with chronic treatment.<ref name="pmid3882143" /><ref name="pmid7428183" /> The mechanism of the difference is unknown.<ref name="pmid7428183" /> The increase in prolactin levels observed with the two drugs was, as expected, much greater in women than in men.<ref name="pmid3882143" /><ref name="pmid7428183" /> This appears to be due to the higher [[estrogen]] levels in women, as estrogen stimulates prolactin secretion.<ref name="pmid7460861">{{cite journal | vauthors = Fujino T, Kato H, Yamashita S, Aramaki S, Morioka H, Koresawa M, Miyauchi F, Toyoshima H, Torigoe T | title = Effects of domperidone on serum prolactin levels in human beings | journal = Endocrinol. Jpn. | volume = 27 | issue = 4 | pages = 521–5 | year = 1980 | pmid = 7460861 | doi = 10.1507/endocrj1954.27.521| url = }}</ref>
+
+For comparison, normal prolactin levels in women are less than 20&nbsp;ng/mL, prolactin levels peak at 100 to 300&nbsp;ng/mL at [[parturition]] in [[pregnancy|pregnant]] women, and in lactating women, prolactin levels have been found to be 90&nbsp;ng/mL at 10 days postpartum and 44&nbsp;ng/mL at 180 days postpartum.<ref name="Riordan2005">{{cite book|author=Jan Riordan|title=Breastfeeding and Human Lactation|url=https://books.google.com/books?id=aiVesab_2bwC&pg=PA76|date=January 2005|publisher=Jones & Bartlett Learning|isbn=978-0-7637-4585-1|pages=76–}}</ref><ref name="Becker2001">{{cite book|author=Kenneth L. Becker|title=Principles and Practice of Endocrinology and Metabolism|url=https://books.google.com/books?id=FVfzRvaucq8C&pg=PA147|year=2001|publisher=Lippincott Williams & Wilkins|isbn=978-0-7817-1750-2|pages=147–}}</ref>
+
+====Effects on {{abbr|TSH|thyroid-stimulating hormone}} levels====
+Along with prolactin, domperidone has, to a lesser extent, been found to increase the secretion of [[thyroid-stimulating hormone]] (TSH), even in patients with [[hypothyroidism]].<ref name="pmid3882143" /> A single 4&nbsp;mg intravenous dose of domperidone produced peak TSH levels of 1.9-fold above baseline and peak prolactin levels of 23-fold above baseline (which occurred at 30 minutes post-administration) in women with hypothyroidism.<ref name="pmid3882143" /> Levels of TSH and prolactin decreased to 1.6-fold and 17-fold above baseline, respectively, at 120 minutes post-administration.<ref name="pmid3882143" />
+
+===Pharmacokinetics===
+With [[oral administration]], domperidone is extensively metabolized in the [[liver]] (almost exclusively by [[CYP3A4]]/[[CYP3A5|5]], though minor contributions by [[CYP1A2]], [[CYP2D6]], and [[CYP2C8]] have also been reported)<ref name="pmid26059917">{{cite journal | vauthors = Youssef AS, Parkman HP, Nagar S | title = Drug-drug interactions in pharmacologic management of gastroparesis | journal = Neurogastroenterol. Motil. | volume = 27 | issue = 11 | pages = 1528–41 | year = 2015 | pmid = 26059917 | doi = 10.1111/nmo.12614 | url = }}</ref> and in the [[intestine]]s.<ref name="SimardMichaud2008" /> Due to the marked [[first-pass effect]] via this route, the oral [[bioavailability]] of domperidone is low (13–17%);<ref name="ReddymasuSoykan2007" /> conversely, its bioavailability is high via [[intramuscular injection]] (90%).<ref name="ReddymasuSoykan2007" /> The [[biological half-life|terminal half-life]] of domperidone is 7.5 hours in healthy individuals, but can be prolonged to 20 hours in people with severe renal dysfunction.<ref name="ReddymasuSoykan2007" /> All of the [[metabolite]]s of domperidone are inactive as D<sub>2</sub> receptor ligands.<ref name="ReddymasuSoykan2007" /><ref name="SimardMichaud2008" /> The drug is a [[substrate (chemistry)#Bioavailability|substrate]] for the [[P-glycoprotein]] (ABCB1) transporter, and animal studies suggest that this is the reason for the low [[central nervous system]] penetration of domperidone.<ref name="BardalWaechter2011">{{cite book|author1=Stan K. Bardal|author2=Jason E. Waechter|author3=Douglas S. Martin|title=Applied Pharmacology|url=https://books.google.com/books?id=nYPy70d1E50C&pg=PA184|year=2011|publisher=Elsevier Health Sciences|isbn=1-4377-0310-0|pages=184–}}</ref>
+
+==Chemistry==
+Domperidone is a [[benzimidazole]] derivative and is structurally related to [[butyrophenone]] [[neuroleptic]]s like [[haloperidol]].<ref name="HospitalFormulary1991">{{cite book|title=Hospital Formulary|url=https://books.google.com/books?id=3oVMAQAAIAAJ|year=1991|publisher=HFM Publishing Corporation|page=171|quote=Domperidone, a benzimidazole derivative, is structurally related to the butyrophenone tranquilizers (eg, haloperidol (Haldol, Halperon]).}}</ref><ref name="BiggioCosta2013">{{cite book|author1=Giovanni Biggio|author2=Erminio Costa|author3=P. F. Spano|title=Receptors as Supramolecular Entities: Proceedings of the Biannual Capo Boi Conference, Cagliari, Italy, 7-10 June 1981|url=https://books.google.com/books?id=8VAJAwAAQBAJ&pg=PA3|date=22 October 2013|publisher=Elsevier Science|isbn=978-1-4831-5550-0|pages=3–}}</ref>
+
+==History==
+* 1974 – Domperidone synthesized at [[Janssen Pharmaceutica]]<ref>{{cite journal | vauthors = Wan EW, Davey K, Page-Sharp M, Hartmann PE, Simmer K, Ilett KF | title = Dose-effect study of domperidone as a galactagogue in preterm mothers with insufficient milk supply, and its transfer into milk | journal = [[British Journal of Clinical Pharmacology]], August 2008 | volume = 66 | issue = 2 | pages = 283–289 | date = 2008-05-27 | pmid =  18507654| doi = 10.1111/j.1365-2125.2008.03207.x | pmc = 2492930 }}</ref> following the research on [[Antipsychotic|antipsychotic drugs]].<ref name="dd">{{cite book|last=Sneader|first=Walter|date=2005|title=Drug discovery : a history|chapter=Plant Product Analogues and Compounds Derived from Them|location=Chichester|publisher=John Wiley & Sons Ltd|page=125|isbn=0-471-89979-8|accessdate=}}</ref> Janssen pharmacologists discovered that some of antipsychotic drugs had a significant effect on [[dopamine]] receptors in the [[Chemoreceptor trigger zone|central chemoreceptor trigger zone]] that regulated [[vomiting]] and started searching for a dopamine [[Receptor antagonist|antagonist]] that would not pass the [[blood–brain barrier]], thereby being free of the [[Extrapyramidal symptoms|extrapyramidal side effects]] that were associated with drugs of this type.<ref name="dd" /> This led to the discovery of domperidone as a strong [[Antiemetic|anti-emetic]] with minimal central effects.<ref name="dd" /><ref>{{cite book |last=Corsini|first=Giovanni Umberto|editor-last1=Ban|editor-first1=Thomas A|editor-last2=Healy|editor-first2=David|editor-last3=Shorter|editor-first3=Edward|title=The Triumph of Psychopharacology and the Story of CINP|publisher=CINP|date=|year=2010|page=54|chapter=Apomorphine: from experimental tool to therpeutic aid|chapterurl=http://cinp.org/fileadmin/documents/history/books/VOL2_opt.pdf|isbn=9634081819 |lastauthoramp=y|archiveurl=https://www.webcitation.org/6TlHgQUT7?url=http://cinp.org/fileadmin/documents/history/books/VOL2_opt.pdf|archivedate=2014-11-01}}</ref>
+* 1978 – On 3 January 1978 Domperidone was patented in the United States under patent US4066772 A. The application has been filed on 17 May 1976. Jan Vandenberk, Ludo E. J. Kennis, Marcel J. M. C. Van der Aa and others has been cited as the inventors.
+* 1979 – Domperidone marketed under trade name "Motilium" in Switzerland and (Western) Germany.<ref>{{cite book|last=|first=|title=Pharmaceutical Manufacturing Encyclopedia, 3rd Edition (Vol. 1-4)|publisher=William Andrew Publishing|date=|year=2013|page=138|chapter=Domperidone|url=https://books.google.com/books?id=_J2ti4EkYpkC&pg=PA1381&dq=#v=onepage&q&f=false|isbn=9780815518563|accessdate=2014-12-12}}</ref>
+* 1999 – Domperidone was introduced in the forms of [[orally disintegrating tablet]]s (based on [[Zydis]] technology).<ref>{{cite book|last1=Rathbone|first1=Michael J.|last2=Hadgraft|first2=Jonathan|last3=Roberts|first3=Michael S.|date=2002|title=Modified-Release Drug Delivery Technology|chapter=The Zydis Oral Fast-Dissolving Dosage Form|url=https://books.google.com/books?id=mw9W82MLYZ8C&pg=PA200&lpg=#v=onepage&q&f=false|location=|publisher=CRC Press|page=200|isbn=9780824708696|accessdate=2014-10-31}}</ref>
+* Janssen Pharmaceutical has brought domperidone before the United States Federal Drug Administration (FDA) several times, including in the 1990s.
+* 2014 – In April 2014 Co-ordination Group for Mutual Recognition and Decentralised Procedures – Human (CMDh) published official press-release suggesting to restrict the use of domperidone-containing medicines. It also approved earlier published suggestions by [[European Medicines Agency|Pharmacovigilance Risk Assessment Committee (PRAC)]] to use domperidone only for curing [[nausea]] and [[vomiting]] and reduce maximum daily dosage to 10 [[Orders of magnitude (mass)|mg]].<ref name="ema">{{Cite web |url=http://www.ema.europa.eu/ema/index.jsp?curl=pages/news_and_events/news/2014/04/news_detail_002083.jsp |title=CMDh confirms recommendations on restricting use of domperidone-containing medicines: European Commission to take final legal decision |author= |date=2014-04-25 |publisher=[[European Medicines Agency]] |accessdate=2014-10-31 |archiveurl=https://web.archive.org/web/20160130200137/http://www.ema.europa.eu/ema/index.jsp?curl=pages%2Fnews_and_events%2Fnews%2F2014%2F04%2Fnews_detail_002083.jsp |archivedate=30 January 2016 |deadurl=no |df=dmy }}</ref>
+
+==Society and culture==
+
+===Generic name===
+''Domperidone'' is the {{abbrlink|INN|International Nonproprietary Name}}, {{abbrlink|USAN|United States Adopted Name}}, {{abbrlink|BAN|British Approved Name}}, and {{abbrlink|JAN|Japanese Accepted Name}} of the drug.<ref name="Elks2014">{{cite book|author=J. Elks|title=The Dictionary of Drugs: Chemical Data: Chemical Data, Structures and Bibliographies|url=https://books.google.com/books?id=0vXTBwAAQBAJ&pg=PA466|date=14 November 2014|publisher=Springer|isbn=978-1-4757-2085-3|pages=466–}}</ref><ref name="IndexNominum2000" /><ref name="Drugs.com">https://www.drugs.com/international/domperidone.html</ref>
+
+===Availability===
+Domperidone is available [[over-the-counter]] to treat gastroesophageal reflux and functional dyspepsia in many countries, such as Ireland, the [[Netherlands]], Italy,  [[South Africa]], Mexico, [[Chile]], and China.<ref name="FaisVermiglio2015">{{cite journal|last1=Fais|first1=Paolo|last2=Vermiglio|first2=Elisa|last3=Laposata|first3=Chiara|last4=Lockwood|first4=Robert|last5=Gottardo|first5=Rossella|last6=De Leo|first6=Domenico|title=A case of sudden cardiac death following Domperidone self-medication|journal=Forensic Science International|volume=254|year=2015|pages=e1–e3|issn=0379-0738|doi=10.1016/j.forsciint.2015.06.004|pmid=26119456}}</ref> Domperidone is not approved for use in the United States, but is prescribable and limitedly available in this country for use in people with treatment-refractory gastrointestinal symptoms under an FDA [[Investigational New Drug]] application.<ref name="ReddymasuSoykan2007" /> In 2007, it was reported that domperidone was available in 58 countries.<ref name="ReddymasuSoykan2007" />
+
+===Formulations===
+{| class="wikitable" style="text-align:center"
+|-
+! Nation
+! Manufacturer
+! Brand
+! Formulations
+|-
+| Australia || Janssen–Cilag || Motilium || 10&nbsp;mg scored tablets<ref name="MIMS"/>
+|-
+| Belgium and the Netherlands || - || Motilium || From 2013 only by prescription in Belgium.<ref>{{cite web|url=https://translate.google.com/translate?sl=nl&tl=en&js=n&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.standaard.be%2Fcnt%2Fdmf20130507_00571810 |title=De Standaard: "Motilium from now on only with prescription"|publisher=standaard.be |date=2013-05-07 |accessdate=2013-10-03}}</ref>
+|-
+| Bangladesh || Square || Motigut || 10&nbsp;mg scored tablets
+|-
+| Bangladesh || Astra Pharma || Domperon || 10&nbsp;mg scored tablets
+|-
+| Bangladesh || - || Ridon || -
+|-
+| Canada || - || Motilium (1985–2002) || Generic brands available
+|-
+| France || Mylan || Dompéridone || 10&nbsp;mg tablets
+|-
+| India || Salius Pharma || Escacid DXR || pantoprazole 40&nbsp;mg and domperidone SR 30&nbsp;mg
+|-
+| India || FDC Pharmaceuticals || Pepcia-D || Rabeprazole 20&nbsp;mg and Domperidone SR 30&nbsp;mg
+|-
+| India || Rhubarb pharmaceuticals || - || domperidone 5, 10 and 20&nbsp;mg tablets.
+|-
+| India || [[Ipca Laboratories]], Mumbai || Domperi suspension || domperidone 1&nbsp;mg/ml, 30 ml suspension.<ref>{{cite web|url=http://www.ipcalabs.com/ |title=ipcalabs.com |publisher=ipcalabs.com |accessdate=2013-06-30}}</ref>
+|-
+| India || Torrent pharmaceuticals || Domstal || - <ref>{{cite web|url=http://www.torrentpharma.com/ |title=torrentpharma.com |publisher=torrentpharma.com |accessdate=2013-06-30}}</ref>
+|-
+| India || Ozone pharmaceuticals and chemicals || Pantazone-D ||10&nbsp;mg domperidone and 40&nbsp;mg pantoprazole
+|-
+| India || Chimak Health Care || Pancert D ||10&nbsp;mg Domperidone and 40&nbsp;mg pantoprazole
+|-
+| India  || Draavin Pharma     || Draaci-XD ||Pantaprazole 40&nbsp;mg and Domperione 30&nbsp;mg
+|-
+| Iran || Abidi Pharmaceutical Co. || MOTiDON || 10&nbsp;mg tablet
+|-
+| Ireland || McNeil Healthcare || Motilium || 10&nbsp;mg [[Orally disintegrating tablet|orally disintegrating tablet (ODT)]]
+|- 
+| Italy || - || Peridon || domperidone 10&nbsp;mg tablets; 30 ml suspension
+|-
+| Lithuania || Johnson & Johnson || Motilium || -
+|-
+| Pakistan || Barrett Hodgson Pakistan || Domel ||
+|-
+| Pakistan || Johnson & Johnson Pakistan || Motilium-v || domperidone 10&nbsp;mg tablets; 30 ml suspension
+|-
+|Pakistan || ATCO Laboratories Limited || Vomilux || domperidone 10&nbsp;mg tablets
+|-
+|Pakistan || Aspin Pharma (Pvt) Limited || Motilium || domperidone 10&nbsp;mg tablets
+|-
+| Philippines || Health Saver Pharma || Abdopen || -
+|-
+| Philippines || United Laboratories, Inc. || GI Norm || -
+|-
+| Portugal || Medinfar || Cinet || domperidone 1&nbsp;mg/ml oral suspension (200 ml)
+|-
+| Russia || Janssen Pharmaceutica || Motilium || domperidone 10&nbsp;mg film-coated tablets & ODT; 1&nbsp;mg/ml suspension (100 ml)
+|-
+| - || OBL Pharm || Passagix || domperidone 10&nbsp;mg film-coated tablets & chewable tablets
+|-
+| - || [[Dr. Reddy's|Dr. Reddy's Laboratories]] || Omez D || domperidone/omeprazole (10&nbsp;mg/10&nbsp;mg)
+|-
+| Saudi Arabia || JamJoom Pharmaceuticals || Dompy || Domperidone 10&nbsp;mg tablets
+|-
+|Spain
+|Laboratorios Dr. Esteve, SA
+|Motilium
+|domperidone 1&nbsp;mg/ml oral suspension (200 ml)
+|-
+| Sweden || Ebb medical || Domperidon Ebb (2013) || domperidone 10&nbsp;mg ODT and peppermint
+|-
+| Taiwan || - || Dotitone || -
+|-
+| Thailand || - || Motilium M || -
+|-
+| Turkey || Saba || Motinorm || -
+|-
+| - || [[GlaxoSmithKline]] || Motinorm || -
+|}
+
+==See also==
+* [[Cisapride]]
+* [[Itopride]]
+* [[Metoclopramide]]
+* [[Trimethobenzamide]]
+
+==References==
+{{Reflist|35em}}
+
+==External links==
+* [http://www.digestivedistress.com/files/pdf/FDA_Letter_to_compliance_final4.pdf GPDA letter to the FDA]{{dead link|date=December 2016 |bot=InternetArchiveBot |fix-attempted=yes }} about domperidone for gastroparesis.
+* [http://druginfo.nlm.nih.gov/drugportal/dpdirect.jsp?name=Domperidone U.S. National Library of Medicine: Drug Information Portal - Domperidone]
+
+{{Antiemetics}}
+{{Propulsives}}
+{{Dopamine receptor modulators}}
+{{Ion channel modulators}}
+
+[[Category:Antiemetics]]
+[[Category:Belgian inventions]]
+[[Category:Benzimidazoles]]
+[[Category:Chloroarenes]]
+[[Category:Dopamine antagonists]]
+[[Category:Janssen Pharmaceutica]]
+[[Category:Motility stimulants]]
+[[Category:Peripherally selective drugs]]
+[[Category:Piperidines]]
+[[Category:Potassium channel blockers]]
+[[Category:Ureas]]

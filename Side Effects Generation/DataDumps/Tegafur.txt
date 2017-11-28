@@ -1,0 +1,102 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470478587
+| IUPAC_name = (''RS'')-5-Fluoro-1-(tetrahydrofuran-2-yl)pyrimidine-2,4(1''H'',3''H'')-dione
+| image = Tegafur.svg
+| alt = Skeletal formula of tegafur
+| width = 150
+| image2 = Tegafur-3D-balls.png
+| alt2 = Ball-and-stick model of the tegafur molecule
+| width2 = 125
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|tegafur}}
+| pregnancy_AU = D
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = S4
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = POM
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life = 3.9-11 hours
+| excretion =  
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 17902-23-7
+| ATC_prefix = L01
+| ATC_suffix = BC03
+| ATC_supplemental =  
+| PubChem = 288216
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 254191
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 1548R74NSZ
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01244
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 20883
+<!--Chemical data-->
+| chemical_formula =
+| C=8 | H=9 | F=1 | N=2 | O=3
+| molecular_weight = 200.16 g/mol
+| smiles = FC=1C(=O)NC(=O)N(C=1)[C@@H]2OCCC2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C8H9FN2O3/c9-5-4-11(6-2-1-3-14-6)8(13)10-7(5)12/h4,6H,1-3H2,(H,10,12,13)/t6-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WFWLQNSHRPWKFK-ZCFIWIBFSA-N
+| synonyms = <small>5-fluoro-1-(oxolan-2-yl)pyrimidine-2,4-dione</small>
+}}
+
+'''Tegafur''' ([[International Nonproprietary Name|INN]], [[British Approved Name|BAN]], [[United States Adopted Name|USAN]]) is a [[chemotherapeutic]] [[prodrug]] of [[5-flourouracil]] (5-FU) used in the treatment of cancers. It is a component of the combination drug [[tegafur/uracil]]. When metabolised, it becomes 5-FU.<ref>{{cite journal | pmid = 6409396 | year = 1983 | last1 = El Sayed | first1 = YM | last2 = Sadée | first2 = W | title = Metabolic activation of R,S-1-(tetrahydro-2-furanyl)-5-fluorouracil (ftorafur) to 5-fluorouracil by soluble enzymes | volume = 43 | issue = 9 | pages = 4039–44 | journal = Cancer Research}}</ref>
+
+==Medical uses==
+As a prodrug to 5-FU it is used in the treatment of the following cancers:<ref name = MD>{{cite web|title=Martindale: The Complete Drug Reference|publisher=Pharmaceutical Press|date=14 November 2011|accessdate=12 February 2014|url=http://www.medicinescomplete.com/mc/martindale/current/1866-m.htm|editor=Sweetman, S}}</ref>
+* [[Stomach cancer|Stomach]] (when combined with [[Tegafur/gimeracil/oteracil|gimeracil and oteracil]])
+* [[Breast cancer|Breast]] (with uracil)
+* [[Gallbladder cancer|Gallbladder]]
+* [[Lung cancer|Lung]] (specifically adenocarcinoma, typically with uracil)
+* [[Colorectal cancer|Colorectal]] (usually when combined with gimeracil and oteracil)
+* [[Head and neck cancer|Head and neck]]
+* [[Liver cancer|Liver]] (with uracil)<ref>{{cite journal|last=Ishikawa|first=T|title=Chemotherapy with enteric-coated tegafur/uracil for advanced hepatocellular carcinoma.|journal=World Journal of Gastroenterology : WJG|date=14 May 2008|volume=14|issue=18|pages=2797–2801|doi=10.3748/wjg.14.2797|pmid=18473401|url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2710718/pdf/WJG-14-2797.pdf|format=PDF|pmc=2710718}}</ref>
+* [[Pancreatic cancer|Pancreatic]]
+
+It is often given in combination with drugs that alter its bioavailability and toxicity such as gimeracil, oteracil or uracil.<ref name = MD/> These agents achieve this by inhibiting the enzyme [[dihydropyrimidine dehydrogenase]] (uracil/gimeracil) or [[orotate phosphoribosyltransferase]] (oteracil).<ref name = MD/>
+
+==Adverse effects==
+The major side effects of tegafur are similar to fluorouracil and include myelosuppression, central neurotoxicity and gastrointestinal toxicity (especially diarrhoea).<ref name = MD/> Gastrointestinal toxicity is the dose-limiting side effect of tegafur.<ref name = MD/> Central neurotoxicity is more common with tegafur than with fluorouracil.<ref name = MD/>
+
+===Pharmacogenetics===
+
+The [[dihydropyrimidine dehydrogenase]] (DPD) enzyme is responsible for the detoxifying metabolism of fluoropyrimidines, a class of drugs that includes [[5-fluorouracil]], [[capecitabine]], and tegafur.<ref name="pmid23988873">{{cite journal|last1=Caudle|first1=KE|last2=Thorn|first2=CF|last3=Klein|first3=TE|last4=Swen|first4=JJ|last5=McLeod|first5=HL|last6=Diasio|first6=RB|last7=Schwab|first7=M|title=Clinical Pharmacogenetics Implementation Consortium guidelines for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing.|journal=Clinical pharmacology and therapeutics|date=December 2013|volume=94|issue=6|pages=640–5|doi=10.1038/clpt.2013.172|pmid=23988873|pmc=3831181}}</ref> [[Genetic variation]]s within the DPD gene (''DPYD'') can lead to reduced or absent DPD activity, and individuals who are [[heterozygous]] or [[homozygous]] for these variations may have partial or complete [[DPD deficiency]]; an estimated 0.2% of individuals have complete [[DPD deficiency]].<ref name="pmid23988873"/><ref name="pmid21919607">{{cite journal|last1=Amstutz|first1=U|last2=Froehlich|first2=TK|last3=Largiadèr|first3=CR|title=Dihydropyrimidine dehydrogenase gene as a major predictor of severe 5-fluorouracil toxicity.|journal=Pharmacogenomics|date=September 2011|volume=12|issue=9|pages=1321–36|pmid=21919607|doi=10.2217/pgs.11.72}}</ref> Those with partial or complete DPD deficiency have a significantly increased risk of severe or even fatal drug toxicities when treated with fluoropyrimidines; examples of toxicities include [[myelosuppression]], [[neurotoxicity]] and [[hand-foot syndrome]].<ref name="pmid23988873"/><ref name="pmid21919607"/>
+
+==Mechanism of action==
+It is a prodrug to 5-FU, which is a [[thymidylate synthase]] inhibitor.<ref name = MD/>
+
+==Pharmacokinetics==
+It is metabolised to 5-FU by [[CYP2A6]].<ref>{{cite journal|last=Nakayama|first=T|author2=Noguchi, S |title=Therapeutic usefulness of postoperative adjuvant chemotherapy with Tegafur-Uracil (UFT) in patients with breast cancer: focus on the results of clinical studies in Japan.|journal=The Oncologist|date=January 2010|volume=15|issue=1|pages=26–36|doi=10.1634/theoncologist.2009-0255|pmid=20080863|url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3227888/pdf/onc26.pdf|format=PDF|pmc=3227888}}</ref><ref>{{cite journal|vauthors = Matt P, van Zwieten-Boot B, Calvo Rojas G, Ter Hofstede H, Garcia-Carbonero R, Camarero J, Abadie E, Pignatti F |title=The European Medicines Agency review of Tegafur/Gimeracil/Oteracil (Teysuno™) for the treatment of advanced gastric cancer when given in combination with cisplatin: summary of the Scientific Assessment of the Committee for medicinal products for human use (CHMP).|journal=The Oncologist|date=October 2011|volume=16|issue=10|pages=1451–1457|doi=10.1634/theoncologist.2011-0224|pmid=21963999|url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3228070/pdf/onc1451.pdf|format=PDF|pmc=3228070}}</ref>
+
+== Interactive pathway map ==
+{{FluoropyrimidineActivity WP1601|highlight=Tegafur}}
+
+==See also==
+* [[Tegafur/uracil]]
+* [[Tegafur/gimeracil/oteracil]]
+
+==References==
+{{reflist}}
+
+{{Chemotherapeutic agents}}
+
+[[Category:Organofluorides]]
+[[Category:Prodrugs]]
+[[Category:Pyrimidinediones]]
+[[Category:Pyrimidine antagonists]]
+[[Category:Tetrahydrofurans]]

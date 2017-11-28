@@ -1,0 +1,97 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid =
+| IUPAC_name = [dichloro-<nowiki>[[[</nowiki>(2''R'',3''S'',4''R'',5''R'')-3,4-dihydroxy-5-[6-(2-methylsulfanylethylamino)-2-(3,3,3-trifluoropropylsulfanyl)purin-9-yl]oxolan-2-yl]methoxy-hydroxyphosphoryl]oxy-hydroxyphosphoryl]methyl]phosphonic acid
+| image = Cangrelor structure.svg
+| width = 300
+
+<!--Clinical data-->
+| tradename = Kengreal, Kengrexal
+| Drugs.com =
+| MedlinePlus =
+| licence_EU =
+| licence_US = Kengreal
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = C
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = [[Intravenous therapy|Intravenous]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 100% (IV)
+| protein_bound = ~97–98%.
+| metabolism = Rapid deactivation in the circulation (independent of [[Cytochrome P450|CYP]] system)
+| elimination_half-life = ~3–6 minutes
+| excretion = [[Kidney|Renal]] (58%), [[Bile|biliary]] (35%)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 1776
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 163706-06-7
+| ATC_prefix = B01
+| ATC_suffix = AC25
+| ATC_supplemental =  
+| PubChem = 9854012
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 6AQ1Y404U7
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03359
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1097279
+| ChEBI_Ref = {{ebicite|correct|EBI}} 
+| ChEBI = 90841
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 8029718
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=17 | H=25 | Cl=2 | F=3 | N=5 | O=12 | P=3 | S=2 
+| molecular_weight = 776.36 g/mol
+| smiles = CSCCNC1=NC(=NC2=C1N=CN2[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(C(P(=O)(O)O)(Cl)Cl)O)O)O)SCCC(F)(F)F
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C17H25Cl2F3N5O12P3S2/c1-43-5-3-23-12-9-13(26-15(25-12)44-4-2-16(20,21)22)27(7-24-9)14-11(29)10(28)8(38-14)6-37-42(35,36)39-41(33,34)17(18,19)40(30,31)32/h7-8,10-11,14,28-29H,2-6H2,1H3,(H,33,34)(H,35,36)(H,23,25,26)(H2,30,31,32)/t8-,10-,11-,14-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = PAEBIVWUMLRPSK-IDTAVKCVSA-N
+| synonyms = AR-C69931MX
+}}
+
+'''Cangrelor''' (trade name '''Kengreal''' in the US and '''Kengrexal''' in Europe) is a [[P2Y12|P2Y<sub>12</sub>]] inhibitor FDA approved as of June 2015 as an [[antiplatelet drug]]<ref name="cat.sagepub.com">[http://cat.sagepub.com/cgi/content/abstract/15/2/177 Cangrelor Attenuates Coated-Platelet Formation]</ref> for [[intravenous]] application. Some P2Y<sub>12</sub> inhibitors are used clinically as effective inhibitors of [[adenosine diphosphate]]-mediated platelet activation and aggregation.<ref name="cat.sagepub.com"/> Unlike [[clopidogrel]] (Plavix), which is a [[prodrug]], cangrelor is an active drug not requiring [[metabolism|metabolic]] conversion.
+
+Poor interim results led to the abandonment of the two CHAMPION clinical trials in mid-2009.<ref>[http://www.medscape.com/viewarticle/702828 CHAMPION Trials With Cangrelor Stopped for Lack of Efficacy]</ref>  The BRIDGE study, for short term use prior to surgery, continues.<ref>[http://seekingalpha.com/article/137521-what-cangrelor-failure-means-to-medicines What Cangrelor Failure Means to Medicines]</ref> The CHAMPION PHOENIX trial was a randomized study of over 11,000 patients published in 2013.  It found usefulness of cangrelor in patients getting cardiac stents.  Compared with clopidogrel given around the time of stenting, intravenous ADP-receptor blockade with cangrelor significantly reduced the rate of stent thrombosis and myocardial infarction.<ref>Effect of Platelet Inhibition with Cangrelor during PCI on Ischemic Events (2013) Bhatt, DL etal. New England Journal of Medicine March 10, 2013 {{doi|10.1056/NEJMoa1300815}} (published initially online).</ref> Reviewers have questioned the methodology of the trial.<ref>{{cite journal | title = The Duel between Dual Antiplatelet Therapies |author1=Lange, RA  |author2=Hillis, LD | journal = New England Journal of Medicine | date = March 10, 2013 | doi = 10.1056/NEJMe1302504 | volume=368 | pages=1356–1357 | pmid=23473370}}</ref>
+
+==Medical use==
+According to recent phase 3 randomized trials, a cangrelor–[[clopidogrel]] combination is safe and has been found to be more effective than standard clopidogrel treatment at reducing ischemic events in the heart, without increasing major bleeding in the treatment of stenotic coronary arteries.<ref name= Kubica/> The advantages of this drug combination are most prominent in patients with myocardial infarction.<ref name= Kubica >{{cite journal | author = Kubica, J. | year = 2014 | title = Cangrelor: An Emerging Therapeutic Option for Patients with Coronary Artery Disease | journal = Curr Med Res Opin | pmid= 24393016 | doi=10.1185/03007995.2014.880050 | volume=30 | issue=5 | pages=813–28|display-authors=etal}}</ref>
+
+Available antiplatelet drugs have delayed onset and offset of action.<ref name= Kubica/> Since cangrelor’s effects are immediate and quickly reversed, it is a more desirable drug for elective treatment of stenotic coronary arteries, high risk acute coronary syndromes treated with immediate coronary stenting, and for bridging those surgery patients who require P2Y<sub>12</sub> inhibition.<ref name= Kubica/>
+
+Current evidence regarding cangrelor therapy is limited by the lack studies assessing cangrelor administration in conjunction with either prasugrel or ticagrelor.<ref name= Kubica/>
+
+Recently, it's been approved for adult patients undergoing [[percutaneous coronary intervention]] (PCI). 
+<ref name="test">[http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm452172.htm], FDA approves new antiplatelet drug used during heart procedure.</ref>
+
+==Pharmacology==
+Cangrelor is a high-affinity, reversible inhibitor of P2Y<sub>12</sub> receptors that causes almost complete inhibition of ADP-induced platelet aggregate.<ref name= Angiolillo >{{cite journal |author1=Angiolillo, Dominick J. |author2=Piera Capranzano | title = Pharmacology of Emerging Novel Platelet Inhibitors | journal = American Heart Journal | volume = 156 | issue = 2 | year = 2008 | pages = 10S-5S | doi=10.1016/j.ahj.2008.06.004}}</ref> It is a modified ATP derivative stable to enzymatic degradation.<ref name= Angiolillo/> It does not require metabolic conversion to an active metabolite. This allows cangrelor’s immediate effect after infusion,<ref name= Angiolillo/> and the therapeutic effects can be maintained with continuous infusion.<ref name= Bhatt >{{cite journal | author = Bhatt | year = 2013 | title = Effect of Platelet Inhibition with Cangrelor during PCI on Ischemic Events | journal = New England Journal of Medicine | volume = 368 | pages = 1303–1313 | doi=10.1056/nejmoa1300815|display-authors=etal | pmid=23473369}}</ref> The pharmacokinetics of cangrelor has allow it to rapidly achieve steady-state concentrations with a clearance of 50 L/h and a half-life of 2.6 to 3.3 minutes. Cessation of its administration is associated with rapid removal, and normal platelet function is restored within 1 hour.<ref name= Angiolillo/><ref name= Bhatt/>
+
+==Adverse effects==
+Despite fewer bleeding events during cardiac surgery, cangrelor carries the risk of potential autoimmune reactions manifesting as breathlessness.<ref name= Serebruany >{{cite journal | author = Serebruany V.L.  | year = 2014 | title = Dyspnea and Reversibility of Antiplatelet Agents: Ticagrelor, Elinogrel, Cangrelor, and Beyond | journal = Cardiology | volume = 127| pages = 20–24 | doi=10.1159/000354876|display-authors=etal}}</ref> Potential mechanisms for dyspnea following cangrelor treatment include: repeated binding and unbinding cycles, impaired platelet turnover, and lung sequestration or apoptosis of overloaded destructive platelets.<ref name= Serebruany/> The dyspnea risks following cangrelor treatment, suggest a common mechanism linking transfusion-related acute lung injury, dyspnea, and reversible platelet inhibition.<ref name= Serebruany/>
+
+The risk of [[breathlessness]] after intravenous cangrelor is smaller when compared with other reversible platelet [[Adenosine diphosphate receptor inhibitor|P2Y<sub>12</sub> receptor inhibitors]], however, it is still significantly higher when compared to irreversible oral antiplatelet drugs or intravenous glycoprotein IIb/IIIa inhibitors; which do not increase the incidence of breathlessness at all.<ref name= Serebruany/>
+
+== References ==
+{{Reflist|2}}
+
+{{Antithrombotics}}
+{{Purinergics}}
+
+[[Category:ADP receptor inhibitors]]
+[[Category:Nucleotides]]
+[[Category:Organochlorides]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Thioethers]]

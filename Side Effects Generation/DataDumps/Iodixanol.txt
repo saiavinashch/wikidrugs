@@ -1,0 +1,78 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 461935564
+| IUPAC_name = 5-<nowiki/>{''N''-[3-(''N''-<nowiki/>{3,5-''bis''[(2,3-dihydroxypropyl)carbamoyl]-2,4,6-triiodophenyl}acetamido)-2-hydroxypropyl]acetamido}-1-''N'',3-''N-bis''(2,3-dihydroxypropyl)-2,4,6-triiodobenzene-1,3-dicarboxamide
+| image = Iodixanol-2D-skeletal.svg
+| width = 300px
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|MTM|iodixanol}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = Negligible
+| metabolism = Excreted unchanged
+| elimination_half-life = 2.1 hours
+| excretion = [[Renal]]
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 92339-11-2
+| ATC_prefix = V08
+| ATC_suffix = AB09
+| PubChem = 3724
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01249
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3593
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = HW8W27HTXX
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01474
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 31705
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1200507
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=35 | H=44 | I=6 | N=6 | O=15 
+| molecular_weight = 1550.191
+| smiles = Ic1c(C(=O)NCC(O)CO)c(I)c(C(=O)NCC(O)CO)c(I)c1N(C(=O)C)CC(O)CN(C(=O)C)c2c(I)c(c(I)c(c2I)C(=O)NCC(O)CO)C(=O)NCC(O)CO
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C35H44I6N6O15/c1-13(52)46(30-26(38)20(32(59)42-3-15(54)9-48)24(36)21(27(30)39)33(60)43-4-16(55)10-49)7-19(58)8-47(14(2)53)31-28(40)22(34(61)44-5-17(56)11-50)25(37)23(29(31)41)35(62)45-6-18(57)12-51/h15-19,48-51,54-58H,3-12H2,1-2H3,(H,42,59)(H,43,60)(H,44,61)(H,45,62)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = NBQNWMBBSKPBAY-UHFFFAOYSA-N
+| synonyms = <small>5-[acetyl-[3-[acetyl-[3,5-''bis''(2,3-dihydroxypropylcarbamoyl)-2,4,6-triiodo-phenyl]amino]-2-hydroxy-propyl]amino]-''N,N'-bis''(2,3-dihydroxypropyl)-2,4,6-triiodo-benzene-1,3-dicarboxamide </small>
+}}
+
+'''Iodixanol''' is an iodine-containing [[Radiocontrast_agent#Non-ionic|non-ionic radiocontrast agent]]. It is sold under the trade name '''Visipaque'''; it is also sold as a [[differential centrifugation|density gradient medium]] under the name '''OptiPrep'''.<ref>[http://www.axis-shield-density-gradient-media.com/Leaflet%20OptiPrep.pdf OptiPrep™: The ideal density gradient medium], Axis-Shield Density Gradient Media.  Accessed on line Nov. 19, 2015.</ref>  Visipaque is commonly used as a [[radiocontrast|contrast agent]] during [[coronary angiography]]. It is the only iso-osmolar contrast agent, with an [[osmolality]] of 290 mOsm/kg H<sub>2</sub>O, the same as blood.  It is sold in 2 main concentrations 270 mgI/ml and 320 mgI/ml - hence the name Visipaque 270 or 320.  It is sold in single dose units and a large 500ml plastic bottle for multi-dose dispensing.
+
+It was originally made by Nycomed, which then merged with Amersham which finally was bought by Jeff Immelt to become GE Healthcare.   The majority of Visipaque is made in Cork, Ireland, with additional plants in China and Oslo.  All Iodixanol bulk powder is made in Norway by GE Healthcare.
+
+A very similar product also manufactured by GE Healthcare is Omnipaque ([[Iohexol]] as the main drug substance).
+==References==
+{{reflist}}
+
+==External links==
+*http://www.cosmobiousa.com/axis-shield-density-gradient-optiprep.html 
+*http://www3.gehealthcare.com/en/products/categories/contrast_media/visipaque 
+*http://www.gehealthcare.com/caen/md/docs/visipaquepieng.pdf
+* {{DailyMed|4228|Iodixanol}}
+
+{{Contrast media}}
+
+[[Category:Iodoarenes]]
+[[Category:Radiocontrast agents]]
+[[Category:Benzamides]]
+[[Category:Acetanilides]]

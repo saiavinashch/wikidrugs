@@ -1,0 +1,57 @@
+{{Drugbox
+| verifiedrevid = 443772283
+| IUPAC_name = (6''R'',7''R'')-3-[(1-methyltetrazol-5-yl)sulfanylmethyl]-8-oxo-7-([2-(trifluoromethylsulfanyl)acetyl]amino)-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+| image = Cefazaflur.png
+<!--Clinical data-->
+| tradename =
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =
+| routes_of_administration =
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+<!--Identifiers-->
+| CAS_number = 52123-49-6
+| ATC_prefix = none
+| ATC_suffix =
+| ATC_supplemental =
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| ChEMBL = 2104456
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 97I0692RNT
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03422
+| PubChem = 40240
+| ChemSpiderID = 36777
+| smiles = O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)CSC(F)(F)F)CSc3nnnn3C)C(=O)O
+| StdInChI = 1S/C13H13F3N6O4S3/c1-21-12(18-19-20-21)28-3-5-2-27-10-7(9(24)22(10)8(5)11(25)26)17-6(23)4-29-13(14,15)16/h7,10H,2-4H2,1H3,(H,17,23)(H,25,26)/t7-,10-/m1/s1
+| StdInChIKey = HGXLJRWXCXSEJO-GMSGAONNSA-N
+<!--Chemical data-->
+| chemical_formula =
+| C=13 | H=13 | F=3 | N=6 | O=4 | S=3
+| molecular_weight = 470.470 g/mol
+}}
+
+'''Cefazaflur''' ([[International Nonproprietary Name|INN]]) is a first-generation [[cephalosporin]] antibiotic.
+== Synthesis ==
+Cefazaflur stands out among this group of analogues because it lacks an arylamide C-7 side chain (see [[cephacetrile]] for another example).
+[[File:Cefazaflur synthesis.svg|thumb|center|700px|Cefazaflur synthesis:<ref>{{cite journal|doi=10.1021/jm00211a006|pmid=319233|title=Semisynthetic cephalosporins. Synthesis and structure-activity relations of analogs with 7-acyl groups derived from 2-(cyanomethylthio)acetic acid or 2-[(2,2,2-trifluoroethyl)thio]acetic acid and their sulfoxides and sulfones|journal=Journal of Medicinal Chemistry|volume=20|issue=1|pages=30–5|year=1977|last1=Demarinis|first1=R. M.|last2=Boehm|first2=J. C.|last3=Dunn|first3=G. L.|last4=Hoover|first4=J. R. E.|last5=Uri|first5=J. V.|last6=Guarini|first6=J. R.|last7=Phillips|first7=L.|last8=Actor|first8=P.|last9=Weisbach|first9=J. A.}}</ref>]]
+Cefazaflur is synthesized by reaction of 3-(1-methyl-1<u>H</u>-tetrazol-5-ylthiomethylene)-7-amino-cephem-4-carboxylic acid ('''1''') with trifluoromethylthioacetyl chloride ('''2''').
+== References ==
+{{reflist|2}}
+{{antibiotic-stub}}
+{{CephalosporinAntiBiotics}}
+[[Category:Cephalosporin antibiotics]]
+[[Category:Enantiopure drugs]]
+[[Category:Tetrazoles]]
+[[Category:Organofluorides]]

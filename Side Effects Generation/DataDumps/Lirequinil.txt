@@ -1,0 +1,60 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 451564522
+| IUPAC_name = 10-chloro-1-[(3S)-3-ethoxypyrrolidine-1-carbonyl]-3-phenyl-6,7-dihydrobenzo[a]quinolizin-4-one
+| image = Lirequinil_structure.png
+| width = 200
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 143943-73-1
+| ATC_prefix = none
+| PubChem = 3045375
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 2VUW1087AD
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 2308119
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C26H25ClN2O3/c1-2-32-20-11-12-28(16-20)25(30)23-15-22(17-6-4-3-5-7-17)26(31)29-13-10-18-8-9-19(27)14-21(18)24(23)29/h3-9,14-15,20H,2,10-13,16H2,1H3/t20-/m0/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = CBSWRAUYCIIUEI-FQEVSTJZSA-N
+
+<!--Chemical data-->
+| C=26 | H=25 | Cl=1 | N=2 | O=3 
+| molecular_weight = 448.941 g/mol
+| smiles = CCO[C@H]1CCN(C1)C(=O)C2=C3C4=C(CCN3C(=O)C(=C2)C5=CC=CC=C5)C=CC(=C4)Cl
+}}
+
+'''Lirequinil''' ('''Ro41-3696''') is a [[nonbenzodiazepine]] [[hypnotic]] drug which binds to benzodiazepine sites on the [[GABAA receptor|GABA<sub>A</sub>]] [[Receptor (biochemistry)|receptor]]. In human [[clinical trials]], lirequinil was found to have similar efficacy to [[zolpidem]], with less side effects such as clumsiness and memory impairment. However it was also much slower acting than zolpidem, with peak plasma concentrations not reached until 2.5 hours after oral administration, and its O-desethyl metabolite Ro41-3290 is also active with a half-life of 8 hours.<ref name="pmid8522640">{{cite journal |vauthors=Dingemanse J, Bury M, Roncari G, Zell M, Gieschke R, Gaillard AW, Odink J, van Brummelen P |title=Pharmacokinetics and pharmacodynamics of Ro 41-3696, a novel nonbenzodiazepine hypnotic |journal=Journal of Clinical Pharmacology |volume=35 |issue=8 |pages=821–9 |date=August 1995 |pmid=8522640 |doi= 10.1002/j.1552-4604.1995.tb04126.x|url=}}</ref><ref name="pmid8848532">{{cite journal |vauthors=Dingemanse J, Bury M, Bock J, Joubert P |title=Comparative pharmacodynamics of Ro 41-3696, a new hypnotic, and zolpidem after night-time administration to healthy subjects |journal=Psychopharmacology |volume=122 |issue=2 |pages=169–74 |date=November 1995 |pmid=8848532 |doi= 10.1007/BF02246091|url=}}</ref><ref name="pmid11095577">{{cite journal |vauthors=Dingemanse J, Bury M, Hussain Y, van Giersbergen P |title=Comparative tolerability, pharmacodynamics, and pharmacokinetics of a metabolite of a quinolizinone hypnotic and zolpidem in healthy subjects |journal=Drug Metabolism and Disposition: the Biological Fate of Chemicals |volume=28 |issue=12 |pages=1411–6 |date=December 2000 |pmid=11095577 |doi= |url=}}</ref><ref name="pmid11307042">{{cite journal |vauthors=Dingemanse J, Pedrazzetti E, van Giersbergen PL |title=Multiple-dose tolerability, pharmacodynamics, and pharmacokinetics of the quinolizinone hypnotic Ro 41-3696 in elderly subjects |journal=Clinical Neuropharmacology |volume=24 |issue=2 |pages=82–90 |year=2001 |pmid=11307042 |doi= 10.1097/00002826-200103000-00003|url=}}</ref> This meant that while effective as a hypnotic, lirequinil failed to prove superior to zolpidem due to producing more next-day sedation, and it has not been adopted for clinical use. It was developed by a team at Hoffmann-La Roche in the 1990s.<ref>US Patent 5561233 Process for the preparation of an intermediate of a benzo[a]quinolizinone derivative</ref>
+
+[[Image:Ro41-3290 structure.png|180px|thumb|left|Active metabolite Ro41-3290]]
+
+==References==
+{{reflist}}
+
+{{Hypnotics}}
+{{GABAAR PAMs}}
+
+[[Category:Sedatives]]
+[[Category:GABAA receptor positive allosteric modulators]]

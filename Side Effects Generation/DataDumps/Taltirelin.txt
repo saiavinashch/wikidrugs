@@ -1,0 +1,161 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 448119630
+| IUPAC_name = ''N''-{[(4''S'')-1-methyl-2,6-dioxohexahydropyrimidin-4-yl]carbonyl}-<small>L</small>-histidyl-<small>L</small>-prolinamide
+| image = Talitirelin.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|taltirelin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 2143
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 103300-74-9
+| CAS_supplemental = <br />{{CAS|201677-75-0}}
+| ATC_prefix = none
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem = 656609
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = DOZ62MV6A5
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 102734
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=17 | H=31 | N=7 | O=9 
+| molecular_weight = 477.46 g/mol
+| smiles = CN1C(=O)C[C@H](NC1=O)C(=O)N[C@@H](CC2=CN=CN2)C(=O)N3CCC[C@H]3C(=O)N
+| synonyms = <small>(4''S'')-''N''-[(2''S'')-1-[(2''S'')-2-carbamoylpyrrolidin-1-yl]-3-(3''H''-imidazol-4-yl)-1-oxopropan-2-yl]-1-methyl-2,6-dioxo-1,3-diazinane-4-carboxamide</small>
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C17H23N7O5/c1-23-13(25)6-10(22-17(23)29)15(27)21-11(5-9-7-19-8-20-9)16(28)24-4-2-3-12(24)14(18)26/h7-8,10-12H,2-6H2,1H3,(H2,18,26)(H,19,20)(H,21,27)(H,22,29)/t10-,11-,12-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = LQZAIAZUDWIVPM-SRVKXCTJSA-N
+}}
+
+'''Taltirelin''' (marketed under the tradename '''Ceredist''') is a [[thyrotropin-releasing hormone]] (TRH) analog, which mimics the physiological actions of TRH, but with a much longer half-life and duration of effects,<ref name="pmid9608876">{{Cite journal 
+| last1 = Fukuchi | first1 = I. 
+| last2 = Asahi | first2 = T. 
+| last3 = Kawashima | first3 = K. 
+| last4 = Kawashima | first4 = Y. 
+| last5 = Yamamura | first5 = M. 
+| last6 = Matsuoka | first6 = Y. 
+| last7 = Kinoshita | first7 = K. 
+| title = Effects of taltirelin hydrate (TA-0910), a novel thyrotropin-releasing hormone analog, on in vivo dopamine release and turnover in rat brain 
+| journal = Arzneimittel-Forschung 
+| volume = 48 
+| issue = 4 
+| pages = 353–359 
+| year = 1998 
+| pmid = 9608876
+}}</ref> and little development of tolerance following prolonged dosing.<ref>{{Cite journal 
+| last1 = Asai | first1 = H. 
+| last2 = Asahi | first2 = T. 
+| last3 = Yamamura | first3 = M. 
+| last4 = Yamauchi-Kohno | first4 = R. 
+| last5 = Saito | first5 = A. 
+| title = Lack of behavioral tolerance by repeated treatment with taltirelin hydrate, a thyrotropin-releasing hormone analog, in rats 
+| doi = 10.1016/j.pbb.2005.11.004 
+| journal = Pharmacology Biochemistry and Behavior 
+| volume = 82 
+| issue = 4 
+| pages = 646–651 
+| year = 2005 
+| pmid = 16368129 
+| pmc = 
+}}</ref> It has [[nootropic]],<ref>{{Cite journal 
+| last1 = Yamamura | first1 = M. 
+| last2 = Suzuki | first2 = M. 
+| last3 = Matsumoto | first3 = K. 
+| title = Synthesis and pharmacological action of TRH analog peptide (Taltirelin) 
+| journal = Nihon yakurigaku zasshi. Folia pharmacologica Japonica 
+| volume = 110 Suppl 1 
+| pages = 33P–38P 
+| year = 1997 
+| pmid = 9503402
+}}</ref> [[neuroprotective]]<ref>{{Cite journal 
+| last1 = Urayama | first1 = A. 
+| last2 = Yamada | first2 = S. 
+| last3 = Kimura | first3 = R. 
+| last4 = Zhang | first4 = J. 
+| last5 = Watanabe | first5 = Y. 
+| title = Neuroprotective effect and brain receptor binding of taltirelin, a novel thyrotropin-releasing hormone (TRH) analogue, in transient forebrain ischemia of C57BL/6J mice 
+| journal = Life Sciences 
+| volume = 72 
+| issue = 4–5 
+| pages = 601–607 
+| year = 2002 
+| pmid = 12467901 | doi=10.1016/S0024-3205(02)02268-3
+}}</ref> and [[analgesic]] effects.<ref>{{Cite journal 
+| last1 = Tanabe | first1 = M. 
+| last2 = Tokuda | first2 = Y. 
+| last3 = Takasu | first3 = K. 
+| last4 = Ono | first4 = K. 
+| last5 = Honda | first5 = M. 
+| last6 = Ono | first6 = H. 
+| doi = 10.1038/sj.bjp.0707125 
+| title = The synthetic TRH analogue taltirelin exerts modality-specific antinociceptive effects via distinct descending monoaminergic systems 
+| journal = British Journal of Pharmacology 
+| volume = 150 
+| issue = 4 
+| pages = 403–414 
+| year = 2009 
+| pmid = 17220907 
+| pmc =2189720 
+}}</ref>
+
+Taltirelin is primarily being researched for the treatment of [[spinocerebellar ataxia]]; limited research has also been carried out with regard to other neurodegenerative disorders, e.g., [[spinal muscular atrophy]].<ref>{{Cite journal | last1 = Takeuchi | first1 = Y. | last2 = Miyanomae | first2 = Y. | last3 = Komatsu | first3 = H. | last4 = Oomizono | first4 = Y. | last5 = Nishimura | first5 = A. | last6 = Okano | first6 = S. | last7 = Nishiki | first7 = T. | last8 = Sawada | first8 = T. | doi = 10.1177/088307389400900313 | title = Efficacy of Thyrotropin-Releasing Hormone in the Treatment of Spinal Muscular Atrophy | journal = Journal of Child Neurology | volume = 9 | issue = 3 | pages = 287–289 | year = 1994 | pmid =  7930408| pmc = }}</ref><ref>{{Cite journal 
+| doi = 10.1097/00002060-200009000-00005 
+| last1 = Tzeng | first1 = A. C. 
+| last2 = Cheng | first2 = J. 
+| last3 = Fryczynski | first3 = H. 
+| last4 = Niranjan | first4 = V. 
+| last5 = Stitik | first5 = T. 
+| last6 = Sial | first6 = A. 
+| last7 = Takeuchi | first7 = Y. 
+| last8 = Foye | first8 = P. 
+| last9 = Deprince | first9 = M. 
+| last10 = Bach | first10 = J. R. 
+| title = A study of thyrotropin-releasing hormone for the treatment of spinal muscular atrophy: A preliminary report 
+| journal = American Journal of Physical Medicine & Rehabilitation 
+| volume = 79 
+| issue = 5 
+| pages = 435–440 
+| year = 2000 
+| pmid = 10994885
+}}</ref><ref>{{Cite journal | last1 = Kato | first1 = Z. | last2 = Okuda | first2 = M. | last3 = Okumura | first3 = Y. | last4 = Arai | first4 = T. | last5 = Teramoto | first5 = T. | last6 = Nishimura | first6 = M. | last7 = Kaneko | first7 = H. | last8 = Kondo | first8 = N. | doi = 10.1177/0883073809333535 | title = Oral Administration of the Thyrotropin-Releasing Hormone (TRH) Analogue, Taltireline Hydrate, in Spinal Muscular Atrophy | journal = Journal of Child Neurology | volume = 24 | issue = 8 | pages = 1010–1012 | year = 2009 | pmid =  19666885| pmc = }}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{ja icon}} [http://di.mt-pharma.co.jp/file/dc/cdt.pdf Ceredist セレジスト錠] (PDF) Mitsubishi Tanabe Pharma. October 2007.
+
+{{Nootropics}}
+{{Peptidergics}}
+
+[[Category:Nootropics]]
+[[Category:Imidazoles]]
+[[Category:Pyrrolidines]]
+
+
+{{nervous-system-drug-stub}}

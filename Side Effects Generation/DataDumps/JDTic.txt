@@ -1,0 +1,88 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 430261506
+| IUPAC_name = (3''R'')-7-Hydroxy-N-[(2''S'')-1-[(3''R'',4''R'')-4-(3-hydroxyphenyl)-3,4-dimethylpiperidin-1-yl]-3-methylbutan-2-yl]-1,2,3,4-tetrahydroisoquinoline-3-carboxamide
+| image =JDTic2DCSD2.svg
+| width = 250px
+
+<!--Clinical data-->
+| tradename = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = 
+| legal_UK = 
+| legal_US = 
+| legal_status = 
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7362
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 361444-66-8
+| CAS_supplemental =
+| ATC_prefix = 
+| ATC_suffix = 
+| PubChem = 9956146
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 8131755
+
+<!--Chemical data-->
+| C=28 | H=39 | N=3 | O=3
+| molecular_weight = 465.626 g/mol
+| smiles = C[C@H]1CN(CC[C@@]1(C)C2=CC(=CC=C2)O)C[C@H](C(C)C)NC(=O)[C@H]3CC4=C(CN3)C=C(C=C4)O
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C28H39N3O3/c1-18(2)26(30-27(34)25-13-20-8-9-24(33)12-21(20)15-29-25)17-31-11-10-28(4,19(3)16-31)22-6-5-7-23(32)14-22/h5-9,12,14,18-19,25-26,29,32-33H,10-11,13,15-17H2,1-4H3,(H,30,34)/t19-,25+,26+,28+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = ZLVXBBHTMQJRSX-VMGNSXQWSA-N
+| synonyms = JDTic
+}}
+
+'''JDTic''' is a [[binding selectivity|selective]], long-acting ("inactivating") [[antagonist (pharmacology)|antagonist]] of the [[kappa opioid receptor|κ-opioid receptor]] (KOR).<ref name="pmid11495579">{{ cite journal |vauthors=Thomas JB, Atkinson RN, Rothman RB, Fix SE, Mascarella SW, Vinson NA, Xu H, Dersch CM, Lu Y, Cantrell BE, Zimmerman DM, Carroll FI | title = Identification of the First ''trans''-(3R,4R)-Dimethyl-4-(3-hydroxyphenyl)piperidine Derivative to Possess Highly Potent and Selective Opioid κ Receptor Antagonist Activity | journal = Journal of Medicinal Chemistry | year = 2001 | volume = 44 | issue = 17 | pages = 2687–2690 | doi = 10.1021/jm015521r | pmid = 11495579 }}</ref><ref name="pmid25635572">{{cite journal | vauthors = Zaveri NT, Journigan VB, Polgar WE | title = Discovery of the First Small-Molecule Opioid Pan Antagonist with Nanomolar Affinity at Mu, Delta, Kappa, and Nociceptin Opioid Receptors | journal = ACS Chem Neurosci | volume = 6| issue = | pages = 646–57| year = 2015 | pmid = 25635572 | doi = 10.1021/cn500367b | url = https://dx.doi.org/10.1021/cn500367b | pmc=4401318}}</ref> JDTic is a [[4-phenylpiperidine]] derivative, distantly related structurally to [[analgesic]]s such as [[pethidine]] and [[ketobemidone]], and more closely to the MOR antagonist [[alvimopan]]. In addition, it is structurally distinct from other KOR antagonists such as [[norbinaltorphimine]].<ref>{{ cite journal |vauthors=Thomas JB, Atkinson RN, Vinson NA, Catanzaro JL, Perretta CL, Fix SE, Mascarella SW, Rothman RB, Xu H, Dersch CM, Cantrell BE, Zimmerman DM, Carroll FI | title = Identification of <nowiki>(3R)-7-Hydroxy-N-((1S)-1-[[(3R,4R)-4-(3-hydroxyphenyl)-3,4-dimethyl-1-piperidinyl]methyl]-2-methylpropyl)-1,2,3,4-tetrahydro-3-isoquinolinecarboxamide</nowiki> as a Novel Potent and Selective Opioid κ Receptor Antagonist | journal = Journal of Medicinal Chemistry | year = 2003 | volume = 46 | issue = 14 | pages = 3127–3137 | doi = 10.1021/jm030094y | pmid = 12825951 }}</ref><ref>{{ cite journal |vauthors=Cai TB, Zou Z, Thomas JB, Brieaddy L, Navarro HA, Carroll FI | title = Synthesis and ''in vitro'' Opioid Receptor Functional Antagonism of Analogues of the Selective κ Opioid Receptor Antagonist (3R)-7-Hydroxy-N-((1S)-1-{[(3R,4R)-4-(3-hydroxyphenyl)-3,4-dimethyl-1-piperidinyl]methyl}- 2-methylpropyl)-1,2,3,4-tetrahydro-3-isoquinolinecarboxamide (JDTic) | journal = Journal of Medicinal Chemistry | year = 2008 | volume = 51 | issue = 6 | pages = 1849–1860 | doi = 10.1021/jm701344b | pmid = 18307295 }}</ref>
+
+==Pharmacology==
+JDTic is a long-acting ("inactivating") [[receptor antagonist|antagonist]] of the KOR, and is highly selective for the KOR over the [[mu opioid receptor|μ-opioid receptor]] (MOR), [[delta opioid receptor|δ-opioid receptor]] (DOR), and [[nociceptin receptor]] (NOP).<ref name="pmid11495579" /><ref name="pmid25635572" /> It has a very long duration of action, with effects in animals seen for up to several weeks after administration of a single dose,<ref>{{ cite journal |vauthors=Carroll FI, Thomas JB, Dykstra LA, Granger AL, Allen RM, Howard JL, Pollard GT, Aceto MD, Harris LS | title = Pharmacological Properties of JDTic: A Novel κ-Opioid Receptor Antagonist | journal = European Journal of Pharmacology | year = 2004 | volume = 501 | issue = 1–3 | pages = 111–119 | doi = 10.1016/j.ejphar.2004.08.028 | pmid = 15464069 }}</ref> although its binding to the KOR is not technically "irreversible" and its long-acting effects are instead caused by altered activity of [[c-Jun N-terminal kinases]].<ref>{{ cite journal |vauthors=Bruchas MR, Yang T, Schreiber S, Defino M, Kwan SC, Li S, Chavkin C | title = Long-Acting κ Opioid Antagonists Disrupt Receptor Signaling and Produce Noncompetitive Effects by Activating c-Jun N-terminal Kinase | journal = Journal of Biological Chemistry | year = 2007 | volume = 282 | issue = 41 | pages = 29803–29811 | doi = 10.1074/jbc.M705540200 | pmid = 17702750 | url = http://www.jbc.org/content/282/41/29803.full.pdf | format = pdf | pmc=2096775}}</ref>
+
+Animal studies suggest that JDTic may produce [[antidepressant]], [[anxiolytic]], and [[stress management|anti-stress]] effects,<ref>{{ cite journal |vauthors=Knoll AT, Meloni EG, Thomas JB, Carroll FI, ((Carlezon WA Jr)) | title = Anxiolytic-Like Effects of κ-Opioid Receptor Antagonists in Models of Unlearned and Learned Fear in Rats | journal = Journal of Pharmacology and Experimental Therapeutics | year = 2007 | volume = 323 | issue = 3 | pages = 838–845 | doi = 10.1124/jpet.107.127415 | pmid = 17823306 | url = http://jpet.aspetjournals.org/content/323/3/838.full.pdf | format = pdf }}</ref> as well as having possible application in the treatment of [[substance dependence|addiction]] to [[cocaine]] and [[morphine]].<ref>{{ cite journal |vauthors=Beardsley PM, Howard JL, Shelton KL, Carroll FI | title = Differential Effects of the Novel κ Opioid Receptor Antagonist, JDTic, on Reinstatement of Cocaine-Seeking Induced by Footshock Stressors vs Cocaine Primes and its Antidepressant-Like Effects in Rats | journal = Psychopharmacology | year = 2005 | volume = 183 | issue = 1 | pages = 118–126 | doi = 10.1007/s00213-005-0167-4 | pmid = 16184376 }}</ref><ref>{{ cite journal |vauthors=Carroll FI, Harris LS, Aceto MD | title = Effects of JDTic, a Selective κ-Opioid Receptor Antagonist, on the Development and Expression of Physical Dependence on Morphine Using a Rat Continuous-Infusion Model | journal = European Journal of Pharmacology | year = 2005 | volume = 524 | issue = 1–3 | pages = 89–94 | doi = 10.1016/j.ejphar.2005.09.013 | pmid = 16236279 }}</ref> JDTic shows robust activity in animal models of [[depression (mood)|depression]], [[anxiety]], [[stress (psychological)|stress]]-induced [[cocaine]] [[relapse]], and [[nicotine withdrawal]].<ref name="pmid24690494">{{cite journal |vauthors=Urbano M, Guerrero M, Rosen H, Roberts E | title = Antagonists of the kappa opioid receptor | journal = Bioorg. Med. Chem. Lett. | volume = 24 | issue = 9 | pages = 2021–32 |date=May 2014  | pmid = 24690494 | doi = 10.1016/j.bmcl.2014.03.040 | url = }}</ref>
+
+The high affinity of JDTic for the KOR suggested that it might be a suitable ligand for promoting the crystallization of this receptor for X-ray crystallographic studies. Such experiments were successful and lead to the publication of the first report of a high-resolution structure of an opioid receptor [ {{PDB|4DJH}} ].<ref>{{ cite journal |vauthors=Wu H, Wacker D, Mileni M, Katritch V, Han GW, Vardy E, Liu W, Thompson AA, Huang XP, Carroll FI, Mascarella SW, Westkaemper RB, Mosier PD, Roth BL, Cherezov V, Stevens RC | title = Structure of the Human κ-Opioid Receptor in Complex with JDTic | journal = Nature | year = 2012 | volume = 485 | issue = 7398 | pages = 327–332 | doi = 10.1038/nature10939 | pmid = 22437504 | pmc = 3356457 }}</ref>
+
+==Discontinuation==
+During [[phase I clinical trial|phase I]] [[human]] [[clinical trial]]s for the treatment of [[cocaine dependence|cocaine abuse]], development of JDTic was halted due to the incidence of [[ventricular tachycardia|non-sustained ventricular tachycardia]],<ref name="pmid24690494" /> a type of [[arrhythmia]] that can potentially be life-threatening. In addition, JDTic showed an unfavorable brain-to-plasma concentration ratio, indicating poor [[central nervous system]] penetration.<ref name="pmid24690494" /><ref>{{cite web|last=Swearingen|first=Daniel|title=First in Humans Study of JDTic|url=http://clinicaltrials.gov/show/NCT01431586|accessdate=8 September 2012}}</ref><ref>{{cite web|title=Kappa Therapeutics 2013|url=http://www.mclean.harvard.edu/kappa-therapeutics-2013/pdf/Kappa-Therapeutics-2013-Complete-Program.pdf}}</ref> As a result, new KOR antagonists with more favorable drug profiles (e.g., short-acting, improved brain penetration, etc.), such as [[ALKS-5461]] (a combination of [[buprenorphine]] and [[samidorphan]]) and [[CERC-501]] (formerly LY-2456302), are being developed instead.<ref name="pmid24690494" />
+
+The discontinuation of the clinical development of JDTic is detailed in the following important literature quote:<ref name="ChavkinMartinez2015">{{cite journal|last1=Chavkin|first1=Charles|last2=Martinez|first2=Diana|title=Kappa Antagonist JDTic in Phase 1 Clinical Trial|journal=Neuropsychopharmacology|volume=40|issue=9|year=2015|pages=2057–2058|issn=0893-133X|doi=10.1038/npp.2015.74|pmid=26174493|pmc=4613619}}</ref>
+
+{{Quotation|''Overall, the adverse events attributed to JDtic were similar to those reported with placebo, except for cardiac events, such as bradycardia and ventricular tachycardia (VT), which were seen only in the JDTic group. The episodes of VT occurred in two subjects, were not sustained (NSVT), and were asymptomatic. Preclinical experiments in monkeys showed that JDTic administration resulted in a short run of NSVT. Other safety measurements, including clinical laboratory studies, 12-lead ECG, psychomotor function, and measures of mood, did not differ between group during admission or at follow-up.''
+
+''Overall, these results indicate that JDTic administration is associated with short lived, but detectable ventricular tachycardia in 2/6 subjects receiving the active dose. The episodes of NSVT were asymptomatic, were not seen in the majority of subjects, and sporadic. NSVT is known to occur in the general population, although at a low rate. Nonetheless, the likelihood that these cardiac events were induced by JDTic is high, given that both events occurred as a similar time following dosing, the lower incidence of sporadic VT expected in healthy subjects, and the presence of kappa receptors and dynorphin in cardiac tissue. Given the potentially serious clinical consequences of VT and concerns that individuals with cardiovascular disease may have heightened vulnerability, the decision was made by the safety board of this study that further human trials of this drug would not be ethically justified.''}}
+
+In the same paper, LY-2456302 (now CERC-501) was described, "The LY2456302 compound developed by Eli Lilly is an example of a KOR antagonist that does not strongly activate JNK. In a recent phase 1 trial of LY2456302, the authors concluded that the drug was well-tolerated with no clinically significant findings (Lowe et al, 2014)."<ref name="ChavkinMartinez2015" /> Note that KOR antagonists that strongly activate JNK are inactivating (long-acting) while those that do not are non-inactivating (short-acting), and that inactivating KOR antagonists are more "complete" and hence potentially more risky inhibitors of the KOR than are non-inactivating antagonists.<ref name="ChavkinMartinez2015" />
+
+==See also==
+* [[κ-Opioid receptor#Antagonists|κ-Opioid receptor § Antagonists]]
+* [[List of investigational antidepressants]]
+
+==References==
+{{Reflist|2}}
+
+{{Opioidergics}}
+
+[[Category:Carboxamides]]
+[[Category:Irreversible receptor antagonists]]
+[[Category:Kappa antagonists]]
+[[Category:Opioid antagonists]]
+[[Category:Phenols]]
+[[Category:Piperidines]]
+[[Category:Synthetic opioids]]
+[[Category:Tetrahydroisoquinolines]]

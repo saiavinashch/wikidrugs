@@ -1,0 +1,80 @@
+{{Refimprove|date=October 2011}}
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 477318381
+| IUPAC_name = 6-[4-[bis(4-fluorophenyl)methyl]piperazin-1-yl]-''N'',''N'''-<br>diprop-2-enyl-1,3,5-triazine-2,4-diamine
+| image = Almitrine structure.svg
+| alt = Skeletal formula of almitrine
+| image2 = Almitrine-3D-balls.png
+| alt2 = Ball-and-stick model of the almitrine molecule
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|almitrine}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_UK = <!-- GSL         / P       / POM / CD -->
+| legal_US = <!-- OTC                   / Rx-only  -->
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 27469-53-0
+| ATC_prefix = R07
+| ATC_suffix = AB07
+| PubChem = 33887
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01430
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1183717
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 31235
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 9A1222NBG4
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07126
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 53778
+<!--Chemical data-->
+| C=26 | H=29
+| F=2 | N=7
+| molecular_weight = 477.552 g/mol
+| smiles = Fc1ccc(cc1)C(c2ccc(F)cc2)N4CCN(c3nc(nc(n3)NC\C=C)NC\C=C)CC4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C26H29F2N7/c1-3-13-29-24-31-25(30-14-4-2)33-26(32-24)35-17-15-34(16-18-35)23(19-5-9-21(27)10-6-19)20-7-11-22(28)12-8-20/h3-12,23H,1-2,13-18H2,(H2,29,30,31,32,33)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OBDOVFRMEYHSQB-UHFFFAOYSA-N
+| melting_point = 181
+}}
+
+'''Almitrine''' (marketed as '''Duxil''' by [[Servier]]) is a [[diphenylmethylpiperazine]] [[chemical derivative|derivative]] classified as a [[respiratory]] [[stimulant]] by the [[Anatomical Therapeutic Chemical Classification System|ATC]]. It enhances respiration by acting as an [[agonist]] of peripheral [[chemoreceptors]] located on the [[carotid bodies]]. The drug increases arterial oxygen tension while decreasing arterial carbon dioxide tension in patients with [[chronic obstructive pulmonary disease]]. It may also prove useful in the treatment of nocturnal oxygen desaturation without impairing the quality of sleep.
+A significant literature exists for this compound, including over 60 papers that Medline labels as reviews.  
+
+The clinical efficacy of almitrine-[[raubasine]] combination therapy for age related cerebral disorders and functional rehabilitation after [[stroke]] has been reviewed by Allain and Bentué-Ferrer.<ref>{{cite journal |doi=10.1159/000052069 |title=Clinical Efficacy of Almitrine-Raubasine |year=1998 |last1=Allain |first1=H. |last2=Bentué-Ferrer |first2=D. |journal=European Neurology |volume=39 |issue=Suppl. 1 |pages=39–44 |pmid=9516074}}</ref> They summarize two studies in which almitrine-raubasine improved some symptoms significantly more than placebo, especially in vascular cases.  Their paper also suggests that other studies have shown a beneficial effect of this compound on neurosensory vascular disorders, specifically chorioretinal dysfunctions (visual symptomatology) and vertigo associated with electronystagmographic modifications.  This paper further claims that the dosage and tolerance of the compound have been confirmed in a French multi-center study of 5,361 outpatients.
+==Syntheses==
+[[File:Almitrine synthesis.svg|thumb|center|700px|Almitrine synthesis: {{US patent|3116203}} {{US patent|3123529}} {{US patent|3121114}}]]
+== See also ==
+*[[Flunarizine]]
+* [[Diphenylmethylpiperazine]]
+* [[Servier]]
+
+==References==
+{{reflist}}
+
+{{Respiratory stimulants}}
+{{Piperazines}}
+
+[[Category:Piperazines]]
+[[Category:Triazines]]
+[[Category:Respiratory agents]]
+[[Category:Fluoroarenes]]
+
+
+{{respiratory-system-drug-stub}}

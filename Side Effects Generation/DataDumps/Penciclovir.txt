@@ -1,0 +1,75 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 464197659
+| IUPAC_name = 2-amino-9-[4-hydroxy-3-(hydroxymethyl)butyl]-1''H''-purin-6(9''H'')-one
+| image = Penciclovir2DCSD.svg
+| width = 150
+<!--Clinical data-->
+| tradename = Denavir
+| pronounce = {{IPAc-en|ˌ|p|ɛ|n|ˈ|s|aɪ|k|l|oʊ|ˌ|v|ɪər}}{{refn|{{MerriamWebsterDictionary|accessdate=2016-01-22|Penciclovir}}}}
+| Drugs.com = {{drugs.com|monograph|penciclovir}}
+| MedlinePlus = a697027
+| pregnancy_AU = B1
+| pregnancy_US = B
+| legal_AU = S2
+| legal_US = Rx-only
+| routes_of_administration = Topical
+<!--Pharmacokinetic data-->
+| bioavailability = 1.5% (oral), negligible (topical)
+| protein_bound = <20%
+| metabolism = Viral thymidine kinase
+| elimination_half-life = 2.2–2.3 hours
+| excretion = Renal
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 39809-25-1
+| ATC_prefix = D06
+| ATC_suffix = BB06
+| ATC_supplemental =  {{ATC|J05|AB13}}
+| PubChem = 4725
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00299
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4563
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 359HUE8FJC
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05407
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 7956
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1540
+<!--Chemical data-->
+| C=10 | H=15 | N=5 | O=3
+| molecular_weight = 253.258 g/mol
+| smiles = O=C2/N=C(\Nc1n(cnc12)CCC(CO)CO)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H15N5O3/c11-10-13-8-7(9(18)14-10)12-5-15(8)2-1-6(3-16)4-17/h5-6,16-17H,1-4H2,(H3,11,13,14,18)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = JNTOCHDNEULJHD-UHFFFAOYSA-N
+}}
+'''Penciclovir''' is a [[guanosine]] analogue [[antiviral drug]] used for the treatment of various [[herpesvirus]] infections. It is a [[Nucleoside analogues|nucleoside analogue]] which exhibits low toxicity and good selectivity. Because penciclovir is absorbed poorly when given orally (by mouth) it is more often used as a topical treatment. It is the active ingredient in the cold sore medications Denavir ([[National Drug Code|NDC]] 0135-0315-52), Vectavir and Fenivir. [[Famciclovir]] is a [[prodrug]] of penciclovir with improved oral bioavailability.
+
+Penciclovir was approved for medical use in 1996.<ref>{{cite book|last1=Long|first1=Sarah S.|last2=Pickering|first2=Larry K.|last3=Prober|first3=Charles G.|title=Principles and Practice of Pediatric Infectious Disease|date=2012|publisher=Elsevier Health Sciences|isbn=1437727026|page=1502|url=https://books.google.ca/books?id=nQ7-o8JAH7kC&pg=PA1502|language=en}}</ref>
+
+==Medical use==
+In [[herpes labialis]], the duration of healing, pain and detectable virus is reduced by up to one day,<ref name=vectavir>[http://www.fass.se/LIF/produktfakta/artikel_produkt.jsp?NplID=19970117000027&DocTypeID=7&UserTypeID=2 Farmaceutiska Specialiteter i Sverige - the Swedish official drug catalog. [http://www.fass.se Fass.se] --> Vectavir. Retrieved on August 12, 2009. Translated from "Tiden för läkning, smärta och påvisbart virus förkortas med upp till ett dygn."</ref> compared with the total duration of 2–3 weeks of disease presentation.
+
+==Mechanism of action==
+Penciclovir is inactive in its initial form. Within a virally infected cell a viral [[thymidine kinase]] adds a [[phosphate]] group to the penciclovir molecule; this is the rate-limiting step in the activation of penciclovir. Cellular (human) [[kinase]]s then add two more phosphate groups, producing the active penciclovir triphosphate. This activated form inhibits viral [[DNA polymerase]], thus impairing the ability of the virus to replicate within the cell.
+
+The [[selective toxicity|selectivity]] of penciclovir may be attributed to two factors. First, cellular thymidine kinases phosphorylate the parent form significantly less rapidly than does the viral thymidine kinase, so the active triphosphate is present at much higher concentrations in virally infected cells than in uninfected cells. Second, the activated drug binds to viral DNA polymerase with a much higher affinity than to human DNA polymerases. As a result, penciclovir exhibits negligible [[cytotoxicity]] to healthy cells.
+
+The structure and mode of action of penciclovir are very similar to that of other nucleoside analogues, such as the more widely used [[aciclovir]]. A difference between aciclovir and penciclovir is that the active triphosphate form of penciclovir persists within the cell for a much longer time than the activated form of aciclovir, so the concentration within the cell of penciclovir will be higher given equivalent cellular doses.
+==See also==
+*[[Nucleoside analogue]]
+*[[Famciclovir]]
+
+==References==
+{{reflist}}
+
+{{Antibiotics and chemotherapeutics for dermatological use}}
+{{Antivirals}}
+
+[[Category:Anti-herpes virus drugs]]
+[[Category:Purines]]

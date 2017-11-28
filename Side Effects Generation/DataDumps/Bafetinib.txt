@@ -1,0 +1,86 @@
+{{Infobox drug
+| drug_name         =
+| INN               =
+| type              =<!-- empty -->
+| IUPAC_name        = 
+| image             = Bafetinib.svg
+| alt               = 
+| caption           =
+<!-- Clinical data -->
+| pronounce         =
+| tradename         = 
+| Drugs.com         = 
+| MedlinePlus       = 
+| pregnancy_AU      = <!-- A/B1/B2/B3/C/D/X -->
+| pregnancy_AU_comment = 
+| pregnancy_US      = <!-- A/B/C/D/X/N -->
+| pregnancy_category= 
+| routes_of_administration = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_AU_comment =
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_DE = <!-- Anlage I, II, III -->
+| legal_NZ = <!-- Class A, B, C -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM / Class A, B, C -->
+| legal_US = <!-- OTC/Rx-only/Schedule I, II, III, IV, V -->
+| legal_UN = <!-- N I, II, III, IV / P I, II, III, IV-->
+| legal_status      = Investigational
+<!-- Pharmacokinetic data -->
+| bioavailability   = 
+| protein_bound     = 
+| metabolism        = 
+| metabolites       =
+| onset             = 
+| elimination_half-life = 
+| duration_of_action =
+| excretion         = 
+<!-- Identifiers -->
+| CAS_number        = 859212-16-1
+| class             = 
+| ATCvet            = 
+| ATC_prefix        = <!-- 'none' if uncategorised -->
+| ATC_suffix        = 
+| PubChem           = 11387605
+| DrugBank          = 
+| ChemSpiderID      = 9562515
+| synonyms          = NS-187, INNO-406
+| KEGG = D10202
+<!-- Chemical and physical data -->
+| C = 30 | H = 31 | F = 3 | N = 8 | O = 1
+| smiles            = CC1=C(C=C(C=C1)NC(=O)C2=CC(=C(C=C2)CN3CC[C@@H](C3)N(C)C)C(F)(F)F)NC4=NC=CC(=N4)C5=CN=CN=C5
+| StdInChI          = 1S/C30H31F3N8O/c1-19-4-7-23(13-27(19)39-29-36-10-8-26(38-29)22-14-34-18-35-15-22)37-28(42)20-5-6-21(25(12-20)30(31,32)33)16-41-11-9-24(17-41)40(2)3/h4-8,10,12-15,18,24H,9,11,16-17H2,1-3H3,(H,37,42)(H,36,38,39)/t24-/m0/s1
+| StdInChIKey       = ZGBAJMQHJDFTQJ-DEOSSOPVSA-N
+}}
+
+'''Bafetinib''' (NS-187) is an experimental cancer drug developed by [[Nippon Shinyaku]] and licensed to [[CytRx]]. It is an inhibitor of [[Lyn]] and [[Bcr-Abl]].<ref>http://adisinsight.springer.com/drugs/800023743</ref> It is currently in [[phase II clinical trial]]s.
+
+== Development ==
+[[Imatinib]] was the first [[Bcr-Abl tyrosine-kinase inhibitor]] and was highly successful in treatment of [[chronic myelogenous leukemia]], which had previous had no effective treatment.
+With the emerging resistance to imatinib treatment, alternative treatment was highly sought after. Bafetinib was created as an attempt for a more potent drug than imatinib, with efficacy against various point mutations in the Bcr-Abl kinase, with fewer adverse effects and with narrower kinase spectra, namely just Lyn and Bcr-Abl.<ref name="Kimura2005"/>
+In the search for a substance that fit the criteria mentioned, the crystal structure of imatinib bound to Abl was examined. This revealed a hydrophobic pocket around the phenyl ring adjacent to the piperazinylmethyl group of imatinib. Attempts to utilize this pocket to increase efficacy led to the addition of various hydrophobic groups including single [[Fluorine|fluoro]], [[Bromine|bromo]] and [[Chlorine|chloro]] substituents. Finally a trifluoromethyl group at position 3 was found to give the best results, with approximately 36-fold improvement over imatinib. The addition of a hydrophobic group now needed to be countered to sustain the solubility of the substance. Closer examination of the crystal structure of imatinib-kinase complex revealed Tyr-236 was in close proximity to the pyridine ring of imatinib, suggesting there was little or no room for a larger group there. With that in mind a more [[Hydrophile|hydrophilic]] pyrimidine ring was substituted for the pyridine, which was found to increase solubility while leaving efficacy the same or even slightly greater. Finally to improve the hydrogen bonding of the piperazine ring of imatinib with Ile-360 and His-361, pyrrolidine and azetidine derivatives were introduced. The most promising substance from these final modifications was labeled NS-187.<ref name="Asaki2006"/>
+
+The FDA granted NS-187 [[orphan drug status]] in 2007 for the treatment of [[chronic myeloid leukemia]].<ref>http://adisinsight.springer.com/drugs/800023743</ref>
+
+===Binding===
+[[File:Bafetinib in binding site.PNG|thumb|right|500px|Bafetinib in its binding site]]
+Due to the structural similarities of imatinib and bafetinib, their binding to Bcr-Abl is also quite similar. The only notable difference comes from the hydrophobic interaction between the trifluoromethyl group and the hydrophobic pocket created by Ile-293, Leu-298, Leu-354, and Val-379. This group can also be linked to bafetinib's specificity for Lyn, as the binding site there is almost identical to that on Bcr-Abl.<ref name="Horio2007"/>
+
+Bafetinib is effective both against most imatinib resistant mutations (not including T315I) and some dasatinib resistant mutations. Bafetinib also has more affinity for Bcr-Abl than nilotinib (but less than dasatinib) but only targets Bcr-Abl and Src family kinases Lck and Lyn; with unrivalled specificity which suggests the probability of fewer adverse effects.<ref name="Deguchi2008"/>
+
+== Clinical trials ==
+Cafetinb is in phase II clinical trials as a treatment for leukemia as of May 2010.<ref>[http://www.cytrx.com/press_releases.html http://www.cytrx.com]</ref>
+
+==References ==
+{{reflist|refs=
+<ref name="Kimura2005">{{Cite journal| last1 = Kimura | first1 = S.| last2 = Naito | first2 = H.| last3 = Segawa | first3 = H.| last4 = Kuroda | first4 = J.| last5 = Yuasa | first5 = T.| last6 = Sato | first6 = K.| last7 = Yokota | first7 = A.| last8 = Kamitsuji | first8 = Y.| last9 = Kawata | first9 = E.| last10 = Ashihara | first10 = E.| last11 = Nakaya | first11 = Y.| last12 = Naruoka | first12 = H.| last13 = Wakayama | first13 = T.| last14 = Nasu | first14 = K.| last15 = Asaki | first15 = T.| last16 = Niwa | first16 = T.| last17 = Hirabayashi | first17 = K.| last18 = Maekawa | first18 = T.| title = NS-187, a potent and selective dual Bcr-Abl/Lyn tyrosine kinase inhibitor, is a novel agent for imatinib-resistant leukemia| journal = Blood| volume = 106| issue = 12| pages = 3948–3954| year = 2005| pmid = 16105974| doi = 10.1182/blood-2005-06-2209}}</ref>
+<ref name="Asaki2006">{{Cite journal| last1 = Asaki | first1 = T.| last2 = Sugiyama | first2 = Y.| last3 = Hamamoto | first3 = T.| last4 = Higashioka | first4 = M.| last5 = Umehara | first5 = M.| last6 = Naito | first6 = H.| last7 = Niwa | first7 = T.| title = Design and synthesis of 3-substituted benzamide derivatives as Bcr-Abl kinase inhibitors| journal = Bioorganic & Medicinal Chemistry Letters| volume = 16| issue = 5| pages = 1421–1425| year = 2006| pmid = 16332440| doi = 10.1016/j.bmcl.2005.11.042}}</ref>
+<ref name="Asaki2006">{{Cite journal| last1 = Asaki | first1 = T.| last2 = Sugiyama | first2 = Y.| last3 = Hamamoto | first3 = T.| last4 = Higashioka | first4 = M.| last5 = Umehara | first5 = M.| last6 = Naito | first6 = H.| last7 = Niwa | first7 = T.| title = Design and synthesis of 3-substituted benzamide derivatives as Bcr-Abl kinase inhibitors| journal = Bioorganic & Medicinal Chemistry Letters| volume = 16| issue = 5| pages = 1421–1425| year = 2006| pmid = 16332440| doi = 10.1016/j.bmcl.2005.11.042}}</ref>
+<ref name="Horio2007">{{Cite journal| last1 = Horio | first1 = T.| last2 = Hamasaki | first2 = T.| last3 = Inoue | first3 = T.| last4 = Wakayama | first4 = T.| last5 = Itou | first5 = S.| last6 = Naito | first6 = H.| last7 = Asaki | first7 = T.| last8 = Hayase | first8 = H.| last9 = Niwa | first9 = T.| title = Structural factors contributing to the Abl/Lyn dual inhibitory activity of 3-substituted benzamide derivatives| journal = Bioorganic & Medicinal Chemistry Letters| volume = 17| issue = 10| pages = 2712–2717| year = 2007| pmid = 17376680| doi = 10.1016/j.bmcl.2007.03.002}}</ref>
+<ref name="Deguchi2008">{{Cite journal| last1 = Deguchi | first1 = Y.| last2 = Kimura | first2 = S.| last3 = Ashihara | first3 = E.| last4 = Niwa | first4 = T.| last5 = Hodohara | first5 = K.| last6 = Fujiyama | first6 = Y.| last7 = Maekawa | first7 = T.| title = Comparison of imatinib, dasatinib, nilotinib and INNO-406 in imatinib-resistant cell lines| journal = Leukemia research| volume = 32| issue = 6| pages = 980–983| year = 2008| pmid = 18191450| doi = 10.1016/j.leukres.2007.11.008}}</ref>
+
+}}
+
+[[Category:Experimental cancer drugs]]
+[[Category:Protein kinase inhibitors]]
+[[Category:Pyrimidines]]
+[[Category:Trifluoromethyl compounds]]

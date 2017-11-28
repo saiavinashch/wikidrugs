@@ -1,0 +1,203 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 460769466
+| IUPAC_name = 2-<nowiki/>{1-[(4-Chlorophenyl)carbonyl]-5-methoxy-2-methyl-1''H''-indol-3-yl}acetic acid
+| image = Indometacin.svg
+| image2 = Indometacin-from-xtal-2003-ball-and-stick.png
+| pronounce = {{IPAc-en|ɪ|n|d|oʊ-|ˈ|m|ɛ|t|ə|s|ᵻ|n}}
+| width = 225
+| USAN = Indomethacin
+
+<!--Clinical data-->
+| tradename = Indocid, Indocin
+| licence_US = Indomethacin
+| Drugs.com = {{drugs.com|monograph|indomethacin}}
+| pregnancy_AU = C
+| pregnancy_category = C/D <small>[[(US)]]</small>
+| legal_AU = Schedule 4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = Oral, [[suppository|rectal]], [[intravenous|IV]], topical
+
+<!--Pharmacokinetic data-->
+| bioavailability = ~100% (oral), 80–90% (rectal)
+| protein_bound = 99%<ref name = MD/>
+| metabolism = [[Hepatic]]
+| elimination_half-life = 2.6-11.2 hours (adults), 12-28 hours (infants)<ref name = MD/>
+| excretion = [[Kidney|Renal]] (60%), [[Feces|fecal]] (33%)
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 53-86-1
+| ATC_prefix = C01
+| ATC_suffix = EB03
+| ATC_supplemental =   {{ATC|M01|AB01}}, {{ATC|M02|AA23}}, {{ATC|S01|BC01}}
+| PubChem = 3715
+| IUPHAR_ligand = 1909
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00328
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3584
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = XXE1CET956
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00141
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 49662
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 6
+| PDB_ligand = IMN
+
+<!--Chemical data-->
+| C=19 | H=16 | Cl=1 | N=1 | O=4
+| molecular_weight = 357.787 g.mol<sup>−1</sup>
+| SMILES = Cc1c(c2cc(ccc2n1C(=O)c3ccc(cc3)Cl)OC)CC(=O)O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H16ClNO4/c1-11-15(10-18(22)23)16-9-14(25-2)7-8-17(16)21(11)19(24)12-3-5-13(20)6-4-12/h3-9H,10H2,1-2H3,(H,22,23)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = CGIGDMFJXJATDK-UHFFFAOYSA-N
+}}
+<!--Please do not change "indometacin" to "indomethacin". "Indometacin" is not a typo, it is the International Nonproprietary Name.-->
+'''Indometacin''', or '''indomethacin''', is a [[nonsteroidal anti-inflammatory drug]] (NSAID) commonly used as a [[prescription drug|prescription medication]] to reduce [[fever]], [[pain]], [[joint stiffness|stiffness]], and [[swelling (medical)|swelling]] from [[inflammation]]. It works by inhibiting the production of [[prostaglandin]]s, [[endogenous]] [[signaling molecule]]s known to cause these symptoms. It does this by inhibiting [[cyclooxygenase]], an [[enzyme]] that [[catalyzes]] the production of [[prostaglandins]].<ref name = MD>{{cite web|title=Indometacin|work=Martindale: The Complete Drug Reference|publisher=Pharmaceutical Press|date=14 January 2014|accessdate=22 June 2014|url=http://www.medicinescomplete.com/mc/martindale/current/ms-2658-m.htm|editor=Brayfield, A|location=London, UK}}</ref><ref>{{cite document | title=TGA Approved Terminology for Medicines, Section 1 – Chemical Substances | date=July 1999 | publisher=Therapeutic Goods Administration, Department of Health and Ageing, Australian Government | page=70 | url=http://www.tga.gov.au/pdf/medicines-approved-terminology-chemical.pdf | format=PDF }}</ref>
+
+It is marketed under more than twelve different trade names.<ref>Trade names are listed on [http://www.drugbank.ca/drugs/DB00328 DrugBank.ca] entry DB00328</ref> As of 2015 the cost for a typical month of medication in the United States is less than 25 [[United States dollar|USD]].<ref name=Ric2015>{{cite book|last1=Hamilton|first1=Richart|title=Tarascon Pocket Pharmacopoeia 2015 Deluxe Lab-Coat Edition|date=2015|publisher=Jones & Bartlett Learning|isbn=9781284057560|page=8}}</ref>
+
+==Medical uses==
+{{Refimprove section|date=December 2010}}
+As an NSAID, indometacin is an [[analgesic]], [[anti-inflammatory]], and [[antipyretic]]. Clinical indications for indometacin include:
+
+* [[Ankylosing spondylitis]]
+* [[Gout|Arthritic gout]]
+* [[Bartter syndrome]]
+* [[Bursitis]]
+* [[Corneal abrasion]]<ref name="Wakai">{{cite journal |authors=Wakai A, Lawrenson JG, Lawrenson AL, Wang Y, Brown MD, Quirke M, Ghandour O, McCormick R, Walsh CD, Amayem A, Lang E, Harrison N |title= Topical non-steroidal anti-inflammatory drugs for analgesia in traumatic corneal abrasions |journal=Cochrane Database Syst Rev|volume=5 |pages= CD009781 |date=2017 |pmid= 28516471 |doi= 10.1002/14651858.CD009781.pub2}}</ref>
+* [[Cryoglobulinemia]]
+* [[Dysmenorrhea]] (menstrual cramps)
+* [[Fever]] and [[pain]] associated with malignant diseases (especially tumor fever associated with liver involvement, lymphogranulomatosis)
+* Headaches caused by the [[Valsalva maneuver]]
+* ''[[Hemicrania continua]]''<ref name="nytimes-icepickpain">{{cite news| url=http://well.blogs.nytimes.com/2012/01/06/think-like-a-doctor-ice-pick-pain-solved/ | work=The New York Times | first1=Lisa | last1=Sanders | title=Think Like a Doctor: Ice Pick Pain Solved! | date=6 January 2012}}</ref><ref>Garza, I & Schwedt, TJ. "Hemicrania continua." UpToDate. http://www.uptodate.com/contents/hemicrania-continua. Accessed 8/27/13.</ref><ref>{{cite web|title=Hemicrania Continua|url=http://www.migrainetrust.org/factsheet-hemicrania-continua-10920|website=www.migrainetrust.org|publisher=The Migraine Trust|accessdate=11 June 2014|ref=migtrust-hemicraniacontinua}}</ref>
+* [[Hypnic headache]]<ref name="pmid14731379">{{cite journal | title=Indomethacin-responsive headache syndromes| journal=Current pain and headache reports| volume=8| issue=1| pages=19–26| pmid=14731379|author=Dodick, D.W.|date=8 February 2004| doi=10.1007/s11916-004-0036-6}}</ref>
+* [[Childhood arthritis|Juvenile arthritis]]
+* [[Migraine]]<ref>{{cite web|title=Medication for Migraine|url=http://www.migrainetrust.org/factsheet-medication-for-migraine-10509|website=www.migrainetrust.org|publisher=The Migraine Trust|accessdate=11 June 2014|ref=migtrust-medicationformigraine}}</ref>
+* [[Nephrogenic diabetes insipidus]] (prostaglandin inhibits [[vasopressin]]'s action in the [[kidney]])
+* [[Osteoarthritis]]
+* [[Paget's disease of bone]]
+* [[Paroxysmal hemicrania]]<ref name=pmid14731379 />
+* [[Patent ductus arteriosus]]<ref name="pmid15327584">{{cite journal |author=Smyth JM |title=Intravenous indometacin in preterm infants with symptomatic patent ductus arteriosus. A population pharmacokinetic study |journal=Br J Clin Pharmacol |volume=58 |issue=3 |pages=249–58 |date=September 2004 |pmid=15327584 |pmc=1884560 |doi=10.1111/j.1365-2125.2004.02139.x |url=http://www.blackwell-synergy.com/openurl?genre=article&sid=nlm:pubmed&issn=0306-5251&date=2004&volume=58&issue=3&spage=249 |name-list-format=vanc|author2=Collier PS |author3=Darwish M |display-authors=3 |last4=Millership |first4=J. S. |last5=Halliday |first5=H. L. |last6=Petersen |first6=S. |last7=McElnay |first7=J. C.}}</ref>
+* [[Pericarditis]]
+* [[Headache#Primary headaches|Primary exertion headache]]
+* Primary stabbing headaches<ref name=pmid14731379 />
+* [[Chondrocalcinosis|Pseudogout]]
+* [[Psoriatic arthritis]]
+* [[Reactive arthritis]]
+* [[Renal colic]] (pain due to [[kidney stones]])
+* [[Retinopathy of prematurity]]
+* [[Rheumatoid arthritis]]
+* [[Tendinitis]]
+* [[Headaches#Primary headaches|Trigeminal autonomic cephalgias]]<ref name=pmid14731379 />
+* [[Twin-to-twin transfusion syndrome]]<ref>{{Cite journal|last=Jones|first=Johannes|last2=Sbarra|first2=Anthony|last3=Dilillo|first3=Louis|last4=Cetrulo|first4=Curtis|last5=D'Alton|first5=Mary|date=1993-01-01|title=Indomethacin in Severe Twin-to-Twin Transfusion Syndrome|url=http://www.thieme-connect.de/DOI/DOI?10.1055/s-2007-994694|journal=American Journal of Perinatology|language=en|volume=10|issue=01|pages=24–26|doi=10.1055/s-2007-994694|issn=0735-1631}}</ref>
+
+Indometacin has also been used clinically to delay [[premature labor]], reduce [[amniotic fluid]] in [[polyhydramnios]], and to close [[patent ductus arteriosus]].
+
+Indometacin is a potent drug with many serious side effects and should not be considered an analgesic for minor aches and pains or fever. The medication is better described as an anti-inflammatory, rather than an analgesic. Indometacin can also affect [[warfarin]] and subsequently raise [[International normalized ratio|INR]].
+
+==Contraindications==
+* Concurrent [[peptic ulcer]], or history of ulcer disease
+* Allergy to indometacin, aspirin, or other NSAIDs
+* Patients with nasal [[polyp (medicine)|polyps]] reacting with an [[angioedema]] to other NSAIDs
+* Children under 2 years of age (with the exception of neonates with [[patent ductus arteriosus]])
+* Severe pre-existing renal and liver damage
+* Caution: pre-existing bone marrow damage (frequent blood cell counts are indicated)
+* Caution: bleeding tendencies of unknown origin (indometacin inhibits [[platelet]] aggregation)
+* Caution: [[Parkinson's disease]], [[epilepsy]], psychotic disorders (indometacin may worsen these conditions)<ref>{{cite web|last=|first=|title=INDOMETHACIN|url=http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+hsdb:@term+@rn+53-86-1|work=Hazardous Substances Data Bank (HSDB)|publisher=National Library of Medicine's TOXNET|accessdate=April 4, 2013}}</ref> 
+* Concurrent with potassium sparing diuretics
+* Patients who have a [[patent ductus arteriosus]] dependent heart defect (such as [[transposition of the great vessels]])
+* Significant [[hypertension]] (high blood pressure)
+* Concomitant administration of [[Lithium (medication)|lithium salts]] (such as lithium carbonate)
+
+==Adverse effects==
+In general, adverse effects seen with indometacin are similar to all other NSAIDs. For instance,  indometacin inhibits both [[PTGS1|cyclooxygenase-1]] and [[Prostaglandin-endoperoxide synthase 2|cyclooxygenase-2]], it inhibits the production of prostaglandins in the [[stomach]] and [[intestines]], which maintain the [[mucus|mucous lining]] of the [[gastrointestinal tract]]. Indometacin, therefore, like other non-selective COX inhibitors can cause [[peptic ulcer]]s. These ulcers can result in serious bleeding and/or perforation requiring hospitalization of the patient.
+
+To reduce the possibility of peptic ulcers, indometacin should be prescribed at the lowest dosage needed to achieve a therapeutic effect, usually between 50–200&nbsp;mg/day. It should always be taken with food. Nearly all patients benefit from an ulcer protective drug (e.g. highly dosed antacids, [[ranitidine]] 150&nbsp;mg at bedtime, or [[omeprazole]] 20&nbsp;mg at bedtime). Other common gastrointestinal complaints, including [[dyspepsia]], [[heartburn]] and mild [[diarrhea]] are less serious and rarely require discontinuation of indometacin.
+
+Many NSAIDs, but particularly indometacin, cause [[Lithium (medication)|lithium]] retention by reducing its excretion by the [[kidney]]s. Thus indometacin users have an elevated risk of lithium toxicity. For patients taking lithium (e.g. for treatment of [[clinical depression|depression]] or [[bipolar disorder]]), less toxic NSAIDs such as [[sulindac]] or [[aspirin]] are preferred.
+
+All NSAIDs, including indometacin, also increase [[renin|plasma renin activity]] and [[aldosterone]] levels, and increase [[sodium]] and [[potassium]] retention. [[Vasopressin]] activity is also enhanced. Together these may lead to:
+
+* [[Edema]] (swelling due to fluid retention)
+* [[Hyperkalemia]] (high potassium levels)<ref>{{cite journal | author = Akbarpour F, Afrasiabi A, Vaziri N | title = Severe hyperkalemia caused by indomethacin and potassium supplementation | journal = South Med J | volume = 78 | issue = 6 | pages = 756–7 | year = 1985 | pmid = 4002013 | doi = 10.1097/00007611-198506000-00039| last2 = Afrasiabi | last3 = Vaziri }}</ref>
+* [[Hypernatremia]] (high sodium levels)
+* [[Hypertension]]
+
+Elevations of serum [[creatinine]] and more serious renal damage such as acute renal failure, chronic [[nephritis]] and [[nephrotic syndrome]], are also possible. These conditions also often begin with edema and hyperkalemia.
+
+Paradoxically yet uncommonly, indometacin can cause headache (10 to 20%), sometimes with vertigo and dizziness, hearing loss, tinnitus, blurred vision (with or without retinal damage). There are unsubstantiated reports of worsening Parkinson's disease, epilepsy, and psychiatric disorders. Cases of life-threatening shock (including [[angioedema]], sweating, severe [[hypotension]] and [[tachycardia]] as well as acute [[bronchospasm]]), severe or lethal [[hepatitis]] and severe bone marrow damage have all been reported. Skin reactions and [[photosensitivity]] are also possible side effects.
+
+The frequency and severity of side effects and the availability of better tolerated alternatives make indometacin today a drug of second choice. Its use in acute [[gout]] attacks and in [[dysmenorrhea]] is well-established because in these indications the duration of treatment is limited to a few days only, therefore serious side effects are not likely to occur.
+
+People should undergo regular physical examination to detect edema and signs of central nervous side effects. Blood pressure checks will reveal development of hypertension. Periodic serum electrolyte (sodium, potassium, chloride) measurements, complete blood cell counts and assessment of liver enzymes as well as of creatinine (renal function) should be performed. This is particularly important if Indometacin is given together with an [[ACE inhibitor]] or with potassium-sparing [[diuretic]]s, because these combinations can lead to [[hyperkalemia]] and/or serious kidney failure. No examinations are necessary if only the topical preparations (spray or gel) are applied.
+
+In women who are pregnant, it has been shown that use of this medication can have an effect of the fetal (Baby's) heart possibly resulting in fetal death via premature closing of the [[Ductus arteriosus]]; this is rare.<ref>{{Cite journal|last=Enzensberger|first=Christian|last2=Wienhard|first2=Julia|last3=Weichert|first3=Jan|last4=Kawecki|first4=Andreea|last5=Degenhardt|first5=Jan|last6=Vogel|first6=Melanie|last7=Axt-Fliedner|first7=Roland|date=2012-08-01|title=Idiopathic Constriction of the Fetal Ductus Arteriosus Three Cases and Review of the Literature|url=http://www.jultrasoundmed.org/content/31/8/1285|journal=Journal of Ultrasound in Medicine|language=en|volume=31|issue=8|pages=1285–1291|issn=0278-4297|pmid=22837295}}</ref>
+
+==Toxicity==
+Indometacin has a high acute toxicity both for animals (in rats, 12&nbsp;mg/kg) and for humans. Exact human data does not exist, but some fatal human cases, particularly in children and adolescents, have been seen.
+
+Generally, overdose in humans causes drowsiness, dizziness, severe headache, mental confusion, [[paresthesia]], numbness of limbs, nausea and vomiting. Severe gastrointestinal bleeding is also possible. Cerebral edema, and cardiac arrest with fatal outcome have been seen in children.
+
+The treatment is symptomatic and largely the same as with [[diclofenac]]. However, the possibility of severe GI tract symptoms should be particularly noted.
+
+The risk of overdose after exaggerated local treatment with gel or spray is very limited.
+
+==Mechanism of action==
+{{Main article|Non-steroidal anti-inflammatory drug}}
+
+Indometacin is a nonselective inhibitor of [[cyclooxygenase]] (COX) 1 and 2, enzymes that participate in prostaglandin [[biosynthesis|synthesis]] from [[arachidonic acid]]. Prostaglandins are [[hormone]]-like molecules normally found in the body, where they have a wide variety of effects, some of which lead to pain, fever, and inflammation.
+
+Indometacin has three additional modes of actions with clinical importance:
+* it inhibits motility of polymorphonuclear leukocytes, similar to [[colchicine]]
+* it uncouples oxidative phosphorylation in cartilaginous (and hepatic) mitochondria, like salicylates
+* decreased cerebral blood flow (see below)
+
+Indometacin's role in treating certain headaches is unique compared to other NSAIDs. In addition to the class effect of COX inhibition, there is evidence that indometacin has the ability to alter cerebral blood flow not only through modulation of nitric oxide pathways but also via intracranial precapillary vasoconstriction.<ref>AE Castellano, G Micieli, P Bellantonio, MG Buzzi, S Marcheselli, F Pompeo, F Rossi, G Nappi. Indomethacin Increases the Effect of Isosorbide Dinitrate on Cerebral Hemodynamic in Migraine Patients: Pathogenetic and Therapeutic Implications</ref> This may be responsible for the remarkable efficacy in a group of headaches that is referred to as "indometacin-responsive headaches", such as idiopathic stabbing headache, chronic paroxysmal hemicranial, and exertional headaches.<ref>John A. Yagiela, Frank J. Dowd, Bart Johnson, Angelo Mariotti, Enid A. Neidle. Pharmacology and Therapeutics for Dentistry. Chapter 23, Drugs for Treating Orofacial Pain Syndromes. 384-385</ref>
+
+Prostaglandins also cause [[uterine contraction]]s in pregnant women. Indometacin is an effective [[tocolytic agent]],<ref name="pmid17459777">{{cite journal |author=Giles W, Bisits A |title=Preterm labour. The present and future of tocolysis |journal=Best Pract Res Clin Obstet Gynaecol |volume=21 |issue=5 |pages=857–68 |date=October 2007 |pmid=17459777 |doi=10.1016/j.bpobgyn.2007.03.011 |url=|last2=Bisits }}</ref> able to delay premature labor by reducing uterine contractions through inhibition of prostaglandin synthesis in the uterus and possibly through [[calcium channel]] blockade.
+
+Indometacin readily crosses the [[placenta]] and can reduce [[fetus|fetal]] [[urine]] production to treat [[polyhydramnios]]. It does so by reducing renal blood flow and increasing renal vascular resistance, possibly by enhancing the effects of [[vasopressin]] on the fetal kidneys.
+
+==History==
+Indometacin was created in 1963<ref>{{cite journal | author = Hart F, Boardman P | title = Indomethacin: A New Non-steroid Anti-inflammatory Agent | journal = Br Med J | volume = 2 | issue = 5363| pages = 965–70 |date=October 1963 | pmid = 14056924 | doi = 10.1136/bmj.2.5363.965 | pmc = 1873102| last2 = Boardman }}</ref> and it was first approved for use in the U.S. by the [[Food and Drug Administration]] in 1965. Its mechanism of action, along with several other NSAIDs that inhibit COX, was described in 1971.<ref>{{cite journal | author = Ferreira S, Moncada S, Vane J | title = Indomethacin and aspirin abolish prostaglandin release from the spleen | journal = Nat New Biol | volume = 231 | issue = 25 | pages = 237–9 | date=Jun 23, 1971 | pmid = 5284362 | doi = 10.1038/newbio231237a0| last2 = Moncada | last3 = Vane }}</ref>
+
+==Society and culture==
+
+===Generic names===
+''Indometacin'' is the {{abbrlink|INN|International Nonproprietary Name}}, {{abbrlink|BAN|British Approved Name}}, and {{abbrlink|JAN|Japanese Accepted Name}} of the drug while ''indomethacin'' is the {{abbrlink|USAN|United States Approved Name}}, and former {{abbrlink|AAN|Australian Approved Name}} and {{abbrlink|BAN|British Approved Name}}.<ref name="Elks2014">{{cite book|author=J. Elks|title=The Dictionary of Drugs: Chemical Data: Chemical Data, Structures and Bibliographies|url=https://books.google.com/books?id=0vXTBwAAQBAJ&pg=PA684|date=14 November 2014|publisher=Springer|isbn=978-1-4757-2085-3|pages=684–}}</ref><ref name="IndexNominum2000">{{cite book|title=Index Nominum 2000: International Drug Directory|url=https://books.google.com/books?id=5GpcTQD_L2oC&pg=PA550|year=2000|publisher=Taylor & Francis|isbn=978-3-88763-075-1|pages=550–}}</ref><ref name="MortonHall2012">{{cite book|author1=I.K. Morton|author2=Judith M. Hall|title=Concise Dictionary of Pharmacological Agents: Properties and Synonyms|url=https://books.google.com/books?id=tsjrCAAAQBAJ&pg=PA153|date=6 December 2012|publisher=Springer Science & Business Media|isbn=978-94-011-4439-1|pages=153–}}</ref>
+
+==See also==
+* [[Indometacin farnesil]] 
+* [[BML-190|Indometacin morpholinylamide]]
+* [[Pravadoline]]
+
+==References==
+{{Reflist|30em}}
+
+== External links ==
+* [http://acta.uta.fi/pdf/951-44-5007-8.pdf Effects of Perinatal Indomethacin Treatment on Preterm Infants], academic dissertation ([[portable document format|PDF]])
+* [http://www.medicinenet.com/indomethacin/article.htm Indomethacin, from MedicineNet]
+* [http://www.drugs.com/MMX/Indomethacin.html Indomethacin, from Drugs.com]
+* [http://www.rxlist.com/cgi/generic/indometh.htm Indocin: Description, chemistry, ingredients], from RxList.com
+
+{{Anti-inflammatory and antirheumatic products}}
+{{Topical products for joint and muscular pain}}
+{{Other gynecologicals}}
+{{Prostanoid signaling modulators}}
+
+[[Category:3α-Hydroxysteroid dehydrogenase inhibitors]]
+[[Category:Antigout agents]]
+[[Category:Carboxamides]]
+[[Category:Chloroarenes]]
+[[Category:Hepatotoxins]]
+[[Category:Indoles]]
+[[Category:Nonsteroidal anti-inflammatory drugs]]
+[[Category:Phenol ethers]]
+[[Category:Tocolytics]]

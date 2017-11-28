@@ -1,0 +1,90 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 408781245
+| Name = <small>L</small>-Ornithine
+| ImageFile = L-Ornithin2.svg
+| ImageFile1 = Ornithine ball-and-stick.png
+| IUPACName = <small>L</small>-Ornithine
+| OtherNames = (+)-(''S'')-2,5-Diaminovaleric acid, (+)-(''S'')-2,5-Diaminopentanoic acid
+|Section1={{Chembox Identifiers
+| IUPHAR_ligand = 725
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = E524N2IXA3
+| InChI=1/C5H12N2O2/c6-3-1-2-4(7)5(8)9/h4H,1-3,6-7H2,(H,8,9)/t4-/m0/s1                             
+| InChI1 = 1/C5H12N2O2/c6-3-1-2-4(7)5(8)9/h4H,1-3,6-7H2,(H,8,9)/t4-/m0/s1
+| InChIKey1 = AHLPHDHHMVZTML-BYPYZUCNBZ
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 446143
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C5H12N2O2/c6-3-1-2-4(7)5(8)9/h4H,1-3,6-7H2,(H,8,9)/t4-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = AHLPHDHHMVZTML-BYPYZUCNSA-N
+| CASNo = 70-26-8
+| CASNo_Ref = {{cascite|correct|CAS}}
+| EC_number = 200-731-7
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 6026
+| PubChem = 389
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08302
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB00129
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 15729
+| SMILES = O=C(O)[C@@H](N)CCCN
+| MeSHName = Ornithine
+  }}
+|Section2={{Chembox Properties
+| Properties_ref = <ref>{{RubberBible62nd|page=C-408}}</ref>
+| Formula = C<sub>5</sub>H<sub>12</sub>N<sub>2</sub>O<sub>2</sub>
+| MolarMass = 132.16 g/mol
+| Appearance =
+| Density =
+| MeltingPtC = 140
+| Solubility = soluble
+| SolubleOther = soluble in [[ethanol]]
+| SpecRotation = +11.5 (H<sub>2</sub>O, ''c'' = 6.5)
+| pKa = 1.94
+  }}
+|Section7={{Chembox Hazards
+| FlashPt =
+  }}
+}}
+'''Ornithine''' is a [[non-proteinogenic amino acid]] that plays a role in the [[urea cycle]]. Ornithine is abnormally accumulated in the body in [[ornithine transcarbamylase deficiency]]. The [[radical (chemistry)|radical]] is '''ornithyl'''.
+
+==Role in urea cycle==
+<small>L</small>-Ornithine is one of the products of the action of the enzyme [[arginase]] on <small>L</small>-[[arginine]], creating [[urea]]. Therefore, ornithine is a central part of the urea cycle, which allows for the disposal of excess [[nitrogen]]. Ornithine is recycled and, in a manner, is a catalyst. First, ammonia is converted into [[carbamoyl phosphate]] ({{chem|H|2|NC(O)OPO|3|2−}}). Ornithine is converted into a urea derivative at the δ (terminal) nitrogen by carbamoyl phosphate synthetase. Another nitrogen is added from [[aspartate]], producing the denitrogenated [[fumarate]], and the resulting [[arginine]] (a [[guanidinium]] compound) is hydrolysed back to ornithine, producing urea. The nitrogens of urea come from the ammonia and aspartate, and the nitrogen in ornithine remains intact.
+
+[[File:Ornithine lactamization.svg|center|thumb|600px|Ornithine lactamization]]
+
+Ornithine is not an amino acid coded for by [[DNA]], that is, not [[Proteinogenic amino acid|proteinogenic]]. However, in mammalian non-hepatic tissues, the main use of the urea cycle is in arginine biosynthesis, so, as an intermediate in metabolic processes, ornithine is quite important.<ref>{{cite journal |doi=10.1007/BF01795749 |first1=Arthur L.|last1= Weber |first2= Stanley L.|last2= Miller |title=Reasons for the Occurrence of the Twenty Coded Protein Amino Acids |journal=J. Mol. Evol. |volume=17 |issue=5 |pages=273–284 |year=1981 |url=http://physwww.mcmaster.ca/~higgsp/3D03/WeberReasons.pdf |pmid=7277510}}</ref>
+{{clear|left}}
+
+==Other reactions==
+Ornithine, via the action of [[ornithine decarboxylase]] (E.C. 4.1.1.17), is the starting point for the synthesis of [[polyamine]]s such as [[putrescine]].
+
+In bacteria, such as ''[[Escherichia coli|E. coli]]'', ornithine can be synthesized from [[glutamic acid|<small>L</small>-glutamate]].<ref>{{Cite journal | url = http://www.chem.qmul.ac.uk/iubmb/enzyme/reaction/AminoAcid/Orn.html | title = Ornithine Biosynthesis | accessdate = 2007-08-17 | publisher = School of Biological and Chemical Sciences, Queen Mary, University of London }}</ref>
+
+==Research==
+
+===Exercise fatigue===
+<small>L</small>-Ornithine supplementation attenuated fatigue in subjects in a placebo-controlled study using a cycle ergometer. The results suggested that <small>L</small>-ornithine has an antifatigue effect in increasing the efficiency of energy consumption and promoting the excretion of ammonia.<ref>{{cite journal | pmid = 19083482 | year = 2008 | last1 = Sugino | first1 = T. | last2 = Shirai | first2 = T. | last3 = Kajimoto | first3 = Y. | last4 = Kajimoto | first4 = O. | title = L-ornithine supplementation attenuates physical fatigue in healthy volunteers by modulating lipid and amino acid metabolism | volume = 28 | issue = 11 | pages = 738–43 | doi = 10.1016/j.nutres.2008.08.008 | journal = Nutrition research}}</ref><ref>{{cite journal | pmid = 20717126 | year = 2010 | last1 = Demura | first1 = S. | last2 = Yamada | first2 = T. | last3 = Yamaji | first3 = S. | last4 = Komatsu | first4 = M. | last5 = Morishita | first5 = K. | title = The effect of L-ornithine hydrochloride ingestion on performance during incremental exhaustive ergometer bicycle exercise and ammonia metabolism during and after exercise | volume = 64 | issue = 10 | pages = 1166–71 | doi = 10.1038/ejcn.2010.149 | journal = European journal of clinical nutrition}}</ref>
+
+===Weightlifting supplement===
+[[Amino acid]] supplements, including <small>L</small>-ornithine, are frequently marketed to bodybuilders and weightlifters with claims for increasing levels of [[human growth hormone]] (HGH), muscle mass and strength. A clinical study reported that L-ornithine at 2 g/d did not increase HGH.<ref>{{cite journal | last = Fogelholm |first = G. M. | year = 1993 | title = Low-dose amino acid supplementation: no effects on serum human growth hormone and insulin in male weightlifters |doi=10.1123/ijsn.3.3.290| journal = International Journal of Sport Nutrition | volume = 3 | issue = 3 | pages = 290–297 | pmid = 8220394 | last2 = Näveri | first2 = H. K. | last3 = Kiilavuori | first3 = K. T. | last4 = Härkönen | first4 = M. H. |display-authors=etal}}</ref> A review on the topic concluded "The use of specific amino acids to stimulate GH release by athletes is not recommended."<ref>{{cite journal |vauthors=Chromiak JA, Antonio J |title=Use of amino acids as growth hormone-releasing agents by athletes |journal=Nutrition |volume=18 |issue=7-8 |pages=657–61 |year=2002 |pmid=12093449 |doi= |url=}}</ref>
+
+===Cirrhosis===
+[[Hepatic encephalopathy#LOLA|<small>L</small>-Ornithine <small>L</small>-aspartate]] (LOLA), a stable salt of ornithine and aspartic acid, has been used in the treatment of [[cirrhosis]].<ref>{{cite journal | pmid = 20642112 | year = 2010 | last1 = Sikorska | first1 = H. | last2 = Cianciara | first2 = J. | last3 = Wiercińska-Drapało | first3 = A. | title = Physiological functions of L-ornithine and L-aspartate in the body and the efficacy of administration of L-ornithine-L-aspartate in conditions of relative deficiency | volume = 28 | issue = 168 | pages = 490–5 | journal = Polski merkuriusz lekarski: organ Polskiego Towarzystwa Lekarskiego|url=https://www.researchgate.net/publication/45273344_Physiological_functions_of_L-ornithine_and_L-aspartate_in_the_body_and_the_efficacy_of_administration_of_L-ornithine-L-aspartate_in_conditions_of_relative_deficiency}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|Ornithine}}
+* [http://gmd.mpimp-golm.mpg.de/Spectrums/13d582bc-51b1-4b92-8edf-cb1e31ca64c6.aspx Ornithine mass Spectrum]
+{{Amino acid metabolism intermediates}}
+
+[[Category:Basic amino acids]]
+[[Category:Urea cycle]]
+[[Category:Diamines]]

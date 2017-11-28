@@ -1,0 +1,68 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 458270010
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = zu/o
+| target = [[CD33]]
+<!-- Clinical data -->
+| tradename =  
+| pregnancy_AU =  
+| pregnancy_US =  
+| pregnancy_category =  
+| legal_AU =  
+| legal_CA =  
+| legal_UK =  
+| legal_US =  
+| legal_status =  
+| routes_of_administration =  
+<!-- Pharmacokinetic data -->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!-- Identifiers -->
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 166089-32-3
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+<!-- Chemical data -->
+| chemical_formula =  
+| molecular_weight =  
+}}
+
+'''Lintuzumab''' (SGN-33) is a [[humanized monoclonal antibody]] used in the treatment of [[cancer]]. The drug had been developed by [[Seattle Genetics]] as a treatment for [[acute myeloid leukemia]] (AML), a condition which results in the deaths of 9,000 people a year in the United States. Lintuzumab targets the [[CD33]] protein, which is expressed in AML and other [[myeloproliferative disease]]s, but does not appear in abundance on normal cells.
+
+Trials for AML were abandoned in 2010 when a phase IIb trial failed to show increased survival.
+
+As of 2010, Seattle Genetics was conducting Phase II trials of lintuzumab in conjunction with [[bortezomib]] (marketed as Velcade) as a treatment for those with [[myelodysplastic syndrome]]s.<ref name=SG/>
+
+==History of AML trials==
+Lintuzumab had been in mid-stage clinical trial when the manufacturer pulled the drug in September 2010 after evidence showed that it did not lead to higher survival rates.<ref name=NYT>Pollack, Andrew. [http://prescriptions.blogs.nytimes.com/2010/09/13/leukemia-drug-trial-fails "Leukemia Drug Trial Fails"], ''[[The New York Times]]'', September 13, 2010. Accessed September 13, 2010.</ref> The U.S. [[Food and Drug Administration]] and the [[European Medicines Agency]] had granted lintuzumab [[orphan drug]] status for treatment of AML and myelodysplastic syndromes.<ref name=SG>[http://www.seagen.com/product_pipeline_lintuzumab.shtml Lintuzumab (SGN-33)], Seattle Genetics. Accessed September 13, 2010.</ref>
+
+Seattle Genetics had licensed lintuzumab from [[PDL BioPharma]], which had been unsuccessful in treating AML in clinical trials of its own in which they used lower doses. Lintuzumab would have been the first medication on the market for the treatment of acute myeloid leukemia, a condition that strikes 12,000 Americans each year, in which the body produces excessive numbers of abnormal white blood cells that accumulate in [[bone marrow]] and interfere with the production of normal blood cells. AML is the most common form of [[acute leukemia]] affecting adults, and its incidence increases with age. More than half of those afflicted with AML are elderly and are unable to withstand the traditional [[chemotherapy]] approach.<ref name=NYT/>
+
+The Phase IIb randomized, double-blind [[clinical trial]] studied 211 individuals ages 60 and over who had been enrolled by February 2009 and who were poor candidates for high-dose chemotherapy or had made the choice to reject the traditional chemotherapy treatment.<ref>Staff. [http://www.genengnews.com/gen-news-highlights/disappointing-phase-ii-data-leads-seattle-to-ditch-aml-candidate/81243912/ "Disappointing Phase II Data Leads Seattle to Ditch AML Candidate"], ''[[Genetic Engineering & Biotechnology News]]'', September 13, 2010. Accessed September 13, 2010.</ref> The study participants typically had a projected four to five months to live, with half treated with lintuzumab and a low dose of the chemotheraputic agent [[cytarabine]], while the other half were given cytarabine in combination with a [[placebo]]. No patients were harmed in the trial and patients in both groups lived longer than expected, with those being given lintuzumab having a lower death rate. However, the study found that there was no benefit to patients on a statistical basis, and that it did not reduce the risk of infection or the need for [[blood transfusion]]s.<ref name=NYT/>
+
+==Competition==
+[[Gemtuzumab ozogamicin]] (marketed as Mylotarg), a similar drug from [[Pfizer]] that also targets the CD33 protein on leukemic cells, was withdrawn from the market in June 2010 after trials showed little benefit to patients.
+
+[[Clofarabine]], a treatment for AML marketed by [[Genzyme]] as Clolar that targets a different treatment approach, failed to get approval from the FDA in October 2009, which said that additional trials were needed.<ref name=NYT/>
+
+==References==
+{{Reflist}}
+
+==Sources==
+*{{citation|doi=10.1200/JCO.2005.09.133|date=Jun 2005|author1=Feldman, Ej |author2=Brandwein, J |author3=Stone, R |author4=Kalaycio, M |author5=Moore, J |author6=O'Connor, J |author7=Wedel, N |author8=Roboz, Gj |author9=Miller, C |author10=Chopra, R |author11=Jurcic, Jc |author12=Brown, R |author13=Ehmann, Wc |author14=Schulman, P |author15=Frankel, Sr |author16=De, Angelo, D |author17=Scheinberg, D |title=Phase III randomized multicenter study of a humanized anti-CD33 monoclonal antibody, lintuzumab, in combination with chemotherapy, versus chemotherapy alone in patients with refractory or first-relapsed acute myeloid leukemia |volume=23|issue=18|pages=4110–6 |issn=0732-183X|pmid=15961759 |journal=Journal of Clinical Oncology}}
+
+{{Monoclonals for tumors}}
+
+[[Category:Monoclonal antibodies for tumors]]
+[[Category:Orphan drugs]]

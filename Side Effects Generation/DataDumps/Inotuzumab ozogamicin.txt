@@ -1,0 +1,97 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 458271836
+| image =  
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = zu/o
+| target = [[CD22]]
+<!-- Clinical data -->
+| tradename = Besponsa
+| Drugs.com = {{Drugs.com|CDI|besponsa}}
+| pregnancy_AU = 
+| pregnancy_US = 
+| pregnancy_category = 
+| legal_AU = 
+| legal_CA = 
+| legal_UK = 
+| legal_US = Rx-only
+| legal_status = 
+| routes_of_administration = [[Intravenous infusion]]
+<!-- Pharmacokinetic data -->
+| bioavailability = 
+| protein_bound = 97% (cytotoxic agent)
+| metabolism = 
+| elimination_half-life = 12.3 days
+| excretion = 
+<!-- Identifiers -->
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 635715-01-4
+| ATC_prefix = L01
+| ATC_suffix = XC26
+| PubChem =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = P93RUU11P7
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08933
+| synonyms = CMC-544
+<!-- Chemical data -->
+| C=6518 | H=10002 | N=1738 | O=2036 | S=42
+| molecular_weight = 150,000 g/mol
+}}
+
+'''Inotuzumab ozogamicin''' (trade name '''Besponsa''') is an [[antibody-drug conjugate]] used to treat relapsed or refractory B-cell precursor [[acute lymphoblastic leukemia]].<ref name=UKlabel>{{cite web|title=BESPONSA 1 mg powder for concentrate for solution for infusion|url=https://www.medicines.org.uk/emc/medicine/33679|publisher=UK Electronic Medicines Compendium|accessdate=19 August 2017|language=en|date=June 2017}}</ref><ref name=USlabel>{{cite web|title=US (notuzumab ozogamicin label|url=https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/761040s000lbl.pdf|publisher=FDA|accessdate=19 August 2017|date=August 2017}} For label updates, see [https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761040 FDA index page for BLA 761040]</ref>
+
+It consists of the [[humanized monoclonal antibody]] against [[CD22]] (inotuzumab), linked to a [[cytotoxic agent]] from the class of [[calicheamicin]]s called ozogamicin.<ref name=Ricart2009>{{cite journal|last1=Ricart|first1=AD|title=Antibody-drug conjugates of calicheamicin derivative: gemtuzumab ozogamicin and inotuzumab ozogamicin.|journal=Clinical Cancer Research |date=15 October 2011|volume=17|issue=20|pages=6417–27|pmid=22003069|url=http://clincancerres.aacrjournals.org/content/17/20/6417.long}}</ref>
+
+This drug was discovered by scientists collaborating at [[Celltech]] and [[Wyeth]], and it was [[drug development|developed]] by [[Pfizer]] which had acquired Wyeth.
+
+==Medical use==
+Inotuzumab ozogamicin is used to treat relapsed or refractory B-cell precursor [[acute lymphoblastic leukemia]].<ref name=UKlabel/><ref name=USlabel/>
+
+It is administered by intravenous infusion in a doctor's office or clinic.<ref name=UKlabel/>
+
+In studies in pregnant animals, the drug caused harm to the fetus at doses less than those used clinically, and so the drug has not been tested in pregnant women.  Pregnant women should not take Inotuzumab ozogamicin and must not become pregnant while taking it.  It is unknown if the drug or its metabolites are secreted in breast milk, but women should not breast feed while taking it, and should wait two months after the last dose to start breast feeding.<ref name=UKlabel/>
+
+The drug prolongs QT interval in some people, so should be used with caution in people with [[heart arrhythmia]]s.<ref name=UKlabel/>
+
+==Adverse effects==
+The US label carries a [[black box warning]] of the risk of drug causing [[liver toxicity]], in particular [[hepatic veno-occlusive disease]] (VOD), which has been fatal in some people.   The risk of this is higher in people who take the drug before having [[hematopoietic stem cell transplantation]] (HSCT) and more people die who have HSCT following treatment with this drug, than people who have HSCT taking other chemotherapies.  The risk gets higher as more rounds of treatment with Inotuzumab ozogamicin are administered.<ref name=USlabel/>
+
+The most common serious adverse reactions in people taking the drug in the clinical trial leading to approval were infections (23%), [[neutropenia|loss of neutrophils]] with fever (11%), hemorrhage (5%), stomach pain (3%), fever (3%), VOD (2%), and tiredness (2%).<ref name=UKlabel/>
+
+More than 20% of people had the following adverse reactions: [[thrombocytopenia|loss of platelets]] (51%), [[neutropenia|loss of neutrophils]] (49%), infections (48%), anemia (36%), [[leukopenia]] (35%), tiredness (35%), hemorrhage (33%), fever (32%), nausea (31%), headache (28%), loss of neutrophils with fever (26%), [[elevated transaminases]] (26%), stomach pain (23%), and [[jaundice]] (21%).
+
+Between 10%  and 20% of people also had loss of appetite, vomiting, diarrhea, mouth sores, constipation, chills, and [[injection site reaction]]s.<ref name=UKlabel/>
+
+==Pharmacology==
+The way the drug works, is that the antibody portion binds to [[CD22]] receptors, which are expressed mostly on [[B cells]].  The whole conjugate is then [[Endocytosis|drawn into the cell]], where the ozogamicin is cleaved from the antibody by the acidic environment of the [[lysosome]].<ref>{{cite web|title=Inotuzumab ozogamicin (CMC-544)|url=https://adcreview.com/inotuzumab-ozogamicin-cmc-544-drug-description/|publisher=ADC Review|date=February 20, 2016}}</ref>  The ozogamicin eventually travels to the [[Cell nucleus|nucleus]], where it breaks up [[DNA]], which causes the cell to die.<ref name=UKlabel/>
+
+==Chemistry==
+Inotuzumab ozogamicin consists of the [[humanized monoclonal antibody]] inotuzumab (against [[CD22]]), linked to a [[cytotoxic agent]] from the class of [[calicheamicin]]s called ozogamicin.<ref name=Ricart2009/><ref>{{cite journal|title=Recommended INN: List 54|journal=WHO Drug Information|date=2005|volume=19|issue=3|url=http://www.who.int/medicines/publications/druginformation/innlists/RL54.pdf}}</ref>  Ozogamicin is N-acetyl-gamma-calicheamicin dimethylhydrazide.<ref name=UKlabel/>   It includes the same linker, called "AcBut", and toxin, as [[gemtuzumab ozogamicin]], which arose from the same collaboration.<ref name=Damle2003>{{cite journal|last1=Damle|first1=NK|last2=Frost|first2=P|title=Antibody-targeted chemotherapy with immunoconjugates of calicheamicin.|journal=Current Opinion in Pharmacology|date=August 2003|volume=3|issue=4|pages=386–90|doi=10.1016/S1471-4892(03)00083-3|pmid=12901947}}</ref>  The linker is a carbonyl-containing carboxylic acid.<ref>{{cite journal|last1=Hamann|first1=PR|last2=Hinman|first2=LM|last3=Hollander|first3=I|last4=Beyer|first4=CF|last5=Lindh|first5=D|last6=Holcomb|first6=R|last7=Hallett|first7=W|last8=Tsou|first8=HR|last9=Upeslacis|first9=J|last10=Shochat|first10=D|last11=Mountain|first11=A|last12=Flowers|first12=DA|last13=Bernstein|first13=I|title=Gemtuzumab ozogamicin, a potent and selective anti-CD33 antibody-calicheamicin conjugate for treatment of acute myeloid leukemia.|journal=Bioconjugate chemistry|date=2002|volume=13|issue=1|pages=47–58|pmid=11792178|id=Cited in PMID 14615373}}</ref>
+[[File:Linker h AcBut Fig 5 PMID 11792178.png|thumb|Structure of AcBut linker used in inotuzumab ozogamicin and [[gemtuzumab ozogamicin]]]]
+The antibody, originally called G5/44, was created by grafting the [[complementarity-determining region]]s and some [[Framework region|framework]] residues from the murine anti-CD22 mAb m5/44, onto human acceptor frameworks.<ref name=DiJoseph2004>{{cite journal|last1=DiJoseph|first1=JF|last2=Armellino|first2=DC|last3=Boghaert|first3=ER|last4=Khandke|first4=K|last5=Dougher|first5=MM|last6=Sridharan|first6=L|last7=Kunz|first7=A|last8=Hamann|first8=PR|last9=Gorovits|first9=B|last10=Udata|first10=C|last11=Moran|first11=JK|last12=Popplewell|first12=AG|last13=Stephens|first13=S|last14=Frost|first14=P|last15=Damle|first15=NK|title=Antibody-targeted chemotherapy with CMC-544: a CD22-targeted immunoconjugate of calicheamicin for the treatment of B-lymphoid malignancies.|journal=Blood|date=1 March 2004|volume=103|issue=5|pages=1807–14|pmid=14615373|url=http://www.bloodjournal.org/content/103/5/1807.long}}</ref>
+
+==History==
+[[Celltech]] and [[Wyeth]] entered into a collaboration in 1991 to develop antibody-drug conjugates.<ref>{{cite web|title=Inotuzumab Ozogamicin|url=http://drugprofiles.informa.com/drug_profiles/638-inotuzumab-ozogamicin|publisher=Informa Biomedtracker|accessdate=19 August 2017}}</ref>
+
+The humanized antibody portion was generated at Celltech and the DNA encoding it was transfected into [[Chinese hamster ovary cell|CHO cells]], which were sent to Wyeth, where chemists expressed and purified the antibodies and conjugated them with the linker to the cytotoxin; the work was published in 2004.<ref name=DiJoseph2004/>  Celltech was acquired by [[UCB (company)|UCB]] in 2004<ref>{{cite news|title=Celltech sold to Belgian firm in £1.5bn deal|url=https://www.theguardian.com/business/2004/may/18/businessofresearch.money|work=The Guardian|date=18 May 2004}}</ref>  and Wyeth was acquired by [[Pfizer]] in 2009.<ref>{{cite news|last1=Sorkin|first1=Andrew Ross|last2=Wilson|first2=Duff|title=Pfizer Agrees to Pay $68 Billion for Rival Drug Maker Wyeth|url=https://www.nytimes.com/2009/01/26/business/26drug.html?mcubz=0|work=The New York Times|date=25 January 2009}}</ref>
+
+In May 2013 a Phase III trial in patients with relapsed or refractory CD22+ aggressive non-Hodgkin lymphoma (NHL) who were not candidates for intensive high-dose chemotherapy was terminated for futility.<ref>[http://pfizer.newshq.businesswire.com/press-release/pfizer-discontinues-phase-3-study-inotuzumab-ozogamicin-relapsed-or-refractory-aggress Pfizer Discontinues Phase 3 Study of Inotuzumab Ozogamicin in Relapsed or Refractory Aggressive Non-Hodgkin Lymphoma (NHL) Due to Futility. May 2013]</ref>
+
+In 2017 inotuzumab ozogamicin was approved by the European Commission and the FDA for the treatment of adults with relapsed or refractory CD22-positive B-cell precursor acute lymphoblastic leukemia (ALL) in 2017 under the trade name Besponsa (Pfizer/Wyeth).<ref name=UKlabel/><ref name=USlabel/>
+
+==References==
+{{reflist|30em}}
+
+{{Monoclonals for tumors}}
+
+[[Category:Antibody-drug conjugates]]
+[[Category:Monoclonal antibodies for tumors]]
+[[Category:Wyeth]]

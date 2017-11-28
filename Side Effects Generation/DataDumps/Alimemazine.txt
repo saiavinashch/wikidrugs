@@ -1,0 +1,66 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 477317349
+| IUPAC_name = ''N'',''N'',2-trimethyl-3-phenothiazin-10-yl-propan-1-amine
+| image = Alimemazine.svg
+| image2 = Alimemazine Tartrate 10mg.jpg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|alimemazine}}
+| MedlinePlus = 
+| pregnancy_AU = C
+| pregnancy_US = <!-- A / B / C / D / X -->
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = POM
+| legal_US = <!-- OTC / Rx-only -->
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life = 4.78 ± 0.59 hours<ref name="pmid2871150">{{cite journal | vauthors = Hu OY, Gfeller E, Perrin JH, Curry SH | title = Relative bioavailability of trimeprazine tablets investigated in man using HPLC with electrochemical detection | journal = The Journal of Pharmacy and Pharmacology | volume = 38 | issue = 3 | pages = 172–6 |date=March 1986 | pmid = 2871150 | doi = 10.1111/j.2042-7158.1986.tb04539.x| url = }}</ref>
+<!--Identifiers-->
+| IUPHAR_ligand = 7237
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 84-96-8
+| ATC_prefix = R06
+| ATC_suffix = AD01
+| ATC_supplemental = 
+| PubChem = 5574
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01246
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5373
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 76H78MJJ52
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07125
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 829
+<!--Chemical data-->
+| C=18 | H=22
+| N=2 | S=1
+| molecular_weight = 298.447 g/mol
+| smiles = S2c1ccccc1N(c3c2cccc3)CC(C)CN(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C18H22N2S/c1-14(12-19(2)3)13-20-15-8-4-6-10-17(15)21-18-11-7-5-9-16(18)20/h4-11,14H,12-13H2,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ZZHLYYDVIOPZBE-UHFFFAOYSA-N
+}}
+
+'''Alimemazine''' ([[International Nonproprietary Name|INN]]), also known as '''trimeprazine''' ([[United States Adopted Name|USAN]] and former [[British Approved Name|BAN]]); brand names '''Nedeltran''', '''Panectyl''', '''Repeltin''', '''Therafene''', '''Theraligene''', '''Theralen''', '''Theralene''', '''Vallergan''', '''Vanectyl''', and '''Temaril'''), commonly provided as a [[tartrate]] salt, is a [[phenothiazine]] derivative that is used as an [[antipruritic]] (it prevents itching from causes such as [[eczema]] or [[poison ivy]], by acting as an [[antihistamine]]).<ref>{{cite web|url=https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=78032|title=PubChem CID 78032}}</ref> It also acts as a [[sedative]], [[hypnotic]], and [[antiemetic]] for prevention of [[motion sickness]]. Although it is structurally related to drugs such as [[chlorpromazine]], it is not used as an [[antipsychotic]].<ref>{{cite web|url=http://redpoll.pharmacy.ualberta.ca/drugbank/cgi-bin/getCard.cgi?CARD=APRD00258.txt|title=Drugbank:Trimeprazine}}</ref> In the Russian Federation, it is marketed under the brand name '''Teraligen''' for the treatment of anxiety disorders (including [[generalized anxiety disorder|GAD]]), organic mood disorders, sleep disturbances, personality disorders accompanied by asthenia and depression, [[somatoform disorder|somatoform]] [[dysautonomia|autonomic dysfunction]] and various [[neurosis|neuroses]].<ref>{{cite web|url=http://www.rlsnet.ru/tn_index_id_37573.htm|title=Russian Register of Medicines: “Teraligen” film-coated tablets (alimemazine tartrate) Patient Information Leaflet ''(in Russian)''. Revised September 2013.}}</ref>
+
+Alimemazine is not approved for use in humans in the United States. The combination of alimemazine and [[prednisolone]] (commonly sold under the brand name '''Temaril-P''') is licensed as an antipruritic and [[antitussive]] in dogs.
+
+== References ==
+{{Reflist}}
+
+{{Antihistamines}}
+{{Cholinergics}}
+{{Histaminergics}}
+{{Tricyclics}}
+
+[[Category:Antiemetics]]
+[[Category:Phenothiazines]]
+[[Category:H1 receptor antagonists]]
+
+
+{{respiratory-system-drug-stub}}

@@ -1,0 +1,88 @@
+{{Drugbox
+| verifiedrevid = 444760513
+| IUPAC_name = 4-[2-(5-nitro-1''H''-imidazol-1-yl)ethyl]morpholine
+| image = Nimorazole.svg
+| width = 160
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|nimorazole}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number = 6506-37-2
+| ATC_prefix = P01
+| ATC_suffix = AB06
+| ATC_supplemental =  {{ATCvet|P51|AA06}}
+| PubChem = 23009
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 469ULX0H4G
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07352
+| ChemSpiderID = 21533
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=9 | H=14 | N=4 | O=3 
+| molecular_weight = 226.23 g/mol
+| smiles = C1COCCN1CCN2C=NC=C2[N+](=O)[O-]
+| StdInChI = 1S/C9H14N4O3/c14-13(15)9-7-10-8-12(9)2-1-11-3-5-16-6-4-11/h7-8H,1-6H2
+| StdInChIKey = MDJFHRLTPRPZLY-UHFFFAOYSA-N
+}}
+
+'''Nimorazole''' ([[International Nonproprietary Name|INN]]) is a [[nitroimidazole]] [[anti-infective]].<ref>{{Cite journal 
+| last1 = Roy | first1 = R. B. 
+| last2 = Laird | first2 = S. M. 
+| last3 = Heasman | first3 = L. 
+| title = Treatment of trichomoniasis in the female. A comparison of metronidazole and nimorazole 
+| journal = The British Journal of Venereal Diseases 
+| volume = 51 
+| issue = 4 
+| pages = 281–284 
+| year = 1975 
+| pmid = 1098732 
+| pmc = 1046566
+}}</ref> It is also being investigated for the treatment of [[head and neck cancer]].<ref>{{Cite journal 
+| doi = 10.1016/S0167-8140(02)00284-0 
+| last1 = Henk | first1 = J. M. 
+| last2 = Bishop | first2 = K. 
+| last3 = Shepherd | first3 = S. F. 
+| title = Treatment of head and neck cancer with CHART and nimorazole: Phase II study 
+| journal = Radiotherapy and Oncology 
+| volume = 66 
+| issue = 1 
+| pages = 65–70 
+| year = 2003 
+| pmid = 12559522
+}}</ref><ref>{{ClinicalTrialsGov|NCT01507467|IAEA-HypoX. Accelerated Radiotherapy With or Without Nimorazole in Squamous Cell Carcinoma of the Head and Neck}}</ref>
+
+==References==
+{{reflist}}
+
+{{Agents against amoebozoa}}
+{{Androgenics}}
+{{Estrogenics}}
+
+[[Category:Aromatase inhibitors]]
+[[Category:Nitroimidazole antibiotics]]
+[[Category:Antiprotozoal agents]]
+[[Category:Morpholines]]
+
+{{antiinfective-drug-stub}}

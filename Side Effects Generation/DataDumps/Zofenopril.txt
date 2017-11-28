@@ -1,0 +1,78 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 409118507
+| IUPAC_name = (2''S'',4''S'')-1-[(2''S'')-3-benzoylsulfanyl-2-methylpropanoyl]-4-phenylsulfanylpyrrolidine-2-carboxylic acid
+| image = Zofenopril structure.svg
+| width = 250
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|zofenopril}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6462
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 81872-10-8
+| ATC_prefix = C09
+| ATC_suffix = AA15
+| ATC_supplemental =  
+| PubChem = 92400
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB13166
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 290ZY759PI
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08688
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 78539
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 331378
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 83422
+|  smiles = O=C(N2[C@H](C(=O)O)C[C@H](Sc1ccccc1)C2)[C@H](C)CSC(=O)c3ccccc3
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C22H23NO4S2/c1-15(14-28-22(27)16-8-4-2-5-9-16)20(24)23-13-18(12-19(23)21(25)26)29-17-10-6-3-7-11-17/h2-11,15,18-19H,12-14H2,1H3,(H,25,26)/t15-,18+,19+/m1/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = IAIDUHCBNLFXEF-MNEFBYGVSA-N
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=22 | H=23 | N=1 | O=4 | S=2 
+| molecular_weight = 429.552 g/mol
+}}
+'''Zofenopril''' ([[international nonproprietary name|INN]]) is a [[pharmaceutical drug|medication]] that [[wikt:cardioprotective#Adjective|protects the heart]] and helps reduce [[hypertension|high blood pressure]]. It is an [[ACE inhibitor|angiotensin-converting enzyme (ACE) inhibitor]].<ref>{{cite journal |author=Ambrosioni E |title=Defining the role of zofenopril in the management of hypertension and ischemic heart disorders |journal=Am J Cardiovasc Drugs |volume=7 |issue=1 |pages=17–24 |year=2007 |pmid=17355163 |doi= 10.2165/00129784-200707010-00002|url=}}</ref>
+
+In small studies, zofenopril appeared [[statistical significance|significantly]] more effective in reducing hypertension than two older [[antihypertensive drug]]s, [[atenolol]] and [[enalapril]], and was associated with fewer [[adverse drug reaction|adverse effect]]s.<ref>{{cite journal |author=Nilsson P |title=Antihypertensive efficacy of zofenopril compared with atenolol in patients with mild to moderate hypertension |journal=Blood Press Suppl |volume=2 |issue= |pages=25–30 |date=October 2007 |pmid=18046976 |doi= |url=}}</ref><ref>{{cite journal |author=Mallion JM |title=An evaluation of the initial and long-term antihypertensive efficacy of zofenopril compared with enalapril in mild to moderate hypertension |journal=Blood Press Suppl |volume=2 |issue= |pages=13–8 |date=October 2007 |pmid=18046974 |doi= |url=}}</ref>
+
+[[File:Zofenoprilat structure.svg|thumb|left|Zofenoprilat — the active metabolite of zofenopril]] {{clear left}}
+
+==References==
+{{Reflist}}
+
+{{ACE inhibitors}}
+{{Angiotensin receptor modulators}}
+
+[[Category:ACE inhibitors]]
+[[Category:Carboxamides]]
+[[Category:Enantiopure drugs]]
+[[Category:Prodrugs]]
+[[Category:Pyrrolidines]]
+
+{{cardiovascular-drug-stub}}

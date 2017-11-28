@@ -1,0 +1,89 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 462258277
+| IUPAC_name = 1-Ethyl-7-methyl-4-oxo-[1,8]naphthyridine-3-carboxylic acid
+| image = Nalidixic acid.png
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CDI|nalidixic_acid}}
+| pregnancy_US = B
+| legal_US =  Not FDA approved
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 90%
+| metabolism = Partially Hepatic
+| elimination_half-life = 6-7 hours, significantly longer in [[renal]] impairment
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 389-08-2
+| ATC_prefix = J01
+| ATC_suffix = MB02
+| ATC_supplemental =  
+| PubChem = 4421
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00779
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4268
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 3B91HWA56M
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00183
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 100147
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 5
+<!--Chemical data-->
+| C=12 | H=12 | N=2 | O=3
+| molecular_weight = 232.235 g/mol
+| smiles = O=C\2c1c(nc(cc1)C)N(/C=C/2C(=O)O)CC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C12H12N2O3/c1-3-14-6-9(12(16)17)10(15)8-5-4-7(2)13-11(8)14/h4-6H,3H2,1-2H3,(H,16,17)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = MHWLWQUZZRMNGJ-UHFFFAOYSA-N
+}}
+
+'''Nalidixic acid''' (tradenames '''Nevigramon''', '''Neggram''', '''Wintomylon''' and '''WIN 18,320''') is the first of the synthetic [[quinolone antibiotic]]s.
+
+In a technical sense, it is a naphthyridone, not a quinolone: its ring structure is a 1,8-[[naphthyridine]] nucleus that contains two nitrogen atoms, unlike quinoline, which has a single nitrogen atom.<ref name=jac2003>{{cite journal | vauthors = Emmerson AM, Jones AM | title = The quinolones: decades of development and use | journal = The Journal of Antimicrobial Chemotherapy | volume = 51 Suppl 1 | issue = Suppl 1 | pages = 13–20 | date = May 2003 | pmid = 12702699 | doi = 10.1093/jac/dkg208 | url = http://jac.oxfordjournals.org/content/51/suppl_1/13.full.pdf | format = pdf }}</ref>
+
+Synthetic quinolone antibiotics were discovered by George Lesher and coworkers as a byproduct of [[chloroquine]] manufacture in the 1960s.<ref name=jac2003 /> Used clinically from 1967.<ref name=jac2003 />
+
+Nalidixic acid is effective primarily against [[gram-negative bacteria]], with minor anti-[[gram-positive]] activity. In lower concentrations, it acts in a [[bacteriostatic]] manner; that is, it inhibits growth and reproduction. In higher concentrations, it is bactericidal, meaning that it kills bacteria instead of merely inhibiting their growth.
+
+It has historically been used for treating [[urinary tract infections]], caused, for example, by ''[[Escherichia coli]]'', ''[[Proteus (bacterium)|Proteus]]'', ''[[Shigella]]'', ''[[Enterobacter]]'', and ''[[Klebsiella]]''. It is no longer clinically used for this indication in the USA as less toxic and more effective agents are available.
+
+It is also a tool in studies as a regulation of bacterial division. It selectively and reversibly blocks DNA replication in susceptible bacteria. Nalidixic acid and related antibiotics inhibit a subunit of [[DNA gyrase]] and [[topoisomerase IV]] and induce formation of cleavage complexes.<ref>{{cite journal | last1 = Pommier | first1 = Y. | last2 = Leo | first2 = E. | last3 = Zhang | first3 = H. | last4 = Marchand | first4 = C. | year = 2010 | title = DNA topoisomerases and their poisoning by anticancer and antibacterial drugs | url = | journal = Chem. Biol | volume = 17 | issue = | pages = 421–433 | doi=10.1016/j.chembiol.2010.04.012 | pmid=20534341}}</ref> It also inhibits the nicking-closing activity on the subunit of DNA gyrase that releases the positive binding stress on the supercoiled DNA.
+
+== Adverse effects ==
+
+Hives, rash, intense itching, or fainting soon after a dose may be a sign of [[anaphylaxis]]. Common adverse effects include rash, itchy skin, blurred or double vision, halos around lights, changes in color vision, nausea, vomiting, and diarrhea. Nalidixic acid may also cause [[convulsion]]s and [[hyperglycaemia]],<ref>{{cite journal | vauthors = Fraser AG, Harrower AD | title = Convulsions and hyperglycaemia associated with nalidixic acid | journal = British Medical Journal | volume = 2 | issue = 6101 | pages = 1518 | date = Dec 1977 | pmid = 589309 | pmc = 1632822 | doi = 10.1136/bmj.2.6101.1518 }}</ref> photosensitivity reactions,<ref name="pmid4733958">{{cite journal | vauthors = Ramsay CA | title = Photosensitivity from nalidixic acid | journal = Proceedings of the Royal Society of Medicine | volume = 66 | issue = 8 | pages = 747 | date = Aug 1973 | pmid = 4733958 | pmc = 1645105 | doi =  }}</ref> and sometimes haemolytic anaemia,<ref name="pmid4653901">{{cite journal | vauthors = Gilbertson C, Jones DR | title = Haemolytic anaemia with nalidixic acid | journal = British Medical Journal | volume = 4 | issue = 5838 | pages = 493 | date = Nov 1972 | pmid = 4653901 | pmc = 1786728 | doi =  10.1136/bmj.4.5838.493-a}}</ref><ref name="pmid6811074">{{cite journal | vauthors = Tafani O, Mazzoli M, Landini G, Alterini B | title = Fatal acute immune haemolytic anaemia caused by nalidixic acid | journal = British Medical Journal | volume = 285 | issue = 6346 | pages = 936–7 | date = Oct 1982 | pmid = 6811074 | pmc = 1499997 | doi =  10.1136/bmj.285.6346.936-a}}</ref> thrombocytopenia<ref name="pmid6435742">{{cite journal | vauthors = Meyboom RH | title = Thrombocytopenia induced by nalidixic acid | journal = British Medical Journal | volume = 289 | issue = 6450 | pages = 962 | date = Oct 1984 | pmid = 6435742 | pmc = 1443179 | doi =  10.1136/bmj.289.6450.962}}</ref> or leukopenia. Particularly in [[infants]] and young children, has been reported occasionally increased [[intracranial pressure]].<ref name="pmid6025983">{{cite journal | vauthors = Boréus LO, Sundström B | title = Intracranial hypertension in a child during treatment with nalidixic acid | journal = British Medical Journal | volume = 2 | issue = 5554 | pages = 744–5 | date = Jun 1967 | pmid = 6025983 | pmc = 1841777 | doi =  10.1136/bmj.2.5554.744}}</ref><ref name="pmid6055749">{{cite journal | vauthors = Kremer L, Walton M, Wardle EN | title = Nalidixic acid and intracranial hypertension | journal = British Medical Journal | volume = 4 | issue = 5577 | pages = 488 | date = Nov 1967 | pmid = 6055749 | pmc = 1748506 | doi =  10.1136/bmj.4.5577.488-a}}</ref><ref name="pmid4419059">{{cite journal | vauthors = Deonna T, Guignard JP | title = Acute intracranial hypertension after nalidixic acid administration | journal = Archives of Disease in Childhood | volume = 49 | issue = 9 | pages = 743 | date = Sep 1974 | pmid = 4419059 | pmc = 1649016 | doi =  10.1136/adc.49.9.743}}</ref>
+
+== Overdose ==
+
+In case of overdose the patient experiences [[headache]], visual disturbances, balance disorders, [[mental confusion]], metabolic acidosis and [[seizures]].<ref name="pmid17175866">{{cite journal | vauthors = Eizadi-Mood N | title = Nalidixic acid overdose and metabolic acidosis | journal = Cjem | volume = 8 | issue = 2 | pages = 78 | date = Mar 2006 | pmid = 17175866 | doi =  }}</ref>
+
+== Spectrum of bacterial susceptibility and resistance ==
+
+''[[Aeromonas hydrophila]]'', ''[[Clostridium]]'' and ''[[Haemophilus]]'' are generally susceptible to nalidixic acid, while other bacteria such as ''[[Bifidobacteria]]'', ''[[Lactobacillus]]'', ''[[Pseudomonas]]'' and ''[[Staphylococcus]]'' are resistant.<ref>{{ cite web | title = Nalidixic acid spectrum of bacterial susceptibility and Resistance | url = http://www.toku-e.com/Upload/Products/PDS/20120522005430.pdf | format = pdf | publisher = Toku-E | date = 2011-09-14 | accessdate = 2012-05-14 }}</ref>
+
+== See also ==
+*[[Amfonelic acid]]
+*[[Oxolinic acid]]
+
+== References ==
+{{reflist|33em}}
+
+== External links ==
+* {{MedlinePlusDrugInfo|medmaster|a682042}}{{dead link|date=June 2012}}
+* {{ cite web | url = http://www.healthdigest.org/topics/category/1464-nalidixic-acid-dosage-interactions-side-effects-how-to-use | publisher = HealthDigest.org | title = Nalidixic acid }}
+
+{{QuinoloneAntiBiotics}}
+
+{{Authority control}}
+
+[[Category:Quinolone antibiotics]]
+[[Category:Naphthyridines]]
+[[Category:WIN compounds]]
+[[Category:Carboxylic acids]]
+[[Category:Topoisomerase inhibitors]]

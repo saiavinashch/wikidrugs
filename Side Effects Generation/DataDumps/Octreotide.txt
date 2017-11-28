@@ -1,0 +1,155 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 458287873
+| IUPAC_name = (4''R'',7''S'',10''S'',13''R'',16''S'',19''R'')-10-(4-aminobutyl)-19-<br /><nowiki>[[</nowiki>(2''R'')-2-amino-3-phenyl-propanoyl]amino]-16-<br />benzyl-''N''-[(2''R'',3''R'')-1,3-dihydroxybutan-2-yl]-7-<br />(1-hydroxyethyl)-13-(1''H''-indol-3-ylmethyl)-6,9,12,<br />15,18-pentaoxo-1,2-dithia-5,8,11,14,17-<br />pentazacycloicosane-4-carboxamide
+| image = Octreotide.svg
+| image2 = Octreotide3d.png
+
+<!--Clinical data-->
+| tradename = Sandostatin
+| Drugs.com = {{drugs.com|monograph|octreotide-acetate}}
+| pregnancy_AU = C
+| pregnancy_US = B
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = [[Subcutaneous injection|Subcutaneous]], [[Intramuscular injection|intramuscular]], [[Intravenous therapy|intravenous]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 60% ([[intramuscular injection|IM]]), 100% ([[subcutaneous injection|SC]])
+| protein_bound = 40–65%
+| metabolism = [[Hepatic]]
+| elimination_half-life = 1.7–1.9 hours
+| excretion = Urine (32%)
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 83150-76-9
+| CAS_supplemental = <br />{{CAS|79517-01-4}} ([[acetate]])<br />{{CAS|135467-16-2}} ([[pamoate]])
+| ATC_prefix = H01
+| ATC_suffix = CB02
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00104
+|  PubChem = 448601
+| IUPHAR_ligand = 2055
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 395352
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = RWM8CCW8GP
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D00442
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1680
+
+<!--Chemical data-->
+| C=49 | H=66 | N=10 | O=10 | S=2 
+| molecular_weight = 1019.24 g/mol
+|  smiles = C[C@H]([C@H]1C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N1)CCCCN)Cc2c[nH]c3c2cccc3)Cc4ccccc4)NC(=O)[C@@H](Cc5ccccc5)N)C(=O)N[C@H](CO)[C@@H](C)O)O
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C49H66N10O10S2/c1-28(61)39(25-60)56-48(68)41-27-71-70-26-40(57-43(63)34(51)21-30-13-5-3-6-14-30)47(67)54-37(22-31-15-7-4-8-16-31)45(65)55-38(23-32-24-52-35-18-10-9-17-33(32)35)46(66)53-36(19-11-12-20-50)44(64)59-42(29(2)62)49(69)58-41/h3-10,13-18,24,28-29,34,36-42,52,60-62H,11-12,19-23,25-27,50-51H2,1-2H3,(H,53,66)(H,54,67)(H,55,65)(H,56,68)(H,57,63)(H,58,69)(H,59,64)/t28-,29-,34-,36+,37+,38-,39-,40+,41+,42+/m1/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = DEQANNDTNATYII-OULOTJBUSA-N
+}}
+
+'''Octreotide''' (trade name '''Sandostatin''', among others) is an [[peptide|octapeptide]] that mimics natural [[somatostatin]] pharmacologically, though it is a more potent inhibitor of [[growth hormone]], [[glucagon]], and [[insulin]] than the natural hormone. It was first synthesized in 1979 by the chemist Wilfried Bauer.
+
+==Medical uses==
+
+===Tumors===
+Octreotide is used for the treatment of [[growth hormone]] producing tumors ([[acromegaly]] and [[gigantism]]), when surgery is contraindicated, pituitary tumors that secrete [[thyroid stimulating hormone]] (thyrotropinoma), [[diarrhea]] and [[Flushing (physiology)|flushing]] episodes associated with [[carcinoid syndrome]], and diarrhea in people with [[vasoactive intestinal peptide]]-secreting tumors ([[VIPoma]]s).
+
+===Bleeding esophageal varices===
+Octreotide is often given as an infusion for management of acute [[haemorrhage]] from [[esophageal varices]] in liver [[cirrhosis]] on the basis that it reduces [[Portal hypertension|portal venous pressure]], though current evidence suggests that this effect is transient and does not improve survival.<ref name="pmid18677774">{{cite journal |vauthors=Gøtzsche PC, Hróbjartsson A | title = Somatostatin analogues for acute bleeding oesophageal varices | journal = Cochrane Database Syst Rev | volume = | issue = 3 | pages = CD000193 | year = 2008 | pmid = 18677774 | doi = 10.1002/14651858.CD000193.pub3 }}</ref>
+
+===Radiolabelling===
+{{Further|Octreotide scan}}
+Octreotide is used in [[nuclear imaging|nuclear medicine imaging]] by labelling with [[indium-111]] (Octreoscan) to noninvasively image neuroendocrine and other tumours expressing somatostatin receptors.<ref>[http://www.medscape.com/viewarticle/406655_3 Medscape: Octreoscan review]</ref>  More recently, it has been radiolabelled with [[carbon-11]]<ref>{{cite journal | vauthors = Chin J, Vesnaver M, Bernard-Gauthier V, Saucke-Lacelle E, Wängler B, Wängler C, Schirrmacher R | year = 2013 | title = Amino Acids: Direct one-step labeling of cysteine residues on peptides with 11C-methyl triflate for the synthesis of PET radiopharmaceuticals | url = | journal = Amino Acids | volume =  45| issue = | pages =  1097–108| doi = 10.1007/s00726-013-1562-5 | pmid = 23921782 }}</ref> as well as [[gallium-68]], enabling imaging with [[positron emission tomography]] (PET), which provides higher resolution and sensitivity.
+
+Octreotide can also be labelled with a variety of radionuclides, such as [[yttrium-90]] or [[lutetium-177]], to enable [[peptide receptor radionuclide therapy]] (PRRT) for the treatment of unresectable neuroendocrine tumours.
+
+===Acromegaly===
+Octreotide can also be used in the treatment of Acromegaly, a disorder of excessive growth hormone (GH). Octreotide, being a somatostatin analog, inhibits the release of GH from the pituitary gland through a process normally involved in negative feedback.
+
+===Gastrointestinal fistulae===
+Octreotide helps in management of the fistula by reducing GI secretions and inhibiting GI motility, thus controlling and reducing its output.{{fact|date=March 2016}} The value in healing intestinal fistulas is yet to be proven and routine use is limited because of the side effects.
+
+==Contraindications==
+Octreotide has not been adequately studied for the treatment of children and pregnant and lactating women. The drug is given to these groups of patients only if a [[risk-benefit analysis]] is positive.<ref name="AustriaCodex">{{cite book|title=Austria-Codex|editor=Haberfeld, H|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2009|edition=2009/2010|isbn=3-85200-196-X|language=German}}</ref><ref name="Arzneistoff-Profile">{{cite book|title=Arzneistoff-Profile|editor=Dinnendahl, V |editor2=Fricke, U|publisher=Govi Pharmazeutischer Verlag|location=Eschborn, Germany|year=2010|edition=23|volume=8|isbn=978-3-7741-9846-3|language=German}}</ref>
+
+==Adverse effects==
+The most frequent adverse effects (more than 10% of patients) are headache, [[hypothyroidism]], [[Electrical conduction system of the heart|cardiac conduction]] changes, [[gastrointestinal]] reactions (including cramps, nausea/vomiting and diarrhoea or constipation), [[gallstone]]s, reduction of [[insulin]] release, [[hyperglycemia]]<ref name="pmid20132129">{{cite journal |vauthors=Hovind P, Simonsen L, Bülow J | title = Decreased leg glucose uptake during exercise contributes to the hyperglycaemic effect of octreotide | journal = Clin Physiol Funct Imaging | volume = 30 | issue = 2 | pages = 141–5 |date=March 2010 | pmid = 20132129 | doi = 10.1111/j.1475-097X.2009.00917.x }}</ref> or [[hypoglycemia]], and (usually transient) injection site reactions. [[Slow heart rate]], skin reactions such as [[pruritus]], [[hyperbilirubinemia]], [[hypothyroidism]], [[dizziness]] and [[dyspnoea]] are also fairly common (more than 1%). Rare side effects include acute [[anaphylactic reaction]]s, [[pancreatitis]] and [[hepatitis]].<ref name="AustriaCodex" /><ref name="Arzneistoff-Profile" /> One study reported a possible association with rheumatoid arthritis.<ref name="pmid21737909">{{cite journal | author = Saif MW | title = Rheumatoid arthritis associated with the use of Sandostatin® LAR® depot in a patient with pancreatic neuroendocrine tumor. An association or a coincidence? The first case report | journal = JOP | volume = 12 | issue = 4 | pages = 425–8 |date=July 2011 | pmid = 21737909 | doi = | url = http://www.joplink.net/prev/201107/201107_07.pdf | laysummary = http://www.ehealthme.com/ds/sandostatin+lar/rheumatoid+arthritis | laysource =  eHealthMe.com }}</ref>
+
+Some studies reported [[alopecia]] in patients who were treated by octreotide.<ref name="pmid9391775">{{cite journal |vauthors=van der Lely AJ, de Herder WW, Lamberts SW | title = A risk-benefit assessment of octreotide in the treatment of acromegaly | journal = Drug Saf | volume = 17 | issue = 5 | pages = 317–24 |date=November 1997 | pmid = 9391775 | doi = 10.2165/00002018-199717050-00004}}</ref> Rats which were treated by octreotide experienced [[erectile dysfunction]] in a 1998 study.<ref name="pmid9467491">{{cite journal |vauthors=Kapicioglu S, Mollamehmetoglu M, Kutlu N, Can G, Ozgur GK | title = Inhibition of penile erection in rats by a long-acting somatostatin analogue, octreotide (SMS 201-995) | journal = Br J Urol | volume = 81 | issue = 1 | pages = 142–5 |date=January 1998 | pmid = 9467491 | doi = 10.1046/j.1464-410x.1998.00520.x}}</ref>
+
+A prolonged [[QT interval]] has been observed in patients, but it is uncertain whether this is a reaction to the drug or part of the patients' illnesses.<ref name="AustriaCodex" />
+
+{{Infobox protein family
+| Symbol = N/A
+| Name = 
+| image = 
+| width = 
+| caption = 
+| Pfam = 
+| Pfam_clan =  
+| InterPro = 
+| SMART = 
+| PROSITE = 
+| MEROPS = 
+| SCOP = 
+| TCDB = 
+| OPM family = 167
+| OPM protein = 1soc
+| CAZy = 
+| CDD = 
+}}
+
+==Overdose==
+Octreotide is useful in overdose management of sulfonylurea type hypoglycemic medications, when recurrent or refractory to parenteral dextrose.  Mechanism of action is the suppression of insulin secretion.
+
+== Interactions ==
+Octreotide can reduce the intestinal resorption of [[ciclosporin]], possibly making it necessary to increase the dose.<ref name="Arzneimittel-Interaktionen">{{cite book|title=Arzneimittel-Interaktionen|editor=Klopp, T|publisher=Arbeitsgemeinschaft für Pharmazeutische Information|year=2010|edition=2010/2011|isbn=978-3-85200-207-1|language=German}}</ref> Patients with [[diabetes mellitus]] might need less [[insulin]] or [[oral antidiabetic]]s when treated with octreotide. The [[bioavailability]] of [[bromocriptine]] is increased;<ref name="Arzneistoff-Profile" />  besides being an [[antiparkinsonian]], bromocriptine is also used for the treatment of acromegaly.
+
+==Pharmacology==
+Since octreotide resembles somatostatin in physiological activities, it can:
+* inhibit secretion of many hormones, such as [[gastrin]], [[cholecystokinin]], [[glucagon]], [[growth hormone]], [[insulin]], [[secretin]], [[pancreatic polypeptide]], [[Thyroid-stimulating hormone|TSH]], and [[vasoactive intestinal peptide]],
+* reduce secretion of fluids by the intestine and [[pancreas]],
+* reduce gastrointestinal motility and inhibit contraction of the [[gallbladder]],
+* inhibit the action of certain hormones from the [[anterior pituitary]],
+* cause [[vasoconstriction]] in the blood vessels, and
+* reduce portal vessel pressures in bleeding varices.
+
+It has also been shown to produce [[analgesic]] effects, most probably acting as a [[partial agonist]] at the [[mu opioid receptor]].<ref>{{cite journal | vauthors = Maurer R, Gaehwiler BH, Buescher HH, Hill RC, Roemer D | date = Aug 1982 | title = Opiate antagonistic properties of an octapeptide somatostatin analog | journal = Proceedings of the National Academy of Sciences USA | volume = 79 | issue = 15| pages = 4815–7 | pmid = 6126877 | pmc=346769 | doi=10.1073/pnas.79.15.4815}}</ref><ref>{{cite journal | vauthors = Allen MP, Blake JF, Bryce DK, Haggan ME, Liras S, McLean S, Segelstein BE | year = 2000 | title = Design, synthesis and biological evaluation of 3-amino-3-phenylpropionamide derivatives as novel mu opioid receptor ligands | url = | journal = Bioorganic and Medicinal Chemistry Letters | volume = 10 | issue = 6| pages = 523–6 | pmid = 10741545 | doi=10.1016/s0960-894x(00)00034-2}}</ref>
+
+===Pharmacokinetics===
+Octreotide is absorbed quickly and completely after [[Subcutaneous injection|subcutaneous]] application. Maximal plasma concentration is reached after 30 minutes. The [[elimination half-life]] is 100 minutes (1.7 hours) on average when applied subcutaneously; after [[intravenous injection]], the substance is eliminated in two phases with half-lives of 10 and 90 minutes, respectively.<ref name="AustriaCodex" /><ref name="Arzneistoff-Profile" />
+
+==Research==
+Octreotide has also been used [[off-label use|off-label]] for the treatment of severe, refractory diarrhea from other causes. It is used in toxicology for the treatment of prolonged recurrent hypoglycemia after [[sulfonylurea]] and possibly meglitinides overdose.  It has also been used with varying degrees of success in infants with [[nesidioblastosis]] to help decrease insulin hypersecretion. Several clinical trials also proves the effect of octreotide as acute treatment (abortive agent) in [[cluster headache]], where it shows that administration of subcutaneous octreotide is effective when compared with placebo.<ref>{{cite journal | pmid = 15455406 | doi=10.1002/ana.20210 | volume=56 | title=Subcutaneous octreotide in cluster headache: randomized placebo-controlled double-blind crossover study | journal=Ann Neurol | pages=488-94 | vauthors=Matharu MS, Levy MJ, Meeran K, Goadsby PJ}}</ref>
+
+Octreotide has been used experimentally to treat [[obesity]], particularly obesity caused by lesions in the hunger and satiety centers of the [[hypothalamus]], a region of the brain central to the regulation of food intake and energy expenditure.<ref name=Lustig2003>{{cite journal |vauthors=Lustig RH, Hinds PS, Ringwald-Smith K, Christensen RK, Kaste SC, Schreiber RE, Rai SN, Lensing SY, Wu S, Xiong X | title = Octreotide therapy of pediatric hypothalamic obesity: a double-blind, placebo-controlled trial | journal = J. Clin. Endocrinol. Metab. | volume = 88 | issue = 6 | pages = 2586–92 |date=June 2003 | pmid = 12788859 | doi = 10.1210/jc.2002-030003 }}</ref> The circuit begins with an area of the hypothalamus, the [[arcuate nucleus]], that has outputs to the [[lateral hypothalamus]] (LH) and [[ventromedial hypothalamus]] (VMH), the brain's feeding and satiety centers, respectively.<ref name="flier">{{cite journal | author=Flier JS | title=Obesity wars: Molecular progress confronts an expanding epidemic | journal=Cell | year=2004 | pages=337–50 | volume=116 | issue=2 | pmid=14744442 | doi = 10.1016/S0092-8674(03)01081-X}}</ref><ref>{{cite book |author1=Boulpaep, Emile L. |author2=Boron, Walter F. |title=Medical physiologya: A cellular and molecular approach |publisher=Saunders |location=Philadelphia |year=2003 |page=1227 |isbn=0-7216-3256-4}}</ref> The VMH is sometimes injured by ongoing treatment for [[acute lymphoblastic leukemia]] (ALL) or surgery or radiation to treat [[posterior cranial fossa]] tumors.<ref name=Lustig2003 /> With the VMH disabled and no longer responding to peripheral energy balance signals, "Efferent sympathetic activity drops, resulting in malaise and reduced energy expenditure, and [[vagus nerve|vagal]] activity increases, resulting in increased [[insulin]] secretion and [[adipogenesis]]."<ref name=Lustig2011>{{cite journal | author = Lustig RH | title = Hypothalamic obesity after craniopharyngioma: mechanisms, diagnosis, and treatment | journal = Front Endocrinol (Lausanne) | volume = 2 | issue = | pages = 60 | year = 2011 | pmid = 22654817 | pmc = 3356006 | doi = 10.3389/fendo.2011.00060 }}</ref> "VMH dysfunction promotes excessive caloric intake and decreased caloric expenditure, leading to continuous and unrelenting weight gain. Attempts at caloric restriction or pharmacotherapy with adrenergic or serotonergic agents have previously met with little or only brief success in treating this syndrome."<ref name=Lustig2003 /> In this context, octreotide suppresses the excessive release of insulin and may increase its action, thereby inhibiting excessive adipose storage. In a small [[clinical trial]] in eighteen pediatric patients with intractable weight gain following therapy for ALL or brain tumors and other evidence of hypothalamic dysfunction, octreotide reduced [[body mass index]] (BMI) and insulin response during [[glucose tolerance test]], while increasing parent-reported physical activity and [[quality of life]] (QoL) relative to [[placebo]].<ref name=Lustig2003 /> In a separate placebo-controlled trial of obese adults without known hypothalamic lesions, obese patients who received long-acting octreotide lost weight and reduced their BMI compared to patients receiving placebo; post hoc analysis suggested greater effects in patients receiving the higher dose of the drug, and among "[[Caucasian race|Caucasian]] patients having insulin secretion greater than the median of the cohort." "There were no statistically significant changes in QoL scores, body fat, leptin concentration, [[Beck Depression Inventory]], or macronutrient intake", although patients taking octreotide had higher blood glucose after a glucose tolerance test than those receiving placebo.<ref name=Lustig2006>{{cite journal |vauthors=Lustig RH, Greenway F, Velasquez-Mieyer P, Heimburger D, Schumacher D, Smith D, Smith W, Soler N, Warsi G, Berg W, Maloney J, Benedetto J, Zhu W, Hohneker J | title = A multicenter, randomized, double-blind, placebo-controlled, dose-finding trial of a long-acting formulation of octreotide in promoting weight loss in obese adults with insulin hypersecretion | journal = Int J Obes (Lond) | volume = 30 | issue = 2 | pages = 331–41 |date=February 2006 | pmid = 16158082 | pmc = 1540404 | doi = 10.1038/sj.ijo.0803074 }}</ref>
+
+Octreotide has also been investigated for patients with pain from [[chronic pancreatitis]].<ref name="pmid10207228">{{cite journal |vauthors=Uhl W, Anghelacopoulos SE, Friess H, Büchler MW |title=The role of octreotide and somatostatin in acute and chronic pancreatitis |journal=Digestion |volume=60 Suppl 2 |issue= |pages=23–31 |year=1999 |pmid=10207228 |doi=10.1159/000051477}}</ref>
+
+It has been used in the treatment of malignant bowel obstruction.<ref name="pmid18490369">{{cite journal |vauthors=Shima Y, Ohtsu A, Shirao K, Sasaki Y | title = Clinical efficacy and safety of octreotide (SMS201-995) in terminally ill Japanese cancer patients with malignant bowel obstruction | journal = Jpn. J. Clin. Oncol. | volume = 38 | issue = 5 | pages = 354–9 |date=May 2008 | pmid = 18490369 | doi = 10.1093/jjco/hyn035 }}</ref>
+
+Octreotide may be used in conjunction with [[midodrine]] to partially reverse peripheral vasodilation in the [[hepatorenal syndrome]].  By increasing systemic vascular resistance, these drugs reduce shunting and improve renal perfusion, prolonging survival until definitive treatment with liver transplant.<ref name="pmid19238094">{{cite journal |vauthors=Skagen C, Einstein M, Lucey MR, Said A |title=Combination Treatment With Octreotide, Midodrine, and Albumin Improves Survival in Patients With Type 1 and Type 2 Hepatorenal Syndrome. |journal=J Clin Gastroenterol. |date=Feb 2009 |pmid=19238094 |volume=43 |issue=7 |pages=680–5 |doi=10.1097/MCG.0b013e318188947c}}</ref> Similarly, octreotide can be used to treat refractory [[chronic hypotension]].<ref name="patient.info">{{cite journal |author=Patient.info |title=Hypotension |date=Feb 2013 |url=http://www.patient.info/doctor/Hypotension.htm}}</ref>
+
+While successful treatment has been demonstrated in case reports,<ref name="pmid16392238">{{cite journal |vauthors=Kilic D, Sahin E, Gulcan O, Bolat B, Turkoz R, Hatipoglu A | title = Octreotide for treating chylothorax after cardiac surgery | journal = Tex Heart Inst J | volume = 32 | issue = 3 | pages = 437–9 | year = 2005 | pmid = 16392238 | pmc = 1336729 | doi = }}</ref><ref name="pmid16487393">{{cite journal |vauthors=Siu SL, Lam DS | title = Spontaneous neonatal chylothorax treated with octreotide | journal = J Paediatr Child Health | volume = 42 | issue = 1-2 | pages = 65–7 | year = 2006 | pmid = 16487393 | doi = 10.1111/j.1440-1754.2006.00788.x }}</ref> larger studies have failed to demonstrate efficacy in treating [[chylothorax]].<ref name="pmid16242470">{{cite journal |vauthors=Chan EH, Russell JL, Williams WG, Van Arsdell GS, Coles JG, McCrindle BW | title = Postoperative chylothorax after cardiothoracic surgery in children | journal = Ann. Thorac. Surg. | volume = 80 | issue = 5 | pages = 1864–70 |date=November 2005 | pmid = 16242470 | doi = 10.1016/j.athoracsur.2005.04.048  }}</ref>
+
+A small study has shown that octreotide may be effective in the treatment of [[idiopathic intracranial hypertension]].<ref>[http://www.ihrfoundation.org/intracranial/hypertension/info/C172/ Greek Researchers Investigate Octreotide] Hypertension Research Foundation, accessed 2011-01-02</ref><ref name="pmid17700925">{{cite journal |vauthors=Panagopoulos GN, Deftereos SN, Tagaris GA, Gryllia M, Kounadi T, Karamani O, Panagiotidis D, Koutiola-Pappa E, Karageorgiou CE, Piadites G | title = Octreotide: a therapeutic option for idiopathic intracranial hypertension | journal = Neurol Neurophysiol Neurosci | volume = | issue = | pages = 1 | year = 2007 | pmid = 17700925 | doi = }}</ref>
+
+==See also==
+* [[Octreotate]], a closely related peptide
+
+==References==
+{{Reflist|2}}
+
+
+{{GH/IGF-1 axis signaling modulators}}
+{{Opioid receptor modulators}}
+
+[[Category:Hormonal agents]]
+[[Category:Cyclic peptides]]
+[[Category:Opioids]]

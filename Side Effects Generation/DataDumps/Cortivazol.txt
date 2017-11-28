@@ -1,0 +1,72 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 447611525
+| IUPAC_name = (11β,16α)-21-(Acetyloxy)-11,17-dihydroxy-6,16-dimethyl-2'-phenyl-''2'H''-pregna-2,4,6-trieno[3,2-c]pyrazol-20-one
+| image = Cortivazol.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|cortivazol}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_UK = <!-- GSL         / P       / POM / CD -->
+| legal_US = <!-- OTC                   / Rx-only  -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 1110-40-3
+| ATC_prefix = H02
+| ATC_suffix = AB17
+| PubChem = 66249
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2105842
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 59633
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = YM183K0H63
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03594
+
+<!--Chemical data-->
+| C=32 | H=38 | N=2 | O=5 
+| molecular_weight = 530.655
+| smiles = O=C(OCC(=O)[C@@]4(O)[C@H](C)C[C@H]5[C@@H]6/C=C(\C3=C\c1c(cnn1c2ccccc2)C[C@@]3([C@H]6[C@@H](O)C[C@]45C)C)C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C32H38N2O5/c1-18-11-23-25-12-19(2)32(38,28(37)17-39-20(3)35)31(25,5)15-27(36)29(23)30(4)14-21-16-33-34(26(21)13-24(18)30)22-9-7-6-8-10-22/h6-11,13,16,19,23,25,27,29,36,38H,12,14-15,17H2,1-5H3/t19-,23+,25+,27+,29-,30+,31+,32+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = RKHQGWMMUURILY-UHRZLXHJSA-N
+}}
+
+'''Cortivazol''' is a high-affinity [[agonist]] [[ligand (biochemistry)|ligand]] for the [[glucocorticoid receptor]] and consequently is classified as a [[glucocorticoid]].<ref name="pmid4029081">{{cite journal | vauthors = Schlechte JA, Simons SS, Lewis DA, Thompson EB | title = [3H]cortivazol: a unique high affinity ligand for the glucocorticoid receptor | journal = Endocrinology | volume = 117 | issue = 4 | pages = 1355–62 |date=October 1985 | pmid = 4029081 | doi = 10.1210/endo-117-4-1355| url =  }}</ref>
+
+It is sometimes abbreviated "CVZ".<ref name="pmid15677712">{{cite journal |vauthors=Yoshikawa N, Yamamoto K, Shimizu N, Yamada S, Morimoto C, Tanaka H |title=The distinct agonistic properties of the phenylpyrazolosteroid cortivazol reveal interdomain communication within the glucocorticoid receptor |journal=Mol. Endocrinol. |volume=19 |issue=5 |pages=1110–24 |date=May 2005 |pmid=15677712 |doi=10.1210/me.2004-0264 |url=http://mend.endojournals.org/cgi/pmidlookup?view=long&pmid=15677712}}</ref>
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{MeshName|Cortivazol}}
+
+
+{{Glucocorticoids}}
+{{Glucocorticoidics}}
+
+[[Category:Corticosteroid esters]]
+[[Category:Glucocorticoids]]
+[[Category:Acetate esters]]
+
+
+{{systemic-hormonal-drug-stub}}

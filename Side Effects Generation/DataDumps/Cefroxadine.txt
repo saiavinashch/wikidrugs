@@ -1,0 +1,63 @@
+{{Drugbox
+| IUPAC_name = (6''R'',7''R'')-7-{[(2''R'')-2-amino-2-cyclohexa-1,4-dien-1-ylacetyl]amino}-3-methoxy-8-oxo-5-thia-1-azabicyclo[4.2.0]octane-2-carboxylic acid
+| image = Cefroxadine.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|cefroxadine}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life = ~1 hour
+| excretion = [[Kidney|Renal]]
+
+<!--Identifiers-->
+| CAS_number = 51762-05-1
+| ATC_prefix = J01
+| ATC_suffix = DB11
+| PubChem = 443991
+| DrugBank =  
+| ChEMBL = 2104150
+| ChemSpiderID = 4447587
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = B908C4MV2R
+| KEGG = D01528
+
+<!--Chemical data-->
+| C=16 | H=19 | N=3 | O=5 | S=1 
+| molecular_weight = 365.405 g/mol
+| smiles = O=C2N1/C(=C(/OC)CS[C@@H]1[C@@H]2NC(=O)[C@@H](C/3=C/C\C=C/C\3)N)C(=O)O
+}}
+'''Cefroxadine''' ([[International Nonproprietary Name|INN]], trade names '''Oraspor''' and '''Cefthan-DS''') is a [[cephalosporin]] antibiotic. It is structurally related to [[cefalexin]], and both drugs share a similar [[antimicrobial pharmacodynamics|spectrum of activity]].<ref>{{cite journal |vauthors=Yasuda K, Kurashige S, Mitsuhashi S |title=Cefroxadine (CGP-9000), an orally active cephalosporin |journal=[[Antimicrobial Agents and Chemotherapy]] |volume=18 |issue=1 |pages=105–10 |date=July 1980 |pmid=6998373 |pmc=283947}}</ref>
+
+It is available in Italy.<ref>{{cite web |url=http://www.prontuario.it/ORASPOR/?f=xuiqqmolyaqmxu |author=[No authors listed] |title=Oraspor |work=Prontuario.it |publisher=Elsevier |language=Italian |date= |accessdate=2010-07-31}}</ref>
+
+==Synthesis==
+Cefroxadine can be prepared by several routes, including one in which the enol is methylated with [[diazomethane]] as a key step. A rather more involved route starts with compatively readily available phenoxymethylpenicillin sulfoxide benzhydryl ester ('''1''').
+[[File:Cefroxadine synthesis.svg|thumb|left|500px|Synthesis of cefroxadine<ref>R. Scartazzini, H. Bickel, {{Cite patent|DE|2331133}}; eidem, {{US patent|4073902}} (1974, 1978 both to Ciba-Geigy).</ref><ref>R. B. Woodward and H. Bickel, {{US Patent|4147864}} (1979); Chem. Abstr., 91, 74633J (1979).</ref>]]{{clear left}}
+This undergoes fragmentation when treated with benzothiazole-2-thiol to give '''2'''. [[Ozonolysis]] (reductive work-up) cleaves the olefinic linkage and the unsymmetrical disulfide moiety is converted to a tosyl thioester ('''3'''). The enol moiety is methylated with [[diazomethane]], the six-membered ring is closed by reaction with 1,5-diazabicyclo[5.4.0]undec-5-ene ([[1,8-Diazabicycloundec-7-ene|DBU]]), and the ester protection is removed with [[trifluoroacetic acid]] to give '''4'''. The amide side chain is removed by the usual [[phosphorus pentachloride|PCl<sub>5</sub>]]/[[dimethylaniline]] sequence followed by reamidation with the appropriate acid chloride to give cefroxadine ('''5''').
+
+==See also==
+*[[Cefachlor]]
+
+==References==
+<references/>
+
+{{CephalosporinAntiBiotics}}
+
+[[Category:Cephalosporin antibiotics]]
+[[Category:Enantiopure drugs]]
+
+
+{{antibiotic-stub}}

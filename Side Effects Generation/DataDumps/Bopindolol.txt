@@ -1,0 +1,74 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 459981210
+| IUPAC_name = (''RS'')-1-(''tert''-butylamino)-3-[(2-methyl-1''H''-indol-4-yl)oxy]propan-2-yl benzoate
+| image = Bopindolol.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|bopindolol}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 69010-88-4
+| ATC_prefix = C07
+| ATC_suffix = AA17
+| ATC_supplemental =  
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 357995
+| PubChem = 44112
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB08807
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 40146
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = KT304VZO57
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D07537
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=23 | H=28 | N=2 | O=3 
+| molecular_weight = 380.48 g/mol
+| smiles = CC1=CC2=C(N1)C=CC=C2OCC(CNC(C)(C)C)OC(=O)C3=CC=CC=C3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C23H28N2O3/c1-16-13-19-20(25-16)11-8-12-21(19)27-15-18(14-24-23(2,3)4)28-22(26)17-9-6-5-7-10-17/h5-13,18,24-25H,14-15H2,1-4H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = UUOJIACWOAYWEZ-UHFFFAOYSA-N
+}}
+
+'''Bopindolol''' ([[International Nonproprietary Name|INN]]) is a [[beta blocker]]. It is an [[ester]] which acts as a [[prodrug]] for its [[active metabolite]] 4-(3-''t''-butylamino-2-hydroxypropoxy)-2-methylindole.<ref>{{cite journal | title=Bopindolol: pharmacological basis and clinical implications | vauthors=Nagatomo T, Hosohata Y, Ohnuki T, Nakamura T, Hattori K, Suzuki J, Ishiguro M | journal=Cardiovasc Drug Rev. |date=Spring 2001 | volume=19 | issue=1 | pages=9–24 | doi=10.1111/j.1527-3466.2001.tb00180.x | pmid=11314603}}</ref>
+
+==See also==
+* [[Pindolol]]
+
+==References==
+{{reflist}}
+{{Beta blockers}}
+
+[[Category:Beta blockers]]
+[[Category:Prodrugs]]
+[[Category:Benzoates]]
+[[Category:Amines]]
+[[Category:Phenol ethers]]
+[[Category:Indoles]]
+
+
+{{Amine-stub}}
+{{cardiovascular-drug-stub}}

@@ -1,0 +1,237 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464383832
+| IUPAC_name = (3''R'',5''S'',6''E'')-7-[4-(4-Fluorophenyl)-2-(''N''-methylmethanesulfonamido)-6-(propan-2-yl)pyrimidin-5-yl]-3,5-dihydroxyhept-6-enoic acid
+| image = Rosuvastatin structure.svg
+| width = 275
+
+<!--Clinical data-->
+| pronounce = {{IPAc-en|r|oʊ|ˈ|s|uː|v|ə|s|t|æ|t|ɪ|n}} {{respell|roh|SOO|və-stat-in}}
+| tradename = Crestor ,rosulip
+| Drugs.com = {{drugs.com|monograph|crestor}}
+| MedlinePlus = a603033
+| pregnancy_AU = D
+| pregnancy_US = X
+| pregnancy_category =
+| legal_AU = S4
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status = Rx-only
+| routes_of_administration = [[Oral administration|By mouth]] ([[Tablet (pharmacy)|tablets]])
+
+<!--Pharmacokinetic data-->
+| bioavailability = 20%<ref name=PK>{{cite journal|last=Aggarwal|first=RK|author2=Showkathali, R |title=Rosuvastatin calcium in acute coronary syndromes|journal=Expert Opinion on Pharmacotherapy|date=June 2013|volume=14|issue=9|pages=1215–1227|doi=10.1517/14656566.2013.789860|pmid=23574635}}</ref>
+| protein_bound = 88%<ref name = PK/>
+| metabolism = [[Liver]]: [[CYP2C9]] (major) and [[CYP2C19]]-mediated; ~10% metabolized<ref name = PK/>
+| metabolites = ''N''-desmethyl rosuvastatin (major; 1/6–1/9 of rosuvastatin activity)<ref name = PI/>
+| elimination_half-life = 19 hours<ref name = PK/>
+| excretion = Faeces (90%)<ref name = PK/>
+
+<!--Identifiers-->
+| IUPHAR_ligand = 2954
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 287714-41-4
+| ATC_prefix = C10
+| ATC_suffix = AA07
+| PubChem = 446157
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01098
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 393589
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 413KH5ZJ73
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D01915
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 38545
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1496
+| PDB_ligand = FBI
+
+<!--Chemical data-->
+| C=22 | H=28 | F=1 | N=3 | O=6 | S=1
+| molecular_weight = 481.539
+| smiles = OC(=O)C[C@H](O)C[C@H](O)\C=C\c1c(C(C)C)nc(N(C)S(=O)(=O)C)nc1c2ccc(F)cc2
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C22H28FN3O6S/c1-13(2)20-18(10-9-16(27)11-17(28)12-19(29)30)21(14-5-7-15(23)8-6-14)25-22(24-20)26(3)33(4,31)32/h5-10,13,16-17,27-28H,11-12H2,1-4H3,(H,29,30)/b10-9+/t16-,17-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = BPRHUIZQVSMCRT-VEUZHWNKSA-N
+}}
+
+[[File:Crestor Tablets (rosuvastatin).jpg|thumb|250px|Rosuvastatin (marketed by [[AstraZeneca]] as Crestor) 10 mg tablets]]
+
+'''Rosuvastatin''' ([[International nonproprietary name|INN]]),<ref name="INN">{{cite web | title = International Nonproprietary Names for Pharmaceutical Substances (INN). Recommended International Nonproprietary Names (Rec. INN): List 45 | url = http://www.who.int/medicines/publications/druginformation/innlists/RL45.pdf | publisher = World Health Organization | accessdate = 29 November 2016 | page = 50 | date = 2001}}</ref> marketed under the tradename '''Crestor''', is a member of the [[medication|drug]] class of [[statin]]s, used in combination with exercise, diet, and weight-loss to treat [[hypercholesterolemia|high cholesterol]] and related conditions, and to prevent [[cardiovascular disease]].
+
+It was developed by [[Shionogi]]. In 2013 Crestor was the fourth-highest selling drug in the United States, accounting for approx. $5.2 billion in sales.<ref>{{cite web|title=Top 100 Drugs for Q2 2013 by Sales|url=http://www.drugs.com/stats/top100/sales|accessdate=24 August 2013}}</ref> A generic version became available in the United States in 2016.<ref>{{cite web|title=FDA approves first generic Crestor|url=http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm498373.htm|website=FDA|accessdate=3 May 2016|date=April 29, 2016}}</ref>
+
+==Medical uses==
+The primary use of rosuvastatin is for the treatment of [[dyslipidemia]].<ref name=AHFS>{{cite web|title=Crestor|url=http://www.drugs.com/monograph/crestor.html|work=The American Society of Health-System Pharmacists|accessdate=3 April 2011}}</ref>
+
+===Effects on cholesterol levels===
+The effects of rosuvastatin on LDL cholesterol are dose-related. Higher doses were more efficacious in improving the lipid profile of patients with hypercholesterolemia than milligram-equivalent doses of atorvastatin and milligram-equivalent or higher doses of simvastatin and pravastatin.<ref name="Jones-2003">{{cite journal |vauthors=Jones PH, Davidson MH, Stein EA, Bays HE, McKenney JM, Miller E, Cain VA, Blasetto JW | title=Comparison of the efficacy and safety of rosuvastatin versus atorvastatin, simvastatin, and pravastatin across doses (STELLAR Trial) | journal=Am J Cardiol | year=2003 | volume=92 | issue=2 | pages=152–60 | pmid=12860216 | doi=10.1016/S0002-9149(03)00530-7}}</ref>
+
+Meta-analysis showed that rosuvastatin is able to modestly increase levels of [[High-density lipoprotein|HDL cholesterol]] as well, as with other statins.<ref name=" pmid = 18553127 ">{{cite journal | author = McTaggart F | title = Effects of statins on high-density lipoproteins: a potential contribution to cardiovascular benefit. | journal = Cardiovasc Drugs Ther| volume = 22 | issue = 4|date=Aug 2008 | pmid = 18553127 | pages = 321–38 | doi=10.1007/s10557-008-6113-z | pmc=2493531}}</ref> A 2014 Cochrane review determined there was good evidence for rosuvastatin lowering non-HDL levels linearly with dose.<ref>{{Cite journal|url = |title = Lipid-lowering efficacy of rosuvastatin.|date = Nov 2014|journal = Cochrane Database Syst Rev.|doi = 10.1002/14651858.CD010254.pub2|pmid = 25415541|access-date = |volume=11 |pages=CD010254}}</ref>  HDL increases by 7% with no dose effect noted.
+
+==Side effects and contraindications==
+Side effects are uncommon. The following side effects should be reported to the prescribing doctor if they persist or get worse:<ref name=MedLine>{{cite web|title=Rosuvastatin|url=http://www.nlm.nih.gov/medlineplus/druginfo/meds/a603033.html|work=MedlinePlus|publisher=U.S. National Library of Medicine|accessdate=1 December 2012|date=15 June 2012}}</ref>
+* [[constipation]]
+* [[heartburn]]
+* [[dizziness]]
+* [[insomnia|sleeplessness]]
+* [[Depression (mood)|depression]]
+* [[Arthralgia|joint pain]]
+* [[cough]]
+* [[memory loss]] or [[Forgetting|forgetfulness]]
+* [[confusion]]
+
+The following rare side effects are more serious. Like all statins, rosuvastatin can possibly cause [[myopathy]], [[rhabdomyolysis]]. Stop taking rosuvastatin and contact the prescribing doctor if any of these occur:<ref name=MedLine/><ref name=RxList>{{cite web|title=Crestor|url=http://www.rxlist.com/crestor-drug/consumer-side-effects-precautions.htm|publisher=RxList|accessdate=1 December 2012|date=14 November 2012}}</ref>
+* [[Myalgia|muscle pain]], tenderness, or weakness
+* lack of energy
+* [[fever]]
+* [[chest pain]]
+* [[jaundice]]: yellowing of the skin or eyes
+* dark colored, or foamy urine
+* pain in the upper right part of the abdomen
+* [[nausea]]
+* extreme tiredness
+* weakness
+* unusual bleeding or bruising
+* [[Anorexia (symptom)|loss of appetite]]
+* [[Influenza|flu]]-like symptoms
+* [[sore throat]], [[chills]], or other signs of [[infection]]
+
+If any signs of an allergic reaction develop, contact an emergency medical service immediately:<ref name=RxList/>
+* [[rash]]
+* [[hives]]
+* [[itch]]ing
+* difficulty [[breathing]] or [[swallowing]]
+* swelling of the face, throat, tongue, lips, eyes, hands, feet, ankles, or lower legs
+* [[Dysphonia|hoarseness]]
+* [[Hypoesthesia|numbness]] or [[Paresthesia|tingling]] in fingers or toes
+
+Rosuvastatin has multiple [[contraindication]]s, conditions that warrant withholding treatment with rosuvastatin, including hypersensitivity to rosuvastatin or any component of the formulation, active liver disease, elevation of serum [[transaminase]]s, pregnancy, or breastfeeding.<ref name = "PI">{{cite web|title = Crestor (rosuvastatin calcium) Tablets. Full Prescribing Information | url = http://www.azpicentral.com/crestor/crestor.pdf | publisher = AstraZeneca Pharmaceuticals LP | accessdate = 29 November 2016}}</ref> Rosuvastatin must not be taken while pregnant as it can cause serious harm to the unborn baby.<ref name=RxList/> In the case of breastfeeding, it is unknown whether rosuvastatin is passed through breastmilk, but due to the potential of disrupting the infant's lipid metabolism, patients should not breast feed while on rosuvastatin.<ref name=RxList/><ref name=LactMed>{{cite web|title=Rosuvastatin|url=http://toxnet.nlm.nih.gov/cgi-bin/sis/search/f?./temp/~jLYVIr:1|work=LactMed|publisher=U.S. National Library of Medicine|accessdate=1 December 2012}}</ref>
+
+==Drug interactions==
+The following drugs can have negative interactions with rosuvastatin and should be discussed with the prescribing doctor:<ref name=MedLine/><ref name=PI />
+* Coumarin [[anticoagulant]]s ('blood thinners', e.g. [[warfarin]]) can affect the removal of rosuvastatin
+* [[Ciclosporin]], [[colchicine]]
+* Drugs that may decrease the levels or activity of endogenous steroid hormones, e.g. [[cimetidine]], [[ketoconazole]], and [[spironolactone]]
+* Additional medications for high cholesterol such as [[clofibrate]], [[fenofibrate]], [[gemfibrozil]], and [[niacin]] (when taken in lipid-modifying doses of 1 g/day and above)
+* Specific [[Protease inhibitor (pharmacology)|protease inhibitor]]s including [[atazanavir]] (when taken with [[ritonavir]]), [[lopinavir/ritonavir]] and [[simeprevir]]
+* Alcohol intake should be reduced while on rosuvastatin in order to decrease risk of developing liver damage<ref name=RxList/>
+* Aluminum and magnesium hydroxide antacids should not be taken within two hours of taking rosuvastatin<ref name=RxList/>
+* Coadministration of rosuvastatin with [[eluxadoline]] may increase the risk of rhabdomyolysis and [[myopathy]]<ref name = "Viberzi PI">{{cite web | title = Viberzi (eluxadoline) Tablets, for Oral Use, CIV. Full Prescribing Information | url = http://www.allergan.com/assets/pdf/viberzi_pi | publisher = Actavis Pharma, Inc. | accessdate = 29 November 2016}}</ref>{{rp|8}}
+
+==Structure==
+Rosuvastatin has structural similarities with most other synthetic [[statin]]s, e.g., [[atorvastatin]], [[cerivastatin]] and [[pitavastatin]], but unlike other statins, rosuvastatin contains [[sulfur]] (in [[sulfonyl]] functional group).
+
+Crestor is actually a [[calcium]] salt of rosuvastatin, i.e. rosuvastatin calcium,<ref name="FDAlabel"/> in which calcium replaces the hydrogen in the [[carboxylic acid]] group on the right of the skeletal formula at the top right of this page.
+
+==Mechanism of action==
+{{further|Statin}}
+
+Rosuvastatin is a [[Competitive inhibition|competitive inhibitor]] of the enzyme [[HMG-CoA reductase]], having a mechanism of action similar to that of other statins.<!--
+  --><ref name="ASTEROID">{{cite journal  |vauthors=Nissen SE, Nicholls SJ, Sipahi I, etal |title=Effect of very high-intensity statin therapy on regression of coronary atherosclerosis: the ASTEROID trial |journal=JAMA |volume=295 |issue=13 |pages=1556–65 |year=2006 |pmid=16533939 |doi=10.1001/jama.295.13.jpc60002 |url=http://jama.ama-assn.org/cgi/reprint/jama;295/13/1556.pdf?ijkey=Md42dlk7z9TzyL8&keytype=finite |format=PDF}}</ref>
+
+Putative beneficial effects of rosuvastatin therapy on chronic heart failure may be negated by increases in collagen turnover markers as well as a reduction in plasma [[Coenzyme Q10|coenzyme Q<sub>10</sub>]] levels in patients with chronic heart failure.<ref>{{cite journal  |vauthors=Ashton E, Windebank E, Skiba M, etal |title=Why did high-dose rosuvastatin not improve cardiac remodeling in chronic heart failure? Mechanistic insights from the UNIVERSE study |journal=Int J Cardiol |volume= 146|issue= 3|pages= 404–7|date=January 2010 |pmid=20085851 |doi=10.1016/j.ijcard.2009.12.028 |url=http://linkinghub.elsevier.com/retrieve/pii/S0167-5273(10)00002-1}}</ref>
+
+==Pharmacokinetics==
+Absolute [[bioavailability]] of rosuvastatin is about 20% and [[Cmax (pharmacology)|C<sub>max</sub>]] is reached in 3 to 5 hours; administration with food did not affect the [[Area under the curve (pharmacokinetics)|AUC]] according to the original sponsor submitted clinical study and as per product label.<ref name=PI /> However, a subsequent clinical study has shown a marked reduction in rosuvastatin exposure when administered with food.<ref>{{Cite journal|last=Li|first=Yunxia|last2=Jiang|first2=Xuehua|last3=Lan|first3=Ke|last4=Zhang|first4=Ruoqi|last5=Li|first5=Xue|last6=Jiang|first6=Qian|date=2007-10-01|title=Pharmacokinetic Properties of Rosuvastatin After Single-Dose, Oral Administration in Chinese Volunteers: A Randomized, Open-Label, Three-Way Crossover Study|url=http://www.clinicaltherapeutics.com/article/S0149-2918(07)00329-3/abstract|journal=Clinical Therapeutics|language=English|volume=29|issue=10|pages=2194–2203|doi=10.1016/j.clinthera.2007.10.005|issn=0149-2918}}</ref> It is 88% [[Plasma protein binding|protein bound]], mainly to [[albumin]].<ref name="drugs_com">{{cite web | url=http://www.drugs.com/ppa/rosuvastatin-calcium.html | title=Rosuvastatin Calcium | accessdate=21 September 2015 | pages=Professional}}</ref>  Fraction absorbed of rosuvastatin is frequently misquoted in the literature as approximately 0.5 (50%)<ref>{{Cite journal|last=Bergman|first=Ebba|last2=Lundahl|first2=Anna|last3=Fridblom|first3=Patrik|last4=Hedeland|first4=Mikael|last5=Bondesson|first5=Ulf|last6=Knutson|first6=Lars|last7=Lennernäs|first7=Hans|date=2009-12-01|title=Enterohepatic Disposition of Rosuvastatin in Pigs and the Impact of Concomitant Dosing with Cyclosporine and Gemfibrozil|url=http://dmd.aspetjournals.org/content/37/12/2349|journal=Drug Metabolism and Disposition|language=en|volume=37|issue=12|pages=2349–2358|doi=10.1124/dmd.109.029363|issn=1521-009X|pmid=19773540}}</ref> due to a miscalculated hepatic extraction ratio in the original submission package subsequently corrected by the FDA reviewer.<ref>{{Cite web|url=http://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/21-366_Crestor.cfm|title=Page 45 of FDA Drug Approval Package, Clinical Pharmacology Biopharmaceutics Review(s) (PDF)|last=|first=|date=29 January 2004|website=U.S. Food and Drug Administration|publisher=U.S. Food and Drug Administration|access-date=22 June 2016}}</ref> It is likely that closer to 0.25 (25%) of the administered dose is absorbed.
+
+Rosuvastatin is metabolized mainly by [[CYP2C9]] and not extensively metabolized; approximately 10% is recovered as [[metabolite]] ''N''-desmethyl rosuvastatin. It is excreted in [[feces]] (90%) primarily and the [[Biological half-life|elimination half-life]] is approximately 19 hours.<ref name=PI /><ref name="drugs_com"/>
+
+==Society and culture==
+
+===Indications and regulation===
+Rosuvastatin is approved in the United States for the treatment of high [[Low-density lipoprotein|LDL cholesterol]] ([[dyslipidemia]]), total cholesterol ([[hypercholesterolemia]]), and/or [[triglyceride]]s ([[hypertriglyceridemia]]).<ref name="pill">{{cite web | title=Core Data Sheet, Crestor Tablets | url=http://www.crestor.info/gUserFiles/CRESTOR_CDS_10_40_mg_FINAL_170603.pdf | format=PDF | date=June 17, 2003 | publisher=AstraZeneca PLC | accessdate=2005-03-20}} - NOTE: this is provider-oriented information and should not be used without the supervision of a physician.</ref> In February 2010, rosuvastatin was approved by the FDA for the primary prevention of cardiovascular events.<ref name="fdaap">http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2010/021366s016ltr.pdf</ref>
+
+As of 2004, rosuvastatin had been approved in 154 countries and launched in 56. Approval in the United States by the [[Food and Drug Administration|FDA]] came on August 12, 2003.<ref name="FDAapproval">{{cite news|title=FDA Approves New Drug for Lowering Cholesterol |url=http://www.fda.gov/bbs/topics/ANSWERS/2003/ANS01247.html |date=August 12, 2003 |publisher=The Food and Drug Administration |accessdate=2005-03-20 |archiveurl=https://web.archive.org/web/20050207153150/http://www.fda.gov/bbs/topics/ANSWERS/2003/ANS01247.html |archivedate=2005-02-07 |deadurl=yes |df= }}</ref>
+
+The results of the [[JUPITER trial]] (2008) suggested rosuvastatin may decrease the [[relative risk]] of [[Myocardial infarction|heart attack]] and [[stroke]] in patients without [[hyperlipidemia]], but with elevated levels of [[C-reactive protein|highly sensitive C-reactive protein]]. This could strongly impact medical practice by  placing many patients on statin [[prophylaxis]] who otherwise would have been untreated.<ref>{{cite journal | last1 = Everett | first1 = BM | last2 = Glynn | first2 = RJ | last3 = MacFadyen | first3 = JG | last4 = Ridker | first4 = PM | title = Rosuvastatin in the Prevention of Stroke Among Men and Women with Elevated Levels of C-Reactive Protein: Justification for the Use of Statins in Prevention: An Intervention Trial Evaluating Rosuvastatin (JUPITER) | journal = Circulation | date = 21 December 2009 | volume = 121 | issue = 1 | pages = 143–50 | doi = 10.1161/circulationaha.109.874834 | pmid = 20026779 | url=http://circ.ahajournals.org/content/circulationaha/121/1/143.full.pdf}}</ref><ref>{{cite journal | last1 = Ridker | first1 = PM | last2 = Danielson | first2 = E | last3 = Fonseca | first3 = FAH | last4 = Genest | first4 = J | last5 = Gotto | first5 = AM | last6 = Kastelein | first6 = JJP | last7 = Koenig | first7 = W | last8 = Libby | first8 = P | last9 = Lorenzatti | first9 = AJ | last10 = MacFadyen | first10 = JG | last11 = Nordestgaard | first11 = BG | last12 = Shepherd | first12 = J | last13 = Willerson | first13 = JT | last14 = Glynn | first14 = RJ | title = Rosuvastatin to Prevent Vascular Events in Men and Women with Elevated C-Reactive Protein | journal = New England Journal of Medicine | date = 20 November 2008 | volume = 359 | issue = 21 | pages = 2195–207 | doi = 10.1056/nejmoa0807646 | pmid = 18997196 | url=http://www.nejm.org/doi/pdf/10.1056/NEJMoa0807646}}</ref> As a result of this clinical trial, the FDA approved rosuvastatin for the primary prevention of cardiovascular events.<ref name="fdaap"/>
+
+The [[AURORA trial]] randomized 2776 patients undergoing hemodialysis due to kidney damage to receive either rosuvastatin or placebo. The randomized, double-blind study (2005 to 2009) found no difference in the two groups in the primary end-point, a combination of cardiovascular mortality, nonfatal myocardial infarction, or nonfatal stroke.  The study found no difference in all-cause mortality among this population at a mean follow-up of 3.8 years.<ref>{{cite journal  |vauthors=Fellstrom BC, Jardine AG |display-authors=etal |title=Rosuvastatin and Cardiovascular Events in Patients Undergoing Hemodialysis |journal=N. Engl. J. Med. |volume=360 |issue=14 |pages=1395–1407 |date=April 2009|pmid= 19332456|doi=10.1056/NEJMoa0810177|url=http://content.nejm.org/cgi/content/short/360/14/1395?query=TOC}}</ref>
+
+===FDA advisory for East Asian patients===
+According to the FDA, the risk of myopathy during rosuvastatin therapy may be increased in Asian Americans:
+<blockquote>Because Asians appear to process the drug differently, half the standard dose can have the same cholesterol-lowering benefit in those patients, though a full dose could increase the risk of side-effects, a study by the drug's manufacturer, AstraZeneca, indicated.<ref>[http://articles.latimes.com/2005/mar/03/nation/na-crestor3 FDA Advisory Targets Asian Patients (Los Angeles Times)].</ref></blockquote>
+
+Therefore, physicians should start Asian-American or East Asian patients at the lowest dose level.<ref>[http://www.webmd.com/cholesterol-management/news/20050303/fda-updates-crestor-warning-information Asian-Americans Among Groups More at Risk of Serious Muscle Damage (WebMD)].</ref>
+
+===Patent protection and generic versions===
+The main patent protecting rosuvastatin (RE37,314 — due to expire in 2016) was challenged as being an improper reissue of an earlier patent. This challenge was rejected in 2010, confirming protection until 2016.<ref>{{cite web|url=http://www.delawareonline.com/article/20100701/BUSINESS/7010316/1003/RSS01 |title=AstraZeneca's Crestor patent upheld;No generic competition until 2016 }}{{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}</ref><ref>
+{{cite web
+| url=http://www.prnewswire.com/news-releases/crestor-patent-upheld-by-us-court-97435724.html
+| title=CRESTOR Patent Upheld By US Court
+| accessdate=2012-04-25
+| work=[[PR Newswire]]
+| publisher=[[United Business Media]]
+| date=June 29, 2010 |author=AstraZeneca |author-link=AstraZeneca }}</ref><ref>
+{{cite news
+| url=https://www.reuters.com/article/2010/06/29/astrazeneca-crestor-idUSN2917115320100629
+| accessdate=2012-04-25
+| date=June 29, 2010
+| title=UPDATE 2-U.S. judge rules AstraZeneca Crestor patent valid
+| agency=[[Reuters]]
+| first=Bill |last=Berkrot
+| author2=Tom Hals
+  }}</ref><ref>
+{{cite news
+| url=https://pqasb.pqarchiver.com/delawareonline/access/2074695931.html?FMT=ABS&date=Jul+01%2C+2010
+| accessdate=2012-04-25
+| title=AstraZeneca patent upheld
+| date=July 1, 2010
+| newspaper=[[The News Journal]]
+| location=[[Wilmington, Delaware]]
+| first=Jonathan |last=Starkey
+  }} {{subscription required}}</ref>
+
+In April 2016 the FDA approved the first [[generic drug|generic]] version of rosuvastatin (from Watson Pharmaceuticals Inc).<ref>[http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm498373.htm FDA approves first generic Crestor. April 2016]</ref>
+
+In July 2016 Mylan gained approval for its generic rosuvastatin calcium.<ref>[http://www.prnewswire.com/news-releases/mylan-launches-generic-crestor-tablets-300301446.html Mylan Launches Generic Crestor® Tablets. July 2016]</ref>
+
+===Marketing===
+The drug was billed as a "super-statin" during its clinical development; the claim was that it offers high potency and improved cholesterol reduction compared to rivals in the class. The main competitors to rosuvastatin are [[atorvastatin]] (Lipitor) and [[simvastatin]] (Zocor). However, people can also combine [[ezetimibe]] with either simvastatin or atorvastatin and other agents on their own, for somewhat similar augmented response rates. {{as of|2006}} some published information for comparing rosuvastatin, atorvastatin, and ezetimibe/simvastatin results is available, but many of the relevant studies are still in progress.<ref name="ASTEROID"/>
+
+First launched in 2003, sales of rosuvastatin were $129 million and $908 million in 2003 and 2004, respectively, with a total patient treatment population of over 4 million by the end of 2004.{{Citation needed|date=January 2008}}
+Typical per patient costs to the UK NHS are £18.03–26.02/month (compared to £0.85–1.37/month for [[simvastatin]]).
+
+===Debate and criticisms===
+In October 2003, several months after its introduction in [[Europe]], [[Richard Horton (editor)|Richard Horton]], the editor of the [[medical journal]] ''[[The Lancet]]'', criticized the way Crestor had been introduced. "AstraZeneca's tactics in marketing its cholesterol-lowering drug, rosuvastatin, raise disturbing questions about how drugs enter clinical practice and what measures exist to protect patients from inadequately investigated medicines," according to his editorial. ''The Lancet's'' editorial position is that the data for Crestor’s superiority rely too much on extrapolation from the lipid profile data (surrogate end-points) and too little on hard clinical end-points, which are available for other statins that had been on the market longer. The manufacturer responded by stating that few drugs had been tested so successfully on so many patients. In correspondence published in ''The Lancet'', AstraZeneca's CEO [[Tom McKillop|Sir Tom McKillop]] called the editorial "flawed and incorrect" and slammed the journal for making "such an outrageous critique of a serious, well-studied medicine."<!--
+  --><ref name="lancetoped">{{cite journal | author =Horton, Richard  | title = The statin wars: why AstraZeneca must retreat | journal = Lancet | volume = 362 | issue = 9393 | page = 1341 | date=October 25, 2003 | pmid=14585629  | doi = 10.1016/S0140-6736(03)14669-7}}<br><!--
+  -->{{cite journal | author = McKillop T | title = The statin wars | journal = Lancet | volume = 362 | issue = 9394 | page = 1498 | date=November 1, 2003 | pmid = 14602449 | doi = 10.1016/S0140-6736(03)14698-3}}</ref>
+
+In 2004, the consumer interest organization [[Public Citizen]] filed a [[Citizen's Petition]] with the FDA, asking that Crestor be withdrawn from the US market. On March 11, 2005, the FDA issued a letter to Sidney M. Wolfe, M.D. of Public Citizen both denying the petition and providing an extensive detailed analysis of findings that demonstrated no basis for concerns about rosuvastatin compared with the other statins approved for marketing in the United States.<ref name="FDA ruling">{{cite web | author =Food and Drug Administration | title = Docket No. 2004P-0113/CP1 |url=http://www.fda.gov/ohrms/dockets/dockets/04p0113/04p-0113-pdn0001.pdf|format=PDF }}</ref>
+
+===Myopathy===
+As with all statins, there is a concern of [[rhabdomyolysis]], a severe undesired side effect. The FDA has indicated that "it does not appear that the risk [of rhabdomyolysis] is greater with Crestor than with other marketed statins", but has mandated that a warning about this side-effect, as well as a kidney toxicity warning, be added to the product label.<!--
+  --><ref name="FDAlabel">{{cite web|title=FDA Alert (03/2005) - Rosuvastatin Calcium (marketed as Crestor) Information |url=http://www.fda.gov/cder/drug/infopage/rosuvastatin/default.htm |date=March 14, 2005 |publisher=The Food and Drug Administration |accessdate=2005-03-20 |archiveurl=https://web.archive.org/web/20050305033448/http://www.fda.gov/cder/drug/infopage/rosuvastatin/default.htm |archivedate=2005-03-05 |deadurl=yes |df= }} - This page is subject to change; the date reflects the last revision date.</ref>
+
+===Diabetes mellitus===
+[[Statins]] increase the risk of diabetes,<ref>{{cite journal|last=Sattar|first=N |author2=Preiss, D |author3=Murray, HM |author4=Welsh, P |author5=Buckley, BM |author6=de Craen, AJ |author7= Seshasai, SR |author8=McMurray, JJ |author9=Freeman, DJ |author10=Jukema, JW |author11 =Macfarlane, PW |author12= Packard, CJ |author13= Stott, DJ  |author14= Westendorp, RG  |author15= Shepherd, J  |author16= Davis, BR  |author17= Pressel, SL  |author18= Marchioli, R  |author19= Marfisi, RM |author20= Maggioni, AP  |author21= Tavazzi, L  |author22= Tognoni, G  |author23= Kjekshus, J  |author24= Pedersen, TR |author25= Cook, TJ |author26= Gotto, AM |author27= Clearfield, MB |author28= Downs, JR |author29= Nakamura, H |author30= Ohashi, Y  |author31= Mizuno, K |author32= Ray, KK |author33= Ford, I |title=Statins and risk of incident diabetes: a collaborative meta-analysis of randomised statin trials.|journal=Lancet|date=February 27, 2010|volume=375|issue=9716|pages=735–42|pmid=20167359|doi=10.1016/S0140-6736(09)61965-6}}</ref> consistent with FDA's review of the [[JUPITER trial]], which reported a 27% increase in investigator-reported diabetes mellitus in rosuvastatin-treated patients compared to placebo-treated patients.<ref>{{cite web |url=http://www.fda.gov/Drugs/DrugSafety/ucm293101.htm |title=FDA Drug Safety Communication: Important safety label changes to cholesterol-lowering statin drugs }}</ref>
+
+==References==
+{{reflist|32em}}
+
+==References==
+* {{cite web | title=Annual Report and Form 20-F, Information 2004 | year=2005 | url=http://www.astrazeneca.com/sites/7/imagebank/typearticleparam511562/astrazeneca-2004-annual-report.pdf | format=PDF | publisher=AstraZeneca PLC}}
+* {{cite web |title=Annual Report and Form 20-F, 2003 |year=2004 |url=http://www.astrazeneca.com/sites/7/imagebank/typearticleparam503063/AstraZeneca%20Annual%20Report%202003.pdf |archive-url=https://web.archive.org/web/20040728120928/http://www.astrazeneca.com/sites/7/imagebank/typearticleparam503063/AstraZeneca%20Annual%20Report%202003.pdf |dead-url=yes |archive-date=2004-07-28 |format=PDF |publisher=AstraZeneca PLC |accessdate=2005-03-20 |df= }}
+* {{cite web | title=Highlights of Prescribing Information | year=2008 | url=http://www1.astrazeneca-us.com/pi/crestor.pdf | format=PDF | publisher=AstraZeneca PLC | accessdate=2009-03-11}}
+* {{cite journal |vauthors=McTaggart F, Buckett L, Davidson R, Holdgate G, McCormick A, Schneck D, Smith G, Warwick M | title = Preclinical and clinical pharmacology of Rosuvastatin, a new 3-hydroxy-3-methylglutaryl coenzyme A reductase inhibitor | journal = Am J Cardiol | volume = 87 | issue = 5A | pages = 28B–32B | year = 2001 | pmid = 11256847 | doi = 10.1016/S0002-9149(01)01454-0}}
+
+==External links==
+* {{cite web |title=Rosuvastatin (Crestor) Information |url=http://www.emedicinehealth.com/drug-rosuvastatin/article_em.htm |publisher=eMedicineHealth}}
+* [http://druginfo.nlm.nih.gov/drugportal/dpdirect.jsp?name=Rosuvastatin Rosuvastatin], U.S. National Library of Medicine Drug Information Portal
+* [https://www.crestor.com Crestor Official Site]
+
+{{Statins}}
+{{AstraZeneca}}
+
+[[Category:Statins]]
+[[Category:AstraZeneca]]
+[[Category:Diols]]
+[[Category:Carboxylic acids]]
+[[Category:Sulfonamides]]
+[[Category:Pyrimidines]]
+[[Category:Fluoroarenes]]
+[[Category:Beta hydroxy acids]]

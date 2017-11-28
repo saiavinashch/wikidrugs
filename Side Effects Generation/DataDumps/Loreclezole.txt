@@ -1,0 +1,97 @@
+{{Drugbox
+| verifiedrevid = 448039092
+| IUPAC_name = 1-[(''Z'')-2-chloro-2-(2,4-dichlorophenyl)vinyl]-1''H''-1,2,4-triazole
+| image = Loreclezole.svg
+| width = 180
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5466
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 117857-45-1
+| ATC_prefix = none
+| ATC_suffix =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2298566
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H6Cl3N3/c11-7-1-2-8(9(12)3-7)10(13)4-16-6-14-5-15-16/h1-6H/b10-4-
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = XGLHZTBDUXXHOM-WMZJFQQLSA-N
+| PubChem = 3034012
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 6DJ32STZ5W
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D04780
+
+<!--Chemical data-->
+| C=10 | H=6 | Cl=3 | N=3 
+| molecular_weight = 274.534 g/mol
+}}
+
+'''Loreclezole''' is a [[sedative]] and an [[anticonvulsant]] which acts as a [[GABAA receptor|GABA<sub>A</sub> receptor]] [[positive allosteric modulator]].<ref>{{Cite journal 
+| last1 = Wingrove | first1 = P. B. 
+| last2 = Wafford | first2 = K. A. 
+| last3 = Bain | first3 = C. 
+| last4 = Whiting | first4 = P. J. 
+| title = The modulatory action of loreclezole at the gamma-aminobutyric acid type a receptor is determined by a single amino acid in the beta 2 and beta 3 subunit 
+| journal = Proceedings of the National Academy of Sciences of the United States of America 
+| volume = 91 
+| issue = 10 
+| pages = 4569–4573 
+| year = 1994 
+| pmid = 8183949 
+| pmc = 43827 | doi=10.1073/pnas.91.10.4569
+}}</ref>  The binding site of loreclezole has been shown experimentally to be shared by [[valerenic acid]], an extract of the root of the [[Valerian (herb)|valerian]] plant.<ref>{{Cite journal 
+| last1 = Khom | first1 = S. 
+| last2 = Baburin | first2 = I. 
+| last3 = Timin | first3 = E. 
+| last4 = Hohaus | first4 = A. 
+| last5 = Trauner | first5 = G. 
+| last6 = Kopp | first6 = B. 
+| last7 = Hering | first7 = S. 
+| doi = 10.1016/j.neuropharm.2007.04.018 
+| title = Valerenic acid potentiates and inhibits GABAA receptors: Molecular mechanism and subunit specificity 
+| journal = Neuropharmacology 
+| volume = 53 
+| issue = 1 
+| pages = 178–187 
+| year = 2007 
+| pmid = 17585957 
+| pmc = 
+}}</ref> Structurally, loreclezole is a triazole derivative. In animal seizure models, loreclezole is protective against pentylenetetrazol seizures but is less active in the maximal electroshock test.<ref>{{cite book |last=Rogawski |first=M|editor-last1=Pullan |editor-first1=L |editor-last2=Patel|editor-first2=J|title=Neurotherapeutics: Emerging Strategies |publisher=Humana Press |date=1996 |pages=193–273|chapter=Epilepsy |chapterurl=http://works.bepress.com/michael_rogawski/68/ }}</ref> In addition, at low, nontoxic doses, the drug has anti-absence activity in a genetic model of generalized absence epilepsy. Consequently, loreclezole has a profile of activity similar to that of [[benzodiazepines]]. A potential benzodiazepine-like interaction with GABA receptors is suggested by the observation that the anticonvulsant effects of loreclezole can be reversed by benzodiazepine receptor inverse agonists. The benzodiazepine antagonist flumazenil, however, fails to alter the anticonvulsant activity of loreclezole, indicating that loreclezole is not a benzodiazepine receptor agonist. Using native rat and cloned human GABA-A receptors, loreclezole strongly potentiated GABA-activated chloride current. However, activity of the drug did not require the presence of the γ-subunit and was not blocked by flumazenil, confirming that loreclezole does not interact with the benzodiazepine recognition site.
+
+==References==
+{{Reflist}}
+
+{{Hypnotics and sedatives}}
+{{GABAergics}}
+{{GABAAR PAMs}}
+
+[[Category:Sedatives]]
+[[Category:Organochlorides]]
+[[Category:Triazoles]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:GABAA-rho receptor negative allosteric modulators]]
+
+
+{{sedative-stub}}

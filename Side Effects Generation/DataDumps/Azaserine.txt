@@ -1,0 +1,76 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 456079677
+| IUPAC_name = ''O''-(2-Diazoacetyl)-L-serine
+| image = azaserine.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 115-02-6
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 5284344
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 87299V3Q9W
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03032
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 74846
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1095699
+|  ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 16735688
+|  smiles = O=C(OC[C@H](N)C(O)=O)/C=[N+]=[N-]
+|  StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C5H7N3O4/c6-3(5(10)11)2-12-4(9)1-8-7/h1,3H,2,6H2,(H,10,11)/t3-/m0/s1
+|  StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = MZZGOOYMKKIOOX-VKHMYHEASA-N
+
+<!--Chemical data-->
+| C=5 | H=7 | N=3 | O=4 
+| molecular_weight = 173.127 g/mol
+}}
+
+'''Azaserine''' is a naturally occurring serine derivative diazo compound with antineoplastic and antibiotic properties deriving from its action as a purinergic antagonist and structural similarity to glutamine.  Azazerine acts by competitively inhibiting glutamine amidotransferase, a key enzyme responsible for glutamine metabolism.
+
+== Mechanism of Action ==
+
+Azaserine inhibits the rate limiting step of the metabolic hexosamine pathway and irreversibly inhibits [[Gamma-glutamyl_transpeptidase|γ-glutamyltransferase]] by acting directly at the substrate-binding pocket. Independent of hexosamine pathway inhibition, azaserine has been demonstrated to protect against hyperglycemic endothelial damage by elevating serum concentrations of manganese-superoxide dismutase, directly reducing the concentration of reactive oxygen species.
+
+Azaserine also downregulates the expression of VCAM-1 and ICAM-1 in response to [[TNF-α]], and research indicates that it may have potential in identifying the <small>L</small>-leucine-favoring system transporter in human T-lymphocytes.
+
+== Properties==
+Azaserine has a solubility of 50&nbsp;mg/mL in water, a melting point of 146-162&nbsp;°C, a vapor pressure of 1.53x10<sup>−10</sup>mmHg at 25&nbsp;°C, and decomposes before melting.{{cn|date=April 2014}}
+
+== References ==
+* Segel, G.B., et al. 1989. J. Biol. Chem. 264: 16399-16402. {{PMID|2789219}}
+* Hull, R.L., et al. 2007. Am. J. Physiol., Cell Physiol. 293: C1586-C1593. {{PMID|17804609}}
+* Wada, K., et al. 2008. J. Mol. Biol. 380: 361-372. {{PMID|18555071}}
+* Rajapakse, A.G., et al. 2009. Am. J. Physiol. Heart Circ. Physiol. 296: H815-H822. {{PMID|19136606}}
+* Angana Gupta Rajapakse, Xiu-Fen Ming, João M. Carvas, and Zhihong Yang.  The hexosamine biosynthesis inhibitor azaserine prevents endothelial inflammation and dysfunction under hyperglycemic condition through antioxidant effects. http://ajpheart.physiology.org/content/296/3/H815.full
+* Lebedeva ZI, Kabanova EA, Berezov TT. 1986 Mar;12(3):413-20. 6-diazo-5-oxo-L-norleucine and azaserine as affinity inhibitors of glutamin(asparagin)ase.
+
+[[Category:Antineoplastic drugs]]
+[[Category:Diazo compounds]]

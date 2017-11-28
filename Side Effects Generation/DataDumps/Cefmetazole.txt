@@ -1,0 +1,77 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 460023468
+| IUPAC_name = (6''R'',7''S'')-7-(2-(cyanomethylthio)acetamido)-7-methoxy-3-((1-methyl-1''H''-tetrazol-5-ylthio)methyl)-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+| image = Cefmetazole.svg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|cefmetazole}}
+| MedlinePlus = a601206
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 56796-20-4
+| ATC_prefix = J01
+| ATC_suffix = DC09
+| PubChem = 42008
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00274
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 38311
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 3J962UJT8H
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00910
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 3489
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201195
+<!--Chemical data-->
+| C=15 | H=17 | N=7 | O=5 | S=3
+| molecular_weight = 471.538 g/mol
+| smiles = O=C2N1/C(=C(\CS[C@@H]1[C@]2(OC)NC(=O)CSCC#N)CSc3nnnn3C)C(=O)O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C15H17N7O5S3/c1-21-14(18-19-20-21)30-6-8-5-29-13-15(27-2,17-9(23)7-28-4-3-16)12(26)22(13)10(8)11(24)25/h13H,4-7H2,1-2H3,(H,17,23)(H,24,25)/t13-,15+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SNBUBQHDYVFSQF-HIFRSBDPSA-N
+}}
+
+'''Cefmetazole''' is a [[cephamycin]] [[antibiotic]], usually grouped with the second-generation cephalosporins.
+
+==Adverse effects==
+The chemical structure of cefmetazole, like that of several other cephalosporins, contains an ''N''-methylthiotetrazole (NMTT or 1-MTT) [[side chain]]. As the antibiotic is broken down in the body, it releases free NMTT, which can cause [[hypoprothrombinemia]] (likely due to [[enzyme inhibitor|inhibition]] of the [[enzyme]] [[vitamin K epoxide reductase]]) and a reaction with ethanol similar to that produced by [[disulfiram]], due to inhibition of [[aldehyde dehydrogenase]].<ref name=Goldfrank>{{cite book |author=Stork CM |veditors=Nelson LH, Flomenbaum N, Goldfrank LR, Hoffman RL, Howland MD, Lewin NA |title=Goldfrank's toxicologic emergencies |chapter=Antibiotics, antifungals, and antivirals |chapterurl=https://books.google.com/books?id=cvJuLqBxGUcC&pg=PA847 |publisher=McGraw-Hill |location=New York |year=2006 |pages=847 |isbn=0-07-143763-0 |accessdate=2009-07-03}}</ref>
+
+==Spectrum of bacterial susceptibility==
+Cefmetazole is a broad-spectrum cephalosporin antimicrobial and has been effective in treating bacteria responsible for causing urinary tract and skin infections. The following represents MIC susceptibility data for a few medically significant microorganisms.
+* ''Bacteroides fragilis'': 0.06 - >256&nbsp;µg/ml
+* ''Clostridium difficile'': 8 - >128&nbsp;µg/ml
+* ''Staphylococcus aureus'': 0.5 - 256&nbsp;µg/ml (includes [[MRSA]])
+<ref>http://www.toku-e.com/Assets/MIC/Cefmetazole%20free%20acid.pdf</ref>
+
+==References==
+{{Reflist}}
+
+{{CephalosporinAntiBiotics}}
+
+[[Category:Acetaldehyde dehydrogenase inhibitors]]
+[[Category:Cephalosporin antibiotics]]
+[[Category:Tetrazoles]]
+[[Category:Nitriles]]
+[[Category:Carboxamides]]
+
+{{antibiotic-stub}}

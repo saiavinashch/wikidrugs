@@ -1,0 +1,52 @@
+{{Drugbox
+| verifiedrevid = 437147472
+| IUPAC_name = 4-(acetamido)phenyl ''N'',''N''-diethylglycinate
+| image = Propacetamol-2d-skeletal.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|propacetamol}}
+| routes_of_administration = [[intravenous|IV]]<ref name="pmid1633071" /><ref name="pmid15367329">{{ cite journal |vauthors=Binhas M, Decailliot F, Rezaiguia-Delclaux S, Suen P, Dumerat M, François V, Combes X, Duvaldestin P | title = Comparative effect of intraoperative propacetamol versus placebo on morphine consumption after elective reduction mammoplasty under remifentanil-based anesthesia: a randomized control trial <nowiki>[ISRCTN71723173]</nowiki> | journal = BMC Anesthesiology | year = 2004 | volume = 4 | issue = 1 | pages = 6 | pmc = 520811 | pmid = 15367329 | doi = 10.1186/1471-2253-4-6 | url = https://www.ncbi.nlm.nih.gov/pmc/articles/PMC520811/pdf/1471-2253-4-6.pdf | format = pdf }}</ref>
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life = 2.4 hours <ref name="pmid1633071">{{ cite journal |vauthors=Bannwarth B, Netter P, Lapicque F, Gillet P, Péré P, Boccard E, Royer RJ, Gaucher A | title = Plasma and cerebrospinal fluid concentrations of paracetamol after a single intravenous dose of propacetamol | journal = British Journal of Clinical Pharmacology | year = 1992 | volume = 34 | issue = 1 | pages = 79–81 | pmc = 1381380 | pmid = 1633071 | url = https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1381380/pdf/brjclinpharm00044-0085.pdf | format = pdf | doi=10.1111/j.1365-2125.1992.tb04112.x}}</ref>
+| excretion = [[Kidney|Renal]]
+
+<!--Identifiers-->
+| CAS_number = 66532-85-2
+| ATC_prefix = N02
+| ATC_suffix = BE05
+| PubChem = 68865
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 5CHW4JMR82
+| ChemSpiderID      = 62097
+
+<!--Chemical data-->
+| C=14 | H=20 | N=2 | O=3 
+| molecular_weight = 264.3202 g/mol
+| smiles            = CCN(CC)CC(=O)OC1=CC=C(C=C1)NC(=O)C
+| StdInChI          = 1S/C14H20N2O3/c1-4-16(5-2)10-14(18)19-13-8-6-12(7-9-13)15-11(3)17/h6-9H,4-5,10H2,1-3H3,(H,15,17)
+| StdInChIKey       = QTGAJCQTLIRCFL-UHFFFAOYSA-N
+}}
+
+'''Propacetamol''' is a [[prodrug]] form of [[paracetamol]] which is formed from [[esterification]] of paracetamol, and the [[carboxylic acid]] diethylglycine. This has the advantage of making it more water-soluble. It is used in post-operative care and is delivered by [[Intravenous therapy|I.V.]]<ref name="pmid15367329"/> It is given if the patient is unable to take oral or rectally delivered paracetamol and [[nonsteroidal anti-inflammatory drug]]s (NSAIDs) are contraindicated. The onset of analgaesia from propacetamol is more rapid than paracetamol given orally.<ref name="pmid15790675">{{ cite journal |vauthors=Moller PL, Sindet-Pedersen S, Petersen CT, Juhl GI, Dillenschneider A, Skoglund LA | title = Onset of acetaminophen analgesia: comparison of oral and intravenous routes after third molar surgery | journal = British Journal of Anaesthesiology | year = 2005 | volume = 94 | issue = 5 | pages = 642–648 | doi = 10.1093/bja/aei109 | pmid = 15790675 | url = http://bja.oxfordjournals.org/content/94/5/642.full.pdf | format = pdf }}</ref>
+2 g of propacetamol are equivalent to 1g of paracetamol.<ref name="pmid14756388">{{ cite journal |vauthors=Flouvat B, Leneveu A, Fitoussi S, Delhotal-Landes B, Gendron A | title = Bioequivalence study comparing a new paracetamol solution for injection and propacetamol after single intravenous infusion in healthy subjects | journal = International Journal of Clinical Pharmacology and Therapeutics | year = 2004 | volume = 42 | issue = 1 | pages = 50–57 | pmid = 14756388 | doi = 10.5414/cpp42050}}</ref>
+
+== See also ==
+* [[Paracetamol]]
+
+== References ==
+{{reflist}}
+
+{{Analgesics}}
+{{Prostanoidergics}}
+
+[[Category:Acetanilides]]
+[[Category:Phenol ethers]]
+[[Category:Carboxylate esters]]
+[[Category:Amines]]
+
+
+{{nervous-system-drug-stub}}

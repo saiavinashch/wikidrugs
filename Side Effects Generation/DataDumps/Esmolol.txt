@@ -1,0 +1,68 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 412885041
+| IUPAC_name = methyl (''RS'')-3-<nowiki/>{4-[2-hydroxy-3-(propan-2-ylamino)propoxy]phenyl}propanoate
+| image = Esmolol structure.svg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|monograph|esmolol-hydrochloride}}
+| pregnancy_AU = C
+| pregnancy_US = C
+| pregnancy_category =  
+| legal_status =  
+| routes_of_administration = [[Intravenous|iv]]
+<!--Pharmacokinetic data-->
+| bioavailability = -
+| protein_bound = 60%
+| metabolism = [[Red blood cell|Erythrocytic]]
+| elimination_half-life = 9 minutes
+| excretion = [[Kidney|Renal]]
+<!--Identifiers-->
+| IUPHAR_ligand = 7178
+| CAS_number_Ref = {{cascite|changed|CAS}}
+| CAS_number = 81147-92-4
+| ATC_prefix = C07
+| ATC_suffix = AB09
+| PubChem = 59768
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB00187
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 53916
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = MDY902UXSR
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07916
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 4856
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 768
+<!--Chemical data-->
+| C=16 | H=25 | N=1 | O=4
+| molecular_weight = 295.374 g/mol
+| SMILES = O=C(OC)CCc1ccc(OCC(O)CNC(C)C)cc1
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H25NO4/c1-12(2)17-10-14(18)11-21-15-7-4-13(5-8-15)6-9-16(19)20-3/h4-5,7-8,12,14,17-18H,6,9-11H2,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = AQNDDEOPVVGCPG-UHFFFAOYSA-N
+}}
+'''Esmolol''' (trade name '''Brevibloc''') is a cardioselective [[beta-blocker|beta<sub>1</sub> receptor blocker]] with rapid [[Onset of action|onset]],<ref name="pmid17235414">{{cite journal |author=Deng CY |title=Esmolol inhibits Na+ current in rat ventricular myocytes |journal=Methods Find Exp Clin Pharmacol |volume=28 |issue=10 |pages=697–702 |date=December 2006 |pmid=17235414 |doi=10.1358/mf.2006.28.10.1037498 |url=http://journals.prous.com/journals/servlet/xmlxsl/pk_journals.xml_summaryn_pr?p_JournalId=6&p_RefId=1037498 |author2=Lin SG |author3=Zhang WC |display-authors=3 |last4=Kuang |first4=S.J. |last5=Qian |first5=W.M. |last6=Wu |first6=S.L. |last7=Shan |first7=Z.X. |last8=Yang |first8=M. |last9=Yu |first9=X.Y.}}</ref> a very short [[duration of action]], and no significant intrinsic [[sympathomimetic]] or [[membrane stabilising activity]] at therapeutic dosages.
+
+It is a class II [[antiarrhythmic]].<ref name="pmid2688391">{{cite journal |author=Jaillon P, Drici M |title=Recent antiarrhythmic drugs |journal=Am. J. Cardiol. |volume=64 |issue=20 |pages=65J–69J |date=December 1989 |pmid=2688391 |doi= 10.1016/0002-9149(89)91203-4|url=}}</ref> Esmolol decreases the force and rate of heart contractions by blocking beta-adrenergic receptors of the [[sympathetic nervous system]], which are found in the [[heart]] and other organs of the body.  Esmolol prevents the action of two naturally occurring substances: [[epinephrine]] and [[norepinephrine]].
+
+==Dosing==
+Esmolol is given by slow intravenous [[Injection (medicine)|injection]]. It is commonly used in patients during surgery to prevent or treat [[tachycardia]], and is also used in treatment of [[acute supraventricular tachycardia]].  Esmolol is also the drug of choice when [[aortic dissection]] is suspected.
+
+==Metabolism==
+Esmolol is rapidly metabolized by hydrolysis of the ester linkage, chiefly by the esterases in the cytosol of red blood cells and not by plasma cholinesterases or red cell membrane acetylcholinesterase. Total body clearance in man was found to be about 20 L/kg/hr, which is greater than cardiac output; thus the metabolism of esmolol is not limited by the rate of blood flow to metabolizing tissues such as the liver or affected by hepatic or renal blood flow.  Esmolol's short duration of action is based on the [[ester]]-[[methyl]] side chain which allows for quick hydrolysis. Esmolol's structure is reflected in its name, '''es-m'''olol as in '''es'''ter-'''m'''ethyl. Plasma cholinesterases and red cell membrane acetylcholinesterase do not have any action. This metabolism results in the formation of a free acid and [[methanol]]. The amount of methanol produced is similar to endogenous methanol production. Esmolol has a rapid distribution half-life of about 2 minutes and an elimination half-life of about 9 minutes.
+
+==References==
+{{reflist}}3. http://www.rxlist.com/brevibloc-drug/clinical-pharmacology.htm accessed Jan 29, 2016.{{beta blockers}}
+{{Antiarrhythmic agents}}
+
+[[Category:Beta blockers]]
+[[Category:Phenol ethers]]
+[[Category:Alcohols]]
+[[Category:Amines]]
+[[Category:Carboxylate esters]]
+[[Category:Diseases of the aorta]]

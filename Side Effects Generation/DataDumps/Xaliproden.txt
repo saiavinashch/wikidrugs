@@ -1,0 +1,72 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 447814729
+| IUPAC_name = 1-[2-(2-naphthyl)ethyl]-4-[3-(trifluoromethyl)phenyl]-1,2,3,6-tetrahydropyridine
+| image = Xaliproden.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 135354-02-8
+| ATC_prefix = N07
+| ATC_suffix = XX03
+| PubChem = 128919
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = V8QL94KNQO
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D06327
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 114237
+|  smiles = FC(F)(F)c4cccc(/C3=C/CN(CCc2cc1ccccc1cc2)CC3)c4
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C24H22F3N/c25-24(26,27)23-7-3-6-22(17-23)20-11-14-28(15-12-20)13-10-18-8-9-19-4-1-2-5-21(19)16-18/h1-9,11,16-17H,10,12-15H2
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = WJJYZXPHLSLMGE-UHFFFAOYSA-N
+
+<!--Chemical data-->
+| C=24 | H=22 | F=3 | N=1 
+| molecular_weight = 381.433 g/mol
+}}
+
+'''Xaliproden''' (codenamed '''SR57746''') is a drug which acts as a [[5-HT1A receptor|5HT<sub>1A</sub>]] [[agonist]].<ref>{{cite journal | last1 = Appert-Collin | first1 = A | last2 = Duong | first2 = FH | last3 = Passilly Degrace | first3 = P | last4 = Warter | first4 = JM | last5 = Poindron | first5 = P | last6 = Gies | first6 = JP | title = MAPK activation via 5-hydroxytryptamine 1A receptor is involved in the neuroprotective effects of xaliproden | journal = International Journal of Immunopathology and Pharmacology | volume = 18 | issue = 1 | pages = 21–31 | year = 2005 | pmid = 15698508 }}</ref> It has neurotrophic and neuroprotective effects ''[[in vitro]]'',<ref>{{cite journal | last1 = Labie | first1 = C | last2 = Lafon | first2 = C | last3 = Marmouget | first3 = C | last4 = Saubusse | first4 = P | last5 = Fournier | first5 = J | last6 = Keane | first6 = PE | last7 = Le Fur | first7 = G | last8 = Soubrié | first8 = P | title = Effect of the neuroprotective compound SR57746A on nerve growth factor synthesis in cultured astrocytes from neonatal rat cortex | journal = [[British Journal of Pharmacology]] | volume = 127 | issue = 1 | pages = 139–44 | year = 1999 | pmid = 10369466 | pmc = 1566010 | doi = 10.1038/sj.bjp.0702545 }}</ref><ref>{{cite journal | last1 = Duong | first1 = FH | last2 = Warter | first2 = JM | last3 = Poindron | first3 = P | last4 = Passilly | first4 = P | title = Effect of the nonpeptide neurotrophic compound SR 57746A on the phenotypic survival of purified mouse motoneurons | journal = British Journal of Pharmacology | volume = 128 | issue = 7 | pages = 1385–92 | year = 1999 | pmid = 10602316 | pmc = 1571767 | doi = 10.1038/sj.bjp.0702910 }}</ref> and has been proposed for use in the treatment of several neurodegenerative conditions including [[amyotrophic lateral sclerosis]] (ALS)<ref>{{cite journal | last1 = Meininger | first1 = V | last2 = Bensimon | first2 = G | last3 = Bradley | first3 = WR | last4 = Brooks | first4 = B | last5 = Douillet | first5 = P | last6 = Eisen | first6 = AA | last7 = Lacomblez | first7 = L | last8 = Leigh | first8 = PN | last9 = Robberecht | first9 = W | title = Efficacy and safety of xaliproden in amyotrophic lateral sclerosis: results of two phase III trials | journal = Amyotrophic Lateral Sclerosis and Other Motor Neuron Disorders | volume = 5 | issue = 2 | pages = 107–17 | year = 2004 | pmid = 15204012 | doi = 10.1080/14660820410019602 }}</ref> and [[Alzheimer's disease]].<ref>{{cite journal |vauthors=Lemaire L, Fournier J, Ponthus C, Le Fur Y, Confort-Gouny S, Vion-Dury J, Keane P, Cozzone P | title = Magnetic resonance imaging of the neuroprotective effect of xaliproden in rats
+     | journal = Invest Radiol | volume = 37 | issue = 6 | pages = 321–7 | year = 2002
+     | pmid = 12021588
+     | doi = 10.1097/00004424-200206000-00003}}</ref>
+
+Development of xaliproden for these two indications was discontinued in 2007 following analysis of [[Clinical trials|Phase III]] data. While the drug did show an effect on [[hippocampus|hippocampal]] volume (suggesting perhaps a slowing of cell loss), there was insufficient evidence for efficacy in counteracting Alzheimer's related cognitive decline. Similarly while there were some indicators of efficacy in ALS, including a small but clinically noteworthy effect on some functional parameters, the overall benefit did not reach [[statistical significance]] when results across several Phase III trials were averaged. Xaliproden remains under investigation for treatment of [[Cancer pain#Chemotherapy-induced peripheral neuropathy|chemotherapy-induced peripheral neuropathy]].<ref>{{cite journal | last1 = Susman | first1 = E | title = Xaliproden lessens oxaliplatin-mediated neuropathy | journal = The Lancet Oncology | volume = 7 | issue = 4 | pages = 288 | year = 2006 | pmid = 16598880 | doi = 10.1016/S1470-2045(06)70639-8 }}</ref><ref>{{cite journal | last1 = Wolf | first1 = S | last2 = Barton | first2 = D | last3 = Kottschade | first3 = L | last4 = Grothey | first4 = A | last5 = Loprinzi | first5 = C | title = Chemotherapy-induced peripheral neuropathy: prevention and treatment strategies | journal = European Journal of Cancer | volume = 44 | issue = 11 | pages = 1507–15 | year = 2008 | pmid = 18571399 | doi = 10.1016/j.ejca.2008.04.018 }}</ref>
+
+==References==
+{{reflist|30em}}
+
+{{Other nervous system drugs}}
+{{Serotonergics}}
+
+[[Category:Abandoned drugs]]
+[[Category:Serotonin receptor agonists]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Pyridines]]
+[[Category:Naphthalenes]]
+
+
+{{nervous-system-drug-stub}}

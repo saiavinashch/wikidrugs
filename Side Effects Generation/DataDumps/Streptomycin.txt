@@ -1,0 +1,139 @@
+{{drugbox
+| Verifiedfields = changed
+| verifiedrevid = 470471096
+| IUPAC_name = 5-(2,4-diguanidino-<br>3,5,6-trihydroxy-cyclohexoxy)- 4-[4,5-dihydroxy-6-(hydroxymethyl)<br>-3-methylamino-tetrahydropyran-2-yl] oxy-3-hydroxy-2-methyl<br>-tetrahydrofuran-3-carbaldehyde
+| image = Streptomycin2.svg
+| width = 209
+| image2 = Streptomycin-1ntb-xtal-3D-balls.png
+
+<!--Clinical data-->
+| Drugs.com = {{drugs.com|monograph|streptomycin-sulfate}}
+| pregnancy_US = D
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = [[Intramuscular injection|intramuscular]], [[Intravenous therapy|intravenous]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 84% to 88% IM (est.)<ref name="Zhu2001">{{cite journal | vauthors = Zhu M, Burman WJ, Jaresko GS, Berning SE, Jelliffe RW, Peloquin CA | date = October 2001 | title = Population pharmacokinetics of intravenous and intramuscular streptomycin in patients with tuberculosis | journal = [[Pharmacother.]] | volume = 21 | issue = 9 | pages = 1037–1045 | pmid = 11560193 | doi = 10.1592/phco.21.13.1037.34625 | url = http://www.medscape.com/viewarticle/409778 | accessdate = 2010-05-25 | deadurl = no | archiveurl = https://web.archive.org/web/20111005005316/http://www.medscape.com/viewarticle/409778 | archivedate = 2011-10-05 | df =  }}</ref>
+ 0% by mouth
+| elimination_half-life = 5 to 6 hours
+| excretion = [[kidney]]
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|CAS}}
+| CAS_number = 57-92-1
+| ATC_prefix = A07
+| ATC_suffix = AA04
+| ATC_supplemental =  {{ATC|J01|GA01}}
+| PubChem = 19649
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01082
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 18508
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = Y45QSO73OB
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08531
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 17076
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201194
+| NIAID_ChemDB = 07346
+| PDB_ligand = SRY
+
+<!--Chemical data-->
+| C=21 | H=39 | N=7 | O=12
+| molecular_weight = 581.574 g/mol
+| smiles = C[C@H]1[C@@]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H]([C@@H]([C@H]2O)O)N=C(N)N)O)N=C(N)N)O[C@H]3[C@H]([C@@H]([C@H]([C@@H](O3)CO)O)O)NC)(C=O)O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H39N7O12/c1-5-21(36,4-30)16(40-17-9(26-2)13(34)10(31)6(3-29)38-17)18(37-5)39-15-8(28-20(24)25)11(32)7(27-19(22)23)12(33)14(15)35/h4-18,26,29,31-36H,3H2,1-2H3,(H4,22,23,27)(H4,24,25,28)/t5-,6-,7+,8-,9-,10-,11+,12-,13-,14+,15+,16-,17-,18-,21+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = UCSJYZPVAKXKNQ-HZYVHMACSA-N
+| melting_point = 12
+}}
+<!-- Definition and medical uses -->
+'''Streptomycin''' is an [[antibiotic]] used to treat a number of bacterial infections.<ref name=AHFS2016/> This includes [[tuberculosis]], [[Mycobacterium avium complex|''Mycobacterium avium'' complex]], [[endocarditis]], [[brucellosis]], [[Burkholderia infection|''Burkholderia'' infection]], [[plague (disease)|plague]], [[tularemia]], and [[rat bite fever]].<ref name=AHFS2016/> For active tuberculosis it is often given together with [[isoniazid]], [[rifampicin]], and [[pyrazinamide]].<ref name=WHO2008>{{cite book|title=WHO Model Formulary 2008|date=2009|publisher=World Health Organization|isbn=9789241547659|pages=136, 144, 609|url=http://apps.who.int/medicinedocs/documents/s16879e/s16879e.pdf|accessdate=8 December 2016|deadurl=no|archiveurl=https://web.archive.org/web/20161213060118/http://apps.who.int/medicinedocs/documents/s16879e/s16879e.pdf|archivedate=13 December 2016|df=}}</ref> It is given by [[intravenous|injection into a vein]] or [[intramuscular|muscle]].<ref name=AHFS2016>{{cite web|title=Streptomycin Sulfate|url=https://www.drugs.com/monograph/streptomycin-sulfate.html|publisher=The American Society of Health-System Pharmacists|accessdate=8 December 2016|deadurl=no|archiveurl=https://web.archive.org/web/20161220231114/https://www.drugs.com/monograph/streptomycin-sulfate.html|archivedate=20 December 2016|df=}}</ref>
+
+<!-- Side effects and mechanism -->
+Common side effects include [[vertigo|feeling like the world is spinning]], vomiting, numbness of the face, fever, and rash.<ref name=AHFS2016/> Use during [[pregnancy]] may result in permanent [[deafness]] in the baby.<ref name=AHFS2016/> Use appears to be safe while [[breastfeeding]].<ref name=WHO2008/> It is not recommended in people with [[myasthenia gravis]].<ref name=WHO2008/> Streptomycin is in the [[aminoglycoside]] class of medication.<ref name=AHFS2016/> It works by blocking the ability of [[30S ribosomal subunits]] to make proteins which results in [[bactericidal|bacterial death]].<ref name=AHFS2016/>
+
+<!-- Society and culture -->
+Streptomycin was discovered in 1943 from ''[[Streptomyces griseus]]''.<ref>{{cite book|last1=Torok|first1=Estee|last2=Moran|first2=Ed|last3=Cooke|first3=Fiona|title=Oxford Handbook of Infectious Diseases and Microbiology|date=2009|publisher=OUP Oxford|isbn=9780191039621|page=Chapter 2|url=https://books.google.com/books?id=5W-WBQAAQBAJ&pg=PT56|language=en|deadurl=no|archiveurl=https://web.archive.org/web/20170908143257/https://books.google.com/books?id=5W-WBQAAQBAJ&pg=PT56|archivedate=2017-09-08|df=}}</ref><ref>{{cite book|last1=Renneberg|first1=Reinhard|last2=Demain|first2=Arnold L.|title=Biotechnology for Beginners|date=2008|publisher=Elsevier|isbn=9780123735812|page=103|url=https://books.google.com/books?id=lDYL6793vMkC&pg=PA103|language=en|deadurl=no|archiveurl=https://web.archive.org/web/20170910172645/https://books.google.com/books?id=lDYL6793vMkC&pg=PA103|archivedate=2017-09-10|df=}}</ref> It is on the [[World Health Organization's List of Essential Medicines]], the most effective and safe medicines needed in a [[health system]].<ref name=WHO19th>{{cite web|title=WHO Model List of Essential Medicines (19th List)|url=http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|work=World Health Organization|accessdate=8 December 2016|date=April 2015|deadurl=no|archiveurl=https://web.archive.org/web/20161213052708/http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|archivedate=13 December 2016|df=}}</ref> The wholesale cost in the [[developing world]] is between 0.38 and 4.39 USD per day.<ref name=ERC2014>{{cite web|title=Streptomycin Sulfate |url=http://erc.msh.org/dmpguide/resultsdetail.cfm?language=english&code=STR1A&s_year=2014&year=2014&str=1%20g&desc=Streptomycin%20Sulfate&pack=new&frm=VIAL&rte=INJ&class_code2=06%2E2%2E4%2E&supplement=&class_name=%2806%2E2%2E4%2E%29Antituberculosis%20medicines%3Cbr%3E|website=International Drug Price Indicator Guide|accessdate=8 December 2016}}</ref> In the United States a course of treatment costs more than 200 USD.<ref name=Ric2015>{{cite book|last1=Hamilton|first1=Richart|title=Tarascon Pocket Pharmacopoeia 2015 Deluxe Lab-Coat Edition|date=2015|publisher=Jones & Bartlett Learning|isbn=9781284057560|page=36}}</ref>
+
+== Uses ==
+
+=== Medication ===
+* [[Infective endocarditis]] caused by enterococcus when the organism is not sensitive to [[gentamicin]]
+* [[Tuberculosis]] in combination with other antibiotics. For active tuberculosis it is often given together with [[isoniazid]], [[rifampicin]], and [[pyrazinamide]].<ref name=WHO2008>{{cite book|title=WHO Model Formulary 2008|date=2009|publisher=World Health Organization|isbn=9789241547659|pages=136, 144, 609|url=http://apps.who.int/medicinedocs/documents/s16879e/s16879e.pdf|accessdate=8 December 2016|deadurl=no|archiveurl=https://web.archive.org/web/20161213060118/http://apps.who.int/medicinedocs/documents/s16879e/s16879e.pdf|archivedate=13 December 2016|df=}}</ref> It is not the first-line treatment, except in medically under-served populations where the cost of more expensive treatments is prohibitive. It may be useful in cases where resistance to other drugs is identified. 
+* [[Plague (disease)|Plague]] (''[[Yersinia pestis]]'') has historically been treated with it as the first-line treatment. However streptomycin is approved for this purpose only by the [[U.S. Food and Drug Administration]].
+* In [[veterinary medicine]], streptomycin is the first-line antibiotic for use against [[gram negative]] bacteria in large animals ([[horse]]s, [[cattle]], [[sheep]], etc.). It is commonly combined with procaine [[penicillin]] for intramuscular injection.
+* [[Tularemia]] infections have been treated mostly with streptomycin.
+
+Streptomycin is traditionally given [[intramuscular injection|intramuscularly]], and in many nations is only licensed to be administered intramuscularly, though in some regions the drug may also be administered [[intravenous injection|intravenous]]ly.<ref name="Zhu2001"/>
+
+=== Pesticide ===
+Streptomycin also is used as a pesticide, to combat the growth of bacteria beyond human applications. Streptomycin controls bacterial diseases of certain fruit, vegetables, seed, and ornamental crops. A major use is in the control of [[fireblight]] on apple and pear trees. As in medical applications, extensive use can be associated with the development of resistant strains. Streptomycin could potentially be used to control [[Cyanobacteria|cyanobacterial]] blooms in ornamental ponds and aquaria.<ref>{{Cite journal|last=Qian, H., Li, J., Pan, X., Sun, Z., Ye, C., Jin, G., & Fu, Z.|first=|date=2012|title=Effects of streptomycin on growth of algae Chlorella vulgaris and Microcystis aeruginosa|url=|journal=Environmental Toxicology|volume=27(4)|pages=229-237}}</ref> While some antibacterial antibiotics are inhibitory to certain eukaryotes, this seems not to be the case for streptomycin, especially in the case of [[Fungicide|anti-fungal]] activity.<ref>{{Cite journal|last=Reilly, H. C., Schatz, A., & Waksman, S. A.|first=|date=1945|title=Antifungal properties of antibiotic substances|url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC374091/|journal=Journal of Bacteriology,|volume=49(6)|pages=585-594|deadurl=no|archiveurl=https://web.archive.org/web/20170910172646/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC374091/|archivedate=2017-09-10|df=}}</ref>
+
+=== Cell culture ===
+Streptomycin, in combination with penicillin, is used in a standard antibiotic cocktail to prevent bacterial infection in cell culture.
+
+===Protein purification===
+When purifying protein from a biological extract, streptomycin sulfate is sometimes added as a means of removing nucleic acids. Since it binds to ribosomes and precipitates out of solution, it serves as a method for removing rRNA, mRNA, and even DNA if the extract is from a prokaryote.
+
+==Spectrum of activity==
+Streptomycin can be used clinically to treat tuberculosis in combination with other medications and susceptible strains which cause bacterial endocarditis. The following represents [[Minimum inhibitory concentration|MIC]] susceptibility for a few medically significant microorganisms.
+* ''Mycobacterium tuberculosis'': 1 μg/ml - 2 μg/ml
+* ''Staphylococcus aureus'': 4 μg/ml
+<ref>{{cite web |url=http://antibiotics.toku-e.com/antimicrobial_1099_1.html |title=Archived copy |accessdate=2014-03-03 |deadurl=no |archiveurl=https://web.archive.org/web/20140303221437/http://antibiotics.toku-e.com/antimicrobial_1099_1.html |archivedate=2014-03-03 |df= }}</ref><ref>http://www.toku-e.com/Assets/MIC/Streptomycin%20sulfate.pdf</ref>
+
+== Side effects==
+The most concerning side effects, as with other [[aminoglycosides]], are nephrotoxicity and ototoxicity.<ref>{{cite web |url=http://thorax.bmj.com/content/65/7/654.full |title=Archived copy |accessdate=2017-01-05 |deadurl=no |archiveurl=https://web.archive.org/web/20170106012807/http://thorax.bmj.com/content/65/7/654.full |archivedate=2017-01-06 |df= }}</ref> Transient or permanent deafness may result. The vestibular portion of cranial nerve VIII (the [[vestibulocochlear nerve|vestibulococlear nerve]]) can be affected, resulting in [[tinnitus]], [[vertigo]] and [[ataxia]].  [[Nephrotoxicity]] and can potentially interfere with diagnosis of kidney malfunction.<ref>{{cite journal|vauthors=Syal K, Srinivasan A, Banerjee D |title=Streptomycin interference in Jaffe reaction — Possible false positive creatinine estimation in excessive dose exposure |journal=Clinical Biochemistry |volume=46 |pages=177–179|date=2013}}</ref>
+
+Common side effects include [[vertigo|feeling like the world spinning]], vomiting, numbness of the face, fever, and rash.<!-- <ref name=AHFS2016/> --> Fever and rashes may result from persistent use.
+
+Use is not recommended during pregnancy<ref name=AHFS2016/> Use appears to be okay while [[breastfeeding]].<ref name=WHO2008/>
+
+It is not recommended in people with [[myasthenia gravis]].<ref name=WHO2008/>
+
+==Mechanism of action==
+Streptomycin is a [[protein synthesis inhibitor]]. It binds to the small 16S rRNA of the 30S subunit of the bacterial ribosome, interfering with the binding of [[formyl-methionyl-tRNA]] to the 30S subunit.<ref>{{cite journal|vauthors=Sharma D, Cukras AR, Rogers EJ, Southworth DR, Green R | date = 7 December 2007| title = Mutational analysis of S12 protein and implications for the accuracy of decoding by the ribosome| journal = [[Journal of Molecular Biology]]| volume =374| pmid=17967466| issue = 4| pages = 1065–76| doi = 10.1016/j.jmb.2007.10.003| pmc = 2200631}}
+</ref> This leads to codon misreading, eventual inhibition of protein synthesis and ultimately death of microbial cells through mechanisms that are still not understood. Speculation on this mechanism indicates that the binding of the molecule to the 30S subunit interferes with 50S subunit association with the [[mRNA]] strand. This results in an unstable ribosomal-mRNA complex, leading to a [[frameshift mutation]] and defective protein synthesis; leading to cell death.<ref>{{cite book|last=Raymon|first=Lionel P.|title=COMLEX Level 1 Pharmacology Lecture Notes|year=2011|publisher=Kaplan, Inc.|location=Miami, FL|id=CM4024K|pages=181}}</ref>    Humans have ribosomes which are structurally different from those in bacteria, so the drug does not have this effect in human cells. At low concentrations, however, streptomycin only inhibits growth of the bacteria by inducing prokaryotic ribosomes to misread mRNA.<ref>
+{{cite book|author1=Voet, Donald  |author2=Voet, Judith G. |lastauthoramp=yes | title = Biochemistry| edition = 3rd| publisher = [[John Wiley & Sons]]| page = 1341| year = 2004| isbn = 0-471-19350-X }}
+</ref> Streptomycin is an antibiotic that inhibits both Gram-positive and Gram-negative bacteria,<ref name="SchantzNg2004">{{cite book|title=A manual for primary human cell culture|year=2004|publisher=World Scientific|author=Jan-Thorsten Schantz|author2=Kee-Woei Ng |page=89}}</ref> and is therefore a useful broad-spectrum antibiotic.
+
+==History==
+Streptomycin was first isolated on October 19, 1943, by [[Albert Schatz (scientist)|Albert Schatz]], a PhD student in the laboratory of [[Selman Abraham Waksman]] at [[Rutgers University]] in a research project funded by [[Merck and Co.]]<ref>
+{{cite journal| author = Comroe JH Jr| title = Pay dirt: the story of streptomycin. Part I: from Waksman to Waksman| journal = [[American Review of Respiratory Disease]]| year = 1978| volume = 117| issue = 4| pages = 773–781| pmid = 417651}}
+</ref><ref>{{cite journal |author=Kingston W |title=Streptomycin, Schatz v. Waksman, and the balance of credit for discovery |journal=J Hist Med Allied Sci |volume=59 |issue=3 |pages=441–62 | date=July  2004 |pmid=15270337 |doi= 10.1093/jhmas/jrh091|url=}}</ref>  Waksman and his laboratory staff discovered several antibiotics, including [[actinomycin]], [[clavacin]], streptothricin, streptomycin, grisein, [[neomycin]], fradicin, [[candicidin]], and candidin. Of these, streptomycin and neomycin found extensive application in the treatment of numerous infectious diseases. Streptomycin was the first [[antibiotic]] cure for [[tuberculosis]] (TB). In 1952 Waksman was the recipient of the [[Nobel Prize in Physiology or Medicine]] in recognition "for his discovery of streptomycin, the first antibiotic active against tuberculosis".<ref>[https://www.nobelprize.org/nobel_prizes/medicine/laureates/index.html Official list of Nobel Prize Laureates in Medicine] {{webarchive|url=https://web.archive.org/web/20170609092934/http://www.nobelprize.org/nobel_prizes/medicine/laureates/index.html |date=2017-06-09 }}</ref> Waksman was later accused of playing down the role of Schatz who did the work under his supervision.<ref name="google">{{cite book|url=https://books.google.com/books?id=dRWLQgAACAAJ|title=Miracle Cure: The Story of Penicillin and the Golden Age of Antibiotics|date=1990|publisher=Blackwell|isbn=9780631164920|author=Wainwright, M.|accessdate=2014-12-29|deadurl=no|archiveurl=https://web.archive.org/web/20170910172645/https://books.google.com/books?id=dRWLQgAACAAJ|archivedate=2017-09-10|df=}}</ref><ref>{{Cite journal|last=Wainwright|first=M.|year=1991|title=Streptomycin: discovery and resultant controversy|url=|journal=Journal of the History and Philosophy of the Life Sciences|volume=13|pages=97–124|via=}}</ref><ref>{{Cite journal|last=Kingston|first=William|date=2004-07-01|title=Streptomycin, Schatz v. Waksman, and the balance of credit for discovery|journal=Journal of the History of Medicine and Allied Sciences|volume=59|issue=3|pages=441–462|issn=0022-5045|pmid=15270337|doi=10.1093/jhmas/jrh091}}</ref><ref>{{Cite book|title=Experiment Eleven: Dark Secrets Behind the Discovery of a Wonder Drug|last=Pringle|first=Peter|publisher=Walker & Company|year=2012|isbn=978-1620401989|location=New York|pages=|quote=|via=}}</ref>
+
+At the end of World War II, the United States Army experimented with streptomycin to treat life-threatening infections at a military hospital in [[Battle Creek, Michigan]]. The first patient treated did not survive; the second patient survived but became blind as a side effect of the treatment. In March 1946, the third patient&mdash;[[Robert J. Dole]], later Majority Leader of the United States Senate and Presidential nominee&mdash;experienced a rapid and robust recovery.<ref>Cramer, Richard Ben, ''What It Takes'' (New York, 1992), pp. 110-11.</ref>
+
+The first randomized trial of streptomycin against pulmonary tuberculosis was carried out in 1946 through 1948 by the MRC Tuberculosis Research Unit under the chairmanship of Geoffrey Marshall (1887–1982). The trial was both [[Blind experiment|double-blind]] and [[placebo|placebo-controlled]]. It is widely accepted to have been the first randomised curative trial.<ref>{{cite journal |author=Metcalfe NH |title=Sir Geoffrey Marshall (1887-1982): respiratory physician, catalyst for anaesthesia development, doctor to both Prime Minister and King, and World War I Barge Commander |journal=J Med Biogr |volume=19 |issue=1 |pages=10–4 |date=February 2011 |pmid=21350072 |doi=10.1258/jmb.2010.010019 }}</ref>
+
+Results showed efficacy against TB, albeit with minor toxicity and acquired bacterial [[antibiotic resistance|resistance]] to the drug.<ref>
+{{cite journal |author=D'Arcy Hart P |title=A change in scientific approach: from alternation to randomised allocation in clinical trials in the 1940s | journal = [[British Medical Journal]] |volume=319 |issue=7209 |pages=572–3 |date=August 1999 |pmid=10463905 |pmc=1116443 |doi=10.1136/bmj.319.7209.572 }}
+</ref>
+
+== See also ==
+*[[Philip D'Arcy Hart]] - The British medical researcher and pioneer in tuberculosis treatment in the early twentieth century.
+
+== References ==
+{{Reflist|32em}}
+
+== Further reading ==
+*[https://www.nytimes.com/2012/06/12/science/notebooks-shed-light-on-an-antibiotic-discovery-and-a-mentors-betrayal.html?pagewanted=all  "Notebooks Shed Light on an Antibiotic's Contested Discovery," New York Times, June 12, 2012, by Peter Pringle]
+* [http://www.ebi.ac.uk/pdbe-srv/PDBeXplore/ligand/?ligand=SRY Streptomycin bound to proteins] in the [[Protein Data Bank|PDB]]
+*{{Cite journal |last=Kingston |first=William |lastauthoramp= |year=2004 |title=Streptomycin, Schatz v. Waksman, and the Balance of Credit for Discovery |journal=Journal of the History of Medicine and Allied Sciences |volume=59 |issue=3 |pages=441–462 |doi=10.1093/jhmas/jrh091|pmid=15270337 |postscript=<!--None--> }}
+*{{Cite news |last=Mistiaen |first=Veronique |date=2 November 2002 |title=Time, and the great healer |newspaper=The Guardian |url=https://www.theguardian.com/weekend/story/0,3605,823114,00.html |postscript=<!--None--> }}. The history behind the discovery of streptomycin.
+*[http://www.epa.gov/oppsrrd1/REDs/factsheets/0169fact.pdf EPA R.E.D. Facts sheet] on use of streptomycin as a pesticide.
+
+{{Antidiarrheals, intestinal anti-inflammatory/anti-infective agents}}
+{{AminoglycosideAntiBiotics}}
+
+{{Authority control}}
+
+[[Category:Aminoglycoside antibiotics]]
+[[Category:Anti-tuberculosis drugs]]
+[[Category:World Health Organization essential medicines]]
+[[Category:Guanidines]]
+[[Category:RTT]]

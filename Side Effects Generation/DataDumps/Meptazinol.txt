@@ -1,0 +1,90 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 462248630
+| IUPAC_name = (''RS'')-3-(3-ethyl-1-methylazepan-3-yl)phenol
+| image = Meptazinol_racemate2DCSD.svg
+| width = 300
+| image2 =  
+| width2 =  
+| chirality = [[Racemic mixture]]
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|meptazinol}}
+| licence_EU = <!-- EMEA requires brand name -->
+| licence_US = <!-- FDA may use generic name -->
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = Schedule 4
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = POM
+| legal_US = <!-- OTC / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| dependency_liability = Low
+| routes_of_administration = Oral, [[intramuscular|IM]], [[intravenous|IV]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism = The peak analgesic effect is seen within 30–60 minutes and lasts about 3–4 hours.
+| elimination_half-life = Half-Life (1.4–4 hours).
+| excretion = The drug is rapidly metabolised to the glucuronide, and mostly excreted in the urine.
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 59263-76-2
+| ATC_prefix = N02
+| ATC_suffix = AX05
+| ATC_supplemental =  
+| PubChem = 41049
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 37469
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 18Y7S5JKZD
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08182
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 314437
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=15 | H=23 | N=1 | O=1 
+| molecular_weight = 233.34922 g/mol
+| smiles = OC1=CC=CC(C2(CCCCN(C2)C)CC)=C1
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C15H23NO/c1-3-15(9-4-5-10-16(2)12-15)13-7-6-8-14(17)11-13/h6-8,11,17H,3-5,9-10,12H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = JLICHNCFTLFZJN-UHFFFAOYSA-N
+| synonyms =  
+| density =  
+| melting_notes =  
+| boiling_point =  
+| solubility =  
+| specific_rotation =  
+| sec_combustion =  
+}}
+
+'''Meptazinol''' (trade name '''Meptid''') is an [[opioid]] [[analgesic]] developed by Wyeth in the 1970s.<ref>{{ cite patent | country = US | status = patent | number = 4197239 | title = Hexahydroazepine, Piperidine and Pyrrolidine Derivatives | gdate = 1980-04-08 | inventor = Cavalla JF, Shepherd RG, White AC | assign1 = Wyeth }}</ref> Indications for use in moderate to severe [[pain]], most commonly used to treat pain in [[obstetrics]] ([[childbirth]]).
+
+Meptazinol is a 3-phenylazepane derivative, whereas the other phenazepanes like [[ethoheptazine]] and [[proheptazine]] are [[4-phenylazepane]]s.
+
+A partial [[mu opioid receptor|µ-opioid receptor]] [[agonist]], its mixed [[agonist]]/[[Receptor antagonist|antagonist]] activity affords it a lower risk of [[physical dependence|dependence]] and [[drug abuse|abuse]] than full µ [[agonist]]s like [[morphine]]. Meptazinol exhibits not only a short onset of action, but also a shorter duration of action relative to other [[opioid]]s such as [[morphine]], [[pentazocine]], or [[buprenorphine]].<ref name="Holmes 1985">{{ cite journal |vauthors=Holmes B, Ward A | title = Meptazinol. A Review of its Pharmacodynamic and Pharmacokinetic Properties and Therapeutic Efficacy | journal = Drugs | year = 1985 | volume = 30 | issue = 4 | pages = 285–312 | pmid = 2998723 | doi=10.2165/00003495-198530040-00001}}</ref>
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{MeshName|Meptazinol}}
+
+{{Analgesics}}
+{{Opioidergics}}
+
+[[Category:Synthetic opioids]]
+[[Category:Azepanes]]
+[[Category:Phenols]]
+
+
+{{analgesic-stub}}

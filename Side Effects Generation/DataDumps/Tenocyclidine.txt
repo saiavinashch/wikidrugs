@@ -1,0 +1,80 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470601998
+| IUPAC_name = 1-(1-(2-Thienyl)cyclohexyl)piperidine
+| image = Tenocyclidine.svg
+| width = 125px
+
+<!--Clinical data-->
+| tradename =  
+| legal_AU = S9
+| legal_CA = Schedule III
+| legal_UK = Class A
+| legal_US = Schedule I
+| legal_DE = Anlage I
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 21500-98-1
+| ATC_prefix = none
+| PubChem = 62751
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01520
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 56495
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 8BQ45Q6VCL
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 279676
+
+<!--Chemical data-->
+| C=15 | H=23 | N=1 | S=1 
+| molecular_weight = 249.416 g/mol
+| smiles = C1(C2(CCCCC2)N3CCCCC3)=CC=CS1
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C15H23NS/c1-3-9-15(10-4-1,14-8-7-13-17-14)16-11-5-2-6-12-16/h7-8,13H,1-6,9-12H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = JUZZEWSCNBCFRL-UHFFFAOYSA-N
+}}
+
+'''Tenocyclidine''' ('''TCP''') was discovered by a team at [[Parke Davis]] in the late 1950s.<ref>{{US patent|2921076}} Heterocyclic compounds and methods for producing the same</ref> It is a [[dissociative]] [[anesthesia|anesthetic]] [[drug]] with [[psychostimulant]] and [[hallucinogen]]ic effects. It is similar in effects to [[phencyclidine]] (PCP) but is considerably more potent. TCP has slightly different binding properties to PCP, with more affinity for the [[NMDA receptor]]s,<ref>Stirling JM, Cross AJ, Green AR. The binding of [3H]thienyl cyclohexylpiperidine ([3H]TCP) to the NMDA-phencyclidine receptor complex. Neuropharmacology. 1989 Jan;28(1):1-7.</ref> but less affinity for the [[sigma receptor]]s.<ref>Javitt DC, Jotkowitz A, Sircar R, Zukin SR. Non-competitive regulation of phencyclidine/sigma-receptors by the N-methyl-D-aspartate receptor antagonist D-(-)-2-amino-5-phosphonovaleric acid. Neuroscience Letters. 1987 Jul 22;78(2):193-8.</ref> Because of its high affinity for the PCP site of the NMDA receptor complex, the <sup>3</sup>H [[Isotopic labeling|radiolabelled]] form of TCP is widely used in research into NMDA receptors.
+
+TCP acts primarily as an [[NMDA receptor antagonist]] which blocks the activity of the NMDA receptor, however its increased psychostimulant effects compared to PCP suggests it also has relatively greater activity as a [[dopamine reuptake inhibitor]] (DRI). Due to its similarity in effects to PCP, TCP was placed into the [[Standard for the Uniform Scheduling of Drugs and Poisons|Schedule I]] list of illegal drugs in the 1970s, although it was only briefly used in the 1970s and 1980s and is now little known.
+
+==See also==
+* [[Arylcyclohexylamine]]
+* [[Benocyclidine]] (BTCP)
+
+==References==
+{{Reflist|2}}
+
+
+{{General anesthetics}}
+{{Hallucinogens}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Ionotropic glutamate receptor modulators}}
+{{Monoamine reuptake inhibitors}}
+{{Sigma receptor modulators}}
+}}
+
+[[Category:Anesthetics]]
+[[Category:Dissociative drugs]]
+[[Category:Piperidines]]
+[[Category:Thiophenes]]
+[[Category:Designer drugs]]
+[[Category:Dopamine reuptake inhibitors]]
+[[Category:NMDA receptor antagonists]]
+[[Category:Sigma agonists]]
+
+
+{{nervous-system-drug-stub}}

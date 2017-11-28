@@ -1,0 +1,81 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 451139960
+| IUPAC_name = 6-Chloro-''N''-ethyl-4-methyl-4-phenyl-4''H''-benzo[''d''][1,3]oxazin-2-amine
+| image = Etifoxine.svg
+| image2 = Etifoxine ball-and-stick.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|etifoxine}}
+| pregnancy_category = Not recommended. Crosses the placental barrier
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = UNscheduled 
+| legal_US_comment = and not FDA approved<!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 90%
+| protein_bound =  
+| metabolism = [[Liver|Hepatic]] (no [[cytochrome P450|CYP450]] interactions)
+| elimination_half-life = 2 to 6 hours (etifoxine),<ref>{{cite web | url = http://www.adcock.co.za/Resources/ProductDocs/Stresam%20PI.pdf | title = Stresam PI | date = n.d. | publisher = Adcock Ingram | accessdate = 2008-08-30}} {{Dead link|date=October 2010|bot=H3llBot}}</ref>
+| excretion = [[Kidney|Renal]]
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5468
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 21715-46-8
+| ATC_prefix = N05
+| ATC_suffix = BX03
+| PubChem = 30768
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2106227
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB08986
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 28547
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = X24X82MX4X
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07320
+
+<!--Chemical data-->
+| C=17 | H=17 | Cl=1 | N=2 | O=1 
+| molecular_weight = 300.782 g/mol
+| smiles = ClC1=CC=C2N=C(NCC)OC(C3=CC=CC=C3)(C)C2=C1
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H17ClN2O/c1-3-19-16-20-15-10-9-13(18)11-14(15)17(2,21-16)12-7-5-4-6-8-12/h4-11H,3H2,1-2H3,(H,19,20)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IBYCYJFUEJQSMK-UHFFFAOYSA-N
+}}
+
+'''Etifoxine''' ([[International Nonproprietary Name|INN]],<ref name="US Patent 3725404">{{US Patent|3725404}}</ref> also known as '''etafenoxine'''; trade name '''Stresam''') is an [[anxiolytic]] and [[anticonvulsant]] drug<ref>{{cite journal |vauthors=Kruse HJ, Kuch H | title = Etifoxine: evaluation of its anticonvulsant profile in mice in comparison with sodium valproate, phenytoin and clobazam | journal = Arzneimittelforschung | date = 1985 | volume = 35 | issue = 1| pages = 133–135}}</ref><ref>''[[The Merck Index]]'', 12th Edition. '''3910'''.</ref> developed by [[Hoechst AG|Hoechst]] in the 1960s.<ref name="US Patent 3725404"/> It is sold in approximately 40 countries for anxiety disorders, without the sedation and ataxia associated with benzodiazepine drugs.<ref>{{Cite journal | journal = Proc Natl Acad Sci U S A | date = 2008 | volume = 105 | issue = 51 | pages = 20505–10 | doi= 10.1073/pnas.0811201106 | pmid = 19075249 | pmc = 2629330 | title = Etifoxine improves peripheral nerve regeneration and functional recovery |vauthors=Girard C, Liu S, Cadepond F, Adams D, Lacroix C, Verleye M, Gillardin JM, Baulieu EE, Schumacher M, Schweizer-Groyer G | bibcode = 2008PNAS..10520505G }}</ref> It has similar anxiolytic effects to [[benzodiazepine]] drugs, but is structurally distinct and does not bind to the benzodiazepine receptor.<ref>{{cite journal |vauthors=Schlichter R, Rybalchenko V, Poisbeau P, Verleye M, Gillardin J | title = Modulation of GABAergic synaptic transmission by the non-benzodiazepine anxiolytic etifoxine | journal = Neuropharmacology | date = 2000 | volume = 39 | issue = 9 | pages = 1523–35 | doi=10.1016/s0028-3908(99)00253-1| pmid = 10854897 }}</ref> It is as effective as [[lorazepam]] as an anxiolytic, but has fewer side effects.<ref>{{cite journal |vauthors=Nguyen N, Fakra E, Pradel V, Jouve E, Alquier C, Le Guern ME, Micallef J, Blin O | title = Efficacy of etifoxine compared to lorazepam monotherapy in the treatment of patients with adjustment disorders with anxiety: a double-blind controlled study in general practice | journal = Human Psychopharmacology | date = 2006  | volume = 21 | issue = 3 | pages = 139–49| pmid = 16625522 | doi = 10.1002/hup.757 }}</ref>  Etifoxine is not a scheduled drug in any country in which it is sold and does not cause dependence or tolerance. Etifoxine is not approved by the U.S. [[Food and Drug Administration]] or the [[European Medicines Agency]].
+
+Etifoxine seems to have been mischaracterized in the 1960-70's as a mild or partial benzodiazepine, because of its lack of typical benzodiazepine side effects, like sedation and ataxia. Thus, it was deemed to be noncompetitive with benzodiazepine drugs of the time, like Valium, and not introduced into world markets. Not until the 2000s was it discovered that etifoxine worked through completely different mechanisms, i.e.. GABA(A) beta subtype selectivity and neurosteroid biosynthesis (purported to work through TSPO). Realization of the MOA has led to its investigation in a number of preclinical studies as an analgesic, anti-inflammatory and neuroprotectant. Recent publications have chronicled its efficacy as a microglia modulator in models of MS and ICH.
+
+The original composition of matter patent for etifoxine has expired decades ago, however the S-enantiomer (US8110569 B2) and metabolically stabilized deuterium substituted variants have been recently identified in the patent literature (WO2016154039 A1). The deuterium variants retain the biological activity of etifoxine, but improve on the pharmacokinetic profile, allowing for less frequent and/or lower dosing than the original.
+
+==Side effects==
+
+The most common adverse effect is mild drowsiness at initial dosing. It is not associated with any withdrawal syndromes or dependence, and is not scheduled in France. In conclusion, etifoxine shows less adverse effects of anterograde amnesia, sedation, impaired psychomotor performance, and withdrawal syndromes than those of benzodiazepines Etifoxine for Pain Patients with Anxiety<ref>{{cite journal |pmc=4293506|year=2015|author1=Choi|first1=Y. M.|title=Etifoxine for Pain Patients with Anxiety|journal=The Korean Journal of Pain|volume=28|issue=1|pages=4–10|last2=Kim|first2=K. H.|doi=10.3344/kjp.2015.28.1.4|pmid=25589941}}</ref> A recent (2012) review of etifoxine by the French National Pharmacovigilance Committee determined that etifoxine was safe and continued to provide a favorable alternative to benzodiazepine anxiolytics. Contrary to comments in non-refereed on line journals, the committee found (for a ten-year pharmacovigilance period) that safety concerns were rare or very rare and that the incidence of idiosyncratic hepatic problems were very rare (less than drugs like Lipitor).http://ansm.sante.fr/var/ansm_site/storage/original/application/56a2e1cb1dbc986720da09842df11c22.pdf
+
+==Mechanism of action==
+Unlike benzodiazepines, etifoxine appears to produce its anxiolytic effects by activating  β2 and β3 subunit containing channels of the [[GABA A receptor|GABA<sub>A</sub>]] [[receptor (biochemistry)|receptor]] complex (a different binding site than benzodiazepines), and by stimulating the production of GABA(A) active neurosteroids that act in conjunction with etifoxine's direct effects.<ref>{{cite journal |vauthors=Hamon A, Morel A, Hue B, Verleye M, Gillardin JM | title =  The modulatory effects of the anxiolytic etifoxine on GABA(A) receptors are mediated by the beta subunit | journal = Neuropharmacology | date = 2003 | volume = 45 | issue = 3 | pages = 293–303 | doi=10.1016/s0028-3908(03)00187-4| pmid =  12871647 }}</ref> This difference in binding means that etifoxine can be used alongside benzodiazepines to potentiate their effects without competing for binding sites;<ref>{{cite journal |vauthors=Kruse HJ, Kuch H | title = Potentiation of clobazam's anticonvulsant activity by etifoxine, a non-benzodiazepine tranquilizer, in mice. Comparison studies with sodium valproate | journal = Arzneimittelforschung | date = 1986 | volume = 36 | issue = 9 | pages = 1320–2| pmid = 3098254 }}</ref> however, it also means that the effects of etifoxine are not reversed by the benzodiazepine antagonist [[flumazenil]].<ref>{{cite journal |vauthors=Verleye M, Schlichter R, Gillardin JM | title = Interactions of etifoxine with the chloride channel coupled to the GABA(A) receptor complex | journal = NeuroReport | date = 1999 | volume = 10 | issue = 15 | pages = 3207–10 | doi=10.1097/00001756-199910190-00015| pmid = 10574561 }}</ref>
+
+Etifoxine has been shown to stimulate the [[biosynthesis]] of [[Endogeny (biology)|endogenous]] [[neurosteroid]]s, namely [[17-hydroxypregnenolone]], [[dehydroepiandrosterone]], [[progesterone]] and [[Pregnanolone (disambiguation)|tetrahydroprogesterone]].<ref>{{Cite journal|last1=do Rego|first1=Jean Luc |last2=Vaudry|first2=David|last3=Vaudry|first3=Hubert|title=The Non-Benzodiazepine Anxiolytic Drug Etifoxine Causes a Rapid, Receptor-Independent Stimulation of Neurosteroid Biosynthesis|journal=PLoS ONE|volume=10|issue=3|pages=e0120473|url=http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0120473 |accessdate=24 December 2016|doi=10.1371/journal.pone.0120473|pmid=25785994|year=2015|bibcode=2015PLoSO..1020473D|pmc=4364751}}</ref> Several studies have shown that the synthesis of neurosteroids is essential to the pharmacological actions of etifoxine. Inhibitors of neurosteroid biosynthesis reverse the anxiolytic and analgesic actions of etifoxine.
+
+== References ==
+{{Reflist}}
+
+{{Anxiolytics}}
+{{GABAAR PAMs}}
+
+[[Category:Anxiolytics]]
+[[Category:Chloroarenes]]
+[[Category:Benzoxazines]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:TSPO ligands]]

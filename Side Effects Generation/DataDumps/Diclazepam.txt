@@ -1,0 +1,70 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 443634166
+| IUPAC_name = 7-Chloro-5-(2-chlorophenyl)-1-methyl-1,3-dihydro-2''H''-1,4-benzodiazepin-2-one
+| image = Diclazepam structure.svg
+| width = 201
+| image2 = Diclazepam molecule ball.png
+
+<!--Clinical data-->
+| legal_CA = Schedule IV
+| legal_DE = Anlage II
+| legal_UK =
+| legal_US =
+| routes_of_administration = Oral, sublingual
+
+<!--Pharmacokinetic data-->
+| bioavailability = ?
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life = ~42 hours<ref name="pmid24604775">{{cite journal | url=http://onlinelibrary.wiley.com/doi/10.1002/dta.1628/abstract | title=Characterization of the designer benzodiazepine diclazepam and preliminary data on its metabolism and pharmacokinetics | journal=Drug Testing and Analysis | vauthors=Moosmann B, Bisel P, Auwärter V | year=July–August 2014 | volume=6 | issue=7–8 | pages=757–63 | doi=10.1002/dta.1628 | pmid=24604775}}</ref>
+| excretion = [[Kidney|Renal]]
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 2894-68-0
+| PubChem = 76168
+| ChemSpiderID = 68652
+
+<!--Chemical data-->
+| C=16 | H=12 | Cl=2 | N=2 | O=1
+| molecular_weight = 319.185 g/mol
+| smiles = CN1C2=C(C=C(C=C2)Cl)C(C3=C(Cl)C=CC=C3)=NCC1=O
+| StdInChI = 1S/C16H12Cl2N2O/c1-20-14-7-6-10(17)8-12(14)16(19-9-15(20)21)11-4-2-3-5-13(11)18/h2-8H,9H2,1H3
+| StdInChIKey = VPAYQWRBBOGGPY-UHFFFAOYSA-N
+}}
+
+'''Diclazepam''' ('''Ro5-3448'''), also known as '''chlorodiazepam''' and '''2'-chloro-diazepam''', is a [[benzodiazepine]]  and [[Functional analog (chemistry)|functional analog]] of [[diazepam]]. It was first synthesized by [[Leo Sternbach]] and his team at Hoffman-La Roche in 1960.<ref>{{Cite patent| country=US | number = 3136815 | title = Amino substituted benzophenone oximes and derivatives thereof}}</ref> It is not currently approved for use as a medication, but rather sold as an unscheduled substance.<ref>{{cite journal | url=http://onlinelibrary.wiley.com/doi/10.1002/dta.2003/abstract | title=Detectability of designer benzodiazepines in CEDIA, EMIT II Plus, HEIA, and KIMS II immunochemical screening assays |author1=Madeleine Pettersson Bergstrand |author2=Anders Helander |author3=Therese Hansson |author4=Olof Beck | journal=Drug Testing and Analysis | date=2016 | doi=10.1002/dta.2003 | pmid=27366870}}</ref><ref>{{cite journal|first1=Gudrun|last1=Høiseth|first2=Silja Skogstad|last2=Tuv|first3=Ritva|last3=Karinen|title=Blood concentrations of new designer benzodiazepines in forensic cases|url=http://www.sciencedirect.com/science/article/pii/S0379073816304121|journal=Forensic Science International|doi=10.1016/j.forsciint.2016.09.006|date=2016|volume=268|pages=35–38|pmid=27685473}}</ref> Efficacy and safety have not been tested in humans.
+
+In animal models, its effects are similar to diazepam, possessing long-acting [[anxiolytic]], [[anticonvulsant]], [[hypnotic]], [[sedative]], [[skeletal muscle relaxant]], and [[amnestic]] properties.{{citation needed|date=August 2015}}
+
+== Metabolism ==
+Metabolism of this compound has been assessed,<ref name="pmid24604775"/> revealing diclazepam has an approximate elimination half-life of 42 hours and undergoes ''N''-demethylation to [[delorazepam]], which can be detected in urine for 6 days following administration of the parent compound.<ref>{{cite journal | vauthors = Bareggi SR, Truci G, Leva S, Zecca L, Pirola R, Smirne S | title = Pharmacokinetics and bioavailability of intravenous and oral chlordesmethyldiazepam in humans | journal = European Journal of Clinical Pharmacology | volume = 34 | issue = 1 | pages = 109–112 | date = 1988 | pmid = 2896126 | doi=10.1007/bf01061430}}</ref> Other metabolites detected were [[lorazepam]] and [[lormetazepam]] which were detectable in urine for 19 and 11 days, respectively, indicating [[hydroxylation]] by [[cytochrome P450]] enzymes occurring concurrently with ''N''-demethylation.
+The protein-binding of this compound has not been analysed but the figures for the metabolites are lorazepam 91.5% (parenterally) & 85% (orally)<ref>http://www.drugbank.ca/drugs/DB00186</ref> and delorazepam >90%.<ref name="drugbank.ca">http://www.drugbank.ca/drugs/DB01511</ref>
+
+== Legal status ==
+
+=== United Kingdom ===
+In the UK, diclazepam has been classified as a [[Drugs controlled by the UK Misuse of Drugs Act|Class C drug]] by the May 2017 amendment to [[Misuse of Drugs Act 1971|The Misuse of Drugs Act 1971]] along with several other benzodiazepine drugs.<ref>{{Cite web|url=http://www.legislation.gov.uk/uksi/2017/634/contents/made|title=The Misuse of Drugs Act 1971 (Amendment) Order 2017|last=|first=|date=|website=|archive-url=|archive-date=|dead-url=|access-date=}}</ref>
+
+== See also ==
+*[[Benzodiazepine]]
+*[[Diazepam]]
+*[[Delorazepam]] (Nordiclazepam)
+*[[Lorazepam]]
+*[[Phenazepam]]
+*[[Ro5-4864]] (4'-Chlorodiazepam)
+
+== References ==
+{{Reflist}}
+
+{{Benzodiazepines}}
+{{Anticonvulsants}}
+{{Anxiolytics}}
+{{GABAAR PAMs}}
+
+[[Category:Abandoned drugs]]
+[[Category:Benzodiazepines]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:Designer drugs]]
+[[Category:Chloroarenes]]

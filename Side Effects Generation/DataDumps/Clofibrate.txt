@@ -1,0 +1,73 @@
+{{Drugbox
+| verifiedrevid = 460043574
+| IUPAC_name = ethyl 2-(4-chlorophenoxy)-2-methylpropanoate
+| image = Clofibrate.svg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|clofibrate}}
+| pregnancy_AU = B1
+| pregnancy_US = C
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US_comment = Discontinued
+| legal_status =  
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = Variable, 92–97% at therapeutic concentrations
+| metabolism = [[Hydrolysis|Hydrolyzed]] to [[clofibric acid]]; [[liver|hepatic]] [[glucuronidation]]
+| elimination_half-life = Highly variable; average 18–22 hours. Prolonged in [[renal failure]]
+| excretion = [[Kidney|Renal]], 95 to 99%
+<!--Identifiers-->
+| IUPHAR_ligand = 2667
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 637-07-0
+| ATC_prefix = C10
+| ATC_suffix = AB01
+| PubChem = 2796
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00636
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2694
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = HPN91K7FU3
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00279
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 3750
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 565
+<!--Chemical data-->
+| C=12 | H=15 | Cl=1 | O=3
+| molecular_weight = 242.698 g/mol
+| smiles = Clc1ccc(OC(C(=O)OCC)(C)C)cc1
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C12H15ClO3/c1-4-15-11(14)12(2,3)16-10-7-5-9(13)6-8-10/h5-8H,4H2,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = KNHUKKLJHYUCFP-UHFFFAOYSA-N
+| boiling_point = 148
+}}
+'''Clofibrate''' (tradename '''Atromid-S''') is an [[organic compound]].  It is marketed as a [[fibrate]]. It is a lipid-lowering agent used for controlling the high cholesterol and [[triacylglyceride]] level in the blood. It increases [[lipoprotein lipase]] activity to promote the conversion of [[VLDL]] to [[LDL]], and hence reduce the level of VLDL. It can increase the level of [[High Density Lipoprotein|HDL]] as well. 
+
+==Complications and controversies==
+It can induce [[syndrome of inappropriate antidiuretic hormone hypersecretion|SIADH]], syndrome of inappropriate secretion of [[vasopressin|antidiuretic hormone ADH]] (vasopressin). Clofibrate can also result in formation of cholesterol stones in the gallbladder.
+
+The [[World Health Organization]] Cooperative Trial on Primary Prevention of [[Ischaemic Heart Disease]] using clofibrate to lower serum [[cholesterol]] observed excess mortality in the clofibrate-treated group despite successful cholesterol lowering (47% more deaths during treatment with clofibrate and 5% after treatment with clofibrate) than the non-treated high cholesterol group. These deaths were due to a wide variety of causes other than heart disease, and remain "unexplained".<ref>{{cite journal |author= |title=WHO cooperative trial on primary prevention of ischaemic heart disease with clofibrate to lower serum cholesterol: final mortality follow-up. Report of the Committee of Principal Investigators |journal=Lancet |volume=2 |issue=8403 |pages=600–4 |date=September 1984 |pmid=6147641 |doi= 10.1016/s0140-6736(84)90595-6|url=}}</ref>
+
+Clofibrate was discontinued in 2002 due to adverse effects.
+
+==References==
+{{Reflist|2}}
+
+
+{{Lipid modifying agents}}
+{{PPAR modulators}}
+
+[[Category:Fibrates]]
+[[Category:Prodrugs]]
+[[Category:Chloroarenes]]
+[[Category:Phenol ethers]]
+
+{{cardiovascular-drug-stub}}

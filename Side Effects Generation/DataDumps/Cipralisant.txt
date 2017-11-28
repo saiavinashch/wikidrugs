@@ -1,0 +1,52 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 407868696
+| IUPAC_name = 5-[(1''S'',2''S'')-2-(5,5-dimethylhex-1-ynyl)cyclopropyl]-1''H''-imidazole
+| image = Cipralisant structure.svg
+| width = 280px
+
+<!--Clinical data-->
+| tradename =  
+| routes_of_administration =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 213027-19-1
+| ATC_prefix = none 
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 309713XSKW
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 278462
+|  PubChem = 10512919
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 8688320
+|  smiles = C(#CCCC(C)(C)C)[C@H]2C[C@@H]2c1cncn1
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C14H20N2/c1-14(2,3)7-5-4-6-11-8-12(11)13-9-15-10-16-13/h9-12H,5,7-8H2,1-3H3,(H,15,16)/t11-,12-/m0/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = CVKJAXCQPFOAIN-RYUDHWBXSA-N
+
+<!--Chemical data-->
+| C=14 | H=20 | N=2 
+| molecular_weight = 216.32 g/mol
+}}
+
+'''Cipralisant''' ('''GT-2331''', tentative trade name '''Perceptin''') is an extremely potent [[Histamine H3 receptor|Histamine H<sub>3</sub> receptor]] ligand originally developed by Gliatech.<ref>{{cite journal|doi=10.1016/j.ejphar.2005.10.066 | volume=529 | issue=1-3 | title=Detailed pharmacological characterization of GT-2331 for the rat histamine H3 receptor | year=2006 | journal=European Journal of Pharmacology | pages=40–46 | last1 = Ito | first1 = Sayaka | last2 = Yoshimoto | first2 = Ryo | last3 = Miyamoto | first3 = Yasuhisa | last4 = Mitobe | first4 = Yuko | last5 = Nakamura | first5 = Takao | last6 = Ishihara | first6 = Akane | last7 = MacNeil | first7 = Douglas J. | last8 = Kanatani | first8 = Akio | last9 = Tokita | first9 = Shigeru}}</ref> Cipralisant was initially classified as a selective H<sub>3</sub> [[Receptor antagonist|antagonist]],<ref name="pmid9721022">{{cite journal |vauthors=Tedford CE, Hoffmann M, Seyedi N |title=High antagonist potency of GT-2227 and GT-2331, new histamine H3 receptor antagonists, in two functional models |journal=Eur. J. Pharmacol. |volume=351 |issue=3 |pages=307–311 |date=June 1998  |pmid=9721022 |doi=10.1016/S0014-2999(98)00396-3|display-authors=etal}}</ref> but newer research (2005) suggests also [[agonist]] properties, i.&nbsp;e. [[functional selectivity]].<ref name="pmid15821027" /> Cipralisant seemed to be well tolerated during early testing, entering Phase II trials for [[ADHD]] in 2000.<ref>Evaluate group: [http://www.evaluategroup.com/Universal/View.aspx?type=Story&id=7585 Gliatech Announces Initiation of Perceptin Phase II Clinical Trial].</ref>
+
+The relatively recent cloning of human H<sub>3</sub> receptor, as well as the discovery of its constitutive activity provided the ability to better assess the activity of H<sub>3</sub> receptor ligands. Consequently, cipralisant was reassessed as an H<sub>3</sub> receptor agonist in human and rat recombinant systems, showing [[functional selectivity]] and stimulating one type of [[Signal transduction#G-protein-coupled receptors|G-protein coupled pathway]] while failing to activate other intracellular pathways.<ref name="pmid15821027">{{cite journal | last1 = Krueger | first1 = KM | last2 = Witte | first2 = DG | last3 = Ireland-Denny | first3 = L | last4 = Miller | first4 = TR | last5 = Baranowski | first5 = JL | last6 = Buckner | first6 = S | last7 = Milicic | first7 = I | last8 = Esbenshade | first8 = TA | last9 = Hancock | first9 = AA | title = G protein-dependent pharmacology of histamine H3 receptor ligands: evidence for heterogeneous active state receptor conformations | journal = The Journal of Pharmacology and Experimental Therapeutics | volume = 314 | issue = 1 | pages = 271–81 | year = 2005 | pmid = 15821027 | doi = 10.1124/jpet.104.078865  }}</ref>
+
+Gliatech filed for bankruptcy in 2002, and its intellectual property was inherited by [[Merck & Co.|Merck]]. The development of cipralisant seems to have been suspended since 2003 but research is ongoing, and recently it has been shown that it is the (1''S'',2''S'')-enantiomer which is the biologically active one.<ref>[http://pubs.acs.org/cgi-bin/abstract.cgi/joceah/2004/69/i01/abs/jo035264t.html An Efficient Multigram Synthesis of the Potent Histamine H3 Antagonist GT-2331 and the Reassessment of the Absolute Configuration]</ref>
+
+==References==
+<references/>
+
+{{Histaminergics}}
+
+[[Category:Cyclopropanes]]
+[[Category:Histamine agonists]]
+[[Category:Imidazoles]]
+
+
+{{nervous-system-drug-stub}}

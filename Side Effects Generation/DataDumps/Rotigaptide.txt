@@ -1,0 +1,58 @@
+{{Chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464383922
+| ImageFile = Rotigaptide.svg
+| ImageSize = 200px
+| IUPACName = ''N''-Acetyl-<small>D</small>-tyrosyl-<small>D</small>-prolyl-(4''S'')-4-hydroxy-<small>D</small>-prolylglycyl-<small>D</small>-alanylglycinamide
+| OtherNames = 
+|Section1={{Chembox Identifiers
+| CASNo = 355151-12-1
+| CASNo_Ref = {{cascite|changed|??}}
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C28H39N7O9/c1-15(25(41)30-12-23(29)39)32-24(40)13-31-26(42)22-11-19(38)14-35(22)28(44)21-4-3-9-34(21)27(43)20(33-16(2)36)10-17-5-7-18(37)8-6-17/h5-8,15,19-22,37-38H,3-4,9-14H2,1-2H3,(H2,29,39)(H,30,41)(H,31,42)(H,32,40)(H,33,36)/t15-,19+,20-,21-,22-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GFJRASPBQLDRRY-TWTQBQJDSA-N
+| PubChem = 9938933
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 8114558
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 450656
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = GFA1W6KO7N
+| SMILES = O=C(N1[C@@H](C(=O)NCC(=O)N[C@@H](C(=O)NCC(=O)N)C)C[C@H](O)C1)[C@@H]3N(C(=O)[C@H](NC(=O)C)Cc2ccc(O)cc2)CCC3
+| InChI = InChI=1S/C28H39N7O9/c1-15(25(41)30-12-23(29)39)32-24(40)13-31-26(42)22-11-19(38)14-35(22)28(44)21-4-3-9-34(21)27(43)20(33-16(2)36)10-17-5-7-18(37)8-6-17/h5-8,15,19-22,37-38H,3-4,9-14H2,1-2H3,(H2,29,39)(H,30,41)(H,31,42)(H,32,40)(H,33,36)/t15-,19+,20-,21-,22-/m1/s1
+  }}
+|Section2={{Chembox Properties
+| C=28 | H=39 | N=7 | O=9
+| Appearance = 
+| Density = 
+| MeltingPt = 
+| BoilingPt = 
+| Solubility =
+  }}
+|Section3={{Chembox Hazards
+| MainHazards = 
+| FlashPt = 
+| AutoignitionPt =
+  }}
+}}
+'''Rotigaptide''' ('''ZP-123''') is a drug currently under clinical investigation for the treatment of [[cardiac arrhythmia]]s – specifically [[atrial fibrillation]]. It is a [[peptide]] analog that has been shown to increase [[gap junction]] intercellular conductance in [[cardiac muscle cell]]s.<ref name=intro>Shiroshita-Takeshita A, Sakabe M, Haugan K, Hennan J, Nattel S (2007). Model- Dependent Effects of the Gap Junction Conduction–Enhancing Antiarrhythmic Peptide Rotigaptide (ZP123) on Experimental Atrial Fibrillation in Dogs. ''Circulation''. '''115:''' 310- 318.</ref> Gap junctions are protein channels that are responsible for conducting electrical impulses between cells in the heart to maintain normal rhythm.  Gap junction modulation is a promising and novel mechanism of action for the treatment of cardiovascular disorders.<ref name=intro/> Its peptide sequence is Ac-D-Tyr-D-Pro-D-Hyp-Gly-D-Ala-Gly-NH2.
+
+== Indications ==
+Rotigaptide is being studied for its antiarrhythmic effects, specifically for treating atrial fibrillation.<ref name=indi>Guerra J, Everett T, Lee K, Wilson E, Olgin J (2006). Effects of the Gap Junction Modifier Rotigaptide (ZP123) on Atrial Conduction and Vulnerability to Atrial Fibrillation. ''Circulation''. '''114:''' 110-118.</ref> [[Atrial fibrillation]] is an irregular and often rapid heart rhythm. The irregular rhythm, results from abnormal electrical impulses in the heart. The irregularity can be continuous or intermittent. In atrial fibrillation, multiple impulses travel through the atria at the same time. Instead of a coordinated contraction, the atrial contractions are irregular, disorganized and very rapid.<ref name=indi/> These irregular impulses reach the [[AV node]] in rapid succession, but not all of them make it past the AV node. Therefore, the ventricles beat slower in an irregular rhythm. The resulting rapid, irregular heartbeat causes an irregular pulse and sometimes a sensation of fluttering in the chest.
+
+== Mechanism of action ==
+[[Image:Gap_cell_junction-en.svg|thumb|A [[gap junction]] in a cell membrane]]
+The exact [[mechanism of action]] of rotigaptide is not completely understood. However, rotigaptide is believed to exert its effects on [[cardiomyocyte]] gap junctions through [[phosphorylation]] events. Each gap junction is composed of a series of [[connexons]] in close proximity to each other. Each connexon is made up of 6 functional units ([[connexins]]) that associate together to form a channel between adjacent cells.<ref>Verheule S, van Kempen MJ, te Welscher PH, Kwak BR, Jongsma HJ (1997). Characterization of gap junction channels in adult rabbit atrial and ventricular myocardium. ''Circulation Research''. '''80(5):''' 673-681.</ref> Rotigaptide acts at connexins, preferentially to connexin 43 (Cx43).<ref>Hennan K, Swillo R, Morgan G, Keith J, Schaub R, Smith R, Feldman H, Haugan K, Kantrowitz J, Wang P, Abu-Qare A, Butera J, Larsen B, Crandall D (2006). Rotigaptide (ZP123) Prevents Spontaneous Ventricular Arrhythmias and Reduces Infarct Size During Myocardial Ischemia/Reperfusion Injury in Open-Chest Dogs. ''JPET''. '''317:''' 236– 243.</ref> Treatment with rotigaptide has been shown to activate various [[protein kinase C]] (PKC) isoforms to cause the phosphorylation of Cx43, which aids in proper function of the connexon.<ref>Axelsen L, Stahlhut M, Mohammed S, Due Larsen B, Nielsen M, Holstein-Rathlou NH, Søren Andersen, Jensen O, Hennan J, Kjølbye A (2006). Identification of ischemia-regulated phosphorylation sites in connexin43: A possible target for the antiarrhythmic peptide analogue rotigaptide (ZP123). ''Journal of Molecular and Cellular Cardiology.'' '''40:''' 790-798.</ref> This allows for a smoother conduction to pass through the myocytes to propagate a synchronous contraction.<ref>Clarke T, Thomas D, Petersen J, Evans W, Martin P (2006). The antiarrhythmic peptide rotigaptide (ZP123) increases gap junction intercellular communication in cardiac myocytes and HeLa cells expressing connexin 43. ''British Journal of Pharmacology''. '''147:''' 486–495.</ref> This has been shown to reduce the occurrence of atrial fibrillation.<ref name=indi/>
+
+== Limitations ==
+A potential limitation for this drug is that animals being used for studies are most commonly anesthetized with [[isoflurane]], which has been shown to be a partial gap junction uncoupler and thus would negate the effects of rotigaptide.<ref>Mantz J, Cordier J, Giaume C (1993). Effects of general anesthetics on inter-cellular communications mediated by gap junctions between astrocytes in primary culture. ''Anesthesiology''. '''78:''' 892–901.</ref> However, this effect can be only minor, as one study showed that a low dose of isoflurane was kept continuous over the progression of the study, indicating that the dose was not high enough to uncouple rotigaptide. Therefore, it may be unlikely that isoflurane plays a role in the results presented.<ref name=indi/>
+
+== References ==
+<!--- See http://en.wikipedia.org/wiki/Wikipedia:Footnotes on how to create references using <ref></ref> tags which will then appear here automatically -->
+{{Reflist|2}}
+
+[[Category:Articles created via the Article Wizard]]
+[[Category:Peptides]]
+[[Category:Antiarrhythmic agents]]

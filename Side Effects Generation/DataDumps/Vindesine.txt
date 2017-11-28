@@ -1,0 +1,62 @@
+{{Drugbox
+| verifiedrevid = 470630451
+| IUPAC_name = methyl (5''S'',7''S'',9''S'')- 9-[(2β,3β,4β,5α,12β,19α)- 3-(aminocarbonyl)- 3,4-dihydroxy- 16-methoxy- 1-methyl- 6,7-didehydroaspidospermidin- 15-yl]- 5-ethyl- 5-hydroxy- 1,4,5,6,7,8,9,10-octahydro- 2''H''- 3,7-methanoazacycloundecino[5,4-''b'']indole- 9-carboxylate
+| image = Vindesin.svg
+| image2 = Vindesine ball-and-stick animation.gif
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|vindesine}}
+| pregnancy_AU = D
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_status = Rx-only
+| routes_of_administration = [[Intravenous therapy|Intravenous]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 65-75%
+| metabolism = [[Liver|Hepatic]] ([[CYP3A4]]-mediated)
+| elimination_half-life = 24 hours
+| excretion = Biliary and [[Kidney|renal]]
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 59917-39-4
+| ATC_prefix = L01
+| ATC_suffix = CA03
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 219146
+| PubChem = 40839
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00309
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 37302
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = RSA8KO39WH
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01769
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 36373
+
+<!--Chemical data-->
+| C=43 | H=55 | N=5 | O=7 
+| molecular_weight = 753.926 g/mol
+| smiles = O=C(OC)[C@]4(c2c(c1ccccc1n2)CCN3C[C@](O)(CC)C[C@@H](C3)C4)c5c(OC)cc6c(c5)[C@@]89[C@@H](N6C)[C@@](O)(C(=O)N)[C@H](O)[C@@]7(/C=C\CN([C@@H]78)CC9)CC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C43H55N5O7/c1-6-39(52)21-25-22-42(38(51)55-5,33-27(13-17-47(23-25)24-39)26-11-8-9-12-30(26)45-33)29-19-28-31(20-32(29)54-4)46(3)35-41(28)15-18-48-16-10-14-40(7-2,34(41)48)36(49)43(35,53)37(44)50/h8-12,14,19-20,25,34-36,45,49,52-53H,6-7,13,15-18,21-24H2,1-5H3,(H2,44,50)/t25-,34+,35-,36-,39+,40-,41-,42+,43+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = HHJUWIANJFBDHT-KOTLKJBCSA-N
+}}
+
+'''Vindesine''' is an [[mitotic inhibitor|anti-mitotic]] [[vinca alkaloid]] used in [[chemotherapy]]. It is used to treat many different types of cancer, including [[leukaemia]], [[lymphoma]], [[melanoma]], [[breast cancer]], and [[lung cancer]].
+
+== References ==
+{{Reflist}}
+
+{{Chemotherapeutic agents}}
+
+[[Category:Vinca alkaloids]]
+[[Category:Mitotic inhibitors]]
+
+{{antineoplastic-drug-stub}}

@@ -1,0 +1,74 @@
+{{Drugbox
+| IUPAC_name = 2-methyl-3-(2-methoxy-4-nitrophenyl)-4(3H)-quinazolinone
+| image = Nitromethaqualone.svg
+| width = 200
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number = 340-52-3
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 63339
+| DrugBank =  
+| ChemSpiderID = 57006
+
+<!--Chemical data-->
+| C=16 | H=13 | N=3 | O=4 
+| molecular_weight = 311.29
+| smiles = O=C1C2=CC=CC=C2N=C(N1C3=C(OC)C=C(N(=O)=O)C=C3)C
+}}
+
+'''Nitromethaqualone'''<ref>{{ cite patent | country = US | number = 3162634 | status = patent | gdate = 1964-12-22 | title = 2-Methyl-3-(2'-methyl-3'-chlorphenyl)-quinazolone-(4) | inventor = Klosa, J. (Berlin, Germany) }}</ref> is an analogue of [[methaqualone]] that has similar [[sedative]] and [[hypnotic]] properties.<ref>{{Cite journal 
+| last1 = Szirmai | first1 = A. 
+| title=(title in German)
+| trans_title = Pharmacological and Therapeutic Studies with a New Quinazolone Derivative, Nitromethaqualone 
+| language = German 
+| journal = Therapeutische Umschau 
+| volume = 20 
+| pages = 542–546 
+| year = 1963 
+| pmid = 14101319
+}}</ref>
+It is significantly more potent (10x) compared to the parent compound; the typical dose is approximately 25&nbsp;mg.<ref name=Boven>{{Cite journal 
+| last1 = van Boven | first1 = M. 
+| last2 = Daenens   | first2 = P. 
+| title = Biotransformation and Excretion of Nitromethaqualone in Rats and Humans 
+| journal = Journal of Pharmaceutical Sciences 
+| volume = 71 
+| issue = 10 
+| pages = 1152–1157 
+| year = 1982 
+| doi = 10.1002/jps.2600711019
+| pmid = 7143214
+}}</ref> However, the aromatic nitro group is metabolised to the corresponding aniline, which proved to be a [[mutagen]].<ref name=Boven/> As a consequence, nitromethaqualone was not developed further due to toxicity concerns.
+
+== References ==
+{{reflist}}
+
+{{Sedatives}}
+{{GABAAR PAMs}}
+
+[[Category:Sedatives]]
+[[Category:Quinazolinones]]
+[[Category:GABAA receptor positive allosteric modulators]]
+
+
+{{sedative-stub}}

@@ -1,0 +1,74 @@
+{{chembox
+| Verifiedfields = changed
+| verifiedrevid = 464216026
+| ImageFile = propamidine.png
+| ImageSize = 240px
+| ImageName = Skeletal formula
+| ImageFile1 = Propamidine-3D-balls.png
+| ImageSize1 = 240px
+| ImageName1 = Ball-and-stick model
+| IUPACName = 4,4'-[propane-1,3-diylbis(oxy)]dibenzenecarboximidamide
+| OtherNames =
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = G20G12V769
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 58475
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 87462
+| InChI = 1/C17H20N4O2/c18-16(19)12-2-6-14(7-3-12)22-10-1-11-23-15-8-4-13(5-9-15)17(20)21/h2-9H,1,10-11H2,(H3,18,19)(H3,20,21)
+| InChIKey = WTFXJFJYEJZMFO-UHFFFAOYAO
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 23013
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H20N4O2/c18-16(19)12-2-6-14(7-3-12)22-10-1-11-23-15-8-4-13(5-9-15)17(20)21/h2-9H,1,10-11H2,(H3,18,19)(H3,20,21)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WTFXJFJYEJZMFO-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|changed|??}}
+| CASNo=104-32-5
+| CASNo2_Ref = {{cascite|changed|??}}
+| CASNo2 = 140-63-6
+| CASNo2_Comment = (isethionate)
+| PubChem=64949
+| SMILES = O(c1ccc(cc1)C(=[N@H])N)CCCOc2ccc(C(=[N@H])N)cc2
+}}
+|Section2={{Chembox Properties
+| Formula = C<sub>17</sub>H<sub>20</sub>N<sub>4</sub>O<sub>2</sub>
+| MolarMass=312.37 g/mol
+| Appearance=
+| Density=
+| MeltingPt=
+| BoilingPt=
+| Solubility=
+  }}
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = D08
+| ATCCode_suffix = AC03
+| ATC_Supplemental = {{ATC|S01|AX15}}
+}}
+|Section7={{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| AutoignitionPt=
+  }}
+}}
+
+'''Propamidine''' is an [[antiseptic]] and [[disinfectant]].
+
+Propamidine isethionate, the [[salt (chemistry)|salt]] of propamidine with [[isethionic acid]], is used in the treatment of ''[[Acanthamoeba]]'' infection.<ref name="pmid7726493">{{cite journal |vauthors=Perrine D, Chenu JP, Georges P, Lancelot JC, Saturnino C, Robba M |title=Amoebicidal efficiencies of various diamidines against two strains of Acanthamoeba polyphaga |journal=Antimicrob. Agents Chemother. |volume=39 |issue=2 |pages=339–42 |date=February 1995 |pmid=7726493 |pmc=162538 |doi= 10.1128/aac.39.2.339|url=http://aac.asm.org/cgi/pmidlookup?view=long&pmid=7726493}}</ref>
+
+==References==
+{{reflist}}
+
+{{Antiseptics and disinfectants}}
+{{Agents against amoebozoa}}
+
+[[Category:Amidines]]
+[[Category:Antiseptics]]
+[[Category:Antiparasitic agents]]
+[[Category:Phenol ethers]]
+
+
+{{Natural-phenol-stub}}
+{{antiinfective-drug-stub}}
+{{dermatologic-drug-stub}}

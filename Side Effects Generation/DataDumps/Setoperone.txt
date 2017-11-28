@@ -1,0 +1,85 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 449587261
+| ImageFile=Setoperone.svg
+| ImageSize=250px
+| IUPACName=6-[2-[4-(4-fluorobenzoyl)piperidin-1-yl]ethyl]-7-methyl-2,3-dihydro-[1,3]thiazolo[3,2-a]pyrimidin-5-one
+| OtherNames=
+
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = BQ67CS3Q3E
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo=86487-64-1
+| PubChem=68604
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02686
+| SMILES=CC1=C(C(=O)N2CCSC2=N1)CCN3CCC(CC3)C(=O)C4=CC=C(C=C4)F
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 61870
+| InChI = 1/C21H24FN3O2S/c1-14-18(20(27)25-12-13-28-21(25)23-14)8-11-24-9-6-16(7-10-24)19(26)15-2-4-17(22)5-3-15/h2-5,16H,6-13H2,1H3
+| InChIKey = RBGAHDDQSRBDOG-UHFFFAOYAH
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C21H24FN3O2S/c1-14-18(20(27)25-12-13-28-21(25)23-14)8-11-24-9-6-16(7-10-24)19(26)15-2-4-17(22)5-3-15/h2-5,16H,6-13H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = RBGAHDDQSRBDOG-UHFFFAOYSA-N
+  }}
+
+|Section2={{Chembox Properties
+| Formula=C<sub>21</sub>H<sub>24</sub>FN<sub>3</sub>O<sub>2</sub>S
+| MolarMass=401.50 g/mol
+| Appearance=
+| Density=
+| MeltingPt=
+| BoilingPt=
+| Solubility=
+  }}
+
+|Section3={{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| AutoignitionPt =
+  }}
+}}
+
+'''Setoperone''' is a compound that is a [[ligand]] to the [[5-HT2A receptor|5-HT<sub>2A</sub> receptor]].
+It can be radiolabeled with the [[radioisotope]] [[fluorine-18]] and used as a [[radioligand]] with [[positron emission tomography]] (PET).
+Several research studies have used the radiolabeled setoperone in [[neuroimaging]]  for the studying [[neuropsychiatric disorder]]s, such as [[depression (mood)|depression]]<ref>{{Cite journal
+| author = [[Jeffrey H. Meyer]], Shitij Kapur, [[Sylvain Houle]], Jean DaSilva, Beata Owczarek, Gregory M. Brown, Alan A. Wilson and Sidney H. Kennedy
+| title = Prefrontal Cortex 5-HT2 Receptors in Depression: An &#91;<sup>18</sup>F&#93;Setoperone PET Imaging Study
+| journal = [[American Journal of Psychiatry]]
+| volume = 156
+| pages = 1029–1034
+| url = http://ajp.psychiatryonline.org/cgi/content/full/156/7/1029
+| pmid = 10401447
+| issue = 7
+| date = July 1, 1999 | doi = 10.1176/ajp.156.7.1029
+| doi-broken-date = 2017-08-13
+}}</ref>
+or [[schizophrenia]].<ref>{{Cite journal
+| author = Ralph Lewis, Shitij Kapur, Corey Jones, Jean DaSilva, Gregory M. Brown, Alan A. Wilson, [[Sylvain Houle]] and Robert B. Zipursky
+| title = Serotonin 5-HT<sub>2</sub> Receptors in Schizophrenia: A PET Study Using &#91;<sup>18</sup>F&#93;Setoperone in Neuroleptic-Naive Patients and Normal Subjects
+| journal = [[American Journal of Psychiatry]]
+| volume = 156
+| pages = 72–78
+| url = http://ajp.psychiatryonline.org/cgi/content/abstract/156/1/72
+| pmid = 9892300
+| issue = 1
+| date = January 1, 1999 | doi = 10.1176/ajp.156.1.72
+}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Antipsychotics}}
+
+[[Category:5-HT2A antagonists]]
+[[Category:Abandoned drugs]]
+[[Category:Aromatic ketones]]
+[[Category:Fluoroarenes]]
+[[Category:Piperidines]]
+[[Category:Receptor modulators]]
+[[Category:Thiazolopyrimidines]]
+
+{{nervous-system-drug-stub}}

@@ -1,0 +1,70 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 444434892
+| IUPAC_name = ''N''α-[(1-<nowiki/>{[(6-methyl-1-benzothien-2-yl)carbonyl]amino}cyclopentyl)carbonyl]-''N''-<nowiki/>{[1-(tetrahydro-2''H''-pyran-4-ylmethyl)piperidin-4-yl]methyl}-<small>D</small>-phenylalaninamide
+| image = Ibodutant_structure.svg
+| width = 150px
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_category =  
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 2117
+| CAS_number =  
+| ATC_prefix = none
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem = 11527495
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 1H7RSQ28BJ
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 9702281
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C37H48N4O4S/c1-26-9-10-30-23-33(46-32(30)21-26)35(43)40-37(15-5-6-16-37)36(44)39-31(22-27-7-3-2-4-8-27)34(42)38-24-28-11-17-41(18-12-28)25-29-13-19-45-20-14-29/h2-4,7-10,21,23,28-29,31H,5-6,11-20,22,24-25H2,1H3,(H,38,42)(H,39,44)(H,40,43)/t31-/m1/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = YQYSVMKCMIUCHY-WJOKGBTCSA-N
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=37 | H=48 | N=4 | O=4 | S=1 
+| molecular_weight = 644.866 g/mol
+| smiles = CC1=CC2=C(C=C1)C=C(S2)C(=O)NC3(CCCC3)C(=O)NC(CC4=CC=CC=C4)C(=O)NCC5CCN(CC5)CC6CCOCC6
+| synonyms = 6-methyl-''N''-[1-[{{bracket|(2''R'')-1-[{{bracket|1-(oxan-4-ylmethyl)piperidin-4- yl}}methylamino]-1-oxo-3-phenylpropan-2-yl}}carbamoyl]cyclopentyl]-1-benzothiophene-2-carboxamide
+}}
+
+'''Ibodutant''' is a candidate drug for [[irritable bowel syndrome]] diarrhea, developed by The [[Menarini]] Group. {{As of|2015|March}}, it is undergoing a multicentre double blind efficacy clinical [[Clinical trial|study]]. Ibodutant selectively blocks the [[tachykinin receptor]] [[NK2 receptor|NK<sub>2</sub>]], with blockade practically complete in nano[[molar concentration|molar]] concentrations.  A phase 2 trial in Europe(the IRIS-2 trial) completed in May 2012 with positive results.  A 52-week phase 3 study in women is ongoing.<ref>{{Cite web|url = http://www.menarini.com/Home/Innovation-Research/Clinical-studies/Clinical-Trials-Database|title = CLINICAL TRIALS DATABASE|date = |accessdate = 11 March 2015|website = |publisher = Menarini Group}}</ref>
+
+==See also==
+* [[GR-159,897]]
+* [[Nepadutant]]
+* [[Saredutant]]
+
+==References==
+{{Reflist}}
+* {{cite journal | author = H. Spreitzer | date = May 26, 2008 | title = Neue Wirkstoffe - Ibodutant | journal = Österreichische Apothekerzeitung | issue = 11/2008 | pages = 541 | language = German}}
+* {{cite journal |author1=S. Giuliani |author2=M. Altamura |author3=C. A. Maggi | title = Ibodutant. Tachykinin NK<sub>2</sub> receptor antagonist, Treatment of irritable bowel syndrome. | journal = Drugs of the Future | volume = 33 | issue = 2 | pages = 111–115}}
+
+{{Neurokinin receptor modulators}}
+
+[[Category:Tachykinin receptor antagonists]]
+[[Category:NK2 receptor antagonists]]
+[[Category:Benzothiazoles]]
+[[Category:Carboxamides]]
+[[Category:Piperidines]]
+[[Category:Tetrahydropyrans]]
+[[Category:Cyclopentanes]]
+
+
+{{nervous-system-drug-stub}}

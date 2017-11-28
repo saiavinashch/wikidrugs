@@ -1,0 +1,80 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 388986736
+| IUPAC_name = 1,2,3,6-Tetrahydro-2,6-dioxo-4-pyrimidinecarboxylic acid
+| image = Orotic acid.svg
+| width = 150px
+<!--Clinical data-->
+| tradename = 
+| Drugs.com = {{drugs.com|international|orotic-acid}}
+| pregnancy_category = 
+| legal_status = 
+| routes_of_administration =
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life =
+<!--Identifiers-->
+| IUPHAR_ligand = 4690
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 65-86-1
+| ATC_prefix = none
+| ATC_suffix = 
+| ATC_supplemental = 
+| PubChem = 967
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB02262
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 61H4T033E5
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = C00295
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 942
+| smiles            = O=C(O)\C1=C\C(=O)NC(=O)N1
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C5H4N2O4/c8-3-1-2(4(9)10)6-5(11)7-3/h1H,(H,9,10)(H2,6,7,8,11)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = PXQPEWDEAKTCGB-UHFFFAOYSA-N
+<!--Chemical data-->
+| C=5 | H=4 | N=2 | O=4
+| molecular_weight = 156.10 g/mol
+}}
+
+'''Orotic acid''' is a [[heterocyclic compound]] and an [[acid]]; it is also known as '''pyrimidinecarboxylic acid'''.  Historically it was believed to be part of the [[vitamin B]] complex and was called '''vitamin B<sub>13</sub>''', but it is now known that it is not a [[vitamin]].
+
+The compound is manufactured in the body via a mitochondrial enzyme, [[dihydroorotate dehydrogenase]]<ref>{{cite journal | pmid = 10727948 | year = 2000 | author1 = Rawls | first1 = J | title = Requirements for the mitochondrial import and localization of dihydroorotate dehydrogenase | journal = European Journal of Biochemistry / FEBS | volume = 267 | issue = 7 | pages = 2079–87 | last2 = Knecht | first2 = W | last3 = Diekert | first3 = K | last4 = Lill | first4 = R | last5 = Löffler | first5 = M | doi=10.1046/j.1432-1327.2000.01213.x}}</ref> or a cytoplasmic enzyme of [[Pyrimidine metabolism|pyrimidine synthesis pathway]]. It is sometimes used as a [[mineral carrier]] in some [[dietary supplements]] (to increase their [[bioavailability]]), most commonly for [[lithium orotate]].
+
+==Synthesis==
+[[Dihydroorotate]] is synthesized to orotic acid by the [[enzyme]] dihydroorotate dehydrogenase, where it later combines with [[phosphoribosyl pyrophosphate]] (PRPP) to form [[Orotidine 5'-monophosphate|orotidine-5'-monophosphate]] (OMP). A distinguishing characteristic of [[pyrimidine synthesis]] is that the pyrimidine ring is fully synthesized before being attached to the [[ribose sugar]], whereas purine synthesis happens by building the base directly on the sugar.<ref>{{cite book | author = Lippincott | title = Biochemistry | edition = 4th | date = 2008}}</ref>
+==Uses==
+*A physical known use of orotic acid is in the synthesis of [[Orotirelin]].
+
+==Safety==
+Orotic acid can be [[mutagen]]ic in mammalian somatic cells. It is also mutagenic for bacteria and yeast.<ref>[http://www.sciencelab.com/msds.php?msdsId=9926339 Orotic acid MSDS]</ref>
+
+==Pathology==
+A buildup of orotic acid can lead to [[orotic aciduria]] and acidemia. It may be a symptom of an increased [[ammonia]] load due to a [[metabolic disorder]], such as a [[urea cycle disorder]]. 
+ 
+In [[ornithine transcarbamoylase deficiency]], an X-linked inherited  and the most common urea cycle disorder, excess carbamoyl phosphate is converted into orotic acid. This leads to an increased serum ammonia level, increased serum and urinary orotic acid levels and a decreased serum [[blood urea nitrogen]] level. This also leads to an increased urinary orotic acid excretion, because the orotic acid is not being properly utilized and must be eliminated. The hyperammonemia depletes alpha-ketoglutarate leading to the inhibition of the [[tricarboxylic acid cycle]] (TCA) decreasing [[adenosine triphosphate]] (ATP) production.
+
+Orotic aciduria is a cause of megaloblastic anaemia.
+
+==See also==
+* [[Magnesium orotate]]
+* [[Pyrimidine biosynthesis]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Commons category|Orotic acid}}
+* {{MeshName|Orotic+Acid}}
+* {{cite journal | doi = 10.1021/ja01652a056| title = Potential Metabolic Antagonists of Orotic Acid: 6-Uracilsulfonamide and 6-Uracil Methyl Sulfone1| journal = Journal of the American Chemical Society| volume = 76| issue = 23| pages = 6052–6054| year = 1954| last1 = Greenbaum| first1 = Sheldon B.}}
+
+{{Nucleotide metabolism intermediates}}
+
+{{DEFAULTSORT:Orotic Acid}}
+[[Category:Pyrimidinediones]]
+[[Category:Carboxylic acids]]

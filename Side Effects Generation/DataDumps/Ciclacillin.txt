@@ -1,0 +1,75 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 460035351
+| IUPAC_name = (2''S'',5''R'',6''R'')-6-{[(1-aminocyclohexyl)carbonyl]amino}- 3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane- 2-carboxylic acid
+| image = Ciclacillin.svg
+| drug_name =
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|cyclacillin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_CA = <!--                             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability = Moderate
+| protein_bound = <25%
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| IUPHAR_ligand = 4817
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 3485-14-1
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 19003
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01000
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 17941
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 72ZJ154X86
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01334
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 31444
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1200356
+<!--Chemical data-->
+| C=15 | H=23 | N=3 | O=4 | S=1
+| molecular_weight = 341.425 g/mol
+| smiles = O=C(O)[C@@H]2N3C(=O)[C@@H](NC(=O)C1(N)CCCCC1)[C@H]3SC2(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C15H23N3O4S/c1-14(2)9(12(20)21)18-10(19)8(11(18)23-14)17-13(22)15(16)6-4-3-5-7-15/h8-9,11H,3-7,16H2,1-2H3,(H,17,22)(H,20,21)/t8-,9+,11-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = HGBLNBBNRORJKI-WCABBAIRSA-N
+}}
+'''Ciclacillin''' ([[International Nonproprietary Name|INN]]) or '''cyclacillin''' ([[United States Adopted Name|USAN]]), trade names '''Cyclapen''', '''Cyclapen-W''', '''Vastcillin''', and others, is an [[aminopenicillin]] [[antibiotic]]. Its spectrum of activity is similar to that of [[ampicillin]], although it is less susceptible to [[beta-lactamase]]s than ampicillin and has much higher [[bioavailability]].<ref>{{cite journal |author=Warren GH |title=Cyclacillin: microbiological and pharmacological properties and use in chemotherapy of infection - a critical appraisal |journal=Chemotherapy |volume=22 |issue=3–4 |pages=154–82 |year=1976 |pmid=773605 |doi= 10.1159/000221924|url=}}</ref> A large [[randomized]], [[double-blind]] [[clinical trial]] published in 1978 also showed that ciclacillin is associated with [[statistical significance|significantly]] fewer and milder [[adverse drug reaction|adverse effects]] than ampicillin;<ref>{{cite journal |vauthors=Gold JA, Hegarty CP, Deitch MW, Walker BR |title=Double-blind clinical trials of oral cyclacillin and ampicillin |journal=[[Antimicrobial Agents and Chemotherapy|Antimicrob Agents Chemother]] |volume=15 |issue=1 |pages=55–8 |date=January 1979 |pmid=371540 |pmc=352600 |doi= 10.1128/aac.15.1.55|url=http://aac.asm.org/cgi/pmidlookup?view=long&pmid=371540}}</ref> later studies seemed to confirm this improved tolerability, at least in children.<ref>{{cite journal |vauthors=McLinn SE, Goldberg F, Kramer R, Saltstein E, Bomze JP, Deitch MW |title=Double-blind multicenter comparison of cyclacillin and amoxicillin for the treatment of acute otitis media |journal=J Pediatr |volume=101 |issue=4 |pages=617–21 |date=October 1982 |pmid=6750067 |doi= 10.1016/S0022-3476(82)80724-5|url=}}</ref><ref>{{cite journal |vauthors=McLinn SE, Kaplan J, West N |title=Multicenter comparison of cyclacillin and amoxicillin in the treatment of acute streptococcal pharyngitis |journal=Clin Ther |volume=5 |issue=3 |pages=299–304 |year=1983 |pmid=6342785 |doi= |url=}}</ref>
+
+Ciclacillin has been superseded by newer antibiotics and is no longer in clinical use, at least in the United States.<ref>{{cite book |vauthors=Gorbach SL, Bartlett JG, Blacklow NR |title=Infectious diseases |edition=3rd |publisher=[[Lippincott Williams & Wilkins]] |location=Hagerstown, MD |year=2004 |pages=186 |isbn=0-7817-3371-5 |url=https://books.google.com/books?id=_eHyE9lRw7oC}} Retrieved on September 7, 2008 through [[Google Book Search]].</ref>
+
+==Synthesis==
+In an attempt to form orally active penicillins unrelated to [[ampicillin]], use was made of the fact that certain spiro α-amino acids, such as [[Cycloleucine]], are well absorbed orally and transported like normal amino acids.
+[[File:Cyclacillin synthesis.svg|thumb|center|500px|Cyclacillin synthesis:<ref>{{cite journal|pmid=5596194|year=1967|author1=Alburn|first1=H. E.|title=Synthesis of new broad-spectrum aminoalicyclic penicillins|journal=Antimicrobial Agents and Chemotherapy|volume=7|pages=586–9|last2=Clark|first2=R. E.|last3=Fletcher h|first3=3rd|last4=Grant|first4=N. H.}}</ref>]]
+Reaction of cyclohexanone with [[ammonium carbonate]] and KCN under the conditions of the [[Bucherer-Bergs reaction]] led to [[hydantoin]] '''1'''. On acid hydrolysis, α-amino acid '''2''' resulted. Treatment with [[phosgene]] both protected the amino group and activated the carboxyl group toward amide formation (as '''3''') and reaction with [[6-aminopenicillanic acid]] ([[6-APA]]) gave cyclacillin ('''4''').
+
+Interestingly, this [[artifice]] seems to have worked, since cyclacillin is more active [[in vivo]] than its [[in vitro]] spectrum suggests would be likely.
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{cite journal |vauthors=Scheld WM, Sydnor A, Farr B, Gratz JC, Gwaltney JM |title=Comparison of cyclacillin and amoxicillin for therapy for acute maxillary sinusitis |journal=Antimicrob Agents Chemother |volume=30 |issue=3 |pages=350–3 |date=September 1986 |pmid=3535660 |pmc=180557 |doi= 10.1128/aac.30.3.350|url=http://aac.asm.org/cgi/pmidlookup?view=long&pmid=3535660}}
+
+{{Beta-lactam antibiotics}}
+
+[[Category:Penicillins]]
+
+
+{{antibiotic-stub}}

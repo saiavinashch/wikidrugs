@@ -1,0 +1,97 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 447983598
+| IUPAC_name = 2-[3,4-bis(2-hydroxyethoxy)phenyl]-5-hydroxy-7-(2-hydroxyethoxy)-4-oxo-4''H''-chromen-3-yl 6-''O''-(6-deoxy-β-<small>D</small>-mannopyranosyl)-β-<small>D</small>-glucopyranoside
+| image = Troxerutin.svg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|troxerutin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 7085-55-4
+| ATC_prefix = C05
+| ATC_suffix = CA04
+| PubChem = 9896814
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 3182320
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 7Y4N11PXO8
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 4589027
+
+
+<!--Chemical data-->
+| C=33 | H=42 | O=19
+| molecular_weight = 742.67518 g/mol
+|  smiles = C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)Oc3c(=O)c4c(cc(cc4oc3c5ccc(c(c5)OCCO)OCCO)OCCO)O)O)O)O)O)O)O
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C33H42O19/c1-14-23(38)26(41)28(43)32(49-14)48-13-21-24(39)27(42)29(44)33(51-21)52-31-25(40)22-17(37)11-16(45-7-4-34)12-20(22)50-30(31)15-2-3-18(46-8-5-35)19(10-15)47-9-6-36/h2-3,10-12,14,21,23-24,26-29,32-39,41-44H,4-9,13H2,1H3/t14-,21+,23-,24+,26+,27-,28+,29+,32+,33-/m0/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = IYVFNTXFRYQLRP-VVSTWUKXSA-N
+| synonyms = Hydroxyethylrutoside (HER)<br>Pherarutin<br>Trihydroxyethylrutin<br>3',4',7-Tris[O-(2-hydroxyethyl)]rutin
+}}
+'''Troxerutin''' is a [[flavonol]], a type of flavonoid. It is more accurately a [[hydroxyethylrutoside]]. It can be isolated from ''[[Sophora japonica]]'', the Japanese pagoda tree<!-- <ref>[ ]</ref> -->.
+
+It is used as a [[vasoprotective]].<ref>{{Cite journal 
+| last1 = Riccioni | first1 = C. 
+| last2 = Sarcinella | first2 = R. 
+| last3 = Izzo | first3 = A. 
+| last4 = Palermo | first4 = G. 
+| last5 = Liguori | first5 = M. 
+| title = Effectiveness of Troxerutin in association with Pycnogenol in the pharmacological treatment of venous insufficiency 
+| journal = Minerva cardioangiologica 
+| volume = 52 
+| issue = 1 
+| pages = 43–48 
+| year = 2004 
+| pmid = 14765037
+}}</ref>
+
+Troxerutin has been shown in mice to reverse CNS insulin resistance and reduce [[reactive oxygen species]] induced by a high-cholesterol diet.<ref>{{Cite journal 
+| last1 = Lu | first1 = J. 
+| last2 = Wu | first2 = D. -M. 
+| last3 = Zheng | first3 = Z. -H. 
+| last4 = Zheng | first4 = Y. -L. 
+| last5 = Hu | first5 = B. 
+| last6 = Zhang | first6 = Z. -F. 
+| doi = 10.1093/brain/awq376 
+| title = Troxerutin protects against high cholesterol-induced cognitive deficits in mice 
+| journal = Brain 
+| volume = 134 
+| issue = 3 
+| pages = 783–797 
+| year = 2011 
+| pmid = 21252113 
+| pmc = 
+}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Flavonol}}
+{{Vasoprotectives}}
+
+[[Category:Quercetin glycosides]]
+[[Category:Flavonol rutinosides]]
+[[Category:Phenol ethers]]
+
+
+{{cardiovascular-drug-stub}}

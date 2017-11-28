@@ -1,0 +1,77 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 443580789
+| IUPAC_name = ''N''-(2-Diethylaminoethyl)-2-[2-[(4-fluorophenyl)methylsulfanyl]-4-oxo-6,7-dihydro-5''H''-cyclopenta[d]pyrimidin-1-yl]-''N''-<nowiki>[[</nowiki>4-[4-(trifluoromethyl)phenyl]phenyl]methyl]acetamide
+| image = Darapladib structure.svg
+| width = 275
+
+<!--Clinical data-->
+| tradename =
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Investigational
+| routes_of_administration = [[Oral administration|By mouth]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6696
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 356057-34-6
+| CAS_supplemental =
+| ATC_prefix = None
+| ATC_suffix =
+| ATC_supplemental =
+| PubChem = 9939609
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 8115230
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 204021
+| PDB_ligand = 5HV
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = UI1U1MYH09
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D03650
+| synonyms = SB-480848
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=36 | H=38 | F=4 | N=4 | O=2 | S=1 
+| molecular_weight = 666.77 g/mol
+| smiles = FC(F)(F)c1ccc(cc1)c2ccc(cc2)CN(C(=O)CN\4C(\SCc3ccc(F)cc3)=N/C(=O)/C5=C/4CCC5)CCN(CC)CC
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C36H38F4N4O2S/c1-3-42(4-2)20-21-43(22-25-8-12-27(13-9-25)28-14-16-29(17-15-28)36(38,39)40)33(45)23-44-32-7-5-6-31(32)34(46)41-35(44)47-24-26-10-18-30(37)19-11-26/h8-19H,3-7,20-24H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = WDPFJWLDPVQCAJ-UHFFFAOYSA-N
+}}
+
+'''Darapladib''' is an inhibitor [[lipoprotein-associated phospholipase A2]] (Lp-PLA<sub>2</sub>) that is in [[drug development|development]] as a [[pharmaceutical drug|drug]] for treatment of [[atherosclerosis]].<ref>Thompson PL et al. Targeting the unstable plaque in acute coronary syndromes. Clin Ther. 2013 Aug;35(8):1099-107. {{PMID|23973042}}</ref>  
+
+It was discovered by [[Human Genome Sciences]] in collaboration with [[GlaxoSmithKline]] (GSK).<ref>Reuters. 12 April 2007 [https://www.cnbc.com/id/18074785/ Spotlight on Glaxo Heart Drug as Others Fail]</ref>
+
+In November 2013, GSK announced that the drug had failed to meet Phase III endpoints in a trial of 16,000 patients with [[acute coronary syndrome]] (ACS).<ref>http://www.fiercebiotech.com/story/glaxosmithkline-loses-its-first-big-phiii-bet-heart-drug-darapladib/2013-11-12</ref> An additional trial of 13,000 patients (SOLID-TIMI 52) finished in May 2014. The study failed to reduce the risk of [[coronary artery disease|coronary heart disease]] death, [[myocardial infarction]], and urgent coronary [[revascularization]] compared with placebo in acute coronary syndrome patients treated with standard medical care.<ref>http://www.gsk.com/media/press-releases/2014/gsk-announces-phase-iii-study-with-darapladib-did-not-meet-prima.html</ref>
+
+==References==
+{{reflist}}
+
+{{lipid modifying agents}}
+
+[[Category:Drugs acting on the cardiovascular system]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Fluoroarenes]]
+[[Category:Biphenyls]]
+
+{{cardiovascular-drug-stub}}

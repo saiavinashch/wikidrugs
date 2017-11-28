@@ -1,0 +1,71 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 443802525
+| IUPAC_name = 5-ethyl-1-[4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidine-2,4-dione
+| image = Edoxudin.svg
+| alt =
+
+<!--Clinical data-->
+| tradename =
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 15176-29-1
+| ATCvet =
+| ATC_prefix = D06
+| ATC_suffix = BB09
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 15ZQM81Y3R
+|  PubChem = 66377
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 318153
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 59752
+|  smiles = O=C/1NC(=O)N(\C=C\1CC)[C@@H]2O[C@@H]([C@@H](O)C2)CO
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C11H16N2O5/c1-2-6-4-13(11(17)12-10(6)16)9-3-7(15)8(5-14)18-9/h4,7-9,14-15H,2-3,5H2,1H3,(H,12,16,17)/t7-,8+,9+/m0/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = XACKNLSZYYIACO-DJLDLDEBSA-N
+
+<!--Chemical data-->
+| C = 11 | H = 16 | N = 2 | O = 5
+| molecular_weight = 256.25514
+}}
+'''Edoxudine''' (or '''edoxudin''') is an [[antiviral drug]]. It is an analog of [[thymidine]], a [[nucleoside]].
+
+It has shown effectiveness against [[herpes simplex virus]].<ref>{{cite journal | pmid = 14743269 | volume=34 | issue=12 | title=Topical antiviral agents for herpes simplex virus infections |date=December 1998 | journal=Drugs Today | pages=1013–25 | doi=10.1358/dot.1998.34.12.487486}}</ref>
+
+==Synthesis==
+[[File:Edoxudine synthesis.png|700px|center|thumb|Edoxudine synthesis:<ref>K. K. Gauri, GB 1170565; eidem, {{US patent|3553192}} (1968, 1971 both to Robugen).</ref> Synthesis via organopalladium intermediates:<ref>{{Cite journal|doi=10.1021/ja00422a056|pmid=1249369|title=Synthesis of C-5 substituted pyrimidine nucleosides via organopalladium intermediates|year=1976|last1=Bergstrom|first1=Donald E.|last2=Ruth|first2=Jerry L.|journal=Journal of the American Chemical Society|volume=98|issue=6|pages=1587–9}}</ref><ref name="BergstromOgawa1978">{{cite journal|last1=Bergstrom|first1=Donald E.|last2=Ogawa|first2=Mark K.|title=C-5 substituted pyrimidine nucleosides. 2. Synthesis via olefin coupling to organopalladium intermediates derived from uridine and 2'-deoxyuridine|journal=Journal of the American Chemical Society|volume=100|issue=26|year=1978|pages=8106–8112|issn=0002-7863|doi=10.1021/ja00494a014}}</ref>]]
+Mercuration of the 2'-deoxyuridine 1 leads to the organometallic derivative 2; reaction of that with ethylene in the presence dilithiopalladium tetrachloride gives the alkylation product 3; this is reduced catalytically in situ. There is thus obtained the antiviral agent edoxudine 4.
+
+==References==
+{{reflist}}
+
+{{Antibiotics and chemotherapeutics for dermatological use}}
+{{DNA antivirals}}
+
+[[Category:Pyrimidinediones]]
+
+
+{{antiinfective-drug-stub}}
+{{dermatologic-drug-stub}}

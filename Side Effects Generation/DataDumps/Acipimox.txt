@@ -1,0 +1,89 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 442738806
+| IUPAC_name = 5-Carboxy-2-methyl-1-oxidopyrazin-1-ium
+| image = Acipimox.svg
+| alt = Skeletal formula
+| width = 180
+| image2 = Acipimox-3D-spacefill.png
+| alt2 = Ball-and-stick model
+<!--Clinical data-->
+| tradename = Olbetam
+| Drugs.com = {{drugs.com|UK|acipimox-250-mg-capsules-leaflet}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = POM
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability   = 100%
+| protein_bound     = None
+| metabolism        = None
+| metabolites       = 
+| onset             = 
+| elimination_half-life = Phase 1: 2 hrs<br/>Phase 2: 12–14 hrs
+| duration_of_action= 
+| excretion         = [[Kidney|Renal]]
+<!--Identifiers-->
+| IUPHAR_ligand = 1596
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 51037-30-0
+| ATC_prefix = C10
+| ATC_suffix = AD06
+| PubChem = 5310993
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4470534
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = K9AY9IR2SD
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07190
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 345714
+
+<!--Chemical data-->
+| C=6 | H=6 | N=2 | O=3 
+| smiles = [O-][n+]1c(cnc(C(=O)O)c1)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C6H6N2O3/c1-4-2-7-5(6(9)10)3-8(4)11/h2-3H,1H3,(H,9,10)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = DJQOOSBJCLSSEY-UHFFFAOYSA-N
+}}
+'''Acipimox''' (trade name '''Olbetam''' in Europe) is a [[niacin]] derivative used as a [[lipid-lowering agent]]. It reduces [[triglyceride]] levels and increases [[High-density lipoprotein|HDL]] cholesterol.
+It may have less marked adverse effects than niacin, although it is unclear whether the recommended dose is as effective as standard doses of niacin.
+
+==Contraindications==
+Contraindications are [[peptic ulcer]]s, acute bleeding, fresh [[myocardial infarction]], [[acute decompensated heart failure]], and severe [[renal insufficiency]].<ref name="AC" />
+
+==Adverse effects==
+As with niacin and related drugs, the most common adverse effects are [[flushing (physiology)|flushing]] (associated with [[prostaglandin D2|prostaglandin D<sub>2</sub>]]<ref name="Benyo" />) and gastrointestinal disturbances such as [[indigestion]], which occur in at least 10% of patients.<ref name="AC" /> Flushing can be reduced by taking [[aspirin]] 20 to 30 minutes before taking acipimox. [[Palpitations]] have also been described.{{fact|date=July 2016}} High doses can cause headache,<ref name="Dinnendahl" /> and precipitate [[gout]].{{fact|date=July 2016}}  In contrast to niacin, no impairment of [[glucose tolerance]] and no disorders of liver function have been found in studies, even under high doses of acipimox.<ref name="AC" /><ref name="Dinnendahl" />
+
+==Interactions==
+No interactions with other drugs are known. Theoretically, combination with [[statin]]s and [[fibrates]] could increase the incidence of [[myalgia]]. Alcohol can increase the risk of flushing.<ref name="AC" /><ref name="Dinnendahl" />
+
+==Pharmacology==
+===Mechanism of action===
+Like niacin, acipimox acts on the [[niacin receptor 1]], inhibiting the enzyme [[triglyceride lipase]]. This reduces the concentration of [[fatty acid]]s in the blood plasma and their inflow into the liver. Consequently, [[Very low-density lipoprotein|VLDL]] cholesterol production in the liver is reduced, which leads indirectly to a reduction in [[Low-density lipoprotein|LDL]] and increase in HDL cholesterol.<ref name="AC" /><ref name="Benyo" />
+
+===Pharmacokinetics===
+Acipimox is completely absorbed from the gut. It is not bound to blood [[plasma protein]]s and not metabolized. Elimination occurs in two phases, the first having a half-life of two hours, the second of 12 to 14 hours. The substance is eliminated via the kidney.<ref name="AC" />
+
+==References==
+{{reflist|refs=
+<ref name="AC">{{cite book|title=Austria-Codex|editor=Haberfeld, H|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2015|language=German}}</ref>
+<ref name="Dinnendahl">{{cite book|title=Arzneistoff-Profile|editor1=Dinnendahl, V |editor2=Fricke, U |publisher=Govi Pharmazeutischer Verlag|location=Eschborn, Germany|date=1989|edition=6|volume=1|isbn=978-3-7741-9846-3|language=German}}</ref>
+<ref name="Benyo">{{cite journal|pmc=1297235|year=2005|author1=Benyó|first1=Z|title=GPR109A (PUMA-G/HM74A) mediates nicotinic acid–induced flushing|journal=Journal of Clinical Investigation|volume=115|issue=12|pages=3634–3640|last2=Gille|first2=A|last3=Kero|first3=J|last4=Csiky|first4=M|last5=Suchánková|first5=M. C.|last6=Nüsing|first6=R. M.|last7=Moers|first7=A|last8=Pfeffer|first8=K|last9=Offermanns|first9=S|doi=10.1172/JCI23626|pmid=16322797}}</ref>
+}}
+
+{{Lipid modifying agents}}
+
+[[Category:Hypolipidemic agents]]
+[[Category:Pyrazines]]
+[[Category:Carboxylic acids]]
+[[Category:Amine oxides]]

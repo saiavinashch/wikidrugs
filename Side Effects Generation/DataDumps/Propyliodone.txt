@@ -1,0 +1,68 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 394147836
+| IUPAC_name = propyl 2-(3,5-diiodo-4-oxo-1,4-dihydropyridin-1-yl)acetate
+| image = Propyliodone.svg
+| alt = Skeletal formula of propyliodone
+| width = 180
+| image2 = Propyliodone-3D-spacefill.png 
+| alt2 = Space-filling model of propyliodone
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 587-61-1
+| ATC_prefix = V08
+| ATC_suffix = AD03
+| PubChem = 4949
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 5NPJ6BPX36
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1200821
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 4780
+
+<!--Chemical data-->
+| C=10 | H=11 | I=2 | N=1 | O=3 
+| molecular_weight = 447.008 g/mol
+| synonyms = <small>propyl (3,5-diiodo-4-oxopyridin-1(4''H'')-yl)acetate</small>
+| smiles            = CCCOC(=O)CN1C=C(C(=O)C(=C1)I)I
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C10H11I2NO3/c1-2-3-16-9(14)6-13-4-7(11)10(15)8(12)5-13/h4-5H,2-3,6H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = ROSXARVHJNYYDO-UHFFFAOYSA-N
+
+}}
+'''Propyliodone''' ([[International Nonproprietary Name|INN]], trade name '''Dionosil''') is a molecule used as a [[contrast medium]]. It was developed by a team at [[Imperial Chemical Industries]]<ref>GB 517382</ref> in the late 1930s.
+
+==References==
+{{reflist}}
+
+{{Contrast media}}
+
+[[Category:Iodoarenes]]
+[[Category:Carboxylate esters]]
+[[Category:4-Pyridones]]
+[[Category:Radiocontrast agents]]
+
+{{Pharmacology-stub}}

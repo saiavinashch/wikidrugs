@@ -1,0 +1,76 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464380815
+| IUPAC_name = 3-bromo-''N''-<nowiki>[[</nowiki>(2''S'')-1-ethylpyrrolidin-2-yl]methyl]-2,6-dimethoxybenzamide
+| image = Remoxipride.svg
+
+<!--Clinical data-->
+| tradename = Roxiam
+| pregnancy_category =  
+| legal_status = Withdrawn
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 96%<ref name = PK>{{cite journal|title=Remoxipride - a new potential antipsychotic compound: tolerability and pharmacokinetics after single oral and intravenous administration in healthy male volunteers|journal=Psychopharmacology|author1=Grind, M |author2=Nilsson, MI |author3=Nilsson, L |author4=Oxenstierna, G |author5=Sedvall, G |author6=Wahlén, A |date=1989|volume=98|issue=3|pages=304–309|pmid=2568653|doi=10.1007/bf00451679}}</ref>
+| protein_bound = 89-98%
+
+| metabolism = [[Hepatic]]<ref name = PK/>
+| elimination_half-life = 4-7 hours<ref name = PK/>
+| excretion = [[Renal]]<ref name = PK/>
+
+<!--Identifiers-->
+
+| CAS_number_Ref = {{cascite|changed|CAS}}
+| CAS_number = 80125-14-0
+| ATC_prefix = N05
+| ATC_suffix = AL04
+| PubChem = 54477
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00409
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 49195
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0223RD59PE
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02683
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 22242
+
+<!--Chemical data-->
+| C=16 | H=23 | Br=1 | N=2 | O=3 
+| molecular_weight = 371.27 g/mol
+| smiles = CCN2CCC[C@H]2CNC(=O)c1c(OC)ccc(Br)c1OC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H23BrN2O3/c1-4-19-9-5-6-11(19)10-18-16(20)14-13(21-2)8-7-12(17)15(14)22-3/h7-8,11H,4-6,9-10H2,1-3H3,(H,18,20)/t11-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GUJRSXAPGDDABA-NSHDSACASA-N
+}}
+
+'''Remoxipride''' ('''Roxiam''') is an [[atypical antipsychotic]] (although according to some sources it is a [[typical antipsychotic]]) which was previously used in [[Europe]] for the treatment of [[schizophrenia]] and acute [[mania]] but was withdrawn due to [[toxicity]] concerns (incidence of [[aplastic anemia]] in 1/10,000 patients).<ref name="isbn3-527-31058-4">{{cite book |author1=José Miguel Vela |author2=Helmut Buschmann |author3=Jörg Holenz |author4=Antonio Párraga |author5=Antoni Torrens | title = Antidepressants, Antipsychotics, Anxiolytics: From Chemistry and Pharmacology to Clinical Application | publisher = Wiley-VCH | location = Weinheim | year = 2007 | pages = | isbn = 3-527-31058-4 | oclc = | doi = | accessdate = }}</ref> It was initially launched by [[AstraZeneca]] in 1990 and suspension of its use began in 1993.<ref name="isbn3-527-31058-4"/> Remoxipride acts as a [[binding selectivity|selective]] [[D2 receptor|D<sub>2</sub>]] and [[D3 receptor|D<sub>3</sub> receptor]] [[receptor antagonist|antagonist]] and also has high [[affinity (pharmacology)|affinity]] for the [[sigma receptor]], possibly playing a role in its atypical neuroleptic action.<ref name="pmid1978484">{{cite journal |vauthors=Köhler C, Hall H, Magnusson O, Lewander T, Gustafsson K | title = Biochemical pharmacology of the atypical neuroleptic remoxipride | journal = Acta Psychiatrica Scandinavica. Supplementum | volume = 358 | issue = | pages = 27–36 | year = 1990 | pmid = 1978484 | doi = | url = }}</ref>
+
+Due to its short half-life twice daily (bid) dosing is required, although a once-daily controlled-release tablet has been developed.<ref name = dose>{{cite journal|title=Once-daily controlled release remoxipride is equieffective with twice-daily immediate release remoxipride in the treatment of schizophrenia|author1=Alexander, MS |author2=Chakravarti, SK |author3=Sundararajan, K |author4=Mullin, JM |author5=Shaw, SH |author6=Blomqvist, M |author7=Lockett, CM |journal=Journal of Psychopharmacology|date=January 1993|volume=7|issue=3|doi=10.1177/026988119300700307|pages=276–82|pmid=22290842}}</ref> There was some interest in its use in the treatment of treatment-resistant schizophrenia.<ref name = TRS>{{cite journal|title=Remoxipride therapy in treatment resistant schizophrenia|author1=Conley, R |author2=Dixon, L |author3=An Nguyen, R |author4=Taminga, C |author5=Hain, R |doi=10.1016/0920-9964(93)90521-J|date=April 1993|volume=9|issue=2-3|journal=Schizophrenia Research|pages=235–236}}</ref><ref name = TRS2>{{cite journal|title=Remoxipride therapy in poorly responsive schizophrenics|author1=Conley, R |author2=Dixon, L |author3=An Nguyen, R |author4=Taminga, C |author5=Raymond, R |doi=10.1016/0920-9964(91)90208-9|date=April 1993|volume=4|issue=3|page=316|journal=Schizophrenia Research}}</ref>
+
+== See also ==
+* [[Typical antipsychotic]]
+* [[Benzamide]]
+
+== References ==
+{{Reflist|2}}
+
+== External links ==
+* [http://www.acnp.org/G4/GN401000123/CH121.html Herbert Y. Meltzer, Atypical Antipsychotic Drugs, 2000]
+
+{{Antipsychotics}}
+{{Dopamine receptor modulators}}
+{{Sigma receptor modulators}}
+
+[[Category:Atypical antipsychotics]]
+[[Category:Benzamides]]
+[[Category:Organobromides]]
+[[Category:Phenol ethers]]
+[[Category:Pyrrolidines]]
+[[Category:Withdrawn drugs]]
+
+
+{{nervous-system-drug-stub}}

@@ -1,0 +1,106 @@
+{{for|the use of trifluridine as an anti-cancer drug|Trifluridine/tipiracil}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470614687
+| IUPAC_name = 1-[4-Hydroxy-5-(hydroxymethyl)oxolan-2-yl]-5-(trifluoromethyl)-(1''H'',3''H'')-pyrimidine-2,4-dione
+| image = Trifluridine structure.svg
+| width = 150
+<!--Clinical data-->
+| tradename = Viroptic; Lonsurf (+[[tipiracil]])
+| Drugs.com = {{drugs.com|monograph|trifluridine}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = C
+| pregnancy_category =  
+| legal_CA = Rx-only
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = Rx-only
+| routes_of_administration = Eye drops; tablets (+tipiracil)
+<!--Pharmacokinetic data-->
+| bioavailability = Negligible (eye drops);<br/>≥57% (oral)
+| protein_bound = >96%
+| metabolism = [[Thymidine phosphorylase]]
+| elimination_half-life = 12 minutes (eye drops);<br/>1.4–2.1 hrs ([[trifluridine/tipiracil|combination with tipiracil]])
+| excretion = Mostly via urine
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 70-00-8
+| ATC_prefix = S01
+| ATC_suffix = AD02
+| PubChem = 6256
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00432
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 6020
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = RMW9V5RW38
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00391
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 75179
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1129
+| synonyms = α,α,α-trifluorothymidine; 5-trifluromethyl-2′-deoxyuridine; FTD5-trifluoro-2′-deoxythymidine; TFT; CF<sub>3</sub>dUrd; FTD; F<sub>3</sub>TDR; F<sub>3</sub>Thd
+<!--Chemical data-->
+| C=10 | H=11 | F=3 | N=2 | O=5
+| molecular_weight = 296.2 g/mol
+| smiles = FC(F)(F)C=1C(=O)NC(=O)N(C=1)[C@@H]2O[C@@H]([C@@H](O)C2)CO
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H11F3N2O5/c11-10(12,13)4-2-15(9(19)14-8(4)18)7-1-5(17)6(3-16)20-7/h2,5-7,16-17H,1,3H2,(H,14,18,19)/t5-,6+,7+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = VSQQQLOSPVPRAZ-RRKCRQDMSA-N
+}}
+'''Trifluridine''' (also called '''trifluorothymidine''' or '''TFT''') is an anti-[[herpesvirus]] [[antiviral drug]], used primarily on the [[human eye|eye]]. It was sold under the trade name '''Viroptic''' by Glaxo Wellcome, now merged into [[GlaxoSmithKline]]. The brand is now owned by [[Monarch Pharmaceuticals]], which is wholly owned by [[King Pharmaceuticals]].
+
+Trifluridine was approved for medical use in 1980.<ref>{{cite book|last1=Long|first1=Sarah S.|last2=Pickering|first2=Larry K.|last3=Prober|first3=Charles G.|title=Principles and Practice of Pediatric Infectious Disease|date=2012|publisher=Elsevier Health Sciences|isbn=1437727026|page=1502|url=https://books.google.ca/books?id=nQ7-o8JAH7kC&pg=PA1502|language=en}}</ref> It is also a component of the anti-cancer drug [[trifluridine/tipiracil]], which is taken by mouth.
+
+==Medical uses==
+Trifluridine eye drops are used for the treatment of [[keratitis]] and [[keratoconjunctivitis]] caused by the [[herpes simplex virus]] types 1 and 2, as well as for prevention and treatment of [[vaccinia virus]] infections of the eye.<ref name="Drugs.com" />
+
+A [[Cochrane Collaboration|Cochrane Systematic Review]] showed that trifluridine and [[aciclovir]] were a more effective treatment than [[idoxuridine]] or [[vidarabine]],<ref>{{Cite book|url=http://www.cochrane.org/CD002898/EYES_antiviral-medicines-interferon-and-corneal-surface-removal-in-the-treatment-of-herpes-simplex-virus-infection-of-the-eye|title=Cochrane Database of Systematic Reviews|last=Wilhelmus|first=Kirk R|date=2015-01-09|publisher=John Wiley & Sons, Ltd|year=|isbn=|location=|pages=|language=en|doi=10.1002/14651858.cd002898.pub5|issn=1465-1858}}</ref> significantly increasing the relative number of successfully healed eyes in 14 days.<ref name="Wilhelmus">{{cite journal |author= Wilhelmus KR |title= Antiviral treatment and other therapeutic interventions for herpes simplex virus epithelial keratitis |journal=Cochrane Database Syst Rev|volume=12 |pages= CD002898 |date=2010 |pmid= 21154352|doi= 10.1002/14651858.CD002898.pub4 |pmc=4739528}}</ref>
+
+For cancer treatment, the combination [[trifluridine/tipiracil]] is used.
+
+==Adverse effects==
+Common side effects of trifluridine eye drops include transient burning, stinging, local irritation, and [[edema]] of the eyelids.<ref name="Drugs.com" />
+
+Adverse effects of the anti-cancer formulation have only been evaluated for the combination trifluridine/tipiracil, not for the individual components.
+
+==Interactions==
+Only ''[[in vitro]]'' interaction studies are available. In these, trifluridine used the [[concentrative nucleoside transporter 1]] (CNT1) and [[equilibrative nucleoside transporter 1|equilibrative nucleoside transporters 1]] (ENT1) and [[equilibrative nucleoside transporter 2|2]] (ENT2). Drugs that interact with these transporters could influence [[blood plasma]] concentrations of trifluridine. Being a thymidine phosphorylase inhibitor, trifluridine could also interact with substrates of this enzyme such as [[zidovudine]].<ref name="AC">{{cite book|title=Austria-Codex|editor=Haberfeld, H|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2015|language=German}}</ref>
+
+For the eye drops, trifluridine absorption is negligible,<ref name="Drugs.com">[[Drugs.com]]: {{drugs.com|monograph|trifluridine}} for Trifluridine.</ref> rendering interactions basically irrelevant.
+
+==Pharmacology==
+{{for|the anti-cancer mechanism|Trifluridine/tipiracil#Mechanism of action}}
+
+===Mechanism of action (eye drops)===
+It is a [[nucleoside analogue]], a modified form of [[deoxyuridine]], similar enough to be incorporated into viral [[DNA replication]], but the –CF<sub>3</sub> group added to the [[uracil]] component blocks [[base pair]]ing, thus interfering with viral DNA replication.
+
+===Pharmacokinetics (eye drops)===
+Trifluridine passes the [[cornea]] and is found in the [[aqueous humour]]. Systemic absorption is negligible.<ref name="Drugs.com" />
+
+===Pharmacokinetics (oral)===
+[[File:Trifluoromethyl-pyrimidinedione.svg|thumb|5-Trifluoromethyl-2,4(1''H'',3''H'')-pyrimidinedione (FTY), the main metabolite]]
+Pharmacokinetic data of oral trifluridine have only been evaluated in combination with [[tipiracil]], which significantly affects [[biotransformation]] of the former. At least 57% of trifluridine are absorbed from the gut, and highest blood plasma concentrations are reached after two hours in cancer patients. The substance has no tendency to [[bioaccumulation|accumulate]] in the body. Plasma protein binding is over 96%. Trifluridine is metabolised by the enzyme [[thymidine phosphorylase]] to 5-trifluoromethyl-2,4(1''H'',3''H'')-pyrimidinedione (FTY), and also by [[glucuronidation]]. Elimination half-life is 1.4 hours on the first day and increases to 2.1 hours on the twelfth day. It is mainly excreted via the kidneys.<ref name="AC" />
+
+Tipiracil causes [[Cmax (pharmacology)|C<sub>max</sub>]] (highest blood plasma concentrations) of trifluridine to increase 22-fold, and its [[area under the curve (pharmacokinetics)|area under the curve]] 37-fold, by inhibiting thymidine phosphorylase.<ref name="AC" />
+
+==Chemistry==
+The substance is a white crystalline powder. It is freely soluble in [[methanol]] and [[acetone]]; soluble in water, [[ethanol]], 0.01&nbsp;[[molarity|M]] hydrochloric acid, and 0.01&nbsp;M sodium hydroxide; sparingly soluble in [[isopropyl alcohol]] and [[acetonitrile]]; slightly soluble in [[diethyl ether]]; and very slightly soluble in [[isopropyl ether]].<ref>{{Drugs.com|pro|lonsurf}} on Lonsurf.</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{cite journal |vauthors=Costin D, Dogaru M, Popa A, Cijevschi I | title = Trifluridine therapy in herpetic in keratitis | journal = Rev Med Chir Soc Med Nat Iasi | volume = 108 | issue = 2 | pages = 409–12 | year = 2004| pmid = 15688823}}
+* {{cite journal |vauthors=Kuster P, Taravella M, Gelinas M, Stepp P | title = Delivery of trifluridine to human cornea and aqueous using collagen shields. | journal = CLAO J | volume = 24 | issue = 2 | pages = 122–4 | year = 1998 | pmid = 9571274}}
+* {{cite journal |vauthors=O'Brien W, Taylor J | title = Therapeutic response of herpes simplex virus-induced corneal edema to trifluridine in combination with immunosuppressive agents. | journal = Invest Ophthalmol Vis Sci | volume = 32 | issue = 9 | pages = 2455–61 | year = 1991 | pmid = 1907950}}
+* {{cite web | url = http://ecatalog.alcon.com/pi/Trifluridine_us_en.pdf | title = Trifluridine Ophthalmic Solution, 1% | accessdate = 2007-03-24 | format = PDF}}
+
+{{Antivirals}}
+
+[[Category:Anti-herpes virus drugs]]
+[[Category:Antineoplastic drugs]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Pyrimidinediones]]

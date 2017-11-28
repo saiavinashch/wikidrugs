@@ -1,0 +1,101 @@
+{{Drugbox
+| verifiedrevid = 477166575
+| IUPAC_name = (''RS'')-4-(Diisopropylamino)-2-phenyl-2-(pyridin-2-yl)butanamide
+| image = Disopyramide.svg
+| image2 = Disopramide.png
+<!--Clinical data-->
+| tradename = Norpace
+| Drugs.com = {{drugs.com|monograph|disopyramide-phosphate}}
+| MedlinePlus = a682408
+| pregnancy_AU = B2
+| pregnancy_US = C
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = Oral, [[intravenous therapy|intravenous]]
+<!--Pharmacokinetic data-->
+| bioavailability = High
+| protein_bound = 50% to 65%<br>(concentration-dependent)
+| metabolism = [[Liver|Hepatic]] ([[CYP3A4]]-mediated)
+| elimination_half-life = 6.7 hours (range 4 to 10 hours)
+| excretion = [[Kidney|Renal]] (80%)
+<!--Identifiers-->
+| IUPHAR_ligand = 7167
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 3737-09-5
+| ATC_prefix = C01
+| ATC_suffix = BA03
+| PubChem = 3114
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00280
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3002
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = GFO928U8MQ
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00303
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 4657
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 517
+<!--Chemical data-->
+| C=21 | H=29 | N=3 | O=1
+| molecular_weight = 339.475 g/mol
+| smiles = O=C(N)C(c1ncccc1)(c2ccccc2)CCN(C(C)C)C(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H29N3O/c1-16(2)24(17(3)4)15-13-21(20(22)25,18-10-6-5-7-11-18)19-12-8-9-14-23-19/h5-12,14,16-17H,13,15H2,1-4H3,(H2,22,25)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = UVTNFZQICZKOEM-UHFFFAOYSA-N
+| melting_point     = 94.5
+| melting_high      = 95
+}}
+
+'''Disopyramide''' ([[International Nonproprietary Name|INN]], trade names '''Norpace''' and '''Rythmodan''') is an [[antiarrhythmic]] [[medication]] used in the treatment of [[ventricular tachycardia]].<ref>{{cite book |author1=Guyton, Arthur C. |author2=Hall, John E. | date = 2006 | title = Textbook of Medical Physiology | edition = 11th | location = Philadelphia | publisher = Elsevier Saunders}}</ref> It is a sodium channel blocker and therefore classified as a Class 1a anti-arrhythmic agent.<ref>{{cite journal | pmid = 3569310| year = 1987| author1 = Rizos| first1 = I| title = Effects of intravenous disopyramide and quinidine on normal myocardium and on the characteristics of arrhythmias: Intraindividual comparison in patients with sustained ventricular tachycardia| journal = European heart journal| volume = 8| issue = 2| pages = 154–63| last2 = Brachmann| first2 = J| last3 = Lengfelder| first3 = W| last4 = Schmitt| first4 = C| last5 = von Olshausen| first5 = K| last6 = Kübler| first6 = W| last7 = Senges| first7 = J}}</ref><ref name=pmid2285495>{{cite journal | pmid= 2285495| year= 1990| author1= Kim| first1= S. Y.| title= Poisoning due to class IA antiarrhythmic drugs. Quinidine, procainamide and disopyramide| journal= Drug safety| volume= 5| issue= 6| pages= 393–420| last2= Benowitz| first2= N. L.| doi=10.2165/00002018-199005060-00002}}</ref> Disopyramide has a negative [[inotropic]] effect on the ventricular myocardium, significantly decreasing the contractility.<ref name=pmid474380>{{Cite journal | pmid= 474380| year= 1979| author1= Levites| first1= R| title= Electrophysiological effects of disopyramide phosphate during experimental myocardial ischemia| journal= American Heart Journal| volume= 98| issue= 3| pages= 339–44| last2= Anderson| first2= G. J.| doi=10.1016/0002-8703(79)90046-2}}</ref><ref name=pmid4150336>{{cite journal | pmid = 4150336| year = 1972| author1 = Mathur| first1 = P. P.| title = Cardiovascular effects of a newer antiarrhythmic agent, disopyramide phosphate| journal = American Heart Journal| volume = 84| issue = 6| pages = 764–70| doi=10.1016/0002-8703(72)90069-5}}</ref> Disopyramide also has an [[anticholinergic]] effect on the heart which accounts for many adverse side effects. Disopyramide is available in both oral and intravenous forms, and has a low degree of toxicity.<ref name=pmid4150336/>
+
+== Mechanism of action ==
+Disopyramide’s Class 1a activity is similar to that of [[quinidine]] in that it targets sodium channels to inhibit conduction.<ref name=pmid2285495/><ref name=pmid4150336/> Disopyramide depresses the increase in sodium permeability of the cardiac Myocyte during Phase 0 of the cardiac action potential, in turn decreasing the inward sodium current. This results in an increased threshold for excitation and a decreased upstroke velocity.<ref name=pmid2285495/> Disopyramide prolongs the PR interval by lengthening both the QRS and P wave duration.<ref name=pmid4150336/> This effect is particularly well suited in the treatment of ventricular tachycardia as it slows the action potential propagation through the atria to the ventricles. Disopyramide does not act as a blocking agent for beta or alpha adrenergic receptors, but does have a significant negative inotropic effect on the ventricular myocardium.<ref>Hulting J, Rosenhamer G: Hemodynamic and electrocardiographic effects of disopyramide in patients with ventricular arrhythmia. Acta Med Scand 199:41-51, 1976.</ref> As a result, the use of disopyramide may reduce contractile force up to 42% at low doses and up to 100% in higher doses leading to heart failure.<ref name=pmid4150336/>
+
+Levites proposed a possible secondary mode of action for disopyramide, against reentrant arrhythmias after an ischemic insult. Disopyramide decreases the inhomogeneity between infarcted and normal myocardium refractory periods; in addition to lengthening the refractory period.<ref name=pmid474380/> This decreases the chance of re-entry depolarization, because signals are more likely to encounter tissue in a refractory state which cannot be excited.<ref>Guyton, Arthur C., Hall, John E. (2006). Textbook of Medical Physiology (11th ed.). Philadelphia: Elsevier Saunders.</ref> This provides a possible treatment for atrial and ventricular fibrillation, as it restores pacemaker control of the tissue to the SA and AV nodes.<ref>Katzung, Bertram G., Masters, Susan B., Trevor, Anthony J. (2009). Basic and Clinical Pharmacology (11th ed.). New York: McGraw Hill</ref>
+
+==Obstructive hypertrophic cardiomyopathy==
+[[Hypertrophic cardiomyopathy]] (HCM) is the most common inherited cardiac disease, occurring in 1:500 individuals in the general population. It is estimated that there are 600,000 individuals in the United States with hypertrophic cardiomyopathy. The most common variant of HCM presents with left ventricular (LV) intracavitary obstruction due to systolic anterior motion of the mitral valve, and mitral-septal contact, diagnosed readily with echocardiography. Pharmacologic treatment with negative inotropic drugs is first-line therapy. Beta-blockers are used first, and while they improve symptoms of shortness of breath, chest pain and exercise intolerance, they do not reduce resting LV intraventricular pressure gradients and often are inadequate to control symptoms. Many investigators and clinicians believe that disopyramide controlled release is the most potent agent available for reducing resting pressure gradients and improving symptoms.<ref name="ReferenceA">Ball W, Ivanov J, Rakowski H, Wigle ED, Linghorne M, Ralph-Edwards A, Williams WG, Schwartz L, Guttman A, Woo A. Long-term survival in patients with resting obstructive hypertrophic cardiomyopathy comparison of conservative versus invasive treatment. J Am Coll Cardiol. 2011;58:2313-2321</ref><ref name="ReferenceB">Sherrid MV, Barac I, McKenna WJ, Elliott PM, Dickie S, Chojnowska L, Casey S, Maron BJ. Multicenter study of the efficacy and safety of disopyramide in obstructive hypertrophic cardiomyopathy. J Am Coll Cardiol. 2005;45:1251-1258</ref><ref>Elliott PM, Gimeno JR, Thaman R, Shah J, Ward D, Dickie S, Tome Esteban MT, McKenna WJ. Historical trends in reported survival rates in patients with hypertrophic cardiomyopathy. Heart. 2006;92:785-791</ref><ref name=pmid23704138>{{cite journal | pmid= 23704138| year= 2013| author1= Sherrid| first1= M. V.| title= Treatment of obstructive hypertrophic cardiomyopathy symptoms and gradient resistant to first-line therapy with β-blockade or verapamil| journal= Circulation: Heart Failure| volume= 6| issue= 4| pages= 694–702| last2= Shetty| first2= A| last3= Winson| first3= G| last4= Kim| first4= B| last5= Musat| first5= D| last6= Alviar| first6= C. L.| last7= Homel| first7= P| last8= Balaram| first8= S. K.| last9= Swistel| first9= D. G.| doi= 10.1161/CIRCHEARTFAILURE.112.000122}}</ref> Disopyramide has been actively used for more than 30 years.<ref>Pollick C. Muscular subaortic stenosis: Hemodynamic and clinical improvement after disopyramide. N Engl J Med. 1982;307:997-999</ref> Disopyramide administration for obstructive HCM has a IIa recommendation in the 2011 American Heart Association/American College of Cardiology Foundation guidelines for treatment of obstructive HCM.<ref>Gersh BJ, Maron BJ, Bonow RO, Dearani JA, Fifer MA, Link MS, Naidu SS, Nishimura RA, Ommen SR, Rakowski H, Seidman CE, Towbin JA, Udelson JE, Yancy CW. 2011 accf/aha guideline for the diagnosis and treatment of hypertrophic cardiomyopathy: A report of the American College of Cardiology Foundation/American Heart Association task force on practice guidelines. Developed in collaboration with the American Association for Thoracic Surgery, American Society of Echocardiography, American Society of Nuclear Cardiology, Heart Failure Society of America, Heart Rhythm Society, Society for Cardiovascular Angiography and Interventions, and Society of Thoracic Surgeons. J Am Coll Cardiol. 2011;58:e212-260</ref> A IIa treatment recommendation indicates that benefits outweigh risk, and that it is reasonable to administer treatment.
+
+Negative inotropes improve LV obstruction by decreasing LV ejection acceleration and hydrodynamic forces on the mitral valve. Disopyramide’s particular efficacy is due to its potent negative inotropic effects; in head-to-head comparison, it is more effective for gradient reduction than either beta-blocker or verapamil.<ref>Kajimoto K, Imai T, Minami Y, Kasanuki H. Comparison of acute reduction in left ventricular outflow tract pressure gradient in obstructive hypertrophic cardiomyopathy by disopyramide versus pilsicainide versus cibenzoline. Am J Cardiol. 2010;106:1307-1312</ref> Disopyramide is most often administered with beta-blockade. When used in patients resistant to beta-blockade, disopyramide is effective in 60% of cases, reducing symptoms and gradient to the extent that invasive procedures such as surgical septal myectomy are not required.<ref name=pmid23704138/>
+
+Disopyramide, despite its efficacy, has one main side effect that has limited its use in the US, though it has seen wider application in Canada, UK and Japan. [[Vagal]] blockade predictably causes dry mouth, and in men with [[prostatism]], may cause urinary retention. Teichman et al. showed that [[pyridostigmine]] used in combination with disopyramide substantially alleviates vagolytic side effects without compromising antiarrhythmic efficacy.<ref>Teichman SL, Ferrick A, Kim SG, Matos JA, Waspe LE, Fisher JD. Disopyramide-pyridostigmine interaction: Selective reversal of anticholinergic symptoms with preservation of antiarrhythmic effect. J Am Coll Cardiol. 1987;10:633-641</ref> This combination has also been shown to be effective and safe in obstructive HCM in a large cohort of patients.<ref name=pmid23704138/> Some clinicians prescribe pyridostigmine sustained release (marketed in the US as Mestinon Timespan) to every patient begun on disopyramide.<ref>Sherrid MV, Arabadjian M. A primer of disopyramide treatment of obstructive hypertrophic cardiomyopathy. Prog Cardiovasc Dis. 2012;54:483-492</ref> This combination increases acceptance of higher disopyramide dosing, important since there is a dose-response correlation in obstructive HCM, higher doses yielding lower gradients.
+
+Another concern about disopyramide has been the hypothetical potential for inducing sudden death from its type 1 anti-arrhythmic effects. However, a multicenter registry and two recent cohort registries have largely reduced this concern, by showing sudden death rates lower than that observed from the disease itself.<ref name="ReferenceA"/><ref name="ReferenceB"/><ref name=pmid23704138/>
+
+These concerns about the drug must be viewed from the clinical perspective that disopyramide is generally the last agent that is tried for patients before they are referred for invasive septal reduction with surgical septal myectomy (an open-heart operation) or alcohol septal ablation (a controlled heart attack). Both of these invasive procedures have risk of morbidity and mortality.
+
+For selected patients, a trial of oral disopyramide is a reasonable approach before proceeding to invasive septal reduction. Patients who respond to disopyramide are continued on the drug. Those who continue to have disabling symptoms or who experience side effects are promptly referred for septal reduction. Using such a stepped strategy, investigators have reported that survival does not differ from that observed in the age-matched normal United States population.<ref name=pmid23704138/>
+
+==Cardiac adverse effects==
+*[[Acute decompensated heart failure|Acute heart failure]] – Disopyramide should not be given to patients with impaired LV systolic function and low ejection fraction. Heart failure is not seen when disopyramide is used in patients with normal or supernormal LV systolic function.
+*Severe [[hypotension]] – Disopyramide should not be given to patients with impaired LV systolic function and low ejection fraction. Hypotension is not seen in patients with normal or supernormal LV systolic function.
+
+==Extracardiac effects==
+[[Atropine]] like effects ([[anticholinergic]])<ref>Rang and Dale's pharmacology</ref>
+*Dry mouth
+*[[Constipation]]
+*[[Urinary retention]] – Disopyramide should not be given to patients with symptomatic prostatism.
+*Blurred vision
+*[[Glaucoma]]
+*Rash
+*[[Agranulocytosis]]
+
+Additionally, disopyramide may enhance the hypoglycaemic effect of [[gliclazide]], [[insulin]], and [[metformin]].{{Citation needed|date=February 2012}}
+
+==See also==
+*[[Actisomide]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[http://www.rxlist.com/cgi/generic2/disopyr_cp.htm Disopyramide on RxList]
+
+{{Antiarrhythmic agents}}
+
+[[Category:Pyridines]]
+[[Category:Sodium channel blockers]]
+[[Category:Carboxamides]]

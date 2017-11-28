@@ -1,0 +1,116 @@
+{{Use dmy dates|date=February 2015}}
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 461099283
+| IUPAC_name = (''RS'')-3-ethyl 5-methyl 4-(2,3-dichlorophenyl)-2,6-dimethyl-1,4-dihydropyridine-3,5-dicarboxylate
+| image = Felodipine structure.svg
+| image2 = Felodipine-from-xtal-1989-3D-balls.png
+<!--Clinical data-->
+| tradename = Plendil
+| Drugs.com = {{drugs.com|monograph|felodipine}}
+| MedlinePlus = a692016
+| pregnancy_US = C
+| legal_status = Rx-only
+| routes_of_administration = [[Mouth|Oral]]
+<!--Pharmacokinetic data-->
+| bioavailability = 15%
+| metabolism = [[Liver|Hepatic]]
+| onset = 2.5–5 hours
+| elimination_half-life = 25 hours<ref name=UKlabel2015>{{cite web|title=Felopidine UK label|url=https://www.medicines.org.uk/emc/medicine/191/SPC/Plendil+2.5mg,+Plendil+5mg+and+Plendil+10mg/|publisher=UK Electronic Medicines Compendium|date=15 September 2015}}</ref>
+| excretion = [[Kidney|Renal]]
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 72509-76-3
+| ATC_prefix = C08
+| ATC_suffix = CA02
+| PubChem = 3333
+| IUPHAR_ligand = 4190
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01023
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3216
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = OL961R6O2C
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00319
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 585948
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1480
+<!--Chemical data-->
+| C=18 | H=19 | Cl=2 | N=1 | O=4
+| molecular_weight = 384.259 g/mol
+| smiles = O=C(OCC)\C1=C(\N/C(=C(/C(=O)OC)C1c2cccc(Cl)c2Cl)C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C18H19Cl2NO4/c1-5-25-18(23)14-10(3)21-9(2)13(17(22)24-4)15(14)11-7-6-8-12(19)16(11)20/h6-8,15,21H,5H2,1-4H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = RZTAMFZIAATZDJ-UHFFFAOYSA-N
+}}
+'''Felodipine''' is a medication of the [[calcium channel blocker]] type which is used to treat [[hypertension|high blood pressure]].
+
+==Medical use==
+Felodipine is used to treat [[hypertension|high blood pressure]] and stable [[angina]].<ref name=UKlabel2015/><ref name=USlabel2012>{{cite web|title=Felodipine US label|url=http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/019834s025lbl.pdf|publisher=FDA|date=October 2012}}</ref>
+
+It should not be used for people who are pregnant, have [[decompensated heart failure|acute heart failure]], are having a [[heart attack]], have an [[Valvular heart disease|obstructed heart valve]], or have obstructions that block [[Pressure overload|bloodflow out of the heart]].<ref name=UKlabel2015/>
+
+For people with [[liver failure]] the dose needs to be lowered, because felodipine is cleared by the liver.<ref name=UKlabel2015/>
+
+===Interactions===
+Felodipine is metabolized by [[CYP3A4|cytochrome P450 3A4]], so substances that inhibit or activate CYP3A4 can strongly effect how much felodipine is present.<ref name=UKlabel2015/>
+
+CYP3A4 inhibitors, which increase the amount of felodipine available per dose, include [[cimetidine]], [[erythromycin]], [[itraconazole]], [[ketoconazole]], [[Protease inhibitor (pharmacology)|HIV protease inhibitors]], and [[grapefruit juice]].<ref name=UKlabel2015/><ref>{{cite journal| journal=Nutr J.| volume=6| issue=33| date=October 30, 2007| doi=10.1186/1475-2891-6-33| pmid=17971226|title=Medicinal importance of grapefruit juice and its interaction with various drugs| author=Jawad Kiani, Sardar Z Imam| accessdate=2008-04-09|pages=33| pmc=2147024}}.</ref>
+
+CYP3A4 activators, which decrease the amount of felodipine available per dose, include [[phenytoin]], [[carbamazepine]], [[rifampicin]], [[barbiturates]], [[efavirenz]], [[nevirapine]], and [[Saint John's wort]].<ref name=UKlabel2015/>
+
+==Adverse effects==
+The only very common side effect, occurring in more than 1/10 people, is [[edema|pain and swelling]] in the arms and legs.<ref name=UKlabel2015/>
+
+Common side effects, occurring in between 1% and 10% of people, include flushing, headache, [[heart palpitation]]s, dizziness and fatigue.<ref name=UKlabel2015/>
+
+Felodipine can exacerbate [[gingivitis]].<ref name=UKlabel2015/>
+
+==Mechanism==
+Felodipine is a [[calcium channel blocker]].<ref name=UKlabel2015/> Felodipine has additionally been found to act as an [[receptor antagonist|antagonist]] of the [[mineralocorticoid receptor]], or as an [[antimineralocorticoid]].<ref name="Luther2014">{{cite journal|last1=Luther|first1=James M.|title=Is there a new dawn for selective mineralocorticoid receptor antagonism?|journal=Current Opinion in Nephrology and Hypertension|volume=23|issue=5|year=2014|pages=456–461|issn=1062-4821|doi=10.1097/MNH.0000000000000051}}</ref>
+
+Different calcium channels are present in vascular tissue and cardiac tissue; an ''in vitro'' study on human vascular and cardiac tissues comparing how selective various calcium channel blockers are for vascular compared to cardiac tissue found the following vascular/cardiac tissue ratios: [[mibefradil]] 41,  felodipine 12; [[nifedipine]] 7, [[amlodipine]] 5, and [[verapamil]] 0.2.<ref name=Burger/>{{rp|172}}
+
+==Chemistry==
+Felodipine is a member of the 1,4-[[dihydropyridine]] class of calcium channel blockers.<ref name=Burger>{{cite book|last1=Joshi|first1=Gajanan S.|last2=Burnett|first2=James C.|last3=Abraham|first3=Donald J.|editor1-last=Abraham|editor1-first=Donald J.|title=Burger's medicinal chemistry and drug discovery.  Volume 3: Cardiovascular Agents and Endocrines|date=2003|publisher=Wiley|location=Hoboken, N.J.|isbn=9780471270904|edition=6th|chapter=Cardiac Drugs: Antianginal, Vasodilators, Antiarrhythmic}}</ref>{{rp|20-21}}  It is a racemic mixture, and is insoluble in water but is soluble in dichloromethane and ethanol.<ref name=Burger/>{{rp|25}}
+
+==History==
+The Swedish company Hässle, a division of [[Astra AB]], [[drug discovery|discovered]] felodipine;<ref name=PinkSheet1991/> it filed a patent application in 1979 claiming felodipine as an antihypertensive drug.<ref name=court>{{cite court |litigants=Astrazeneca AB v. Mutual Pharmaceutical Co. |vol= |reporter= |opinion= |pinpoint= |court=United States Court of Appeals for the Federal Circuit |date=2004 |url=http://www.finnegan.com/files/Publication/accd1584-eb7c-4960-802d-575bd78b6477/Presentation/PublicationAttachment/19322ddc-88ee-42cb-8063-61f950956040/04-1100%209-30-04.pdf |accessdate=2016-11-10 |quote=}}</ref><ref name=Patent611>{{cite patent| country       = US| number        = 4,264,611| status        = patent| title         = 2,6-Dimethyl-4-2,3-Disubstituted Phenyl-1,4-Dihydro-Pyridine-3,5 Dicarboxylic Acid-3,5-Asymmetric Diesters having Hypotensive Properties, as well as Method for Treating Hypertensive Conditions and Pharmaceutical Preparations Containing Same| gdate         = April 28, 1981| fdate         = June 19, 1979-06-19 | invent1       = Berntsson, Peder| invent2       = Carlsson, Stig| invent3       = Gaarder, Jan| invent4       = Ljung, Bengt| assign1       = Aktiebolaget Hassle| url           = https://patents.google.com/patent/US4264611A/en}}</ref>  Astra partnered this drug and others with [[Merck & Co.]] in the US under a 1982 agreement between the companies.<ref name=PinkSheet1991>{{cite news|title=Merck's Plendil (Felodipine) Approved with "1C" Rating|url=https://pink.pharmamedtechbi.com/PS019532/MERCKs-PLENDIL-FELODIPINE-APPROVED-WITH-1C-RATING|work=Pink Sheet|date=5 August 1991}}</ref>  The drug was approved by the FDA in 1991 after a three and a half year review; the drug entered a very crowded market the included the other calcium channel blockers [[nifedipine]], [[verapamil]], [[nicardipine]], and [[isradipine]].<ref name=PinkSheet1991/>  The FDA gave the drug a 1C rating, meaning that it found little difference between felodipine and the drugs already approved for the same use.<ref name=PinkSheet1991/>
+
+In 1994 Astra AB and Merck changed their partnership to a [[joint venture]] called Astra Merck,<ref name=biz>{{cite news |last=George |first=John |date=1997-07-28 |title=Secret of Astra Merck |url=http://www.bizjournals.com/philadelphia/stories/1997/07/28/story3.html |newspaper=Philadelphia Business Journal |location=Philadelphia |access-date=2016-11-07 }}</ref> and in 1998 Astra (by that time, [[AstraZeneca]])  bought out Merck's rights in the joint venture.<ref name=cnnmoney>{{cite news |author=<!--Staff writer(s); no by-line.--> |title=Astra, Merck restructure |url=http://money.cnn.com/1998/06/19/deals/merck/ |newspaper=CNNMoney |date=1998-06-19 |access-date=2016-11-07}}</ref> 
+
+The first generics became available in Sweden in 2003<ref>{{cite book|last1=Jönsson|first1=Bengt|editor1-last=Rapoport|editor1-first=John|editor2-last=Jacobs|editor2-first=Philip|editor3-last=Jonsson|editor3-first=Egon|title=Cost Containment and Efficiency in National Health Systems a Global Comparison.|date=2008|publisher=Wiley-VCH|location=Weinheim|isbn=9783527622955|page=218|url=https://books.google.com/books?id=XdMez8MdN0sC&pg=PA218|chapter=Sweden}}</ref> and in the US in 2004.<ref>{{cite book|title=Approved Drug Products with Therapeutic Equivalence Evaluations |date=2014 |publisher=FDA |edition=36th |url=http://www.nber.org/fda/orange-book/pdf/UCM071436.pdf}}</ref>{{rp|155}}
+
+In April 2016, AstraZeneca announced that they were selling the right to market felodipine in China to China Medical System Holdings for $310 million; AZ would continue to manufacture the drug.<ref name=AZrelease>{{cite press release |author=<!--Staff writer(s); no by-line.--> |title=AstraZeneca enters licensing agreement with China Medical System Holdings for hypertension medicine |url=https://www.astrazeneca.com/media-centre/press-releases/2016/AstraZeneca-enters-licensing-agreement-with-China-Medical-System-Holdings-for-hypertension-medicine-29022016.html |location= |publisher=AstraZeneca |agency= |date=February 29, 2016 |access-date=2016-11-07}}</ref>
+
+==Society and culture==
+As of 2016, felodipine was marketed under many brand names worldwide: Auronal, Cardioplen, Catrazil, Dewei, Dilahex, Enfelo, Erding, Fedil, Fedisyn, Feldil, Felicipin, Felo, Felocard, Felocor, Feloday, Felodil, Felodin, Felodip, Felodipin, Felodipina, Felodipine, Felodipino, Felodistad, Felogard, Felohexal, Felop, Felopine, Felostad, Feloten, Felotens, Felpin, Flodicar, Flodil, Keliping, Keydipin, Lodistad, Modip, Munobal, Nirmadil, Parmid, Penedil, Perfudal, Phelop, Phenodical, Plendil, Plentopine, Polo, Presid, Preslow, Prevex, Renedil, Sistar, Splendil, Stapin, Topidil, Vascalpha, Versant, and XiaoDing.<ref name=brands2016>{{cite web|title=International brand names: Felodipine|url=https://www.drugs.com/international/felodipine.html|publisher=Drugs.com|accessdate=15 November 2016}}</ref>
+
+The combination of felodipine and [[candesartan]] was marketed as Atacand.<ref name=brands2016/>
+
+The combination of felodipine and [[ramipril]] was marketed as Delmuno, Tazko, Triacor, Triapin, Triasyn, Tri-Plen, Unimax, and Unitens.<ref name=brands2016/>
+
+The combination of felodipine and [[enalapril]] was marketed as Lexxel.<ref name=brands2016/>
+
+The combination of felodipine and [[metoprolol]] was marketed as Logimat, Logimax, and Mobloc.<ref name=brands2016/>
+
+==References==
+{{Reflist|2}}
+
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Ion channel modulators}}
+{{Mineralocorticoid receptor modulators}}
+{{Xenobiotic-sensing receptor modulators}}
+}}
+
+[[Category:Antimineralocorticoids]]
+[[Category:Calcium channel blockers]]
+[[Category:Dihydropyridines]]
+[[Category:Carboxylate esters]]
+[[Category:Chloroarenes]]

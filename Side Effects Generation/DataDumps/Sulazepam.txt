@@ -1,0 +1,61 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 447995075
+| IUPAC_name = 7-Chloro-1-methyl-5-phenyl-1,3-dihydro- 2''H''-1,4-benzodiazepine-2-thione
+| image = Sulazepam.svg
+| width = 200
+
+  <!------- Clinical data-->
+| tradename =
+| legal_CA = Schedule IV
+| legal_status =
+
+  <!------- Pharmacokinetic data-->
+| bioavailability =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+  <!------- Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 2898-13-7
+| ATC_prefix = none
+| PubChem = 17931
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 16935
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = NZ779Q5S0W
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05942
+
+  <!------- Chemical data-->
+| C=16 | H=13 | Cl=1 | N=2 | S=1 
+| molecular_weight = 300.81 g/mol
+| smiles = ClC1=CC=C(N(C)C(CN=C2C3=CC=CC=C3)=S)C2=C1
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H13ClN2S/c1-19-14-8-7-12(17)9-13(14)16(18-10-15(19)20)11-5-3-2-4-6-11/h2-9H,10H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = MWGWTOPCKLQYEU-UHFFFAOYSA-N
+}}
+
+'''Sulazepam''' is a [[benzodiazepine]] derivative. It is the [[thioamide]] derivative of [[diazepam]]. It is metabolised into [[diazepam]], [[desmethyldiazepam]] and [[temazepam|oxydiazepam]]. It has [[sedative]], [[muscle relaxant]], [[hypnotic]], [[anticonvulsant]] and [[anxiolytic]] properties like those of other benzodiazepines.<ref>{{Cite web | url = http://www.psychotropics.dk/moleculeView/default.aspx?ID=1444&Catalogtype=A&ChapterID=1&Thissortorder=41 | title = sulazepam | accessdate = 29 December 2008 | year = 2003 | publisher = psychotropics.dk }}</ref><ref>{{cite journal |author=Golovenko NIa, Zin'kovskii VG |title=(title in Russian) |trans_title=Analysis of the structure of the components of the convulsive action of corazole following administration of sulazepam and its metabolites to mice |language=Russian |journal=Biull Eksp Biol Med |volume=82 |issue=9 |pages=1078–1081 |date=September 1976 |pmid=11012 |doi= |url=}}</ref> It was never marketed.
+
+==Synthesis==
+[[File:Sulazepam synthesis.svg|thumb|center|400px|Sulazepam synthesis:<ref>{{cite journal|doi=10.1021/jo01024a511|title=Quinazolines and 1,4-Benzodiazepines. XVI.1Synthesis and Transformations of 5-Phenyl-1,4-benzodiazepine-2-thiones|journal=The Journal of Organic Chemistry|volume=29|pages=231|year=1964|last1=Archer|first1=G. A.|last2=Sternbach|first2=L. H.}}</ref> {{US Patent|3141890}}]]
+Treatment of diazepam with [[phosphorus pentasulfide]] produces the corresponding [[thionamide]], sulazepam.
+==See also==
+*[[Uldazepam]]
+
+==References==
+{{Reflist}}
+
+{{Benzodiazepines}}
+{{GABAAR PAMs}}
+
+[[Category:Benzodiazepines]]
+[[Category:Chloroarenes]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:Thioamides]]
+
+{{sedative-stub}}

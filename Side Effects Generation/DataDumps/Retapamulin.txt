@@ -1,0 +1,89 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464381219
+| IUPAC_name = (3''aS'',4''R'',5''S'',6''S'',8''R'',9''R'',9''aR'',10''R'')-6-ethenyl-<br>5-hydroxy-4,6,9,10-tetramethyl-1-oxodecahydro-<br>3''a'',9-propano-3''aH''-cyclopenta[8]annulen-8-yl<br>{[(1''R'',3''s'',5''S'')-8-methyl-8-azabicyclo[3.2.1]oct-3-yl]<br>sulfanyl}acetate
+| image = Retapamulin.svg
+| image2 = Retapamulin 3D sticks.png
+<!--Clinical data-->
+| tradename = Altabax, Altargo
+| Drugs.com = {{drugs.com|monograph|retapamulin}}
+| MedlinePlus = a607049
+| licence_EU = Altargo
+| licence_US = Retapamulin
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = B
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_CA = <!--                             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = Topical ([[ointment]])
+<!--Pharmacokinetic data-->
+| bioavailability = Low
+| protein_bound = 94%
+| metabolism = [[Liver|Hepatic]], [[CYP3A4]]-mediated
+| elimination_half-life = Undetermined
+| excretion = Undetermined
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 224452-66-8
+| ATC_prefix = D06
+| ATC_suffix = AX13<!--Will come into effect January 2008-->
+| PubChem = 6918462
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01256
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 25064484
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 4MG6O8991R
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05720
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 566434
+<!--Chemical data-->
+| C=30 | H=47 | N=1 | O=4 | S=1
+| molecular_weight = 517.77 g/mol
+| smiles            = C[C@@H]1CC[C@@]23CCC(=O)[C@H]2[C@@]1([C@@H](C[C@@]([C@H]([C@@H]3C)O)(C)C=C)OC(=O)CS[C@@H]4C[C@H]5CC[C@@H](C4)N5C)C
+| StdInChI          = 1S/C30H47NO4S/c1-7-28(4)16-24(35-25(33)17-36-22-14-20-8-9-21(15-22)31(20)6)29(5)18(2)10-12-30(19(3)27(28)34)13-11-23(32)26(29)30/h7,18-22,24,26-27,34H,1,8-17H2,2-6H3/t18-,19+,20-,21+,22-,24-,26+,27+,28-,29+,30+/m1/s1
+| StdInChIKey       = STZYTFJPGGDRJD-NHUWBDDWSA-N
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+}}
+'''Retapamulin''' is a [[topical]] [[antibiotic]] developed by [[GlaxoSmithKline]]. It is the first drug in the new class of [[pleuromutilin]] antibiotics to be approved for human use.  It is marketed as an ointment under the brand names '''Altabax''' and '''Altargo'''.
+
+Retapamulin was approved by the [[United States]] [[Food and Drug Administration]] in April 2007 for the treatment of bacterial skin infections such as [[impetigo]].  In May 2007, retapamulin received approval in the [[European Union|EU]] from the [[European Medicines Agency]] for the same indication.
+
+Clinical trials have demonstrated its efficacy against certain [[Gram-positive]] [[bacteria]] including [[Methicillin-resistant Staphylococcus aureus|MRSA]].<ref>{{cite journal |vauthors=Jones R, Fritsche T, Sader H, Ross J |title=Activity of retapamulin (SB-275833), a novel pleuromutilin, against selected resistant gram-positive cocci |journal=Antimicrob Agents Chemother |volume=50 |issue=7 |pages=2583–6 |year=2006 |pmid=16801451 |doi=10.1128/AAC.01432-05 |pmc=1489758}}</ref>
+
+==Indications==
+
+Retapamulin is indicated for the topical treatment of impetigo due to ''[[Staphylococcus aureus]]'' (methicillin-susceptible only) or ''[[Streptococcus pyogenes]]''.<ref name=PDF>{{cite book|title=Physicians' Desk Reference|isbn=1-56363-660-3 |edition=62nd |issue=7 |pages=1318–20|year=2007|editor=Borrza, S.|editor2=Philippi, E.}}</ref>
+
+==Pharmacology==
+
+===Mechanism of action===
+Retapamulin is an antibacterial agent, specifically a [[protein synthesis inhibitor]]. The medication selectively inhibits bacterial protein synthesis by interacting at a site on the 50S subunit of the bacterial ribosome through an interaction that differs from other antibiotics.<ref name=PDF/>
+
+===Pharmakinetics===
+Systemic exposure following topical application through intact skin is low.<ref name=PDF/>
+
+==Contraindications==
+None yet reported.<ref name=PDF/>
+
+==Adverse reactions==
+The most common reported adverse reaction was irritation at the application site.<ref name=PDF/>
+
+==References==
+{{Reflist}}
+
+{{Protein synthesis inhibitor antibiotics}}
+
+[[Category:Pleuromutilin antibiotics]]
+[[Category:GlaxoSmithKline]]
+[[Category:Alcohols]]
+[[Category:Ketones]]
+[[Category:Carboxylate esters]]
+[[Category:Thioethers]]
+[[Category:Nitrogen heterocycles]]

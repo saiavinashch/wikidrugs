@@ -1,0 +1,109 @@
+{{Drugbox
+| verifiedrevid = 443387938
+| IUPAC_name = 5-amino-3,4'-bipyridin-6(1''H'')-one
+| image = Amrinone.svg
+| image2 = Amrinone-3D-balls-by-AHRLS-2012.png
+| width2 = 200px
+<!--Clinical data-->
+| tradename = Inocor
+| Drugs.com = {{drugs.com|international|amrinone}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = C
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_UK = <!-- GSL         / P       / POM / CD -->
+| legal_US = Rx-only
+| routes_of_administration = [[Intravenous therapy|Intravenous]]
+<!--Pharmacokinetic data-->
+| bioavailability = n/a
+| protein_bound = 10 to 49%
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life = 5 to 8 hours
+| excretion = [[Kidney|Renal]] (63%) and fecal (18%)
+<!--Identifiers-->
+| IUPHAR_ligand = 7202
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 60719-84-8
+| ATC_prefix = C01
+| ATC_suffix = CE01
+| PubChem = 3698
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01427
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3570
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = JUT23379TN
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00231
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 12856
+<!--Chemical data-->
+| C=10 | H=9
+| N=3 | O=1
+| molecular_weight = 187.198 g/mol
+| smiles = O=C2C(/N)=C\C(\c1ccncc1)=C/N2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H9N3O/c11-9-5-8(6-13-10(9)14)7-1-3-12-4-2-7/h1-6H,11H2,(H,13,14)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = RNLQIBCLLYYYFJ-UHFFFAOYSA-N
+}}
+'''Amrinone''' ([[International Nonproprietary Name|INN]]) or '''inamrinone''' ([[United States Adopted Name|USAN]], changed in 2000 to prevent confusion with [[amiodarone]]<ref>{{cite journal
+ |url=http://www.usp.org/hqi/practitionerPrograms/newsletters/qualityReview/qr732000-03-01.html 
+ |title=Amrinone Becomes Inamrinone 
+ |date=March 2000 
+ |journal=USP Quality Review 
+ |volume=73 
+ |publisher=[[United States Pharmacopeia]] 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20081003235147/http://www.usp.org/hqi/practitionerPrograms/newsletters/qualityReview/qr732000-03-01.html 
+ |archivedate=2008-10-03 
+}}</ref>), trade name '''Inocor''', is a [[pyridine]] [[phosphodiesterase 3 inhibitor]].<ref name="pmid10478810">{{cite journal
+| vauthors=Hamada Y, Kawachi K, Yamamoto T |title=Effects of single administration of a phosphodiesterase III inhibitor during cardiopulmonary bypass: comparison of milrinone and amrinone |journal=Japanese circulation journal |volume=63 |issue=8 |pages=605–9 |date=August 1999 |pmid=10478810 |doi=10.1253/jcj.63.605 |url=https://www.jstage.jst.go.jp/article/jcj/63/8/63_8_605/_article |format=|display-authors=etal}}</ref>  It is a drug that may improve the prognosis in patients with congestive heart failure.<ref name=AJC.1981.48 /> Amrinone has been shown to increase the contractions initiated in the heart by high gain calcium induced calcium release (CICR).<ref name=JPET.2004>{{cite journal|author=Xiong W.|author2=Ferrier G.R.|author3=Howlett S.E.|title=Diminished Inotropic Response to Amrinone in Ventricular Myocytes from Myopathic Hamsters Is Linked to Depression of High-Gain Ca2+-Induced Ca2+ Release|journal=The Journal of Pharmacology and Experimental Therapeutics|year=2004|volume=310|pages=761–773|doi=10.1124/jpet.103.064873|pmid=15064331}}</ref> The positive inotropic effect of amrinone is mediated by the selective enhancement of high gain CICR which contributes to the contraction of myocytes by phosphorylation through cAMP dependent protein kinase A (PKA) and Ca<sup>2+</sup> calmodulin kinase pathways.<ref name=JPET.2004 />
+
+==Actions==
+Increases cardiac contractility, vasodilator. Acts by inhibiting the breakdown of both cAMP and cGMP by the phosphodiesterase ([[PDE3]]) enzyme. There is a long-standing controversy regarding whether the drug actually increases cardiac contractility in diseased myocardium (and therefore whether it is of any clinical use). The issue has been reviewed extensively by Dr [[Peter Wilmshurst]], one of the first cardiologists and researchers to question the drug's efficacy.<ref>{{cite journal|author=Wilmshurst P |title=The HealthWatch Award 2003: Dr Peter Wilmshurst - "Obstacles to honesty in medical research" |url=http://www.healthwatch-uk.org/awardwinners/peterwilmshurst.html |deadurl=yes |archiveurl=https://web.archive.org/web/20150425075001/http://www.healthwatch-uk.org/awardwinners/peterwilmshurst.html |archivedate=2015-04-25 |df= }}</ref>
+
+==PDE-III inhibition and cardiac function==
+PDE III is present in cardiac muscle, vascular smooth muscle and platelets. PDE III degrades the phosphodiester bond in cAMP to break it down.<ref name=JCA1990.4>{{cite journal|author=Levy J.H.|author2=Ramsay J.|author3=Bailey J.M.|title=Levy J.H., Ramsay J., Bailey J.M.|journal=Journal of Cardiothoracic Anesthesia|year=1990|issue=4|pages=7–11}}</ref><ref name =AJC.1989>{{cite journal|author=LeJemtel T.H.|author2=Scortichini D.|author3=Levitt B.|author4=Sonnenblick E.H.|title=Effects of Phosphodiesterase Inhibition on Skeletal Muscle Vasculature|journal=American Journal of Cardiology|year=1989|volume=3|pages=27–30}}</ref> When PDE III is inhibited, cAMP cannot be inactivated. An increase in cAMP with the administration of amrinone in vascular smooth muscle produces vasodilation by facilitating calcium uptake by the sarcoplasmic reticulum (a special type of smooth ER) and decreasing the calcium available for contraction.<ref name=JCA1990.4 /><ref name=Circ1984.70>{{cite journal|author=Packer M.|author2=Medina N.|author3=Yushak M.|title=Hemodynamic and clinical limitations of long- term inotropic therapy with amrinone in patients with severe chronic heart failure|journal=Circulation|year=1984|volume=70|pages=1038–1047|doi=10.1161/01.cir.70.6.1038}}</ref>   In myocytes, the increase of cAMP concentration increases in turn the activity of [[Protein kinase A|PKA]]: this [[kinase]] improves the Ca<sup>2+</sup> inward current through the L-type Ca<sup>2+</sup> channels, which leads to [[calcium-induced calcium release]] from the sarcoplasmic reticulum, giving rise to a [[calcium spark]] that triggers the contraction; this results in an [[inotropic]] effect. Furthermore, PKA phosphorylates and deactivates the [[phospholamban]]s that inhibit [[SERCA]], which is an enzymatic pump that, to terminate the contraction, removes the Ca<sup>2+</sup> from the cytoplasm, stores it back in the sarcoplasmic reticulum and promotes the subsequent relaxation as well, producing a [[lusitropic]] effect. Both inotropic and lusitropic effects are the reason why amrinone is used to treat [[heart failure]].
+Amrinone decreases the pulmonary capillary wedge pressure while increasing cardiac output because it functions as an arterial vasodilator and increases venous capacitance while decreasing venous return.<ref name=JCA1990.4 /> There is a net decrease in myocardial wall tension, and O<sub>2</sub> consumption when using amrinone. Amrinone also has beneficial effects during diastole in the left ventricle including relaxation, compliance and filling in patients with congestive heart failure.<ref name=JCA1990.4 />
+
+==Indications==
+Short-term management of severe CHF (not used long term because of increased mortality, probably due to heart failure).
+
+==Effects in congestive heart failure==
+Congestive heart failure (CHF) is characterized by a reduction in ventricular performance and abnormalities in peripheral circulation and organs.<ref name=AJC.1989 />  A reduced release of endothelium derived relaxing factor (EDRF) causes a decrease in the stimulation of guanylate cyclase and cyclic GMP (cGMP) levels fall in vascular smooth muscle. This impairs relaxation in the vasculature and is a part of the vicious cycle of CHF.<ref name=AJC.1989 /> Patients with CHF have a down-regulation of their β-1 adrenergic receptors which alters their ability to activate intracellular adenylate cyclase which catalyzes cAMP formation.<ref name=JCA1990.4 /> cAMP is the second messenger that controls the level of calcium available to allow the heart to contract. An IV administration of amrinone has been shown to increase cardiac output (CO) and stroke volume (SV) while concurrently reducing the filling pressure of the left ventricle and decreasing the resistance in the peripheral vasculature.<ref name=AJC.1981.48>{{cite journal|author=Klein N.A.|author2=Siskind S.J.|author3=Frishman W.H.|author4=Sonnelblick E.H.|author5=LeJemtel T.H.|title=Hemodynamic Comparison of Intravenous Amrinone and Dobutamine in Patients With Chronic Congestive Heart Failure|journal=American Journal of Cardiology|year=1981|volume=48|pages=170–175|doi=10.1016/0002-9149(81)90587-7}}</ref><ref name=Circ.1980.62>{{cite journal|author=Carabello B.A.|title=Effects of Amrinone on Myocardial Energy Metabolism and Hemodynamics in Patients with Severe Congestive Heart Failure Due to Coronary Artery Disease|journal=Circulation|year=1980|volume=62|pages=28–34|doi=10.1161/01.cir.62.1.28}}</ref><ref name=AJC.1986.57>{{cite journal|author=Konstam M.A.|author2=Cohen S.R.|author3=Weiland D.S.|author4=Martin T.T.|author5=Das D.|author6=Isner J.M.|author7=Salem D.N.|title=Relative Contribution of Inotropic and Vasodilator Effects of Amrinone- induced Hemodynamic improvement in congestive heart failure|journal=American Journal of Cardiology|year=1986|volume=57|pages=242–248|doi=10.1016/0002-9149(86)90899-4}}</ref> This does not lead to an increase in heart rate or blood pressure.<ref name=AJC.1981.48 /><ref name=Circ.1980.62 /><ref name=AJC.1986.57 />  This improvement in performance of the ventricles is likely to result from a direct stimulation of the depressed myocardium as well as a decrease in peripheral vascular resistance.<ref name=AJC.1908.45>{{cite journal|author=LeJemtel T.H.|author2= Keung E.|author3=Ribner H.S.|author4= Davis R.|author5=Wexler J.|author6=Blaufox D.M.|author7=Sonnenblick E.H.|title=Sustained Beneficial Effects of Oral Amrinone on Cardiac and Renal Function in Patients With Severe Congestive Heart Failure|journal=American Journal of Cardiology|year=1980|issue=45|pages=123–129}}</ref>
+
+==Contraindications==
+Patients with [[aortic stenosis]], [[hypertrophic cardiomyopathy]], or history of hypersensitivity to the drug.
+
+==Precautions==
+May increase myocardial ischemia. Blood pressure, pulse, and EСG should be constantly monitored. Amrinone should only be diluted with normal saline or 1/2 normal saline; no dextrose solutions should be used. [[Furosemide]] should not be administered into an IV line delivering amrinone.
+
+==Side effects==
+[[Thrombocytopenia]] is the most prominent and dose-related side effect, but it is transient and asymptomatic. [[Nausea]], [[diarrhoea]], hepatotoxicity, [[arrhythmia]]s and fever are other adverse effects.
+
+==Routes==
+IV bolus and infusion as described earlier.
+
+==Pediatric dosage==
+Safety in children has not been established.
+
+==Amrinone discovery and progression==
+Early studies in patients with heart failure showed that amrinone produced short-term hemodynamic improvement, but had limited long-term clinical benefit.<ref name=Circ1984.70 /> Some serious side effects of long term administration included sustained ventricular tachycardia resulting in circulatory collapse, worsening myocardial ischemia, acute myocardial infarction, and worsening congestive heart failure.<ref name=Circ1984.70 /><ref name = EHJ.1986>{{cite journal|author=Rettig G.|author2= Sen S.|author3=Frohlig G.|author4=Schieffer H.|author5=Bette L.|title= Withdrawal of long-term amrinone therapy in patients with congestive heart failure: a placebo controlled trial|journal=European Heart Journal|year=1986|volume=7|pages=628–631|pmid=3530768}}</ref> Amrinone has good absorption from the gastrointestinal tract <ref name =Circ.1979>{{cite journal|author=Alousi A.A.|author2=Farah A.E.|author3=Lesher G.Y.|author4=Opalka C.J.|title=Cardiotonic Activity of Amrinone- Win 40680 [5-Amino-3, 4- bipyridin- 6(1H)-one].|journal=Circultaion|year=1979|issue=45|pages=666–677}}</ref> and may lead to some gastrointestinal upset when taken orally. The oral form of the drug is no longer in use.<ref name = EHJ.1986 /> Currently, only acute intravenous administration takes place.<ref name = EHJ.1986 /> The effects of amrinone vary widely with species and experimental condition; therefore inotropic effects are variable.<ref name=JPET.2004 />  A loss in sensitivity to PDE III inhibitors has been observed in end stage heart failure in humans and thus other treatment options may be necessary to improvement in these stages.<ref name=JPET.2004 />
+
+==Synthesis==
+[[File:Amrinone synthesis.png|thumb|center|1000px|Amrinone synthesis:<ref>G. Y. Lesher, Ch. J. Opalka, {{US Patent|4004012}} (1977).</ref><ref>Ch. J. Opalka, G. Y. Lesher, {{US Patent|4072746}} (1978).</ref><ref>G. Y. Lesher, C. J. Opalka, {{US patent|4107315}}</ref><ref>K. O. Gelotte, E. D. Parady, {{Cite patent|GB|2070008}} (1981).</ref>]]
+See also: [[Milrinone]] and [[Pelrinone]].
+
+==References==
+{{reflist}}
+
+{{Phosphodiesterase inhibitors}}
+{{Cardiac stimulants excluding cardiac glycosides}}
+
+[[Category:Cardiac stimulants]]
+[[Category:Inotropic agents]]
+[[Category:Pyridines]]
+[[Category:Vasodilators]]
+[[Category:PDE3 inhibitors]]
+[[Category:2-Pyridones]]
+[[Category:Aromatic amines]]

@@ -1,0 +1,78 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 461092817
+| IUPAC_name = ''N''-Ethyl-3-hydroxy-''N'',''N''-dimethylbenzenaminium
+| image = Edrophonium.svg
+| width = 200
+<!--Clinical data-->
+| tradename = Tensilon
+| Drugs.com = {{drugs.com|pro|enlon}}
+| pregnancy_category =  
+| legal_status =  
+| routes_of_administration =
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|CAS}}
+| CAS_number = 312-48-1
+| ATC_prefix = none
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem = 8307
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01010
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 8006
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 70FP3JLY7N 
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00994
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 4759
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1128
+<!--Chemical data-->
+| C=10 | H=16 | N=1 | O=1| charge = + 
+| molecular_weight = 166.24 g/mol
+| smiles = [Cl-].Oc1cccc(c1)[N+](C)(CC)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H15NO.ClH/c1-4-11(2,3)9-6-5-7-10(12)8-9;/h5-8H,4H2,1-3H3;1H
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = BXKDSDJJOVIHMX-UHFFFAOYSA-N
+}}
+'''Edrophonium''' is a readily reversible [[acetylcholinesterase inhibitor]]. It prevents breakdown of the [[neurotransmitter]] [[acetylcholine]] and acts by competitively inhibiting the enzyme [[acetylcholinesterase]], mainly at the [[neuromuscular junction]]. It is sold under the trade names '''Tensilon''' and '''Enlon''' (according to [[FDA Orange Book]]).
+
+==Clinical uses==
+Edrophonium (by the so-called Tensilon test) is used to differentiate [[myasthenia gravis]] from [[cholinergic crisis]] and [[Lambert-Eaton]]. In myasthenia gravis, the body produces [[autoantibodies]] which block, inhibit or destroy [[nicotinic acetylcholine receptors]] in the neuromuscular junction. Edrophonium—an effective [[acetylcholinesterase inhibitor]]—will reduce the muscle weakness by blocking the enzymatic effect of [[acetylcholinesterase]] enzymes, prolonging the presence of acetylcholine in the synaptic cleft. It binds to a Serine-103 allosteric site, while pyridostigmine and neostigmine bind to the AchE active site for their inhibitory effects.  In a cholinergic crisis, where a person has too much [[nicotinic acetylcholine receptor|neuromuscular]] stimulation, edrophonium will make the muscle weakness worse by inducing a [[Neuromuscular-blocking drugs#Depolarizing blocking agents|depolarizing block]].
+
+Lambert-Eaton myasthenic syndrome (LEMS), is similar to myasthenia gravis in that it is an autoimmune disease. However, in LEMS the neuron is unable to release enough acetylcholine for normal muscle function due to autoantibodies attacking P/Q-type calcium channel that are necessary for acetylcholine release. This means there is insufficient calcium ion influx into presynaptic terminal resulting in reduced exocytosis of acetylcholine containing vesicles. Consequently, there will typically be not as much increase in muscle strength observed after edrophonium injection, if any with LEMS.
+
+The Tensilon test may also be used to predict if neurotoxic paralysis caused by snake envenomation is presynaptic or postsynaptic. If it is a postsynaptic then paralysis will be temporally reversed, indicating that can be reversed by adequate antivenom therapy. If the neurotoxic is presynaptic then the Tensilon test will show no response and antivenom will not reverse such paralysis. In this instance reversal of paralysis will not occur until the damaged terminal axons at the neuromuscular junction have recovered, this may take days or weeks.<ref>text book of paediatric emergency medicine, second ed, cameron et al. p443-444</ref>
+
+The drug may also be used for reversal of [[Neuromuscular-blocking drug|neuromuscular blockade]] at the end of a surgical procedure.<ref name=trip>{{cite book|title=Essentials of Medical Pharmacology|publisher=Jaypee Brothers Medical Publishers(P) Ltd.|isbn=81-8061-187-6|page=84|author=KD Tripati MD|edition=fifth}}</ref>
+
+==Chemistry==
+Edrophonium, ethyl-(3-hydroxyphenyl)dimethylammonium chloride, is made by reacting 3-dimethylaminophenol with [[ethyl bromide]], which forms ethyl(3-hydroxyphenyl)dimethylammonium bromide, the bromine atom of which is replaced with a chlorine atom by reacting it with [[silver chloride]], giving edrophonium.
+[[File:Edrophonium synthesis.png|500px]]
+*J.A. Aeschlimann, A. Stempel, {{US Patent|2647924}} (1953).
+
+==Pharmacokinetics==
+The drug has a brief duration of action, about 10–30 mins.<ref name=trip/>
+
+==Sources==
+#Brenner, G. M. (2000). ''Pharmacology.'' Philadelphia, PA: W. B. Saunders Company. {{ISBN|0-7216-7757-6}}
+#Canadian Pharmacists Association (2000). ''Compendium of Pharmaceuticals and Specialties'' (25th ed.). Toronto, ON: Webcom. {{ISBN|0-919115-76-4}}
+
+==References==
+{{Reflist}}
+
+
+{{Acetylcholine metabolism and transport modulators}}
+
+[[Category:Acetylcholinesterase inhibitors]]
+[[Category:Phenols]]
+[[Category:Quaternary ammonium compounds]]

@@ -1,0 +1,65 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 458773535
+| IUPAC_name = (3Z)-N'-(1-hexyl-2-oxoindolin-3-ylidene)benzohydrazide
+| image = MDA-19_structure.png
+| width = 200
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = Schedule II
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 1048973-47-2 
+| ATC_prefix =  
+| ATC_suffix =  
+| PubChem = 25034599
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 24689676
+
+<!--Chemical data-->
+| C=21 | H=23 | N=3 | O=2 
+| molecular_weight = 349.426 g/mol
+| smiles = O=C(C1=CC=CC=C1)N/N=C(C2=CC=CC=C2N3CCCCCC)\C3=O
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C21H23N3O2/c1-2-3-4-10-15-24-18-14-9-8-13-17(18)19(21(24)26)22-23-20(25)16-11-6-5-7-12-16/h5-9,11-14H,2-4,10,15H2,1H3,(H,23,25)/b22-19-
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = ZGQHMZCITJHYOW-QOCHGBHMSA-N
+}}
+
+'''MDA-19''' is a drug that acts as a potent and selective [[agonist]] for the [[cannabinoid receptor]] [[Cannabinoid receptor 2|CB<sub>2</sub>]], with reasonable selectivity over the psychoactive CB<sub>1</sub> receptor, though with some variation between species. In animal studies it was effective for the treatment of [[neuropathic pain]], but failed to produce cannabis-like behavioural effects.<ref>{{Cite journal | last1 = Diaz | first1 = Philippe | last2 = Xu | first2 = Jijun | year = 2008 | title = Design and Synthesis of a Novel Series of N-Alkyl Isatin Acylhydrazone Derivatives that Act as Selective Cannabinoid Receptor 2 Agonists for the Treatment of Neuropathic Pain | journal = J. Med. Chem. | volume = 51 | issue = 16 | pages = 4932–4947 | publisher = American Chemical Society | jstor =  | doi = 10.1021/jm8002203 | url =  | format =  | accessdate = | pmid=18666769}}</ref><ref>{{cite journal | last1 = Xu | first1 = JJ | display-authors = etal   | date = Jul 2010 | title = Pharmacological characterization of a novel cannabinoid ligand, MDA19, for treatment of neuropathic pain | url = | journal = Anesthesia and Analgesia | volume = 111 | issue = 1| pages = 99–109 | pmid = 20522703 | doi=10.1213/ANE.0b013e3181e0cdaf | pmc=3253719}}</ref>
+
+==See also==
+* [[AM-1221]]
+* [[JTE 7-31]]
+* [[JWH-019]]
+* [[JWH-133]]
+* [[N-(S)-Fenchyl-1-(2-morpholinoethyl)-7-methoxyindole-3-carboxamide]]
+
+==References==
+{{reflist}}
+
+{{Cannabinoids}}
+
+[[Category:Cannabinoids]]
+
+
+{{cannabinoid-stub}}

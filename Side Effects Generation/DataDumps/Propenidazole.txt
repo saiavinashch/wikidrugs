@@ -1,0 +1,60 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 443329409
+| IUPAC_name = ethyl (2''E'')-2-[(1-methyl-5-nitro-1''H''-imidazol-2-yl)methylene]-3-oxobutanoate
+| image = Propenidazole.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number = 76448-31-2
+| ATC_prefix = G01
+| ATC_suffix = AF14
+| ATC_supplemental =   {{ATC|P01|AB05}} {{ATCvet|P51|AA05}}
+| PubChem = 6446788
+| KEGG = D07430
+| ChEMBL = 1788390
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4950302
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = F0O89MB7QE
+
+<!--Chemical data-->
+| C=11 | H=13 | N=3 | O=5 
+| molecular_weight = 267.238 g/mol
+| smiles = O=C(OCC)\C(=C\c1ncc(n1C)[N+]([O-])=O)C(=O)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C11H13N3O5/c1-4-19-11(16)8(7(2)15)5-9-12-6-10(13(9)3)14(17)18/h5-6H,4H2,1-3H3/b8-5+
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GCHKUUOPYMFGEY-VMPITWQZSA-N
+}}
+
+'''Propenidazole''' is an [[antiinfective]] imidazole derivative used in [[gynecology]].
+
+{{Gynecological anti-infectives and antiseptics}}
+{{Agents against amoebozoa}}
+
+[[Category:Nitroimidazole antibiotics]]
+[[Category:Antiprotozoal agents]]
+
+{{antiinfective-drug-stub}}
+{{genito-urinary-drug-stub}}

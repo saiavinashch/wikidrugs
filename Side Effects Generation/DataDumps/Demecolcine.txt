@@ -1,0 +1,74 @@
+{{Merge from |Colcemid|date=February 2017}}
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 414414817
+| IUPAC_name = (''S'')-1,2,3,10-Tetramethoxy-7-methylamino-6,7-dihydro-5''H''-benzo[''a'']heptalen-9-one
+| image = Demecolcine.png
+| alt = Skeletal formula of demecolcine
+| image2 = Demecolcine 3D ball.png
+| alt2 = Ball-and-stick model of the demecolcine molecule
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 477-30-5
+| ATC_prefix = L01
+| ATC_suffix = CC01
+| PubChem = 220401
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 191135
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = Z01IVE25KI
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 312862
+<!--Chemical data-->
+| C=21 | H=25 | N=1 | O=5
+| molecular_weight = 371.43 g/mol
+| smiles = O=C/1C(\OC)=C/C=C2\C(=C\1)[C@@H](NC)CCc3c2c(OC)c(OC)c(OC)c3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H25NO5/c1-22-15-8-6-12-10-18(25-3)20(26-4)21(27-5)19(12)13-7-9-17(24-2)16(23)11-14(13)15/h7,9-11,15,22H,6,8H2,1-5H3/t15-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = NNJPGOLRFBJNIW-HNNXBMFYSA-N
+}}
+
+'''Demecolcine''', also known as Colcemid, is a drug used in [[chemotherapy]]. It is closely related to the natural [[alkaloid]] [[colchicine]] with the replacement of the [[acetyl]] group on the [[amino]] moiety with [[methyl]], but it is less toxic. It [[depolymerization|depolymerises]] [[microtubules]] and limits microtubule formation (inactivates [[spindle fibre]] formation), thus arresting [[cell (biology)|cell]]s in [[metaphase]] and allowing cell harvest and [[karyotyping]] to be performed.
+
+During cell division, demecolcine inhibits mitosis at metaphase by inhibiting spindle formation. Medically, demecolcine has been used to improve the results of cancer radiotherapy by synchronising tumour cells at metaphase, the radiosensitive stage of the cell cycle.<ref>Br Med J., 1965, 1, 495 – 496</ref>
+
+In animal cloning procedures, demecolcine makes an ovum eject its nucleus, creating space for insertion of a new nucleus.<ref>Reprod Nutr Dev. 2006 Mar–Apr;46(2):219-26</ref>
+
+==Mechanism of action==
+Demecolcine is a microtubule-depolymerizing drug like [[vinblastine]]. It acts by two distinct mechanisms. At very low concentration it binds to microtubule plus end to suppress microtubule dynamics.<ref>{{cite journal |last1=Jordan |first1=Mary Ann |last2=Wilson |first2=Leslie |title=Microtubules as a target for anticancer drugs |journal=Nature Reviews. Cancer |volume=4 |issue=4 |pages=253–65 |year=2004 |pmid=15057285 |doi=10.1038/nrc1317}}</ref> Recent study has found at  higher concentration Colcemid  can promote microtubule detachment from microtubule organizing center. Detached microtubules with unprotected minus end depolymerizes with time. Cytotoxicity of the cells seems to correlate better with [[microtubule]] detachment.<ref name=pmid20696757>{{cite journal |last1=Yang |first1=Hailing |last2=Ganguly |first2=Anutosh |last3=Cabral |first3=Fernando |title=Inhibition of cell migration and cell division correlate with distinct effects of microtubule inhibiting drugs |journal=The Journal of Biological Chemistry |volume=285 |issue=42 |pages=32242–50 |year=2010 |pmid=20696757 |pmc=2952225 |doi=10.1074/jbc.M110.160820}}</ref> Lower concentration affects microtubule dynamics and cell migration.<ref name=pmid20696757/>
+
+== References ==
+{{reflist}}
+
+{{Chemotherapeutic agents}}
+{{Xenobiotic-sensing receptor modulators}}
+
+[[Category:Alkaloids]]
+[[Category:Phenol ethers]]
+[[Category:Ketones]]
+[[Category:Microtubule inhibitors]]
+[[Category:Heptalenes]]
+[[Category:Tropolones]]
+
+
+{{antineoplastic-drug-stub}}

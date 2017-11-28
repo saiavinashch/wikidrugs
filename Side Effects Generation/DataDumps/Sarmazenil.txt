@@ -1,0 +1,78 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 449586590
+| IUPAC_name = Ethyl 7-chloro-5-methyl-6-oxo-5,6-dihydro-4''H''-imidazo[1,5-''a''][1,4]benzodiazepine-3-carboxylate
+| image = Sarmazenil.svg
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 46547
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|sarmazenil}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 78771-13-8
+| CAS_supplemental =  
+| ATCvet = yes
+| ATC_prefix = V03
+| ATC_suffix = AB91
+| ATC_supplemental =  
+| PubChem = 71231
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = F84AE7X24P
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 64366
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=15 | H=14 | Cl=1 | N=3 | O=3 
+| molecular_weight = 319.743 g/mol
+| smiles = CCOC(=O)C1=C2CN(C(=O)C3=C(N2C=N1)C=CC=C3Cl)C
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C15H14ClN3O3/c1-3-22-15(21)13-11-7-18(2)14(20)12-9(16)5-4-6-10(12)19(11)8-17-13/h4-6,8H,3,7H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = WSDBAFQWNWJTNG-UHFFFAOYSA-N
+}}
+
+'''Sarmazenil''' ('''Ro15-3505''') is a drug from the [[benzodiazepine]] family. It acts as a partial [[inverse agonist]] of [[benzodiazepine receptor]]s,<ref>{{ cite journal |author1=López-Romero B |author2=Evrard G |author3=Durant F |author4=Sevrin M |author5=George P | title = Molecular structure and stereoelectronic properties of sarmazenil--a weak inverse agonist at the omega modulatory sites (benzodiazepine receptors): comparison with bretazenil and flumazenil | journal = Bioorganic and Medicinal Chemistry | year = 1998 | volume = 6 | issue = 10 | pages = 1745–57 | pmid = 9839004 | doi = 10.1016/S0968-0896(98)00117-5 }}</ref> meaning that it causes the opposite effects to most benzodiazepine drugs, and instead acts as an [[anxiogenic]] and [[convulsant]]. It is used in [[veterinary medicine]] to reverse the effects of benzodiazepine sedative drugs in order to rapidly re-awaken anesthetized animals.<ref>{{ cite journal |author1=Henke J |author2=Roberts U |author3=Otto K |author4=Lendl C |author5=Matis U |author6=Brill T |author7=Erhardt W | title = Clinical investigations of an i.m. combination anesthesia with fentanyl / climazolam / xylazine and postoperative i.v. antagonism with naloxone / sarmazenil / yohimbine in guinea pigs | language = German | journal = Tierärztliche Praxis | year = 1996 | volume = 24 | issue = 1 | pages = 85–7 | pmid = 8720962 }}</ref><ref>{{ cite journal |author1=Janovsky M |author2=Tataruch F |author3=Ambuehl M |author4=Giacometti M | title = A Zoletil-Rompun mixture as an alternative to the use of opioids for immobilization of feral red deer | journal = Journal of Wildlife Diseases | year = 2000 | volume = 36 | issue = 4 | pages = 663–9 | pmid = 11085427 | doi = 10.7589/0090-3558-36.4.663 }}</ref><ref>{{ cite journal |author1=Walzer C |author2=Huber C | title = Partial antagonism of tiletamine-zolazepam anesthesia in cheetah | journal = Journal of Wildlife Diseases | year = 2002 | volume = 38 | issue = 2 | pages = 468–72 | pmid = 12038151 | doi = 10.7589/0090-3558-38.2.468 }}</ref>
+
+==See also==
+* [[Benzodiazepine]]
+* [[Flumazenil]]
+
+==References==
+{{reflist}}
+
+{{Benzodiazepines}}
+{{GABAergics}}
+
+[[Category:Anxiogenics]]
+[[Category:Carboxylate esters]]
+[[Category:Chloroarenes]]
+[[Category:Convulsants]]
+[[Category:Ethyl esters]]
+[[Category:GABAA receptor negative allosteric modulators]]
+[[Category:Imidazobenzodiazepines]]
+[[Category:Lactams]]
+
+
+{{nervous-system-drug-stub}}

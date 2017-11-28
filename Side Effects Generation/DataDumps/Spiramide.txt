@@ -1,0 +1,58 @@
+{{Drugbox
+| verifiedrevid = 443306099
+| IUPAC_name = 8-[3-(4-Fluorophenoxy)propyl]-1-phenyl-1,3,8-triazaspiro[4,5]decan-4-one
+| image = AMI-193_structure.png
+| width = 250px
+
+<!--Clinical data-->
+| tradename =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number = 510-74-7
+| ATC_prefix = none
+| PubChem = 68186
+| IUPHAR_ligand = 175
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+|  ChemSpiderID = 61493
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 64207
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 471LF4O004
+
+<!--Chemical data-->
+| C=22 | H=27 | F=1 | N=3 | O=2 
+| molecular_weight = 384.466 g/mol
+| smiles = c2cc(F)ccc2OCCCN3CCC1(CC3)N(CNC1=O)c4ccccc4
+|  StdInChI = 1S/C22H26FN3O2/c23-18-7-9-20(10-8-18)28-16-4-13-25-14-11-22(12-15-25)21(27)24-17-26(22)19-5-2-1-3-6-19/h1-3,5-10H,4,11-17H2,(H,24,27)
+|  StdInChIKey = FJUKDAZEABGEIH-UHFFFAOYSA-N
+}}
+
+'''Spiramide''' (developmental code name '''AMI-193''') is an experimental [[antipsychotic]] that acts as a [[binding selectivity|selective]] [[5-HT2A|5-HT<sub>2A</sub>]], [[5-HT1A|5-HT<sub>1A</sub>]], and [[D2 receptor|D<sub>2</sub>]] [[receptor (biochemistry)|receptor]] [[receptor antagonist|antagonist]]. It has negligible [[affinity (pharmacology)|affinity]] for the [[5-HT2C|5-HT<sub>2C</sub> receptor]].<ref name="pmid11124389">{{cite journal |vauthors=Czoty PW, Howell LL |title=Behavioral effects of AMI-193, a 5-HT(2A)- and dopamine D(2)-receptor antagonist, in the squirrel monkey |journal=Pharmacology, Biochemistry, and Behavior |volume=67 |issue=2 |pages=257–64 |date=October 2000 |pmid=11124389 |doi= 10.1016/S0091-3057(00)00321-X|url=}}</ref><ref name="pmid15610924">{{cite journal |vauthors=Luparini MR, Garrone B, Pazzagli M, Pinza M, Pepeu G |title=A cortical GABA-5HT interaction in the mechanism of action of the antidepressant trazodone |journal=Progress in Neuro-psychopharmacology & Biological Psychiatry |volume=28 |issue=7 |pages=1117–27 |date=November 2004 |pmid=15610924 |doi=10.1016/j.pnpbp.2004.05.046 |url=}}</ref><ref name="pmid17965538">{{cite journal |vauthors=Hamada K, Yoshida M, Isayama H, Yagi Y, Kanazashi S, Kashihara Y, Takeuchi K, Yamaguchi I |title=Possible involvement of endogenous 5-HT in aggravation of cerulein-induced acute pancreatitis in mice |journal=Journal of Pharmacological Sciences |volume=105 |issue=3 |pages=240–50 |date=November 2007 |pmid=17965538 |doi= 10.1254/jphs.FP0071049|url=}}</ref>
+
+== References ==
+{{Reflist|2}}
+
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Dopamine receptor modulators}}
+{{Serotonin receptor modulators}}
+{{Xenobiotic-sensing receptor modulators}}
+}}
+
+[[Category:Butyrophenone antipsychotics]]
+[[Category:Fluoroarenes]]
+[[Category:Lactams]]
+[[Category:Nitrogen heterocycles]]
+[[Category:Phenol ethers]]
+[[Category:Spiro compounds]]
+
+
+{{nervous-system-drug-stub}}

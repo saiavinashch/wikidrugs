@@ -1,0 +1,116 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 458630745
+| IUPAC_name = (1''S'',3a''R'',6a''S'')-2-[(2''S'')-2-<nowiki>[[</nowiki>(2''S'')-2-Cyclohexyl-2-(pyrazine-2-carbonylamino)acetyl]amino]-3,3-dimethylbutanoyl]-''N''-[(3''S'')-1-(cyclopropylamino)-1,2-dioxohexan-3-yl]-3,3a,4,5,6,6a-hexahydro-1''H''-cyclopenta[c]pyrrole-1-carboxamide
+| image = Telaprevir structure.svg
+| width = 280
+
+<!--Clinical data-->
+| tradename = Incivek, Incivo
+| Drugs.com = {{drugs.com|CDI|telaprevir}}
+| MedlinePlus = a611038
+| licence_US = Telaprevir
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = B
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = Oral<ref>{{cite journal | last1 = Kim | first1 = Jenny | last2 = Culley | first2 = Colleen | last3 = Mohammad Rima | first3 = Telaprevir | year = 2012 | title = An Oral Protease Inhibitor for Hepatitis C Virus Infection | url = | journal = Am J Health Syst Pharm | volume = 69 | issue = 1| pages = 19–33 | doi=10.2146/ajhp110123}}</ref>
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  59–76%  <ref name="PMC3345276">{{cite journal |vauthors =Kiser JJ, Burton JR, Anderson PL, Everson GT|title=Review |publisher = Management of Drug Interactions with Boceprevir and Telaprevir |journal=Hepatology |volume=55 |issue=5 |pages=1620–8 |date=May 2012 |pmc=3345276 |doi=10.1002/hep.25653 |pmid=22331658}}</ref>
+| metabolism = extensive [[Liver|hepatic]]
+| elimination_half-life =  9–11 hours  <ref name="PMC3345276"/>
+| excretion = 90% (bile), 9% (exhaled air), 1% (urine)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7871
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 402957-28-2
+| ATC_prefix = J05
+| ATC_suffix = AE11
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 68595
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 231813
+| PubChem = 3010818
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2279948
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 655M5O3W0U
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D09012
+| NIAID_ChemDB = 213006
+
+<!--Chemical data-->
+| C=36 | H=53 | N=7 | O=6 
+| molecular_weight = 679.85 g/mol
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C36H53N7O6/c1-5-10-25(29(44)34(48)39-23-15-16-23)40-33(47)28-24-14-9-13-22(24)20-43(28)35(49)30(36(2,3)4)42-32(46)27(21-11-7-6-8-12-21)41-31(45)26-19-37-17-18-38-26/h17-19,21-25,27-28,30H,5-16,20H2,1-4H3,(H,39,48)(H,40,47)(H,41,45)(H,42,46)/t22-,24-,25-,27-,28-,30+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = BBAWEDCPNXPBQM-GDEBMMAJSA-N
+}}
+
+'''Telaprevir''' ('''VX-950'''), marketed under the brand names '''Incivek '''and '''Incivo''', is a pharmaceutical drug for the treatment of [[hepatitis C]] codeveloped by [[Vertex Pharmaceuticals]] and [[Johnson & Johnson]]. It is a member of a class of [[antiviral drug]]s known as [[Protease inhibitor (pharmacology)|protease inhibitor]]s.<ref>{{cite journal | journal = Drugs of the Future | year = 2007 | volume = 32 | issue = 9 | pages = 788 | title = Telaprevir | vauthors = Revill P, Serradell N, Bolos J, Rosa E | url = http://journals.prous.com/journals/servlet/xmlxsl/pk_journals.xml_summaryt_pr?p_type=1959f8821565c34e42a0f67c3fe47e&p_JournalId=2&p_RefId=1138229 | doi = 10.1358/dof.2007.032.09.1138229}}</ref> Specifically, telaprevir inhibits the hepatitis C viral enzyme [[NS3 (HCV)|NS3.4A serine protease]].<ref name="pmid16787300">{{cite journal | vauthors = Lin C, Kwong AD, Perni RB | title = Discovery and development of VX-950, a novel, covalent, and reversible inhibitor of hepatitis C virus NS3.4A serine protease | journal = Infect Disord Drug Targets | volume = 6 | issue = 1 | pages = 3–16 |date=March 2006 | pmid = 16787300 | doi = 10.2174/187152606776056706| url =  }}</ref> Telaprevir is only indicated for use against hepatitis C [[genotype]] 1 viral infections and has not been proven to have an effect on or being safe when used for other genotypes of the virus. The standard therapy of [[pegylated interferon]] and [[ribavirin]] is less effective on genotype 1.
+
+==Clinical trials and approvals==
+In a [[randomized controlled trial]] (PROVE3) of patients in whom standard treatment with [[peginterferon alfa-2a]] and ribavirin had failed, repeat treatment with the addition of telaprevir was more likely to have a sustained virological response (SVR) than repeat treatment with peginterferon alfa-2a and ribavirin alone.<ref>{{cite journal
+ |vauthors=McHutchison JG, Manns MP, Muir AJ |display-authors=etal| title = Telaprevir for previously treated chronic HCV infection
+| journal = N Engl J Med
+| volume = 362
+| issue = 14
+| pages = 1292&ndash;303
+| year = 2010
+| pmid = 20375406
+| doi = 10.1056/NEJMoa0908014
+| url=http://content.nejm.org/cgi/pmidlookup?view=short&pmid=20375406&promo=ONFLNS19}}</ref> In patients who received peginterferon alfa-2a and ribavirin for a year, the addition of telaprevir for 24 weeks achieved an SVR of 53% compared to 14% in patients who did not receive telaprevir. In that study, shorted treatment with only three months of telaprevir and six months of treatment peginterferon alfa-2a and ribavirin achieved an SVR of 51%.
+In a second randomized controlled trial (REALIZE) of patients who had previously relapsed or had only a partial response, rates of SVR were higher in patients treated with telaprevir (83% to 88%) compared to 24% in controls.<ref>{{cite journal
+ |vauthors=Zeuzem S, Andreone P, Pol S |display-authors=etal| title = Telaprevir for retreatment of HCV infection.
+| journal = N Engl J Med
+| year = 2011
+| volume = 364
+| issue = 25
+| pages = 2417&ndash;28
+| pmid = 21696308
+| doi=10.1056/NEJMoa1013086}}</ref>
+In a third trial (ADVANCE) for previously untreated patients,<ref>{{cite journal
+ |vauthors=Jacobson IM, McHutchison JG, Dusheiko G |display-authors=etal| title = Telaprevir for previously untreated chronic hepatitis C virus infection.
+| journal = N Engl J Med
+| year = 2011
+| volume = 364
+| issue = 25
+| pages = 2405&ndash;16
+| pmid = 21696307
+| doi=10.1056/NEJMoa1012912
+}}</ref> patients taking telaprevir had a SVR (69% to 75%) versus 44% in the control group.
+
+On April 28, 2011, the FDA Antiviral Drugs Advisory Committee voted 18–0 to recommend approval telaprevir  for people with genotype 1 chronic hepatitis C. The committee reviewed clinical trial data (including findings from the phase-III ADVANCE, ILLUMINATE, and REALIZE studies) showing that combining telaprevir with pegylated interferon and ribavirin produced a higher cure rate&mdash;and in less time&mdash;than standard therapy alone. This improvement is most notable for hard-to-treat patients including those with HCV genotype 1, people with liver cirrhosis, and those who did not respond to a prior course of interferon-based therapy.  Merck's [[boceprevir]], also a new antihepatitis C drug, was given a positive recommendation by the same committee, on the previous day.<ref name=m11>{{cite web |url=http://www.hivandhepatitis.com/hep_c/news/2011/0503_2011_a.html |title=FDA recommends approval for Telaprevir and Boceprevir |date=3 May 2011}}</ref>  Telaprevir was fully approved for use in the United States in May 2011.<ref>{{cite web |url=http://www.medscape.com/viewarticle/743192 |title=FDA Approves Telaprevir for HCV |date=May 23, 2011}}</ref>
+
+<!-- The IL-28 genotype: how it will affect the care of patients with hepatitis C virus infection. -->
+The hypothesis that host genetics play an essential role in the ability not only to clear acute hepatitis C infection, but also to achieve sustained virologic response (SVR) to interferon-based therapy has been proved with the recent discovery of two single-nucleotide polymorphisms on chromosome 19. Variants in the minor allele rs8099917 and the proximate polymorphism rs12979860, 3 kb upstream of the interleukin (IL)-28B gene, which encodes the endogenous antiviral cytokine IFN-λ, are associated with SVR and with natural viral clearance. The disparate frequencies of these alleles in ethnic groups worldwide may well explain differing rates of SVR among them. The test for one of these polymorphisms is now commercially available and can serve as a powerful predictor of a patient's chance of achieving SVR. Perhaps more importantly, the test can help the clinician personally tailor the duration and even the type of therapy most appropriate for an individual patient, newly or chronically infected with the hepatitis C virus.
+
+==Adverse effects==
+The most common adverse effect is rash. Grade 3 adverse events (mainly [[anemia]] and [[leukopenia]]/[[neutropenia]]) were more frequent in the telaprevir groups than in the control group (37% vs. 22%).
+After receiving reports of serious skin reactions, some fatal, in patients taking the hepatitis C drug Incivek (telaprevir) in combination with drugs peginterferon alfa and ribavirin (Incivek combination treatment), the US Food and Drug Administration (FDA) has added a black box warning to the label of this Vertex Pharmaceutical Inc. product. 1 
+On December 19, 2012, Vertex announced it would add a [[boxed warning]] of possible side effects on the US labels of telaprevir, following "reports of a small number of fatal skin reactions in patients who continued to receive Incivek combination therapy after a serious skin reaction was identified.”  The FDA reported two people had died from serious skin reactions caused by the Incivek combination treatment and a total of 112 patients had developed serious skin reactions of two different types.<ref>Staff, Boston.com.  December 19, 2012. [http://www.boston.com/businessupdates/2012/12/19/vertex-updates-label-hepatitis-drug-after-reports-small-number-fatal-skin-reactions/QvJViBvTVChVw7mEuskuaJ/story.html Vertex updates label of hepatitis C drug after reports of a ‘small number of fatal skin reactions’]</ref>
+
+==Availability==
+The cost of telaprevir-based triple therapy for hepatitis C is $189,000 per sustained viral response.<ref>{{Cite web|url=http://www.medscape.com/viewarticle/814295|title=Costs for Hepatitis C Treatment Skyrocket|subscription=yes|last=Tucker|first=Miriam E|website=Medscape Medical News|date=November 13, 2013}}</ref>
+
+On August 12, 2014, Vertex Pharmaceuticals announced that it would discontinue production of its brand of telaprevir, Incivek, due to falling demand for the drug caused by competition from newer hepatitis C treatments.<ref>{{cite web |url=https://blogs.wsj.com/pharmalot/2014/08/12/from-riches-to-rags-vertex-discontinues-incivek-as-sales-evaporate/ |title=From Riches to Rags: Vertex Discontinues Incivek as Sales Evaporate |last1=Silverman |first1=Ed|date=August 12, 2014 |website=Pharmalot|type=Blog |publisher= Dow Jones & Company |accessdate=August 13, 2014}}</ref>
+
+==References==
+{{reflist}}
+
+{{RNA antivirals}}
+
+[[Category:Cyclopropanes]]
+[[Category:NS3/4A protease inhibitors]]
+[[Category:Pyrazines]]

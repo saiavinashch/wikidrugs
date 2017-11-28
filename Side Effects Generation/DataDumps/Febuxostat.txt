@@ -1,0 +1,103 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 459437484
+| IUPAC_name = 2-(3-cyano-4-isobutoxyphenyl)-4-methyl-<br />1,3-thiazole-5-carboxylic acid
+| image = Febuxostat.svg
+
+<!--Clinical data-->
+| tradename = Uloric (US), Adenuric (Europe), others<ref name=drugnames/>
+| Drugs.com = {{drugs.com|monograph|febuxostat}}
+| MedlinePlus = a609020
+| licence_EU = Adenuric
+| licence_US = Febuxostat
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = C
+| pregnancy_category = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = by mouth
+
+<!--Pharmacokinetic data-->
+| bioavailability = ~49% absorbed
+| protein_bound = ~99% to albumin
+| metabolism = via [[CYP1A2]], [[CYP2C8|2C8]], [[CYP2C9|2C9]], [[UGT1A1]], [[UGT1A3|1A3]], [[UGT1A9|1A9]], [[UGT2B7|2B7]]
+| elimination_half-life = ~5-8 hours
+| excretion = Urine (~49% mostly as metabolites, 3% as unchanged drug); feces (~45% mostly as metabolites, 12% as unchanged drug)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6817
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 144060-53-7
+| ATC_prefix = M04
+| ATC_suffix = AA03
+| ATC_supplemental =  
+| PubChem = 134018
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB04854
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 118173
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 101V0R1N2E
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01206
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1164729
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=16 | H=16 | N=2 | Na=  | O=3 | S=1 
+| molecular_weight = 316.374 g/mol
+| smiles = N#Cc1c(OCC(C)C)ccc(c1)c2nc(c(s2)C(=O)O)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H16N2O3S/c1-9(2)8-21-13-5-4-11(6-12(13)7-17)15-18-10(3)14(22-15)16(19)20/h4-6,9H,8H2,1-3H3,(H,19,20)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = BQSJTQLCZDPROO-UHFFFAOYSA-N
+}}
+
+'''Febuxostat''', sold under the brand names '''Uloric''' in the US and '''Adenuric''' in Europe, is a medication used in the treatment of chronic [[gout]] and [[hyperuricemia]]. It inhibits [[xanthine oxidase]], thus reducing production of [[uric acid]] in the body.
+
+Febuxostat was discovered by scientists at the Japanese pharmaceutical company [[Teijin]] in 1998. Teijin partnered the drug with [[TAP Pharmaceuticals]] in the US and [[Ipsen]] in Europe. Ipsen obtained marketing approval for febuxostat from the [[European Medicines Agency]] in April 2008, [[Takeda Pharmaceutical Company|Takeda]] obtained FDA approval in February 2009, and Teijin obtained approval from the Japanese [[Pharmaceuticals and Medical Devices Agency]] in 2011.
+
+==Medical uses ==
+Febuxostat is used to treat chronic [[gout]] and [[hyperuricemia]].<ref name=NICE/>   [[National Institute for Health and Clinical Excellence]] concluded that febuxostat is more effective than standard doses of [[allopurinol]], but not more effective than higher doses of allopurinol.<ref name=NICE>[http://guidance.nice.org.uk/TA164/Guidance/Considerations_1 Febuxostat for the management of hyperuricaemia in people with gout (TA164) Chapter 4. Consideration of the evidence] {{webarchive |url=https://web.archive.org/web/20101006212851/http://guidance.nice.org.uk/TA164/Guidance/Considerations_1 |date=October 6, 2010 }}</ref>
+[[File:Uloric 40 mg tablet.jpg|thumb|right|Uloric 40 mg tablet]]
+
+Febuxostat is in the US [[pregnancy category]] C; there are no adequate and well-controlled studies in pregnant women.<ref name=label/>
+
+==Side effects==
+The adverse effects associated with febuxostat therapy include nausea, diarrhea, arthralgia, headache, increased hepatic serum enzyme levels and rash.<ref name=label>[http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/021856lbl.pdf Uloric label]  Updated February, 2009.</ref><ref name=Love>{{cite journal | doi = 10.1592/phco.30.6.594 |vauthors=Love BL, Barrons R, Veverka A, Snider KM | title = Urate-lowering therapy for gout: focus on febuxostat | journal = Pharmacotherapy | volume = 30 | issue = 6 | pages = 594–608 | year = 2010 | pmid = 20500048}}</ref>
+
+==Drug interactions==
+Febuxostat is contraindicated with concomitant use of [[theophylline]] and [[chemotherapeutic agents]], namely [[azathioprine]] and [[6-mercaptopurine]], because it could increase blood plasma concentrations of these drugs, and therefore their toxicity.<ref name=label/><ref>{{cite book|author1=Ashraf Mozayani |author2=Lionel Raymon |title=Handbook of Drug Interactions: A Clinical and Forensic Guide |year=2011|publisher=[[Springer Science+Business Media]]}}</ref>
+
+== Mechanism of action ==
+Febuxostat is a non-purine-selective inhibitor of [[xanthine oxidase]].<ref name=label/> It works by [[Non-competitive inhibition|non-competitively]] blocking the [[molybdenum pterin]] center which is the active site on xanthine oxidase. Xanthine oxidase is needed to successively oxidize both [[hypoxanthine]] and [[xanthine]] to uric acid. Hence, febuxostat inhibits xanthine oxidase, therefore reducing production of uric acid. Febuxostat inhibits both oxidized as well as reduced form of xanthine oxidase because of which febuxostat cannot be easily displaced from the molybdenum pterin site.<ref name=Love/>
+
+==History==
+Febuxostat was discovered by scientists at the Japanese pharmaceutical company [[Teijin]] in 1998.<ref>Teijin [http://www.teijin-pharma.com/project/story01.html Febuxostat Story] Page accessed June 25, 2015</ref>   Teijin partnered the drug with [[TAP Pharmaceuticals]] in the US and [[Ipsen]] in Europe.<ref>Tomlinson B.  Febuxostat (Teijin/Ipsen/TAP). Curr Opin Investig Drugs. 2005 Nov;6(11):1168-78. {{PMID|16312139}}</ref><ref>Bruce Japsen for the Chicago Tribune. August 17, 2006. [http://articles.chicagotribune.com/2006-08-17/business/0608170212_1_final-marketing-approval-gout-uric-acid FDA puts gout treatment on hold]</ref><ref>Note: [[TAP Pharmaceuticals]] was a [[joint venture]] between [[Abbott Laboratories]] and [[Takeda Pharmaceutical Company|Takeda]] that was dissolved in 2008 per this press release: [https://www.takeda.com/news/2008/20080320_3602.html Takeda, Abbott Announce Plans to Conclude TAP Joint Venture]</ref>
+
+Ipsen obtained marketing approval for febuxostat from the [[European Medicines Agency]] in April 2008,<ref>{{cite web |url=http://www.ipsen.com/articles/mediacentre/pressreleases/20080505___autorisation_adenuric_eu_10.pdf |title=Adenuric (febuxostat) receives marketing authorisation in the European Union |date= |work= |publisher=| accessdate=2008-05-28}}</ref>  [[Takeda Pharmaceutical Company|Takeda]] obtained FDA approval in February 2009,<ref>{{cite web |url=http://health.usnews.com/articles/health/healthday/2009/02/16/uloric-approved-for-gout.html |title=Uloric Approved for Gout |date= |work= |publisher=U.S. News and World Report | accessdate=2009-02-16}}</ref><ref>Teijin and Takeda. February 14, 2009 [http://www.takeda.com/news/2009/20090214_3677.html  Press release: ULORIC® (TMX-67, febuxostat) Receives FDA Approval for the Chronic Management of Hyperuricemia in Patients with Gout]</ref> and Teijin obtained approval from the Japanese authorities in 2011.<ref>Teijin. January 21, 2011 [http://www.teijin.com/news/2011/ebd110121_02.html Press release: TMX-67 (febuxostat) Approved in Japan]</ref>  Ipsen exclusively licensed its European rights to [[Menarini]] in 2009.<ref>Genetic Engineering News. October 2009. [http://www.genengnews.com/gen-news-highlights/menarini-to-market-takeda-ipsen-gout-therapy-in-41-european-countries/65931408/?kwrd=Menarini Menarini to Market Takeda/Ipsen Gout Therapy in 41 European Countries]</ref> Teijin partnered with [[Astellas]] for distribution in China and southeast Asia.<ref>First Word Pharma. April 1st, 2010 [http://www.firstwordpharma.com/node/577383?tsid=17#axzz3e6Fm87zP Teijin Pharma and Astellas Pharma enter into agreement for marketing rights of TMX-67 in China and Hong Kong]</ref><ref>Research Views. Aug 11 2011 [http://www.researchviews.com/healthcare/pharma/DealReport.aspx?sector=Pharma&DealID=173379 Teijin Pharma Enters Into Distribution Agreement With Astellas Pharma For Febuxostat]</ref>
+
+==Society and culture==
+
+===Cost===
+In the UK, NICE has found that febuxostat has a higher cost/benefit ratio than allopurinol and on that basis recommended febuxostat as a second-line drug for people who cannot use allopurinol.<ref name=NICE/>
+
+===Trade names===
+Febuxostat is marketed as Adenuric in Europe and New Zealand, Uloric in the US, Goturic and Goutex in Latin America, Feburic in Japan, and is generic in several countries and is available by many names in those countries.<ref name=drugnames>Drugs.com [http://www.drugs.com/international/febuxostat.html Drugs.com international names for febuxostat] Page accessed June 25, 2015</ref>
+
+== References ==
+{{Reflist|30em}}
+
+{{Antigout preparations}}
+{{Purinergics}}
+
+[[Category:Antigout agents]]
+[[Category:Xanthine oxidase inhibitors]]
+[[Category:Thiazoles]]
+[[Category:Carboxylic acids]]
+[[Category:Nitriles]]
+[[Category:Phenol ethers]]

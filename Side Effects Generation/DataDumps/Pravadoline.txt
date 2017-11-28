@@ -1,0 +1,86 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 464213342
+| IUPAC_name = (4-methoxyphenyl)-[2-methyl-1-(2-morpholin-4-ylethyl)indol-3-yl]methanone
+| image = Pravadoline.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = Legal
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 92623-83-1
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 56463
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 50942
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = P3JW662TWA
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 13178
+
+<!--Chemical data-->
+| C=23 | H=26 | N=2 | O=3 
+| molecular_weight = 378.46 g/mol
+| smiles = O=C(c1ccc(OC)cc1)c2c4ccccc4n(c2C)CCN3CCOCC3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C23H26N2O3/c1-17-22(23(26)18-7-9-19(27-2)10-8-18)20-5-3-4-6-21(20)25(17)12-11-24-13-15-28-16-14-24/h3-10H,11-16H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = MEUQWHZOUDZXHH-UHFFFAOYSA-N
+}}
+
+'''Pravadoline''' ('''WIN 48,098''') is an [[antiinflammatory]] and [[analgesic]] drug with an [[IC50]] of 4.9&nbsp;µM and a ''K''<sub>i</sub> of 2511&nbsp;nM at [[Cannabinoid receptor 1|CB<sub>1</sub>]], related in structure to [[nonsteroidal anti-inflammtory drug]]s (NSAIDs) such as [[indometacin]]. It was developed in the 1980s as a new antiinflammatory and [[prostaglandin]] synthesis inhibitor, acting through inhibition of the enzyme [[cyclooxygenase]] (COX).
+
+However, pravadoline was found to exhibit unexpectedly strong analgesic effects, which appeared at doses ten times smaller than the effective anti-inflammatory dose and so could not be explained by its action as a [[COX inhibitor]]. These effects were not blocked by opioid [[Receptor antagonist|antagonists]] such as [[naloxone]],<ref name="pmid2243340">{{cite journal  |vauthors=Haubrich DR, etal |title=Pharmacology of pravadoline: a new analgesic agent |journal=J. Pharmacol. Exp. Ther. |volume=255 |issue=2 |pages=511–22 |year=1990 |pmid=2243340 |url=http://jpet.aspetjournals.org/cgi/pmidlookup?view=long&pmid=2243340 }}</ref> and it was eventually discovered that pravadoline represented the first compound from a novel class of [[cannabinoid]] [[agonist]]s, the aminoalkylindoles.<ref name="pmid1900533">{{cite journal  |vauthors=Bell MR, etal |title=Antinociceptive (aminoalkyl)indoles |journal=J. Med. Chem. |volume=34 |issue=3 |pages=1099–110 |year=1991 |pmid=1900533 |doi=10.1021/jm00107a034 }}</ref>
+
+Pravadoline was never developed for use as an analgesic, partly due to toxicity concerns (although these were later shown to be a result of the salt form that the drug had been prepared in rather than from the pravadoline itself),<ref name="pmid8365586">{{cite journal  |vauthors=Everett RM, etal |title=Nephrotoxicity of pravadoline maleate (WIN 48098-6) in dogs: evidence of maleic acid-induced acute tubular necrosis |journal=Fundam Appl Toxicol |volume=21 |issue=1 |pages=59–65 |year=1993 |pmid=8365586 |doi=10.1006/faat.1993.1072
+|url=http://linkinghub.elsevier.com/retrieve/pii/S0272059083710729}}</ref> however the discovery of cannabinoid activity in this structurally novel family of drugs led to the discovery of several new cannabinoid agonists, including the drug [[WIN 55,212-2]], which is now widely used in scientific research.<ref name="pmid1732519">{{cite journal  |vauthors=D'Ambra TE, etal |title=Conformationally restrained analogues of pravadoline: nanomolar potent, enantioselective, (aminoalkyl)indole agonists of the cannabinoid receptor |journal=J. Med. Chem. |volume=35 |issue=1 |pages=124–35 |year=1992 |pmid=1732519 |doi=10.1021/jm00079a016 }}</ref><ref name="pmid1335057">{{cite journal  |vauthors=Compton DR, etal |title=Aminoalkylindole analogs: cannabimimetic activity of a class of compounds structurally distinct from delta 9-tetrahydrocannabinol |journal=J. Pharmacol. Exp. Ther. |volume=263 |issue=3 |pages=1118–26 |year=1992 |pmid=1335057
+|url=http://jpet.aspetjournals.org/cgi/pmidlookup?view=long&pmid=1335057}}</ref>
+
+==Animal studies==
+
+Administration of pravadoline on rats showed:<ref name="pmid2243340" />
+* Prolonged the response latency induced by tail immersion in hot water at a temperature of 55&nbsp;&deg;C (minimum effective dose, 100&nbsp;mg/kg s.c.)
+* Prevented [[hyperalgesia]] in rats with [[Brewer's Yeast]] injections during ([[Randall-Selitto test]]) (minimum effective dose, 1&nbsp;mg/kg, p.o.)
+* Prevented the [[nociceptive]] response induced by paw flexion in the [[adjuvant]]-arthritic rat (ED50, 41&nbsp;mg/kg, p.o.)
+* Prevented the [[nociceptive]] response of [[bradykinin]]-induced head and forepaw flexion (ED50, 78&nbsp;mg/kg, p.o.)
+
+The antinociceptive activity of pravadoline cannot be explained by an opioid mechanism, because pravadoline-induced antinociception was not antagonized by naloxone (1&nbsp;mg/kg, s.c.) and pravadoline did not bind to the [[opioid receptor]]s at concentrations up to 10&nbsp;μM.<ref name="pmid2243340" />
+
+==See also==
+* [[AM-630]] (6-iodopravadoline)
+* [[WIN 54,461]] (6-bromopravadoline)
+* [[WIN 55,212-2]]
+* [[RCS-4]] (1-pentyl-3-(4-methoxybenzoyl)indole)
+
+==References==
+{{Reflist}}
+
+
+{{Cannabinoids}}
+{{Cannabinoid receptor modulators}}
+
+[[Category:Aminoalkylindoles]]
+[[Category:Benzoylindoles]]
+[[Category:Morpholines]]
+[[Category:WIN compounds]]
+[[Category:Phenol ethers]]

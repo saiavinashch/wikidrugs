@@ -1,0 +1,141 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 470627698
+| IUPAC_name = (''S'')-2-[(2-amino-6-oxo-6,9-dihydro-3''H''-purin-9-yl)methoxy]ethyl-2-amino-3-methylbutanoate
+| image = Valaciclovir structure.svg
+
+<!--Clinical data-->
+| tradename = Valtrex
+| Drugs.com = {{drugs.com|monograph|valtrex}}
+| MedlinePlus = a695010
+| licence_EU =
+| licence_US = Valacyclovir
+| pregnancy_AU = B3
+| pregnancy_US = B
+| pregnancy_category =
+| legal_AU = S4
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 55%
+| protein_bound = 13–18%
+| metabolism = Hepatic (to [[aciclovir]])
+| elimination_half-life = <30 minutes (valaciclovir);<br />2.5–3.6 hours (aciclovir)
+| excretion = Renal 40–50% (aciclovir),<br />faecal 47% (aciclovir)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 4824
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 124832-26-4
+| ATC_prefix = J05
+| ATC_suffix = AB11
+| PubChem = 60773
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00577
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 54770
+| NIAID_ChemDB = 070982
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = MZ1IW7Q79D
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D00398
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 35854
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1349
+
+<!--Chemical data-->
+| C=13 | H=20 | N=6 | O=4
+| molecular_weight = 324.336 g/mol
+| smiles = O=C(OCCOCn1c2N\C(=N/C(=O)c2nc1)N)[C@@H](N)C(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C13H20N6O4/c1-7(2)8(14)12(21)23-4-3-22-6-19-5-16-9-10(19)17-13(15)18-11(9)20/h5,7-8H,3-4,6,14H2,1-2H3,(H3,15,17,18,20)/t8-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = HDOVUKNUBWVHOX-QMMMGPOBSA-N
+}}
+
+'''Valaciclovir''', also spelled '''valacyclovir''', is an [[antiviral drug]] used in the management of [[herpes simplex]], [[herpes zoster]] (shingles), and [[Herpes B virus|herpes B]]. 
+
+It is a [[prodrug]], being converted {{lang|la|''[[in vivo]]''}} to [[aciclovir]]. 
+
+Valaciclovir was approved for medical use in 1995.<ref>{{cite book|last1=Long|first1=Sarah S.|last2=Pickering|first2=Larry K.|last3=Prober|first3=Charles G.|title=Principles and Practice of Pediatric Infectious Disease|date=2012|publisher=Elsevier Health Sciences|isbn=1437727026|page=1502|url=https://books.google.com/books?id=nQ7-o8JAH7kC&pg=PA1502|language=en}}</ref> It is marketed by [[GlaxoSmithKline]] under the trade names Valtrex and Zelitrex. Valaciclovir has been available as a generic drug in the U.S. since November 25, 2009.<ref>{{Cite news|last=Ahmed |first=Rumman |url=https://www.wsj.com/articles/SB125931422280866181 |title=Ranbaxy Launches Generic Valtrex in U.S. |work=[[The Wall Street Journal]] |date=November 27, 2009 |accessdate=January 16, 2010 }}</ref>
+
+==Medical use==
+[[Image:Valtrex pill.jpg|thumb|Valtrex brand valaciclovir 500mg tablets]]
+
+Valaciclovir is indicated for the treatment of HSV and VZV infections, including:<ref name="AMH2006">Rossi S, editor. [[Australian Medicines Handbook]] 2006. Adelaide: Australian Medicines Handbook; 2006. {{ISBN|0-9757919-2-3}}{{Page needed|date=September 2010}}</ref>
+* Oral and genital [[herpes simplex]] (treatment and [[prophylaxis]])
+* Reduction of HSV transmission from people with recurrent infection to uninfected individuals
+* [[Herpes zoster]] (shingles): the typical dosage for treatment of herpes is 1,000 mg orally three times a day for seven consecutive days. <ref>{{Cite book
+|title=Herpes zoroster: recent aspects of diagnosis and control
+|last=Lille
+|first=H. Martina
+|authorlink=
+|last2=Wassilew
+|first2=Sawko W.
+|chapter = Antiviral therapies of shingles in dermatology
+|editor-last=Gross
+|editor-first=Gerd
+| editor2-last = Doerr
+| editor2-first = H.W.
+|edition=
+|volume=26
+|year=2006
+|origyear=
+|page=124
+|pages=
+| series = Monographs in virology
+|publisher=[[Karger|Karger Publishers]]
+|place=Basel (Switzerland)
+|url=https://books.google.com/books?id=3Eh51Np2w7IC&pg=PA124&dq=valacyclovir#v=onepage&q=valacyclovir&f=false
+|accessdate=January 1, 2012
+|isbn=978-3-8055-7982-7
+|oclc=
+}}</ref>
+
+* Prevention of [[cytomegalovirus]] following [[organ transplantation]]
+* Prophylaxis against herpesviruses in immunocompromised patients (such as patients undergoing cancer chemotherapy)<ref name="Cancer">{{cite journal  |vauthors=Elad S, Zadik Y, Hewson I, etal |title=A systematic review of viral infections associated with oral involvement in cancer patients: a spotlight on Herpesviridea |journal=Support Care Cancer |volume=18 |issue=8 |pages=993–1006 |date=August 2010 |pmid=20544224 |doi=10.1007/s00520-010-0900-3}}</ref>
+
+It has shown promise as a treatment for [[infectious mononucleosis]],<ref name=balfour2005/><ref name=simon2003>{{Cite journal|first=Michael W. |last=Simon |author2=Robert G. Deeter |author3=Britt Shahan |date=March 2003 |title=The Effect of Valacyclovir and Prednisolone in Reducing Symptoms of EBV Illness In Children: A Double-Blind, Placebo-Controlled Study |journal=International Pediatrics |volume=18 |issue=3 |pages=164–169 |url=http://int-pediatrics.com/PDF/Volume_18/18-3/164_169_ip1803.pdf }}{{dead link|date=May 2012}}</ref><ref name="pmid17369082" /> and is preventively administered in suspected cases of herpes B virus exposure.{{cn|date=May 2012}}
+
+==Adverse effects==
+Common [[adverse drug reaction]]s (≥1% of patients) associated with valaciclovir therapy are the same as for [[aciclovir]], its active metabolite, and include: nausea, vomiting, diarrhea and headache. Infrequent adverse effects (0.1–1% of patients) include: agitation, [[vertigo (medical)|vertigo]], confusion, dizziness, [[edema]], [[arthralgia]], sore throat, constipation, abdominal pain, rash, weakness and/or [[renal impairment]]. Rare adverse effects (<0.1% of patients) include: coma, seizures, [[neutropenia]], [[leukopenia]], tremor, [[ataxia]], [[encephalopathy]], psychotic symptoms, [[crystalluria]], [[anorexia (symptom)|anorexia]], fatigue, [[hepatitis]], [[Stevens–Johnson syndrome]], [[toxic epidermal necrolysis]] and/or [[anaphylaxis]].<ref name="AMH2006" />
+
+== Mechanism of action ==
+Valaciclovir belongs from a family of molecules first described and patented by P.Cornaglia Ferraris in 1982 (patents EP0077460 A2, CA1258149A1,  DE3273785D1, EP0077460A3,  EP0077460B1,  US4567182). Valaciclovir is a prodrug, an [[ester]]ified version of [[aciclovir]] that has greater oral bioavailability (about 55%) than aciclovir (10–20%). It is converted by [[esterase]]s to the active drug [[aciclovir]], as well as the [[amino acid]] [[valine]], via [[hepatic]] [[first-pass metabolism]]. [[Aciclovir]] is selectively converted into a monophosphate form by viral [[thymidine kinase]], which is far more effective (3000 times) in [[phosphorylation]] of [[aciclovir]] than cellular thymidine kinase. Subsequently, the monophosphate form is further phosphorylated into the active triphosphate form, aciclo-GTP, by cellular [[kinase]]s. Aciclo-GTP is a very potent inhibitor of [[Viral disease|viral]] [[DNA polymerase]]; it has approximately 100 times higher affinity to viral than cellular polymerase. Its monophosphate form also incorporates into the viral DNA, resulting in [[protein biosynthesis|chain termination]]. It has also been shown that the viral enzymes cannot remove aciclo-[[GMP synthase|GMP]] from the chain, which results in inhibition of further activity of DNA polymerase. Aciclo-GTP is fairly rapidly metabolised within the cell, possibly by cellular [[phosphatase]]s.<ref>http://www.uscnk.us/protein-antibody-elisa/Valaciclovir-%28VCV%29-V511.htm</ref>
+
+
+Aciclovir, the active metabolite of valaciclovir, is active against most species in the [[herpesvirus]] family. In descending order of activity:<ref name="OBrien1989">{{Cite journal|author=O'Brien JJ, Campoli-Richards DM |title=Acyclovir. An updated review of its antiviral activity, pharmacokinetic properties and therapeutic efficacy |journal=Drugs |volume=37 |issue=3 |pages=233–309 |date=March 1989 |pmid=2653790 |doi= 10.2165/00003495-198937030-00002}}</ref>
+
+*[[Herpes simplex virus]] type I (HSV-1)
+*Herpes simplex virus type II (HSV-2)
+*[[Varicella zoster virus]] (VZV)
+*[[Epstein–Barr virus]] (EBV)
+*[[Cytomegalovirus]] (CMV)
+
+The drug is predominantly active against HSV, and to a lesser extent VZV. It is only of limited efficacy against EBV and CMV; however, valacyclovir has recently been shown to lower or eliminate the presence of the Epstein–Barr virus in subjects afflicted with acute mononucleosis, leading to a significant decrease in the severity of symptoms.<ref name=balfour2005>Balfour ''et al.'' (December 2005) A controlled trial of valacyclovir in infectious mononucleosis. Presented at the 45th Interscience Conference on Antimicrobial Agents and Chemotherapy, Washington, DC., December 18, 2005. Abstract V1392</ref><ref name=simon2003>{{Cite journal|first=Michael W. |last=Simon |author2=Robert G. Deeter |author3=Britt Shahan |date=March 2003 |title=The Effect of Valacyclovir and Prednisolone in Reducing Symptoms of EBV Illness In Children: A Double-Blind, Placebo-Controlled Study |journal=International Pediatrics |volume=18 |issue=3 |pages=164–169 |url=http://int-pediatrics.com/PDF/Volume_18/18-3/164_169_ip1803.pdf }}{{dead link|date=May 2012}}</ref><ref name="pmid17369082">{{Cite journal |vauthors=Balfour HH, Hokanson KM, Schacherer RM, etal |title=A virologic pilot study of valacyclovir in infectious mononucleosis |journal=Journal of Clinical Virology |volume=39 |issue=1 |pages=16–21 |date=May 2007 |pmid=17369082 |doi=10.1016/j.jcv.2007.02.002}}</ref> Although it can prevent the establishment of viral latency, acyclovir therapy has not proven effective at eradicating latent viruses in [[ganglion|nerve ganglia]].<ref name="OBrien1989">{{Cite journal|author=O'Brien JJ, Campoli-Richards DM |title=Acyclovir. An updated review of its antiviral activity, pharmacokinetic properties and therapeutic efficacy |journal=Drugs |volume=37 |issue=3 |pages=233–309 |date=March 1989 |pmid=2653790 |doi= 10.2165/00003495-198937030-00002}}</ref>
+
+To date,{{when|date=May 2012}} resistance to valaciclovir has not been clinically significant. Mechanisms of resistance in HSV include deficient viral thymidine kinase, and mutations to viral thymidine kinase and/or DNA polymerase, altering substrate sensitivity.<ref name="Martindale34">{{Cite book|editor-first=Sean C. |editor-last=Sweetman |title=Martindale: the complete drug reference |edition=34th |publisher=Pharmaceutical Press |location=London |year=2005 |pages= |isbn=0-85369-550-4 |oclc=56903116}}{{Page needed|date=September 2010}}</ref>
+
+It also is used for [[herpes B virus]] postexposure prophylaxis.<ref>{{cite web|url=https://www.cdc.gov/herpesBvirus/firstaid-treatment.html|title=B Virus—First Aid and Treatment—Herpes B—CDC|publisher=|accessdate=June 6, 2015}}</ref>
+
+==Chemistry==
+Valtrex is offered in 250&nbsp;mg, 500&nbsp;mg, and 1&nbsp;gram tablets, the active ingredient being valacyclovir hydrochloride, with the inactive ingredients [[carnauba wax]], colloidal silicon dioxide, [[crospovidone]], [[Indigo carmine|FD&C Blue No. 2]] [[Lake pigment|Lake]], [[hypromellose]], [[magnesium stearate]], [[microcrystalline cellulose]], [[polyethylene glycol]], [[polysorbate 80]], [[povidone]], and [[titanium dioxide]].<ref>{{cite web|url=http://us.gsk.com/products/assets/us_valtrex.pdf |title=Valtrex Prescribing Information |publisher=[[GlaxoSmithKline]] |date=September 2008 |accessdate=May 7, 2009}}</ref>
+
+==References==
+{{Reflist|2}}
+
+{{Antivirals}}
+{{GlaxoSmithKline}}
+[[Category:Amino acid derivatives]]
+[[Category:Anti-herpes virus drugs]]
+[[Category:Butyrates]]
+[[Category:Carboxylate esters]]
+[[Category:Ethers]]
+[[Category:Prodrugs]]
+[[Category:Purines]]
+[[Category:Herpes]]

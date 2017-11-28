@@ -1,0 +1,120 @@
+{{Chembox
+| ImageFile = Favipiravir.svg
+|  ImageSize = 200px
+|  ImageAlt = 
+| IUPACName = 5-fluoro-2-hydroxypyrazine-3-carboxamide
+| OtherNames = T-705
+| Section1 = {{Chembox Identifiers
+|  CASNo = 259793-96-9
+|  PubChem = 492405
+|  ChemSpiderID = 431002
+| ChEMBL = 221722
+|  SMILES = c1c(nc(c(=O)[nH]1)C(=O)N)F
+|  InChI = 1/C5H4FN3O2/c6-2-1-8-5(11)3(9-2)4(7)10/h1H,(H2,7,10)(H,8,11)
+|  InChIKey = ZCGNOVWYSGBHAU-UHFFFAOYAM
+|  StdInChI = 1S/C5H4FN3O2/c6-2-1-8-5(11)3(9-2)4(7)10/h1H,(H2,7,10)(H,8,11)
+|  StdInChIKey = ZCGNOVWYSGBHAU-UHFFFAOYSA-N
+}}
+| Section2 = {{Chembox Properties
+|  C=5|H=4|F=1|N=3|O=2
+|  MolarMass = 
+|  Appearance = 
+|  Density = 
+|  MeltingPt = 
+|  BoilingPt = 
+|  Solubility = 
+}}
+| Section3 = {{Chembox Hazards
+|  MainHazards = 
+|  FlashPt = 
+|  AutoignitionPt = 
+}}
+}}
+
+'''Favipiravir''', also known as '''T-705''' or '''Avigan''', is an experimental [[antiviral drug]] being developed by [[Toyama Chemical]] of Japan with activity against many [[RNA virus]]es. Like some other experimental antiviral drugs (T-1105 and T-1106), it is a [[pyrazinecarboxamide]] derivative. Favipiravir is active against [[influenza virus]]es, [[West Nile virus]], [[yellow fever virus]], [[foot-and-mouth disease virus]] as well as other [[flavivirus]]es, [[arenavirus]]es, [[bunyavirus]]es and [[alphavirus]]es.<ref name=Furuta/> Activity against [[enterovirus]]es <ref name=Furuta2013>{{Cite journal | doi = 10.1016/j.antiviral.2013.09.015| pmid = 24084488| title = Favipiravir (T-705), a novel viral RNA polymerase inhibitor| journal = Antiviral Research| volume = 100| issue = 2| pages = 446–54| year = 2013| last1 = Furuta | first1 = Y. | last2 = Gowen | first2 = B. B. | last3 = Takahashi | first3 = K. | last4 = Shiraki | first4 = K. | last5 = Smee | first5 = D. F. | last6 = Barnard | first6 = D. L. | pmc=3880838}}</ref> and [[Rift Valley fever]] virus has also been demonstrated.<ref>{{cite journal | author = Caroline AL, Powell DS, Bethel LM, Oury TD, Reed DS ''et al.'' | year = 2014 | title = Broad Spectrum Antiviral Activity of Favipiravir (T-705)  Protection from Highly Lethal Inhalational Rift Valley Fever | url = | journal = PLoS Neglected Tropical Diseases | volume = 8 | issue = 4| page = e2790 | doi = 10.1371/journal.pntd.0002790 }}</ref> Favipiravir showed limited efficacy against [[Zika virus]] in animal studies, but was less effective than other antivirals such as [[MK-608]].<ref>{{cite journal | author = Mumtaz N, van Kampen JJ, Reusken CB, Boucher CA, Zika Virus Koopmans MP | year = 2016 | title = Where Is the Treatment? | journal = Curr Treat Options Infect Dis | volume = 8 | issue = | pages = 208–211 | pmid = 27547128 | doi=10.1007/s40506-016-0083-7 | pmc=4969322}}</ref>
+
+The mechanism of its actions is thought to be related to the selective inhibition of viral [[RNA-dependent RNA polymerase]].<ref>{{Cite journal
+ | pmid = 23874596
+| pmc = 3707847
+| year = 2013
+| author1 = Jin
+| first1 = Z
+| title = The ambiguous base-pairing and high substrate efficiency of T-705 (Favipiravir) Ribofuranosyl 5'-triphosphate towards influenza a virus polymerase
+| journal = PLoS ONE
+| volume = 8
+| issue = 7
+| pages = e68347
+| last2 = Smith
+| first2 = L. K.
+| last3 = Rajwanshi
+| first3 = V. K.
+| last4 = Kim
+| first4 = B
+| last5 = Deval
+| first5 = J
+| doi = 10.1371/journal.pone.0068347
+}}</ref> Other research suggests that favipiravir induces lethal RNA transversion mutations, producing a nonviable viral phenotype.<ref>{{Cite journal|last=Baranovich|first=Tatiana|last2=Wong|first2=Sook-San|last3=Armstrong|first3=Jianling|last4=Marjuki|first4=Henju|last5=Webby|first5=Richard J.|last6=Webster|first6=Robert G.|last7=Govorkova|first7=Elena A.|date=2013-04-01|title=T-705 (favipiravir) induces lethal mutagenesis in influenza A H1N1 viruses in vitro|journal=Journal of Virology|volume=87|issue=7|pages=3741–3751|doi=10.1128/JVI.02346-12|issn=1098-5514|pmc=3624194|pmid=23325689}}</ref> Favipiravir is a prodrug and is metabolized to its active form, favirpiravir-RTP, following digestion.<ref>{{Cite journal|last=Smee|first=Donald F.|last2=Hurst|first2=Brett L.|last3=Egawa|first3=Hiroyuki|last4=Takahashi|first4=Kazumi|last5=Kadota|first5=Takumi|last6=Furuta|first6=Yousuke|date=2009-07-29|title=Intracellular metabolism of favipiravir (T-705) in uninfected and influenza A (H5N1) virus-infected cells|url=http://jac.oxfordjournals.org/content/early/2009/07/29/jac.dkp274|journal=Journal of Antimicrobial Chemotherapy|language=en|pages=dkp274|doi=10.1093/jac/dkp274|issn=0305-7453|pmc=2740635|pmid=19643775|volume=64}}</ref> Human [[Hypoxanthine-guanine phosphoribosyltransferase|hypoxanthine guanine phosphoribosyltransferase]] (HGPRT) is believed to play a key role in this activation process.<ref>{{Cite journal|last=Naesens|first=Lieve|last2=Guddat|first2=Luke W.|last3=Keough|first3=Dianne T.|last4=van Kuilenburg|first4=André B. P.|last5=Meijer|first5=Judith|last6=Vande Voorde|first6=Johan|last7=Balzarini|first7=Jan|date=2013-10-01|title=Role of human hypoxanthine guanine phosphoribosyltransferase in activation of the antiviral agent T-705 (favipiravir)|journal=Molecular Pharmacology|volume=84|issue=4|pages=615–629|doi=10.1124/mol.113.087247|issn=1521-0111|pmid=23907213}}</ref> Favipiravir does not inhibit RNA or DNA synthesis in mammalian cells and is not toxic to them.<ref name=Furuta>{{Cite journal | last1 = Furuta | first1 = Y. | last2 = Takahashi | first2 = K. | last3 = Shiraki | first3 = K. | last4 = Sakamoto | first4 = K. | last5 = Smee | first5 = D. F. | last6 = Barnard | first6 = D. L. | last7 = Gowen | first7 = B. B. | last8 = Julander | first8 = J. G. | last9 = Morrey | first9 = J. D. | doi = 10.1016/j.antiviral.2009.02.198 | title = T-705 (favipiravir) and related compounds: Novel broad-spectrum inhibitors of RNA viral infections | journal = Antiviral Research | volume = 82 | issue = 3 | pages = 95–102 | year = 2009 | pmid =  19428599| pmc = }}</ref>
+
+In 2014, favipiravir was approved in Japan for stockpiling against [[influenza pandemic]]s.<ref>{{cite news|url=https://www.bloomberg.com/news/2014-08-07/ebola-drug-from-japan-may-emerge-among-key-candidates.html|title=Ebola Drug From Japan May Emerge Among Key Candidates|date=7 August 2014|publisher=Bloomberg.com|first=Cynthia|last=Koons}}</ref>
+
+==Ebola virus disease==
+The drug appears to be effective in a [[mouse model]] of [[Ebola virus disease]], but its efficacy against human Ebola infection is unproved.<ref name="Gatherer 2014">{{cite journal | author = Gatherer D | title = The 2014 Ebola virus disease outbreak in West Africa | journal = J. Gen. Virol. | volume = 95 | issue = Pt 8 | pages = 1619–1624 | year = 2014 | pmid = 24795448 | doi = 10.1099/vir.0.067199-0 }}</ref><ref>{{Cite journal
+| last1 = Oestereich | first1 = L. 
+| last2 = Lüdtke | first2 = A. 
+| last3 = Wurr | first3 = S. 
+| last4 = Rieger | first4 = T. 
+| last5 = Muñoz-Fontela | first5 = C.
+| last6 = Günther | first6 = S.
+| doi = 10.1016/j.antiviral.2014.02.014
+| title = Successful treatment of advanced Ebola virus infection with T-705 (favipiravir) in a small animal model
+| journal = Antiviral Research 
+| volume = 105
+| issue =  
+| pages = 17–21
+| year = 2014
+| pmid =  24583123
+| pmc = 
+}}</ref><ref>{{Cite journal
+ | pmid = 24462697
+| year = 2014
+| author1 = Smither
+| first1 = S. J.
+| title = Post-exposure efficacy of oral T-705 (Favipiravir) against inhalational Ebola virus infection in a mouse model
+| journal = Antiviral Research
+| volume = 104
+| pages = 153–5
+| last2 = Eastaugh
+| first2 = L. S.
+| last3 = Steward
+| first3 = J. A.
+| last4 = Nelson
+| first4 = M
+| last5 = Lenk
+| first5 = R. P.
+| last6 = Lever
+| first6 = M. S.
+| doi = 10.1016/j.antiviral.2014.01.012
+}}</ref> During the [[2014 West Africa Ebola virus outbreak]], it was reported that a French nurse who contracted Ebola while volunteering for [[Médecins Sans Frontières|MSF]] in Liberia recovered after receiving a course of favipiravir.<ref>{{cite news|title=First French Ebola patient leaves hospital|url=https://www.reuters.com/article/us-health-ebola-france-idUSKCN0HT0D720141004|work=Reuters|date=4 October 2016}}</ref> A clinical trial investigating the use of favipiravir against Ebola virus disease was started in [[Guéckédou]], Guinea, during December 2014.<ref>{{cite web|title=Guinea: Clinical Trial for Potential Ebola Treatment Started in MSF Clinic in Guinea|url=http://allafrica.com/stories/201412260651.html|publisher=AllAfrica - All the Time|accessdate=28 December 2014}}</ref> Preliminary results showed a decrease in mortality rate in patients with low-to-moderate levels of Ebola virus in the blood, but no effect on patients with high levels of the virus, a group at a higher risk of death.<ref>{{cite news| url=https://www.nytimes.com/2015/02/05/science/ebola-drug-has-encouraging-early-results-and-questions-follow.html?smid=tw-share&_r=0 | work=The New York Times | first=Sheri | last=Fink | title=Ebola Drug Aids Some in a Study in West Africa | date=4 February 2015}}</ref> The trial design has been criticised by [[Scott Hammer]] and others for using only historical controls.<ref>{{citation|url=http://www.sciencemag.org/news/2015/02/results-encouraging-ebola-trial-scrutinized |title=Results from encouraging Ebola trial scrutinized |author=Jon Cohen |journal=[[Science (journal)|Science]] |date=26 February 2015 |accessdate= 21 January 2016 |doi=10.1126/science.aaa7912}}</ref> The results of this clinical trial have been presented in February at the annual [[Conference on Retroviruses and Opportunistic Infections|Conference on Retroviruses and Opportunistic Infections (CROI)]] 2016 by [[Daouda Sissoko]]<ref>{{Cite web|url=http://www.croiconference.org/sessions/favipiravir-patients-ebola-virus-disease-early-results-jiki-trial-guinea|title=Favipiravir in Patients with Ebola Virus Disease: Early Results of the JIKI trial in Guinea {{!}} CROI Conference|website=www.croiconference.org|access-date=2016-03-17}}</ref> and published on March 1, 2016 in [[PLOS Medicine]].<ref>{{Cite journal|last=Sissoko|first=Daouda|last2=Laouenan|first2=Cedric|last3=Folkesson|first3=Elin|last4=M’Lebing|first4=Abdoul-Bing|last5=Beavogui|first5=Abdoul-Habib|last6=Baize|first6=Sylvain|last7=Camara|first7=Alseny-Modet|last8=Maes|first8=Piet|last9=Shepherd|first9=Susan|title=Experimental Treatment with Favipiravir for Ebola Virus Disease (the JIKI Trial): A Historically Controlled, Single-Arm Proof-of-Concept Trial in Guinea|url=http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001967|journal=PLOS Medicine|volume=13|issue=3|doi=10.1371/journal.pmed.1001967|pmc=4773183|pmid=26930627|pages=e1001967}}</ref>
+
+==See also==
+* [[BCX4430]]
+* [[Brincidofovir]]
+* [[FGI-106]]
+* [[JK-05]]
+* [[TKM-Ebola]]
+* [[Triazavirin]]
+* [[ZMapp]]
+
+==References==
+{{reflist|32em}}
+
+{{RNA antivirals}}
+{{Ebola}}
+
+[[Category:Anti-RNA virus drugs]]
+[[Category:Pyrazines]]
+[[Category:Carboxamides]]
+[[Category:Organofluorides]]
+[[Category:Ebola]]
+[[Category:Hydroxyarenes]]
+[[Category:Experimental drugs]]

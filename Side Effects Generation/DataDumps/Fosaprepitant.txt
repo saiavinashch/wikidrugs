@@ -1,0 +1,93 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 416448532
+| IUPAC_name = [3-{[(2''R'',3''S'')-2-[(1''R'')-1-[3,5-bis(trifluoromethyl)phenyl] ethoxy]-3-(4-fluorophenyl)morpholin-4-yl]methyl}-5-oxo- 2''H''-1,2,4-triazol-1-yl]phosphonic acid
+| image = Fosaprepitant.svg
+| alt = Skeletal formula of fosaprepitant
+| width = 255
+| image2 = Fosaprepitant-3D-spacefill.png
+| alt2 = Space-filling model of the fosaprepitant molecule
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|MTM|fosaprepitant}}
+| MedlinePlus = a604003
+| licence_EU = Ivemend
+| licence_US = Fosaprepitant
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = B
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = [[Intravenous therapy|Intravenous]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = n/a
+| protein_bound = >95% (aprepitant)
+| metabolism = To aprepitant
+| elimination_half-life = 9 to 13 hours (aprepitant)
+| excretion =  
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7623
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 172673-20-0
+| CAS_supplemental = <br>{{CAS|265121-04-8}} ([[meglumine|dimeglumine]])
+| ATC_prefix = A04
+| ATC_suffix = AD12
+| PubChem = 219090
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB06717
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 6L8OF9XRDC
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D06597
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1199324
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 64321
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 189912
+
+<!--Chemical data-->
+| C=23 | H=22 | F=7 | N=4 | O=6 | P=1 
+| molecular_weight = 614.406 g/mol
+| smiles = C[C@H](c1cc(cc(c1)C(F)(F)F)C(F)(F)F)O[C@@H]2[C@@H](N(CCO2)Cc3[nH]c(=O)n(n3)P(=O)(O)O)c4ccc(cc4)F
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C23H22F7N4O6P/c1-12(14-8-15(22(25,26)27)10-16(9-14)23(28,29)30)40-20-19(13-2-4-17(24)5-3-13)33(6-7-39-20)11-18-31-21(35)34(32-18)41(36,37)38/h2-5,8-10,12,19-20H,6-7,11H2,1H3,(H,31,32,35)(H2,36,37,38)/t12-,19+,20-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = BARDROPHSZEBKC-OITMNORJSA-N
+}}
+
+'''Fosaprepitant''' ('''Emend for Injection''' ([[United States|US]]), '''Ivemend''' ([[Europe|EU]])) is an [[antiemetic]] [[drug]], administered intravenously. It is a [[prodrug]] of [[aprepitant]].
+
+Fosaprepitant was developed by [[Merck & Co.]] and was approved by the [[United States]] [[Food and Drug Administration]] (FDA) on January 25, 2008<ref>{{cite web |url=http://www.drugs.com/newdrugs/fda-approves-emend-fosaprepitant-dimeglumine-merck-s-new-intravenous-therapy-combination-other-833.html |title=Drugs.com, FDA Approves Emend (fosaprepitant dimeglumine) for Injection, Merck's New Intravenous Therapy, for Use in Combination with Other Antiemetics for Prevention of Nausea and Vomiting Caused by Chemotherapy |accessdate=2008-03-15 |work= }}</ref> and by the [[European Medicines Agency]] (EMA) on January 11 of the same year.<ref>{{cite web |url=http://www.emea.europa.eu/humandocs/Humans/EPAR/ivemend/ivemend.htm |title=European Public Assessment Report for Ivemend (from the EMEA website) |accessdate=2008-03-15 |work= |deadurl=yes |archiveurl=https://web.archive.org/web/20080228144811/http://www.emea.europa.eu/humandocs/Humans/EPAR/ivemend/ivemend.htm |archivedate=2008-02-28 |df= }}</ref>
+
+== See also ==
+* [[Aprepitant]]
+* [[Casopitant]]
+* [[L-733,060]]
+* [[Maropitant]]
+* [[Vestipitant]]
+
+== References ==
+{{Reflist|2}}
+
+{{Antiemetics}}
+{{Neurokinin receptor modulators}}
+
+[[Category:Antiemetics]]
+[[Category:NK1 receptor antagonists]]
+[[Category:Prodrugs]]
+[[Category:Morpholines]]
+[[Category:Phosphoramidates]]
+[[Category:Triazoles]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Fluoroarenes]]
+
+
+{{gastrointestinal-drug-stub}}
+{{nervous-system-drug-stub}}

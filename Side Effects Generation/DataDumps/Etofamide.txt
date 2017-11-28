@@ -1,0 +1,59 @@
+{{Drugbox
+| verifiedrevid = 444548303
+| IUPAC_name = 2,2-dichloro-''N''-(2-ethoxyethyl)-''N''- [4-(4-nitrophenoxy)benzyl]acetamide
+| image = Etofamide.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|etofamide}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_status = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 25287-60-9
+| ATC_prefix = P01
+| ATC_suffix = AC03
+| ATC_supplemental =  
+| PubChem = 65718
+| ChEMBL = 1788393
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 03F36JH21U
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07355
+| ChemSpiderID      = 59142
+
+<!--Chemical data-->
+| C=19 | H=20 | Cl=2 | N=2 | O=5 
+| molecular_weight = 427.27 g/mol
+| smiles            = CCOCCN(CC1=CC=C(C=C1)OC2=CC=C(C=C2)[N+](=O)[O-])C(=O)C(Cl)Cl
+| StdInChI          = 1S/C19H20Cl2N2O5/c1-2-27-12-11-22(19(24)18(20)21)13-14-3-7-16(8-4-14)28-17-9-5-15(6-10-17)23(25)26/h3-10,18H,2,11-13H2,1H3
+| StdInChIKey       = QTRALMGDQMIVFF-UHFFFAOYSA-N
+}}
+'''Etofamide''' ([[International Nonproprietary Name|INN]], also known as '''eticlordifene''') is an [[antiprotozoal agent|antiprotozoal drug]] used in the treatment of [[amoebiasis]].
+
+Its effect against ''[[Giardia lamblia]]'' has been described as modest.<ref name="pmid1518040">{{cite journal |author=Cedillo-Rivera R, Muñoz O |title=In-vitro susceptibility of Giardia lamblia to albendazole, mebendazole and other chemotherapeutic agents |journal=J. Med. Microbiol. |volume=37 |issue=3 |pages=221–4 |date=September 1992 |pmid=1518040 |doi= 10.1099/00222615-37-3-221|url=}}</ref>
+
+==References==
+{{reflist}}
+
+{{Agents against amoebozoa}}
+
+[[Category:Antiprotozoal agents]]
+[[Category:Nitrobenzenes]]
+[[Category:Organochlorides]]
+[[Category:Phenol ethers]]
+
+{{Antiinfective-drug-stub}}

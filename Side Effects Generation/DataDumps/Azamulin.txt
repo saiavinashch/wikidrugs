@@ -1,0 +1,67 @@
+
+{{Infobox drug
+| IUPAC_name        = (1''S'',2''R'',3''S'',4''R'',6''R'',7''R'',8''R'',14''R'')-4-Ethyl-3-hydroxy-2,4,7,14-tetramethyl-9-oxotricyclo[5.4.3.0<sup>1,8</sup>]tetradec-6-yl [(5-amino-1''H''-1,2,4-triazol-3-yl)sulfanyl]acetate
+| image             = Azamulin skeletal.svg
+| alt               = 
+| caption           = 
+<!-- Clinical data -->
+| pronounce         = 
+| tradename         = 
+| Drugs.com         = 
+| MedlinePlus       = 
+| pregnancy_AU      = <!-- A/B1/B2/B3/C/D/X -->
+| pregnancy_AU_comment = 
+| pregnancy_US      = <!-- A/B/C/D/X/N -->
+| pregnancy_category= 
+| routes_of_administration = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_AU_comment =
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_DE = <!-- Anlage I, II, III -->
+| legal_NZ = <!-- Class A, B, C -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM / Class A, B, C -->
+| legal_US = <!-- OTC/Rx-only/Schedule I, II, III, IV, V -->
+| legal_UN = <!-- N I, II, III, IV / P I, II, III, IV-->
+| legal_status      = <!-- Free text -->
+<!-- Pharmacokinetic data -->
+| bioavailability   = 
+| protein_bound     = 
+| metabolism        = 
+| metabolites       =
+| onset             = 
+| elimination_half-life = 
+| duration_of_action =
+| excretion         = 
+<!-- Identifiers -->
+| CAS_number        = 76530-44-4
+| ATCvet            = 
+| ATC_prefix        = None
+| ATC_suffix        = 
+| PubChem           = 16072188
+| DrugBank          = 
+| ChemSpiderID      = 17231671
+| UNII              = 875AQ866X1
+| ChEMBL            = 2103760
+<!-- Chemical data -->
+| C=24 | H=38 | N=4 | O=4 | S=1
+| molecular_weight  = 
+| smiles = CC[C@@]1(C[C@H]([C@@]2([C@@H](CC[C@@]3([C@H]2C(=O)CC3)[C@H]([C@@H]1O)C)C)C)OC(=O)CSc4nc([nH]n4)N)C
+| StdInChI=1S/C24H38N4O4S/c1-6-22(4)11-16(32-17(30)12-33-21-26-20(25)27-28-21)23(5)13(2)7-9-24(14(3)19(22)31)10-8-15(29)18(23)24/h13-14,16,18-19,31H,6-12H2,1-5H3,(H3,25,26,27,28)/t13-,14+,16-,18+,19+,22-,23+,24+/m1/s1
+| StdInChIKey = FMHQJXGMLMSMLC-WBUYAQKGSA-N
+}}
+'''Azamulin''' is a [[pleuromutilin antibiotic]].<ref name="Stresser" /> {{as of|2016}}, it is not marketed in the US or Europe.
+
+In [[pharmacologic]]al studies, the substance is used as an inhibitor of the liver enzymes [[CYP3A4]] and [[CYP3A5]].<ref name="Ghosal" /><ref name="Mitra" />
+
+==References==
+{{reflist|refs=
+<ref name="Stresser">{{cite journal|pmid=14709627|year=2004|author1=Stresser|first1=D. M.|title=Highly selective inhibition of human CYP3Aa in vitro by azamulin and evidence that inhibition is irreversible|journal=Drug Metabolism and Disposition|volume=32|issue=1|pages=105–12|last2=Broudy|first2=M. I.|last3=Ho|first3=T|last4=Cargill|first4=C. E.|last5=Blanchard|first5=A. P.|last6=Sharma|first6=R|last7=Dandeneau|first7=A. A.|last8=Goodwin|first8=J. J.|last9=Turner|first9=S. D.|last10=Erve|first10=J. C.|last11=Patten|first11=C. J.|last12=Dehal|first12=S. S.|last13=Crespi|first13=C. L.|doi=10.1124/dmd.32.1.105}}</ref>
+<ref name="Ghosal">{{cite journal|pmid=17827338|year=2007|author1=Ghosal|first1=A|title=Identification of human liver cytochrome P450 enzymes involved in biotransformation of vicriviroc, a CCR5 receptor antagonist|journal=Drug Metabolism and Disposition|volume=35|issue=12|pages=2186–95|last2=Ramanathan|first2=R|last3=Yuan|first3=Y|last4=Hapangama|first4=N|last5=Chowdhury|first5=S. K.|last6=Kishnani|first6=N. S.|last7=Alton|first7=K. B.|doi=10.1124/dmd.107.017517}}</ref>
+<ref name="Mitra">{{cite journal|pmid=25586052|year=2015|author1=Mitra|first1=R|title=CYP3A5 regulates prostate cancer cell growth by facilitating nuclear translocation of AR|journal=The Prostate|volume=75|issue=5|pages=527–38|last2=Goodman Jr|first2=O. B.|doi=10.1002/pros.22940}}</ref>
+}}
+
+[[Category:Pleuromutilin antibiotics]]
+[[Category:Experimental drugs]]
+
+
+{{antibiotic-stub}}

@@ -1,0 +1,105 @@
+{{Drugbox
+| verifiedrevid = 420038718
+| IUPAC_name = (''RS'')-''N''-<nowiki/>{4-[1-hydroxy-2-(propan-2-ylamino)ethyl]phenyl}methanesulfonamide
+| image = Sotalol.svg
+| chirality = [[Racemic mixture]]
+| image2 = Sotalol ball-and-stick.png
+
+<!--Clinical data-->
+| tradename = Betapace, other
+| Drugs.com = {{drugs.com|monograph|sotalol-hydrochloride}}
+| MedlinePlus = a693010
+| pregnancy_AU = C
+| pregnancy_US = B
+| pregnancy_category = 
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = by mouth
+| class   = [[beta blocker]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 90–100%<ref name="fda2009" />
+| metabolism = Not metabolized<ref name="fda2009" />
+| elimination_half-life = 12 hours<ref name="fda2009" />
+| excretion = [[Kidney]] <br />[[Mammary gland]] (In lactating females)<ref name="fda2009" />
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7297
+<!-- Unknown parameter name: | CASNo_Ref = {{cascite|correct|CAS}} -->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 3930-20-9
+| ATC_prefix = C07
+| ATC_suffix = AA07
+| PubChem = 5253
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00489
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5063
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = A6D97U294I
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08525
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 471
+
+<!--Chemical data-->
+| C=12 | H=20 | N=2 | O=3 | S=1
+| molecular_weight = 272.3624 g/mol
+| smiles = O=S(=O)(Nc1ccc(cc1)C(O)CNC(C)C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C12H20N2O3S/c1-9(2)13-8-12(15)10-4-6-11(7-5-10)14-18(3,16)17/h4-7,9,12-15H,8H2,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ZBMZVLHSJCTVON-UHFFFAOYSA-N
+}}
+
+'''Sotalol''' is a medication used to treat [[heart arrhythmia|abnormal heart rhythms]]. The U.S. [[Food and Drug Administration]] (FDA) advises that sotalol only be used for serious abnormal heart rhythms, because its prolongation of the [[QT interval]] carries a small risk of life-threatening [[polymorphic ventricular tachycardia]] known as [[torsade de pointes]].<ref name="sotylizelabel" />
+
+Sotalol is a non-selective competitive [[beta blocker#Nonselective agents|beta-adrenergic receptor blocker]] that also exhibits [[Antiarrhythmic agent#Class III agents|Class III antiarrhythmic]] properties.<ref name=bertrix>Bertrix, Lucien et al. Protection against ventricular and atrial fibrillation by sotalol. Cardiovascular Research 1986; 20, 358-363.</ref><ref name=Edvardsson>Edvardsson, N et al. Sotalol-induced delayed ventricular repolarization in man. European Heart Journal 1980; 1, 335-343</ref>
+
+Sotalol was discovered in 1960, became widely used in the 1980s, and its function as an antiarrhythmic drug was discovered soon after.<ref name="Antonaccio">Antonaccio M, Gomoll A. Pharmacologic basis of the antiarrhythmic and hemodynamic effects of sotalol. Am J Cardiol 1993; 72, 27A-37A</ref> 
+
+==Medical uses==
+According to the U.S. [[Food and Drug Administration|FDA]], sotalol can be [[Indication (medicine)|validly used]] to maintain a normal [[heart rhythm]] in people with life-threatening [[ventricular arrhythmia]]s (e.g., [[ventricular tachycardia]]), or very symptomatic [[atrial fibrillation]] or [[Atrial flutter|flutter]].<ref name="sotylizelabel" /> Due to the risk of serious side effects, the FDA states that sotalol should generally be reserved for people whose ventricular arrhythmias are life-threatening, or whose fibrillation/flutter cannot be resolved using the [[Valsalva maneuver]] or another simple method.<ref name="sotylizelabel" />
+
+==Contraindications==
+According to the FDA, sotalol should not be used in people with a waking heart rate lower than 50 beats per minute.<ref name="sotylizelabel" /> It should not be used in people with [[sick sinus syndrome]], [[long QT syndrome]], [[cardiogenic shock]], uncontrolled [[heart failure]], [[asthma]] or a related bronchospastic condition, or people with serum [[potassium]] below 4 meq/L.<ref name="sotylizelabel" /> It should only be used in people with a second and third degree [[AV block]] if a functioning [[pacemaker]] is present.<ref name="sotylizelabel" />
+
+Since sotalol is removed from the body through the kidneys, it should not be used in people with a [[creatinine clearance]] rate below 40 mL/min.<ref name="sotylizelabel" /> It is also excreted in [[breast milk]], so mothers should not [[breastfeed]] while taking sotalol.<ref name="sotylizelabel" />
+
+Since sotalol prolongs the [[QT interval]], the FDA recommends against using it in conjunction with other medications that prolong the QT interval.<ref name="sotylizelabel" /> Studies have found serious side effects to be more common in individuals also taking [[digoxin]], possibly because of pre-existing heart failure in those people.<ref name="sotylizelabel" /> As with other beta blockers, it may [[drug interaction|interact]] with [[calcium channel blocker]]s, [[catecholamine]]-depleting drugs, [[insulin]] or antidiabetic drugs, [[beta2-adrenergic agonist]]s, and [[clonidine]].<ref name="sotylizelabel" />
+
+Some evidence suggests that sotalol should be avoided in the setting of heart failure with a reduced [[ejection fraction]] (resulting in the heart squeezing little blood out into the circulation with each pump) due to an increased risk of death.<ref>{{cite journal |vauthors=Waldo A, Camm A, deRuyter H, Friedman P, MacNeil D, Pauls J, Pitt B, Pratt C, Schwartz P, Veltri E | title = Effect of d-sotalol on mortality in patients with left ventricular dysfunction after recent and remote myocardial infarction. The SWORD Investigators. Survival With Oral d-Sotalol | journal = Lancet | volume = 348 | issue = 9019 | pages = 7–12 | year = 1996 | pmid = 8691967 | doi = 10.1016/S0140-6736(96)02149-6}}</ref>
+
+==Adverse effects==
+Over 10% of oral sotalol users experience [[Fatigue (medical)|fatigue]], [[dizziness]], [[lightheadedness]], [[headache]], [[asthenia|weakness]], [[nausea]], [[dyspnea|shortness of breath]], [[bradycardia]] (slow heart rate), [[palpitation|a sensation of the heart beating too hard, fast, or irregularly]], or [[chest pain]]. Higher doses of sotalol increase the risk for all of these possible side effects.<ref name="fda2009">{{cite web | date = July 2009 | title = Sotalol: Full Prescribing Information | author = U.S. Food and Drug Administration | accessdate = 23 April 2015 | url = http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/022306s000lbl.pdf}}</ref>
+
+In rare cases, the [[QT prolongation]] caused by sotalol can lead to the development of life-threatening [[torsade de pointes]] (TdP) polymorphic ventricular tachycardia. Across several [[clinical trial]]s, 0.6% of oral sotalol patients with supraventricular abnormal heart rhythms (such as atrial fibrillation) developed TdP.<ref name="fda2009" /> For patients who had a history of [[sustained ventricular tachycardia]] (abnormal rhythm lasting more than 30 seconds), 4% developed TdP. Risk increases with dosage, female sex, or having a history of an [[cardiomegaly|enlarged heart]] or [[congestive heart failure]].<ref name="fda2009" /> The [[Incidence (epidemiology)|incidence]] of TdP for sustained ventricular tachycardia patients was 0% with an 80&nbsp;mg daily dose, 0.5% at 160&nbsp;mg, 1.6% at 320&nbsp;mg, 4.4% at 480&nbsp;mg, 3.7% at 640&nbsp;mg, and 5.8% at doses greater than 640&nbsp;mg.<ref name="fda2009" /> Due to this risk, the U.S. Food and Drug Administration requires affected individuals to be hospitalized for at least three days in a facility that can provide cardiac resuscitation and continuous electrocardiographic monitoring upon starting or restarting sotalol.<ref name="fda2009" />
+
+==Mechanisms of action==
+===Beta-blocker action===
+Sotalol non-selectively binds to both β1- and β2-adrenergic receptors preventing activation of the receptors by their stimulatory ligand ([[catecholamine]]s).<ref name="bertrix" /> Without the binding of this ligand to the receptor, the [[G-protein]] complex associated with the receptor cannot activate production of [[cyclic AMP]], which is responsible for turning on calcium inflow channels.<ref>{{cite journal | author = Charnet P | year = 1995 | title = cAMP-dependent phosphorylation of the cardiac L-type Ca channel: A missing link? | url = | journal = Biochimie | volume = 77 | issue = | pages = 957–962 | doi=10.1016/0300-9084(95)80008-5|display-authors=etal}}</ref>  A decrease in activation of calcium channels will therefore result in a decrease in intracellular calcium. In heart cells, calcium is important in generating electrical signals for heart muscle contraction, as well as generating force for this contraction.<ref name="kassotis">Kassotis, J et al. Beta receptor blockade potentiates the antiarryhthmic actions of d-sotalol on re-entrant ventricular tachycardia in a canine model of myocardial infarction. Journal of Cardiovascular Electrophysiology 2003; 14, 1233-1244</ref> In consideration of these important properties of calcium, two conclusions can be drawn. First, with less calcium in the cell, there is a decrease in electrical signals for contraction, thus allowing time for the heart's natural pacemaker to rectify arrhythmic contractions.<ref name="Antonaccio" /> Secondly, lower calcium means a decrease in strength and rate of the contractions, which can be helpful in treatment of abnormally fast heart rates.<ref name="Antonaccio" />
+
+===Type III antiarrhythmic action===
+Sotalol also acts on potassium channels and causes a delay in relaxation of the ventricles.<ref name="Edvardsson" /> By blocking these potassium channels, sotalol inhibits efflux of K+ ions, which results in an increase in the time before another electrical signal can be generated in ventricular myocytes.<ref name="kassotis" /> This increase in the period before a new signal for contraction is generated, helps to correct arrhythmias by reducing the potential for premature or abnormal contraction of the ventricles but also prolongs the frequency of ventricular contraction to help treat tachycardia.
+
+==History==
+Sotalol was first [[Chemical synthesis|synthesized]] in 1960 by A. A. Larsen of Mead-Johnson Pharmaceutical.<ref>{{cite book | author = Hara, Takuji | year = 2003 |  title = Innovation in the Pharmaceutical Industry: The Process of Drug Discovery and Development | publisher = Edward Elgar Publishing | page = 47 | url = https://books.google.com/books?id=aYP-AQAAQBAJ&pg=PA47}}</ref> It was originally recognized for its [[hypertension|blood pressure lowering]] effects and its ability to [[antianginal|reduce the symptoms of angina]].<ref name="anderson1986">{{cite journal | vauthors = Anderson JL, Askins JC, Gilbert EM| year = 1986 | title = Multicenter trial of sotalol for suppression of frequent, complex ventricular arrhythmias: a double-blind, randomized, placebo-controlled evaluation of two doses | journal = Journal of the American College of Cardiology | volume = 8 | issue = 4 | pages = 752–762 | doi = 10.1016/S0735-1097(86)80414-4|display-authors=etal}}</ref> It was made available in the [[United Kingdom]] and [[France]] in 1974, [[Germany]] in 1975, and [[Sweden]] in 1979.<ref name="anderson1986" /> In the 1980s, its antiarrhythmic properties were discovered.<ref name="anderson1986" /> The United States approved the drug in 1992.<ref>{{cite journal | vauthors = Fernandes CM, Daya MR| year = 1995 | title = Sotalol-induced bradycardia reversed by glucagon | journal = Canadian Family Physician | volume = 41 | pages = 659–60, 663–5 | url = http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2146520/pdf/canfamphys00086-0125.pdf | pmc = 2146520 | pmid=7787496}}</ref>
+
+==Brand names==
+Trade names for Sotalol include Betapace and Betapace AF ([[Berlex Laboratories]]), Sotalex and Sotacor ([[Bristol-Myers Squibb]]), and Sotylize ([[Arbor Pharmaceuticals]]).<ref name="sotylizelabel">{{cite web | url=http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/205108s000lbl.pdf | title=Sotylize: Full Prescribing Information | publisher=U.S. Food and Drug Administration | work=Drugs@FDA | date=October 2014 | deadurl=no<!--present in archive.org-->}}</ref>
+
+==References==
+{{Reflist|2}}
+
+{{beta blockers}}
+{{Potassium channel blockers}}
+{{Antiarrhythmic agents}}
+
+[[Category:Antiarrhythmic agents]]
+[[Category:Beta blockers]]
+[[Category:Sulfonamides]]
+[[Category:Potassium channel blockers]]
+[[Category:Alcohols]]
+[[Category:Peripherally selective drugs]]

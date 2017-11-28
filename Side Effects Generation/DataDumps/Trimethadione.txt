@@ -1,0 +1,68 @@
+{{about|the drug Tridione|the content management software Tridion|SDL plc}}
+
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 470615072
+| IUPAC_name = 3,5,5-Trimethyl-1,3-oxazolidine-2,4-dione
+| image = Trimethadione.svg
+| width = 130
+
+<!--Clinical data-->
+| tradename = Tridione
+| Drugs.com = {{drugs.com|CONS|trimethadione}}
+| pregnancy_category = X
+| legal_status = Rx-only
+| routes_of_administration = [[Oral administration|By mouth]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = High
+| metabolism = Demethylated to [[dimethadione]]
+| elimination_half-life = 12–24 hours (trimethadione)<br />6–13 days (dimethadione)
+| excretion = [[Renal]]
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7316
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 127-48-0
+| ATC_prefix = N03
+| ATC_suffix = AC02
+| PubChem = 5576
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00347
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5374
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = R7GV3H6FQ4
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00392
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 695
+
+<!--Chemical data-->
+| C=6 | H=9 | N=1 | O=3 
+| molecular_weight = 143.141 g/mol
+| smiles = O=C1N(C(=O)OC1(C)C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C6H9NO3/c1-6(2)4(8)7(3)5(9)10-6/h1-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IRYJRGCIQBGHIV-UHFFFAOYSA-N
+}}
+
+'''Trimethadione''' is an [[oxazolidinedione]] [[anticonvulsant]]. It is most commonly used to treat [[epileptic]] conditions that are resistant to other treatments.
+
+==Fetal trimethadione syndrome==
+If administered during pregnancy, [[fetal trimethadione syndrome]] may result causing facial dysmorphism (short upturned nose, slanted eyebrows), cardiac defects, [[intrauterine growth restriction]] (IUGR), and mental retardation.  The fetal [[miscarriage|loss rate]] while using trimethadione has been reported to be as high as 87%.<ref>[http://www.emedicine.com/med/topic3242.htm Teratology and Drug Use During Pregnancy] Retrieved January 2007</ref><ref>{{cite web| url= https://canyougetpregnantfromprecum.com/| title= canyougetpregnantfromprecum.com }} Friday, 11 August 2017 </ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{MedlinePlusDrugInfo|medmaster|a601127}}
+* {{DiseasesDB|30479}}
+
+{{anticonvulsants}}
+
+[[Category:Anticonvulsants]]
+[[Category:Oxazolidinediones]]
+
+{{anticonvulsant-stub}}

@@ -1,0 +1,131 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 459988204
+| IUPAC_name = (4bR, 8aR, 9S)-11-(cyclobutylmethyl)-6,7,8,8a,9,10-hexahydro-5H-9,4b-(epiminoethano) phenanthrene-3,8a-diol 
+| image = Butorphanol2DCSDT.svg
+| width = 210px
+| alt = Structural formula
+| image2 = Butorphanol molecule ball.png
+| width2 = 240px
+| alt2 = Ball-and-stick model
+
+<!--Clinical data-->
+| tradename = Stadol
+| Drugs.com = {{drugs.com|CONS|butorphanol}}
+| MedlinePlus = a682667
+| pregnancy_category = C/D <small>(United States)</small>
+| legal_AU = S8
+| legal_CA = Schedule IV
+| legal_US = Schedule IV
+| routes_of_administration = [[Intravenous therapy|IV]], intranasal, oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = Nasal: 60-70%
+| metabolism = [[Liver|Hepatic]] hydroxylated & [[glucuronidation|glucuronidated]]
+| elimination_half-life = 4-7 hours
+| excretion = [[Kidney|Renal]], 75%<br />[[Biliary]], 11-14%<br />[[Fecal]], 15%
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7591
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 42408-82-2
+| ATC_prefix = N02
+| ATC_suffix = AF01
+| ATC_supplemental = {{ATCvet|R05|DA90}}
+| PubChem = 5361092
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00611
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 16735714
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = QV897JC36D
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D00837
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 3242
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 33986
+
+<!--Chemical data-->
+| C=21 | H=29 | N=1 | O=2 
+| molecular_weight = 327.473 g/mol
+| smiles = OC1=CC2=C(C=C1)C[C@H]3N(CC[C@@]24CCCC[C@@]34O)CC5CCC5
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H29NO2/c23-17-7-6-16-12-19-21(24)9-2-1-8-20(21,18(16)13-17)10-11-22(19)14-15-4-3-5-15/h6-7,13,15,19,23-24H,1-5,8-12,14H2/t19-,20+,21-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IFKLAQQSCNILHL-QHAWAJNXSA-N
+}}
+
+'''Butorphanol''' (BC 2627) is a [[morphinan]]-type synthetic [[agonist–antagonist]] [[opioid]] [[analgesic]] developed by [[Bristol-Myers]].<ref name="Elks2014">{{cite book|author=J. Elks|title=The Dictionary of Drugs: Chemical Data: Chemical Data, Structures and Bibliographies|url=https://books.google.com/books?id=0vXTBwAAQBAJ&pg=PA200|date=14 November 2014|publisher=Springer|isbn=978-1-4757-2085-3|pages=200–}}</ref><ref name="IndexNominum2000">{{cite book|title=Index Nominum 2000: International Drug Directory|url=https://books.google.com/books?id=5GpcTQD_L2oC&pg=PA154|date=January 2000|publisher=Taylor & Francis|isbn=978-3-88763-075-1|pages=154–}}</ref><ref name="MortonHall2012">{{cite book|author1=I.K. Morton|author2=Judith M. Hall|title=Concise Dictionary of Pharmacological Agents: Properties and Synonyms|url=https://books.google.com/books?id=tsjrCAAAQBAJ&pg=PA58|date=6 December 2012|publisher=Springer Science & Business Media|isbn=978-94-011-4439-1|pages=58–}}</ref> Brand name '''Stadol''' was recently discontinued by the manufacturer. It is now only available in its generic formulations, manufactured by Novex, [[Mylan]], Apotex and Ben Venue Laboratories. Butorphanol is most closely structurally related to [[levorphanol]]. Butorphanol is available as the tartrate salt in injectable, tablet, and intranasal spray formulations. The tablet form is only used in dogs and cats due to low bioavailability  in humans.
+
+==Medical uses==
+The most common indication for butorphanol is management of [[migraine]] using the intranasal spray formulation. It may also be used [[parenteral]]ly for management of moderate-to-severe pain, as a supplement for balanced general [[anesthesia]], and management of pain during [[Labour (childbirth)|labor]].  Butorphanol is also quite effective at reducing post-operative shivering (owing to its Kappa agonist activity). Butorphanol is more effective in reducing pain in women than in men.<ref name=gear/>
+
+==Pharmacology==
+Butorphanol exhibits [[partial agonist]] and [[opioid antagonist|antagonist]] activity at the [[μ-opioid receptor]], as well as partial agonist activity at the [[κ-opioid receptor]] (K<sub>i</sub> = 2.5 nM; [[EC50|EC<sub>50</sub>]] = 57 nM; [[intrinsic activity|E<sub>max</sub>]] = 57%).<ref name=gear>{{cite journal | first = RW | last = Gear |author2=Miaskowski C |author3=Gordon NC |author4=Paul SM |author5=Heller PH |author6=Levine JD  |date=November 1999 | title = The kappa opioid nalbuphine produces gender- and dose-dependent analgesia and antianalgesia in patients with postoperative pain | journal = Pain | volume = 83 | issue = 2 | pages = 339–45 | pmid = 10534607 | doi = 10.1016/S0304-3959(99)00119-0}}</ref><ref name="GharagozlouHashemi2006">{{cite journal|last1=Gharagozlou|first1=Parham|last2=Hashemi|first2=Ezzat|last3=DeLorey|first3=TimothyM|last4=Clark|first4=J David|last5=Lameh|first5=Jelveh|title=Pharmacological profiles of opioid ligands at Kappa opioid receptors|journal=BMC Pharmacology|volume=6|issue=1|year=2006|pages=3|issn=1471-2210|doi=10.1186/1471-2210-6-3|pmid=16433932|pmc=1403760}}</ref> Stimulation of these receptors on [[central nervous system]] [[neuron]]s causes an intracellular [[enzyme inhibitor|inhibition]] of [[adenylate cyclase]], closing of influx membrane [[voltage-dependent calcium channel|calcium channels]], and opening of membrane [[potassium channel]]s. This leads to hyperpolarization of the cell [[membrane potential]] and suppression of action potential transmission of ascending pain pathways.
+Because of its κ-agonist activity, at analgesic doses butorphanol increases pulmonary arterial pressure and cardiac work. Additionally, κ-agonism can cause [[dysphoria]] at therapeutic or supertherapeutic doses; this gives butorphanol a lower potential for abuse than other opioid drugs.<ref>http://www.who.int/medicines/areas/quality_safety/4.1ButhorphanolCritReview.pdf</ref>
+
+==Side effects==
+As with other opioid analgesics, central nervous system effects (such as [[sedation]], [[mental confusion|confusion]], and [[dizziness]]) are considerations with butorphanol. [[Nausea]] and [[vomiting]] are common. Less common are the gastrointestinal effects of other opioids (mostly constipation).  Another side effect experienced by people taking the medication is increased perspiration.
+
+==Society and culture==
+
+===Name===
+''Butorphanol'' is the [[International Nonproprietary Name|INN]], [[United States Adopted Name|USAN]], [[British Approved Name|BAN]], and [[Australian Approved Name|AAN]], while ''torbugesic'' is the [[Japanese Accepted Name|JAN]].<ref name="Elks2014" /><ref name="IndexNominum2000" /><ref name="MortonHall2012" /> As the [[tartrate]] [[salt (chemistry)|salt]], butorphanol is known as ''butorphanol tartrate'' ([[United States Adopted Name|USAN]], [[British Approved Name|BAN]]).<ref name="Elks2014" /><ref name="IndexNominum2000" /><ref name="MortonHall2012" />
+
+===Availability===
+Butorphanol is available in the U.S. as a [[generic drug]]; it is available in various nations under one of any number of trade names, including Moradol and Beforal (Brand name Stadol no longer available in the US); veterinary trade names include Butorphic, Dolorex, Morphasol, Torbugesic, and Torbutrol.
+
+===Legality===
+Butorphanol is listed under the [[Single Convention on Narcotic Drugs|Single Convention on Narcotic Drugs 1961]] and in the United States is a Schedule IV Narcotic controlled substance with a DEA ACSCN of 9720; being in Schedule IV it is not subject to annual aggregate manufacturing quotas. The free base conversion ratio of the hydrochloride is 0.69.<ref>http://www.deadiversion.usdoj.gov/quotas/conv_factor/index.html</ref> Butorphanol was originally in Schedule II and at one point it was decontrolled.
+
+==Veterinary use==
+In [[veterinary anesthesia]], butorphanol (trade name: Torbugesic) is widely used as a [[sedative]] and analgesic in dogs, cats and horses. For sedation, it may be combined with tranquilizers such as alpha-2 agonists ([[medetomidine]]), benzodiazepines, or [[acepromazine]] in dogs, cats and exotic animals. It is frequently combined with [[xylazine]] or [[detomidine]] in horses.<ref>NOAH Compendium of Data Sheets for Animal Medicines 2005</ref>
+
+Butorphanol is frequently used for post-operative and accident-related pain in small mammals such as dogs, cats, ferrets, coatis, raccoons, mongooses, various marsupials, some rodents and perhaps some larger birds, both in the operating suite and as a regular prescription medication for home use, for management of moderate to severe pain. 
+
+Although butorphanol is commonly used for pain relief in reptiles, no studies (as of 2014) have conclusively shown that is an effective analgesic in reptiles.<ref>{{cite book|last1=Sladky|first1=KK|editor1-last=Mader|editor1-first=DR|editor2-last=Divers|editor2-first=SJ|title=Current therapy in reptile medicine & surgery|date=2014|publisher=Elsevier Health Sciences|isbn=9780323242936|pages=217–229|chapter=Chapter 18: Analgesia}}</ref>
+
+===Use in horses===
+{{Unreferenced section|date=April 2011}}
+Butorphanol is a commonly used narcotic for pain relief in horses. It is administered either IM or IV, with its analgesic properties beginning to take effect about 15 minutes after injection and lasting 4 hours. It is also commonly paired with sedatives, such as [[xylazine]] and [[detomidine]], to make the horse easier to handle during veterinary procedures.
+
+Side effects specific to horses include sedation, CNS excitement (displayed by [[head pressing]] or tossing). Overdosing may result in seizures, falling, salivation, constipation, and muscle twitching. If an overdose occurs, a narcotic antagonist, such as [[naloxone]], may be given. Caution should be used if butorphanol is administered in addition to other narcotics, sedatives, depressants, or antihistamines as it will cause an additive effect.
+
+Butorphanol can cross the placenta, and it will be present in the milk of lactating mares who are given the drug.
+
+The drug is also prohibited for use in competition by most equestrian organizations, including the [[International Federation for Equestrian Sports|FEI]], which considers it a class A drug.
+
+==See also==
+* [[Levallorphan]]
+* [[Nalbuphine]]
+* [[Nalfurafine]]
+* [[Nalorphine]]
+* [[Xorphanol]]
+
+==Notes==
+{{Reflist|2}}
+
+==References==
+* Katzung, Bertam G. (Ed.) (2001) ''Basic & Clinical Pharmacology'' (8th ed.). New York: McGraw-Hill. {{ISBN|0-8385-0598-8}}.
+* DiPiro, Joseph T. et al. (2005) ''Pharmacotherapy: A Pathophysiologic Approach'' (6th ed.). New York: McGraw-Hill. {{ISBN|0-07-141613-7}}.
+* [http://www.bms.com/cgi-bin/anybin.pl?sql=select%20PPI%20from%20TB_PRODUCT_PPI%20where%20PPI_SEQ=18&key=PPI Stadol NS - monograph]
+* Forney, Barbara C, MS, VMD. ''Equine Medications, Revised Edition.''' Blood Horse Publications. Lexington. Kentucky. Copyright 2007.
+* The Merck Manual of Veterinary Medicine, 2004 edition (English)
+* The Merck Manual, 2004 Edition (German)
+* Mosby's Drug Guide 2004
+
+{{Cough and cold preparations}}
+{{Analgesics}}
+{{Hallucinogens}}
+{{Opioidergics}}
+
+[[Category:Alcohols]]
+[[Category:Analgesics]]
+[[Category:Equine medications]]
+[[Category:Kappa agonists]]
+[[Category:Morphinans]]
+[[Category:Phenols]]
+[[Category:Synthetic opioids]]
+[[Category:Cyclobutanes]]

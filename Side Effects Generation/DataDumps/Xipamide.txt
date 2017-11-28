@@ -1,0 +1,138 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 448072116
+| IUPAC_name = 4-chloro-''N''-(2,6-dimethylphenyl)-2-hydroxy-5-sulfamoylbenzamide
+| image = Xipamide.svg
+| image2 = Xipamide balls.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|xipamide}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = contraindication
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Rx
+| routes_of_administration = oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 95%
+| protein_bound = 98%
+| metabolism = [[glucuronide]] (30%)
+| elimination_half-life = 5.8 to 8.2 hours
+| excretion = [[renal]] (1/3) and biliary (2/3)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7900
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 14293-44-8
+| ATC_prefix = C03
+| ATC_suffix = BA10
+| ATC_supplemental =  
+| PubChem = 26618
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 4S9EY0NUEC
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D06341
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 517199
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 24795
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C15H15ClN2O4S/c1-8-4-3-5-9(2)14(8)18-15(20)10-6-13(23(17,21)22)11(16)7-12(10)19/h3-7,19H,1-2H3,(H,18,20)(H2,17,21,22)
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = MTZBBNMLMNBNJL-UHFFFAOYSA-N
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=15 | H=15 | Cl=1 | N=2 | O=4 | S=1 
+| molecular_weight = 354.80 g/mol
+| smiles = CC1=C(C(=CC=C1)C)NC(=O)C2=CC(=C(C=C2O)Cl)S(=O)(=O)N
+}}
+
+'''Xipamide''' is a sulfonamide [[diuretic]] drug marketed by [[Eli Lilly and Company|Eli Lilly]] under the trade names '''Aquaphor''' (in Germany) and '''Aquaphoril''' (in Austria). It is used for the treatment of [[oedema]] and [[hypertension]].
+
+== Mechanism of action ==
+Like the structurally related [[thiazide diuretic]]s, xipamide acts on the kidneys to reduce [[sodium]] reabsorption in the [[distal convoluted tubule]]. This increases the [[osmolarity]] in the [[Lumen (anatomy)|lumen]], causing less water to be reabsorbed by the collecting ducts. This leads to increased urinary output. Unlike the thiazides, xipamide reaches its target from the peritubular side (blood side).<ref name="Austria-Codex" />
+
+Additionally, it increases the secretion of [[potassium]] in the distal tubule and collecting ducts. In high doses it also inhibits the enzyme [[carbonic anhydrase]] which leads to increased secretion of bicarbonate and alkalizes the urine.
+
+Unlike with thiazides, only terminal [[renal failure]] renders xipamide ineffective.<ref name="Arzneistoff-Profile">{{cite book|title=Arzneistoff-Profile|editor=Dinnendahl, V |editor2=Fricke, U|publisher=Govi Pharmazeutischer Verlag|location=Eschborn, Germany|year=2007|edition=21|volume=10|isbn=978-3-7741-9846-3|language=German}}</ref>
+
+== Uses ==
+Xipamide is used for<ref name="Austria-Codex" /><ref name="Arzneistoff-Profile" />
+*[[cardiac]] oedema caused by [[Heart Failure#Acute decompensation|decompensation of heart failure]]
+*[[renal]] oedema, [[chronic renal disease]] (but not with [[anuria]])
+*[[hepatic]] oedema caused by [[cirrhosis]]
+*[[ascites]]
+*[[lymphoedema]]
+*hypertension in combination with chronic renal disease
+
+== Pharmacokinetics ==
+After oral administration, 20&nbsp;mg of xipamide are resorbed quickly and reach the peak plasma concentration of 3&nbsp;mg/l within an hour. The diuretic effect starts about an hour after administration, reaches its peak between the third and sixth hour, and lasts for nearly 24 hours.
+
+One third of the dose is [[glucuronidation|glucuronidized]], the rest is excreted directly through the kidney (1/3) and the faeces (2/3). The total plasma clearance is 30-40 ml/min. Xipamide can be filtrated by [[haemodialysis]] but not by [[peritoneal dialysis]].<ref name="Arzneistoff-Profile" />
+
+== Dosage ==
+Initially 40&nbsp;mg, it can be reduced to 10–20&nbsp;mg to prevent a relapse.<ref name="Arzneistoff-Profile" />
+
+The lowest effective dose is 5&nbsp;mg. More than 60&nbsp;mg have no additional effects.<ref name="Austria-Codex" />
+
+== Adverse effects ==
+*'''more than 1/10 of all patients'''<ref name="Austria-Codex" />
+**[[hypokalaemia]], which can lead to nausea, muscular weakness or cramps, and [[ECG]] abnormities
+*'''1/100 to 1/10'''
+**[[hyponatraemia]], which can lead to headache, nausea, drowsiness or confusion
+**[[orthostatic hypotension]]
+**initially increase of [[urea]], [[uric acid]] and [[creatinine]], which can lead to a [[gout]] attack in predisposed patients
+*'''1/1000 to 1/10,000'''
+**allergic reactions of the skin
+**[[hyperlipidaemia]]
+*'''less than 1/10,000'''
+**[[haemorrhagic]] [[pancreatitis]]
+** acute [[interstitial nephritis]]
+**[[thrombocytopenia]], [[leucopenia]]
+
+== Contraindications ==
+*anuria
+*praecoma and [[coma hepaticum]]
+*[[hypovolemia]], hyponatremia, hypokalemia
+*[[hypercalcemia]]
+*gout
+*[[sulfonamide (medicine)|sulfonamide]] hypersensitivity
+*pregnancy, lactation period<ref name="Austria-Codex" /><ref name="Arzneistoff-Profile" />
+
+== Interactions ==
+
+===Not recommended combinations===
+*Xipamide lowers the renal clearance of [[lithium pharmacology|lithium]] which can lead to lithium intoxication.<ref name="Austria-Codex">{{cite book|title=Austria-Codex |editor=Jasek, W |publisher=Österreichischer Apothekerverlag|location=Vienna|year=2007|edition=2007/2008|volume=1|pages=600–603|isbn=978-3-85200-181-4|language=German}}</ref> (This interaction is classified as ''medium''.<ref name="Arzneimittel-Interaktionen">{{cite book|title=Arzneimittel-Interaktionen|editor=Klopp, T |publisher=Arbeitsgemeinschaft für Pharmazeutische Information|year=2007|edition=2007/2008|isbn=978-3-85200-184-5|language=German}}</ref>)
+
+===Combinations requiring special precautions===
+The product information requests special precautions for these combinations:<ref name="Austria-Codex" />
+*The antihypertensive effect can be increased by [[ACE inhibitor]]s, [[barbiturate]]s, [[phenothiazine]]s, [[tricyclic antidepressant]]s, [[alcohol]], etc. (Classified as ''minor''.<ref name="Arzneimittel-Interaktionen" />)
+*[[NSAID]]s can reduce the antihypertensive and diuretic effects. Xipamide increases the neurotoxicity of high doses of salicylates. (Classified as ''minor''.<ref name="Arzneimittel-Interaktionen" />)
+*Toxicity of [[cardiac glycoside]]s is increased due to hypokalemia and [[hypomagnesemia]].(Classified as ''minor''.<ref name="Arzneimittel-Interaktionen" />)
+*[[Antiarrhythmic agent]]s (classes Ia and III), phenothiazines and other antipsychotics increase the risk of [[torsades de pointes]] due to hypokalemia.
+
+===Interactions not included in the product information===
+*Xipamide can reduce the effect of [[antidiabetics]]. (Classified as ''minor''.<ref name="Arzneimittel-Interaktionen" />)
+
+== Banned use in sport ==
+On 17 July 2012, cyclist [[Fränk Schleck]] was removed from the [[Tour de France]] by his team [[RadioShack-Nissan]] after his A-sample returned traces of xipamide.<ref>{{cite news|author=Richard Williams in Pau |url=https://www.theguardian.com/sport/2012/jul/17/tour-de-france-frank-schleck |title=Frank Schleck tests positive for banned diuretic and is out of Tour |publisher=The Guardian |date= 17 July 2012|accessdate=2012-07-18 |location=London}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{Diuretics}}
+
+[[Category:Diuretics]]
+[[Category:Eli Lilly and Company]]
+[[Category:Chloroarenes]]
+[[Category:Salicylanilides]]
+[[Category:Sulfonamides]]
+[[Category:Carbonic anhydrase inhibitors]]

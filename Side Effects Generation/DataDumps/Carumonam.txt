@@ -1,0 +1,81 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 477377971
+| IUPAC_name = 2-<nowiki>[[</nowiki>1-(2-Amino-1,3-thiazol-4-yl)-2-<nowiki>[[</nowiki>(2''S'',3''S'')-2-(carbamoyloxymethyl)-4-oxo-1-sulfoazetidin-3-yl]amino]-2-oxoethylidene]amino]oxyacetic acid
+| image = Carumonam.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|carumonam}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 87638-04-8
+| ATC_prefix = J01
+| ATC_suffix = DF02
+| ATC_supplemental =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 486890PI06
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1256767
+|  PubChem = 6857983
+|  ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5257278
+|  smiles = O=S(=O)(O)N2C(=O)[C@@H](NC(=O)C(=N\OCC(=O)O)\c1nc(sc1)N)[C@H]2COC(=O)N
+|  StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C12H14N6O10S2/c13-11-15-4(3-29-11)7(17-28-2-6(19)20)9(21)16-8-5(1-27-12(14)23)18(10(8)22)30(24,25)26/h3,5,8H,1-2H2,(H2,13,15)(H2,14,23)(H,16,21)(H,19,20)(H,24,25,26)/b17-7+/t5-,8+/m1/s1
+|  StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = UIMOJFJSJSIGLV-PDWQJGMQSA-N
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=12 | H=14 | N=6 | O=10 | S=2 
+| molecular_weight = 466.40 g/mol
+}}
+
+'''Carumonam''' ([[International Nonproprietary Name|INN]]) is a [[monobactam]] antibiotic.<ref>{{Cite journal 
+| last1 = McNulty | first1 = C. A. 
+| last2 = Garden | first2 = G. M. 
+| last3 = Ashby | first3 = J. 
+| last4 = Wise | first4 = R. 
+| title = Pharmacokinetics and tissue penetration of carumonam, a new synthetic monobactam 
+| journal = Antimicrobial Agents and Chemotherapy 
+| volume = 28 
+| issue = 3 
+| pages = 425–427 
+| year = 1985 
+| pmid = 4073864 
+| pmc = 180266 | doi=10.1128/aac.28.3.425
+}}</ref>
+
+==References==
+{{reflist}}
+
+{{Cell wall disruptive antibiotics}}
+
+[[Category:Monobactam antibiotics]]
+[[Category:Thiazoles]]
+[[Category:Carbamates]]
+[[Category:Sulfamates]]
+
+
+{{antibiotic-stub}}

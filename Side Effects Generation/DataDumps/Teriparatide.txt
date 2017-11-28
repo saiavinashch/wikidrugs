@@ -1,0 +1,202 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 447111676
+| IUPAC_name =
+| image = Teriparatide structure.svg
+| width = 320
+
+<!--Clinical data-->
+| tradename = Forteo
+| Drugs.com = {{drugs.com|monograph|teriparatide}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = C
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US =  Rx only
+| legal_status =
+| routes_of_administration = Subcutaneous
+
+<!--Pharmacokinetic data-->
+| bioavailability = 95%
+| protein_bound =
+| metabolism = Hepatic (nonspecific proteolysis)
+| elimination_half-life = Subcutaneous: 1 hour
+| excretion = Renal (metabolites)
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 52232-67-4
+| ATC_prefix = H05
+| ATC_suffix = AA02
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB06285
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 10T9CSU89I
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D06078
+|  PubChem = 16132393
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 17289052
+
+<!--Chemical data-->
+| chemical_formula =
+| C=181 | H=291 | N=55 | O=51 | S=2
+|  smiles = [H]/N=C(\N)/NCCC[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc1c[nH]c2c1cccc2)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCN/C(=N/[H])/N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](Cc3cnc[nH]3)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](Cc4ccccc4)C(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CO)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc5cnc[nH]5)NC(=O)[C@H](CCCCN)NC(=O)CNC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](Cc6cnc[nH]6)NC(=O)[C@H](CCSC)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CO)N
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C181H291N55O51S2/c1-21-96(18)146(236-160(267)114(48-53-141(250)251)212-174(281)132(84-239)232-177(284)143(93(12)13)233-147(254)103(185)82-237)178(285)216-111(45-50-134(187)241)155(262)219-119(65-90(6)7)163(270)213-116(55-62-289-20)158(265)224-124(71-100-79-196-86-203-100)167(274)226-126(73-135(188)242)169(276)217-117(63-88(2)3)148(255)201-81-138(245)205-105(39-27-30-56-182)149(256)223-123(70-99-78-195-85-202-99)166(273)221-121(67-92(10)11)164(271)225-128(75-137(190)244)171(278)231-131(83-238)173(280)214-115(54-61-288-19)157(264)210-112(46-51-139(246)247)153(260)208-109(43-34-60-199-181(193)194)159(266)234-144(94(14)15)175(282)215-113(47-52-140(248)249)156(263)222-122(69-98-77-200-104-38-26-25-37-102(98)104)165(272)220-120(66-91(8)9)161(268)209-108(42-33-59-198-180(191)192)151(258)206-106(40-28-31-57-183)150(257)207-107(41-29-32-58-184)152(259)218-118(64-89(4)5)162(269)211-110(44-49-133(186)240)154(261)228-129(76-142(252)253)172(279)235-145(95(16)17)176(283)229-125(72-101-80-197-87-204-101)168(275)227-127(74-136(189)243)170(277)230-130(179(286)287)68-97-35-23-22-24-36-97/h22-26,35-38,77-80,85-96,103,105-132,143-146,200,237-239H,21,27-34,39-76,81-84,182-185H2,1-20H3,(H2,186,240)(H2,187,241)(H2,188,242)(H2,189,243)(H2,190,244)(H,195,202)(H,196,203)(H,197,204)(H,201,255)(H,205,245)(H,206,258)(H,207,257)(H,208,260)(H,209,268)(H,210,264)(H,211,269)(H,212,281)(H,213,270)(H,214,280)(H,215,282)(H,216,285)(H,217,276)(H,218,259)(H,219,262)(H,220,272)(H,221,273)(H,222,263)(H,223,256)(H,224,265)(H,225,271)(H,226,274)(H,227,275)(H,228,261)(H,229,283)(H,230,277)(H,231,278)(H,232,284)(H,233,254)(H,234,266)(H,235,279)(H,236,267)(H,246,247)(H,248,249)(H,250,251)(H,252,253)(H,286,287)(H4,191,192,198)(H4,193,194,199)/t96-,103-,105-,106-,107-,108-,109-,110-,111-,112-,113-,114-,115-,116-,117-,118-,119-,120-,121-,122-,123-,124-,125-,126-,127-,128-,129-,130-,131-,132-,143-,144-,145-,146-/m0/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = OGBMKVWORPGQRR-UMXFMPSGSA-N
+
+| molecular_weight = 4117.72 g/mol
+}}
+'''Teriparatide''' is a [[Recombinant DNA]] form of [[parathyroid hormone]] consisting of the first ([[N-terminus]]) 34 [[amino acid]]s, which is the bioactive portion of the hormone. It is an effective [[anabolic]] (i.e., bone growing) agent<ref name="Riek">{{cite journal |title= The pharmacological management of osteoporosis |authors= Riek AE and Towler DA |journal= Missouri Medicine |year= 2011 |volume= 108 |issue=2 |pages= 118–23 |pmid= 21568234 |pmc=3597219}}</ref> used in the treatment of some forms of [[osteoporosis]].<ref name="pmid18003959">{{cite journal  |vauthors=Saag KG, Shane E, Boonen S, etal |title=Teriparatide or alendronate in glucocorticoid-induced osteoporosis |journal=The New England Journal of Medicine |volume=357 |issue=20 |pages=2028–39 |date=November 2007 |pmid=18003959 |doi=10.1056/NEJMoa071408 |url=http://content.nejm.org/cgi/pmidlookup?view=short&pmid=18003959&promo=ONFLNS19}}</ref> It is also occasionally used [[off-label]] to speed fracture healing. Teriparatide is identical to a portion of human [[parathyroid hormone]] (PTH) and intermittent use activates [[osteoblast]]s more than [[osteoclast]]s, which leads to an overall increase in bone.
+
+Teriparatide is sold by [[Eli Lilly and Company]] under the brand name '''Forteo'''. In the United States as of 2015 each dose costs between 579 and 967 USD.<ref>{{cite news|last1=Langreth|first1=Robert|title=Decoding Big Pharma’s Secret Drug Pricing Practices|url=https://www.bloomberg.com/graphics/2016-drug-prices/|accessdate=15 July 2016|publisher=Bloomberg|date=June 29, 2016}}</ref>
+
+==Medical uses==
+Teriparatide is the only [[anabolic]] (i.e., bone growing) agent<ref name="Riek"/> indicated for use in postmenopausal women with osteoporosis at a high risk for fracture or with a history of osteoporotic fracture, patients with multiple risk factors for fracture, and for patients who have failed or are intolerant to other available osteoporosis therapy.<ref name="Neer"/> It has been [[United States Food and Drug Administration|FDA]]-approved since 2002.<ref name="Rizzoli">{{Cite journal
+| last1 = Rizzoli | first1 = R.
+| last2 = Reginster | first2 = J. Y.
+| last3 = Boonen | first3 = S.
+| last4 = Bréart | first4 = G. R.
+| last5 = Diez-Perez | first5 = A.
+| last6 = Felsenberg | first6 = D.
+| last7 = Kaufman | first7 = J. M.
+| last8 = Kanis | first8 = J. A.
+| last9 = Cooper | first9 = C.
+| doi = 10.1007/s00223-011-9499-8
+| title = Adverse Reactions and Drug–Drug Interactions in the Management of Women with Postmenopausal Osteoporosis
+| journal = Calcified Tissue International
+| volume = 89
+| issue = 2
+| pages = 91–104
+| year = 2011
+| pmid = 21637997
+| pmc =3135835
+}}</ref> It is effective in growing bone (e.g., 8% increase in bone density in the spine after one year)<ref name="Kawai">{{Cite journal
+| last1 = Kawai | first1 = M.
+| last2 = Mödder | first2 = U. I.
+| last3 = Khosla | first3 = S.
+| last4 = Rosen | first4 = C. J.
+| title = Emerging therapeutic opportunities for skeletal restoration
+| doi = 10.1038/nrd3299
+| journal = Nature Reviews Drug Discovery
+| volume = 10
+| issue = 2
+| pages = 141–156
+| year = 2011
+| pmid = 21283108
+| pmc =3135105
+}}</ref> and reducing the risk of fragility fractures.<ref name="Rizzoli"/><ref name="Murad">{{Cite journal
+| last1 = Murad | first1 = M. H.
+| last2 = Drake | first2 = M. T.
+| last3 = Mullan | first3 = R. J.
+| last4 = Mauck | first4 = K. F.
+| last5 = Stuart | first5 = L. M.
+| last6 = Lane | first6 = M. A.
+| last7 = Abu Elnour | first7 = N. O.
+| last8 = Erwin | first8 = P. J.
+| last9 = Hazem | first9 = A.
+| last10 = Puhan | first10 = M. A.
+| last11 = Li | first11 = T.
+| last12 = Montori | first12 = V. M.
+| doi = 10.1210/jc.2011-3060
+| title = Comparative Effectiveness of Drug Treatments to Prevent Fragility Fractures: A Systematic Review and Network Meta-Analysis
+| journal = Journal of Clinical Endocrinology & Metabolism
+| volume = 97
+| issue = 6
+| pages = 1871–1880
+| year = 2012
+| pmid = 22466336
+| pmc =
+}}</ref> Osteoporosis medications are generally safe, but some side effects of teriparatide include headache, nausea, dizziness, and limb pain.<ref name="Rizzoli"/>
+
+One randomized trial of postmenopausal women who had already fractured vertebra compared teriparatide at either 20 or 40 micrograms per day with placebo. After about 19 months, 14% of the women taking placebo had new vertebral fractures, as compared with 5% of the women taking 20 micrograms of teriparatide and 4% of the women taking 40 micrograms. There were also a statistically significant lower number of non-vertebral fractures in the teriparatide treated group. 20 micrograms of teriparatide increased spine and hip bone mineral density.<ref name="Neer"/>
+
+===Other===
+Teriparatide is used as [[off-label use|off-label]] therapy to speed fracture repair and treat fracture [[nonunion]]s.<ref name="Jancin">{{cite news |url= http://www.internalmedicinenews.com/index.php?id=2049&type=98&tx_ttnews%5btt_news%5d=93933&cHash=da03e20e36 |title= Accelerating Fracture Healing With Teriparatide |author= Bruce Jancin |publisher= Internal Medicine News Digital Network |date= 2011-12-12 |accessdate= 2013-09-20}}</ref> It has been reported to have been successfully used to heal fracture nonunions.<ref name="Giannotti">{{Cite journal
+| last1 = Giannotti | first1 = S.
+| last2 = Bottai | first2 = V.
+| last3 = Dell’Osso | first3 = G.
+| last4 = Pini | first4 = E.
+| last5 = De Paola | first5 = G.
+| last6 = Bugelli | first6 = G.
+| last7 = Guido | first7 = G.
+| title = Current medical treatment strategies concerning fracture healing
+| journal = Clinical Cases in Mineral and Bone Metabolism
+| volume = 10
+| issue = 2
+| pages = 116–120
+| year = 2013
+| pmid = 24133528
+| pmc = 3796998
+}}</ref> Generally, due to [[HIPAA]] regulations, it is not publicized when American athletes receive this treatment to improve fracture recovery.<ref name="Jancin"/> But an Italian soccer player, [[Francesco Totti]], was given teriparatide after a [[tibia]]/[[fibula]] fracture, and he unexpectedly recovered in time for the [[2006 World Cup]].<ref name="Jancin"/> It has been reported that [[Mark Mulder]] used it to recover from a hip fracture [[Oakland A's]] for the [[2003 MLB season#Postseason|2003 MLB playoffs]]<ref name="Carroll">{{cite book |url= http://www.worldcat.org/wcpa/servlet/DCARead?standardNo=156663668X&standardNoType=1&excerpt=true |title= The Juice: The Real Story of Baseball's Drug Problems |author= William L. Carroll |year= 2005 |chapter= Chapter 1: Defining the Issue |isbn= 1-56663-668-X |accessdate= 2013-09-23}}</ref> and [[Terrell Owens]] to recover from an ankle fracture before the [[2005 Super Bowl]].<ref name="Carroll"/>
+
+===Administration===
+Teriparatide is administered by injection once a day in the thigh or abdomen.<ref name="Riek"/><ref name="Neer">{{Cite journal
+| doi = 10.1097/00126334-199203000-00015
+| last1 = Estébanez | first1 = P.
+| last2 = Sarasqueta | first2 = C.
+| last3 = Nájera | first3 = R.
+| last4 = Contreras | first4 = G.
+| last5 = Pérez | first5 = L.
+| last6 = Fitch | first6 = K.
+| last7 = Vicente | first7 = A.
+| title = Prevalence of HIV-1, HIV-2, and HTLV-I/II in Spanish seamen
+| journal = Journal of acquired immune deficiency syndromes
+| volume = 5
+| issue = 3
+| pages = 316–317
+| year = 1992
+| pmid = 1346808
+}}</ref>
+
+==Contraindications==
+Teriparatide should not be prescribed for people who are at increased risks for osteosarcoma. This includes those with [[Paget's disease of bone|Paget's Disease]] of bone or unexplained elevations of serum alkaline phosphate, open [[epiphysis]], or prior radiation therapy involving the skeleton.
+
+==Adverse effects==
+Teriparatide has a theoretical risk of [[osteosarcoma]], which was found in rat studies but not confirmed in humans.<ref name="Riek"/> This may be because unlike humans, rat bones grow for their entire life.<ref name="Riek"/> The tumors found in the rat studies were located on the end of the bones which grew after the injections began.<ref name="Ref_a">http://www.drugs.com/pro/forteo.html</ref> After nine years on the market, there were only two cases of osteosarcoma reported.<ref name="Kawai"/> This risk was considered by the FDA as "extremely rare" (1 in 100,000 people)<ref name="Rizzoli"/> and is only slightly more than the incidence in the population over 60 years old (0.4 in 100,000).<ref name="Rizzoli"/>
+
+==Mechanism of action==
+Teriparatide is a portion of human [[parathyroid hormone]] (PTH), amino acid sequence 1 through 34, of the complete molecule (containing 84 amino acids). Endogenous PTH is the primary regulator of calcium and phosphate metabolism in bone and kidney. PTH increases serum calcium, partially accomplishing this by increasing bone resorption.  Thus, chronically elevated PTH will deplete bone stores.  However, intermittent exposure to PTH will activate osteoblasts more than osteoclasts.  Thus, once-daily injections of teriparatide have a net effect of stimulating new bone formation leading to increased bone mineral density.<ref name="Ref_b">{{cite journal | last1 = Bauer | first1 = E | last2 = Aub | first2 = JC | last3 = Albright | first3 = F | year = 1929 | title = Studies of calcium and phosphorus metabolism: V. Study of the bone trabeculae as a readily available reserve supply of calcium | url = | journal = J Exp Med | volume = 49 | issue = 1| pages = 145–162 | doi=10.1084/jem.49.1.145| pmid = 19869533 | pmc = 2131520 }}</ref><ref name="Ref_c">{{cite journal | last1 = Selye | first1 = H | year = 1932 | title = On the stimulation of new bone formation with parathyroid extract and irradiated ergosterol | url = | journal = Endocrinology | volume = 16 | issue = 5| pages = 547–558 | doi=10.1210/endo-16-5-547}}</ref><ref name="Dempster">{{Cite journal
+| doi = 10.1210/edrv-14-6-690
+| last1 = Dempster | first1 = D. W.
+| last2 = Cosman | first2 = F.
+| last3 = Parisien | first3 = M.
+| last4 = Shen | first4 = V.
+| last5 = Lindsay | first5 = R.
+| title = Anabolic actions of parathyroid hormone on bone
+| journal = Endocrine Reviews
+| volume = 14
+| issue = 6
+| pages = 690–709
+| year = 1993
+| pmid = 8119233
+}}</ref>
+
+Teriparatide is the first FDA approved agent for the treatment of osteoporosis that stimulates new bone formation.<ref name="Ref_e">[http://www.forteo.com/secure/user/index.jsp Fortéo: teriparatide (rDNA origin) injection]</ref>
+
+==FDA approval==
+Teriparatide was approved by the [[Food and Drug Administration]] (FDA) on 26 November 2002, for the treatment of [[osteoporosis]] in men and [[postmenopausal]] women who are at high risk for having a fracture. The drug is also approved to increase bone mass in men with primary or hypogonadal osteoporosis who are at high risk for fracture.
+
+==Combined teriparatide and denosumab==
+Combined teriparatide and [[denosumab]] increased BMD more than either agent alone and more than has been reported with approved therapies. Combination treatment might, therefore, be useful to treat patients at high risk of fracture.<ref name="Ref_g">{{cite journal|doi=10.1016/S0140-6736(13)60856-9|title=Teriparatide and denosumab, alone or combined, in women with postmenopausal osteoporosis: The DATA study randomised trial|journal=The Lancet|volume=382|issue=9886|pages=50|year=2013|last1=Tsai|first1=Joy N|last2=Uihlein|first2=Alexander V|last3=Lee|first3=Hang|last4=Kumbhani|first4=Ruchit|last5=Siwila-Sackman|first5=Erica|last6=McKay|first6=Elizabeth A|last7=Burnett-Bowie|first7=Sherri-Ann M|last8=Neer|first8=Robert M|last9=Leder|first9=Benjamin Z}}</ref>
+
+==See also==
+* [[Abaloparatide]]
+
+== References ==
+{{reflist}}
+
+== External links ==
+*[http://www.nlm.nih.gov/medlineplus/druginfo/medmaster/a603018.html Teriparatide at National Institutes of Health].
+*[http://www.medscape.com/viewarticle/464171 When to Use Teriparatide - Medscape].
+
+{{Calcium homeostasis}}
+{{Peptidergics}}
+
+[[Category:Osteoporosis drugs]]
+[[Category:Eli Lilly and Company]]

@@ -1,0 +1,72 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 462249333
+| IUPAC_name = (1''R'',2''S'')-3-[-2-amino-1-hydroxy-propyl]phenol
+| image = Metaraminol Structural Formulae.png
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|metaraminol}}
+| pregnancy_AU = C
+| pregnancy_US = C
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = POM
+| legal_US = <!-- OTC / Rx-only -->
+| routes_of_administration = [[Intravenous therapy|Intravenous]] [[Endotracheal]]
+<!--Pharmacokinetic data-->
+| bioavailability = n/a
+| protein_bound = ~45%
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| IUPHAR_ligand = 7229
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 54-49-9
+| CAS_supplemental = <br />33402-03-8 ([[bitartrate]])
+| ATC_prefix = C01
+| ATC_suffix = CA09
+| PubChem = 5906
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00610
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5695
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 818U2PZ2EH
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08192
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 6794
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201319
+<!--Chemical data-->
+| C=9 | H=13 | N=1 | O=2
+| molecular_weight = 167.205 g/mol
+| smiles = O[C@H](c1cc(O)ccc1)[C@@H](N)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C9H13NO2/c1-6(10)9(12)7-3-2-4-8(11)5-7/h2-6,9,11-12H,10H2,1H3/t6-,9-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WXFIGDLSSYIKKV-RCOVLWMOSA-N
+|drug_name=|alt=|caption=|type=|MedlinePlus=|legal_status=|licence_EU=|pregnancy_category=|licence_US=}}
+
+'''Metaraminol''' ([[International Nonproprietary Name|INN]]; trade names '''Aramine''', '''Metaramin''', and '''Pressonex'''), also known as '''metaradrine''', a [[stereoisomer]] of [[meta-Hydroxynorephedrine|''meta''-hydroxynorephedrine]] (3,β-dihydroxyamphetamine), is a potent [[sympathomimetic amine]] used in the prevention and treatment of [[hypotension]], particularly as a complication of [[anesthesia]]. It is an [[adrenergic receptor|α<sub>1</sub>-adrenergic receptor]] [[agonist]] with some β effect.<ref>Kee VR. [http://ccn.aacnjournals.org/content/23/4/79.long Hemodynamic pharmacology of intravenous vasopressors]. Crit Care Nurse. 2003 Aug;23(4):79-82. {{PMID|12961786}}</ref>
+
+Metaraminol is also used in the treatment of [[priapism]]. Although not approved for this use, it appears to be effective.<ref name = McDonald>{{cite journal |vauthors=McDonald M, Santucci R | title = Successful management of stuttering priapism using home self-injections of the alpha-agonist metaraminol. | journal = Int Braz J Urol | volume = 30 | issue = 2 | pages = 121–2 | year = 2004 | pmid = 15703094 | doi = 10.1590/S1677-55382004000200007}}</ref><ref name = Koga>{{cite journal |vauthors=Koga S, Shiraishi K, Saito Y | title = Post-traumatic priapism treated with metaraminol bitartrate: case report. | journal = J Trauma | volume = 30 | issue = 12 | pages = 1591–3 | year = 1990 | pmid = 2258979 | doi = 10.1097/00005373-199012000-00029}}</ref><ref name = Block>{{cite journal |vauthors=Block T, Sturm W, Ernst G, Staehler G, Schmiedt E | title = [Metaraminol in therapy of various forms of priapism] | journal = Urologe A | volume = 27 | issue = 4 | pages = 225–9 | year = 1988 | pmid = 3140463}}</ref>
+
+== See also ==
+* [[Gepefrine]]
+*[[Phenylpropanolamine]]
+
+== References ==
+{{Reflist}}
+
+{{Cardiac stimulants}}
+{{Adrenergics}}
+{{Phenethylamines}}
+
+[[Category:Alpha-adrenergic agonists]]
+[[Category:Substituted amphetamines]]
+[[Category:Cardiac stimulants]]
+[[Category:Phenols]]
+
+
+{{cardiovascular-drug-stub}}

@@ -1,0 +1,58 @@
+{{Drugbox
+| IUPAC_name = 2-[1-[2-[(2R)-4-[2-[3,5-bis(trifluoromethyl)phenyl]acetyl]-2-(3,4-dichlorophenyl)morpholin-2-yl]ethyl]piperidin-4-yl]-2-methylpropanamide
+| image = Burapitant_structure.png
+| width = 220
+
+<!--Clinical data-->
+| tradename =
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US =
+| pregnancy_category =
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 537034-22-3
+| CAS_supplemental =
+| ATC_prefix = none
+| ATC_suffix =
+| PubChem = 23649599
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = E35SK332MS
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 
+| ChemSpiderID      = 26519428
+
+<!--Chemical data-->
+| C=31 | H=35 | Cl=2 | F=6 | N=3 | O=3 
+| molecular_weight = 682.524 g/mol
+| smiles = CC(C)(C1CCN(CC1)CC[C@]2(CN(CCO2)C(=O)CC3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)C4=CC(=C(C=C4)Cl)Cl)C(=O)N
+| StdInChI          = 1S/C31H35Cl2F6N3O3/c1-28(2,27(40)44)20-5-8-41(9-6-20)10-7-29(21-3-4-24(32)25(33)17-21)18-42(11-12-45-29)26(43)15-19-13-22(30(34,35)36)16-23(14-19)31(37,38)39/h3-4,13-14,16-17,20H,5-12,15,18H2,1-2H3,(H2,40,44)/t29-/m0/s1
+| StdInChIKey       = ZLNYUCXXSDDIFU-LJAQVGFWSA-N
+}}
+
+'''Burapitant''' ('''SSR-240,600''') is a drug developed by [[Sanofi-Aventis]] which was one of the first compounds developed that acts as a potent and selective [[Antagonist (pharmacology)|antagonist]] for the [[Tachykinin receptor 1|NK<sub>1</sub>]] [[Receptor (biochemistry)|receptor]].<ref>Emonds-Alt X, Proietto V, Steinberg R, Oury-Donat F, Vigé X, Vilain P, Naline E, Daoui S, Advenier C, Le Fur G, Maffrand JP, Soubrié P, Pascal M. SSR240600 [(R)-2-(1-[2-[4-[2-[3,5-bis(trifluoromethyl)phenyl]acetyl]-2-(3,4-dichlorophenyl)-2-morpholinyl]ethyl]- 4-piperidinyl)-2-methylpropanamide], a centrally active nonpeptide antagonist of the tachykinin neurokinin-1 receptor: I. biochemical and pharmacological characterization. ''J Pharmacol Exp Ther''. 2002 Dec;303(3):1171-9. {{PMID|12438541}}</ref><ref>Steinberg R, Alonso R, Rouquier L, Desvignes C, Michaud JC, Cudennec A, Jung M, Simiand J, Griebel G, Emonds-Alt X, Le Fur G, Soubrié P. SSR240600 [(R)-2-(1-[2-[4-[2-[3,5-bis(trifluoromethyl)phenyl]acetyl]-2-(3,4-dichlorophenyl)-2-morpholinyl]ethyl]-4-piperidinyl)-2-methylpropanamide], a centrally active nonpeptide antagonist of the tachykinin neurokinin 1 receptor: II. Neurochemical and behavioral characterization. ''J Pharmacol Exp Ther''. 2002 Dec;303(3):1180-8. {{PMID|12438542}}</ref><ref>Pérez S, Tierney A, Deniau JM, Kemel ML. Tachykinin regulation of cholinergic transmission in the limbic/prefrontal territory of the rat dorsal striatum: implication of new neurokinine 1-sensitive receptor binding site and interaction with enkephalin/mu opioid receptor transmission. ''J Neurochem''. 2007 Dec;103(6):2153-63. {{PMID|17949415}}</ref> While burapitant itself did not proceed beyond early [[clinical trial]]s and was never developed for clinical use in humans, promising animal results from this and related compounds have led to a number of novel drugs from [[NK1 receptor antagonist|this class]] that have now been introduced into medical use.
+
+== References ==
+{{Reflist}}
+
+
+{{Neurokinin receptor modulators}}
+
+[[Category:NK1 receptor antagonists]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Chloroarenes]]
+
+{{nervous-system-drug-stub}}

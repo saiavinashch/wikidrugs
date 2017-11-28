@@ -1,0 +1,60 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 444187979
+| IUPAC_name = ''N''-(morpholin-4-ylmethyl)pyrazine-2-carboxamide
+| image = Morinamide.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|morinamide}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number = 952-54-5
+| ATC_prefix = J04
+| ATC_suffix = AK04
+| PubChem = 70374
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 8CFL28PA3W
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07248
+| ChemSpiderID      = 63555
+
+<!--Chemical data-->
+| C=10 | H=14 | N=4 | O=2 
+| molecular_weight = 222.244 g/mol
+| smiles            = C1COCCN1CNC(=O)C2=NC=CN=C2
+| StdInChI          = 1S/C10H14N4O2/c15-10(9-7-11-1-2-12-9)13-8-14-3-5-16-6-4-14/h1-2,7H,3-6,8H2,(H,13,15)
+| StdInChIKey       = GVTLAVKAVSKBKK-UHFFFAOYSA-N
+}}
+
+'''Morinamide''' (or '''morphazinamide''', or '''morinamid''') is a drug used in the treatment of [[tuberculosis]].<ref name="pmid7761665">{{cite journal |vauthors=Bonanni G, Ciccariello M, Mancini P, Pace V, Sagliaschi G |title=Concomitant ceco-appendicular and urinary tuberculosis. Description of two rare cases: physiopathological and diagnostic remarks |journal=Riv Eur Sci Med Farmacol |volume=15 |issue=3-4 |pages=171–4 |year=1993 |pmid=7761665 |doi= |url=}}</ref> It behaves as a [[prodrug]] for [[Pyrazinamide]].
+
+== References ==
+{{reflist}}
+
+{{Antimycobacterials}}
+
+[[Category:Pyrazines]]
+[[Category:Morpholines]]
+[[Category:Carboxamides]]
+
+
+{{antiinfective-drug-stub}}

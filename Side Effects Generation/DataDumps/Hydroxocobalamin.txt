@@ -1,0 +1,123 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 457640474
+| IUPAC_name = Coα-[α-(5,6-dimethylbenzimidazolyl)]-<br>Coβ-hydroxocobamide
+| image = Hydroxocobalamin.svg
+| width = 250
+<!--| image2 = Hydroxocobalamin ball-and-stick animation.gif
+| width2 = 250-->
+<!--Clinical data-->
+| synonyms = vitamin B<sub>12</sub>, vitamin B<sub>12a</sub>, hydroxycobalamin
+| tradename =  
+| Drugs.com = {{drugs.com|monograph|vitamin-b12}}
+| MedlinePlus = a605007
+| pregnancy_AU =  
+| pregnancy_US = C<ref name=Preg2016>{{cite web|title=Hydroxocobalamin Use During Pregnancy {{!}} Drugs.com|url=http://www.drugs.com/pregnancy/hydroxocobalamin.html|website=www.drugs.com|accessdate=30 December 2016}}</ref>
+| pregnancy_category =
+| legal_AU =  
+| legal_UK =  
+| legal_US = OTC
+| legal_US_comment = (by prescription when injectable), not DEA-controlled
+| legal_status = 
+| routes_of_administration = IM, IV
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = Very high (90%)
+| metabolism = Primarily liver, cobalamins are absorbed in the ileum and stored in the liver.
+| elimination_half-life = ~6 days
+| excretion =
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 13422-51-0
+| ATC_prefix = B03
+| ATC_suffix = BA03
+| ATC_supplemental =   {{ATC|V03|AB33}}
+| PubChem = 6433575
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00200
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 21160115
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = Q40X8H422O
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01027
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1237097
+<!--Chemical data-->
+| C=62 | H=89 | Co=1 | N=13 | O=15 | P=1
+| molecular_weight = 1346.37 g/mol
+| smiles = Cc1cc2ncn(c2cc1C)C9OC(CO)C(OP3(=O)OC(C)CNC(=O)CCC5C4=C(C)C8=NC(=CC7=NC(=C(C)C6=NC(C)(C(N4[Co](O)O3)C5(C)CC(N)=O)C(C)(CC(N)=O)C6CCC(N)=O)C(C)(CC(N)=O)C7CCC(N)=O)C(CCC(N)=O)C8(C)C)C9O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C62H90N13O14P.Co.H2O/c1-29-20-40-41(21-30(29)2)75(28-70-40)56-52(84)53(42(27-76)87-56)89-90(85,86)88-31(3)26-69-49(83)19-15-36-50-32(4)54-58(6,7)34(12-16-43(63)77)38(71-54)22-39-35(13-17-44(64)78)59(8,23-46(66)80)55(72-39)33(5)51-37(14-18-45(65)79)61(10,25-48(68)82)62(11,74-51)57(73-50)60(36,9)24-47(67)81;;/h20-22,28,31,34-37,42,52-53,56-57,76,84H,12-19,23-27H2,1-11H3,(H15,63,64,65,66,67,68,69,71,72,73,74,77,78,79,80,81,82,83,85,86);;1H2/q;+3;/p-3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GTSMWDDKWYUXGH-UHFFFAOYSA-K
+}}
+<!-- Definition and medical uses -->
+'''Hydroxocobalamin''', also known as '''vitamin B<sub>12a</sub>''' and '''hydroxycobalamin''', is [[vitamin]] found in food and used as a [[dietary supplement]].<ref name=WHO2008>{{cite book|title=WHO Model Formulary 2008|date=2009|publisher=World Health Organization|isbn=9789241547659|page=251|url=http://apps.who.int/medicinedocs/documents/s16879e/s16879e.pdf|accessdate= 8 December 2016}}</ref> As a supplement it is used to treat [[vitamin B12 deficiency]] including [[pernicious anemia]].<ref name=WHO2008/><ref name=AHFS2016/> Other uses include [[cyanide poisoning]], [[Leber's optic atrophy]], and [[toxic amblyopia]].<ref>{{cite journal|last1=MacLennan|first1=L|last2=Moiemen|first2=N|title=Management of cyanide toxicity in patients with burns.|journal=Burns : journal of the International Society for Burn Injuries|date=February 2015|volume=41|issue=1|pages=18–24|pmid=24994676}}</ref><ref name=UK2016>{{cite web|title=Hydroxocobalamin 1mg in 1ml solution for injection - Summary of Product Characteristics (SPC) - (eMC)|url=https://www.medicines.org.uk/emc/medicine/31182|website=www.medicines.org.uk|accessdate=30 December 2016}}</ref> It is given by [[intramuscular|injection into a muscle]] or [[intravenous|vein]].<ref name=AHFS2016>{{cite web|title=Vitamin B12|url=https://www.drugs.com/monograph/vitamin-b12.html|publisher=The American Society of Health-System Pharmacists|accessdate= 8 December 2016}}</ref>
+
+<!-- Side effects and mechanism -->
+Side effects are generally few.<ref name=AHFS2016/> They may include [[diarrhea]], [[low blood potassium]], [[allergic reactions]], and [[high blood pressure]].<ref name=AHFS2016/> Normal doses are considered safe in [[pregnancy]].<ref name=Preg2016/> Hydroxocobalamin is the natural form of [[vitamin B12|vitamin B<sub>12</sub>]] and a member of the [[cobalamin]] family of compounds.<ref>{{cite book|last1=Bullock|first1=Shane|last2=Manias|first2=Elizabeth|title=Fundamentals of Pharmacology|date=2013|publisher=Pearson Higher Education AU|isbn=9781442564411|page=862|url=https://books.google.ca/books?id=ODjiBAAAQBAJ&pg=PA862|language=en}}</ref><ref name=NIH2016>{{cite web|title=Office of Dietary Supplements - Dietary Supplement Fact Sheet: Vitamin B12|url=https://ods.od.nih.gov/factsheets/VitaminB12-HealthProfessional/|website=ods.od.nih.gov|accessdate=30 December 2016|date=11 February 2016}}</ref> Hydroxocobalamin, or another form of vitamin B<sub>12</sub>, are required for the body to make [[DNA]].<ref name=NIH2016/> Foods that naturally contain vitamin B<sub>12</sub> include meat, eggs, and [[dairy products]].<ref name=NIH2016/>
+
+<!-- History, society and culture -->
+Hydroxocobalamin was first isolated in 1949.<ref>{{cite book|last1=Eitenmiller|first1=Ronald R.|last2=Jr|first2=W. O. Landen|title=Vitamin Analysis for the Health and Food Sciences|date=2010|publisher=CRC Press|isbn=9781420050165|page=467|url=https://books.google.ca/books?id=gZTsb_CelS8C&pg=PA467|language=en}}</ref> It is on the [[World Health Organization's List of Essential Medicines]], the most effective and safe medicines needed in a [[health system]].<ref name=WHO19th>{{cite web|title=WHO Model List of Essential Medicines (19th List)|url=http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|work=World Health Organization|accessdate=8 December 2016|date=April 2015}}</ref> Hydroxocobalamin is available as a [[generic medication]].<ref name=AHFS2016/> The wholesale cost in the [[developing world]] is about 0.12 to 0.84 USD per dose.<ref name=ERC2014>{{cite web|title=Vitamin B12|url=http://erc.msh.org/dmpguide/resultsdetail.cfm?language=english&code=CYA1A&s_year=2014&year=2014&str=1%20mg%2Fml&desc=Vitamin%20B12&pack=new&frm=AMPOULE&rte=INJ&class_code2=27%2E&supplement=&class_name=%2810%2E1%2E%29Anti-anaemia%20medicines%3Cbr%3E%2827%2E%29Vitamins%20and%20minerals%3Cbr%3E|website=International Drug Price Indicator Guide|accessdate=8 December 2016}}</ref> In the United States this amount wholesale costs about 0.84 USD.<ref>{{cite web|title=NADAC as of 2016-12-07 {{!}} Data.Medicaid.gov|url=https://data.medicaid.gov/Drug-Prices/NADAC-as-of-2016-12-07/ry9m-tx78|website=Centers for Medicare and Medicaid Services|accessdate=30 December 2016}}</ref> Commercially it is made from one of a number of different types of [[bacteria]].<ref>{{cite book|title=Ullmann's encyclopedia of industrial chemistry.|date=2011|publisher=Wiley-VCH|location=Weinheim|isbn=9783527303854|chapter=Vitamins, 6. B Vitamins}}</ref>
+
+==Medical uses==
+[[File:HydroxycobalaminSolid.JPG|thumb|upright=1.2|Hydroxocobalamin at standard conditions is a solid composed of dark red crystals.]]
+[[File:Hydroxocobalamin Injection.jpg|thumb|upright=1.2|Hydroxocobalamin injection USP (1000 mcg/mL) is a clear red liquid solution. Shown is 500 mcg B-12 prepared for subcutaneous injection.]]
+
+===Vitamin B<sub>12</sub> deficiency===
+Vitamin B<sub>12</sub> compounds are used as a prescription medicine (injection) for [[vitamin B12|vitamin B<sub>12</sub>]] replacement therapy, usually at 100&nbsp;µg/dose. In the UK, 1,000&nbsp;µg (1&nbsp;mg) per dose is generally used.{{citation needed|date=September 2013}} Damage that results from vitamin B<sub>12</sub> deficiency can be prevented with early diagnosis and adequate treatment.
+
+For most, the standard therapy for treatment of vitamin B<sub>12</sub> deficiency has been intramuscular (IM) injections in the form of [[cyanocobalamin]] (CNCbl) or hydroxocobalamin (OHCbl). Cyanocobalamin is traditionally prescribed in the [[United States]]. Outside of the United States, hydroxocobalamin is most generally used for vitamin B<sub>12</sub> replacement therapy and is considered the “drug of choice” for vitamin B<sub>12</sub> deficiency by the Martindale Extra Pharmacopoeia (Sweetman, 2002) and the [[World Health Organization]] (WHO) Model List of Essential Drugs. This preference for hydroxocobalamin in many countries is due to its long retention in the body and the need for less-frequent IM injections in restoring vitamin B<sub>12</sub> (cobalamin) serum levels. Furthermore, IM administration of hydroxocobalamin is also the preferred treatment for [[pediatric]] patients with intrinsic cobalamin [[metabolic diseases]]; vitamin B<sub>12</sub>-deficient patients with tobacco amblyopia due to cyanide poisoning; and patients with pernicious anemia who have optic neuropathy.<ref>Carethers, 1988 {{full citation needed|date=September 2016}}</ref><ref>Chisholm et al., 1967 {{full citation needed|date=September 2016}}</ref><ref>Freeman, 1992 {{full citation needed|date=September 2016}}</ref><ref>Markle, 1996 {{full citation needed|date=September 2016}}</ref>
+
+In a newly diagnosed vitamin B<sub>12</sub>-deficient patient, normally defined as when serum levels are less than 200&nbsp;pg/ml, daily IM injections of hydroxocobalamin up to 1,000&nbsp;μg (1&nbsp;mg) per day are given to replenish the body’s depleted cobalamin stores. In the presence of neurological symptoms, following daily treatment, injections up to weekly or biweekly are indicated for six months before initiating monthly IM injections. Once clinical improvement is confirmed, maintenance supplementation of B<sub>12</sub> will generally be needed for life.
+
+===Cyanide poisoning===
+Hydroxocobalamin has also been used in the treatment of [[cyanide poisoning]].  Cyanide displaces the hydroxo [[ligand]] forming a stable cyanocobalamin.<ref name="pmid18397973">{{cite journal |author=Shepherd G, Velez LI |title=Role of hydroxocobalamin in acute cyanide poisoning |journal=Ann Pharmacother |volume=42 |issue=5 |pages=661–9 |date=May 2008 |pmid=18397973 |doi=10.1345/aph.1K559 |url=http://www.theannals.com/cgi/pmidlookup?view=long&pmid=18397973}}</ref>
+
+==Side effects==
+The literature data on the acute toxicity profile of hydroxocobalamin show it is generally regarded as safe with local and systemic exposure. The ability of hydroxocobalamin to rapidly scavenge and detoxify cyanide by chelation has resulted in several acute animal and human studies using systemic hydroxocobalamin doses at suprapharmacological doses as high as 140&nbsp;mg/kg to support its use as an [[intravenous]] (IV) treatment for cyanide exposure.<ref>Forsyth et al., 1993 {{full citation needed|date=September 2016}}</ref><ref>Riou et al., 1993 {{full citation needed|date=September 2016}}</ref> The US FDA at the end of 2006 approved the use hydroxocobalamin as an injection for the treatment of cyanide poisoning.
+
+==Properties==
+Hydroxocobalamin acetate occurs as odorless, dark-red [[orthorhombic]] needles. The injection formulations appear as clear, dark-red solutions. It has a [[distribution coefficient]] of 1.133 × 10-5 and a [[pKa]] of 7.65.
+
+==Causes of deficiency==
+Injection of hydroxocobalamin is used to rectify the following causes of vitamin B<sub>12</sub> deficiency (list taken from the drug prescription label published by the [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]])
+* Dietary deficiency of vitamin B<sub>12</sub> occurring in strict vegetarians and in their [[breastfed]] infants (isolated vitamin B<sub>12</sub> deficiency is very rare)
+* Malabsorption of vitamin B<sub>12</sub> resulting from damage to the stomach, where [[intrinsic factor]] is secreted, or damage to the [[ileum]], where intrinsic factor facilitates vitamin B<sub>12</sub> absorption. These conditions include [[tropical sprue]] and [[nontropical sprue]] (celiac disease).
+* Inadequate secretion of intrinsic factor, resulting from lesions that destroy the [[gastric mucosa]] (which can be caused by ingestion of corrosives, extensive [[tumors]], and conditions associated with gastric atrophy, such as [[multiple sclerosis]], certain [[endocrine disorders]], [[Iron deficiency (medicine)|iron deficiency]], and subtotal [[gastrectomy]])
+* Structural lesions leading to vitamin B<sub>12</sub> deficiency, including regional [[ileitis]], ileal reactions, and malignancies
+* Competition for vitamin B<sub>12</sub> by [[intestinal parasites]] or [[bacteria]]. The [[tapeworm]] from undercooked fish (''[[Diphyllobothrium latum]]'') absorbs huge quantities of vitamin B<sub>12</sub>, and infested patients often have associated gastric atrophy. The [[blind loop syndrome]] may produce deficiency of vitamin B<sub>12</sub> or [[folate]].
+* Inadequate use of vitamin B<sub>12</sub>, which may occur if [[antimetabolites]] for the vitamin are employed in the treatment of [[neoplasia]]
+[[Pernicious anemia]], is not a cause of vitamin B<sub>12</sub> deficiency, but rather the result of vitamin B<sub>12</sub> deficiency. While it technically refers to anemia caused specifically by autoimmune deficiency of intrinsic factor, it is commonly used to refer to B<sub>12</sub>-deficient anemia as a whole, regardless of cause.
+
+==Mechanism of action==
+Vitamin B<sub>12</sub> refers to a group of compounds called cobalamins that are available in the human body in a variety of mostly interconvertible forms. Together with [[folate]], cobalamins are essential cofactors required for [[DNA]] synthesis in cells where [[chromosomal]] replication and division are occurring—most notably the [[bone marrow]] and [[myeloid]] cells. As a [[Cofactor (biochemistry)|cofactor]], cobalamins are essential for two cellular reactions:
+*the mitochondrial [[methylmalonyl-CoA mutase]] conversion of [[methylmalonic acid]] (MMA) to [[succinate]], which links lipid and carbohydrate metabolism, and
+*the activation of [[methionine synthase]], which is the rate-limiting step in the synthesis of [[methionine]] from [[homocysteine]] and [[5-methyltetrahydrofolate]].<ref name="ReferenceA">Katzung, 1989 {{full citation needed|date=September 2016}}</ref>
+
+Cobalamins are characterized by a [[porphyrin]]-like [[corrin]] nucleus that contains a single [[cobalt]] atom bound to a [[benzimidazolyl]] nucleotide and a variable residue (R) group. The variable R group gives rise to the four most commonly known cobalamins: [[Cyanocobalamin|CNCbl]], [[methylcobalamin]], [[Cobamamide|5-deoxyadenosylcobalamin]], and OHCbl. In the serum, hydroxocobalamin and cyanocobalamin are believed to function as storage or transport forms of the molecule, whereas methylcobalamin and 5-deoxyadenosylcobalamin are the active forms of the coenzyme required for cell growth and replication.<ref>Katzung, 1989</ref>{{full citation needed|date=September 2013}} Cyanocobalamin is usually converted to hydroxocobalamin in the serum, whereas hydroxocobalamin is converted to either methylcobalamin or 5-deoxyadenosyl cobalamin. Cobalamins circulate bound to serum proteins called [[transcobalamins]] (TC) and [[haptocorrin]]s. Hydroxocobalamin has a higher affinity to the TC II transport protein than cyanocobalamin, or 5-deoxyadenosylcobalamin. From a [[biochemical]] point of view, two essential enzymatic reactions require vitamin B<sub>12</sub> (cobalamin).<ref name="ReferenceA"/><ref>Hardman, 2001 {{full citation needed|date=September 2013}}</ref>
+
+[[Intracellular]] vitamin B<sub>12</sub> is maintained in two active coenzymes, methylcobalamin and 5-deoxyadenosylcobalamin, which are both involved in specific enzymatic reactions. In the face of vitamin B<sub>12</sub> deficiency, conversion of methylmalonyl-CoA to [[succinyl-CoA]] cannot take place, which results in accumulation of methylmalonyl-CoA and aberrant fatty acid synthesis. In the other enzymatic reaction, methylcobalamin supports the methionine synthase reaction, which is essential for normal metabolism of folate. The folate-cobalamin interaction is pivotal for normal synthesis of [[purines]] and [[pyrimidines]] and the transfer of the methyl group to cobalamin is essential for the adequate supply of [[tetrahydrofolate]], the substrate for metabolic steps that require folate. In a state of vitamin B<sub>12</sub> deficiency, the cell responds by redirecting folate metabolic pathways to supply increasing amounts of [[levomefolic acid|methyltetrahydrofolate]]. The resulting elevated concentrations of [[homocysteine]] and [[methylmalonic acid|MMA]] are often found in patients with low serum vitamin B<sub>12</sub> and can usually be lowered with successful vitamin B<sub>12</sub> replacement therapy. However, elevated [[methylmalonic acid|MMA]] and [[homocysteine]] concentrations may persist in patients with cobalamin concentrations between 200 and 350&nbsp;pg/mL.<ref>Lindenbaum et al. 1994 {{full citation needed|date=September 2016}}</ref> Supplementation with vitamin B<sub>12</sub> during conditions of deficiency restores the intracellular level of cobalamin and maintains a sufficient level of the two active coenzymes: methylcobalamin and deoxyadenosylcobalamin.
+
+== See also ==
+*[[Cobamamide]]
+*[[Methylcobalamin]]
+*[[Nitric oxide]]
+
+==References==
+{{reflist|32em}}
+
+==External links==
+*[http://www.ebi.ac.uk/chebi/searchId.do?chebiId=27786 Hydroxocobalamin] in the [[ChEBI]] database
+
+{{Vitamin}}
+{{Antidotes}}
+
+[[Category:B vitamins]]
+[[Category:Tetrapyrroles]]
+[[Category:Vitamin B12]]
+[[Category:World Health Organization essential medicines]]
+[[Category:RTT]]
+
+[[pt:Hidroxocobalamina]]

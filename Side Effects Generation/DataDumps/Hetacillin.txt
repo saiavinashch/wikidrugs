@@ -1,0 +1,101 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 461767356
+| IUPAC_name = (2''S'',5''R'',6''R'')-6-[(4''R'')-2,2-dimethyl-5-oxo-4-phenylimidazolidin-1-yl]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+| image = Hetacillin structure.svg
+<!--Clinical data-->
+| tradename = Hetacin
+| Drugs.com = {{Drugs.com|vet|hetacin-k-intramammary-infusion}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Rx-only
+| legal_status = 
+| routes_of_administration = [[Mammary gland|Intramammary]] injection
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 3511-16-8
+| ATC_prefix = J01
+| ATC_suffix = CA18
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00739
+| PubChem = 443387
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 391616
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = TN4JSC48CV
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D01074
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201116
+<!--Chemical data-->
+| chemical_formula =  
+| C=19 | H=23 | N=3 | O=4 | S=1
+| molecular_weight = 389.469 g/mol
+| smiles = CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)N3C(=O)[C@H](NC3(C)C)c4ccccc4)C(=O)O)C
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C19H23N3O4S/c1-18(2)13(17(25)26)21-15(24)12(16(21)27-18)22-14(23)11(20-19(22,3)4)10-8-6-5-7-9-10/h5-9,11-13,16,20H,1-4H3,(H,25,26)/t11-,12-,13+,16-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = DXVUYOAEDJXBPY-NFFDBFGFSA-N
+}}
+'''Hetacillin''' is a [[beta-lactam antibiotic]] that is part of the [[aminopenicillin]] family. It is a [[prodrug]] and it has no antibacterial activity itself,<ref name="DrugBank">Drugbank: [http://www.drugbank.ca/drugs/DB00739 Hetacillin]</ref> but quickly splits of [[acetone]] in the human body to form [[ampicillin]],<ref name="Sutherland">{{Cite journal
+| last1 = Sutherland | first1 = R.
+| last2 = Robinson | first2 = O. P.
+| title = Laboratory and pharmacological studies in man with hetacillin and ampicillin
+| journal = British Medical Journal
+| volume = 2
+| issue = 5555
+| pages = 804–808
+| year = 1967
+| pmid = 5182358
+| pmc = 1843140
+ | doi=10.1136/bmj.2.5555.804
+}}</ref> which is active against a variety of bacteria.
+
+==Administration==
+Hetacillin can be administered orally.<ref name="Sutherland" /> The [[potassium]] salt, hetacillin potassium, is administered by [[Injection (medicine)|injection]], either intravenously or intramuscularly.{{citation needed|date=February 2014}} It is sold under the trade name '''Hetacin''' for [[Mammary gland|intramammary]] injection in veterinary use.<ref>Hetacin-K Intramammary Infusion for {{Drugs.com|vet|hetacin-k-intramammary-infusion}}</ref>
+
+Hetacillin was removed from the market for human use when the discovery was made that it is actually cleaved in the gastrointestinal tract to formaldehyde and had no advantages over ampicillin.{{citation needed|date=February 2014}}
+
+==Chemistry==
+Hetacillin is prepared from ampicillin and acetone. In aqueous solutions it is unstable, with a half life of 15 to 30 minutes at {{convert|37|°C|°F}} and pH&nbsp;7, quickly releasing acetone again.<ref name="DrugBank" /><ref name="Faine">{{Cite journal
+| last1 = Faine | first1 = S.
+| last2 = Harper | first2 = M.
+| title = Independent antibiotic actions of hetacillin and ampicillin revealed by fast methods
+| journal = Antimicrobial Agents and Chemotherapy
+| volume = 3
+| issue = 1
+| pages = 15–18
+| year = 1973
+| pmid = 4597707
+| pmc = 444353
+| doi=10.1128/aac.3.1.15
+}}</ref>
+
+As opposed to ampicillin, hetacillin is only marginally broken down by the bacterial enzyme [[beta-lactamase]], at least ''[[in vitro]]''.<ref name="Faine" />
+
+==References==
+{{reflist}}
+
+{{Cell wall disruptive antibiotics}}
+{{Xenobiotic-sensing receptor modulators}}
+
+[[Category:Penicillins]]
+[[Category:Prodrugs]]
+[[Category:Withdrawn drugs]]
+[[Category:Imidazolidinones]]
+
+
+{{Antibiotic-stub}}

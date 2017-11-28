@@ -1,0 +1,75 @@
+{{Infobox drug
+| drug_name         =
+| INN               =
+| type              =<!-- empty -->
+| IUPAC_name        = 2-<nowiki>[[</nowiki>(2''S'')-1-[(2''S'')-5-amino-2-<nowiki>[[</nowiki>(2''S'')-2-<nowiki>[[</nowiki>(2''S'')-2-<nowiki>[[</nowiki>(2''S'')-2-<nowiki>[[</nowiki>2-[(2-Aminoacetyl)amino]acetyl]amino]-3-methylbutanoyl]amino]-4-methylpentanoyl]amino]-3-methylbutanoyl]amino]-5-oxopentanoyl]pyrrolidine-2-carbonyl]amino]acetic acid
+| image             = Larazotide.svg
+| alt               = 
+| caption           =
+<!-- Clinical data -->
+| pronounce         =
+| tradename         = 
+| Drugs.com         = 
+| MedlinePlus       = 
+| pregnancy_AU      = <!-- A/B1/B2/B3/C/D/X -->
+| pregnancy_AU_comment = 
+| pregnancy_US      = <!-- A/B/C/D/X/N -->
+| pregnancy_category= 
+| routes_of_administration = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_AU_comment =
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_DE = <!-- Anlage I, II, III -->
+| legal_NZ = <!-- Class A, B, C -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM / Class A, B, C -->
+| legal_US = <!-- OTC/Rx-only/Schedule I, II, III, IV, V -->
+| legal_UN = <!-- N I, II, III, IV / P I, II, III, IV-->
+| legal_status      = Investigational
+<!-- Pharmacokinetic data -->
+| bioavailability   = 
+| protein_bound     = 
+| metabolism        = 
+| metabolites       =
+| onset             = 
+| elimination_half-life = 
+| duration_of_action =
+| excretion         = 
+<!-- Identifiers -->
+| CAS_number        = 258818-34-7
+| CAS_supplemental  = <br>881851-50-9 (acetate)
+| class             = 
+| ATCvet            = 
+| ATC_prefix        = <!-- 'none' if uncategorised -->
+| ATC_suffix        = 
+|  PubChem = 9810532
+|  ChemSpiderID = 7986288
+|  KEGG = D09351
+| DrugBank          = 
+<!-- Chemical and physical data -->
+| C=32|H=55|N=9|O=10
+| StdInChI=1S/C32H55N9O10/c1-16(2)12-20(38-30(49)26(17(3)4)39-24(44)14-35-23(43)13-33)28(47)40-27(18(5)6)31(50)37-19(9-10-22(34)42)32(51)41-11-7-8-21(41)29(48)36-15-25(45)46/h16-21,26-27H,7-15,33H2,1-6H3,(H2,34,42)(H,35,43)(H,36,48)(H,37,50)(H,38,49)(H,39,44)(H,40,47)(H,45,46)/t19-,20-,21-,26-,27-/m0/s1
+| StdInChIKey=ORFLZNAGUTZRLQ-ZMBVWFSWSA-N
+| smiles = CC(C)C[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(=O)N)C(=O)N1CCC[C@H]1C(=O)NCC(=O)O)NC(=O)[C@H](C(C)C)NC(=O)CNC(=O)CN
+}}
+
+'''Larazotide''' ([[international nonproprietary name|INN]]; also known as AT-1001; formulated as the [[salt (chemistry)|salt]] with [[acetic acid]], '''larazotide acetate''') is a synthetic eight [[amino acid]] [[peptide]] that functions as a [[tight junction]] regulator and reverses leaky junctions to their normally closed state. It is being studied in people with [[Coeliac disease|celiac disease]].
+
+== Structure ==
+Larazotide is an octapeptide whose structure is derived from a protein (zonula occludens toxin) secreted by ''Vibrio cholerae''.  It has the amino acid sequence GGVLVQPG, [[International Union of Pure and Applied Chemistry|IUPAC]] condensed descriptor of H-Gly-Gly-Val-Leu-Val-Gln-Pro-Gly-OH, and the systematic name glycylglycyl-<small>L</small>-valyl-<small>L</small>-leucyl-<small>L</small>-valyl-<small>L</small>-glutaminyl-<small>L</small>-prolyl-glycine.<ref>{{Cite web|url=https://pubchem.ncbi.nlm.nih.gov/compound/44146842#section=Biologic-Description|title=Larazotide acetate {{!}} C34H59N9O12 - PubChem|last=Pubchem|website=pubchem.ncbi.nlm.nih.gov|access-date=2016-04-16}}</ref><ref>{{Cite web|url=http://chem.sis.nlm.nih.gov/chemidplus/rn/881851-50-9|title=ChemIDplus - a TOXNET database|last=|first=|date=|website=|publisher=|access-date=16 April 2016}}</ref>
+
+== Mechanism of action ==
+
+Larazotide is an inhibitor of paracellular permeability.  In celiac disease, one pathway that allows fragments of [[gliadin]] protein to get past the intestinal epithelium and subsequently trigger an [[Immune system|immune response]] begins with binding of indigestible gliadin fragments to the [[chemokine]] CXC motif receptor 3 ([[CXCR3]]) on the [[Lumen (anatomy)|luminal]] side of the intestinal epithelium (see [[Gluten immunochemistry#Infiltrating peptides|this page]]). This leads to the induction of myeloid differentiation factor 88 ([[MYD88]]) and the release of zonulin into the lumen. Zonulin then binds to [[Epidermal growth factor receptor|epidermal growth factor receptor (EGFR)]] and [[Protease-activated receptor 2|protease-activated receptor 2 (PAR2)]] in the intestinal epithelium. This complex then initiates a signalling pathway that eventually results in tight junction disassembly and increased intestinal permeability. Larazotide acetate intervenes in the middle of this pathway by blocking zonulin receptors, thereby preventing tight junction disassembly and associated increase in intestinal permeability.<ref>{{Cite journal|last=Fasano|first=Alessio|date=2011-01-01|title=Zonulin and Its Regulation of Intestinal Barrier Function: The Biological Door to Inflammation, Autoimmunity, and Cancer|url=http://physrev.physiology.org/content/91/1/151|journal=Physiological Reviews|language=en|volume=91|issue=1|pages=151–175|doi=10.1152/physrev.00003.2008|issn=0031-9333|pmid=21248165}}</ref><ref>{{Cite journal|last=Khaleghi|first=Shahryar|last2=Ju|first2=Josephine M.|last3=Lamba|first3=Abhinav|last4=Murray|first4=Joseph A.|date=2016-01-01|title=The potential utility of tight junction regulation in celiac disease: focus on larazotide acetate|journal=Therapeutic Advances in Gastroenterology|volume=9|issue=1|pages=37–49|doi=10.1177/1756283X15616576|issn=1756-283X|pmc=4699279|pmid=26770266}}</ref>
+
+== Origin ==
+Larazotide acetate is a [[Peptide synthesis|synthetic peptide]] based on a ''[[Vibrio cholerae]]'' [[enterotoxin]] called zonula occludens toxin that increases [[intestinal permeability]]. An investigation was carried out to discover which specific part of this toxin was responsible for this activity. Several mutants were constructed and tested for their biological activity and their ability to bind to intestinal epithelial cells in [[Cell culture|culture]]. The responsible region was located near the [[C-terminus|carboxyl terminus]] of the toxin protein. This region coincided with a peptide product generated by ''Vibrio cholerae''. The eight amino acid sequence in this region was shared with [[zonulin]], an endogenous protein involved in tight junction modulation. This sequence was later designated larazotide acetate.<ref>{{Cite journal|last=Di Pierro|first=M.|last2=Lu|first2=R.|last3=Uzzau|first3=S.|last4=Wang|first4=W.|last5=Margaretten|first5=K.|last6=Pazzani|first6=C.|last7=Maimone|first7=F.|last8=Fasano|first8=A.|date=2001-06-01|title=Zonula occludens toxin structure-function analysis. Identification of the fragment biologically active on tight junctions and of the zonulin receptor binding domain|journal=The Journal of Biological Chemistry|volume=276|issue=22|pages=19160–19165|doi=10.1074/jbc.M009674200|issn=0021-9258|pmid=11278543}}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://chem.sis.nlm.nih.gov/chemidplus/rn/881851-50-9 U.S. National Library of Medicine ChemIDplus database]
+
+[[Category:Experimental drugs]]
+[[Category:Drugs acting on the gastrointestinal system and metabolism]]
+[[Category:Peptides]]

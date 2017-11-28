@@ -1,0 +1,58 @@
+{{Drugbox
+| IUPAC_name = (2R,4S)-4-[(8aS)-6-oxo-1,3,4,7,8,8a-hexahydropyrrolo[1,2-a]pyrazin-2-yl]-N-[(1R)-1-[3,5-bis(trifluoromethyl)phenyl]ethyl]-2-(4-fluoro-2-methylphenyl)-N-methylpiperidine-1-carboxamide
+| image = Orvepitant_structure.png
+| width = 240
+
+<!--Clinical data-->
+| tradename =
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US =
+| pregnancy_category =
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 579475-18-6
+| CAS_supplemental =
+| ATC_prefix = none
+| ATC_suffix =
+| PubChem = 9852175
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = IIU6V0W3JD
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 
+| ChemSpiderID      = 8027888
+
+<!--Chemical data-->
+| C=31 | H=35 | F=7 | N=4 | O=2 
+| molecular_weight = 628.623 g/mol
+| smiles            = CC1=C(C=CC(=C1)F)[C@H]2C[C@H](CCN2C(=O)N(C)[C@H](C)C3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)N4CCN5[C@H](C4)CCC5=O
+| StdInChI          = 1S/C31H35F7N4O2/c1-18-12-23(32)4-6-26(18)27-16-24(40-10-11-41-25(17-40)5-7-28(41)43)8-9-42(27)29(44)39(3)19(2)20-13-21(30(33,34)35)15-22(14-20)31(36,37)38/h4,6,12-15,19,24-25,27H,5,7-11,16-17H2,1-3H3/t19-,24+,25+,27-/m1/s1
+| StdInChIKey       = XWNBGDJPEXZSQM-VZOBGQTKSA-N
+}}
+
+'''Orvepitant''' ('''GW823296''') is a drug developed by [[GlaxoSmithKline]] which acts as a selective [[Antagonist (pharmacology)|antagonist]] for the [[Tachykinin receptor 1|NK<sub>1</sub>]] [[Receptor (biochemistry)|receptor]].<ref>Di Fabio R, Alvaro G, Braggio S, Carletti R, Gerrard PA, Griffante C, Marchioro C, Pozzan A, Melotto S, Poffe A, Piccoli L, Ratti E, Tranquillini E, Trower M, Spada S, Corsi M. Identification, biological characterization and pharmacophoric analysis of a new potent and selective NK1 receptor antagonist clinical candidate. ''Bioorg Med Chem''. 2013 Nov 1;21(21):6264-73. doi: 10.1016/j.bmc.2013.09.001. {{PMID|24075145}}</ref> It was under development as a potential [[antidepressant]] drug, and early stage human [[clinical trial]]s showed it to have some antidepressant effects, though not with sufficient efficacy to justify further development for this application. It was however considered a successful [[proof of concept]] for NK<sub>1</sub> antagonists as potential antidepressants, and efforts are continuing to find more potent compounds which might be more effective.<ref>Ratti E, Bettica P, Alexander R, Archer G, Carpenter D, Evoniuk G, Gomeni R, Lawson E, Lopez M, Millns H, Rabiner EA, Trist D, Trower M, Zamuner S, Krishnan R, Fava M. Full central neurokinin-1 receptor blockade is required for efficacy in depression: evidence from orvepitant clinical studies. ''J Psychopharmacol''. 2013 May;27(5):424-34. doi: 10.1177/0269881113480990. {{PMID|23539641}}</ref>
+
+== References ==
+{{Reflist}}
+
+
+{{Neurokinin receptor modulators}}
+
+[[Category:NK1 receptor antagonists]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Fluoroarenes]]
+
+{{nervous-system-drug-stub}}

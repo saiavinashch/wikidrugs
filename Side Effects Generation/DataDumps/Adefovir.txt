@@ -1,0 +1,87 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 477242223
+| IUPAC_name = {[2-(6-amino-9''H''-purin-9-yl)ethoxy]methyl}phosphonic acid
+| image = Adefovir.svg
+| width = 215
+
+<!--Clinical data-->
+| tradename =  Hepsera
+| Drugs.com = {{drugs.com|monograph|adefovir-dipivoxil}}
+| pregnancy_AU = B3
+| pregnancy_US = C
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 59%
+| protein_bound = <4%
+| metabolism =  
+| elimination_half-life = 7.5 hours
+| excretion = Urine
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 106941-25-7
+| ATC_prefix = J05
+| ATC_suffix = AF08
+| ATC_supplemental =  
+| PubChem = 60172
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00718
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 54252
+| NIAID_ChemDB = 028595
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 6GQP90I798
+| ChEBI_Ref = {{ebicite|correct|EBI}} 
+| ChEBI = 2469
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02768
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 484
+
+<!--Chemical data-->
+| C=8 | H=12 | N=5 | O=4 | P=1 
+| molecular_weight = 273.186 g/mol
+| smiles = O=P(O)(O)COCCn1c2ncnc(c2nc1)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C8H12N5O4P/c9-7-6-8(11-3-10-7)13(4-12-6)1-2-17-5-18(14,15)16/h3-4H,1-2,5H2,(H2,9,10,11)(H2,14,15,16)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SUPKOOSCJHTBAH-UHFFFAOYSA-N
+}}
+
+'''Adefovir''' is a prescription medicine used to treat (chronic) infections with hepatitis B virus. A prodrug form of adefovir was previously called '''bis-POM PMEA''', with trade names '''Preveon''' and '''Hepsera'''. It is an orally administered nucleotide analog [[reverse transcriptase inhibitor]] (ntRTI).  It can be formulated as the [[Pivaloyloxymethyl|pivoxil]] [[prodrug]] '''adefovir dipivoxil'''.
+
+==Uses==
+It is used for treatment of [[hepatitis B]] <ref name="pmid12606735">{{cite journal |author=Marcellin P |title=Adefovir dipivoxil for the treatment of hepatitis B e antigen-positive chronic hepatitis B |journal=N. Engl. J. Med. |volume=348 |issue=9 |pages=808–16 |date=February 2003|pmid=12606735 |doi=10.1056/NEJMoa020681 |url=http://content.nejm.org/cgi/pmidlookup?view=short&pmid=12606735&promo=ONFLNS19 |author2=Chang TT |author3=Lim SG |display-authors=3 |last4=Tong |first4=Myron J. |last5=Sievert |first5=William |last6=Shiffman |first6=Mitchell L. |last7=Jeffers |first7=Lennox |last8=Goodman |first8=Zachary |last9=Wulfsohn |first9=Michael S.}}</ref><ref name="pmid17988233">{{cite journal |author=Manolakopoulos S |title=Long-term therapy with adefovir dipivoxil in hepatitis B e antigen-negative patients developing resistance to lamivudine |journal=Aliment. Pharmacol. Ther. |volume=27 |issue=3 |pages=266–73 |date=February 2008|pmid=17988233 |doi=10.1111/j.1365-2036.2007.03567.x |url=http://www3.interscience.wiley.com/resolve/openurl?genre=article&sid=nlm:pubmed&issn=0269-2813&date=2008&volume=27&issue=3&spage=266 |author2=Bethanis S |author3=Koutsounas S |display-authors=3 |last4=Goulis |first4=J. |last5=Vlachogiannakos |first5=J. |last6=Christias |first6=E. |last7=Saveriadis |first7=A. |last8=Pavlidis |first8=C. |last9=Triantos |first9=C.}}</ref> and [[herpes simplex virus]] infection. <ref name="pmid12444940"/><ref>{{cite web|title=US Adefovir Dipivoxil label|url=http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/202051Orig1s000lbl.pdf|publisher=FDA|accessdate=12 February 2017|date=April 2013}}</ref>
+
+Trials of adefovir in patients with [[HIV]] have not shown any clear benefits.<ref name="pmid12444940">{{cite journal |author= |title=A randomized placebo-controlled trial of adefovir dipivoxil in advanced HIV infection: the ADHOC trial |journal=HIV Med. |volume=3 |issue=4 |pages=229–38 |date=October 2002|pmid=12444940 |doi= 10.1046/j.1468-1293.2002.00111.x|url=http://www3.interscience.wiley.com/resolve/openurl?genre=article&sid=nlm:pubmed&issn=1464-2662&date=2002&volume=3&issue=4&spage=229 |author1= ADHOC International Steering Committee}}</ref><ref name="pmid11546945">{{cite journal |author=Fisher EJ |title=The safety and efficacy of adefovir dipivoxil in patients with advanced HIV disease: a randomized, placebo-controlled trial |journal=AIDS |volume=15 |issue=13 |pages=1695–700 |date=September 2001|pmid=11546945 |doi= 10.1097/00002030-200109070-00013|url=http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=0269-9370&volume=15&issue=13&spage=1695 |author2=Chaloner K |author3=Cohn DL |display-authors=3 |last4=Grant |first4=Lisa Bjorling |last5=Alston |first5=Beverly |last6=Brosgart |first6=Carol L. |last7=Schmetter |first7=Barry |last8=El-Sadr |first8=Wafaa M. |last9=Sampson |first9=James}}</ref>
+
+==History==
+Adefovir was invented in the Institute of Organic Chemistry and Biochemistry, [[Academy of Sciences of the Czech Republic]] by [[Antonín Holý]], and the drug was developed by [[Gilead Sciences]] for HIV with the brand name Preveon. However, in November 1999, an expert panel advised the U.S. [[Food and Drug Administration]] (FDA) not to approve the drug due to concerns about the severity and frequency of kidney toxicity when dosed at 60 or 120&nbsp;mg. The FDA followed that advice, refusing to approve adefovir as a treatment for HIV.
+
+Gilead Sciences discontinued its development for HIV treatment in December 1999, but continued to develop the drug for hepatitis B (HBV), where it is effective with a much lower dose of 10&nbsp;mg. FDA approval for use in the treatment of hepatitis B was granted on September 20, 2002, and adefovir is sold for this indication under the brand name Hepsera.  Adefovir became an approved treatment for HBV in the European Union in March 2003.
+
+==Mechanism of action==
+[[Image:Adefovir dipivoxil structure.svg|thumb|left|275px|Adefovir dipivoxil]]
+Adefovir works by blocking [[reverse transcriptase]], an enzyme crucial for the HBV to reproduce in the body. It is approved for the treatment of chronic hepatitis B in adults with evidence of active viral replication and either evidence of persistent elevations in serum [[aminotransferase]]s (primarily ALT) or histologically active disease.
+
+The main benefit of adefovir over [[lamivudine]] (the first NRTI approved for the treatment of HBV) is that it takes a much longer period of time for the virus to develop resistance to it.
+
+Adefovir dipivoxil contains two [[pivaloyloxymethyl]] units, making it a [[prodrug]] form of adefovir.
+==References==
+{{Reflist}}
+
+==External links==
+*{{PubChem}} - Adefovir dipivoxil
+
+{{Antivirals}}
+
+[[Category:Gilead Sciences]]
+[[Category:Reverse transcriptase inhibitors]]
+[[Category:Purines]]
+[[Category:Phosphonic acids]]

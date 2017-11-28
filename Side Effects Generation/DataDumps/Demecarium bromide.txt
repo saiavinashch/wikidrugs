@@ -1,0 +1,71 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 460775208
+| IUPAC_name = Trimethyl-[3-[methyl-[10-[methyl-(3-trimethylammoniophenoxy)carbonyl-amino]decyl]carbamoyl]oxyphenyl]ammonium dibromide
+| image = Demecarium bromide.svg
+| width = 300
+
+<!--Clinical data-->
+| tradename = Humorsol
+| pregnancy_category =
+| legal_status =
+| routes_of_administration = [[Topical medication|Topical]] ([[Eye drop|ophthalmic solution]])
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 56-94-0
+| ATC_prefix = S01
+| ATC_suffix = EB04
+| ATC_supplemental =  
+| PubChem = 5965
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00944
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5750
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 61D5V4OKTP
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00667
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 4391
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1200514
+
+<!--Chemical data-->
+| C=32 | H=52 | Br=2 | N=4 | O=4
+| molecular_weight = 716.588 g/mol
+| smiles = [Br-].[Br-].O=C(Oc1cccc(c1)[N+](C)(C)C)N(CCCCCCCCCCN(C(=O)Oc2cccc(c2)[N+](C)(C)C)C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C32H52N4O4.2BrH/c1-33(31(37)39-29-21-17-19-27(25-29)35(3,4)5)23-15-13-11-9-10-12-14-16-24-34(2)32(38)40-30-22-18-20-28(26-30)36(6,7)8;;/h17-22,25-26H,9-16,23-24H2,1-8H3;2*1H/q+2;;/p-2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YHKBUDZECQDYBR-UHFFFAOYSA-L
+}}
+
+'''Demecarium bromide''' is a [[parasympathomimetic]] that acts as an [[acetylcholinesterase inhibitor]]. It is one of several topical (applied directly to the affected area) medications used to reduce elevated [[intraocular pressure]] (IOP) associated with primary glaucoma in cats, dogs, and other animals.<ref>{{cite journal | vauthors = Ward D, Abney K, Oliver J | title = The effects of topical ocular application of 0.25% demecarium bromide on serum acetylcholinesterase levels in normal dogs. | journal = Vet Ophthalmol | volume = 6 | issue = 1 | pages = 23–5 | year = 2003 | pmid = 12641839 | doi = 10.1046/j.1463-5224.2003.00257.x}}</ref><ref>{{cite journal | author = Krohne S | title = Effect of topically applied 2% pilocarpine and 0.25% demecarium bromide on blood-aqueous barrier permeability in dogs. | journal = Am J Vet Res | volume = 55 | issue = 12 | pages = 1729–33 | year = 1994 | pmid = 7887518}}</ref><ref>{{cite journal | vauthors = Gum G, Gelatt K, Gelatt J, Jones R | title = Effect of topically applied demecarium bromide and echothiophate iodide on intraocular pressure and pupil size in beagles with normotensive eyes and beagles with inherited glaucoma. | journal = Am J Vet Res | volume = 54 | issue = 2 | pages = 287–93 | year = 1993 | pmid = 8430939}}</ref>
+
+== See also ==
+* [[Diisopropyl fluorophosphate]]
+* [[Intraocular pressure]]
+* [[Glaucoma]]
+
+== References ==
+{{Reflist|2}}
+
+{{Opthalmologicals}}
+{{Acetylcholine metabolism and transport modulators}}
+
+[[Category:Acetylcholinesterase inhibitors]]
+[[Category:Bromides]]
+[[Category:Carbamates]]
+[[Category:Quaternary ammonium compounds]]
+[[Category:Veterinary drugs]]
+
+{{pharmacology-stub}}

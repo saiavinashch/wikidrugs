@@ -1,0 +1,80 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 460033541
+| IUPAC_name = 1-(4-chlorophenyl)-2-methylpropan-2-amine
+| image = Chlorphentermine.svg
+
+<!--Clinical data-->
+| tradename =
+| legal_US = Schedule III
+| legal_CA = Schedule IV
+| legal_UK = Class C
+| legal_status =
+| routes_of_administration = Oral, Insufflated, Rectal
+
+<!--Pharmacokinetic data-->
+| elimination_half-life = 40 hours
+| excretion = [[Kidney|Renal]]
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 461-78-9
+| CAS_supplemental = {{CAS|151-06-4}}
+| ATC_prefix = A08
+| ATC_suffix = AA
+| PubChem = 10007
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01556
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 9613
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = NHW07912O7
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = C07559
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201269
+
+<!--Chemical data-->
+| C=10 | H=14 | Cl=1 | N=1 
+| molecular_weight = 183.68 g/mol
+| smiles = Clc1ccc(cc1)CC(N)(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H14ClN/c1-10(2,12)7-8-3-5-9(11)6-4-8/h3-6H,7,12H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ZCKAMNXUHHNZLN-UHFFFAOYSA-N
+| synonyms = {{small|''p''-Chloro-α,α-dimethylphenethylamine}}
+}}
+
+'''Chlorphentermine''' (trade names '''Apsedon''', '''Desopimon''', '''Lucofen''') is a [[serotonergic]] [[anorectic|appetite suppressant]] of the [[substituted amphetamine|amphetamine]] family. Developed in 1962, it is the 4-chloro derivative of the better known appetite suppressant [[phentermine]],<ref>{{cite journal | last1 = Gylys | first1 = JA | last2 = Hart | first2 = JJ | last3 = Warren | first3 = MR | date = Sep 1962 | title = Chlorphentermine, a new anorectic agent | url = | journal = Journal of Pharmacology and Experimental Therapeutics | volume = 137 | issue = | pages = 365–73 }}</ref> which is still in current use.
+
+Chlorphentermine acts as a highly selective [[serotonin releasing agent]] (SRA).<ref name="pmid11071707">{{cite journal |vauthors=Rothman RB, Baumann MH, Dersch CM, Romero DV, Rice KC, Carroll FI, etal | title=Amphetamine-type central nervous system stimulants release norepinephrine more potently than they release dopamine and serotonin. | journal=Synapse | year= 2001 | volume= 39 | issue= 1 | pages= 32–41 | pmid=11071707 | doi=10.1002/1098-2396(20010101)39:1<32::AID-SYN5>3.0.CO;2-3 }}</ref> It is not a [[psychostimulant]] and has little or no [[abuse potential]], but is classed as a [[Controlled Substances Act#Schedule III controlled substances|Schedule III]] drug in the USA due mainly to its similarity to other appetite suppressants such as [[diethylpropion]] which have been more widely abused. It is no longer used due mainly to safety concerns, as it has a serotonergic effects profile similar to other withdrawn appetite suppressants such as [[fenfluramine]] and [[aminorex]] which were found to cause [[pulmonary hypertension]] and [[cardiac fibrosis]] following prolonged use.<ref>{{cite journal | last1 = Rothman | first1 = RB | last2 = Ayestas | first2 = MA | last3 = Dersch | first3 = CM | last4 = Baumann | first4 = MH | date = Aug 1999 | title = Aminorex, fenfluramine, and chlorphentermine are serotonin transporter substrates. Implications for primary pulmonary hypertension | url = | journal = Circulation | volume = 100 | issue = 8| pages = 869–75 | doi=10.1161/01.cir.100.8.869}}</ref>
+
+The plasma half-life is about five days.<ref name=1976rev>{{cite journal|last1=Craddock|first1=D|title=Anorectic drugs: use in general practice.|journal=Drugs|date=1976|volume=11|issue=5|pages=378–93|pmid=782835|doi=10.2165/00003495-197611050-00002}}</ref>  It was withdrawn from the market in the UK in 1974.<ref name=1976rev/>
+
+==See also==
+{{colbegin|2}}
+* [[Aminorex]]
+* [[Cericlamine]]
+* [[Cloforex]]
+* [[Clortermine]]
+* [[Etolorex]]
+* [[Fenfluramine]]
+* [[Methylenedioxyphentermine]]
+* [[Phentermine]]
+{{colend}}
+
+==References==
+{{Reflist|2}}
+
+{{Anorectics}}
+{{Serotonin receptor modulators}}
+{{Monoamine releasing agents}}
+{{Phenethylamines}}
+
+[[Category:5-HT2B agonists]]
+[[Category:Anorectics]]
+[[Category:Chloroarenes]]
+[[Category:Serotonin receptor agonists]]
+[[Category:Serotonin releasing agents]]
+[[Category:Substituted amphetamines]]
+[[Category:Withdrawn drugs]]

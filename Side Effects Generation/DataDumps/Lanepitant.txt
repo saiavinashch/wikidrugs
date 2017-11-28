@@ -1,0 +1,57 @@
+{{Drugbox
+| IUPAC_name = ''N''-[(2''R'')-1-[Acetyl-[(2-methoxyphenyl)methyl]<br />amino]-3-(1''H''-indol-3-yl)propan-2-yl]-2-(4-piperidin-1-ylpiperidin-1-yl)acetamide
+| image = Lanepitant.svg
+| width = 250
+
+<!--Clinical data-->
+| tradename =
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US =
+| pregnancy_category =
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand =
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 170566-84-4
+| CAS_supplemental =
+| ATC_prefix = None
+| ATC_suffix =
+| PubChem = 3086681
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 17G8FN2E1F
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 42407
+| ChemSpiderID = 2343246
+
+<!--Chemical data-->
+| C=33 | H=45 | N=5 | O=3 
+| molecular_weight = 559.742 g/mol
+| smiles = CC(=O)N(CC1=CC=CC=C1OC)C[C@@H](CC2=CNC3=CC=CC=C32)NC(=O)CN4CCC(CC4)N5CCCCC5
+| StdInChI = 1S/C33H45N5O3/c1-25(39)38(22-26-10-4-7-13-32(26)41-2)23-28(20-27-21-34-31-12-6-5-11-30(27)31)35-33(40)24-36-18-14-29(15-19-36)37-16-8-3-9-17-37/h4-7,10-13,21,28-29,34H,3,8-9,14-20,22-24H2,1-2H3,(H,35,40)/t28-/m1/s1
+| StdInChIKey = CVXJAPZTZWLRBP-MUUNZHRXSA-N
+| synonyms = LY303870; <small>''N''-[(''R'')-2-Indol-3-yl-1-<nowiki>[[</nowiki>''N''-(''o''-methoxybenzyl)acetamido]methyl]ethyl][1,4'-bipiperidine]-1'-acetamide</small>
+}}
+
+'''Lanepitant''' ([[International nonproprietary name|INN]],<ref name="INN">{{cite web | title = International Nonproprietary Names for Pharmaceutical Substances (INN). Recommended International Nonproprietary Names (Rec. INN): List 39 | url = http://www.who.int/medicines/publications/druginformation/innlists/RL39.pdf | publisher = World Health Organization | accessdate = 17 November 2016 | date = 1998}}</ref>{{rp|48}} code name '''LY303870''') is a drug developed by [[Eli Lilly and Company|Eli Lilly]] which acts as a selective [[Antagonist (pharmacology)|antagonist]] for the [[Tachykinin receptor 1|NK<sub>1</sub>]] [[Receptor (biochemistry)|receptor]], and was one of the first compounds developed that act at this target.<ref>Gitter BD, Bruns RF, Howbert JJ, Waters DC, Threlkeld PG, Cox LM, Nixon JA, Lobb KL, Mason NR, Stengel PW, et al. Pharmacological characterization of LY303870: a novel, potent and selective nonpeptide substance P (neurokinin-1) receptor antagonist. ''J Pharmacol Exp Ther''. 1995 Nov;275(2):737-44. {{PMID|7473161}}</ref> It was under development as a potential [[analgesic]] drug, but despite promising results in initial animal studies, human clinical trials against [[migraine]], [[arthritis]] and [[diabetic neuropathy]] all failed to show sufficient efficacy to support further development, with the drug being only marginally more effective than [[placebo]] and inferior to older comparison drugs such as [[naproxen]].<ref>Goldstein DJ, Offen WW, Klein EG, Phebus LA, Hipskind P, Johnson KW, Ryan RE Jr. Lanepitant, an NK-1 antagonist, in migraine prevention. ''Cephalalgia''. 2001 Mar;21(2):102-6. {{PMID|11422091}}</ref><ref>Goldstein DJ, Wang O, Todd LE, Gitter BD, DeBrota DJ, Iyengar S. Study of the analgesic effect of lanepitant in patients with osteoarthritis pain. ''Clin Pharmacol Ther''. 2000 Apr;67(4):419-26. {{PMID|10801252}}</ref><ref>Goldstein DJ, Wang O, Gitter BD, Iyengar S. Dose-response study of the analgesic effect of lanepitant in patients with painful diabetic neuropathy. ''Clin Neuropharmacol''. 2001 Jan-Feb;24(1):16-22. {{PMID|11290877}}</ref> Failure of analgesic action was thought to be due to poor penetration of the [[blood–brain barrier]] in humans, but research has continued into potential applications in the treatment of other disorders with a peripheral site of action, such as [[corneal neovascularization]].<ref>Bignami F, Giacomini C, Lorusso A, Aramini A, Rama P, Ferrari G. NK1 receptor antagonists as a new treatment for corneal neovascularization. ''Invest Ophthalmol Vis Sci''. 2014 Sep 16;55(10):6783-94. doi: 10.1167/iovs.14-14553. {{PMID|25228541}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{Neurokinin receptor modulators}}
+
+[[Category:NK1 receptor antagonists]]
+[[Category:Peripherally selective drugs]]
+
+{{nervous-system-drug-stub}}

@@ -1,0 +1,86 @@
+{{Drugbox
+| verifiedrevid = 460774806
+| IUPAC_name = ''N''-[2-({4-[3-(propan-2-ylamino)pyridin-2-yl]piperazin-1-yl}carbonyl)-1''H''-indol-5-yl]methanesulfonamide
+| image = Delavirdine.svg
+| image2 = Delavirdine ball-and-stick model.png
+| width = 250
+
+<!--Clinical data-->
+| tradename = Rescriptor
+| Drugs.com = {{drugs.com|monograph|rescriptor}}
+| MedlinePlus = a600034
+| pregnancy_AU = B3
+| pregnancy_US = C
+| legal_US = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 85%
+| protein_bound = 98%
+| metabolism = [[Liver|Hepatic]] ([[CYP3A4]]- and [[CYP2D6]]-mediated)
+| elimination_half-life = 5.8 hours
+| excretion = [[Kidney|Renal]] (51%) and fecal (44%)
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 136817-59-9
+| ATC_prefix = J05
+| ATC_suffix = AG02
+| ATC_supplemental =  
+| PubChem = 5625
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00705
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5423
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = DOL5F9JD3E
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07782
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 119573
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 593
+| NIAID_ChemDB = 005059
+
+<!--Chemical data-->
+| C=22 | H=28 | N=6 | O=3 | S=1
+| molecular_weight = 456.562 g/mol
+| smiles = O=S(=O)(Nc1cc2cc(nc2cc1)C(=O)N4CCN(c3ncccc3NC(C)C)CC4)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H28N6O3S/c1-15(2)24-19-5-4-8-23-21(19)27-9-11-28(12-10-27)22(29)20-14-16-13-17(26-32(3,30)31)6-7-18(16)25-20/h4-8,13-15,24-26H,9-12H2,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WHBIGIKBNXZKFE-UHFFFAOYSA-N
+}}
+
+'''Delavirdine''' ('''DLV''') (brand name '''Rescriptor''') is a non-nucleoside [[reverse transcriptase inhibitor]] (NNRTI) marketed by [[ViiV Healthcare]]. It is used as part of highly active antiretroviral therapy (HAART) for the treatment of [[human immunodeficiency virus]] (HIV) type 1. It is presented as the mesylate. The recommended dosage is 400&nbsp;mg, three times a day.
+
+Although delavirdine was approved by the U.S. [[Food and Drug Administration]] in 1997, its efficacy is lower than other NNRTIs, especially [[efavirenz]], and it also has an inconvenient schedule. These factors have led the U.S. DHHS not to recommend its use as part of initial therapy.<ref name="dhhs">DHHS panel. Guidelines for the use of antiretroviral agents in HIV-1-infected adults and adolescents (May 4, 2006). (Available for download from [http://www.aidsinfo.nih.gov/Guidelines/GuidelineDetail.aspx?MenuItem=Guidelines&Search=Off&GuidelineID=7&ClassID=1 AIDSInfo] {{webarchive|url=https://web.archive.org/web/20060506193229/http://aidsinfo.nih.gov/Guidelines/GuidelineDetail.aspx?MenuItem=Guidelines&Search=Off&GuidelineID=7&ClassID=1 |date=2006-05-06 }})</ref>
+The risk of cross-resistance across the NNRTI class, as well as its complex set of drug interactions, make the place of delavirdine in second-line and [[salvage therapy]] unclear, and it is currently rarely used.
+
+==Interactions==
+Like [[ritonavir]], delavirdine is an inhibitor of [[cytochrome P450]] isozyme [[CYP3A4]], and interacts with many medications. It should not be administered with a wide range of drugs, including [[amprenavir]], [[fosamprenavir]], [[simvastatin]], [[lovastatin]], [[rifampin]], [[rifabutin]], [[rifapentine]], [[Hypericum perforatum|St John's wort]], [[astemizole]], [[midazolam]], [[triazolam]], [[ergot]] medications, and several medications for [[acid reflux]].<ref name="dhhs" />
+
+==Adverse effects==
+The most common adverse event is moderate to severe [[rash]], which occurs in up to 20% of patients.<ref>[http://www.pfizer.com/pfizer/download/uspi_rescriptor.pdf RESCRIPTOR brand of delavirdine mesylate tablets. Product information.]</ref> Other common adverse events include [[fatigue (physical)|fatigue]], [[headache]] and [[nausea]]. Liver toxicity has also been reported.
+==Synthesis==
+[[File:Delavirdine synthesis.png|thumb|center|500px|Delavirdine synthesis:<ref>D. L. Romero et al., {{Cite patent|WO|9109849}}; J. R. Palmer et al., {{US patent|5563142}} (1991, 1996 both to [[Upjohn]]).</ref><ref>{{Cite journal | doi = 10.1021/jm00062a027| pmid = 7684450| title = Bis(heteroaryl)piperazine (BHAP) reverse transcriptase inhibitors: Structure-activity relationships of novel substituted indole analogs and the identification of 1-[(5-methanesulfonamido-1H-indol-2-yl)carbonyl]-4-[3-[(1-methylethyl)amino]pyridinyl]piperazinemonomethanesulfonate (U-90152S), a second-generation clinical candidate| journal = Journal of Medicinal Chemistry| volume = 36| issue = 10| pages = 1505| year = 1993| last1 = Romero | first1 = D. L. | last2 = Morge | first2 = R. A. | last3 = Genin | first3 = M. J. | last4 = Biles | first4 = C. | last5 = Busso | first5 = M. | last6 = Resnick | first6 = L. | last7 = Althaus | first7 = I. W. | last8 = Reusser | first8 = F. | last9 = Thomas | first9 = R. C. | last10 = Tarpley | first10 = W. G. }}</ref>]]
+Modification of the scheme that was done for [[ateviridine]] [[q.v.]] by performing the [[reductive alkylation]] with acetone gives '''2''' after removal of the protecting group. Acylation of this amine with the imidazolide from 5-Methylsulfonaminoindole-2-carboxylic acid ('''1''') affords the amide, [[reverse transcriptase inhibitor]], atevirdine.
+
+==External links==
+* [http://www.ebi.ac.uk/pdbe-srv/PDBeXplore/ligand/?ligand=SPP Delavirdine bound to proteins] in the [[Protein Data Bank|PDB]]
+
+==References==
+{{reflist}}
+
+{{HIVpharm}}
+{{GlaxoSmithKline}}
+{{Piperazines}}
+
+[[Category:Hepatotoxins]]
+[[Category:Non-nucleoside reverse transcriptase inhibitors]]
+[[Category:Pfizer]]
+[[Category:Pyridines]]
+[[Category:Piperazines]]
+[[Category:Carboxamides]]
+[[Category:Indoles]]
+[[Category:Sulfonamides]]

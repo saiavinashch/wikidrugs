@@ -1,0 +1,304 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 449919890
+| IUPAC_name = 4-Amino-5-chloro-''N''-[1-(3-methoxypropyl)piperidin-4-yl]-2,3-dihydro-1-benzofuran-7-carboxamide
+| image = Prucalopride.svg
+| width = 260
+
+<!--Clinical data-->
+| tradename = Resolor, Resotran
+| Drugs.com = {{drugs.com|international|prucalopride}}
+| licence_EU = Resolor
+| pregnancy_AU = B1
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category = Not recommended 
+| legal_AU = S4
+| legal_CA = 
+| legal_UK = 
+| legal_US = 
+| legal_status = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 179474-81-8
+| ATC_prefix = A06
+| ATC_suffix = AX05
+| PubChem = 3052762
+| IUPHAR_ligand = 243
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0A09IUW5TP
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 2314539
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D09205
+
+<!--Chemical data-->
+| C=18 | H=26 | Cl=1 | N=3 | O=3 
+| molecular_weight = 367.870 g/mol
+| smiles = COCCCN1CCC(CC1)NC(=O)C2=CC(=C(C3=C2OCC3)N)Cl
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C18H26ClN3O3/c1-24-9-2-6-22-7-3-12(4-8-22)21-18(23)14-11-15(19)16(20)13-5-10-25-17(13)14/h11-12H,2-10,20H2,1H3,(H,21,23)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = ZPMNHBXQOOVQJL-UHFFFAOYSA-N
+| synonyms =  
+}}
+
+'''Prucalopride''' (brand name '''Resolor''', developed by [[Johnson & Johnson]] and licensed to [[Movetis]]) is a [[pharmaceutical drug|drug]] acting as a selective, high affinity [[5-HT4 receptor|5-HT<sub>4</sub> receptor]] [[agonist]]<ref name="Briejer">{{Cite journal 
+| pmid = 11438309 
+| year = 2001 
+| last1 = Briejer | first1 = M. R. 
+| last2 = Bosmans | first2 = J. P. 
+| last3 = Van Daele | first3 = P. 
+| last4 = Jurzak | first4 = M. 
+| last5 = Heylen | first5 = L. 
+| last6 = Leysen | first6 = J. E. 
+| last7 = Prins | first7 = N. H. 
+| last8 = Schuurkes | first8 = J. A. 
+| title = The in vitro pharmacological profile of prucalopride, a novel enterokinetic compound 
+| volume = 423 
+| issue = 1 
+| pages = 71–83 
+| journal = European Journal of Pharmacology 
+| doi = 10.1016/S0014-2999(01)01087-1
+}}</ref> which targets the impaired motility associated with chronic [[constipation]], thus normalizing bowel movements.<ref>{{ClinicalTrialsGov||NCT00793247}}</ref><ref>{{Cite journal 
+| last1 = Emmanuel | first1 = A. V. 
+| last2 = Kamm | first2 = M. A. 
+| last3 = Roy | first3 = A. J. 
+| last4 = Kerstens | first4 = R. 
+| last5 = Vandeplassche | first5 = L. 
+| title = Randomised clinical trial: The efficacy of prucalopride in patients with chronic intestinal pseudo-obstruction - a double-blind, placebo-controlled, cross-over, multiple n = 1 study 
+| doi = 10.1111/j.1365-2036.2011.04907.x 
+| journal = Alimentary Pharmacology & Therapeutics 
+| volume = 35 
+| issue = 1 
+| pages = 48–55 
+| year = 2012 
+| pmid = 22061077 
+| pmc = 3298655
+}}</ref><ref>{{Cite journal | last1 = Smart | first1 = C. J. | last2 = Ramesh | first2 = A. N. | doi = 10.1111/j.1463-1318.2011.02929.x | title = The successful treatment of acute refractory pseudo-obstruction with Prucalopride | journal = Colorectal Disease | pages = no | year = 2011 | pmid =  | pmc = }}</ref><ref>{{Cite journal 
+| doi = 10.1136/gut.44.5.682 
+| pmid = 10205205 
+| year = 1999 
+| last1 = Bouras | first1 = E. P. 
+| last2 = Camilleri | first2 = M. 
+| last3 = Burton | first3 = D. D. 
+| last4 = McKinzie | first4 = S. 
+| title = Selective stimulation of colonic transit by the benzofuran 5HT4 agonist, prucalopride, in healthy humans 
+| volume = 44 
+| issue = 5 
+| pages = 682–686 
+| pmc = 1727485 
+| journal = Gut
+}}</ref><ref>{{Cite journal 
+| pmid = 11159875 
+| year = 2001 
+| last1 = Bouras | first1 = E. P. 
+| last2 = Camilleri | first2 = M. 
+| last3 = Burton | first3 = D. D. 
+| last4 = Thomforde | first4 = G. 
+| last5 = McKinzie | first5 = S. 
+| last6 = Zinsmeister | first6 = A. R. 
+| title = Prucalopride accelerates gastrointestinal and colonic transit in patients with constipation without a rectal evacuation disorder 
+| volume = 120 
+| issue = 2 
+| pages = 354–360 
+| journal = Gastroenterology 
+| doi = 10.1053/gast.2001.21166
+}}</ref><ref name="Tack">{{Cite journal 
+| doi = 10.1136/gut.2008.162404 
+| title = Prucalopride (Resolor) in the treatment of severe chronic constipation in patients dissatisfied with laxatives 
+| year = 2008 
+| last1 = Tack | first1 = J. 
+| last2 = Van Outryve | first2 = M. 
+| last3 = Beyens | first3 = G. 
+| last4 = Kerstens | first4 = R. 
+| last5 = Vandeplassche | first5 = L. 
+| journal = Gut 
+| volume = 58 
+| pages = 357–365| pmid = 18987031 
+| issue = 3 
+}}</ref>  Prucalopride was approved for use in Europe in 2009,<ref>[http://www.ema.europa.eu/humandocs/Humans/EPAR/resolor/resolor.htm European Medicines Agency -EPAR]</ref> in Canada (named '''Resotran''') on December 7, 2011<ref>[http://www.hc-sc.gc.ca/dhp-mps/prodpharma/sbd-smd/drug-med/sbd_smd_2012_resotran_141157-eng.php#a2 Health Canada, Notice of Decision for Resotran]</ref> and in Israel in 2014<ref>[http://www.euromonitor.com/digestive-remedies-in-israel/report  Digestive Remedies in Israel ]</ref> but it has not been approved by the [[Food and Drug Administration]] for use in the United States. The drug has also been tested for the treatment of [[chronic intestinal pseudo-obstruction]].<ref>{{Cite journal 
+| doi = 10.1046/j.1365-2982.2001.00280.x 
+| pmid = 11696108 
+| year = 2001 
+| last1 = Briejer | first1 = M. R. 
+| last2 = Prins | first2 = N. H. 
+| last3 = Schuurkes | first3 = J. A. 
+| title = Effects of the enterokinetic prucalopride (R093877) on colonic motility in fasted dogs 
+| volume = 13 
+| issue = 5 
+| pages = 465–472 
+| journal = Neurogastroenterology and motility : the official journal of the European Gastrointestinal Motility Society
+}}</ref><ref>{{Cite journal | last1 = Oustamanolakis | first1 = P. | last2 = Tack | first2 = J. | doi = 10.1111/j.1365-2036.2011.04947.x | title = Prucalopride for chronic intestinal pseudo-obstruction | journal = Alimentary Pharmacology & Therapeutics | volume = 35 | issue = 3 | pages = 398–9 | year = 2012 | pmid =  22221087| pmc = }}</ref>
+
+== Mechanism of action ==
+Prucalopride, a first in class dihydro-benzofuran-carboxamide, is a selective, high affinity [[serotonin]] ([[5-HT4 receptor|5-HT<sub>4</sub>]]) receptor agonist with enterokinetic activities.<ref name="SmPC">SmPC. Summary of product characteristics Resolor (prucalopride) October, 2009: '''1-9'''.</ref> Prucalopride alters colonic motility patterns via serotonin 5-HT<sub>4</sub> receptor stimulation: it stimulates colonic mass movements, which provide the main propulsive force for [[defecation]].
+
+The observed effects are exerted via highly selective action on 5-HT<sub>4</sub> receptors:<ref name="SmPC" /> prucalopride has >150-fold higher affinity for 5-HT<sub>4</sub> receptors than for other receptors.<ref name="Briejer" /><ref name="DeMaeyer">{{cite journal|last1=De Maeyer|first1=JH|last2=Lefebvre|first2=RA|last3=Schuurkes|first3=JA|title=5-HT(4) receptor agonists: similar but not the same|journal=Neurogastroenterol Motil|date=Feb 2008|volume=20|issue=2|pages=99–112|pmid=18199093|doi=10.1111/j.1365-2982.2007.01059.x}}</ref> Prucalopride differs from other 5-HT<sub>4</sub> agonists such as [[tegaserod]] and [[cisapride]], which at therapeutic concentrations also  interact with other receptors (5-HT<sub>1B/D</sub> and the cardiac [[hERG|human ether-a-go-go K<sup>+</sup> or hERG channel]] respectively) and this may account for the adverse [[cardiovascular]] events that have resulted in the restricted availability of these drugs.<ref name="DeMaeyer" /> [[Clinical trials]] evaluating the effect of prucalopride on QT interval and related adverse events have not demonstrated significant differences compared with placebo.<ref name="SmPC" />
+
+== Pharmacokinetics ==
+Prucalopride is rapidly absorbed ([[CMax|C<sub>max</sub>]] attained 2–3 hours after single 2&nbsp;mg oral dose) and is extensively distributed. [[Metabolism]] is not the major route of elimination. ''In vitro'', human liver metabolism is very slow and only minor amounts of [[metabolite]]s are found. A large fraction of the active substance is excreted unchanged (about 60% of the administered dose in [[urine]] and at least 6% in [[feces]]). [[Renal excretion]] of unchanged prucalopride involves both passive filtration and active secretion. Plasma clearance averages 317 ml/min, terminal half-life is 24–30 hours,<ref>{{Cite journal 
+| doi = 10.2165/11204000-000000000-00000 
+| title = Prucalopride 
+| year = 2009 
+| last1 = Frampton | first1 = J. E. 
+| journal = Drugs 
+| volume = 69 
+| pages = 2463–2476| pmid = 19911858 
+| issue = 17 
+}}</ref> and steady-state is reached within 3–4 days. On once daily treatment with 2&nbsp;mg prucalopride, steady-state plasma concentrations fluctuate between trough and peak values of 2.5 and 7&nbsp;ng/ml, respectively.<ref name="SmPC" />
+
+''In vitro'' data indicate that prucalopride has a low interaction potential, and therapeutic concentrations of prucalopride are not expected to affect the CYP-mediated metabolism of co-medicated medicinal products.<ref name="SmPC" />
+
+== Efficacy ==
+The primary measure of efficacy in the clinical trials is three or more spontaneous complete bowel movements per week; a secondary measure is an increase of at least one complete spontaneous bowel movement per week.<ref name="Tack" /><ref name="Camilleri">{{Cite journal 
+| doi = 10.1056/NEJMoa0800670 
+| title = A Placebo-Controlled Trial of Prucalopride for Severe Chronic Constipation 
+| year = 2008 
+| last1 = Camilleri | first1 = M. 
+| last2 = Kerstens | first2 = R. 
+| last3 = Rykx | first3 = A. 
+| last4 = Vandeplassche | first4 = L. 
+| journal = New England Journal of Medicine 
+| volume = 358 
+| pages = 2344–2354| pmid = 18509121 
+| issue = 22 
+}}</ref><ref name="Quigley">{{Cite journal 
+| doi = 10.1111/j.1365-2036.2008.03884.x 
+| title = Clinical trial: the efficacy, impact on quality of life, and safety and tolerability of prucalopride in severe chronic constipation – a 12-week, randomized, double-blind, placebo-controlled study 
+| pmid = 19035970 
+| year = 2009 
+| last1 = Quigley | first1 = E. M. M. 
+| last2 = Vandeplassche | first2 = L. 
+| last3 = Kerstens | first3 = R. 
+| last4 = Ausma | first4 = J. 
+| journal = Alimentary Pharmacology & Therapeutics 
+| volume = 29 
+| issue = 3 
+| pages = 315–328 
+}}</ref> Further measures are improvements in PAC-QOL<ref>{{Cite journal 
+| doi = 10.1080/00365520510012208 
+| title = Development and validation of the Patient Assessment of Constipation Quality of Life questionnaire 
+| year = 2005 
+| last1 = Marquis | first1 = P. 
+| last2 = De La Loge | first2 = C. 
+| last3 = Dubois | first3 = D. 
+| last4 = McDermott | first4 = A. 
+| last5 = Chassany | first5 = O. 
+| journal = Scandinavian Journal of Gastroenterology 
+| volume = 40 
+| pages = 540–551| pmid = 16036506 
+| issue = 5 
+}}</ref> (a quality of life measure) and PAC-SYM<ref>{{Cite journal 
+| pmid = 10522604 
+| year = 1999 
+| last1 = Frank | first1 = L. 
+| last2 = Kleinman | first2 = L. 
+| last3 = Farup | first3 = C. 
+| last4 = Taylor | first4 = L. 
+| last5 = Miner Jr | first5 = P. 
+| title = Psychometric validation of a constipation symptom assessment questionnaire 
+| volume = 34 
+| issue = 9 
+| pages = 870–877 
+| journal = Scandinavian journal of gastroenterology 
+| doi = 10.1080/003655299750025327
+}}</ref> (a range of [[human feces|stool]], [[abdominal]], and [[rectal]] symptoms associated with chronic constipation). Infrequent bowel movements, [[bloating]], straining, [[abdominal pain]], and defecation urge with inability to evacuate can be severe symptoms, significantly affecting quality of life.<ref>{{cite journal|pmid=17305761|year=2007|last1=Johanson|first1=JF|last2=Kralstein|first2=J|title=Chronic constipation: a survey of the patient perspective.|volume=25|issue=5|pages=599–608|doi=10.1111/j.1365-2036.2006.03238.x|journal=Alimentary pharmacology & therapeutics}}</ref><ref>{{Cite journal 
+| pmid = 9269805 
+| year = 1997 
+| last1 = Koch | first1 = A. 
+| last2 = Voderholzer | first2 = W. A. 
+| last3 = Klauser | first3 = A. G. 
+| last4 = Müller-Lissner | first4 = S. 
+| title = Symptoms in chronic constipation 
+| volume = 40 
+| issue = 8 
+| pages = 902–906 
+| journal = Diseases of the colon and rectum 
+| doi = 10.1007/BF02051196
+}}</ref><ref>{{Cite journal 
+| doi = 10.1016/j.genm.2009.04.007 
+| title = Gender differences in self-reported constipation characteristics, symptoms, and bowel and dietary habits among patients attending a specialty clinic for constipation 
+| year = 2009 
+| last1 = McCrea | first1 = G. L. 
+| last2 = Miaskowski | first2 = C. 
+| last3 = Stotts | first3 = N. A. 
+| last4 = MacEra | first4 = L. 
+| last5 = Paul | first5 = S. M. 
+| last6 = Varma | first6 = M. G. 
+| journal = Gender Medicine 
+| volume = 6 
+| pages = 259–271| pmid = 19467522 
+| issue = 1 
+}}</ref><ref>{{Cite journal 
+| doi = 10.1111/j.1572-0241.2001.05259.x 
+| title = An epidemiological survey of constipation in Canada: definitions, rates, demographics, and predictors of health care seeking 
+| year = 2001 
+| last1 = Pare | first1 = P. 
+| last2 = Ferrazzi | first2 = S. 
+| last3 = Thompson | first3 = W. G. 
+| last4 = Irvine | first4 = E. J. 
+| last5 = Rance | first5 = L. 
+| journal = The American Journal of Gastroenterology 
+| volume = 96 
+| pages = 3130–3137| pmid = 11721760 
+| issue = 11 
+}}</ref><ref>{{Cite journal 
+| doi = 10.1111/j.1365-2036.2007.03376.x 
+| pmid = 17593068 
+| title = The burden of constipation on quality of life: results of a multinational survey 
+| year = 2007 
+| last1 = Wald | first1 = A. 
+| last2 = Scarpignato | first2 = C. 
+| last3 = Kamm | first3 = M. A. 
+| last4 = Mueller-Lissner | first4 = S. 
+| last5 = Helfrich | first5 = I. 
+| last6 = Schuijt | first6 = C. 
+| last7 = Bubeck | first7 = J. 
+| last8 = Limoni | first8 = C. 
+| last9 = Petrini | first9 = O. 
+| journal = Alimentary Pharmacology & Therapeutics 
+| volume = 26 
+| issue = 2 
+| pages = 227–236 
+}}</ref>
+
+In three large clinical trials, 12 weeks of treatment with prucalopride 2 and 4&nbsp;mg/day resulted in a significantly higher proportion of patients reaching the primary efficacy endpoint of an average of ≥3 spontaneous complete bowel movements than with [[placebo]].<ref name="Tack" /><ref name="Camilleri" /><ref name="Quigley" /> There was also significantly improved bowel habit and associated symptoms, patient satisfaction with bowel habit and treatment, and HR-QOL in patients with severe chronic constipation, including those who did not experience adequate relief with prior therapies (>80% of the trial participants).<ref name="Tack" /><ref name="Camilleri" /><ref name="Quigley" /> The improvement in patient satisfaction with bowel habit and treatment was maintained during treatment for up to 24 months; prucalopride therapy was generally well tolerated.<ref>{{cite journal|last1=Camilleri|first1=M|last2=Beyens|first2=G|last3=Kerstens|first3=R|last4=Vandeplassche|first4=L|title=Long-term follow-up of safety and satisfaction with bowel function in response to oral prucalopride in patients with chronic constipation [Abstract]|journal=Gastroenterology|year=2009|volume=136|issue=Suppl 1|page=160|doi=10.1016/s0016-5085(09)60143-8}}</ref><ref>{{cite journal|last1=Van Outryve|first1=MJ|last2=Beyens|first2=G|last3=Kerstens|first3=R|last4=Vandeplassche|first4=L|title=Long-term follow-up study of oral prucalopride (Resolor) administered to patients with chronic constipation [Abstract T1400]|journal=Gastroenterology|year=2008|volume=134|issue=4 (suppl 1)|page=A547|doi=10.1016/s0016-5085(08)62554-8}}</ref>
+
+== Side effects ==
+Prucalopride has been given orally to ~2700 patients with chronic constipation in controlled clinical trials. The most frequently reported side effects are [[headache]] and [[gastrointestinal symptom]]s (abdominal pain, [[nausea]] or [[diarrhea]]). Such reactions occur predominantly at the start of therapy and usually disappear within a few days with continued treatment.<ref name="SmPC" />
+
+== Approval ==
+In the [[European Economic Area]], prucalopride was originally approved for the [[symptomatic treatment]] of chronic constipation in women in whom [[laxatives]] fail to provide adequate relief.<ref name="SmPC" /> Subsequently, it has been approved by the European Commission for use in adults – that is, including male patients – for the same indication.<ref>https://www.shire.com/newsroom/2015/june/resolor-eu-male-indication-press-release</ref>
+
+== Contraindications ==
+Prucalopride is contraindicated where there is [[hypersensitivity]] to the active substance or to any of the [[excipients]], [[renal impairment]] requiring dialysis, [[intestinal]] [[intestinal perforation|perforation]] or [[intestinal obstruction|obstruction]] due to structural or functional disorder of the gut wall, obstructive ileus, severe inflammatory conditions of the [[intestinal tract]], such as [[Crohn's disease]], and [[ulcerative colitis]] and [[toxic megacolon]]/megarectum.<ref name="SmPC" />
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+*[http://www.movetis.com/products/resolor-prucalopride Resolor (prucalopride)- Movetis]
+
+{{Laxatives}}
+{{Serotonergics}}
+
+[[Category:Motility stimulants]]
+[[Category:Serotonin receptor agonists]]
+[[Category:Benzofurans]]
+[[Category:Piperidines]]
+[[Category:Ethers]]
+[[Category:Benzamides]]
+[[Category:Chloroarenes]]
+[[Category:Janssen Pharmaceutica]]

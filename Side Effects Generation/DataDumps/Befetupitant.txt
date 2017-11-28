@@ -1,0 +1,57 @@
+{{Drugbox
+| IUPAC_name = 2-[3,5-bis(trifluoromethyl)phenyl]-N,2-dimethyl-N-[4-(2-methylphenyl)-6-morpholin-4-ylpyridin-3-yl]propanamide
+| image = Befetupitant_structure.png
+| width = 220
+
+<!--Clinical data-->
+| tradename =
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US =
+| pregnancy_category =
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 290296-68-3
+| CAS_supplemental =
+| ATC_prefix = none
+| ATC_suffix =
+| PubChem = 6450815
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 
+| ChemSpiderID      = 4953365
+
+<!--Chemical data-->
+| C=29 | H=29 | F=6 | N=3 | O=2 
+| molecular_weight = 565.550 g/mol
+| smiles = CC1=CC=CC=C1C2=CC(=NC=C2N(C)C(=O)C(C)(C)C3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)N4CCOCC4
+| StdInChI          = 1S/C29H29F6N3O2/c1-18-7-5-6-8-22(18)23-16-25(38-9-11-40-12-10-38)36-17-24(23)37(4)26(39)27(2,3)19-13-20(28(30,31)32)15-21(14-19)29(33,34)35/h5-8,13-17H,9-12H2,1-4H3
+| StdInChIKey       = ZGNPLCMMVKCTHM-UHFFFAOYSA-N
+}}
+
+'''Befetupitant''' ('''Ro67-5930''') is a drug developed by [[Hoffmann-La Roche]] which acts as a potent and selective [[Antagonist (pharmacology)|antagonist]] for the [[Tachykinin receptor 1|NK<sub>1</sub>]] [[Receptor (biochemistry)|receptor]].<ref>Hoffmann T, Bös M, Stadler H, Schnider P, Hunkeler W, Godel T, Galley G, Ballard TM, Higgins GA, Poli SM, Sleight AJ. Design and synthesis of a novel, achiral class of highly potent and selective, orally active neurokinin-1 receptor antagonists. ''Bioorg Med Chem Lett''. 2006 Mar 1;16(5):1362-5. {{PMID|16332435}}</ref> It was originally developed as a potential [[antiemetic]] drug, though development was ultimately discontinued after a related drug [[netupitant]] was deemed to be more suitable for clinical development. Befetupitant has however continued to be researched for other possible applications such as treatment of [[corneal neovascularization]].<ref>Bignami F, Giacomini C, Lorusso A, Aramini A, Rama P, Ferrari G. NK1 receptor antagonists as a new treatment for corneal neovascularization. ''Invest Ophthalmol Vis Sci''. 2014 Sep 16;55(10):6783-94. doi: 10.1167/iovs.14-14553. {{PMID|25228541}}</ref>
+
+== References ==
+{{Reflist}}
+
+
+{{Neurokinin receptor modulators}}
+
+[[Category:NK1 receptor antagonists]]
+[[Category:Trifluoromethyl compounds]]
+
+{{nervous-system-drug-stub}}

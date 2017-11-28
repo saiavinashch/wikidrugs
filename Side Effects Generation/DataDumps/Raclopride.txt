@@ -1,0 +1,73 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464379482
+| IUPAC_name = 3,5-dichloro-''N''-<nowiki>[[</nowiki>(2''S'')-1-ethylpyrrolidin-2-yl]methyl]-2-hydroxy-6-methoxybenzamide
+| image = Raclopride.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life = 20 min
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 84225-95-6
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 3033769
+| IUPHAR_ligand = 94
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2298373
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 430K3SOZ7G
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 8809
+
+<!--Chemical data-->
+| C=15 | H=20 | Cl=2 | N=2 | O=3 
+| molecular_weight = 347.236 g/mol
+| smiles = Clc1c(O)c(c(OC)c(Cl)c1)C(=O)NC[C@H]2N(CC)CCC2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C15H20Cl2N2O3/c1-3-19-6-4-5-9(19)8-18-15(21)12-13(20)10(16)7-11(17)14(12)22-2/h7,9,20H,3-6,8H2,1-2H3,(H,18,21)/t9-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WAOQONBSWFLFPE-VIFPVBQESA-N
+}}
+
+'''Raclopride''' is a synthetic compound that acts as a selective [[receptor antagonist|antagonist]] on D<sub>2</sub> [[dopamine receptor]]s.<ref>{{cite journal |vauthors=Köhler C, Hall H, Ogren SO, Gawell L |title=Specific in vitro and in vivo binding of 3H-raclopride. A potent substituted benzamide drug with high affinity for dopamine D-2 receptors in the rat brain |journal=Biochemical Pharmacology |volume=34 |issue=13 |pages=2251–9 |year=1985 |pmid=4015674 |doi=10.1016/0006-2952(85)90778-6 }}</ref>
+
+Its selectivity to the cerebral D<sub>2</sub> receptors is characterized by its respective K<sub>i</sub>-values, which are as follows: 1.8, 3.5, 2400 and 18000 nM for D<sub>2</sub>, D<sub>3</sub>, D<sub>4</sub> and D<sub>1</sub> receptors respectively.
+
+It can be radiolabelled with [[radioisotopes]], e.g. [[Tritium|<sup>3</sup>H]] or [[Isotopes_of_carbon#Carbon-11|<sup>11</sup>C]] and used as a tracer for ''in vitro'' imaging (autoradiography) as well as ''in vivo'' imaging [[positron emission tomography]] (PET). Images obtained by cerebral PET scanning (e.g. PET/CT or PET/MRI) allow the non-invasive assessment of the binding capacity of the cerebral [[Dopamine_receptor_D2|D<sub>2</sub> dopamine]] [[Receptor (biochemistry)|receptor]], which can be useful for the diagnosis of movement disorders. In particular, cerebral D<sub>2</sub> receptor binding as measured by carbon-11-raclopride (<sup>11</sup>C-raclopride) has shown to reflect disease severity of [[Huntington's disease]], a genetical disease characterized by selective degeneration of cerebral D<sub>2</sub> receptors.<ref>{{cite journal |vauthors=Antonini A, Leenders KL, Spiegel R, Meier D, Vontobel P, Weigell-Weber M, Sanchez-Pernaute R, de Yébenez JG, Boesiger P, Weindl A, Maguire RP |title=Striatal glucose metabolism and dopamine D2 receptor binding in asymptomatic gene carriers and patients with Huntington's disease |journal=Brain |volume=119 |issue=6 |pages=2085–95 |year=1996 |pmid=9010012 |doi=10.1093/brain/119.6.2085 }}</ref>
+
+Other studies have investigated the relationship of D<sub>2</sub> receptor binding capacity and personality disorders. For example, one study found decreasing binding with the [[personality trait]] ''[[Emotional detachment|detachment]]''.<ref>{{cite journal |vauthors=Farde L, Gustavsson JP, Jönsson E |title=D2 dopamine receptors and personality traits |journal=Nature |volume=385 |issue=6617 |pages=590 |year=1997 |pmid=9024656 |doi=10.1038/385590a0 }}</ref> Radiolabelled raclopride is also commonly used to determine the efficacy and neurotoxicity of [[dopaminergic]] drugs.
+
+==References==
+{{reflist}}
+
+{{Dopaminergics}}
+
+[[Category:Benzamides]]
+[[Category:Chloroarenes]]
+[[Category:D2 antagonists]]
+[[Category:Phenol ethers]]
+[[Category:Pyrrolidines]]
+[[Category:Typical antipsychotics]]
+
+{{nervous-system-drug-stub}}

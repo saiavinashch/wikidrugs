@@ -1,0 +1,57 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 449582305
+| IUPAC_name = 17α-hydroxy-6-methyl-16-methylenepregna-4,6-diene-3,20-dione
+| image = Melengestrol.svg
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 5633-18-1
+| CAS_supplemental = 
+| ATC_prefix = None
+| ATC_suffix = 
+| PubChem = 9906614
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 8082266
+| C=23 | H=30 | O=3
+| molecular_weight = 354.483 g/mol
+| smiles = O=C4\C=C3\C(=C/[C@@H]1[C@H](CC[C@@]2([C@](O)(C(=C)\C[C@@H]12)C(=O)C)C)[C@@]3(C)CC4)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C23H30O3/c1-13-10-17-18(21(4)8-6-16(25)12-19(13)21)7-9-22(5)20(17)11-14(2)23(22,26)15(3)24/h10,12,17-18,20,26H,2,6-9,11H2,1,3-5H3/t17-,18+,20+,21-,22+,23+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OKHAOBQKCCIRLO-IBVJIVQJSA-N
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+| pregnancy_category = 
+| legal_status = 
+| routes_of_administration = 
+}}
+
+'''Melengestrol''' ([[International Nonproprietary Name|INN]], [[British Approved Name|BAN]]) is a [[steroid]]al [[progestin]] of the [[17α-hydroxyprogesterone]] group and an [[antineoplastic]] [[drug]] which was never marketed.<ref name="Macdonald1997">{{cite book | author = F.. Macdonald | title = Dictionary of Pharmacological Agents | url = https://books.google.com/books?id=A0THacd46ZsC&pg=PA1269 | accessdate = 30 May 2012 | year = 1997 | publisher = CRC Press | isbn = 978-0-412-46630-4 | page = 1269}}</ref> An [[acetyl|acylated]] derivative, [[melengestrol acetate]], is used as a [[natural growth promoter|growth promoter]] in animals.<ref name="Macdonald1997" />
+
+While ''melengestrol'' is sometimes used as a synonym for ''melengestrol acetate'', what is usually being referred to is melengestrol acetate and not melengestrol.
+
+==Synthesis==
+6-Methyl-16-dehydropregnenolone acetate ('''5''') is the key intermediate to the preparation of both melengesterol acetate and [[medrogestone]]. Petrov and his collaborators have devised several interesting schemes that go back to [[diosgenin]] as the starting point. These schemes perform the necessary modifications in rings A and B with the sapogenin side chain still in place. In essence this approach employs this side chain as a protecting group for the future 16-dehydro-20-ketone function. In one of these routes, diosgenin is first converted to the 3-toluenesulfonate ('''1'''). Solvolysis of this homoallylic alcohol derivative affords the 3,5-cyclosteroid ('''2'''), via the cyclopropyl [[carbinyl ion]] ([[carbenium ion]]) (not shown). (This general reaction was probably first found in the steroids and bore the name of "''i''-steroid rearrangement.") Oxidation of the product by means of [[Pyridinium chlorochromate|PCC]] affords the ketone. Reaction of this with [[methylmagnesium iodide]] affords two isomeric carbinols with the α-isomer predominating ('''3'''). Solvolysis in the presence of a nucleophile such as acetic acid reverses the cyclopropylcarbinyl transformation to afford homoallylic acetate. Removal of the sapogenin side chain leads to the desired product ('''5''').<ref>{{Cite journal|doi=10.1039/JR9570004092|title=809. Modified steroid hormones. Part IV. 6-Methylpregnane derivatives|journal=Journal of the Chemical Society (Resumed)|pages=4092|year=1957|last1=Burn|first1=D.|last2=Ellis|first2=B.|last3=Petrow|first3=V.|last4=Stuart-Webb|first4=I. A.|last5=Williamson|first5=D. M.}}</ref>
+[[File:Melengesterol synthesis.svg|thumb|center|700px|Melengesterol synthesis:<ref>{{Cite journal | doi = 10.1039/JR9610002821| title = 550. Modified steroid hormones. Part XXII. 6?,16?-Dimethylprogesterone and 17?-acetoxy-6?-methyl-16-methyleneprogesterone| journal = Journal of the Chemical Society (Resumed)| pages = 2821| year = 1961| last1 = Kirk | first1 = D. N.| last2 = Petrow | first2 = V.| last3 = Williamson | first3 = D. M.}}</ref>]]
+Substitution at the 16 position was found to lead to further potentiation of progestational activity. Reaction with [[diazomethane]] at the conjugated double bond at 16 gives first the [[pyrazole]] ('''6'''). This heterocycle affords the 16 methyl [[enone]] on [[pyrolysis]] ('''7'''). Selective [[epoxidation]] of the conjugated double bond to the 16,17α-epoxide over that at 5,6 is achieved by oxidation with basic [[hydrogen peroxide]] ('''8'''). Opening of this tetrasubstituted [[oxirane]] ring in acid proceeds with loss of a proton from the β position (16 methyl) ('''9''') to afford the desired 16-methylene-17α-hydroxy-20-ketone functionality in the D ring ('''10'''). The product is saponified and then the subject of an [[Oppenauer oxidation]], which is then dehydrogenated to the 4,6-diene with [[chloranil]] ('''11'''). Acetylation under forcing conditions completes the synthesis of melengesterol acetate.
+
+==See also==
+* [[Melengestrol acetate]]
+
+==References==
+{{Reflist|2}}
+
+
+{{Progesterone receptor modulators}}
+
+[[Category:Acetate esters]]
+[[Category:Antineoplastic drugs]]
+[[Category:Pregnanes]]
+[[Category:Progestogens]]
+
+
+{{genito-urinary-drug-stub}}
+{{steroid-stub}}

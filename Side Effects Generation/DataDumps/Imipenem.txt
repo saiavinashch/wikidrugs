@@ -1,0 +1,82 @@
+{{Drugbox
+| verifiedrevid = 443870020
+| IUPAC_name = (5''R'',6''S'')-6-[(1''R'')-1-hydroxyethyl]-3-({2-[(iminomethyl)amino]ethyl}thio)-7-oxo-1-azabicyclo[3.2.0]hept-2-ene-2-carboxylic acid
+| image = Imipenem.svg
+| image2 = Imipenem hydrate ball-and-stick.png
+<!--Clinical data-->
+| tradename = Primaxin
+| Drugs.com = {{drugs.com|international|imipenem}}
+| MedlinePlus = a686013
+| pregnancy_AU = B3
+| pregnancy_US = C
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = [[Intramuscular injection|IM]], [[Intravenous therapy|IV]]
+<!--Pharmacokinetic data-->
+| metabolism = [[Kidney|Renal]]
+| protein_bound = 20%
+| elimination_half-life = 38 minutes (children), 60 minutes (adults)
+| excretion = Urine (70%)
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|CAS}}
+| CAS_number = 64221-86-9
+| ATC_prefix = J01
+| ATC_suffix = DH51
+| PubChem = 5282372
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01598
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4445535
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = Q20IM7HE75
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00206
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 51799
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 43708
+<!--Chemical data-->
+| C=12 | H=17 | N=3 | O=4 | S=1
+| molecular_weight = 299.347 g/mol
+| smiles = O=C(O)/C1=C(\SCC/N=C/N)C[C@H]2N1C(=O)[C@@H]2[C@H](O)C.O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C12H17N3O4S.H2O/c1-6(16)9-7-4-8(20-3-2-14-5-13)10(12(18)19)15(7)11(9)17;/h5-7,9,16H,2-4H2,1H3,(H2,13,14)(H,18,19);1H2/t6-,7-,9-;/m1./s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GSOSVVULSKVSLQ-JJVRHELESA-N
+}}
+'''Imipenem''' ('''Primaxin''') is an [[intravenous]] [[beta-lactam|&beta;-lactam]] [[antibiotic]] discovered by Merck scientists Burton Christensen, William Leanza, and Kenneth Wildonger in the mid-1970s.<ref>{{US Patent|4194047}}</ref> Carbapenems are highly resistant to the β-lactamase enzymes produced by many multiple drug-resistant Gram-negative  bacteria,<ref>{{cite journal|last=Clissold|first=SP|author2=Todd, PA |author3=Campoli-Richards, DM |title=Imipenem/cilastatin. A review of its antibacterial activity, pharmacokinetic properties and therapeutic efficacy.|journal=Drugs|date=Mar 1987|volume=33|issue=3|pages=183–241|pmid=3552595|doi=10.2165/00003495-198733030-00001}}</ref> thus play a key role in the treatment of infections not readily treated with other antibiotics.<ref>{{cite journal|last=Vardakas|first=KZ|author2=Tansarli, GS |author3=Rafailidis, PI |author4= Falagas, ME |title=Carbapenems versus alternative antibiotics for the treatment of bacteraemia due to Enterobacteriaceae producing extended-spectrum β-lactamases: a systematic review and meta-analysis.|journal=The Journal of antimicrobial chemotherapy|date=Dec 2012|volume=67|issue=12|pages=2793–803|pmid=22915465|doi=10.1093/jac/dks301}}</ref>
+
+Imipenem was patented in 1975.<ref>{{cite book|last1=Fischer|first1=Janos|last2=Ganellin|first2=C. Robin|title=Analogue-based Drug Discovery|date=2006|publisher=John Wiley & Sons|isbn=9783527607495|page=490|url=https://books.google.ca/books?id=FjKfqkaKkAAC&pg=PA490|language=en}}</ref> It was discovered via a lengthy trial-and-error search for a more stable version of the natural product [[thienamycin]], which is produced by the bacterium ''[[Streptomyces cattleya]]''. Thienamycin has antibacterial activity, but is unstable in aqueous solution, so impractical to administer to patients.<ref>{{cite journal|last=Kahan|first=FM|author2=Kropp, H |author3=Sundelof, JG |author4= Birnbaum, J |title=Thienamycin: development of imipenen-cilastatin.|journal=The Journal of antimicrobial chemotherapy|date=Dec 1983|volume=12 Suppl D|pages=1–35|pmid=6365872|doi=10.1093/jac/12.suppl_d.1}}</ref> Imipenem has a broad spectrum of activity against [[Aerobic organism|aerobic]] and [[Anaerobic organism|anaerobic]], [[Gram-positive]] and [[Gram-negative]] [[bacteria]].<ref>{{cite journal |last1=Kesado |first1=Tadataka |last2=Hashizume |first2=Terutaka |last3=Asahi |first3=Yoshinari |title=Antibacterial activities of a new stabilized thienamycin, N-formimidoyl thienamycin, in comparison with other antibiotics |journal=Antimicrobial Agents and Chemotherapy |volume=17 |issue=6 |pages=912–7 |year=1980 |pmid=6931548 |pmc=283902 |url=http://aac.asm.org/cgi/pmidlookup?view=long&pmid=6931548 |doi=10.1128/aac.17.6.912}}</ref> It is particularly important for its activity against ''[[Pseudomonas aeruginosa]]'' and the ''[[Enterococcus]]'' species. It is not active against [[methicillin-resistant Staphylococcus aureus|MRSA]], however.
+
+==Mechanism of action==
+Imipenem acts as an antimicrobial through inhibiting cell wall synthesis of various Gram-positive and Gram-negative bacteria. It remains very stable in the presence of β-lactamase (both penicillinase and cephalosporinase) produced by some bacteria, and is a strong inhibitor of β-lactamases from some Gram-negative bacteria that are resistant to most β-lactam antibiotics.
+
+==Spectrum of bacterial susceptibility and resistance==
+''Acinetobacter anitratus'', ''[[Acinetobacter calcoaceticus]]'', ''Actinomyces odontolyticus'', ''[[Aeromonas hydrophila]]'', ''Bacteroides distasonis'', ''Bacteroides uniformis'', and ''[[Clostridium perfringens]]'' are generally susceptible to imipenem, while  ''[[Acinetobacter baumannii]], some [[Acinetobacter]]'' spp., ''[[Bacteroides fragilis]]'', and ''[[Enterococcus faecalis]]'' have developed resistance to imipenem to varying degrees. Not many species are resistant to imipenem except ''[[Pseudomonas aeruginosa]]'' (Oman) and ''[[Stenotrophomonas maltophilia]]''.<ref>{{cite web|title=Imipenem spectrum of bacterial susceptibility and Resistance|url=http://www.toku-e.com/Upload/Products/PDS/20120604006407.pdf |accessdate=4 May 2012}}</ref>
+
+==Coadministration with cilastatin==
+{{Main|Imipenem/cilastatin}}
+
+Imipenem is rapidly degraded by the renal enzyme [[dehydropeptidase]] 1 when administered alone, and is almost always coadministered with [[cilastatin]] to prevent this inactivation.{{Citation needed|date=March 2011}}
+
+==Adverse effects==
+Common [[adverse drug reaction]]s are nausea and vomiting. People who are allergic to [[penicillin]] and other β-lactam antibiotics should take caution if taking imipenem, as cross-reactivity rates are low. At high doses, imipenem is seizurogenic.{{Citation needed|date=March 2011}}
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+*{{cite journal |last1=Clissold |first1=SP |last2=Todd |first2=PA |last3=Campoli-Richards |first3=DM |title=Imipenem/cilastatin. A review of its antibacterial activity, pharmacokinetic properties and therapeutic efficacy |journal=Drugs |volume=33 |issue=3 |pages=183–241 |year=1987 |pmid=3552595 |url=http://adisonline.com/drugs/Abstract/1987/33030/Imipenem_Cilastatin__A_Review_of_its_Antibacterial.1.aspx |doi=10.2165/00003495-198733030-00001}}
+*{{cite journal |last1=Buckley |first1=MM |last2=Brogden |first2=RN |last3=Barradell |first3=LB |last4=Goa |first4=KL |title=Imipenem/cilastatin. A reappraisal of its antibacterial activity, pharmacokinetic properties and therapeutic efficacy |journal=Drugs |volume=44 |issue=3 |pages=408–44 |year=1992 |pmid=1382937 |url=http://adisonline.com/drugs/Abstract/1992/44030/Imipenem_Cilastatin__A_Reappraisal_of_its.8.aspx |doi=10.2165/00003495-199244030-00008}}
+
+==External links==
+* [http://www.ebi.ac.uk/pdbe-srv/PDBeXplore/ligand/?ligand=IM2 Imipenem bound to proteins] in the [[Protein Data Bank|PDB]]
+
+{{Cell wall disruptive antibiotics}}
+{{GABAergics}}
+
+[[Category:Carbapenem antibiotics]]
+[[Category:Enantiopure drugs]]
+[[Category:GABAA receptor negative allosteric modulators]]

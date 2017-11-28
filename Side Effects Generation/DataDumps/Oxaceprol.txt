@@ -1,0 +1,78 @@
+{{Drugbox
+| verifiedrevid = 447917039
+| IUPAC_name = (4''R'')-1-acetyl-4-hydroxy-<small>L</small>-proline
+| image = Oxaceprol.svg
+| width = 200px
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|oxaceprol}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 33996-33-7
+| ATC_prefix = D11
+| ATC_suffix = AX09
+| ATC_supplemental =   {{ATC|M01|AX24}}
+| PubChem = 65784
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = Q0XV76B96L
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07215
+| ChemSpiderID      = 59203
+| ChEMBL = 1407356
+
+<!--Chemical data-->
+| C=7 | H=11 | N=1 | O=4 
+| molecular_weight = 172.159 g/mol
+| smiles            = CC(=O)N1C[C@@H](C[C@H]1C(=O)O)O
+| StdInChI          = 1S/C7H11NO4/c1-4(9)8-3-5(10)2-6(8)7(11)12/h5-6,10H,2-3H2,1H3,(H,11,12)/t5-,6+/m1/s1
+| StdInChIKey       = BAPRUDZDYCKSOQ-RITPCOANSA-N
+| synonyms = <small>(2''S'',4''R'')-1-acetyl-4-hydroxypyrrolidine-2-carboxylic acid</small>
+}}
+'''Oxaceprol''' is an anti-inflammatory drug used in the treatment of [[osteoarthritis]].<ref name="pmid10791619">{{cite journal |author=Herrmann G |title=Oxaceprol is a well-tolerated therapy for osteoarthritis with efficacy equivalent to diclofenac |journal=Clin. Rheumatol. |volume=19 |issue=2 |pages=99–104 |year=2000 |pmid=10791619 |doi=10.1007/s100670050025 |name-list-format=vanc|author2=Steeger D |author3=Klasser M |display-authors=3 |last4=Wirbitzky |first4=J. |last5=f&#x000Fc;Rst |first5=M. |last6=Venbrocks |first6=R. |last7=Rohde |first7=H. |last8=Jungmichel |first8=D. |last9=Hildebrandt |first9=H. D.}}</ref> It is derived from [[L-proline]], a DNA-encoded [[amino acid]]. The active effect of Oxaceprol is to inhibit the adhesion and migration of [[white blood cell]]s.<ref name="Clayton2007"/>
+
+==References==
+{{reflist|refs=
+<ref name="Clayton2007">{{Citation
+ | first1    = James J.
+ | last1     = Clayton
+ | title     = Nutraceuticals in the Management of Osteoarthritis
+ | journal   = Orthopedics
+ |date=August 2007
+ | volume    = 30
+ | issue     = 8
+ | url       = http://www.healio.com/orthopedics/journals/ORTHO/%7BD4DA9AAE-37CE-4E4A-9C5E-B518F4CFC952%7D/Nutraceuticals-in-the-Management-of-Osteoarthritis
+ | accessdate= 2013-06-08
+ | postscript= .
+}}</ref>
+}}
+
+{{Other dermatological preparations}}
+{{Anti-inflammatory and antirheumatic products}}
+
+[[Category:Pyrrolidines]]
+[[Category:Acetamides]]
+[[Category:Alcohols]]
+[[Category:Amino acid derivatives]]
+
+{{musculoskeletal-drug-stub}}
+{{dermatologic-drug-stub}}

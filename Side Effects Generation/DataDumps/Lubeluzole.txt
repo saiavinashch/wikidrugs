@@ -1,0 +1,64 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 407754092
+| IUPAC_name = (2S)-1-[4-(1,3-benzothiazol-2-yl-methylamino)piperidin-1-yl]-3-(3,4-difluorophenoxy)propan-2-ol
+| image = Lubeluzole.png
+| width = 280
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- Schedule I -->
+| legal_UK = <!-- Class A -->
+| legal_US =  
+| legal_status =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 144665-07-6
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 65998
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = V2SIB71583
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D04789
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 281724
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 59390
+
+<!--Chemical data-->
+| C=22 | H=25 | F=2 | N=3 | O=2 | S=1 
+| molecular_weight = 433.515 g/mol
+| smiles = CN(C1CCN(CC1)C[C@@H](COC2=CC(=C(C=C2)F)F)O)C3=NC4=CC=CC=C4S3
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C22H25F2N3O2S/c1-26(22-25-20-4-2-3-5-21(20)30-22)15-8-10-27(11-9-15)13-16(28)14-29-17-6-7-18(23)19(24)12-17/h2-7,12,15-16,28H,8-11,13-14H2,1H3/t16-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = OZFSWVOEXHGDES-INIZCTEOSA-N
+}}
+
+'''Lubeluzole''' ('''Prosynap''') is a drug which acts as an indirect [[NMDA antagonist]]. It inhibits the release of [[glutamate]], inhibits [[nitric oxide]] synthesis, and blocks calcium and sodium gated [[ion channel]]s.<ref>Culmsee C, Junker V, Wolz P, Semkova I, Krieglstein J. Lubeluzole protects hippocampal neurons from excitotoxicity in vitro and reduces brain damage caused by ischemia. ''European Journal of Pharmacology''. 1998 Jan 26;342(2-3):193-201. {{PMID|9548385}}</ref> It has [[neuroprotective]] effects particularly in [[Hypoxia (medical)|hypoxic]] conditions,<ref>Ashton D, Willems R, Wynants J, Van Reempts J, Marrannes R, Clincke G. Altered Na(+)-channel function as an in vitro model of the ischemic penumbra: action of lubeluzole and other neuroprotective drugs. ''Brain Research''. 1997 Jan 16;745(1-2):210-21. {{PMID|9037412}}</ref><ref>Maiese K, TenBroeke M, Kue I. Neuroprotection of lubeluzole is mediated through the signal transduction pathways of nitric oxide. ''Journal of Neurochemistry''. 1997 Feb;68(2):710-4. {{PMID|9003060}}</ref> and was developed for the treatment of [[stroke]].<ref>Grotta J. Lubeluzole treatment of acute ischemic stroke. The US and Canadian Lubeluzole Ischemic Stroke Study Group. ''Stroke''. 1997 Dec;28(12):2338-46. {{PMID|9412611}}</ref> Trials showed it to be safe, effective and well tolerated at low doses, but unfortunately higher doses produced the dangerous cardiac side effect of [[Long QT syndrome|lengthening the QTc interval]],<ref>Hantson L, Tritsmans L, Crabbé R, Gheuens J, Van Rooy P. The safety and tolerability of single intravenous doses of lubeluzole (Prosynap) in healthy volunteers. ''International Journal of Clinical Pharmacology and Therapeutics''. 1997 Nov;35(11):491-5. {{PMID|9401829}}</ref><ref>Wood PL, Hawkinson JE. N-methyl-D-aspartate antagonists for stroke and head trauma. ''Expert Opinion on Investigational Drugs''. 1997 Apr;6(4):389-97. {{PMID|15989606}}</ref> which could potentially lead to [[heart failure]], and so this meant that subsequent trials were limited to using only the low dose range.<ref>Hacke W, Lees KR, Timmerhuis T, Haan J, Hantson L, Hennerici M, Diener HC. Cardiovascular safety of lubeluzole (Prosynap(R)) in patients with ischemic stroke. ''Cerebrovascular Diseases''. 1998 Sep-Oct;8(5):247-54. {{PMID|9712921}}</ref> Animal studies had shown lubeluzole to produce neuroprotective effects when administered for prolonged periods, but the aim of its developers was to produce a drug that would be effective for preventing damage from acute stroke, and so ultimately it failed to show sufficient efficacy in trials and development for medical use was halted.<ref>Gandolfo C, Sandercock P, Conti M. Lubeluzole for acute ischaemic stroke. ''Cochrane Database of Systematic Reviews''. 2002;(1):CD001924. {{PMID|11869612}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Glutamate_receptor_ligands}}
+
+[[Category:NMDA receptor antagonists]]
+[[Category:Fluoroarenes]]
+[[Category:Phenol ethers]]
+[[Category:Alcohols]]
+[[Category:Piperidines]]
+[[Category:Benzothiazoles]]

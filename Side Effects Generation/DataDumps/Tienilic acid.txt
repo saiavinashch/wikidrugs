@@ -1,0 +1,146 @@
+{{Drugbox
+| IUPAC_name = [2,3-dichloro-4-(2-thienylcarbonyl)phenoxy]acetic acid
+| image = Tienilic_acid.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A, B1, B2, B3, C, D, X -->
+| pregnancy_US = <!-- A, B, C, D, X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled, S2, S3, S4, S5, S6, S7, S8, S9 -->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, Class A, B, C -->
+| legal_US = <!-- OTC, Rx-only, Schedule I, II, III, IV, V -->
+| legal_status = Withdrawn
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 95%
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life = 6 hours
+| excretion = [[Kidney|Renal]] and biliary
+
+<!--Identifiers-->
+| CAS_number = 40180-04-9
+| ATC_prefix = C03
+| ATC_suffix = CC02
+| PubChem = 38409
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = HC95205SY4
+| KEGG = D02386
+| ChEBI = 9590
+| ChEMBL = 267744
+|  ChemSpiderID = 35204
+|  StdInChI = 1S/C13H8Cl2O4S/c14-11-7(13(18)9-2-1-5-20-9)3-4-8(12(11)15)19-6-10(16)17/h1-5H,6H2,(H,16,17)
+|  StdInChIKey = AGHANLSBXUWXTB-UHFFFAOYSA-N
+
+<!--Chemical data-->
+| C=13 | H=8 | Cl=2 | O=4 | S=1 
+| molecular_weight = 331.17 g/mol
+| smiles = s1cccc1C(=O)c2c(Cl)c(Cl)c(cc2)OCC(=O)O
+}}
+'''Tienilic acid''' ([[International Nonproprietary Name|INN]] and [[British Approved Name|BAN]]) or '''ticrynafen''' ([[United States Adopted Name|USAN]]) is a [[loop diuretic]] drug with [[uric acid]]-lowering (uricosuric) action,<ref>{{Cite journal 
+| last1 = Schlatter | first1 = E. 
+| last2 = Greger | first2 = R. 
+| last3 = Weidtke | first3 = C. 
+| title = Effect of "high ceiling" diuretics on active salt transport in the cortical thick ascending limb of Henle's loop of rabbit kidney. Correlation of chemical structure and inhibitory potency 
+| journal = Pflugers Archiv : European journal of physiology 
+| volume = 396 
+| issue = 3 
+| pages = 210–217 
+| year = 1983 
+| pmid = 6844125
+ | doi=10.1007/bf00587857
+}}</ref><ref>{{Cite journal 
+| last1 = Steele | first1 = T. H. 
+| title = Mechanism of the uricosuric activity of ticrynafen 
+| journal = Nephron 
+| volume = 23 Suppl 1 
+| pages = 33–37 
+| year = 1979 
+| pmid = 471151
+ | doi=10.1159/000181665
+}}</ref> formerly marketed for the treatment of [[hypertension]]. It was approved by FDA on May 2, 1979, and withdrawn in 1982, after case reports in the [[United States]] indicated a link between the use of ticrynafen and [[hepatitis]].<ref>{{Cite journal 
+| last1 = Manier | first1 = J. W. 
+| last2 = Chang | first2 = W. W. 
+| last3 = Kirchner | first3 = J. P. 
+| last4 = Beltaos | first4 = E. 
+| title = Hepatotoxicity associated with ticrynafen--a uricosuric diuretic 
+| journal = The American journal of gastroenterology 
+| volume = 77 
+| issue = 6 
+| pages = 401–404 
+| year = 1982 
+| pmid = 7091125
+}}</ref>
+
+Criminal charges were brought against [[Smith, Kline & French|SmithKline]] executives with regard to hiding data related to toxicity while gaining FDA approval.  The company pleaded guilty to 14 counts of failure to report adverse reactions and 20 counts of selling a [[misbranded drug]].<ref>United States v. SmithKline Beckman et al {BLR 286} Biotechnology Law Report. September–October 1984, 3(9-10): 206-214.</ref>
+
+Tienilic acid was found to act as a suicide substrate at the [[cytochrome P450]] enzymes involved in drug metabolism. Unfortunately, the metabolic reaction carried out by these enzymes converted tienilic acid to a [[thiophene]] [[sulfoxide]] which proved highly [[electrophilic]]. This encouraged a [[Michael reaction]] leading to alkylation of a [[thiol]] group in the enzyme's active site. Loss of water from the thiophene sulfoxide restored the thiophene ring and resulted in tienilic acid being covalently linked to the enzyme, thus inhibiting the enzyme irreversibly.<ref>{{Cite journal 
+| last1 = Lopez-Garcia | first1 = M.P. 
+| last2 = Dansette | first2 = P.M 
+| last3 = Mansuy | first3 = D. 
+| title = Thiophene derivatives as new mechanism-based inhibitors of cytochromes P-450: inactivation of yeast-expressed human liver cytochrome P-450 2C9 by tienilic acid.
+| doi = 10.1021/bi00167a022 
+| journal = Biochemistry 
+| volume = 33 
+| issue = 1 
+| pages = 166–175 
+| year = 1994 
+| pmid = 8286335 
+}}</ref>
+
+In addition sera of patients who had liver failure after taking this drug contained antibodies recognizing CYP2C9 able to hydroxylate the drug and to give covalent binding.<ref>{{Cite journal 
+| last1 = Beaune | first1 = P. 
+| last2 = Dansette | first2 = P. M. 
+| last3 = Mansuy | first3 = D. 
+| last4 = Kiffel | first4 = L. 
+| last5 = Finck | first5 = M. 
+| last6 = Amar | first6 = C.
+| last7 = Leroux | first7 = J.P. 
+| last8 = Homberg | first8 = J.C.  
+| title = Human anti-endoplasmic reticulum autoantibodies appearing in a drug-induced hepatitis are directed against a human liver cytochrome P-450 that hydroxylates the drug 
+| journal = Proc Natl Acad Sci U S A.  
+| volume = 84
+| issue = 2 
+| pages = 551–555 
+| year = 1987 
+| pmid = 3540968 
+| pmc = 304247 | doi=10.1073/pnas.84.2.551
+}}</ref>
+
+The above explanation is a hypothesis. It is still not known (after 15 years) if the reactive intermediate which inactivates the CYP2C9 is the thiophene sulfoxide or the thiophene epoxide. The target on the protein is also not known (could be multiple). However tienilic acid is a good mechanism based inhibitor of CYP2C9 and seems to inactivate it stoichiometrically. Progress in proteomics may one day give the answer.
+
+Recent studies indicate that in fact the primary metabolite of tienilic acid (5-OH tienilic acid) cannot be derived from a thiophene-S-oxide intermediate as was previously hypothesized. It was determined to be derived from a thiophene epoxide intermediate and this reactive intermediate is then likely a cause for the covalent binding to as well as mechanism-based inactivation of CYP2C9.<ref>{{Cite journal 
+| last1 = Rademacher | first1 = P. M. 
+| last2 = Woods | first2 = C. M. 
+| last3 = Huang | first3 = Q. 
+| last4 = Szklarz | first4 = G. D. 
+| last5 = Nelson | first5 = S. D. 
+| title = Differential Oxidation of Two Thiophene-Containing Regioisomers to Reactive Metabolites by Cytochrome P450 2C9 
+| doi = 10.1021/tx200519d 
+| journal = Chemical Research in Toxicology 
+| volume = 25 
+| issue = 4 
+| pages = 895–903 
+| year = 2012 
+| pmid = 22329513 
+| pmc = 3339269
+}}</ref>
+
+==References==
+{{Reflist|2}}
+
+{{Diuretics}}
+
+[[Category:Diuretics]]
+[[Category:Hepatotoxins]]
+[[Category:Withdrawn drugs]]
+[[Category:Thiophenes]]
+[[Category:Chloroarenes]]
+[[Category:Acetic acids]]
+[[Category:Hepatotoxins]]
+[[Category:Phenol ethers]]
+[[Category:Abandoned drugs]]

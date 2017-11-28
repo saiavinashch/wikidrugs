@@ -1,0 +1,68 @@
+{{Drugbox
+| verifiedrevid = 477238271
+| IUPAC_name = (''RS'')-4-hydroxy-3-[1-(4-nitrophenyl)-3-oxobutyl]-2''H''-chromen-2-one
+| image = Acenocoumarol.svg
+| width =
+| chirality = [[Racemic mixture]]
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|acenocoumarol}}
+| pregnancy_category = X 
+| legal_UK = POM
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life = 8 to 11 hours
+| excretion =
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 152-72-7
+| ATC_prefix = B01
+| ATC_suffix = AA07
+| PubChem = 9052
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01418
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 10443441
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = I6WP63U32H
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07064
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 53766
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 397420
+<!--Chemical data-->
+| C=19 | H=15 | N=1 | O=6
+| molecular_weight = 353.326 g/mol
+| smiles = [O-][N+](=O)c1ccc(cc1)C(CC(C)=O)C\2=C(/O)c3ccccc3OC/2=O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H15NO6/c1-11(21)10-15(12-6-8-13(9-7-12)20(24)25)17-18(22)14-4-2-3-5-16(14)26-19(17)23/h2-9,15,22H,10H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = VABCILAOYCMVPS-UHFFFAOYSA-N
+| melting_point = 196
+| melting_high = 199
+}}
+'''Acenocoumarol''' is an [[anticoagulant]] that functions as a [[vitamin K]] antagonist (like [[warfarin]]). It is a derivative of [[coumarin]] and is generic, so is marketed under many brand names worldwide.<ref>Drugs.com [http://www.drugs.com/international/acenocoumarol.html Drugs.com international listings for acenocoumarol]</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{DiseasesDB|29202}}
+* {{cite journal |vauthors=Cesar J, García-Avello A, Navarro J, Herraez M | title = Aging and oral anticoagulant therapy using acenocoumarol. | journal = Blood Coagul Fibrinolysis | volume = 15 | issue = 8 | pages = 673&ndash;6 | year = 2004 | pmid = 15613922 | doi = 10.1097/00001721-200412000-00007}}
+* {{cite journal | author = Lengyel M | title = Warfarin or acenocoumarol is better in the anticoagulant treatment of chronic atrial fibrillation? | journal = Orv Hetil | volume = 145 | issue = 52 | pages = 2619&ndash;21 | year = 2004 | pmid = 15724697 | author2 = SPORTIF-III Altanulmány Vizsgálói}}
+* {{cite journal | author = Ufer M | title = Comparative pharmacokinetics of vitamin Kd antagonists: warfarin, phenprocoumon and acenocoumarol. | journal = Clin Pharmacokinet | volume = 44 | issue = 12 | pages = 1227&ndash;46 | year = 2005 | pmid = 16372822 | doi = 10.2165/00003088-200544120-00003}}
+* {{cite journal |vauthors=Montes R, Ruiz de Gaona E, Martínez-González M, Alberca I, Hermida J | title = The c.-1639G > A polymorphism of the VKORC1 gene is a major determinant of the response to acenocoumarol in anticoagulated patients. | journal = Br J Haematol | volume = 133 | issue = 2 | pages = 183&ndash;7 | year = 2006 | pmid = 16611310 | doi = 10.1111/j.1365-2141.2006.06007.x}}
+
+{{Antithrombotics}}
+{{coumarin}}
+
+[[Category:Vitamin K antagonists]]
+[[Category:Nitrobenzenes]]
+[[Category:Coumarin drugs]]
+[[Category:Ketones]]
+
+
+{{Blood-drug-stub}}

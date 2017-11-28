@@ -1,0 +1,68 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 460022704
+| IUPAC_name =  
+| image = Cefapirin.svg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|cefapirin}}
+| MedlinePlus = a601206
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = B
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = [[Intravenous therapy|Intravenous]], [[Intramuscular injection|intramuscular]]
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 21593-23-7
+| ATC_prefix = J01
+| ATC_suffix = DB08
+| ATC_supplemental = {{ATCvet|G51|AA05}} {{ATCvet|J51|DB08}}
+| PubChem = 30699
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01139
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 28486
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 89B59H32VN
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07636
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 554446
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1599
+<!--Chemical data-->
+| C=17 | H=17 | N=3 | O=6 | S=2
+| molecular_weight = 423.466 g/mol
+| smiles = O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)CSc3ccncc3)COC(=O)C)C(=O)O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H17N3O6S2/c1-9(21)26-6-10-7-28-16-13(15(23)20(16)14(10)17(24)25)19-12(22)8-27-11-2-4-18-5-3-11/h2-5,13,16H,6-8H2,1H3,(H,19,22)(H,24,25)/t13-,16-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = UQLLWWBDSUHNEB-CZUORRHYSA-N
+}}
+'''Cefapirin''' ([[International Nonproprietary Name|INN]], also spelled '''cephapirin''') is an injectable, first-generation [[cephalosporin]] [[antibiotic]]. It is marketed under the trade name Cefadyl. Production for use in humans has been discontinued in the United States.<ref>http://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.Overview&DrugName=CEFADYL</ref>
+
+It also has a role in [[veterinary medicine]] as Metricure, an intrauterine preparation, and combined with [[prednisolone]] in Mastiplan, an intramammary preparation. Both are licensed in [[cattle]].
+==Synthesis==
+[[File:Cephapirin synthesis.svg|thumb|center|700px|Cephapirin synthesis:<ref name=Crast>{{Cite journal | doi = 10.1021/jm00270a025| title = Synthesis of cephapirin and related cephalosporins from 7-(.alpha.-bromoacetamido)cephalosporanic acid| journal = Journal of Medicinal Chemistry| volume = 16| issue = 12| pages = 1413| year = 1973| last1 = Crast | first1 = L. B. | last2 = Graham | first2 = R. G. | last3 = Cheney | first3 = L. C. }}</ref> {{US patent|3422100}} {{US patent|3503967}} {{US patent|3578661}} ]]
+In one of the syntheses, [[7-aminocephalosporanic acid]] ([[7-ACA]]) is reacted with bromoacetyl chloride to give the amide. The halo group is then displaced by 4-thiopyridine.<ref name=Crast/>
+==References==
+{{reflist}}
+
+{{CephalosporinAntiBiotics}}
+
+[[Category:Cephalosporin antibiotics]]
+[[Category:Enantiopure drugs]]
+[[Category:Pyridines]]
+[[Category:Acetate esters]]
+
+{{antibiotic-stub}}

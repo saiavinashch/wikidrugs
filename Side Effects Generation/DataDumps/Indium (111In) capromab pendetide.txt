@@ -1,0 +1,82 @@
+{{DISPLAYTITLE:Indium (<sup>111</sup>In) capromab pendetide}}
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 458271478
+| image =  
+| drug_name = Indium (<sup>111</sup>In) capromab pendetide
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = o
+| target = prostatic carcinoma cells
+<!-- Clinical data -->
+| tradename = Prostascint
+| pregnancy_AU =  
+| pregnancy_US =  
+| pregnancy_category =  
+| legal_AU =  
+| legal_CA =  
+| legal_UK =  
+| legal_US =  
+| legal_status =  
+| routes_of_administration =  
+<!-- Pharmacokinetic data -->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!-- Identifiers -->
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 151763-64-3
+| CAS_supplemental = (capromab)<br />{{CAS|148805-91-8}} (pendetide)
+| ATC_prefix = V09
+| ATC_suffix = IB04
+| PubChem =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201579
+<!-- Chemical data -->
+| chemical_formula =  
+| molecular_weight =  
+}}
+
+'''Indium (<sup>111</sup>In) capromab pendetide''' (trade name '''Prostascint''') is used to image the extent of [[prostate cancer]].<ref name="PMID 18279057">{{Cite journal| first1 = M. J.
+| title = Indium-111 capromab pendetide in the management of recurrent prostate cancer
+| last1 = Manyak
+| journal = Expert Review of Anticancer Therapy
+| volume = 8
+| issue =   2
+| pages = 175–81
+| year = 2008
+| pmid =   18279057 
+| doi = 10.1586/14737140.8.2.175
+}}</ref> Capromab is a [[mouse]] [[monoclonal antibody]] which recognizes [[prostate specific membrane antigen]] (PSMA) from prostate cancer cells and normal prostate tissue.  It is linked to [[pendetide]], a derivative of [[DTPA]].<ref>[http://whqlibdoc.who.int/inn/proposed_lists/prop_INN_list67.pdf WHO Drug Information]</ref> Pendetide acts as a [[chelating agent]] for the [[radionuclide]] [[indium-111]]. Following an intravenous injection of Prostascint, imaging is performed using [[single photon emission computed tomography]] (SPECT).<ref name=" PMID 18279057" />
+
+Early trials with yttrium ([[Yttrium-90|<sup>90</sup>Y]]) capromab pendetide were also conducted.<ref>{{Cite journal
+| doi = 10.1089/cbr.1999.14.99
+| volume = 14
+| issue = 2
+| pages = 99
+| last = Kahn
+| first = Daniel
+| author2=J. Christopher Austin |author3=Robert T. Maguire |author4=Sara J. Miller |author5=Jack Gerstbrein |author6=Richard D. Williams
+| title = A Phase II Study of [<sup>90</sup>Y] Yttrium-Capromab Pendetide in the Treatment of Men with Prostate Cancer Recurrence Following Radical Prostatectomy
+| journal = Cancer Biotherapy & Radiopharmaceuticals
+| year = 1999
+}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Radiopharmaceuticals}}
+{{Monoclonals for tumors}}
+
+[[Category:Radiopharmaceuticals]]
+
+
+{{monoclonal-antibody-stub}}
+{{antineoplastic-drug-stub}}

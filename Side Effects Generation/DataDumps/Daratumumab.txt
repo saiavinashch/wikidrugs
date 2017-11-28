@@ -1,0 +1,89 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 458638612
+| type = mab
+| image = 
+| alt = 
+| mab_type = mab
+| source = u
+| target = [[CD38]]
+<!--Clinical data -->
+| tradename = Darzalex
+| Drugs.com = {{Drugs.com|MTM|daratumumab}}
+| MedlinePlus = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category=  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled -->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = Rx-only
+| legal_status = 
+| routes_of_administration = [[Intravenous]]
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+<!-- Pharmacokinetic data -->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 945721-28-8
+| ATC_prefix = L01
+| ATC_suffix = XC24
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 4Z63YK6E0E
+| PubChem = 
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D10777
+<!-- Chemical data -->
+| C=6466 | H=9996 | N=1724 | O=2010 | S=42
+| molecular_weight =
+
+}}
+
+'''Daratumumab''' (trade name '''Darzalex''') is an anti-cancer drug. It binds to [[CD38]],<ref>{{cite journal | author = [[World Health Organization]] | title = International Nonproprietary Names for Pharmaceutical Substances (INN). Proposed INN: List 101 | journal = WHO Drug Information | volume = 23 | issue = 2 | year = 2009 | url = http://whqlibdoc.who.int/druginfo/23_2_2009_INN101.pdf | format=PDF}}</ref> which multiple myeloma cells overexpress.<ref name=Lokhorst2015>{{Cite journal|title = Targeting CD38 with Daratumumab Monotherapy in Multiple Myeloma|journal = The New England Journal of Medicine|date = 2015-09-24|issn = 1533-4406|pmid = 26308596|pages = 1207–1219|volume = 373|issue = 13|doi = 10.1056/NEJMoa1506348|first = HM|last = Lokhorst|first2 = T|last2 = Plesner|first3 = JP|last3 = Laubach|display-authors=etal}}</ref> Daratumumab was originally developed by [[Genmab]], but it is now being jointly developed by Genmab along with the [[Johnson & Johnson]] subsidiary [[Janssen Biotech]], which acquired worldwide commercialization rights to the drug from Genmab.<ref>{{cite web|title='Janssen Biotech Announces Global License and Development Agreement for Investigational Anti-Cancer Agent Daratumumab' | url=http://www.jnj.com/connect/news/all/janssen-biotech-announces-global-license-and-development-agreement-for-investigational-anti-cancer-agent-daratumumab | publisher=Janssen Biotech | accessdate=2013-01-31}}</ref>
+
+Daratumumab was given [[breakthrough therapy]] drug status in 2013 for [[multiple myeloma]]. It was awarded [[orphan drug status]] for multiple myeloma, [[diffuse large B cell lymphoma]], [[follicular lymphoma]], and [[mantle cell lymphoma]].<ref>http://ir.genmab.com/releasedetail.cfm?releaseid=760960</ref>
+
+== Medical uses ==
+In November 2015, the U.S. Food and Drug Administration approved daratumumab for treatment of multiple myeloma in patients who had received at least three prior therapies.<ref>http://www.medscape.com/viewarticle/854548?nlid=91686_3663&src=wnl_edit_newsal&uac=78316PX&impID=890536&faf=1</ref><ref>http://www.centerwatch.com/drug-information/fda-approved-drugs/drug/100115/darzalex-daratumumab</ref> In May 2016 daratumumab was also conditionally approved by the European Medicines Agency for treatment of multiple myeloma.<ref>{{Cite web|url=http://www.businesswire.com/news/home/20160523005679/en/Janssen%25E2%2580%2599s-Single-Agent-DARZALEX%25C2%25AE-daratumumab-Approved-European-Commission|title=Janssen’s Single-Agent DARZALEX® (daratumumab) Approved by European Commission for Treatment of Multiple Myeloma (MM) {{!}} Business Wire|website=www.businesswire.com|access-date=2016-05-23}}</ref>
+
+In November 2016, the FDA approved daratumumab in combination with [[lenalidomide]] or [[bortezomib]] and [[dexamethasone]] for the treatment of patients with multiple myeloma who have received at least one prior therapy.<ref>http://www.fda.gov/Drugs/InformationOnDrugs/ApprovedDrugs/ucm530249.htm</ref>
+
+The [[European Commission]] granted a marketing authorisation on 20 May 2016.<ref>http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Summary_for_the_public/human/004077/WC500207298.pdf</ref>
+In the [[European Union]] it is indicated as monotherapy for the treatment of adult patients with relapsed and refractory multiple myeloma, whose prior therapy included a proteasome inhibitor and an immunomodulatory agent and who have demonstrated disease progression on the last therapy.<ref>http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/004077/WC500207296.pdf</ref>
+
+== Interactions ==
+=== Interference with blood compatibility testing ===
+Daratumumab can also bind to [[CD38]] present on red blood cells and interfere with routine testing for clinically significant antibodies. Patients will show a panreactive antibody panel, including a positive auto-control, which tends to mask the presence of any clinically significant antibodies. Treatment of the antibody panel cells with [[dithiothreitol]] (DTT) and repeating testing will effectively negate the binding of daratumumab to CD38 on the red blood cell surface; however,  DTT also inactivates/destroys many antigens on the red blood cell surface by disrupting [[disulfide bonds]]. Fortunately, the only antigen system affected that is associated with common, clinically significant antibodies is [[Kell antigen system|Kell]], making crossmatch testing with K-negative RBCs a reasonable alternative when urgent transfusion is indicated. 
+<ref>{{cite journal|last1=Chapuy|first1=CI|last2=Nicholson|first2=RT|last3=Aguad|first3=MD|title=Resolving the daratumumab interference with blood compatibility testing.|journal=Transfusion|date=June 2015|volume=55|issue=6 Pt 2|pages=1545–54|pmid=25764134|display-authors=etal|doi=10.1111/trf.13069}}</ref>
+It is therefore advisable to do a baseline antibody screen and Rh & Kell phenotyping (type and screen) before starting the therapy. If antibody screen is negative, proceed with phenotype matched transfusions during therapy. If antibody screen is positive, give specific antigen negative blood. The incompatibility may persist for upto 6 months after stopping the medicine. Furthermore, blood transfusion centers should be routinely notified when sending such a sample.
+
+'''Interaction with flow cytometry testing'''
+
+Daratumumab can also interfere with flow cytometric evalution of multiple myeloma, causing an apparent lack of plasma cells. <ref>{{Cite journal|last=Perincheri|first=Sudhir|last2=Torres|first2=Richard|last3=Tormey|first3=Christopher A.|last4=Smith|first4=Brian R.|last5=Rinder|first5=Henry M.|last6=Siddon|first6=Alexa J.|date=2016-12-02|title=Daratumumab Interferes with Flow Cytometric Evaluation of Multiple Myeloma|url=http://www.bloodjournal.org/content/128/22/5630|journal=Blood|language=en|volume=128|issue=22|pages=5630–5630|issn=0006-4971}}</ref>
+
+== Pharmacology ==
+=== Mechanism of action ===
+Daratumumab is an IgG1k monoclonal antibody directed against [[CD38]]. CD38 is overexpressed in multiple myeloma cells. Daratumumab binds to CD38, causing cells to apoptose via [[antibody-dependent cellular cytotoxicity]] or [[complement-dependent cytotoxicity]].<ref>http://adisinsight.springer.com/drugs/800022454</ref>
+
+== History ==
+Encouraging preliminary results were reported in June 2012 from a Phase 1/2 clinical trial in relapsed [[multiple myeloma]] patients.<ref>{{cite news |url=http://www.medpagetoday.com/HematologyOncology/Myeloma/33115 |title=ASCO: Drug Shows Promise in Myeloma | publisher=MedPage Today}}</ref>  Updated trial results presented in December 2012 indicate daratumumab is continuing to show promising single-agent anti-myeloma activity.<ref>{{cite news|title='Daratumumab Continues To Show Promise For Relapsed/Refractory Myeloma Patients (ASH 2012)' | url=http://www.myelomabeacon.com/news/2013/01/09/daratumumab-for-relapsed-refractory-myeloma-patients-ash-2012/ | publisher=The Myeloma Beacon | accessdate=2013-01-31}}</ref> A 2015 study compared monotherapy 8 and 16&nbsp;mg/kg at monthly to weekly intervals.<ref name=Lokhorst2015/>
+
+Daratumumab was given priority review status by the FDA for multiple myeloma as a combination therapy (second line).<ref>http://adisinsight.springer.com/drugs/800022454</ref>
+
+== References ==
+<references/>
+
+{{monoclonals for tumors}}
+
+[[Category:Monoclonal antibodies]]
+[[Category:Breakthrough therapy]]
+[[Category:Cancer treatments]]
+[[Category:Orphan drugs]]

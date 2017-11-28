@@ -1,0 +1,320 @@
+{{Use dmy dates|date=July 2013}}
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 456692449
+| IUPAC_name = 2-chloro-11-(piperazin-1-yl)dibenzo[''b,f''][1,4]oxazepine
+| image = Amoxapine.svg
+| width = 200px
+| image2 = Amoxapine ball-and-stick model.png
+| width2 = 200px
+
+<!--Clinical data-->
+| pronounce = ''A-mox-a-peen''<ref name = Drugs/>
+| tradename = Asendin, others
+| Drugs.com = {{drugs.com|monograph|amoxapine}}
+| licence_US = Amoxapine
+| MedlinePlus = a682202
+| pregnancy_US = C
+| legal_AU = S4
+| legal_US = Rx-only
+| routes_of_administration = [[Oral administration|Oral]]
+
+<!--Pharmacokinetic data-->
+| protein_bound = 90%<ref name="pmid6764165">{{cite journal |author1=Kinney, JL |author2=Evans, RL | title = Evaluation of amoxapine | journal = Clinical Pharmacy | volume = 1 | issue = 5 | pages = 417–24 | date = September–October 1982 | pmid = 6764165 | doi = | url = }}</ref>
+| bioavailability = >60%<ref name = MSR/>
+| metabolism = [[Hepatic]] ([[cytochrome P450|cytochrome P450 system]])<ref name = MSR/>
+| elimination_half-life = 8–10 hours (30 hours for chief active metabolite)<ref name="pmid6764165" />
+| excretion = [[Renal]] (60%), feces (18%)<ref name = MSR>{{cite web|title=Asendin, (amoxapine) dosing, indications, interactions, adverse effects, and more|work=Medscape Reference|publisher=WebMD|accessdate=26 November 2013|url=http://reference.medscape.com/drug/amoxapine-342937#showall}}</ref>
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 14028-44-5
+| ATC_prefix = N06
+| ATC_suffix = AA17
+| PubChem = 2170
+| IUPHAR_ligand = 201
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00543
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2085
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = R63VQ857OT
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00228
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 2675
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1113
+
+<!--Chemical data-->
+| C=17 | H=16 | Cl=1 | N=3 | O=1
+| molecular_weight = 313.781 g/mol
+| SMILES = Clc2ccc1Oc4c(/N=C(\c1c2)N3CCNCC3)cccc4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H16ClN3O/c18-12-5-6-15-13(11-12)17(21-9-7-19-8-10-21)20-14-3-1-2-4-16(14)22-15/h1-6,11,19H,7-10H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = QWGDMFLQWFTERH-UHFFFAOYSA-N
+}}
+
+'''Amoxapine''', sold under the brand name '''Asendin''' among others, is a [[tetracyclic antidepressant]] (TeCA), though it is often classified as a [[tricyclic antidepressant]] (TCA). It is the N-[[demethylation|demethylated]] [[metabolite]] of [[loxapine]]. Amoxapine first received marketing approval in the [[United States]] in 1992 (approximately 30 to 40 years after most of the other TCAs were introduced in the United States).<ref name = Drugs>{{cite web|title=Amoxapine: Indications, Side Effects, Warnings -Drugs.com|url=http://www.drugs.com/cdi/amoxapine.html|date=6 November 2013|accessdate=26 November 2013|work=Drugs.com|publisher=Drugs.com}}</ref>
+
+==Medical uses==
+Amoxapine is used in the treatment of [[major depressive disorder]]. Compared to other antidepressants it is believed to have a faster onset of action, with therapeutic effects seen within four to seven days.<ref name = MD/><ref>{{cite journal|title=Systematic studies with amoxapine, a new antidepressant|journal=International Pharmacopsychiatry|year=1982|volume=17|issue=1|pages=18–27|pmid=7045016|author1=Ban, TA |author2=Fujimori, M |author3=Petrie, WM |author4=Ragheb, M |author5=Wilson, WH }}</ref> In excess of 80% of patients that do respond to amoxapine are reported to respond within a fortnight of the beginning of treatment.<ref>Product Information: Asendin(R), amoxapine tablets. Physicians' Desk Reference (electronic version), MICROMEDEX, Inc, Englewood, CO, USA, 1999.</ref> It also has properties similar to those of the [[atypical antipsychotic]]s,<ref name="pmid6126130">{{cite journal |author1=Cohen, BM |author2=Harris, PQ |author3=Altesman, RI |author4=Cole, JO | title = Amoxapine: neuroleptic as well as antidepressant? | journal = The American Journal of Psychiatry | volume = 139 | issue = 9 | pages = 1165–7 |date=September 1982 | pmid = 6126130 | doi = | url =http://ajp.psychiatryonline.org/article.aspx?volume=139&page=1165}}</ref><ref>{{cite journal|author1=Kapur, S |author2=Cho, R |author3=Jones, C |author4=McKay, G |author5=Zipursky, RB |title=Is amoxapine an atypical antipsychotic? positron-emission tomography investigation of its dopamine2 and serotonin2 occupancy|journal=Biological Psychiatry|date=May 1999|volume=45|issue=9|pages=1217–1220|doi=10.1016/S0006-3223(98)00204-2|pmid=10331115}}</ref><ref>{{cite journal|author1=Wadenberg, M-LG |author2=Sills, TL |author3=Fletcher, PJ |author4=Kapur, S |title=Antipsychoticlike effects of amoxapine, without catalepsy, using the prepulse inhibition of the acoustic startle reflex test in rats|journal=Biological Psychiatry|date=April 2000|volume=47|issue=7|pages=670–676|pmid=10745061|doi=10.1016/S0006-3223(99)00267-X}}</ref> and may behave as one<ref name="pmid15956984">{{cite journal |author1=Apiquian, R |author2=Fresan, A |author3=Ulloa, RE |author4=de la Fuente-Sandoval, C |author5=Herrera-Estrella, M |author6=Vazquez, A |author7=Nicolini, H |author8=Kapur, S | title = Amoxapine as an atypical antipsychotic: a comparative study vs risperidone| journal = Neuropsychopharmacology | volume = 30 | issue = 12 | pages = 2236–2244 |date=December 2005 | pmid = 15956984 |doi = 10.1038/sj.npp.1300796}}</ref><ref>{{cite journal|author1=Chaudhry, IB |author2=Husain, N |author3=Khan, S |author4=Badshah, S |author5=Deakin, B |author6=Kapur, S |title=Amoxapine as an Antipsychotic: Comparative Study Versus Haloperidol|journal=Journal of Clinical Psychopharmacology|date=December 2007|volume=27|issue=6|pages=575–581|pmid=18004123|doi=10.1097/jcp.0b013e31815a4424}}</ref> and may be used in the treatment of [[schizophrenia]] off-label. Despite its apparent lack of extrapyramidal side effects in patients with schizophrenia it has been found to exacerbate motor symptoms in patients with [[Parkinson's disease]] psychosis.<ref>{{cite journal|title=Amoxapine Shows an Antipsychotic Effect but Worsens Motor Function in Patients with Parkinson’s Disease and Psychosis|journal=Clinical Neuropharmacology|date=July–August 2001|volume=24|issue=4|pages=242–244|pmid=11479398|doi=10.1097/00002826-200107000-00010|author1=Sa, DS |author2=Kapur, S |author3=Lang, AE }}</ref>
+
+==Contraindications==
+As with all [[Food and Drug Administration|FDA]]-approved antidepressants it carries a black-box warning about the potential of an increase in suicidal thoughts or behaviour in children, adolescents and young adults under the age of 25.<ref name = MSR/> Its use is also advised against in individuals with known hypersensitivities to either amoxapine or other ingredients in its oral formulations.<ref name = MSR/> Its use is also recommended against in the following disease states:<ref name = MSR/>
+
+* Severe cardiovascular disorders (potential of cardiotoxic adverse effects such as QT interval prolongation)
+* Uncorrected narrow angle glaucoma
+* Acute recovery post-[[myocardial infarction]]
+
+Its use is also advised against in individuals concurrently on [[monoamine oxidase inhibitors]] or if they have been on one in the past 14 days and in individuals on drugs that are known to prolong the QT interval (e.g. [[ondansetron]], [[citalopram]], [[pimozide]], [[sertindole]], [[ziprasidone]], [[haloperidol]], [[chlorpromazine]], [[thioridazine]], etc.).<ref name = MSR/>
+
+===Lactation===
+Its use in breastfeeding mothers not recommended as it is excreted in breast milk and the concentration found in breast milk is approximately a quarter that of the maternal serum level.<ref name = MD/><ref>{{cite journal|title=Galactorrhea and Hyperprolactinemia Associated With Amoxapine Therapy|journal=JAMA|volume=242|issue=17|pages=1900–1901|doi=10.1001/jama.1979.03300170046029|pmid=573343|author1=Gelenberg, AJ |author2=Cooper, DS |author3=Doller, JC |author4=Maloof, F |date=October 1979}}</ref>
+
+==Side effects==
+'''<big>Adverse effects by incidence:</big>'''<ref name = MSR/><ref name = DM>{{cite web|title=AMOXAPINE TABLET [WATSON LABORATORIES, INC.]|work=DailyMed|publisher=Watson Laboratories, Inc.|date=July 2010|accessdate=26 November 2013|url=http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a16297df-3158-48db-85e5-5cd506885556}}</ref><br />
+''<u>Note:</u> Serious (that is, those that can either result in permanent injury or are irreversible or are potentially life-threatening) are written in '''bold text'''.''<br />
+
+'''Very common (>10% incidence) adverse effects include:'''
+
+* Constipation
+* Dry mouth
+* Sedation
+
+'''Common (1–10% incidence) adverse effects include:'''<br />
+
+{{colbegin|3}}
+* Anxiety
+* [[Ataxia]]
+* Blurred vision
+* Confusion
+* Dizziness
+* Headache
+* Fatigue
+* Nausea
+* Nervousness/restlessness
+* Excessive appetite
+* Rash
+* Increased perspiration (sweating)
+* Tremor
+* Palpitations
+* Nightmares
+* Excitement
+* Weakness
+* ECG changes
+{{colend}}
+* [[Oedema]]. An abnormal accumulation of fluids in the tissues of the body leading to swelling. 
+* [[Prolactin]] levels increased. Prolactin is a hormone that regulates the generation of breast milk. Prolactin elevation is not as significant as with risperidone or haloperidol.
+
+'''Uncommon/Rare (<1% incidence) adverse effects include:'''<br />
+
+{{colbegin|2}}
+* Diarrhoea
+* Flatulence
+* '''[[Hypertension]]''' (high blood pressure)
+* '''[[Hypotension]]''' (low blood pressure)
+* [[Syncope (medicine)|Syncope]] (fainting)
+* '''[[Tachycardia]]''' (high heart rate)
+* Menstrual irregularity
+* Disturbance of accommodation
+* [[Mydriasis]] (pupil dilation)
+* [[Orthostatic hypotension]] (a drop in blood pressure that occurs upon standing up)
+* '''[[Seizure]]'''
+* '''[[Urinary retention]]''' (being unable to pass urine)
+* [[Urticaria]] (hives)
+* Vomiting 
+* Nasal congestion
+* Photosensitization
+* '''[[Hypomania]]''' (a dangerously elated/irritable mood)
+* Tingling
+* [[Paresthesia]]s of the extremities
+* [[Tinnitus]]
+* Disorientation
+* Numbness
+* Incoordination
+* Disturbed concentration
+* Epigastric distress
+* Peculiar taste in the mouth
+* Increased or decreased libido
+* [[Impotence]] (difficulty achieving an erection)
+* Painful ejaculation
+* [[Lacrimation]] (crying without an emotional cause)
+* Weight gain
+* Altered liver function
+* Breast enlargement
+* Drug fever
+* [[Pruritus]] (itchiness)
+{{colend}}
+
+* '''[[Vasculitis]]''' a disorder where blood vessels are destroyed by inflammation. Can be life-threatening if it affects the right blood vessels.
+* [[Galactorrhoea]] (lactation that is not associated with pregnancy or breast feeding)
+* Delayed micturition (that is, delays in urination from when a conscious effort to urinate is made)
+* '''[[Hyperthermia]]''' (elevation of body temperature; its seriousness depends on the extent of the hyperthermia)
+* '''[[Syndrome of inappropriate secretion of antidiuretic hormone]]''' (SIADH) this is basically when the body's level of the hormone, [[antidiuretic hormone]], which regulates the conservation of water and the restriction of blood vessels, is elevated. This is potentially fatal as it can cause electrolyte abnormalities including [[hyponatraemia]] (low blood sodium), [[hypokalaemia]] (low blood potassium) and [[hypocalcaemia]] (low blood calcium) which can be life-threatening. 
+* '''[[Agranulocytosis]]''' a drop in white blood cell counts. The white blood cells are the cells of the immune system that fight off foreign invaders. Hence agranulocytosis leaves an individual open to life-threatening infections.
+* '''[[Leukopenia|Leukopaenia]]''' the same as agranulocytosis but less severe. 
+* '''[[Neuroleptic malignant syndrome]]''' (a potentially fatal reaction to antidopaminergic agents, most often antipsychotics. It is characterised by hyperthermia, diarrhoea, tachycardia, mental status changes [e.g. confusion], rigidity, extrapyramidal side effects)
+* '''[[Tardive dyskinesia]]''' a most often irreversible neurologic reaction to antidopaminergic treatment, characterised by involuntary movements of facial muscles, tongue, lips, and other muscles. It develops most often only after prolonged (months, years or even decades) exposure to antidopaminergics. 
+* [[Extrapyramidal symptom|Extrapyramidal side effects]]. Motor symptoms such as tremor, [[parkinsonism]], involuntary movements, reduced ability to move one's voluntary muscles, etc.
+
+'''Unknown incidence or relationship to drug treatment adverse effects include:'''<br />
+
+{{colbegin|3}}
+* '''Paralytic [[ileus]]''' (paralysed bowel)
+* '''Atrial arrhythmias''' including '''[[atrial fibrillation]]'''
+* '''[[Myocardial infarction]]''' (heart attack)
+* '''[[Stroke]]'''
+* '''Heart block'''
+* '''Hallucinations'''
+* [[Purpura]]
+* [[Petechiae]]
+* Parotid swelling
+* Changes in blood glucose levels
+* '''[[Pancreatitis]]''' swelling of the pancreas
+* '''[[Hepatitis]]''' swelling of the liver
+* Urinary frequency
+* Testicular swelling
+* [[Anorexia (symptom)|Anorexia]] (weight loss)
+* [[Alopecia]] (hair loss)
+{{colend}}
+
+* '''[[Thrombocytopenia]]''' a significant drop in platelet count that leaves one open to life-threatening bleeds. 
+* [[Eosinophilia]] an elevated level of the eosinophils of the body. Eosinophils are the type of immune cell that's job is to fight off parasitic invaders. 
+* '''[[Jaundice]]''' yellowing of the skin, eyes and mucous membranes due to an impaired ability of the body to clear the by product of haem breakdown, [[bilirubin]], most often the result of liver damage as it is the liver's responsibility to clear bilirubin.
+
+It tends to produce less [[anticholinergic effect]]s, sedation and weight gain than some of the earlier TCAs (e.g. [[amitriptyline]], [[clomipramine]], [[doxepin]], [[imipramine]], [[trimipramine]]).<ref name = UpToDate>{{cite web|title=Side effects of antidepressant medications|work=UpToDate|publisher=Wolters Kluwer Health|accessdate=26 November 2013|url=http://www.uptodate.com/contents/image?imageKey=PC%2F62488&source=image_view&view=print&topicKey=PSYCH/85816&source=see_link&elapsedTimeMs=2}}</ref> It may also be less cardiotoxic than its predecessors.<ref name="CPT">{{cite book | isbn = 978-0-7020-4293-5 | title = Clinical Pharmacy and Therapeutics | year = 2007 | origyear = 1994 | publisher = Churchill Livingstone Elsevier | location = Edinburgh | edition = 4th |editor1=Walker, R |editor2=Whittlesea, C }}</ref>
+
+==Overdose==
+{{Main|Tricyclic antidepressant overdose}}
+
+It is considered particularly toxic in overdose,<ref>{{cite journal |author1=White, N |author2=Litovitz, T |author3=Clancy, C | date = December 2008 | title = Suicidal antidepressant overdoses: a comparative analysis by antidepressant type | journal = Journal of Medical Toxicology | volume = 4 | issue = 4 | pages = 238–250 | pmid = 19031375 | pmc = 3550116 | doi = 10.1007/BF03161207 | url = http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3550116/pdf/13181_2009_Article_BF03161207.pdf}}</ref> with a high rate of [[renal failure]] (which usually takes 2–5 days), [[rhabdomyolysis]], coma, seizures and even [[status epilepticus]].<ref name = CPT/> Some believe it to be less cardiotoxic than other TCAs in overdose, although reports of cardiotoxic overdoses have been made.<ref name = MD>{{cite book|title=Amoxapine|work=Martindale: The Complete Drug Reference|publisher=Pharmaceutical Press|location=London, UK|date=30 January 2013|accessdate=26 November 2013|url=http://www.medicinescomplete.com.elibrary.jcu.edu.au/mc/martindale/current/2503-q.htm}}</ref><ref name = DM/>
+
+==Pharmacology==
+
+===Pharmacodynamics===
+{{See also|Pharmacology of antidepressants|Tricyclic antidepressant#Binding profiles}}
+{| class="wikitable floatright"
+|+ Amoxapine<ref name="PDSP">{{cite web | title = PDSP K<sub>i</sub> Database | work = Psychoactive Drug Screening Program (PDSP) | author1 = Roth, BL | author2 = Driscol, J | publisher = University of North Carolina at Chapel Hill and the United States National Institute of Mental Health || format = HTML | accessdate = 14 August 2017 | url = https://kidbdev.med.unc.edu/databases/pdsp.php?knowID=0&kiKey=&receptorDD=&receptor=&speciesDD=&species=&sourcesDD=&source=&hotLigandDD=&hotLigand=&testLigandDD=&testFreeRadio=testFreeRadio&testLigand=amoxapine&referenceDD=&reference=&KiGreater=&KiLess=&kiAllRadio=all&doQuery=Submit+Query}}</ref>
+|-
+! Site !! K<sub>i</sub> (nM) !! Species !! Ref
+|-
+| '''{{abbrlink|SERT|Serotonin transporter}}''' || '''58''' || '''Human''' || <ref name="pmid9537821">{{cite journal |vauthors=Tatsumi M, Groshan K, Blakely RD, Richelson E |title=Pharmacological profile of antidepressants and related compounds at human monoamine transporters |journal=Eur. J. Pharmacol. |volume=340 |issue=2-3 |pages=249–58 |year=1997 |pmid=9537821 |doi= |url=}}</ref>
+|-
+| '''{{abbrlink|NET|Norepinephrine transporter}}''' || '''16''' || '''Human''' || <ref name="pmid9537821" />
+|-
+| {{abbrlink|DAT|Dopamine transporter}} || 4,310 || Human || <ref name="pmid9537821" />
+|-
+| '''[[5-HT2A receptor|5-HT<sub>2A</sub>]]''' || '''0.5''' || '''Human''' || <ref name="pmid9577836">{{cite journal |vauthors=Seeman P, Tallerico T |title=Antipsychotic drugs which elicit little or no parkinsonism bind more loosely than dopamine to brain D2 receptors, yet occupy high levels of these receptors |journal=Mol. Psychiatry |volume=3 |issue=2 |pages=123–34 |year=1998 |pmid=9577836 |doi= |url=}}</ref>
+|-
+| '''[[5-HT2C receptor|5-HT<sub>2C</sub>]]''' || '''2.0''' || '''Monkey''' || <ref name="pmid7908055">{{cite journal |vauthors=Roth BL, Craigo SC, Choudhary MS, et al. |title=Binding of typical and atypical antipsychotic agents to 5-hydroxytryptamine-6 and 5-hydroxytryptamine-7 receptors |journal=J. Pharmacol. Exp. Ther. |volume=268 |issue=3 |pages=1403–10 |year=1994 |pmid=7908055 |doi= |url=}}</ref>
+|-
+| '''[[5-HT6 receptor|5-HT<sub>6</sub>]]''' || '''6.0–50''' || '''Human''' || <ref name="pmid7908055" /><ref name="pmid8522988">{{cite journal |vauthors=Kohen R, Metcalf MA, Khan N, et al. |title=Cloning, characterization, and chromosomal localization of a human 5-HT6 serotonin receptor |journal=J. Neurochem. |volume=66 |issue=1 |pages=47–56 |year=1996 |pmid=8522988 |doi= |url=}}</ref>
+|-
+| '''[[5-HT7 receptor|5-HT<sub>7</sub>]]''' || '''41''' || '''Monkey''' || <ref name="pmid7908055" />
+|-
+| '''[[Alpha-1 adrenergic receptor|α<sub>1</sub>]]''' || '''50''' || '''Human''' || <ref name="pmid6086881">{{cite journal |vauthors=Richelson E, Nelson A |title=Antagonism by antidepressants of neurotransmitter receptors of normal human brain in vitro |journal=J. Pharmacol. Exp. Ther. |volume=230 |issue=1 |pages=94–102 |year=1984 |pmid=6086881 |doi= |url=}}</ref>
+|-
+| [[Alpha-2 adrenergic receptor|α<sub>2</sub>]] || 2,600 || Human || <ref name="pmid6086881" />
+|-
+| '''[[Dopamine D2 receptor|D<sub>2</sub>]]''' || '''3.6–160''' || '''Human''' || <ref name="pmid16135699">{{cite journal |vauthors=Burstein ES, Ma J, Wong S, et al. |title=Intrinsic efficacy of antipsychotics at human D2, D3, and D4 dopamine receptors: identification of the clozapine metabolite N-desmethylclozapine as a D2/D3 partial agonist |journal=J. Pharmacol. Exp. Ther. |volume=315 |issue=3 |pages=1278–87 |year=2005 |pmid=16135699 |doi=10.1124/jpet.105.092155 |url=}}</ref><ref name="pmid9577836" /><ref name="pmid6086881" />
+|-
+| '''[[Dopamine D3 receptor|D<sub>3</sub>]]''' || '''11''' || '''Human''' || <ref name="pmid9577836" />
+|-
+| '''[[Dopamine D4 receptor|D<sub>4</sub>]]''' || '''2.0–40''' || '''Human''' || <ref name="pmid9577836" />
+|-
+| '''[[Histamine H1 receptor|H<sub>1</sub>]]''' || '''7.9–25''' || '''Human''' || <ref name="pmid22033803">{{cite journal | vauthors = Appl H, Holzammer T, Dove S, Haen E, Strasser A, Seifert R | title = Interactions of recombinant human histamine H₁R, H₂R, H₃R, and H₄R receptors with 34 antidepressants and antipsychotics | journal = Naunyn Schmiedebergs Arch. Pharmacol. | volume = 385 | issue = 2 | pages = 145–70 | year = 2012 | pmid = 22033803 | doi = 10.1007/s00210-011-0704-0 | url = }}</ref><ref name="pmid6086881" />
+|-
+| [[Histamine H2 receptor|H<sub>2</sub>]] || {{abbr|ND|No data}} || {{abbr|ND|No data}} || {{abbr|ND|No data}}
+|-
+| [[Histamine H3 receptor|H<sub>3</sub>]] || >100,000 || Human || <ref name="pmid22033803" />
+|-
+| [[Histamine H4 receptor|H<sub>4</sub>]] || 6,310 || Human || <ref name="pmid22033803" />
+|-
+| {{abbrlink|mACh|Muscarinic acetylcholine receptor}} || 1,000 || Human || <ref name="pmid6086881" />
+|- class="sortbottom"
+| colspan="4" style="width: 1px;" | Values are K<sub>i</sub> (nM). The smaller the value, the more strongly the drug binds to the site.
+|}
+
+Amoxapine possesses a wide array of pharmacological effects. It is a moderate and strong [[reuptake inhibitor]] of [[serotonin]] and [[norepinephrine]], respectively,<ref name="pmid9537821" /> and binds to the [[5-HT2A receptor|5-HT<sub>2A</sub>]],<ref name="pmid8876023">{{cite journal |vauthors=Pälvimäki EP, Roth BL, Majasuo H | title = Interactions of selective serotonin reuptake inhibitors with the serotonin 5-HT2c receptor | journal = Psychopharmacology | volume = 126 | issue = 3|pages = 234–40 |date=August 1996 | pmid = 8876023 | doi = 10.1007/BF02246453| url =http://link.springer.de/link/service/journals/00213/bibs/6126003/61260234.htm|display-authors=etal}}</ref> [[5-HT2B receptor|5-HT<sub>2B</sub>]],<ref name="pmid10821800">{{cite journal |vauthors=Glusa E, Pertz HH | title = Further evidence that 5-HT-induced relaxation of pig pulmonary artery is mediated by endothelial 5-HT2B receptors | journal = [[British Journal of Pharmacology]] | volume = 130 | issue = 3 | pages = 692–8 |date=June 2000 | pmid = 10821800 | pmc = 1572101 | doi = 10.1038/sj.bjp.0703341 | url =http://dx.doi.org/10.1038/sj.bjp.0703341}}</ref> [[5-HT2C receptor|5-HT<sub>2C</sub>]],<ref name="pmid8876023" /> [[5-HT3 receptor|5-HT<sub>3</sub>]],<ref name="pmid1666997">{{cite journal |vauthors=Gozlan H, Saddiki-Traki F, Merahi N, Laguzzi R, Hamon M | title = [Preclinical pharmacology of amoxapine and amitriptyline. Implications of serotoninergic and opiodergic systems in their central effect in rats] | language = French | journal = L'Encéphale | volume = 17 Spec No 3 | issue = | pages = 415–22 |date=December 1991|pmid = 1666997 | doi = | url = }}</ref> [[5-HT6 receptor|5-HT<sub>6</sub>]],<ref name="pmid7908055" /> [[5-HT7 receptor|5-HT<sub>7</sub>]],<ref name="pmid7908055" /> [[D2 receptor|D<sub>2</sub>]],<ref name="pmid6086881" /> [[alpha-1 adrenergic receptor|α<sub>1</sub>-adrenergic]],<ref name="pmid6086881" /> [[D3 receptor|D<sub>3</sub>]],<ref name="pmid16135699" /> [[D4 receptor|D<sub>4</sub>]],<ref name="pmid16135699" /> and [[H1 receptor|H<sub>1</sub> receptor]]s<ref name="pmid6086881" /> with varying but significant [[affinity (pharmacology)|affinity]], where it acts as an [[receptor antagonist|antagonist]] (or [[inverse agonist]] depending on the receptor in question) at all sites. It has weak but negligible affinity for the [[dopamine transporter]] and the [[5-HT1A receptor|5-HT<sub>1A</sub>]],<ref name="pmid1666997" /> [[5-HT1B receptor|5-HT<sub>1B</sub>]],<ref name="pmid1666997" /> [[D1 receptor|D<sub>1</sub>]],<ref name="pmid1966571">{{cite journal|vauthors=Wei HB, Niu XY | title = [Comparison of the affinities of amoxapine and loxapine for various receptors in rat brain and the receptor down-regulation after chronic administration] | language = Chinese | journal = Yao Xue Xue Bao = Acta Pharmaceutica Sinica |volume = 25 | issue = 12 | pages = 881–5 | year = 1990 | pmid = 1966571| doi = | url = }}</ref> [[alpha-2 adrenergic receptor|α<sub>2</sub>-adrenergic]],<ref name="pmid6086881" /> [[H4 receptor|H<sub>4</sub>]],<ref name="pmid15947036">{{cite journal |vauthors=Lim HD, van Rijn RM, Ling P, Bakker RA, Thurmond RL, Leurs R | title = Evaluation of histamine H1-, H2-, and H3-receptor ligands at the human histamine H4 receptor: identification of 4-methylhistamine as the first potent and selective H4 receptor agonist | journal = The Journal of Pharmacology and Experimental Therapeutics | volume = 314 | issue = 3 | pages = 1310–21 |date=September 2005 |pmid = 15947036 | doi = 10.1124/jpet.105.087965 | url = http://jpet.aspetjournals.org/cgi/pmidlookup?view=long&pmid=15947036}}</ref> [[muscarinic acetylcholine receptor|mACh]],<ref name="pmid6086881" /> and [[GABAA receptor|GABA<sub>A</sub> receptors]],<ref name="pmid1966571" /> and no affinity for the [[beta-adrenergic receptor|β-adrenergic receptor]]s or the [[allosteric regulation|allosteric]] [[benzodiazepine site]] on the GABA<sub>A</sub> receptor.<ref name="pmid1966571" /> Amoxapine is also a weak [[glycine reuptake inhibitor|GlyT2 blocker]],<ref name="SitteFreissmuth2006">{{cite book|author1=Harald Sitte|author2=Michael Freissmuth|title=Neurotransmitter Transporters|url=https://books.google.com/books?id=CeZDAAAAQBAJ&pg=PA472|date=2 August 2006|publisher=Springer Science & Business Media|isbn=978-3-540-29784-0|pages=472–}}</ref> as well as a weak (K<sub>i</sub> = 2.5 μM, [[EC50|EC<sub>50</sub>]] = 0.98 μM) [[δ-opioid receptor]] [[partial agonist]].<ref name="pmid19828880">{{cite journal |vauthors=Onali P, Dedoni S, Olianas MC | title = Direct agonist activity of tricyclic antidepressants at distinct opioid receptor subtypes | journal = J. Pharmacol. Exp. Ther. | volume = 332 | issue = 1 | pages = 255–65 |date=January 2010 | pmid = 19828880 | doi = 10.1124/jpet.109.159939 | url = http://jpet.aspetjournals.org/cgi/pmidlookup?view=long&pmid=19828880}}</ref>
+
+[[7-Hydroxyamoxapine]], a major [[active metabolite]] of amoxapine, is a more [[potency (pharmacology)|potent]] [[dopamine receptor]] antagonist and contributes to its neuroleptic efficacy,<ref name="pmid6126130" /> whereas 8-hydroxyamoxapine is a [[norepinephrine reuptake inhibitor]] but a stronger [[serotonin reuptake inhibitor]] and helps to balance amoxapine's ratio of [[serotonin transporter|serotonin]] to [[norepinephrine transporter]] blockade.<ref name="pmid10507241">{{cite journal |vauthors=Midha KK, Hubbard JW, McKay G, Rawson MJ, Hsia D | title = The role of metabolites in a bioequivalence study II: amoxapine, 7-hydroxyamoxapine, and 8-hydroxyamoxapine | journal = International Journal of Clinical Pharmacology and Therapeutics | volume = 37 | issue = 9 | pages = 428–38 |date=September 1999 | pmid = 10507241 | doi = | url = }}</ref>
+
+===Pharmacokinetics===
+Amoxapine is metabolised into two main active metabolites: 7-hydroxyamoxapine and 8-hydroxyamoxapine.<ref name = met/>
+
+{|
+| [[File:Amoxapine.svg|thumb|180px|Amoxapine]] || [[File:7-Hydroxyamoxapine.svg|thumb|210px|7-hydroxyamoxapine]] ||[[File:8-Hydroxyamoxapine.svg|thumb|210px|8-hydroxyamoxapine]]
+|}
+
+{| class="wikitable"
+! Compound<ref name = met>{{cite journal|title=Amoxapine: A Review of its Pharmacology and Efficacy in Depressed States|journal=Drugs|date=July 1982|volume=24|issue=1|pages=1–23|doi=10.2165/00003495-198224010-00001|pmid=7049659|author1=Jue, SG |author2=Dawson, GW |author3=Brogden, RN }}</ref><ref>{{cite journal|title=Pharmacokinetics of amoxapine and its active metabolites|journal=International journal of clinical pharmacology, therapy, and toxicology|date=April 1985|author1=Calvo, B |author2=García, MJ |author3=Pedraz, JL |author4=Mariño, EL |author5=Domínguez-Gil, A |volume=23|issue=4|pages=180–185|pmid=3997304}}</ref><ref>{{cite journal|title=Pharmacokinetics of amoxapine and its active metabolites in healthy subjects|journal=Current Therapeutic Research|volume=53|issue=4|pages=427–434|doi=10.1016/S0011-393X(05)80202-4|date=April 1993|author1=Takeuchi, H |author2=Yokota, S |author3=Shimada, S |author4=Ohtani, Y |author5=Miura, S |author6=Kubo, H }}</ref>!! t<sub>1/2</sub> (hr)<ref>{{cite web|title=Amoxapine Monograph for Professionals - Drugs.com|work=Drugs.com|publisher=American Society of Health-System Pharmacists, Inc.|location=Bethesda, MD, USA|date=1 October 2007|accessdate=30 November 2013|url=http://www.drugs.com/monograph/amoxapine.html}}</ref>!! t<sub>max</sub> (hr) !! C<sub>SS</sub> (ng/mL) !! Protein binding<ref name = MSR/> !! [[Volume of distribution|V<sub>d</sub>]]<ref name = MSR/> !! Excretion<ref name = MSR/>
+|-
+| Amoxapine || 8 || 1-2 || 17-93&nbsp;ng/mL (divided dosing), 13-209&nbsp;ng/mL (single daily dosing) || 90% || 0.9-1.2 L/kg || Urine (60%), feces (18%)
+|-
+| 8-hydroxyamoxapine || 30 || 5.3 (single dosing) || 158-512&nbsp;ng/mL (divided dosing), 143-593&nbsp;ng/mL (single dose) || ? || ? || ?
+|-
+| [[7-hydroxyamoxapine]] || 6.5 || 2.6-5.4 (single dosing) || ? || ? || ? || ?
+|}
+
+Where:<br />
+
+- t<sub>1/2</sub> is the elimination half life of the compound.<br />
+- t<sub>max</sub> is the time to peak plasma levels after oral administration of amoxapine.<br />
+- C<sub>SS</sub> is the steady state plasma concentration.<br />
+- protein binding is the extent of plasma protein binding.<br />
+- V<sub>d</sub> is the volume of distribution of the compound.
+
+==Society and culture==
+
+===Brand names===
+Brand names for amoxapine include (where † denotes discontinued brands):<ref name = MD/><ref name = drugsint>{{cite web|title=Amoxapine -Drugs.com|work=Drugs.com|publisher=Drugs.com|year=2013|accessdate=26 November 2013|url=http://www.drugs.com/international/amoxapine.html}}</ref>
+
+* '''Adisen''' <small>([[South Korea|KR]])</small>
+* '''Amolife''' <small>([[India|IN]])</small>
+* '''Amoxan''' <small>([[Japan|JP]])</small>
+* '''Asendin'''† (previously marketed in [[Canada|CA]], [[New Zealand|NZ]], [[United States of America|US]])
+* '''Asendis'''† (previously marketed in [[Ireland|IE]], [[United Kingdom|UK]])
+* '''Défanyl''' <small>([[France|FR]])</small>
+* '''Demolox''' <small>([[Denmark|DK]]†, [[India|IN]], [[Spain|ES]]†)</small>
+* '''Oxamine''' <small>([[India|IN]])</small>
+* '''Oxcap''' <small>([[India|IN]])</small>
+
+==See also==
+* [[Loxapine]]
+
+==References==
+{{Reflist|30em}}
+
+{{Antidepressants}}
+{{Antipsychotics}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Adrenergic receptor modulators}}
+{{Dopamine receptor modulators}}
+{{Glycine receptor modulators}}
+{{Histamine receptor modulators}}
+{{Monoamine reuptake inhibitors}}
+{{Opioid receptor modulators}}
+{{Serotonin receptor modulators}}
+}}
+{{Tricyclics}}
+
+[[Category:Alpha blockers]]
+[[Category:Atypical antipsychotics]]
+[[Category:Chloroarenes]]
+[[Category:Delta-opioid agonists]]
+[[Category:Dibenzoxazepines]]
+[[Category:Dopamine antagonists]]
+[[Category:Glycine reuptake inhibitors]]
+[[Category:H1 receptor antagonists]]
+[[Category:Human drug metabolites]]
+[[Category:Muscarinic antagonists]]
+[[Category:Piperazines]]
+[[Category:Serotonin antagonists]]
+[[Category:Serotonin-norepinephrine reuptake inhibitors]]
+[[Category:Tetracyclic antidepressants]]
+[[Category:Tricyclic antidepressants]]

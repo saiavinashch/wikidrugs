@@ -1,0 +1,284 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 462093258
+| IUPAC_name = ''N''-(4-chlorobenzoylmethyl)-3-(10,11-dihydro-5''H''-dibenzo[''b,f'']azepin-5-yl)-''N''-methylpropan-1-amine
+| image = Lofepramin.svg
+| width = 250px
+| image2 = Lofepramine-from-xtal-1987-ball-and-stick.png
+| width2 = 250px
+
+<!--Clinical data-->
+| tradename = Gamanil, Lomont, Tymelyt, others
+| Drugs.com = {{drugs.com|international|lofepramine}}
+| pregnancy_category = 
+| legal_UK = POM
+| routes_of_administration = [[Oral administration|Oral]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 7%<ref name = PDK>{{cite journal|title=Lofepramine: a review of its pharmacodynamic and pharmacokinetic properties, and therapeutic efficacy in depressive illness|date=February 1989|volume=37|issue=2|pages=123–140|pmid=2649353|doi=10.2165/00003495-198937020-00003|author1=Lancaster, SG |author2=Gonzalez, JP |journal=Drugs}}</ref>
+| protein_bound = 99%<ref name = EMCOld>{{cite web|title=Lofepramine 70mg tablets - Summary of Product Characteristics (SPC)|work=electronic Medicines Compendium|publisher=Merck Serono|date=18 November 2010|accessdate=21 November 2013|url=http://www.medicines.org.uk/emc/medicine/20961/SPC/Lofepramine+70mg+tablets/}}</ref>
+| metabolism = [[Hepatic]] (via [[cytochrome P450]], including [[CYP2D6]])<ref name="EMC"/>
+| metabolites = [[Desipramine]] (major)
+| elimination_half-life = Up to 5 hours;<ref name="MD"/> 12–24 hours (active metabolites)
+| excretion = [[Urine]], [[feces]] (mostly as metabolites)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7551
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 23047-25-8
+| CAS_supplemental = <br />26786-32-3 ([[hydrochloride]])
+| ATC_prefix = N06
+| ATC_suffix = AA07
+| PubChem = 3947
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3810
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = OCA4JT7PAW
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08140
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 47782
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 87708
+| synonyms = Lopramine; DB-2182; Leo-460; WHR-2908A<ref name="MD"/><ref name="Elks2014" /><ref name="IndexNominum2000" /><ref name="Drugs.com" />
+
+<!--Chemical data-->
+| C=26 | H=27 | Cl=1 | N=2 | O=1 
+| molecular_weight = 418.958 g/mol
+| SMILES = Clc1ccc(cc1)C(=O)CN(C)CCCN4c2ccccc2CCc3c4cccc3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C26H27ClN2O/c1-28(19-26(30)22-13-15-23(27)16-14-22)17-6-18-29-24-9-4-2-7-20(24)11-12-21-8-3-5-10-25(21)29/h2-5,7-10,13-16H,6,11-12,17-19H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SAPNXPWPAUFAJU-UHFFFAOYSA-N
+}}
+
+'''Lofepramine''', sold under the brand names '''Gamanil''', '''Lomont''', and '''Tymelyt''' among others, is a [[tricyclic antidepressant]] (TCA) which is used to treat [[depression (mood)|depression]].<ref name="EMC"/><ref name="IndexNominum2000">{{cite book|title=Index Nominum 2000: International Drug Directory|url=https://books.google.com/books?id=5GpcTQD_L2oC&pg=PA614|year=2000|publisher=Taylor & Francis|isbn=978-3-88763-075-1|pages=614–}}</ref><ref name="pmid2891742">{{cite journal | author = Leonard BE | title = A comparison of the pharmacological properties of the novel tricyclic antidepressant lofepramine with its major metabolite, desipramine: a review | journal = International Clinical Psychopharmacology | volume = 2 | issue = 4 | pages = 281–97 |date=October 1987 | pmid = 2891742 | doi = 10.1097/00004850-198710000-00001| url = }}</ref> The TCAs are so named as they share the common property of having three rings in their chemical structure. Like most TCAs lofepramine is believed to work in relieving depression by increasing concentrations of the neurotransmitters [[norepinephrine]] and [[serotonin]] in the [[synapse]], by inhibiting their [[reuptake]].<ref name="EMC"/> It is usually considered a third-generation TCA, as unlike the first- and second-generation TCAs it is relatively safe in overdose and has milder and less frequent side effects.<ref>{{cite web|url=http://www.safcglobal.com/safc-pharma/en-us/home/small-molecule-api/services-overview/generic-products/lofepramine-hydrochloride.html |title=SAFC Commercial Life Science Products & Services &#124; Sigma-Aldrich |publisher=Safcglobal.com |date=2015-05-12 |accessdate=2016-02-24}}</ref>
+
+Lofepramine is not available in the [[United States]], [[Canada]], [[Australia]] or [[New Zealand]], although it is available in [[Ireland]], [[Japan]], [[South Africa]] and the [[United Kingdom]], among other countries.<ref name="MD">{{cite web|title=Lofepramine Hydrochloride: Martindale: The Complete Drug Reference|url=https://www.medicinescomplete.com/mc/martindale/current/2522-w.htm|website=MedicinesComplete|publisher=The Pharmaceutical Press|accessdate=3 August 2017|language=en}}</ref>
+
+==Medical uses==
+In the United Kingdom, lofepramine is licensed for the treatment of depression which is its primary use in medicine.<ref name = EMCOld/><ref name="BNF65">{{cite book | isbn = 978-0-85711-084-8 | title = British National Formulary (BNF) | last1 = Joint Formulary Committee | year = 2013 | publisher = Pharmaceutical Press | location = London, UK | edition = 65 | pages = }}</ref>
+
+==Contraindications==
+To be used with caution, or not at all, for people with the following conditions:<ref name = "EMC"/>
+* [[Cardiovascular disease|Heart disease]]
+* Impaired kidney or liver function
+* Narrow angle glaucoma
+* In the immediate recovery period after [[myocardial infarction]]
+* In [[arrhythmias]] (particularly [[heart block]])
+* [[Mania]]
+* In severe liver and/or severe renal impairment<ref name="SPC">{{cite web|title=
+Lofepramine 70mg Tablets|url=http://www.medicines.org.uk/emc/medicine/27917/spc}}</ref>
+
+And in those being treated with [[amiodarone]] or [[terfenadine]].<ref name="EMC"/>
+
+===Pregnancy and lactation===
+Lofepramine use during pregnancy is advised against unless the benefits clearly outweigh the risks.<ref name="EMC"/> This is because its safety during pregnancy has not been established and animal studies have shown some potential for harm if used during pregnancy.<ref name="EMC"/> If used during the third trimester of pregnancy it can cause [[respiratory depression|insufficient breathing to meet oxygen requirements]], agitation and withdrawal symptoms in the infant.<ref name="EMC"/> Likewise its use by breastfeeding women is advised against, except when the benefits clearly outweigh the risks, due to the fact it is excreted in the breast milk and may therefore adversely affect the infant.<ref name="EMC"/> Although the amount secreted in breast milk is likely too small to be harmful.<ref name="BNF73"/>
+
+==Side effects==
+The most common adverse effects (occurring in at least 1% of those taking the drug) include agitation, anxiety, confusion, dizziness, irritability, [[paraesthesia|abnormal sensations, like pins and needles, without a physical cause]], sleep disturbances (e.g. [[insomnia|sleeplessness]]) and [[postural hypotension|a drop in blood pressure upon standing up]].<ref name="BNF73">{{cite book|editor1-last=Joint Formulary Committee|title=BNF 73 (British National Formulary) March 2017|date=2017|publisher=Pharmaceutical Press|location=London, UK|isbn=978-0857112767|pages=354–355}}</ref> Less frequent side effects include [[extrapyramidal side effects|movement disorders]] (like tremors), precipitation of [[angle closure glaucoma]] and the potentially fatal side effects [[paralytic ileus]] and [[neuroleptic malignant syndrome]].<ref name="BNF73"/>
+
+Side effects with unknown frequency include (but are not limited to):<ref name="BNF73"/>
+
+* Digestive effects:
+** [[Constipation]]
+** [[Diarrhoea]]
+** [[Dry mouth]]
+** [[Nausea]]
+** Taste disturbances
+** [[Vomiting]]
+* Effects on the heart:
+** [[Arrhythmia]]
+** [[electrocardiogram|ECG]] changes
+** [[arrhythmia|Abnormal heart rhythm]]
+** [[Heart block]]
+** [[Sudden cardiac death]]
+** [[Tachycardia|High heart rate]]
+* Blood abnormalities:
+** [[blood dyscrasia|Abnormal blood cell counts]]
+** Blood sugar changes
+** [[hyponatraemia|Low blood sodium levels]]
+* Breast effects:
+** Breast enlargement, including in males.
+** [[Galactorrhoea|Spontaneous breast milk secretion that is unrelated to breastfeeding or pregnancy]]
+* Effects on the skin:
+** Abnormal sweating
+** [[Alopecia|Hair loss]]
+** [[urticaria|Hives]]
+** [[photosensitivity|Increased light sensitivity]]
+** [[pruritus|Itching]]
+** [[Rash]]
+* Mental / neurologic effects:
+** [[Delusions]]
+** [[Hallucinations]]
+** Headache
+** [[Hypomania]]/mania
+** [[Seizures]]
+** Suicidal behaviour
+* Other effects:
+** Appetite changes
+** [[Blurred vision]]
+** [[urinary retention|Difficulty emptying the bladder]]
+** [[dysarthria|Difficulty talking due to difficulties in moving the required muscles]]
+** Liver problems
+** [[tinnitus|Ringing in the ears]]
+** [[Sexual dysfunction]], such as [[impotence]]
+** [[oedema|Swelling]]
+** Weight changes
+
+===Withdrawal===
+If abruptly stopped after regular use it can cause withdrawal effects such as sleeplessness, irritability and excessive sweating.<ref name="EMC"/>
+
+==Overdose==
+{{Main|Tricyclic antidepressant overdose}}
+
+Compared to other TCAs, lofepramine is considered to be less toxic in overdose.<ref name = "BNF73"/> Its treatment is mostly a matter of trying to reduce absorption of the drug, if possible, using [[gastric lavage]] and monitoring for adverse effects on the heart.<ref name = "EMC"/>
+
+==Interactions==
+Lofepramine is known to interact with:<ref name="BNF73"/><ref name="EMC"/>
+
+* [[Alcohol]]. Increased sedative effect.
+* [[Altretamine]]. Risk of severe [[postural hypotension|drop in blood pressure upon standing]].
+* [[Analgesics]] (painkillers). Increased risk of [[ventricular arrhythmias]].
+* [[Anticoagulants]] (blood thinners). Lofepramine may inhibit the metabolism of certain anticoagulants leading to a potentially increased risk of bleeding.
+* [[Anticonvulsants]]. Possibly reduce the [[anticonvulsant]] effect of antiepileptics by lowering the seizure threshold.
+* [[Antihistamines]]. Possible increase of [[antimuscarinic]] (potentially increasing risk of [[paralytic ileus]], among other effects) and sedative effects.
+* [[Antimuscarinics]]. Possible increase of [[antimuscarinic]] side-effects.
+* [[Anxiolytics]] and [[hypnotics]]. Increased sedative effect.
+* [[Apraclonidine]]. Avoidance advised by manufacturer of apraclonidine.
+* [[Brimonidine]]. Avoidance advised by manufacturer of brimonidine.
+* [[Clonidine]]. Lofepramine may reduce the [[antihypertensive]] effects of clonidine.
+* [[Diazoxide]]. Enhanced hypotensive (blood pressure-lowering) effect.
+* [[Digoxin]]. May increase risk of [[arrhythmias|irregular heart rate]].
+* [[Disulfiram]]. May require a reduction of lofepramine dose.
+* [[Diuretics]]. Increased risk of [[postural hypotension|reduced blood pressure on standing]].
+* [[Cimetidine]], [[diltiazem]], [[verapamil]]. May increase concentration of lofepramine in the blood plasma.
+* [[Hydralazine]]. Enhanced hypotensive effect.
+* [[Monoamine oxidase inhibitors]] ([[MAOI]]s). Advised not to be started until at least 2 weeks after stopping MAOIs. MAOIs are advised not to be started until at least 1–2 weeks after stopping TCAs like lofepramine.
+* [[Moclobemide]]. Moclobemide is advised not to be started until at least one week after treatment with TCAs is discontinued. 
+* [[Nitrates]]. Could possibly reduce the effects of sublingual tablets of nitrates (failure to dissolve under tongue owing to dry mouth).
+* [[Rifampicin]]. May accelerate lofepramine metabolism thereby decreasing plasma concentrations of lofepramine.
+* [[Ritonavir]]. May increase lofepramine concentration in the blood plasma.
+* [[Sodium nitroprusside]]. Enhanced hypotensive effect.
+* [[Thyroid hormones]]. Effects on the heart of lofepramine may be exacerbated.
+
+==Pharmacology==
+
+===Pharmacodynamics===
+{{See also|Pharmacology of antidepressants|Tricyclic antidepressant#Binding profiles}}
+{| class="wikitable floatright" style="font-size:small;"
+|+ Lofepramine (and metabolite)<ref name="PDSP">{{cite web | title = PDSP K<sub>i</sub> Database | work = Psychoactive Drug Screening Program (PDSP) | author1 = Roth, BL | author2 = Driscol, J | publisher = University of North Carolina at Chapel Hill and the United States National Institute of Mental Health | accessdate = 14 August 2017 | url = https://kidbdev.med.unc.edu/databases/pdsp.php?knowID=0&kiKey=&receptorDD=&receptor=&speciesDD=&species=&sourcesDD=&source=&hotLigandDD=&hotLigand=&testLigandDD=&testFreeRadio=testFreeRadio&testLigand=lofepramine&referenceDD=&reference=&KiGreater=&KiLess=&kiAllRadio=all&doQuery=Submit+Query}}</ref>
+|-
+! Site !! {{abbr|LPA|Lofepramine}} !! {{abbrlink|DSI|Desipramine}} !! Species !! Ref
+|-
+| '''{{abbrlink|SERT|Serotonin transporter}}''' || '''70''' || '''17.6–163''' || '''Human''' || <ref name="pmid9537821">{{cite journal | vauthors = Tatsumi M, Groshan K, Blakely RD, Richelson E | title = Pharmacological profile of antidepressants and related compounds at human monoamine transporters | journal = Eur. J. Pharmacol. | volume = 340 | issue = 2-3 | pages = 249–58 | year = 1997 | pmid = 9537821 | doi = | url = }}</ref><ref name="pmid9400006">{{cite journal | vauthors = Owens MJ, Morgan WN, Plott SJ, Nemeroff CB | title = Neurotransmitter receptor and transporter binding profile of antidepressants and their metabolites | journal = J. Pharmacol. Exp. Ther. | volume = 283 | issue = 3 | pages = 1305–22 | year = 1997 | pmid = 9400006 | doi = | url = }}</ref>
+|-
+| '''{{abbrlink|NET|Norepinephrine transporter}}''' || '''5.4''' || '''0.63–3.5''' || '''Human''' || <ref name="pmid9537821" /><ref name="pmid9400006" />
+|-
+| {{abbrlink|DAT|Dopamine transporter}} || >10,000 || 3,190 || Human || <ref name="pmid9537821" />
+|-
+| [[5-HT1A receptor|5-HT<sub>1A</sub>]] || 4,600 || ≥6,400 || Human || <ref name="pmid7855217" /><ref name="pmid3816971">{{cite journal | vauthors = Wander TJ, Nelson A, Okazaki H, Richelson E | title = Antagonism by antidepressants of serotonin S1 and S2 receptors of normal human brain in vitro | journal = Eur. J. Pharmacol. | volume = 132 | issue = 2-3 | pages = 115–21 | year = 1986 | pmid = 3816971 | doi = | url = }}</ref>
+|-
+| '''[[5-HT2A receptor|5-HT<sub>2A</sub>]]''' || '''200''' || '''115–350''' || '''Human''' || <ref name="pmid7855217" /><ref name="pmid3816971" />
+|-
+| [[5-HT2C receptor|5-HT<sub>2C</sub>]] || {{abbr|ND|No data}} || 244–748 || Rat || <ref name="pmid8876023">{{cite journal | vauthors = Pälvimäki EP, Roth BL, Majasuo H, Laakso A, Kuoppamäki M, Syvälahti E, Hietala J | title = Interactions of selective serotonin reuptake inhibitors with the serotonin 5-HT2c receptor | journal = Psychopharmacology | volume = 126 | issue = 3 | pages = 234–40 | year = 1996 | pmid = 8876023 | doi = | url = }}</ref><ref name="pmid9686407">{{cite journal | vauthors = Toll L, Berzetei-Gurske IP, Polgar WE, Brandt SR, Adapa ID, Rodriguez L, Schwartz RW, Haggart D, O'Brien A, White A, Kennedy JM, Craymer K, Farrington L, Auh JS | title = Standard binding and functional assays related to medications development division testing for potential cocaine and opiate narcotic treatment medications | journal = NIDA Res. Monogr. | volume = 178 | issue = | pages = 440–66 | year = 1998 | pmid = 9686407 | doi = | url = }}</ref>
+|-
+| [[5-HT3 receptor|5-HT<sub>3</sub>]] || {{abbr|ND|No data}} || 4,402 || Mouse || <ref name="pmid9686407" />
+|-
+| [[5-HT7 receptor|5-HT<sub>7</sub>]] || {{abbr|ND|No data}} || >1,000 || Rat || <ref name="pmid8394362">{{cite journal | vauthors = Shen Y, Monsma FJ, Metcalf MA, Jose PA, Hamblin MW, Sibley DR | title = Molecular cloning and expression of a 5-hydroxytryptamine7 serotonin receptor subtype | journal = J. Biol. Chem. | volume = 268 | issue = 24 | pages = 18200–4 | year = 1993 | pmid = 8394362 | doi = | url = }}</ref>
+|-
+| '''[[Alpha-1 adrenergic receptor|α<sub>1</sub>]]''' || '''100''' || '''23–130''' || '''Human''' || <ref name="pmid7855217" /><ref name="pmid6086881" /><ref name="pmid9400006" />
+|-
+| [[Alpha-2 adrenergic receptor|α<sub>2</sub>]] || 2,700 || ≥1,379 || Human || <ref name="pmid7855217" /><ref name="pmid6086881" /><ref name="pmid9400006" />
+|-
+| [[Beta-adrenergic receptor|β]] || >10,000 || ≥1,700 || Rat || <ref name="pmid3790168">{{cite journal | vauthors = Muth EA, Haskins JT, Moyer JA, Husbands GE, Nielsen ST, Sigg EB | title = Antidepressant biochemical profile of the novel bicyclic compound Wy-45,030, an ethyl cyclohexanol derivative | journal = Biochem. Pharmacol. | volume = 35 | issue = 24 | pages = 4493–7 | year = 1986 | pmid = 3790168 | doi = | url = }}</ref><ref name="pmid10379421">{{cite journal | vauthors = Sánchez C, Hyttel J | title = Comparison of the effects of antidepressants and their metabolites on reuptake of biogenic amines and on receptor binding | journal = Cell. Mol. Neurobiol. | volume = 19 | issue = 4 | pages = 467–89 | year = 1999 | pmid = 10379421 | doi = | url = }}</ref>
+|-
+| [[Dopamine D1 receptor|D<sub>1</sub>]] || 500 || 5,460 || Human/rat || <ref name="pmid17850785">{{cite journal | vauthors = Deupree JD, Montgomery MD, Bylund DB | title = Pharmacological properties of the active metabolites of the antidepressants desipramine and citalopram | journal = Eur. J. Pharmacol. | volume = 576 | issue = 1-3 | pages = 55–60 | year = 2007 | pmid = 17850785 | pmc = 2231336 | doi = 10.1016/j.ejphar.2007.08.017 | url = }}</ref>
+|-
+| [[Dopamine D2 receptor|D<sub>2</sub>]] || 2,000 || 3,400 || Human || <ref name="pmid7855217" /><ref name="pmid6086881" />
+|-
+| '''[[Histamine H1 receptor|H<sub>1</sub>]]''' || '''245–360''' || '''60–110''' || '''Human''' || <ref name="pmid22033803">{{cite journal | vauthors = Appl H, Holzammer T, Dove S, Haen E, Strasser A, Seifert R | title = Interactions of recombinant human histamine H₁R, H₂R, H₃R, and H₄R receptors with 34 antidepressants and antipsychotics | journal = Naunyn Schmiedebergs Arch. Pharmacol. | volume = 385 | issue = 2 | pages = 145–70 | year = 2012 | pmid = 22033803 | doi = 10.1007/s00210-011-0704-0 | url = }}</ref>
+<ref name="pmid7855217">{{cite journal | vauthors = Cusack B, Nelson A, Richelson E | title = Binding of antidepressants to human brain receptors: focus on newer generation compounds | journal = Psychopharmacology | volume = 114 | issue = 4 | pages = 559–65 | year = 1994 | pmid = 7855217 | doi = | url = }}</ref><ref name="pmid6086881">{{cite journal | vauthors = Richelson E, Nelson A | title = Antagonism by antidepressants of neurotransmitter receptors of normal human brain in vitro | journal = J. Pharmacol. Exp. Ther. | volume = 230 | issue = 1 | pages = 94–102 | year = 1984 | pmid = 6086881 | doi = | url = }}</ref>
+|-
+| [[Histamine H2 receptor|H<sub>2</sub>]] || 4,270 || 1,550 || Human || <ref name="pmid22033803" />
+|-
+| [[Histamine H3 receptor|H<sub>3</sub>]] || 79,400 || >100,000 || Human || <ref name="pmid22033803" />
+|-
+| [[Histamine H4 receptor|H<sub>4</sub>]] || 36,300 || 9,550 || Human || <ref name="pmid22033803" />
+|-
+| '''{{abbrlink|mACh|Muscarinic acetylcholine receptor}}''' || '''67''' || '''66–198''' || '''Human''' || <ref name="pmid7855217" /><ref name="pmid6086881" />
+|-
+| '''&nbsp;&nbsp;[[Muscarinic acetylcholine receptor M1|M<sub>1</sub>]]''' || '''67''' || '''110''' || '''Human''' || <ref name="pmid8100134">{{cite journal |vauthors=Stanton T, Bolden-Watson C, Cusack B, Richelson E |title=Antagonism of the five cloned human muscarinic cholinergic receptors expressed in CHO-K1 cells by antidepressants and antihistaminics |journal=Biochem. Pharmacol. |volume=45 |issue=11 |pages=2352–4 |year=1993 |pmid=8100134 |doi= |url=}}</ref>
+|-
+| &nbsp;&nbsp;[[Muscarinic acetylcholine receptor M2|M<sub>2</sub>]] || 330 || 540 || Human || <ref name="pmid8100134" />
+|-
+| '''&nbsp;&nbsp;[[Muscarinic acetylcholine receptor M3|M<sub>3</sub>]]''' || '''130''' || '''210''' || '''Human''' || <ref name="pmid8100134" />
+|-
+| '''&nbsp;&nbsp;[[Muscarinic acetylcholine receptor M4|M<sub>4</sub>]]''' || '''340''' || '''160''' || '''Human''' || <ref name="pmid8100134" />
+|-
+| '''&nbsp;&nbsp;[[Muscarinic acetylcholine receptor M5|M<sub>5</sub>]]''' || '''460''' || '''143''' || '''Human''' || <ref name="pmid8100134" />
+|-
+| [[Sigma-1 receptor|σ<sub>1</sub>]] || 2,520 || 4,000 || Rodent || <ref name="pmid2877462">{{cite journal | vauthors = Weber E, Sonders M, Quarum M, McLean S, Pou S, Keana JF | title = 1,3-Di(2-[5-3H]tolyl)guanidine: a selective ligand that labels sigma-type receptors for psychotomimetic opiates and antipsychotic drugs | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 83 | issue = 22 | pages = 8784–8 | year = 1986 | pmid = 2877462 | pmc = 387016 | doi = | url = }}</ref><ref name="PDSP" />
+|- class="sortbottom"
+|-
+| [[Sigma-2 receptor|σ<sub>2</sub>]] || {{abbr|ND|No data}} || 1,611 || Rat || <ref name="PDSP" />
+|- class="sortbottom"
+| colspan="5" style="width: 1px;" | Values are K<sub>i</sub> (nM). The smaller the value, the more strongly the drug binds to the site.
+|}
+
+Lofepramine is a strong [[reuptake inhibitor|inhibitor]] of [[norepinephrine transporter|norepinephrine reuptake]] and a moderate inhibitor of [[serotonin transporter|serotonin reuptake]].<ref name="PDSP" /> It is a weak-intermediate level [[receptor antagonist|antagonist]] of the [[muscarinic acetylcholine receptor]]s.<ref name = PDSP/>
+
+Lofepramine has been said to be a [[prodrug]] of [[desipramine]],<ref name="AnzenbacherZanger2012">{{cite book|author1=Pavel Anzenbacher|author2=Ulrich M. Zanger|title=Metabolism of Drugs and Other Xenobiotics|url=https://books.google.com/books?id=f-XHh17NfwgC&pg=PA302|date=23 February 2012|publisher=John Wiley & Sons|isbn=978-3-527-64632-6|pages=302–}}</ref> although there is also evidence against this notion.<ref name="pmid2891742" />
+
+===Pharmacokinetics===
+Lofepramine is extensively metabolized, via cleavage of the p-chlorophenacyl group, to the TCA, [[desipramine]], in humans.<ref name="EMC">{{cite web|title=Lofepramine 70 mg Film-coated Tablets - Summary of Product Characteristics (SPC) - (eMC)|url=http://www.medicines.org.uk/emc/medicine/33411|website=electronic Medicines Compendium (eMC)|date=April 2016|accessdate=3 August 2017|publisher=Datapharm}}</ref><ref name="pmid2891742"/><ref name="MD"/> However, it is unlikely this property plays a substantial role in its overall effects as lofepramine exhibits lower [[toxicity]] and [[anticholinergic]] [[side effect]]s relative to desipramine while retaining equivalent antidepressant efficacy.<ref name="pmid2891742"/> The p-chlorophenacyl group is metabolized to p-chlorobenzoic acid which is then conjugated with [[glycine]] and excreted in the urine.<ref name="EMC"/> The desipramine metabolite is partly secreted in the faeces.<ref name="EMC"/> Other routes of metabolism include [[hydroxylation]], [[glucuronidation]], ''N''-dealkylation and ''N''-oxidation.<ref name="EMC"/><ref name="MD"/>
+
+==Chemistry==
+Lofepramine is a [[tricyclic compound]], specifically a [[dibenzazepine]], and possesses three [[ring (chemistry)|ring]]s fused together with a [[side chain]] attached in its [[chemical structure]].<ref name="Ritsner2013">{{cite book|author=Michael S Ritsner|title=Polypharmacy in Psychiatry Practice, Volume I: Multiple Medication Use Strategies|url=https://books.google.com/books?id=jy-LMZU7338C&pg=PA270|date=15 February 2013|publisher=Springer Science & Business Media|isbn=978-94-007-5805-6|pages=270–271}}</ref> Other dibenzazepine TCAs include [[imipramine]], [[desipramine]], [[clomipramine]], and [[trimipramine]].<ref name="Ritsner2013" /><ref name="LemkeWilliams2008">{{cite book|author1=Thomas L. Lemke|author2=David A. Williams|title=Foye's Principles of Medicinal Chemistry|url=https://books.google.com/books?id=R0W1ErpsQpkC&pg=PA580|year=2008|publisher=Lippincott Williams & Wilkins|isbn=978-0-7817-6879-5|pages=580, 607}}</ref> Lofepramine is a [[tertiary amine]] TCA, with its [[side chain]]-[[demethylation|demethylated]] metabolite desipramine being a [[secondary amine]].<ref name="CutlerSramek1994">{{cite book|author1=Neal R. Cutler|author2=John J. Sramek|author3=Prem K. Narang|title=Pharmacodynamics and Drug Development: Perspectives in Clinical Pharmacology|url=https://books.google.com/books?id=ncRXa8Dq88QC&pg=PA160|date=20 September 1994|publisher=John Wiley & Sons|isbn=978-0-471-95052-3|pages=160–}}</ref><ref name="AnzenbacherZanger2012"/> Unlike other tertiary amine TCAs, lofepramine has a bulky 4-chlorobenzoylmethyl [[substituent]] on its [[amine]] instead of a [[methyl group]].<ref name="LemkeWilliams2008" /> Although lofepramine is technically a tertiary amine, it acts in large part as a [[prodrug]] of desipramine, and is more similar to secondary amine TCAs in its effects.<ref name="CowenHarrison2012" /> Other secondary amine TCAs besides desipramine include [[nortriptyline]] and [[protriptyline]].<ref name="Anthony2002">{{cite book|author=Patricia K. Anthony|title=Pharmacology Secrets|url=https://books.google.com/books?id=_QQsj3PAUrEC&pg=PA39|year=2002|publisher=Elsevier Health Sciences|isbn=1-56053-470-2|pages=39–}}</ref><ref name="CowenHarrison2012">{{cite book|author1=Philip Cowen|author2=Paul Harrison|author3=Tom Burns|title=Shorter Oxford Textbook of Psychiatry|url=https://books.google.com/books?id=Y1DtSGq-LnoC&pg=PA532|date=9 August 2012|publisher=OUP Oxford|isbn=978-0-19-162675-3|pages=532–}}</ref> The [[chemical name]] of lofepramine is ''N''-(4-chlorobenzoylmethyl)-3-(10,11-dihydro-5''H''-dibenzo[''b'',''f'']azepin-5-yl)-N-methylpropan-1-amine and its [[free base]] form has a [[chemical formula]] of C<sub>26</sub>H<sub>27</sub>ClN<sub>2</sub>O with a [[molecular weight]] of 418.958&nbsp;g/mol.<ref name="Elks2014" /> The drug is used commercially mostly as the [[hydrochloride]] [[salt (chemistry)|salt]]; the free base form is not used.<ref name="Elks2014" /><ref name="IndexNominum2000" /> The [[CAS Registry Number]] of the free base is 23047-25-8 and of the hydrochloride is 26786-32-3.<ref name="Elks2014" /><ref name="IndexNominum2000" />
+
+==History==
+Lofepramine was developed by [[:sv:Leo Läkemedel AB|Leo Läkemedel AB]].<ref name="pmid19557250">{{cite journal | vauthors = Andersen J, Kristensen AS, Bang-Andersen B, Strømgaard K | title = Recent advances in the understanding of the interaction of antidepressant drugs with serotonin and norepinephrine transporters | journal = Chem. Commun. (Camb.) | volume = | issue = 25 | pages = 3677–92 | year = 2009 | pmid = 19557250 | doi = 10.1039/b903035m | url = }}</ref> It first appeared in the literature in 1969 and was patented in 1970.<ref name="pmid19557250" /> The drug was first introduced for the treatment of depression in either 1980 or 1983.<ref name="pmid19557250" /><ref name="Dart2004">{{cite book|author=Richard C. Dart|title=Medical Toxicology|url=https://books.google.com/books?id=BfdighlyGiwC&pg=PA836|year=2004|publisher=Lippincott Williams & Wilkins|isbn=978-0-7817-2845-4|pages=836–}}</ref>
+
+==Society and culture==
+
+===Generic names===
+''Lofepramine'' is the [[generic term|generic name]] of the drug and its {{abbrlink|INN|International Nonproprietary Name}} and {{abbrlink|BAN|British Approved Name}}, while ''lofepramine hydrochloride'' is its {{abbrlink|USAN|United States Adopted Name}}, {{abbrlink|BANM|British Approved Name}}, and {{abbrlink|JAN|Japanese Accepted Name}}.<ref name="Elks2014">{{cite book|author=J. Elks|title=The Dictionary of Drugs: Chemical Data: Chemical Data, Structures and Bibliographies|url=https://books.google.com/books?id=0vXTBwAAQBAJ&pg=PA738|date=14 November 2014|publisher=Springer|isbn=978-1-4757-2085-3|pages=738–}}</ref><ref name="IndexNominum2000" /><ref name="MortonHall2012">{{cite book|author1=I.K. Morton|author2=Judith M. Hall|title=Concise Dictionary of Pharmacological Agents: Properties and Synonyms|url=https://books.google.com/books?id=tsjrCAAAQBAJ&pg=PA168|date=6 December 2012|publisher=Springer Science & Business Media|isbn=978-94-011-4439-1|pages=168–}}</ref><ref name="Drugs.com">https://www.drugs.com/international/lofepramine.html</ref> Its generic name in [[French language|French]] and its {{abbrlink|DCF|Dénomination Commune Française}} are ''lofépramine'', in [[Spanish language|Spanish]] and [[Italian language|Italian]] and its {{abbrlink|DCIT|Denominazione Comune Italiana}} are ''lofepramina'', in [[German language|German]] is ''lofepramin'', and in [[Latin language|Latin]] is ''lofepraminum''.<ref name="IndexNominum2000" /><ref name="Drugs.com" />
+
+===Brand names===
+Brand names of lofepramine include Amplit, Deftan, Deprimil, Emdalen, '''Gamanil''', Gamonil, '''Lomont''', Tymelet, and '''Tymelyt'''.<ref name="MD"/><ref name="Elks2014" /><ref name="IndexNominum2000" /><ref name="Drugs.com" />
+
+===Availability===
+In the [[United Kingdom]], lofepramine is marketed (as the [[hydrochloride]] salt) in the form of 70&nbsp;mg tablets <ref name="SPC"/> and 70&nbsp;mg/5&nbsp;mL oral suspension.<ref>{{cite web|title=Lofepramine Rosemont 70mg/5ml Oral Suspension - Summary of Product Characteristics (SPC) - (eMC)|url=http://www.medicines.org.uk/emc/medicine/10656|date=26 January 2016|accessdate=3 August 2017}}</ref>
+
+==Research==
+
+===Fatigue===
+A formulation containing lofepramine and the [[amino acid]] [[L-phenylalanine|phenylalanine]] is under investigation as a treatment for [[fatigue (medical)|fatigue]] as of 2015.<ref>{{cite web|title=Lofepramine/phenylalanine - MultiCell Technologies - AdisInsight|url=http://adisinsight.springer.com/drugs/800022855|website=AdisInsight|publisher=Springer International Publishing AG|accessdate=3 August 2017|language=en}}</ref>
+
+==References==
+{{Reflist|30em}}
+
+{{Antidepressants}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Adrenergic receptor modulators}}
+{{Histamine receptor modulators}}
+{{Monoamine reuptake inhibitors}}
+{{Muscarinic acetylcholine receptor modulators}}
+{{Serotonin receptor modulators}}
+}}
+{{Tricyclics}}
+
+[[Category:Alpha-1 blockers]]
+[[Category:Amines]]
+[[Category:Antihistamines]]
+[[Category:Chloroarenes]]
+[[Category:Dibenzazepines]]
+[[Category:Ketones]]
+[[Category:Muscarinic antagonists]]
+[[Category:Norepinephrine reuptake inhibitors]]
+[[Category:Prodrugs]]
+[[Category:Serotonin antagonists]]
+[[Category:Tricyclic antidepressants]]

@@ -1,0 +1,68 @@
+{{chembox
+| ImageFile = Bucillamine.svg
+| ImageFile_Ref = {{chemboximage|correct|??}}
+| ImageSize = 175
+| ImageAlt = Skeletal formula of bucillamine
+| ImageFile1 = Bucillamine-3D-balls.png
+| ImageSize1 = 175
+| ImageAlt1 = Ball-and-stick model of the bucillamine molecule
+| IUPACName = 2-[(2-Methyl-2-sulfanylpropanoyl)amino]-3-sulfanylpropanoic acid{{citation needed|date=June 2012}}
+
+| Section1 = {{Chembox Identifiers
+| CASNo = 65002-17-7
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo_Comment = <small>''R''</small>
+| PubChem = 2459
+| PubChem1 = 656604
+| PubChem1_Comment = <small>''R''</small>
+| PubChem2 = 636373
+| PubChem2_Comment = <small>''S''</small>
+| ChemSpiderID = 2365
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| UNII = R80LRA5WTF
+| UNII_Ref = {{fdacite|correct|FDA}}
+| KEGG = D01809
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| MeSHName = bucillamine
+| ChEMBL = 80830
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| SMILES = CC(C)(S)c(:[o]):[nH]C(CS)c(:[o]):[oH]
+| SMILES1 = CC(C)(S)C(=O)NC(CS)C(O)=O
+| StdInChI = 1S/C7H13NO3S2/c1-7(2,13)6(11)8-4(3-12)5(9)10/h4,12-13H,3H2,1-2H3,(H,8,11)(H,9,10)
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = VUAFHZCUKUDDBC-UHFFFAOYSA-N
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+  }}
+
+| Section2 = {{Chembox Properties
+| C=7 | H=13 | N=1 | O=3 | S=2
+| LogP = 1.032
+| pKa = 3.012
+| pKb = 10.985
+  }}
+
+| Section8 = {{Chembox Related
+| OtherFunction_label = Alkanoic acids
+| OtherFunction = {{unbulleted list|[[Acetylcysteine]]|[[Glycylglycine]]|[[Iminodiacetic acid]]|[[Nitrilotriacetic acid]]|[[n-Oxalylglycine|''N''-Oxalylglycine]]|[[Tiopronin]]|[[Oxalyldiaminopropionic acid]]|[[gamma-Glutamylcysteine|''gamma''-Glutamylcysteine]]}}
+| OtherCompounds = {{unbulleted list|[[n-Acetylglycinamide|''N''-Acetylglycinamide]]}}
+  }}
+
+| Section6 = {{Chembox Pharmacology
+| ATCCode_prefix = M01
+| ATCCode_suffix = CC02
+  }}
+}}
+
+'''Bucillamine''' is an [[antirheumatic]] agent developed from [[tiopronin]]. It is mainly used in Japan and Korea. Activity is mediated by the two [[thiol]] groups that the molecule contains. Research done in USA showed positive transplant preservation properties.<ref>{{ cite journal |author1=Amersi, F. |author2=Nelson, S. K. |author3=Shen, X. D. |author4=Kato, H. |author5=Melinek, J. |author6=Kupiec-Weglinski, J. W. |author7=Horwitz, L. D. |author8=Busuttil, R. W. |author9=Horwitz, M. A. | title = Bucillamine, a Thiol Antioxidant, Prevents Transplantation-Associated Reperfusion Injury | journal = Proceedings of the National Academy of Sciences | year = 2002 | volume = 99 | issue = 13 | pages = 8915–8920 | pmid = 12084933 | pmc = 124398 | doi = 10.1073/pnas.132026099 | url = http://www.pnas.org/content/99/13/8915.full.pdf | format = pdf }}</ref>
+
+==References==
+{{reflist}}
+
+{{antirheumatic products}}
+
+[[Category:Antirheumatic products]]
+[[Category:Carboxylic acids]]
+[[Category:Propionamides]]
+[[Category:Thiols]]
+
+{{musculoskeletal-drug-stub}}

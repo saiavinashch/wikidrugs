@@ -1,0 +1,88 @@
+<!-- FAIR USE of Frovatriptan Frova.png: see image description page at http://en.wikipedia.org/wiki/Image:Frovatriptan Frova.png for rationale -->
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 461114004
+| IUPAC_name = (+)-(''R'')-3-methylamino-6-carboxamido-1,2,3,4-tetrahydrocarbazole
+| image = Frovatriptan_2.png
+<!--Clinical data-->
+| tradename = Frova
+| Drugs.com = {{drugs.com|monograph|frova}}
+| MedlinePlus = a604013
+| pregnancy_US = C
+| pregnancy_AU = B3
+| legal_status = Prescription only
+| routes_of_administration = [[Mouth|Oral]]
+<!--Pharmacokinetic data-->
+| bioavailability = 20–30%
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life = 26 hours
+| excretion = [[Kidney|Renal]]
+<!--Identifiers-->
+| IUPHAR_ligand = 7191
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 158930-17-7
+| ATC_prefix = N02
+| ATC_suffix = CC07
+| PubChem = 77992
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00998
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 70378
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = H82Q2D5WA7
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D07997
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1279
+<!--Chemical data-->
+  | C=14 | H=17 | N=3 | O=1
+| molecular_weight = 243.304 g/mol
+| SMILES = O=C(N)c3ccc1c(c2c(n1)CC[C@@H](NC)C2)c3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C14H17N3O/c1-16-9-3-5-13-11(7-9)10-6-8(14(15)18)2-4-12(10)17-13/h2,4,6,9,16-17H,3,5,7H2,1H3,(H2,15,18)/t9-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = XPSQPHWEGNHMSK-SECBINFHSA-N
+| synonyms = <small>6-methylamino-6,7,8,9-tetrahydro-5''H''-carbazole-3-carboxamide<br />(6''R'')-6-methylamino-6,7,8,9-tetrahydro-5''H''-carbazole-3-carboxamide</small>
+}}
+
+'''Frovatriptan''' (trade name '''Frova''') is a [[triptan]] [[medication|drug]] developed by [[Vernalis plc|Vernalis]] for the treatment of [[migraine]] [[headache]]s and for short term prevention of menstrual migraine.  The product is licensed to [[Endo Pharmaceuticals]] in North America and [[Menarini]] in Europe.<ref>{{cite web|title=Frova |url=http://www.vernalis.com/ver/rdc2/pain/frovatriptan/ |publisher=Vernalis |accessdate=2007-11-28 |archiveurl=https://web.archive.org/web/20070927225521/http://www.vernalis.com/ver/rdc2/pain/frovatriptan/ |archivedate=2007-09-27 |deadurl=yes |df= }}</ref>
+
+==Pharmacology==
+Frovatriptan inhibits excessive dilation of arteries that supply blood to the head. It is available as 2.5&nbsp;mg tablets.
+
+Frovatriptan has mean terminal elimination [[half-life]] of approximately 26 hours, which is substantially longer than other triptans.
+
+==Mechanism of action==
+Frovatriptan is a 5HT receptor agonist, with high affinity for the 5-HT<sub>1B/1D</sub> receptors. It has no significant effects on the GABA<sub>A</sub> mediated channel activity and benzodiazepine binding sites.
+
+==Adverse effects==
+Serious but rare cardiac events have been reported in patients with risk factors predictive of CAD. These include: coronary artery vasospasm, transient myocardial ischemia, myocardial infarction, ventricular tachycardia and ventricular fibrillation.
+
+==Contraindications==
+Frovatriptan should not be given to patients with:
+* Ischemic heart disease
+* Cerebrovascular syndrome
+* Peripheral vascular disease
+* Uncontrolled hypertension
+* Hemiplegic or basilar migraine
+
+==US licensing==
+Frovatriptan is available only by [[Medical prescription|prescription]] in the United States, and Canada where a secondary New Drug Approval (sNDA) was filed in July 2006.<ref>{{cite web|title=Patient Information Sheet -- Frovatriptan succinate (marketed as Frova) |url=http://www.fda.gov/cder/drug/InfoSheets/patient/frovatripanPIS.htm |date=July 2006 |publisher=Food and Drug Administration |accessdate=2007-11-28 |archiveurl=https://web.archive.org/web/20070929141557/http://www.fda.gov/cder/drug/InfoSheets/patient/frovatripanPIS.htm |archivedate=2007-09-29 |deadurl=yes |df= }}</ref>
+
+==References==
+{{reflist}}
+
+== External links ==
+* [http://www.frova.com/ Frova] (manufacturer's website)
+* [http://www.healthcentral.com/migraine/r/medications/frova-oral-22253/uses Frovatriptan Succinate]  (patient information)
+* [http://129.128.185.122/drugbank2/drugs/DB00998/fda_labels/907 FDA labeling]
+
+{{Triptans}}
+{{Serotonergics}}
+
+[[Category:Triptans]]
+[[Category:Carboxamides]]
+[[Category:Carbazoles]]
+[[Category:Amines]]
+[[Category:5-HT1D agonists]]

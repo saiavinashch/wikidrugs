@@ -1,0 +1,100 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 407843385
+| IUPAC_name = Ethyl ''N''-[(3''R'',3a''S'',4''S'',4a''R'',7''R'',8a''R'',9a''R'')-4-[(''E'')-2-[5-(3-fluorophenyl)-2-pyridyl]vinyl]-3-methyl-1-oxo-3a,4,4a,5,6,7,8,8a,9,9a-decahydro-3''H''-benzo[f]isobenzofuran-7-yl]carbamate
+| image = Vorapaxar structure.svg
+| width = 230
+| image2 = Vorapaxar ball-and-stick model.png
+| width2 = 250
+<!--Clinical data-->
+| tradename = Zontivity
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = B
+| pregnancy_category =
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Rx-only
+| legal_status = 
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability = ~100%<ref name="zontivity">{{cite web|title=ZONTIVITY™ (vorapaxar) Tablets 2.08 mg, for oral use. Full Prescribing Information|url=http://www.merck.com/product/usa/pi_circulars/z/zontivity/zontivity_pi.pdf|publisher=Merck & Co., Inc. Initial U.S. Approval: 05/2014.|accessdate=17 June 2014}}</ref>
+| protein_bound = ≥99%
+| metabolism = hepatic ([[CYP3A4]] and [[CYP2J2]])
+| elimination_half-life = 5–13 days
+| excretion = feces (58%), urine (25%)
+<!--Identifiers-->
+| IUPHAR_ligand = 4047
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 618385-01-6
+| ATC_prefix = B01
+| ATC_suffix = AC26
+| melting_point = 278
+| PubChem = 10077130
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = ZCE93644N2
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 82702
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 493982
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 8252668 
+| synonyms = SCH-530348
+<!--Chemical data-->
+| C=29 | H=33 | F=1 | N=2 | O=4
+| molecular_weight = 492.58 g/mol
+| smiles = Fc1cccc(c1)c2ccc(nc2)\C=C\[C@H]4[C@H]3[C@@H](C[C@H](NC(=O)OCC)CC3)C[C@H]5C(=O)O[C@@H]([C@@H]45)C
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C29H33FN2O4/c1-3-35-29(34)32-23-10-11-24-20(14-23)15-26-27(17(2)36-28(26)33)25(24)12-9-22-8-7-19(16-31-22)18-5-4-6-21(30)13-18/h4-9,12-13,16-17,20,23-27H,3,10-11,14-15H2,1-2H3,(H,32,34)/b12-9+/t17-,20+,23-,24-,25+,26-,27+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = ZBGXUVOIWDMMJE-QHNZEKIYSA-N
+}}
+
+'''Vorapaxar''' (brand name '''Zontivity''', formerly known as '''SCH 530348''') is a [[thrombin]] receptor ([[protease-activated receptor]], PAR-1) [[receptor antagonist|antagonist]] based on the natural product [[himbacine]], discovered by [[Schering-Plough]] and developed by [[Merck & Co.]]<ref>Chackalamannil S; Wang Y; Greenlee WJ; Hu Z; Xia Y; Ahn H-S; Boykow G; Hsieh Y; Palamanda J; Agans-Fantuzzi J; Kurowski S; Graziano M; Chintala M. Discovery of a Novel, Orally Active Himbacine-Based Thrombin Receptor Antagonist (SCH 530348) with Potent Antiplatelet Activity. Journal of  Medicinal  Chemistry 2008, 51, 3061–3064.</ref>
+
+==Medical uses==
+Vorapaxar is used for persons with a history of [[myocardial infarction]] (heart attack) or persons with [[peripheral arterial disease]]. Studies have shown that this medication can reduce the rate of combined endpoint cardiovascular death, MI, stroke, and urgent coronary revascularization.<ref name="zontivity"/>
+
+==Contraindications==
+Vorapaxar is contraindicated for people with a history of stroke, transient ischemic attack, or intracerebral hemorrhage.<ref name="zontivity"/>
+In studies of vorapaxar on persons with prior ischemic stroke, there was an increased risk of intracranial hemorrhage without an improvement in major vascular events. Vorapaxar possesses a long half life which is a problem because there is currently no treatment to reverse the antiplatelet effects of vorapaxar.<ref name="zontivity"/> Because of this, it is important that vorapaxar not be used in persons with history of stroke, transient ischemic attack, or intracranial hemorrhage, or active pathological bleeding. This family of medication, PAR-1 antagonists in general has been associated with an increased risk of intracranial bleeding demonstrated by a pooled analysis of data that studied 42000 patients with history of thrombotic vascular disease or acute coronary syndrome comparing the medication and a placebo.<ref>Morrow, David A., and Mark J. Alberts. "Efficacy and Safety of Vorapaxar in Patients With Prior 
+     Ischemic Stroke." Journal of the American Heart Association (2013): 691-98. American Heart 
+     Association. Web. 2 Nov. 2014. <http://stroke.ahajournals.org/content/44/3/ 
+     691.full.pdf+html>.</ref>
+
+==Drug interactions==
+Vorapaxar is eliminated primarily by metabolism by the CYP3A enzymes. It is best to avoid any strong CYP3A4 inhibitors(ex: ketoconazole, itraconazole, posaconazole, clarithromycin, nefazodone, ritonavir, saquinavir, nelfinavir, indinavir, boceprevir, telaprevir, telithromycin, and conivaptan). CYP3A4 inducers(Carbamazepine, rifampin, St. John's Wort, and Phenytoin) should also be avoided.<ref name="zontivity"/>
+
+==Dose adjustment==
+No dose adjustment is required in persons with renal impairment.<ref name="zontivity"/> 
+No dose adjustment is required in persons with mild and moderate hepatic impairment. If the person has severe hepatic impairment, vorapaxar is not recommended due to the risk of bleeding.<ref name="zontivity"/>
+
+==Mechanism of Action==
+Vorapaxar is a new anti-platelet drug that is part of the PAR-1 antagonist family, a new class of anti-platelet drug. It functions by inhibiting thrombin-related platelet aggregation. This mechanism works by a different pathway than other anti-platelet medications such as aspirin and P2Y12 inhibitors. Unlike many other medication, vorapaxar does not affect ADP-mediated platelet aggregation, coagulation parameters, or bleeding time.<ref>{{cite journal|last1=Baker|first1=NC|last2=Lipinski|first2=MJ|last3=Lhermusier|first3=T|last4=Waksman|first4=R|title=Overview of the 2014 food and drug administration cardiovascular and renal drugs advisory committee meeting about vorapaxar.|journal=Circulation|date=7 October 2014|volume=130|issue=15|pages=1287–94|pmid=25287768|doi=10.1161/circulationaha.114.011471}}</ref>
+
+==Storage==
+Vorapaxar can be stored at 20-25&nbsp;°C(68-77&nbsp;°F). It is best to store vorapaxar in original packaging with the bottle tightly closed and to avoid moisture.<ref name="zontivity"/>
+
+==History==
+In January 2011, clinical trials being conducted by Merck were halted for patients with stroke and mild heart conditions due to an increase in brain bleedings.<ref>[https://www.bloomberg.com/news/2011-01-13/merck-blood-thinner-study-ends-in-stroke-patients-limiting-possible-sales.html Merck Blood Thinner Studies Halted in Select Patients], ''[[Bloomberg News]]'', January 13, 2011</ref>  In a randomized double-blinded trial comparing vorapaxar with placebo in addition to standard therapy in 12,944 patients who had acute coronary syndromes, there was no significant reduction in a composite end point of death from cardiovascular causes, myocardial infarction, stroke, recurrent ischemia with rehospitalization, or urgent coronary revascularization.  However, there was increased risk of major bleeding.<ref name=Tricoci>{{cite journal|author= Tricoci|title=Thrombin-Receptor Antagonist Vorapaxar in Acute Coronary Syndromes|journal=New England Journal of Medicine|year=2012|doi =10.1056/NEJMoa1109719|volume= 366|pages= 20–33|pmid=22077816|issue=1|display-authors= 1|last2= Huang|first2= Z|last3= Held|first3= C|last4= Moliterno|first4= DJ|last5= Armstrong|first5= PW|last6= Van De Werf|first6= F|last7= White|first7= HD|last8= Aylward|first8= PE|last9= Wallentin|first9= L}}</ref> A trial published in February 2012, found no change in all cause mortality while decreasing the risk of cardiac death and increasing the risk of major bleeding, including intracranial hemorrhages. After two years, the data and safety monitoring board recommended discontinuation of the study treatment in people with a history of stroke owing to the risk of intracranial hemorrhage.
+
+TRA 2°P–TIMI 50 study of vorapaxar was carried out in patients who had previously experienced a heart attack, stroke, or who had peripheral arterial disease (PAD). In this three-year study in over 26,000 patients, the addition of vorapaxar to standard of care (aspirin and/or an ADP antagonist such as clopidogrel) significantly reduced the risk of the primary composite endpoint of cardiovascular death, heart attack, stroke or urgent coronary revascularization by 12 percent compared to placebo plus standard of care (11.2 percent vs. 12.4 percent, p = 0.001). Vorapaxar showed the most promising result among patients with a history of heart attack.  Among these patients the drug reduced the relative risk of CV death, heart attack or stroke by 20 percent.  There was an increase in moderate or severe bleeding, but no statistically significant increase in fatal bleeding.<ref>{{cite journal|vauthors = Morrow DA, Braunwald E, Bonaca MP, Ameriso SF, Dalby AJ, Fish MP, Fox KA, Lipka LJ, Liu X, Nicolau JC, Ophuis AJ, Paolasso E, Scirica BM, Spinar J, Theroux P, Wiviott SD, Strony J, Murphy SA, ((TRA 2P–TIMI 50 Steering Committee and, Investigators))|title=Vorapaxar in the secondary prevention of atherothrombotic events.|journal=The New England Journal of Medicine|date=Apr 12, 2012|volume=366|issue=15|pages=1404–13|pmid=22443427|doi=10.1056/NEJMoa1200933}}</ref>
+Vorapaxar was recommended for FDA approval on January 15, 2014.<ref name=Merck>{{cite web|title=Merck Statement on FDA Advisory Committee for Vorapaxar, Merck’s Investigational Antiplatelet Medicine|url=http://www.mercknewsroom.com/news-release/research-and-development-news/merck-statement-fda-advisory-committee-vorapaxar-mercks-i|publisher=Merck|accessdate=16 January 2014}}</ref>
+
+On May 5, 2014, vorapaxar obtained FDA approval.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{cite journal| author = Stu Borman | title = Hopes Ride on Drug Candidates: Researchers reveal potential new medicines for thrombosis, anxiety, diabetes, and cancer |url = http://pubs.acs.org/email/cen/html/021806150931.html |journal = [[Chemical & Engineering News]] | year = 2005 | volume = 83 |issue = 16 |pages = 40–44}}
+
+{{Antithrombotics}}
+
+[[Category:Carbamates]]
+[[Category:Pyridines]]
+[[Category:Fluoroarenes]]
+[[Category:Lactones]]

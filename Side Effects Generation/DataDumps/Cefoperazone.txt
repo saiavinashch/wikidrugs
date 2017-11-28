@@ -1,0 +1,79 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 443509478
+| IUPAC_name = (6''R'',7''R'')-7-[(2''R'')-2-{[(4-Ethyl-2,3-dioxopiperazin-1-yl)carbonyl]amino}-2-(4-hydroxyphenyl)acetamido]-3-{[(1-methyl-1''H''-1,2,3,4-tetrazol-5-yl)sulfanyl]methyl}-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+| image = Cefoperazone.svg
+| image2 = Cefoperazone ball-and-stick.png
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|cefoperazone}}
+| MedlinePlus = a601206
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion = Hepatic
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 62893-19-0
+| ATC_prefix = J01
+| ATC_suffix = DD12
+| ATC_supplemental = {{ATCvet|J51|DD12}}
+| PubChem = 44185
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01329
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 40206
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 7U75I1278D
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07645
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 507674
+<!--Chemical data-->
+| C=25 | H=27 | N=9 | O=8 | S=2
+| molecular_weight = 645.67 g/mol
+| smiles = O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)[C@@H](c3ccc(O)cc3)NC(=O)N4C(=O)C(=O)N(CC)CC4)CSc5nnnn5C)C(=O)O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C25H27N9O8S2/c1-3-32-8-9-33(21(39)20(32)38)24(42)27-15(12-4-6-14(35)7-5-12)18(36)26-16-19(37)34-17(23(40)41)13(10-43-22(16)34)11-44-25-28-29-30-31(25)2/h4-7,15-16,22,35H,3,8-11H2,1-2H3,(H,26,36)(H,27,42)(H,40,41)/t15-,16-,22-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GCFBRXLSHGKWDP-XCGNWRKASA-N
+}}
+
+'''Cefoperazone''' is a third-generation [[cephalosporin]] [[antibiotic]], marketed by [[Pfizer]] under the name '''Cefobid'''. It is one of few cephalosporin antibiotics effective in treating ''[[Pseudomonas]]'' bacterial infections which are otherwise resistant to these antibiotics.
+
+Cefoperazone is also sold as a co-formulation with [[sulbactam]]. Cefoperazone exerts its bactericidal effect by inhibiting the [[bacterial]] [[cell wall]] synthesis, and sulbactam acts as a beta-lactamase inhibitor, to increase the antibacterial activity of cefoperazone against beta-lactamase-producing organisms.
+
+==Spectrum of bacterial susceptibility==
+Cefoperazone has a broad spectrum of activity and has been used to target bacteria responsible for causing infections of the respiratory and urinary tract, skin, and the female genital tract. The following represents MIC susceptibility data for a few medically significant microorganisms. 
+* ''Haemophilus influenzae'': 0.12 - 0.25&nbsp;µg/ml 
+* ''Staphylococcus aureus'': 0.125 - 32&nbsp;µg/ml
+* ''Streptococcus pneumoniae'': ≤0.007 - 1&nbsp;µg/ml
+<ref>http://antibiotics.toku-e.com/antimicrobial_462_1.html</ref><ref>http://www.toku-e.com/Assets/MIC/Cefoperazone%20sodium.pdf</ref>
+
+==Adverse effects==
+Cefoperazone contains an ''N''-methylthiotetrazole (NMTT or 1-MTT) [[side chain]]. As the antibiotic is broken down in the body, it releases free NMTT, which can cause [[hypoprothrombinemia]] (likely due to [[enzyme inhibitor|inhibition]] of the [[enzyme]] [[vitamin K epoxide reductase]]) and a reaction with ethanol similar to that produced by [[disulfiram]] (Antabuse), due to inhibition of [[aldehyde dehydrogenase]].<ref name=Goldfrank>{{cite book |author=Stork CM |veditors=Nelson LH, Flomenbaum N, Goldfrank LR, Hoffman RL, Howland MD, Lewin NA |title=Goldfrank's toxicologic emergencies |chapter=Antibiotics, antifungals, and antivirals |chapterurl=https://books.google.com/books?id=cvJuLqBxGUcC&pg=PA847 |publisher=McGraw-Hill |location=New York |year=2006 |pages=847 |isbn=0-07-143763-0 |accessdate=2009-07-03}}</ref>
+
+==References==
+{{Reflist}}
+
+{{CephalosporinAntiBiotics}}
+
+[[Category:Acetaldehyde dehydrogenase inhibitors]]
+[[Category:Cephalosporin antibiotics]]
+[[Category:Tetrazoles]]
+[[Category:Piperazines]]
+[[Category:Phenols]]
+[[Category:Acetamides]]
+[[Category:Lactams]]
+[[Category:Pfizer products]]

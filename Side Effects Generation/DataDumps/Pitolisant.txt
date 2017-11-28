@@ -1,0 +1,83 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464208162
+| IUPAC_name = 1-[3-[3-(4-chlorophenyl)propoxy]propyl]piperidine
+| image = Pitolisant skeletal.svg
+| width = 250px
+
+<!--Clinical data-->
+| tradename = Wakix
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = 
+| legal_UK = 
+| legal_US = 
+| legal_status = 
+| routes_of_administration = [[Oral administration|Oral]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 362665-56-3
+| CAS_supplemental = <br />903576-44-3 ([[hydrochloride]])<br />362665-57-4 ([[oxalate]])
+| class = [[Histamine receptor|Histamine]] [[H3 receptor|H<sub>3</sub> receptor]] [[inverse agonist]]s
+| ATC_prefix = N07
+| ATC_suffix = XX11
+| ATC_supplemental = 
+| PubChem = 9948102
+| IUPHAR_ligand = 
+| DrugBank_Ref = 
+| DrugBank = 
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 8123714
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 4BC83L4PIY
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D10749
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 134709
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 462605
+| synonyms = Tiprolisant; Ciproxidine; BF2.649
+
+<!--Chemical data-->
+| C=17 | H=26 | Cl=1 | N=1 | O=1
+| molecular_weight = 295.851 g/mol
+| SMILES = C1CCN(CC1)CCCOCCCC2=CC=C(C=C2)Cl
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H26ClNO/c18-17-9-7-16(8-10-17)6-4-14-20-15-5-13-19-11-2-1-3-12-19/h7-10H,1-6,11-15H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = NNACHAUCXXVJSP-UHFFFAOYSA-N
+}}
+
+'''Pitolisant''' ({{abbrlink|INN|International Nonproprietary Name}}), also known as '''tiprolisant''' ({{abbrlink|USAN|United States Adopted Name}}), and sold under the brand name '''Wakix''', is a [[potency (pharmacology)|potent]] and [[binding selectivity|selective]] [[inverse agonist]] of the [[histamine]] [[histamine H3 receptor|H<sub>3</sub> receptor]] (K<sub>i</sub> = 0.16&nbsp;nM) which was approved for the treatment of [[narcolepsy]] in 2016.<ref name="AdisInsight">http://adisinsight.springer.com/drugs/800029451</ref><ref name="pmid27438291">{{cite journal | vauthors = Syed YY | title = Pitolisant: First Global Approval | journal = Drugs | volume = 76 | issue = 13 | pages = 1313–8 | year = 2016 | pmid = 27438291 | doi = 10.1007/s40265-016-0620-1 | url = }}</ref><ref name="pmid27787717">{{cite journal | vauthors = Schlicker E, Kathmann M | title = Role of the Histamine H3 Receptor in the Central Nervous System | journal = Handb Exp Pharmacol | volume = 241 | issue = | pages = 277–299 | year = 2017 | pmid = 27787717 | doi = 10.1007/164_2016_12 | url = }}</ref><ref name="pmid28490912">{{cite journal | vauthors = Calik MW | title = Update on the treatment of narcolepsy: clinical efficacy of pitolisant | journal = Nat Sci Sleep | volume = 9 | issue = | pages = 127–133 | year = 2017 | pmid = 28490912 | pmc = 5414617 | doi = 10.2147/NSS.S103462 | url = }}</ref> It is also currently in [[Phases of clinical research#Phase III|phase III]] [[clinical trial]]s for the treatment of [[hypersomnia]].<ref name="AdisInsight" />
+
+Pitolisant was developed by Jean-Charles Schwartz, Walter Schunack, and colleagues after the former discovered the H<sub>3</sub> receptor.<ref name="pmid21615387">{{cite journal | vauthors = Schwartz JC | title = The histamine H3 receptor: from discovery to clinical trials with pitolisant | journal = Br. J. Pharmacol. | volume = 163 | issue = 4 | pages = 713–21 | year = 2011 | pmid = 21615387 | pmc = 3111674 | doi = 10.1111/j.1476-5381.2011.01286.x | url = }}</ref> It was the first H<sub>3</sub> receptor inverse agonist to be tested in humans or introduced for clinical use.<ref name="pmid21615387" />
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://adisinsight.springer.com/drugs/800029451 Pitolisant - AdisInsight]
+
+
+{{Stimulants}}
+{{Histamine receptor modulators}}
+
+[[Category:Chloroarenes]]
+[[Category:Ethers]]
+[[Category:H3 receptor antagonists]]
+[[Category:Piperidines]]
+[[Category:Stimulants]]
+
+
+{{Nervous-system-drug-stub}}

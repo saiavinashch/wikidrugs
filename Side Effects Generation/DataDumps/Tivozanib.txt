@@ -1,0 +1,67 @@
+{{chembox
+| ImageFile = Tivozanib.svg
+| ImageSize = 200px
+| IUPACName = 1-{2-Chloro-4-[(6,7-dimethoxyquinolin-4-yl)oxy]phenyl}-3-(5-methylisoxazol-3-yl)urea
+| OtherNames = AV-951
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 172030934T
+| IUPHAR_ligand = 6058
+| CASNo =
+| PubChem = 9911830
+| ChemSpiderID = 8087481
+| ChEMBL = 1289494
+| KEGG = D09683
+| SMILES = O=C(Nc1noc(c1)C)Nc4ccc(Oc2c3cc(OC)c(OC)cc3ncc2)cc4Cl
+| InChI = InChI=1S/C22H19ClN4O5/c1-12-8-21(27-32-12)26-22(28)25-16-5-4-13(9-15(16)23)31-18-6-7-24-17-11-20(30-3)19(29-2)10-14(17)18/h4-11H,1-3H3,(H2,25,26,27,28)
+  }}
+|Section2={{Chembox Properties
+| C=22 | H=19 | Cl=1 | N=4 | O=5 
+| Appearance =
+| Density =
+| MeltingPt =
+| BoilingPt =
+| Solubility =
+  }}
+|Section3={{Chembox Hazards
+| MainHazards =
+| FlashPt =
+| AutoignitionPt =
+  }}
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = L01
+| ATCCode_suffix = XE34
+ }}
+}}
+
+'''Tivozanib''' (AV-951) is an oral [[VEGF receptor]] [[tyrosine kinase]] inhibitor. It completed a trial investigation for the treatment of [[renal cell carcinoma]]s.<ref> 
+Tivozanib is currently being evaluated in the pivotal Phase 3 TIVO-3 trial, a randomized, controlled, multi-center, open-label study to compare tivozanib to sorafenib in subjects with refractory advanced RCC. FDA approval is expected in 2018. [http://clinicaltrials.gov/ct2/show/NCT00502307 A Study of Tivozanib (AV-951), an Oral VEGF Receptor Tyrosine Kinase Inhibitor, in the Treatment of Renal Cell Carcinoma], clinicaltrials.gov</ref>  The results did not result in FDA approval.
+
+==Mechanism==
+An oral [[quinoline]] [[urea]] derivative, tivozanib suppresses [[angiogenesis]] by being selectively inhibitory against [[vascular endothelial growth factor]].<ref>{{cite journal | url = http://journals.prous.com/journals/servlet/xmlxsl/pk_journals.xml_summary_pr?p_JournalId=2&p_RefId=1417872&p_IsPs=N | title = Tivozanib | author = Campas, C., Bolos, J., Castaner, R | journal = Drugs Fut | year = 2009 | volume = 34 | issue = 10 | pages = 793}}</ref> It was developed by [[AVEO Pharmaceuticals]].<ref>[https://online.wsj.com/article/BT-CO-20100607-710196.html?mod=WSJ_latestheadlines Aveo Kidney Cancer Drug Shows Success; Shares Up], By John Kell, Dow Jones Newswires{{Dead link|date=May 2011}}</ref> It is designed to inhibit all three VEGF receptors.<ref name=Jan2012>{{cite news |url=http://www.genengnews.com/gen-news-highlights/phase-iii-results-lead-aveo-and-astellas-to-plan-regulatory-submissions-for-tivozanib/81246145/ |title=Phase III Results Lead Aveo and Astellas to Plan Regulatory Submissions for Tivozanib |date=3 Jan 2012 }}</ref>
+==Results==
+Phase III results on advanced renal cell carcinoma suggested a 30% or 3 months improvement in median [[Progression-free survival|PFS]] compared to [[sorafenib]] but showed an inferior overall survival rate of the experimental arm versus the control arm.<ref name=Jan2012/><ref name=FDArejects/>  The [[Food and Drug Administration]]'s Oncologic Drugs Advisory Committee voted in May 2013 13 to 1 against recommending approval of tivozanib for renal cell carcinoma. The committee felt the drug failed to show a favorable risk-benefit ratio and questioned the equipose of the trial design, which allowed control arm patients who used [[sorafenib]] to transition to tivozanib following progression disease but not those on the experimental arm using tivozanib to transition to [[sorafenib]].  The [[new drug application|application]] was formally rejected by the FDA in June 2013, saying that approval would require additional clinical studies.<ref name=FDArejects>{{cite web | url = http://www.medpagetoday.com/HematologyOncology/RenalCellCarcinoma/39736 | title = FDA Rejects Renal Cancer Drug Tivozanib | publisher = MedPage Today | date = June 30, 2013}}</ref>
+
+In 2016 AVEO Oncology published data in conjunction with the ASCO meeting showing a geographical location effect on Overall Survival in the Pivotal PhIII trial<ref>http://meetinglibrary.asco.org/content/165081-176</ref>
+
+In 2016 AVEO Oncology announced the start of a second Pivotal PhIII clinical study in Third Line advanced RCC patients. <ref>http://investor.aveooncology.com/phoenix.zhtml?c=219651&p=irol-newsArticle&ID=2172669</ref> 
+
+In 2016 EUSA Pharma and AVEO Oncology announced that Tivozanib had been submitted to the European Medicines Agency for review under the Centralised Procedure. <ref>http://www.eusapharma.com/files/EUSA-Pharma-file-tivozanib-in-EU-March-2016.pdf</ref>
+
+In June 2017 the EMA Scientific Committee recommended Tivozanib for approval in Europe, with approval expected in September.<ref>{{Cite news|url=http://www.marketwatch.com/story/aveo-pharma-surges-62-on-recommendation-for-european-approval-of-its-cancer-drug-2017-06-23-8914126|title=AVEO Pharma surges 48% on recommendation for European approval of its cancer drug|last=|first=|date=June 28, 2017|work=Market Watch|access-date=June 28, 2017|archive-url=|archive-date=|dead-url=}}</ref>
+
+==References==
+{{reflist}}
+
+{{Extracellular chemotherapeutic agents}}
+{{Growth factor receptor modulators}}
+
+[[Category:Angiogenesis inhibitors]]
+[[Category:Receptor tyrosine kinase inhibitors]]
+[[Category:Quinolines]]
+[[Category:Isoxazoles]]
+[[Category:Experimental cancer drugs]]
+[[Category:Phenol ethers]]
+[[Category:Ureas]]
+
+{{antineoplastic-drug-stub}}

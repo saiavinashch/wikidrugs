@@ -1,0 +1,78 @@
+{{chembox
+| Verifiedfields = changed
+| verifiedrevid = 443856387
+| ImageFile = Hexamidine.png
+| ImageSize = 250px
+| ImageName = Skeletal formula of hexamidine
+| ImageFile1 = Hexamidine-3D-balls.png
+| ImageSize1 = 250px
+| ImageName1 = Ball-and-stick model
+| IUPACName = 4,4'-[hexane-1,6-diyl''bis''(oxy)]dibenzenecarboximidamide
+| OtherNames = 4-[6-(4-carbamimidoylphenoxy)hexoxy]benzamidine
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 3483C2H13H
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 58639
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 87184
+| InChI = 1/C20H26N4O2/c21-19(22)15-5-9-17(10-6-15)25-13-3-1-2-4-14-26-18-11-7-16(8-12-18)20(23)24/h5-12H,1-4,13-14H2,(H3,21,22)(H3,23,24)
+| InChIKey = OQLKNTOKMBVBKV-UHFFFAOYAW
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 25105
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C20H26N4O2/c21-19(22)15-5-9-17(10-6-15)25-13-3-1-2-4-14-26-18-11-7-16(8-12-18)20(23)24/h5-12H,1-4,13-14H2,(H3,21,22)(H3,23,24)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OQLKNTOKMBVBKV-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo=3811-75-4
+| PubChem=65130
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB03808
+| SMILES = O(c1ccc(cc1)C(=[N@H])N)CCCCCCOc2ccc(C(=[N@H])N)cc2
+   }}
+|Section2={{Chembox Properties
+| Formula=C<sub>20</sub>H<sub>26</sub>N<sub>4</sub>O<sub>2</sub>
+| MolarMass=354.446
+| Appearance=
+| Density=
+| MeltingPt=
+| BoilingPt=
+| Solubility=
+  }}
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = D08
+| ATCCode_suffix = AC04
+| ATC_Supplemental = {{ATC|R01|AX07}} {{ATC|R02|AA18}} {{ATC|S01|AX08}} {{ATC|S03|AA05}}
+}}
+|Section7={{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| AutoignitionPt =
+  }}
+}}
+
+'''Hexamidine''' is an [[antiseptic]] and [[disinfectant]]. '''Hexomedine''' is the trade name of a diisethionate solution (1/1.000) of hexamidine.<ref>{{Cite journal 
+| doi = 10.1080/10915810701663168 
+| title = Final Report on the Safety Assessment of Hexamidine and Hexamidine Diisethionate 
+| journal = International Journal of Toxicology 
+| volume = 26 
+| issue = 3_suppl 
+| pages = 79–88 
+| year = 2007 
+| pmid = 18273451 
+| pmc = 
+}}</ref>
+
+
+==References==
+{{reflist}}
+
+{{Antiseptics and disinfectants}}
+
+[[Category:Antiseptics]]
+[[Category:Amidines]]
+[[Category:Phenol ethers]]
+
+
+{{dermatologic-drug-stub}}

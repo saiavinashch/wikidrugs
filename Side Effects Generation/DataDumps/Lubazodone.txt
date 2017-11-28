@@ -1,0 +1,63 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 444697864
+| IUPAC_name = (2''S'')-2-[(7-fluoro-2,3-dihydro-1''H''-inden-4-yl)oxymethyl]morpholine
+| image = Lubazodone.svg
+| width = 250px
+
+<!--Clinical data-->
+| tradename = 
+| pregnancy_category = 
+| legal_status = 
+| routes_of_administration = [[Oral administration|Oral]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 161178-07-0
+| ATC_prefix = None
+| ATC_suffix = 
+| PubChem = 157919
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 850TB2B172
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 138947
+| synonyms = YM-992; YM-35995
+
+<!--Chemical data-->
+| C=14 | H=18 | F=1 | N=1 | O=2 
+| molecular_weight = 251.296 g/mol
+| SMILES = C1CC2=C(C=CC(=C2C1)F)OC[C@@H]3CNCCO3
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C14H18FNO2/c15-13-4-5-14(12-3-1-2-11(12)13)18-9-10-8-16-6-7-17-10/h4-5,10,16H,1-3,6-9H2/t10-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = HTODIQZHVCHVGM-JTQLQIEISA-N
+}}
+
+'''Lubazodone''' (developmental code names '''YM-992''', '''YM-35995''') is an experimental [[antidepressant]] which was under development by [[Yamanouchi]] for the treatment for [[major depressive disorder]] in the late 1990s and early 2000s but was never marketed.<ref name="pmid17017959">{{cite journal | vauthors = Moltzen EK, Bang-Andersen B | title = Serotonin reuptake inhibitors: the corner stone in treatment of depression for half a century--a medicinal chemistry survey | journal = Curr Top Med Chem | volume = 6 | issue = 17 | pages = 1801–23 | year = 2006 | pmid = 17017959 | doi = | url = }}</ref><ref name="RankovicHargreaves2012">{{cite book|author1=Zoran Rankovic|author2=Richard Hargreaves|author3=Matilda Bingham|title=Drug Discovery for Psychiatric Disorders|url=https://books.google.com/books?id=e3YoDwAAQBAJ&pg=PA193|date=8 October 2012|publisher=Royal Society of Chemistry|isbn=978-1-84973-494-3|pages=193–}}</ref><ref name="AdisInsight">http://adisinsight.springer.com/drugs/800008166</ref> It acts as a [[serotonin reuptake inhibitor]] (K<sub>i</sub> for {{abbrlink|SERT|serotonin transporter}} = 21&nbsp;nM) and [[5-HT2A receptor|5-HT<sub>2A</sub> receptor]] [[receptor antagonist|antagonist]] (K<sub>i</sub> = 86&nbsp;nM), and hence has the profile of a [[serotonin antagonist and reuptake inhibitor]] (SARI).<ref name="pmid17017959" /><ref name="RankovicHargreaves2012" /> The drug has good [[binding selectivity|selectivity]] against a range of other [[monoamine receptor]]s, with its next highest [[affinity (pharmacology)|affinities]] being for the [[alpha-1 adrenergic receptor|α<sub>1</sub>-adrenergic receptor]] (K<sub>i</sub> = 200&nbsp;nM) and the [[5-HT2C receptor|5-HT<sub>2C</sub> receptor]] (K<sub>i</sub> = 680&nbsp;nM).<ref name="pmid17017959" /> Lubazodone is structurally related to [[trazodone]] and [[nefazodone]], but is a stronger serotonin reuptake inhibitor and weaker as a 5-HT<sub>2A</sub> receptor antagonist in comparison to them and is more balanced in its actions as a SARI.<ref name="pmid17017959" /><ref name="RankovicHargreaves2012" /> It reached [[Phases of clinical research#Phase II|phase II]] [[clinical trial]]s for depression,<ref name="AdisInsight" /> but development was discontinued in 2001 reportedly due to the "erosion of the {{abbrlink|SSRI|selective serotonin reuptake inhibitor}} market in the United States".<ref name="pmid17017959" />
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://adisinsight.springer.com/drugs/800008166 Lubazodone - AdisInsight]
+
+{{Monoamine reuptake inhibitors}}
+{{Serotonin receptor modulators}}
+
+[[Category:5-HT2A antagonists]]
+[[Category:Alpha-1 blockers]]
+[[Category:Antidepressants]]
+[[Category:Indanes]]
+[[Category:Morpholines]]
+[[Category:Organofluorides]]
+[[Category:Phenol ethers]]
+[[Category:Serotonin reuptake inhibitors]]
+
+
+{{nervous-system-drug-stub}}

@@ -1,0 +1,90 @@
+{{Drugbox
+| IUPAC_name = 2-Chloro-''N''-(4-chloro-3-pyridin-2-ylphenyl)-4-methylsulfonylbenzamide
+| image = Vismodegib2DACS.svg
+
+<!--Clinical data-->
+| pronounce = {{IPAc-en|ˌ|v|ɪ|s|m|oʊ|ˈ|d|ɛ|g|ɪ|b}} {{respell|VIS|moh|DEG|ib}}
+| tradename =  Erivedge
+| Drugs.com = {{Drugs.com|monograph|erivedge}}
+| licence_EU = Erivedge
+| licence_US = Vismodegib
+| pregnancy_AU = X <ref>{{Drugs.com|pro|erivedge}}</ref>
+| pregnancy_US = X <ref>{{Drugs.com|pro|erivedge}}</ref>
+| pregnancy_category =  
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status = 
+| routes_of_administration = [[Oral administration|By mouth]] ([[Capsule (pharmacy)|capsules]])
+
+<!-- Pharmacokinetic data -->
+| bioavailability = 31.8%
+| protein_bound = >99%
+| metabolism = <2% metabolised by [[CYP2C9]], [[CYP3A4]], [[CYP3A5]]
+| elimination_half-life = 4 days (continuous use),<br/>12 days (single dose)
+| excretion = Fecal (82%), Urinary (4.4%)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6975
+| CAS_number = 879085-55-9
+| ATC_prefix = L01
+| ATC_suffix = XX43
+| PubChem = 24776445
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 66903
+| ChEMBL = 473417
+| UNII = 25X868M3DS
+| DrugBank = DB08828
+| ChemSpiderID = 23337846
+| KEGG = D09992
+| synonyms = GDC-0449, RG-3616
+
+<!--Chemical data-->
+| C=19 | H=14 | Cl=2 | N=2 | O=3 | S=1 
+| molecular_weight = 421.30 g/mol
+| smiles = CS(=O)(=O)C1=CC(=C(C=C1)C(=O)NC2=CC(=C(C=C2)Cl)C3=CC=CC=N3)Cl
+| StdInChI = 1S/C19H14Cl2N2O3S/c1-27(25,26)13-6-7-14(17(21)11-13)19(24)23-12-5-8-16(20)15(10-12)18-4-2-3-9-22-18/h2-11H,1H3,(H,23,24)
+| StdInChIKey = BPQMGSKTAYIVFO-UHFFFAOYSA-N
+}}
+
+'''Vismodegib''' (trade name '''Erivedge''' {{IPAc-en|ˈ|ɛr|ɪ|v|ɛ|dʒ}} {{respell|ERR|i-vej}}) is a [[pharmaceutical drug|drug]] for the treatment of [[basal-cell carcinoma]] (BCC). The approval of vismodegib on January 30, 2012, represents the first [[Hedgehog signaling pathway]] targeting agent to gain U.S. [[Food and Drug Administration]] (FDA) approval.<ref>{{cite web | title=Vismodegib, First Hedgehog Inhibitor, Approved for BCC Patients | url=http://www.onclive.com/web-exclusives/Vismodegib-First-Hedgehog-Inhibitor-Approved-for-BCC-Patients-}}</ref> The drug is also undergoing clinical trials for metastatic [[colorectal cancer]], [[small-cell lung cancer]], advanced [[stomach cancer]], [[pancreatic cancer]], [[medulloblastoma]] and [[chondrosarcoma]] {{as of |2011|6|lc=on}}.<ref name="Prous" /> The drug was developed by the [[biotechnology]]/[[pharmaceutical drug|pharmaceutical]] company [[Genentech]], which is headquartered at [[South San Francisco, California]], [[United States|USA]].
+
+==Indication==
+Vismodegib is indicated for patients with [[basal cell carcinoma]] (BCC) which has metastasized to other parts of the body, relapsed after surgery, or cannot be treated with surgery or radiation.<ref>{{cite web |title=FDA approves Erivedge (vismodegib) capsule, the first medicine for adults with advanced basal cell carcinoma  | url=http://www.roche.com/media/media_releases/med-cor-2012-01-30.htm }}</ref><ref>{{cite book|last1=Lacroix|first1=Marc|title=Targeted Therapies in Cancer|date=2014|publisher=Nova Sciences Publishers|location=Hauppauge , NY|isbn=978-1-63321-687-7|url=https://www.novapublishers.com/catalog/product_info.php?products_id=50994}}</ref>
+
+==Mechanism of action==
+The substance acts as a [[cyclopamine]]-competitive [[receptor antagonist|antagonist]] of the [[smoothened]] receptor (SMO) which is part of the [[hedgehog signaling pathway]].<ref name="Prous" /> SMO inhibition causes the transcription factors [[GLI1]] and [[GLI2]] to remain inactive, which prevents the expression of tumor mediating genes within the hedgehog pathway.<ref>{{cite web | url=http://www.biooncology.com/pipeline-molecules/vismodegib/index.html | title=Vismodegib (GDC-0449) Smoothened Inhibitor - BioOncology}}</ref> This pathway is pathogenetically relevant in more than 90% of basal-cell carcinomas.<ref name="Spreitzer" />
+
+==Side effects==
+In clinical trials, common [[side effect|adverse effects]] included gastrointestinal disorders (nausea, vomiting, diarrhoea, constipation), muscle spasms, fatigue, hair loss, and [[dysgeusia]] (distortion of the sense of taste). The effects were mostly mild to moderate.<ref>{{Drugs.com|pro|erivedge}}</ref>
+
+==See also==
+* [[Cyclopamine]], a naturally occurring SMO antagonist
+
+==References==
+{{reflist|refs=
+<ref name="Spreitzer">{{cite journal
+ | author = H. Spreitzer
+ | date = 4 July 2011
+ | title = Neue Wirkstoffe – Vismodegib
+ | journal = Österreichische Apothekerzeitung
+ | issue = 14/2011
+ | pages = 10
+ | language = German
+}}</ref>
+<ref name="Prous">{{cite journal|url=http://www.prous.com/molecules/default.asp?ID=210|title=Molecule of the Month|date=June 2011}}</ref>
+}}
+
+== External links ==
+* [http://www.erivedge.com/ Erivedge (vismodegib) Official Web Site]
+* [http://www.nejm.org/doi/full/10.1056/NEJMoa1113713 Efficacy and Safety of Vismodegib]
+* [http://www.cancer.gov/about-cancer/treatment/drugs/fda-vismodegib Food and Drug Administration (FDA) approved vismodegib]
+
+{{Extracellular chemotherapeutic agents}}
+
+[[Category:Benzanilides]]
+[[Category:Chloroarenes]]
+[[Category:Pyridines]]
+[[Category:Sulfones]]
+[[Category:Teratogens]]

@@ -1,0 +1,233 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 459522704
+| IUPAC_name = 8-[4-(4-Pyrimidin-2-ylpiperazin-1-yl)butyl]-8-azaspiro[4.5]decane-7,9-dione
+| image = Buspirone 200.svg
+| width = 250px
+
+<!--Clinical data-->
+| pronounce = {{IPAc-en|ˈ|b|juː|s|p|ᵻ|r|oʊ|n}} ({{respell|BEW|spi-rohn}})
+| tradename = Buspar
+| Drugs.com = {{drugs.com|monograph|buspirone-hydrochloride}}
+| MedlinePlus = a688005
+| pregnancy_AU = B1
+| pregnancy_US = B
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = [[Oral administration|By mouth]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 3.9%<ref name="pmid22608068" />
+| protein_bound = 86–95%<ref name=MSR>{{cite web|title=buspirone (Rx) - BuSpar, Buspirex, more..|work=Medscape Reference|publisher=WebMD|url=http://reference.medscape.com/drug/buspar-buspirone-342913|accessdate=14 November 2013}}</ref>
+| metabolism = [[Hepatic]] (via [[CYP3A4]])<ref name="pmid10320950" /><ref name="pmid15640381">{{cite journal | vauthors = Zhu M, Zhao W, Jimenez H, Zhang D, Yeola S, Dai R, Vachharajani N, Mitroka J | title = Cytochrome P450 3A-mediated metabolism of buspirone in human liver microsomes | journal = Drug Metab. Dispos. | volume = 33 | issue = 4 | pages = 500–7 | year = 2005 | pmid = 15640381 | doi = 10.1124/dmd.104.000836 | url = }}</ref>
+| metabolites = 5-OH-Buspirone; 6-OH-Buspirone; 8-OH-Buspirone; {{abbrlink|1-PP|1-(2-pyrimidinyl)piperazine}}<ref name="pmid3515929" /><ref name="SchatzbergNemeroff2009" /><ref name="pmid17494642" />
+| elimination_half-life = 2.5&nbsp;hours<ref name="pmid10320950">{{cite journal | vauthors = Mahmood I, Sahajwalla C | title = Clinical pharmacokinetics and pharmacodynamics of buspirone, an anxiolytic drug | journal = Clin Pharmacokinet | volume = 36 | issue = 4 | pages = 277–87 | year = 1999 | pmid = 10320950 | doi = 10.2165/00003088-199936040-00003 | url = }}</ref>
+| excretion = [[Urine]]: 29–63%<ref name = MSR/><br />[[Feces]]: 18–38%<ref name = MSR/>
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 36505-84-7
+| CAS_supplemental = <br />33386-08-2 ([[hydrochloride]])
+| ATC_prefix = N05
+| ATC_suffix = BE01
+| PubChem = 2477
+| IUPHAR_ligand = 36
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00490
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2383
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = TK65WKS8HL
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07593
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 3223
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 49
+| synonyms = MJ 9022-1<ref name="Elks2014" />
+
+<!--Chemical data-->
+| C=21 | H=31 | N=5 | O=2
+| molecular_weight = 385.50314 g/mol
+| SMILES = O=C1N(CCCCN2CCN(CC2)C3=NC=CC=N3)C(CC4(CCCC4)C1)=O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H31N5O2/c27-18-16-21(6-1-2-7-21)17-19(28)26(18)11-4-3-10-24-12-14-25(15-13-24)20-22-8-5-9-23-20/h5,8-9H,1-4,6-7,10-17H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = QWCRAEMEVRGPNT-UHFFFAOYSA-N
+}}
+
+'''Buspirone''', sold under the brand name '''Buspar''', is an [[anxiolytic]] [[drug]] that is primarily used to treat [[generalized anxiety disorder]] (GAD).<ref>{{cite web| url=http://www.nami.org/Template.cfm?Section=Policymakers_Toolkit&Template=/ContentManagement/HTMLDisplay.cfm&ContentID=18971 | title=Commonly Prescribed Psychotropic Medications | publisher=NAMI | accessdate=25 June 2014}}</ref> It is also commonly used to [[augmentation (pharmacology)|augment]] [[antidepressant]]s in the treatment of [[major depressive disorder]].<ref name="pmid26535760" /> Unlike most anxiolytics, the [[pharmacology]] of buspirone is not related to that of [[benzodiazepine]]s, [[barbiturate]]s, or [[carbamate]]s (it is not a [[GABA receptor agonist]]), and so buspirone does not carry the risk of [[physical dependence]] and [[withdrawal symptom]]s for which those drug classes are known. Buspirone is not considered to be a drug-of-abuse, is safer in overdose than traditional [[anxiolytics]], and is significantly less impairing at therapeutic doses.
+
+{{TOC limit|3}}
+
+==Medical uses==
+
+===Anxiety===
+Buspirone is approved in the [[United States]] by the [[Food and Drug Administration]] (FDA) for the short- or long-term treatment of [[anxiety disorder]]s or can also be used for the short-term relief of the symptoms of anxiety.<ref name = DM>{{cite web|title=BUSPIRONE HCL (buspirone hydrochloride) tablet [Watson Laboratories, Inc.]|work=DailyMed|publisher=Watson Laboratories, Inc.|date=July 2013|accessdate=14 November 2013|url=http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a3fe0ccd-565f-4d0a-a7ba-2fad7a819358}}</ref> Likewise in [[Australia]], buspirone is licensed for the treatment of anxiety disorders.<ref name = TGA>{{cite web|title=BUSPAR® (buspirone hydrochloride) Tablets 5 mg & 10 mg PRODUCT INFORMATION|work=TGA eBusiness Services|publisher=Aspen Pharma Pty Ltd|date=January 2010|accessdate=14 November 2013|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2010-PI-03962-3|format=PDF}}</ref><ref name = AMH>{{cite book | title = Australian Medicines Handbook | year = 2013 | publisher = The Australian Medicines Handbook Unit Trust | isbn = 978-0-9805790-9-3 | edition = 2013 | place = Adelaide | editor = Rossi, S }}</ref> In the [[United Kingdom]], buspirone is indicated only for the short-term treatment of anxiety.<ref name = EMC>{{cite web|title=Buspirone 10mg Tablets|work=electronic Medicines Compendium|publisher=Actavis UK Ltd|date=10 September 2012|accessdate=14 November 2013|url=http://www.medicines.org.uk/emc/medicine/23859/SPC/Buspirone+10mg+Tablets/}}</ref><ref name=BNF>
+{{cite book | last1 = Joint Formulary Committee | title = British National Formulary (BNF) | publisher = Pharmaceutical Press | pages = 224 }}</ref>
+
+Buspirone has no immediate anxiolytic effects, and hence has a delayed [[onset of action]]; its full clinical effectiveness may require 2 to 4 weeks to manifest.<ref name="SadockSadock2014">{{cite book|author1=Benjamin J. Sadock|author2=Virginia A. Sadock|author3=Pedro Ruiz|title=Kaplan and Sadock's Synopsis of Psychiatry: Behavioral Sciences/Clinical Psychiatry|url=https://books.google.com/books?id=IzGYBAAAQBAJ&pg=PT3211|date=22 September 2014|publisher=Wolters Kluwer Health|isbn=978-1-4698-8375-5|pages=3211–}}</ref> The drug has been shown to be similarly effective in the treatment of GAD to [[benzodiazepine]]s including [[diazepam]], [[alprazolam]], [[lorazepam]], and [[clorazepate]].<ref name="pmid22608068" /> Buspirone is not known to be effective in the treatment of other [[anxiety disorder]]s besides GAD,<ref name="pmid26535760">{{cite journal | vauthors = Howland RH | title = Buspirone: Back to the Future | journal = J Psychosoc Nurs Ment Health Serv | volume = 53 | issue = 11 | pages = 21–4 | year = 2015 | pmid = 26535760 | doi = 10.3928/02793695-20151022-01 | url = }}</ref> although there is some limited evidence that it may be useful in the treatment of [[social phobia]] as an adjunct to [[selective serotonin reuptake inhibitor]]s (SSRIs).<ref name="pmid25225024">{{cite journal | vauthors = Masdrakis VG, Turic D, Baldwin DS | title = Pharmacological treatment of social anxiety disorder | journal = Mod Trends Pharmacopsychiatri | volume = 29 | issue = | pages = 144–53 | year = 2013 | pmid = 25225024 | doi = 10.1159/000351960 | url = }}</ref><ref name="pmid22608068" />
+
+===Depression===
+Although not approved for this indication, studies such as [[STAR*D]] have shown buspirone to be an effective [[augmentation (pharmacology)|augmentation]] agent alongside treatment with [[selective serotonin reuptake inhibitor]]s (SSRIs) for [[clinical depression]] and is also used to counter the [[sexual dysfunction]] ([[anorgasmia]] and [[erectile dysfunction]]) associated with SSRIs.<ref>{{cite web|title=The STAR*D Trial: First Results|url=http://pro.psychcentral.com/the-stard-trial-first-results/002745.html#|website=Psych Central|publisher=The Carlat Psychiaty Report|accessdate=15 September 2014}}</ref><ref>{{cite web |last=National Institute Of Health |url=http://www.nimh.nih.gov/trials/practical/stard/allmedicationlevels.shtml |title=Questions and Answers about the NIMH Sequenced Treatment Alternatives to Relieve Depression (STAR*D) Study — All Medication Levels |deadurl=no |accessdate=12 August 2012}}</ref><ref name="pmid16554526">{{cite journal | vauthors = Trivedi MH, Fava M, Wisniewski SR, Thase ME, Quitkin F, Warden D, Ritz L, Nierenberg AA, Lebowitz BD, Biggs MM, Luther JF, Shores-Wilson K, Rush AJ | title = Medication augmentation after the failure of SSRIs for depression | journal = The New England Journal of Medicine | volume = 354 | issue = 12 | pages = 1243–52 | date = March 2006 | pmid = 16554526 | doi = 10.1056/NEJMoa052964 }}</ref><ref name="pmid11465522">{{cite journal | vauthors = Appelberg BG, Syvälahti EK, Koskinen TE, Mehtonen OP, Muhonen TT, Naukkarinen HH | title = Patients with severe depression may benefit from buspirone augmentation of selective serotonin reuptake inhibitors: results from a placebo-controlled, randomized, double-blind, placebo wash-in study | journal = The Journal of Clinical Psychiatry | volume = 62 | issue = 6 | pages = 448–52 | date = June 2001 | pmid = 11465522 | doi = 10.4088/JCP.v62n0608 }}</ref> The drug has also been found to be effective in the treatment of depression as a standalone drug.<ref name="pmid26535760" />
+
+===Other uses===
+
+====Sexual dysfunction====
+There is some evidence that buspirone on its own may be useful in the treatment of [[hypoactive sexual desire disorder]] (HSDD) in women.<ref name="pmid27916394">{{cite journal | vauthors = Goldstein I, Kim NN, Clayton AH, DeRogatis LR, Giraldi A, Parish SJ, Pfaus J, Simon JA, Kingsberg SA, Meston C, Stahl SM, Wallen K, Worsley R | title = Hypoactive Sexual Desire Disorder: International Society for the Study of Women's Sexual Health (ISSWSH) Expert Consensus Panel Review | journal = Mayo Clin. Proc. | volume = 92 | issue = 1 | pages = 114–128 | year = 2017 | pmid = 27916394 | doi = 10.1016/j.mayocp.2016.09.018 | url = }}</ref>
+
+====ADHD====
+Several [[clinical trial]]s, most [[randomized controlled trial|randomized]] [[Blinded experiment#Double-blind trials|double-blind trials]] (and in one buspirone was used as an adjunct to [[atomoxetine]]) and one [[open-label trial|open-label]], have been conducted to evaluate the utility of buspirone in the treatment of [[attention deficit hyperactivity disorder]] (ADHD), with mostly positive results.<ref>{{cite journal | vauthors = Malhotra S, Santosh PJ | title = An open clinical trial of buspirone in children with attention-deficit/hyperactivity disorder | journal = Journal of the American Academy of Child and Adolescent Psychiatry | volume = 37 | issue = 4 | pages = 364–71 | date = April 1998 | pmid = 9549956 | doi = 10.1097/00004583-199804000-00013 }}</ref><ref>{{cite journal | vauthors = Mohammadi MR, Hafezi P, Galeiha A, Hajiaghaee R, Akhondzadeh S | title = Buspirone versus Methylphenidate in the Treatment of Children with Attention- Deficit/ Hyperactivity Disorder: Randomized Double-Blind Study | journal = Acta Medica Iranica | volume = 50 | issue = 11 | pages = 723–8 | date = November 2012 | pmid = 23292622 }}</ref><ref>{{cite journal | vauthors = Sutherland SM, Adler LA, Chen C, Smith MD, Feltner DE | title = An 8-week, randomized controlled trial of atomoxetine, atomoxetine plus buspirone, or placebo in adults with ADHD | journal = The Journal of Clinical Psychiatry | volume = 73 | issue = 4 | pages = 445–50 | date = April 2012 | pmid = 22313788 | doi = 10.4088/JCP.10m06788 }}</ref><ref>{{cite journal | vauthors = Davari-Ashtiani R, Shahrbabaki ME, Razjouyan K, Amini H, Mazhabdar H | title = Buspirone versus methylphenidate in the treatment of attention deficit hyperactivity disorder: a double-blind and randomized trial | journal = Child Psychiatry and Human Development | volume = 41 | issue = 6 | pages = 641–8 | date = December 2010 | pmid = 20517641 | doi = 10.1007/s10578-010-0193-2 | url = https://link.springer.com/content/pdf/10.1007/s10578-010-0193-2.pdf | format = PDF }}</ref>
+
+====Miscellaneous====
+Buspirone may be useful in the management of [[irritability]], [[psychomotor agitation|agitation]], and [[aggression]] in older patients with [[dementia]] and in pediatrics, although further research is necessary to more clearly establish its effectiveness.<ref name="pmid26535760" />
+
+Buspirone is not effective as a treatment for [[benzodiazepine withdrawal syndrome|benzodiazepine withdrawal]], [[barbiturate withdrawal]], or [[alcohol withdrawal]]/[[delirium tremens]].<ref>{{cite journal | vauthors = Sontheimer DL, Ables AZ | title = Is imipramine or buspirone treatment effective in patients wishing to discontinue long-term benzodiazepine use? | journal = The Journal of Family Practice | volume = 50 | issue = 3 | pages = 203 | date = March 2001 | pmid = 11252203 | doi = }}</ref>
+
+==Contraindications==
+Buspirone has these contraindications:<ref name=mono>{{cite web | url=http://www.drugs.com/pro/buspirone.html | title=Buspirone monograph | publisher=Drugs.com | accessdate=2011-08-27}}</ref><ref name="Gelder">{{cite book |author1=Geddes, John |author2=Gelder, Michael G. |author3=Mayou, Richard | title = Psychiatry | publisher = Oxford University Press | location = Oxford [Oxfordshire] | year = 2005 | page = 237 | isbn = 0-19-852863-9 | oclc = | doi = | accessdate = }}</ref>
+* Hypersensitivity to buspirone
+*[[Metabolic acidosis]], as in [[diabetes]]
+* Should not be used with MAO inhibitors
+* Severely compromised [[liver]] and/or [[renal]] function
+
+==Side effects==
+{{Main|List of side effects of buspirone}}
+
+Known [[side effect]]s associated with buspirone include [[dizziness]], [[headache]]s, [[nausea]], [[anxiety|nervousness]], and [[paresthesia]].<ref name="pmid22608068" /> Unlike benzodiazepines, buspirone is relatively [[tolerability|well-tolerated]], and is not associated with [[sedation]], [[cognitive impairment|cognitive]] and [[psychomotor retardation|psychomotor impairment]], [[muscle relaxation]], [[physical dependence]], or [[anticonvulsant]] effects.<ref name="pmid22608068" /> In addition, buspirone does not produce [[euphoria]],<ref name="SadockSadock2014" /> and is not a [[drug of abuse]].<ref name = TGA/>
+
+==Overdose==
+Buspirone appears to be relatively benign in cases of single-drug [[overdose]], although no definitive data on this subject appear to be available.<ref name="FultonBrogden1997">{{cite journal|last1=Fulton|first1=Bret|last2=Brogden|first2=Rex N.|title=Buspirone|journal=CNS Drugs|volume=7|issue=1|year=1997|pages=68–88|issn=1172-7047|doi=10.2165/00023210-199707010-00007}}</ref> In one [[clinical trial]], buspirone was administered to healthy male volunteers at a dosage of 375&nbsp;mg/day, and produced side effects including [[nausea]], [[vomiting]], [[dizziness]], [[drowsiness]], [[miosis]], and [[gastric distress]].<ref name=DM/><ref name=TGA/><ref name=EMC/> In early clinical trials, buspirone was given at dosages even as high as 2,400&nbsp;mg/day, with [[akathisia]], [[tremor]], and [[muscle rigidity]] observed.<ref name="Dart2004">{{cite book|author=Richard C. Dart|title=Medical Toxicology|url=https://books.google.com/books?id=BfdighlyGiwC&pg=PA886|year=2004|publisher=Lippincott Williams & Wilkins|isbn=978-0-7817-2845-4|pages=886–}}</ref> Deliberate overdoses with 250&nbsp;mg and up to 300&nbsp;mg buspirone have resulted in drowsiness in about 50% of individuals.<ref name="Dart2004" /> One death has been reported in association with 450&nbsp;mg buspirone together with [[alprazolam]], [[diltiazem]], [[alcohol (drug)|alcohol]], [[cocaine]].<ref name="Dart2004" />
+
+==Interactions==
+Buspirone has been shown ''in vitro'' to be [[metabolism|metabolized]] by the [[enzyme]] [[CYP3A4]].<ref name="pmid15640381" /> This finding is consistent with the ''in vivo'' interactions observed between buspirone and these inhibitors or inducers of [[cytochrome P450]] 3A4 (CYP3A4), among others:<ref name=mono/>
+
+* [[Itraconazole]]: Increased plasma level of buspirone
+* [[Rifampicin]]: Decreased plasma levels of buspirone
+* [[Nefazodone]]: Increased plasma levels of buspirone
+* [[Haloperidol]]: Increased plasma levels of haloperidol
+* [[Carbamazepine]]: Decreased plasma levels of buspirone
+* Grapefruit: Significantly increases the plasma levels of buspirone.<ref>{{cite journal | vauthors = Lilja JJ, Kivistö KT, Backman JT, Lamberg TS, Neuvonen PJ | title = Grapefruit juice substantially increases plasma concentrations of buspirone | journal = Clinical Pharmacology and Therapeutics | volume = 64 | issue = 6 | pages = 655–60 | date = December 1998 | pmid = 9871430 | pmc =  | doi = 10.1016/S0009-9236(98)90056-X }}</ref> See [[grapefruit–drug interactions]].
+
+[[Hypertension|Elevated blood pressure]] has been reported when buspirone has been administered to patients taking [[monoamine oxidase inhibitor]]s (MAOIs).<ref name=mono/>
+
+==Pharmacology==
+
+===Pharmacodynamics===
+{| class="wikitable floatright"
+|+ Buspirone<ref name="PDSP">{{cite web | title = PDSP K<sub>i</sub> Database | work = Psychoactive Drug Screening Program (PDSP) | author1 = Roth, BL | author2 = Driscol, J | publisher = University of North Carolina at Chapel Hill and the United States National Institute of Mental Health | accessdate = 14 August 2017 | url = https://pdsp.unc.edu/databases/pdsp.php?knowID=0&kiKey=&receptorDD=&receptor=&speciesDD=&species=&sourcesDD=&source=&hotLigandDD=&hotLigand=&testLigandDD=&testFreeRadio=testFreeRadio&testLigand=buspirone&referenceDD=&reference=&KiGreater=&KiLess=&kiAllRadio=all&doQuery=Submit+Query}}</ref>
+|-
+! Site !! K<sub>i</sub> (nM) !! Species !! Ref
+|-
+| '''[[5-HT1A receptor|5-HT<sub>1A</sub>]]''' || '''3.98–214'''<br />'''21 (median)''' || '''Human''' || <ref name="pmid7984267">{{cite journal | vauthors = Boess FG, Martin IL | title = Molecular biology of 5-HT receptors | journal = Neuropharmacology | volume = 33 | issue = 3-4 | pages = 275–317 | year = 1994 | pmid = 7984267 | doi = | url = }}</ref><br /><ref name="PDSP" />
+|-
+| [[5-HT1B receptor|5-HT<sub>1B</sub>]] || >100,000 || Rat || <ref name="pmid1974152">{{cite journal | vauthors = Hamik A, Oksenberg D, Fischette C, Peroutka SJ | title = Analysis of tandospirone (SM-3997) interactions with neurotransmitter receptor binding sites | journal = Biol. Psychiatry | volume = 28 | issue = 2 | pages = 99–109 | year = 1990 | pmid = 1974152 | doi = | url = }}</ref>
+|-
+| [[5-HT1D receptor|5-HT<sub>1D</sub>]] || 22,000–42,700 || Human || <ref name="pmid2521959">{{cite journal | vauthors = Peroutka SJ, Switzer JA, Hamik A | title = Identification of 5-hydroxytryptamine1D binding sites in human brain membranes | journal = Synapse | volume = 3 | issue = 1 | pages = 61–6 | year = 1989 | pmid = 2521959 | doi = 10.1002/syn.890030109 | url = }}</ref><ref name="pmid2975354">{{cite journal | vauthors = Waeber C, Schoeffter P, Palacios JM, Hoyer D | title = Molecular pharmacology of 5-HT1D recognition sites: radioligand binding studies in human, pig and calf brain membranes | journal = Naunyn Schmiedebergs Arch. Pharmacol. | volume = 337 | issue = 6 | pages = 595–601 | year = 1988 | pmid = 2975354 | doi = | url = }}</ref>
+|-
+| '''[[5-HT2A receptor|5-HT<sub>2A</sub>]]''' || '''138'''<br />759–1,300 || '''Human'''<br />Rat || <ref name="pmid9225287">{{cite journal | vauthors = Bonhaus DW, Weinhardt KK, Taylor M, DeSouza A, McNeeley PM, Szczepanski K, Fontana DJ, Trinh J, Rocha CL, Dawson MW, Flippin LA, Eglen RM | title = RS-102221: a novel high affinity and selective, 5-HT2C receptor antagonist | journal = Neuropharmacology | volume = 36 | issue = 4-5 | pages = 621–9 | year = 1997 | pmid = 9225287 | doi = | url = }}</ref><br /><ref name="pmid9225287" /><ref name="pmid1974152" />
+|-
+| '''[[5-HT2B receptor|5-HT<sub>2B</sub>]]''' || '''214''' || '''Human''' || <ref name="pmid9225287" />
+|-
+| '''[[5-HT2C receptor|5-HT<sub>2C</sub>]]''' || '''490'''<br />1,100–6,026 || '''Human'''<br />Rat/pig || <ref name="pmid9225287" /><br /><ref name="pmid9225287" /><ref name="pmid1974152" />
+|-
+| [[5-HT3 receptor|5-HT<sub>3</sub>]] || >10,000 || Rat || <ref name="pmid2543418">{{cite journal | vauthors = Nelson DR, Thomas DR | title = [3H]-BRL 43694 (Granisetron), a specific ligand for 5-HT3 binding sites in rat brain cortical membranes | journal = Biochem. Pharmacol. | volume = 38 | issue = 10 | pages = 1693–5 | year = 1989 | pmid = 2543418 | doi = | url = }}</ref><ref name="pmid8584042">{{cite journal | vauthors = Borsini F, Giraldo E, Monferini E, Antonini G, Parenti M, Bietti G, Donetti A | title = BIMT 17, a 5-HT2A receptor antagonist and 5-HT1A receptor full agonist in rat cerebral cortex | journal = Naunyn Schmiedebergs Arch. Pharmacol. | volume = 352 | issue = 3 | pages = 276–82 | year = 1995 | pmid = 8584042 | doi = | url = }}</ref>
+|-
+| [[5-HT4 receptor|5-HT<sub>4</sub>]] || >10,000 || Rat || <ref name="pmid8584042" />
+|-
+| '''[[5-HT6 receptor|5-HT<sub>6</sub>]]''' || '''398''' || '''Mouse''' || <ref name="pmid8394987">{{cite journal | vauthors = Plassat JL, Amlaiky N, Hen R | title = Molecular cloning of a mammalian serotonin receptor that activates adenylate cyclase | journal = Mol. Pharmacol. | volume = 44 | issue = 2 | pages = 229–36 | year = 1993 | pmid = 8394987 | doi = | url = }}</ref>
+|-
+| '''[[5-HT7 receptor|5-HT<sub>7</sub>]]''' || '''375–381''' || '''Rat''' || <ref name="pmid8398139">{{cite journal | vauthors = Lovenberg TW, Baron BM, de Lecea L, Miller JD, Prosser RA, Rea MA, Foye PE, Racke M, Slone AL, Siegel BW | title = A novel adenylyl cyclase-activating serotonin receptor (5-HT7) implicated in the regulation of mammalian circadian rhythms | journal=Neuron| volume = 11 | issue = 3 | pages = 449–58 | year = 1993 | pmid = 8398139 | doi = | url = }}</ref><ref name="pmid8397408">{{cite journal | vauthors = Ruat M, Traiffort E, Leurs R, Tardivel-Lacombe J, Diaz J, Arrang JM, Schwartz JC | title = Molecular cloning, characterization, and localization of a high-affinity serotonin receptor (5-HT7) activating cAMP formation | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 90 | issue = 18 | pages = 8547–51 | year = 1993 | pmid = 8397408 | pmc = 47394 | doi = | url = }}</ref>
+|-
+| [[Alpha-1 adrenergic receptor|α<sub>1</sub>]] || 1,000 || Rat || <ref name="pmid1974152" />
+|-
+| [[Alpha-2 adrenergic receptor|α<sub>2</sub>]] || 6,000 || Rat || <ref name="pmid1681447">{{cite journal | vauthors = Blier P, Curet O, Chaput Y, de Montigny C | title = Tandospirone and its metabolite, 1-(2-pyrimidinyl)-piperazine--II. Effects of acute administration of 1-PP and long-term administration of tandospirone on noradrenergic neurotransmission | journal = Neuropharmacology | volume = 30 | issue = 7 | pages = 691–701 | year = 1991 | pmid = 1681447 | doi = | url = }}</ref>
+|-
+| &nbsp;&nbsp;'''[[Alpha-2A adrenergic receptor|α<sub>2A</sub>]]''' || '''7.3 ({{abbrlink|1-PP|1-(2-Pyrimidinyl)piperazine}})''' || '''Human''' || <ref name="pmid1974152" />
+|-
+| [[Beta-adrenergic receptor|β]] || 8,800 || Rat || <ref name="pmid1974152" />
+|-
+| [[D1 receptor|D<sub>1</sub>]] || 33,000 || Rat || <ref name="pmid1974152" />
+|-
+| '''[[D2 receptor|D<sub>2</sub>]]''' || '''484'''<br />'''240''' || '''Human'''<br />'''Rat''' || <ref name="pmid22827916">{{cite journal | vauthors = Bergman J, Roof RA, Furman CA, Conroy JL, Mello NK, Sibley DR, Skolnick P | title = Modification of cocaine self-administration by buspirone (buspar®): potential involvement of D3 and D4 dopamine receptors | journal = Int. J. Neuropsychopharmacol. | volume = 16 | issue = 2 | pages = 445–58 | year = 2013 | pmid = 22827916 | pmc = 5100812 | doi = 10.1017/S1461145712000661 | url = }}</ref><br /><ref name="pmid1974152" />
+|-
+| '''[[D3 receptor|D<sub>3</sub>]]''' || '''98''' || '''Human''' || <ref name="pmid22827916" />
+|-
+| '''[[D4 receptor|D<sub>4</sub>]]''' || '''29''' || '''Human''' || <ref name="pmid22827916" />
+|-
+| {{abbrlink|mACh|Muscarinic acetylcholine receptor}} || 38,000 || Rat || <ref name="pmid1974152" />
+|-
+|[[GABAA receptor#Benzodiazepine site|GABA<sub>A</sub><br />({{abbr|BDZ|Benzodiazepine site}})]] || >100,000 || Rat || <ref name="pmid1974152" />
+|- class="sortbottom"
+| colspan="4" style="width: 1px;" | Values are K<sub>i</sub> (nM). The smaller the value, the more strongly the drug binds to the site.
+|}
+
+Buspirone acts as an [[agonist]] of the [[serotonin]] [[5-HT1A receptor|5-HT<sub>1A</sub> receptor]] with high [[affinity (pharmacology)|affinity]].<ref name="pmid22608068">{{cite journal | vauthors = Loane C, Politis M | title = Buspirone: what is it all about? | journal = Brain Research | volume = 1461 | issue = | pages = 111–8 | year = 2012 | pmid = 22608068 | doi = 10.1016/j.brainres.2012.04.032 }}</ref><ref name="pmid1974152" /> It is a preferential [[full agonist]] of [[presynaptic]] 5-HT<sub>1A</sub> receptors, which are inhibitory [[autoreceptor]]s, and a [[partial agonist]] of [[postsynaptic]] 5-HT<sub>1A</sub> receptors.<ref name="pmid22608068" /> In accordance, an [[animal study]] found that buspirone dose-dependently decreases [[serotonin]] levels in specific brain areas while increasing [[dopamine]] and [[norepinephrine]] levels.<ref name="pmid22608068" /> It is thought that the main effects of buspirone are mediated via its interaction with the 5-HT<sub>1A</sub> receptor.<ref name="pmid22608068" /> Some of its effects may be mediated via [[oxytocin]] release secondary to 5-HT<sub>1A</sub> receptor agonism.<ref name="pmid9025112">{{cite journal | vauthors = Uvnäs-Moberg K, Hillegaart V, Alster P, Ahlenius S | title = Effects of 5-HT agonists, selective for different receptor subtypes, on oxytocin, CCK, gastrin and somatostatin plasma levels in the rat | journal = Neuropharmacology | volume = 35 | issue = 11 | pages = 1635–40 | year = 1996 | pmid = 9025112 | doi = 10.1016/S0028-3908(96)00078-0 }}</ref><ref name="pmid8771561">{{cite journal | vauthors = Chiodera P, Volpi R, Capretti L, Caffarri G, Magotti MG, Coiro V | title = Different effects of the serotonergic agonists buspirone and sumatriptan on the posterior pituitary hormonal responses to hypoglycemia in humans | journal = Neuropeptides | volume = 30 | issue = 2 | pages = 187–92 | date = April 1996 | pmid = 8771561 | doi = 10.1016/S0143-4179(96)90086-4 }}</ref>{{Primary source inline|date=March 2017}} Buspirone also has lower affinity for the serotonin [[5-HT2A receptor|5-HT<sub>2A</sub>]], [[5-HT2B receptor|5-HT<sub>2B</sub>]], [[5-HT2C receptor|5-HT<sub>2C</sub>]], [[5-HT6 receptor|5-HT<sub>6</sub>]], and [[5-HT7 receptor|5-HT<sub>7</sub> receptor]]s.<ref name="PDSP" />
+
+In addition to binding to serotonin receptors, buspirone is an antagonist of the [[dopamine]] [[D2 receptor|D<sub>2</sub> receptor]] with weak affinity.<ref name="pmid22608068" /><ref name="pmid1974152" /> It preferentially blocks inhibitory presynaptic D<sub>2</sub> autoreceptors, and antagonizes postsynaptic D<sub>2</sub> receptors only at higher doses.<ref name="pmid22608068" /> In accordance, buspirone has been found to increase [[dopaminergic]] [[neurotransmission]] in the [[nigrostriatal pathway]] at low doses, whereas at higher doses, postsynaptic D<sub>2</sub> receptors are blocked and [[dopamine antagonist|antidopaminergic]] effects such as [[hypoactivity]] and reduced [[stereotypy]], though notably not [[catalepsy]], are observed in animals.<ref name="pmid22608068" /> Buspirone has also been found to bind with much higher affinity to the dopamine [[D3 receptor|D<sub>3</sub>]] and [[D4 receptor|D<sub>4</sub> receptor]]s, where it is similarly an antagonist.<ref name="pmid22827916" />
+
+A major [[metabolite]] of buspirone, [[1-(2-pyrimidinyl)piperazine]] (1-PP), occurs at higher circulating levels than buspirone itself, and is known to act as a potent [[alpha-2 adrenergic receptor|α<sub>2</sub>-adrenergic receptor]] antagonist.<ref name="pmid1681447" /><ref name="pmid1796057">{{cite journal | vauthors = Tunnicliff G | title = Molecular basis of buspirone's anxiolytic action | journal = Pharmacol. Toxicol. | volume = 69 | issue = 3 | pages = 149–56 | year = 1991 | pmid = 1796057 | doi = | url = }}</ref><ref name="pmid12438536">{{cite journal | vauthors = Zuideveld KP, Rusiç-Pavletiç J, Maas HJ, Peletier LA, Van der Graaf PH, Danhof M | title = Pharmacokinetic-pharmacodynamic modeling of buspirone and its metabolite 1-(2-pyrimidinyl)-piperazine in rats | journal = J. Pharmacol. Exp. Ther. | volume = 303 | issue = 3 | pages = 1130–7 | year = 2002 | pmid = 12438536 | doi = 10.1124/jpet.102.036798 | url = }}</ref> It may be responsible for the increased [[noradrenergic]] and [[dopaminergic]] activity observed with buspirone in animals.<ref name="pmid1796057" /><ref name="pmid17700052" /> In addition, 1-PP may play an important role in the antidepressant effects of buspirone.<ref name="pmid17700052">{{cite journal | vauthors = Fava M | title = The combination of buspirone and bupropion in the treatment of depression | journal = Psychother Psychosom | volume = 76 | issue = 5 | pages = 311–2 | year = 2007 | pmid = 17700052 | doi = 10.1159/000104708 | url = }}</ref> Buspirone also has very weak and probably clinically unimportant affinity for the [[alpha-1 adrenergic receptor|α<sub>1</sub>-adrenergic receptor]].<ref name="pmid1974152" /><ref name="SternFava2015">{{cite book |author1= Theodore A. Stern |author2=Maurizio Fava |author3= Timothy E. Wilens |author4= Jerrold F. Rosenbaum |title= Massachusetts General Hospital Psychopharmacology and Neurotherapeutics E-Book |url= https://books.google.com/books?id=CCZ1CQAAQBAJ&pg=PA29|date=27 April 2015 |publisher= Elsevier Health Sciences |isbn= 978-0-323-41323-7 |pages=29–}}</ref> Notably, buspirone has been reported to have shown "significant and selective intrinsic efficacy" at the α<sub>1</sub>-adrenergic receptor expressed in a "tissue- and species-dependent".<ref name="SternFava2015" />
+
+Unlike benzodiazepines, buspirone does not interact with the [[GABAA receptor|GABA<sub>A</sub> receptor]] complex.<ref name="pmid22608068" /><ref name="NuttBallenger2008">{{cite book|author1=David J. Nutt|author2=James C. Ballenger|title=Anxiety Disorders|url=https://books.google.com/books?id=swAE2bRjV8UC&pg=PT395|date=15 April 2008|publisher=John Wiley & Sons|isbn=978-0-470-98683-7|pages=395–}}</ref>
+
+===Pharmacokinetics===
+Buspirone has a low [[oral administration|oral]] [[bioavailability]] of 3.9% relative to [[intravenous injection]] due to extensive [[first-pass metabolism]].<ref name="pmid22608068" /> The [[Tmax (pharmacology)|time to peak plasma levels]] following ingestion is 0.9 to 1.5&nbsp;hours.<ref name="pmid22608068" /> It is reported to have an [[elimination half-life]] of 2.8&nbsp;hours,<ref name="pmid22608068" /> although a review of 14 studies found that the mean terminal half-life ranged between 2 and 11&nbsp;hours, and one study even reported a terminal half-life of 33&nbsp;hours.<ref name="pmid3515929">{{cite journal | vauthors = Gammans RE, Mayol RF, LaBudde JA | title = Metabolism and disposition of buspirone | journal = Am. J. Med. | volume = 80 | issue = 3B | pages = 41–51 | year = 1986 | pmid = 3515929 | doi = | url = }}</ref> Buspirone is [[metabolism|metabolized]] primarily by [[CYP3A4]], and prominent [[drug interaction]]s with [[enzyme inhibitor|inhibitor]]s and [[enzyme inducer|inducer]]s of this [[enzyme]] have been observed.<ref name="pmid10320950" /><ref name="pmid15640381" /> Major [[metabolite]]s of buspirone include 5-hydroxybuspirone, 6-hydroxybuspirone, 8-hydroxybuspirone, and 1-PP.<ref name="pmid3515929" /><ref name="SchatzbergNemeroff2009" /><ref name="pmid17494642">{{cite journal | vauthors = Wong H, Dockens RC, Pajor L, Yeola S, Grace JE, Stark AD, Taub RA, Yocca FD, Zaczek RC, Li YW | title = 6-Hydroxybuspirone is a major active metabolite of buspirone: assessment of pharmacokinetics and 5-hydroxytryptamine1A receptor occupancy in rats | journal = Drug Metab. Dispos. | volume = 35 | issue = 8 | pages = 1387–92 | year = 2007 | pmid = 17494642 | doi = 10.1124/dmd.107.015768 | url = }}</ref> 6-Hydroxybuspirone has been identified as the predominant [[liver|hepatic]] metabolite of buspirone, with plasma levels that are 40-fold greater than those of buspirone after oral administration of buspirone to humans.<ref name="SchatzbergNemeroff2009">{{cite book|author1=Alan F. Schatzberg|author2=Charles B. Nemeroff|title=The American Psychiatric Publishing Textbook of Psychopharmacology|url=https://books.google.com/books?id=Xx7iNGdV25IC&pg=PA490|year=2009|publisher=American Psychiatric Pub|isbn=978-1-58562-309-9|pages=490–}}</ref> The metabolite is a high-affinity partial agonist of the 5-HT<sub>1A</sub> receptor (K<sub>i</sub> = 25&nbsp;nM) similarly to buspirone, and has demonstrated occupancy of the 5-HT<sub>1A</sub> receptor ''[[in vivo]]''.<ref name="SchatzbergNemeroff2009" /> As such, it is likely to play an important role in the therapeutic effects of buspirone.<ref name="SchatzbergNemeroff2009" /> 1-PP has also been found to circulate at higher levels than those of buspirone itself and may similarly play a significant role in the clinical effects of buspirone.<ref name="pmid1796057" /><ref name="pmid17700052" />
+
+[[File:Buspirone metabolism.png|1000px|thumb|center|[[Drug metabolism|Phase I Metabolism]] of buspirone in humans.<ref>{{cite journal|last1=Dockens|first1=RC|last2=Salazar|first2=DE|last3=Fulmor|first3=IE|last4=Wehling|first4=M|last5=Arnold|first5=ME|last6=Croop|first6=R|title=Pharmacokinetics of a newly identified active metabolite of buspirone after administration of buspirone over its therapeutic dose range.|journal=Journal of clinical pharmacology|date=November 2006|volume=46|issue=11|pages=1308–12|doi=10.1177/0091270006292250|pmid=17050795}}</ref><ref>{{cite journal|last1=Jajoo|first1=HK|last2=Mayol|first2=RF|last3=LaBudde|first3=JA|last4=Blair|first4=IA|title=Metabolism of the antianxiety drug buspirone in human subjects.|journal=Drug metabolism and disposition: the biological fate of chemicals|year=1989|volume=17|issue=6|pages=634–40|pmid=2575499}}</ref><ref>{{cite journal|last1=Zhu|first1=M|last2=Zhao|first2=W|last3=Jimenez|first3=H|last4=Zhang|first4=D|last5=Yeola|first5=S|last6=Dai|first6=R|last7=Vachharajani|first7=N|last8=Mitroka|first8=J|title=Cytochrome P450 3A-mediated metabolism of buspirone in human liver microsomes.|journal=Drug metabolism and disposition: the biological fate of chemicals|date=April 2005|volume=33|issue=4|pages=500–7|doi=10.1124/dmd.104.000836|pmid=15640381}}</ref>]]
+
+==Chemistry==
+Buspirone is a member of the [[azapirone]] [[chemical class]], and consists of [[azaspirodecanedione]] and [[pyrimidinylpiperazine]] components linked together by a [[butyl group|butyl]] [[side chain|chain]].
+
+===Analogues===
+[[Structural analogue]]s of buspirone include other azapirones like [[gepirone]], [[ipsapirone]], [[perospirone]], and [[tandospirone]].<ref name="pmid1679210">{{cite journal | vauthors = Taylor DP, Moon SL | title = Buspirone and related compounds as alternative anxiolytics | journal = Neuropeptides | volume = 19 Suppl | issue = | pages = 15–9 | year = 1991 | pmid = 1679210 | doi = | url = }}</ref>
+
+===Synthesis===
+[[File:Buspirone-synthesis.svg|700px|thumb|center|Buspirone synthesis:<ref>{{cite journal | vauthors = Allen LE, Ferguson HC, Kissel JW | title = Psychosedative agents. 2. 8-(4-Substituted 1-piperazinylalkyl)-8-azaspiro(4.5)decane-7,9-diones | journal = Journal of Medicinal Chemistry | volume = 15 | issue = 5 | pages = 477–9 | date = May 1972 | pmid = 5035267 | doi = 10.1021/jm00275a009 }}</ref> {{Cite patent|DE|2057845}} {{US patent|3717634}} {{US patent|3907801}} {{US patent|3976776}}]]
+
+Alkylation of 1-(2-pyrimidyl)piperazine ('''1''') with 3-chloro-1-cyanopropane ('''2''', 4-chlorobutyronitrile) gives '''3''', which is reduced either by [[hydrogenation]] over [[Raney nickel]] catalyst, or with [[Lithium aluminum hydride|LAH]]. The resulting 1° amine ('''4''') from the previous step is then reacted with 3,3-tetramethyleneglutaric anhydride ('''5''', 8-Oxaspiro[4.5]decane-7,9-dione) in order to yield buspirone ('''6''').
+
+==History==
+Buspirone was first [[chemical synthesis|synthesized]], by a team at [[Mead Johnson]], in 1968,<ref name="pmid26535760" /> but was not patented until 1975.<ref>{{cite journal | vauthors=((Wu Y-H)), Rayburn LE, Ferguson JW | year = 1972 | title = Psychosedative agents. 2. 8-(4-Substituted 1-piperazinylalkyl)-8-azaspiro[4.5]decane-7,9-diones | url = | journal = J. Med. Chem. | volume = 15 | issue = 5| pages = 477–479 | doi=10.1021/jm00275a009 | pmid=5035267}}</ref><ref>US Patent 3907801 N-(8 (4-pyridyl-piperazino)-alkyl(9 -azaspiroalkanediones</ref>{{Additional citation needed|date=March 2017}} It was initially developed as an [[antipsychotic]] [[drug]] acting on the D<sub>2</sub> receptor, but was found to be ineffective in the treatment of [[psychosis]] and was repurposed as an anxiolytic.<ref name="pmid22608068" /> In 1986, [[Bristol-Myers Squibb]] gained FDA approval for buspirone in the treatment of GAD.<ref name="pmid26535760" /> The [[patent]] placed on buspirone expired in 2001 and it is now available as a [[generic drug]].
+
+==Society and culture==
+[[File:Buspar.jpg|thumb|Buspar (buspirone) 10-mg tablets.]]
+
+===Generic names===
+''Buspirone'' is the {{abbrlink|INN|International Nonproprietary Name}}, {{abbrlink|BAN|British Approved Name}}, {{abbrlink|DCF|Dénomination Commune Française}}, and {{abbrlink|DCIT|Denominazione Comune Italiana}} of buspirone, while ''buspirone hydrochloride'' is its {{abbrlink|USAN|United States Adopted Name}}, {{abbrlink|BANM|British Approved Name}}, and {{abbrlink|JAN|Japanese Accepted Name}}.<ref name="Elks2014">{{cite book|author=J. Elks|title=The Dictionary of Drugs: Chemical Data: Chemical Data, Structures and Bibliographies|url=https://books.google.com/books?id=0vXTBwAAQBAJ&pg=PA192|date=14 November 2014|publisher=Springer|isbn=978-1-4757-2085-3|pages=192–}}</ref><ref name="IndexNominum2000">{{cite book|title=Index Nominum 2000: International Drug Directory|url=https://books.google.com/books?id=5GpcTQD_L2oC&pg=PA149|date=January 2000|publisher=Taylor & Francis|isbn=978-3-88763-075-1|pages=149–}}</ref><ref name="MortonHall2012">{{cite book|author1=I.K. Morton|author2=Judith M. Hall|title=Concise Dictionary of Pharmacological Agents: Properties and Synonyms|url=https://books.google.com/books?id=tsjrCAAAQBAJ&pg=PA57|date=6 December 2012|publisher=Springer Science & Business Media|isbn=978-94-011-4439-1|pages=57–}}</ref><ref name="Drugs.com">https://www.drugs.com/international/buspirone.html</ref>
+
+===Brand name===
+Buspirone is primarily sold under the brand name Buspar.<ref name="IndexNominum2000" /><ref name="Drugs.com" />
+
+==Research==
+
+===Female sexual dysfunction===
+[[Buspirone/testosterone]] (tentative brand name Lybridos) is a [[combination drug|combination formulation]] of buspirone and [[testosterone (medication)|testosterone]] which is under development by a [[pharmaceutical company]] called [https://emotionalbrain.nl/ Emotional Brain] for the treatment of [[female sexual dysfunction]].<ref name="AdisInsight">http://adisinsight.springer.com/drugs/800040046</ref>
+
+==References==
+{{Reflist|35em}}
+
+{{Anxiolytics}}
+{{Antidepressants}}
+{{Sexual dysfunction pharmacotherapies}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Adrenergic receptor modulators}}
+{{Dopamine receptor modulators}}
+{{Serotonin receptor modulators}}
+}}
+
+[[Category:5-HT1A agonists]]
+[[Category:Alpha-2 blockers]]
+[[Category:Antidepressants]]
+[[Category:Anxiolytics]]
+[[Category:Azapirones]]
+[[Category:Cyclopentanes]]
+[[Category:D2 antagonists]]
+[[Category:D3 antagonists]]
+[[Category:D4 antagonists]]
+[[Category:Imides]]
+[[Category:Pyrimidines]]

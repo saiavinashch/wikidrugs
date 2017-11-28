@@ -1,0 +1,116 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 464389691
+| IUPAC_name = 2-methyl-2,3,4,9-tetrahydro-1''H''-dibenzo[3,4:6,7]cyclohepta[1,2-''c'']pyridine
+| image = Setiptiline 2D structure.svg
+| width = 200px
+
+<!--Clinical data-->
+| tradename = Tecipul
+| Drugs.com = {{drugs.com|international|setiptiline}}
+| pregnancy_category = 
+| legal_status = Rx-only
+| routes_of_administration = [[Oral administration|Oral]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 57262-94-9
+| ATC_prefix = none
+| ATC_suffix = 
+| ATC_supplemental = 
+| PubChem = 5205
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB09304
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5016
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 7L38105Z6E
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08511
+| synonyms = Teciptiline; delta(13b,4a),4a-Carba-mianserin; MO-8282; ORG-8282
+
+<!--Chemical data-->
+| C=19 | H=19 | N=1 
+| molecular_weight = 261.36 g/mol
+| SMILES = c42c(\C3=C(/c1ccccc1C2)CN(C)CC3)cccc4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H19N/c1-20-11-10-18-16-8-4-2-6-14(16)12-15-7-3-5-9-17(15)19(18)13-20/h2-9H,10-13H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GVPIXRLYKVFFMK-UHFFFAOYSA-N
+}}
+
+'''Setiptiline''' (brand name '''Tecipul'''), also known as '''teciptiline''', is a [[tetracyclic antidepressant]] (TeCA) which acts as a [[noradrenergic and specific serotonergic antidepressant]] (NaSSA). It was launched in 1989 for the treatment of [[Major depressive disorder|depression]] in [[Japan]] by [[Mochida Pharmaceutical|Mochida]].<ref>{{ cite book |author1=Buschmann, H. |author2=Torrens, A. |author3=Vela, J. M. | url = https://books.google.com/books?id=yXD4QA-Y_Z0C&pg=PA248#v=onepage&q=&f=false | title = Antidepressants, Antipsychotics, Anxiolytics: From Chemistry and Pharmacology to Clinical Application | volume = 1 | page=248 | publisher= Wiley VCH | year=2007 | isbn=978-3-527-31058-6}}</ref><ref name="IndexNominum">{{ cite book | url = https://books.google.com/books?id=5GpcTQD_L2oC&pg=PA942#v=onepage&f=false | title = Index Nominum 2000: International Drug Directory | page = 942 | editor = Swiss Pharmaceutical Society | publisher = Medpharm Scientific Publishers | year = 2000 | isbn = 3-88763-075-0 }}</ref>
+
+==Pharmacology==
+
+===Pharmacodynamics===
+{{See also|Pharmacology of antidepressants|Tetracyclic antidepressant#Binding profiles}}
+{| class="wikitable floatleft" style="font-size:small;"
+|+ Setiptiline<ref name="PDSP">{{cite web | title = PDSP K<sub>i</sub> Database | work = Psychoactive Drug Screening Program (PDSP) | author1 = Roth, BL | author2 = Driscol, J | publisher = University of North Carolina at Chapel Hill and the United States National Institute of Mental Health | format = HTML | accessdate = 14 August 2017 | url = https://kidbdev.med.unc.edu/databases/pdsp.php?knowID=0&kiKey=&receptorDD=&receptor=&speciesDD=&species=&sourcesDD=&source=&hotLigandDD=&hotLigand=&testLigandDD=&testFreeRadio=testFreeRadio&testLigand=setiptiline&referenceDD=&reference=&KiGreater=&KiLess=&kiAllRadio=all&doQuery=Submit+Query}}</ref>
+|-
+! Site !! K<sub>i</sub> (nM) !! Species !! Ref
+|-
+| {{abbrlink|SERT|Serotonin transporter}} || >10,000 ([[IC50|IC<sub>50</sub>]]) || Rat || <ref name="pmid3792961">{{cite journal | vauthors = Niho T, Ito C, Shibutani Y, Hashizume H, Yamaguchi K | title = [Pharmacological properties of MO-8282, a novel antidepressant] | language = Japanese | journal = Nippon Yakurigaku Zasshi | volume = 88 | issue = 4 | pages = 309–20 | year = 1986 | pmid = 3792961 | doi = | url = }}</ref>
+|-
+| '''{{abbrlink|NET|Norepinephrine transporter}}''' || '''220 (IC<sub>50</sub>)''' || '''Rat''' || <ref name="pmid3792961" />
+|-
+| {{abbrlink|DAT|Dopamine transporter}} || >10,000 (IC<sub>50</sub>) || Rat || <ref name="pmid3792961" />
+|-
+| [[5-HT1A receptor|5-HT<sub>1A</sub>]] || {{abbr|ND|No data}} || {{abbr|ND|No data}} || {{abbr|ND|No data}}
+|-
+| [[5-HT2A receptor|5-HT<sub>2A</sub>]] || {{abbr|ND|No data}} || {{abbr|ND|No data}} || {{abbr|ND|No data}}
+|-
+| [[5-HT2C receptor|5-HT<sub>2C</sub>]] || {{abbr|ND|No data}} || {{abbr|ND|No data}} || {{abbr|ND|No data}}
+|-
+| [[Alpha-1 adrenergic receptor|α<sub>1</sub>]] || {{abbr|ND|No data}} || {{abbr|ND|No data}} || {{abbr|ND|No data}}
+|-
+| '''[[Alpha-2 adrenergic receptor|α<sub>2</sub>]]''' || '''24.3 (IC<sub>50</sub>)''' || '''Rat''' || <ref name="pmid2881854">{{cite journal | vauthors = Mizota M, Oikawa Y, Nakayama K, Mizuguchi K, Takarada T, Kojima M, Kanehiro H, Funato H, Kayamoto M, Sato M | title = [Pharmacological studies of MO-8282, a new antidepressant] | language = Japanese | journal = Nippon Yakurigaku Zasshi | volume = 88 | issue = 6 | pages = 457–66 | year = 1986 | pmid = 2881854 | doi = | url = }}</ref>
+|-
+| [[Histamine H1 receptor|H<sub>1</sub>]] || {{abbr|ND|No data}} || {{abbr|ND|No data}} || {{abbr|ND|No data}}
+|-
+| {{abbrlink|mACh|Muscarinic acetylcholine receptor}} || {{abbr|ND|No data}} || {{abbr|ND|No data}} || {{abbr|ND|No data}}
+|- class="sortbottom"
+| colspan="4" style="width: 1px;" | Values are K<sub>i</sub> (nM), unless otherwise noted. The smaller the value, the more strongly the drug binds to the site.
+|}
+
+Setiptiline acts as a [[norepinephrine reuptake inhibitor]],<ref name=pmid3792961 /> [[alpha-2 adrenergic receptor|α<sub>2</sub>-adrenergic receptor]] [[receptor antagonist|antagonist]],<ref name="pmid2881854" /> and [[serotonin receptor]] antagonist,<ref name="pmid3774630">{{cite journal | vauthors = Przegaliński E, Baran L, Siwanowicz J, Rawłów A | title = The lack of antidepressant properties and a potent central antiserotonin activity of Org 8282 | journal = Pol J Pharmacol Pharm | volume = 38 | issue = 4 | pages = 377–84 | year = 1986 | pmid = 3774630 | doi = | url = }}</ref> likely at the [[5-HT2|5-HT<sub>2</sub> subtypes]],{{Citation needed|date=September 2017}} as well as an [[H1 receptor|H<sub>1</sub> receptor]] [[inverse agonist]]/[[antihistamine]].<ref name=pmid3792961/>{{Additional citation needed|date=September 2017}}
+
+==Chemistry==
+Setiptiline has a [[tetracyclic antidepressant|tetracyclic]] [[chemical structure|structure]] and is a close [[Structural analog|analogue]] of [[mianserin]] and [[mirtazapine]], with setiptiline being '''delta(13b,4a),4a-carba-mianserin''', and mirtazapine being 6-azamianserin.
+
+==See also==
+* [[Aptazapine]]
+* [[Mianserin]]
+* [[Mirtazapine]]
+
+==References==
+{{Reflist|2}}
+
+{{Antidepressants}}
+{{Anxiolytics}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Adrenergic receptor modulators}}
+{{Histamine receptor modulators}}
+{{Monoamine reuptake inhibitors}}
+{{Serotonin receptor modulators}}
+}}
+{{Tricyclics}}
+
+[[Category:Alpha-2 blockers]]
+[[Category:H1 receptor antagonists]]
+[[Category:Noradrenergic and specific serotonergic antidepressants]]
+[[Category:Piperidines]]
+[[Category:Serotonin antagonists]]
+[[Category:Tetracyclic antidepressants]]
+
+
+{{nervous-system-drug-stub}}

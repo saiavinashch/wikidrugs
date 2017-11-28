@@ -1,0 +1,73 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 460109682
+| IUPAC_name = ''5-(1-cyclohexenyl)-5-ethyl-1,3-diazinane-2,4,6-trione''
+| image = Cyclobarbital.svg
+| width = 100
+| image2 = Cyclobarbital ball-and-stick.png
+| width2 = 180
+
+<!--Clinical data-->
+| Drugs.com = {{Drugs.com|international|cyclobarbital}}
+| tradename =  
+| pregnancy_category =
+| legal_CA = Schedule IV 
+| legal_DE = Anlage II
+| routes_of_administration = Oral ([[Tablet (pharmacy)|tablets]])
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| metabolism = [[Hepatic]]
+| elimination_half-life = 
+| excretion = [[Renal]]
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 143-76-0
+| ATC_prefix = N05
+| ATC_suffix = CA10
+| PubChem = 5838
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5632
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0M8A98AD9H
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D07323
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 268164
+
+<!--Chemical data-->
+| C=12 | H=16 | N=2 | O=3 
+| molecular_weight = 236.267 g/mol
+| smiles = O=C1NC(=O)NC(=O)C1(/C2=C/CCCC2)CC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C12H16N2O3/c1-2-12(8-6-4-3-5-7-8)9(15)13-11(17)14-10(12)16/h6H,2-5,7H2,1H3,(H2,13,14,15,16,17)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WTYGAUXICFETTC-UHFFFAOYSA-N
+}}
+
+'''Cyclobarbital''', also known as '''cyclobarbitol''' or '''cyclobarbitone''', is a [[drug]] which is a [[barbiturate]] [[derivative (chemistry)|derivative]].<ref>{{Cite journal 
+| last1 = Breimer | first1 = D. D. 
+| last2 = Winten | first2 = M. A. 
+| title = Pharmacokinetics and relative bioavailability of cyclobarbital calcium in man after oral administration 
+| journal = European journal of clinical pharmacology 
+| volume = 09 
+| issue = 5–6 
+| pages = 443–450 
+| year = 1976 
+| pmid = 989475
+}}</ref> It is primarily available in fixed-dose combination with [[diazepam]] under the brand name '''Reladorm''' (100 mg cyclobarbital + 10 mg diazepam) and is used to treat [[insomnia]] in Russia.<ref>{{cite web|title=Russian State Register of Medicines. Registration Certificate: Reladorm (diazepam + cyclobarbital). Revised 02 Sep 2013|url=http://grls.rosminzdrav.ru/Grls_View_v2.aspx?idReg=2081&t=|accessdate=6 March 2016|language=Russian}}</ref>
+
+==References==
+{{reflist}}
+
+{{Hypnotics and sedatives}}
+{{GABAAR PAMs}}
+
+[[Category:Barbiturates]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:Cyclohexenes]]
+
+{{sedative-stub}}

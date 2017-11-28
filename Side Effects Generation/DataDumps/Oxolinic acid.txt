@@ -1,0 +1,76 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 384087896
+| IUPAC_name = 5-Ethyl-8-oxo-5,8-dihydro[1,3]dioxolo[4,5-''g'']quinoline- 7-carboxylic acid
+| image = Oxolinic acid.png
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|oxolinic-acid}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 14698-29-4
+| ATC_prefix = J01
+| ATC_suffix = MB05
+| PubChem = 4628
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = L0A22B22FT
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D02301
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 416755
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 138856
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 4467
+
+<!--Chemical data-->
+| C=13 | H=11 | N=1 | O=5
+| molecular_weight = 261.23 g/mol
+| smiles            = CCN1C=C(C(=O)C2=CC3=C(C=C21)OCO3)C(=O)O
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C13H11NO5/c1-2-14-5-8(13(16)17)12(15)7-3-10-11(4-9(7)14)19-6-18-10/h3-5H,2,6H2,1H3,(H,16,17)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = KYGZCKSPAKDVKC-UHFFFAOYSA-N
+}}
+
+'''Oxolinic acid''' is a [[Quinolone antibiotic|quinolone]] [[antibiotic]] developed in Japan in the 1970s.<ref>JP Patent 49138244</ref><ref name="pmid384788">{{cite journal |vauthors=Gleckman R, Alvarez S, Joubert DW, Matthews SJ |title=Drug therapy reviews: oxolinic acid |journal=American Journal of Hospital Pharmacy |volume=36 |issue=8 |pages=1077–9 |date=August 1979 |pmid=384788 |doi= |url= }}</ref> Dosages 12–20&nbsp;mg/kg orally administered for five to ten days.  The antibiotic works by inhibiting the enzyme [[DNA gyrase]]. It also acts as a [[dopamine reuptake inhibitor]] and has stimulant effects in mice.<ref name="pmid9928913">{{cite journal |vauthors=Garcia de Mateos-Verchere J, Vaugeois JM, Naudin B, Costentin J |title=Behavioural and neurochemical evidence that the antimicrobial agent oxolinic acid is a dopamine uptake inhibitor |journal=European Neuropsychopharmacology : the Journal of the European College of Neuropsychopharmacology |volume=8 |issue=4 |pages=255–9 |date=December 1998 |pmid=9928913 |doi= 10.1016/S0924-977X(97)00083-7|url=http://linkinghub.elsevier.com/retrieve/pii/S0924-977X(97)00083-7}}</ref>
+
+==See also==
+* [[Amfonelic acid]]
+* [[Fluoroquinolone]]
+
+==References==
+{{reflist}}
+
+{{QuinoloneAntiBiotics}}
+{{Dopaminergics}}
+
+{{Authority control}}
+
+[[Category:Quinolone antibiotics]]
+[[Category:Dopamine reuptake inhibitors]]
+[[Category:Carboxylic acids]]
+[[Category:Nitrogen heterocycles]]
+[[Category:Oxygen heterocycles]]
+[[Category:Heterocyclic compounds (3 rings)]]
+
+
+{{antibiotic-stub}}

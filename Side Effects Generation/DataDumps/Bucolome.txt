@@ -1,0 +1,65 @@
+{{Drugbox
+| verifiedrevid = 449572145
+| IUPAC_name = 5-butyl-1-cyclohexyl-1,3-diazinane-2,4,6-trione
+| image = Bucolome.png
+| width = 200
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|bucolome}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number = 841-73-6
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 2461
+| ChEMBL = 2106136
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2367
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 9T08RAL174
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 31314
+
+<!--Chemical data-->
+| C=14 | H=22 | N=2 | O=3 
+| molecular_weight = 224.256 g/mol
+| smiles = CCCCC1C(=O)NC(=O)N(C1=O)C2CCCCC2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C14H22N2O3/c1-2-3-9-11-12(17)15-14(19)16(13(11)18)10-7-5-4-6-8-10/h10-11H,2-9H2,1H3,(H,15,17,19)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = DVEQCIBLXRSYPH-UHFFFAOYSA-N
+| synonyms = Bucolome, Paramidine
+}}
+
+'''Bucolome''' ('''Paramidine''') is a [[barbiturate]] derivative. Unlike most barbiturates it does not have any significant [[sedative]] or [[hypnotic]] effects, but instead acts as an [[analgesic]] and [[antiinflammatory]]. It also acts as a [[CYP2C9]] inhibitor and reduces the metabolism of several commonly used drugs, which makes it useful for potentiating or extending the duration of action of those drugs, or reducing the production of unwanted metabolites.<ref>Takamura N, Maruyama T, Chosa E, Kawai K, Tsutsumi Y, Uryu Y, Yamasaki K, Deguchi T, Otagiri M. Bucolome, a potent binding inhibitor for furosemide, alters the pharmacokinetics and diuretic effect of furosemide: potential for use of bucolome to restore diuretic response in nephrotic syndrome. ''Drug Metabolism and Disposition''. 2005 Apr;33(4):596-602. {{PMID|15640375}}</ref><ref>Osawa M, Hada N, Matsumoto K, Hasegawa T, Kobayashi D, Morimoto Y, Yamaguchi M, Kanamoto I, Nakagawa T, Sugibayashi K. Usefulness of coadministration of bucolome in warfarin therapy: pharmacokinetic and pharmacodynamic analysis using outpatient prescriptions. ''International Journal of Pharmaceutics''. 2005 Apr 11;293(1-2):43-9. {{PMID|15778043}}</ref><ref>Kobayashi M, Takagi M, Fukumoto K, Kato R, Tanaka K, Ueno K. The effect of bucolome, a CYP2C9 inhibitor, on the pharmacokinetics of losartan. ''Drug Metabolism and Pharmacokinetics''. 2008;23(2):115-9. {{PMID|18445991}}</ref>
+
+== References ==
+{{Reflist}}
+
+
+{{Analgesics}}
+{{Anti-inflammatory}}
+
+[[Category:Barbiturates]]
+
+
+{{analgesic-stub}}

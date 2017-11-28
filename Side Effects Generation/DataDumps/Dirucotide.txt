@@ -1,0 +1,72 @@
+{{Drugbox
+| verifiedrevid = 447928420
+| IUPAC_name = <small>L</small>-α-aspartyl-<small>L</small>-α-glutamyl-<small>L</small>-asparaginyl-<small>L</small>-prolyl-<small>L</small>-valyl- <small>L</small>-valyl-<small>L</small>-histidyl-<small>L</small>-phenylalanyl-<small>L</small>-phenylalanyl-<small>L</small>-lysyl- <small>L</small>-asparaginyl-<small>L</small>-isoleucyl-<small>L</small>-valyl-<small>L</small>-threonyl-<small>L</small>-prolyl- <small>L</small>-arginyl-<small>L</small>-threonine
+| image = Dirucotide.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = intravenous
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 152074-97-0
+| ATC_prefix = none
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D09396
+|  ChemSpiderID = 30791396
+
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=92 | H=141 | N=25 | O=26 
+| molecular_weight = 2013 g/mol
+| smiles = CC[C@H](C)[C@@H](C(=O)N[C@@H](C(C)C)C(=O)N[C@@H]([C@@H](C)O)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H]([C@@H](C)O)C(=O)O)NC(=O)[C@H](CC(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](Cc2ccccc2)NC(=O)[C@H](Cc3ccccc3)NC(=O)[C@H](Cc4cnc[nH]4)NC(=O)[C@H](C(C)C)NC(=O)[C@H](C(C)C)NC(=O)[C@@H]5CCCN5C(=O)[C@H](CC(=O)N)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CC(=O)O)N
+|  StdInChI = 1S/C92H141N25O26/c1-11-48(8)72(88(139)112-71(47(6)7)87(138)114-73(49(9)118)90(141)117-36-22-29-63(117)83(134)104-56(28-20-34-100-92(97)98)78(129)115-74(50(10)119)91(142)143)113-82(133)61(41-65(95)120)107-76(127)55(27-18-19-33-93)103-79(130)58(37-51-23-14-12-15-24-51)105-80(131)59(38-52-25-16-13-17-26-52)106-81(132)60(39-53-43-99-44-101-53)108-85(136)69(45(2)3)111-86(137)70(46(4)5)110-84(135)64-30-21-35-116(64)89(140)62(42-66(96)121)109-77(128)57(31-32-67(122)123)102-75(126)54(94)40-68(124)125/h12-17,23-26,43-50,54-64,69-74,118-119H,11,18-22,27-42,93-94H2,1-10H3,(H2,95,120)(H2,96,121)(H,99,101)(H,102,126)(H,103,130)(H,104,134)(H,105,131)(H,106,132)(H,107,127)(H,108,136)(H,109,128)(H,110,135)(H,111,137)(H,112,139)(H,113,133)(H,114,138)(H,115,129)(H,122,123)(H,124,125)(H,142,143)(H4,97,98,100)/t48-,49+,50+,54-,55-,56-,57-,58-,59-,60-,61-,62-,63-,64-,69-,70-,71-,72-,73-,74-/m0/s1
+|  StdInChIKey = RCTCWZRPYFBGLQ-WMCRPSJMSA-N
+}}
+
+'''Dirucotide''' (also known as '''MBP8298''') was developed by two research scientists (Dr. Kenneth G. Warren, MD, FRCP(C) & Ingrid Catz, Senior Scientist) at the University of Alberta for the treatment of Multiple Sclerosis (MS). Dirucotide is a synthetic peptide that consists of 17 amino acids linked in a sequence identical to that of a portion of human [[myelin basic protein]] (MBP). The sequence of these 17 amino acids is
+*H<sub>2</sub>N-Asp-Glu-Asn-Pro-Val-Val-His-Phe-Phe-Lys-Asn-Ile-Val-Thr-Pro-Arg-Thr-OH
+
+==Research==
+Results from a phase II and long-term follow-up trial showed that dirucotide safely delayed median time to disease progression for five years in progressive MS patients with HLA-DR2 or HLA-DR4 immune response genes. It does not seem to be effective in patients with other gene variants.<ref name="Warren">{{cite journal | last1 = Warren | first1 = KG | last2 = Catz | first2 = I | last3 = Ferenczi | first3 = LZ | last4 = Krantz | first4 = MJ | title = Intravenous synthetic peptide MBP8298 delayed disease progression in an HLA Class II-defined cohort of patients with progressive multiple sclerosis: results of a 24-month double-blind placebo-controlled clinical trial and 5 years of follow-up treatment | journal = European Journal of Neurology | volume = 13 | issue = 8 | pages = 887–95 | year = 2006 | pmid = 16879301 | doi = 10.1111/j.1468-1331.2006.01533.x }}</ref> 
+
+The drug is exclusively licensed by ''[[BioMS Medical Corp]]''., a Canadian-based biotechnology company. ''BioMS Medical'' received clearance from the [[Food & Drug Administration]] (FDA) to initiate a phase III clinical trial, named MAESTRO-03,  for secondary progressive MS patients in January 2007. An additional Phase III clinical trial for dirucotide, MAESTRO-01, is being undertaken in Canada and Europe. In September 2008, the drug was granted [[FDA Fast Track Development Program|FDA fast-track]] for approval.<ref>[https://www.reuters.com/article/rbssHealthcareNews/idUSN0446381220080904 BioMS multiple sclerosis drug gets FDA fast track]</ref>
+
+A phase II trial of Dirucotide as a potential therapy for relapsing-remitting multiple sclerosis (RRMS), MINDSET-01, failed to achieve its primary endpoint of reduced relapse rate. Nor did it reduce new MRI lesions. It did however reduce progression on the Expanded Disability Status Scale (EDSS) and the Multiple Sclerosis Functional Composite (MSFC) scale. Phase III trials are now in progress with reduction of EDSS and MSFC progression as primary endpoints.<ref>http://www.medscape.com/viewarticle/587770</ref>
+
+''BioMS Medical'' has agreed to share development of dirucotide with [[Eli Lilly and Company]], which received exclusive worldwide rights to future research and development, manufacturing, and marketing of the compound.<ref>[http://www.cnxmarketlink.com/en/releases/archive/December2007/17/c3858.html ''BioMS Medical ''Press Release December 17, 2007]</ref>
+
+==Mechanism of action==
+[[T cell]]s producing receptors recognizing MBP fragments presented by the MHC molecules of antigen presenting cells seem to play a role in the pathogenesis of MS. Repeated application of dirucotide (intravenous, every six months) represses immunological response against MBP.<ref name="Prous">[http://www.prous.com/molecules/default.asp?ID=178 Prous Science: Molecule of the Month November 2008] {{webarchive |url=https://web.archive.org/web/20110525195038/http://www.prous.com/molecules/default.asp?ID=178 |date=May 25, 2011 }}</ref>
+
+==Status of the development==
+
+On 27 July 2009, a statement was released, stating "BioMS Medical Corp. (TSX: MS) today announced that dirucotide did not meet the primary endpoint of delaying disease progression, as measured by the Expanded Disability Status Scale (EDSS), during the two-year MAESTRO-01 Phase III trial in patients with secondary progressive multiple sclerosis (SPMS). In addition, there were no statistically significant differences between dirucotide and placebo on the secondary endpoints of the study", this means that the MAESTRO-02 and MAESTRO-03 trials are discontinued.
+
+==References==
+{{reflist|1}}
+
+[[Category:Eli Lilly and Company]]
+[[Category:Multiple sclerosis]]
+[[Category:Peptides]]

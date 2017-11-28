@@ -1,0 +1,138 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 461743382
+| IUPAC_name = (''RS'')-5-[2-Cyclopropyl-1-(2-fluorophenyl)-2-oxoethyl]-4,5,6,7-<br>tetrahydrothieno[3,2-''c'']pyridin-2-yl acetate
+| image = Prasugrel racemic.svg
+| image2 = Prasugrel.png
+
+<!--Clinical data-->
+| tradename = Effient, Efient
+| Drugs.com = {{drugs.com|monograph|prasugrel}}
+| MedlinePlus = a609027
+| licence_EU = Efient
+| licence_US = Prasugrel
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = B
+| pregnancy_category = B
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_CA = <!--                             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = ≥79%
+| protein_bound = Active metabolite: ~98%
+| metabolism = 
+| elimination_half-life = ~7&nbsp;h (range 2&nbsp;h to 15&nbsp;h)
+| excretion = Urine (~68% inactive metabolites); feces (27% inactive metabolites)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7562
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 150322-43-3
+| CAS_supplemental = {{CAS|389574-19-0}} ([[hydrochloride]])
+| ATC_prefix = B01
+| ATC_suffix = AC22
+| PubChem = 6918456
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB06209
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5293653
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 87715
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 34K66TBT99
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05597
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201772
+
+<!--Chemical data-->
+| C=20 | H=20 | F=1 | N=1 | O=3 | S=1 
+| molecular_weight = 373.442 g/mol
+| smiles = CC(=O)Oc1cc2c(s1)CCN(C2)C(c3ccccc3F)C(=O)C4CC4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C20H20FNO3S/c1-12(23)25-18-10-14-11-22(9-8-17(14)26-18)19(20(24)13-6-7-13)15-4-2-3-5-16(15)21/h2-5,10,13,19H,6-9,11H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = DTGLZDAWLRGWQN-UHFFFAOYSA-N
+}}
+
+'''Prasugrel''' (trade name '''Effient''' in the US and India, and '''Efient''' in the EU) is a pharmaceutical drug that acts as a [[platelet inhibitor]] and is used to prevent [[thrombosis prevention|formation of blood clots]]. It was developed by [[Daiichi Sankyo Co.]] and produced by [[Ube Industries|Ube]] and currently marketed in the United States in cooperation with [[Eli Lilly and Company]].
+
+Prasugrel was approved for use in Europe in February 2009,<ref name="EMA">{{cite web|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Summary_for_the_public/human/000984/WC500021973.pdf|publisher=EMA|title=European Public Assessment Report for Efient|year=2009}}</ref> and in the US in July 2009, for the reduction of thrombotic cardiovascular events (including [[stent]] thrombosis) in people with [[acute coronary syndrome]] (ACS) who are to be managed with [[percutaneous coronary intervention]] (PCI).<ref>{{cite journal|authors=Baker WL, White CM|title= Role of prasugrel, a novel P2Y(12) receptor antagonist, in the management of acute coronary syndromes|journal=American Journal of Cardiovascular Drugs|year= 2009|volume=9|issue=4|pages=213–229|pmid=19655817|doi=10.2165/1131209-000000000-00000}}</ref>
+
+==Medical uses==
+Prasugrel is used in combination with [[low dose aspirin]] to prevent thrombosis in patients with ACS, including [[unstable angina pectoris]], non-[[ST elevation]] [[myocardial infarction]] ([[NSTEMI]]), and ST elevation myocardial infarction ([[STEMI]]), who are planned for treatment with PCI. In studies, prasugrel was more effective than the related [[clopidogrel]] but also caused more bleeding. Overall mortality was the same.<ref name="EMA" /><ref>{{cite web|url=http://www.akdae.de/Arzneimitteltherapie/NA/Archiv/2009002-Efient.pdf|title=Arzneimittelinformation der Arzneimittelkommission der deutschen Ärzteschaft (AkdÄ): Efient (Prasugrel)|pages=30–44|date=16 April 2009|language=de}}</ref>
+
+Prasugrel does not change the risk of death when given to people who have had a STEMI{{citation needed|date=February 2016}} or NSTEMI.<!-- <ref name=BMJP2Y12/> --> Prasugrel does however increase the risk of bleeding and may decrease the risk of further cardiovascular problems.<!-- <ref name=BMJP2Y12/> --> Thus routine use in NSTEMI patients is of questionable value.<ref name=BMJP2Y12>{{cite journal|last1=Bellemain-Appaix|first1=A|last2=Kerneis|first2=M|last3=O'Connor|first3=SA|last4=Silvain|first4=J|last5=Cucherat|first5=M|last6=Beygui|first6=F|last7=Barthelemy|first7=O|last8=Collet|first8=J-P|last9=Jacq|first9=L|last10=Bernasconi|first10=F|last11=Montalescot|first11=G|title=Reappraisal of thienopyridine pretreatment in patients with non-ST elevation acute coronary syndrome: a systematic review and meta-analysis|journal=BMJ|year=2014|volume=349|pages=g6269–g6269|pmid=25954988|pmc=4208629|doi=10.1136/bmj.g6269}}</ref>
+
+==Contraindications==
+Prasugrel should not be given to patients with active pathological bleeding, such as peptic ulcer or a history of transient ischemic attack or stroke, because of higher risk of stroke (thrombotic stroke and intracranial hemorrhage).<ref>{{cite web|title=Effient (prasugrel hydrochloride) Prescribing Information|date= September 2011|url= http://www.fda.gov/Safety/MedWatch/SafetyInformation/ucm275490.htm|publisher=[[FDA]]}}</ref>
+
+==Adverse effects==
+Adverse effects include:<ref name="prescribing info" />
+*Cardiovascular: Hypertension (8%), hypotension (4%), atrial fibrillation (3%), bradycardia (3%), noncardiac chest pain (3%), peripheral edema (3%), [[thrombotic thrombocytopenic purpura]] (TTP)
+*Central nervous system: Headache (6%), dizziness (4%), fatigue (4%), fever (3%), extremity pain (3%)
+*Dermatologic: Rash (3%)
+*Endocrine and metabolic: Hypercholesterolemia/hyperlipidemia (7%)
+*Gastrointestinal: Nausea (5%), diarrhea (2%), gastrointestinal hemorrhage (2%)
+*Hematologic: Leukopenia (3%), anemia (2%)
+*Neuromuscular and skeletal: Back pain (5%)
+*Respiratory: Epistaxis (6%), dyspnea (5%), cough (4%)
+*Hypersensitivity, including [[angioedema]]
+
+==Interactions==
+As opposed to clopidogrel, [[proton pump inhibitor]]s do not reduce the antiplatelet effects of prasugrel and hence it is relatively safe to use these medications together.<ref>{{cite journal|last=John|first=Jinu|author2=Koshy S|title=Current Oral Antiplatelets: Focus Update on Prasugrel|journal=Journal of american board of family medicine|year=2012|volume=25|pages=343–349|doi=10.3122/jabfm.2012.03.100270|pmid=22570398}}</ref>
+
+==Pharmacology==
+
+=== Mechanism of action ===
+Prasugrel is a member of the [[thienopyridine]] class of [[ADP receptor]] inhibitors, like [[ticlopidine]] (trade name Ticlid) and [[clopidogrel]] (trade name Plavix).  These agents reduce the aggregation ("clumping") of [[platelets]] by irreversibly binding to [[P2Y12|P2Y<sub>12</sub>]] receptors. Compared to clopidogrel, prasugrel inhibits adenosine diphosphate–induced platelet aggregation more rapidly, more consistently, and to a greater extent than do standard and higher doses of clopidogrel in healthy volunteers and in patients with coronary artery disease, including those undergoing PCI.<ref name="Wiviott2007">{{cite journal | author = Wiviott SD | title = Prasugrel versus clopidogrel in patients with acute coronary syndromes | journal = [[The New England Journal of Medicine|N Engl J Med]] | year = 2007 | volume = 357 | issue = 20 | pages = 2001–15 | pmid = <!--no PMID yet--> | doi = 10.1056/NEJMoa0706482 |name-list-format=vanc| author2 = Braunwald E | author3 = McCabe CH | display-authors = 3 | last4 = Montalescot | first4 = Gilles | last5 = Ruzyllo | first5 = Witold | last6 = Gottlieb | first6 = Shmuel | last7 = Neumann | first7 = Franz-Joseph | last8 = Ardissino | first8 = Diego | last9 = De Servi | first9 = Stefano}}</ref> Clopidogrel, unlike prasugrel, was issued a [[black box warning]] from the FDA on March 12, 2010, as the estimated 2–14% of the US population who have low levels of the [[CYP2C19]] liver enzyme needed to activate clopidogrel may not get the full effect. Tests are available to predict if a patient would be susceptible to this problem or not.<ref>
+{{cite press release
+| title = FDA Announces New Boxed Warning on Plavix: Alerts patients, health care professionals to potential for reduced effectiveness
+| date = March 12, 2010
+| url = http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm204253.htm
+| publisher = [[Food and Drug Administration (United States)]]
+| accessdate = March 13, 2010
+}}</ref><ref>
+{{cite web
+| url = http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm203888.htm
+| title = FDA Drug Safety Communication: Reduced effectiveness of Plavix (clopidogrel) in patients who are poor metabolizers of the drug
+| work = Drug Safety and Availability
+| publisher = [[Food and Drug Administration (United States)]]
+| date = March 12, 2010
+| accessdate = March 13, 2010
+}}</ref>
+Unlike clopidogrel, prasugrel is effective in most individuals, although several cases have been reported of decreased responsiveness to prasugrel.<ref>{{cite journal  |vauthors=Silvano M, etal | title=A case of resistance to clopidogrel and prasugrel after percutaneous coronary angioplasty. | journal=J Thromb Thrombolysis | year=2011 | volume=31 | pages =233–4 | PMID=21088983 | doi=10.1007/s11239-010-0533-x | issue=2}}</ref>
+
+===Pharmacodynamics===
+Prasugrel produces inhibition of [[platelet aggregation]] to 20 μM or 5 μM ADP, as measured by light transmission aggregometry.<ref>{{cite web|last=O'Riordan|first=Michael|title=Switching from clopidogrel to prasugrel further reduces platelet function|url=http://www.theheart.org/article/1123367.do|publisher=TheHeart.org|accessdate=1 April 2011}}</ref>  Following a 60-mg loading dose of the drug, about 90% of patients had at least 50% inhibition of platelet aggregation by one hour. Maximum platelet inhibition was about 80%<!-- (Figure 2)-->. Mean steady-state inhibition of platelet aggregation was about 70% following three to five days of dosing at 10&nbsp;mg daily after a 60-mg loading dose.
+Platelet aggregation gradually returns to baseline values over five to 9 days after discontinuation of prasugrel, this time course being a reflection of new platelet production rather than pharmacokinetics of prasugrel. Discontinuing clopidogrel 75&nbsp;mg and initiating prasugrel 10&nbsp;mg with the next dose resulted in increased inhibition of platelet aggregation, but not greater than that typically produced by a 10-mg maintenance dose of prasugrel alone. Increasing platelet inhibition could increase bleeding risk. The relationship between inhibition of platelet aggregation and clinical activity has not been established.<ref name="prescribing info">[http://pi.lilly.com/us/effient.pdf Efient: Highlights of prescribing information]</ref>
+
+===Pharmacokinetics===
+[[File:Prasugrel activation.svg|thumb|upright=1.5|The reaction of prasugrel (top left) to its active metabolite (R-138727, top right). Unlike the related drug [[clopidogrel]], prasugrel activation does not involve oxidation by the enzyme [[CYP2C19]], as the relevant oxygen (at the thiophene ring) is already present in the prodrug. Instead, both the first and last steps are hydrolyses. The two structures at the bottom represent the inactive [[thiolactone]]; they are [[tautomer]]s of each other.]]
+Prasugrel is a [[prodrug]] and is rapidly metabolized by [[esterase]]s in the intestine and blood serum to a likewise inactive [[thiolactone]], which is then converted, via CYP450-mediated (primarily [[CYP3A4]] and [[CYP2B6]]) oxidation,{{citation needed|date=February 2016}} to a pharmacologically [[active metabolite]] (R-138727). R-138727 has an [[elimination half-life]] of about 7 hours (range 2&nbsp;h to 15&nbsp;h). Healthy subjects, patients with stable [[atherosclerosis]], and patients undergoing PCI show similar pharmacokinetics.
+
+==Chemistry==
+Prasugrel has one [[Chirality (chemistry)|chiral]] atom. It is used in [[racemic]] form as the [[hydrochloride]] salt, which is a white powder.
+
+==Patents==
+* {{patent|US|5288726}} claims prasugrel compound; will expire on 14 Apr 2017
+* {{patent|US|6693115}} claims hydrochloride salt of prasugrel; will expire on 3 Jul 2021
+
+==References==
+{{Reflist|35em}}
+
+{{Antithrombotics}}
+{{Purinergics}}
+
+[[Category:ADP receptor inhibitors]]
+[[Category:Eli Lilly and Company]]
+[[Category:Fluoroarenes]]
+[[Category:Ketones]]
+[[Category:Thienopyridines]]
+[[Category:Acetate esters]]
+[[Category:Cyclopropanes]]

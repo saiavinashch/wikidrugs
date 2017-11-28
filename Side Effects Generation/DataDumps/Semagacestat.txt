@@ -1,0 +1,116 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 443328897
+| IUPAC_name = (2''S'')-2-Hydroxy-3-methyl-''N''-((1''S'')-1-methyl-2-{[(1''S'')-3-methyl-2-oxo-2,3,4,5-tetrahydro-1''H''-3-benzazepin-1-yl]amino}-2-oxoethyl)butanamide
+| image = Semagacestat structure.svg
+
+<!--Clinical data-->
+| tradename =
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Development terminated
+| routes_of_administration = [[Oral administration|By mouth]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism = [[CYP3A4]], [[CYP3A5|3A5]]<ref name="PMID20075192" />
+| elimination_half-life = 2.4 hours in circulation
+| excretion = 87% [[renal]] (44% unchanged, 43% as metabolites)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6978
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 425386-60-3
+| ATC_prefix = None
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem = 9843750
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 520733
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 3YN0602W4W
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D09377
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 8019465
+
+<!--Chemical data-->
+| chemical_formula =
+| C=19 | H=27 | N=3 | O=4 
+| molecular_weight = 361.434 g/mol
+| smiles = C[C@@H](C(=O)N[C@H]1C2=CC=CC=C2CCN(C1=O)C)NC(=O)[C@H](C(C)C)O
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C19H27N3O4/c1-11(2)16(23)18(25)20-12(3)17(24)21-15-14-8-6-5-7-13(14)9-10-22(4)19(15)26/h5-8,11-12,15-16,23H,9-10H2,1-4H3,(H,20,25)(H,21,24)/t12-,15-,16-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = PKXWXXPNHIWQHW-RCBQFDQVSA-N
+| synonyms = LY-450139
+}}
+
+'''Semagacestat''' ('''LY-450139''') was a candidate drug for a causal therapy against [[Alzheimer's disease]]. It was originally developed by [[Eli Lilly and Company|Eli Lilly]] and [[Élan]], and [[clinical trial]]s were conducted by Eli Lilly. Phase III trials included over 3000 patients,<ref name="Spreitzer" /><ref name="Prous" /> but in August 2010, a disappointing interim analysis, in which semagacestat performed worse than the placebo, led to the trials being stopped.
+
+== Mechanism of action ==
+[[Beta amyloid|β-Amyloid]] is a peptide of 39 to 43 amino acids. The isoforms with 40 and 42 amino acids (Aβ40/42) are the main constituents of [[amyloid plaque]]s in the brains of Alzheimer's disease patients. β-Amyloid is formed by [[proteolysis]] of [[amyloid precursor protein]] (APP). Research on laboratory rats suggest that the soluble form of this peptide is a causative agent in the development of Alzheimer's.
+
+Semagacestat blocks the enzyme [[Gamma secretase|γ-secretase]], which (along with [[Beta secretase|β-secretase]]) is responsible for APP proteolysis.<ref name="Prous" />
+
+== Clinical trials ==
+Phase III double-blind clinical trials started in March 2008 with the IDENTITY study ('''I'''nterrupting Alzheimer's '''d'''ementia by '''e'''valuati'''n'''g '''t'''reatment of amylo'''i'''d pa'''t'''holog'''y'''), including 1500 patients from 22 countries. This study was intended to run until May 2011.<ref name="identity" /> The successor trial with further 1500 patients, IDENTITY-2, started in September 2008.<ref name="identity2" /> The [[open-label trial]] IDENTITY-XT, which included patients who have completed one of the two studies, started in December 2009.<ref name="identityXT" /> On 17 August 2010, it was announced that the phase III trials failed. Preliminary findings show that not only did semagacestat fail to slow disease progression, but that it was actually associated with “worsening of clinical measures of cognition and the ability to perform activities of daily living”. Furthermore, the incidence of skin cancer was significantly higher in the treatment group than the placebo group.<ref name = "PT20100818" />
+
+== Issues ==
+A number of issues have already been raised during clinical trials:
+* Phase I and II studies showed a decrease of Aβ40/42 concentration in the [[blood plasma]] about three hours after application of semagacestat, but an increase of 300% 15 hours after application. No reduction was shown in the [[cerebrospinal fluid]]. As a consequence, the phase III studies worked with much higher doses.<ref name="Zsilavecz" />
+* γ-Secretase has other targets, for example the [[notch receptor]]. It is not known whether this could cause long-term side effects.<ref name="Zsilavecz" />
+* In a 2008, histological analysis of post-mortem brains from deceased subjects who had previously been enrolled in a phase 1 study of an experimental vaccine (Elan AN1792) demonstrated that the drug appeared to have cleared patients of amyloid plaques but did not have any significant effect on their dementia, which in some people's mind cast doubt on the utility of approaches lowering β-amyloid levels.<ref name="Holmes" />
+* A notable feature of the results of the semagacestat phase III interim analysis is that subjects on treatment did significantly worse in cognitive assessment and activities of daily living than did subjects in the placebo group. This contrasts with the results from the phase III trial of Myriad's γ-secretase modulator [[tarenflurbil]], which found that the subjects in the treatment group tracked the placebo control group very closely.  The implications of this finding on other companies undertaking development of molecules targeting γ-secretase is not clear.
+
+== References ==
+{{Reflist|2|refs=
+<ref name="PMID20075192">{{cite journal|pmid=20075192|year=2010|last1=Yi|first1=P|last2=Hadden|first2=C|last3=Kulanthaivel|first3=P|last4=Calvert|first4=N|last5=Annes|first5=W|last6=Brown|first6=T|last7=Barbuch|first7=RJ|last8=Chaudhary|first8=A|last9=Ayan-Oshodi|first9=MA|last10=Ring|first10=B. J.|title=Disposition and metabolism of semagacestat, a {gamma}-secretase inhibitor, in humans|volume=38|issue=4|pages=554–65|doi=10.1124/dmd.109.030841|journal=Drug metabolism and disposition: the biological fate of chemicals|display-authors=8}}</ref>
+<ref name="Spreitzer">{{cite journal
+ | author = H. Spreitzer
+ | date = July 21, 2008
+ | title = Neue Wirkstoffe – Semagacestat
+ | journal = Österreichische Apothekerzeitung
+ | issue = 15/2008
+ | pages = 780
+ | language = German
+ }}</ref>
+<ref name="Prous">[http://www.prous.com/molecules/default.asp?ID=174 Prous Science: Molecule of the Month July 2008]</ref>
+<ref name="identity">{{ClinicalTrialsGov|NCT00594568|Effect of LY450139 on the Long Term Progression of Alzheimer's Disease}}</ref>
+<ref name="identity2">{{ClinicalTrialsGov|NCT00762411|Effects of LY450139, on the Progression of Alzheimer's Disease as Compared With Placebo (IDENTITY-2)}}</ref>
+<ref name="identityXT">{{ClinicalTrialsGov|NCT00762411|A Study in Semagacestat for Alzheimer's Patients (Identity XT)}}</ref>
+<ref name="Holmes">
+{{cite journal
+|author1=Holmes C |author2=Boche D |author3=Wilkinson D |author4=Yadegarfar G |author5=Hopkins V |author6=Bayer A |author7=Jones RW |author8=Bullock R |author9=Love S |author10=Neal JW |author11=Zotova E |author12=Nicoll JAR |title=Long-term effects of Aβ42 immunisation in Alzheimer's disease: follow-up of a randomised, placebo-controlled phase I trial
+|journal=The Lancet
+|volume=372
+|issue=9634
+|pages=216–233
+|date=July 2008
+|doi=10.1016/S0140-6736(08)61075-2
+|url=
+|subscription=yes |pmid=18640458
+}}</ref>
+<ref name="Zsilavecz">Schubert-Zsilavecz, M, Wurglics, M, ''Neue Arzneimittel 2008/2009''</ref>
+<ref name="PT20100818">[http://www.pharmatimes.com/WorldNews/article.aspx?id=18386&src=EWorldNews PharmaTimes 18 August 2010]</ref>
+}}
+
+{{Anti-dementia drugs}}
+
+[[Category:Abandoned drugs]]
+[[Category:Alcohols]]
+[[Category:Alzheimer's disease]]
+[[Category:Antidementia agents]]
+[[Category:Benzazepines]]
+[[Category:Carboxamides]]
+[[Category:Eli Lilly and Company]]
+[[Category:Lactams]]

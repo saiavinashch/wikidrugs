@@ -1,0 +1,73 @@
+{{Drugbox
+| verifiedrevid = 447923658
+| IUPAC_name = 4-benzyl-2-[2-(dimethylamino)ethyl]phthalazin-1(2''H'')-one
+| image = talastine.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_category =  
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 16188-61-7
+| ATC_prefix = R06
+| ATC_suffix = AB07
+| PubChem = 65624
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 59065
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 49AB2PA48B
+
+<!--Chemical data-->
+| C=19 | H=21 | N=3 | O=1 
+| molecular_weight = 307.39 g/mol
+| smiles = O=C1c3ccccc3\C(=N/N1CCN(C)C)Cc2ccccc2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H21N3O/c1-21(2)12-13-22-19(23)17-11-7-6-10-16(17)18(20-22)14-15-8-4-3-5-9-15/h3-11H,12-14H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = LCAAMXMULMCKLJ-UHFFFAOYSA-N
+}}
+
+'''Talastine''' (trade name '''Ahanon''') is an [[antihistamine]].<ref>{{Cite journal 
+| last1 = Richter | first1 = G. 
+| last2 = Kühn | first2 = E. 
+| title = Talastine (Ahanon) as a cause of allergic drug exanthema 
+| journal = Dermatologische Monatsschrift 
+| volume = 176 
+| issue = 2–3 
+| pages = 111–113 
+| year = 1990 
+| pmid = 1973126
+}}</ref>
+
+==Synthesis==
+The [[amide]] [[proton]] from 4-Benzylphalazone is abstracted with KOH, which is then [[alkylated]] with diethylaminoethyl [[chloride]].<ref>Engelbrecht et al., {{Cite patent|DE|1046625}}; eidem, {{US patent|3017411}} (1958, 1962, both to VEB Deutsches Hydrierwerk Rodleben).</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://ctdbase.org/detail.go?type=chem&acc=C009376 CTD's Talastine page] from the [[Comparative Toxicogenomics Database]]
+* http://chem2.sis.nlm.nih.gov/chemidplus/direct.jsp?regno=16188-61-7
+* http://www.nlm.nih.gov/cgi/mesh/2005/MB_cgi?field=uid&term=C009376
+* [http://toxnet.nlm.nih.gov/cgi-bin/sis/search/r?dbs+toxline:@term+@rn+16188-61-7+@OR+@mh+%22+talastine+%22+@OR+@na+%22+talastine+%22+@OR+@ab+%22+talastine+%22+@OR+@kw+%22+talastine+%22 Toxnet search]
+
+{{Antihistamines}}
+{{Histaminergics}}
+
+[[Category:Phthalazines]]
+[[Category:H1 receptor antagonists]]
+[[Category:Lactams]]
+[[Category:Benzyl compounds]]
+
+
+{{respiratory-system-drug-stub}}

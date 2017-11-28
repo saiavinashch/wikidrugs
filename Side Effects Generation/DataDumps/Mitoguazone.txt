@@ -1,0 +1,66 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 444738923
+| IUPAC_name = (2''E'',2<nowiki>'</nowiki>''E'')-2,2'-(1''E'',2''E'')-propane-1,2-diylidenedihydrazinecarboximidamide
+| image = mitoguazone.png
+| image2 = mitoguazone_sf.gif
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 459-86-9
+| ATC_prefix = L01
+| ATC_suffix = XX16
+| PubChem = 5351154
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = OD5Q0L447W
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07258
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 43996
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 4508218
+
+<!--Chemical data-->
+| C=5 | H=12 | N=8 
+| molecular_weight = 184.20 g/mol
+| synonyms = <small>2-<nowiki>[[</nowiki>(1''E'')-1-(Diaminomethylidenehydrazinylidene)propan-2-ylidene]amino]guanidine</small>
+| smiles = C\C(\C=N\NC(N)=N)=N/NC(N)=N
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C5H12N8/c1-3(11-13-5(8)9)2-10-12-4(6)7/h2H,1H3,(H4,6,7,12)(H4,8,9,13)/b10-2+,11-3+
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = PKDBCJSWQUOKDO-UHFFFAOYSA-M
+}}
+
+'''Mitoguazone''' (also known as methylglyoxal bis(guanylhydrazone) or MGBG) is a drug used in [[chemotherapy]].
+
+
+
+{{Chemotherapeutic agents}}
+
+[[Category:Guanidines]]
+[[Category:Antineoplastic drugs]]
+
+{{alkene-stub}}
+{{antineoplastic-drug-stub}}

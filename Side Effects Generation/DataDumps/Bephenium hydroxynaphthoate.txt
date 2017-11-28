@@ -1,0 +1,70 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 459957208
+| IUPAC_name = ''N''-benzyl-''N'',''N''-dimethyl-2-phenoxyethanaminium 3-hydroxynaphthalene-2-carboxylate
+| image = Bephenium.png
+| drug_name = 
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = Undefined
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = <1%
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion = Renal (negligible)
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 7181-73-9
+| CAS_supplemental = <br>{{CAS|3818-50-6}} (hydroxynaphtoate)
+| ATC_prefix = P02
+| ATC_suffix = CX02
+| PubChem = 19667
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 18524
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 47RU9546DX
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1673148
+
+<!--Chemical data-->
+| C=17 | H=22 | N=1 | O=1 | charge = +
+| molecular_weight = 256.36 g/mol
+| smiles = O(c1ccccc1)CC[N+](Cc2ccccc2)(C)C
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C17H22NO/c1-18(2,15-16-9-5-3-6-10-16)13-14-19-17-11-7-4-8-12-17/h3-12H,13-15H2,1-2H3/q+1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = AVWWVJUMXRXPNF-UHFFFAOYSA-N
+}}
+
+'''Bephenium hydroxynaphthoate''' ([[International Nonproprietary Name|INN]], trade names '''Alcopara''', '''Alcopar''', '''Befenium''', '''Debefenium''', '''Francin''', '''Nemex''') is an [[anthelmintic]] agent formerly used in the treatment of [[hookworm]] infections and [[ascariasis]].<ref name=Martindale>{{cite book |editor=Sweetman S |title=[[Martindale: The complete drug reference]] |edition=36th |location=London |publisher=Pharmaceutical Press |year=2009 |pages=143 |isbn=978-0-85369-840-1}}</ref><ref>{{cite journal |vauthors=Jayewardene G, Ismail MM, Wijayaratnam Y |title=Bephenium hydroxynaphthoate in treatment of ascariasis |journal=Br Med J |volume=2 |issue=5194 |pages=268–71 |date=July 1960 |pmid=14406934 |pmc=2097409 |doi=10.1136/bmj.2.5194.268}}</ref>
+
+Bephenium is not FDA-approved and is not available in the United States.<ref name=POC-IT>{{cite web |url=http://www.hopkinsguides.com/hopkins/view/Johns_Hopkins_ABX_Guide/540057/all/Bephenium_hydroxynaphthoate |title=Bephenium hydroxynaphthoate  |author=Pham PA |date=March 19, 2009 |work=Point-of-Care Information Technology ABX Guide |publisher=[[Johns Hopkins University]]}} Retrieved on March 25, 2011.</ref>
+
+==References==
+{{Reflist}}
+
+{{Anthelmintics}}
+{{Nicotinic acetylcholine receptor modulators}}
+
+[[Category:Antiparasitic agents]]
+[[Category:Quaternary ammonium compounds]]
+[[Category:Phenol ethers]]
+[[Category:Benzyl compounds]]
+[[Category:Nicotinic agonists]]
+
+{{antiinfective-drug-stub}}

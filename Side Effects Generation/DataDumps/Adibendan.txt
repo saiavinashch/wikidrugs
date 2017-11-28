@@ -1,0 +1,39 @@
+{{Chembox
+| ImageFile = Adibendan.svg
+| ImageAlt = 
+| IUPACName = 7,7-Dimethyl-2-pyridin-4-yl-1,5-dihydropyrrolo[2,3-f]benzimidazol-6-one
+| OtherNames = 
+|Section1={{Chembox Identifiers
+| CASNo = 100510-33-6
+| PubChem = 65867
+| ChemSpiderID = 59277
+| ChEMBL = 25931
+| SMILES = CC1(C2=CC3=C(C=C2NC1=O)NC(=N3)C4=CC=NC=C4)C
+| InChI = 1/C16H14N4O/c1-16(2)10-7-12-13(8-11(10)20-15(16)21)19-14(18-12)9-3-5-17-6-4-9/h3-8H,1-2H3,(H,18,19)(H,20,21)
+| InChIKey = TVLQBBHUNDMTEC-UHFFFAOYAG
+| StdInChI = 1S/C16H14N4O/c1-16(2)10-7-12-13(8-11(10)20-15(16)21)19-14(18-12)9-3-5-17-6-4-9/h3-8H,1-2H3,(H,18,19)(H,20,21)
+| StdInChIKey = TVLQBBHUNDMTEC-UHFFFAOYSA-N
+ }}
+|Section2={{Chembox Properties
+| C=16 | H=14 | N=4 | O=1
+| Appearance = 
+| Density = 
+| MeltingPt = 
+| BoilingPt = 
+| Solubility = }}
+|Section3={{Chembox Hazards
+| MainHazards = 
+| FlashPt = 
+| AutoignitionPt = }}
+}}
+
+'''Adibendan''' is an inhibitor of [[phosphodiesterase]] III.<ref>{{cite journal|pmid=2076485|year=1990|last1=Dorszewski|first1=A|last2=Müller-Beckmann|first2=B|last3=Kling|first3=L|last4=Sponer|first4=G|title=Haemodynamic profile of an inhibitor of phosphodiesterase III, adibendan (BM 14.478): Comparison with nitroprusside and dobutamine in conscious dogs|volume=101|issue=3|pages=686–90|pmc=1917742|journal=British Journal of Pharmacology|doi=10.1111/j.1476-5381.1990.tb14141.x}}</ref>
+
+==References==
+{{reflist}}
+
+
+{{pharma-stub}}
+
+[[Category:Phosphodiesterase inhibitors]]
+[[Category:Benzimidazoles]]

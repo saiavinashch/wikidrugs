@@ -1,0 +1,71 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 443716387
+| IUPAC_name = 7-(2,3-Dihydroxypropyl)-1,3-dimethyl-3,7-dihydro-1''H''-purine-2,6-dione
+| image = Diprophylline.svg
+| width = 175
+
+<!--Clinical data-->
+| tradename = Lufyllin
+| Drugs.com = {{drugs.com|CDI|dyphylline}}
+| MedlinePlus = a682494
+| pregnancy_US = C
+| legal_US = Rx-only
+| routes_of_administration = [[Oral administration|By mouth]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7070
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 479-18-5
+| ATC_prefix = R03
+| ATC_suffix = DA01
+| PubChem = 3182
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00651
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3070
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 263T0E9RR9
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00691
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 4728
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1752
+
+<!--Chemical data-->
+| C=10 | H=14 | N=4 | O=4
+| molecular_weight = 254.24 g/mol
+| smiles = O=C2N(c1ncn(c1C(=O)N2C)CC(O)CO)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H14N4O4/c1-12-8-7(9(17)13(2)10(12)18)14(5-11-8)3-6(16)4-15/h5-6,15-16H,3-4H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = KSCFJBIXMNOVSH-UHFFFAOYSA-N
+| synonyms = 7-(2,3-Dihydroxy-propyl)theophylline
+}}
+
+'''Diprophylline''' ([[International nonproprietary name|INN]])<ref name="INN">{{cite web | title = International Non-Proprietary Names. Recommended International Non-Proprietary Names (Rec. I.N.N.): List 1 | url = http://www.who.int/medicines/publications/druginformation/innlists/RL01.pdf | publisher = World Health Organization | page = 188 | date = 1955}}</ref> or '''dyphylline''' ([[United States Adopted Name|USAN]]) (trade names '''Dilor''', '''Lufyllin'''), is a [[xanthine]] [[Chemical derivative|derivative]] with [[bronchodilator]] and [[vasodilator]] effects. It is used in the treatment of [[Respiratory disease|respiratory disorder]]s like [[asthma]], [[Cardiac asthma|cardiac dyspnea]], and [[bronchitis]]. It acts as an [[adenosine receptor]] [[Receptor antagonist|antagonist]] and [[phosphodiesterase inhibitor]].<ref>{{cite journal | last1 = Schwabe | first1 = U | last2 = Ukena | first2 = D | last3 = Lohse | first3 = MJ | title = Xanthine Derivatives as Antagonists at A<sub>1</sub> and A<sub>2</sub> Adenosine Receptors | journal = Naunyn-Schmiedeberg's Archives of Pharmacology | date = September 1985 | volume = 330 | issue = 3 | pages = 212–21 | doi = 10.1007/bf00572436 | pmid = 2997628}}</ref><ref>{{cite journal | last1 = Iancu | first1 = L | last2 = Shneur | first2 = A | last3 = Cohen | first3 = H | title = Trials with Xanthine Derivatives in Systemic Treatment of Psoriasis | journal = Dermatologica | date = 1979 | volume = 159 | issue = 1 | pages = 55–61 | doi = 10.1159/000250562 | pmid = 225216}}</ref>
+
+== See also ==
+* [[Xanthine]]
+
+== References ==
+{{Reflist}}
+
+{{Asthma and copd rx}}
+{{Adenosinergics}}
+{{Stimulants}}
+{{Phosphodiesterase inhibitors}}
+
+[[Category:Adenosine receptor antagonists]]
+[[Category:Diols]]
+[[Category:Phosphodiesterase inhibitors]]
+[[Category:Xanthines]]
+
+{{respiratory-system-drug-stub}}

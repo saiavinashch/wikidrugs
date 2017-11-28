@@ -1,0 +1,77 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 470602141
+| IUPAC_name = (''RS'')-6,7-Dimethoxy-2-[4-(tetrahydrofuran-2-ylcarbonyl)piperazin-1-yl]quinazolin-4-amine
+| image = Terazosin.svg
+<!--Clinical data-->
+| tradename = Hytrin
+| Drugs.com = {{drugs.com|monograph|terazosin-hydrochloride}}
+| MedlinePlus = a693046
+| pregnancy_category =  
+| legal_US = RX-Only 
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 90-94%
+| metabolism =  
+| elimination_half-life = 12 hours
+<!--Identifiers-->
+| IUPHAR_ligand = 7302
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 63590-64-7
+| ATC_prefix = G04
+| ATC_suffix = CA03
+| ATC_supplemental =  
+| PubChem = 5401
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01162
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5208
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 8L5014XET7
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08569
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 9445
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 611
+<!--Chemical data-->
+| C=19 | H=25 | N=5 | O=4
+| molecular_weight = 387.433 g/mol
+| smiles = O=C(N3CCN(c2nc1cc(OC)c(OC)cc1c(n2)N)CC3)C4OCCC4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H25N5O4/c1-26-15-10-12-13(11-16(15)27-2)21-19(22-17(12)20)24-7-5-23(6-8-24)18(25)14-4-3-9-28-14/h10-11,14H,3-9H2,1-2H3,(H2,20,21,22)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = VCKUSRYTPJJLNI-UHFFFAOYSA-N
+| synonyms = <small>[4-(4-amino-6,7-dimethoxy-quinazolin-2-yl)piperazin-1-yl]-tetrahydrofuran-2-yl-methanone</small>
+}}
+'''Terazosin''' (marketed as '''Hytrin '''or''' Zayasel''') is a selective [[alpha-1 blocker|alpha-1 antagonist]] used for treatment of symptoms of an enlarged [[prostate]] ([[benign prostatic hyperplasia|BPH]]). It also acts to lower the [[blood pressure]], and is therefore a drug of choice for men with [[hypertension]] and prostate enlargement.  It is available in 1&nbsp;mg, 2&nbsp;mg, 5&nbsp;mg or 10&nbsp;mg doses.<ref>[https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d971811c-d327-4e63-808c-8d553ee471e7 Terazosin Hydrochloride Capsule, DailyMed, National Library of Medicine, National Institutes of Health]</ref>
+
+It works by blocking the action of [[adrenaline]] on [[smooth muscle]] of the [[urinary bladder|bladder]] and the [[blood vessel]] walls.
+
+Most common side effects include dizziness, drowsiness, headache, constipation, loss of appetite, fatigue, nasal congestion or dry eyes, but they generally go away after only a few days of use. Therapy should always be started with a low dose to avoid [[first dose phenomenon]].<ref>[http://www.rxlist.com/cgi/generic/teraz_wcp.htm Hytrin (Terazosin Hcl) drug warnings and precautions - prescription drugs and medications at RxList<!-- Bot generated title -->]</ref> Sexual side effects are rare, but may include [[priapism]] or [[erectile dysfunction]].
+
+    
+==Synthesis==
+[[File:Terazocin synthesis.svg|thumb|center|700px|Terazocin synthesis:<ref>M. Winn, J. Kyncl, D. A. Dunnigan, and P. H. Jones, {{US
+Patent|4,026,894}} (1977); Chem. Abstr., 87; 68411m (1977).</ref>]]
+Reaction of piperazine with 2-furoyl chloride followed by [[catalytic hydrogenation]] of the furan ring leads to '''2'''. This, when heated in the presence of 2-chloro-6,7-dimethoxyquinazolin-4-amine ('''1''') undergoes direct alkylation to terazocin ('''3''').
+
+==See also==
+*[[Prazosin]]
+*[[Tiodazosin]]
+*[[Doxazosin]]
+*[[Alfuzosin]]
+
+== References ==
+<references/>
+
+{{Drugs used in benign prostatic hypertrophy}}
+{{Alpha blockers}}
+
+[[Category:Alpha blockers]]
+[[Category:Tetrahydrofurans]]
+[[Category:Piperazines]]
+[[Category:Quinazolines]]
+[[Category:Phenol ethers]]
+[[Category:Carboxamides]]

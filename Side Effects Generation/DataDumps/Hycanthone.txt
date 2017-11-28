@@ -1,0 +1,85 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 407389823
+| IUPAC_name = 1-(2-Diethylaminoethylamino)-4-(hydroxymethyl)-9-thioxanthenone
+| image = Hycanthone.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 3105-97-3
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 3634
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 2BXX5EVN2A
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 52768
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00541
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 22077
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 3508
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C20H24N2O2S/c1-3-22(4-2)12-11-21-16-10-9-14(13-23)20-18(16)19(24)15-7-5-6-8-17(15)25-20/h5-10,21,23H,3-4,11-13H2,1-2H3
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = MFZWMTSUNYWVBU-UHFFFAOYSA-N
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=20 | H=24 | N=2 | O=2 | S=1 
+| molecular_weight = 356.48 g/mol
+| smiles = CCN(CC)CCNC1=C2C(=C(C=C1)CO)SC3=CC=CC=C3C2=O
+}}
+
+'''Hycanthone''' is the [[schistosomicide]] approved by the FDA in 1975.  It is a metabolite of [[lucanthone]]. Hycanthone interferes with [[parasite]] nerve function, resulting in [[paralysis]] and death. This agent also intercalates into DNA and inhibits RNA synthesis ''[[in vitro]]'' and shows potential [[antineoplastic]] activity.<ref>[http://www.cancer.gov/drugdictionary?cdrid=39477 NCI Cancer Dictionary]</ref>
+
+==Anti-schistosomal activity==
+Hycanthone is shown to be an effective inhibitor of [[acetylcholinesterase]] (AChE) from ''[[Schistosoma mansoni]]'', but is less potential against AChE from mammalian origin. This might come from differences in the configuration of active center between schistosome and mammalian AChE enzymes..<ref>{{cite journal  | title = Anticholinergic properties of the antischistosomal drug hycanthone |  volume = 24 | issue = 5 | pages = 827–834 | year = 1975 | pmid =1190369  | last1 = Hillman  | first1 = GR  | last2 = Senft  | first2 = AW  | journal = The American journal of tropical medicine and hygiene }}</ref>
+
+Hycanthone is shown to [[Intercalation (biochemistry)|intercalates]] into DNA and inhibit RNA synthesis ''[[in vitro]]''. A growing body of evidence has shown that hycathone has an [[antineoplastic]] activity.
+
+==Clinical trials==
+* Phase II Study of Chemotherapy with Hycanthone for Advanced Colorectal Carcinoma (Completed)
+* Phase II Chemotherapy with Hycanthone Mesylate and Flagyl for Advanced Malignant Lymphomas (Completed)<ref>http://www.cancer.gov/clinicaltrials/search/results?protocolsearchid=10235377</ref>
+
+==Physical properties==
+{| class="wikitable"
+|-
+| '''[[State of matter|Physical state]]''' || Solid
+|-
+| '''[[Solubility]]''' || Soluble in ethanol, methanol, DMSO, and water
+|-
+| '''[[Absorption maximum]]''' || 233, 258, 329, 438 nm 
+|-
+| '''[[Melting point]]''' || 173-176 °C
+|-
+| '''[[Partition coefficient|logP]]''' || 3.74
+|}
+==References==
+{{reflist}}
+
+[[Category:Antiparasitic agents]]
+[[Category:Thioxanthones]]

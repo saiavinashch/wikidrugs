@@ -1,0 +1,71 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 444779295
+| ImageFile=Iodoquinol.png
+| ImageSize=150px
+| ImageAlt=Skeletal formula of diiodohydroxyquinoline
+| ImageFile1=Iodoquinol 3D ball.png
+| ImageSize1=160
+| ImageAlt1=Ball-and-stick model of the diiodohydroxyquinoline molecule
+| IUPACName=5,7-diiodoquinolin-8-ol
+| OtherNames= Diquinol, [[iodoxin]], diiodoquin, amebaquin
+|Section1={{Chembox Identifiers
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo=83-73-8
+| PubChem=3728
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 86754
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00581
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 63W7IE88K8
+| SMILES=C1=CC2=C(C(=C(C=C2I)I)O)N=C1
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 3597
+| InChI = 1/C9H5I2NO/c10-6-4-7(11)9(13)8-5(6)2-1-3-12-8/h1-4,13H
+| InChIKey = UXZFQZANDVDGMM-UHFFFAOYAF
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C9H5I2NO/c10-6-4-7(11)9(13)8-5(6)2-1-3-12-8/h1-4,13H
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = UXZFQZANDVDGMM-UHFFFAOYSA-N
+| MeSHName=Iodoquinol
+  }}
+|Section2={{Chembox Properties
+| Formula=C<sub>9</sub>H<sub>5</sub>I<sub>2</sub>NO
+| MolarMass=396.951
+| Appearance=
+| Density=
+| MeltingPt=
+| BoilingPt=
+| Solubility=
+  }}
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = G01
+| ATCCode_suffix = AC01
+}}
+|Section7={{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| AutoignitionPt =
+  }}
+}}
+
+The [[quinoline]] derivative '''diiodohydroxyquinoline''' ([[International Nonproprietary Name|INN]]) or '''iodoquinol''' ([[United States Adopted Name|USAN]]), can be used in the treatment of [[amoebiasis]].<ref name="pmid2493578">{{cite journal |vauthors=Ghaskadbi S, Vaidya VG |title=In vivo antimutagenic effect of ascorbic acid against mutagenicity of the common antiamebic drug diiodohydroxyquinoline |journal=Mutat. Res. |volume=222 |issue=3 |pages=219–22 |date=March 1989 |pmid=2493578 |doi= 10.1016/0165-1218(89)90137-7|url=}}</ref>
+
+It is poorly absorbed from the [[gastrointestinal tract]] and is used as a luminal amebicide. It acts by [[chelation]] of [[ferrous ion]]s essential for metabolism.<ref>{{cite web|url=http://web.gideononline.com/web/therapy/index.php?type=drugs&code=20130&view=General |work=Gideon Online}}</ref>
+
+It was discovered by Adco Co. and introduced as ''diiodohydroxyquinoline''.<ref>{{Cite book|url=https://books.google.com/books?id=TIu28TH_iAYC|title=Pharmaceutical Manufacturing Encyclopedia|edition=3rd|last=Publishing|first=William Andrew|date=2013-01-15|publisher=Elsevier Science|isbn=9780080947266|page=1312|language=en}}</ref>
+
+Susceptibility of ''[[Dientamoeba fragilis]]'' has been measured.<ref name="pmid8067755">{{cite journal |vauthors=Chan FT, Guan MX, Mackenzie AM, Diaz-Mitoma F |title=Susceptibility testing of Dientamoeba fragilis ATCC 30948 with iodoquinol, paromomycin, tetracycline, and metronidazole |journal=Antimicrob. Agents Chemother. |volume=38 |issue=5 |pages=1157–60 |date=May 1994 |pmid=8067755 |pmc=188168 |doi= 10.1128/aac.38.5.1157|url=http://aac.asm.org/cgi/pmidlookup?view=long&pmid=8067755}}</ref>
+
+Iodoquinol is an amebocide used against ''[[Entamoeba histolytica]]'', and it is active against both [[Microbial cyst|cyst]] and trophozoites that are localized in the lumen of the intestine. It is considered the drug of choice for treating asymptomatic or moderate forms of amebiasis. The mechanism of action is unknown. Iodoquinol is used for diseases caused by moderate intestinal amebiasis.
+
+==References==
+{{reflist}}
+
+{{Agents against amoebozoa}}
+{{Excavata antiparasitics}}
+
+[[Category:Iodoarenes]]
+[[Category:Quinolinols]]

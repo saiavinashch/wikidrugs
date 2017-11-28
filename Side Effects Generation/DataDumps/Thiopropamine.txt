@@ -1,0 +1,68 @@
+{{Drugbox
+| verifiedrevid = 456495512
+| IUPAC_name = 1-(thiophen-2-yl)-2-aminopropane
+| image = Amthietamine_structure.png
+| image2 = thiopropamine.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = 
+| legal_US = 
+| legal_DE = Anlage I
+
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 30433-93-3
+| ATC_prefix =  
+| ATC_suffix =  
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 95500
+| PubChem = 6484133
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4984575
+| UNII = N60H4ZDD14
+
+<!--Chemical data-->
+| C=7 | H=11 | N=1 | S=1 
+| molecular_weight = 141.233 g/mol
+| smiles = CC(N)Cc1sccc1
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C7H11NS/c1-6(8)5-7-3-2-4-9-7/h2-4,6H,5,8H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = NYVQQTOGYLBBDQ-UHFFFAOYSA-N
+}}
+
+'''Thiopropamine''' is a [[stimulant]] drug which is an [[analog (chemistry)|analogue]] of [[amphetamine]] where the [[phenyl]] ring has been replaced by [[thiophene]]. It has similar stimulant effects to amphetamine but with around one third the potency. The [[Methiopropamine|N-methyl]] and thiophen-3-yl analogues are also known and are somewhat more potent, though still generally weaker than the corresponding amphetamines.<ref>{{cite journal |url=http://jpet.aspetjournals.org/content/72/3/265.abstract |last1=Alles |first1=Gordon A. |last2= Feigen |first2=George A. |title=Comparative Physiological Actions of Phenyl-, Thienyl- and Furylisopropylamines |journal=Journal of Pharmacology and Experimental Therapeutics |date=July 1941 |volume=72 |issue=3 |pages=265–75}}</ref><ref>{{cite journal |doi=10.1021/ja01646a054 |title=3-Substituted Thiophenes. VIII. 3-Thienylalkylamines |date=September 1954 |last1=Campaigne |first1=E. |last2=McCarthy |first2=Walter C. |journal=Journal of the American Chemical Society |volume=76 |issue=17 |pages=4466–4468}}</ref>
+
+==Pharmacology==
+Like [[amphetamine]] and most of its [[substituted amphetamine|analogues]], thiopropamine most likely is a [[norepinephrine-dopamine reuptake inhibitor]] and/or [[norepinephrine-dopamine releasing agent|releasing agent]].{{Citation needed|date=May 2015}}
+
+Thiopropamine is likely to be [[metabolized]] into active 4-hydroxymethiopropamine and [[thiophene]] S-[[oxide]]s.<ref>{{cite journal |doi=10.1021/ja962466g |title=Chemical and Biological Oxidation of Thiophene:  Preparation and Complete Characterization of Thiophene ''S''-Oxide Dimers and Evidence for Thiophene ''S''-Oxide as an Intermediate in Thiophene Metabolism ''in Vivo'' and ''in Vitro'' |date=February 1997 |last1=Treiber |first1=Alexander |last2=Dansette |first2=Patrick M. |last3=El Amri |first3=Hamid |last4=Girault |first4=Jean-Pierre |last5=Ginderow |first5=Daria |last6=Mornon |first6=Jean-Paul |last7=Mansuy |first7=Daniel |journal=Journal of the American Chemical Society |volume=119 |issue=7 |pages=1565–1571}}</ref><ref>{{cite journal |doi=10.1016/S0006-291X(05)81594-3 |title=Evidence for thiophene-s-oxide as a primary reactive metabolite of thiophene in vivo: Formation of a dihydrothiophene sulfoxide mercapturic acid |date=August 1992 |last1=Dansette |first1=P.M. |last2=Thang |first2=Do Cao |last3=Mansuy |first3=H. El Amri D. |journal=Biochemical and Biophysical Research Communications |volume=186 |issue=3 |pages=1624–1630 |pmid=1510686 |last4=Mansuy |first4=D}}</ref> These are further [[deamination|deaminated]] by CYP2C in [[liver]] transforming them into inactive 1-(Thiophen-2-yl)-2-propan-2-one which is a [[phenylacetone]] derivative.<ref>{{cite journal |pmid=9076658 |date=February 1997 |last1=Yamada |first1=H |last2=Shiiyama |first2=S |last3=Soejima-Ohkuma |first3=T |last4=Honda |first4=S |last5=Kumagai |first5=Y |last6=Cho |first6=AK |last7=Oguri |first7=K |last8=Yoshimura |first8=H |title=Deamination of amphetamines by cytochromes P450: Studies on substrate specificity and regioselectivity with microsomes and purified CYP2C subfamily isozymes |volume=22 |issue=1 |pages=65–73 |journal=The Journal of Toxicological Sciences |doi=10.2131/jts.22.65}}</ref> Propan-2-amines are not metabolized by [[monoamine oxidase]]s and most actually behave as [[competitive inhibition|competitive]] [[monoamine oxidase inhibitor]]s.<ref>{{cite journal |doi=10.1016/0006-2952(76)90432-9 |title=Inhibition of monoamine oxidase by amphetamine and related compounds |date=September 1976 |last1=Mantle |first1=Timothy J. |last2=Tipton |first2=Keith F. |last3=Garrett |first3=Nigel J. |journal=[[Biochemical Pharmacology (journal)|Biochemical Pharmacology]] |volume=25 |issue=18 |pages=2073–2077 |pmid=985546}}</ref><ref>{{cite journal |doi=10.1016/0006-2952(80)90429-3 |title=In vivo monoamine oxidase inhibition by d-amphetamine |date=May 1980 |last1=Miller |first1=Harold H. |last2=Shore |first2=Parkhurst A. |last3=Clarke |first3=David E. |journal=Biochemical Pharmacology |volume=29 |issue=10 |pages=1347–1354 |pmid=6901611}}</ref>
+
+==References==
+{{Reflist|2}}
+
+{{Stimulants}}
+
+{{DEFAULTSORT:Thiophen-2-yl)-2-aminopropane, 1-(}}
+[[Category:Amines]]
+[[Category:Designer drugs]]
+[[Category:Stimulants]]
+[[Category:Thiophenes]]
+[[Category:Norepinephrine-dopamine reuptake inhibitors]]
+
+
+{{nervous-system-drug-stub}}

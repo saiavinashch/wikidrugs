@@ -1,0 +1,74 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 443226059
+| Name = Metiamide
+| IUPACName = 1-Methyl-3-[2-[(5-methyl-1''H''-imidazol-4-yl)methylsulfanyl]ethyl]thiourea
+| ImageFile = Metiamide.svg
+| ImageSize = 200px
+| ImageName = Metiamide
+
+| Section1 = {{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 3K7670861M
+| IUPHAR_ligand = 1233
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB08805
+| ChemSpiderID = 1265996
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C9H16N4S2/c1-7-8(13-6-12-7)5-15-4-3-11-9(14)10-2/h6H,3-5H2,1-2H3,(H,12,13)(H2,10,11,14)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = FPBPLBWLMYGIQR-UHFFFAOYSA-N
+| SMILES = S=C(NC)NCCSCc1ncnc1C
+| CASNo_Ref = {{cascite|changed|??}}
+| CASNo = 34839-70-8
+| PubChem = 1548992
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 275446
+}}
+
+| Section2 = {{Chembox Properties
+| C=9 | H=16 | N=4 | S=2 
+| Appearance = 
+| Density = 
+| Solubility = 
+| MeltingPt = 
+| BoilingPt = 
+  }}
+}}
+
+'''Metiamide''' is a histamine [[H2 antagonist|H<sub>2</sub> receptor antagonist]] developed from another H<sub>2</sub> antagonist, [[burimamide]].<ref name="Clayden">{{Clayden|pages=204–206, 586-588}}</ref> It was an intermediate compound in the development of the successful anti-ulcer drug [[cimetidine]] (Tagamet).<ref name="ACS Landmarks">{{cite web|url=http://portal.acs.org/portal/PublicWebSite/education/whatischemistry/landmarks/cimetidinetagamet/ |archive-url=https://archive.is/20121209003707/http://portal.acs.org/portal/PublicWebSite/education/whatischemistry/landmarks/cimetidinetagamet/ |dead-url=yes |archive-date=December 9, 2012 |title=Tagamet<sup>®</sup>: Discovery of Histamine H<sub>2</sub>-receptor Antagonists |publisher=American Chemical Society |work=National Historic Chemical Landmarks |accessdate=June 25, 2012 }}</ref>
+
+==Development of metiamide from burimamide==
+After discovering that [[burimamide]] is largely inactive at physiological pH, due to the presence of its [[electron]]-donating [[side chain]], the following steps were undertaken to stabilize burimamide:
+
+* addition of a [[thioether|sulfide]] group close to the [[imidazole]] ring, giving thiaburimamide
+* addition of [[methyl]] group to the 4-position on the [[imidazole]] ring to favor the [[tautomer]] of thiaburimamide which binds better to the H<sub>2</sub> receptor
+
+These changes increased the [[bioavailability]] metiamide so that it is ten times more potent than [[burimamide]] in inhibiting histamine-stimulated release of [[gastric acid]].<ref name="ACS Landmarks"/> The clinical trials that began in 1973 demonstrated the ability of metiamide to provide symptomatic relief for ulcerous patients by increasing healing rate of [[peptic ulcers]]. However, during these trials, an unacceptable number of patients dosed with metiamide developed [[agranulocytosis]] (decreased white blood cell count).<ref name="ACS Landmarks"/>
+
+==Modification of metiamide to cimetidine==
+It was determined that the [[thiourea]] group was the cause of the [[agranulocytosis]]. Therefore, replacement of the [[thiocarbonyl]] in the [[thiourea]] group was suggested:
+
+* with [[urea]] or [[guanidine]] resulted in a compound with much less activity (only 5% of the potency of metiamide)
+* however, the NH form (the guanidine analog of metiamide) did not show [[agonist]]ic effects
+* to prevent the guanidine group being protonated at physiological pH, electron-withdrawing groups were added
+* adding a [[nitrile]] or [[nitro group]] prevented the guanidine group from being protonated and did not cause [[agranulocytosis]]
+
+The nitro and cyano groups are sufficiently [[electronegative]] to reduce the [[Acid dissociation constant|pK<sub>a</sub>]] of the neighboring [[nitrogen]]s to the same [[acidity]] of the thiourea group, hence preserving the activity of the drug in a physiological environment.
+
+==Synthesis==
+
+Reacting ethyl 2-chloroacetoacetate ('''1''') with 2 [[molar equivalent]]s of [[formamide]] ('''2''') gives 4-carboethoxy-5-methylimidazole ('''3'''). Reduction of the carboxylic ester ('''3''') with sodium in liquid ammonia via [[Birch reduction]] gives the corresponding alcohol ('''4'''). Reaction of that with [[cysteamine]] (mercaptoethylamine), as its hydrochloride, leads to intermediate '''5'''. In the strongly acid medium, the amine is completely protonated; this allows the [[thiol]] to express its [[nucleophilicity]] without competition and the acid also activates the alcoholic function toward displacement. Finally, condensation of the amine with [[methyl isothiocyanate]] gives metiamide ('''6''').
+[[File:Metiamide synthesis.svg|thumb|left|700px|Metiamide synthesis:<ref>{{Cite journal | doi = 10.1021/jm00229a013| title = Potential histamine H2-receptor antagonists. 3. Methylhistamines| journal = Journal of Medicinal Chemistry| volume = 19| issue = 7| pages = 923| year = 1976| last1 = Durant | first1 = G. J. | last2 = Emmett | first2 = J. C. | last3 = Ganellin | first3 = C. R. | last4 = Roe | first4 = A. M. | last5 = Slater | first5 = R. A. }}</ref><ref>{{Cite journal | doi = 10.1021/jm00217a007| title = Cyanoguanidine-thiourea equivalence in the development of the histamine H2-receptor antagonist, cimetidine| journal = Journal of Medicinal Chemistry| volume = 20| issue = 7| pages = 901| year = 1977| last1 = Durant | first1 = G. J.| last2 = Emmett | first2 = J. C.| last3 = Ganellin | first3 = C. R.| last4 = Miles | first4 = P. D.| last5 = Parsons | first5 = M. E.| last6 = Prain | first6 = H. D.| last7 = White | first7 = G. R.}}</ref>]]{{-}}
+
+==References==
+{{reflist}}
+
+{{Histaminergics}}
+
+[[Category:H2 receptor antagonists]]
+[[Category:Imidazoles]]
+[[Category:Thioethers]]
+[[Category:Thioureas]]

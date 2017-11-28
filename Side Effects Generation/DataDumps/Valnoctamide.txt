@@ -1,0 +1,106 @@
+{{Chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 477867699
+| ImageFile = Valnoctamide.svg
+| ImageFile_Ref = {{chemboximage|correct|??}}
+| ImageSize = 160
+| ImageName = Skeletal formula of valnoctamide
+| ImageFile1 = Valnoctamide3D.gif
+| IUPACName = 2-Ethyl-3-methylpentanamide<ref>{{Cite web|title=valnoctamide - Compound Summary|url=https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=20140|work=PubChem Compound|publisher=National Center for Biotechnology Information|accessdate=20 February 2012|location=USA|date=26 March 2005|at=Identification and Related Records}}</ref>
+|Section1={{Chembox Identifiers
+| CASNo = 4171-13-5
+| CASNo_Ref = {{cascite|changed|??}}
+| PubChem = 20140
+| PubChem1 = 36689722
+| PubChem1_Comment = <small>2''R'',3''R''</small>
+| PubChem2 = 10313196
+| PubChem2_Comment = <small>2''R'',3''S''</small>
+| PubChem3 = 25271745
+| PubChem3_Comment = <small>2''S'',3''R''</small>
+| PubChem4 = 12015994
+| PubChem4_Comment = <small>2''S'',3''S''</small>
+| ChemSpiderID = 18974
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID1 = 8488661
+| ChemSpiderID1_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID1_Comment = <small>2''R'',3''S''</small>
+| UNII = 3O25NRX9YG
+| UNII_Ref = {{fdacite|correct|FDA}}
+| EINECS = 224-033-7
+| KEGG = D02717
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| MeSHName = valnoctamide
+| ChEMBL = 1075733
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| RTECS = YV5950000
+| SMILES = CCC(C)C(CC)C(N)=O
+| StdInChI = 1S/C8H17NO/c1-4-6(3)7(5-2)8(9)10/h6-7H,4-5H2,1-3H3,(H2,9,10)
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = QRCJOCOSPZMDJY-UHFFFAOYSA-N
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+}}
+|Section2={{Chembox Properties
+| C=8 | H=17 | N=1 | O=1
+| Appearance = White crystals
+| LogP = 1.885
+}}
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = N05
+| ATCCode_suffix = CM13
+| Bioavail = 94%
+| AdminRoutes = {{Unbulleted list|Intravenous|Oral}}
+| Metabolism = Hepatic
+| HalfLife = 10 hours
+}}
+|Section7={{Chembox Hazards
+| GHSPictograms = {{GHS exclamation mark}}
+| GHSSignalWord = '''WARNING'''
+| HPhrases = {{H-phrases|302}}
+| LD50 = 760 mg kg<sup>−1</sup> <small>(oral, rat)</small>
+}}
+|Section8={{Chembox Related
+| OtherFunction_label = alkanamides
+| OtherFunction = [[Valpromide]]
+| OtherCompounds = {{Unbulleted list|[[2-Methylpentane]]|[[3-Methylpentane]]|[[3-Ethylpentane]]|[[2-Ethyl-1-butanol]]|[[2-Methylhexane]]|[[3-Methylhexane]]|[[2-Methylheptane]]|[[3-Methylheptane]]|[[2-Ethylhexanol]]|[[2-Ethylhexanoic acid]]}}
+}}
+}}
+
+'''Valnoctamide''' ([[International Nonproprietary Name|INN]], [[United States Approved Name|USAN]]) has been used in France as a [[sedative]]-[[hypnotic]] since 1964.<ref name="Harl_1964">{{cite journal | first = F. M. | last = Harl |date=March 1964 | language = French | title = [Clinical Study Of Valnoctamide On 70 Neuropsychiatric Clinic Patients Undergoing Ambulatory Treatment] | journal = La Presse Médicale | volume = 72 | pages = 753–754 | pmid = 14119722}}</ref> It is a [[structural isomer]] of [[valpromide]], a [[valproic acid]] [[prodrug]]; unlike valpromide, however, valnoctamide is not transformed into its [[acid|homologous acid]], [[valnoctic acid]], ''[[in vivo]]''.<ref name=not-into-vpa>{{cite journal | first = Abdullah | last = Haj-Yehia |author2=Meir Bialer  |date=August 1989 | title = Structure-pharmacokinetic relationships in a series of valpromide derivatives with antiepileptic activity | journal = Pharmaceutical Research | volume = 6 | issue = 8 | pages = 683–689 | pmid = 2510141 | doi = 10.1023/A:1015934321764}}</ref>
+
+==Indications==
+In addition to being a sedative, valnoctamide has been investigated for use in [[epilepsy]].<ref name=Mattos_Nda_1969>{{cite journal | first = S. | last = Mattos Nda |date=May 1969| language = Portuguese | title = [Use of Valnoctamide (nirvanil) in oligophrenic erethics and epileptics] | journal = Hospital (Rio J) | volume = 75 | issue = 5 | pages = 1701–1704 | pmid = 5306499}}</ref><ref name=Lindekens_et_al_2000>{{cite journal | first = H. | last = Lindekens |author2=Ilse Smolders |author3=Ghous M. Khan |author4=Meir Bialer |author5=Guy Ebinger |author6=Yvette Michotte  |date=November 2000 | title = In vivo study of the effect of valpromide and valnoctamide in the pilocarpine rat model of focal epilepsy | journal = Pharmaceutical Research | volume = 17 | issue = 11 | pages = 1408–1413 | pmid = 11205735 | doi = 10.1023/A:1007559208599}}</ref><ref>{{cite journal | last = Rogawski | first= MA |title = Diverse mechanisms of antiepileptic drugs in the development pipeline | journal = Epilepsy Res | year = 2006 | volume = 69 | issue = 3 | pages = 273–294 | pmid = 16621450 | pmc = 1562526 | doi=10.1016/j.eplepsyres.2006.02.004}}</ref>
+
+It was studied for [[neuropathic pain]] in 2005 by Winkler et al., with good results: it had minimal effects on [[motor coordination]] and alertness at effective doses, and appeared to be equally effective as [[gabapentin]].<ref name=pain>{{cite journal | first = Ilan | last = Winkler |author2=Simcha Blotnik |author3=Jakob Shimshoni |author4=Boris Yagen |author5=Marshall Devor |author6=Meir Bialer  |date=September 2005 | title = Efficacy of antiepileptic isomers of valproic acid and valpromide in a rat model of neuropathic pain | journal = [[British Journal of Pharmacology]] | pmid = 15997234 | doi = 10.1038/sj.bjp.0706310 | volume = 146 | pages = 198–208 | issue = 2 | pmc = 1576263}}</ref>
+
+RH Belmaker, Yuly Bersudsky and Alex Mishory started a clinical trial of valnoctamide for [[prophylaxis]] of [[mania]] in lieu of the much more teratogenic valproic acid or its salts.<ref name=kinder_gentler_valproate>{{cite web |author1=RH Belmaker |author2=Yuly Bersudsky |author3=Alex Mishory |author4=Beersheva Mental Health Center | year = 2005 | title = Valnoctamide in Mania | url = http://www.clinicaltrials.gov/ct/gui/show/NCT00140179?order=213 | work = ClinicalTrials.gov | publisher = United States National Institutes of Health | accessdate = 25 February 2006}}</ref>
+
+==Side effects==
+The [[adverse drug reaction|side effect]]s of valnoctamide are mostly minor and include [[somnolence]] and the slight motor impairments mentioned above.<!--Those were really the only two I could find-->
+
+==Interactions==
+Valnoctamide is known to increase through inhibition of [[epoxide]] [[hydrolase]] the serum levels of carbamazepine-10,11-epoxide, the [[metabolite|active metabolite]] of [[carbamazepine]], sometimes to toxic levels.<ref name=carbamazepine>{{cite journal | last1 = Pisani | first1 = F | last2 = Fazio | first2 = A | last3 = Artesi | first3 = C | last4 = Oteri | first4 = G | last5 = Spina | first5 = E | last6 = Tomson | first6 = T | last7 = Perucca | first7 = E | title = Impairment of carbamazepine-10, 11-epoxide elimination by valnoctamide, a valpromide isomer, in healthy subjects | journal = British Journal of Clinical Pharmacology | volume = 34 | issue = 1 | pages = 85–87 | year = 1992 | pmid = 1352988 | pmc = 1381382 | doi=10.1111/j.1365-2125.1992.tb04114.x}}</ref>
+
+==Chemistry==
+Valnoctamide is a [[racemic]] compound with four [[stereoisomers]],<ref>Shimon Barel, Boris Yagen, Volker Schurig, Stephan Sobak, Francesco Pisani, Emilio Perucca and Meir Bialer. [http://www.nature.com/clpt/journal/v61/n4/full/clpt199736a.html Stereoselective pharmacokinetic analysis of valnoctamide in healthy subjects and in patients with epilepsy]. ''Clinical Pharmacology & Therapeutics 61, 442–449 (April 1997)'' {{doi|10.1016/S0009-9236(97)90194-6}}</ref> all of which were shown to be more effective than valproic acid in animal models of epilepsy and one of which [(2''S'',3''S'']-valnoctamide) was considered to be a good candidate by Isoherranen, et al. for an anticonvulsant in August 2003.<ref name=2s3s>{{cite journal | first = Nina | last = Isoherranen |author2=H. Steve White |author3=Brian D. Klein |author4=Michael Roeder |author5=José H. Woodhead |author6=Volker Schurig |author7=Boris Yagen |author8=Meir Bialer  |date=August 2003 | title = Pharmacokinetic-pharmacodynamic relationships of (2S,3S)-valnoctamide and its stereoisomer (2R,3S)-valnoctamide in rodent models of epilepsy | journal = Pharmaceutical Research | volume = 20 | issue = 8 | pages = 1293–1301 | pmid = 12948028 | doi = 10.1023/A:1025069519218}}</ref>
+
+[[Butabarbital]] can be hydrolyzed to Valnoctamide.<ref name="FreifelderGeiszler1961">{{cite journal|last1=Freifelder|first1=Morris|last2=Geiszler|first2=Adolph O.|last3=Stone|first3=George R.|title=Hydrolysis of 5,5-Disubstituted Barbituric Acids|journal=The Journal of Organic Chemistry|volume=26|issue=1|year=1961|pages=203–206|issn=0022-3263|doi=10.1021/jo01060a048}}</ref>
+
+==References==
+{{Reflist|2}}
+
+
+{{Anticonvulsants}}
+{{Hypnotics and sedatives}}
+{{Mood stabilizers}}
+{{Ion channel modulators}}
+{{GABA metabolism and transport modulators}}
+{{HDAC inhibitors}}
+
+[[Category:Carboxamides]]
+[[Category:Anticonvulsants]]
+[[Category:GABA analogues]]
+[[Category:Mood stabilizers]]
+[[Category:GABA transaminase inhibitors]]
+[[Category:Histone deacetylase inhibitors]]
+[[Category:Prodrugs]]

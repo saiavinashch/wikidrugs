@@ -1,0 +1,78 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 447984244
+| IUPAC_name = [(1-benzyl-1''H''-indazol-3-yl)oxy]acetic acid
+| image = Bendazac.svg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|bendazac}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Topical
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 20187-55-7
+| ATC_prefix = M02
+| ATC_suffix = AA11
+| ATC_supplemental = {{ATC|S01|BC07}}
+| PubChem = 2313
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2223
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = G4AG71204O
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01594
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 31257
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1089221
+<!--Chemical data-->
+| C=16 | H=14
+| N=2 | O=3
+| molecular_weight = 282.294 g/mol
+| smiles = O=C(O)COc2nn(c1ccccc12)Cc3ccccc3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H14N2O3/c19-15(20)11-21-16-13-8-4-5-9-14(13)18(17-16)10-12-6-2-1-3-7-12/h1-9H,10-11H2,(H,19,20)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = BYFMCKSPFYVMOU-UHFFFAOYSA-N
+}}
+
+'''Bendazac''' (or '''bendazolic acid''') is a [[nonsteroidal anti-inflammatory drug]] (NSAID) used for joint and muscular pain.
+
+==Synthesis==
+Principal action is inhibition of protein denaturation.
+[[File:Bendazac synthesis.svg|thumb|center|700px|Bendazac synthesis: {{Cite patent|BE|699226}}; G. Palazzo, {{US patent|3470194}} (1967, 1969 both to [[Francesco Angelini]]).]]
+Use of [[chloroacetamide]] in the alkylation step, followed by acid hydrolysis produces bendazac (instead of [[benzydamine]]).
+
+==See also==
+* [[Benzydamine]]
+
+==References==
+{{Reflist|2}}
+
+
+{{NSAIDs}}
+{{Topical products for joint and muscular pain}}
+{{Prostanoidergics}}
+
+[[Category:Hepatotoxins]]
+[[Category:Nonsteroidal anti-inflammatory drugs]]
+
+
+{{musculoskeletal-drug-stub}}
+{{analgesic-stub}}

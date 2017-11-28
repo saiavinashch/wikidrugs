@@ -1,0 +1,80 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 460036705
+| ImageFile = Cilazapril structure.svg
+| ImageFile_Ref = {{chemboximage|correct|??}}
+| ImageSize = 222
+| ImageName = Kekulé, stereo, skeletal formula of cilazapril ((1S,9S)-9-[(2S)-2-yl]amin,-1-carbox)
+| IUPACName = (4''S'',7''S'')-7-<nowiki>[[</nowiki>(2''S'')-1-Ethoxy-1-oxo-4-phenylbutan-2-yl]amino]-6-oxo-1,2,3,4,7,8,9,10-octahydropyridazino[1,2-a]diazepine-4-carboxylic acid
+| SystematicName = 
+
+|Section1 = {{Chembox Identifiers
+| IUPHAR_ligand = 6459
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 8Q9454114Q
+| CASNo_Ref = {{cascite|changed|CAS}}
+| CASNo = 88768-40-5
+| PubChem = 56330
+| PubChem1 = 40467985
+| PubChem1_Comment = (1''R'',9''S'')-(2''S'')-butylamino isomer
+| ChemSpiderID = 50831
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| KEGG = D07699
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| ChEMBL = 515606
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01340
+| SMILES = CCOC(=O)C(CCc1ccccc1)NC1CCCN2CCCC(N2C1=O)C(O)=O
+| StdInChI = 1S/C22H31N3O5/c1-2-30-22(29)18(13-12-16-8-4-3-5-9-16)23-17-10-6-14-24-15-7-11-19(21(27)28)25(24)20(17)26/h3-5,8-9,17-19,23H,2,6-7,10-15H2,1H3,(H,27,28)
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = HHHKFGXWKKUNCY-UHFFFAOYSA-N
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+}}
+
+|Section2 = {{Chembox Properties
+| C=22 | H=31 | N=3 | O=5
+| LogP = 2.212
+| pKa = 2.285
+| pKb = 11.712
+}}
+
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = C09
+| ATCCode_suffix = AA08
+| AdminRoutes = Oral
+| Legal_UK = POM
+}}
+}}
+
+'''Cilazapril''' is an [[angiotensin-converting enzyme]] inhibitor ([[ACE inhibitor]]) used for the treatment of [[hypertension]] and [[congestive heart failure]].<ref>{{Cite journal 
+| last1 = Szucs | first1 = T. 
+| title = Cilazapril. A review 
+| journal = Drugs 
+| volume = 41 Suppl 1 
+| pages = 18–24 
+| year = 1991 
+| pmid = 1712267
+| doi=10.2165/00003495-199100411-00005
+}}</ref><ref>{{cite book|title=Austria-Codex|editor=Jasek, W|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2007|edition=2007/2008|isbn=978-3-85200-181-4|language=German}}</ref> It is branded as '''Dynorm''', '''Inhibace''', '''Vascace''' and many other names in various countries. None of these are available in the United States as of May 2010.<ref>"[http://www.drugs.com/international/cilazapril.html Cilazapril]". ''[[Drugs.com]]''. Retrieved 28 May 2010.</ref>
+
+Of the eight possible [[stereoisomers]], only the all-(''S'')-form is medically viable.{{citation needed|date=February 2012}}
+
+==References==
+{{reflist}}
+
+{{ACE inhibitors}}
+{{Angiotensin receptor modulators}}
+
+[[Category:ACE inhibitors]]
+[[Category:Carboxylic acids]]
+[[Category:Enantiopure drugs]]
+[[Category:Ethyl esters]]
+[[Category:Lactams]]
+[[Category:Prodrugs]]
+[[Category:Nitrogen heterocycles]]
+[[Category:Heterocyclic compounds (2 rings)]]
+[[Category:Butyrates]]
+
+{{cardiovascular-drug-stub}}

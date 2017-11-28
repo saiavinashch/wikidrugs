@@ -1,0 +1,95 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 443444475
+| IUPAC_name = ''N''-(1-Cyanocyclopropyl)-4-fluoro-''N''<sup>2</sup>-<nowiki/>{(1''S'')-2,2,2-trifluoro-1-[4'-(methylsulfonyl)biphenyl-4-yl]ethyl}-<small>L</small>-leucinamide
+| image = Odanacatib.svg
+| width = 300
+
+<!--Clinical data-->
+| tradename =
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B/ C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Development terminated
+| routes_of_administration = [[Oral administration|By mouth]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6478
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 603139-19-1
+| ATC_prefix = None
+| ATC_suffix =
+| ATC_supplemental =
+| PubChem = 10152654
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = N673F6W2VH
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D08955
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 481611
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 8328162
+
+<!--Chemical data-->
+| chemical_formula =
+| C=25 | H=27 | F=4 | N=3 | O=3 | S=1 
+| molecular_weight = 525.56 g/mol
+| smiles = CC(C)(CC(C(=O)NC1(CC1)C#N)NC(C2=CC=C(C=C2)C3=CC=C(C=C3)S(=O)(=O)C)C(F)(F)F)F
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C25H27F4N3O3S/c1-23(2,26)14-20(22(33)32-24(15-30)12-13-24)31-21(25(27,28)29)18-6-4-16(5-7-18)17-8-10-19(11-9-17)36(3,34)35/h4-11,20-21,31H,12-14H2,1-3H3,(H,32,33)/t20-,21-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = FWIVDMJALNEADT-SFTDATJTSA-N
+| synonyms = <small>(2''S'')-''N''-(1-Cyanocyclopropyl)-4-fluoro-4-methyl-2-<nowiki/>{[(1''S'')-2,2,2-trifluoro-1-<nowiki/>{4'-(methanesulfonyl)-[1,1'-biphenyl]-4-yl}ethyl]amino}pentanamide</small>
+}}
+
+'''Odanacatib''' ([[International nonproprietary name|INN]];<ref name="INN">{{cite web|title=International Nonproprietary Names for Pharmaceutical Substances (INN). Recommended International Nonproprietary names: List 60|url=http://www.who.int/medicines/publications/druginformation/innlists/RL60.pdf|publisher=World Health Organization|accessdate=11 November 2016|page=239|date=2008}}</ref> codenamed '''MK-0822''') is an investigational treatment for [[osteoporosis]] and [[bone metastasis]].<ref>{{Cite journal 
+| doi = 10.1097/SPC.0b013e32830baea9 
+| title = Cathepsin K inhibitors as treatment of bone metastasis 
+| year = 2008 
+| last1 = Le Gall | first1 = C. L.
+| last2 = Bonnelye | first2 = E. 
+| last3 = Clézardin | first3 = P. 
+| journal = Current Opinion in Supportive and Palliative Care 
+| volume = 2 
+| pages = 218–22| pmid = 18685424 
+| issue = 3 
+}}</ref> It is an [[enzyme inhibitor|inhibitor]] of [[cathepsin K]],<ref name="pmid18226527">{{cite journal  |vauthors=Gauthier JY, Chauret N, Cromlish W, etal |title=The discovery of odanacatib (MK-0822), a selective inhibitor of cathepsin K |journal=Bioorg. Med. Chem. Lett. |volume=18 |issue=3 |pages=923–8 |date=February 2008 |pmid=18226527 |doi=10.1016/j.bmcl.2007.12.047 |url=}}</ref> an [[enzyme]] involved in [[bone resorption]].
+
+It is being developed by [[Merck & Co.]] The [[clinical trial#Phase III|phase III clinical trial]] for this compound was stopped early after a review showed it was highly effective and had a good safety profile.  Merck announced in 2014 that it would apply for regulatory approval in 2015.<ref>https://www.reuters.com/article/2014/09/15/us-merck-osteoporosis-idUSKBN0HA1Y820140915</ref>  In 2014 Cowen and Co predicted odanacatib will generate a billion {{USD}} per year in sales by 2020.<ref>{{cite news
+ | url=https://www.reuters.com/article/2014/05/06/us-merck-research-idUSKBN0DM14K20140506
+ | title=Merck to seek approval of osteoporosis drug, cites safety risks
+ | work=Reuters
+ | date=2014-05-06}}
+</ref>
+
+In 2016, Merck discontinued development of odanacatib and announced it would not seek regulatory approval after analysis discovered an increased risk of [[stroke]].<ref>{{cite news | url=http://www.businesswire.com/news/home/20160902005107/en/Merck-Update-Odanacatib-Development-Program | title=Merck Provides Update on Odanacatib Development Program | work=Business Wire | date=2016-09-02 | access-date=2016-09-30 | archive-url=https://web.archive.org/web/20160903172200/http://www.businesswire.com/news/home/20160902005107/en/Merck-Update-Odanacatib-Development-Program | archive-date=2016-09-03 | dead-url=no}}</ref>
+
+This drug was developed at Merck Frosst in [[Montreal]].
+
+==References==
+{{Reflist}}
+
+{{Drugs for treatment of bone diseases}}
+
+[[Category:Abandoned drugs]]
+[[Category:Cyclopropanes]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Organofluorides]]
+[[Category:Biphenyls]]
+[[Category:Nitriles]]
+
+{{musculoskeletal-drug-stub}}

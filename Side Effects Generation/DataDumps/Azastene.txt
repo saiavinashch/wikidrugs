@@ -1,0 +1,77 @@
+{{Drugbox
+| Verifiedfields = 
+| Watchedfields = 
+| verifiedrevid = 
+| IUPAC_name = (1S,3aS,3bR,10aR,10bS,12aS)-1,6,6,10a,12a-Pentamethyl-2,3,3a,3b,4,6,10,10a,10b,11,12,12a-dodecahydro-1H-cyclopenta[7,8]phenanthro[3,2-d][1,2]oxazol-1-ol
+| image = Azastene.svg
+| width = 250px
+
+<!--Clinical data-->
+| tradename = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = 
+| legal_UK = 
+| legal_US = 
+| legal_status = 
+| routes_of_administration = 
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion =
+
+<!-- Identifiers -->
+| CAS_number_Ref = 
+| CAS_number = 13074-00-5
+| CAS_supplemental = 
+| class = 
+| ATC_prefix = 
+| ATC_suffix = 
+| ATC_supplemental = 
+| PubChem = 11725766
+| IUPHAR_ligand = 
+| DrugBank_Ref = 
+| DrugBank = 
+| ChemSpiderID_Ref = 
+| ChemSpiderID = 9900482
+| UNII = 1XA84ITL1H
+| KEGG = 
+| ChEBI = 
+| ChEMBL = 2103987
+
+<!--Chemical data-->
+| C = 23 | H = 33 | N = 1 | O = 2
+| molecular_weight = 355.522 g/mol
+| SMILES = C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C)O)CC=C4[C@@]3(CC5=C(C4(C)C)ON=C5)C
+| StdInChI_Ref = 
+| StdInChI = 1S/C23H33NO2/c1-20(2)18-7-6-15-16(21(18,3)12-14-13-24-26-19(14)20)8-10-22(4)17(15)9-11-23(22,5)25/h7,13,15-17,25H,6,8-12H2,1-5H3/t15-,16+,17+,21-,22+,23+/m1/s1
+| StdInChIKey_Ref = 
+| StdInChIKey = AXLOCHLTNQDFFS-BESJYZOMSA-N
+| synonyms = WIN-17625; 4,4,17α-Trimethylandrosta-2,5-dieno(2,3-d)isoxazol-17β-ol
+}}
+
+'''Azastene''' ([[International Nonproprietary Name|INN]], [[United States Adopted Name|USAN]]) (developmental code name '''WIN-17625''') is a [[steroidogenesis inhibitor]] described as a [[hormonal contraceptive|contraceptive]] and [[abortifacient]] which was never marketed.<ref name="Elks2014">{{cite book|author=J. Elks|title=The Dictionary of Drugs: Chemical Data: Chemical Data, Structures and Bibliographies|url=https://books.google.com/books?id=0vXTBwAAQBAJ&pg=PA113|date=14 November 2014|publisher=Springer|isbn=978-1-4757-2085-3|pages=113–}}</ref> It acts as a [[competitive inhibitor]] of [[3β-hydroxysteroid dehydrogenase]] ([[IC50|IC<sub>50</sub>]] = 1&nbsp;μM), and thereby inhibiting the [[biosynthesis|formation]] of [[progesterone]], [[corticosteroid]]s, [[androgen]]s, and [[estrogen]]s.<ref name="RunnebaumRabe2012">{{cite book|author1=B. Runnebaum|author2=T. Rabe|author3=L. Kiesel|title=Future Aspects in Contraception: Proceeding of an International Symposium held in Heidelberg, 5–8 September 1984 Part 1 Male Contraception|url=https://books.google.com/books?id=GX2oBgAAQBAJ&pg=PA74|date=6 December 2012|publisher=Springer Science & Business Media|isbn=978-94-009-4910-2|pages=74–}}</ref><ref name="Elsevier1991">{{cite book|title=Progress in Medicinal Chemistry|url=https://books.google.com/books?id=DcFBqjf7J08C&pg=PA259|date=5 April 1991|publisher=Elsevier|isbn=978-0-08-086276-7|pages=259–}}</ref>
+
+==Synthesis==
+[[File:Azastene synthesis.png|thumb|center|500px|Azastene synthesis:<ref>Gordon O. Potts, [[Sterling Drug]] Inc. {{US Patent|3,966,926}} (1976).</ref>]]
+
+One synthesis of this compound involves initial alkylation of methyl testosterone by means of strong base and methyl iodide to afford the 4,4-dimethyl derivative. Formylation with alkoxide and [[methyl formate]] leads to the 2-hydroxymethyl derivative. Reaction of this last with [[hydroxylamine]] leads to formation of an isoxazole ring. There is then obtained azastene.
+
+==See also==
+* [[Cyanoketone]]
+
+==References==
+{{Reflist|2}}
+
+
+[[Category:3β-Hydroxysteroid dehydrogenase inhibitors]]
+[[Category:Androstanes]]
+[[Category:Isoxazoles]]
+
+
+{{steroid-stub}}

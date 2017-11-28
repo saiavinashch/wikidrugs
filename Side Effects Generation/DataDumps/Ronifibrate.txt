@@ -1,0 +1,68 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 464383547
+| IUPAC_name = 3-<nowiki/>{[2-(4-chlorophenoxy)-2-methylpropanoyl]oxy}propyl nicotinate
+| image = Ronifibrate.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 42597-57-9
+| ATC_prefix = C10
+| ATC_suffix = AB07
+| PubChem = 68671
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 61925
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = W86I18X716
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 153983
+
+<!--Chemical data-->
+| C=19 | H=20 | Cl=1 | N=1 | O=5 
+| molecular_weight = 377.819 g/mol
+| smiles = O=C(OCCCOC(=O)C(Oc1ccc(Cl)cc1)(C)C)c2cccnc2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H20ClNO5/c1-19(2,26-16-8-6-15(20)7-9-16)18(23)25-12-4-11-24-17(22)14-5-3-10-21-13-14/h3,5-10,13H,4,11-12H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = AYJVGKWCGIYEAK-UHFFFAOYSA-N
+| synonyms = <small>3-[(pyridin-3-yl)carbonyloxy]propyl 2-(4-chlorophenoxy)-2-methylpropanoate</small>
+}}
+
+'''Ronifibrate''' is a [[fibrate]].
+
+==References==
+{{Reflist|2}}
+
+
+{{Lipid modifying agents}}
+{{PPAR modulators}}
+
+[[Category:Fibrates]]
+[[Category:Prodrugs]]
+[[Category:Chloroarenes]]
+[[Category:Phenol ethers]]
+[[Category:Nicotinates]]
+
+
+{{cardiovascular-drug-stub}}

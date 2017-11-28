@@ -1,0 +1,46 @@
+{{Underlinked|date=May 2017}}
+{{Drugbox
+| IUPAC_name = (''E'')-''N''-[1-hydroxy-3-(methylsulfanylmethylsulfinyl)propan-2-yl]-3-(6-methyl-2,4-dioxo-1''H''-pyrimidin-5-yl)prop-2-enamide
+| image = sparsomycin.png
+| width = 200
+
+<!--Clinical data-->
+| tradename =
+
+<!--Identifiers-->
+| CAS_number = 1404-64-4
+| PubChem = 5364216
+| ChemSpiderID = 4516413
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 6C940P63E7
+| KEGG = D05905
+| ChEMBL = 38707
+
+<!--Chemical data-->
+| C=13 | H=19 | N=3 | O=5 | S=2 
+| molecular_weight = 361.47 g/mol
+| smiles = O=C1N/C(=C(/C=C/C(=O)NC(CS(=O)CSC)CO)C(=O)N1)C
+}}
+
+'''Sparsomycin''' is a compound, initially discovered as a metabolite of the bacterium ''Streptomyces sparsogenes'', which binds to the 50S [[ribosome|ribosomal]] subunit and inhibits protein synthesis through peptidyl transferase inhibition.<ref>{{Cite book|url=https://www.worldcat.org/oclc/777722371|title=Biochemistry|last=M.|first=Grisham, Charles|date=2013|publisher=Brooks/Cole, Cengage Learning|isbn=1133106293|oclc=777722371}}</ref> As it binds to the 50S ribosomal subunit, it induces translocation on the 30S subunit.<ref>{{Cite journal|last=Ermolenko|first=Dmitri N.|last2=Cornish|first2=Peter V.|last3=Ha|first3=Taekjip|last4=Noller|first4=Harry F.|date=2017-05-18|title=Antibiotics that bind to the A site of the large ribosomal subunit can induce mRNA translocation|journal=RNA|volume=19|issue=2|pages=158–166|doi=10.1261/rna.035964.112|issn=1355-8382|pmc=3543091|pmid=23249745}}</ref> It is a nucleotide analogue. It was also formerly thought to be a possible anti-tumor agent, but interest in this drug was later discarded after it was discovered that it resulted in retinopathy<ref>{{Cite journal|last=Lazaro|first=E.|last2=San Felix|first2=A.|last3=van den Broek|first3=L. A.|last4=Ottenheijm|first4=H. C.|last5=Ballesta|first5=J. P.|date=1991-01-01|title=Interaction of the antibiotic sparsomycin with the ribosome|journal=Antimicrobial Agents and Chemotherapy|volume=35|issue=1|pages=10–13|issn=0066-4804|pmc=244933|pmid=2014963}}</ref> and as a tool to study protein synthesis; it is not specific for bacterial ribosomes and so not usable as an antibiotic.
+
+The compound was discovered in 1962 <ref>A D Argoudelis, R R Herr, ''Antimicrob. Ag. Chemoth.'' '''780'''</ref> and the structure was determined in 1970;<ref>P Wiley, F MacKellar, ''J. Am. Chem. Soc'' '''92(2)''' (1970), pp 417-418 [http://pubs.acs.org/doi/abs/10.1021/ja00705a623]</ref> a first total synthesis was reported in 1981.<ref>''Total synthesis of the antibiotic sparsomycin, a modified uracil amino acid monoxodithioacetal'', Harry C. J. Ottenheijm, Rob M. J. Liskamp, Simon P. J. M. Van Nispen, Hans A. Boots, Marian W. Tijhuis, ''J. Org. Chem.'' '''46 (16)''' (1981), pp 3273-3283 [http://pubs.acs.org/doi/abs/10.1021/jo00329a027]</ref>
+
+A derivative of this compound is phenol-alanine-sparsomycin, and is believed to be a more effective anti-tumor agent than sparsomycin itself.<ref>{{Cite journal|last=Lazaro|first=E.|last2=San Felix|first2=A.|last3=van den Broek|first3=L. A.|last4=Ottenheijm|first4=H. C.|last5=Ballesta|first5=J. P.|date=1991-01-01|title=Interaction of the antibiotic sparsomycin with the ribosome|journal=Antimicrobial Agents and Chemotherapy|volume=35|issue=1|pages=10–13|issn=0066-4804|pmc=244933|pmid=2014963}}</ref>
+
+==Biosynthesis==
+
+Although the structure of sparsomycin was published in 1970, no biosynthetic pathway for its formation was proposed in the literature up until 1988. Ronald J. Parry ''et al.'' have investigated biosynthetical precursors for the unusual monooxo-dithioacetal group.<ref>R.J. Parry, M.E. Eudy, ''J. Am. Chem. Soc.'' '''1988''', ''110'', pp 2316-2317 [http://pubs.acs.org/doi/abs/10.1021/ja00215a060]</ref> By administering the radioactively labeled ''L''-methionine to ''S. sparsogenes'', they figured out that it was the most probable precursor for C-4' and C-5' atoms of the sparsomycin. However, when administering labeled cysteine, they found that C-4' did not contain any <sup>13</sup>C while C-3' still did. This finding led them to an assumption that an enzyme called serine transhydroxymethylase could be responsible for the observation by conversion of the cysteine to serine residue. However, this assumption was not confirmed, as administration of <sup>13</sup>C-serine did not produce any labeled sparsomycin. In this study the authors have finally concluded that S-methyl-''D''-cysteine should be the precursor for this part of the molecule. In this paper they have also proposed a ''L''-tryptophan as a source of the uracil-containing part of the molecule.
+
+Study of the biosynthesis of the sparsomycin in a greater detail has revealed that ''L''-cysteine and S-methyl group of methionine are real precursors for the monooxo-dithioacetal group.<ref>R.J. Parry, Y. Li, E.E. Gomez, ''J. Am. Chem. Soc.'' '''1992''', ''114'', pp 5946-5959 [http://pubs.acs.org/doi/abs/10.1021/ja00041a007]</ref> These studies have also confirmed the L-tryptophan being a predecessor of the uracil moiety of the sparsomycin. However, it still remained unclear whether the transformation proceeds through the kynureine pathway or not. The next paper published by the same research group has shown that this pathway is not responsible for the transformations of ''L''-tryphophan in the biosynthesis of sparsomycin. In this paper the authors have also confirmed (E)-3-(4-oxo-6-methyl-5-pyrimidinyl)acrylic acid (PCA) and (E)3-(2,4-dioxo-6-methyl-5-pyrimidinyl)acrylic acid (UCA) being intermediates in the studied biosynthetic pathway.<ref>R.J. Parry, J.C. Hoyt, Y. Li, ''Tetrahedron Lett.'' '''1994''', ''35(41)'', pp 7497-7500 [http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6THS-42NHH2Y4&_user=4429&_coverDate=10%2F10%2F1994&_rdoc=1&_fmt=high&_orig=search&_sort=d&_docanchor=&view=c&_searchStrId=1367181519&_rerunOrigin=google&_acct=C000059602&_version=1&_urlVersion=0&_userid=4429&md5=600dda0ce0881528a5d8f5ddbff998c6]</ref> Several years later an enzyme, which catalyzes transformation of PCA to UCA was found.<ref>[http://jb.asm.org/cgi/content/abstract/179/4/1385 R.J. Parry, J.C. Hoyt,'' J. Bacteriol.'' '''1997''', pp 1385-1392]</ref>
+
+[[File:Sparsomycin retro.png|thumb|500px|left]]
+[[File:Sparsomycin biosynthesis.png|thumb|500px|left]]{{clear}}
+
+==References==
+
+<references/>
+
+[[Category:Acrylamides]]
+[[Category:Experimental cancer drugs]]
+[[Category:Pyrimidinediones]]

@@ -1,0 +1,66 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 376147382
+| IUPAC_name = 3-(2-chloroethyl)-4-oxo-3,4-dihydroimidazo[5,1-''d''][1,2,3,5]tetrazine-8-carboxamide
+| image = Mitozolomide.svg
+| width = 210
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 85622-95-3
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 71766
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = E3U7286V3W
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 435951
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 64805
+
+<!--Chemical data-->
+| C=7 | H=7 | Cl=1 | N=6 | O=2 
+| molecular_weight = 242.622 g/mol
+| smiles = NC(=O)c1ncn2C(=O)N(CCCl)\N=N/c12
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C7H7ClN6O2/c8-1-2-14-7(16)13-3-10-4(5(9)15)6(13)11-12-14/h3H,1-2H2,(H2,9,15)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = QXYYYPFGTSJXNS-UHFFFAOYSA-N
+}}
+'''Mitozolomide''' ([[International Nonproprietary Name|INN]]) is an [[antineoplastic]]. It is an [[imidazotetrazine]] derivative.
+
+Development of mitozolomide was discontinued during [[clinical trial#Phase II|Phase II]] [[clinical trial]]s after it was found to cause severe and unpredictable [[myelosuppression|bone marrow suppression]].<ref>{{cite journal |vauthors=Fairbairn LJ, Chinnasamy N, Lashford LS, Chinnasamy D, Rafferty JA |title=Enhancing hemopoietic drug resistance: a rationale for reconsidering the clinical use of mitozolomide |journal=Cancer Gene Ther |volume=7 |issue=2 |pages=233–9 |date=February 2000 |pmid=10770631 |url=http://www.nature.com/cgt/journal/v7/n2/pdf/7700120a.pdf |doi=10.1038/sj.cgt.7700120}}</ref> [[Temozolomide]], which has been in clinical use since 1999, is a less toxic [[analog (chemistry)|analogue]] of mitozolomide.<ref>{{cite journal  |vauthors=Newlands ES, Blackledge GR, Slack JA, etal |title=Phase I trial of temozolomide (CCRG 81045: M&B 39831: NSC 362856) |journal=Br J Cancer |volume=65 |issue=2 |pages=287–91 |date=February 1992 |pmid=1739631 |pmc=1977719 |doi=10.1038/bjc.1992.57}}</ref>
+
+==References==
+<references/>
+
+{{Chemotherapeutic agents}}
+
+[[Category:Abandoned drugs]]
+[[Category:Imidazotetrazines]]
+[[Category:Carboxamides]]
+[[Category:Organochlorides]]
+
+{{antineoplastic-drug-stub}}

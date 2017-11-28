@@ -1,0 +1,86 @@
+{{Drugbox
+| verifiedrevid = 443667625
+| IUPAC_name = 2-(4-<nowiki/>{2-[(4-chlorobenzoyl)amino]ethyl}phenoxy)-2-methylpropanoic acid
+| image = Bezafibrate.svg
+| width = 145px
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|bezafibrate}}
+| MedlinePlus = a682711
+| pregnancy_category =  
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 41859-67-0
+| ATC_prefix = C10
+| ATC_suffix = AB02
+| ATC_supplemental =  
+| PubChem = 39042
+| IUPHAR_ligand = 2668
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01393
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 35728
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = Y9449Q51XH
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01366
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 47612
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 264374
+<!--Chemical data-->
+| C=19 | H=20
+| Cl=1 | N=1
+| O=4
+| molecular_weight = 361.819 g/mol
+| smiles = O=C(c1ccc(Cl)cc1)NCCc2ccc(OC(C(=O)O)(C)C)cc2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H20ClNO4/c1-19(2,18(23)24)25-16-9-3-13(4-10-16)11-12-21-17(22)14-5-7-15(20)8-6-14/h3-10H,11-12H2,1-2H3,(H,21,22)(H,23,24)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IIBYAHWJQTYFKB-UHFFFAOYSA-N
+}}
+'''Bezafibrate''' (marketed as '''Bezalip''' and various other brand names) is a [[fibrate]] [[drug]] used as a [[lipid-lowering agent]] to treat [[hyperlipidaemia]]. It helps to lower [[low density lipoprotein|LDL cholesterol]] and [[triglyceride]] in the [[blood]], and increase [[high density lipoprotein|HDL]].
+
+==History==
+Bezafibrate was first introduced by [[Boehringer Mannheim]] in 1977.
+
+==Mode of action==
+Like the other fibrates, bezafibrate is an agonist of [[peroxisome proliferator-activated receptor|PPARα]]; some studies suggest it may have some activity on PPARγ and PPARδ as well.
+
+==Uses==
+Bezafibrate improves markers of [[combined hyperlipidemia]], effectively reducing LDL and triglycerides and improving HDL levels.<ref>{{cite journal | title = Secondary prevention by raising HDL cholesterol and reducing triglycerides in patients with coronary artery disease: the Bezafibrate Infarction Prevention (BIP) study | journal = Circulation | volume = 102 | issue = 1 | pages = 21–7 | year = 2000 | pmid = 10880410 | doi=10.1161/01.cir.102.1.21}}</ref> The main effect on cardiovascular morbidity is in patients with the [[metabolic syndrome]], the features of which are attenuated by bezafibrate.<ref>{{cite journal | last1 = Tenenbaum | first1 = A | last2 = Motro | first2 = M | last3 = Fisman | first3 = EZ | last4 = Tanne | first4 = D | last5 = Boyko | first5 = V | last6 = Behar | first6 = S | title = Bezafibrate for the secondary prevention of myocardial infarction in patients with metabolic syndrome | journal = Archives of Internal Medicine | volume = 165 | issue = 10 | pages = 1154–60 | year = 2005 | pmid = 15911729 | doi = 10.1001/archinte.165.10.1154 }}</ref> Studies show that in patients with impaired glucose tolerance, bezafibrate may delay progress to diabetes,<ref>{{cite journal | last1 = Tenenbaum | first1 = A | last2 = Motro | first2 = M | last3 = Fisman | first3 = EZ | last4 = Schwammenthal | first4 = E | last5 = Adler | first5 = Y | last6 = Goldenberg | first6 = I | last7 = Leor | first7 = J | last8 = Boyko | first8 = V | last9 = Mandelzweig | first9 = L | last10 = Behar | first10 = S | title = Peroxisome proliferator-activated receptor ligand bezafibrate for prevention of type 2 diabetes mellitus in patients with coronary artery disease | journal = Circulation | volume = 109 | issue = 18 | pages = 2197–202 | year = 2004 | pmid = 15123532 | doi = 10.1161/01.CIR.0000126824.12785.B6 | display-authors = 8 }}</ref> and in those with [[insulin resistance]] it slowed progress in the [[homeostatic model assessment|HOMA]] severity marker.<ref>{{cite journal | last1 = Tenenbaum | first1 = A | last2 = Fisman | first2 = EZ | last3 = Boyko | first3 = V | last4 = Benderly | first4 = M | last5 = Tanne | first5 = D | last6 = Haim | first6 = M | last7 = Matas | first7 = Z | last8 = Motro | first8 = M | last9 = Behar | first9 = S | title = Attenuation of progression of insulin resistance in patients with coronary artery disease by bezafibrate | journal = Archives of Internal Medicine | volume = 166 | issue = 7 | pages = 737–41 | year = 2006 | pmid = 16606809 | doi = 10.1001/archinte.166.7.737  }}</ref> In addition, a prospective observational study of dyslipidemic patients with diabetes or hyperglycemia showed that bezafibrate significantly reduces haemoglobin A1c (HbA1c) concentration as a function of baseline HbA1c levels, regardless of concurrent use of antidiabetic drugs.<ref>{{cite journal | url = http://www.cardiab.com/content/11/1/29, | pmid = 22439599 | doi=10.1186/1475-2840-11-29 | volume=11 | title=Effects of bezafibrate on lipid and glucose metabolism in dyslipidemic patients with diabetes: the J-BENEFIT study | pmc=3342914 | issue=1 | year=2012 | journal=Cardiovasc Diabetol | page=29 | last1 = Teramoto | first1 = T | last2 = Shirai | first2 = K | last3 = Daida | first3 = H | last4 = Yamada | first4 = N}}</ref>
+
+==Side-effects==
+The main toxicity is [[liver|hepatic]] (abnormal liver enzymes), and [[myopathy]] and rarely [[rhabdomyolysis]] have been reported.
+
+==Other uses==
+The Australian biotech company [[Giaconda (pharmaceutical company)|Giaconda]] combines bezafibrate with [[chenodeoxycholic acid]] in an anti-[[hepatitis C]] drug combination called Hepaconda.
+
+Bezafibrate has been shown to reduce [[tau protein]] [[Phosphorylation|hyperphosphorylation]] and other signs of [[tauopathy]] in [[Genetically modified mouse|transgenic mice]] having human tau [[mutation]].<ref>{{cite journal |vauthors=Dumont M, Stack C, Elipenahli C, Jainuddin S, Gerges M, Starkova N, Calingasan NY, Yang L, Tampellini D, Starkov AA, Chan RB, Di Paolo G, Pujol A, Beal MF | title=Bezafibrate administration improves behavioral deficits and tau pathology in P301S mice | journal=[[Human Molecular Genetics]] | volume=21 | issue=23 | year=2012 | pages=5091–5105 | doi = 10.1093/hmg/dds355 | id= | pmid=22922230 | pmc=3490516}}</ref>
+
+The combination of a cholesterol-lowering drug, bezafibrate, and a contraceptive steroid, medroxyprogesterone acetate, could be an effective, non-toxic treatment for a range of cancers, researchers at the University of Birmingham have found.<ref>{{Cite web|url = http://www.sciencedaily.com/releases/2015/05/150514102813.htm|title = Contraceptive, Cholestrol - lowering drugs used to treat cancer. - Science daily|date = |accessdate = |website = |publisher = }}</ref>
+
+==Synthesis==
+Further evidence that substantial bulk tolerance is available in the para position is given by the lipid lowering agent bezafibrate.
+[[File:Bezafibrate synthesis.svg|thumb|center|700px|Bezafibrate synthesis: E. Witte et al., {{Cite patent|DE|2149070}}; eidem, {{US patent|3781328}} (both 1973 to Boehringer, Mann.).]]
+The ''p''-chlorobenzamide of [[tyramine]] undergoes a [[Williamson ether synthesis]] with ethyl 2-bromo-2-methylpropionate to complete the synthesis. The ester group is hydrolyzed in the alkaline reaction medium.
+
+==References==
+{{Reflist|2}}
+
+{{Lipid modifying agents}}
+{{PPAR modulators}}
+
+[[Category:Fibrates]]
+[[Category:Chloroarenes]]
+[[Category:Benzamides]]
+[[Category:Phenol ethers]]

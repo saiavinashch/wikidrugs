@@ -1,0 +1,73 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 461092342
+| IUPAC_name = (''RS'')-1-{2-[(4-Chlorophenyl)methoxy]-2-(2,4-dichlorophenyl)ethyl}-1''H''-imidazole
+| image = Econazole.svg
+| chirality = [[Racemic mixture]]
+<!--Clinical data-->
+| tradename = Spectazole, Ecostatin, others
+| Drugs.com = {{drugs.com|monograph|econazole-nitrate}}
+| MedlinePlus = a684049
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 27220-47-9
+| ATC_prefix = D01
+| ATC_suffix = AC03
+| ATC_supplemental =  {{ATC|G01|AF05}}
+| PubChem = 3198
+| IUPHAR_ligand = 2446
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01127
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3086
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 6Z1Y2V4A7M
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03936
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 4754
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 808
+<!--Chemical data-->
+| C=18 | H=15 | Cl=3 | N=2 | O=1
+| molecular_weight = 381.683 g/mol
+| smiles = Clc1ccc(c(Cl)c1)C(OCc2ccc(Cl)cc2)Cn3ccnc3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C18H15Cl3N2O/c19-14-3-1-13(2-4-14)11-24-18(10-23-8-7-22-12-23)16-6-5-15(20)9-17(16)21/h1-9,12,18H,10-11H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = LEZWWPYKPKIXLL-UHFFFAOYSA-N
+}}
+
+'''Econazole''' (commonly used as the [[nitrate]] salt) is an [[antifungal medication]] of the [[imidazole]] class.<ref>{{cite journal | last1 = Thienpont | first1 = D | last2 = Van Cutsem | first2 = J | last3 = Van Nueten | first3 = JM | last4 = Niemegeers | first4 = CJ | last5 = Marsboom | first5 = R | title = Bilogical and toxicological properties of econazole, a broad-spectrum antimycotic | journal = Arzneimittel-Forschung | volume = 25 | issue = 2 | pages = 224–30 | year = 1975 | pmid = 1173036}}</ref> It is sold under the brand names Spectrazole ([[United States]]) and Ecostatin ([[Canada]]), among others. It is a component of Pevisone and Ecoderm-TA<ref>[http://www.rephco-bd.com/index.php?option=com_content&view=article&id=22&Itemid=48 Product descriptions] at REPHCO Pharmaceuticals Limited, Bangladesh. Retrieved June 2012</ref> ([[econazole/triamcinolone]]).
+
+==Medical uses==
+Econazole is used as a [[Cream (pharmaceutical)|cream]] to treat [[skin infection]]s such as [[athlete's foot]], [[tinea]], [[pityriasis versicolor]], [[ringworm]], and [[jock itch]]. It is also sold in Canada under the brand name Ecostatin as vaginal ovules to treat [[vagina]]l [[candidiasis|thrush]].
+
+Econazole nitrate exhibits strong anti-feeding properties against the keratin-digesting common clothes moth ''[[Tineola bisselliella]]''.<ref>Sunderland, M. R.; Cruickshank, R. H.; Leighs, S. J. (2014). “The efficacy of antifungal azole and antiprotozoal compounds in protection of wool from keratin-digesting insect larvae”. ''Textile Research Journal'' '''84''' (9): 924–931. http://trj.sagepub.com/content/84/9/924</ref> 
+
+==Adverse effects==
+About  3% of patients treated with econazole nitrate cream reported side effects.  The most common symptoms were burning, itching, [[erythema]], and one outbreak of a [[pruritic|pruritic rash]].<ref>Perrigo Econazole Nitrate Cream Product Description. 2012.</ref>
+
+==Synthesis==
+Imidazoles devoid of the [[nitro group]] no longer have any [[antiprotozoal]] activity, however, such drugs are effective [[antifungal agents]].
+[[File:Econazole synthesis.svg|thumb|center|555px|Econazole synthesis:<ref>{{Cite journal | doi = 10.1021/jm00305a014| title = Preparation and antimycotic properties of derivatives of 1-phenethylimidazole| journal = Journal of Medicinal Chemistry| volume = 12| issue = 5| pages = 784| year = 1969| last1 = Godefroi | first1 = E. F. | last2 = Heeres | first2 = J. | last3 = Van Cutsem | first3 = J. | last4 = Janssen | first4 = P. A. J. }}</ref> {{Cite patent|DE|1940388}} {{US patent|3717655}} (1970, 1973 both to [[Janssen Pharmaceutica|Janssen]]).]]
+Alkylation of [[imidazole]] ('''2''') with bromoketone ('''1''') prepared from ''o,p''-dichloro[[acetophenone]] affords the displacement product ('''3'''). Reduction of the ketone with [[sodium borohydride]] gives the corresponding alcohol ('''4'''). Alkylation of the [[alkoxide]] from that alcohol with ''p''-chlorobenzyl chloride leads to econazole ('''5'''); alkylation with ''o,p''-dichlorobenzyl chloride gives [[miconazole]].
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://www.drugs.com/pro/econazole-cream.html  Description and details at Drugs.com]
+
+{{Antifungals}}
+{{Gynecological anti-infectives and antiseptics}}
+
+[[Category:21-Hydroxylase inhibitors]]
+[[Category:Aromatase inhibitors]]
+[[Category:Chloroarenes]]
+[[Category:CYP17A1 inhibitors]]
+[[Category:Ethers]]
+[[Category:Imidazole antifungals]]
+[[Category:Lanosterol 14α-demethylase inhibitors]]
+
+{{antiinfective-drug-stub}}

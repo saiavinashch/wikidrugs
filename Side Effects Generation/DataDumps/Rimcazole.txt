@@ -1,0 +1,57 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 387268762
+| IUPAC_name = 9-{3-[(3''R'',5''S'')-3,5-Dimethylpiperazin-1-yl]propyl}-9''H''-carbazole
+| image = Rimcazole.svg
+
+<!--Clinical data-->
+| tradename =
+| pregnancy_category =
+| legal_status =
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| metabolism =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 75859-04-0
+| ATC_prefix = none
+| PubChem = 53389
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = C3N1PS8CX1
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 275707
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 48221
+
+<!--Chemical data-->
+| C=21 | H=27 | N=3
+| molecular_weight = 321.459
+| smiles            = C[C@@H]1CN(C[C@@H](N1)C)CCCN2C3=CC=CC=C3C4=CC=CC=C42
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C21H27N3/c1-16-14-23(15-17(2)22-16)12-7-13-24-20-10-5-3-8-18(20)19-9-4-6-11-21(19)24/h3-6,8-11,16-17,22H,7,12-15H2,1-2H3/t16-,17+
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = GUDVQJXODNJRIJ-CALCHBBNSA-N
+}}
+
+'''Rimcazole''' is an [[Receptor antagonist|antagonist]]<ref>Gilmore DL, Liu Y, Matsumoto RR. Review of the pharmacological and clinical profile of rimcazole. CNS Drug Reviews. 2004 Spring;10(1):1-22.</ref> of the [[sigma receptor]]<ref>{{cite journal |vauthors=Eaton MJ, Lookingland KJ, Moore KE |title=The sigma ligand rimcazole activates noradrenergic neurons projecting to the paraventricular nucleus and increases corticosterone secretion in rats |journal=Brain Res. |volume=733 |issue=2 |pages=162–6 |year=1996 |pmid=8891298 |doi=10.1016/0006-8993(96)00290-9}}</ref> as well as a [[dopamine reuptake inhibitor]].<ref>{{cite journal | pmid=9435903| year=1997| author1=Husbands| first1=S. M.| title=Isothiocyanate derivatives of 9-3-(cis-3,5-dimethyl-1-piperazinyl)propylcarbazole (rimcazole): Irreversible ligands for the dopamine transporter| journal=Journal of Medicinal Chemistry| volume=40| issue=26| pages=4340–46| last2=Izenwasser| first2=S| last3=Loeloff| first3=R. J.| last4=Katz| first4=J. L.| last5=Bowen| first5=W. D.| last6=Vilner| first6=B. J.| last7=Newman| first7=A. H.| doi=10.1021/jm9705519}}</ref> Sigma receptors are thought to be involved in the drug [[psychosis]] that can be induced by some drugs such as [[phencyclidine]] and [[cocaine]], and rimcazole was originally researched as a potential [[antipsychotic]] with a different mechanism of action to traditional antipsychotic drugs. Trials proved inconclusive and rimcazole was not pursued for this application, but other sigma antagonists continue to be researched for a variety of potential applications.<ref>Volz HP, Stoll KD. Clinical trials with sigma ligands. Pharmacopsychiatry. 2004 Nov;37 Suppl 3:S214-20.</ref> Rimcazole has been shown to reduce the effects of cocaine,<ref>Katz JL, Libby TA, Kopajtic T, Husbands SM, Newman AH. Behavioral effects of rimcazole analogues alone and in combination with cocaine. European Journal of Pharmacology. 2003 May 9;468(2):109-19.</ref> and analogues of rimcazole have been shown to be highly effective at blocking the [[convulsions]] caused by cocaine [[overdose]] in animal models.<ref>Matsumoto RR, Hewett KL, Pouw B, Bowen WD, Husbands SM, Cao JJ, Hauck Newman A. Rimcazole analogs attenuate the convulsive effects of cocaine: correlation with binding to sigma receptors rather than dopamine transporters. Neuropharmacology. 2001 Dec;41(7):878-86.</ref>
+
+==References==
+{{Reflist|2}}
+
+{{Monoamine reuptake inhibitors}}
+{{Sigma receptor modulators}}
+
+[[Category:Piperazines]]
+[[Category:Carbazoles]]
+[[Category:Dopamine reuptake inhibitors]]
+[[Category:Sigma antagonists]]
+[[Category:Anticonvulsants]]
+
+
+{{nervous-system-drug-stub}}

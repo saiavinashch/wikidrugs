@@ -1,0 +1,81 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 418866747
+| IUPAC_name = (''RS'')-1-[Phenyl(4-phenylphenyl)methyl]-1''H''-imidazole
+| image = Bifonazole.svg
+| chirality = [[Racemic mixture]]
+<!--Clinical data-->
+| tradename = Canespor, many others
+| Drugs.com = {{drugs.com|international|bifonazole}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = 
+| legal_status = OTC
+| routes_of_administration = Topical
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 60628-96-8
+| ATC_prefix = D01
+| ATC_suffix = AC10
+| PubChem = 2378
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB04794
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2287
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = QYJ305Z91O
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01775
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 31286
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 277535
+<!--Chemical data-->
+| C=22 | H=18 | N=2
+| molecular_weight = 310.392 g/mol
+| smiles = n1ccn(c1)C(c3ccc(c2ccccc2)cc3)c4ccccc4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H18N2/c1-3-7-18(8-4-1)19-11-13-21(14-12-19)22(24-16-15-23-17-24)20-9-5-2-6-10-20/h1-17,22H
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OCAPBUJLXMYKEJ-UHFFFAOYSA-N
+}}
+
+'''Bifonazole''' (trade name '''Canespor''' among many others<ref>{{drugs.com|international|bifonazole}}: Bifonazole.</ref>) is an [[imidazole]] [[antifungal drug]] used in form of ointments. 
+
+There are also combinations with [[carbamide]] for the treatment of [[onychomycosis]].
+
+==Adverse effects==
+The most common side effect is a burning sensation at the application site. Other reactions, such as itching, [[eczema]] or skin dryness, are rare.<ref name="AC">{{cite book|title=Austria-Codex|at=Canesten Bifonazol-Creme|editor=Haberfeld, H|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2015|language=German}}</ref>
+
+==Pharmacology==
+===Mechanism of action===
+Bifonazole has dual [[mode of action]]. It inhibits fungal [[ergosterol]] biosynthesis at two points, via transformation of [[24-methylendihydrolanosterol]] to [[desmethylsterol]], together with inhibition of [[HMG-CoA]]. This enables fungicidal properties against [[dermatophyte]]s and distinguishes bifonazole from other antifungal drugs.<ref name="AC" /><ref>{{cite journal|pmid=6372801|year=1984|author1=Berg|first1=D|title=Bifonazole and clotrimazole. Their mode of action and the possible reason for the fungicidal behaviour of bifonazole|journal=Arzneimittel-Forschung|volume=34|issue=2|pages=139–46|last2=Regel|first2=E|last3=Harenberg|first3=H. E.|last4=Plempel|first4=M}}</ref>
+
+===Pharmacokinetics===
+Six hours after application, bifonazole concentrations range from 1000&nbsp;[[Microgram|µg]]/[[Cubic centimetre|cm³]] in the [[stratum corneum]] to 5&nbsp;µg/cm³ in the [[papillary dermis]].<ref name="AC" />
+
+==References==
+{{Reflist}}
+
+* {{cite journal|pmid=2670516|title=Bifonazole. A review of its antimicrobial activity and therapeutic use in superficial mycoses|journal=Drugs|year=1989|volume=38|issue=2|pages=204–25|author1=Lackner|first1=T. E.|last2=Clissold|first2=S. P.|doi=10.2165/00003495-198938020-00004}}
+
+{{Antifungals}}
+
+[[Category:21-Hydroxylase inhibitors]]
+[[Category:Imidazole antifungals]]
+[[Category:Biphenyls]]
+[[Category:Antifungals]]
+[[Category:Aromatase inhibitors]]
+[[Category:CYP17A1 inhibitors]]
+[[Category:Lanosterol 14α-demethylase inhibitors]]

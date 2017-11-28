@@ -1,0 +1,67 @@
+{{Infobox drug
+| IUPAC_name        = 1,1,1,3,3,3-Hexafluoro-2-methyl-2-propanyl 4-[(4-hydroxy-2-oxo-2''H''-chromen-3-yl)methyl]benzoate
+| image             = Tecarfarin skeletal.svg
+| alt               = 
+| caption           = 
+<!-- Clinical data -->
+| pronounce         = 
+| tradename         = 
+| Drugs.com         = 
+| MedlinePlus       = 
+| pregnancy_AU      = <!-- A/B1/B2/B3/C/D/X -->
+| pregnancy_AU_comment = 
+| pregnancy_US      = <!-- A/B/C/D/X/N -->
+| pregnancy_category= 
+| routes_of_administration = [[Oral administration|By mouth]]
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_AU_comment =
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_DE = <!-- Anlage I, II, III -->
+| legal_NZ = <!-- Class A, B, C -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM / Class A, B, C -->
+| legal_US = <!-- OTC/Rx-only/Schedule I, II, III, IV, V -->
+| legal_UN = <!-- N I, II, III, IV / P I, II, III, IV-->
+| legal_status      = Investigational
+<!-- Pharmacokinetic data -->
+| bioavailability   = 
+| protein_bound     = 
+| metabolism        = 
+| metabolites       = 
+| onset             = 
+| elimination_half-life = 87–136 hours<ref>{{cite journal |title=Pharmacokinetics and pharmacodynamics of tecarfarin, a novel vitamin K antagonist oral anticoagulant |journal=Thromb Haemost. |date=3 April 2017 |volume=117 |issue=4 |pages=706–717 |pmid=28180234 |doi=10.1160/TH16-08-0623}}</ref>
+| duration_of_action= 
+| excretion         = 
+<!-- Identifiers -->
+| CAS_number        = 867257-26-9
+| class             = 
+| ATCvet            = 
+| ATC_prefix        = None
+| ATC_suffix        = 
+| PubChem           = 54718618
+| DrugBank          = 
+| ChemSpiderID      = 26467760
+| UNII              = WN1479YT50
+| ChEMBL            = 2105664
+| KEGG              = D09676
+| synonyms          = ATI-5923
+<!-- Chemical and physical data -->
+| chemical_formula  = 
+| C=21 | H=14 | F=6 | O=5
+| smiles = CC(C(F)(F)F)(C(F)(F)F)OC(=O)c1ccc(cc1)Cc2c(c3ccccc3oc2=O)O
+| StdInChI=1S/C21H14F6O5/c1-19(20(22,23)24,21(25,26)27)32-17(29)12-8-6-11(7-9-12)10-14-16(28)13-4-2-3-5-15(13)31-18(14)30/h2-9,28H,10H2,1H3
+| StdInChIKey = QFLNTQDOVCLQKW-UHFFFAOYSA-N
+}}
+
+'''Tecarfarin''' is a [[vitamin K antagonist]] under development for use as an [[anticoagulant]].<ref name="Spreitzer">{{cite journal | author = H. Spreitzer | date = 27 February 2017 | title = Neue Wirkstoffe – Tecarfarin | journal = Österreichische Apothekerzeitung | issue = 5/2017 | language = German }}</ref> A Phase II/III [[clinical trial]] in 607 people, comparing it to the established vitamin K antagonist [[warfarin]], found no difference in quality of anticoagulation or side effects between the two drugs.<ref>{{cite journal|title=A randomised, double blind comparison of tecarfarin, a novel vitamin K antagonist, with warfarin. The EmbraceAC Trial|journal=Thrombosis and Haemostasis|volume=116|issue=2|pages=241|doi=10.1160/TH15-11-0910|pmid=27173100|year=2016|last1=Whitlock|first1=R. P.|last2=Fordyce|first2=C. B.|last3=Midei|first3=M. G.|last4=Ellis|first4=D.|last5=Garcia|first5=D.|last6=Weitz|first6=J. I.|last7=Canafax|first7=D. M.|last8=Albrecht|first8=D.|last9=Milner|first9=P. G.}}</ref> In contrast to warfarin, tecarfarin is not affected by the [[cytochrome P450]] inhibiting drug [[fluconazole]],<ref>{{cite journal|title=Tecarfarin, a novel vitamin K reductase antagonist, is not affected by CYP2C9 and CYP3A4 inhibition following concomitant administration of fluconazole in healthy participants|journal=The Journal of Clinical Pharmacology|volume=51|issue=4|pages=561|doi=10.1177/0091270010370588|year=2011|last1=Bavisotto|first1=Linda M.|last2=Ellis|first2=David J.|last3=Milner|first3=Peter G.|last4=Combs|first4=Daniel L.|last5=Irwin|first5=Ian|last6=Canafax|first6=Daniel M.}}</ref> indicating a lower potential for interactions with other drugs.<ref name="Spreitzer" />
+
+A Phase III trial with 3000 people, also comparing it to warfarin, is planned to run until 2018.<ref>{{ClinicalTrialsGov|NCT02522221|Tecarfarin Anti-Coagulation Trial (TACT)}}.</ref>
+
+==References==
+{{reflist|35em}}
+
+[[Category:Vitamin K antagonists]]
+[[Category:Benzoates]]
+[[Category:Coumarin drugs]]
+
+
+{{blood-drug-stub}}

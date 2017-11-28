@@ -1,0 +1,73 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 446899189
+| IUPAC_name = 5-imino-3-morpholin-4-yl-5''H''-1,2,3-oxadiazol-3-ium-2-ide
+| image = Linsidomine structure.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|linsidomine}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number =  
+| ATC_prefix = C01
+| ATC_suffix = DX18
+| PubChem = 5219
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 5O5U71P6VQ
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07161
+| synonyms = SIN-1
+| ChemSpiderID      = 10561427
+
+<!--Chemical data-->
+| C=6 | H=10 | N=4 | O=2 
+| molecular_weight = 170.17 g/mol
+| smiles = C1COCCN1[N+]2=NOC(=C2)[NH-]
+| StdInChI = 1S/C6H10N4O2/c7-6-5-10(8-12-6)9-1-3-11-4-2-9/h5,7H,1-4H2
+| StdInChIKey = FKDHHVKWGRFRTG-UHFFFAOYSA-N
+
+}}
+
+'''Linsidomine''' ('''3-morpholinosydnonimine''' or '''SIN-1'''<ref name="Wen-2005">{{Cite journal  | last1 = Wen | first1 = TC. | last2 = Rogido | first2 = MR. | last3 = Moore | first3 = JE. | last4 = Genetta | first4 = T. | last5 = Peng | first5 = H. | last6 = Sola | first6 = A. | title = Cardiotrophin-1 protects cortical neuronal cells against free radical-induced injuries in vitro | journal = Neurosci Lett | volume = 387 | issue = 1 | pages = 38–42 |date=Oct 2005 | doi = 10.1016/j.neulet.2005.07.018 | pmid = 16084018 }}</ref>) is a [[vasodilator]]. It is a metabolite of the antianginal drug [[molsidomine]] and acts by releasing [[Nitric oxide|NO]] from the endothelial cells nonenzymatically. It also hyperpolarizes the cell membrane through influencing the sodium-potassium pump and thereby rendering it less responsive to adrenergic stimulation. Linsidomine injection at a dose of 1&nbsp;mg produces usable erection<ref>{{Cite journal 
+| last1 = Lemaire | first1 = A. 
+| last2 = Buvat | first2 = J. 
+| title = Erectile response to intracavernous injection of linsidomine in 38 impotent patients. Comparison with prostaglandin E1 
+| journal = Progres en urologie : journal de l'Association francaise d'urologie et de la Societe francaise d'urologie 
+| volume = 8 
+| issue = 3 
+| pages = 388–391 
+| year = 1998 
+| pmid = 9689672
+}}</ref> in about 70% of patients and full erection in up to 50% of patients. Linsidomine does not appear to be associated with priapism.{{fact|date=January 2012}}
+
+Linsidomine is neurotoxic and promotes [[oxidative stress]] on neurons.<ref name="Wallace-2006">{{Cite journal  | last1 = Wallace | first1 = DR. | last2 = Dodson | first2 = S. | last3 = Nath | first3 = A. | last4 = Booze | first4 = RM. | title = Estrogen attenuates gp120- and tat1-72-induced oxidative stress and prevents loss of dopamine transporter function | journal = Synapse | volume = 59 | issue = 1 | pages = 51–60 |date=Jan 2006 | doi = 10.1002/syn.20214 | pmid = 16237680 }}</ref> Linsidomine is a [[peroxynitrite]]-generating compound involved in the pathogenesis of [[neurodegenerative diseases]].<ref name="Jang-2004">{{Cite journal  | last1 = Jang | first1 = JH. | last2 = Aruoma | first2 = OI. | last3 = Jen | first3 = LS. | last4 = Chung | first4 = HY. | last5 = Surh | first5 = YJ. | title = Ergothioneine rescues PC12 cells from beta-amyloid-induced apoptotic death | journal = Free Radic Biol Med | volume = 36 | issue = 3 | pages = 288–99 |date=Feb 2004 | doi = 10.1016/j.freeradbiomed.2003.11.005 | pmid = 15036348 }}</ref>
+
+==References==
+{{Reflist}}
+
+
+{{Vasodilators used in cardiac diseases}}
+{{Nitric oxide signaling}}
+
+[[Category:Morpholines]]
+[[Category:Vasodilators]]
+[[Category:Oxadiazoles]]

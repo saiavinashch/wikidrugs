@@ -1,0 +1,77 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 464197586
+| IUPAC_name =  
+| image =  
+<!-- Clinical data -->
+| tradename = Somavert
+| Drugs.com = {{drugs.com|monograph|pegvisomant}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled -->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+<!-- Pharmacokinetic data -->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!-- Identifiers -->
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 218620-50-9
+| ATC_prefix = H01
+| ATC_suffix = AX01
+| PubChem =  
+| IUPHAR_ligand = 7485
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB00082
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = N824AOU5XV
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05394
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201515
+<!-- Chemical data -->
+| chemical_formula =
+| C=990 | H=1532 | N=262 | O=300 | S=7
+| molecular_weight = 22129.0 g/mol (un[[PEGylation|pegylated]])
+}}
+
+'''Pegvisomant''' (trade name '''Somavert''') is a [[growth hormone receptor]] [[Receptor antagonist|antagonist]] used in the treatment of [[acromegaly]].<ref name="Schreiber">{{cite journal |doi=10.1530/eje.1.02312 |pmid=17218728 |title=Treatment of acromegaly with the GH receptor antagonist pegvisomant in clinical practice: Safety and efficacy evaluation from the German Pegvisomant Observational Study |journal=European Journal of Endocrinology |volume=156 |issue=1 |pages=75–82 |year=2007 |last1=Schreiber |first1=I |last2=Buchfelder |first2=M |last3=Droste |first3=M |last4=Forssmann |first4=K |last5=Mann |first5=K |last6=Saller |first6=B |last7=Strasburger |first7=C J }}</ref> It is primarily used if the [[pituitary gland]] tumor causing the acromegaly cannot be controlled with surgery or radiation, and the use of [[somatostatin]] analogues is unsuccessful, but is also effective as a monotherapy.<ref name="ReferenceA">{{cite journal |doi=10.4158/EP14330.OR |pmid=25370326 |pmc=4618502 |title=Long-Term Treatment with Pegvisomant as Monotherapy in Patients with Acromegaly: Experience from Acrostudy |journal=Endocrine Practice |volume=21 |issue=3 |pages=264–74 |year=2015 |last1=Freda |first1=Pamela |last2=Gordon |first2=Murray |last3=Kelepouris |first3=Nicky |last4=Jonsson |first4=Peter |last5=Koltowska-Haggstrom |first5=Maria |last6=Van Der Lely |first6=A. }}</ref> It is delivered as a powder that is mixed with water and injected [[Subcutaneous injection|under the skin]].<ref name="ema">{{cite web|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Scientific_Discussion/human/000409/WC500054625.pdf|title=Scientific Discussion of Somavert|date=2004|publisher=European Medicines Agency}}</ref>
+
+==Discovery==
+Pegvisomant was discovered at Ohio University in 1987 by Distinguished Professor [[John Kopchick]] and graduate student Wen Chen at the Edison Biotechnology Institute.  After completing clinical trials, it was approved for the treatment of acromegaly by the [[FDA]] in 2003 and marketed by [[Pfizer]].<ref>[https://www.ohio.edu/research/communications/royaltymonetization.cfm], Ohio University, inventors to receive up to $52 million from drug license transactions</ref>
+
+==Structure==
+Pegvisomant is a [[protein]] containing 191 [[amino acid]] residues to which several [[polyethylene glycol]] polymers have been covalently bound in order to slow clearance from the blood.<ref name="ema" /> The protein is a modified version of [[growth hormone|human growth hormone]] designed to bind to and block the [[growth hormone receptor]]. It is manufactured using genetically modified ''[[Escherichia coli|E. coli]]'' bacteria.<ref name="ema" />
+
+==Mechanism of action==
+Pegvisomant blocks the action of growth hormone at the growth hormone receptor to reduce the production of [[IGF-1]].<ref>{{cite journal |doi=10.1530/eje.0.148s021 |pmid=12670297 |title=Discovery and mechanism of action of pegvisomant |journal=European Journal of Endocrinology |volume=148 |pages=S21–5 |year=2003 |last1=Kopchick |first1=J. }}</ref><ref>{{cite journal |pmid=18058724 |year=2007 |last1=Berryman |first1=Darlene E. |last2=Palmer |first2=Amanda J. |last3=Gosney |first3=Elahu S. |last4=Swaminathan |first4=Svetha |last5=DeSantis |first5=Dave |last6=Kopchick |first6=John J. |title=Discovery and uses of pegvisomant: A growth hormone antagonist |volume=58 |issue=4 |pages=322–9 |journal=Endokrynologia Polska |url=https://journals.viamedica.pl/endokrynologia_polska/article/view/25617 }}</ref> IGF-1 is responsible for most of the symptoms of acromegaly, and normalising its levels may control the symptoms.<ref>[http://www.cadth.ca/media/cdr/complete/cdr_complete_Somavert_%20August2_2006.pdf Canadian Agency for Drugs and Technologies in Health], CEDAC Final REcommendation on Reconsideration and Reasons for Recommendation, Pegvisomant (Somavert - Pfizer Canada Inc.)</ref>
+
+Long-term treatment studies with pegvisomant as a monotherapy have shown it to be safe,<ref name="ReferenceA"/> and to date it is the most effective treatment of acromegaly as both a monotherapy and in combination with somatostatin analogues.<ref>{{cite journal |doi=10.1159/000381644 |pmid=25792221 |title=Pegvisomant Treatment in Acromegaly |journal=Neuroendocrinology |volume=103 |issue=1 |pages=59–65 |year=2015 |last1=Neggers |first1=Sebastian J.C.M.M. |last2=Muhammad |first2=Ammar |last3=Van Der Lely |first3=Aart Jan }}</ref>
+
+==Side effects==
+Side effects of pegvisomant include reactions at the injection site, swelling of the limbs, chest pain, [[hypoglycemia]], nausea and [[hepatitis]].<ref>{{Cite journal |doi=10.1530/eje.1.02160 |pmid=16728538 |title=Drug-induced hepatitis in an acromegalic patient during combined treatment with pegvisomant and octreotide long-acting repeatable attributed to the use of pegvisomant |journal=European Journal of Endocrinology |volume=154 |issue=6 |pages=805–6 |year=2006 |last1=Feenstra |first1=J |last2=Van Aken |first2=M. O. |last3=De Herder |first3=W. W. |last4=Feelders |first4=R. A. |last5=Van Der Lely |first5=A. J. }}</ref>
+
+Blocking of the growth hormone receptor reduces feedback control of the growth hormone regulation, leading to approximately doubled GH levels.<ref>{{cite journal |doi=10.1186/1472-6823-9-20 |pmid=19814797 |pmc=2768727 |title=Clinical effectiveness and cost-effectiveness of pegvisomant for the treatment of acromegaly: A systematic review and economic evaluation |journal=BMC Endocrine Disorders |volume=9 |pages=20 |year=2009 |last1=Moore |first1=David J |last2=Adi |first2=Yaser |last3=Connock |first3=Martin J |last4=Bayliss |first4=Sue }}</ref>
+
+==Other potential uses==
+Recent studies have shown the potential of using pegvisomant as an anti-tumor treatment for certain types of cancers, in combination with other treatments.<ref>{{cite journal |doi=10.1016/j.canlet.2016.05.031 |pmid=27241667 |title=Growth hormone receptor antagonism suppresses tumour regrowth after radiotherapy in an endometrial cancer xenograft model |journal=Cancer Letters |volume=379 |issue=1 |pages=117–23 |year=2016 |last1=Evans |first1=Angharad |last2=Jamieson |first2=Stephen M.F. |last3=Liu |first3=Dong-Xu |last4=Wilson |first4=William R. |last5=Perry |first5=Jo K. }}</ref><ref>{{cite journal |doi=10.1007/s10549-006-9168-1 |pmid=16541323 |title=The growth hormone receptor antagonist pegvisomant blocks both mammary gland development and MCF-7 breast cancer xenograft growth |journal=Breast Cancer Research and Treatment |volume=98 |issue=3 |pages=315–27 |year=2006 |last1=Divisova |first1=Jana |last2=Kuiatse |first2=Isere |last3=Lazard |first3=Zawaunyka |last4=Weiss |first4=Heidi |last5=Vreeland |first5=Franzanne |last6=Hadsell |first6=Darryl L. |last7=Schiff |first7=Rachel |last8=Osborne |first8=C. Kent |last9=Lee |first9=Adrian V. }}</ref>
+
+==See also==
+* [[PEGylation]]
+
+==References==
+{{Reflist|2}}
+
+
+{{GH/IGF-1 axis signaling modulators}}
+
+[[Category:Pfizer products]]

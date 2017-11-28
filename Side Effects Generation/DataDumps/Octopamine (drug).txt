@@ -1,0 +1,68 @@
+{{for|octopamine as an invertebrate neurotransmitter|Octopamine (neurotransmitter)}}
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 408985899
+| IUPAC_name = (''RS'')-4-(2-amino-1-hydroxy-ethyl)phenol
+| image = Octopamin.svg
+| image2 = (S)-Octopamine molecule ball.png
+| alt2 = Ball-and-stick model of the octopamine molecule
+| chirality = [[Racemic mixture]]
+| drug_name = Octopamine
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_category =  
+| legal_status = Rx / Uncontrolled / Banned by [[World Anti-Doping Agency]] 
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 99.42 % 
+| metabolism =  ''p''-hydroxymandelic acid (if ''p''-octopamine) or ''m''-hydroxymandelic acid (if ''m''-octopamine<ref name=pmid4277715>{{cite journal |pmid=4277715 |year=1974 |author1=Hengstmann |first1=J. H. |title=The physiological disposition of p-octopamine in man |journal=Naunyn-Schmiedeberg's Archives of Pharmacology |volume=283 |issue=1 |pages=93–106 |last2=Konen |first2=W |last3=Konen |first3=C |last4=Eichelbaum |first4=M |last5=Dengler |first5=H. J. |doi=10.1007/bf00500148}}</ref><ref>{{cite journal |doi=10.1016/j.neulet.2009.12.025 |pmid=20026245 |title=Trace amine metabolism in Parkinson's disease: Low circulating levels of octopamine in early disease stages |journal=Neuroscience Letters |volume=469 |issue=3 |pages=348–51 |year=2010 |last1=d’Andrea |first1=Giovanni |last2=Nordera |first2=Gianpietro |last3=Pizzolato |first3=Gilberto |last4=Bolner |first4=Andrea |last5=Colavito |first5=Davide |last6=Flaibani |first6=Raffaella |last7=Leon |first7=Alberta }}</ref>
+| elimination_half-life = 15 minutes in insects. Between 76 and 175 minutes in humans
+| excretion = Up to 93% of ingested octopamine is eliminated via the urinary route within 24 hours<ref name=pmid4277715/>
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 104-14-3
+| ATC_prefix = C01
+| ATC_suffix = CA18
+| PubChem = 4581
+| IUPHAR_ligand = 2149
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4420
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 14O50WS8JD
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 17134
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 53929
+
+<!--Chemical data-->
+| C=8 | H=11 | N=1 | O=2 
+| molecular_weight = 153.178 g/mol
+| smiles = OC(c1ccc(O)cc1)CN
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C8H11NO2/c9-5-8(11)6-1-3-7(10)4-2-6/h1-4,8,10-11H,5,9H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = QHGUCRYDKWKLMG-UHFFFAOYSA-N
+| synonyms = Norsympathol, Norsynephrine, para-Octopamine, beta-Hydroxytyramine, para-hydroxy-phenyl-ethanolamine
+}}
+
+'''Octopamine''' (molecular formula C<sub>8</sub>H<sub>11</sub>NO<sub>2</sub>) is an [[organic chemical]] closely related to [[norepinephrine]].  In many types of invertebrates it functions as an important [[neurotransmitter]] and [[hormone]], but in the human body it normally exists only at trace levels and has no known function.  Because it shares some of the actions of norepinephrine, octopamine has been sold under trade names such as '''Epirenor''', '''Norden''', and '''Norfen''' for use as a [[sympathomimetic drug]], available by prescription.  Very little information exists concerning its clinical usefulness or safety.<ref>{{cite journal |vauthors=Stohs SJ |title=Physiological functions and pharmacological and toxicological effects of p-octopamine |journal=Drug Chem Toxicol |volume=38 |issue=1 |pages=106–12 |year=2015 |pmid=24654910 |doi=10.3109/01480545.2014.900069}}</ref>
+
+In [[mammal]]s, octopamine may mobilize the release of [[fat]] from [[adipocytes]] (fat cells), which has led to its promotion on the [[internet]] as a slimming aid. However, the released fat is likely to be promptly taken up into other cells, and there is no evidence that octopamine facilitates weight loss. Octopamine may also increase [[blood pressure]] significantly when combined with other [[stimulant]]s, as in some [[anorectic|weight loss supplement]]s.<ref>{{cite journal |doi=10.1016/j.amjmed.2005.02.034 |pmid=16164886 |title=Hemodynamic effects of ephedra-free weight-loss supplements in humans |journal=The American Journal of Medicine |volume=118 |issue=9 |pages=998–1003 |year=2005 |last1=Haller |first1=Christine A. |last2=Benowitz |first2=Neal L. |last3=Jacob |first3=Peyton }}</ref>
+
+==References==
+{{Reflist|30em}}
+
+{{Cardiac stimulants}}
+{{Adrenergics}}
+{{TAAR ligands}}
+{{Phenethylamines}}
+{{Use dmy dates|date=March 2014}}
+
+[[Category:Phenethylamines]]
+[[Category:Alpha-adrenergic agonists]]
+[[Category:Norepinephrine-dopamine releasing agents]]
+[[Category:Phenols]]
+[[Category:TAAR1 agonists]]

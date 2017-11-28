@@ -1,0 +1,67 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 416403788
+| IUPAC_name = ''N''′-benzyl-5-methylisoxazole-3-carbohydrazide
+| image = Isocarboxazid structure.svg
+| width = 200px
+<!--Clinical data-->
+| tradename = Marplan
+| Drugs.com = {{drugs.com|CDI|isocarboxazid}}
+| MedlinePlus = a605036
+| pregnancy_category = C ([[United States|USA]])
+| legal_AU = S4
+| legal_status = Rx-only
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability = ?
+| metabolism = [[Liver]]
+| elimination_half-life = ?
+| excretion = [[Urine]]
+<!--Identifiers-->
+| IUPHAR_ligand = 7204
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 59-63-2
+| ATC_prefix = N06
+| ATC_suffix = AF01
+| PubChem = 3759
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01247
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3628
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 34237V843T
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02580
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201168
+<!--Chemical data-->
+| C=12 | H=13 | N=3 | O=2
+| molecular_weight = 231.25 g/mol
+| smiles = O=C(NNCc1ccccc1)c2noc(c2)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C12H13N3O2/c1-9-7-11(15-17-9)12(16)14-13-8-10-5-3-2-4-6-10/h2-7,13H,8H2,1H3,(H,14,16)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = XKFPYPQQHFEXRZ-UHFFFAOYSA-N
+}}
+
+'''Isocarboxazid''' ('''Marplan''', '''Marplon''', '''Enerzer''') is a non-selective, [[irreversible inhibition|irreversible]] [[monoamine oxidase inhibitor]] (MAOI) of the [[hydrazine]] class used as an [[antidepressant]].<ref name="pmid2870717">{{cite journal |vauthors=Fagervall I, Ross SB |title=Inhibition of monoamine oxidase in monoaminergic neurones in the rat brain by irreversible inhibitors |journal=[[Biochemical Pharmacology (journal)|Biochemical pharmacology]] |volume=35 |issue=8 |pages=1381–7 |date=April 1986 |pmid=2870717 |doi= 10.1016/0006-2952(86)90285-6|url=http://linkinghub.elsevier.com/retrieve/pii/0006-2952(86)90285-6}}</ref> Along with [[phenelzine]] and [[tranylcypromine]], it is one of only three classical MAOIs still available for clinical use in the treatment of psychiatric disorders in the [[United States]],<ref name="Rosenberg2013">{{cite book|author=David Rosenberg|title=Pocket Guide For The Textbook Of Pharmacotherapy For Child And Adolescent Psychiatric Disorders|url=https://books.google.com/books?id=fep_AAAAQBAJ&pg=PA176|date=21 August 2013|publisher=Routledge|isbn=978-1-134-86002-9|pages=176–}}</ref><ref name="LabbateFava2012">{{cite book|author1=Lawrence A. Labbate|author2=Maurizio Fava|author3=Jerrold F. Rosenbaum|author4=George W. Arana|title=Handbook of Psychiatric Drug Therapy|url=https://books.google.com/books?id=xrZfcE8MydIC&pg=PA99|date=28 March 2012|publisher=Lippincott Williams & Wilkins|isbn=978-1-4511-5307-1|pages=99–}}</ref> though it is not as commonly employed in comparison to the others.<ref name="Rosenberg2013" /><ref name="LabbateFava2012" />
+
+Isocarboxazid is primarily used to treat [[mood disorder|mood]] and [[anxiety disorder]]s. It has also been investigated in the treatment of [[Parkinson's disease]] and other [[dementia]]-related disorders. Although efficacious, isocarboxazid produces many [[side effect]]s, which may include [[headache]]s, [[jaundice]], [[chest pain]], [[weight gain]], [[orthostatic hypotension]], [[fainting]], [[dizziness]], and [[tremor]]s. Isocarboxazid, as well as other MAOIs, increase the levels of the [[monoamine]] [[neurotransmitters]] [[serotonin]], [[dopamine]], and [[norepinephrine]] in the brain.<ref>Volz, Hanz-Peter. (November 1998) “Monoamine Oxidase Inhibitors A Perspective on Their Use in The Elderly” Biochemical pharmacology (5) 341-352.</ref>
+       
+Classical MAOIs, including isocarboxazid, are used only very rarely in the present day due to prominent [[drug interaction|food]] and [[drug interaction]]s and have been largely superseded by newer, safer, and more tolerable antidepressants such as the [[selective serotonin reuptake inhibitor]]s (SSRIs). The cause of the interactions is because MAOIs inhibit the [[metabolism]] of dietary amines (e.g., [[tyramine]]) and the monoamine neurotransmitters. In combination with other drugs that increase the levels of the monoamine neurotransmitters such as the SSRIs, or with certain foods high in dietary amines such as [[aged cheese]]s, MAOIs can produce dangerous elevations of monoamine neurotransmitters resulting in potentially life-threatening syndromes such as [[hypertensive crisis]] and [[serotonin syndrome]].
+
+== See also ==
+* [[Hydrazine (antidepressant)]]
+
+== References ==
+{{Reflist|2}}
+
+{{Antidepressants}}
+{{Monoamine metabolism modulators}}
+{{Hydrazines}}
+
+[[Category:Monoamine oxidase inhibitors]]
+[[Category:Isoxazoles]]
+[[Category:Hepatotoxins]]
+[[Category:Hydrazides]]

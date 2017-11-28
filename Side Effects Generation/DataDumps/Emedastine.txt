@@ -1,0 +1,83 @@
+{{Drugbox
+| verifiedrevid = 461093245
+| IUPAC_name =1-(2-ethoxyethyl)-2-(4-methyl-1,4-diazepan-1-yl)-benzimidazole
+| image = Emedastine structure.svg
+<!--Clinical data-->
+| tradename = Emadine
+| Drugs.com = {{drugs.com|monograph|emadine}}
+| pregnancy_category =  
+| legal_status = Rx-only
+| routes_of_administration = Topical (ophthalmic solution)
+<!--Pharmacokinetic data-->
+| bioavailability = ~50% (oral) ([[Cmax (pharmacology)|T<sub>max</sub>]] = 1–2 hours)<ref name = "PI">{{cite web|title=Emadine (emedastine difumarate ophthalmic solution) 0.05%. Full Prescribing Information|url=http://ecatalog.alcon.com/PI/Emadine_us_en.pdf|publisher=Alcon Laboratories, Inc. 6201 South Freeway Fort Worth, Texas 76134, USA|accessdate=5 January 2016}}</ref>
+| protein_bound =  
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life = 3–4 hours (oral), 10 hours (topical)
+<!--Identifiers-->
+| IUPHAR_ligand = 7174
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 87233-61-2
+| ATC_prefix = S01
+| ATC_suffix = GX06
+| PubChem = 3219
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01084
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3106
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 9J1H7Y9OJV
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07890
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 4779
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 594
+<!--Chemical data-->
+| C=17 | H=26 | N=4 | O=1
+| molecular_weight = 302.415 g/mol
+| SMILES = O(CC)CCn1c(nc2ccccc12)N3CCCN(C)CC3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H26N4O/c1-3-22-14-13-21-16-8-5-4-7-15(16)18-17(21)20-10-6-9-19(2)11-12-20/h4-5,7-8H,3,6,9-14H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = KBUZBQVCBVDWKX-UHFFFAOYSA-N
+}}
+
+'''Emedastine''' (trade name '''Emadine''') is a second generation{{fact|date=December 2013}} [[antihistamine]] used in [[eye drop]]s to alleviate the symptoms of [[allergic conjunctivitis]]. It acts as a [[H1 receptor antagonist|H<sub>1</sub> receptor antagonist]]. It works by blocking the action of [[histamine]] that causes allergic symptoms. It is used in form of the di[[fumarate]].<ref>{{Cite journal 
+| doi = 10.2165/00003495-200565020-00004 
+| last1 = Bielory | first1 = L. 
+| last2 = Lien | first2 = K. W. 
+| last3 = Bigelsen | first3 = S. 
+| title = Efficacy and tolerability of newer antihistamines in the treatment of allergic conjunctivitis 
+| journal = Drugs 
+| volume = 65 
+| issue = 2 
+| pages = 215–228 
+| year = 2005 
+| pmid = 15631542
+}}</ref> 
+The emedastine difumarate is a white, crystalline, water-soluble fine powder. Emedastine eye drops is usually applied twice a day to the affected eye. When the patients with allergic conjunctivitis were treated with 0.05% emedastine difumarate ophthalmic solution for six weeks, the signs and symptoms such as redness, itching and swelling of the eyes were relieved. Emedastine appears to be devoid of effects on adrenergic, dopaminergic and serotonin receptors. This drug was developed by [[Alcon]], which is global medical company specializing in eye care products.
+
+== Pharmacodynamics ==
+Emedastine is significantly selective to H<sub>1</sub> histamine receptors ([[Dissociation constant|K<sub>i</sub>]] = 1.3 nM), whereas its affinities for other histamine receptors were low (H<sub>2</sub>: K<sub>i</sub> = 49067 nM and H<sub>3</sub>: K<sub>i</sub> = 12430 nM) ub ''in vitro'' study. Topical ocular administration of emedastine inhibits histamine-stimulated vascular permeability in the conjunctiva as a concentration-dependent manner in ''in vitro'' study.
+
+== Pharmacokinetics ==
+The human oral bioavailability is approximately 50% and maximum plasma concentration was achieved within 1–2 hours after dosing. Emedastine is mainly metabolized by the liver. There are two primary metabolites: 5-hydroxyemedastine and 6-hydroxyemedastine. They are excreted in the urine as both free and conjugated forms. The 5'-oxoanalogs of 5-hydroxyemedastine, 6-hydroxyemedastine and the ''N''-oxide are also formed as minor metabolites. The elimination half-life of oral emedastine in plasma is 3–4 hours, whereas that of topical emedastine is 10 hours. Approximately 44% of the oral dose is recovered in the urine over 24 hours with only 3.6% of the dose excreted as parent drug.<ref name = "PI" />
+
+== Contraindications ==
+Emedastine should not be used in patients who are hypersensitive to emedastine or any other excipients of the preparation. [[Benzalkonium chloride]] contained in the bottle of emedastine solution can discolor soft [[contact lense]]s, so people who wear contact lenses should be careful using it.
+
+== Adverse events ==
+The most common adverse effect was headache (11%). The other minor adverse effects encountered in less than 5% of patients were [[Weakness|asthenia]], burning or stinging sensation, unpleasant taste, blurred vision, eye dryness and tearing.
+
+== References ==
+{{Reflist}}
+
+{{Antihistamines}}
+{{Histaminergics}}
+
+[[Category:H1 receptor antagonists]]
+[[Category:Benzimidazoles]]
+[[Category:Ethers]]
+[[Category:Diazepanes]]
+
+{{respiratory-system-drug-stub}}

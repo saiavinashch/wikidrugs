@@ -1,0 +1,72 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 461935906
+| IUPAC_name = 4-Iodo-3-nitrobenzamide
+| image = Iniparib.svg
+| width = 175
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Development terminated
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 160003-66-7
+| ATC_prefix = None
+| ATC_suffix =
+| PubChem = 9796068
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 7971834
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 2ZWI7KHK8F
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D09913
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1170047
+
+<!--Chemical data-->
+| C=7 | H=5 | I=1 | N=2 | O=3 
+| molecular_weight = 292.03 g/mol
+| smiles = c1cc(c(cc1C(=O)N)[N+](=O)[O-])I
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C7H5IN2O3/c8-5-2-1-4(7(9)11)3-6(5)10(12)13/h1-3H,(H2,9,11)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = MDOJTZQKHMAPBK-UHFFFAOYSA-N
+}}
+
+'''Iniparib''' ([[International nonproprietary name|INN]],<ref name="INN">{{cite web | title = International Nonproprietary Names for Pharmaceutical Substances (INN). Recommended International Nonproprietary Names: List 65 | url = http://www.who.int/medicines/publications/druginformation/innlists/RL65.pdf | publisher = World Health Organization | accessdate = 20 December 2016 | page = 68 | date = 2011}}</ref> previously known as '''BSI 201''') was a drug candidate for cancer treatment.  It was originally believed to act as an [[Enzyme inhibitor#Irreversible inhibitors|irreversible inhibitor]] of [[PARP1]] (hence, a [[PARP inhibitor]]) and possibly other enzymes through [[covalent bond|covalent modification]],<ref>[http://www.cancernetwork.com/display/article/10165/1514773 Development of PARP Inhibitors: An Unfinished Story], Jan 2010</ref><ref>http://www.biparsciences.com/000011.html  {{webarchive |url=https://web.archive.org/web/20100623054505/http://www.biparsciences.com/000011.html |date=June 23, 2010 }}</ref> but its effects against PARP were later disproven.<ref>{{cite journal | pmid = 22128301 | year = 2012 | last1 = Liu | first1 = X | last2 = Shi | first2 = Y | last3 = Maag | first3 = DX | last4 = Palma | first4 = JP | last5 = Patterson | first5 = MJ | last6 = Ellis | first6 = PA | last7 = Surber | first7 = BW | last8 = Ready | first8 = DB | last9 = Soni | first9 = NB | last10 = Ladror | first10 = U. S. | last11 = Xu | first11 = A. J. | last12 = Iyer | first12 = R. | last13 = Harlan | first13 = J. E. | last14 = Solomon | first14 = L. R. | last15 = Donawho | first15 = C. K. | last16 = Penning | first16 = T. D. | last17 = Johnson | first17 = E. F. | last18 = Shoemaker | first18 = A. R. | title = Iniparib nonselectively modifies cysteine-containing proteins in tumor cells and is not a Bona Fide PARP inhibitor | volume = 18 | issue = 2 | pages = 510–23 | doi = 10.1158/1078-0432.CCR-11-1973 | journal = Clinical Cancer Research| display-authors = 8 }}</ref><ref>{{cite journal | pmid = 22291137 | year = 2012 | last1 = Patel | first1 = AG | last2 = De Lorenzo | first2 = SB | last3 = Flatten | first3 = KS | last4 = Poirier | first4 = GG | last5 = Kaufmann | first5 = SH | title = Failure of Iniparib to Inhibit Poly(ADP-Ribose) Polymerase in Vitro | volume = 18 | issue = 6 | pages = 1655–62 | doi = 10.1158/1078-0432.CCR-11-2890 | pmc = 3306513 | journal = Clinical Cancer Research}}</ref>  It underwent [[clinical trial]]s for treatment of some types of [[breast cancer]],<ref>[http://www.parp-inhibitors.com/bsi201.html BSI 201]</ref><ref>{{cite news |url=https://www.reuters.com/article/healthNews/idUSTRE54U1FV20090531 |title=New breast cancer drugs block cell repair enzyme | work=Reuters | date=2009-05-31}}</ref> but was discontinued after disappointing phase III clinical trials.
+
+==History==
+Iniparib was the first putative PARP inhibitor to commence [[Phases_of_clinical_research#Phase_III|phase III clinical trial]]s.<ref>{{cite web |url=http://www.p-d-r.com/ranking/Wolters%20Kluwer%20Health/July09/PARPi.WKHealth.29Jul09.pdf |title=PARP Inhibitors in Oncology. Chemosensitizers or Single-Agent Therapeutics? |date=July 2009}}</ref> The first was for breast cancer,<ref>{{cite web |url=http://clinicaltrials.gov/ct2/show/NCT00938652 |title=A Phase 3, Multi-Center Study of Gemcitabine/Carboplatin, With or Without BSI-201, in Patients With ER-, PR-, and Her2-Negative Metastatic Breast Cancer }} 2009 to 2012, Primary completion date June 2011</ref> another was for [[Squamous-cell carcinoma of the lung|squamous-cell lung cancer]].<ref>{{cite web |url=http://clinicaltrials.gov/ct2/show/NCT01082549 |title=Trial of Gemcitabine/Carboplatin With or Without BSI-201 (a PARP1 Inhibitor) in Patients With Previously Untreated Advanced Squamous Cell Lung Cancer (ECLIPSE) }} 2010 to 2014, PCD 2012</ref> Preliminary results in June 2009 on [[triple-negative breast cancer]] were promising.<ref>{{cite news |url=http://www.dancewithshadows.com/pillscribe/sanofi%E2%80%99s-new-drug-bsi-201-offers-to-treat-the-toughest-breast-cancer/ |title=Sanofi’s new drug BSI 201 offers to treat the toughest breast cancer |date=3 June 2009 }}</ref>  Later results showed increased median survival of triple-negative breast cancer patients from 7.7 to 12.2 months.<ref>{{cite web |url=http://www.medpagetoday.com/MeetingCoverage/SABCS/17496 |title=SABCS: PARP Inhibitor Data Called 'Spectacular' |date=Dec 2009 }}</ref><ref>{{cite news |url=http://www.internalmedicinenews.com/news/oncology-hematology/single-article/parp-inhibitor-adds-nearly-5-months-to-breast-cancer-survival/5b8b2da248.html |title=PARP Inhibitor Adds Nearly 5 Months to Breast Cancer Survival |date=11 Oct 2010 }}</ref><ref>{{cite journal |title=Iniparib plus Chemotherapy in Metastatic Triple-Negative Breast Cancer |author=O'Shaughnessy |year=2011 |doi=10.1056/NEJMoa1011418 |last2=Osborne |first2=Cynthia |last3=Pippen |first3=John E. |last4=Yoffe |first4=Mark |last5=Patt |first5=Debra |last6=Rocha |first6=Christine |last7=Koo |first7=Ingrid Chou |last8=Sherman |first8=Barry M. |last9=Bradley |first9=Charles |journal=New England Journal of Medicine |volume=364 |issue=3 |pages=205–214 |pmid=21208101 |display-authors=etal}}</ref>
+
+In 2009, the [[Food and Drug Administration|FDA]] began [[Fast track (FDA)|fast-tracking]] the [[new drug application]] of iniparib for triple-negative breast cancer. However, phase III results disclosed in January 2011 were disappointing.<ref name="fiercebiotech">{{cite web |url=http://www.fiercebiotech.com/story/sanofi-breast-cancer-drug-flunks-phase-iii-trial/2011-01-27 |title=Sanofi breast cancer drug flunks Phase III trial}}</ref><ref>{{cite journal |url=http://jco.ascopubs.org/content/32/34/3840.abstract |authors=Joyce O'Shaughnessy, Lee Schwartzberg, Michael A. Danso |title=Phase III Study of Iniparib Plus Gemcitabine and Carboplatin Versus Gemcitabine and Carboplatin in Patients With Metastatic Triple-Negative Breast Cancer |journal=J. Clin. Oncol. |volume=32 |issue=34 |pages=3840–7 |doi=10.1200/JCO.2014.55.2984 |pmid=25349301 |date=2014-12-01 |accessdate=2015-07-24|display-authors=etal}}</ref>
+
+Iniparib was also studied as a potential chemotherapeutic agent in the fight against malignant [[glioma]], including [[glioblastoma]]. Glioma is a resilient type of primary brain tumor (not metastatic) that currently has limited effective therapies, especially for patients whose tumors are in an inoperable location of the brain, such as the interior of the brainstem.
+
+During the 2013 [[American Society of Clinical Oncology]] conference, [[Sanofi]] disclosed that iniparib failed to help lung-cancer patients in a late-stage trial, prompting the company to end research into the once-promising compound and take a $285 million charge.<ref name=fiercebiotech/><ref>{{cite web | url = https://www.bloomberg.com/news/2013-06-03/sanofi-ends-iniparib-research-plans-285-million-charge.html | title = Sanofi Ends Iniparib Research}}</ref>
+
+==References==
+{{reflist|2}}
+
+[[Category:Abandoned drugs]]
+[[Category:Benzamides]]
+[[Category:Nitrobenzenes]]
+[[Category:Iodoarenes]]

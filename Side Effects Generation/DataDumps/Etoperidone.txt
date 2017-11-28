@@ -1,0 +1,124 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 447570339
+| IUPAC_name = 2-[3-[4-(3-chlorophenyl)piperazin-1-yl]propyl]-4,5-diethyl-1,2,4-triazol-3-one
+| image = Etoperidone structure.svg
+| width = 250px
+
+<!--Clinical data-->
+| tradename = Depraser, others
+| pregnancy_category = 
+| legal_status = 
+| routes_of_administration = [[Oral administration|Oral]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 52942-31-1
+| ATC_prefix = N06
+| ATC_suffix = AB09
+| PubChem = 40589
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1743259
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 37083
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = KAI6MVO39Z
+| synonyms = ST-1191
+
+<!--Chemical data-->
+| C=19 | H=28 | Cl=1 | N=5 | O=1 
+| molecular_weight = 377.911 g/mol
+| SMILES = Clc3cccc(N2CCN(CCCN1/N=C(\N(C1=O)CC)CC)CC2)c3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H28ClN5O/c1-3-18-21-25(19(26)24(18)4-2)10-6-9-22-11-13-23(14-12-22)17-8-5-7-16(20)15-17/h5,7-8,15H,3-4,6,9-14H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IZBNNCFOBMGTQX-UHFFFAOYSA-N
+}}
+
+'''Etoperidone''' (brand name '''Depraser''', others) is an [[antidepressant]] which was introduced in 1977 and is no longer marketed.<ref name="IndexNominum2000">{{cite book|title=Index Nominum 2000: International Drug Directory|url=https://books.google.com/books?id=5GpcTQD_L2oC&pg=PA421|year=2000|publisher=Taylor & Francis|isbn=978-3-88763-075-1|page=421}}</ref><ref name="Publishing2013">{{cite book|author=William Andrew Publishing|title=Pharmaceutical Manufacturing Encyclopedia|url=https://books.google.com/books?id=_J2ti4EkYpkC&pg=PA1533|date=22 October 2013|publisher=Elsevier|isbn=978-0-8155-1856-3|pages=1533–}}</ref><ref name="LamberthDinges2012">{{cite book|author1=Clemens Lamberth|author2=JÃ1⁄4rgen Dinges|title=Bioactive Heterocyclic Compound Classes: Pharmaceuticals|url=https://books.google.com/books?id=35uKnWKD9V8C&pg=RA1-PA50|date=16 August 2012|publisher=John Wiley & Sons|isbn=978-3-527-66447-4|pages=1–}}</ref> It is related to [[trazodone]] and [[nefazodone]] in [[chemical structure]] and is a [[serotonin antagonist and reuptake inhibitor]] (SARI) similarly.<ref name="Morrison-Valfre2016">{{cite book|author=Michelle Morrison-Valfre|title=Foundations of Mental Health Care - E-Book|url=https://books.google.com/books?id=EFfoDAAAQBAJ&pg=PA245|date=23 August 2016|publisher=Elsevier Health Sciences|isbn=978-0-323-37104-9|pages=245–}}</ref>
+
+==Pharmacology==
+{| class="wikitable floatleft" style="font-size:small;"
+|+ Etoperidone<ref name="PDSP">{{cite web | title = PDSP K<sub>i</sub> Database | work = Psychoactive Drug Screening Program (PDSP) | author1 = Roth, BL | author2 = Driscol, J | publisher = University of North Carolina at Chapel Hill and the United States National Institute of Mental Health | accessdate = 14 August 2017 | url = https://pdsp.unc.edu/databases/pdsp.php?knowID=0&kiKey=&receptorDD=&receptor=&speciesDD=&species=&sourcesDD=&source=&hotLigandDD=&hotLigand=&testLigandDD=&testFreeRadio=testFreeRadio&testLigand=etoperidone&referenceDD=&reference=&KiGreater=&KiLess=&kiAllRadio=all&doQuery=Submit+Query}}</ref>
+|-
+! Site !! K<sub>i</sub> (nM) !! Species !! Ref
+|-
+| '''{{abbrlink|SERT|Serotonin transporter}}''' || '''890''' || '''Human''' || <ref name="pmid9537821">{{cite journal | vauthors = Tatsumi M, Groshan K, Blakely RD, Richelson E | title = Pharmacological profile of antidepressants and related compounds at human monoamine transporters | journal = Eur. J. Pharmacol. | volume = 340 | issue = 2-3 | pages = 249–58 | year = 1997 | pmid = 9537821 | doi = | url = }}</ref>
+|-
+| {{abbrlink|NET|Norepinephrine transporter}} || 20,000 || Human || <ref name="pmid9537821" />
+|-
+| {{abbrlink|DAT|Dopamine transporter}} || 52,000 || Human || <ref name="pmid9537821" />
+|-
+| '''[[5-HT1A receptor|5-HT<sub>1A</sub>]]''' || '''85''' || '''Human''' || <ref name="pmid7855217">{{cite journal | vauthors = Cusack B, Nelson A, Richelson E | title = Binding of antidepressants to human brain receptors: focus on newer generation compounds | journal = Psychopharmacology | volume = 114 | issue = 4 | pages = 559–65 | year = 1994 | pmid = 7855217 | doi = | url = }}</ref>
+|-
+| '''[[5-HT2A receptor|5-HT<sub>2A</sub>]]''' || '''36''' || '''Human''' || <ref name="pmid7855217" />
+|-
+| [[5-HT2C receptor|5-HT<sub>2C</sub>]] || {{abbr|ND|No data}} || {{abbr|ND|No data}} || {{abbr|ND|No data}}
+|-
+| '''[[Alpha-1 adrenergic receptor|α<sub>1</sub>]]''' || '''38''' || '''Human''' || <ref name="pmid7855217" />
+|-
+| '''[[Alpha-2 adrenergic receptor|α<sub>2</sub>]]''' || '''570''' || '''Human''' || <ref name="pmid7855217" />
+|-
+| [[Dopamine D2 receptor|D<sub>2</sub>]] || 2,300 || Human || <ref name="pmid7855217" />
+|-
+| [[Histamine H1 receptor|H<sub>1</sub>]] || 3,100 || Human || <ref name="pmid7855217" />
+|-
+| {{abbrlink|mACh|Muscarinic acetylcholine receptor}} || >35,000 || Human || <ref name="pmid7855217" /><ref name="pmid8100134">{{cite journal | vauthors = Stanton T, Bolden-Watson C, Cusack B, Richelson E | title = Antagonism of the five cloned human muscarinic cholinergic receptors expressed in CHO-K1 cells by antidepressants and antihistaminics | journal = Biochem. Pharmacol. | volume = 45 | issue = 11 | pages = 2352–4 | year = 1993 | pmid = 8100134 | doi = | url = }}</ref>
+|- class="sortbottom"
+| colspan="4" style="width: 1px;" | Values are K<sub>i</sub> (nM). The smaller the value, the more strongly the drug binds to the site.
+|}
+
+Etoperidone is as an [[receptor antagonist|antagonist]] of several [[receptor (biochemistry)|receptors]] in the following order of [[potency (pharmacology)|potency]]: [[5-HT2A receptor|5-HT<sub>2A</sub> receptor]] (36 nM) > [[α1-adrenergic|α<sub>1</sub>-adrenergic receptor]] (38 nM) > [[5-HT1A receptor|5-HT<sub>1A</sub> receptor]] (85 nM) (may be a [[partial agonist]]) > [[α2-adrenergic|α<sub>2</sub>-adrenergic receptor]] (570 nM);<ref name="pmid7855217" /> it has only very weak or negligible [[affinity (pharmacology)|affinity]] for blocking the following receptors: [[D2 receptor|D<sub>2</sub> receptor]] (2,300 nM) > [[H1 receptor|H<sub>1</sub> receptor]] (3,100 nM) > [[muscarinic acetylcholine receptor|mACh receptor]]s (>35,000 nM).<ref name="pmid7855217" /> In addition to its receptor blockade, etoperidone also has weak affinity for the [[monoamine]] [[membrane transport protein|transporter]]s as well: [[serotonin transporter]] (890 nM) > [[norepinephrine transporter]] (20,000 nM) > [[dopamine transporter]] (52,000 nM).<ref name="pmid9537821" />
+
+It is metabolized in part to [[1-(3-Chlorophenyl)piperazine|mCPP]], which probably accounts for its serotonergic effects.<ref name=Garattini>{{cite journal|last1=Garattini|first1=S|title=Active drug metabolites. An overview of their relevance in clinical pharmacokinetics.|journal=Clinical pharmacokinetics|date=1985|volume=10|issue=3|pages=216–27|doi=10.2165/00003088-198510030-00002|pmid=2861928}}</ref><ref>{{cite journal|last1=Raffa|first1=RB|last2=Shank|first2=RP|last3=Vaught|first3=JL|title=Etoperidone, trazodone and MCPP: in vitro and in vivo identification of serotonin 5-HT1A (antagonistic) activity.|journal=Psychopharmacology|date=1992|volume=108|issue=3|pages=320–6|doi=10.1007/BF02245118|pmid=1387963}}</ref>
+
+==Chemistry==
+Etoperidone is a [[phenylpiperazine]] and is chemically related to [[nefazodone]] and [[trazodone]].<ref>{{cite book|last1=Akritopoulou-Zanze|first1=Irini|editor1-last=Dinges|editor1-first=Jürgen|editor2-last=Lamberth|editor2-first=Clemens|title=Bioactive heterocyclic compound classes pharmaceuticals|date=2012|publisher=Wiley-VCH|location=Weinheim|isbn=9783527664450|chapter=6. Arylpiperazine-Based 5-HT1A Receptor Partial Agonists and 5-HT2A Antagonists for the Treatment of Autism, Depression, Anxiety, Psychosis, and Schizophrenia}}</ref><ref>{{cite book|editor1-last=Dörwald|editor1-first=Florencioa Zaragoza|title=Lead optimization for medicinal chemists : pharmacokinetic properties of functional groups and organic compounds|date=2012|publisher=Wiley-VCH|location=Weinheim|isbn=9783527645640|chapter=46. Arylalkylamines}}</ref><ref name=DD>{{cite book|last1=Eison|first1=Michael S.|last2=Taylor|first2=Duncan B.|last3=Riblet|first3=Leslie A.|editor1-last=Williams|editor1-first=Michael|editor2-last=Malick|editor2-first=Jeffrey B.|title=Drug Discovery and Development|date=1987|publisher=Springer Science & Business Media|isbn=9781461248286|page=390|url=https://books.google.com/books?id=O0LuBwAAQBAJ&pg=PA390|language=en|chapter=Atypical Psychotropic Agents}}</ref>
+
+==History==
+It was discovered by scientists at [[Angelini]], who also discovered trazodone.<ref>{{cite journal|last1=Silvestrini|first1=B|title=Trazodone and the mental pain hypothesis of depression.|journal=Neuropsychobiology|date=1986|volume=15 Suppl 1|pages=2–9|doi=10.1159/000118270|pmid=3014372}}</ref>
+
+Its development name was ST 1191.<ref name="GanellinTriggle1997">{{cite book | author1 = C. R Ganellin | author2 = D. J Triggle | author3 = F.. Macdonald | title = Dictionary of pharmacological agents | url = https://books.google.com/books?id=DeX7jgInYFMC&pg=PA859 | accessdate = 27 November 2011 | year = 1997 | publisher = CRC Press | isbn = 978-0-412-46630-4 | page = 859}}</ref>
+
+The INN name "etoperidone" was proposed in 1976 and recommended in 1977.<ref>{{cite journal|title=Proposed INN List 36|journal=Supplement to the WHO Chronicle|date=1976|volume=30|issue=9|url=https://mednet-communities.net/inn/db/media/docs/p-innlist36.pdf}}</ref><ref>{{cite journal|title=Recommended INN List 17|journal=Supplement to the WHO Chronicle|date=1977|volume=31|issue=10|url=https://mednet-communities.net/inn/db/media/docs/r-innlist17.pdf}}</ref>
+
+It was given brand names in Spain (Centren (Esteve) and Depracer (Lepori)), and was given the brand name Staff by Sigma Tau in Italy<ref name="Index nominum 2000: international drug directory">{{cite book | title = Index nominum 2000: international drug directory | url = https://books.google.com/books?id=5GpcTQD_L2oC&pg=PA421 | accessdate = 27 November 2011 | year = 2000 | publisher = Taylor & Francis US | isbn = 978-3-88763-075-1 | page = 421}}</ref> and was given brand names Axiomin and Etonin,<ref name="GanellinTriggle1997"/> but it is unclear if the drug was marketed; the Pharmaceutical Manufacturing Encyclopedia provides no dates for commercial introduction.<ref>{{cite book|last1=McPherson|first1=Edwin M.|title=Pharmaceutical Manufacturing Encyclopedia.|date=2007|publisher=Elsevier|location=Burlington|isbn=978-0-8155-1856-3|page=1533|edition=3rd ed.}}</ref> According to [[Micromedex]]'s Index Nominum: International Drug Directory, etoperidone was previously marketed in [[Spain]].<ref name="IndexNominum2000" />
+
+==Research==
+It has been studied in [[dementia]] and found to be about as effective as [[thioridazine]].<ref>{{cite journal|last1=Kirchner|first1=V|last2=Kelly|first2=CA|last3=Harvey|first3=RJ|title=Thioridazine for dementia.|journal=The Cochrane database of systematic reviews|date=2001|issue=3|pages=CD000464|doi=10.1002/14651858.CD000464|pmid=11686961}}</ref>
+
+==References==
+{{Reflist|2}}
+
+{{Antidepressants}}
+{{Anxiolytics}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Adrenergic receptor modulators}}
+{{Monoamine reuptake inhibitors}}
+{{Serotonin receptor modulators}}
+}}
+
+[[Category:5-HT2A antagonists]]
+[[Category:Abandoned drugs]]
+[[Category:Alpha-1 blockers]]
+[[Category:Alpha-2 blockers]]
+[[Category:Antidepressants]]
+[[Category:Anxiolytics]]
+[[Category:Chloroarenes]]
+[[Category:Lactams]]
+[[Category:Piperazines]]
+[[Category:Serotonin reuptake inhibitors]]
+[[Category:Triazoles]]
+[[Category:Ureas]]

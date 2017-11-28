@@ -1,0 +1,64 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 451564452
+| IUPAC_name = 6-Ethyl-7-methoxy-5-methyl-2-(5-methyl-[1,2,4]oxadiazol-3-yl)-imidazo[1,2-a]pyrimidine
+| image = Fasiplon_structure.png
+| width = 200
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 106100-65-6
+| ATC_prefix = none
+| PubChem = 208954
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 62735
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 181047
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = XCA050IPGB
+
+<!--Chemical data-->
+| C=13 | H=15 | N=5 | O=2 
+| molecular_weight = 273.290 g/mol
+| smiles = CC1=NC(C2=CN3C(N=C(OC)C(CC)=C3C)=N2)=NO1
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C13H15N5O2/c1-5-9-7(2)18-6-10(11-14-8(3)20-17-11)15-13(18)16-12(9)19-4/h6H,5H2,1-4H3
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = MEBYKPLMXIRYRQ-UHFFFAOYSA-N
+}}
+'''Fasiplon''' ('''RU 33203''') is a [[nonbenzodiazepine]] [[anxiolytic]] drug from the [[:Category:Imidazopyrimidines|imidazopyrimidine]] family of drugs.
+
+Fasiplon binds strongly to benzodiazepine sites on the [[GABAA receptor|GABA<sub>A</sub>]] [[Receptor (biochemistry)|receptor]] and has similar [[anxiolytic]] effects in animals, but with less [[sedative]] or [[muscle relaxant]] action.<ref name="pmid1648620">{{cite journal |vauthors=Tully WR, Gardner CR, Gillespie RJ, Westwood R |title=2-(oxadiazolyl)- and 2-(thiazolyl)imidazo[1,2-a]pyrimidines as agonists and inverse agonists at benzodiazepine receptors |journal=Journal of Medicinal Chemistry |volume=34 |issue=7 |pages=2060–7 |date=July 1991 |pmid=1648620 |doi= 10.1021/jm00111a021|url=}}</ref> It was developed by a team at [[Roussel Uclaf]] in the 1990s<ref>US Patent 5869481 Anticonvulsive 1-ar(alk)ylimidazolin-2-ones and process for making</ref>
+
+==References==
+<references/>
+
+{{Anxiolytics}}
+{{GABAAR PAMs}}
+
+[[Category:Sedatives]]
+[[Category:Imidazopyrimidines]]
+[[Category:Oxadiazoles]]
+[[Category:GABAA receptor positive allosteric modulators]]

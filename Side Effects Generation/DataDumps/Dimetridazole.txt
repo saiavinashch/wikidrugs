@@ -1,0 +1,81 @@
+{{Drugbox
+| verifiedrevid = 437182923
+| IUPAC_name = 1,2-dimethyl-5-nitro-1''H''-imidazole
+| image = Dimetridazole structure.svg
+| width = 160
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|dimetridazole}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number = 551-92-8
+| CAS_supplemental =  
+| ATCvet = yes
+| ATC_prefix = P51
+| ATC_suffix = AA07
+| ATC_supplemental =  
+| PubChem = 3090
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2980
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = K59P7XNB8X
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07855
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 38938
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=5 | H=7 | N=3 | O=2 
+| molecular_weight = 141.128 g/mol
+| smiles = Cc1ncc([N](=O)=O)n1C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C5H7N3O2/c1-4-6-3-5(7(4)2)8(9)10/h3H,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IBXPYPUJPLLOIN-UHFFFAOYSA-N
+}}
+
+'''Dimetridazole''' is a drug that combats [[protozoan]] infections. It is a [[nitroimidazole]] class drug.<ref>{{Cite journal 
+| last1 = Dalton | first1 = P. 
+| title = Use of dimetridazole in gamebirds 
+| journal = The Veterinary record 
+| volume = 139 
+| issue = 16 
+| pages = 399 
+| year = 1996 
+| pmid = 8913016
+}}</ref> It has been banned by the [[Government of Canada]] as a [[livestock]] feed additive.<ref>[http://www.inspection.gc.ca/english/anima/feebet/mib/mibdime.shtml Canadian Food Inspection Agency update] {{webarchive |url=https://web.archive.org/web/20050507140837/http://www.inspection.gc.ca/english/anima/feebet/mib/mibdime.shtml |date=May 7, 2005 }}</ref>
+
+It used to be commonly added to poultry feed. This led to it being found in eggs. Because of suspicions of it being carcinogenic its use has been legally limited but it is still found in the eggs.<ref>{{cite journal |vauthors=Posyniak A, Semeniuk S, Zmudzki J, Niedzielska J, Biernacki B |title=Residues of dimetridazole in eggs after treatment of laying hens |journal=Veterinary Research Communications |volume=20 |issue=2 |pages=167–74 |year=1996 |pmid=8711897 |doi=10.1007/bf00385638}}</ref><ref>{{cite journal |vauthors=Cannavan A, Kennedy DG |title=Determination of dimetridazole in poultry tissues and eggs using liquid chromatography-thermospray mass spectrometry |journal=The Analyst |volume=122 |issue=9 |pages=963–6 |year=1997 |pmid=9374025 |doi=10.1039/a703193i}}</ref>
+
+==See also==
+* [[Metronidazole]]
+* [[Nimorazole]]
+
+==References==
+{{reflist}}
+
+[[Category:Antiparasitic agents]]
+[[Category:Nitroimidazole antibiotics]]
+
+
+{{antimicrobial-stub}}

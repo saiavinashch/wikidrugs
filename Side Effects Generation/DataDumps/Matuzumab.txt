@@ -1,0 +1,72 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 462100598
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = zu
+| target = [[Epidermal growth factor receptor|EGFR]]
+<!-- Clinical data -->
+| tradename =  
+| pregnancy_AU =  
+| pregnancy_US =  
+| pregnancy_category =  
+| legal_AU =  
+| legal_CA =  
+| legal_UK =  
+| legal_US =  
+| legal_status = clinical development failed
+| routes_of_administration =  
+<!-- Pharmacokinetic data -->
+| bioavailability = N/A
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!-- Identifiers -->
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 339186-68-4
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+<!-- Chemical data -->
+| chemical_formula =  
+| molecular_weight =  
+}}
+
+'''Matuzumab''' (formerly '''EMD 72000''') is a [[humanized monoclonal antibody]] for the treatment of cancer. It binds to the [[epidermal growth factor receptor]] (EGFR) with high affinity.<ref>{{cite journal|last=Murthy|first=U.|author2=Basu, A |author3=Rodeck, U. |author4=Herlyn, M. |author5=Ross, A.H. |author6=Das, M. |journal=Arch Biochem Biophys|year=1987|volume=252|issue=2|pages=549–60|pmid=2434025|title=Binding of an antagonistic monoclonal antibody to an intact and fragmented EGF-receptor polypeptide|doi=10.1016/0003-9861(87)90062-2}}</ref>  The mouse monoclonal antibody (mAb425) from which matuzumab was derived was developed at the Wistar Institute in Philadelphia, Pennsylvania <ref>{{cite journal|last=Rodeck|first=U.|author2=Herlyn, M. |author3=Herlyn, D. |author4=Molthoff, C. |author5=Atkinson, B. |author6=Varello, M. |author7=Steplewski, Z. |author8=Koprowski, H. |journal=Cancer Research|year=1987|volume=47|issue=14|pages=3692–6|pmid=3297307 |title=Tumor growth modulation by a monoclonal antibody to the epidermal growth factor receptor: immunologically mediated and effector cell-independent effects.}}</ref>
+
+Produced and developed by [[Merck Serono]] in cooperation with [[Takeda Pharmaceutical Co., Ltd.|Takeda Pharmaceutical]], it has undergone [[Clinical trial#Phase II|phase II clinical trials]] for the treatment of [[colorectal cancer|colorectal]], [[lung cancer|lung]],<ref>{{ClinicalTrialsGov|NCT00111839|Effects of Matuzumab in Combination With Pemetrexed for the Treatment of Advanced Lung Cancer}}</ref> [[Esophageal cancer|esophageal]] and [[stomach cancer]]<ref>{{ClinicalTrialsGov|NCT00215644|MATRIX EG (Matuzumab Treatment With ECX in Esophago-Gastric Cancer)}}</ref> early in the 2000s. In August 2007, Merck Serono announced that the preliminary results of the colorectal cancer study were less than promising, and that further trials for treating this type of cancer may be abandoned.<ref name="ntv">{{cite news|url=http://www.n-tv.de/845118.html|title=Krebsmedikament floppt|trans_title=Cancer drug flops|publisher=[[n-tv]]|date=August 29, 2007|language=German|accessdate=August 27, 2007}}</ref> In February 2008, the development was halted because of disappointing study results.<ref name="Merck" />
+
+==Mechanism of action==
+Matuzumab binds to epidermal growth factor receptor (EGFR) on the outer membrane of normal and tumor cells.  The matuzumab epitope has been mapped to domain III of the extracellular domain of the EGFR.<ref>{{cite journal|last=Schmiedel|first=J.|author2=Blaukat, A. |author3=Li, S. |author4=Knochel, T. |author5=Ferguson, K.M. |journal=Cancer Cell|year=2008|volume=13|issue=4|pages=365–73|pmid=18394550 |doi=10.1016/j.ccr.2008.03.010 |title=A molecular view of anti-ErbB monoclonal antibody therapy.}}</ref><ref>{{cite journal|last=Kamat|first=V. |author2=Donaldson, J.M |author3=Kari, C. |author4=Quadros, M.R.D. |author5=Lelkes, P.I. |author6=Chaiken, I. |author7=Cocklin, S. |author8=Williams, J.C. |author9=Papazoglou, E. |author10=Rodeck, U. |journal=Cancer Biology & Therapy|year=2008|volume=7|issue=5|pages=726–33|pmid=18424917|title=Enhanced EGFR inhibition and distinct epitope recognition by EGFR antagonistic mAbs C225 and 425.|doi=10.4161/cbt.7.5.6097}}</ref>  The EGFR is receptor tyrosine kinase which binds multiple growth factors including EGF ([[epidermal growth factor]]) and other members of the EGF family of [[growth factor]]s, resulting in activation of its tyrosine kinase activity.  Activation of the EGFR  has diverse effects on target cells depending on cell type and tissue context.  It directs cell fate decision relating to cell growth, survival and, differentiation. Development of matuzumab and other antibodies to the EGFR (for example [[cetuximab]]) as cancer therapeutics was motivated by observations that EGFR expression and/or signaling is frequently upregulated in cancer cells.
+
+==Preclinical and Clinical testing==
+
+After determining the pharmacokinetic characteristics in a phase I study,<ref>{{cite journal|pmid=14701780|year=2004|last1=Vanhoefer|first1=U|last2=Tewes|first2=M|last3=Rojo|first3=F|last4=Dirsch|first4=O|last5=Schleucher|first5=N|last6=Rosen|first6=O|last7=Tillner|first7=J|last8=Kovar|first8=A|last9=Braun|first9=AH|last10=Trarbach|first10=T|last11=Seeber|first11=S|last12=Harstrick|first12=A|last13=Baselga|first13=J|title=Phase I study of the humanized antiepidermal growth factor receptor monoclonal antibody EMD72000 in patients with advanced solid tumors that express the epidermal growth factor receptor|volume=22|issue=1|pages=175–84|doi=10.1200/JCO.2004.05.114|journal=Journal of Clinical Oncology|display-authors=8}}</ref> several phase II studies investigating the treatment of advanced stomach carcinoma were conducted.
+At the conference of the [[American Society of Clinical Oncology]] (ASCO) in May 2005, the following results from clinical phase II studies with matuzumab were presented:
+
+===Advanced non-smallcellular lung carcinoma===
+Mutations in the kinase domain of the EGFR are observed with approximately 2 to 25% of [[non-small cell lung carcinoma]] (NSCLC) patients. Some studies have shown a negative correlation between the effectiveness of EGFR [[tyrosine kinase inhibitor]]s and such mutations. The effect of matuzumab (in combination with [[paclitaxel]]) does not seem to be dependent on these mutations.
+
+===Advanced adenocarcinomas of stomach and esophagus===
+Results of two studies regarding [[adenocarcinoma]]s have shown matuzumab to be well tolerated in combination with two standard chemotherapies – [[cisplatin]], [[5-fluorouracil]] and [[leucovorin]] (PFL) as well as [[epirubicin]], cisplatin and [[capecitabine]] (ECX) – as a first line therapy. [[Rate of response|Rates of response]] were up to 53% with a combination of matuzumab and ECX.<ref name="Rao">{{cite journal|pmid=19238629|year=2008|last1=Rao|first1=S|last2=Starling|first2=N|last3=Cunningham|first3=D|last4=Benson|first4=M|last5=Wotherspoon|first5=A|last6=Lüpfert|first6=C|last7=Kurek|first7=R|last8=Oates|first8=J|last9=Baselga|first9=J|last10=Hill|first10=A|title=Phase I study of epirubicin, cisplatin and capecitabine plus matuzumab in previously untreated patients with advanced oesophagogastric cancer|volume=99|issue=6|pages=868–74|journal=British Journal of Cancer|doi=10.1038/sj.bjc.6604622|pmc=2538760|display-authors=8}}</ref>
+
+On August 27, 2007 Merck announced that matuzumab will not be used for [[intestinal cancer]] due to negative results in phase II studies.<ref name="ntv" />
+
+==Discontinuation of development==
+No further clinical trials have been conducted since the phase I trial<ref name="Rao" /> in 2007. On February 18, 2008, Takeda and Merck announced that they would no longer pursue the development of the drug.<ref name="Merck">{{cite news|url=http://www.newsvz.de/details_Boerse,DJ-Merck-KGaA-stellt-Entwicklung-von-Matuzumab-ein,329480.html|publisher=NewsVZ.de|title=Merck KGaA stellt Entwicklung von Matuzumab ein|trans_title=Merck KGaA discontinues development of matuzumab|language=German|date=February 18, 2008|accessdate=January 5, 2010}}</ref><ref>{{cite news|url=http://www.takeda.com/press/article_29042.html|title=Takeda Discontinues Development of Matuzumab|publisher=Takeda Pharmaceutical Co., Ltd.|date=February 18, 2008|accessdate=January 5, 2010}}</ref>
+
+==References==
+{{Reflist|2}}
+
+
+{{Monoclonals for tumors}}
+{{Growth factor receptor modulators}}
+
+[[Category:Monoclonal antibodies for tumors]]
+[[Category:Merck]]

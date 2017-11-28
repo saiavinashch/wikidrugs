@@ -1,0 +1,75 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 443384468
+| IUPAC_name = 4-Dimethylamino-1,5-dimethyl-2-phenylpyrazol-3-one
+| image = Aminophenazone-2d-skeletal.png
+| width = 180px
+| image2 = Aminophenazone-3D-balls.png
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|aminophenazone}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism = N-demethylation<ref name="Caubet2007">{{cite journal|last1=Caubet|first1=M. S.|last2=Laplante|first2=A.|last3=Caillé|first3=J.|last4=Brazier|first4=J. L.|title=[13C]Aminopyrine and [13C]Caffeine Breath Test: Influence of Gender, Cigarette Smoking and Oral Contraceptives Intake|journal=Isotopes in Environmental and Health Studies|volume=38|issue=2|date=4 Jan 2007|pages=71–77|doi=10.1080/10256010208033314}}</ref>
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 58-15-1
+| ATC_prefix = N02
+| ATC_suffix = BB03
+| PubChem = 6009
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01424
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5787
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 01704YP3MO
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00556
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 160246
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 288470
+<!--Chemical data-->
+| C=13 | H=17
+| N=3 | O=1
+| molecular_weight = 231.29358
+| smiles = O=C2\C(=C(/N(N2c1ccccc1)C)C)N(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C13H17N3O/c1-10-12(14(2)3)13(17)16(15(10)4)11-8-6-5-7-9-11/h5-9H,1-4H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = RMMXTBMQSGEXHJ-UHFFFAOYSA-N
+}}
+
+'''Aminophenazone''' (or '''aminopyrine''') is a [[pyrazolone]] with analgesic, anti-inflammatory, and antipyretic properties but has risk of [[agranulocytosis]]. A breath test with [[Carbon-13|<sup>13</sup>C]]-labeled aminopyrine has been used as a non-invasive measure of [[cytochrome]] P-450 metabolic activity in liver function tests.<ref name="Caubet2007" /> It is also used in measuring the total body water in the human body system.<ref>{{cite web
+| date=2005-03-26
+| url=https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=6009&loc=ec_rcs
+| title=Aminophenazone — Compound Summary
+| work=PubChem
+| publisher=The National Library of Medicine
+| accessdate=June 12, 2008
+| description=
+}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Analgesics}}
+
+[[Category:Pyrazolones]]
+[[Category:Analgesics]]
+[[Category:Antipyretics]]
+[[Category:Nonsteroidal anti-inflammatory drugs]]
+
+{{analgesic-stub}}

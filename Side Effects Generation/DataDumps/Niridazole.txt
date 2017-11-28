@@ -1,0 +1,126 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 444347219
+| IUPAC_name = 1-(5-Nitro-1,3-thiazol-2-yl)imidazolidin-2-one
+| image = Niridazole.svg
+
+<!--Clinical data-->
+| tradename =
+| MedlinePlus = a682128
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 61-57-4
+| ATC_prefix = P02
+| ATC_suffix = BX02
+| PubChem = 6093
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = N116U8Y5QQ
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05170
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 5868
+
+<!--Chemical data-->
+| chemical_formula =
+| C=6 | H=6 | N=4 | O=3 | S=1
+| molecular_weight = 214.20 g/mol
+| smiles = C1CN(C(=O)N1)C2=NC=C(S2)[N+](=O)[O-]
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C6H6N4O3S/c11-5-7-1-2-9(5)6-8-3-4(14-6)10(12)13/h3H,1-2H2,(H,7,11)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = RDXLYGJSWZYTFJ-UHFFFAOYSA-N
+}}
+
+'''Niridazole''' is a [[schistosomicide]].<ref>{{Cite journal 
+| pmid = 6193406 
+| year = 1983 
+| last1 = Tracy | first1 = J. W. 
+| last2 = Catto 
+| last3 = Webster Lt 
+| title = Reductive metabolism of niridazole by adult Schistosoma mansoni. Correlation with covalent drug binding to parasite macromolecules 
+| volume = 24 
+| issue = 2 
+| pages = 291–299 
+| journal = Molecular Pharmacology | first2 = B. A. | first3 = L. T.
+}}</ref> It is used to treat [[schistosomiasis]], the helmintic disease caused by certain flatworms ([[trematode]]s) from the genus ''[[Schistosoma]]'' (formerly ''Bilharzia''). It is also known by its trade name '''Ambilhar'''. It is usually given as tablets.
+
+Niridazole has [[central nervous system]] toxicity and can cause dangerous side effects, such as [[hallucination]]s.<ref>[http://toxnet.nlm.nih.gov/cgi-bin/sis/search2/f?./temp/~pr3DeG:1 Toxicology Data Network – Niridazole]</ref> Also, it may cause allergic reactions in sensitive people. However, it is one of the most effective schistosomicide drugs.<ref>{{Cite journal
+| pmid = 1107578
+| year = 1975
+| author1 = Katz
+| first1 = N
+| title = Clinical evaluation of niridazole and hycanthone in schistosomiasis mansoni endemic areas
+| journal = Journal of Toxicology and Environmental Health
+| volume = 1
+| issue = 2
+| pages = 203–9
+| doi = 10.1080/15287397509529322
+}}</ref>
+
+It has recently also been investigated for use in the treatment of [[periodontitis]].<ref>{{Cite journal
+| last1 = Barat | first1 = R.
+| last2 = Srinatha | first2 = A.
+| last3 = Pandit | first3 = J.
+| last4 = Mittal | first4 = N.
+| last5 = Anupurba | first5 = S.
+| title = Ethylcellulose inserts of an orphan drug for periodontitis: preparation, in vitro, and clinical studies
+| journal = Drug delivery
+| volume = 14
+| issue = 8
+| pages = 531–538
+| year = 2007
+| pmid = 18027183
+| doi = 10.1080/10717540701606517
+}}</ref><ref>{{Cite journal
+| last1 = Barat | first1 = R.
+| last2 = Srinatha | first2 = A.
+| last3 = Pandit | first3 = J.
+| last4 = Ridhurkar | first4 = D.
+| last5 = Balasubramaniam | first5 = J.
+| last6 = Mittal | first6 = N.
+| last7 = Mishra | first7 = D.
+| title = Niridazole biodegradable inserts for local long-term treatment of periodontitis: possible new life for an orphan drug
+| journal = Drug delivery
+| volume = 13
+| issue = 5
+| pages = 365–373
+| year = 2006
+| pmid = 16877312
+| doi = 10.1080/10717540500398126
+}}</ref>
+
+== Mechanism of action ==
+Niridazole is rapidly concentrated in the parasite and inhibits [[oogenesis]] and [[spermatogenesis]]. The compound also inhibits the [[phosphofructokinase]] [[enzyme]], leading to glycogen depletion and [[hepatic shift]].
+
+== References ==
+{{reflist}}
+
+{{Anthelmintics}}
+
+[[Category:Antiparasitic agents]]
+[[Category:IARC Group 2B carcinogens]]
+[[Category:Imidazolidinones]]
+[[Category:Nitrothiazoles]]
+
+
+{{Antiinfective-drug-stub}}

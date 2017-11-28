@@ -1,0 +1,80 @@
+{{Drugbox
+| Verifiedfields = 
+| Watchedfields = 
+| verifiedrevid = 
+| IUPAC_name = <nowiki>1-[4-[5-[[benzyl(methyl)amino]methyl]-1-[(2,6-difluorophenyl)methyl]-2,4-dioxo-3-phenylthieno[2,3-d]pyrimidin-6-yl]phenyl]-3-methoxyurea</nowiki>
+| image = Sufugolix_structure.png
+| width = 250px
+
+<!--Clinical data-->
+| tradename = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = 
+| legal_UK = 
+| legal_US = 
+| legal_status = 
+| routes_of_administration = [[Oral administration|Oral]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = 
+| CAS_number = 308831-61-0
+| CAS_supplemental = 
+| ATC_prefix = None
+| ATC_suffix = 
+| PubChem = 3038517
+| DrugBank_Ref = 
+| DrugBank = 
+| ChemSpiderID_Ref = 
+| ChemSpiderID = 2302081
+| UNII = 56S17Z6X9M
+
+<!--Chemical data-->
+| C=36 | H=31 | F=2 | N=5 | O=4 | S=1
+| molecular_weight = 667.724246 g/mol
+| SMILES = CN(CC1=CC=CC=C1)CC2=C(SC3=C2C(=O)N(C(=O)N3CC4=C(C=CC=C4F)F)C5=CC=CC=C5)C6=CC=C(C=C6)NC(=O)NOC
+| StdInChI = 1S/C36H31F2N5O4S/c1-41(20-23-10-5-3-6-11-23)21-28-31-33(44)43(26-12-7-4-8-13-26)36(46)42(22-27-29(37)14-9-15-30(27)38)34(31)48-32(28)24-16-18-25(19-17-24)39-35(45)40-47-2/h3-19H,20-22H2,1-2H3,(H2,39,40,45)
+| StdInChIKey = UCQSBGOFELXYIN-UHFFFAOYSA-N
+| synonyms = TAK-013
+}}
+
+'''Sufugolix''' ({{abbrlink|INN|International Nonproprietary Name}}, {{abbrlink|BAN|British Approved Name}}) (developmental code name '''TAK-013''') is a [[non-peptide]], [[Bioavailability#In pharmacology|orally]]-active, [[binding selectivity|selective]] [[gonadotropin-releasing hormone receptor antagonist|antagonist]] of the [[gonadotropin-releasing hormone receptor]] (GnRHR) ({{abbrlink|IC<sub>50</sub>|Half-maximal inhibitory concentration}} = 0.1 and 0.06&nbsp;nM for [[affinity (pharmacology)|affinity]] and ''in vitro'' [[receptor antagonist|inhibition]], respectively).<ref name="pmid12502365">{{cite journal | vauthors = Sasaki S, Cho N, Nara Y, Harada M, Endo S, Suzuki N, Furuya S, Fujino M | title = Discovery of a thieno[2,3-d]pyrimidine-2,4-dione bearing a p-methoxyureidophenyl moiety at the 6-position: a highly potent and orally bioavailable non-peptide antagonist for the human luteinizing hormone-releasing hormone receptor | journal = J. Med. Chem. | volume = 46 | issue = 1 | pages = 113–24 | year = 2003 | pmid = 12502365 | doi = 10.1021/jm020180i | url = }}</ref> It was under development by [[Takeda]] for the treatment of [[endometriosis]] and [[uterine leiomyoma]] and reached [[Phases of clinical research#Phase II|phase II]] [[clinical trial]]s for both of these indications, but was subsequently discontinued.<ref name="LanierFeher2007">{{cite journal|last1=Lanier|first1=Marion C.|last2=Feher|first2=Miklos|last3=Ashweek|first3=Neil J.|last4=Loweth|first4=Colin J.|last5=Rueter|first5=Jaimie K.|last6=Slee|first6=Deborah H.|last7=Williams|first7=John P.|last8=Zhu|first8=Yun-Fei|last9=Sullivan|first9=Susan K.|last10=Brown|first10=Michael S.|title=Selection, synthesis, and structure–activity relationship of tetrahydropyrido[4,3-d]pyrimidine-2,4-diones as human GnRH receptor antagonists|journal=Bioorganic & Medicinal Chemistry|volume=15|issue=16|year=2007|pages=5590–5603|issn=0968-0896|doi=10.1016/j.bmc.2007.05.029|pmid=17561404}}</ref>[http://adisinsight.springer.com/drugs/800017215] It seems to have been supplanted by [[relugolix]] (TAK-385), which is also under development by Takeda for the treatment of these conditions and has a more favorable drug profile (including reduced [[cytochrome P450]] [[enzyme inhibition|inhibition]] and improved ''in vivo'' GnRHR antagonistic activity) in comparison.<ref name="pmid21657270">{{cite journal | vauthors = Miwa K, Hitaka T, Imada T, Sasaki S, Yoshimatsu M, Kusaka M, Tanaka A, Nakata D, Furuya S, Endo S, Hamamura K, Kitazaki T | title = Discovery of 1-{4-[1-(2,6-difluorobenzyl)-5-[(dimethylamino)methyl]-3-(6-methoxypyridazin-3-yl)-2,4-dioxo-1,2,3,4-tetrahydrothieno[2,3-d]pyrimidin-6-yl]phenyl}-3-methoxyurea (TAK-385) as a potent, orally active, non-peptide antagonist of the human gonadotropin-releasing hormone receptor | journal = J. Med. Chem. | volume = 54 | issue = 14 | pages = 4998–5012 | year = 2011 | pmid = 21657270 | doi = 10.1021/jm200216q | url = }}</ref>
+
+Oral administration of sufugolix at a dose of 30&nbsp;mg/kg to [[castration|castrated]] male [[cynomolgus monkey]]s resulted in nearly complete suppression of [[luteinizing hormone]] levels.<ref name="pmid12502365" /> The [[duration of action]] was more than 24 hours, indicating a long [[elimination half-life]] of the drug.<ref name="pmid12502365" /> The suppressive effects of sufugolix on [[gonadotropin]] and [[sex hormone]] levels are rapidly reversible with discontinuation.<ref name="pmid12679460">{{cite journal | vauthors = Hara T, Araki H, Kusaka M, Harada M, Cho N, Suzuki N, Furuya S, Fujino M | title = Suppression of a pituitary-ovarian axis by chronic oral administration of a novel nonpeptide gonadotropin-releasing hormone antagonist, TAK-013, in cynomolgus monkeys | journal = J. Clin. Endocrinol. Metab. | volume = 88 | issue = 4 | pages = 1697–704 | year = 2003 | pmid = 12679460 | doi = 10.1210/jc.2002-021065 | url = }}</ref>
+
+Unlike various other GnRHR antagonists, sufugolix has been elucidated to be a [[non-competitive antagonist|non-competitive or insurmountable/trapping antagonist]] of the GnRHR.<ref name="pmid17409285">{{cite journal | vauthors = Kohout TA, Xie Q, Reijmers S, Finn KJ, Guo Z, Zhu YF, Struthers RS | title = Trapping of a nonpeptide ligand by the extracellular domains of the gonadotropin-releasing hormone receptor results in insurmountable antagonism | journal = Mol. Pharmacol. | volume = 72 | issue = 2 | pages = 238–47 | year = 2007 | pmid = 17409285 | doi = 10.1124/mol.107.035535 | url = }}</ref><ref name="pmid17522183">{{cite journal | vauthors = Szkudlinski MW | title = Challenges and opportunities of trapping ligands | journal = Mol. Pharmacol. | volume = 72 | issue = 2 | pages = 231–4 | year = 2007 | pmid = 17522183 | doi = 10.1124/mol.107.038208 | url = }}</ref>
+
+==See also==
+* [[Elagolix]]
+* [[Fezolinetant]]
+* [[Relugolix]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://adisinsight.springer.com/drugs/800017215 Sufugolix - AdisInsight]
+
+
+{{Gonadotropins and GnRH}}
+{{Signaling peptide/protein receptor modulators}}
+
+[[Category:Abandoned drugs]]
+[[Category:Amines]]
+[[Category:GnRH antagonists]]
+[[Category:Fluoroarenes]]
+[[Category:Pyrimidines]]
+[[Category:Ureas]]
+
+
+{{genito-urinary-drug-stub}}
+{{systemic-hormonal-drug-stub}}

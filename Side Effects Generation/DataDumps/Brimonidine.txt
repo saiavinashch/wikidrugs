@@ -1,0 +1,89 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 459982442
+| IUPAC_name = 5-Bromo-''N''-(4,5-dihydro-1''H''-imidazol-2-yl) quinoxalin-6-amine
+| image = Brimonidine.svg
+| width = 195
+
+<!--Clinical data-->
+| pronounce = {{IPAc-en|b|r|ɪ|ˈ|m|oʊ|n|ᵻ|d|iː|n}} {{respell|bri|MOH|nid-een}}
+| tradename = Alphagan, Mirvaso
+| Drugs.com = {{drugs.com|CDI|brimonidine}}
+| MedlinePlus = a601232
+| pregnancy_US = B
+| legal_US = Rx-only
+| routes_of_administration = [[Topical medication|topical]] ([[Eye drop|ophthalmic solution]], [[gel]])
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism = Primarily [[liver]]
+| elimination_half-life = 3 hours (ocular), 12 hours (topical)
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 59803-98-4
+| ATC_prefix = D11
+| ATC_suffix = AX21
+| ATC_supplemental = {{ATC|S01|EA05}}
+| PubChem = 2435
+| IUPHAR_ligand = 520
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00484
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2341
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = E6GNX3HHTE
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07540
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 3175
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 844
+
+<!--Chemical data-->
+| C=11 | H=10 | Br=1 | N=5
+| molecular_weight = 292.135 g/mol
+| smiles = Brc2c1nccnc1ccc2N/C3=N/CCN3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C11H10BrN5/c12-9-7(17-11-15-5-6-16-11)1-2-8-10(9)14-4-3-13-8/h1-4H,5-6H2,(H2,15,16,17)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = XYLJNLCSTIOKRM-UHFFFAOYSA-N
+| melting_point = 252
+}}
+
+'''Brimonidine''' is a [[medication|drug]] used as eye drops under the brand names '''Alphagan''' and '''Alphagan-P''' to treat [[glaucoma|open-angle glaucoma]] or [[ocular hypertension]], and as a gel, '''Mirvaso''', for facial skin redness in [[rosacea]].
+
+It acts via decreasing synthesis of [[aqueous humor]], and increasing the amount that drains from the eye through uveoscleral outflow; brimonidine treats reddened skin (erythema) by causing narrowing of blood vessels ([[vasoconstriction]]).
+
+==Clinical uses==
+Brimonidine is indicated for the lowering of [[intraocular pressure]] in patients with open-angle glaucoma or ocular hypertension. It is also the active ingredient of '''[[Brimonidine/timolol|Combigan]]''' along with [[timolol]] maleate.
+
+A [[Cochrane Collaboration|Cochrane Systematic Review]] compared the effect of brimonidine and timolol in slowing the progression of open angle glaucoma in adult participants.<ref name="Sena">{{cite journal |author=Sena DF, Lindsley K |title= Neuroprotection for treatment of glaucoma in adults |journal=Cochrane Database Syst Rev|volume= |issue=1|pages= CD006539 |date=2017 |pmid= 28122126|doi= 10.1002/14651858.CD006539.pub4}}</ref>
+
+In 2013, the FDA approved topical application of brimonidine 0.33% gel ('''Mirvaso''') for persistent facial redness of rosacea.
+
+==Mechanism of action==
+Brimonidine is an [[alpha-2 adrenergic receptor|α<sub>2</sub>]] [[adrenergic agonist]].
+
+α<sub>2</sub> agonists, through the activation of a [[G protein-coupled receptor]], inhibit the activity of [[adenylate cyclase]]. This reduces [[Cyclic adenosine monophosphate|cAMP]] and hence aqueous humour production by the [[ciliary body]].
+
+Peripheral α<sub>2</sub> agonist activity results in vasoconstriction of blood vessels (as opposed to central α<sub>2</sub> agonist activity that decreases sympathetic tone, as can be seen by the medication [[clonidine]]). This vasoconstriction may explain the acute reduction in aqueous humor flow. The increased uveoscleral outflow from prolonged use may be explained by increased prostaglandin release due to α adrenergic stimulation. This may lead to relaxed ciliary muscle and increased uveoscleral outflow.<ref>{{Cite journal | last1 = Toris | first1 = C. | last2 = Camras | first2 = C. | last3 = Yablonski | first3 = M. | title = Acute versus chronic effects of brimonidine on aqueous humor dynamics in ocular hypertensive patients | journal = American journal of ophthalmology | volume = 128 | issue = 1 | pages = 8–14 | year = 1999 | pmid = 10482088 | doi=10.1016/s0002-9394(99)00076-8}}</ref>
+
+== References ==
+{{Reflist}}
+* ''Mosby's Drug Guide for Nurses'' (7th edition; Skidmore) 2007.
+
+==External links==
+* [http://www.alphaganp.com/ Alphagan P (brimonidine tartrate ophthalmic solution) Product Website]
+* [http://www.allergan.com/assets/pdf/alphaganp_pi.pdf Alphagan P Full Prescribing Information]
+* [https://www.mirvaso.com Mirvaso (brimonidine topical gel) Product Website]
+
+{{Antiglaucoma preparations and miotics}}
+{{Other dermatological preparations}}
+{{Adrenergic agonists}}
+
+[[Category:Alpha-adrenergic agonists]]
+[[Category:Imidazolines]]
+[[Category:Organobromides]]
+[[Category:Quinoxalines]]

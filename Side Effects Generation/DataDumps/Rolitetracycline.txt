@@ -1,0 +1,69 @@
+{{unreferenced|date=December 2014}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464383386
+| IUPAC_name = (2''Z'',4''S'',4a''S'',5a''S'',6''S'',12a''S'')-4-(Dimethylamino)-6,10,11,12a-tetrahydroxy-2-{hydroxy[(pyrrolidin-1-ylmethyl)amino]methylene}-6-methyl-4a,5a,6,12a-tetrahydrotetracene-1,3,12(2''H'',4''H'',5''H'')-trione
+| image = Rolitetracycline.svg
+| alt = Skeletal formula of rolitetracycline
+| width = 240
+| image2 = Rolitetracycline 3D spacefill.png
+| alt2 = Space-filling model of the rolitetracycline molecule
+| width2 = 260
+
+<!--Clinical data-->
+| tradename =
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 751-97-3
+| ATC_prefix = J01
+| ATC_suffix = AA09
+| PubChem = 54682938
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01301
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 10469507
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = GH9IW85221
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02282
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1214184
+
+<!--Chemical data-->
+| C=27 | H=33 | N=3 | O=8 
+| molecular_weight = 527.566 g/mol
+| smiles = O=C(NCN1CCCC1)\C2=C(/O)[C@@H](N(C)C)[C@@H]3CC5C(=C(\O)[C@]3(O)C2=O)\C(=O)c4c(O)cccc4[C@@]5(C)O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C27H33N3O8/c1-26(37)13-7-6-8-16(31)17(13)21(32)18-14(26)11-15-20(29(2)3)22(33)19(24(35)27(15,38)23(18)34)25(36)28-12-30-9-4-5-10-30/h6-8,14-15,20,31,33-34,37-38H,4-5,9-12H2,1-3H3,(H,28,36)/t14?,15-,20-,26+,27-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = HMEYVGGHISAPJR-VQCPGFMQSA-N
+| synonyms = <small>(2''Z'',4''S'',4a''S'',5a''S'',6''S'',12a''S'')-4-Dimethylamino-6,10,11,12a-tetrahydroxy-2-[hydroxy-(pyrrolidin-1-ylmethylamino)methylidene]-6-methyl-4,4a,5,5a-tetrahydrotetracene-1,3,12-trione</small>
+}}
+
+'''Rolitetracycline''' is a [[tetracycline antibiotic]]. Tetracycline is ''N''-[[Mannich base]] [[prodrug]] that is prepared from [[tetracycline]] by condensation with [[pyrrolidine]] and [[formaldehyde]] to produce rolitetracycline.
+
+{{TetracyclineAntiBiotics}}
+
+[[Category:Tetracycline antibiotics]]
+[[Category:Pyrrolidines]]
+[[Category:Triketones]]
+
+{{antibiotic-stub}}

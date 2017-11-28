@@ -1,0 +1,74 @@
+{{Drugbox
+| verifiedrevid = 443277111
+| IUPAC_name = 6-chloro-3-(cyclopentylmethyl)-1,1-dioxo-3,4-dihydro-2H-benzo[e][1,2,4]thiadiazine-7-sulfonamide
+| image = Cyclopenthiazide.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|cyclopenthiazide}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = POM
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7899
+| CAS_number = 742-20-1
+| ATC_prefix = C03
+| ATC_suffix = AA07
+| PubChem = 2904
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChEMBL = 1373254
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = VX4S2N85F5
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02061
+| ChemSpiderID      = 2801
+| smiles            = O=S(=O)(c1c(Cl)cc2c(c1)S(=O)(=O)NC(N2)CC3CCCC3)N
+| StdInChI          = 1S/C13H18ClN3O4S2/c14-9-6-10-12(7-11(9)22(15,18)19)23(20,21)17-13(16-10)5-8-3-1-2-4-8/h6-8,13,16-17H,1-5H2,(H2,15,18,19)
+| StdInChIKey       = BKYKPTRYDKTTJY-UHFFFAOYSA-N
+
+<!--Chemical data-->
+| C=13 | H=18 | Cl=1 | N=3 | O=4 | S=2 
+| molecular_weight = 379.88 g/mol
+}}
+
+'''Cyclopenthiazide''' (trade name '''Navidrex''') is a thiazide [[diuretic]] used in the treatment of heart failure and hypertension.
+
+==Synthesis==
+[[File:Cyclopenthiazide synthesis.svg|thumb|center|700px|Cyclopenthiazide synthesis:<ref>{{Cite journal | doi = 10.1021/jo01066a046| title = Diuretics. V. 3,4-Dihydro-1,2,4-benzothiadiazine 1,1-Dioxides| journal = The Journal of Organic Chemistry| volume = 26| issue = 8| pages = 2814| year = 1961| last1 = Whitehead | first1 = C. W. | last2 = Traverso | first2 = J. J. | last3 = Sullivan | first3 = H. R. | last4 = Marshall | first4 = F. J. }}</ref>]]
+
+==Contraindications==
+
+Thiazide diuretics increase the excretion of sodium and potassium ions and decrease the excretion of calcium ions and uric acid so they are contraindicated in patients with [[hyponatraemia]], [[hypokalaemia]], [[hypercalcaemia]] and [[hyperuricaemia]]. They are also contraindicated in patients with [[Addison's disease]].
+
+==See also==
+*[[Cyclothiazide]]
+*[[Hydrochlorothiazide]]
+*[[Bendroflumethiazide]]
+{{Symporter inhibitors}}
+{{Diuretics}}
+
+==References==
+{{Reflist}}
+
+[[Category:Diuretics]]
+[[Category:Sulfonamides]]
+[[Category:Benzothiadiazines]]
+[[Category:Chloroarenes]]
+
+
+{{cardiovascular-drug-stub}}

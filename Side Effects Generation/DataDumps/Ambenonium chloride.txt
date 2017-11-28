@@ -1,0 +1,81 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 456686940
+| IUPAC_name = 2,2'-[(1,2-Dioxoethane-1,2-diyl)diimino]''bis''[''N''-(2-chlorobenzyl)-''N,N''-diethylethanaminium]
+| image = Ambenonium.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CDI|ambenonium_chloride}}
+| MedlinePlus = a699058
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = Low
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 7648-98-8
+| ATC_prefix = N07
+| ATC_suffix = AA30
+| PubChem = 8288
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB01122
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 7987
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = L16PUN799N
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01001
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 2628
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1652
+
+<!--Chemical data-->
+| C=28 | H=42 | Cl=2 | N=4 | O=2 | charge = +2 
+| molecular_weight = 537.564 g/mol
+| smiles = [Cl-].[Cl-].Clc1ccccc1C[N+](CC)(CC)CCNC(=O)C(=O)NCC[N+](Cc2ccccc2Cl)(CC)CC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C28H40Cl2N4O2.2ClH/c1-5-33(6-2,21-23-13-9-11-15-25(23)29)19-17-31-27(35)28(36)32-18-20-34(7-3,8-4)22-24-14-10-12-16-26(24)30;;/h9-16H,5-8,17-22H2,1-4H3;2*1H
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = DXUUXWKFVDVHIK-UHFFFAOYSA-N
+}}
+'''Ambenonium''' (as '''ambenonium dichloride''', trade name '''Mytelase''') is a [[acetylcholinesterase inhibitor|cholinesterase inhibitor]]<ref name="pmid13679187">{{cite journal |vauthors =Bolognesi ML, Cavalli A, Andrisano V |title=Design, synthesis and biological evaluation of ambenonium derivatives as AChE inhibitors |journal=Farmaco |volume=58 |issue=9 |pages=917–28 |date=September 2003 |pmid=13679187 |doi= 10.1016/S0014-827X(03)00150-2|url=http://linkinghub.elsevier.com/retrieve/pii/S0014827X03001502|display-authors=etal}}</ref> used in the management of [[myasthenia gravis]].
+
+It is classified as reversible.<ref name="pmid1588924">{{cite journal |vauthors =Hodge AS, Humphrey DR, Rosenberry TL |title=Ambenonium is a rapidly reversible noncovalent inhibitor of acetylcholinesterase, with one of the highest known affinities |journal=Mol. Pharmacol. |volume=41 |issue=5 |pages=937–42 |date=May 1992 |pmid=1588924 |doi= |url=http://molpharm.aspetjournals.org/cgi/pmidlookup?view=long&pmid=1588924}}</ref>
+
+==Mechanism of action==
+Ambenonium exerts its actions against [[myasthenia gravis]] by competitive reversible inhibition of [[acetylcholinesterase]], the enzyme responsible for the hydrolysis of acetylcholine. Myasthenia gravis occurs when the body produces antibodies against acetylcholine receptors, and thus inhibits signal transmission across the myoneural junction. Ambenonium reversibly binds acetylcholinesterase, inactivates it and therefore increases levels of acetylcholine. This, in turn, facilitates transmission of impulses across the myoneural junction and effectively treats the disease.
+
+==Indications==
+Ambenonium is used to treat muscle weakness due to disease or defect of the neuromuscular junction ([[myasthenia gravis]]).
+
+Ambenonium was withdrawn from the market in the United States in 2010.<ref>{{Cite web | url = http://www.stelizabeth.com/ADAM/doc/Thomson%20DrugNotes/45/5103.htm | publisher = St. Elizabeth Healthcare | title = Ambenonium }}</ref>
+
+==References==
+{{reflist}}
+
+{{Acetylcholine metabolism and transport modulators}}
+
+[[Category:Acetylcholinesterase inhibitors]]
+[[Category:Chloroarenes]]
+[[Category:Quaternary ammonium compounds]]
+[[Category:Carboxamides]]
+[[Category:Chlorides]]
+
+
+{{nervous-system-drug-stub}}

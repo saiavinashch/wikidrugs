@@ -1,0 +1,161 @@
+{{Multiple issues|
+{{Medref|date=March 2015}}
+{{Expert needed|Chemistry|reason=all but complete lack of scope and encyclopedic content, arising from similar absence of verifiable secondary sources. |date=April 2015}}
+{{cleanup|reason=no sources for properties or hazards appear in the chembox|date=May 2015}}
+}}
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 414428398
+| ImageFile = Dimethylethanolamine Structure V.1.svg 
+| ImageFile_Ref = {{chemboximage|correct|??}}
+| ImageSize = 160
+| ImageAlt = Skeletal formula of dimethylethanolamine
+| ImageFile1 = Dimethylethanolamine 3D ball.png
+| ImageSize1 = 170
+| ImageAlt1 = Ball-and-stick model of the dimethylethanolamine molecule
+| IUPACName = 2-(Dimethylamino)ethanol
+| OtherNames = {{Unbulleted list|Deanol|Dimethylamino ethanol}}
+|Section1={{Chembox Identifiers
+| Abbreviations = DMAE, DMEA
+| CASNo = 108-01-0
+| CASNo_Ref = {{cascite|correct|CAS}}
+| PubChem = 7902
+| ChemSpiderID = 13854944
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| EINECS = 203-542-8
+| UNII = 2N6K9DRA24
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNNumber = 2051
+| KEGG = D07777
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| MeSHName = Deanol
+| ChEBI = 271436
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1135
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| RTECS = KK6125000
+| Beilstein = 1209235
+| SMILES = CN(C)CCO
+| StdInChI = 1S/C4H11NO/c1-5(2)3-4-6/h6H,3-4H2,1-2H3
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = UEEJHVSXFDXPFK-UHFFFAOYSA-N
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+}}
+|Section2={{Chembox Properties
+| C=4 | H=11 | N=1 | O=1
+| Appearance = Colourless liquid
+| Odor = Fishy, ammoniacal
+| Density = 890 mg mL<sup>−1</sup>
+| MeltingPtK = 214.15
+| BoilingPtK = 407.2
+| LogP = −0.25
+| VaporPressure = 816 Pa (at 20&nbsp;°C)
+| pKa = 9.23 (at 20&nbsp;°C)<ref>{{cite journal |author1=Littel, RJ |author2=Bos, M |author3=Knoop, GJ |year=1990 |title=Dissociation constants of some alkanolamines at 293, 303, 318, and 333 K |journal=Journal of Chemical and Engineering Data |volume=35 |issue=3 |pages=276–77 |id={{INIST|19352048}} |doi=10.1021/je00061a014 }}</ref>
+| pKb = 4.77 (at 20&nbsp;°C)
+| RefractIndex = 1.4294
+}}
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = N06
+| ATCCode_suffix = BX04
+}}
+|Section7={{Chembox Hazards
+| GHSPictograms = {{gHS flame}} {{gHS corrosion}} {{gHS exclamation mark}}
+| GHSSignalWord = '''DANGER'''
+| HPhrases = {{h-phrases|226|302|312|314|332}}
+| PPhrases = {{p-phrases|280|305+351+338|310}}
+| FlashPtC = 39
+| ExploLimits = 1.4–12.2%
+| LD50 = {{unbulleted list|1.214 g kg<sup>−1</sup> <small>(dermal, rabbit)</small>|2 g kg<sup>−1</sup> <small>(oral, rat)</small>}}
+}}
+|Section8={{Chembox Related
+| OtherFunction_label = alkanols
+| OtherFunction = {{unbulleted list|[[n-Methylethanolamine|''N''-Methylethanolamine]]|[[Diethylethanolamine]]|[[Diethanolamine]]|[[n,N-Diisopropylaminoethanol|''N'',''N''-Diisopropylaminoethanol]]|[[Methyl diethanolamine]]|[[Triethanolamine]]|[[Bis-tris methane]]}}
+| OtherCompounds = [[Diethylhydroxylamine]]
+}}
+}}
+
+'''Dimethylaminoethanol''' and '''dimethylethanolamine''' (DMAE and DMEA respectively), with '''deanol,''' are common names for '''2-(dimethylamino)ethanol'''.
+
+==Chemical structure and properties==
+{{expand section|1=source-based description of structure and properties|small=no|date=May 2015}}
+This compound has [[tertiary amine]] and [[primary alcohol]] groups as functional groups. The alcohol functionality, in combination with the amine and its low molecular weight imparts water solubility on the compound, and makes [[carboxylate ester|ester]] derivatives possible; the amine functionality gives the compound its alkaline character, and allows for formulation of salts of the compound.{{citation needed|date=March 2016}}
+
+===Safety and Toxicity===
+Although preliminary, it seems that DMAE may aggravate or induce the formation of neural tube defects, as evidenced by in vitro studies on mouse embryonic cells.<ref name=pmid11919173>{{cite journal |vauthors=Fisher MC, Zeisel SH, Mar MH, Sadler TW |title=Perturbations in choline metabolism cause neural tube defects in mouse embryos in vitro |journal=FASEB Journal |volume=16 |issue=6 |pages=619–21 |year=2002 |pmid=11919173 |doi=10.1096/fj.01-0564fje }}</ref> Under normal conditions, rat embryos uptake [[choline]] and convert it into phosphatidylcholine(PC) as an active substrate. DMAE supplementation seems to replace choline usage when it is present due to higher affinity and competition but fails to convert into PC due to an apparent lack of expression of the enzyme phosphatidylethanolamine methyltransferase (PeMT) in embryos. This enzyme is absolutely necessary for the conversion of Phosphatidylethanolamine into PC.<ref name=pmid25437>{{cite journal |vauthors=Hirata F, Viveros OH, Diliberto EJ, Axelrod J |title=Identification and properties of two methyltransferases in conversion of phosphatidylethanolamine to phosphatidylcholine |journal=Proceedings of the National Academy of Sciences of the United States of America |volume=75 |issue=4 |pages=1718–21 |year=1978 |pmid=25437 |pmc=392410 |doi=10.1073/pnas.75.4.1718}}</ref>
+
+Essentially, DMAE competitively inhibits Choline uptake during the first few days of neural tube formation (1–10 days after impregnation), but the embryo is not yet able to use DMAE as well as an adult due to an immature CDP-choline metabolic pathway and underexpression of key enzymes.{{citation needed|date=March 2016}}
+
+These mechanisms should not occur in adult cells due to the activity of the PeMT enzyme and a mature CDP-choline metabolic enzyme pathway.{{citation needed|date=March 2016}}
+
+High-level inhalational exposure is a documented cause of [[reactive airways dysfunction syndrome]]{{cn|date=May 2017}}.
+
+==Uses==
+Its characteristics arise from its chemical features as well as from its overall structural similarity to chemical compounds involved in [[primary metabolism]] and neurophysiology.{{citation needed|date=January 2016}}
+===Biochemical roles===
+{{refimprove science|section|date=May 2015}}
+{{expand section|1=thorough, secondary source-based explanation of the roles of this metabolite|small=no|date=May 2015}}
+According to [http://www.webmd.com/vitamins-supplements/ingredientmono-524-deanol.aspx?activeingredientid=524&activeingredientname=deanol WebMD]:
+
+"''Deanol is a chemical that is involved in a series of reactions that form acetylcholine, a chemical that is found in the brain and other areas of the body. Acetylcholine is a "neurotransmitter" that helps nerve cells communicate.''
+
+''Deanol is used for treating attention deficit-hyperactivity disorder (ADHD), Alzheimer's disease, autism, and a movement disorder called tardive dyskinesia. It is also used for improving memory and mood; boosting thinking skills and intelligence; and increasing physical energy, oxygen efficiency, athletic performance, and muscle reflexes. It is also used for preventing aging or liver spots, improving red blood cell function, and extending life span.''
+
+''Deanol is applied to the skin for reducing signs of aging, particularly loose or sagging skin.''
+
+''Deanol was previously sold by Riker Laboratories as the prescription drug Deaner. It was prescribed for the management of children with behavior problems and learning difficulties. Deanol is not an approved food additive in the U.S., nor is it an orphan drug, as some advertising suggests.'' Dimethylaminoethanol may serve as a precursor of choline in the liver.<ref>Karen E. Haneke & Scott Masten, 2002, "Dimethylethanolamine (DMAE) [108-01-0] and Selected Salts and Esters: Review of Toxicological Literature (Update)," Report on National Institute of Environmental Health Sciences Contract No. N01-ES-65402, November 2002, from Contractee Integrated Laboratory Systems, Research Triangle Park, North Carolina 27709, see [http://ntp.niehs.nih.gov/ntp/htdocs/chem_background/exsumpdf/dmae_update_110002_508.pdf], accessed 28 June 2017.</ref> In the brain, DMAE is incorporated into phospholipids, as phosphatidyldimethylethanolamine (PDME), which can then be converted, via ''N''-methylation, to [[phosphatidylcholine]].<ref>Karen E. Haneke & Scott Masten, 2002, "Dimethylethanolamine (DMAE) [108-01-0] and Selected Salts and Esters: Review of Toxicological Literature (Update)," Report on National Institute of Environmental Health Sciences Contract No. N01-ES-65402, November 2002, from Contractee Integrated Laboratory Systems, Research Triangle Park, North Carolina 27709, see [http://ntp.niehs.nih.gov/ntp/htdocs/chem_background/exsumpdf/dmae_update_110002_508.pdf], accessed 28 June 2017.</ref> As a component of nerve membranes, PDME may increase fluidity and permeability, and acting as an antioxidant.{{citation needed|date=May 2015}}
+
+===Topical Use===
+DMAE, in the form of facial cream, is being looked at for improving skin quality for aging skin when applied as a 3% facial cream.<ref name=pmid15675889>{{cite journal |vauthors=Grossman R |title=The role of dimethylaminoethanol in cosmetic dermatology |journal=American Journal of Clinical Dermatology |volume=6 |issue=1 |pages=39–47 |year=2005 |pmid=15675889 |doi=10.2165/00128071-200506010-00005}}</ref> It shows benefits in improving the appearance of coarse wrinkles, under-eye dark circles, nasolabial folds, sagging neck skin, and neck firmness and is generally very well tolerated.{{citation needed|date=March 2016}}
+
+Most notably, DMAE as a facial gel increases skin firmness.<ref>{{cite journal |vauthors=Uhoda I, Faska N, Robert C, Cauwenbergh G, Piérard GE |title=Split face study on the cutaneous tensile effect of 2-dimethylaminoethanol (deanol) gel |journal=Skin Research and Technology |volume=8 |issue=3 |pages=164–7 |year=2002 |pmid=12236885 |doi=10.1034/j.1600-0846.2002.10295.x }}</ref><ref>{{cite journal |vauthors=Tadini KA, Campos PM |title=In vivo skin effects of a dimethylaminoethanol (DMAE) based formulation |journal=Die Pharmazie |volume=64 |issue=12 |pages=818–22 |year=2009 |pmid=20095140 }}</ref>
+
+===Neurology===
+
+====Rheology====
+DMAE (0.6% in vitro) appears to protect from iron-induced oxidation and subsequent protein cross-linking, thought to preserve membrane fluidity via anti-oxidative effects,<ref name=pmid7206814>{{cite journal |vauthors=Nagy I, Nagy K |title=On the role of cross-linking of cellular proteins in aging |journal=Mechanisms of Ageing and Development |volume=14 |issue=1-2 |pages=245–51 |year=1980 |pmid=7206814 |doi=10.1016/0047-6374(80)90124-4}}</ref> either directly or by preventing formation of Nitroxyl radicals (hydroxyl radical binding with hydroxyproline) by non-oxidatively sequestering hydroxyl radicals.<ref name=pmid6099712>{{cite journal |vauthors=Nagy I, Floyd RA |title=Electron spin resonance spectroscopic demonstration of the hydroxyl free radical scavenger properties of dimethylaminoethanol in spin trapping experiments confirming the molecular basis for the biological effects of centrophenoxine |journal=Archives of Gerontology and Geriatrics |volume=3 |issue=4 |pages=297–310 |year=1984 |pmid=6099712 |doi=10.1016/0167-4943(84)90031-1}}</ref>
+
+====Alzheimer's Disease====
+V0191 (DMAE Pyroglutamate) in 55-90 year old persons (mean age 72.2) with mild cognitive impairment taking 1500mg of the supplement daily at breakfast over 24 weeks noted that although there was a trend to more response with treatment than placebo (defined as more than a 4 point improvement on the ADAS-cog rating scale), there were no statistically significant improvements nor improvement on global assessments.<ref>{{cite journal |vauthors=Dubois B, Zaim M, Touchon J, Vellas B, Robert P, Murphy MF, Pujadas-Navinés F, Rainer M, Soininen H, Riordan HJ, Kanony-Truc C |title=Effect of six months of treatment with V0191 in patients with suspected prodromal Alzheimer's disease |journal=Journal of Alzheimer's Disease |volume=29 |issue=3 |pages=527–35 |year=2012 |pmid=22330824 |doi=10.3233/JAD-2012-111370 }}</ref>
+
+====Tardive Dyskinesia====
+DMAE supplementation has been shown in some studies to show a small, albeit nonsignificant, positive trend for symptoms in [[tardive dyskinesia]] ,<ref>{{cite journal |vauthors=Tammenmaa IA, Sailas E, McGrath JJ, Soares-Weiser K, Wahlbeck K |title=Systematic review of cholinergic drugs for neuroleptic-induced tardive dyskinesia: a meta-analysis of randomized controlled trials |journal=Progress in Neuro-psychopharmacology & Biological Psychiatry |volume=28 |issue=7 |pages=1099–107 |year=2004 |pmid=15610922 |doi=10.1016/j.pnpbp.2004.05.045 }}</ref> but typically it is seen as an ineffective treatment.<ref>{{cite journal |vauthors=Jeste DV, Wyatt RJ |title=Therapeutic strategies against tardive dyskinesia. Two decades of experience |journal=Archives of General Psychiatry |volume=39 |issue=7 |pages=803–16 |year=1982 |pmid=6131655 |doi=10.1001/archpsyc.1982.04290070037008 }}</ref><ref>{{cite journal |vauthors=Soares KV, McGrath JJ |title=The treatment of tardive dyskinesia--a systematic review and meta-analysis |journal=Schizophrenia Research |volume=39 |issue=1 |pages=1–16; discussion 17–8 |year=1999 |pmid=10480663 |doi=10.1016/S0920-9964(99)00021-3 }}</ref>
+
+===Industrial uses===
+{{refimprove science|section|date=May 2015}}
+Industrial uses include as a bulk chemical in [[water purification]], as a fine chemical precursor in [[pharmaceutical]] and other [[organic syntheses]], and as an additive in a variety of applications, including with resins and coatings.{{citation needed|date=May 2015}} There is expanding interest in use of DMAE as a nutraceutical, and it has been tested as a possible therapeutic agent related to a variety of [[cholinergic]] functions.{{citation needed|date=May 2015}}
+
+DMAE is used in bulk quantities for water treatment, in the coatings industry, and as a [[curing agent]] for [[polyurethane]]s and [[epoxy resins]].{{citation needed|date=May 2015}} It is also used in the [[chemical synthesis]] of [[dye]]stuffs, [[pharmaceutical]]s, [[emulsifier]]s, textile auxiliaries,{{citation needed|date=May 2015}} as an [[wikt:additive|additive]] to [[paint]] removers and [[amino]] [[resin]]s,{{citation needed|date=May 2015}} and as an additive to [[boiler]] water to provide [[corrosion inhibitor|corrosion resistance]].{{citation needed|date=May 2015}} For instance, [[2-dimethylaminoethyl chloride]] hydrochloride is synthesized from dimethylaminoethanol, and serves as an intermediate that is widely used for the manufacture of pharmaceuticals.<ref>Ashford's Dictionary of Industrial Chemicals, 3rd edition, 2011, {{ISBN|978-0-9522674-3-0}}, p. 3294.{{full citation needed|date=May 2015}}</ref>
+
+DMAE forms a number of salts with melting points below room temperature [[ionic liquids]], (e.g. ''N,N''-dimethylethanolammonium acetate and ''N,N''-dimethylethanolammonium octanoate), which can be used in applications where alternatives to conventional solvents are required.<ref>{{cite journal |vauthors=Sanders MW, Wright L, Tate L, Fairless G, Crowhurst L, Bruce NC, Walker AJ, Hembury GA, Shimizu S |title=Unexpected preferential dehydration of artemisinin in ionic liquids |journal=The Journal of Physical Chemistry A |volume=113 |issue=38 |pages=10143–5 |year=2009 |pmid=19722599 |doi=10.1021/jp906436e }}</ref>
+
+===Neutraceutical uses===
+The [[bitartrate]] salt of DMAE, i.e. 2-dimethylaminoethanol (+)-bitartrate, is sold as a dietary supplement.<ref>Karen E. Haneke & Scott Masten, 2002, "Dimethylethanolamine (DMAE) [108-01-0] and Selected Salts and Esters: Review of Toxicological Literature (Update)," Report on National Institute of Environmental Health Sciences Contract No. N01-ES-65402, November 2002, from Contractee Integrated Laboratory Systems, Research Triangle Park, North Carolina 27709, see [http://ntp.niehs.nih.gov/ntp/htdocs/chem_background/exsumpdf/dmae_update_110002_508.pdf], accessed 30 April 2015.</ref> It is a white powder providing 37% DMAE.<!-- 89.14/239.22 = 37.26% --><ref>[http://www.sigmaaldrich.com/MSDS/MSDS/DisplayMSDSPage.do?country=US&language=en&productNumber=39000&brand=ALDRICH Sigma Aldrich: Safety Data Sheet: 2-Dimethylaminoethanol (+)-bitartrate]</ref>
+
+==Further reading (secondary sources)==
+*{{cite journal |vauthors=Zs-Nagy I |title=On the role of intracellular physicochemistry in quantitative gene expression during aging and the effect of centrophenoxine. A review |journal=Archives of Gerontology and Geriatrics |volume=9 |issue=3 |pages=215–29 |year=1989 |pmid=2517957 |doi=10.1016/0167-4943(89)90042-3 }}
+
+==Further reading (primary sources)==
+*{{cite journal |vauthors=Knobel M |title=Approach to a combined pharmacologic therapy of childhood hyperkinesis |journal=Behavioral Neuropsychiatry |volume=6 |issue=1-12 |pages=87–90 |year=1974 |pmid=4619768 }}
+*{{cite journal |vauthors=Dimpfel W, Wedekind W, Keplinger I |title=Efficacy of dimethylaminoethanol (DMAE) containing vitamin-mineral drug combination on EEG patterns in the presence of different emotional states |journal=European Journal of Medical Research |volume=8 |issue=5 |pages=183–91 |year=2003 |pmid=12844472 }}
+*{{cite journal |vauthors=Haug BA, Holzgraefe M |title=Orofacial and respiratory tardive dyskinesia: potential side effects of 2-dimethylaminoethanol (deanol)? |journal=European Neurology |volume=31 |issue=6 |pages=423–5 |year=1991 |pmid=1756771 }}
+*{{cite journal |vauthors=Fisman M, Mersky H, Helmes E |title=Double-blind trial of 2-dimethylaminoethanol in Alzheimer's disease |journal=The American Journal of Psychiatry |volume=138 |issue=7 |pages=970–2 |year=1981 |pmid=7020434 |doi=10.1176/ajp.138.7.970 }}
+*{{cite journal |vauthors=Cherkin A, Exkardt MJ |title=Effects of dimethylaminoethanol upon life-span and behavior of aged Japanese quail |journal=Journal of Gerontology |volume=32 |issue=1 |pages=38–45 |year=1977 |pmid=830732 |doi=10.1093/geronj/32.1.38 }}
+*{{cite journal |vauthors=Zahniser NR, Chou D, Hanin I |title=Is 2-dimethylaminoethanol (deanol) indeed a precursor of brain acetylcholine? A gas chromatographic evaluation |journal=The Journal of Pharmacology and Experimental Therapeutics |volume=200 |issue=3 |pages=545–59 |year=1977 |pmid=850128 |url=http://jpet.aspetjournals.org/cgi/pmidlookup?view=long&pmid=850128 }}
+
+==See also==
+* [[Choline]]
+* [[Ethanolamine]]
+
+==References==
+{{Reflist}}
+
+{{Dietary supplements}}
+{{Nootropics}}
+{{Acetylcholine receptor modulators}}
+
+[[Category:Amines]]
+[[Category:Alcohols]]
+[[Category:Cholinergics]]
+[[Category:Nootropics]]
+[[Category:Corrosion inhibitors]]

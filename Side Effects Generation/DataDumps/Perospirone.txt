@@ -1,0 +1,105 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464199317
+| IUPAC_name = (3a''S'',7a''R'')-2-[4-[4-(1,2-benzothiazol-3-yl)piperazin-1-yl]butyl]-3a,4,5,6,7,7a-hexahydroisoindole-1,3-dione
+| image = Perospirone.svg
+| width = 300
+| image2 = Perospirone-optimized-ball-and-stick.png
+| width2 = 300
+
+<!--Clinical data-->
+| tradename = Lullan
+| Drugs.com = {{drugs.com|international|perospirone}}
+| pregnancy_category =  
+| legal_status = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| metabolism = [[Hepatic]]<ref name = "CNS Drugs"/>
+| protein_bound = 92%<ref name = "CNS Drugs"/>
+| elimination_half-life = 1.9-2.5 hours<ref name = "CNS Drugs"/><ref>{{cite journal|title=Steady-State Pharmacokinetics of a New Antipsychotic Agent Perospirone and Its Active Metabolite, and Its Relationship|journal=Therapeutic Drug Monitoring|date=August 2004|volume=26|issue=4|pages=361–365|author1=Yasui-Furukori, N |author2=Furukori, H |author3=Nakagami, T |author4=Saito, M |author5=Inoue, Y |author6=Kaneko, S |author7=Tateishi, T |doi=10.1097/00007691-200408000-00004|pmid=15257064}}</ref>
+| excretion = [[Renal]] (0.4% as unchanged drug)<ref name = "CNS Drugs"/>
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7556
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 150915-41-6
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 115368
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 16737064
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = N303OK87DT
+
+<!--Chemical data-->
+| C=23 | H=30 | N=4 | O=2 | S=1 
+| molecular_weight = 426.57 g/mol
+| smiles = O=C4N(CCCCN1CCN(CC1)C\3=N\SCc2ccccc2/3)C(=O)[C@@H]5CCCC[C@H]45
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C24H32N4O2S/c29-23-20-9-3-4-10-21(20)24(30)28(23)12-6-5-11-26-13-15-27(16-14-26)22-19-8-2-1-7-18(19)17-31-25-22/h1-2,7-8,20-21H,3-6,9-17H2/t20-,21+
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GTAIPSDXDDTGBZ-OYRHEFFESA-N
+}}
+
+'''Perospirone''' ('''Lullan''') is an [[atypical antipsychotic]] of the [[azapirone]] family.<ref name = "CNS Drugs">{{cite journal |author1=Onrust, SV |author2=McClellan, K | title = Perospirone | journal = CNS Drugs | volume = 15 | issue = 4 | pages = 329–37; discussion 338 | year = 2001 | pmid = 11463136 | doi = 10.2165/00023210-200115040-00006 | url = https://link.springer.com/article/10.2165%2F00023210-200115040-00006}}</ref> It was introduced in [[Japan]] by [[Dainippon Sumitomo Pharma]] in 2001 for the treatment of [[schizophrenia]] and acute cases of [[bipolar disorder|bipolar]] [[mania]].<ref name="pmid12054062">{{cite journal | author = de Paulis, T | title = Perospirone (Sumitomo Pharmaceuticals) | journal = Current Opinion in Investigational Drugs | volume = 3 | issue = 1 | pages = 121–9 |date=January 2002 | pmid = 12054062}}</ref><ref name="urlSumitomo Pharmaceuticals 2001 | News Release | Dainippon Sumitomo Pharma">{{cite web | url = http://www.ds-pharma.co.jp/english/news/sumitomo_2001/no_002.html | title = Sumitomo Pharmaceuticals 2001 &#124; News Release &#124; Dainippon Sumitomo Pharma | work = | accessdate = }}</ref>
+
+==Medical uses==
+Its primary uses are in the treatment of schizophrenia and bipolar mania.<ref name="pmid12054062"/><ref name="urlSumitomo Pharmaceuticals 2001 | News Release | Dainippon Sumitomo Pharma"/>
+
+===Schizophrenia===
+In a clinical trial that compared it to [[haloperidol]] in the treatment of schizophrenia it was found to produce significantly superior overall symptom control.<ref name = "Hal">{{cite journal|last=Murasaki|first=M|author2=Koyama, T |author3=Machiyama, Y |title=Clinical evaluation of a new antipsychotic, perospirone HCl, on schizophrenia: a comparative double-blind study with haloperidol|journal=Rinsho Hyoka|year=1997|volume=24|issue=2-3|pages=159–205|display-authors=etal}}</ref> In another clinical trial perospirone was compared with [[mosapramine]] and produced a similar reduction in total [[Positive and Negative Syndrome Scale|PANSS score]], except with respect to the blunted affect part of the PANSS negative score, in which perospirone produced a significantly greater improvement.<ref name=Mos>{{cite journal|last=Kudo|first=Y|author2=Nakajima, T |author3=Saito, M |title=Clinical evaluation of a serotonin-2 and dopamine-2 receptor antagonist (SDA), perospirone HCl on schizophrenia: a comparative double-blind study with mosapramine HCl|journal=Rinsho Hyoka|year=1997|volume=24|issue=2-3|pages=207–48|display-authors=etal}}</ref> In an open-label clinical trial comparing [[aripiprazole]] with perospirone there was no significant difference between the two treatments discovered in terms of both efficacy and tolerability.<ref>{{cite journal|title=A 12-week randomized, open-label study of perospirone versus aripiprazole in the treatment of Japanese schizophrenia patients|journal=Progress in Neuro-Psychopharmacology and Biological Psychiatry|date=January 2013|volume=40|pages=110–114|doi=10.1016/j.pnpbp.2012.09.010|pmid=23022672|author1=Takekita, Y |author2=Kato, M |author3=Wakeno, M |author4=Sakai, S |author5=Suwa, A |author6=Nishida, K |author7=Okugawa, G |author8=Kinoshita, T }}</ref> In 2009 a clinical trial found that perospirone produced a similar reduction of PANSS score than [[risperidone]] and the extrapyramidal side effects was similar in both frequency and severity between groups.<ref name=Risp>{{cite journal|last=Okugawa|first=G|author2=Kato, M |author3=Wakeno, M |author4=Koh, J |author5=Morikawa, M |author6=Matsumoto, N |author7=Shinosaki, K |author8=Yoneda, H |author9=Kishimoto, T |author10= Kinoshita, T |title=Randomized clinical comparison of perospirone and risperidone in patients with schizophrenia: Kansai Psychiatric Multicenter Study|journal=Psychiatry and Clinical Neurosciences|date=June 2009|volume=63|issue=3|pages=322–328|doi=10.1111/j.1440-1819.2009.01947.x|pmid=19566763|url=http://onlinelibrary.wiley.com/doi/10.1111/j.1440-1819.2009.01947.x/pdf}}</ref>
+
+A meta-analysis published in 2013 found that it is statistically significantly less efficacious than other second-generation antipsychotics.<ref name = "CNS Drugs2">{{cite journal|title=Efﬁcacy and Tolerability of Perospirone in Schizophrenia: A Systematic Review and Meta-Analysis of Randomized Controlled Trials|journal=CNS Drugs|date=September 2013|volume=27|issue=9|pages=731–741|doi=10.1007/s40263-013-0085-7|pmid=23812802|url=https://link.springer.com/content/pdf/10.1007/s40263-013-0085-7.pdf|author1=Kishi, T |author2=Iwata, N }}</ref>
+
+==Adverse effects==
+Has a higher incidence of extrapyramidal side effects than the other atypical antipsychotics, but still less than that seen with typical antipsychotics.<ref name = "CNS Drugs"/><ref name = Martindale>{{cite book|title=Perospirone Hydrochloride|work=Martindale: The Complete Drug Reference|publisher = The Royal Pharmaceutical Society of Great Britain|date=23 September 2011|accessdate=3 November 2013|url=http://www.medicinescomplete.com/mc/martindale/current/15232-k.htm}}</ref> A trend was observed in a clinical trial comparing mosapramine with perospirone that favoured perospirone for producing less prominent extrapyramidal side effects than mosapramine although statistical significant was not reached.<ref name = "Mos" /> It may produce less [[QT interval]] prolongation than [[zotepine]], as in one patient who had previously been on zotepine switching to perospirone corrected their prolonged QT interval.<ref>{{cite journal|last=Suzuki|first=Y|author2=Watanabe, J |author3=Sugai, T |author4=Fukui, N |author5=Ono, S |author6=Tsuneyama, N |author7=Saito, M |author8= Someya T |title=Improvement in QTc prolongation induced by zotepine following a switch to perospirone|journal=Psychiatry and Clinical Neurosciences|date=March 2012|volume=66|issue=3|page=244|doi=10.1111/j.1440-1819.2012.02321.x|pmid=22443250|url=http://onlinelibrary.wiley.com/doi/10.1111/j.1440-1819.2012.02321.x/pdf}}</ref> It also tended to produce less severe [[extrapyramidal side effects]] than haloperidol in a clinical trial comparing the two (although statistical significance was not reached).<ref name = "Hal" />
+
+==Pharmacology==
+Perospirone binds to the following receptors with very high affinity (as an antagonist unless otherwise specified):<ref name = "CNS Drugs2"/><ref name = "PMID1975278" /><ref name = PDSP>{{cite web | title = PDSP K<sub>i</sub> Database | work = Psychoactive Drug Screening Program (PDSP) |author1=Roth, BL |author2=Driscol, J | url = http://pdsp.med.unc.edu/pdsp.php | publisher = University of North Carolina at Chapel Hill and the United States National Institute of Mental Health | accessdate = 3 November 2013 | date = 12 January 2011}}</ref><ref name="PMID1975278">{{cite journal |author1=Hirose, A |author2=Kato, T |author3=Ohno, Y |author4=Shimizu, H |author5=Tanaka, H |author6=Nakamura, M |author7=Katsube, J | title = Pharmacological actions of SM-9018, a new neuroleptic drug with both potent 5-hydroxytryptamine2 and dopamine2 antagonistic actions | journal = Japanese Journal of Pharmacology | volume = 53 | issue = 3 | pages = 321–9 |date=July 1990| pmid = 1975278 | doi = 10.1254/jjp.53.321}}</ref><ref name="pmid1982326">{{cite journal |author1=Kato, T |author2=Hirose, A |author3=Ohno, Y |author4=Shimizu, H |author5=Tanaka, H |author6=Nakamura, M | title = Binding profile of SM-9018, a novel antipsychotic candidate | journal = Japanese Journal of Pharmacology| volume = 54 | issue = 4 | pages = 478–81 |date=December 1990 | pmid = 1982326 | doi = 10.1254/jjp.54.478}}</ref><ref name="pmid17439416">{{cite journal |author1=Odagaki, Y |author2=Toyoshima, R | title = 5-HT1A receptor agonist properties of antipsychotics determined by [35S]GTPgammaS binding in rat hippocampal membranes | journal = Clinical and Experimental Pharmacology & Physiology |volume = 34 | issue = 5–6 | pages = 462–6 | year = 2007 | pmid = 17439416 | doi = 10.1111/j.1440-1681.2007.04595.x}}</ref><ref name="pmid9577836">{{cite journal |author1=Seeman, P |author2=Tallerico, T | title = Antipsychotic drugs which elicit little or no parkinsonism bind more loosely than dopamine to brain D2 receptors, yet occupy high levels of these receptors | journal = Molecular Psychiatry |volume = 3 | issue = 2 | pages = 123–34 |date=March 1998 | pmid = 9577836 | doi = 10.1038/sj.mp.4000336}}</ref>
+
+* [[5-HT1A receptor|5-HT<sub>1A</sub>]] (partial agonist; K<sub>i</sub>=2.9 nM)
+* [[5-HT2A receptor|5-HT<sub>2A</sub>]] (inverse agonist; K<sub>i</sub>=1.3 nM)
+* [[Dopamine D2 receptor|D<sub>2</sub>]] (K<sub>i</sub> = 0.6 nM)
+
+And the following receptor with high affinity:<ref name = "CNS Drugs2"/>
+
+* [[Histamine H1 receptor|H<sub>1</sub>]] (inverse agonist)
+
+And the following with moderate affinity:<ref name = "CNS Drugs2"/>
+
+* [[Dopamine D4 receptor|D<sub>4</sub>]]
+* [[Alpha-1 adrenergic receptor|α<sub>1</sub>]] adrenoceptor
+
+And with low affinity for the following receptor:<ref name = "CNS Drugs2"/>
+
+* [[Dopamine D1 receptor|D<sub>1</sub>]]
+
+== See also ==
+* [[Azapirone]]
+* [[Blonanserin]] — another second-generation antipsychotic that's only approved for clinical use in East Asia
+* [[Mosapramine]]
+* [[Zotepine]]
+
+== References ==
+{{Reflist|2}}
+
+{{Antipsychotics}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Adrenergic receptor modulators}}
+{{Dopamine receptor modulators}}
+{{Histamine receptor modulators}}
+{{Serotonin receptor modulators}}
+}}
+{{Use dmy dates|date=April 2017}}
+
+[[Category:Atypical antipsychotics]]
+[[Category:Azapirones]]
+[[Category:Benzoisothiazoles]]
+[[Category:Imides]]
+[[Category:Piperazines]]

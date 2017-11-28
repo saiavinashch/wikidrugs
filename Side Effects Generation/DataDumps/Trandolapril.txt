@@ -1,0 +1,96 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 470612121
+| IUPAC_name = (2''S'',3''aR'',7''aS'')-1-[(2''S'')-2-<nowiki/>{[(2''S'')-1-ethoxy-1-oxo-4-phenylbutan-2-yl]amino}propanoyl]-octahydro-1''H''-indole-2-carboxylic acid
+| image = Trandolapril structure.svg
+| width2 = 222
+
+<!--Clinical data-->
+| tradename = Mavik
+| Drugs.com = {{drugs.com|monograph|trandolapril}}
+| MedlinePlus = a697010
+| pregnancy_US = D
+| legal_status = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = Trandolapril 80%<br />(independent of concentration)<br />Trandolaprilat 65 to 94%<br />(concentration-dependent)
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life = 6 hours (trandolapril)<br />10 hours (trandolaprilat)
+| excretion = Fecal and [[Kidney|renal]]
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6453
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 87679-37-6
+| ATC_prefix = C09
+| ATC_suffix = AA10
+| PubChem = 5484727
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00519
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4588590
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 1T0N3G9CRC
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00383
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1519
+
+<!--Chemical data-->
+| C=24 | H=34 | N=2 | O=5
+| molecular_weight = 430.537 g/mol
+| smiles = O=C(OCC)[C@@H](N[C@H](C(=O)N1[C@H](C(=O)O)C[C@H]2CCCC[C@H]12)C)CCc3ccccc3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C24H34N2O5/c1-3-31-24(30)19(14-13-17-9-5-4-6-10-17)25-16(2)22(27)26-20-12-8-7-11-18(20)15-21(26)23(28)29/h4-6,9-10,16,18-21,25H,3,7-8,11-15H2,1-2H3,(H,28,29)/t16-,18+,19-,20-,21-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = VXFJYXUZANRPDJ-WTNASJBWSA-N
+| melting_point = 119
+| melting_high = 123
+}}
+
+'''Trandolapril''' is an [[ACE inhibitor]] used to treat high blood pressure, it may also be used to treat other conditions. It is marketed by [[Abbott Laboratories]] under the brand name '''Mavik'''.
+
+== Pharmacology ==
+[[File:Trandolaprilat.svg|thumb|left|Trandolaprilat — the active metabolite of trandolapril]] {{clear left}}
+Trandolapril is a [[prodrug]] that is de-esterified to trandolaprilat.  It is believed to exert its antihypertensive effect through the renin-angiotensin-aldosterone system.  Trandolapril has a half-life of about 6 hours, and trandolaprilat has a half life of about 10 h.  Trandolaprilat has about eight times the activity of its parent drug.  About one-third of trandolapril and its metabolites are excreted in the urine, and about two-thirds of trandolapril and its metabolites are excreted in the feces.  Serum protein binding of trandolapril is about 80%.
+
+== Mode of action ==
+:{{main article|ACE inhibitor}}
+Trandolapril acts by competitive inhibition of [[angiotensin converting enzyme]] (ACE), a key enzyme in the [[renin-angiotensin system]] which plays an important role in regulating blood pressure.
+
+== Side effects ==
+Side effects reported for trandolapril include [[nausea]], [[vomiting]], [[diarrhea]], [[headache]], dry cough, [[dizziness]] or [[lightheadedness]] when sitting up or standing, [[hypotension]], or [[fatigue (physical)|fatigue]].
+
+== Possible drug interactions ==
+Patients also on diuretics may experience an excessive reduction of blood pressure after initiation of therapy with trandolapril. It can reduce potassium loss caused by thiazide diuretics, and increase serum potassium when used alone. Therefore, [[hyperkalemia]] is a possible risk. Increased serum lithum levels can occur in patients who are also on lithium.
+
+== Contraindications and precautions ==
+:{{main article|ACE inhibitor#Contraindications and precautions}}
+
+== Pregnancy and lactation==
+Trandolapril is [[teratogenic]] (US: [[pregnancy category]] D) and can cause [[birth defect]]s and even death of the developing fetus. 	 
+The highest risk to the fetus is during the second and third trimesters. When pregnancy is detected, trandolapril should be discontinued as soon as possible. Trandolapril should not be administed to nursing mothers.
+
+==Additional effects==
+Combination therapy with [[paricalcitol]] and trandolapril has been found to reduce [[fibrosis]] in [[obstructive uropathy]].<ref>{{cite journal|doi=10.1038/ki.2009.346|pmid=19759524|year=2009|last1=Tan|first1=X|last2=He|first2=W|last3=Liu|first3=Y|title=Combination therapy with paricalcitol and trandolapril reduces renal fibrosis in obstructive nephropathy|volume=76|issue=12|pages=1248–57|journal=Kidney International}}</ref>
+
+==References==
+{{reflist}}
+
+== External links ==
+* [http://www.rxabbott.com/pdf/mavik.pdf Mavik] (PDF from manufacturer's website)
+* [http://www.rxabbott.com/pdf/tarka.pdf Tarka] (PDF from manufacturer's website)
+* [http://www.rxlist.com/cgi/generic3/mavik.htm Trandolapril Information - rxlist.com] (Rxlist.com, The Internet Drug Index)
+
+{{ACE inhibitors}}
+{{Angiotensin receptor modulators}}
+
+[[Category:ACE inhibitors]]
+[[Category:Carboxamides]]
+[[Category:Carboxylic acids]]
+[[Category:Enantiopure drugs]]
+[[Category:Ethyl esters]]
+[[Category:Indoles]]
+[[Category:Prodrugs]]

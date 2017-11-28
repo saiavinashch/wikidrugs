@@ -1,0 +1,77 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 458983047
+| IUPAC_name = 1-Ethoxycarbonyloxyethyl (2''S'',5''R'')-6-<nowiki>[[</nowiki>(2''R'')-2-amino-2-phenylacetyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate
+| image = Bacampicillin.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|bacampicillin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism = Rapidly [[hydrolysis|hydrolyzed]] to [[ampicillin]]
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 37661-08-8
+| ATC_prefix = J01
+| ATC_suffix = CA06
+| ATC_supplemental =  
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 2968
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H27N3O7S/c1-5-29-20(28)31-11(2)30-19(27)15-21(3,4)32-18-14(17(26)24(15)18)23-16(25)13(22)12-9-7-6-8-10-12/h6-11,13-15,18H,5,22H2,1-4H3,(H,23,25)/t11?,13-,14-,15+,18-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = PFOLLRNADZZWEX-FFGRCDKISA-N
+| PubChem = 39849
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01602
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 390135
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 8GM2J22278
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1583
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=21 | H=27 | N=3 | O=7 | S=1 
+| molecular_weight = 465.519 g/mol
+}}
+'''Bacampicillin''' ([[International Nonproprietary Name|INN]]) is a [[penicillin]] [[antibiotic]]. It is a [[prodrug]] of [[ampicillin]] with improved oral [[bioavailability]].<ref>{{cite journal |author=Bodin NO |title=Bacampicillin: a New Orally Well-Absorbed Derivative of Ampicillin |journal=[[Antimicrob Agents Chemother]] |volume=8 |issue=5 |pages=518–25 |date=November 1975 |pmid=1211909 |doi= |url=http://aac.asm.org/cgi/pmidlookup?view=long&pmid=1211909 |pmc=429411 |author2=Ekström B |author3=Forsgren U |display-authors=3 |last4=Jalar |first4=LP |last5=Magni |first5=L |last6=Ramsay |first6=CH |last7=Sjöberg |first7=B}}</ref>
+
+It is sold under the brand names '''Spectrobid''' ([[Pfizer]]) and '''Penglobe''' ([[AstraZeneca]]).
+==Synthesis==
+Semi-synthetic antibiotic related to penicillin.
+
+The relatively small chemical difference between [[ampicillin]] and [[benzylpenicillin]] not only allows for substantial oral activity but also results in a substantial broadening of antimicrobial spectrum so as to allow for use against many [[Gram-negative bacteria]]. Many devices have been employed in order to enhance still further the oral absorption of ampicillin. Bacampicillin is a prodrug of ampicillin designed for this purpose.
+[[File:Bacampicillin synthesis.svg|center|Bacampicillin synthesis:<ref>B. A. Ekstrom, O. K. J. Kovacs, and B. O. H. Sjoberg, {{Cite patent|DE|2311328}} (1973). Chem. Abstr., 80, 14921q(1974).</ref><ref>B. A. Ekstrom, B. O. H. Sjoberg, {{Cite patent|DE|2144457}}; eidem, {{US patent|3873521}} and {{US patent|3939270}} (1972, 1975 and 1976 all to Astra).</ref>]]
+An azidopenicillin sodium salt ('''1''') is reacted with mixed carbonate ester '''2''' (itself prepared from [[acetaldehyde]] and [[ethyl chloroformate]]) to give ester '''3'''. Reduction of the azido linkage with hydrogen and a suitable catalyst produces bacampillin ('''4'''). Both enantiomers are active. The drug is rapidly absorbed from the gastrointestinal tract and is quickly cleaved by serum esterases to bioactive ampicillin, acetaldehyde, CO2 and ethanol.
+
+==See also==
+*[[Sarpicillin]]
+
+==References==
+{{Reflist}}
+
+{{PenicillinAntiBiotics}}
+
+[[Category:Penicillins]]
+[[Category:Carboxylate esters]]
+[[Category:Prodrugs]]
+
+
+{{antibiotic-stub}}

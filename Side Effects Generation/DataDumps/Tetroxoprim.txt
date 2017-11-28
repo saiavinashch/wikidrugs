@@ -1,0 +1,73 @@
+{{Multiple issues|
+{{one source|date=August 2014}}
+{{refimprove|date=August 2014}}
+}}
+
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 408927686
+| IUPAC_name = 5-[3,5-Dimethoxy-4-(2-methoxyethoxy)benzyl]pyrimidine-2,4-diamine
+| image = Tetroxoprim.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 53808-87-0
+| ATC_prefix = J01
+| ATC_suffix = EE06
+| ATC_supplemental = (with [[sulfadiazine]])
+| PubChem = 65450
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 5R6712AY0K
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D06097
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 32039
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 58910
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=16 | H=22 | N=4 | O=4 
+| molecular_weight = 334.70 g/mol
+| smiles = COCCOC1=C(C=C(C=C1OC)CC2=CN=C(N=C2N)N)OC
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C16H22N4O4/c1-21-4-5-24-14-12(22-2)7-10(8-13(14)23-3)6-11-9-19-16(18)20-15(11)17/h7-9H,4-6H2,1-3H3,(H4,17,18,19,20)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = WSWJIZXMAUYHOE-UHFFFAOYSA-N
+}}
+
+'''Tetroxoprim''' ([[International Nonproprietary Name|INN]]) is a derivative of [[trimethoprim]]. It was first described in 1979.<ref>{{cite journal |vauthors=Aschhoff HS, Vergin H |title=Tetroxoprim—a new inhibitor of bacterial dihydrofolate reductase |journal=J Antimicrob Chemother |volume=5 |issue=B |pages=19–25 |date=November 1979 |pmid=43863 |doi= 10.1093/jac/5.supplement_b.19|url=}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Sulfonamides and trimethoprim}}
+
+[[Category:Bacterial dihydrofolate reductase inhibitors]]
+[[Category:Pyrimidines]]
+[[Category:Phenol ethers]]
+
+
+{{antibiotic-stub}}

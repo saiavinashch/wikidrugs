@@ -1,0 +1,76 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 462090822
+| IUPAC_name = (3''S'',4''R'')-1-[''cis''-4-cyano-4-(4-fluorophenyl)cyclohexyl]-3-methyl-4-phenyl-4-piperidinecarboxylic acid
+| image = Levocabastine.svg
+| width = 260
+
+<!--Clinical data-->
+| tradename = Livostin
+| Drugs.com = {{drugs.com|CONS|levocabastine}}
+| pregnancy_AU = B3
+| pregnancy_US = C
+| legal_status = Rx-only
+| routes_of_administration = Ophthalmic, intranasal<ref>{{cite web | url = http://www.rxmed.com/b.main/b2.pharmaceutical/b2.1.monographs/CPS-%20Monographs/CPS-%20(General%20Monographs-%20L)/LIVOSTIN%20NASAL%20SPRAY.html | title = RxMed: Pharmaceutical Information - LIVOSTIN NASAL SPRAY | accessdate = 13 November 2005}}</ref>
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 79516-68-0
+| ATC_prefix = R01
+| ATC_suffix = AC02
+| ATC_supplemental =  {{ATC|S01|GX02}}
+| PubChem = 54385
+| IUPHAR_ligand = 1586
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01106
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 16736421
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = H68BP06S81
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08117
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201312
+
+<!--Chemical data-->
+| C=26 | H=29 | F=1 | N=2 | O=2
+| molecular_weight = 420.519 g/mol
+| smiles = Fc1ccc(cc1)[C@]2(CC[C@@H](CC2)N3CC[C@@]([C@H](C)C3)(c4ccccc4)C(O)=O)C#N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C26H29FN2O2/c1-19-17-29(16-15-26(19,24(30)31)21-5-3-2-4-6-21)23-11-13-25(18-28,14-12-23)20-7-9-22(27)10-8-20/h2-10,19,23H,11-17H2,1H3,(H,30,31)/t19-,23-,25-,26-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ZCGOMHNNNFPNMX-KYTRFIICSA-N
+}}
+
+'''Levocabastine''' (trade name '''Livostin''') is a selective second-generation [[H1 antagonist|H<sub>1</sub> receptor antagonists]] which was discovered at [[Janssen Pharmaceutica]] in 1979. It is used for allergic [[conjunctivitis]].<ref>{{cite journal|last1=Pipkorn|first1=U|last2=Bende|first2=M|last3=Hedner|first3=J|last4=Hedner|first4=T|title=A Double-blind Evaluation of Topical Levocabastine, a New Specific H1 Antagonist in Patients with Allergic Conjunctivitis|journal=Allergy|date=October 1985|volume=40|issue=7|pages=491–6|pmid=2866725|doi=10.1111/j.1398-9995.1985.tb00255.x}}</ref>
+
+As well as acting as an antihistamine, levocabastine has also subsequently been found to act as a potent and selective antagonist for the [[neurotensin]] receptor [[Neurotensin receptor 2|NTS<sub>2</sub>]], and was the first drug used to characterise the different neurotensin subtypes.<ref>{{cite journal|last1=Schotte|first1=A|last2=Leysen|first2=JE|last3=Laduron|first3=PM|title=Evidence for a Displaceable Non-specific [3H]Neurotensin Binding Site in Rat Brain|journal=Naunyn-Schmiedeberg's Archives of Pharmacology|date=August 1986|volume=333|issue=4|pages=400–5|doi=10.1007/BF00500016|pmid=3022160}}</ref><ref name="pmid2888670">{{cite journal |vauthors=Kitabgi P, Rostène W, Dussaillant M, Schotte A, Laduron PM, Vincent JP |title=Two populations of neurotensin binding sites in murine brain: discrimination by the antihistamine levocabastine reveals markedly different radioautographic distribution |journal=European Journal of Pharmacology |volume=140 |issue=3 |pages=285–93 |date=August 1987 |pmid=2888670 |doi= 10.1016/0014-2999(87)90285-8|url= |issn=}}</ref> This has made it a useful tool for the study of this receptor.<ref name="pmid8647296">{{cite journal |vauthors=Chalon P, Vita N, Kaghad M, Guillemot M, Bonnin J, Delpech B, Le Fur G, Ferrara P, Caput D |title=Molecular cloning of a levocabastine-sensitive neurotensin binding site |journal=FEBS Letters |volume=386 |issue=2-3 |pages=91–4 |date=May 1996 |pmid=8647296 |doi= 10.1016/0014-5793(96)00397-3|url=http://linkinghub.elsevier.com/retrieve/pii/0014-5793(96)00397-3 |issn=}}</ref><ref name="pmid8795617">{{cite journal |vauthors=Mazella J, Botto JM, Guillemare E, Coppola T, Sarret P, Vincent JP |title=Structure, functional expression, and cerebral localization of the levocabastine-sensitive neurotensin/neuromedin N receptor from mouse brain |journal=Journal of Neuroscience |volume=16 |issue=18 |pages=5613–20 |date=September 1996 |pmid=8795617 |doi= |url=http://www.jneurosci.org/cgi/pmidlookup?view=long&pmid=8795617 |issn=}}</ref><ref name="pmid16148226">{{cite journal |vauthors=Sarret P, Esdaile MJ, Perron A, Martinez J, Stroh T, Beaudet A |title=Potent spinal analgesia elicited through stimulation of NTS2 neurotensin receptors |journal=Journal of Neuroscience |volume=25 |issue=36 |pages=8188–96 |date=September 2005 |pmid=16148226 |doi=10.1523/JNEUROSCI.0810-05.2005 |url= |issn=}}</ref><ref name="pmid17074405">{{cite journal |vauthors=Bredeloux P, Costentin J, Dubuc I |title=Interactions between NTS2 neurotensin and opioid receptors on two nociceptive responses assessed on the hot plate test in mice |journal=Behavioural Brain Research |volume=175 |issue=2 |pages=399–407 |date=December 2006 |pmid=17074405 |doi=10.1016/j.bbr.2006.09.016 |url= |issn=}}</ref><ref name="pmid17697051">{{cite journal |vauthors=Yamauchi R, Wada E, Kamichi S, Yamada D, Maeno H, Delawary M, Nakazawa T, Yamamoto T, Wada K |title=Neurotensin type 2 receptor is involved in fear memory in mice |journal=Journal of Neurochemistry |volume=102 |issue=5 |pages=1669–76 |date=September 2007 |pmid=17697051 |doi=10.1111/j.1471-4159.2007.04805.x |url= |issn=}}</ref>
+
+The [[pharmaceutical drug]] '''Bilina''' is a combination of Levocabastine, [[benzalkonium chloride]], and other components and is typically used in a 0.5&nbsp;mg/ml suspension as eye-drops, dispensed in 4ml bottles for the treatment of allergic [[conjunctivitis]] or similar allergic ocular conditions.<ref>{{cite web|title=Levocabastine ophthalmic|website=http://www.vademecum.es/principios-activos-levocabastina+oftalmica-s01gx02|accessdate=11 September 2014}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* <ref>{{cite web|title=LIVOSTIN (levocabastine hydrochloride) Ophthalmic Suspension). Full Prescribing Information|url=http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=420b3f66-87f0-47d8-947c-541e84eb594a|website=DailyMed|accessdate=4 January 2016}}</ref>
+
+{{Histaminergics}}
+{{Nasal preparations}}
+{{Neuropeptide agonists and antagonists}}
+
+[[Category:Belgian inventions]]
+[[Category:H1 receptor antagonists]]
+[[Category:Janssen Pharmaceutica]]
+[[Category:Nitriles]]
+[[Category:Fluoroarenes]]
+[[Category:Piperidines]]
+
+
+{{respiratory-system-drug-stub}}

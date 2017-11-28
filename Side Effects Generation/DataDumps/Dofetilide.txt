@@ -1,0 +1,101 @@
+{{Drugbox
+| verifiedrevid = 457790505
+| IUPAC_name = ''N''-[4-(2-<nowiki/>{[2-(4-methane sulfonamidophenoxy)ethyl] (methyl)amino}ethyl)phenyl]methanesulfonamide
+| image = Dofetilide.png
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|monograph|dofetilide}}
+| MedlinePlus = a601235
+| pregnancy_category =  
+| legal_status =  
+| routes_of_administration =
+<!--Pharmacokinetic data-->
+| bioavailability = 96% (oral)
+| protein_bound = 60% -70%
+| metabolism =  
+| elimination_half-life = 10 hours
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 115256-11-6
+| ATC_prefix = C01
+| ATC_suffix = BD04
+| ATC_supplemental =  
+| PubChem = 71329
+| IUPHAR_ligand = 2604
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00204
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 64435
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = R4Z9X1N2ND
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00647
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 4681
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 473
+<!--Chemical data-->
+| C=19 | H=27 | N=3 | O=5 | S=2
+| molecular_weight = 441.567 g/mol
+| smiles = O=S(=O)(Nc1ccc(cc1)CCN(CCOc2ccc(cc2)NS(=O)(=O)C)C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H27N3O5S2/c1-22(13-12-16-4-6-17(7-5-16)20-28(2,23)24)14-15-27-19-10-8-18(9-11-19)21-29(3,25)26/h4-11,20-21H,12-15H2,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IXTMWRCNAAVVAI-UHFFFAOYSA-N
+}}
+
+'''Dofetilide''' is a class III [[antiarrhythmic agents|antiarrhythmic agent]].<ref name="pmid10907968">{{cite journal |title=Dofetilide, a new class III antiarrhythmic agent |journal=Pharmacotherapy |volume=20 |issue=7 |pages=776–86 |date=July 2000 |pmid=10907968 |doi= 10.1592/phco.20.9.776.35208|url= |author1=Lenz TL |author2=Hilleman DE }}</ref> It is marketed under the trade name '''Tikosyn''' by [[Pfizer]], and is available in the [[United States]] in capsules containing 125, 250, and 500 [[microgram|µg]] of dofetilide. It is not available in Europe<ref>http://www.ema.europa.eu/docs/en_GB/document_library/Public_statement/2009/12/WC500018370.pdf{{full citation needed}}</ref> or Australia.<ref>Australian Medicines Handbook 2014</ref>
+
+Due to the pro-arrhythmic potential of dofetilide, it is only available by prescription from physicians who have undergone specific training in the risks of treatment with dofetilide.  In addition, it is only available by mail order or through specially trained local pharmacies.<ref>TIKOSYN® (dofetilide). Pfizer. <http://www.tikosyn.com/>.</ref>
+
+==Uses==
+Dofetilide is used for the maintenance of [[sinus rhythm]] in individuals prone to the occurrence of [[atrial fibrillation]] and [[atrial flutter|flutter]] arrhythmias, and for chemical [[cardioversion]] to sinus rhythm from [[atrial fibrillation]] and [[atrial flutter|flutter]].<ref name="pmid18688699">{{cite journal |title=Efficacy and safety of dofetilide in patients with atrial fibrillation and atrial flutter |journal=J Interv Card Electrophysiol |volume=23 |issue=2 |pages=111–5 |date=November 2008 |pmid=18688699 |doi=10.1007/s10840-008-9290-6 |display-authors=3 |author1=Banchs JE |author2=Wolbrette DL |author3=Samii SM |last4=Penny-peterson |first4=ED |last5=Patel |first5=PP |last6=Young |first6=SK |last7=Gonzalez |first7=MD |last8=Naccarelli |first8=GV}}</ref><ref name="pmid12845335">{{cite journal |title=Dofetilide: A new antiarrhythmic agent approved for conversion and/or maintenance of atrial fibrillation/atrial flutter |journal=Drugs Today |volume=36 |issue=11 |pages=759–71 |date=November 2000 |pmid=12845335 |doi= 10.1358/dot.2000.36.11.601530 |author1=Lenz TL |author2=Hilleman DE }}</ref>
+
+==Pharmacokinetics==
+Dofetilide is well absorbed in its oral form, with a [[bioavailability]] of >90%.
+
+The elimination [[half-life]] of dofetilide is roughly 10 hours; however, this varies based on many physiologic factors (most significantly [[creatinine clearance]]), and ranges from 4.8 to 13.5 hours.  Due to the significant level of renal elimination (80% unchanged, 20% metabolites), the dose of dofetilide must be adjusted to prevent toxicity due to impaired renal function.<ref>"Dofetilide." Lexicomp. Wulters Kluwer Health, n.d. Web. <online.lexi.com>.</ref>
+
+==Mechanism of action==
+Dofetilide works by selectively blocking the rapid component of the [[delayed rectifier outward potassium current]] (I<sub>Kr</sub>).<ref name="pmid17187453">{{cite journal |title=Dofetilide: a new class III antiarrhythmic agent |journal=Expert Rev Cardiovasc Ther |volume=5 |issue=1 |pages=9–19 |date=January 2007 |pmid=17187453 |doi=10.1586/14779072.5.1.9 |url=http://www.future-drugs.com/doi/abs/10.1586/14779072.5.1.9?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dncbi.nlm.nih.gov |author1=Roukoz H |author2=Saliba W }}</ref>
+
+This causes the refractory period of atrial tissue to increase, hence its effectiveness in the treatment of atrial fibrillation and atrial flutter.
+
+Dofetilide does not affect V<sub>max</sub> (the [[slope]] of the upstroke of phase 0 depolarization), conduction velocity, or the resting membrane potential.
+
+There is a dose-dependent increase in the QT interval and the corrected QT interval (QTc).  Because of this, many practitioners will initiate dofetilide therapy only on individuals under telemetry monitoring or if serial EKG measurements of QT and QTc can be performed.
+
+==Metabolism==
+A steady-state plasma level of dofetilide is achieved in 2–3 days.
+
+80% of dofetilide is excreted by the [[kidney]]s, so the dose of dofetilide should be adjusted in individuals with [[renal insufficiency]], based on [[creatinine clearance]].
+
+In the kidneys, dofetilide is eliminated via cation exchange (secretion).  Agents that interfere with the renal cation exchange system, such as [[verapamil]], [[cimetidine]], [[hydrochlorothiazide]], [[itraconazole]], [[ketoconazole]], [[prochlorperazine]], and [[trimethoprim]] should not be administered to individuals taking dofetilide.
+
+About 20 percent of dofetilide is metabolized in the liver via the [[CYP3A4]] isoenzyme of the [[cytochrome P450]] enzyme system.  Drugs that interfere with the activity of the [[CYP3A4]] isoenzyme can increase serum dofetilide levels.  If the renal cation exchange system is interfered with (as with the medications listed above), a larger percentage of dofetilide is cleared via the [[CYP3A4]] isoenzyme system.
+
+==Side effects==
+[[Torsades de pointes]] is the most serious side effect of dofetilide therapy.  The incidence of torsades de pointes is 0.3-10.5% and is dose-related, with increased incidence associated with higher doses.
+
+The risk of inducing torsades de pointes can be decreased by taking precautions when initiating therapy, such as hospitalizing individuals for a minimum of three days for serial [[creatinine]] measurement, continuous [[telemetry]] monitoring and availability of cardiac resuscitation.
+
+==Clinical use==
+Based on the results of the Danish Investigations of Arrhythmias and Mortality on Dofetilide ("DIAMOND") study,<ref>{{cite journal |vauthors=Torp-Pedersen C, Møller M, Bloch-Thomsen PE |title=Dofetilide in patients with congestive heart failure and left ventricular dysfunction. Danish Investigations of Arrhythmia and Mortality on Dofetilide Study Group |journal=The New England Journal of Medicine |volume=341 |issue=12 |pages=857–65 | date=September  1999 |pmid=10486417 |doi=10.1056/NEJM199909163411201|display-authors=etal}}</ref> dofetilide does not affect mortality in the treatment of patients post-[[myocardial infarction]] with [[left ventricle|left ventricular]] dysfunction, however it was shown to decrease all-cause readmissions as well as [[Heart failure|CHF]]-related readmissions.<ref name="pmid10486417">{{cite journal |title=Dofetilide in patients with congestive heart failure and left ventricular dysfunction. Danish Investigations of Arrhythmia and Mortality on Dofetilide Study Group |journal=N. Engl. J. Med. |volume=341 |issue=12 |pages=857–65 |date=September 1999 |pmid=10486417 |doi= 10.1056/NEJM199909163411201|url=http://content.nejm.org/cgi/pmidlookup?view=short&pmid=10486417&promo=ONFLNS19 |display-authors=3 |author1=Torp-Pedersen C |author2=ller M |author3=Mø Bloch-Thomsen PE |last4=Køber |first4=L |last5=Sandøe |first5=E |last6=Egstrup |first6=K |last7=Agner |first7=E |last8=Carlsen |first8=J |last9=Videbaek |first9=J}}</ref> Because of the results of the DIAMOND study, some physicians use dofetilide in the suppression of atrial fibrillation in individuals with LV dysfunction, however use appears limited: After initially receiving marketing approval in Europe in 1999, Pfizer voluntarily withdrew this approval in 2004 for commercial reasons<ref>http://www.ema.europa.eu/docs/en_GB/document_library/Public_statement/2009/12/WC500018370.pdf{{full citation needed}}</ref> and it is not registered in other first world countries. It has clinical advantages over other class III antiarrythmics in chemical cardioversion of atrial fibrillation, and maintenance of sinus rhythm, and does not have the pulmonary or hepatotoxicity of amiodarone, however atrial fibrillation is not generally considered life-threatening, and dofetilide causes an increased rate of potentially life-threatening arryrthmias in comparison to other therapies.<ref>Micromedex Drugdex drug evaluations micromedex.com{{full citation needed}}</ref>
+
+==See also==
+*[[Antiarrhythmic agents]]
+*[[Cardiac action potential]]
+*[[Electrocardiogram]]
+
+==References==
+{{reflist|30em}}
+
+<!--spacing-->
+
+{{Potassium channel blockers}}
+{{Antiarrhythmic agents}}
+
+[[Category:Sulfonamides]]
+[[Category:Pfizer products]]
+[[Category:Potassium channel blockers]]
+[[Category:Phenol ethers]]

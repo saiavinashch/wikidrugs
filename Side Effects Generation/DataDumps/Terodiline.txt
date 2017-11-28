@@ -1,0 +1,68 @@
+{{Drugbox
+| verifiedrevid = 470602484
+| IUPAC_name = N-tert-butyl-4,4-di(phenyl)butan-2-amine
+| image = Terodiline.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number =  
+| ATC_prefix = G04
+| ATC_suffix = BD05
+| PubChem = 23480
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 21952
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 70KG06964W
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 363295
+
+<!--Chemical data-->
+| C=20 | H=27 | N=1 
+| molecular_weight = 281.435 g/mol
+| smiles = c1ccccc1C(c2ccccc2)CC(NC(C)(C)C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C20H27N/c1-16(21-20(2,3)4)15-19(17-11-7-5-8-12-17)18-13-9-6-10-14-18/h5-14,16,19,21H,15H2,1-4H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = UISARWKNNNHPGI-UHFFFAOYSA-N
+}}
+
+'''Terodiline''' is a drug used in [[urology]] as an [[antispasmodic]].
+
+It relaxes the smooth muscle and used to reduce bladder tone in treatment of urinary frequency and incontinence. Muscle relaxation caused by terodiline, is probably due to its anticholinergic and calcium antagonist activity.
+
+However, it also blocks IKr (Kv11.1) channels (see [[hERG]] gene) so can pose a risk for [[torsades de pointes]]. This cardiotoxicity is concentration dependent.<ref>{{cite journal|vauthors=Thomas SH, Higham PD, Hartigan-Go K, Kamali F, Wood P, Campbell RW, Ford GA |title=Concentration dependent cardiotoxicity of terodiline in patients treated for urinary incontinence| pmid=7662454 | volume=74|pmc=483946|journal=Br Heart J|pages=53–6|doi=10.1136/hrt.74.1.53}}</ref>
+
+==References==
+{{reflist}}
+
+{{Urologicals}}
+{{Ion channel modulators}}
+{{Muscarinic acetylcholine receptor modulators}}
+
+[[Category:Amines]]
+[[Category:Muscarinic antagonists]]
+[[Category:Tert-butyl compounds]]
+
+
+{{genito-urinary-drug-stub}}

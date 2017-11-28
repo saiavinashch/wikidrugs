@@ -1,0 +1,76 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 462655327
+| IUPAC_name = 1-[(''N''-methylpiperidin-2-yl)methyl]-2-methyl-3-(naphthalen-1-oyl)-6-nitroindole
+| image = AM-1221_structure.png
+| width = 200
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = Schedule II
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 335160-53-7 
+| ATC_prefix =  
+| ATC_suffix =  
+| PubChem = 11604318
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII = SHC6SNM293
+| UNII_Ref = {{fdacite|changed|FDA}}
+|  ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 26286945
+|  StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C27H27N3O3/c1-18-26(27(31)23-12-7-9-19-8-3-4-11-22(19)23)24-14-13-20(30(32)33)16-25(24)29(18)17-21-10-5-6-15-28(21)2/h3-4,7-9,11-14,16,21H,5-6,10,15,17H2,1-2H3
+|  StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = QGNIEJBBHMMNOZ-UHFFFAOYSA-N
+
+<!--Chemical data-->
+| C=27 | H=27 | N=3 | O=3 
+| molecular_weight = 441.521 g/mol
+| smiles = c5ccc2ccccc2c5C(=O)c(c4ccc([N](=O)=O)cc14)c(C)n1CC3CCCCN3C
+}}
+
+'''AM-1221''' is a drug that acts as a potent and selective [[agonist]] for the [[cannabinoid receptor]] [[Cannabinoid receptor 2|CB<sub>2</sub>]], with a [[Dissociation constant|''K''<sub>i</sub>]] of 0.28&nbsp;nM at CB<sub>2</sub> and 52.3&nbsp;nM at the [[Cannabinoid receptor 1|CB<sub>1</sub>]] receptor, giving it around 180x selectivity for CB<sub>2</sub>.<ref name="WO 2001 28557 A1">{{Ref patent2 |country= WO |number= 200128557 |status= granted |title= Cannabimimetic indole derivatives |pubdate= 2001-04-26 |gdate= 2001-06-07 |pridate= 1999-10-18 |inventor= Makriyannis A, Deng H }}</ref> The 2-[[methyl]] and 6-[[Nitro compound|nitro]] groups on the [[indole]] ring both tend to increase CB<sub>2</sub> affinity while generally reducing affinity at CB<sub>1</sub>, explaining the high CB<sub>2</sub> selectivity of AM-1221. However, despite this relatively high selectivity for CB<sub>2</sub>, its CB<sub>1</sub> affinity is still too strong to make it useful as a truly selective CB<sub>2</sub> agonist, so the related compound [[AM-1241]] is generally preferred for research purposes.<ref>{{Cite thesis |type=PhD. Dissertation |title=Design and synthesis of selective cannabinoid receptor ligands: Aminoalkylindole and other heterocyclic analogs |url=http://proquest.umi.com/pqdlink?did=726066941&Fmt=7&clientId=79356&RQT=309&VName=PQD |author=Hongfeng Deng |year=2000 |publisher=University of Connecticut }}</ref><ref>{{cite journal |last1= Manera |first1= C |last2= Tuccinardi |first2= T |last3= Martinelli |first3= A |title= Indoles and related compounds as cannabinoid ligands |journal= Mini reviews in medicinal chemistry |volume= 8 |issue= 4 |pages= 370–87 |year= 2008 |pmid= 18473928 |doi=10.2174/138955708783955935}}</ref>
+
+==See also==
+* [[AM-630]]
+* [[AM-1220]]
+* [[AM-1235]]
+* [[AM-2233]]
+* [[UR-144]]
+* [[N-(S)-Fenchyl-1-(2-morpholinoethyl)-7-methoxyindole-3-carboxamide|''N''-(''S'')-Fenchyl-1-(2-morpholinoethyl)-7-methoxyindole-3-carboxamide]]
+
+==References==
+{{reflist}}
+
+{{Cannabinoids}}
+
+[[Category:Cannabinoids]]
+[[Category:Naphthoylindoles]]
+[[Category:AM cannabinoids]]
+[[Category:Aminoalkylindoles]]
+[[Category:Nitrobenzenes]]
+[[Category:Piperidines]]
+[[Category:Designer drugs]]
+[[Category:CB1 receptor agonists]]
+[[Category:CB2 receptor agonists]]
+
+{{cannabinoid-stub}}

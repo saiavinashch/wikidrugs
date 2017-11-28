@@ -1,0 +1,72 @@
+{{Infobox drug
+| drug_name = 
+| IUPAC_name = [(2''S'',5''R'')-2-Carbamoyl-7-oxo-1,6-diazabicyclo[3.2.1]octan-6-yl] hydrogen sulfate
+| image = Avibactam structure 2.svg
+| width = 200px
+| image2 = Avibactam ball-and-stick model.png
+| alt = 
+| caption =
+
+<!-- Clinical data -->
+| tradename = Avycaz (formulated with ceftazidime)
+| Drugs.com = 
+| MedlinePlus = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = B
+| pregnancy_category= 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = Rx-only
+| legal_status =
+| routes_of_administration = [[Intravenous therapy|IV]]
+
+<!-- Pharmacokinetic data -->
+| bioavailability = 100% (intravenous)
+| protein_bound = 5.7–8.2%<ref>{{cite web|title=Full Prescribing Information: AVYCAZ™ (ceftazidime-avibactam) for Injection, for intravenous use|url=http://pi.actavis.com/data_stream.asp?product_group=1957&p=pi&language=E|publisher=©2015 Actavis. All rights reserved.|accessdate=1 June 2015}}</ref>
+| metabolism = Nil
+| onset = Increases in proportion to dose
+| elimination_half-life = 
+| excretion = [[Kidney|Renal]] (97%)
+
+<!-- Identifiers -->
+| CAS_number = 1192500-31-4
+| ATCvet = 
+| ATC_prefix = None
+| ATC_suffix =
+| PubChem = 9835049
+| ChEBI_Ref = {{ebicite|correct|EBI}} 
+| ChEBI = 85984
+| ChemSpiderID = 8010770
+| KEGG = D10340
+| DrugBank =
+
+<!-- Chemical data -->
+| chemical_formula =
+| C=7 | H=11 | N=3 | O=6 | S=1
+| molecular_weight  = 265.24 g/mol
+| smiles= [C@]12C[N@]([C@@H](CC1)C(N)=O)C(=O)N2OS(O)(=O)=O
+| ChEMBL = 1689063
+| StdInChI = 1S/C7H11N3O6S/c8-6(11)5-2-1-4-3-9(5)7(12)10(4)16-17(13,14)15/h4-5H,1-3H2,(H2,8,11)(H,13,14,15)/t4-,5+/m1/s1
+| StdInChIKey = NDCUAPJVLWFHHB-UHNVWZDZSA-N
+}}
+
+'''Avibactam''' is a non-[[β-lactam]] [[Β-Lactamase inhibitor|β-lactamase inhibitor]]<ref>{{Cite journal|last=Wang|first=David Yuxin|last2=Abboud|first2=Martine I|last3=Markoulides|first3=Marios S|last4=Brem|first4=Jürgen|last5=Schofield|first5=Christopher J|date=2016-06-01|title=The road to avibactam: the first clinically useful non-β-lactam working somewhat like a β-lactam|url=http://www.future-science.com/doi/abs/10.4155/fmc-2016-0078|journal=Future Medicinal Chemistry|volume=8|issue=10|pages=1063–1084|doi=10.4155/fmc-2016-0078|issn=1756-8919}}</ref> developed by [[Actavis]] (now [[Allergan, Plc|Allergan]]) jointly with [[AstraZeneca]]. A [[new drug application]] for avibactam in [[Ceftazidime/avibactam|combination with ceftazidime]] (branded as Avycaz) was approved by the FDA on February 25, 2015, for treating complicated [[Urinary tract infection|urinary tract]] (cUTI) and complicated intra-abdominal infections (cIAI) caused by [[Antibiotic resistance|antibiotic resistant-]]pathogens, including those caused by multi-drug resistant [[Gram-negative bacteria|Gram-negative]] bacterial pathogens.<ref>{{cite journal|last1=Zhanel|first1=GG|title=Ceftazidime-avibactam: a novel cephalosporin/β-lactamase inhibitor combination|journal=Drugs|date=2013|volume=73|issue=2|pages=159–77|doi=10.1007/s40265-013-0013-7|pmid=23371303}}</ref><ref>{{cite web|title=Actavis Announces FDA Acceptance of the NDA Filing for Ceftazidime-Avibactam, a Qualified Infectious Disease Product|url=http://www.actavis.com/news/news/thomson-reuters/actavis-announces-fda-acceptance-of-the-nda-filing|website=Actavis—a global, integrated specialty pharmaceutical company—Actavis|publisher=Actavis plc|accessdate=1 June 2015}}</ref><ref>{{cite journal|pmid=23913691|year=2013|last1=Ehmann|first1=DE|last2=Jahic|first2=H|last3=Ross|first3=PL|last4=Gu|first4=RF|last5=Hu|first5=J|last6=Durand-Réville|first6=TF|last7=Lahiri|first7=S|last8=Thresher|first8=J|last9=Livchak|first9=S|last10=Gao|first10=N|last11=Palmer|first11=T|last12=Walkup|first12=GK|last13=Fisher|first13=SL|title=Kinetics of Avibactam Inhibition against Class A, C, and D β-Lactamases|volume=288|issue=39|pages=27960–71|doi=10.1074/jbc.M113.485979|pmc=3784710|journal=The Journal of Biological Chemistry}}</ref>
+
+Increasing resistance to cephalosporins among Gram-(−) bacterial pathogens, especially among hospital-acquired infections, results in part from the production of [[Beta-lactamase|β-lactamase enzymes]] that deactivate these antibiotics. While the co-administration of a β-lactamase inhibitor can restore antibacterial activity to the cephalosporin, previously approved β-lactamase inhibitors such as [[tazobactam]] and [[clavulanic acid]] do not inhibit important classes of β-lactamases, including ''[[Klebsiella pneumoniae]]'' [[Beta-lactamase#Carbapenemases|carbapenemases]] (KPCs), [[New Delhi metallo-beta-lactamase 1|New Delhi metallo-β-lactamase 1]] (NDM-1), and [[Beta-lactamase#AmpC-type .CE.B2-lactamases .28Class C.29|AmpC-type β-lactamases]]. Whilst avibactam inhibits class A, class C, and, some, class D serine [[Beta-lactamase|β-lactamases]] (such as KPCs, AmpC), it has been reported to be a poor substrate/weak inhibitor of class B metallo-[[Beta-lactamase|β-lactamases]], such as VIM-2, VIM-4, SPM-1, BcII, NDM-1, Fez-1.<ref>{{Cite journal|last=Abboud|first=Martine I.|last2=Damblon|first2=Christian|last3=Brem|first3=Jürgen|last4=Smargiasso|first4=Nicolas|last5=Mercuri|first5=Paola|last6=Gilbert|first6=Bernard|last7=Rydzik|first7=Anna M.|last8=Claridge|first8=Timothy D. W.|last9=Schofield|first9=Christopher J.|date=2016-07-11|title=Interaction of Avibactam with Class B Metallo-β-lactamases|url=http://aac.asm.org/content/early/2016/07/08/AAC.00897-16|journal=Antimicrobial Agents and Chemotherapy|language=en|pages=AAC.00897–16|doi=10.1128/AAC.00897-16|issn=0066-4804|pmid=27401561|volume=60|pmc=5038302}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{cite journal|author1=T. Edeki |author2=J. Armstrong |author3=J. Li |title=Pharmacokinetics of Avibactam (AVI) and Ceftazidime (CAZ) Following Separate or Combined Administration in Healthy Volunteers |url=http://www.icaaconline.com/php/icaac2014abstracts/data/papers/2013/A/2013_A-1019.htm |deadurl=yes |archiveurl=https://web.archive.org/web/20160303213124/http://www.icaaconline.com/php/icaac2014abstracts/data/papers/2013/A/2013_A-1019.htm |archivedate=2016-03-03 |df= }}
+
+{{Cell wall disruptive antibiotics}}
+
+[[Category:Antibiotics]]
+[[Category:Beta-lactamase inhibitors]]
+[[Category:Organosulfates]]
+[[Category:Nitrogen heterocycles]]
+
+
+{{Antibiotic-stub}}

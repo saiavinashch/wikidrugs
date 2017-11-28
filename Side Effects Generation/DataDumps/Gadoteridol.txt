@@ -1,0 +1,65 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 461115982
+| IUPAC_name = gadolinium(+3) cation; 2-[4-(2-hydroxypropyl)-7,10-''bis''(2-oxido-2-oxoethyl)-1,4,7,10-tetrazacyclododec-1-yl]acetate
+| image = Gadoteridol.png
+| width = 150
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|gadoteridol}}
+| licence_US =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = [[Intravenous therapy|IV]]
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 120066-54-8
+| ATC_prefix = V08
+| ATC_suffix = CA04
+| ATC_supplemental =  
+| PubChem = 60714
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00597
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 54719
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0199MV609F
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01137
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 31643
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1200593
+<!--Chemical data-->
+| chemical_formula =
+| C=17 | H=29 | Gd=1 | N=4 | O=7
+| molecular_weight = 558.68 g/mol
+| smiles = [Gd+3].[O-]C(=O)CN1CCN(CCN(CCN(CC(O)C)CC1)CC([O-])=O)CC([O-])=O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H32N4O7.Gd/c1-14(22)10-18-2-4-19(11-15(23)24)6-8-21(13-17(27)28)9-7-20(5-3-18)12-16(25)26;/h14,22H,2-13H2,1H3,(H,23,24)(H,25,26)(H,27,28);/q;+3/p-3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = DPNNNPAKRZOSMO-UHFFFAOYSA-K
+| synonyms = <small>(10-(2-(hydroxy-κO)propyl)-1,4,7,10-tetraazacyclododecane-1,4,7-triacetato(3<sup>−</sup>)-κN1,κN4,κN7,κN10,κO1,κO4,κO7)-gadolinium</small>
+}}
+
+'''Gadoteridol''' ([[International Nonproprietary Name|INN]]) is a [[gadolinium-based MRI contrast agent]], used particularly in the imaging of the [[central nervous system]]. It is sold under the brand name '''ProHance'''.
+
+==References==
+*{{cite web | url = http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=6094 | title = Gadoteridol (ProHance) prescribing information (revised May 2007) | author = Bracco Diagnostic Inc. |date=May 2007 | accessdate = 2008-07-13 | publisher = U.S. [[National Library of Medicine]] | work = DailyMed}}
+
+{{pharma-stub}}
+{{Contrast media}}
+[[Category:Gadolinium compounds]]
+[[Category:MRI contrast agents]]

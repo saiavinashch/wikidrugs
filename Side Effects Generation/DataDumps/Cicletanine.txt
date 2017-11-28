@@ -1,0 +1,67 @@
+{{Drugbox
+| verifiedrevid = 441941315
+| IUPAC_name = 3-(4-Chlorophenyl)-6-methyl-1,3-dihydrofuro[3,4-c]pyridin-7-ol
+| image = Cycletanide.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|cicletanine}}
+| pregnancy_category =  
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 97.3%
+| metabolism =  
+| elimination_half-life = 7.9 h
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 89943-82-8
+| ATC_prefix = C03
+| ATC_suffix = BX03
+| ATC_supplemental =  
+| PubChem = 54910
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 49583
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = CHG7QC509W
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03487
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 191886
+
+<!--Chemical data-->
+| C=14 | H=12 | Cl=1 | N=1 | O=2 
+| molecular_weight = 261.703 g/mol
+| smiles = Clc1ccc(cc1)C3OCc2c3cnc(c2O)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C14H12ClNO2/c1-8-13(17)12-7-18-14(11(12)6-16-8)9-2-4-10(15)5-3-9/h2-6,14,17H,7H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = CVKNDPRBJVBDSS-UHFFFAOYSA-N
+}}
+'''Cicletanine''' is a [[furopyridine]] low-ceiling [[diuretic]] [[medication|drug]], usually used in the treatment of [[hypertension]].<ref>{{Cite book|title=Genetic Hypertension|author= Jean Sassard|year= 1992|publisher=John Libbey Eurotext|url= https://books.google.com/books?id=v4E_g_D6xCwC&pg=PA547&lpg=PA547&dq=Cicletanine|isbn=978-0-86196-313-3|postscript=<!--None-->}}</ref>  The drug is manufactured by [[Ipsen]] and marketed by [[Recordati]] (in France) under the trade name '''Tenstaten'''.
+
+It appears to be more potent in salt-sensitive hypertension.<ref name="pmid10694190">{{cite journal |author=Bagrov AY |title=Cicletanine reverses vasoconstriction induced by the endogenous sodium pump ligand, marinobufagenin, via a protein kinase C dependent mechanism |journal=J. Hypertens. |volume=18 |issue=2 |pages=209–15 |date=February 2000 |pmid=10694190 |doi= 10.1097/00004872-200018020-00012|url=http://meta.wkhealth.com/pt/pt-core/template-journal/lwwgateway/media/landingpage.htm?issn=0263-6352&volume=18&issue=2&spage=209 |author2=Dmitrieva RI |author3=Dorofeeva NA |display-authors=3 |last4=Fedorova |first4=Olga V. |last5=Lopatin |first5=Denis A. |last6=Lakatta |first6=Edward G. |last7=Droy-Lefaix |first7=Marie-Therese}}</ref>
+
+==Mechanism==
+It can inhibit [[protein kinase C]].<ref name="pmid12623951">{{cite journal |vauthors=Fedorova OV, Talan MI, Agalakova NI, Droy-Lefaix MT, Lakatta EG, Bagrov AY |title=Myocardial PKC beta2 and the sensitivity of Na/K-ATPase to marinobufagenin are reduced by cicletanine in Dahl hypertension |journal=Hypertension |volume=41 |issue=3 |pages=505–11 |date=March 2003 |pmid=12623951 |doi=10.1161/01.HYP.0000053446.43894.9F |url=http://hyper.ahajournals.org/cgi/pmidlookup?view=long&pmid=12623951}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.ipsen.com Ipsen Corporation]
+
+{{Diuretics}}
+
+[[Category:Diuretics]]
+[[Category:Furopyridines]]
+[[Category:Phenols]]
+[[Category:Chloroarenes]]
+
+
+{{cardiovascular-drug-stub}}

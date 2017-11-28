@@ -1,0 +1,80 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 477237907
+| IUPAC_name = N-[4-(4-acetamidophenyl)sulfonylphenyl]acetamide
+| image = Acedapsone.svg
+| alt = Skeletal formula of acedapsone
+| width = 250
+| image2 = Acedapsone-3D-spacefill.png
+| alt2 = Space-filling model of the acedapsone molecule
+| width2 = 250
+
+<!--Clinical data-->
+| tradename = Rodilone<br />Hansolar
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 77-46-3
+| ATC_prefix = none
+| ATC_suffix =
+| ATC_supplemental =
+| PubChem = 6477
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 6232
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0GZ72U84TN
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02751
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 154166
+
+<!--Chemical data-->
+| chemical_formula =
+| C=16 | H=16 | N=2 | O=4 | S=1
+| molecular_weight = 332.374 g/mol
+| smiles = CC(=O)NC1=CC=C(C=C1)S(=O)(=O)C2=CC=C(C=C2)NC(=O)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H16N2O4S/c1-11(19)17-13-3-7-15(8-4-13)23(21,22)16-9-5-14(6-10-16)18-12(2)20/h3-10H,1-2H3,(H,17,19)(H,18,20)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = AMTPYFGPPVFBBI-UHFFFAOYSA-N
+| melting_point = 290
+}}
+
+'''Acedapsone''' ([[International Nonproprietary Name|INN]]) is an [[antimicrobial]] drug, which also has [[antimalarial]] activity.
+
+Acedapsone, or 1399 F, is a diacetyl compound, derived from [[dapsone]]. It was synthesized and developed in 1937 by [[Ernest Fourneau]] and his team in the pharmaceutical chemistry laboratory of [[Pasteur Institute]],<ref>{{fr icon}} E. Fourneau, J. et Th. [[Jacques Tréfouël|Tréfouël]], [[Federico Nitti|F. Nitti]], [[Daniel Bovet|D. Bovet]], « Chimiothérapie de l'infection pneumococcique par la di-(p-acétylaminophényl)-sulfone (1399 F) », ''C. r. Acad. sci''., vol. 205, 1937, pp. 299-300.</ref> and it was marketed as Rodilone by the [[Rhône-Poulenc]] company.<ref>{{fr icon}} [[Marcel Delépine]], ''Ernest Fourneau (1872–1949) : Sa vie et son œuvre'', extrait du Bulletin de la Société chimique de France, Masson et Cie, 1950, pp.  64-67.</ref>
+
+It is a long-acting [[prodrug]] of dapsone. It is used for treating [[leprosy]].<ref name="pmid12862255">{{cite journal |vauthors=Shaw IN, Christian M, Jesudasan K, Kurian N, Rao GS |title=Effectiveness of multidrug therapy in multibacillary leprosy: a long-term follow-up of 34 multibacillary leprosy patients treated with multidrug regimens till skin smear negativity |journal=Lepr Rev |volume=74 |issue=2 |pages=141–7 |date=June 2003 |pmid=12862255 |doi= |url=}}</ref>
+
+It crystallises as pale yellow needles from [[diethyl ether]], and as leaflets from dilute [[ethanol]]. It is slightly soluble in water.
+== Synthesis ==
+[[File:Acedapsone synthesis.svg|thumb|center|500px|Acedapsone synthesis:<ref>{{Cite journal|doi=10.1021/jm00303a003|pmid=4892242|title=Repository drugs. IV. 4',4 ' ' ' -Sulfonylbisacetanilide (acedapsone, DADDS) and related sulfanilylanilides with prolonged antimalarial and antileprotic action|journal=Journal of Medicinal Chemistry|volume=12|issue=3|pages=357|year=1969|last1=Elslager|first1=Edward F.|last2=Gavrilis|first2=Zoe B.|last3=Phillips|first3=Annette A.|last4=Worth|first4=Donald F.}}</ref><ref>{{Cite journal|doi=10.1021/ja01265a060|title=Chemistry and Chemotherapy of 4,4′-Diaminodiphenylsulfone, 4-Amino-4′-hydroxy-diphenylsulfone and Related Compounds|journal=Journal of the American Chemical Society|volume=61|issue=10|pages=2763|year=1939|last1=Raiziss|first1=G. W.|last2=Clemence|first2=L. W.|last3=Severac|first3=M.|last4=Moetsch|first4=J. C.}}</ref><ref>{{Cite journal|doi=10.1002/cber.190804102131|title=Derivate desp-Nitrothiophenols|journal=Berichte der deutschen chemischen Gesellschaft|volume=41|issue=2|pages=2264|year=1908|last1=Fromm|first1=E.|last2=Wittmann|first2=J.}}</ref>]]
+Acedapsone is conveniently prepared by acetylation of dapsone.
+== References ==
+{{reflist}}
+
+{{Antimycobacterials}}
+
+[[Category:Sulfones]]
+[[Category:Withdrawn drugs]]
+
+
+{{antimicrobial-stub}}

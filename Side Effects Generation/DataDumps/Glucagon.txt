@@ -1,0 +1,82 @@
+{{About|the natural hormone|the medication|Glucagon (medication)}}
+{{Infobox_gene}}
+'''Glucagon''' is a [[peptide hormone]], produced by [[alpha cells]] of the [[pancreas]].  It works to raise the concentration of [[glucose]] and [[fat]] in the bloodstream, and is considered to be the main catabolic hormone of the body <ref>{{cite book|last1=Voet D, Voet JG.|title=Biochemistry|date=2011|publisher=Wiley|location=New York|edition=4th}}</ref>. It is also used as a [[Glucagon (medication)|medication]] to treat a number of health conditions. Its effect is opposite to that of [[insulin]], which lowers the extracellular glucose.<ref name="Campbell">{{cite book | vauthors = Reece J, Campbell N | title = Biology | edition = | publisher = Benjamin Cummings | location = San Francisco | year = 2002 | origyear = | pages = | quote = | isbn = 0-8053-6624-5 }}</ref>
+
+The pancreas releases glucagon when the concentration of glucose in the bloodstream falls too low. Glucagon causes the [[liver]] to convert stored [[glycogen]] into [[glucose]], which is released into the bloodstream.<ref>{{cite book | last1 = Orsay | first1 = Jonathan | name-list-format = vanc | title = Biology 1: Molecules | date = 2014 | publisher = Examkrackers Inc. | isbn = 978-1-893858-70-1 | page=77 }}</ref> High blood-glucose levels, on the other hand, stimulate the release of insulin. Insulin allows glucose to be taken up and used by insulin-dependent tissues. Thus, glucagon and insulin are part of a feedback system that keeps blood glucose levels stable. Glucagon increases energy expenditure and is elevated under conditions of stress.<ref>{{cite journal | vauthors = Jones BJ, Tan T, Bloom SR | title = Minireview: Glucagon in stress and energy homeostasis | journal = Endocrinology | volume = 153 | issue = 3 | pages = 1049–54 | date = March 2012 | pmid = 22294753 | pmc = 3281544 | doi = 10.1210/en.2011-1979 }}</ref> Glucagon belongs to [[Glucagon hormone family|the secritin family of hormones]].
+
+== Function ==
+Glucagon generally elevates the concentration of [[glucose]] in the [[blood]] by promoting [[gluconeogenesis]] and [[glycogenolysis]] <ref>{{cite book|last1=Voet D, Voet JG|title=Biochemistry.|date=2011|publisher=Wiley|location=New York|edition=4th}}</ref>. Glucagon also decreases fatty acid synthesis in adipose tissue and the liver, as well as promoting lipolysis in these tissues, which causes them to release fatty acids into circulation where they can be catabolised to generate energy in tissues such as skeletal muscle when required <ref>{{cite journal|last1=HABEGGER, K. M., HEPPNER, K. M., GEARY, N., BARTNESS, T. J., DIMARCHI, R. & TSCHÖP, M. H.|title=The metabolic actions of glucagon revisited.|journal=Nature reviews. Endocrinology|date=2010|volume=6|page=689-697}}</ref>. 
+
+Glucose is stored in the liver in the form of the [[polysaccharide]] glycogen, which is a  [[glucan]] (a polymer made up of glucose molecules). Liver cells ([[hepatocytes]]) have [[glucagon receptor]]s. When glucagon binds to the glucagon receptors, the liver cells convert the glycogen into individual glucose molecules and release them into the bloodstream, in a process known as [[glycogenolysis]]. As these stores become depleted, glucagon then encourages the liver and kidney to synthesize additional glucose by [[gluconeogenesis]]. Glucagon turns off [[glycolysis]] in the liver, causing glycolytic intermediates to be shuttled to gluconeogenesis.
+
+Glucagon also regulates the rate of glucose production through [[lipolysis]]. Glucagon induces [[lipolysis]] in humans under conditions of insulin suppression (such as [[diabetes mellitus type 1]]).<ref>{{cite journal | vauthors = Liljenquist JE, Bomboy JD, Lewis SB, Sinclair-Smith BC, Felts PW, Lacy WW, Crofford OB, Liddle GW | title = Effects of glucagon on lipolysis and ketogenesis in normal and diabetic men | journal = The Journal of Clinical Investigation | volume = 53 | issue = 1 | pages = 190–7 | date = January 1974 | pmid = 4808635 | pmc = 301453 | doi = 10.1172/JCI107537 | url = https://www.ncbi.nlm.nih.gov/pmc/articles/PMC301453/pdf/jcinvest00157-0198.pdf }}</ref>
+
+Glucagon production appears to be dependent on the central nervous system through pathways yet to be defined. In invertebrate animals, [[eyestalk]] removal has been reported to affect glucagon production. Excising the eyestalk in young crayfish produces glucagon-induced hyperglycemia.<ref name="Leinen_1983">{{cite journal | vauthors = Leinen RL, Giannini AJ | title = Effect of eyestalk removal on glucagon induced hyperglycemia in crayfish | journal = Society for Neuroscience Abstracts | year = 1983 | volume = 9 | pages = 604 }}</ref>
+
+== Mechanism of action ==
+
+[[File:Glucagon Activation.png|thumb|right|350px|Metabolic regulation of glycogen by glucagon.]]
+
+Glucagon binds to the [[glucagon receptor]], a [[G protein-coupled receptor]], located in the [[plasma membrane]]. The conformation change in the receptor activates [[G protein]]s, a heterotrimeric protein with α, β, and γ subunits. When the G protein interacts with the receptor, it undergoes a conformational change that results in the replacement of the [[guanosine diphosphate|GDP]] molecule that was bound to the α subunit with a [[guanosine triphosphate|GTP]] molecule. This substitution results in the releasing of the α subunit from the β and γ subunits.  The alpha subunit specifically activates the next enzyme in the cascade, [[adenylate cyclase]].
+
+Adenylate cyclase manufactures [[cyclic adenosine monophosphate]] (cyclic AMP or cAMP), which activates [[protein kinase A]] (cAMP-dependent protein kinase). This enzyme, in turn, activates [[phosphorylase kinase]], which then phosphorylates [[glycogen phosphorylase]] b, converting it into the active form called phosphorylase a. Phosphorylase a is the enzyme responsible for the release of [[glucose-1-phosphate]] from glycogen polymers.
+
+Additionally, the coordinated control of glycolysis and gluconeogenesis in the liver is adjusted by the phosphorylation state of the enzymes that catalyze the formation of a potent activator of glycolysis called fructose-2,6-bisphosphate.<ref name="Hue L & Rider MH_1987">{{cite journal | vauthors = Hue L, Rider MH | title = Role of fructose 2,6-bisphosphate in the control of glycolysis in mammalian tissues | journal = The Biochemical Journal | volume = 245 | issue = 2 | pages = 313–24 | date = July 1987 | pmid = 2822019 | pmc = 1148124 | doi =  }}</ref> The enzyme protein kinase A that was stimulated by the cascade initiated by glucagon will also phosphorylate a single serine residue of the bifunctional polypeptide chain containing both the enzymes fructose-2,6-bisphosphatase and phosphofructokinase-2. This covalent phosphorylation initiated by glucagon activates the former and inhibits the latter. This regulates the reaction catalyzing fructose-2,6-bisphosphate (a potent activator of phosphofructokinase-1, the enzyme that is the primary regulatory step of glycolysis)<ref name="Claus, TH et al_1984">{{cite journal | vauthors = Claus TH, El-Maghrabi MR, Regen DM, Stewart HB, McGrane M, Kountz PD, Nyfeler F, Pilkis J, Pilkis SJ | title = The role of fructose 2,6-bisphosphate in the regulation of carbohydrate metabolism | journal = Current Topics in Cellular Regulation | volume = 23 | issue =  | pages = 57–86 | year = 1984 | pmid = 6327193 | doi = 10.1016/b978-0-12-152823-2.50006-4 }}</ref> by slowing the rate of its formation, thereby inhibiting the flux of the glycolysis pathway and allowing gluconeogenesis to predominate. This process is reversible in the absence of glucagon (and thus, the presence of insulin).
+
+Glucagon stimulation of PKA also inactivates the glycolytic enzyme [[pyruvate kinase]] in hepatocytes.<ref name="Feliu JE, Hue L & Hers HG_1976">{{cite journal | vauthors = Feliú JE, Hue L, Hers HG | title = Hormonal control of pyruvate kinase activity and of gluconeogenesis in isolated hepatocytes | journal = Proceedings of the National Academy of Sciences of the United States of America | volume = 73 | issue = 8 | pages = 2762–6 | date = August 1976 | pmid = 183209 | pmc = 430732 | doi = 10.1073/pnas.73.8.2762 }}</ref>
+
+== Physiology ==
+
+=== Production ===
+[[Image:Glucagon rednblue.png|thumb|A microscopic image stained for glucagon]]
+The hormone is synthesized and secreted from [[alpha cell]]s (α-cells) of the [[islets of Langerhans]], which are located in the endocrine portion of the pancreas. Production, which is otherwise freerunning, is suppressed/regulated by insulin from the adjacent beta cells. When blood sugar drops, insulin production drops and more glucagon is produced<ref name = "Unger_2012" /> In rodents, the alpha cells are located in the outer rim of the islet. Human islet structure is much less segregated, and alpha cells are distributed throughout the islet in close proximity to beta cells. Glucagon is also produced by alpha cells in the stomach.<ref name = "Unger_2012">{{cite journal | vauthors = Unger RH, Cherrington AD | title = Glucagonocentric restructuring of diabetes: a pathophysiologic and therapeutic makeover | journal = The Journal of Clinical Investigation | volume = 122 | issue = 1 | pages = 4–12 | date = January 2012 | pmid = 22214853 | pmc = 3248306 | doi = 10.1172/JCI60016 }}</ref>
+
+Recent research has demonstrated that glucagon production may also take place outside the pancreas, with the gut being the most likely site of extrapancreatic glucagon synthesis.<ref>{{cite journal | vauthors = Holst JJ, Holland W, Gromada J, Lee Y, Unger RH, Yan H, Sloop KW, Kieffer TJ, Damond N, Herrera PL | title = Insulin and Glucagon: Partners for Life | journal = Endocrinology | volume = 158 | issue = 4 | pages = 696–701 | date = April 2017 | pmid = 28323959 | doi = 10.1210/en.2016-1748 | url = https://academic.oup.com/endo/article/2965091 }}</ref>
+
+=== Regulation ===
+Secretion of glucagon is stimulated by:
+* [[Hypoglycemia]]
+* [[Epinephrine]] (via β2, α2,<ref name="Layden_2010">{{cite journal | vauthors = Layden BT, Durai V, Lowe WL | title = G-Protein-Coupled Receptors, Pancreatic Islets, and Diabetes | journal = Nature Education | volume = 3 | issue = 9 | pages = 13 | year = 2010 | url = http://www.nature.com/scitable/topicpage/g-protein-coupled-receptors-pancreatic-islets-and-14257267 }}</ref> and α1<ref name=alpha1and2>{{cite journal | vauthors = Skoglund G, Lundquist I, Ahrén B | title = Alpha 1- and alpha 2-adrenoceptor activation increases plasma glucagon levels in the mouse | journal = European Journal of Pharmacology | volume = 143 | issue = 1 | pages = 83–8 | date = November 1987 | pmid = 2891547 | doi = 10.1016/0014-2999(87)90737-0 }}</ref> adrenergic receptors)
+* [[Arginine]]
+* [[Alanine]] (often from muscle-derived pyruvate/glutamate transamination (see [[alanine transaminase]] reaction).
+* [[Acetylcholine]]<ref name="HoneyWEIRf1980">{{cite journal | vauthors = Honey RN, Weir GC | title = Acetylcholine stimulates insulin, glucagon, and somatostatin release in the perfused chicken pancreas | journal = Endocrinology | volume = 107 | issue = 4 | pages = 1065–8 | date = October 1980 | pmid = 6105951 | doi = 10.1210/endo-107-4-1065 }}</ref>
+* [[Cholecystokinin]]
+
+Secretion of glucagon is inhibited by:
+* [[Somatostatin]]
+* [[Insulin]] (via [[GABA]])<ref name="pmid16399504">{{cite journal | vauthors = Xu E, Kumar M, Zhang Y, Ju W, Obata T, Zhang N, Liu S, Wendt A, Deng S, Ebina Y, Wheeler MB, Braun M, Wang Q | title = Intra-islet insulin suppresses glucagon release via GABA-GABAA receptor system | journal = Cell Metabolism | volume = 3 | issue = 1 | pages = 47–58 | date = January 2006 | pmid = 16399504 | doi = 10.1016/j.cmet.2005.11.015 }}</ref>
+* [[Peroxisome proliferator-activated receptor gamma|PPARγ]]/[[retinoid X receptor]] [[protein dimer|heterodimer]].<ref name="pmid17962386">{{cite journal | vauthors = Krätzner R, Fröhlich F, Lepler K, Schröder M, Röher K, Dickel C, Tzvetkov MV, Quentin T, Oetjen E, Knepel W | title = A peroxisome proliferator-activated receptor gamma-retinoid X receptor heterodimer physically interacts with the transcriptional activator PAX6 to inhibit glucagon gene transcription | journal = Molecular Pharmacology | volume = 73 | issue = 2 | pages = 509–17 | date = February 2008 | pmid = 17962386 | doi = 10.1124/mol.107.035568 }}</ref>
+* Increased free [[fatty acids]] and [[keto acids]] into the blood.<ref name="Johnson2003">{{cite book | first = Leonard R. | last = Johnson | name-list-format = vanc | title = Essential Medical Physiology | year = 2003 | publisher = Academic Press | isbn = 978-0-12-387584-6 | pages = 643– }}</ref>
+* Increased [[urea]] production
+
+== Structure ==
+Glucagon is a 29-[[amino acid]] [[polypeptide]]. Its [[primary structure]] in humans is: [[amine|NH<sub>2</sub>]]-[[Histidine|His]]-[[Serine|Ser]]-[[Glutamine|Gln]]-[[Glycine|Gly]]-[[Threonine|Thr]]-[[Phenylalanine|Phe]]-[[Threonine|Thr]]-[[Serine|Ser]]-[[Aspartic acid|Asp]]-[[Tyrosine|Tyr]]-[[Serine|Ser]]-[[Lysine|Lys]]-[[Tyrosine|Tyr]]-[[Leucine|Leu]]-[[Aspartic acid|Asp]]-[[Serine|Ser]]-[[Arginine|Arg]]-[[Arginine|Arg]]-[[Alanine|Ala]]-[[Glutamine|Gln]]-[[Aspartic acid|Asp]]-[[Phenylalanine|Phe]]-[[Valine|Val]]-[[Glutamine|Gln]]-[[Tryptophan|Trp]]-[[Leucine|Leu]]-[[Methionine|Met]]-[[Asparagine|Asn]]-[[Threonine|Thr]]-[[carboxyl group|COOH]].
+
+The polypeptide has a [[molecular weight]] of 3485 [[Atomic mass unit|dalton]]s.<ref>{{cite journal | vauthors = Unger RH, Orci L | title = Glucagon and the A cell: physiology and pathophysiology (first two parts) | journal = The New England Journal of Medicine | volume = 304 | issue = 25 | pages = 1518–24 | date = June 1981 | pmid = 7015132 | doi = 10.1056/NEJM198106183042504 }}</ref> Glucagon is a [[peptide]] (non[[steroid]]) hormone.
+
+Glucagon is generated from the cleavage of [[proglucagon]] by [[proprotein convertase 2]] in pancreatic islet α cells. In intestinal [[L cell]]s, [[proglucagon]] is cleaved to the alternate products [[glicentin]], [[GLP-1]] (an [[incretin]]), [[Intervening peptide 2|IP-2]], and [[GLP-2]] (promotes intestinal growth).<ref name="pmid3446554">{{cite journal | vauthors = Orskov C, Holst JJ, Poulsen SS, Kirkegaard P | title = Pancreatic and intestinal processing of proglucagon in man | journal = Diabetologia | volume = 30 | issue = 11 | pages = 874–81 | date = November 1987 | pmid = 3446554 | doi = 10.1007/BF00274797 }}</ref>
+
+== Pathology ==
+Abnormally elevated levels of glucagon may be caused by pancreatic [[tumor]]s, such as [[glucagonoma]], symptoms of which include [[necrolytic migratory erythema]], reduced amino acids, and [[hyperglycemia]]. It may occur alone or in the context of [[multiple endocrine neoplasia type 1]].
+
+== History ==
+In the 1920s, Kimball and Murlin studied [[pancreas|pancreatic]] extracts, and found an additional substance with [[hyperglycemia|hyperglycemic]] properties. They described glucagon in 1923.<ref name="Kimball_1923">{{cite journal | vauthors = Kimball C, Murlin J | title = Aqueous extracts of pancreas III. Some precipitation reactions of insulin | journal = J. Biol. Chem. | year = 1923 | volume = 58 | pages = 337–348 | url = http://www.jbc.org/cgi/reprint/58/1/337 | issue=1}}</ref> The amino acid sequence of glucagon was described in the late 1950s.<ref name="Bromer_1957">{{cite journal | vauthors = Bromer W, Winn L, Behrens O | title = The amino acid sequence of glucagon V. Location of amide groups, acid degradation studies and summary of sequential evidence | journal = J. Am. Chem. Soc. | year = 1957 | volume = 79 | issue = 11 | pages = 2807–2810|doi=10.1021/ja01568a038 }}</ref> A more complete understanding of its role in physiology and disease was not established until the 1970s, when a specific [[radioimmunoassay]] was developed.
+
+=== Etymology ===
+Kimball and Murlin coined the term glucagon in 1923 when they initially named the substance the ''gluc''ose ''agon''ist. <ref>{{Cite web|url=https://www.diapedia.org/metabolism-insulin-and-other-hormones/5105141812/history-of-glucagon|title=History of glucagon - Metabolism, insulin and other hormones - Diapedia, The Living Textbook of Diabetes|website=www.diapedia.org|language=en|access-date=2017-03-26}}</ref>
+
+== See also ==
+{{div col||20em|small=yes}}
+* [[Cortisol]]
+* [[Diabetes mellitus]]
+* [[Glucagon-like peptide-1]]
+* [[Glucagon-like peptide-2]]
+* [[Insulin]]
+* [[Islets of Langerhans]]
+* [[Pancreas]]
+* [[Proglucagon]]
+* [[Tyrosine kinase]]
+{{div col end}}
+
+== References ==
+{{Reflist|30em}}

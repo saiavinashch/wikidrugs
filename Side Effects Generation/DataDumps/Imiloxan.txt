@@ -1,0 +1,67 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 383752803
+| IUPAC_name = (''RS'')-2-(2,3-dihydro-1,4-benzodioxin-2-ylmethyl)-1-ethylimidazole
+| image = Imiloxan.png
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| IUPHAR_ligand = 3470
+| CAS_number_Ref = {{cascite|correct|??}}
+| ATC_prefix = none
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem = 133621
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = ZJ56PS1DWK
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 578481
+| CAS_number = 81167-16-0
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 117866
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C14H16N2O2/c1-2-16-8-7-15-14(16)9-11-10-17-12-5-3-4-6-13(12)18-11/h3-8,11H,2,9-10H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = UXABARREKCJULM-UHFFFAOYSA-N
+<!--Chemical data-->
+| chemical_formula =
+| C=14 | H=16 | N=2 | O=2
+| molecular_weight = 244.289 g/mol
+| smiles = CCN1C=CN=C1CC2COC3=CC=CC=C3O2
+}}
+
+'''Imiloxan''' is a drug which is used in [[scientific research]]. It acts as a selective [[Receptor antagonist|antagonist]] for the [[Alpha-2B adrenergic receptor|α<sub>2B</sub>]] [[adrenergic receptor]],<ref name="pmid1970500">{{cite journal |vauthors=Michel AD, Loury DN, Whiting RL |title=Assessment of imiloxan as a selective alpha 2B-adrenoceptor antagonist |journal=[[British Journal of Pharmacology]] |volume=99 |issue=3 |pages=560–4 |date=March 1990 |pmid=1970500 |pmc=1917331 |doi= 10.1111/j.1476-5381.1990.tb12968.x|url=}}</ref> and has been useful for distinguishing the actions of the different α<sub>2</sub> adrenergic subtypes.<ref name="pmid17109851">{{cite journal |vauthors=Cobos-Puc LE, Villalón CM, Sánchez-López A, Lozano-Cuenca J, Pertz HH, Görnemann T, Centurión D |title=Pharmacological evidence that alpha2A- and alpha2C-adrenoceptors mediate the inhibition of cardioaccelerator sympathetic outflow in pithed rats |journal=European Journal of Pharmacology |volume=554 |issue=2–3 |pages=205–11 |date=January 2007 |pmid=17109851 |doi=10.1016/j.ejphar.2006.09.068 |url=}}</ref><ref name="pmid19236861">{{cite journal |vauthors=Romero TR, de Castro Perez A, de Francischi JN, Gama Duarte ID |title=Probable involvement of alpha(2C)-adrenoceptor subtype and endogenous opioid peptides in the peripheral antinociceptive effect induced by xylazine |journal=European Journal of Pharmacology |volume=608 |issue=1–3 |pages=23–7 |date=April 2009 |pmid=19236861 |doi=10.1016/j.ejphar.2009.02.019 |url=}}</ref>
+
+==Synthesis==
+[[File:Imiloxan synthesis.svg|700px|center|thumb|Imiloxan Synthesis:<ref>{{Cite journal|doi=10.1021/jm00348a012|title=Structure-activity relationships for 2-substituted imidazoles as .alpha.2-adrenoceptor antagonists|pmid=6124635|year=1982|last1=Caroon|first1=Joan M.|last2=Clark|first2=Robin D.|last3=Kluge|first3=Arthur F.|last4=Olah|first4=Ronald|last5=Repke|first5=David B.|last6=Unger|first6=Stefan H.|last7=Michel|first7=Anton D.|last8=Whiting|first8=Roger L.|journal=Journal of Medicinal Chemistry|volume=25|issue=6|pages=666–70}}</ref>]]
+
+The [[imidazole]] portion of imiloxan is prepared by the reaction of an [[imidate]] with the diethyl acetal of aminoacetaldehyde. ''N''-Alkylation of the imidazole with [[ethyl iodide]] gives imiloxan.
+
+==References==
+{{reflist}}
+
+{{Alpha blockers}}
+
+[[Category:Imidazolines]]
+[[Category:Alpha blockers]]
+[[Category:Benzodioxins]]
+
+
+{{antihypertensive-stub}}

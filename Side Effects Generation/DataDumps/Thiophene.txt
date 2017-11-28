@@ -1,0 +1,142 @@
+{{cleanup|reason=ref-formatting. Hard to tell what are first vs last, vs multiple last, etc|date=March 2017}}
+{{chembox
+| Watchedfields = changed
+| verifiedrevid = 477174322
+| Name = Thiophene
+| ImageFileL1_Ref = {{chemboximage|correct|??}}
+| ImageFileL1 = Thiophene-2D-full.svg
+| ImageNameL1 = Full displayed formula of thiophene
+| ImageFileR1_Ref = {{chemboximage|correct|??}}
+| ImageFileR1 = Thiophene-2D-numbered.svg
+| ImageNameR1 = Skeletal formula showing numbering convention
+| ImageFileL2 = Thiophene-CRC-MW-3D-balls-A.png
+| ImageNameL2 = Ball-and-stick model
+| ImageFileR2 = Thiophene-CRC-MW-3D-vdW.png
+| ImageNameR2 = Space-filling model
+| PIN = Thiophene <!-- Nomenclature of Organic Chemistry – IUPAC Recommendations and Preferred Names 2013 (Blue Book) -->
+| OtherNames = Thiofuran<br />Thiacyclopentadiene <br />Thiole
+|Section1={{Chembox Identifiers
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 30856
+| SMILES = c1ccsc1
+| PubChem = 8030
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 7739
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = SMB37IQ40B
+| InChI = 1/C4H4S/c1-2-4-5-3-1/h1-4H
+| InChIKey = YTPLMLYBLZKORZ-UHFFFAOYAY
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 278958
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C4H4S/c1-2-4-5-3-1/h1-4H
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YTPLMLYBLZKORZ-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo = 110-02-1
+| RTECS = XM7350000
+ }}
+|Section2={{Chembox Properties
+| Formula = C<sub>4</sub>H<sub>4</sub>S
+| MolarMass = 84.14 g/mol
+| Appearance = colorless liquid
+| Density = 1.051 g/mL, liquid
+| MeltingPtC = −38
+| BoilingPtC = 84
+| Viscosity = 0.8712 c[[Poise|P]] at 0.2&nbsp;°C<br>0.6432  c[[Poise|P]] at 22.4&nbsp;°C
+| RefractIndex = 1.5287
+| MagSus = -57.38·10<sup>−6</sup> cm<sup>3</sup>/mol
+ }}
+|Section3={{Chembox Structure
+| Dipole =
+ }}
+|Section7={{Chembox Hazards
+| ExternalSDS = [http://physchem.ox.ac.uk/MSDS/TH/thiophene.html External MSDS], [http://www.mathesongas.com/pdfs/msds/MAT23380.pdf External MSDS]
+| EUClass = not listed
+| NFPA-H = 2
+| NFPA-F = 3
+| NFPA-R =
+| FlashPtC = −1
+ }}
+|Section8={{Chembox Related
+| OtherFunction_label = [[thioether]]s
+| OtherFunction = [[Tetrahydrothiophene]]<br>[[Diethyl sulfide]]
+| OtherCompounds = [[Furan]]<br>[[Pyrrole]]
+  }}
+}}
+
+'''Thiophene''', also commonly called '''thiofuran''', is a [[heterocyclic compound]] with the formula C<sub>4</sub>H<sub>4</sub>S. Consisting of a flat five-membered ring, it is [[aromaticity|aromatic]] as indicated by its extensive [[substitution reactions]]. Related to thiophene are [[benzothiophene]] and [[dibenzothiophene]], containing the thiophene ring [[fused-ring compound|fused]] with one and two [[benzene]] rings, respectively.  Compounds analogous to thiophene include [[furan]] (C<sub>4</sub>H<sub>4</sub>O) and [[pyrrole]] (C<sub>4</sub>H<sub>4</sub>NH), which each vary by the [[heteroatom]] in the ring.
+
+==Isolation and occurrence==
+Thiophene was discovered as a contaminant in benzene.<ref>{{cite journal| first = Viktor | last = Meyer | title = Ueber den Begleiter des Benzols im Steinkohlenteer | trans_title = On a substance that accompanies benzene in coal tar | journal = [[Berichte der Deutschen Chemischen Gesellschaft]] | year = 1883 | volume = 16 | pages = 1465–1478 | url = http://gallica.bnf.fr/ark:/12148/bpt6k90696b/f1470.chemindefer | doi = 10.1002/cber.188301601324}}</ref>  It was observed that [[isatin]] (an [[indole]]) forms a blue [[dye]] if it is mixed with [[sulfuric acid]] and crude benzene. The formation of the blue indophenin had long been believed to be a reaction of benzene itself. [[Viktor Meyer]] was able to isolate thiophene as the actual substance responsible for this reaction.<ref>{{cite journal| last = Ward C. | first = Sumpter | title = The Chemistry of Isatin | journal = [[Chemical Reviews]] | year = 1944 | volume = 34 | issue = 3 | pages = 393–434 | doi = 10.1021/cr60109a003}}</ref>
+
+Thiophene and its derivatives occur in [[petroleum]], sometimes in concentrations up to 1–3%. The thiophenic content of [[Petroleum|oil]] and [[coal]] is removed via the [[hydrodesulfurization]] (HDS) process. In HDS, the liquid or gaseous feed is passed over a form of [[molybdenum disulfide]] catalyst under a pressure of H<sub>2</sub>. Thiophenes undergo hydrogenolysis to form [[hydrocarbons]] and [[hydrogen sulfide]].  Thus, thiophene itself is converted to butane and H<sub>2</sub>S.  More prevalent and more problematic in petroleum are [[benzothiophene]] and [[dibenzothiophene]].
+
+==Synthesis and production==
+Reflecting their high stabilities, thiophenes arise from many reactions involving sulfur sources and hydrocarbons, especially unsaturated ones, e.g. acetylenes and elemental sulfur, which was the first synthesis of thiophene by Meyer the same year that he reported its discovery. Thiophenes are classically prepared by the reaction of 1,4-di[[ketone]]s, diesters, or dicarboxylates with sulfidizing reagents such as P<sub>4</sub>S<sub>10</sub> such as in the [[Paal–Knorr synthesis|Paal-Knorr thiophene synthesis]].  Specialized thiophenes can be synthesized similarly using [[Lawesson's reagent]] as the sulfidizing agent, or via the [[Gewald reaction]], which involves the condensation of two [[esters]] in the presence of elemental sulfur. Another method is the [[Volhard–Erdmann cyclization]].
+
+Thiophene is produced on a scale of around 2,000,000 kilograms per year worldwide. Production involves the vapor phase reaction of a sulfur source, typically [[carbon disulfide]], and [[n-Butanol|butanol]].  These reagents are contacted with an oxide catalyst at 500–550&nbsp;°C.<ref name="Ullmann">{{cite book| first = Jonathan | last = Swanston |chapter = Thiophene | title = Ullmann’s Encyclopedia of Industrial Chemistry | publisher = Wiley-VCH | location = Weinheim | date = 2006 | DOI = 10.1002/14356007.a26_793.pub2}}.</ref>
+
+==Properties==
+At room temperature, thiophene is a colorless liquid with a mildly pleasant odor reminiscent of [[benzene]], with which thiophene shares some similarities.  The high reactivity of thiophene toward sulfonation is the basis for the separation of thiophene from benzene, which are difficult to separate by [[distillation]] due to their similar boiling points (4&nbsp;°C difference at ambient pressure).  Like benzene, thiophene forms an [[azeotrope]] with ethanol.
+
+The molecule is flat; the bond angle at the sulphur is around 93°, the C–C–S angle is around 109°, and the other two carbons have a bond angle around 114°. The C–C bonds to the carbons adjacent to the sulphur are about 1.34&nbsp;[[Ångström|Å]], the C–S bond length is around 1.70&nbsp;Å, and the other C–C bond is about 1.41&nbsp;Å (figures from the Cambridge Structural Database).
+
+==Reactivity==
+Thiophene is considered to be aromatic, although theoretical calculations suggest that the degree of aromaticity is less than that of benzene. The "electron pairs" on sulfur are significantly [[delocalized]] in the [[pi electron]] system.  As a consequence of its aromaticity, thiophene does not exhibit the properties seen for conventional [[thioether]]s.  For example, the sulfur atom resists alkylation and oxidation. However, oxidation of a thiophene ring is thought to play a crucial role in the metabolic activation of various thiophene-containing drugs, such as [[tienilic acid]] and the investigational anticancer drug OSI-930. In these cases oxidation can occur both at sulfur, giving a thiophene ''S''-oxide, as well as at the 2,3-double bond, giving the thiophene 2,3-epoxide, followed by subsequent [[NIH shift]] rearrangement.<ref>{{cite journal |author=Mansuy, D., Valadon, P., Erdelmeier, I., López García, P., Amar, C., Girault, J. P., and Dansette, P. M.|year=1991|title= Thiophene ''S''-oxides as new reactive metabolites: Formation by cytochrome-P450 dependent oxidation and reaction with nucleophiles|journal= J. Am. Chem. Soc.|volume= 113| issue=20| pages = 7825–7826 | doi = 10.1021/ja00020a089}}</ref><ref>{{cite journal |author=Treiber, A., Dansette, P. M., Amri, H. E., Girault, J.-P., Ginderow, D., Mornon, J.-P., Mansuy, D.|year=1997|title= Chemical and Biological Oxidation of Thiophene:  Preparation and Complete Characterization of Thiophene ''S-Oxide'' Dimers and Evidence for Thiophene ''S''-Oxide as an Intermediate in Thiophene Metabolism ''in Vivo'' and ''in Vitro''|journal= J. Am. Chem. Soc.|volume= 119|issue=7| pages = 1565–1571 | doi = 10.1021/ja962466g|last2=Dansette|last3=El Amri|last4=Girault|last5=Ginderow|last6=Mornon|last7=Mansuy}}</ref><ref>{{cite journal |author=Rademacher P. M., Woods C. M., Huang Q., Szklarz G. D., Nelson S. D. |year=2012|title=Differential Oxidation of Two Thiophene-Containing Regioisomers to Reactive Metabolites by Cytochrome P450 2C9| journal=Chem. Res. Toxicol.|volume=25 |issue=4|pages=895–903| doi =10.1021/tx200519d |pmid=22329513|pmc=3339269|last2=Woods|last3=Huang|last4=Szklarz|last5=Nelson}}</ref><ref>{{cite journal |author=Mansuy D., Dansette P. M. |year=2011|title=Sulfenic acids as reactive intermediates in xenobiotic metabolism |journal=Archives of Biochemistry and Biophysics |volume=507 |issue=1|pages=174–185|id= |doi=10.1016/j.abb.2010.09.015|pmid=20869346|last2=Dansette}}</ref><ref>{{ cite journal | author = Dansette, PM, Rosi, J,  Debernardi, J, Bertho G, Mansuy D  | journal = [[Chem. Res. Toxicol.]] | year = 2012 | volume = 25 | pages = 1058–1065 | doi = 10.1021/tx3000279 | title =Metabolic Activation of Prasugrel: Nature of the Two Competitive Pathways Resulting in the Opening of Its Thiophene Ring | issue = 5 | last2 = Rosi | last3 = Debernardi | last4 = Bertho | last5 = Mansuy }}</ref>  Oxidation of thiophene by [[trifluoroperacetic acid]] also demonstrates both reaction pathways.  The major pathway forms the ''S''-oxide as an intermediate, which undergoes subsequent [[Diels-Alder reaction|Diels-Alder]]-type [[dimerization (chemistry)|dimerisation]] and further oxidation, forming a mixture of [[sulfoxide]] and [[sulfone]] products with a combined yield of 83% (based on [[NMR]] evidence):<ref name = ThiopheneOxidation>{{cite journal|title = Mechanism of the Aromatic Hydroxylation of Thiophene by Acid-Catalyzed Peracid Oxidation|first = Alexander|last = Treiber|journal = [[J. Org. Chem.]]|year = 2002|volume = 67|issue = 21|pages = 7261–7266|doi = 10.1021/jo0202177}}</ref><ref name = eEROS>{{cite encyclopedia|doi = 10.1002/047084289X.rt254.pub2|encyclopedia = [[Encyclopedia of Reagents for Organic Synthesis|e-EROS Encyclopedia of Reagents for Organic Synthesis]]|title = Trifluoroperacetic Acid|first1 = Kenneth C.|last1 = Caster|first2 = A. Somasekar|last2 = Rao|first3 = H. Rama|last3 = Mohan|first4 = Nicholas A.|last4 = McGrath|first5 = Matthew|last5 = Brichacek|year = 2012}}</ref>
+
+[[File:Oxidation of thiophene with trifluoroperacetic acid.png|frameless|center|500px]]
+
+In the minor reaction pathway, a [[Prilezhaev reaction|Prilezhaev epoxidation]]<ref>{{cite book|chapter = Prilezhaev reaction|pages = 274–281|last = Hagen|first = Timothy J.|url = https://books.google.com.au/books?id=WZ0DxnPNAdAC&pg=PA274|title = Name Reactions of Functional Group Transformations|editor1-first = Jie Jack|editor1-last = Li|editor2-first = E. J.|editor2-last = Corey|editor2-link = Elias James Corey|publisher = [[John Wiley & Sons]]|year = 2007|isbn = 9780470176504}}</ref> results in the formation of thiophene-2,3-epoxide that rapidly [[rearrangement reaction|rearranges]] to the [[isomer]] thiophene-2-one.<ref name = ThiopheneOxidation />  [[Trapping experiments]]<ref>{{cite book|pages = 471–482|chapter = 8.8 Miscellaneous Experiments for Studying Mechanism|url = https://books.google.com.au/books?id=gY-Sxijk_tMC&pg=PA474|title = Modern Physical Organic Chemistry|first1 = Eric V.|last1 = Anslyn|first2 = Dennis A.|last2 = Dougherty|authorlink1 = Eric V. Anslyn|authorlink2 = Dennis A. Dougherty|publisher = [[University Science Books]]|year = 2006|isbn = 9781891389313}}</ref> demonstrate that this pathway is not a [[side reaction]] from the ''S''-oxide intermediate, while [[isotopic labeling]] with [[deuterium]] confirm that a [[Sigmatropic reaction|1,2-hydride shift]] occurs and thus that a cationic intermediate is involved.<ref name = ThiopheneOxidation />  Trifluoroperacetic acid is prepared immediately prior to use, and the method chosen determines whether or not [[water]] is present;<ref name = eEROS /><ref>{{OrgSynth|first1 = Harold|last1 = Hart|first2 = Richard M.|last2 = Lange|first3 = Peter M.|last3 = Collins|year = 1968|volume = 48|page = 87|doi = 10.15227/orgsyn.048.0087|title = 2,3,4,5,6,6-Hexamethyl-2,4-cyclohexadien-1-one|prep = cv5p0598|collvol = 5|collvolpages = 598}}</ref><ref>{{cite book|pages = 255–257|chapter = 8.2 Trifluoroacetic acid and Trifluoroperacetic acid|title = Organofluorine Compounds: Chemistry and Applications|first = Tamejiro|last = Hiyama|publisher = [[Springer Science & Business Media]]|year = 2000|isbn = 9783662041642|url = https://books.google.com.au/books?id=A1b-CAAAQBAJ&pg=PA255}}</ref> if the reaction mixture is not [[anhydrous]], this minor reaction pathway is suppressed as water acts as a competing base.<ref name = ThiopheneOxidation />
+
+===Toward electrophiles===
+Although the sulfur atom is relatively unreactive, the flanking carbon centers, the 2- and 5-positions, are highly susceptible to attack by [[electrophile]]s.  Halogens give initially 2-halo derivatives followed by 2,5-dihalothiophenes; perhalogenation is easily accomplished to give C<sub>4</sub>X<sub>4</sub>S (X = Cl, Br, I).<ref>{{OrgSynth | author = Henry Y. Lew and C. R. Noller| title = 2-Iodolthiophene| collvol = 4 | collvolpages = 545 | year = 1963 | prep = CV4P0545}}</ref>  Thiophene brominates 10<sup>7</sup> times faster than does benzene.<ref name="Ullmann" />
+
+Chloromethylation and chloroethylation occur readily at the 2,5-positions.  Reduction of the chloromethyl product gives 2-methylthiophene.  Hydrolysis followed by dehydration of the chloroethyl species gives 2-vinylthiophene.<ref>{{OrgSynth | author = W. S. Emerson and T. M. Patrick, Jr.| title = 2-Vinylthiophene| collvol = 4 | collvolpages = 980 | year = 1963 | prep = CV4P0980}}</ref><ref>{{OrgSynth | author = K. B. Wiberg and H. F. McShane| title = 2-Chloromethylthiophene| collvol = 3 | collvolpages = 1 | year = 1955 | prep = CV3P0197}}</ref>
+
+===Desulfurization by Raney nickel===
+Desulfurization of thiophene with [[Raney nickel]] affords [[butane]]. When coupled with the easy 2,5-difunctionalization of thiophene, desulfurization provides a  route to 1,4-disubstituted butanes.
+
+[[File:Desulfurization & reduction thiophene derivatives by raney nickel.svg|frameless|centre|400px]]
+
+===Coordination chemistry===
+Thiophene exhibits little thioether-like character, but it does serve as a pi-ligand forming [[Sandwich compound|piano stool complex]]es such as Cr(''η''<sup>5</sup>-C<sub>4</sub>H<sub>4</sub>S)(CO)<sub>3</sub>.<ref>Rauchfuss, T. B., "The Coordination Chemistry of Thiophenes", Progress in Inorganic Chemistry 1991, volume 39, pp. 259-311. {{ISBN|978-0-471-54489-0}}</ref>
+
+==Thienyl==
+Upon deprotonation, thiophene converts to the thienyl group, C<sub>4</sub>H<sub>3</sub>S<sup>−</sup>. Although the anion per se do not exist, the [[organolithium]] derivatives do.  Thus reaction of thiophene with [[butyl lithium]] gives 2-lithiothiophene, also called 2-thienyllithium.  This reagent reacts with electrophiles to give thienyl derivatives, such as the thiol.<ref>{{OrgSynth | author = E. Jones and I. M. Moodie | title = 2-Thiophenethiol| collvol = 6 | collvolpages = 979| year = 1988 | prep = CV6P0979}}</ref>  Oxidation of thienyllithium gives 2,2'-dithienyl, (C<sub>4</sub>H<sub>3</sub>)<sub>2</sub>.  Thienyl lithium is employed in the preparation of higher order [[mixed cuprates]].<ref>[[Bruce H. Lipshutz]], Robert Moretti, Robert Crow "Mixed Higher-order Cyanocuprate-induced Epoxide Openings: 1-Benzyloxy-4-penten-2-ol" Org. Synth. 1990, volume 69, pp. 80.  {{doi|10.15227/orgsyn.069.0080}}</ref>
+
+==Uses==
+Thiophenes are important heterocyclic compounds that are widely used as building blocks in many agrochemicals and pharmaceuticals.<ref name="Ullmann" />  The benzene ring of a biologically active compound may often be replaced by a thiophene without loss of activity.<ref name="Lednicer1999">{{cite book
+| author = Daniel Lednicer
+| title = The Organic Chemistry of Drug Synthesis
+| publisher = Wiley Interscience
+| volume = 6
+| year = 1999
+| location = New York
+| pages = 187
+| isbn = 0-471-24510-0 }}</ref> This is seen in examples such as the [[Non-steroidal anti-inflammatory drug|NSAID]] [[lornoxicam]], the thiophene analog of [[piroxicam]].
+
+===Polythiophene===
+The polymer formed by linking thiophene through its 2,5 positions is called [[polythiophene]].  Polythiophene itself has poor processing properties.  More useful are polymers derived from thiophenes substituted at the 3- and 3- and 4- positions.  Polythiophenes become electrically conductive upon partial oxidation, i.e. they obtain some of the characteristics typically observed in metals.<ref>{{cite journal | author = J. Roncali | title = Conjugated poly(thiophenes): synthesis, functionalization, and applications | year = 1992 | journal = [[Chem. Rev.]] | volume = 92 | issue = 4 | pages = 711–738 | doi = 10.1021/cr00012a009}}</ref>
+
+==References==
+<!-- How to add a footnote:
+   NOTE: Footnotes in this article use names, not numbers. Please see [[Wikipedia:Footnotes]] for details.
+     1) Assign your footnote a unique name, for example TheSun_Dec9.
+     2) Add the macro{{ref|TheSun_Dec9}} to the body of the article, where you want the new footnote.
+     3) Take note of the name of the footnote that immediately precedes yours in the article body.
+     4) Add #{{Note|TheSun_Dec9}} to the footnote numbered-list, immediately below the footnote you noted in step 3.  No need to re-number anything!
+     5) Multiple footnotes to the same reference: see [[Wikipedia:Footnotes]] for a how-to, if you don't succeed by simply following the pattern.
+   NOTE: It is important to add footnotes in the right order in the list!
+ -->
+{{reflist}}
+
+==External links==
+*[http://www.inchem.org/documents/icsc/icsc/eics1190.htm International Chemical Safety Card 1190]
+*{{cite EB1911|wstitle=Thiophen|volume=26}}
+
+{{sulfur compounds}}
+{{Authority control}}
+
+[[Category:Thiophenes| ]]
+[[Category:Simple aromatic rings]]

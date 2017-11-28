@@ -1,0 +1,69 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 444399735
+| IUPAC_name =
+| image =  
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 34980574
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number =  
+| ATC_prefix = L01
+| ATC_suffix = XX36
+| PubChem =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 85J5ZP6YSL
+
+<!--Chemical data-->
+| C=172 | H=221 | N=62 | O=91 | P=17 | S=17
+| molecular_weight =  
+| smiles = Cc1cn(c(=O)[nH]c1=O)[C@H]2C[C@@H]([C@H](O2)COP(=O)(O[C@H]3C[C@@H](O[C@@H]3COP(=O)(O[C@H]4C[C@@H](O[C@@H]4COP(=O)(O[C@H]5C[C@@H](O[C@@H]5COP(=O)(O[C@H]6C[C@@H](O[C@@H]6COP(=O)(O[C@H]7C[C@@H](O[C@@H]7COP(=O)(O[C@H]8C[C@@H](O[C@@H]8COP(=O)(O[C@H]9C[C@@H](O[C@@H]9COP(=O)(O[C@H]1C[C@@H](O[C@@H]1COP(=O)(O[C@H]1C[C@@H](O[C@@H]1COP(=O)(O[C@H]1C[C@@H](O[C@@H]1COP(=O)(O[C@H]1C[C@@H](O[C@@H]1COP(=O)(O[C@H]1C[C@@H](O[C@@H]1COP(=O)(O[C@H]1C[C@@H](O[C@@H]1COP(=O)(O[C@H]1C[C@@H](O[C@@H]1COP(=O)(O[C@H]1C[C@@H](O[C@@H]1COP(=O)(O[C@H]1C[C@@H](O[C@@H]1COP(=O)(O[C@H]1C[C@@H](O[C@@H]1CO)n1cc(c(=O)[nH]c1=O)C)S)n1ccc(nc1=O)N)S)n1cc(c(=O)[nH]c1=O)C)S)n1ccc(nc1=O)N)S)n1ccc(nc1=O)N)S)n1ccc(nc1=O)N)S)n1cnc2c1ncnc2N)S)n1cnc2c1nc([nH]c2=O)N)S)n1ccc(nc1=O)N)S)n1cnc2c1nc([nH]c2=O)N)S)n1cc(c(=O)[nH]c1=O)C)S)n1cnc2c1nc([nH]c2=O)N)S)n1ccc(nc1=O)N)S)n1cnc2c1nc([nH]c2=O)N)S)n1ccc(nc1=O)N)S)n1ccc(nc1=O)N)S)n1cnc2c1ncnc2N)S)O
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C172H221N62O91P17S17/c1-69-39-225(169(253)213-149(69)237)117-21-73(236)92(292-117)44-274-326(257,343)320-85-33-129(229-63-191-135-141(181)187-61-189-143(135)229)303-103(85)55-285-332(263,349)314-79-27-122(221-17-9-113(177)201-165(221)249)295-95(79)47-278-330(261,347)312-78-26-121(220-16-8-112(176)200-164(220)248)298-98(78)50-280-338(269,355)322-87-35-131(231-65-193-137-145(231)205-157(183)209-153(137)241)305-105(87)57-287-334(265,351)316-81-29-124(223-19-11-115(179)203-167(223)251)299-99(81)51-281-339(270,356)323-88-36-132(232-66-194-138-146(232)206-158(184)210-154(138)242)307-107(88)59-289-337(268,354)319-84-32-128(228-42-72(4)152(240)216-172(228)256)302-102(84)54-284-341(272,358)325-90-38-134(234-68-196-140-148(234)208-160(186)212-156(140)244)306-106(90)58-288-335(266,352)317-82-30-125(224-20-12-116(180)204-168(224)252)300-100(82)52-282-340(271,357)324-89-37-133(233-67-195-139-147(233)207-159(185)211-155(139)243)308-108(89)60-290-342(273,359)321-86-34-130(230-64-192-136-142(182)188-62-190-144(136)230)304-104(86)56-286-333(264,350)315-80-28-123(222-18-10-114(178)202-166(222)250)296-96(80)48-277-328(259,345)310-76-24-119(218-14-6-110(174)198-162(218)246)294-94(76)46-276-329(260,346)311-77-25-120(219-15-7-111(175)199-163(219)247)297-97(77)49-279-336(267,353)318-83-31-127(227-41-71(3)151(239)215-171(227)255)301-101(83)53-283-331(262,348)313-75-23-118(217-13-5-109(173)197-161(217)245)293-93(75)45-275-327(258,344)309-74-22-126(291-91(74)43-235)226-40-70(2)150(238)214-170(226)254/h5-20,39-42,61-68,73-108,117-134,235-236H,21-38,43-60H2,1-4H3,(H,257,343)(H,258,344)(H,259,345)(H,260,346)(H,261,347)(H,262,348)(H,263,349)(H,264,350)(H,265,351)(H,266,352)(H,267,353)(H,268,354)(H,269,355)(H,270,356)(H,271,357)(H,272,358)(H,273,359)(H2,173,197,245)(H2,174,198,246)(H2,175,199,247)(H2,176,200,248)(H2,177,201,249)(H2,178,202,250)(H2,179,203,251)(H2,180,204,252)(H2,181,187,189)(H2,182,188,190)(H,213,237,253)(H,214,238,254)(H,215,239,255)(H,216,240,256)(H3,183,205,209,241)(H3,184,206,210,242)(H3,185,207,211,243)(H3,186,208,212,244)/t73-,74-,75-,76-,77-,78-,79-,80-,81-,82-,83-,84-,85-,86-,87-,88-,89-,90-,91+,92+,93+,94+,95+,96+,97+,98+,99+,100+,101+,102+,103+,104+,105+,106+,107+,108+,117+,118+,119+,120+,121+,122+,123+,124+,125+,126+,127+,128+,129+,130+,131+,132+,133+,134+,326?,327?,328?,329?,330?,331?,332?,333?,334?,335?,336?,337?,338?,339?,340?,341?,342?/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = MIMNFCVQODTQDP-NDLVEFNKSA-N
+}}
+'''Oblimersen''' ([[International Nonproprietary Name|INN]], trade name '''Genasense'''; also known as '''Augmerosen''' and '''bcl-2 antisense oligodeoxynucleotide G3139''') is an [[antisense therapy|antisense]] [[oligonucleotide|oligodeoxyribonucleotide]] being studied as a possible treatment for several types of [[cancer]], including [[chronic lymphocytic leukemia]], [[B-cell lymphoma]], and [[breast cancer]]. It may kill cancer cells by blocking the production of [[Bcl-2]]—a [[protein]] that makes cancer cells live longer—and by making them more sensitive to chemotherapy.
+
+==History==
+An antisense [[oligonucleotide]] drug [[Genasense]] (G3139) has been developed by [[Genta (company)|Genta Incorporated]] to target Bcl-2. An [[antisense]] DNA or RNA strand is non-coding and complementary to the coding strand (which is the template for producing respectively RNA or protein). An [[antisense drugs|antisense drug]] is a short sequence of RNA which hybridises with and inactivates mRNA, preventing the protein from being formed.
+
+It was shown that the proliferation of human [[lymphoma]] [[cell (biology)|cells]] (with t(14;18) translocation) could be inhibited by antisense RNA targeted at the start [[codon]] region of Bcl-2 [[mRNA]]. [[In vitro]] studies led to the identification of Genasense, which is complementary to the first 6 codons of Bcl-2 mRNA.<ref name="pmid12445555">{{cite journal | author = Dias N, Stein CA | title = Potential roles of antisense oligonucleotides in cancer therapy. The example of Bcl-2 antisense oligonucleotides | journal = [[Eur J Pharm Biopharm]] | volume = 54 | issue = 3 | pages = 263–9 |date=November 2002 | pmid = 12445555 | doi = 10.1016/S0939-6411(02)00060-7| url = http://linkinghub.elsevier.com/retrieve/pii/S0939641102000607 }}</ref>
+
+These have shown successful results in Phase I/II trials for lymphoma, and a large Phase III trial was launched in 2004.<ref name="pmid15010151">{{cite journal | author = Mavromatis BH, Cheson BD | title = Novel therapies for chronic lymphocytic leukemia | journal = Blood Rev. | volume = 18 | issue = 2 | pages = 137–48 |date=June 2004 | pmid = 15010151 | doi = 10.1016/S0268-960X(03)00039-0 | url =  }}</ref>
+
+By the first quarter 2010, Genasense had not received [[Food and Drug Administration|FDA]] approval due to disappointing results in a melanoma trial. Although safety and efficacy of Genasense have not been established for any use, Genta Incorporated still claims on its website that studies are currently underway to examine the potential role of Genasense in a variety of clinical indications.
+
+==References==
+{{reflist}}
+
+== External links ==
+* [http://www.cancer.gov/dictionary?CdrID=44539 Augmerosen] entry in the public domain NCI Dictionary of Cancer Terms
+
+{{Chemotherapeutic agents}}
+
+
+[[Category:Experimental cancer drugs]]

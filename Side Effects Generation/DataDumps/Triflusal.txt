@@ -1,0 +1,84 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 379649247
+| IUPAC_name = 2-acetyloxy-4-(trifluoromethyl)benzoic acid
+| image = triflusal.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|triflusal}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 322-79-2 
+| ATC_prefix = B01
+| ATC_suffix = AC18
+| PubChem = 9458
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 1Z0YFI05OO
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1332032
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 9086
+
+
+
+<!--Chemical data-->
+| C=10 | H=7 | F=3 | O=4 
+| molecular_weight = 248.155 g/mol
+|  smiles = CC(=O)Oc1cc(ccc1C(=O)O)C(F)(F)F
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C10H7F3O4/c1-5(14)17-8-4-6(10(11,12)13)2-3-7(8)9(15)16/h2-4H,1H3,(H,15,16)
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = RMWVZGDJPAKBDE-UHFFFAOYSA-N
+}}
+
+'''Triflusal''' is a [[platelet aggregation inhibitor]] that was discovered and developed in the Uriach Laboratories, and commercialised in Spain since 1981. Currently, it is available in 25 countries in Europe, Asia, Africa and America. It is a drug of the [[salicylate]] family but it is not a derivative of [[acetylsalicylic acid]] (ASA). Trade names include '''Disgren''', '''Grendis''', '''Aflen''' and '''Triflux'''.<ref>Murdoch D, et al. Triflusal: a review of its use in cerebral infarction and [[myocardial infarction]], and as thromboprophylaxis in atrial fibrillation.Drugs 2006; 66(5):671-92</ref>
+
+==Mechanism of action==
+Triflusal is a selective platelet antiaggregant through;
+* blocks [[cyclooxygenase]] inhibiting [[thromboxane A2]], preventing aggregation
+* preserves vascular [[prostacyclin]], thus promoting anti-aggregant effect
+* blocks [[phosphodiesterase]] thereby increasing [[cyclic AMP|cAMP]] concentration, thereby promoting anti-aggregant effect due to inhibition of calcium mobilization
+
+==Indication==
+Triflusal is indicated for;
+* Prevention of [[cardiovascular events]] such as [[stroke]]
+* Acute treatment of [[cerebral infarction]], [[myocardial infarction]]
+* [[Thromboprophylaxis]] due to [[atrial fibrillation]]
+
+==Prevention of stroke==
+In the 2008 guidelines for stroke management from the European Stroke Organization, triflusal was for the first time recommended as lone therapy, as an alternative to acetylsalicylic acid plus [[dipyridamole]], or [[clopidogrel]] alone for secondary prevention of [[atherothrombosis|atherothrombotic]] stroke. This recommendation was based on the double-blind, randomised TACIP and TAPIRSS trials, which found triflusal to be equally as effective as Aspirin in preventing post-stroke vascular events, while having a more favourable safety profile.<ref>Matías-Guiu J, Ferro JM, Alvarez J, et al; for the TACIP Investigators. Comparison of triflusal and aspirin for prevention of vascular events in patients after cerebral infarction. The TACIP study: a randomized, double-blind, multicenter trial. Stroke 2003; 34; 840-848</ref><ref>Culebras A, Rotta-Escalante R, Vila J, et al; and the TAPIRSS investigators. Triflusal vs. aspirin for prevention of cerebral infarction.A randomized stroke study. Neurology. 2004; 62:1073-1080</ref><ref>Guidelines for management of ischaemic stroke and transient ischaemic attack 2008. The European Stroke Organization(ESO) Executive Committee and the ESO Writing Committee.Cerebrovasc Dis. 2008; 25: 57-507</ref>
+
+==Pharmacokinetics==
+It is absorbed in the small intestine and its [[bio-availability]] ranges from 83% to 100%.<ref>Ramis J, Mis R, Conte L, Forn J. Rat and human plasma protein binding of the main metabolite of triflusal. Eur J Pharmacol.1990; 183: 1867-1868</ref><ref>Ramis J, Mis R, Forn J, Torrent J, Gorina E, Jané F. Pharmacokinetics of triflusal and its main metabolite HTB in healthy subjects following a single oral dose. Eur J Drug Metab Pharmacokinet.1991; 16: 169-273.37,38</ref>
+
+==References==
+{{Reflist}}
+
+{{Antithrombotics}}
+{{Prostanoidergics}}
+
+[[Category:Antiplatelet drugs]]
+[[Category:Salicylic acids]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Acetate esters]]

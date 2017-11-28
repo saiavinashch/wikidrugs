@@ -1,0 +1,80 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 444165382
+| IUPAC_name = (''RS'')-1-[(2-Fluorophenyl)(4-fluorophenyl)benzyl]-1''H''-imidazole
+| image = Flutrimazole.svg
+| width = 180
+| chirality = [[Racemic mixture]]
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|flutrimazole}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 119006-77-8
+| ATC_prefix = D01
+| ATC_suffix = AC16
+| ATC_supplemental = {{ATC|G01|AF18}}
+| PubChem = 3401
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3284
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2107430
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 776S0UP252
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07193
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 82864
+
+<!--Chemical data-->
+| C=22 | H=16 | F=2 | N=2 
+| molecular_weight = 346.373 g/mol
+| smiles = Fc1ccc(cc1)C(c2c(F)cccc2)(c3ccccc3)n4ccnc4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H16F2N2/c23-19-12-10-18(11-13-19)22(26-15-14-25-16-26,17-6-2-1-3-7-17)20-8-4-5-9-21(20)24/h1-16H
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = QHMWCHQXCUNUAK-UHFFFAOYSA-N
+}}
+
+'''Flutrimazole''' is a wide-spectrum [[Antifungal medication|antifungal]] drug. It is used for the topical treatment of superficial [[mycosis|mycoses]] of the [[skin]]. Flutrimazole is an [[imidazole]] derivative. Its antifungal activity has been demonstrated in ''in vivo'' and ''in vitro'' studies to be comparable to that of [[clotrimazole]] and higher than [[bifonazole]].<ref>{{cite journal|last1=Alomar|first1=A|last2=Videla|first2=S|last3=Delgadillo|first3=J|last4=Gich|first4=I|last5=Izquierdo|first5=I|last6=Forn|first6=J|title=Flutrimazole 1% Dermal Cream in the Treatment of Dermatomycoses: a Multicentre, Double-Blind, Randomized, Comparative Clinical Trial with Bifonazole 1% Cream. Efficacy of Flutrimazole 1% Dermal Cream in Dermatomycoses. Catalan Flutrimazole Study Group|journal=Dermatology (Basel, Switzerland)|date=1995|volume=190|issue=4|pages=295–300|pmid=7655109}}</ref>
+
+==Mechanism of action==
+It interferes with the synthesis of [[ergosterol]] by inhibiting the activity of the [[enzyme]] [[lanosterol 14 alpha-demethylase|lanosterol 14 α-demethylase]].
+
+==See also==
+* [[Clotrimazole]]
+
+== References ==
+The Merck Index, 12th Edition. 4247
+{{reflist}}
+
+{{Antifungals}}
+{{Gynecological anti-infectives and antiseptics}}
+
+[[Category:Fluoroarenes]]
+[[Category:Imidazole antifungals]]
+[[Category:Lanosterol 14α-demethylase inhibitors]]
+
+{{antiinfective-drug-stub}}
+{{genito-urinary-drug-stub}}

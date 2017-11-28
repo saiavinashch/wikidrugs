@@ -1,0 +1,89 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 470472887
+| IUPAC_name = 4-Amino-''N''-(2,6-dimethoxypyrimidin-4-yl)benzenesulfonamide
+| image = Sulfadimethoxine.svg
+| image2 = Sulfadimethoxine ball-and-stick model.png
+<!--Clinical data-->
+| tradename =  Albon, Di-Methox
+| Drugs.com = {{drugs.com|pro|sulfadimethoxine}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = S4<!--https://www.legislation.gov.au/Details/F2017L00605-->
+| legal_CA = <!--Rx-only https://www.pharmacompass.com/health-canada-drug-product-database/sulfadimethoxine-->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = Rx-only
+| legal_US_comment = (by veterinarian)<!--https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=24094a36-0c38-4af1-b9ab-b4b12f342e33&audience=consumer-->
+| legal_status =  
+| routes_of_administration = oral; can be IV in cattle<ref name=drugs.com>{{Cite web | title=SulfaMed (sulfadimethoxine) Injection 40% for Animal Use | work=Drugs.com | accessdate=2017-06-18 | url=https://www.drugs.com/vet/sulfamed-sulfadimethoxine-injection-40.html}}</ref>
+<!--Pharmacokinetic data-->
+| bioavailability = 55–60%<ref name=riviere />
+| protein_bound =  
+| metabolism =  
+| elimination_half-life = 13.1 hours in dogs<ref name=riviere />
+| excretion =  
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|CAS}}
+| CAS_number = 122-11-2
+| ATC_prefix = J01
+| ATC_suffix = ED02
+| ATC_supplemental =   {{ATCvet|J01|EQ09}} {{ATCvet|P51|AG02}}
+| PubChem = 5323
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB06150
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5132
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 30CPC5LDEX
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01142
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 32161
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 62193
+<!--Chemical data-->
+| C=12 | H=14 | N=4 | O=4 | S=1
+| molecular_weight = 310.33 g/mol
+| smiles = COc1cc(nc(n1)OC)NS(=O)(=O)c2ccc(cc2)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C12H14N4O4S/c1-19-11-7-10(14-12(15-11)20-2)16-21(17,18)9-5-3-8(13)4-6-9/h3-7H,13H2,1-2H3,(H,14,15,16)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ZZORFUFYDOWNEF-UHFFFAOYSA-N
+}}
+
+'''Sulfadimethoxine''' (or '''sulphadimethoxine''', trade names '''Di-Methox''' or '''Albon''') is a long-lasting [[sulfonamide (medicine)|sulfonamide]] antimicrobial medication used in veterinary medicine. It is used to treat many infections, including respiratory, urinary tract, enteric, and soft tissue infections<ref name=dailymed>{{Cite web | title=ALBON – sulfadimethoxine suspension | work=DailyMed | accessdate=2017-06-17 | date=2014-05-21 | url=https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=24094a36-0c38-4af1-b9ab-b4b12f342e33 | publisher=US National Library of Medicine}}</ref> and can be given as a standalone or combined with ormetoprim to broaden the target range.<ref name=riviere>{{Cite book | last1=Riviere | first1=Jim E. | last2=Papich | first2=Mark G. | title=Veterinary Pharmacology and Therapeutics | date=2013-05-13 | publisher=John Wiley & Sons | isbn=9781118685907 | pages=836, 845, 857, 1169}}</ref> Like all sulfamides, sulfadimethoxine inhibits bacterial synthesis of [[folic acid]] by acting as a competitive inhibitor against [[PABA]]. It is the most common drug prescribed to dogs who have [[coccidiosis]].<ref>{{Cite web | last=Ward | first=Ernest | title=Coccidiosis in Dogs | work=Know Your Pet | accessdate=2017-06-18 | date=2008-12-08 | url=https://vcahospitals.com/know-your-pet/coccidiosis-in-dogs | publisher=VCA Hospitals}}</ref>
+
+== Mechanism ==
+Like other sulfonamides, sulfadimethoxine is a [[dihydropteroate synthase inhibitor]]. Bacteria and some protozoa are unable to obtain [[folic acid]] from the environment, and must instead synthesize it by converting PABA ([[para-Aminobenzoic acid|''para''-aminobenzoate]]) to [[dihydropteroic acid|dihydropteroate]] using the enzyme [[dihydropteroate synthase]]. Sulfonamides act as a [[Competitive inhibition|competitive inhibitor]]; being structurally similar to PABA, they are able to bind to the enzyme's active site and prevent the synthesis of folic acid from progressing. Folic acid is necessary for these organisms to produce nucleic acids (i.e. [[DNA]] and [[RNA]]), which are required for cell division.<ref name=bauman>{{Cite book | last=Bauman | first=Robert W. | title=Microbiology: With Diseases by Body System | location=Boston | date=2015 | edition=4th | publisher=Pearson | isbn=9780321918550 | page=296}}</ref> Thus, it has a [[bacteriostatic|microbiostatic]] effect rather than a [[bacteriocidal|microbiocidal]] one (it prevents pathogen growth rather than killing them), and has the strongest effect in the beginning stages of an infection, when the pathogen is rapidly dividing. Since it's microbiostatic, sulfadimethoxine still requires the animal to still be able to mount an [[immune response]] to kill the pathogen.<ref name=merck>{{Cite web | title=Sulfonamides and Sulfonamide Combinations | work=Merck Veterinary Manual | accessdate=2017-06-18 | url=http://www.merckvetmanual.com/pharmacology/antibacterial-agents/sulfonamides-and-sulfonamide-combinations}}</ref><ref name=dailymed />
+
+===With ormetoprim===
+Sulfadimethoxine can either be given alone (such as with under the commercial name Albon) or in combination with ormetoprim to as a "potentiated sulfonamide" to increase antimicrobial activity.<ref name=riviere /> Ormetoprim is a [[diaminopyridine]], inhibiting [[dihydrofolate reductase]], which is further along the pathway for synthesizing folic acid. Though the optimum ratio of sulfadimethoxine to ormetoprim has been found to be 20:1, it is sold pharmaceutically as a 5:1 mixture.<ref name=merck />
+
+==Pharmacokinetics==
+<!--Some sentences/phrases copied from https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=24094a36-0c38-4af1-b9ab-b4b12f342e33 (public domain) -->
+Sulfadimethoxine, like all sulfonamides, diffuses easily when it is in its unionized, [[Lipid soluble|lipid-soluble]] form, and easily reaches many tissues. The relative amounts are determined by both its [[Acid dissociation constant|pKa]] and by the [[pH]] of each tissue. Therefore, levels tend to be higher in less acidic tissue and body fluids or in diseased tissues having high concentrations of [[leucocytes]].<ref name="stowe">{{Cite book | editor-last=Jones | editor-first=LM | last=Stowe | first=CM | title=Veterinary Pharmacology and Therapeutics | chapter=Chapter 33: The Sulfonamides | location=Ames, Iowa | date=1965 | publisher=Iowa State University Press}}</ref><ref name="dailymed" /><ref name="merck" /> Its ability to bind to [[plasma proteins]] is very high, leading sulfadimethoxine to maintain higher blood levels than most other long-acting sulfonamides. Comparatively low doses can give rapid and sustained therapeutic blood levels.<ref name="dailymed" /> Most animals for which sulfadimethoxine is marketed [[acetylate]] sulfadimethoxine in the [[liver]] to form acetylsulfadimethoxine, which is secreted in the [[bile]]. Dogs are the exception – since they are unable acetylate sulfanamides, they excrete sulfadimethoxine mostly unchanged in the urine (their inability to transform sulfadimethoxine also makes them more susceptible to negative side effects).<ref name="plumb">{{Cite book | last=Plumb | first=Donald C. | title=Plumb's Veterinary Drug Handbook | location= Ames, Iowa | date=2011 | edition=7th | publisher=Wiley | isbn=9780470959640 | pages=951, 954}}</ref><ref name="saunders">{{Cite book | last=Papich | first=Mark G. | title=Saunders handbook of veterinary drugs | location=St. Louis, Mo | date=2007 | edition=2nd ed | publisher=Saunders/Elsevier | isbn=9781416028888}}</ref><ref name="bridges">{{Cite journal | last1=Bridges | first1=J. W. | last2=Kibby | first2=M. R. | last3=Walker | first3=S. R. | last4=Williams | first4=R. T. | title=Species differences in the metabolism of sulphadimethoxine | journal=Biochemical Journal | date=October 1968 | pmid=4972257 | pmc=1187037 | issn=0264-6021 | volume=109 | issue=5 | pages=851–856}}</ref>
+
+Sulfadimethoxine has a relatively high solubility at the pH normally occurring in the [[kidney]]s, and is easily reabsorbed into the [[Nephron|renal tubules]], adding to its long half-life.<ref name="baggot">{{Cite journal | last=Baggot | first=J. D. | title=Some aspects of drug persistence in domestic animals | journal=Research in Veterinary Science | date=March 1970 | pmid=5499300 | issn=0034-5288 | volume=11 | issue=2 | pages=130–137}}{{closed access}}</ref><ref name="plumb" /> The use of sulfadimethoxine raises concerns that it will precipitate in the kidneys, leading to [[crystalluria]]. Though crystallization is not actually a common occurrence in veterinary medicine, it can be avoided entirely by adding a diaminopyrimidine such as ormetoprim.<ref name="baggot" /><ref name="merck" /> Having the animal stay well-hydrated also is advised.<ref name="peted">{{cite web | last=Doctors Foster and Smith | title=Sulfadimethoxine (Albon) | work=Peteducation.com | url=http://www.peteducation.com/article.cfm?c=0+1451&aid=1481}}</ref>
+
+==Usage==
+Sulfadimethoxine is the only FDA-approved drug for treating intestinal [[Coccidiosis|coccidioisis]] in cats and dogs.<ref name=riviere /> It is also used for:
+*Treating skin and soft-tissue infections in dogs caused by ''[[Staphylococcus aureus]]'' or ''[[Escherichia coli|E. coli]]''<ref name=plumb />
+*Treating cattle for [[Bovine respiratory disease|bovine respiratory disease complex]] ("shipping fever complex"), [[Foot rot|necrotic pododermatitis]] (foot rot), pneumonia when caused by ''[[Pasteurella]]'', and calf diphtheria caused by ''[[Fusobacterium necrophorum]]''<ref name=drugs.com />
+*When combined with ormetoprim:<ref name=riviere />
+**Treating soft tissue infections, skin infections, [[Urinary tract infection|urinary tract infections,]] and intesintal coccidia infections in dogs
+**Prevention of [[fowl cholera]] and coccidioisis by ''[[Eimeria]]'' in poultry
+**Treating salmon and trout for [[Boil|furunculosis]]
+
+It is also one of the only sulfonamides allowed for treating lactating dairy cattle (the others being sulfabromethazine and sulfathoxypyridazine).<ref name=merck />
+
+==Notes==
+{{Reflist|2}}
+
+{{NLM content|url=https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=24094a36-0c38-4af1-b9ab-b4b12f342e33 ALBON sulfadimethoxine suspension}}
+
+{{Sulfonamides and trimethoprim}}
+
+[[Category:Sulfonamide antibiotics]]
+[[Category:Pyrimidines]]
+[[Category:Veterinary drugs]]

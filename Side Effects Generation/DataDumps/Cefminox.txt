@@ -1,0 +1,98 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 444377781
+| IUPAC_name = (6''R'',7''S'')-7-(((((2''S'')-2-amino-2-carboxyethyl)thio)acetyl)amino)-7-methoxy-3-(((1-methyl-1H-tetrazol-5-yl)thio)methyl)-8-oxo-5-thia-1-azabicyclo(4.2.0)oct-2-ene-2-carboxylic acid
+| image = Cefminox.svg
+| width = 280
+
+<!--Clinical data-->
+| tradename = 
+| Drugs.com = {{drugs.com|international|cefminox}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = IM, IV
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 84305-41-9
+| ATC_prefix = J01
+| ATC_suffix = DC12
+| ATC_supplemental = 
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1276342
+| PubChem = 71141
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = PW08Y13465
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07642
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 64286
+| smiles = O=C2N1/C(=C(\CS[C@@H]1[C@]2(OC)NC(=O)CSC[C@H](C(=O)O)N)CSc3nnnn3C)C(=O)O
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C16H21N7O7S3/c1-22-15(19-20-21-22)33-4-7-3-32-14-16(30-2,13(29)23(14)10(7)12(27)28)18-9(24)6-31-5-8(17)11(25)26/h8,14H,3-6,17H2,1-2H3,(H,18,24)(H,25,26)(H,27,28)/t8-,14-,16+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = JSDXOWVAHXDYCU-VXSYNFHWSA-N
+
+
+<!--Chemical data-->
+| chemical_formula = 
+| C=16 | H=21 | N=7 | O=7 | S=3 
+| molecular_weight = 519.57 g/mol
+}}
+
+'''Cefminox''' ([[International Nonproprietary Name|INN]]) is a second-generation [[cephalosporin]] [[antibiotic]].<ref>{{Cite journal 
+| doi = 10.1007/s150100070027 
+| last1 = Torres | first1 = A. J. 
+| last2 = Valladares | first2 = L. D. 
+| last3 = Jover | first3 = J. M. 
+| last4 = Sánchez-Pernaute | first4 = A. 
+| last5 = Frías | first5 = J. 
+| last6 = Carcas | first6 = A. J. 
+| last7 = Coronel | first7 = P. 
+| last8 = Ródenas | first8 = E. 
+| last9 = Pérez-Balcabao | first9 = I. 
+| last10 = Fernández-Roblas | first10 = R. 
+| last11 = Moreno | first11 = M. 
+| last12 = Balibrea | first12 = J. L. 
+| title = Cefminox versus metronidazole plus gentamicin intra-abdominal infections: A prospective randomized controlled clinical trial 
+| journal = Infection 
+| volume = 28 
+| issue = 5 
+| pages = 318–322 
+| year = 2000 
+| pmid = 11073141
+}}</ref><ref>Patentdocs: [http://www.faqs.org/patents/app/20110039288 Reaction Medium For Methicillin-Resistant Staphylococcus Aureus (Mrsa) Bacteria]</ref>
+
+==Spectrum==
+Cefminox is a broad-spectrum, bactericidal cephalosporin antibiotic. It is especially effective against Gram-negative and anaerobic bacteria. The following represents MIC data for a few medically significant microorganisms.
+* ''Clostridium difficile'': 2 - 4 µg/ml
+* ''Escherichia coli'': 0.125 - 16 µg/ml
+* ''Pseudomonas aeruginosa'': 256 µg/ml
+<ref>http://www.toku-e.com/Assets/MIC/Cefminox%20sodium.pdf</ref>
+
+==References==
+{{reflist}}
+
+{{Cell wall disruptive antibiotics}}
+
+[[Category:Cephalosporin antibiotics]]
+[[Category:Tetrazoles]]
+
+
+{{antibiotic-stub}}

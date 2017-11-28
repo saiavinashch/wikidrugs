@@ -1,0 +1,88 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 437193500
+| IUPAC_name = 5-(1,4-Diazepane-1-sulfonyl)isoquinoline
+| image = Fasudil.svg
+| width = 110
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|fasudil}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =  
+| metabolism =
+| metabolites = Hydroxyfasudil
+| elimination_half-life = 0.76 hours. Active metabolite (hydroxyfasudil) 4.66 hours.
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5181
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 103745-39-7
+| ATC_prefix = C04
+| ATC_suffix = AX32
+| ATC_supplemental =  
+| PubChem = 3547
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB08162
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 3426
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = Q0CH43PGXS
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07941
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 38380
+| PDB_ligand = M77
+
+<!--Chemical data-->
+| chemical_formula =
+| C=14 | H=17 | N=3 | O=2 | S=1 | Se= | Sr= | Tc=| charge =   
+| molecular_weight = 291.36 g/mol
+| smiles = C1CNCCN(C1)S(=O)(=O)C2=CC=CC3=C2C=CN=C3
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C14H17N3O2S/c18-20(19,17-9-2-6-15-8-10-17)14-4-1-3-12-11-16-7-5-13(12)14/h1,3-5,7,11,15H,2,6,8-10H2
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = NGOGFTYYXHNFQH-UHFFFAOYSA-N
+}}
+
+'''Fasudil''' ([[International Nonproprietary Name|INN]]) is a potent [[Rho-associated protein kinase|Rho-kinase]] inhibitor and vasodilator.<ref>{{Cite news | title = Drug Found That Could Reduce Risk Of Alzheimer's | url = http://www.sciencedaily.com/releases/2009/02/090202102932.htm | publisher = [[Science Daily]]}}</ref> Since it was discovered, it has been used  for the treatment of [[cerebral vasospasm]], which is often due to [[subarachnoid hemorrhage]],<ref name="pmid8217408">{{cite journal | vauthors = Shibuya M, Suzuki Y | title = [Treatment of cerebral vasospasm by a protein kinase inhibitor AT 877] | language = Japanese | journal = Nō to Shinkei = Brain and Nerve | volume = 45 | issue = 9 | pages = 819–24 | date = Sep 1993 | pmid = 8217408 | doi =  }}</ref> as well as to improve the cognitive decline seen in [[stroke]] victims. It has been found to be effective for the treatment of [[pulmonary hypertension]].<ref name="Doggrell2005">{{cite journal | vauthors = Doggrell SA | title = Rho-kinase inhibitors show promise in pulmonary hypertension | journal = Expert Opinion on Investigational Drugs | volume = 14 | issue = 9 | pages = 1157–9 | date = Sep 2005 | pmid = 16144499 | doi = 10.1517/13543784.14.9.1157 }}</ref> It was demonstrated in February 2009 that fasudil could improve [[memory]] in normal mice, identifying the drug as a possible [[Investigational New Drug|treatment]] for [[Age-related memory loss|age related]] or [[Neurodegeneration|neurodegenerative]] memory loss.<ref name=Huentelman2009>{{cite journal | vauthors = Huentelman MJ, Stephan DA, Talboom J, Corneveaux JJ, Reiman DM, Gerber JD, Barnes CA, Alexander GE, Reiman EM, Bimonte-Nelson HA | title = Peripheral delivery of a ROCK inhibitor improves learning and working memory | journal = Behavioral Neuroscience | volume = 123 | issue = 1 | pages = 218–23 | date = Feb 2009 | pmid = 19170447 | pmc = 2701389 | doi = 10.1037/a0014260 | postscript = <!--None--> }}</ref>
+
+It is approved for use in Japan and China, but has not been approved by the [[United States Food and Drug Administration]] or by the [[European Medicines Agency]].
+
+== Molecular mechanism ==
+Fasudil (HA-1077) is a selective RhoA/[[Rho-associated protein kinase|Rho kinase]] (ROCK) inhibitor.<ref name="Nagumo_2000">{{cite journal | vauthors = Nagumo H, Sasaki Y, Ono Y, Okamoto H, Seto M, Takuwa Y | title = Rho kinase inhibitor HA-1077 prevents Rho-mediated myosin phosphatase inhibition in smooth muscle cells | journal = American Journal of Physiology. Cell Physiology | volume = 278 | issue = 1 | pages = C57–65 | date = Jan 2000 | pmid = 10644512 }}</ref> ROCK is an enzyme that plays an important role in mediating vasoconstriction and vascular remodeling in the pathogenesis of PH. ROCK induces vasoconstriction by phosphorylating the myosin-binding subunit of myosin light chain (MLC) phosphatase, thus decreasing MLC phosphatase activity and enhancing vascular smooth muscle contraction.<ref name="Nagumo_2000"/>
+
+=== ACE  expression ===
+[[Angiotensin-converting enzyme]] (ACE) is an enzyme that catalyzes the conversion of [[Angiotensin#Angiotensin_I|angiotensin-I]] (Ang-I) to [[Angiotensin#Angiotensin_II|angiotensin-II]] (Ang-II). Ang-II is a peptide hormone which increases blood pressure by initiating [[vasoconstriction]] and [[aldosterone]] secretion. ROCK increases ACE expression and activity in PH. By inhibiting ROCK with fasudil, circulating ACE and Ang-II are reduced, leading to a decrease in pulmonary vascular pressure.<ref>{{cite journal | vauthors = Ocaranza MP, Rivera P, Novoa U, Pinto M, González L, Chiong M, Lavandero S, Jalil JE | title = Rho kinase inhibition activates the homologous angiotensin-converting enzyme-angiotensin-(1-9) axis in experimental hypertension | journal = Journal of Hypertension | volume = 29 | issue = 4 | pages = 706–15 | date = Apr 2011 | pmid = 21330937 | doi = 10.1097/HJH.0b013e3283440665 }}</ref>
+
+=== eNOS expression ===
+[[Endothelial nitric oxide synthase]] (eNOS) mediates the production of the vasodilator [[nitric oxide]] (NO). Pulmonary arterial cell cultures treated with fasudil showed a significant increase in eNOS mRNA levels in a dose dependent manner, and the half-life of eNOS mRNA increased 2-folds. These findings suggested that ROCK inhibition with fasudil increases eNOS expression by stabilizing eNOS mRNA, which contributed to an increase of NO level to enhance vasodilation.<ref>{{cite journal | vauthors = Takemoto M, Sun J, Hiroki J, Shimokawa H, Liao JK | title = Rho-kinase mediates hypoxia-induced downregulation of endothelial nitric oxide synthase | journal = Circulation | volume = 106 | issue = 1 | pages = 57–62 | date = Jul 2002 | pmid = 12093770 | doi=10.1161/01.cir.0000020682.73694.ab}}</ref>
+
+=== ERK activation ===
+The proliferative effects of ROCK on vascular endothelial cells is due to the activation of [[extracellular signal-regulated kinase]] (ERK).<ref name="Liu_2011">{{cite journal | vauthors = Liu AJ, Ling F, Wang D, Wang Q, Lü XD, Liu YL | title = Fasudil inhibits platelet-derived growth factor-induced human pulmonary artery smooth muscle cell proliferation by up-regulation of p27kip¹ via the ERK signal pathway | journal = Chinese Medical Journal | volume = 124 | issue = 19 | pages = 3098–104 | date = Oct 2011 | pmid = 22040563 }}</ref> ERK mediates cell proliferation via the phosphorylation of p27Kip1, thus accelerating the degradation rate of [[CDKN1B|p27Kip1]].<ref>{{cite journal | vauthors = Delmas C, Manenti S, Boudjelal A, Peyssonnaux C, Eychène A, Darbon JM | title = The p42/p44 mitogen-activated protein kinase activation triggers p27Kip1 degradation independently of CDK2/cyclin E in NIH 3T3 cells | journal = The Journal of Biological Chemistry | volume = 276 | issue = 37 | pages = 34958–65 | date = Sep 2001 | pmid = 11418594 | doi = 10.1074/jbc.m101714200 }}</ref> p27Kip1 is a cyclin-dependent kinase (CDK) inhibitor which down-regulates cell cycle by binding cyclin-CDK complex.<ref>{{cite journal | vauthors = Fouty BW, Rodman DM | title = Mevastatin can cause G1 arrest and induce apoptosis in pulmonary artery smooth muscle cells through a p27Kip1-independent pathway | journal = Circulation Research | volume = 92 | issue = 5 | pages = 501–9 | date = Mar 2003 | pmid = 12600884 | doi = 10.1161/01.RES.0000061180.03813.0F }}</ref> Human pulmonary arterial smooth muscle cells treated with fasudil showed a decrease in cell proliferation in a dose-dependent manner. Fasudil also decreases ERK activities, as well as increases level of p27Kip1. This suggested that the anti-proliferative effects of fasudil is due to the decrease of ERK activities via the inhibition of ROCK.<ref name="Liu_2011"/>
+
+== See also ==
+* [[Ripasudil]], a fasudil derivative used to treat glaucoma and ocular hypertension
+
+== References ==
+{{Reflist|30em}}
+
+{{Peripheral vasodilators}}
+
+[[Category:Diazepanes]]
+[[Category:Isoquinolines]]
+[[Category:Protein kinase inhibitors]]
+[[Category:Sulfonamides]]

@@ -1,0 +1,97 @@
+{{drugbox
+| verifiedrevid = 416014858
+| IUPAC_name = 1-[4-(3-amino-1H-indazol-4-yl)phenyl]-3-(2-fluoro-5-methylphenyl)urea
+| image = Linifanib skeletal.svg
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID =9660475
+| StdInChI=1S/C21H18FN5O/c1-12-5-10-16(22)18(11-12)25-21(28)24-14-8-6-13(7-9-14)15-3-2-4-17-19(15)20(23)27-26-17/h2-11H,1H3,(H3,23,26,27)(H2,24,25,28)
+| smiles = CC1=CC(=C(C=C1)F)NC(=O)NC2=CC=C(C=C2)C3=C4C(=CC=C3)NN=C4N
+| StdInChIKey = MPVGZUGXCQEXTM-UHFFFAOYSA-N
+| CAS_number = 606143-52-6
+| ChEBI = 91435
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 223360
+| ATC_prefix = None
+| ATC_suffix = 
+| ATC_supplemental = 
+| UNII = CO93X137CW
+| PubChem = 11485656
+| IUPHAR_ligand = 5657
+| DrugBank = 
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D09635
+| C=17 | H=15 | F=1 | N=5 | O=1
+| molecular_weight = 375.41 g/mol
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| pregnancy_category = 
+| legal_status = Investigational
+| routes_of_administration = 
+}}
+'''Linifanib''' ('''ABT-869''') is a structurally novel, potent inhibitor of [[receptor tyrosine kinase]]s (RTK), [[vascular endothelial growth factor]] (VEGF) and [[platelet-derived growth factor]] (PDGF) with [[IC50|IC<sub>50</sub>]] of 0.2, 2, 4, and 7 nM for human endothelial cells, [[PDGFRB|PDGF receptor beta]] (PDGFR-β), [[Kinase insert domain receptor|KDR]], and [[colony stimulating factor 1 receptor]] (CSF-1R), respectively. It has much less activity (IC50s > 1 μM) against unrelated RTKs, soluble tyrosine kinases, or serine/threonine kinases. In vivo linifanib is effective orally in mechanism-based murine models of VEGF-induced uterine edema (ED50 = 0.5 mg/kg) and corneal angiogenesis (>50%inhibition, 15 mg/kg).<ref>{{Cite journal 
+| last1 = Albert | first1 = D. H. 
+| last2 = Tapang | first2 = P. 
+| last3 = Magoc | first3 = T. J. 
+| last4 = Pease | first4 = L. J. 
+| last5 = Reuter | first5 = D. R. 
+| last6 = Wei | first6 = R. Q. 
+| last7 = Li | first7 = J. 
+| last8 = Guo | first8 = J. 
+| last9 = Bousquet | first9 = P. F. 
+| last10 = Ghoreishi-Haack | first10 = N. S. 
+| last11 = Wang | first11 = B. 
+| last12 = Bukofzer | first12 = G. T. 
+| last13 = Wang | first13 = Y. C. 
+| last14 = Stavropoulos | first14 = J. A. 
+| last15 = Hartandi | first15 = K. 
+| last16 = Niquette | first16 = A. L. 
+| last17 = Soni | first17 = N. 
+| last18 = Johnson | first18 = E. F. 
+| last19 = McCall | first19 = J. O. 
+| last20 = Bouska | first20 = J. J. 
+| last21 = Luo | first21 = Y. 
+| last22 = Donawho | first22 = C. K. 
+| last23 = Dai | first23 = Y. 
+| last24 = Marcotte | first24 = P. A. 
+| last25 = Glaser | first25 = K. B. 
+| last26 = Michaelides | first26 = M. R. 
+| last27 = Davidsen | first27 = S. K. 
+| title = Preclinical activity of ABT-869, a multitargeted receptor tyrosine kinase inhibitor 
+| doi = 10.1158/1535-7163.MCT-05-0410 
+| journal = Molecular Cancer Therapeutics 
+| volume = 5 
+| issue = 4 
+| pages = 995–1006 
+| year = 2006 
+| pmid = 16648571 
+| pmc = 
+}}</ref><ref>{{Cite journal 
+| last1 = Guo | first1 = J. 
+| last2 = Marcotte | first2 = P. A. 
+| last3 = McCall | first3 = J. O. 
+| last4 = Dai | first4 = Y. 
+| last5 = Pease | first5 = L. J. 
+| last6 = Michaelides | first6 = M. R. 
+| last7 = Davidsen | first7 = S. K. 
+| last8 = Glaser | first8 = K. B. 
+| doi = 10.1158/1535-7163.MCT-05-0359 
+| title = Inhibition of phosphorylation of the colony-stimulating factor-1 receptor (c-Fms) tyrosine kinase in transfected cells by ABT-869 and other tyrosine kinase inhibitors 
+| journal = Molecular Cancer Therapeutics 
+| volume = 5 
+| issue = 4 
+| pages = 1007–1013 
+| year = 2006 
+| pmid = 16648572 
+| pmc = 
+}}</ref> 
+
+==References==
+{{reflist}}
+
+[[Category:Tyrosine kinase inhibitors]]
+[[Category:Ureas]]
+
+
+{{antineoplastic-drug-stub}}

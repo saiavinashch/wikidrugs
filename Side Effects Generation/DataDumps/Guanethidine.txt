@@ -1,0 +1,74 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 461124124
+| IUPAC_name = 2-[2-(azocan-1-yl)ethyl]guanidine
+| image = Guanethidine.svg
+| alt = Skeletal formula of guanethidine
+| width = 250
+| image2 = Guanethidine 3D ball.png
+| alt2 = Ball-and-stick model of the guanethidine molecule
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|guanethidine}}
+| MedlinePlus = a600027
+| pregnancy_category =  
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life = 1.5 days
+<!--Identifiers-->
+| IUPHAR_ligand = 7194
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 645-43-2
+| ATC_prefix = C02
+| ATC_suffix = CC02
+| ATC_supplemental =  {{ATC|S01|EX01}}
+| PubChem = 3518
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01170
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3398
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 5UBY8Y002G
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D08030
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 5557
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 765
+<!--Chemical data-->
+| C=10 | H=22 | N=4
+| molecular_weight = 198.309 g/mol
+| smiles = N(=C(\N)N)\CCN1CCCCCCC1
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H22N4/c11-10(12)13-6-9-14-7-4-2-1-3-5-8-14/h1-9H2,(H4,11,12,13)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ACGDKVXYNVEAGU-UHFFFAOYSA-N
+}}
+'''Guanethidine''' is an [[antihypertensive]] drug that reduces the release of [[catecholamines]], such as [[norepinephrine]].  Guanethidine is transported across the sympathetic nerve membrane by the same mechanism that transports norepinephrine itself (NET, uptake 1), and uptake is essential for the drug's action. Once guanethidine has entered the nerve, it is concentrated in transmitter vesicles, where it replaces norepinephrine.  It may also inhibit the release of granules by decreasing norepinephrine.
+
+==Side effects==
+Side effects include orthostatic and exercise [[hypotension]], [[sexual dysfunction]] (delayed or [[retrograde ejaculation]]), and [[diarrhea]].
+
+==Pharmacology==
+Guanethidine is transported by uptake 1 into the [[presynaptic terminal]] transported by norepinephrine transporter (NET). (In this it competes with norepinephrine so can potentiate exogenously applied norepinephrine.) It becomes concentrated in norepinephrine transmitter vesicles, replacing norepinephrine in these vesicles.  This leads to a gradual depletion of norepinephrine stores in the nerve endings.  Once inside the terminal it blocks the release of norepinephrine in response to arrival of an action potential. Spontaneous release is not affected.
+
+==Uses==
+Guanethidine was once a mainstay for hypertension resistant to other agents, and was often used safely during pregnancy, but it is no longer used in the US due to lack of availability. It is still licensed in some countries, e.g., UK, for the rapid control of blood pressure in a [[hypertensive emergency]].
+
+Intravenous nerve block ([[Intravenous regional anesthesia|Bier block]]) using guanethidine has been used to treat [[chronic pain]] caused by [[complex regional pain syndrome]].<ref name="pmid12401623">{{cite journal |vauthors=Joyce PI, Rizzi D, Caló G, Rowbotham DJ, Lambert DG |title=The effect of guanethidine and local anesthetics on the electrically stimulated mouse vas deferens |journal=Anesth. Analg. |volume=95 |issue=5 |pages=1339–43, table of contents |date=November 2002 |pmid=12401623 |doi= 10.1097/00000539-200211000-00045|url=http://www.anesthesia-analgesia.org/cgi/pmidlookup?view=long&pmid=12401623}}</ref>
+
+==References==
+{{reflist}}
+
+{{Antihypertensives and diuretics}}
+{{Antiglaucoma preparations and miotics}}
+{{Adrenergic receptor modulators}}
+{{Monoamine reuptake inhibitors}}
+
+[[Category:Alpha-adrenergic agonists]]
+[[Category:Guanidines]]
+[[Category:Azocanes]]

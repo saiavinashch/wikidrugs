@@ -1,0 +1,79 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 444188860
+| IUPAC_name = 4-(3-methylbut-2-enyl)-1,2-di(phenyl)pyrazolidine-3,5-dione
+| image = feprazone.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|feprazone}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number =  
+| ATC_prefix = M02
+| ATC_suffix = AA16
+| PubChem = 35455
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 32612
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 7BVX6J0CGR
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01305
+
+<!--Chemical data-->
+| C=20 | H=20 | N=2 | O=2 
+| molecular_weight = 320.385 g/mol
+| smiles = O=C2N(c1ccccc1)N(C(=O)C2C\C=C(/C)C)c3ccccc3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C20H20N2O2/c1-15(2)13-14-18-19(23)21(16-9-5-3-6-10-16)22(20(18)24)17-11-7-4-8-12-17/h3-13,18H,14H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = RBBWCVQDXDFISW-UHFFFAOYSA-N
+}}
+
+'''Feprazone''' (or '''prenazone''')  is a drug used for joint and muscular [[pain]].<ref>{{Cite journal 
+| doi = 10.1016/0041-008X(82)90222-8 
+| last1 = Koyama | first1 = T. 
+| last2 = Izawa | first2 = Y. 
+| last3 = Wada | first3 = H. 
+| last4 = Makita | first4 = T. 
+| last5 = Hashimoto | first5 = Y. 
+| last6 = Enomoto | first6 = M. 
+| title = Toxicological aspects of feprazone, a new nonsteroidal anti-inflammatory drug 
+| journal = Toxicology and applied pharmacology 
+| volume = 64 
+| issue = 2 
+| pages = 255–270 
+| year = 1982 
+| pmid = 7123554
+}}</ref>
+
+It is an analog of [[butazone]] but instead of a ''n''-butyl group it is [[prenylated]].
+==References==
+{{reflist}}
+
+{{Anti-inflammatory and antirheumatic products}}
+{{Topical products for joint and muscular pain}}
+
+[[Category:Nonsteroidal anti-inflammatory drugs]]
+[[Category:Pyrazolidindiones]]
+
+
+{{musculoskeletal-drug-stub}}

@@ -1,0 +1,95 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 459981656
+| IUPAC_name = 4-''tert''-butyl-''N''-[6-(2-hydroxyethoxy)-5-(2-methoxyphenoxy)-2-(pyrimidin-2-yl)pyrimidin-4-yl]benzene-1-sulfonamide
+| image = Bosentan.svg
+<!--Clinical data-->
+| tradename = Tracleer
+| Drugs.com = {{drugs.com|monograph|bosentan}}
+| MedlinePlus = a605001
+| pregnancy_category = X
+| legal_status = Rx-only
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability = 50%
+| protein_bound = >98%
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life = 5 hours
+<!--Identifiers-->
+| IUPHAR_ligand = 3494
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 147536-97-8
+| ATC_prefix = C02
+| ATC_suffix = KX01
+| ATC_supplemental =  
+| PubChem = 104865
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00559
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 94651
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = XUL93R30K2
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D01227
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 51450
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 957
+<!--Chemical data-->
+| C=27 | H=29 | N=5 | O=6 | S=1
+| molecular_weight = 551.614 g/mol
+| smiles = CC(C)(C)c1ccc(cc1)S(=O)(=O)Nc2c(c(nc(n2)c3ncccn3)OCCO)Oc4ccccc4OC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C27H29N5O6S/c1-27(2,3)18-10-12-19(13-11-18)39(34,35)32-23-22(38-21-9-6-5-8-20(21)36-4)26(37-17-16-33)31-25(30-23)24-28-14-7-15-29-24/h5-15,33H,16-17H2,1-4H3,(H,30,31,32)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GJPICJJJRGTNOD-UHFFFAOYSA-N
+}}
+
+'''Bosentan''' is a dual [[endothelin receptor antagonist]] used in the treatment of [[pulmonary artery hypertension]] (PAH). It is licensed in the [[United States]], the [[European Union]] and other countries by [[Actelion|Actelion Pharmaceuticals]] for the management of PAH under the trade name '''Tracleer'''.
+
+==Medical uses==
+Bosentan is used to treat people with moderate [[pulmonary arterial hypertension]] and to reduce the number of digital ulcers — open wounds on especially on fingertips and less commonly the knuckles — in people with [[systemic scleroderma]].<ref name=UKlabel2017>{{cite web|title=Tracleer (bosentan) 62.5 mg and 125mg film-coated tablets|url=https://www.medicines.org.uk/emc/medicine/20423|publisher=UK Electronic Medicines Compendium|accessdate=6 August 2017|language=en|date=May 2017}}</ref><ref name=USlabel2016>{{cite web|title=US Bosentan label|url=https://www.accessdata.fda.gov/drugsatfda_docs/label/2016/021290s033lbl.pdf|publisher=FDA|accessdate=6 August 2017|date=October 2016}} For label updates see [https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021290 FDA index page for NDA 021290]</ref><ref>{{cite journal|last1=Abraham|first1=S|last2=Steen|first2=V|title=Optimal management of digital ulcers in systemic sclerosis.|journal=Therapeutics and clinical risk management|date=2015|volume=11|pages=939-47|doi=10.2147/TCRM.S82561|pmid=26109864|pmc=4474386}}</ref>
+
+Bosentan causes harm to fetuses and pregnant women must not take it, and women must not become pregnant while taking it (Pregnancy Category X).  It may render [[hormonal contraceptives]] ineffective so other forms of birth control must be used.<ref name=UKlabel2017/><ref name=USlabel2016/> 
+
+In the US it is only available from doctors who follow an FDA-mandated [[risk evaluation and mitigation strategy]] (REMS) with respect to risks to fetuses and its risks of causing liver damage.  The doctor must document a negative pregnancy test for women before prescribing the drug, counsel about contraception, and give regular pregnancy tests.<ref name=USREMS>{{cite web|title=Approved Risk Evaluation and Mitigation Strategies (REMS)|url=https://www.accessdata.fda.gov/scripts/cder/rems/index.cfm?event=IndvRemsDetails.page&REMS=61|publisher=FDA|accessdate=6 August 2017}}</ref>  Because there is a high risk that bosentan causes [[liver damage]], the REMS plan also requires pre-testing for [[elevated transaminases]] and regular testing while the drug is being taken.<ref name=USREMS/>
+
+People taking [[cyclosporine]] or [[glyburide]] cannot also be prescribed bosentan.<ref name=UKlabel2017/><ref name=USlabel2016/>
+
+==Adverse effects==
+In addition to the risk of causing birth defects and of causing liver damage, bosentan has a high risk of causing edema, [[pulmonary veno-occlusive disease]], decreasing sperm counts, and decreases in [[hemoglobin]] and [[hematocrit]].<ref name=UKlabel2017/><ref name=USlabel2016/>
+
+Very common adverse effects (occurring in more than 10% of people) include headache, [[elevated transaminases]], and edema.   Common adverse effects (between 1% and 10% of people) include anemia, reduced hemoglobin, hypersensitivity reactions,  skin inflammation, itchiness, rashes, red skin, flushing, fainting, heart palpitations, low blood pressure, nasal congestion, [[gastro-esophageal reflux disease]], and diarrhea.<ref name=UKlabel2017/><ref name=USlabel2016/>
+
+==Mechanism of action==
+Bosentan is a competitive antagonist of [[endothelin]]-1 at the endothelin-A (ET-A) and endothelin-B (ET-B) receptors.  Under normal conditions, endothelin-1 binding of ET-A or ET-B receptors causes [[pulmonary vascular resistance|constriction of the pulmonary blood vessels]]. By blocking this interaction, bosentan decreases pulmonary vascular resistance.  Bosentan has a slightly higher affinity for ET-A than ET-B.<ref name="pmid20392896">{{cite journal | vauthors = Funke C, Farr M, Werner B, Dittmann S, Uberla K, Piper C, Niehaus K, Horstkotte D | title = Antiviral effect of Bosentan and Valsartan during coxsackievirus B3 infection of human endothelial cells.| journal = Journal of General Virology | volume = 91 | issue = 8 | pages =  1959–70|date=Apr 2010 | pmid = 20392896 | pmc =  | doi =10.1099/vir.0.020065-0  }}</ref>
+
+==History==
+Bosentan was studied in [[heart failure]] in a trial called REACH-1 that was terminated early in 1997 due to toxicity at the dose that was being studied; as of 2001 the results of that trial had not been published.<ref name=Nope>{{cite journal|last1=van Veldhuisen|first1=DJ|last2=Poole-Wilson|first2=PA|title=The underreporting of results and possible mechanisms of 'negative' drug trials in patients with chronic heart failure.|journal=International journal of cardiology|date=August 2001|volume=80|issue=1|pages=19-27|pmid=11532543}}</ref>
+
+It was approved for PAH in the US in 2001<ref name=USlabel2016/> and in Europe in 2002.<ref name=UKlabel2017/>
+
+By 2013 worldwide sales of bosentan were $1.57 billion.  The patents on bosentan started expiring in 2015.<ref>{{cite news|last1=Helfand|first1=Carly|title=The top 10 patent losses of 2015: Tracleer|url=http://www.fiercepharma.com/special-report/tracleer|work=FiercePharma|date=2015|language=en}}</ref>
+
+==See also==
+* [[Ambrisentan]]
+* [[Darusentan]]
+* [[Sitaxentan]]
+
+==References==
+{{reflist}}
+
+
+{{PAH rx}}
+{{Antihypertensives and diuretics}}
+{{Signaling peptide/protein receptor modulators}}
+{{Xenobiotic-sensing receptor modulators}}
+
+[[Category:Endothelin receptor antagonists]]
+[[Category:Orphan drugs]]
+[[Category:Pyrimidines]]
+[[Category:Sulfonamides]]
+[[Category:Phenol ethers]]
+[[Category:Alcohols]]
+[[Category:Tert-butyl compounds]]

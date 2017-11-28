@@ -1,0 +1,112 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 460108174
+| IUPAC_name = 3-[(1''R'')-1-(2,6-dichloro-3-fluorophenyl)ethoxy]-5-(1-piperidin-4-ylpyrazol-4-yl)pyridin-2-amine
+| image = Crizotinib.svg
+| width = 275
+
+<!--Clinical data-->
+| tradename = Xalkori
+| MedlinePlus = a612018
+| licence_EU = Xalkori
+| licence_US = Crizotinib
+| pregnancy_AU = D
+| pregnancy_US = D
+| pregnancy_category =  
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 43%
+| protein_bound = 91%
+| metabolism = Hepatic ([[CYP3A4]]/[[CYP3A5]]-mediated)
+| elimination_half-life = 42 hours
+| excretion = Faeces (63%), urine (22%)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 4903
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 877399-52-5
+| ATC_prefix = L01
+| ATC_suffix = XE16
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 64310
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 601719
+| PubChem = 11626560
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB08700
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 9801307
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 53AH36668S
+| KEGG = D09731
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| synonyms = PF-02341066<br>1066
+| PDB_ligand = VGH
+
+<!--Chemical data-->
+| C=21 | H=22 | Cl=2 | F=1 | N=5 | O=1 
+| molecular_weight = 450.337 g/mol
+| smiles = C1(=C(C=CC(=C1[C@H](OC2=C(N=CC(=C2)C3=C[N](N=C3)C4CCNCC4)N)C)Cl)F)Cl
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H22Cl2FN5O/c1-12(19-16(22)2-3-17(24)20(19)23)30-18-8-13(9-27-21(18)25)14-10-28-29(11-14)15-4-6-26-7-5-15/h2-3,8-12,15,26H,4-7H2,1H3,(H2,25,27)/t12-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = KTEIFNKAUNYNJU-GFCCVEGCSA-N
+}}
+'''Crizotinib''' (trade name '''Xalkori''',<ref name="Xalkori20110826">{{cite web | url = http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm269856.htm | title = FDA approves Xalkori with companion diagnostic for a type of late-stage lung cancer | publisher = U.S. Food and Drug Administration | work = | accessdate = }}</ref> [[Pfizer]]) is an anti-cancer drug acting as an ALK ([[anaplastic lymphoma kinase]]) and ROS1 ([[c-ros oncogene 1]]) inhibitor,<ref name="pmid22594847">{{cite journal |vauthors=Forde PM, Rudin CM | title = Crizotinib in the treatment of non-small-cell lung cancer | journal = Expert Opin Pharmacother | volume = 13 | issue = 8 | pages = 1195–201 | year = 2012 | pmid = 22594847 | doi = 10.1517/14656566.2012.688029 }}</ref><ref name="pmid23671386">{{cite journal | author = Roberts PJ | title = Clinical use of crizotinib for the treatment of non-small cell lung cancer | journal = Biologics | volume = 7 | issue = | pages = 91–101 | year = 2013 | pmid = 23671386 | pmc = 3643289 | doi = 10.2147/BTT.S29026  }}</ref><ref name="pmid24455567">{{cite journal |vauthors=Sahu A, Prabhash K, Noronha V, Joshi A, Desai S | title = Crizotinib: A comprehensive review | journal = South Asian J Cancer | volume = 2 | issue = 2 | pages = 91–7 | year = 2013 | pmid = 24455567 | pmc = 3876666 | doi = 10.4103/2278-330X.110506 | url = }}</ref> approved for treatment of some [[non-small cell lung carcinoma]] (NSCLC) in the US and some other countries, and undergoing clinical trials testing its safety and efficacy in [[anaplastic large cell lymphoma]], [[neuroblastoma]], and other advanced solid tumors in both adults and children.<ref name=ClinicalTrial1/>
+
+== Mechanism of action ==
+[[File:2xp2.png|thumb|Human anaplastic lymphoma kinase in complex with crizotinib. PDB {{PDBe|2xp2}}<ref name="pmid21812414">{{cite journal |vauthors=Cui JJ, Tran-Dubé M, Shen H, Nambu M, Kung PP, Pairish M, Jia L, Meng J, Funk L, Botrous I, McTigue M, Grodsky N, Ryan K, Padrique E, Alton G, Timofeevski S, Yamazaki S, Li Q, Zou H, Christensen J, Mroczkowski B, Bender S, Kania RS, Edwards MP | title = Structure based drug design of crizotinib (PF-02341066), a potent and selective dual inhibitor of mesenchymal-epithelial transition factor (c-MET) kinase and anaplastic lymphoma kinase (ALK) | journal = J. Med. Chem. | volume = 54 | issue = 18 | pages = 6342–63 | year = 2011 | pmid = 21812414 | doi = 10.1021/jm2007613 }}</ref>]]
+Crizotinib has an [[aminopyridine]] structure, and functions as a [[protein kinase]] inhibitor by competitive binding within the [[Adenosine triphosphate|ATP]]-binding pocket of target kinases. About 4% of patients with [[non-small cell lung carcinoma]] have a [[chromosome|chromosomal]] rearrangement that generates a [[fusion gene]] between ''[[EML4]]'' ('echinoderm microtubule-associated protein-like 4') and [[Anaplastic lymphoma kinase|''ALK'']] ('anaplastic lymphoma kinase'), which results in constitutive [[kinase]] activity that contributes to [[carcinogenesis]] and seems to drive the [[malignant]] [[phenotype]].<ref name=CME/> The kinase activity of the fusion protein is inhibited by crizotinib.<ref name=CME/> Patients with this gene fusion are typically younger non-smokers who do not have mutations in either the ''[[epidermal growth factor receptor]]'' gene (EGFR) or in the ''[[K-Ras]]'' gene.<ref name=CME/><ref name=HemOncToday/> The number of new cases of [[ALK-fusion NSLC|''ALK''-fusion NSLC]] is about 9,000 per year in the U.S. and about 45,000 worldwide.<ref name=WSJ/><ref name=PfizerPress/>
+
+''ALK'' mutations are thought to be important in driving the malignant phenotype in about 15% of cases of [[neuroblastoma]], a rare form of peripheral nervous system cancer that occurs almost exclusively in very young children.<ref name='Janoueix'>{{cite journal |vauthors=Janoueix-Lerosey I, Schleiermacher G, Delattre O | title = Molecular pathogenesis of peripheral neuroblastic tumors | journal = Oncogene | volume = 29 | issue = 11 | pages = 1566–79 | year = 2010 |  pmid = 20101209 | doi = 10.1038/onc.2009.518  }}</ref>
+
+Crizotinib inhibits the ''[[c-Met]]''/[[Hepatocyte growth factor receptor]] (HGFR) [[tyrosine kinase]], which is involved in the oncogenesis of a number of other [[histology|histological]] forms of [[malignant]] [[neoplasms]].<ref name='TrialNCT00585195'>{{ClinicalTrialsGov|NCT00585195|A Study Of Oral PF-02341066, A c-Met/Hepatocyte Growth Factor Tyrosine Kinase Inhibitor, In Patients With Advanced Cancer}}</ref>
+
+Crizotinib is currently thought to exert its effects through modulation of the growth, migration, and invasion of malignant cells.<ref name="TrialNCT00585195"/><ref name='Christensen_2007'>{{cite journal |vauthors=Christensen JG, Zou HY, Arango ME, Li Q, Lee JH, McDonnell SR, Yamazaki S, Alton GR, Mroczkowski B, Los G | title = Cytoreductive antitumor activity of PF-2341066, a novel inhibitor of anaplastic lymphoma kinase and c-Met, in experimental models of anaplastic large-cell lymphoma | journal = Mol. Cancer Ther. | volume = 6 | issue = 12 Pt 1 | pages = 3314–22 | year = 2007 | pmid = 18089725 | doi = 10.1158/1535-7163.MCT-07-0365 }}</ref>  Other studies suggest that crizotinib might also act via inhibition of [[angiogenesis]] in malignant tumors.<ref name = "Zou_2007">{{cite journal |vauthors=Zou HY, Li Q, Lee JH, Arango ME, McDonnell SR, Yamazaki S, Koudriakova TB, Alton G, Cui JJ, Kung PP, Nambu MD, Los G, Bender SL, Mroczkowski B, Christensen JG | title = An orally available small-molecule inhibitor of c-Met, PF-2341066, exhibits cytoreductive antitumor efficacy through antiproliferative and antiangiogenic mechanisms | journal = Cancer Res. | volume = 67 | issue = 9 | pages = 4408–17 | year = 2007 | pmid = 17483355 | doi = 10.1158/0008-5472.CAN-06-4443 }}</ref>
+
+==Approvals and indications==
+On August 26, 2011, the U.S. [[Food and Drug Administration]]  approved crizotinib (Xalkori) to treat certain late-stage (locally advanced or metastatic) non-small cell [[lung cancer]]s that express the abnormal [[anaplastic lymphoma kinase]] (ALK) gene.<ref name="Xalkori20110826"/> Approval required a [[companion diagnostic|companion molecular test]] for the [[EML4-ALK fusion]]. In March 2016,  the U.S. [[Food and Drug Administration]] approved crizotinib in [[ROS1]]-positive non-small cell lung cancer.<ref>{{cite web|url=http://www.fiercepharma.com/pharma/nice-backs-pfizer-s-xalkori-after-squeezing-out-a-new-discount|title=NICE backs Pfizer's Xalkori after squeezing out a new discount - FiercePharma|publisher=}}</ref>
+
+== Clinical trials ==
+
+Crizotinib caused tumors to shrink or stabilize in 90% of 82 patients carrying the ''ALK'' fusion gene.<ref name=HemOncToday/><ref name=WSJ/> Tumors shrank at least 30% in 57% of people treated.<ref name=WSJ/>
+<ref>{{cite web |url=http://www.ascopost.com/articles/july-2010/novel-agent-demonstrates-striking-activity-in-alk-positive-nsclc |title=Novel Agent Demonstrates Striking Activity in ALK-positive NSCLC |author=Helwick |year=2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20110128120505/http://www.ascopost.com/articles/july-2010/novel-agent-demonstrates-striking-activity-in-alk-positive-nsclc |archivedate=2011-01-28 |df= }} NB Fig 1.</ref>  
+Most had adenocarcinoma, and had never smoked or were former smokers.<ref name=HemOncToday/> They had undergone treatment with an average of three other drugs prior to receiving crizotinib, and only 10% were expected to respond to standard therapy.<ref name=HemOncToday/><ref name=MSNBC/>  They were given 250&nbsp;mg crizotinib twice daily for a median duration of six months.<ref name=HemOncToday/>  Approximately 50% of these patients suffered at least one side effect, such as nausea, vomiting, or diarrhea.<ref name=MSNBC/>  Some responses to crizotinib have lasted up to 15 months.<ref name=MSNBC/>
+
+A phase 3 trial, PROFILE 1007,<ref name="urlwww.pfizer.com">{{cite web | url = http://www.pfizer.com/files/news/asco/crizotinib_fact_sheet.pdf | title = Crizotinib Clinical Trials – Currently Ongoing and/or Enrolling | publisher = Pfizer | work = Fact Sheet | accessdate = }}</ref> compares crizotinib to standard second line chemotherapy ([[pemetrexed]] or [[taxotere]]) in the treatment of ''ALK''-positive NSCLC.<ref name=ClinicalTrial1/><ref name=PfizerPress/><ref name=ClinicalTrial2/>  Additionally, a phase 2 trial, PROFILE 1005, studies patients meeting similar criteria who have received more than one line of prior chemotherapy.<ref name=PfizerPress/>
+
+Crizotinib is also being tested in clinical trials of advanced disseminated [[anaplastic large-cell lymphoma]],<ref name="TrialNCT00585195"/> and [[neuroblastoma]].<ref name='NeuroblastomaTrial'>{{cite journal |vauthors=Wood AC, Laudenslager M, Haglund EA, Attiyeh EF, Pawel B, Courtright J, Plegaria J, Christensen JG, Maris JM, Mosse YP | title = Inhibition of ALK mutated neuroblastomas by the selective inhibitor PF-02341066 | journal = J Clin Oncol. | year = 2009 | volume = 27 | issue = 15s. suppl; abstr 10008b | url = http://meeting.ascopubs.org/cgi/content/short/27/15S/10008b}}</ref>
+
+==See also==
+*[[ALK inhibitor]]
+*[[Targeted molecular therapy for neuroblastoma]]
+*[[Entrectinib]] - ''ALK/ROS1/NTRK'' inhibitor in phase II clinical testing
+
+==References==
+{{reflist|2|refs=
+<ref name=ClinicalTrial1>{{ClinicalTrialsGov|NCT00932451|An Investigational Drug, PF-02341066, Is Being Studied In Patients With Advanced Non-Small Cell Lung Cancer With A Specific Gene Profile Involving The Anaplastic Lymphoma Kinase (ALK) Gene}}</ref>
+<ref name=CME>{{cite web | url = http://cme.medscape.com/viewarticle/720896_transcript | title = Maintenance Therapy for Non-Small Cell Lung Cancer | date = 2010-05-12 | publisher = MedscapeCME | accessdate = 2010-06-07}}</ref>
+<ref name=HemOncToday>{{cite web | url = http://www.hemonctoday.com/article.aspx?rid=65251 | title = ALK inhibitor crizotinib has high response rate in patients with ALK-positive NSCLC | date = 2010-06-05 | publisher = HemOncToday | accessdate = 2010-06-07}}</ref>
+<ref name=WSJ>{{cite news | url = https://www.wsj.com/articles/SB10001424052748704002104575291103764336126?mod=WSJ_WSJ_US_News_3 | title = Advances Come in War on Cancer  | date = 2010-06-07 | publisher = The Wall Street Journal | accessdate = 2010-06-07 | first=Ron | last=Winslow}}</ref>
+<ref name=PfizerPress>{{cite press release | title = Pfizer Oncology To Present New Clinical Data From Ten Molecules Across Multiple Tumor Types | url = http://media.pfizer.com/files/news/press_releases/2010/asco_curtain_raiser_052010.pdf | publisher = Pfizer Oncology | date = 2010-05-20 | accessdate = 2010-06-07 | deadurl = yes | archiveurl = https://web.archive.org/web/20100612203421/http://media.pfizer.com/files/news/press_releases/2010/asco_curtain_raiser_052010.pdf | archivedate = 2010-06-12 | df =  }}</ref>
+<ref name=MSNBC>{{cite web | url = http://www.msnbc.msn.com/id/37527542/ns/health-cancer/ | title = Gene-based lung cancer drug shows promise  | date = 2010-05-07 | publisher = MSNBC.com | accessdate = 2010-06-07}}</ref>
+<ref name=ClinicalTrial2>{{ClinicalTrialsGov|NCT00932893|An Investigational Drug, PF-02341066 Is Being Studied Versus Standard Of Care In Patients With Advanced Non-Small Cell Lung Cancer With A Specific Gene Profile Involving The Anaplastic Lymphoma Kinase (ALK) Gene}}</ref>
+}}
+
+{{Extracellular chemotherapeutic agents}}
+{{Growth factor receptor modulators}}
+
+[[Category:Non-receptor tyrosine kinase inhibitors]]
+[[Category:Chloroarenes]]
+[[Category:Fluoroarenes]]
+[[Category:Pyridines]]
+[[Category:Pfizer]]
+[[Category:Pyrazoles]]
+[[Category:Piperidines]]

@@ -1,0 +1,66 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 266522473
+| IUPAC_name = (3''S'')-3-<nowiki/>{[(1''S'')-1-carbamoyl-2-phenylethyl]carbamoyl}-3-[(2''S'')-2-[(2''S'')-2-<nowiki/>{2-[(3''R'')-2-[(2''S'')-2-[(2''S'')-2-[(2''S'')-4-carbamoyl-2-<nowiki/>{[(2''S'')-5-oxopyrrolidin-2-yl]formamido}butanamido]-3-carboxypropanamido]-3-[4-(sulfooxy)phenyl]propanamido]-3-hydroxybutanamido]acetamido}-3-(1''H''-indol-3-yl)propanamido]-4-(methylsulfanyl)butanamido]propanoic acid
+| image = Ceruletide.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|ceruletide}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 17650-98-5
+| ATC_prefix = V04
+| ATC_suffix = CC04
+| PubChem = 16219178
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB00403 
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 147304
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 888Y08971B
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D03442
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201355
+
+<!--Chemical data-->
+| C=58 | H=73 | N=13 | O=21 | S=2 
+| molecular_weight = 1352.40 g/mol
+}}
+
+'''Ceruletide''' ([[International Nonproprietary Name|INN]]), also known as '''cerulein''' or '''caerulein''', is a ten amino acid [[oligopeptide]] that stimulates [[smooth muscle]] and increases digestive secretions.  Ceruletide is similar in action and composition to [[cholecystokinin]]. It stimulates gastric, biliary, and pancreatic secretion; and certain smooth muscle. It is used in paralytic ileus and as diagnostic aid in pancreatic malfunction.  It is used to induce [[pancreatitis]] in experimental animal models.
+
+[[Image:Hyla caerula Korallen-Laubfrosch.jpg|thumb|upright=1.5|The tree frog ''Litoria caerulae'', formerly named ''Hyla caerulae''.]]
+Ceruletide was discovered and its structure elucidated in 1967 by Australian and Italian scientists from dried skins of the [[Australian green tree frog]] (''Litoria caerulea'', formerly ''Hyla caerulea'').  Its amino acid sequence is Pglu-Gln-Asp-Tyr[SO<sub>3</sub>H]-Thr-Gly-Trp-Met-Asp-Phe-NH<sub>2</sub>.<ref>{{Cite journal | doi = 10.1007/BF02154119 |author1=A. Anastasi |author2=V. Erspamer |author3=R. Endean | title = Isolation and structure of caerulein, an active decapeptide from the skin of ''Hyla caerulea'' | journal = Experentia | volume = 23 | pages = 699–700 | year = 1967 | issue = 9}}</ref><ref>{{cite journal |author1=G. De Caro |author2=R. Endean |author3=V. Esparmer |author4=M. Roseghini | journal = Br J of Pharmac Chemother | volume = 33 | issue = 1 | title = Occurrence of caerulein in extracts of the skin of ''Hyla caerulea'' and other Australian hylids | pages = 48–58 | year = 1968 | pmid = 5660165 | pmc = 1570274 | doi=10.1111/j.1476-5381.1968.tb00473.x}}</ref>
+
+== Induction of pancreatitis ==
+Ceruletide upregulates pancreatic [[acinar cell]] [[intercellular adhesion molecule-1]] (ICAM-1) proteins through intracellular upregulation of [[NF-κB]].  Surface ICAM-1 in turn promotes neutrophil adhesion onto acinar cells enhancing pancreatic [[inflammation]].<ref>{{Cite journal |author1=V. Zaninovic |author2=A. S. Gukovskaya |author3=I. Gukovsky |author4=M. Mouria |author5=S. J. Pandol | journal = Am J Physiol Gastrointest Liver Physiol | volume = 279 | issue = 4 | title = Cerulein upregulates ICAM-1 in pancreatic acinar cells, which mediates neutrophil adhesion to these cells | pages = G666–676 | year = 2000 | url = http://ajpgi.physiology.org/content/279/4/G666.full.pdf+html | pmid = 11005752 }}</ref>  In addition to promoting the inflammatory cell reaction to acinar cells, ceruletide induces pancreatitis through dysregulation of digestive enzyme production and cytoplasmic vacuolization, leading to acinar cell death and pancreatic edema.  Ceruletide also activates [[NADPH oxidase]], a source of reactive oxygen species contributing to inflammation, as well as the [[Janus kinase]]/signal transducer, another inflammation inducer.<ref>{{Cite journal | doi = 10.5009/gnl.2008.2.2.74 | author = H. Kim | journal = Gut and liver | title = Cerulein Pancreatitis: Oxidative Stress, Inflammation, and Apoptosis | volume = 2 | pages = 74–80 | year = 2008 | pmid = 20485614 | pmc = 2871591 | issue=2}}</ref>
+
+== See also ==
+* [[Pancreatitis]]
+
+==References==
+{{reflist}}
+
+{{Diagnostic agents}}
+
+[[Category:Peptides]]

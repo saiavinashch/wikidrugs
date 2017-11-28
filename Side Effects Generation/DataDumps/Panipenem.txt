@@ -1,0 +1,66 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 397252594
+| IUPAC_name = (5''R'',6''S'')-3-{[(3''S'')-1-ethanimidoylpyrrolidin-3-yl]sulfanyl}- 6-[(''1''R)-1-hydroxyethyl]-7-oxo-1-azabicyclo[3.2.0]hept-2-ene- 2-carboxylic acid
+| image = Panipenem.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|panipenem}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 87726-17-8
+| ATC_prefix = J01
+| ATC_suffix = DH55
+| ATC_supplemental = (with [[betamipron]])
+| PubChem = 72015
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = W9769W09JF
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 339323
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 16736434
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=15 | H=21 | N=3 | O=4 | S=1 
+| molecular_weight = 339.40 g/mol
+| smiles            = C[C@H]([C@@H]1[C@H]2CC(=C(N2C1=O)C(=O)O)S[C@H]3CCN(C3)C(=N)C)O
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C15H21N3O4S/c1-7(19)12-10-5-11(13(15(21)22)18(10)14(12)20)23-9-3-4-17(6-9)8(2)16/h7,9-10,12,16,19H,3-6H2,1-2H3,(H,21,22)/t7-,9+,10-,12-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = TYMABNNERDVXID-DLYFRVTGSA-N
+}}
+'''Panipenem''' ([[International Nonproprietary Name|INN]]) is a [[carbapenem]] antibiotic used in combination with [[betamipron]]. It is not used in the United States
+
+==See also==
+*[[Panipenem/betamipron]]
+
+
+{{CephalosporinAntiBiotics}}
+
+[[Category:Carbapenem antibiotics]]
+[[Category:Pyrrolidines]]
+
+
+{{antibiotic-stub}}

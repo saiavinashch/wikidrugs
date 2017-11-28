@@ -1,0 +1,75 @@
+{{Refimprove|date=September 2009}}
+
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 396883483
+| IUPAC_name = 2,7-Bis(2-diethylaminoethoxy)fluoren-9-one
+| image = Tilorone.svg
+| width = 275
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|tilorone}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = [[Oral administration|By mouth]] ([[Tablet (pharmacy)|tablets]])
+
+<!--Pharmacokinetic data-->
+| bioavailability = 60%
+| protein_bound = ~80%
+| metabolism = Nil
+| elimination_half-life = 48 hours 
+| excretion = Feces (70%), urine (9%)<ref>{{cite web|title=Registry of Medicinal Products (RLS). Tilorone: Prescribing Information|url=http://www.rlsnet.ru/mnn_index_id_2731.htm|accessdate=2 October 2016|language=Russian}}</ref>
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 27591-97-5
+| ATC_prefix = None
+| ATC_suffix =  
+| PubChem = 5475
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = O6W7VEW6KS
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 47298
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 5276
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D06149
+
+<!--Chemical data-->
+| C=25 | H=34 | N=2 | O=3 
+| molecular_weight = 410.55 g/mol
+| smiles = CCN(CC)CCOc1ccc-2c(c1)C(=O)c3c2ccc(c3)OCCN(CC)CC
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C25H34N2O3/c1-5-26(6-2)13-15-29-19-9-11-21-22-12-10-20(30-16-14-27(7-3)8-4)18-24(22)25(28)23(21)17-19/h9-12,17-18H,5-8,13-16H2,1-4H3
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = MPMFCABZENCRHV-UHFFFAOYSA-N
+}}
+
+'''Tilorone''' (trade names '''Amixin''', '''Lavomax''' and others) is the first recognized [[Chemical synthesis|synthetic]], small [[molecular weight]] compound that is an orally active [[interferon]] inducer.<ref name="stringfellow">{{cite journal |vauthors=Stringfellow D, Glasgow L |title=Tilorone hydrochloride: an oral interferon-inducing agent |journal=Antimicrob Agents Chemother |volume=2 |issue=2 |pages=73–8 |year=1972 |pmid=4670490 |pmc=444270 |doi=10.1128/aac.2.2.73}}</ref> It is used as an [[antiviral drug]].
+
+==Pharmacology==
+Tilorone activates the production of interferon.<ref name="stringfellow" />
+
+According to the results of clinical tests, conducted in [[Kiev]], the efficacy of prophylactic action of tilorone was 93.7%.{{Citation needed|date=November 2010}}
+
+==Uses==
+Tilorone is used for different viral diseases: [[influenza]], [[hepatitis]], [[herpes]], [[diarrhea]] and others. In addition, it is used in the treatment of [[multiple sclerosis]], [[urinary tract infections]] and other viral and [[autoimmune]] diseases.
+
+==References==
+{{Reflist}}
+
+[[Category:Antivirals]]
+[[Category:Fluorenones]]
+[[Category:Phenol ethers]]
+
+{{pharma-stub}}

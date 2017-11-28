@@ -1,0 +1,96 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 
+| IUPAC_name = (3''S'',8''R'',9''S'',10''R'',13''S'',14''S'')-10,13-dimethyl-17-pyridin-3-yl-2,3,4,7,8,9,11,12,14,15-decahydro-1''H''-cyclopenta[''a'']phenanthren-3-ol
+| image = Abiraterone.svg
+| width = 225
+| image2 = Abiraterone3Dan.gif
+| width2 = 225
+
+<!--Clinical data-->
+| tradename = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = 
+| legal_UK = 
+| legal_US = 
+| legal_status = 
+| routes_of_administration = 
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion =
+
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 154229-19-3
+| CAS_supplemental = 
+| ATC_prefix = L02
+| ATC_suffix = BX03
+| ATC_supplemental = 
+| PubChem = 132971
+| IUPHAR_ligand = 
+| DrugBank_Ref = 
+| DrugBank = 
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 117349
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = G819A456D0
+| KEGG = 
+| ChEBI = 
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 
+| PDB_ligand = AER
+
+<!--Chemical data-->
+| C=24 | H=31 | N=1 | O=1
+| molecular_weight = 
+| SMILES = C[C@]12CC[C@@H](CC1=CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC=C4C5=CN=CC=C5)C)O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C24H31NO/c1-23-11-9-18(26)14-17(23)5-6-19-21-8-7-20(16-4-3-13-25-15-16)24(21,2)12-10-22(19)23/h3-5,7,13,15,18-19,21-22,26H,6,8-12,14H2,1-2H3/t18-,19-,21-,22-,23-,24+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GZOSMCIZMLWJML-VJLLXTKPSA-N
+| synonyms = CB-7598; 17-(3-Pyridyl)androsta-5,16-dien-3β-ol; Abiraterol
+}}
+
+'''Abiraterone''', developmental code name '''CB-7598''', also known as '''17-(3-pyridyl)androsta-5,16-dien-3β-ol''', is a [[synthetic compound|synthetic]], [[steroid]]al [[CYP17A1 inhibitor]]. It is the [[active metabolite]] of [[abiraterone acetate]], an [[ester]] and [[prodrug]] of abiraterone.
+
+A [[metabolite]] of abiraterone has been found to act as an [[agonist]] of the [[androgen receptor]], and may antagonize the clinical effectiveness of abiraterone acetate.<ref name="LiAlyamani2016">{{cite journal|date=May 2016|title=Redirecting abiraterone metabolism to fine-tune prostate cancer anti-androgen therapy|journal=Nature|volume=533|issue=7604|pages=547–51|doi=10.1038/nature17954|pmid=27225130|vauthors=Li Z, Alyamani M, Li J, Rogacki K, Abazeed M, Upadhyay SK, Balk SP, Taplin ME, Auchus RJ, Sharifi N}}</ref>
+
+==Abiraterone acetate==
+{{Main|Abiraterone acetate}}
+[[Abiraterone acetate]] (brand names ''Zytiga'', ''Abiratas'', ''Abretone'', ''Abirapro'') is used in the treatment of [[prostate cancer]].<ref name="FischerChilders2016">{{cite book|author1=Janos Fischer|author2=Wayne E. Childers|title=Successful Drug Discovery|url=https://books.google.com/books?id=qGlxDQAAQBAJ&pg=PA117|date=4 November 2016|publisher=Wiley|isbn=978-3-527-80032-2|pages=117–135}}</ref><ref name="Neidle2013">{{cite book|author=Stephen Neidle|title=Cancer Drug Design and Discovery|url=https://books.google.com/books?id=HS6IAAAAQBAJ&pg=PA331|date=30 September 2013|publisher=Academic Press|isbn=978-0-12-397228-6|pages=331–337}}</ref> In addition to acting as an [[irreversible inhibitor|irreversible]] [[enzyme inhibitor|inhibitor]] of [[CYP17A1]] (17α-hydroxylase/17,20-lyase), abiraterone inhibits [[3β-hydroxysteroid dehydrogenase]] (3β-HSD), [[steroid 11β-hydroxylase]] (CYP11B1), [[5α-reductase]] (via a [[metabolite]])<ref name="LiBishop2015">{{cite journal | vauthors = Li Z, Bishop AC, Alyamani M, Garcia JA, Dreicer R, Bunch D, Liu J, Upadhyay SK, Auchus RJ, Sharifi N | title = Conversion of abiraterone to D4A drives anti-tumour activity in prostate cancer | journal = Nature | volume = 523 | issue = 7560 | pages = 347–51 | date = July 2015 | pmid = 26030522 | doi = 10.1038/nature14406 | pmc=4506215}}</ref> and certain [[hepatic]] [[cytochrome P450]] [[enzyme]]s (e.g., [[CYP1A2]], [[CYP2C9]], and [[CYP3A4]]).<ref name="pmid24276076">{{cite journal | vauthors = Yin L, Hu Q | title = CYP17 inhibitors--abiraterone, C17,20-lyase inhibitors and multi-targeting agents | journal = Nature Reviews. Urology | volume = 11 | issue = 1 | pages = 32–42 | date = January 2014 | pmid = 24276076 | doi = 10.1038/nrurol.2013.274 }}</ref> The drug acts as a [[partial agonist|partial antagonist]] of the [[androgen receptor]] and as an [[agonist]] of the [[estrogen receptor]].<ref name="pmid24276076" /><ref name="pmid27083183">{{cite journal | vauthors = Capper CP, Larios JM, Sikora MJ, Johnson MD, Rae JM | title = The CYP17A1 inhibitor abiraterone exhibits estrogen receptor agonist activity in breast cancer | journal = Breast Cancer Research and Treatment | volume = 157 | issue = 1 | pages = 23–30 | date = May 2016 | pmid = 27083183 | doi = 10.1007/s10549-016-3774-3 }}</ref>
+
+==References==
+* [[Δ4-Abiraterone|Δ<sup>4</sup>-Abiraterone]]
+
+==References==
+{{Reflist|2}}
+
+
+{{Androgen receptor modulators}}
+{{Estrogen receptor modulators}}
+
+[[Category:3β-Hydroxysteroid dehydrogenase inhibitors]]
+[[Category:5α-Reductase inhibitors]]
+[[Category:11β-Hydroxylase inhibitors]]
+[[Category:Alcohols]]
+[[Category:Androstanes]]
+[[Category:Antiandrogens]]
+[[Category:CYP17A1 inhibitors]]
+[[Category:Estrogens]]
+[[Category:Hormonal antineoplastic drugs]]
+[[Category:Human drug metabolites]]
+[[Category:Prostate cancer]]
+[[Category:Pyridines]]
+[[Category:Cyclopentenes]]
+
+
+{{steroid-stub}}
+{{antineoplastic-drug-stub}}

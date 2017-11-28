@@ -1,0 +1,101 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464388214
+| IUPAC_name = 1-(2-Methyl-5-nitro-1''H''-imidazol-1-yl)propan-2-ol
+| image = Secnidazole.svg
+| width = 160
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|secnidazole}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number =  3366-95-8
+| ATC_prefix = P01
+| ATC_suffix = AB07
+| ATC_supplemental =  
+| PubChem = 71815
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 64839
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = R3459K699K
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07353
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 498847
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=7 | H=11 | N=3 | O=3 
+| molecular_weight = 185.180 g/mol
+| smiles = [O-][N+](=O)c1cnc(n1CC(O)C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C7H11N3O3/c1-5(11)4-9-6(2)8-3-7(9)10(12)13/h3,5,11H,4H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = KPQZUUQMTUIKBP-UHFFFAOYSA-N
+| synonyms = PM 185184, RP 14539
+}}
+
+'''Secnidazole''' (trade names '''Flagentyl''', '''Sindose''', '''Secnil''') is a [[nitroimidazole]] [[anti-infective]]. Effectiveness in the treatment of [[dientamoebiasis]] has been reported.<ref>{{Cite journal 
+| doi = 10.1046/j.1469-0691.2003.00504.x 
+| pmid = 12588330 
+| year = 2003 
+| last1 = Girginkardeşler | first1 = N. 
+| last2 = Coşkun 
+| last3 = Cüneyt Balcioğlu 
+| last4 = Ertan 
+| last5 = Ok 
+| title = Dientamoeba fragilis, a neglected cause of diarrhea, successfully treated with secnidazole 
+| volume = 9 
+| issue = 2 
+| pages = 110–113 
+| journal = Clinical Microbiology and Infection | first2 = S. | first3 = I. | first4 = P. | first5 = U. Z.
+}}</ref> It has also been tested against ''[[Atopobium vaginae]]''.<ref>{{Cite journal | first1 = E.
+| last2 = Dubreuil | first2 = L.
+| last3 = Brauman | first3 = M.
+| last1 = De Backer
+| last4 = Acar | first4 = J.
+| last5 = Vaneechoutte | first5 = M.
+| issue = 5
+| title = In vitro activity of secnidazole against Atopobium vaginae, an anaerobic pathogen involved in bacterial vaginosis
+| journal = Clinical Microbiology and Infection
+| pages = 470–472 
+| doi = 10.1111/j.1469-0691.2009.02852.x
+| year = 2009
+| pmid = 19548924
+| volume = 16 
+}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{cite journal | pmid = 8706597| year = 1996| author1 = Gillis| first1 = J. C.| title = Secnidazole. A review of its antimicrobial activity, pharmacokinetic properties and therapeutic use in the management of protozoal infections and bacterial vaginosis| journal = Drugs| volume = 51| issue = 4| pages = 621–38| last2 = Wiseman| first2 = L. R.| doi=10.2165/00003495-199651040-00007}}
+
+{{Agents against amoebozoa}}
+
+[[Category:Nitroimidazole antibiotics]]
+[[Category:Antiprotozoal agents]]
+
+
+{{antiinfective-drug-stub}}

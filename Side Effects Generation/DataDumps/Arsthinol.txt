@@ -1,0 +1,55 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 457817818
+| ImageFile = Arsthinol.svg
+| ImageFile_Ref = {{Chemboximage|correct|??}}
+| ImageSize = 244
+| ImageName = Structural formula of arsthinol
+| SystematicName = ''N''-<nowiki/>{2-Hydroxy-5-[4-(hydroxymethyl)-1,3,2-dithiarsolan-2-yl]phenyl}acetamide
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = QNT09A162Y
+| CASNo = 119-96-0
+| CASNo_Ref = {{cascite|changed|??}}
+| PubChem = 8414
+| ChemSpiderID = 8107
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| EINECS = 204-361-7
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07356
+
+| SMILES = CC(=O)NC1=C(O)C=CC(=C1)[As]1SCC(CO)S1
+| SMILES1 = O=C(Nc2cc([As]1SCC(S1)CO)ccc2O)C
+| StdInChI = 1S/C11H14AsNO3S2/c1-7(15)13-10-4-8(2-3-11(10)16)12-17-6-9(5-14)18-12/h2-4,9,14,16H,5-6H2,1H3,(H,13,15)
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| InChI = 1/C11H14AsNO3S2/c1-7(15)13-10-4-8(2-3-11(10)16)12-17-6-9(5-14)18-12/h2-4,9,14,16H,5-6H2,1H3,(H,13,15)
+| StdInChIKey = MRUDSZSRLQAPOG-UHFFFAOYSA-N
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| InChIKey = MRUDSZSRLQAPOG-UHFFFAOYAP}}
+|Section2={{Chembox Properties
+| C=11 | H=14 | As=1 | N=1 | O=3 | S=2}}
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = P01
+| ATCCode_suffix = AR01
+| ATC_Supplemental = {{ATCvet|P51|AD01}}
+| AdminRoutes = Oral
+| Metabolism = 89 % Hepatic<ref>{{cite journal | last1 = Cristau | first1 = B | last2 = Chabas | first2 = ME | last3 = Placidi | first3 = M | year = 1975 | title = Voies et cinétiques d'excrétion de l'arsenic chez le Cobaye après injection de divers médicaments organo-arséniés | url = | journal = [[Ann Pharm Fr]] | volume = 33 | issue = | pages = 577–89 }}</ref>}}
+}}
+'''Arsthinol''' ([[International Nonproprietary Name|INN]]) is an [[antiprotozoal agent]]. It was synthesized for the first time in 1949 by Ernst A.H. Friedheim by complexation of [[acetarsol]] with 2,3-dimercaptopropanol ([[British anti-Lewisite]])<ref>{{cite journal | last1 = Friedheim | first1 = Ernst AH | year = 1949 | title = A Five Day Peroral Treatment of Yaws with STB, a New Trivalent Arsenical | journal = [[Am J Trop Med Hyg]] | volume = s1-29 | issue = 2 | pages = 185–188 }}</ref> and has been demonstrated to be effective against [[amoebiasis]] and [[yaws]]. It was marketed few years later by Endo Products (Balarsen, Tablets, 0.1 g).<ref>{{cite journal | last1 = Anonyme | first1 =  | year = 1953 | title = New and nonofficial remedies; arsthinol | url = | journal = [[J Am Med Assoc]] | volume = 152 | issue = | page = 531 }}</ref>
+Among trivalent organoarsenicals, arthinol was considered as very well tolerated.<ref>{{cite journal | last1 = Brown | first1 = CH | last2 = Gebhart | first2 = WF | last3 = Reich | first3 = A | year = 1956 | title = Intestinal amebiasis: incidence, symptoms, and treatment with arsthinol (Balarsen) | url = | journal = [[JAMA (journal)|JAMA]] | volume = 160 | issue = | pages = 360–363 | doi=10.1001/jama.1956.02960400018005}}</ref> Recently, it was studied for its anticancer activity.<ref>{{cite journal | last1 = Gibaud | first1 = S | last2 = Alfonsi | first2 = R | last3 = Mutzenhardt | first3 = P | display-authors = 3 | last4 = et al | year = 2006 | title = (2-Phenyl-[1, 3, 2] dithiarsolan-4-yl)-methanol derivatives show in vitro antileukemic activity | url = | journal = [[J Organomet Chem]] | volume = 691 | issue = | pages = 1081–1084 | doi=10.1016/j.jorganchem.2005.11.007}}</ref><ref>{{cite journal | last1 = Becherirat | first1 = S. | last2 = Lanhers | first2 = M.-C. | last3 = Socha | first3 = M. | last4 = Yemloul | first4 = M. | last5 = Astier | first5 = A. | last6 = Loboda | first6 = C. | last7 = Aniceto | first7 = N. | last8 = Gibaud | first8 = S. | year = 2013 | title = The antitumor effects of an arsthinol-cyclodextrin complex in an heterotopic mouse model of glioma | url = | journal = [[Eur J Pharm Biopharm]] | volume =  85| issue = | pages =  560–568| doi = 10.1016/j.ejpb.2013.06.021 }}</ref>
+
+==References==
+{{reflist}}
+
+{{Agents against amoebozoa}}
+
+[[Category:Antiprotozoal agents]]
+[[Category:Acetanilides]]
+[[Category:Alcohols]]
+[[Category:Phenols]]
+[[Category:Organoarsenic dithiolates]]
+[[Category:Arsenic heterocycles]]
+
+
+{{Antimicrobial-stub}}

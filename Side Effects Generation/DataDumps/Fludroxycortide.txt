@@ -1,0 +1,78 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 461101313
+| IUPAC_name = 6-Fluoro-11,21-dihydroxy-16,17-[(l-methylethylidene)bis(oxy)]-(6α,11β,16α)-pregn-4-ene-3,20-dione
+| image = Fludroxycortide.svg
+| width = 250
+
+<!--Clinical data-->
+| tradename = Cordran, Haelan
+| Drugs.com = {{drugs.com|CONS|fludroxycortide}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = POM
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status = 
+| routes_of_administration = Topical
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7606
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 1524-88-5
+| ATC_prefix = D07
+| ATC_suffix = AC07
+| ATC_supplemental =  
+| PubChem = 15209
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00846
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 14475
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 8EUL29XUQT
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00328
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201012
+
+<!--Chemical data-->
+| C=24 | H=33 | F=1 | O=6
+| molecular_weight = 436.514 g/mol
+| SMILES = O=C1\C=C5/[C@](C)(CC1)[C@@H]2[C@H]([C@H]3[C@](C[C@@H]2O)([C@@]4(OC(O[C@@H]4C3)(C)C)C(=O)CO)C)C[C@@H]5F
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C24H33FO6/c1-21(2)30-19-9-14-13-8-16(25)15-7-12(27)5-6-22(15,3)20(13)17(28)10-23(14,4)24(19,31-21)18(29)11-26/h7,13-14,16-17,19-20,26,28H,5-6,8-11H2,1-4H3/t13-,14-,16-,17-,19+,20+,22-,23-,24+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = POPFMWWJOGLOIF-XWCQMRHXSA-N
+| synonyms = 6α-Fluoro-16α-hydroxyhydrocortisone 16,17-acetonide; 6α-Fluoro-11β,16α,17α,21-tetrahydroxypregn-4-ene-3,20-dione 16,17-acetonide
+}}
+
+'''Fludroxycortide''' ([[International Nonproprietary Name|INN]], [[British Approved Name|BAN]], [[Japanese Accepted Name|JAN]]), also known as '''flurandrenolide''' ([[United States Adopted Name|USAN]]) and '''flurandrenolone''',<ref>{{PubChemLink|15209}}</ref> is a [[synthetic compound|synthetic]] [[topical steroid|topical corticosteroid]] and is used as an [[anti-inflammatory]] treatment for use on [[skin]] irritations. Trade names include '''Haelan''' (Typharm, UK) and '''Cordran''' (by [[Actavis|Watson Pharmaceuticals]], US).<ref>Drugs.com: [http://www.drugs.com/international/fludroxycortide.html Fludroxycortide]</ref><ref>Patient.info: [http://patient.info/medicine/fludroxycortide-for-inflammatory-skin-conditions-haelan Fludroxycortide]</ref>
+
+Fludroxycortide is available in ointment, cream and as an impregnated tape ('''Haelan tape''', '''Cordran tape'''). Licensed indications in the United Kingdom include recalcitrant [[dermatoses]].<ref>[http://www.typharm.com/typharm/docs/Haelan_Tape_SPC.pdf Haelan Tape Summary of Product Characteristics]</ref><ref>{{Cite journal | last1 = Nakamura | first1 = H. | last2 = Motoyoshi | first2 = S. | last3 = Ishii | first3 = K. | last4 = Seto | first4 = Y. | last5 = Shimizu | first5 = M. | title = Anti-inflammatory activity of a topical glucocorticoid, fludroxycortide tape in experimental animals (author's transl) | journal = Nihon yakurigaku zasshi. Folia pharmacologica Japonica | volume = 76 | issue = 7 | pages = 595–607 | year = 1980 | pmid = 7215997}}</ref>
+
+==References==
+{{Reflist|30em}}
+
+{{Glucocorticoids and antiglucocorticoids}}
+{{Glucocorticoid receptor modulators}}
+
+[[Category:Acetonides]]
+[[Category:Alcohols]]
+[[Category:Corticosteroid cyclic ketals]]
+[[Category:Corticosteroids]]
+[[Category:Diketones]]
+[[Category:Fluoroarenes]]
+[[Category:Glucocorticoids]]
+[[Category:Pregnanes]]
+
+
+{{dermatologic-drug-stub}}

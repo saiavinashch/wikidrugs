@@ -1,0 +1,62 @@
+{{Drugbox
+| verifiedrevid = 443853293
+| IUPAC_name = 5-cyclohept-1-en-1-yl-5-ethylpyrimidine-2,4,6(1''H'',3''H'',5''H'')-trione
+| image = heptabarbital.svg
+| width = 180
+<!--Clinical data-->
+| tradename =  
+| pregnancy_category =
+| legal_status =
+| legal_CA = Schedule IV
+| routes_of_administration = Oral<ref name="pmid9299">{{cite journal |vauthors=Breimer DD, de Boer AG | title = Pharmacokinetics and relative bioavailability of heptabarbital and heptabarbital sodium after oral administration to man | journal = European Journal of Clinical Pharmacology | volume = 9 | issue = 2-3 | pages = 169–78 |date=December 1975 | pmid = 9299 | doi = 10.1007/bf00614014| url = }}</ref>
+<!--Pharmacokinetic data-->
+| bioavailability = 83%<ref name="pmid9299" />
+| metabolism = [[Hepatic]]
+| elimination_half-life = 6.1-11.2 hours<ref name="pmid9299" />
+| excretion = [[Renal]]<ref name="pmid9299" />
+<!--Identifiers-->
+| CAS_number = 509-86-4
+| ATC_prefix = N05
+| ATC_suffix = CA11
+| PubChem = 10518
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01354
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 10081
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = V10R70ML23
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = C17725
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 468837
+| synonyms = G-475
+<!--Chemical data-->
+| C=13 | H=18 | N=2 | O=3
+| molecular_weight = 250.294 g/mol
+| smiles = O=C1NC(=O)NC(=O)C1(/C2=C/CCCCC2)CC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C13H18N2O3/c1-2-13(9-7-5-3-4-6-8-9)10(16)14-12(18)15-11(13)17/h7H,2-6,8H2,1H3,(H2,14,15,16,17,18)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = PAZQYDJGLKSCSI-UHFFFAOYSA-N
+}}
+
+'''Heptabarb''' ([[International Nonproprietary Name|INN]]; '''Eudan''', '''Medapan''', '''Medomin''', '''Noctyn'''), also known as '''heptabarbitone''' ([[British Approved Name|BAN]]) or '''heptabarbital''', is a [[sedative]] and [[hypnotic]] [[drug]] of the [[barbiturate]] family.<ref name="GanellinTriggle1997">{{cite book | author1 = C. R Ganellin | author2 = D. J Triggle | author3 = F.. Macdonald | title = Dictionary of pharmacological agents | url = https://books.google.com/books?id=A0THacd46ZsC&pg=PA1003 | accessdate = 26 November 2011 | year = 1997 | publisher = CRC Press | isbn = 978-0-412-46630-4 | page = 1003}}</ref><ref name="Index nominum 2000: international drug directory">{{cite book | title = Index nominum 2000: international drug directory | url = https://books.google.com/books?id=5GpcTQD_L2oC&pg=PA513 | accessdate = 26 November 2011 | year = 2000 | publisher = Taylor & Francis US | isbn = 978-3-88763-075-1 | page = 513}}</ref> It was used in [[Europe]] for the treatment of [[insomnia]] from the 1950s onwards, but has since been discontinued.<ref name="GanellinTriggle1997" /><ref name="Index nominum 2000: international drug directory" />
+
+== See also ==
+* [[Barbiturate]]
+
+== References ==
+{{Reflist}}
+
+{{Hypnotics and sedatives}}
+{{GABAAR PAMs}}
+
+[[Category:Barbiturates]]
+[[Category:Hypnotics]]
+[[Category:Pyrimidines]]
+[[Category:Sedatives]]
+[[Category:Cycloalkenes]]
+[[Category:GABAA receptor positive allosteric modulators]]
+
+
+{{sedative-stub}}

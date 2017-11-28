@@ -1,0 +1,82 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 477243444
+| IUPAC_name = 6-Amino-2-(fluoromethyl)-3-(2-methylphenyl)quinazolin-4-one
+| image = Afloqualone.svg
+| width = 200
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|afloqualone}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = Unscheduled <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = 
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 56287-74-2
+| ATC_prefix = none
+| ATC_suffix =  
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2105918
+| PubChem = 2040
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 1960
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = CO4U2C8ORZ
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01638
+
+<!--Chemical data-->
+| C=16 | H=14 | F=1 | N=3 | O=1 
+| molecular_weight = 283.3
+| smiles = O=C1C2=CC(N)=CC=C2N=C(CF)N1C3=CC=CC=C3C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H14FN3O/c1-10-4-2-3-5-14(10)20-15(9-17)19-13-7-6-11(18)8-12(13)16(20)21/h2-8H,9,18H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = VDOSWXIDETXFET-UHFFFAOYSA-N
+}}
+
+'''Afloqualone''' (Arofuto) is a [[quinazolinone]] family [[GABAergic]] [[drug]] and is an analogue of [[methaqualone]] developed in the 1970s by a team at Tanabe Seiyaku.<ref>US Patent 3966731 - 2-Fluoromethyl-3-o-tolyl-6-amino-4(3H)-quinazolinone</ref> It has [[sedative]] and [[muscle relaxant|muscle-relaxant]] effects resulting from its agonist activity at the β subtype of the [[GABAA receptor|GABA<sub>a</sub> receptor]] ,<ref>Ochiai T, Ishida R. Pharmacological studies on 6-amino- 2-fluoromethyl- 3-(O-tolyl)- 4(3H)- quinazolinone (afloqualone), a new centrally acting muscle relaxant. (II) Effects on the spinal reflex potential and the rigidity. Japanese Journal of Pharmacology. 1982 Jun;32(3):427-38.</ref> and has had some clinical use, although it causes [[photosensitization]] as a side-effect that can cause skin problems such as [[dermatitis]].<ref>Ishikawa T, Kamide R, Niimura M. Photoleukomelanodermatitis (Kobori) induced by afloqualone. Journal of Dermatology. 1994 Jun;21(6):430-3.</ref>
+
+== See also ==
+* [[Methaqualone]]
+* [[Diproqualone]]
+* [[Etaqualone]]
+* [[Methylmethaqualone]]
+* [[Mecloqualone]]
+* [[Mebroqualone]]
+* [[Cloroqualone]]
+* [[Nitromethaqualone]]
+
+== References ==
+{{reflist}}
+
+{{Sedatives}}
+{{GABAAR PAMs}}
+
+[[Category:Sedatives]]
+[[Category:Muscle relaxants]]
+[[Category:Organofluorides]]
+[[Category:Quinazolinones]]
+[[Category:GABAA receptor positive allosteric modulators]]
+
+
+{{musculoskeletal-drug-stub}}
+{{sedative-stub}}

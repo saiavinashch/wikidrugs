@@ -1,0 +1,71 @@
+{{drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = LM19JT6G5K
+| verifiedrevid = 408712002
+| IUPAC_name        = Methyl (2''S''-''cis'')-7-chloro-6,7,8-trideoxy-6<nowiki>[[</nowiki>(4-ethyl-2-piperidinyl)carbonyl]amino]-1-thio-<small>L</small>-threo-α-<small>D</small>-galacto-octopyranoside
+| image             = Pirlimycin structure.svg
+| alt               = Structural formula
+| image2            = Pirlimycin molecule spacefill.png
+| alt2              = Space-filling model of pirlimycin molecule
+
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number        = 79548-73-5
+| CAS_supplemental  = 
+| ATCvet            = yes
+| ATC_prefix        = J51
+| ATC_suffix        = FF90
+| ATC_supplemental  = 
+| PubChem           = 
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 138508
+| smiles = CC[C@@H]1CCN[C@@H](C1)C(=O)N[C@@H]([C@@H]2[C@@H]([C@@H]([C@H]([C@H](O2)SC)O)O)O)[C@H](C)Cl
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C17H31ClN2O5S/c1-4-9-5-6-19-10(7-9)16(24)20-11(8(2)18)15-13(22)12(21)14(23)17(25-15)26-3/h8-15,17,19,21-23H,4-7H2,1-3H3,(H,20,24)/t8-,9+,10-,11+,12-,13+,14+,15+,17+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = HBJOXQRURQPDEX-MHXMMLMNSA-N
+
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank          = 
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1652611
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08391
+| chemical_formula  = 
+| C=17 | H=31 | Cl=1 | N=2 | O=5 | S=1
+| molecular_weight  = 410.164 g/mol
+| bioavailability   = 
+| protein_bound     = 
+| metabolism        = 
+| elimination_half-life = 
+| excretion         = 
+| pregnancy_AU      =  <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US      =  <!-- A / B            / C / D / X -->
+| pregnancy_category=  
+| legal_AU =  <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA =  <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK =  <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US =  <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status      = 
+| routes_of_administration = Intra[[mammary]]
+}}
+
+'''Pirlimycin hydrochloride''' belongs to the [[Lincosamides|lincosamide]] class of [[antimicrobial]]s. Under the trade name '''Pirsue''',<ref>[http://www.pirsue.com/PAHimages/compliance_pdfs/US_EN_PS_compliance.pdf Pirsue Sterile Solution]</ref> it is used in the treatment of [[mastitis]] in [[cattle]].
+
+==Activity==
+Pirlimycin is active against [[Gram-positive bacteria]], specifically ''[[Staphylococcus aureus]]'' and [[Coagulase|coagulase negative]] species of ''[[Staphylococcus]]'' and ''[[Streptococcus]]''. It has no activity against [[Gram-negative bacteria]].<ref>[http://www.usp.org/pdf/EN/veterinary/pirlimycin.pdf USP: Pirlimycin]</ref>
+
+==Mechanism of action==
+It is [[Bacteriostatic agent|bacteriostatic]] and acts by inhibiting bacterial protein synthesis via binding with the [[50S]] subunit of the ribosome.
+
+==References==
+{{Reflist}}
+
+{{Protein synthesis inhibitor antibiotics}}
+
+[[Category:Lincosamide antibiotics]]
+[[Category:Veterinary drugs]]
+
+
+{{antibiotic-stub}}

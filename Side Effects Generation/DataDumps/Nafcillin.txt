@@ -1,0 +1,77 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 462258167
+| IUPAC_name = (2''S'',5''R'',6''R'')-6-[(2-ethoxy-1-naphthoyl)amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+| image = Nafcillin.svg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|monograph|nafcillin-sodium}}
+| MedlinePlus = a685019
+| pregnancy_US = B
+| legal_status = Rx-only
+| routes_of_administration = [[Intramuscular injection|IM]], [[Intravenous therapy|IV]]
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 90%
+| metabolism = <30% [[hepatic]]
+| elimination_half-life = 0.5 hours
+| excretion = Biliary and [[Kidney|renal]]
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 985-16-0
+| ATCvet = 
+| ATC_prefix = J01
+| ATC_suffix = CF06
+| PubChem = 8982
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00607
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 8634
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = SY07234TTS
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 7447
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1443
+<!--Chemical data-->
+| C=21 | H=22 | N=2 | O=5 | S=1
+| molecular_weight = 414.476 g/mol
+| smiles = O=C(O)[C@@H]3N4C(=O)[C@@H](NC(=O)c2c1ccccc1ccc2OCC)[C@H]4SC3(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H22N2O5S/c1-4-28-13-10-9-11-7-5-6-8-12(11)14(13)17(24)22-15-18(25)23-16(20(26)27)21(2,3)29-19(15)23/h5-10,15-16,19H,4H2,1-3H3,(H,22,24)(H,26,27)/t15-,16+,19-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GPXLMGHLHQJAGZ-JTDSTZFVSA-N
+}}
+'''Nafcillin sodium''' is a [[narrow-spectrum antibiotic|narrow-spectrum]]<ref name="pmid7887701">{{cite journal |vauthors=Palmer DL, Pett SB, Akl BF |title=Bacterial wound colonization after broad-spectrum versus narrow-spectrum antibiotics |journal=Ann. Thorac. Surg. |volume=59 |issue=3 |pages=626–31 |date=March 1995 |pmid=7887701 |doi=10.1016/0003-4975(94)00992-9 |url=http://linkinghub.elsevier.com/retrieve/pii/0003-4975(94)00992-9}}</ref> [[beta-lactam antibiotic]]<ref name="pmid1731755">{{cite journal |vauthors=Tan AK, Fink AL |title=Identification of the site of covalent attachment of nafcillin, a reversible suicide inhibitor of beta-lactamase |journal=Biochem. J. |volume=281 |issue= 1|pages=191–6 |date=January 1992 |pmid=1731755 |pmc=1130660}}</ref> of the [[penicillin]] class. As a [[beta-lactamase]]-resistant penicillin, it is used to treat [[infection]]s caused by [[Gram-positive bacteria|Gram-positive]] [[bacteria]], in particular, [[species]] of [[Staphylococcus|staphylococci]] that are [[antibiotic resistance|resistant]] to other penicillins.
+
+Nafcillin is considered therapeutically equivalent to [[oxacillin]], although its safety profile is somewhat different.<ref name=POC-IT>{{cite web |url=http://prod.hopkins-abxguide.org/antibiotics/antibacterial/penicillinase-resistant_pcn/nafcillin.html |title=Nafcillin |vauthors=Pham P, Bartlett JG |date=January 2, 2009 |work=Point-of-Care Information Technology ABX Guide |publisher=[[Johns Hopkins University]]}} Retrieved on July 10, 2009. Freely available with registration.</ref>
+
+==Indications==
+Nafcillin is indicated in the treatment of [[staphylococcal infection]]s, except those caused by [[Methicillin-resistant Staphylococcus aureus|MRSA]].<ref name=POC-IT/>
+
+U.S. [[medical guideline|clinical practice guideline]]s recommend either nafcillin or oxacillin as the [[first-line treatment]] of choice for staphylococcal [[endocarditis]] in patients without [[artificial heart valve]]s.<ref>{{cite journal  |vauthors=Bonow RO, Carabello BA, Kanu C, etal |title=ACC/AHA 2006 guidelines for the management of patients with valvular heart disease: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines (writing committee to revise the 1998 Guidelines for the Management of Patients With Valvular Heart Disease): developed in collaboration with the Society of Cardiovascular Anesthesiologists: endorsed by the Society for Cardiovascular Angiography and Interventions and the Society of Thoracic Surgeons |journal=Circulation |volume=114 |issue=5 |pages=e84–231 |date=August 2006 |pmid=16880336 |doi=10.1161/CIRCULATIONAHA.106.176857}}</ref>
+
+==Side-effects==
+As with all penicillins, serious life-threatening [[allergy|allergic reactions]] can occur.
+
+Milder side-effects include:
+* [[Hypokalemia]]<ref>JA Mohr. (1979). Nafcillin-associated hypokalemia. JAMA</ref>
+* [[Nausea]] and [[vomiting]]
+* [[Diarrhea]], often due to suppression of normal [[gastrointestinal]] bacteria, which, on occasion, leads to a more serious super-infection with an organism like [[Clostridium difficile (bacteria)|Clostridium difficile]]
+* [[Abdominal pain]]
+* [[Yeast]] infections ([[Candidiasis|thrush]]) affecting the [[mouth]] and [[tongue]] or [[vagina]]
+* [[Agranulocytosis]], [[neutropenia]]
+
+==Interactions==
+There is evidence that it induces [[cytochrome P-450]] enzymes specifically CYP2C9. Several drugs with a narrow theraputic window, such as warfarin and nifedipine, are metabolized by CYP2C9.<ref name="pmid12814453">{{cite journal |vauthors=Lang CC, Jamal SK, Mohamed Z, Mustafa MR, Mustafa AM, Lee TC |title=Evidence of an interaction between nifedipine and nafcillin in humans |journal=Br J Clin Pharmacol |volume=55 |issue=6 |pages=588–90 |date=June 2003 |pmid=12814453 |pmc=1884262 |doi= 10.1046/j.1365-2125.2003.01789.x|url=http://www3.interscience.wiley.com/resolve/openurl?genre=article&sid=nlm:pubmed&issn=0306-5251&date=2003&volume=55&issue=6&spage=588}}</ref>
+
+Nafcillin contains salts added as stability media. These added salts could cause edema or fluid accumulation. It would be prudent to avoid this medication if there were a concern for a congestive heart failure or kidney disease.
+
+==References==
+{{reflist}}
+
+{{PenicillinAntiBiotics}}
+{{Xenobiotic-sensing receptor modulators}}
+
+[[Category:Penicillins]]
+[[Category:Naphthol ethers]]

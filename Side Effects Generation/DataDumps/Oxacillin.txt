@@ -1,0 +1,71 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 408783354
+| IUPAC_name = (2''S'',5''R'',6''R'')-3,3-dimethyl-6-[(5-methyl-3-phenyl-<br>1,2-oxazole-4-carbonyl)amino]-7-oxo-4-thia-1-<br>azabicyclo[3.2.0]heptane-2-carboxylic acid
+| image = Oxacillin skeletal.svg
+| image2 = 
+<!--Clinical data-->
+| tradename = Bactocill
+| Drugs.com = {{drugs.com|monograph|bactocill}}
+| MedlinePlus = a685020
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 66-79-5
+| ATC_prefix = J01
+| ATC_suffix = CF04
+| ATC_supplemental = {{ATCvet|J51|CF04}}
+| PubChem = 6196
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB00713
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 5961
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = UH95VD7V76
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08307
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 7809
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 819
+<!--Chemical data-->
+| C=19 | H=19 | N=3 | O=5 | S=1
+| molecular_weight = 401.436 g/mol
+| smiles = Cc1c(c(no1)c2ccccc2)/C(N/[C@H]3[C@@H]4N(C3=O)[C@H](C(S4)(C)C)C(=O)O)=O
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C19H19N3O5S/c1-9-11(12(21-27-9)10-7-5-4-6-8-10)15(23)20-13-16(24)22-14(18(25)26)19(2,3)28-17(13)22/h4-8,13-14,17H,1-3H3,(H,20,23)(H,25,26)/t13-,14+,17-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = UWYHMGVUTGAWSP-JKIFEVAISA-N
+| density = 1.49
+| boiling_point = 686.8
+}}
+
+'''Oxacillin sodium''' (trade name '''Bactocill''') is a [[narrow-spectrum antibiotic|narrow-spectrum]] [[beta-lactam antibiotic]] of the [[penicillin]] class developed by [[Beecham (pharmaceutical company)|Beecham]].<ref name="Greenwood2008">{{cite book|author=David Greenwood|title=Antimicrobial drugs: chronicle of a twentieth century medical triumph|url=https://books.google.com/books?id=i4_FZHmzjzwC&pg=PA124|accessdate=18 November 2010|year=2008|publisher=Oxford University Press US|isbn=978-0-19-953484-5|pages=124–}}</ref>
+
+==Uses==
+  
+Oxacillin is a penicillinase-resistant [[β-lactam]]. It is similar to [[methicillin]], and has replaced methicillin in clinical use.  Other related compounds are [[nafcillin]], [[cloxacillin]], [[dicloxacillin]], and [[flucloxacillin]].  Since it is resistant to penicillinase enzymes, such as that produced by ''[[Staphylococcus aureus]]'', it is widely used clinically in the US to treat penicillin-resistant ''[[Staphylococcus aureus]]''.   However, with the introduction and widespread use of both oxacillin and methicillin, [[antibiotic resistance|antibiotic-resistant]] strains called [[Methicillin-resistant Staphylococcus aureus|methicillin-resistant]] and oxacillin-resistant ''Staphylococcus aureus'' (MRSA/ORSA) have become increasingly prevalent worldwide.  MRSA/ORSA is treated using [[vancomycin]].
+
+==Adverse effects==
+{{further|Penicillin drug reaction}}
+Side effects include hypersensitivity and local reactions. In high doses, renal, hepatic, or nervous system effects can occur.<ref>Drugs.com: [http://www.drugs.com/monograph/bactocill.html Bactocill]</ref>
+
+==References==
+
+* [http://chembank.broadinstitute.org/chemistry/viewMolecule.htm?cbid=3173215 ChemBank]
+
+{{Reflist}}
+
+{{Cell wall disruptive antibiotics}}
+
+[[Category:Penicillins]]
+[[Category:Enantiopure drugs]]
+[[Category:Isoxazoles]]
+
+
+{{Antibiotic-stub}}

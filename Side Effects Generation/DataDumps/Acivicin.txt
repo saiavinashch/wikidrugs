@@ -1,0 +1,73 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 477240787
+| ImageFile = Acivicin structure.svg
+| ImageSize = 200px
+| IUPACName = (2''S'')-Amino[(5''S'')-3-chloro-4,5-dihydro-1,2-oxazol-5-yl]ethanoic acid
+| OtherNames = Antibiotic AT 125
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = O0X60K76I6
+| CASNo = 42228-92-2
+| CASNo_Ref = {{cascite|changed|CAS}}
+| PubChem = 294641
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 259938
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 74545
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1231101
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C5H7ClN2O3/c6-3-1-2(11-8-3)4(7)5(9)10/h2,4H,1,7H2,(H,9,10)/t2-,4-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = QAWIHIJWNYOLBE-OKKQSCSOSA-N
+| SMILES = Cl\C1=N\O[C@H]([C@@H](C(=O)O)N)C1
+| InChI = InChI=1S/C5H7ClN2O3/c6-3-1-2(11-8-3)4(7)5(9)10/h2,4H,1,7H2,(H,9,10)/t2-,4-/m0/s1
+  }}
+|Section2={{Chembox Properties
+| C=5 | H=7 | Cl=1 | N=2 | O=3 
+| MolarMass = 178.574
+| Appearance = 
+| Density = 
+| MeltingPt = 
+| BoilingPt = 
+| Solubility =
+  }}
+|Section3={{Chembox Hazards
+| MainHazards = 
+| FlashPt = 
+| AutoignitionPt =
+  }}
+}}
+
+'''Acivicin''' is an analog of [[glutamine]]. It is an [[Enzyme inhibitor|inhibitor]] of [[gamma-glutamyl transferase]]. 
+
+It is a [[fermentation (biochemistry)|fermentation]] product of ''[[Streptomyces sviceus]]''.<ref name=Allen>{{ cite journal | last1 = Allen | first1 = L. | last2 = Meck | first2 = R. | last3 = Yunis | first3 = A. | title = The Inhibition of γ-Glutamyl Transpeptidase from Human Pancreatic Carcinoma Cells by (αS,5S)-α-Amino-3-chloro-4,5-dihydro-5-isoxazoleacetic Acid (AT-125; NSC-163501) | journal = Research Communications in Chemical Pathology and Pharmacology| year = 1980 | volume = 27 | issue = 1 | pages = 175–182 
+| pmid = 6102405 }}</ref>  It interferes with glutamate metabolism and inhibits glutamate dependent synthesis of [[enzyme]]s, and is thereby potentially helpful in  treatment of [[solid tumor]]s.<ref>{{ cite journal | last1 = Hidalgo | first1 = M. | last2 = Rodriguez | first2 = G. | last3 = Kuhn | first3 = J. G. | last4 = Brown | first4 = T. | last5 = Weiss | first5 = G. | last6 = MacGovren | first6 = J. P. | last7 = von Hoff | first7 = D. D. | last8 = Rowinsky | first8 = E. K. | title = A Phase I and Pharmacological Study of the Glutamine Antagonist Acivicin with the Amino Acid Solution Aminosyn in Patients with Advanced Solid Malignancies | journal = Clinical Cancer Research | year = 1998 | volume = 4 | issue = 11 | pages = 2763–2770 | pmid = 9829740 }}</ref>
+
+After its discovery in 1972, acivicin was studied as an anti-cancer agent, but trials were unsuccessful due to toxicity.<ref>http://pubs.rsc.org/en/content/articlehtml/2015/sc/c4sc02339k</ref>
+
+==Research==
+An in vitro study showed that Acivicin at a concentration of 5 µM Acivicin inhibited by 78% the growth of human [[pancreatic]] [[carcinoma]] [[cell (biology)|cells]] (MIA PaCa-2) after 72 hours in continuous culture. It was also found that acivicin at a concentration of 450 µM irreversibly inactivated MIA PaCa-2 γ-glutamyl transpeptidase (10 nmol/min/10<sup>6</sup> cells) with an inactivation half-life of 80 minutes.<ref name=Allen/>
+
+===Phase I studies===
+Phase I dose escalating studies conducted in 23 cancer patients administered acivicin with a concomitant 96-h i.v. infusion of a mixture of 16 amino acids showed reversible, dose-limiting CNS toxicity, characterized  by lethargy, confusion and decreased mental status.
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{ cite journal | last1 = Obrador | first1 = E. | last2 = Carretero | first2 = J. | last3 = Ortega | first3 = A. | last4 = Medina | first4 = I. | last5 = Rodilla | first5 = V. | last6 = Pellicer | first6 = J. A. | last7 = Estrela | first7 = J. M. | title = γ-Glutamyl Transpeptidase Overexpression Increases Metastatic Growth of B16 Melanoma Cells in the Mouse Liver | journal = Hepatology | year = 2002 | volume = 35 | issue = 1 | pages = 74–81 | doi = 10.1053/jhep.2002.30277 | pmid = 11786961 }}
+* {{ cite journal | last1 = Schmees | first1 = C. | last2 = Prinz | first2 = C. | last3 = Treptau | first3 = T. | last4 = Rad | first4 = R. | last5 = Hengst | first5 = L. | last6 = Voland | first6 = P. | last7 = Bauer | first7 = S. | last8 = Brenner | first8 = L. | last9 = Schmid | first9 = R. M. | last10 = Gerhard | first10 = M. | title = Inhibition of T-Cell Proliferation by ''Helicobacter pylori'' γ-Glutamyl Transpeptidase | journal = Gastroenterology | year = 2007 | volume = 132 | issue = 5 | pages = 1820–1833 | doi = 10.1053/j.gastro.2007.02.031 | pmid = 17484877 }}
+
+
+{{Leukotrienergics}}
+
+[[Category:Amino acid derivatives]]
+[[Category:Oxazolidines]]
+[[Category:Organochlorides]]
+[[Category:Abandoned drugs]]
+
+
+{{antineoplastic-drug-stub}}

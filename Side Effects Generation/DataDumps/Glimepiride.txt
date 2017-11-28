@@ -1,0 +1,94 @@
+{{drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 412761821
+| IUPAC_name = 3-Ethyl-4-methyl-''N''-[2-(4-<nowiki/>{[(''trans''-4-methylcyclohexyl)carbamoyl]sulfamoyl}phenyl)ethyl]-2-oxo-2,5-dihydro-1''H''-pyrrole-1-carboxamide
+| image = Glimepiride.svg
+| width = 300
+
+<!--Clinical data-->
+| tradename = Amaryl
+| Drugs.com = {{drugs.com|monograph|glimepiride}}
+| MedlinePlus = a696016
+| pregnancy_US = C
+| legal_US = Rx-only
+| legal_status = Rx only
+| routes_of_administration = Oral ([[Tablet (pharmacy)|tablets]])
+
+<!--Pharmacokinetic data-->
+| bioavailability = 100%
+| protein_bound = >99.5%
+| metabolism = Complete [[Liver|hepatic]] (1st stage through [[CYP2C9]])
+| elimination_half-life = 5–8 hours
+| excretion = Urine (~60%), feces (~40%)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6820
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 93479-97-1
+| ATC_prefix = A10
+| ATC_suffix = BB12
+| ATC_supplemental =
+| PubChem = 3476
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB00222
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 16740595
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 6KY687524K
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00593
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 5383
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1481
+
+<!--Chemical data-->
+| C=24 | H=34 | N=4 | O=5 | S=1
+| molecular_weight = 490.617 g/mol
+| smiles = O=C3C(/CC)=C(/C)CN3C(=O)NCCc1ccc(cc1)S(=O)(=O)NC(=O)N[C@H]2CC[C@H](C)CC2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C24H34N4O5S/c1-4-21-17(3)15-28(22(21)29)24(31)25-14-13-18-7-11-20(12-8-18)34(32,33)27-23(30)26-19-9-5-16(2)6-10-19/h7-8,11-12,16,19H,4-6,9-10,13-15H2,1-3H3,(H,25,31)(H2,26,27,30)/t16-,19-
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WIGIZIANZCJQQY-RUCARUNLSA-N
+}}
+
+'''Glimepiride''' (original trade name '''Amaryl''') is an orally available medium-to-long-acting [[sulfonylurea]] [[antidiabetic drug]]. It is sometimes classified as either the first third-generation [[sulfonylurea]],<ref name="pmid15563963">{{cite journal  |vauthors=Hamaguchi T, Hirose T, Asakawa H, etal |title=Efficacy of glimepiride in type 2 diabetic patients treated with glibenclamide |journal=Diabetes Res. Clin. Pract. |volume=66 Suppl 1 |issue= |pages=S129–32 |date=December 2004 |pmid=15563963 |doi=10.1016/j.diabres.2003.12.012}}</ref> or as second-generation.<ref name="pmid15531188">{{cite journal |author=Davis SN |title=The role of glimepiride in the effective management of Type 2 diabetes |journal=J. Diabetes Complicat. |volume=18 |issue=6 |pages=367–76 |year=2004 |pmid=15531188 |doi=10.1016/j.jdiacomp.2004.07.001 }}</ref>
+
+== Indications ==
+{{main|Sulfonylurea}}
+Glimepiride is indicated to treat [[Diabetes mellitus type 2|type 2 diabetes mellitus]]; its mode of action is to increase insulin production by the pancreas. It is not used for [[Diabetes mellitus type 1|type 1 diabetes]] because in type 1 diabetes the pancreas is not able to produce insulin.<ref name="ncbi.nlm.nih.gov">{{cite web|url=http://www.nlm.nih.gov/medlineplus/druginfo/meds/a696016.html|title=Glimepiride: MedlinePlus Drug Information|work=nih.gov}}</ref>
+
+==Contraindications==
+Its use is contraindicated in patients with hypersensitivity to glimepiride or other sulfonylureas.
+
+== Adverse effects ==
+Side effects from taking glimepiride include [[gastrointestinal tract]] (GI) disturbances, occasional allergic reactions, and rarely blood production disorders including [[thrombocytopenia]], [[leukopenia]], and [[hemolytic anemia]]. In the initial weeks of treatment, the risk of hypoglycemia may be increased. Alcohol consumption and exposure to sunlight should be restricted because they can worsen side effects.<ref name="ncbi.nlm.nih.gov"/>
+
+== Pharmacokinetics ==
+[[File:Glimepiride 2 MG Oral Tablet.jpg|left|thumb|Two generic oral tablets of glimepiride, 2 mg each]] 
+Gastrointestinal absorption is complete, with no interference from meals. Significant absorption can occur within one hour, and distribution is throughout the body,  99.5% bound to plasma protein. Metabolism is by oxidative biotransformation, it is [[Liver|hepatic]] and complete. First, the medication is metabolized to M<sub>1</sub> metabolite by [[CYP2C9]]. M<sub>1</sub> possesses about {{frac|1|3}} of pharmacological activity of glimepiride, yet it is unknown if this results in clinically meaningful effect on blood glucose. M<sub>1</sub> is further metabolized to M<sub>2</sub> metabolite by cytosolic enzymes. M<sub>2</sub> is pharmacologically inactive. Excretion in the urine is about 65%, and the remainder is excreted in the feces.
+
+== Mechanism of action ==
+{{main|Sulfonylurea}}
+Like all sulfonylureas, glimepiride acts as an insulin [[secretagogue]].<ref name="pmid18378631">{{cite journal  |vauthors=Nissen SE, Nicholls SJ, Wolski K, etal |title=Comparison of pioglitazone vs glimepiride on progression of coronary atherosclerosis in patients with type 2 diabetes: the PERISCOPE randomized controlled trial |journal=JAMA |volume=299 |issue=13 |pages=1561–73 |date=April 2008 |pmid=18378631 |doi=10.1001/jama.299.13.1561}}</ref> It lowers  blood sugar by stimulating the release of insulin by pancreatic beta cells and by inducing increased activity of intracellular insulin receptors.
+
+Not all secondary sufonylureas have the same risks of hypoglycemia. Glibenclamide (glyburide) is associated with an incidence of hypoglycemia of up to 20–30%, compared to as low as 2% to 4% with glimepiride. Glibenclamide also interferes with the normal homeostatic suppression of insulin secretion in reaction to hypoglycemia, whereas glimepiride does not. Also, glibenclamide diminishes glucagon secretion in reaction to hypoglycemia, whereas glimepiride does not.<ref name=G&G>{{cite book |author=Davis, Stephen N. |chapter=60. Insulin, oral hypoglycemic agents, and the pharmacology of the endocrine pancreas |page=1636 |title=[[Goodman & Gilman's The Pharmacological Basis of Therapeutics]] |editors=Brunton, Laurence L.; Lazo, John S.; Parker, Keith L. (eds.) |year=2005 |isbn=0-07-142280-3 |location=New York |publisher=McGraw-Hill}}</ref>
+
+== Interactions ==
+[[Nonsteroidal anti-inflammatory drug]]s (such as [[salicylate]]s), [[Sulfonamide (medicine)|sulfonamide]]s, [[chloramphenicol]], [[coumadin]] and [[probenecid]]) may potentiate the [[hypoglycemic]] action of glimepiride. [[Thiazide]]s, other [[diuretic]]s, phothiazides, thyroid products, oral contraceptives, and [[phenytoin]] tend to produce [[hyperglycemia]].
+
+==References==
+{{reflist}}
+
+==External links==
+* http://www.theodora.com/drugs/amaryl_tablets_sanofi_aventis.html
+* http://www.rxlist.com/cgi/generic/glimepiride.htm
+
+{{Oral hypoglycemics}}
+{{Prostanoidergics}}
+{{Ion channel modulators}}
+
+[[Category:Potassium channel blockers]]
+[[Category:Sulfonylureas]]
+[[Category:Pyrrolines]]

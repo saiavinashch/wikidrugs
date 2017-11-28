@@ -1,0 +1,90 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid=443497878
+| IUPAC_name=ethyl 3-methyl-2-sulfanylidene-imidazole-1-carboxylate
+| image=Carbimazole.svg
+| width=200px
+<!--Clinical data-->
+| tradename=Neo-mercazole
+| Drugs.com={{drugs.com|international|carbimazole}}
+| pregnancy_AU=
+| pregnancy_US=
+| pregnancy_category=
+| legal_status=Rx-only
+| routes_of_administration=oral
+<!--Pharmacokinetic data-->
+| bioavailability=
+| protein_bound=85%
+| metabolism=
+| elimination_half-life=5.3h
+| excretion =>90%[[Kidney|Renal]]
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number=22232-54-8
+| ATC_prefix=H03
+| ATC_suffix=BB01
+| ATC_supplemental=
+| PubChem=31072
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank=DB00389
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID=28829
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII=8KQ660G60G
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG=D07616
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI=617099
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL=508102
+<!--Chemical data-->
+| C=7 | H=10 | N=2 | O=2 | S=1
+| molecular_weight=186.233 g/mol
+| smiles=S=C1N(\C=C/N1C(=O)OCC)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI=1S/C7H10N2O2S/c1-3-11-7(10)9-5-4-8(2)6(9)12/h4-5H,3H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey=CFOYWRHIYXMDOT-UHFFFAOYSA-N
+}}
+{{Refimprove|date=October 2008}}
+'''Carbimazole''' is used to treat [[hyperthyroidism]]. Carbimazole is a [[pro-drug]] as after absorption it is converted to the active form, [[methimazole]]. Methimazole prevents [[thyroid peroxidase]] enzyme from coupling and iodinating the [[tyrosine]] residues on [[thyroglobulin]], hence reducing the production of the thyroid hormones [[triiodothyronine|T<sub>3</sub>]] and T<sub>4</sub> ([[thyroxine]]).
+
+==Clinical use==
+Therapy for hyperthyroidism generally starts at a high daily dose of {{Nowrap|15–}}{{Nowrap|40 mg}} continued until the patient has normal [[Thyroid function tests|thyroid function]], and then reduced to a maintenance dose of {{Nowrap|5–}}{{Nowrap|15 mg}}. Treatment is usually given for {{Nowrap|12–}}18 months followed by a trial withdraw. 
+
+The onset of anti-thyroid effect is rapid but the onset of clinical effects on thyroid hormone levels in the blood is much slower. This is because the large store of pre-formed T<sub>3</sub> and T<sub>4</sub> in the thyroid gland and bound to [[thyroid binding globulin]] (99% bound) has to be depleted before any beneficial clinical effect occurs.
+
+==Precautions==
+Some people are allergic to [[azole]](s). Some azole drugs have adverse [[side-effect]]s. Some azole drugs may disrupt [[estrogen]] production in [[pregnancy]], affecting pregnancy outcome.{{R|"Informa1"}}{{Verify source|date=October 2012}}
+
+Carbimazole should be used judiciously in pregnancy as it crosses the placenta. It has (rarely) been associated with congenital defects, including [[aplasia cutis]] of the neonate but is not contra-indicated. However, it more predictably may cause fetal [[hypothyroidism]] so (in minimal doses) it can be used in order to control maternal [[hyperthyroidism]]. There are reported cases of goiter and choanal atresia in fetus.<ref>Goodman & Gilman 12th ed.</ref> Furthermore, breast feeding is possible but only if lowest effective dose is used and neonatal development is closely monitored.
+
+For the above reasons, it is preferable to use [[Propylthiouracil | PTU]] in pregnancy, especially in the first trimester, with the possibility of changing to Carbimazole for the second and third trimesters. <ref> Bahn RS, Burch HS, Cooper DS, et al. (July 2009). "The Role of Propylthiouracil in the Management of Graves' Disease in Adults: report of a meeting jointly sponsored by the American Thyroid Association and the Food and Drug Administration". Thyroid 19 (7): 673–4. doi:10.1089/thy.2009.0169. {{PMID|19583480}}. </ref>
+
+==Adverse effects==
+Whilst [[rash]]es and [[pruritus]] are common, these can often be treated with [[antihistamine]]s without stopping the carbimazole. For those patients where sensitivity reactions can not be controlled, [[propylthiouracil]] may be used as an alternative; cross-sensitivity between these drugs is rare.
+
+Its most serious rare side effect is [[bone marrow suppression]] causing [[neutropenia]] and [[agranulocytosis]]. This may occur at any stage during treatment and without warning; monitoring of white cell count is not useful. Patients are advised to immediately report symptoms of infection, such as [[Pharyngitis|sore throat]] or fever, so that a [[full blood count]] test may be arranged. If this confirms a low neutrophil count, discontinuation of the drug leads to recovery. However failure to report suggestive symptoms or delays in  considering the possibility of immunosuppression and its testing, can lead to fatalities.
+
+==Brand names==
+*Neomercazole<ref>http://www.nicholas.co.id/product/?module=detailberita&id=128&act=neo-mercazole.html/</ref>
+*Vidalta
+*Thyrocab
+
+==See also==
+*[[Graves' disease]]
+*[[Hyperthyroidism]]
+
+==References==
+{{Reflist|refs=
+<ref name="Informa1">http://informahealthcare.com/doi/abs/10.1081/ERC-120015045</ref>
+}}
+*[[British National Formulary]] '''45''' March 2003
+
+{{Thyroid therapy}}
+{{Thyroid hormone receptor modulators}}
+
+[[Category:Antithyroid drugs]]
+[[Category:Imidazoles]]
+[[Category:Thioureas]]
+[[Category:Carbamates]]

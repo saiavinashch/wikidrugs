@@ -1,0 +1,72 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 437293527
+| Reference = <ref name="safety">{{cite web|url=https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=9570290&loc=ec_rcs|title=Phoxim PubChem entry|accessdate=2008-07-06}}</ref>
+| ImageFile=Phoxim-2D-by-AHRLS-2012.png 
+| ImageSize=200px
+| ImageFile2=Phoxim-3D-balls-by-AHRLS-2012.png
+| ImageSize2=200px
+| IUPACName=(''E'',''Z'')-''N''-[(Diethoxyphosphorothioyl)oxy]benzenecarboximidoyl cyanide
+| OtherNames=Baythion<br>Valexone<br>Phoxime<br>Sebacil<br>Valexon<br>Volaton
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 6F5V775VPO
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo=14816-18-3
+| PubChem= 9570290
+_TEMPHERE_ = ZZZ{{fdacite|correct|FDA}}ZZZ
+| SMILES=CCOP(=S)(OCC)ON=C(C#N)C1=CC=CC=C1
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 25076
+| InChI = 1/C12H15N2O3PS/c1-3-15-18(19,16-4-2)17-14-12(10-13)11-8-6-5-7-9-11/h5-9H,3-4H2,1-2H3
+| InChIKey = ATROHALUCMTWTB-UHFFFAOYAQ
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C12H15N2O3PS/c1-3-15-18(19,16-4-2)17-14-12(10-13)11-8-6-5-7-9-11/h5-9H,3-4H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = ATROHALUCMTWTB-UHFFFAOYSA-N
+| MeSHName=Phoxim
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08373
+  }}
+|Section2={{Chembox Properties
+| C=12 | H=15 | N=2 | O=3 | P=1 | S=1
+| Appearance=Brownish red liquid
+| Density=1.17 g/cm<sup>3</sup>
+| MeltingPtC=6.1
+| BoilingPt=102
+| Solubility=7 ppm  }}
+|Section6={{Chembox Pharmacology
+| ATCvet = yes
+| ATCCode_prefix = P53
+| ATCCode_suffix = AE03
+ }}
+|Section7={{Chembox Hazards
+| MainHazards=
+| RPhrases = {{R22}} {{R50/53}}
+| SPhrases = {{S2}} {{S36}} {{S60}} {{S61}}
+| FlashPt=
+| AutoignitionPt =
+  }}
+}}
+
+'''Phoxim''' is an [[organophosphate]] [[insecticide]] that is produced by the [[Bayer]] corporation.  It is an analogous dimethyl [[ester]] and an [[organothiophosphate]] [[miticide|acaricide]].<ref>[http://www.alanwood.net/pesticides/phoxim.html Phoxim Data Sheet]</ref>  It is allowed for use in limited applications in the European Union.<ref>[http://www.ema.europa.eu/pdfs/vet/mrls/075600en.pdf Commission for Veterinary Medicinal Products; Phoxim Summary Report]</ref> It is banned for use on crops in the [[European Union]] since 22 December 2007.<ref>[http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:166:0016:0023:EN:PDF COMMISSION DECISION of 21 June 2007] concerning the non-inclusion of certain active substances in Annex I to Council Directive 91/414/EEC and the withdrawal of authorisations for plant protection products containing these substances</ref>
+
+It is used in veterinary medicine to treat [[ectoparasite|ectoparasitic]] [[acarid]]s.
+
+==References==
+{{reflist}}
+
+==External links ==
+* {{PPDB|524}}
+
+{{Insecticides}}
+{{Acetylcholine metabolism and transport modulators}}
+
+[[Category:Acetylcholinesterase inhibitors]]
+[[Category:Organophosphate insecticides]]
+[[Category:Nitriles]]
+[[Category:Phosphorothioates]]
+
+
+{{antiinfective-drug-stub}}

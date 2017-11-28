@@ -1,0 +1,74 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 443553734
+| IUPAC_name = 2-[(2,4-dichlorophenyl)methyl]-<br>4-(2,4,4-trimethylpentan-2-yl)phenol
+| image = Clofoctol.svg
+| alt = Structural formula of clofoctol
+| width = 250
+| image2 = Clofoctol 3D ball.png
+| alt2 = Ball-and-stick model of the clofoctol molecule
+| width2 = 220
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|clofoctol}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Rectal ([[suppository]])<ref name=Gramplus/>
+
+<!--Pharmacokinetic data-->
+| bioavailability = 98%<ref name=Gramplus/>
+| protein_bound =  
+| metabolism = [[Hepatic]] [[glucuronidation]]<ref name=Gramplus/>
+| elimination_half-life =  
+| excretion = Biliary<ref name=Gramplus/>
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 37693-01-9
+| ATC_prefix = J01
+| ATC_suffix = XX03
+| PubChem = 2799
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChEMBL = 1476605
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2697
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 704083NI0R
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07244
+
+<!--Chemical data-->
+| C=21 | H=26 | Cl=2 | O=1 
+| molecular_weight = 365.336 g/mol
+| smiles = Clc1cc(Cl)ccc1Cc2cc(ccc2O)C(C)(C)CC(C)(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H26Cl2O/c1-20(2,3)13-21(4,5)16-7-9-19(24)15(11-16)10-14-6-8-17(22)12-18(14)23/h6-9,11-12,24H,10,13H2,1-5H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = HQVZOORKDNCGCK-UHFFFAOYSA-N
+}}
+'''Clofoctol''' is a [[bacteriostatic]] [[antibiotic]]. It is used in the treatment of [[respiratory tract]] and ear, nose and throat infections caused by [[Gram-positive]] [[bacteria]].<ref name=Gramplus>{{cite web | url = http://www.torrinomedica.it/studio/schedefarmaci/GRAMPLUS.htm | title = Gramplus | date = July 25, 2007 | accessdate = 2007-08-10 | publisher = Studio Medico Torrino | language = Italian}}</ref>
+It is marketed in [[France]] under the trade name '''Octoplus''' and in [[Italy]] as '''Gramplus'''.
+
+It is only functional against [[Gram-positive bacteria]].<ref name="pmid6782374">{{cite journal |vauthors=Combe J, Simonnet F, Yablonsky F, Simonnet G |title=[Clofoctol binding by the bacteria (author's transl)] |language=French |journal=J Pharmacol |volume=11 |issue=4 |pages=411–25 |year=1980 |pmid=6782374 |doi=}}</ref>
+
+It penetrates into human lung tissue.<ref name="pmid3391105">{{cite journal |vauthors=Danesi R, Gasperini M, Senesi S, Freer G, Angeletti CA, Del Tacca M |title=A pharmacokinetic study of clofoctol in human plasma and lung tissue by using a microbiological assay |journal=Drugs Exp Clin Res |volume=14 |issue=1 |pages=39–43 |year=1988 |pmid=3391105 |doi= |url=}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Other antibacterials}}
+
+[[Category:Antibiotics]]
+[[Category:Phenols]]
+[[Category:Chloroarenes]]
+
+
+{{Antibiotic-stub}}

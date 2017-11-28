@@ -1,0 +1,134 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 458285977
+| IUPAC_name = 4-methyl-''N''-[3-(4-methyl-1''H''-imidazol-1-yl)- 5-(trifluoromethyl)phenyl]-3- [(4-pyridin-3-ylpyrimidin-2-yl) amino]benzamide
+| image = Nilotinib2DACS.svg
+| width = 300
+| image2 = Nilotinib3Dan.gif
+| width2 = 250
+
+<!--Clinical data-->
+| tradename = Tasigna
+| Drugs.com = {{drugs.com|monograph|nilotinib}}
+| MedlinePlus = a608002
+| licence_EU = Tasigna
+| licence_US = Nilotinib
+| pregnancy_AU = D
+| pregnancy_US = D
+| pregnancy_category =  
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 30%<ref name = MSR/>
+| protein_bound = 98%<ref name = MSR/>
+| metabolism = [[Hepatic]] (mostly [[CYP3A4]]-mediated)<ref name = MSR/>
+| elimination_half-life = 15-17 hours<ref name = MSR/>
+| excretion = Faeces (93%)<ref name = MSR/>
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5697
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 641571-10-0(base)
+| ATC_prefix = L01
+| ATC_suffix = XE08
+| PubChem = 644241
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB04868
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 559260
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = F41401512X
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08953
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 52172
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 255863
+| PDB_ligand = NIL
+
+<!--Chemical data-->
+| C=28 | H=22 | F=3 | N=7 | O=1 
+| molecular_weight = 529.5245 g/mol
+| smiles = Cc1ccc(cc1Nc2nccc(n2)c3cccnc3)C(=O)Nc4cc(cc(c4)n5cc(nc5)C)C(F)(F)F
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C28H22F3N7O/c1-17-5-6-19(10-25(17)37-27-33-9-7-24(36-27)20-4-3-8-32-14-20)26(39)35-22-11-21(28(29,30)31)12-23(13-22)38-15-18(2)34-16-38/h3-16H,1-2H3,(H,35,39)(H,33,36,37)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = HHZIURLSWUIHRB-UHFFFAOYSA-N
+}}
+'''Nilotinib''' ('''AMN107''', trade name '''Tasigna'''<ref>Official Manufacturer Website http://www.tasigna.com</ref>), in the form of the [[hydrochloride]] [[monohydrate]] salt, is a small-molecule [[tyrosine kinase inhibitor]] approved for the treatment of [[imatinib]]-resistant [[chronic myelogenous leukemia]].<ref name="CancerGov">{{cite web|url=http://www.cancer.gov/cancertopics/druginfo/nilotinib|title=Cancer Drug Information: Nilotinib}}</ref> Structurally related to imatinib,<ref name="Manley2005">{{Cite journal| last1 = Manley | first1 = P.| last2 = Cowan-Jacob | first2 = S.| last3 = Mestan | first3 = J.| title = Advances in the structural biology, design and clinical development of Bcr-Abl kinase inhibitors for the treatment of chronic myeloid leukaemia| journal = Biochimica et Biophysica Acta| volume = 1754| issue = 1–2| pages = 3–13| year = 2005| pmid = 16172030| doi = 10.1016/j.bbapap.2005.07.040}}</ref> it was developed based on the structure of the Abl-imatinib complex to address imatinib intolerance and resistance.<ref name="Manley2010">{{Cite journal| last1 = Manley | first1 = P.| last2 = Stiefl | first2 = N.| last3 = Cowan-Jacob | first3 = S.| last4 = Kaufman | first4 = S.| last5 = Mestan | first5 = J.| last6 = Wartmann | first6 = M.| last7 = Wiesmann | first7 = M.| last8 = Woodman | first8 = R.| last9 = Gallagher | first9 = N.| title = Structural resemblances and comparisons of the relative pharmacological properties of imatinib and nilotinib| journal = Bioorganic & Medicinal Chemistry| volume = 18| issue = 19| pages = 6977–6986| year = 2010| pmid = 20817538| doi = 10.1016/j.bmc.2010.08.026}}</ref><ref name="Jabbour2009">Jabbour, E., Cortes, J., Kantarjian, H. (2009). "Nilotinib for the treatment of chronic myeloid leukemia: An evidence-based review". ''Core evidence'' '''4''': 207-213.</ref><ref name="Olivieri2007">{{Cite journal| last1 = Olivieri | first1 = A.| last2 = Manzione | first2 = L.| title = Dasatinib: a new step in molecular target therapy| journal = Annals of Oncology| volume = 18 Suppl 6| pages = vi42–vi46| year = 2007| pmid = 17591830| doi = 10.1093/annonc/mdm223}}</ref> Nilotinib is a selective Bcr-Abl kinase inhibitor<ref name="Manley2010"/><ref name="Jabbour2009"/> that is 10–30 fold more potent than imatinib in inhibiting Bcr-Abl tyrosine kinase activity and [[Cell growth|proliferation]] of Bcr-Abl expressing cells.<ref name="Manley2005"/><ref name="Jabbour2009"/><ref name="Olivieri2007"/><ref name="Breccia2010">{{Cite journal| last1 = Breccia | first1 = M.| last2 = Alimena | first2 = G.| title = Nilotinib: a second-generation tyrosine kinase inhibitor for chronic myeloid leukemia| journal = Leukemia research| volume = 34| issue = 2| pages = 129–134| year = 2010| pmid = 19783301| doi = 10.1016/j.leukres.2009.08.031}}</ref> Nilotinib was developed by [[Novartis]] and is sold under the trade name Tasigna.<ref>https://www.cancer.gov/about-cancer/treatment/drugs/fda-nilotinib</ref>
+
+==Medical uses==
+[[File:3CS9 Abl1 Nilotinib.png|250px|left|thumb|Crystal structure of [[Abl gene|Abl kinase domain]] (blue) in complex with nilotinib (red)]]
+It is [[Food and Drug Administration|FDA]]- (29 October 2007),<ref name = Drugs>{{cite web|title=Complete Nilotinib information from Drugs.com|work=Drugs.com|accessdate=25 January 2014|url=http://www.drugs.com/ppa/nilotinib.html}}</ref> [[European Medicines Agency|EMA]]- (29 September 2009),<ref name = EMA>{{cite web|title=Tasigna : EPAR - Product Information|work=European Medicines Agency|publisher=Novartis Europharm Ltd.|date=18 October 2013|accessdate=25 January 2014|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/000798/WC500034394.pdf|format=PDF}}</ref> [[Medicines and Healthcare Products Regulatory Agency|MHRA]]- (19 November 2007)<ref name = EMC>{{cite web|publisher=Novartis Pharmaceuticals UK Ltd|work=electronic Medicines Compendium|title=Tasigna 150mg Hard Capsules - Summary of Product Characteristics (SPC)|date=9 September 2013|accessdate=25 January 2014|url=http://www.medicines.org.uk/emc/medicine/24089/SPC/Tasigna+150mg+Hard+Capsules/}}</ref> and [[Therapeutic Goods Administration|TGA]]- (17 January 2008)<ref name = TGA>{{cite web|title=TASIGNA® nilotinib|work=TGA eBusiness Services|publisher=21 October 2013|accessdate=25 January 2014|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2009-PI-00292-3|format=PDF}}</ref> approved for use as a treatment for [[Philadelphia chromosome]] (Ph+)-positive [[chronic myelogenous leukaemia]].<ref name = MSR>{{cite web|title=Tasigna (nilotinib) dosing, indications, interactions, adverse effects, and more|work=Medscape Reference|publisher=WebMD|accessdate=25 January 2014|url=http://reference.medscape.com/drug/tasigna-nilotinib-342198#showall}}</ref>
+
+The drug carries a [[boxed warning|black box warning]] for possible heart complications.<ref>{{cite news|url=http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/2007/ucm109017.htm|title=FDA Approves Tasigna for Treatment of Philadelphia Chromosome Positive Chronic Myeloid Leukemia|date=2007-10-30|publisher=[[U.S. Food and Drug Administration]]|accessdate=2009-08-04}}</ref><ref>{{cite web|url=http://www.accessdata.fda.gov/drugsatfda_docs/label/2007/022068lbl.pdf|title=Prescribing information for Tasigna (nilotinib) Capsules|date=2007-10-29|work=[[New Drug Application|NDA]] 022068|publisher=[[Food and Drug Administration (United States)|U.S. FDA]]|accessdate=2009-08-04|format=PDF}}</ref>
+
+==Clinical trials==
+
+===CML===
+In June 2006, a [[Clinical trial#Phase I|phase I]] [[clinical trial]] found nilotinib has a relatively favorable safety profile and shows activity in cases of CML resistant to treatment with [[imatinib]], another tyrosine kinase inhibitor currently used as a first-line treatment.<ref>{{cite journal | author = Kantarjian H | title = Nilotinib in imatinib-resistant CML and Philadelphia chromosome-positive ALL | journal = N Engl J Med | volume = 354 | issue = 24 | pages = 2542&ndash;51 | year = 2006 | pmid = 16775235 | doi = 10.1056/NEJMoa055104| last2 = Giles | first2 = Francis | last3 = Wunderle | first3 = Lydia | last4 = Bhalla | first4 = Kapil | last5 = O'Brien | first5 = Susan | last6 = Wassmann | first6 = Barbara | last7 = Tanaka | first7 = Chiaki | last8 = Manley | first8 = Paul | last9 = Rae | first9 = Patricia | last10 = Mietlowski | first10 = William | last11 = Bochinski | first11 = Kathy | last12 = Hochhaus | first12 = Andreas | last13 = Griffin | first13 = James D. | last14 = Hoelzer | first14 = Dieter | last15 = Albitar | first15 = Maher | last16 = Dugan | first16 = Margaret | last17 = Cortes | first17 = Jorge | last18 = Alland | first18 = Leila | last19 = Ottmann | first19 = Oliver G. |display-authors=etal}}</ref> In that study 92% of patients (already resistant or unresponsive to imatinib) achieved normal white blood cell counts after five months of treatment.<ref>{{cite news|url=http://cws.huginonline.com/N/134323/PR/200606/1056533_5.html|title=Patients with treatment-resistant leukemia achieve high responses to Tasigna (nilotinib) in first published clinical trial results|date=2006-06-14|work=MediaReleases|publisher=[[Novartis]]|accessdate=2009-08-04}}</ref>
+
+===Other===
+Novartis announced on April 11, 2011 that it was discontinuing a phase III trial of Tasigna (nilotinib) for investigational use in the first-line treatment of [[gastrointestinal stromal tumor]] (GIST) based on the recommendation of an independent data monitoring committee. Interim results showed Tasigna is unlikely to demonstrate superiority compared to Novartis's Gleevec (imatinib)*, the current standard of care in this setting.<ref>http://www.novartis.com/newsroom/media-releases/en/2011/1504991.shtml</ref>
+
+The use of low doses of nilotinib is being investigated for use for [[Parkinson's disease|Parkinson's]], [[Alzheimer's disease|and Alzheimer's disease]], as well as for [[ALS]], [[dementia]] and [[Huntington's disease]].<ref>{{cite web|title=Cancer drug prevents build-up of toxic brain protein|url=https://medicalxpress.com/news/2013-05-cancer-drug-build-up-toxic-brain.html|publisher=MedicalXpress.com|accessdate=11 April 2017|date=10 May 2013}}</ref>
+
+Beginning in 2015, nilotinib was being trialed in people with Parkinson's disease as it appeared to be able to halt progression of the disease and even improve their symptoms. The researchers behind the trial hypothesized that the drug blocks a protein that interferes with the action of [[lysosomes]] which normally destroy harmful proteins in the brain.<ref>{{cite web|last1=Hamzelou|first1=Jessica|title=People with Parkinson’s walk again after promising drug trial|url=https://www.newscientist.com/article/dn28357-people-with-parkinsons-walk-again-after-promising-drug-trial/|publisher=New Scientist|accessdate=11 April 2017|date=17 October 2015}}</ref>
+
+==Contraindications==
+Contraindications include [[long QT syndrome]], [[hypokalaemia]], [[hypomagnesaemia]], pregnancy, planned pregnancy, lactation and galactose/lactose intolerance.<ref name = MSR/><ref name = TGA/>
+
+Cautions include:<ref name = MSR/>
+{{colbegin|4}}
+* Myelosuppression
+* Tumour lysis syndrome
+* Liver impairment
+* History of pancreatitis
+* Check serum lipase periodically in order to detect pancreatitis
+* Total gastrectomy
+* Avoid pregnancy or impregnating women
+{{colend}}
+
+Dose reduction of nilotinib has been recommended in hepatically impaired population which involves recommendation of lower starting dose and monitoring of any hepatic function abnormalities.<ref name="pmid24643910">{{cite journal | vauthors = Khurana V, Minocha M, Pal D, Mitra AK | title = Role of OATP-1B1 and/or OATP-1B3 in hepatic disposition of tyrosine kinase inhibitors. | journal = Drug Metabol Drug Interact. | volume = 0 | issue = 0 | pages = 1–11 |date=March 2014 | pmid = 24643910 | doi = 10.1515/dmdi-2013-0062 }}</ref>
+
+==Adverse effects==
+{{See also|List of adverse effects of nilotinib}}
+Nilotinib has a number of adverse effects typical of anti-cancer drugs. These include headache, fatigue, gastrointestinal problems such as nausea, vomiting, diarrhea and constipation, muscle and joint pain, [[rash]] and other skin conditions, flu-like symptoms, and reduced blood cell count. Less typical side effects are those of the cardiovascular system, such as hypertension (high blood pressure), various types of [[arrhythmia]], and prolonged [[QT interval]]. Nilotinib can also affect the body's [[electrolyte]] and [[glucose]] balance.<ref name = Drugs /> Though pulmonary-related adverse effects are rare when compared with [[imatinib]] and [[dasatinib]], there is a case report of acute respiratory failure from [[diffuse alveolar hemorrhage]] in a patient taking nilotinib.<ref>[http://www.ncbi.nlm.nih.gov/pubmed/?term=24467220 Donatelli, Christopher, Daych Chongnarungsin, and Rendell Ashton. "Acute respiratory failure from nilotinib-associated diffuse alveolar hemorrhage." Leukemia & Lymphoma 0 (2014): 1-6.]</ref>
+
+==Interactions==
+Nilotinib has been reported as a substrate for OATP1B1 and OATP1B3. Interaction of nilotinib with OATP1B1 and OATP1B3 may alter its hepatic disposition and can lead to transporter mediated drug-drug interactions.<ref name="pmid24643910"/> Nilotinib is an inhibitor of OATP-1B1 transporter but not for OATP-1B3.<ref name="Khurana V_2014">{{cite journal | vauthors = Khurana V, Minocha M, Pal D, Mitra AK | title = Inhibition of OATP-1B1 and OATP-1B3 by tyrosine kinase inhibitors. | journal = Drug Metabol Drug Interact. | volume = 0 | issue = 0 | pages = 1–11 |date=May 2014 | pmid = 24807167 | doi = 10.1515/dmdi-2014-0014 }}</ref>
+
+It is a substrate for [[CYP3A4]] and hence grapefruit juice and other [[CYP3A4]] inhibitors<ref>{{Cite journal|last=Bailey|first=David G|last2=Malcolm|first2=J|last3=Arnold|first3=O|last4=David Spence|first4=J|date=1998-08-01|title=Grapefruit juice–drug interactions|journal=British Journal of Clinical Pharmacology|volume=46|issue=2|pages=101–110|doi=10.1046/j.1365-2125.1998.00764.x|issn=0306-5251|pmc=1873672|pmid=9723817}}</ref> will increase its action and inducers like St. John's wort<ref>{{Cite journal|last=Komoroski|first=Bernard J.|last2=Zhang|first2=Shimin|last3=Cai|first3=Hongbo|last4=Hutzler|first4=J. Matthew|last5=Frye|first5=Reginald|last6=Tracy|first6=Timothy S.|last7=Strom|first7=Stephen C.|last8=Lehmann|first8=Thomas|last9=Ang|first9=Catharina Y. W.|date=2004-05-01|title=Induction and inhibition of cytochromes P450 by the St. John's wort constituent hyperforin in human hepatocyte cultures|journal=Drug Metabolism and Disposition: The Biological Fate of Chemicals|volume=32|issue=5|pages=512–518|doi=10.1124/dmd.32.5.512|issn=0090-9556|pmid=15100173}}</ref> will decrease it. Patients report that pomegranates and starfruit may also interfere.
+
+Food should not be eaten two hours before or one hour afterwards because it unpredictably increases its bioavailability, approximately doubling it.
+
+==Pharmacology==
+Nilotinib inhibits the kinases [[BCR-ABL]],<ref name="pmid16721371">{{cite journal |vauthors=Weisberg E, Manley P, Mestan J, Cowan-Jacob S, Ray A, Griffin JD |title=AMN107 (nilotinib): a novel and selective inhibitor of BCR-ABL |journal=Br. J. Cancer |volume=94 |issue=12 |pages=1765–9 |date=June 2006 |pmid=16721371 |doi=10.1038/sj.bjc.6603170 |pmc=2361347}}</ref> [[CD117|KIT]], [[Lck|LCK]], [[EPHA3]], [[EPHA8]], [[DDR1]], [[Discoidin domain-containing receptor 2|DDR2]], [[PDGFRB]], [[MAPK11]] and [[ZAK]].<ref>{{cite journal|pmid=19922818|year=2010|last1=Manley|first1=PW|last2=Drueckes|first2=P|last3=Fendrich|first3=G|last4=Furet|first4=P|last5=Liebetanz|first5=J|last6=Martiny-Baron|first6=G|last7=Mestan|first7=J|last8=Trappe|first8=J|last9=Wartmann|first9=M|last10=Fabbro|first10=Doriano|title=Extended kinase profile and properties of the protein kinase inhibitor nilotinib|volume=1804|issue=3|pages=445–53|doi=10.1016/j.bbapap.2009.11.008|journal=Biochimica et Biophysica Acta|display-authors=8}}</ref>
+
+==See also==
+* [[Bcr-Abl tyrosine-kinase inhibitor#Nilotinib (AMN107)]] re development and resistance
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [[Discovery and development of Bcr-Abl tyrosine kinase inhibitors]]
+* New drug information/Abbreviated [http://oncozine.com/page/nilotinib-tasignar-novartis Scientific Narrative]
+* [http://api.ning.com/files/1Vb2ZikWq33ReAnTgPc3uSN6e9G*-Zsz6OOqaVFVGhQeGO7FKqz4SaWB*ih7Bn1EUHJSRRdZRfzRHzJKpfZ2aSqLhmzWr81e/Nilotinib_Tasigna.pdf Highlights of Prescription information Nilotinib] (August 2007) Novartis Pharmaceuticals Corporation (USA)
+* [http://api.ning.com/files/1Vb2ZikWq30nE*znmFUq-arh9O67ktOpYwnCqC166ZEnmNGgrFOEBY4K9vdG3jkGeJpBvhtY33eGDJHWuOaAgGFeIi0YMuuB/Nilotinib_WC500034394.pdf Summary of Product Characteristics Nilotinib] (November 2007) Novartis AG (Europe)
+
+{{Extracellular chemotherapeutic agents}}
+{{Growth factor receptor modulators}}
+
+[[Category:Orphan drugs]]
+[[Category:Non-receptor tyrosine kinase inhibitors]]
+[[Category:Imidazoles]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Benzanilides]]
+[[Category:Pyrimidines]]
+[[Category:Pyridines]]

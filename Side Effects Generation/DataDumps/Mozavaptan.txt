@@ -1,0 +1,78 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 462255885
+| IUPAC_name = ''N''-[4-(5-Dimethylamino-2,3,4,5-tetrahydro-1-benzazepine-1-carbonyl)phenyl]-2-methylbenzamide
+| image = Mozavaptan structure.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| IUPHAR_ligand = 2197
+| CAS_number_Ref = {{cascite|correct|CAS}}
+| CAS_number = 137975-06-5
+| ATC_prefix = none
+| ATC_suffix =  
+| ATC_supplemental =  
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C27H29N3O2/c1-19-9-4-5-10-22(19)26(31)28-21-16-14-20(15-17-21)27(32)30-18-8-13-24(29(2)3)23-11-6-7-12-25(23)30/h4-7,9-12,14-17,24H,8,13,18H2,1-3H3,(H,28,31)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WRNXUQJJCIZICJ-UHFFFAOYSA-N
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 420762
+| PubChem = 119369
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 106618
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 17OJ42922Y
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=27 | H=29 | N=3 | O=2 
+| molecular_weight = 427.53 g/mol
+| smiles = Cc1ccccc1C(=O)Nc2ccc(cc2)C(=O)N3c4ccccc4C(CCC3)N(C)C
+}}
+
+'''Mozavaptan''' ([[International Nonproprietary Name|INN]]) is a [[vasopressin receptor antagonist]] marketed by [[Otsuka Pharmaceutical Co.|Otsuka]]. In Japan, it was approved in October 2006 for [[hyponatremia]] (low blood [[sodium]] levels) caused by [[syndrome of inappropriate antidiuretic hormone]] (SIADH) due to ADH producing tumors.
+
+==References==
+* {{cite journal
+ | author = H. Spreitzer
+ | date = November 20, 2006
+ | title = Neue Wirkstoffe - Conivaptan
+ | journal = Österreichische Apothekerzeitung
+ | issue = 24/2006
+ | language = German
+ }}
+* [https://web.archive.org/web/20120213003638/http://www.prous.com/molecules/default.asp?ID=153 Prous Science: Molecule of the Month November 2006]
+
+
+{{Diuretics}}
+{{Oxytocin and vasopressin receptor modulators}}
+
+[[Category:Diuretics]]
+[[Category:Hormonal agents]]
+[[Category:Benzanilides]]
+[[Category:Benzazepines]]
+[[Category:Vasopressin receptor antagonists]]
+
+
+{{antihypertensive-stub}}

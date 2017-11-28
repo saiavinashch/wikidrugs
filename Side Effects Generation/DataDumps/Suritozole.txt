@@ -1,0 +1,65 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 448211529
+| IUPAC_name = 5-(3-fluorophenyl)-2,4-dimethyl-2,4-dihydro-3''H''-1,2,4-triazole-3-thione
+| image = Suritozole.svg
+| width = 200px
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 110623-33-1
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 25431
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 3H7H68317X
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05980
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 23743
+<!--Chemical data-->
+| C=10 | H=10 | F=1 | N=3 | S=1 
+| molecular_weight = 223.269 g/mol
+| smiles = Cn1c(=S)n(C)nc1-c2cccc(F)c2
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C10H10FN3S/c1-13-9(12-14(2)10(13)15)7-4-3-5-8(11)6-7/h3-6H,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = IWDUZEHNLHFBRZ-UHFFFAOYSA-N
+}}
+
+'''Suritozole''' ('''MDL 26,479''') is an investigational [[cognition enhancer]]. It acts as a partial [[inverse agonist]] at the [[benzodiazepine receptor]] site on the GABA<sub>A</sub> ion channel complex, but does not have either [[anxiogenic]] or [[convulsant]] effects, unlike other BZD inverse agonists such as [[DMCM]].<ref name="pmid1330168">{{cite journal |vauthors=Miller JA, Dudley MW, Kehne JH, Sorensen SM, Kane JM |title=MDL 26,479: a potential cognition enhancer with benzodiazepine inverse agonist-like properties |journal=Br. J. Pharmacol. |volume=107 |issue=1 |pages=78–86 |date=September 1992 |pmid=1330168 |pmc=1907590 |doi= 10.1111/j.1476-5381.1992.tb14466.x|url=}}</ref> It was investigated for the treatment of [[depression (mood)|depression]] and [[Alzheimer's disease]],<ref name="pmid9158880">{{cite journal |vauthors=Robbins DK, Hutcheson SJ, Miller TD, Green VI, Bhargava VO, Weir SJ |title=Pharmacokinetics of MDL 26479, a novel benzodiazepine inverse agonist, in normal volunteers |journal=Biopharm Drug Dispos |volume=18 |issue=4 |pages=325–34 |date=May 1997 |pmid=9158880|doi=10.1002/(SICI)1099-081X(199705)18:4<325::AID-BDD21>3.0.CO;2-1}}</ref> but clinical development seems to have been discontinued.
+
+==References==
+{{reflist}}
+
+{{Nootropics}}
+{{GABAergics}}
+
+[[Category:Nootropics]]
+[[Category:Fluoroarenes]]
+[[Category:Triazoles]]
+[[Category:Thiocarbonyl compounds]]
+[[Category:GABAA receptor negative allosteric modulators]]
+
+
+{{nervous-system-drug-stub}}

@@ -1,0 +1,65 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 448868650
+| IUPAC_name = (acetyloxy)methyl (2''S'',5''R'',6''R'')-3,3-dimethyl-7-oxo-6-[(phenylacetyl)amino]-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate
+| image = Penamecillin.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|penamecillin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 983-85-7
+| ATC_prefix = J01
+| ATC_suffix = CE06
+| PubChem = 13795
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = H0P1YE5581
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 131733
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05406
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 8426255
+
+<!--Chemical data-->
+| C=19 | H=22 | N=2 | O=6 | S=1 
+| molecular_weight = 406.45278 g/mol
+| smiles            = CC(=O)OCOC(=O)[C@H]1C(S[C@H]2N1C(=O)[C@H]2NC(=O)CC3=CC=CC=C3)(C)C
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C19H22N2O6S/c1-11(22)26-10-27-18(25)15-19(2,3)28-17-14(16(24)21(15)17)20-13(23)9-12-7-5-4-6-8-12/h4-8,14-15,17H,9-10H2,1-3H3,(H,20,23)/t14-,15+,17-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = NLOOMWLTUVBWAW-HLLBOEOZSA-N
+}}
+'''Penamecillin''', an acetoxymethyl ester of benzylpenicillin, is a [[prodrug]] processed to [[benzylpenicillin]] by esterases.<ref>{{cite journal |author=Agersborg HPK |title=THE PHARMACOLOGY OF PENAMECILLIN |journal=Brit. J. Pharmacol. |volume=26 |issue=3 |pages=649–55 |year=1966 |pmid= 4959939|doi= |last2=Batchelor |first2=A |last3=Cambridge |first3=GW |last4=Rule |first4=AW |pmc=1510697}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Cell wall disruptive antibiotics}}
+
+[[Category:Penicillins]]
+
+
+
+{{antibiotic-stub}}

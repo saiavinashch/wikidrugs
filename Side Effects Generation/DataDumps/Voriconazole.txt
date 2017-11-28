@@ -1,0 +1,110 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 470631790
+| IUPAC_name = (2''R'',3''S'')-2-(2,4-Difluorophenyl)-3-(5-fluoropyrimidin-4-yl)-1-(1''H''-1,2,4-triazol-1-yl)butan-2-ol
+| image = Voriconazole structure.svg
+| image2 = Voriconazole ball-and-stick model.png
+
+<!--Clinical data-->
+| pronounce = {{IPAc-en|v|ɒr|ᵻ|ˈ|k|ɒ|n|ə|z|oʊ|l}} {{respell|vorr-i|KON|ə-zohl}}
+| tradename = Vfend
+| Drugs.com = {{drugs.com|monograph|voriconazole}}
+| MedlinePlus = a605022
+| licence_EU = VFEND
+| licence_US = Voriconazole
+| pregnancy_category = D
+| legal_status = Rx-only
+| routes_of_administration = [[Intravenous therapy|IV]], [[Oral administration|by mouth]] ([[Tablet (pharmacy)|tablets]], oral [[Suspension (chemistry)|suspension]])
+
+<!--Pharmacokinetic data-->
+| bioavailability = 96% (oral administration)
+| protein_bound = 58%
+| metabolism = [[Liver]]: [[CYP2C19]] (significant involvement), also [[CYP2C9]], [[CYP3A4]]
+| metabolites = Voriconazole ''N''-oxide (major; minimal antifungal activity)
+| elimination_half-life = Dose-dependent
+| excretion = Urine (80–83%)<ref name=USlabel2017/>
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 137234-62-9
+| ATC_prefix = J02
+| ATC_suffix = AC03
+| ATC_supplemental =  
+| PubChem = 71616
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00582
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 64684
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = JFU09I87TR
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00578
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 10023
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 638
+| synonyms = <small>(α''R'',β''S'')-α-(2,4-Difluorophenyl)-5-fluoro-β-methyl-α-(1''H''-1,2,4-triazol-1-ylmethyl)-4-pyrimidineethanol</small><ref name="INN">{{cite journal | title = International Nonproprietary Names for Pharmaceutical Substances (INN). Recommended International Nonproprietary Names (Rec. INN): List 36 | journal = WHO Drug Information | date = 1996 | volume = 10 | issue = 3 | page = 162 | url = http://apps.who.int/medicinedocs/index/assoc/s14160e/s14160e.pdf | accessdate = 6 November 2016 | publisher = World Health Organization}}</ref>
+
+<!--Chemical data-->
+| C=16 | H=14 | F=3 | N=5 | O=1
+| molecular_weight = 349.311 g/mol
+| smiles = Fc1cncnc1[C@@H]([C@@](O)(c2ccc(F)cc2F)Cn3ncnc3)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H14F3N5O/c1-10(15-14(19)5-20-7-22-15)16(25,6-24-9-21-8-23-24)12-3-2-11(17)4-13(12)18/h2-5,7-10,25H,6H2,1H3/t10-,16+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = BCEHBSKCWLPMDN-MGPLVRAMSA-N
+}}
+
+'''Voriconazole''', (trade name '''Vfend''') is a [[triazole]] [[antifungal medication]] used to treat and prevent invasive [[fungus|fungal]] [[infection]]s including [[aspergillosis]] and [[candidiasis]] and fungal infections caused by ''[[Scedosporium]]'' and ''[[Fusarium]]'' species.<ref name=USlabel2017>{{cite web|title=US voriconazole label|url=https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/021266s041,021267s053,021630s031lbl.pdf|publisher=FDA|accessdate=30 July 2017|date=June 2017}} For label updates see [https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=021630 FDA index page for NDA 021630]</ref><ref name=UKlabel2017>{{cite web|title=Vfend tablet and powder|url=https://www.medicines.org.uk/emc/medicine/10059|publisher=UK Electronic Medicines Compendium|accessdate=30 July 2017|language=en|date=January 2017}}</ref><ref name="IDS2016asp">{{cite journal|last1=Patterson|first1=TF|last2=Thompson GR |first2=3rd |last3=Denning |first3=DW|last4=Fishman |first4=JA|last5=Hadley|first5=S |last6=Herbrecht|first6=R|last7=Kontoyiannis |first7=DP|last8=Marr|first8=KA|last9=Morrison |first9=VA|last10=Nguyen |first10=MH|last11=Segal |first11=BH|last12=Steinbach|first12=WJ |last13=Stevens|first13=DA|last14=Walsh|first14=TJ|last15=Wingard |first15=JR|last16=Young|first16=JA|last17=Bennett|first17=JE|title=Practice Guidelines for the Diagnosis and Management of Aspergillosis: 2016 Update by the Infectious Diseases Society of America.|journal=Clinical Infectious Diseases |date=15 August 2016|volume=63|issue=4|pages=e1-e60|pmid=27365388|url=https://academic.oup.com/cid/article-lookup/doi/10.1093/cid/ciw326}}</ref>
+
+<!-- History and culture -->
+It is on the [[World Health Organization's List of Essential Medicines]], the most effective and safe medicines needed in a [[health system]].<ref name=WHO20th>{{cite web|title=WHO Model List of Essential Medicines (20th List)|url=http://www.who.int/medicines/publications/essentialmedicines/20th_EML2017.pdf?ua=1|work=World Health Organization|accessdate=29 June 2017|date=March 2017}}</ref>
+
+==Medical uses==
+Voriconazole is used to treat invasive [[aspergillosis]] and [[candidiasis]] and fungal infections caused by ''[[Scedosporium]]'' and ''[[Fusarium]]'' species, which may occur in [[Immunodeficiency|immunocompromised]] patients, including people undergoing allogeneic [[bone marrow transplant]] (BMT), who have  [[Hematological malignancy|hematologic cancers]] or who undergo [[organ transplant]]s.<ref name=UKlabel2017/><ref name=IDS2016asp/><ref name=Omran2017>{{cite journal|last1=Omrani|first1=AS|last2=Almaghrabi|first2=RS|title=Complications of hematopoietic stem transplantation: Fungal infections.|journal=Hematology/oncology and stem cell therapy|date=13 June 2017|pmid=28636889|url=http://www.sciencedirect.com/science/article/pii/S1658387617300493}}</ref><ref>{{cite journal | last1 = Herbrecht | first1 = R | last2 = Denning | first2 = DW | last3 = Patterson | first3 = TF | last4 = Bennett | first4 = JE | last5 = Greene | first5 = RE | last6 = Oestmann | first6 = JW | last7 = Kern | first7 = WV | last8 = Marr | first8 = KA | last9 = Ribaud | first9 = P | last10 = Lortholary | first10 = O | last11 = Sylvester | first11 = R | last12 = Rubin | first12 = RH | last13 = Wingard | first13 = JR | last14 = Stark | first14 = P | last15 = Durand | first15 = C | last16 = Caillot | first16 = D | last17 = Thiel | first17 = E | last18 = Chandrasekar | first18 = PH | last19 = Hodges | first19 = MR | last20 = Schlamm | first20 = HT | last21 = Troke | first21 = PF | last22 = de Pauw | first22 = B | title = Voriconazole versus Amphotericin B for Primary Therapy of Invasive Aspergillosis | journal = The New England Journal of Medicine | date = 8 August 2002 | volume = 347 | issue = 6 | pages = 408–15 | doi = 10.1056/NEJMoa020191 | pmid = 12167683 | url = http://www.nejm.org/doi/pdf/10.1056/NEJMoa020191 | accessdate = 6 November 2016}}</ref>
+
+It is also used to prevent fungal infection in people as they undergo BMT.<ref name=Omran2017/><ref name=UKlabel2017/>
+
+It is also the recommended treatment for the CNS fungal infections transmitted by epidural injection of contaminated steroids.<ref>{{cite web | title = Interim Treatment Guidance for Central Nervous System and Parameningeal Infections Associated with Injection of Contaminated Steroid Products | url = https://www.cdc.gov/hai/outbreaks/clinicians/index.html | publisher = Centers for Disease Control and Prevention | accessdate = 6 November 2016}}</ref>
+
+It can be taken by mouth or given in a doctor's office or clinic by intravenous infusion.<ref name=UKlabel2017/>
+
+==Contraindications==
+It is toxic to the fetus; pregnant women should not take it and women taking it should not become pregnant.<ref name=USlabel2017/>
+
+People who have hereditary intolerance for [[galactose]],  Lapp lactase deficiency, or [[glucose-galactose malabsorption]] should not take this drug.  It should be used in caution in people with arrhythmias or long QT.<ref name=USlabel2017/>
+
+No dose adjustment is necessary for renal impairment or advanced age, but children seem to clear voriconazole faster than adults and drug levels may need monitoring.<ref>{{cite journal | last1 = Smith | first1 = J | last2 = Safdar | first2 = N | last3 = Knasinski | first3 = V | last4 = Simmons | first4 = W | last5 = Bhavnani | first5 = SM | last6 = Ambrose | first6 = PG | last7 = Andes | first7 = D | title = Voriconazole Therapeutic Drug Monitoring | journal = Antimicrobial Agents and Chemotherapy | date = April 2006 | volume = 50 | issue = 4 | pages = 1570–2 | doi = 10.1128/AAC.50.4.1570-1572.2006 | pmid = 16569888 | url = http://aac.asm.org/content/50/4/1570.full.pdf | accessdate = 6 November 2016 | pmc=1426935}}</ref>
+
+==Adverse effects==
+The labels carry several warnings of the risk of [[injection site reaction]]s, [[hypersensitivity]] reactions; [[kidney damage|kidney]], [[Liver damage|liver]], and [[pancreatitis|pancreas]] damage; trouble with vision; and adverse affects in skin including damage due to [[phototoxicity]], [[squamous cell skin cancer]], and [[Stevens-Johnson syndrome]]; in long-term use there is a warning of the risk of [[Skeletal fluorosis|bone fluorosis]] and [[periostitis]].<ref name=USlabel2017/><ref name=UKlabel2017/>
+
+Additionally, very common adverse affects, occurring in more than 10% of people, include peripheral edema, headaches, trouble breathing, diarrhea, vomiting, abdominal pain, nausea, rashes, and fever.<ref name=UKlabel2017/>
+
+Common adverse affects, occurring in between 1 and 10% of people, include sinus infections, low numbers of white and red blood cells ([[agranulocytosis]], [[pancytopenia]], [[thrombocytopenia]], [[leukopenia]], and [[anemia]]), low blood sugar, reduced amount of potassium and sodium, depression, hallucinations, anxiety, insomnia, agitation, confusion, convulsions, fainting, tremor, weakness, tingling, sleepiness, dizziness, bleeding retina, irregular heart beats, slow or fast heart beats, low blood pressure, inflamed veins, acute respiratory distress syndrome, pulmonary edema, inflamed lips, swollen face, stomach upset, constipation, gingivitis, jaundice, hair loss, flaky skin, itchiness, red skin, back pain, chest pain, and chills.<ref name=UKlabel2017/>
+
+==Interactions==
+Being metabolized by [[Liver|hepatic]] [[cytochrome P450]], voriconazole interacts with many drugs.<ref name=USlabel2017/><ref name=UKlabel2017/>  Voriconazole should not be used in conjunction with many drugs including [[sirolimus]], [[rifampicin]], [[rifabutin]], [[carbamazepine]], [[quinidine]] and [[ergot]] alkaloids) and dose adjustments and/or monitoring when coadministered with others (including [[fluconazole]], [[warfarin]], [[ciclosporin]], [[tacrolimus]], [[omeprazole]], and [[phenytoin]]). Voriconazole may be safely administered with [[cimetidine]], [[ranitidine]], [[indinavir]], [[macrolide]] antibiotics, [[Mycophenolic acid|mycophenolate]], [[digoxin]] and [[prednisolone]].<ref name=USlabel2017/>
+
+==Pharmacokinetics==
+Voriconazole is well absorbed orally with a [[bioavailability]] of 96%, allowing patients to be switched between intravenous and oral administration.Voriconazole
+
+==History==
+Pfizer brought the drug to market as Vfend.   A generic version of the tablet form of voriconazole was introduced in the US in 2011 after Pfizer and Mylan settled litigation under the [[Hatch-Waxman Act]]; a generic version of the injectable form was introduced in 2012.  In Europe patent protection expired in 2011 and pediatric administrative exclusivity expired in Europe in 2016.<ref>{{cite news|title=Vfend loses its paediatric protection|url=https://www.imshealth.com/files/web/Market%20Insights/Generic%20Lifecycle%20Management/INN%20Analysis/Pipeline%20Watch%20Archives/Pipeline_Wactch_Gen_22_Jul_2016.pdf|work=IMS Health Generics Bulletin|date=22 July 2016}}</ref>
+
+==Society and culture==
+As of July 2017 the drug was marketed under the following names worldwide: Cantex, Pinup, Vedilozin, Vfend, Vodask, Volric, Voramol, Voriconazol, Voriconazole, Voriconazolum, Voricostad, Vorikonazol, Voritek, Voriz, Vornal, and Vosicaz.<ref>{{cite web|title=Voriconazole international brand names|url=https://www.drugs.com/international/voriconazole.html|publisher=Drugs.com|accessdate=30 July 2017}}</ref>
+
+==References==
+{{reflist|2}}
+
+{{Antifungals}}
+
+[[Category:Organofluorides]]
+[[Category:Lanosterol 14α-demethylase inhibitors]]
+[[Category:Pfizer products]]
+[[Category:Pyrimidines]]
+[[Category:Tertiary alcohols]]
+[[Category:Triazole antifungals]]
+[[Category:Fluoroarenes]]
+[[Category:World Health Organization essential medicines]]

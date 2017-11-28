@@ -1,0 +1,71 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 408887617
+| IUPAC_name = (2''S'',5''R'',6''R'')-3,3-dimethyl-7-oxo-6-[(2-phenyl-2-sulfoacetyl)amino]-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+| image = Sulbenicillin.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|sulbenicillin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 41744-40-5
+| CAS_supplemental = {{CAS|28002-18-8}}
+| ATC_prefix = J01
+| ATC_suffix = CA16
+| ATC_supplemental =  
+| PubChem = 39031
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = Q2VYF0562D
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08534
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 564107
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 16736045
+
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=16 | H=18 | N=2 | O=7 | S=2 
+| molecular_weight = 414.45 g/mol
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C16H18N2O7S2/c1-16(2)11(15(21)22)18-13(20)9(14(18)26-16)17-12(19)10(27(23,24)25)8-6-4-3-5-7-8/h3-7,9-11,14H,1-2H3,(H,17,19)(H,21,22)(H,23,24,25)/t9-,10-,11+,14-/m1/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = JETQIUPBHQNHNZ-NJBDSQKTSA-N
+|  SMILES = CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](c3ccccc3)S(=O)(=O)O)C(=O)O)C
+}}
+
+'''Sulbenicillin''' ([[International Nonproprietary Name|INN]]) is a [[penicillin]] [[antibiotic]].
+
+It has been used in combination with [[dibekacin]].<ref name="pmid3114912">{{cite journal |vauthors=Aonuma S, Ariji F, Oizumi K, Konno K |title=Electron microscopy of Pseudomonas aeruginosa treated with sulbenicillin and dibekacin |journal=Tohoku J. Exp. Med. |volume=152 |issue=2 |pages=119–28 |date=June 1987 |pmid=3114912 |doi= 10.1620/tjem.152.119|url=https://www.jstage.jst.go.jp/article/tjem1920/152/2/152_2_119/_article}}</ref>
+
+==References==
+{{reflist}}
+
+{{PenicillinAntiBiotics}}
+
+[[Category:Penicillins]]
+
+
+{{antibiotic-stub}}

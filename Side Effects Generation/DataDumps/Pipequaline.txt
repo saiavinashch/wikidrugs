@@ -1,0 +1,70 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 464207358
+| IUPAC_name = 2-phenyl-4-(2-piperidin-4-ylethyl)quinoline
+| image = Pipequaline.svg
+| width = 180
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 77472-98-1
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 71219
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 64354
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = J3S205V4I2
+
+<!--Chemical data-->
+| C=22 | H=24 | N=2 
+| molecular_weight = 316.439 g/mol
+| smiles = n1c4c(c(cc1c2ccccc2)CCC3CCNCC3)cccc4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H24N2/c1-2-6-18(7-3-1)22-16-19(11-10-17-12-14-23-15-13-17)20-8-4-5-9-21(20)24-22/h1-9,16-17,23H,10-15H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = AMEWZCMTSIONOX-UHFFFAOYSA-N
+}}
+
+'''Pipequaline''' ([[International Nonproprietary Name|INN]]) (developmental code name '''PK-8165''') is an [[anxiolytic]] [[drug]] that was never marketed.<ref name="Elks2014">{{cite book|author=J. Elks|title=The Dictionary of Drugs: Chemical Data: Chemical Data, Structures and Bibliographies|url=https://books.google.com/books?id=0vXTBwAAQBAJ&pg=PA986|date=14 November 2014|publisher=Springer|isbn=978-1-4757-2085-3|pages=986–}}</ref> It possesses a novel [[chemical structure]] that is not closely related to other drugs of this type. The drug has a similar pharmacological profile to the [[benzodiazepine]] family of drugs, but with mainly anxiolytic properties and very little [[sedative]], [[amnestic]] or [[anticonvulsant]] effects, and so is classified as a [[nonbenzodiazepine]] anxiolytic.<ref>von Frenckell R, Ansseau M, Bonnet D. Evaluation of the sedative properties of PK 8165 (pipequaline), a benzodiazepine partial agonist, in normal subjects. ''International Clinical Psychopharmacology''. 1986 Jan;1(1):24-35.</ref><ref>Willer JC, Von Frenkell R, Bonnet D, Le Fur G. The ability of PK 8165, a quinoline derivative, to reduce responses to a stressful situation in a double-blind study in man. ''Neuropharmacology''. 1986 Mar;25(3):275-81.</ref><ref>Eves FF, Curran HV, Shine P, Lader MH. The effects on memory of pipequaline, alone or in combination with diazepam. ''Psychopharmacology''. 1988;95(3):386-9.</ref>
+
+Pipequaline acts as a non-selective [[GABAA receptor|GABA<sub>A</sub>]] receptor [[partial agonist]].<ref>Mizoule J, Rataud J, Uzan A, Mazadier M, Daniel M, Gauthier A, Ollat C, Gueremy C, Renault C, Dubroeucq MC, et al. Pharmacological evidence that PK 8165 behaves as a partial agonist of brain type benzodiazepine receptors. ''Archives Internationales de Pharmacodynamie et de Thérapie''. 1984 Oct;271(2):189-97.</ref><ref>Benavides J, Malgouris C, Flamier A, Tur C, Quarteronet D, Begassat F, Camelin JC, Uzan A, Gueremy C, Le Fur G. Biochemical evidence that 2-phenyl-4[(4-piperidinyl) ethyl]quinoline, a quinoline derivative with pure anticonflict properties, is a partial agonist of benzodiazepine receptors. ''Neuropharmacology''. 1984 Oct;23(10):1129-36.</ref><ref>Debonnel G, de Montigny C. Pipequaline acts as a partial agonist of benzodiazepine receptors: an electrophysiological study in the hippocampus of the rat. ''Neuropharmacology''. 1987 Sep;26(9):1337-42.</ref> While its profile of anxiolytic effects without sedation would appear to have potential medical applications, pipequaline has never been developed for medical use and is currently only used in scientific research.
+
+==See also==
+* [[Indalpine]]
+* [[Viqualine]]
+
+==References==
+{{Reflist|2}}
+
+{{GABAAR PAMs}}
+
+[[Category:Anxiolytics]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:Piperidines]]
+[[Category:Quinolines]]
+[[Category:Sedatives]]
+
+
+{{nervous-system-drug-stub}}

@@ -1,0 +1,83 @@
+{{Drugbox
+| verifiedrevid = 447817179
+| IUPAC_name = ''N''-<nowiki/>{2-[(2-thienylcarbonyl)thio]propanoyl}glycine
+| image = Stepronin.svg
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| CAS_number = 72324-18-6
+| ATC_prefix = R05
+| ATC_suffix = CB11
+| PubChem = 54120
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01423
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 48889
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0NOY894QRB
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07381
+<!--Chemical data-->
+| C=10 | H=11 | N=1 | O=4 | S=2
+| molecular_weight = 273.331 g/mol
+| smiles = CC(C(=O)NCC(=O)O)SC(=O)C1=CC=CS1
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H11NO4S2/c1-6(9(14)11-5-8(12)13)17-10(15)7-3-2-4-16-7/h2-4,6H,5H2,1H3,(H,11,14)(H,12,13)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = JNYSEDHQJCOWQU-UHFFFAOYSA-N
+}}
+'''Stepronin''' is a [[mucolytic]]<ref>{{Cite journal 
+| last1 = Olivieri | first1 = D. 
+| last2 = Bernareggi | first2 = V. 
+| last3 = Quitadamo | first3 = M. 
+| title = Effect of lysine stepronin salts on mucociliary clearance 
+| journal = Archivio Monaldi per la tisiologia e le malattie dell'apparato respiratorio 
+| volume = 40 
+| issue = 5–6 
+| pages = 211–217 
+| year = 1985 
+| pmid = 3843171
+}}</ref> and [[expectorant]].<ref>{{Cite journal 
+| doi = 10.1159/000196302 
+| last1 = Yamada | first1 = K. 
+| last2 = Satoh | first2 = M. 
+| last3 = Shimura | first3 = S. 
+| last4 = Sasaki | first4 = T. 
+| last5 = Takishima | first5 = T. 
+| last6 = Shirato | first6 = K. 
+| title = An expectorant, stepronin, reduces airway secretion in vitro 
+| journal = Respiration; international review of thoracic diseases 
+| volume = 61 
+| issue = 1 
+| pages = 42–47 
+| year = 1994 
+| pmid = 8177972
+}}</ref>
+
+==References==
+{{reflist}}
+
+{{Cough and cold preparations}}
+
+[[Category:Expectorants]]
+[[Category:Thiophenes]]
+[[Category:Carboxamides]]
+[[Category:Thioesters]]
+
+
+{{respiratory-system-drug-stub}}

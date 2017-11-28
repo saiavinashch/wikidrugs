@@ -1,0 +1,77 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 464199698
+| IUPAC_name = ''N''-Carbamoyl-2-phenyl-acetamide
+| image = Phenacemide.svg
+| width = 175
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|phenacemide}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life = 22–25 hours
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7265
+| CAS_number_Ref = {{cascite|correct|CAS}}
+| CAS_number = 63-98-9
+| ATC_prefix = N03
+| ATC_suffix = AX07
+| ATC_supplemental =  
+| PubChem = 4753
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB01121
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4589
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = PAI7J52V09
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00504
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 918
+
+<!--Chemical data-->
+| C=9 | H=10 | N=2 | O=2 
+| molecular_weight = 178.188 g/mol
+| smiles = O=C(NC(=O)N)Cc1ccccc1
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C9H10N2O2/c10-9(13)11-8(12)6-7-4-2-1-3-5-7/h1-5H,6H2,(H3,10,11,12,13)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = XPFRXWCVYUEORT-UHFFFAOYSA-N
+}}
+
+'''Phenacemide''' ([[International Nonproprietary Name|INN]], [[British Approved Name|BAN]]) (brand name '''Phenurone'''), also known as '''phenylacetylurea''', is an [[anticonvulsant]] of the [[ureide]] (acetylurea) class.<ref name="GanellinTriggle1996">{{cite book|author1=C.R. Ganellin|author2=David J. Triggle|title=Dictionary of Pharmacological Agents|url=https://books.google.com/books?id=A0THacd46ZsC&pg=PA1578|date=21 November 1996|publisher=CRC Press|isbn=978-0-412-46630-4|pages=1578–}}</ref> It is a [[congener (chemistry)|congener]] and ring-opened [[structural analog|analogue]] of [[phenytoin]] (a [[hydantoin]]),<ref name="UniversitiesPress2010">{{cite book|title=Conceptual Pharmacology|url=https://books.google.com/books?id=s0e_FlM8LKYC&pg=PA236|year=2010|publisher=Universities Press|isbn=978-81-7371-679-9|pages=236–}}</ref><ref name="deStevensZingel2013">{{cite book|editor1-last=deStevens|editor1-first=G.|editor2-last=Zingel|editor2-first=V.|editor3-last=Leschke|editor3-first=C.|editor4-last=Hoeprich|editor4-first=P.D.|editor5-last=Schultz|editor5-first=R.M.|editor6-last=Mehrotra|editor6-first=P.K.|editor7-last=Batra|editor7-first=S.|editor8-last=Bhaduri|editor8-first=A.P.|editor9-last=Saxena|editor9-first=A.K.|editor10-last=Saxena|editor10-first=M.|title=Progress in Drug Research / Fortschritte der Arzneimittelforschung / Progrès des Recherches Pharmaceutiques|date=11 November 2013|publisher=Birkhäuser|location=Basel|isbn=978-3-0348-7161-7|pages=217–|url=https://books.google.com/books?id=2mT0BwAAQBAJ&pg=PA217|accessdate=3 September 2016}}</ref> and is structurally related to the [[barbiturate]]s and to other [[hydantoin]]s.<ref name="Kadam2007">{{cite book|author= S. S. Kadam|title=PRINCIPLES OF MEDICINAL CHEMISTRY Vol. - II|url=https://books.google.com/books?id=Z7Pb3lJuRksC&pg=PA147|date=1 July 2007|publisher=Pragati Books Pvt. Ltd.|isbn=978-81-85790-03-9|pages=147–}}</ref> Phenacemide was introduced in 1949 for the treatment of [[epilepsy]], but was eventually withdrawn due to [[toxicity]].<ref name="UniversitiesPress2010" /><ref name="deStevensZingel2013" />
+
+==See also==
+* [[Pheneturide]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* {{DiseasesDB|34078}}
+* {{MedlinePlusDrugInfo|uspdi|202454}}
+* {{cite journal | author = Coker S | title = The use of phenacemide for intractable partial complex epilepsy in children | journal = Pediatr Neurol | volume = 2 | issue = 4 | pages = 230–2 | year = 1986 | pmid = 3508693 | doi = 10.1016/0887-8994(86)90053-6}}
+* {{cite journal |vauthors=Coker S, Holmes E, Egel R | title = Phenacemide therapy of complex partial epilepsy in children: determination of plasma drug concentrations | journal = Neurology | volume = 37 | issue = 12 | pages = 1861–6 | year = 1987 | pmid = 3683877 | doi=10.1212/wnl.37.12.1861}}
+
+{{Anticonvulsants}}
+{{Channel blockers}}
+
+[[Category:Acetamides]]
+[[Category:Ureas]]
+[[Category:Withdrawn drugs]]
+
+{{anticonvulsant-stub}}

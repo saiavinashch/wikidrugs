@@ -1,0 +1,69 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 407439500
+| IUPAC_name = 1-''N'',3-''N-bis''(2,3-dihydroxypropyl)-5-[2-hydroxy-''N''-(2-hydroxyethyl)acetamido]-2,4,6-triiodobenzene-1,3-dicarboxamide
+| image = Ioversol.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|ioversol}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number =  
+| ATC_prefix = V08
+| ATC_suffix = AB07
+| PubChem = 3741
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = N3RIB7X24K
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01555
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1200614
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 3610
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=18 | H=24 | I=3 | N=3 | O=9 
+| molecular_weight = 807.11127
+| smiles            = C(CO)N(C1=C(C(=C(C(=C1I)C(=O)NCC(CO)O)I)C(=O)NCC(CO)O)I)C(=O)CO
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C18H24I3N3O9/c19-13-11(17(32)22-3-8(29)5-26)14(20)16(24(1-2-25)10(31)7-28)15(21)12(13)18(33)23-4-9(30)6-27/h8-9,25-30H,1-7H2,(H,22,32)(H,23,33)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = AMDBBAQNWSUWGN-UHFFFAOYSA-N
+}}
+'''Ioversol''' ([[International Nonproprietary Name|INN]]) is an [[organoiodine compound]] that used as a [[contrast medium]].  It features both a high iodine content, as well as several [[hydrophile|hydrophilic]] groups.
+
+{{Contrast media}}
+
+
+
+
+
+
+{{pharmacology-stub}}
+
+[[Category:Radiocontrast agents]]
+[[Category:Benzamides]]
+[[Category:Acetanilides]]
+[[Category:Iodoarenes]]

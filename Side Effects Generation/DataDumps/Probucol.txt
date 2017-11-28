@@ -1,0 +1,81 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 464214831
+| IUPAC_name = 4,4'-[propane-2,2-diylbis(thio)]bis(2,6-di-''tert''-butylphenol)
+| image = probucol.png
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|probucol}}
+| MedlinePlus = a611037
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7277
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 23288-49-5
+| ATC_prefix = C10
+| ATC_suffix = AX02
+| PubChem = 4912
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01599
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4743
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = P3CTH044XJ
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00476
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 8427
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 608
+<!--Chemical data-->
+| C=31 | H=48 | O=2 | S=2
+| molecular_weight = 516.844 g/mol
+| smiles = S(c1cc(c(O)c(c1)C(C)(C)C)C(C)(C)C)C(Sc2cc(c(O)c(c2)C(C)(C)C)C(C)(C)C)(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C31H48O2S2/c1-27(2,3)21-15-19(16-22(25(21)32)28(4,5)6)34-31(13,14)35-20-17-23(29(7,8)9)26(33)24(18-20)30(10,11)12/h15-18,32-33H,1-14H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = FYPMFJGVHOHGLL-UHFFFAOYSA-N
+| synonyms = <small>2,6-di-''tert''-butyl-4-({2-[(3,5-di-''tert''-butyl-4-hydroxyphenyl)sulfanyl]propan-2-yl}sulfanyl)phenol</small>
+}}
+
+'''Probucol''' is an anti-hyperlipidemic [[drug]]<ref name="pmid19075491">{{cite journal |author=Yamamoto A |title=A Uniqe Antilipidemic Drug - Probucol |journal=J. Atheroscler. Thromb. |volume= 15|issue= 6|pages= 304–5|date=December 2008 |pmid=19075491 |doi=10.5551/jat.E621 |url=http://www.jstage.jst.go.jp/article/jat/15/6/15_E621/_article }}</ref> initially developed in the treatment of [[coronary artery disease]].
+
+However, clinical trials were stopped after it was found that it may lower HDL in patients with a previous history of heart disease.
+
+Probucol was initially developed in the 1970s by a chemical company to maximize airplane tire longevity.
+Probucol is associated with QT interval prolongation.
+
+==Mechanism==
+Probucol lowers the level of cholesterol in the bloodstream by increasing the rate of LDL catabolism. Additionally, probucol may inhibit cholesterol synthesis and delay cholesterol absorption.<ref>[http://www.drugs.com/MMX/Probucol.html "Probucol. Drugs.com web site]</ref>  Probucol is a powerful antioxidant which inhibits the oxidation of cholesterol in LDLs; this slows the formation of foam cells, which contribute to atherosclerotic plaques.
+
+It is believed to act at [[ABCA1]].<ref name="pmid15514211">{{cite journal |vauthors=Favari E, Zanotti I, Zimetti F, Ronda N, Bernini F, Rothblat GH |title=Probucol inhibits ABCA1-mediated cellular lipid efflux |journal=Arterioscler. Thromb. Vasc. Biol. |volume=24 |issue=12 |pages=2345–50 |date=December 2004 |pmid=15514211 |doi=10.1161/01.ATV.0000148706.15947.8a |url=http://atvb.ahajournals.org/cgi/pmidlookup?view=long&pmid=15514211}}</ref>
+
+It also lowers levels of [[High-density lipoprotein|HDL]].<ref>{{cite journal | doi = 10.1016/j.atherosclerosis.2007.12.031 | pmid = 18279878 | volume=200 | issue=2 | title=Probucol markedly reduces HDL phospholipids and elevated prebeta1-HDL without delayed conversion into alpha-migrating HDL: putative role of angiopoietin-like protein 3 in probucol-induced HDL remodeling |date=October 2008 | journal=Atherosclerosis | pages=329–35  |vauthors=Miida T, Seino U, Miyazaki O, etal }}</ref>
+
+==References==
+{{reflist}}
+
+{{Lipid modifying agents}}
+
+[[Category:Antioxidants]]
+[[Category:Phenols]]
+[[Category:Thioethers]]
+[[Category:Tert-butyl compounds]]
+
+
+{{cardiovascular-drug-stub}}

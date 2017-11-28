@@ -1,0 +1,74 @@
+{{Drugbox
+| verifiedrevid = 444222727
+| IUPAC_name = 7-(1,3-Dioxolan-2-ylmethyl)-1,3-dimethylpurine-2,6-dione
+| image = Doxofylline.svg
+| width = 175
+| image2 = Doxofylline-3D-balls.png
+| width2 = 225
+
+<!--Clinical data-->
+| tradename =
+| Drugs.com = {{drugs.com|international|doxofylline}}
+| pregnancy_category =
+| legal_status = Rx-only
+| routes_of_administration = [[Oral administration|By mouth]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 69975-86-6
+| ATC_prefix = R03
+| ATC_suffix = DA11
+| PubChem = 50942
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = MPM23GMO7Z
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03898
+| DrugBank = DB09273
+| ChemSpiderID = 46175
+
+<!--Chemical data-->
+| C=11 | H=14 | N=4 | O=4
+| molecular_weight = 266.25 g/mol
+| smiles = CN1C2=C(C(=O)N(C1=O)C)N(C=N2)CC3OCCO3
+| StdInChI = 1S/C11H14N4O4/c1-13-9-8(10(16)14(2)11(13)17)15(6-12-9)5-7-18-3-4-19-7/h6-7H,3-5H2,1-2H3
+| StdInChIKey = HWXIGFIVGWUZAO-UHFFFAOYSA-N
+}}
+
+'''Doxofylline''' (also known as '''doxophylline''') is a [[xanthine]] derivative [[drug]] used in the treatment of [[asthma]].<ref name="pmid3245738">{{cite journal |vauthors=Cirillo R, Barone D, Franzone JS |title=Doxofylline, an antiasthmatic drug lacking affinity for adenosine receptors |journal=Arch Int Pharmacodyn Ther |volume=295 |issue= |pages=221–37 |year=1988 |pmid=3245738 |doi= |url=}}</ref>
+
+==Medical uses==
+It has [[antitussive]]{{Citation needed|date=December 2008}} and [[bronchodilator]]<ref name="pmid2791671">{{cite journal |vauthors=Poggi R, Brandolese R, Bernasconi M, Manzin E, Rossi A |title=Doxofylline and respiratory mechanics. Short-term effects in mechanically ventilated patients with airflow obstruction and respiratory failure |journal=Chest |volume=96 |issue=4 |pages=772–8 |date=October 1989 |pmid=2791671 |doi= 10.1378/chest.96.4.772|url=http://www.chestjournal.org/cgi/pmidlookup?view=long&pmid=2791671}}</ref> effects, and acts as a [[phosphodiesterase inhibitor]].<ref name="pmid11268710">{{cite journal |vauthors=Dini FL, Cogo R |title=Doxofylline: a new generation xanthine bronchodilator devoid of major cardiovascular adverse effects |journal=Curr Med Res Opin |volume=16 |issue=4 |pages=258–68 |year=2001 |pmid=11268710 |doi= 10.1185/030079901750120196|url=}}</ref>
+
+In animal and human studies, it has shown similar efficacy to [[theophylline]] but with significantly fewer side effects.<ref>{{cite journal |vauthors=Sankar J, Lodha R, Kabra SK |title=Doxofylline: The next generation methylxanthine |journal=Indian J Pediatr |volume=75 |issue=3 |pages=251–4 |date=March 2008 |pmid=18376093 |doi= 10.1007/s12098-008-0054-1|url=}}</ref>
+
+==Chemistry==
+Unlike other xanthines, doxofylline lacks any significant [[affinity (pharmacology)|affinity]] for [[adenosine receptor]]s and does not produce [[stimulant]] effects. This suggests that its antiasthmatic effects are mediated by another mechanism, perhaps its actions on [[phosphodiesterase]].<ref name="pmid3245738" />
+
+==Names==
+It is marketed under many brand names worldwide, including: 
+An Li Nuo Er, An Sai Ma, Ansimar, Asima, Bestofyline, Chuan Ning, D-Fyal, Dilatair, Doxiba, Doxobid, Doxobron, Doxofilina, Doxofillina, Doxofyllin, Doxofylline, Doxofylline, Doxofylline, Doxoll, Doxophylline, Doxovent, Doxyjohn, Fei Te Ai Si, Jian Fang Neng, Lang Ming, Lv Meng, Mai Ping Xi, Maxivent, Mucosma, Na De Lai, Phylex, Phyllin, Puroxan, Rexipin, Shu Zhi, Shuai An, Shuweixin, Suo Di, Suo Ji, Suo Li An, Xi Si Nuo, Xin Qian Ping, Xin Xi Ping, Yi Suo, and Yili.<ref name=brands>{{cite web|title=Doxofylline - international brand names|url=https://www.drugs.com/international/doxofylline.html|publisher=Drugs.com|accessdate=18 January 2017|language=en}}</ref>
+
+It is also marketed as a [[combination drug]] with [[terbutaline]] as Doxoll-TL, Mucosma-T  and Phylex-TR.<ref name=brands/>
+
+It is also marketed as a combination drug with [[montelukast]] as  Doxoll-ML, Doxomont, Doxoril-M, Doxovent-M, Lunair-M, and Venidox-M.<ref name=brands/>
+
+== References ==
+{{Reflist}}
+
+==Further reading==
+* {{cite journal | doi = 10.1517/14656560903200667| pmid = 19678793| title = Doxofylline: A promising methylxanthine derivative for the treatment of asthma and chronic obstructive pulmonary disease| journal = Expert Opinion on Pharmacotherapy| volume = 10| issue = 14| pages = 2343| year = 2009| last1 = Shukla| first1 = Dali| last2 = Chakraborty| first2 = Subhashis| last3 = Singh| first3 = Sanjay| last4 = Mishra| first4 = Brahmeshwar}}
+
+{{Asthma and copd rx}}
+{{Phosphodiesterase inhibitors}}
+
+[[Category:Dioxolanes]]
+[[Category:Phosphodiesterase inhibitors]]
+[[Category:Xanthines]]
+
+{{respiratory-system-drug-stub}}

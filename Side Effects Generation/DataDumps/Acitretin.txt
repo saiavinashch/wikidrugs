@@ -1,0 +1,72 @@
+{{Drugbox
+| verifiedrevid = 477240755
+| IUPAC_name = (2''E'',4''E'',6''E'',8''E'')-9-(4-methoxy-2,3,6-trimethylphenyl)-3,7-dimethylnona-2,4,6,8-tetraenoic acid
+| image = Acitretin2DACS.svg
+<!--Clinical data-->
+| tradename = Soriatane, Neotigason
+| Drugs.com = {{drugs.com|monograph|acitretin}}
+| MedlinePlus = a601010
+| pregnancy_AU = X
+| pregnancy_US = X
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability = 60%
+| protein_bound = >99.9%
+| metabolism = Hepatic
+| elimination_half-life = 49 hours
+| excretion = Faeces & urine
+<!--Identifiers-->
+| IUPHAR_ligand = 7598
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 55079-83-9
+| ATC_prefix = D05
+| ATC_suffix = BB02
+| ATC_supplemental =  
+| PubChem = 5284513
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00459
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4447573
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = LCH760E9T7
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02754
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 50173
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1131
+<!--Chemical data-->
+| C=21 | H=26
+| O=3
+| molecular_weight = 326.429 g/mol
+| smiles = O=C(O)\C=C(\C=C\C=C(\C=C\c1c(cc(OC)c(c1C)C)C)C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H26O3/c1-14(8-7-9-15(2)12-21(22)23)10-11-19-16(3)13-20(24-6)18(5)17(19)4/h7-13H,1-6H3,(H,22,23)/b9-7+,11-10+,14-8+,15-12+
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IHUNBGSDBOWDMA-AQFIFDHZSA-N
+}}
+'''Acitretin''' (trade names '''Soriatane''' and '''Neotigason''') is a second-generation [[retinoid]].  It is taken orally, and is typically used for [[psoriasis]].
+
+It is a metabolite of [[etretinate]], which was used prior to the introduction of acitretin.  Etretinate was discontinued because it had a narrow [[therapeutic index]] as well as a long [[elimination half-life]] (''t''<sub>1/2</sub>=120 days), making dosing difficult.  In contrast, acitretin's half-life is approximately 2 days.  However, because acitretin can be reverse metabolised into [[etretinate]] which has an extremely long half-life, women must avoid becoming pregnant for at least three years<ref>{{cite web|url=http://www.soriatane.com/#isi-content|title=Important Safety Information for SORIATANE|work=soriatane.com|accessdate=31 October 2015}} </ref> after discontinuing acitretin.  Therefore, acitretin is generally not recommended for women of child-bearing age with a risk of becoming pregnant.
+
+Acitretin is an oral retinoid used in the treatment of severe resistant psoriasis. Because of the potential for problems and severe side effects it is generally used in only very severe cases of psoriasis that have been unresponsive to other treatments.  It binds to nuclear receptors that regulates gene transcription.  They induce [[keratinocyte]] differentiation and reduce epidermal hyperplasia, leading to the slowing of cell reproduction.  Acitretin is readily absorbed and widely distributed after oral administration.  A therapeutic effect occurs after two to four weeks or longer.
+
+Patients that have received the medication are advised against giving blood for at least three years due to the risk of birth defects.<ref>AABB Technical Manual, American Association of Blood Banks</ref>
+
+==Adverse effects==
+Acitretin is noted for the possibility of severe birth defects and should not be used by pregnant women or women planning to get pregnant within 3 years following the use of acitretin.  Sexually active women of childbearing age who use acitretin should also use at least two forms of birth control concurrently. Men and women who use it should not donate blood for three years after using it, because of the possibility that the blood might be used in a pregnant patient and cause birth defects.  In addition, it may cause nausea, headache, itching, dry, red or flaky skin, dry or red eyes, dry or chapped lips, swollen lips, dry mouth, thirst, cystitis acne or hair loss.<ref>{{cite web|url=http://www.webmd.com/drugs/drug-4719-soriatane+oral.aspx?drugid=4719&drugname=soriatane+oral|title=Soriatane|work=[[WebMD]]|accessdate=15 August 2015}}</ref><ref>{{cite web|url=http://www.drugs.com/sfx/soriatane-side-effects.html|title=Soriatane Side Effects|work=[[Drugs.com]]|accessdate=15 August 2015}}</ref><ref>{{cite web|url=http://www.rxlist.com/soriatane-drug.htm|title=Soriatane (Acitretin) Drug Information: Description, User Reviews, Drug Side Effects, Interactions - Prescribing Information at RxList|work=[[RxList]]|accessdate=15 August 2015}}</ref>
+
+==References==
+{{Reflist|2}}
+
+
+{{Antipsoriatics}}
+{{Retinoid receptor modulators}}
+
+[[Category:Retinoids]]
+[[Category:Phenol ethers]]

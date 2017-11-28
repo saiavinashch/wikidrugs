@@ -1,0 +1,75 @@
+{{Drugbox
+| verifiedrevid = 447926670
+| IUPAC_name = 2-(7-chloro-1,8-naphthyridin-2-yl)-3-[2-(1,4-dioxa-8-azaspiro[4.5]decan-8-yl)-2-oxoethyl]-3''H''-isoindol-1-one
+| image = Pazinaclone.svg
+| width = 200
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_category =  
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 103255-66-9
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 59743
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 53893
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = MHK03047IJ
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05378
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI =
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 2107504
+
+<!--Chemical data-->
+| C=25 | H=23 | Cl=1 | N=4 | O=4 
+| molecular_weight = 478.928 g/mol
+| smiles = Clc1nc2nc(ccc2cc1)N4C(=O)c3ccccc3C4CC(=O)N6CCC5(OCCO5)CC6
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C25H23ClN4O4/c26-20-7-5-16-6-8-21(28-23(16)27-20)30-19(17-3-1-2-4-18(17)24(30)32)15-22(31)29-11-9-25(10-12-29)33-13-14-34-25/h1-8,19H,9-15H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = DPGKFACWOCLTCA-UHFFFAOYSA-N
+}}
+
+'''Pazinaclone''' ('''DN-2327''') is a [[sedative]] and [[anxiolytic]] drug in the [[cyclopyrrolone]] family of drugs. Some other cyclopyrrolone drugs include [[zopiclone]] and [[eszopiclone]].
+
+Pazinaclone has a very similar pharmacological profile to the [[benzodiazepine]]s including sedative and anxiolytic properties, but with less [[amnestic]] effects,<ref>Wada T, Fukuda N. Effect of a new anxiolytic, DN-2327, on learning and memory in rats. Pharmacology, Biochemistry and Behavior. 1992 Mar;41(3):573-9.</ref> and at low doses it is a relatively selective anxiolytic, with sedative effects only appearing at higher doses.<ref>Suzuki M, Uchiumi M, Murasaki M. A comparative study of the psychological effects of DN-2327, a partial benzodiazepine agonist, and alprazolam. Psychopharmacology. 1995 Oct;121(4):442-50.</ref>
+
+Pazinaclone produces its sedative and anxiolytic effects by acting as a [[partial agonist]] at [[GABAA receptor|GABA<sub>A</sub>]] benzodiazepine receptors, although pazinaclone is more subtype-selective than most benzodiazepines.<ref>Atack JR. The benzodiazepine binding site of GABA(A) receptors as a target for the development of novel anxiolytics. Expert Opinion on Investigational Drugs. 2005 May;14(5):601-18.</ref>
+
+==Synthesis==
+[[File:Pazinaclone synthesis.png|thumb|center|500px|Pazinaclone synthesis: {{US patent|4778801}}]]
+Reaction of 2-amino-7-chloro-1,8-[[naphthyridine]] with [[phthalic anhydride]] leads to the corresponding phthalimide. Selective reduction of one of the imide carbonyl groups in essence converts that to an aldehyde. Condensation with ''tert''-butyl(triphenylphosphoranylidene)acetate gives the Wittig product.
+
+The carboxylic acid is then treated with diethyl cyanophosphonate to convert that to an activated acid cyanide; reaction with 1,4-dioxa-8-azaspiro[4.5]decane results in formation of the corresponding amide, pazinaclone.
+
+==See also==
+*[[Pagoclone]]
+
+== References ==
+{{Reflist}}
+
+{{Hypnotics and sedatives}}
+{{GABAAR PAMs}}
+
+[[Category:Cyclopyrrolones]]
+[[Category:Sedatives]]
+[[Category:Isoindolines]]
+[[Category:Lactams]]
+[[Category:Acetamides]]
+[[Category:Naphthyridines]]
+[[Category:GABAA receptor positive allosteric modulators]]

@@ -1,0 +1,76 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 464213907
+| IUPAC_name = 4-<nowiki/>{[(2''S'')-2-hydroxy-3-(isopropylamino)propyl]oxy}phenol
+| image = Prenalterol.svg
+| width = 250
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_category =  
+| legal_status = Rx-only
+| routes_of_administration = [[oral administration|Oral]], [[Intravenous|IV]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 57526-81-5
+| ATC_prefix = C01
+| ATC_suffix = CA13
+| PubChem = 42396
+| IUPHAR_ligand = 537
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 38665
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = M4G34404CX
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1160714
+
+<!--Chemical data-->
+| C=12 | H=19 | N=1 | O=3
+| molecular_weight = 225.284 g/mol
+| smiles = O(c1ccc(O)cc1)C[C@@H](O)CNC(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C12H19NO3/c1-9(2)13-7-11(15)8-16-12-5-3-10(14)4-6-12/h3-6,9,11,13-15H,7-8H2,1-2H3/t11-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ADUKCCWBEDSMEB-NSHDSACASA-N
+}}
+
+'''Prenalterol''' is a [[cardiac stimulant]] which acts as a [[Beta1-adrenergic agonist|β<sub>1</sub> adrenoreceptor agonist]].<ref name="pmid2572262">{{cite journal |vauthors=Hadfield SE, Slee SJ, Snow HM |title=The cardiovascular pharmacology of xamoterol, cicloprolol, prenalterol and pindolol in the anaesthetised dog |journal=Br J Clin Pharmacol |volume=28 Suppl 1 |issue= Suppl 1|pages=78S–81S |year=1989 |pmid=2572262 |pmc=1379883 |doi= 10.1111/j.1365-2125.1989.tb03580.x }}</ref>
+
+==Synthesis==
+
+===[[Stereospecific]]===
+Prenalterol interestingly exhibits adrenergic agonist activity in spite of an interposed [[oxymethylene]] group. The stereospecific synthesis devised for this molecule relies on the fact that the side chain is very similar in [[oxidation state]] to that of a sugar.
+[[File:Prenalterol synthesis.svg|thumb|center|700px|Prenalterol synthesis:<ref>K. A. Jaeggi, H. Schroeter, and F. Ostermayer, {{Cite patent|DE|2503968}}; Chem. Abstr. 84, 5322 (1976).</ref><ref>corresp to {{US patent|3978041}} and {{US patent|4049797}} (1975, 1976, 1977, all to [[Ciba-Geigy]]).</ref>]]
+Condensation of [[monobenzone]] ('''2''') with the epoxide derived from α-<small>D</small>-[[glucofuranose]]<ref>http://www.chemspider.com/Chemical-Structure.9312824.html</ref> affords the glycosylated derivative ('''3'''). Hydrolytic removal of the [[acetonide]] protecting groups<ref>{{cite journal|pmid=20543896|pmc=2882309|year=2010|author1=Liu|first1=Z|title=Acetonide Protection of Dopamine for the Synthesis of Highly Pure N-docosahexaenoyldopamine|journal=Tetrahedron Letters|volume=51|issue=18|pages=2403–2405|last2=Hu|first2=B. H.|last3=Messersmith|first3=P. B.|doi=10.1016/j.tetlet.2010.02.089}}</ref> followed by cleavage of the sugar with [[periodate]] gives aldehyde ('''4'''). This is reduced to the [[glycol]] by means of [[Sodium borohydride|NaBH<sub>4</sub>]] and the terminal alcohol is converted to the [[mesylate]] ('''5'''). Displacement of the [[leaving group]] with [[isopropylamine]] followed by hydrogenolytic removal of the ''O''-benzyl ether affords the [[beta-1 adrenergic receptor|β<sub>1</sub>-adrenergic]] selective adrenergic agonist prenalterol ('''6''').
+
+===Racemic===
+Prepns of the racemic mixture: {{Cite patent|NL|6409883}} corresp to H. Köppe et al., {{US patent|3637852}} (1965, 1972 both to [[Boehringer Ingelheim]]); {{Cite patent|NL|301580}} corresp to A. F. Crowther, L. H. Smith, {{US patent|3501769}} (1965, 1970 both to [[Imperial Chemical Industries|ICI]]);<ref>{{cite journal|doi=10.1021/jm00304a018|pmid=5793156|title=.beta.-Adrenergic blocking agents. V. 1-Amino-3-(substituted phenoxy)-2-propanols|journal=Journal of Medicinal Chemistry|volume=12|issue=4|pages=638|year=1969|last1=Crowther|first1=Albert F.|last2=Gilman|first2=D. J.|last3=McLoughlin|first3=B. J.|last4=Smith|first4=Leslie Harold|last5=Turner|first5=R. W.|last6=Wood|first6=T. M.}}</ref>
+==Further reading==
+* {{cite journal|doi=10.1111/joim.1982.211.issue-s659|year=1982|journal=Acta Medica Scandinavica|volume=211}}
+
+==See also==
+* [[Primidolol]]
+*[[Xamoterol]]
+==References==
+{{Reflist|2}}
+
+{{Cardiac stimulants excluding cardiac glycosides}}
+{{Adrenergics}}
+
+[[Category:Alcohols]]
+[[Category:Amines]]
+[[Category:Beta1-adrenergic agonists]]
+[[Category:Cardiac stimulants]]
+[[Category:Inotropic agents]]
+[[Category:Phenol ethers]]
+[[Category:Phenols]]
+
+
+{{cardiovascular-drug-stub}}

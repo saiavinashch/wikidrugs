@@ -1,0 +1,111 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 477162851
+| ImageFile =Cetyltrimethyl ammonium bromide.svg
+| ImageSize =
+| ImageFile2 = (C16)(C1)3NBr.jpg
+| IUPACName =hexadecyl-trimethyl-ammonium bromide
+| OtherNames =
+|Section1={{Chembox Identifiers
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5754
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 113150
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = L64N7M9BWR
+| InChI = 1/C19H42N.BrH/c1-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20(2,3)4;/h5-19H2,1-4H3;1H/q+1;/p-1
+| InChIKey = LZZYPRNAOMGNLH-REWHXWOFAU
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H42N.BrH/c1-5-6-7-8-9-10-11-12-13-14-15-16-17-18-19-20(2,3)4;/h5-19H2,1-4H3;1H/q+1;/p-1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = LZZYPRNAOMGNLH-UHFFFAOYSA-M
+| CASNo =57-09-0
+| PubChem =5974
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03454
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 3567
+| SMILES = CCCCCCCCCCCCCCCC[N+](C)(C)C.[Br-]
+}}
+|Section2={{Chembox Properties
+| Formula =C<sub>19</sub>H<sub>42</sub>BrN
+| MolarMass =364.45&nbsp;g/mol
+| Appearance = white powder
+| MeltingPtC = 237 to 243
+| MeltingPt_notes = (decomposes)
+| Density =
+| BoilingPt =
+| Solubility =
+  }}
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = D08
+| ATCCode_suffix = AJ02
+| ATC_Supplemental = 
+}}
+|Section7={{Chembox Hazards
+| MainHazards =
+| FlashPt =
+| AutoignitionPt = 
+ }}
+}}
+
+'''Cetrimonium bromide''' [(C<sub>16</sub>H<sub>33</sub>)N(CH<sub>3</sub>)<sub>3</sub>]Br; cetyltrimethylammonium bromide; hexadecyltrimethylammonium bromide; CTAB] is a quaternary ammonium [[surfactant]].
+
+It is one of the components of the topical [[antiseptic]] [[cetrimide]].<ref>{{Cite journal|title = Cleavage of structural proteins during the assembly of the head of bacteriophage T4|journal = Nature|date = 1970-08-15|issn = 0028-0836|pmid = 5432063|pages = 680–685|volume = 227|issue = 5259|first = U. K.|last = Laemmli|doi=10.1038/227680a0}}</ref> The cetrimonium (hexadecyltrimethylammonium) cation is an effective antiseptic agent against bacteria and fungi. It is also one of the main components of some buffers for the extraction of DNA.<ref name=":2">{{Cite journal|title = Cetyltrimethyl Ammonium Bromide (CTAB) DNA Miniprep for Plant DNA Isolation|url = http://cshprotocols.cshlp.org/content/2009/3/pdb.prot5177|journal = Cold Spring Harbor Protocols|date = 2009-03-01|issn = 1940-3402|pmid = 20147112|pages = pdb.prot5177|volume = 2009|issue = 3|doi = 10.1101/pdb.prot5177|first = Joseph D.|last = Clarke}}</ref> It has been widely used in synthesis of gold nanoparticles (''e.g.'', spheres, rods, bipyramids), mesoporous silica nanoparticles (''e.g.'', MCM-41), and hair conditioning products.  The closely related compounds cetrimonium chloride and cetrimonium stearate are also used as topical antiseptics and may be found in many household products such as shampoos and cosmetics.  CTAB, due to its relatively high cost, is typically only used in select cosmetics.
+
+As with most surfactants, CTAB forms [[micelle]]s in aqueous solutions. At 303 K (30&nbsp;°C) it forms micelles with [[aggregation number]] 75-120 (depending on method of determination; average ~95) and degree of ionization, α = 0.2–0.1 (fractional charge; from low to high concentration).<ref>{{Cite journal|title = Ion binding and reactivity at charged aqueous interfaces|url = https://dx.doi.org/10.1021/ar00012a001|journal = Accounts of Chemical Research|date = 1991-12-01|issn = 0001-4842|pages = 357–364|volume = 24|issue = 12|doi = 10.1021/ar00012a001|first = Clifford A.|last = Bunton|first2 = Faruk|last2 = Nome|first3 = Frank H.|last3 = Quina|first4 = Laurence S.|last4 = Romsted}}</ref> The binding constant (K°) of Br<sup>−</sup> counterion to a CTA<sup>+</sup> micelle at 303 K (30&nbsp;°C) is ''ca.'' 400 M-1. This value is calculated from Br<sup>−</sup> and CTA<sup>+</sup> ion selective electrode measurements and [[conductometry]] data by using literature data for micelle size (r = ~3&nbsp;nm){{Citation needed|date=July 2016}}, extrapolated to the [[critical micelle concentration]] of 1 mM{{Citation needed|date=July 2016}}. However, K° varies with total surfactant concentration so it is [[Extrapolation|extrapolated]] to the point at which micelle concentration is zero.{{Citation needed|date=July 2016}}
+
+== Applications of CTAB ==
+
+=== Biological ===
+[[Lysis|Cell lysis]] is a convenient tool to isolate certain [[macromolecule]]s that exist primarily inside of the cell.  Cell membranes consist of [[Hydrophile|hydrophilic]] and [[Lipophilicity|lipophilic]] endgroups.  Therefore, [[detergent]]s are often used to dissolve these membranes since they interact with both [[Chemical polarity|polar and nonpolar]] endgroups.  CTAB has emerged as the preferred choice for biological use because it maintains the integrity of precipitated [[DNA]] during isolation.<ref>{{cite journal | pmc = 3323937 | pmid=22467363 | doi=10.1631/jzus.B1100194 | volume=13 | title=Extraction of DNA suitable for PCR applications from mature leaves of Mangifera indica L | year=2012 | journal=J Zhejiang Univ Sci B | pages=239–43 | last1 = Azmat | first1 = MA | last2 = Khan | first2 = IA | last3 = Cheema | first3 = HM | last4 = Rajwana | first4 = IA | last5 = Khan | first5 = AS | last6 = Khan | first6 = AA}}</ref>  Cells typically have high concentrations of macromolecules, such as [[glycoprotein]]s and [[polysaccharide]]s, that co-precipitate with DNA during the extraction process, causing the extracted DNA to lose purity.  The positive charge of the CTAB molecule allows it to denature these molecules that would interfere with this isolation.<ref>http://cshprotocols.cshlp.org/content/2009/3/pdb.prot5177.abstract</ref>
+
+==== Medical ====
+CTAB has been shown to have potential use as an [[apoptosis]]-promoting anticancer agent for head and neck cancer (HNC).<ref>{{Cite journal|title = Potential Use of Cetrimonium Bromide as an Apoptosis-Promoting Anticancer Agent for Head and Neck Cancer|url = http://molpharm.aspetjournals.org/content/76/5/969|journal = Molecular Pharmacology|date = 2009-11-01|issn = 1521-0111|pmid = 19654225|pages = 969–983|volume = 76|issue = 5|doi = 10.1124/mol.109.055277|first = Emma|last = Ito|first2 = Kenneth W.|last2 = Yip|first3 = David|last3 = Katz|first4 = Sonali B.|last4 = Fonseca|first5 = David W.|last5 = Hedley|first6 = Sue|last6 = Chow|first7 = G. Wei|last7 = Xu|first8 = Tabitha E.|last8 = Wood|first9 = Carlo|last9 = Bastianutto}}</ref> ''In vitro'', CTAB interacted additively with γ radiation and [[cisplatin]], two standard HNC therapeutic agents. CTAB exhibited anticancer cytotoxicity against several HNC cell lines with minimal effects on normal [[fibroblast]]s, a selectivity that exploits cancer-specific metabolic aberrations. ''In vivo'', CTAB [[Ablation|ablated]] tumor-forming capacity of FaDu cells and delayed growth of established tumors. Thus, using this approach, CTAB was identified as a potential apoptogenic quaternary ammonium compound possessing ''in vitro'' and ''in vivo'' efficacy against HNC models.
+
+==== Protein electrophoresis ====
+[[Glycoprotein]]s form broad, fuzzy bands in SDS-PAGE (Laemmli-electrophoresis) because of their broad distribution of negative charges.Using positively charged detergents such as CTAB will avoid issues associated with glycoproteins. Proteins can be blotted from CTAB-gels in analogy to [[western blot]]s ("eastern blot"), and Myelin-associated high hydrophobic protein can be analyzed using CTAB 2-DE.
+
+==== DNA extraction ====
+CTAB serves as an important surfactant in the DNA extraction buffer system to remove membrane lipids and promote cell lysis. Separation is also successful when the tissue contains high amounts of [[polysaccharide]]s.<ref name=":2" /> CTAB binds to the polysaccharides when the salt concentration is high, thus removing polysaccharides from solution. A typical recipe can be to combine 100 mL of 1 M Tris HCl (pH 8.0), 280 mL 5 M NaCl, 40 mL of 0.5 M [[Ethylenediaminetetraacetic acid|EDTA]], and 20&nbsp;g of CTAB then add [[Purified water|double distilled water]] (ddH<sub>2</sub>O) to bring total volume to 1 L.
+
+== Nanoparticle synthesis ==
+Surfactants play a key role in [[nanoparticle]] synthesis by adsorbing to the surface of the forming nanoparticle and lowering its surface energy.<ref>{{Cite journal|title = Effect of Cationic Surfactant Head Groups on Synthesis, Growth and Agglomeration Behavior of ZnS Nanoparticles|url = http://www.nanoscalereslett.com/content/4/10/1197|journal = Nanoscale Research Letters|date = 2009-07-01|issn = 1556-276X|pmc = 2893803|pmid = 20596462|pages = 1197–1208|volume = 4|issue = 10|doi = 10.1007/s11671-009-9377-8|first = S. K.|last = Mehta|first2 = Sanjay|last2 = Kumar|first3 = Savita|last3 = Chaudhary|first4 = K. K.|last4 = Bhasin}}</ref><ref>{{Cite web|url = http://www.nanoparticles.org/pdf/Salager-E300A.pdf|title = Surfactants: Types and uses|date = |accessdate = |website = |publisher = |last = |first = }}</ref> Surfactants also help to prevent aggregation (''e.g.'' via [[DLVO theory|DLVO]] mechanisms).
+
+=== Au nanoparticle synthesis ===
+[[Gold]] (Au) nanoparticles are interesting to researchers because of their unique properties that can be used in applications such as [[catalysis]], [[optics]], [[electronics]], [[Sensor|sensing]], and [[medicine]].<ref>{{Cite journal|title = CTAB-Assisted Synthesis of Size- and Shape-Controlled Gold Nanoparticles in SDS Aqueous Solution|url = http://www.sciencedirect.com/science/article/pii/S0167577X09004790|journal = Materials Letters|date = 2009-09-30|pages = 2038–2040|volume = 63|issue = 23|doi = 10.1016/j.matlet.2009.06.047|first = Sook Young|last = Moon|first2 = Takafumi|last2 = Kusunose|first3 = Tohru|last3 = Sekino}}</ref>  Control of nanoparticle size and shape is important in order to tune its properties. CTAB has been a widely used reagent to both impart stability to these nanoparticles as well as control their morphologies. CTAB may play a role in controlling nanoparticle size and shape by selectively or more strongly binding to various emerging [[Facet|crystal facets]].
+
+Some of this control originates from the reaction of CTAB with other reagents in the gold nanoparticle synthesis. For example, in aqueous gold nanoparticle syntheses, auric acid (HAuCl<sub>4</sub>) may react with CTAB to create a CTA<sup>+</sup>-AuCl{{su|b=4|p=−}} complex.<ref>{{Cite journal|title = Au(III)–CTAB reduction by ascorbic acid: Preparation and characterization of gold nanoparticles|url = http://www.sciencedirect.com/science/article/pii/S0927776512006625|journal = Colloids and Surfaces B: Biointerfaces|date = 2013-04-01|pages = 11–17|volume = 104|doi = 10.1016/j.colsurfb.2012.11.017|first = Zaheer|last = Khan|first2 = Taruna|last2 = Singh|first3 = Javed Ijaz|last3 = Hussain|first4 = Athar Adil|last4 = Hashmi}}</ref><ref>{{Cite journal|title = Synthesis and Self-Assembly of Cetyltrimethylammonium Bromide-Capped Gold Nanoparticles|url = https://dx.doi.org/10.1021/la034818k|journal = Langmuir|date = 2003-10-01|issn = 0743-7463|pages = 9434–9439|volume = 19|issue = 22|doi = 10.1021/la034818k|first = Wenlong|last = Cheng|first2 = Shaojun|last2 = Dong|first3 = Erkang|last3 = Wang}}</ref> The gold complex is then reacted with [[ascorbic acid]] to produce [[hydrochloric acid]], an ascorbic acid radical, and CTA-AuCl<sub>3</sub>.  The ascorbic acid radical and CTA-AuCl<sub>3</sub> react spontaneously to create metallic Au<sup>0</sup> nanoparticles and other byproducts. An alternative or simultaneous reaction is the substitution of Cl<sup>−</sup> with Br<sup>−</sup> about the Au(III) center. Both complexation with the ammonium cation and/or speciation of the Au(III) precursor influence the kinetics of the nanoparticle formation reaction and therefore influence the size, shape, and (size and shape) distributions of the resulting particles.
+
+=== Mesoporous materials ===
+CTAB is used as the template for the first report of ordered [[mesoporous material]]s.<ref>{{Cite journal|title = Ordered mesoporous molecular sieves synthesized by a liquid-crystal template mechanism|url = http://www.nature.com/nature/journal/v359/n6397/abs/359710a0.html|journal = Nature|date = 1992-10-22|pages = 710–712|volume = 359|issue = 6397|doi = 10.1038/359710a0|first = C. T.|last = Kresge|first2 = M. E.|last2 = Leonowicz|first3 = W. J.|last3 = Roth|first4 = J. C.|last4 = Vartuli|first5 = J. S.|last5 = Beck}}</ref> Microporous and mesoporous inorganic solids (with pore diameters of ≤20 Å and ~20–500 Å respectively) have found great utility as catalysts and sorption media because of their large internal surface area. Typical microporous materials are crystalline framework solids, such as [[zeolite]]s, but the largest pore dimensions are still below 2&nbsp;nm which greatly limit application. Examples of mesoporous solids include [[Silicon dioxide|silicas]] and modified layered materials, but these are invariably [[Amorphous solid|amorphous]] or [[paracrystalline]], with pores that are irregularly spaced and broadly distributed in size. There is a need to prepare highly ordered mesoporous material with good mesoscale crystallinity. The synthesis of mesoporous solids from the calcination of [[aluminosilicate]] gels in the presence of surfactants was reported. The material possesses regular arrays of uniform channels, the dimensions of which can be tailored (in the range of 16 Å to >100 Å) through the choice of surfactant, auxiliary chemicals, and reaction conditions. It was proposed that the formation of these materials takes place by means of a liquid-crystal 'templating' mechanism, in which the silicate material forms inorganic walls between ordered surfactant [[micelle]]s. CTAB formed micelles in the solution and these micelles further formed a two dimensional [[hexagon]]al mesostructure. The silicon precursor began to hydrolyze between the micelles and finally filled the gap with silicon dioxide. The template could be further removed by calcination and left a pore structure behind. These pores mimicked exactly the structure of mesoscale soft template and led to highly ordered mesoporous silica materials.
+
+== Toxicity ==
+CTAB has been used for applications from nanoparticle synthesis to cosmetics. Due to its use in human products, along with other applications, it is essential to be made aware of the hazards this agent contains. [http://datasheets.scbt.com/sc-278833.pdf The Santa Cruz Biotechnology, Inc.] offers a comprehensive [[Safety data sheet|MSDS]] for CTAB and should be referred to for additional questions or concerns.<ref name=":0">{{Cite web|url = http://datasheets.scbt.com/sc-278833.pdf|title = Santa Cruz Biotechnology, Inc. MSDS|date = April 23, 2011|accessdate = |website = |publisher = |last = |first = }}</ref> Animal testing has shown ingestion of less than 150&nbsp;g of the agent can lead to adverse health effects or possibly death by CTAB causing chemical burns throughout the esophagus and [[Human gastrointestinal tract|gastrointestinal tract]] that can be followed by nausea and vomiting.<ref name=":0" /> If the substance continues through the gastrointestinal tract, it will be poorly absorbed in the intestines followed by excretion in feces.<ref name=":1">{{Cite journal|title = Final Report on the Safety Assessment of Cetrimonium Chloride, Cetrimonium Bromide, and Steartrimonium Chloride|url = http://ijt.sagepub.com/content/16/3/195|journal = International Journal of Toxicology|date = 1997-05-01|issn = 1091-5818|pages = 195–220|volume = 16|issue = 3|doi = 10.1080/109158197227152}}</ref> Toxicity has also been tested on aquatic life including [[Zebrafish|Brachydanio rerio]] (zebra fish) and [[Daphnia magna]] (Water flea). Zebra fish showed CTAB toxicity when exposed to 0.3&nbsp;mg/L for 96 hours, and water fleas showed CTAB toxicity when exposed to 0.03&nbsp;mg/L for 48 hours.<ref>{{Cite web|url = http://physics.utsa.edu/memslab/MSDS/CTAB.pdf|title = Sigma-Aldrich MSDS|date = September 29, 2008|accessdate = |website = |publisher = |last = |first = }}</ref>
+
+CTAB along with other [[Quaternary ammonium cation|quaternary ammonium salts]] have frequently been used in cosmetics at concentrations up to 10%. Cosmetics at that concentration must only be used as rinse-off types such as shampoos. Other leave-on cosmetics are considered only safe at or below 0.25% concentrations. Injections into the body cavity of pregnant mice showed [[embryo]]toxic and [[Teratology|teratogenic]] effects. Only [[Teratology|teratogenic]] effects were seen with 10&nbsp;mg/kg doses, while both effects were seen at 35&nbsp;mg/kg doses. Oral doses of 50&nbsp;mg/kg/day showed embryotoxic effects as well.<ref name=":1" /> Similar tests were completed by giving rats 10, 20, and 45&nbsp;mg/kg/day of CTAB in their drinking water for one year. At the 10 and 20&nbsp;mg/kg/day doses, the rats did not have any toxic symptoms. At the highest dose, the rats began experiencing weight loss. The weight loss in the male rats was attributed to less efficient food conversion. The tests showed no microscopic alterations to the gastrointestinal tract of the rats.<ref>{{Cite journal|title = The subacute and chronic toxicity of cetyltrimethylammonium bromide (CTAB), a cationic surfactant, in the rat|url = https://link.springer.com/article/10.1007/BF00372762|journal = Archives of Toxicology|date = 1976-06-01|issn = 0340-5761|pages = 91–96|volume = 35|issue = 2|doi = 10.1007/BF00372762|first = B.|last = Isomaa|first2 = J.|last2 = Reuter|first3 = B. M.|last3 = Djupsund}}</ref>
+
+Other toxicity tests have been conducted on humans using incubated human skin HaCaT [[keratinocyte]] cells. These human cells were incubated with gold nanorods that were synthesized using seed-mediated, surfactant-assisted growth of gold nanoparticles. Gold nanoparticles are shown to be nontoxic, however once the nanoparticles are put through the growth solutions, the newly formed nanorods are highly toxic. This large increase in toxicity is attributed to the CTAB that is used in the growth solutions to cause [[Anisotropy|anisotropic]] growth.<ref name=":3">{{Cite journal|title = Toxicity and Environmental Risks of Nanomaterials: Challenges and Future Needs|url = https://dx.doi.org/10.1080/10590500802708267|journal = Journal of Environmental Science and Health, Part C|date = 2009-02-17|issn = 1059-0501|pmc = 2844666|pmid = 19204862|pages = 1–35|volume = 27|issue = 1|doi = 10.1080/10590500802708267|first = PARESH CHANDRA|last = RAY|first2 = HONGTAO|last2 = YU|first3 = PETER P.|last3 = FU}}</ref> Experiments also showed the toxicity of bulk CTAB and the synthesized gold nanorods to be equivalent. Toxicity tests showed CTAB remaining toxic with concentrations as low as 10 μM. The human cells show CTAB being nontoxic at concentrations less than 1 μM. Without the use of CTAB in this synthesis, the gold nanorods are not stable; they break into nanoparticles or undergo [[Particle aggregation|aggregation]].<ref name=":3" />
+
+The mechanism for [[cytotoxicity]] has not been extensively studied, but there has been possible mechanisms proposed. One proposal showed two methods that led to the cytotoxicity in U87 and A172 [[Glioblastoma multiforme|glioblastoma]] cells. The first method showed CTAB exchanging with [[phospholipid]]s causing rearrangement of the membrane allowing β-[[galactoside]] to enter into the cell by way of cavities. At low concentrations, there are not enough cavities to cause death to the cells, but with increasing the CTAB concentration, more phospholipids are displaced causing more cavities in the membrane leading to cell death. The second proposed method is based on the dissociation of CTAB into CTA<sup>+</sup> and Br<sup>−</sup> within the [[Mitochondrion|mitochondrial]] membrane. The positively charged CTA<sup>+</sup> binds to the [[ATP synthase]] not allowing H<sup>+</sup> to bind stopping the synthesis of ATP and resulting in cell death.<ref>{{Cite journal|title = The source of toxicity in CTAB and CTAB-stabilized gold nanorods|url = https://dx.doi.org/doi:10.7282/T3X63KMS|doi = 10.7282/t3x63kms}}</ref>
+
+==See also==
+*[[Cetrimonium chloride]] - The corresponding chloride salt
+*[[Behentrimonium chloride]] - An C<sub>25</sub> structural analogue
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*''Merck Index'', 11th Edition, '''1989'''.
+* [http://bioinf.charite.de/superdrug/fullinfo.php?cas=000057090 Drug information]
+
+{{Antiseptics and disinfectants }}
+{{Throat preparations}}
+
+[[Category:Antiseptics]]
+[[Category:Household chemicals]]
+[[Category:Quaternary ammonium compounds]]
+[[Category:Cationic surfactants]]
+[[Category:Bromides]]

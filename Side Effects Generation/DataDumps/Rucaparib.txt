@@ -1,0 +1,106 @@
+{{Infobox drug
+| drug_name =
+| type = <!-- empty -->
+| IUPAC_name = 8-Fluoro-2-{4-[(methylamino)methyl]phenyl}-1,3,4,5-tetrahydro-6''H''-azepino[5,4,3-cd]indol-6-one
+| image = Rucaparib.svg
+| alt =
+| caption =
+
+<!-- Clinical data -->
+| pronounce = {{IPAc-en|r|uː|ˈ|k|æ|p|ə|r|ɪ|b}} {{respell|roo|KAP|ə-rib}}
+| tradename = Rubraca
+| Drugs.com =
+| MedlinePlus =
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_AU_comment =
+| pregnancy_US = <!-- A / B / C / D / X / N -->
+| pregnancy_category =
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_AU_comment =
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_DE = <!-- Anlage I, II, III -->
+| legal_NZ = <!-- Class A, B, C -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM / Class A, B, C -->
+| legal_US = Rx-only
+| legal_UN = <!-- N I, II, III, IV / P I, II, III, IV-->
+| legal_status =
+| routes_of_administration = [[Oral administration|By mouth]] ([[Tablet (pharmacy)|tablets]])
+
+<!-- Pharmacokinetic data -->
+| bioavailability = 30–45% ([[Cmax (pharmacology)|T<sub>max</sub>]] = 1.9 hours)
+| protein_bound = 70% (''in vitro'')
+| metabolism = [[Liver]] (primarily [[CYP2D6]]; [[CYP1A2|1A2]] and [[CYP3A4|3A4]] to a lesser extent)
+| metabolites =
+| onset =
+| elimination_half-life = 17–19 hours<ref name="PI">{{cite web | title = Rubraca (rucaparib) Tablets, for Oral Use. Full Prescribing Information | url = http://clovisoncology.com/files/rubraca-prescribing-info.pdf | publisher = Clovis Oncology, Inc. Boulder, CO 80301 | accessdate = 20 December 2016}}</ref>
+| duration_of_action =
+| excretion =
+
+<!-- Identifiers -->
+| CAS_number = 283173-50-2
+| ATCvet = 
+| ATC_prefix = None
+| ATC_suffix = 
+| PubChem = 9931954
+| IUPHAR_ligand = 7736
+| DrugBank = DB12332
+| ChemSpiderID = 8107584
+| UNII = 8237F3U7EH
+| ChEMBL = 1173055
+| ChEBI_Ref = {{ebicite|correct|EBI}} 
+| ChEBI = 134689
+| KEGG = D10079
+
+<!-- Chemical data -->
+| C=19 | H=18 | F=1 | N=3 | O=1
+| molecular_weight =
+| smiles = CNCc1ccc(cc1)c2[nH]c3cc(F)cc4C(=O)NCCc2c34
+| StdInChI = 1S/C19H18FN3O/c1-21-10-11-2-4-12(5-3-11)18-14-6-7-22-19(24)15-8-13(20)9-16(23-18)17(14)15/h2-5,8-9,21,23H,6-7,10H2,1H3,(H,22,24)
+| StdInChIKey = HMABYWSNWIZPAG-UHFFFAOYSA-N
+| synonyms = AG014699
+}}
+
+'''Rucaparib''' (brand name '''Rubraca''' {{IPAc-en|r|uː|ˈ|b|r|ɑː|k|ə}} {{respell|roo|BRAH|kə}}, code name '''AG 014699''') is a [[PARP inhibitor]] used as an anti-cancer agent. Rucaparib is a first-in-class pharmaceutical drug targeting the DNA repair enzyme [[PARP1|poly-ADP ribose polymerase-1]] (PARP-1).  It was discovered as part of a collaboration between scientists working at the Northern Institute of Cancer Research and Medical School of [[Newcastle University]] and [[Agouron Pharmaceuticals]] in San Diego, California.<ref name="White">{{cite journal | last1 = White | first1 = AW | last2 = Almassy | first2 = R | last3 = Calvert | first3 = AH | last4 = Curtin | first4 = NJ | last5 = Griffin | first5 = RJ | last6 = Hostomsky | first6 = Z | last7 = Maegley | first7 = K | last8 = Newell | first8 = DR | last9 = Srinivasan | first9 = S | last10 = Golding | first10 = BT | title = Resistance-Modifying Agents. 9. Synthesis and Biological Properties of Benzimidazole Inhibitors of the DNA Repair Enzyme Poly(ADP-ribose) Polymerase | journal = Journal of Medicinal Chemistry | date = 2 November 2000 | volume = 43 | issue = 22 | pages = 4084–97 | doi = 10.1021/jm000950v | pmid = 11063605}}</ref> It is being [[drug development|developed]] by [[Clovis Oncology]].
+
+In December 2016, the [[Food and Drug Administration|U.S. FDA]] granted an [[accelerated approval]] for use in cases of pretreated advanced [[ovarian cancer]].<ref name="FDA 2016">{{cite news | last1 = Bankhead | first1 = C | title = PARP Inhibitor Gets FDA Nod for Ovarian Cancer | url = http://www.medpagetoday.com/HematologyOncology/OvarianCancer/62165 | accessdate = 20 December 2016 | publisher = MedPage Today, LLC. | date = December 19, 2016}}</ref>
+
+It can be taken orally in tablet form.<ref name="PI" /><ref name="NetDoctor">{{cite web|title=Cancer Research Launches New Drug Trial|url=http://www.netdoctor.co.uk/healthy-living/news/a21930/cancer-research-launches-new-drug-trial/|website=netdoctor.co.uk|publisher=Hearst Magazines UK|accessdate=20 December 2016}}</ref> 
+
+==Biological effects==
+Rucaparib inhibits "the contraction of isolated vascular smooth muscle, including that from the tumours of cancer patients. It also reduces the migration of some cancer and normal cells in culture."<ref>http://www.qub.ac.uk/schools/SchoolofPharmacy/Filestore/Filetoupload,121186,en.pdf</ref>
+
+==Mechanism of action==
+As a [[PARP inhibitor]], rucaparib  is expected to be more effective in the 9% of pancreatic cancers with a [[BRCA mutation]] (BRCA1 or BRCA2).<ref name=BRCA-2016>[https://www.sciencedaily.com/releases/2016/06/160604131908.htm Rucaparib shows clinical benefit in pancreatic cancer patients with BRCA mutation. June 2016]</ref>
+
+==Clinical trials==
+It has undergone [[Phases_of_clinical_research#Phase_I|phase I clinical trial]]s for patients with advanced [[Neoplasm|solid tumour]]s.<ref name="Plummer">{{cite journal | last1 = Plummer | first1 = R | last2 = Middleton | first2 = M | last3 = Wilson | first3 = R | last4 = Jones | first4 = C | last5 = Evans | first5 = J | last6 = Robson | first6 = L | last7 = Steinfeldt | first7 = H | last8 = Kaufman | first8 = R | last9 = Reich | first9 = S | last10 = Calvert | first10 = AH | title = First in Human Phase I Trial of the PARP Inhibitor AG-014699 with Temozolomide (TMZ) in Patients (pts) with Advanced Solid Tumors | journal = Journal of Clinical Oncology | date = June 2005 | volume = 23 | issue = 16 Supplement 1 | page = 3065 | doi = 10.1200/jco.2005.23.16_suppl.3065 | accessdate = 20 December 2016}}</ref> It is in phase II clinical trials for metastatic [[breast cancer|breast]] and [[ovarian cancer]] with known [[BRCA1]] or [[BRCA2]] mutation.<ref name="NetDoctor" /><ref>http://science.cancerresearchuk.org/research/loc/newcastle/newcastle_univ/plummerr/plummerrfr/plummerrfrp2/?version=1 URL no longer relevant</ref>
+
+It is thought that 20% of women with ovarian cancer who are not BRCA positive might also benefit from PARP inhibitors.{{citation needed|date=June 2016}}
+
+{{As of |2016|4}} the ARIEL3 phase III clinical trial for maintenance after platinum-based chemotherapy for serous and endometrioid ovarian cancer is active.<ref>[https://clinicaltrials.gov/ct2/show/NCT01968213 A Study of Rucaparib as Switch Maintenance Following Platinum-Based Chemotherapy in Patients With Platinum-Sensitive, High-Grade Serous or Endometrioid Epithelial Ovarian, Primary Peritoneal or Fallopian Tube Cancer (ARIEL3)]</ref>
+
+{{As of |2016|6}} six clinical trials of rucaparib were active.<ref>[http://www.clinicaltrials.gov/ct2/results?term=Rucaparib&Search=Search Rucaparib trials]</ref>
+
+June 2016, some encouraging results from a small early trial on BRCA1/2 positive [[pancreatic cancer]] were announced.<ref name=BRCA-2016/>
+
+;FDA approval:
+On 19th December 2016 FDA granted an [[Accelerated approval (FDA)|accelerated approval]] for treatment in cases of pretreated advanced ovarian cancer based on data from 106 patients<ref name="FDA 2016" /> across 2 trials.
+
+==See also==
+* [[PARP inhibitor]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://rubraca.com Rubraca (rucaparib) Official Web Site]
+
+{{Chemotherapeutic agents}}
+
+[[Category:Benzazepines]]
+[[Category:Indoles]]
+[[Category:Lactams]]
+[[Category:PARP inhibitors]]
+[[Category:Fluoroarenes]]
+
+{{antineoplastic-drug-stub}}

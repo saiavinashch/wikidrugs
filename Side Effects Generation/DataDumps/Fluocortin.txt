@@ -1,0 +1,72 @@
+{{Drugbox
+| verifiedrevid = 447610683
+| IUPAC_name = 2-[(6''S'',8''S'',9''S'',10''R'',11''S'',13''S'',14''S'',16''R'',17''S'')-6-Fluoro-11-hydroxy-10,13,16-trimethyl-3-oxo-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[''a'']phenanthren-17-yl]-2-oxoacetic acid
+| image = Fluocortin.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|fluocortin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_UK = <!-- GSL         / P       / POM / CD -->
+| legal_US = <!-- OTC                   / Rx-only  -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability = 80% [[intravenous|i.v.]]
+| protein_bound =  
+| metabolism =  
+| elimination_half-life = 1.3 hr.
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 33124-50-4
+| ATC_prefix = D07
+| ATC_suffix = AB04
+| PubChem = 22875828
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 03837V0H1Y
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07972
+| ChemSpiderID = 18865233
+
+<!--Chemical data-->
+| C=22 | H=27 | F=1 | O=5 
+| molecular_weight = 390.45 g/mol
+|  smiles = C[C@@H]1C[C@H]2[C@@H]3C[C@@H](C4=CC(=O)C=C[C@@]4([C@H]3[C@H](C[C@@]2([C@H]1C(=O)C(=O)O)C)O)C)F
+|  StdInChI = 1S/C22H27FO5/c1-10-6-13-12-8-15(23)14-7-11(24)4-5-21(14,2)18(12)16(25)9-22(13,3)17(10)19(26)20(27)28/h4-5,7,10,12-13,15-18,25H,6,8-9H2,1-3H3,(H,27,28)/t10-,12+,13+,15+,16+,17-,18-,21+,22+/m1/s1
+|  StdInChIKey = PUWHHWCHAVXSIG-NCLPIGKXSA-N
+| synonyms = 6α-fluoro-11β,21-dihydroxy-16α-methylpregna-1,4-diene-3,20,21-trione
+}}
+
+'''Fluocortin''' is a [[corticosteroid]]. It is similar to [[fluocortolone]], but with one more keto group.
+
+== References ==
+*{{cite journal|first=U.|last=Tauber|author2=D. Haack |author3=B. Nieuweboer |author4=G. Kloss |author5=P. Vecsei |author6=H. Wendt
+ |title=The pharmacokinetics of fluocortolone and prednisolone after intravenous and oral administration
+|journal=Int J Clin Pharmacol Ther Toxicol
+|volume=22
+|issue=1
+|pages=48–55
+|date=1984|pmid=6698661}}
+
+
+{{Glucocorticoids}}
+{{Glucocorticoidics}}
+
+[[Category:Corticosteroid esters]]
+[[Category:Corticosteroids]]
+[[Category:Diols]]
+[[Category:Fluoroarenes]]
+[[Category:Glucocorticoids]]
+[[Category:Pregnanes]]
+[[Category:Diketones]]
+
+
+{{dermatologic-drug-stub}}

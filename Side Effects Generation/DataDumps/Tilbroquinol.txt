@@ -1,0 +1,78 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 451233341
+| IUPAC_name = 7-Bromo-5-methylquinolin-8-ol
+| image = tilbroquinol.png
+| alt = Skeletal formula of tilbroquinol
+| width = 150
+| image2 = Tilbroquinol 3D ball.png
+| alt2 = Ball-and-stick model of the tilbroquinol molecule
+| width2 = 160
+<!--Clinical data-->
+| tradename =
+| Drugs.com = {{Drugs.com|international|tilbroquinol}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =
+| routes_of_administration =
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 7175-09-9
+| ATC_prefix = P01
+| ATC_suffix = AA05
+| PubChem = 65592
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1788385
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = P6SB125NHA
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07351
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 59034
+| smiles = CC1=CC(=C(C2=C1C=CC=N2)O)Br
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C10H8BrNO/c1-6-5-8(11)10(13)9-7(6)3-2-4-12-9/h2-5,13H,1H3
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = JMOVFFLYGIQXMM-UHFFFAOYSA-N
+<!--Chemical data-->
+| C=10 | H=8 | Br=1 | N=1 | O=1
+| molecular_weight = 238.08 g/mol
+}}
+
+'''Tilbroquinol''' is an [[antiprotozoal agent]] effective against [[amoebiasis]].<ref>{{Drugs.com|international|tilbroquinol}}</ref> It has also been used against ''[[Vibrio cholerae]]''.<ref>{{Cite journal 
+| last1 = Bougoudogo | first1 = F. 
+| last2 = Fournier | first2 = J. M. 
+| last3 = Dodin | first3 = A. 
+| title = In vitro sensitivity of Vibrio cholerae serotype 0:139 to an intestinal antiseptic tiliquinol-tilbroquinol combination 
+| journal = Bulletin de la Societe de pathologie exotique (1990) 
+| volume = 87 
+| issue = 1 
+| pages = 38–40 
+| year = 1994 
+| pmid = 8003903
+}}</ref>
+
+==References==
+{{reflist}}
+
+{{Agents against amoebozoa}}
+
+[[Category:Antiprotozoal agents]]
+[[Category:Bromoarenes]]
+[[Category:Quinolinols]]
+
+{{antiinfective-drug-stub}}

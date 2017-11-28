@@ -1,0 +1,108 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 460039920
+| IUPAC_name = (±)-''cis''-4-amino-5-chloro-''N''-(1-[3-(4-fluorophenoxy)propyl]-3-methoxypiperidin-4-yl)-2-methoxybenzamide
+| image = Cisapride.svg
+| width = 250px
+| image2 = Cisapride 3D.png
+<!--Clinical data-->
+| tradename =  Prepulsid, Propulsid
+| Drugs.com = {{drugs.com|pro|propulsid}}
+| MedlinePlus = a694006
+| pregnancy_AU = B1
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category = 
+| legal_AU = S4
+| legal_UK = POM
+| legal_US_comment = Withdrawn
+| legal_status = 
+| routes_of_administration = oral (tablets), suspension
+<!--Pharmacokinetic data-->
+| bioavailability = 30-40%
+| protein_bound = 97.5%
+| metabolism = hepatic [[CYP3A4]], intestinal
+| elimination_half-life = 10 hours
+| excretion = renal, biliary
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 81098-60-4
+| ATC_prefix = A03
+| ATC_suffix = FA02
+| ATC_supplemental =  
+| PubChem = 2769
+| IUPHAR_ligand = 240
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00604
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2667
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = UVL329170W
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00274
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1729
+<!--Chemical data-->
+| C=23 | H=29 | Cl=1 | F=1 | N=3 | O=4
+| molecular_weight = 465.945 g/mol
+| smiles = Clc1cc(c(OC)cc1N)C(=O)NC3CCN(CCCOc2ccc(F)cc2)CC3OC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C23H29ClFN3O4/c1-30-21-13-19(26)18(24)12-17(21)23(29)27-20-8-10-28(14-22(20)31-2)9-3-11-32-16-6-4-15(25)5-7-16/h4-7,12-13,20,22H,3,8-11,14,26H2,1-2H3,(H,27,29)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = DCSUBABJRXZOMT-UHFFFAOYSA-N
+}}
+'''Cisapride''' is a [[gastroprokinetic agent]], a [[pharmaceutical drug|drug]] that increases [[motility]] in the upper [[gastrointestinal tract]]. It acts directly as a [[serotonin]] [[5-HT4 receptor|5-HT<sub>4</sub> receptor]] [[agonist]] and indirectly as a [[parasympathomimetic]]. Stimulation of the serotonin receptors increases [[acetylcholine]] release in the [[enteric nervous system]]. It has been sold under the trade names '''Prepulsid''' (Janssen-Ortho) and '''Propulsid''' (in the United States). It was discovered by [[Janssen Pharmaceutica]] in 1980.  In many countries, it has been either withdrawn from the market or had its indications limited because of side-effects.
+
+The commercial preparations of this drug are the [[racemic]] mixture of both [[enantiomer]]s of the compound. The (+) enantiomer itself<!-- what is the absolute configuration? --> has the major pharmacologic effects and does not induce many of the detrimental side-effects of the mixture.<ref>{{US patent reference |number = 5955478 |y=  1999 |m= Sep |d= 21 | inventor = Nancy M. Gray, N. M.; Young, J. W |title= Methods for treating gastrointestinal motility dysfunction using optically pre (+) cisapride }}</ref>
+
+==Medical uses==
+Cisapride has been used for the treatment of [[gastroesophageal reflux disease]] (GERD). There is no evidence it is effective for this use in children.<ref name=GERD2010>{{cite journal|last=Maclennan|first=S|author2=Augood, C |author3=Cash-Gibson, L |author4=Logan, S |author5= Gilbert, RE |title=Cisapride treatment for gastro-oesophageal reflux in children.|journal=The Cochrane database of systematic reviews|date=Apr 14, 2010|issue=4|pages=CD002300|pmid=20393933 |doi=10.1002/14651858.CD002300.pub2}}</ref> It also increases gastric emptying in people with diabetic [[gastroparesis]]. Evidence for its use in [[constipation]] is not clear.<ref name=Cochrane2011>{{cite journal|last=Aboumarzouk|first=OM|author2=Agarwal, T |author3=Antakia, R |author4=Shariff, U |author5= Nelson, RL |title=Cisapride for intestinal constipation.|journal=The Cochrane database of systematic reviews|date=Jan 19, 2011|issue=1|pages=CD007780|pmid=21249695 |doi=10.1002/14651858.CD007780.pub2}}</ref>
+
+In many countries, it has been either withdrawn or had its indications limited because of reports of the side-effect [[long QT syndrome]], which may cause [[arrhythmia]]s. The [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]] (FDA) issued a warning letter to doctors,<ref name="urlFDA UPDATES WARNINGS FOR CISAPRIDE">{{cite web |url=http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm175000.htm |title=Propulsid (cisapride) Safety Information |work= |accessdate=2011-07-14}}</ref> and cisapride was voluntarily removed from the U.S. market on July 14, 2000. Its use in Europe has also been limited.<ref name=GERD2010/> It was banned in India and in the Philippines in 2011.<ref name=ban>{{cite web|url=http://cdsco.nic.in/html/drugsbanned.html|title=Drugs banned in India|publisher=Central Drugs Standard Control Organization, Dte.GHS, Ministry of Health and Family Welfare, Government of India|accessdate=2013-09-17|deadurl=yes|archiveurl=https://web.archive.org/web/20150221053621/http://cdsco.nic.in/html/drugsbanned.html|archivedate=2015-02-21|df=}}</ref>
+
+==Veterinary uses==
+Cisapride is still available in the United States and Canada for use in animals, and is commonly prescribed by veterinarians to treat [[megacolon]] in cats.
+
+Cisapride is also commonly used to treat GI stasis in rabbits, sometimes in conjunction with [[metoclopramide]] (Reglan).
+
+==Kinetics==
+Oral bioavailability of cisapride is approximately 33%. It is inactivated primarily by hepatic metabolism by [[CYP3A4]] with a half-life of 10 hours. The dose of the drug should be reduced in case of liver diseases.<ref>[http://www.springerlink.com/content/j6m77n406404u404/ "Comparative bioavailability of a cisapride suppository and tablet formulation in healthy volunteers" European Journal of Clinical Pharmacology] T Hedner et al. Volume 38, Number 6, 629-631, {{doi|10.1007/BF00278595}}</ref>
+
+==Pharmacology and mechanism of action==
+
+As a [[prokinetic agent]] that increases [[gastrointestinal motility]], cisapride acts as a selective [[serotonin agonist]] in the 5-HT<sub>4</sub> receptor subtype. Cisapride also relieves constipation-like symptoms by indirectly stimulating the release of [[acetylcholine]] in the [[muscarinic receptor]]s.
+
+== See also ==
+*[[Laxative#Serotonin agonist|Serotonin-agonising laxatives]]
+*[[Benzamide]]
+*[[Domperidone]]
+*[[Drug of last resort]]
+*[[Itopride]]
+*[[Metoclopramide]]
+*[[Mosapride]]
+
+==References==
+{{reflist}}
+
+==Sources==
+* Brenner, G. M. (2000). ''Pharmacology.'' Philadelphia, PA: W.B. Saunders Company. {{ISBN|0-7216-7757-6}}
+* Canadian Pharmacists Association (2000). Compendium of Pharmaceuticals and Specialties (25th ed.). Toronto, ON: Webcom. {{ISBN|0-919115-76-4}}
+* [http://www.nlm.nih.gov/medlineplus/druginfo/medmaster/a694006.html Medline Plus]
+
+==External links==
+* [http://dailymed.nlm.nih.gov/dailymed/archives/fdaDrugInfo.cfm?archiveid=13266 Archived Drug Label]
+
+{{Propulsives}}
+{{Serotonergics}}
+{{Cholinergics}}
+
+[[Category:Motility stimulants]]
+[[Category:Serotonin receptor agonists]]
+[[Category:Withdrawn drugs]]
+[[Category:Anilines]]
+[[Category:Chloroarenes]]
+[[Category:Phenol ethers]]
+[[Category:Benzamides]]
+[[Category:Piperidines]]
+[[Category:Fluoroarenes]]
+[[Category:Janssen Pharmaceutica]]
+[[Category:Belgian inventions]]

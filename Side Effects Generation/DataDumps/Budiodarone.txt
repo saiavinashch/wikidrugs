@@ -1,0 +1,96 @@
+{{Drugbox
+| drug_name = 
+| IUPAC_name = [(2''S'')-butan-2-yl] 2-[3-[4-[2-(diethylamino)ethoxy]-3,5-diiodobenzoyl]-1-benzofuran-2-yl]acetate
+| image = Budiodarone.svg
+| alt = 
+| caption =
+
+<!-- Clinical data -->
+| tradename = 
+| Drugs.com = 
+| MedlinePlus = 
+| pregnancy_AU = <!-- A, B1, B2, B3, C, D, X -->
+| pregnancy_US = <!-- A, B, C, D, X -->
+| pregnancy_category = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = IND
+| legal_status = 
+| routes_of_administration =
+
+<!-- Pharmacokinetic data -->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion =
+
+<!-- Identifiers -->
+| CAS_number = 335148-45-3
+| ATCvet = 
+| ATC_prefix = None
+| ATC_suffix = 
+| PubChem = 9833332
+| ChEMBL = 2105631
+| DrugBank = 
+| ChemSpiderID = 8009056
+| smiles = Ic1cc(cc(I)c1OCCN(CC)CC)C(=O)c2c3ccccc3oc2CC(=O)O[C@@H](C)CC
+| StdInChI = 1S/C27H31I2NO5/c1-5-17(4)34-24(31)16-23-25(19-10-8-9-11-22(19)35-23)26(32)18-14-20(28)27(21(29)15-18)33-13-12-30(6-2)7-3/h8-11,14-15,17H,5-7,12-13,16H2,1-4H3/t17-/m0/s1
+| StdInChIKey = ZXOSVKYCXLTVGS-KRWDZBQOSA-N
+
+<!-- Chemical data -->
+| C=27 | H=31 | I=2 | N=1 | O=5 
+| molecular_weight  = 703.03 g/mol
+}}
+
+'''Budiodarone''' ('''ATI-2042''') is an [[antiarrhythmic agent]] and chemical analog of [[amiodarone]] that is currently being studied in [[clinical trials]]. Amiodarone is considered the most effective antiarrhythmic drug available,<ref>Roy, D. et al. Amiodarone to prevent recurrence of atrial fibrillation. N Engl J Med. 2000;342:913-920</ref><ref>Singh, B.N., et al. Amiodarone versus sotalol for atrial fibrillation. N Engl J Med. 2005;352:1861-1872</ref><ref>Kochiadakis, G.E., et al. Low dose amiodarone and sotalol in the treatment of recurrent, symptomatic atrial fibrillation: a comparative, placebo controlled study. Heart. 2000;84:251-257</ref> but its adverse side effects, including hepatic, pulmonary and thyroid toxicity as well as multiple drug interactions,<ref name="Morey">Morey, T.E. et al. Structure-activity relationships and electrophysiological effects of short-acting amiodarone homologs in guinea pig isolated heart. J Pharmacol Exp Ther. 2001;297:260-266</ref> are discouraging its use. Budiodarone only differs in structure from amiodarone through the presence of a [[sec-Butyl acetate|''sec''-butyl acetate]] side chain at position 2 of the [[benzofuran]] moiety.<ref>Mason, P.K., DiMarco, P. Advances in Arrhythmia and Electrophysiology. Circulation. 2009;2:588-597</ref> This side chain allows for budiodarone to have a shorter [[half-life]] in the body than amiodarone (7 hours versus 35–68 days) which allows it to have a faster onset of action and metabolism while still maintaining similar electrophysiological activity.<ref name="Morey" /> The faster metabolism of budiodarone allows for fewer adverse side effects than amiodarone principally due to decreased levels of toxicity in the body.
+
+==Creation of arrythmias==
+[[Arrhythmias]] may be caused by changes in ion channel mRNA and protein expression which modify [[action potential]] generation through dysfunctional channels and increase the likelihood of inappropriate electrical re-entry (electrical stimulus entering back into the cell to prematurely start the next action potential).<ref>Bosch, R.F., Nattel, S. Cellular electrophysiology of atrial fibrillation. Cardiovasc Res. 2002;54:259-269</ref> The increase in electrical re-entry causes the [[fibrillation]] or uncontrolled action potential discord of [[atrial myocytes]]. Arrhythmias have historically been treated using atrial [[ablation]] or antiarrhythmic drugs to decrease electrical re-entry and therefore fibrillation.
+
+==Treatment of arrhythmias==
+Budiodarone holds much promise as an antiarrhythmic drug to prevent fibrillation. As a drug that spans over many of antiarrhythmic drug classes, the electrophysiological activity of budiodarone includes:<ref name="Morey" />
+
+===Inhibition of potassium, sodium and calcium channels===
+Through inhibiting potassium channels, budiodarone causes a decreased efflux of potassium out of the myocyte during the [[refractory period (physiology)|refractory period]] of its action potential, increasing the time it takes to reach the resting [[membrane potential]].
+
+Through blocking sodium channels, budiodarone causes a decrease in sodium influx into myocytes during the [[depolarization]] period of its action potential.
+
+Through blocking calcium channels, budiodarone causes a decrease in calcium influx into myocytes, decreasing intracellular calcium and decreasing cardiac [[contractility]], which is beneficial in preventing arrhythmias, but detrimental in ventricular contraction.
+
+===Increase in atrial myocyte refractory period===
+Through prolonging the refractory and depolarization periods of the action potential, there is a decreased likelihood that electrical re-entry will occur.
+
+===Increased stimulus-to-atrium and atrium-to-bundle of his intervals===
+Increasing the time interval between stimulus to atrium and/or atrium to [[bundle of his]] in action potential conduction slows the rate of myocyte contraction, thereby slowing heart rate.
+
+===Increased MAPD90 and QT-intervals===
+Increasing the time interval of MAPD90 (response of monophasic action potential duration at 90% repolarization) and/or [[QT interval|QT]] in action potential conduction slows the rate of myocyte contraction, thereby slowing heart rate.
+
+===Dose-dependent decrease in heart rate===
+A decrease in heart rate reduces the risk of atrial fibrillation.
+
+==Clinical trials==
+Preliminary trials of budiodarone have administered the drug orally as a tartrate salt in amounts ranging from 200–800&nbsp;mg bid.<ref name="Arya">Arya, A. et al. A preliminary assessment of the effects of AT1-2042 in subjects with paroxysomal atrial fibrillation using implanted pacemaker methodology. Europace. 2009;11:458-464</ref><ref name="Ezekowitz">Ezekowitz, M. et al. PASCAL: a randomized double-blind, placebo-controlled study of budiodarone (AT1-2042) in patients with paroxysmal atrial fibrillation and pacemakers with atrial fibrillation data logging capabilities [abstract]. Presented at Heart Rhythm Society Annual Scientific Sessions, Boston, Massachusetts, May 2009</ref> Evidence has shown that 400–600&nbsp;mg [[bis in die|bid]] doses were associated with the highest reduction in atrial fibrillation burden (54.4% and 75% respectively)<ref name="Ezekowitz" /> while remaining free of the adverse side effects common with amiodarone.<ref name="Arya" />
+
+There has also been evidence of prolonged budiodarone cardiac effect days after drug discontinuation as the atrial fibrillation baseline measurements were not reached in [[washout]] periods.<ref name="Arya" /> This suggests that budiodarone may promote atrial re-modelling to improve malfunctioning ion channels that once potentiated fibrillation.
+
+==Future use==
+Data on the effects of long-term budiodarone are not yet available. The completion of current clinical trials will examine chronic budiodarone use to confirm or deny its use as an effective and safe antiarrhythmic drug.
+
+==See also==
+* [[Amiodarone]]
+* [[Benzbromarone]]
+* [[Benziodarone]]
+* [[Celivarone]]
+* [[Dronedarone]]
+
+==References==
+{{Reflist}}
+
+{{Antiarrhythmic agents}}
+
+[[Category:Antiarrhythmic agents]]
+[[Category:Benzofurans]]
+[[Category:Iodoarenes]]

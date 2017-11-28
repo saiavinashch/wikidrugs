@@ -1,0 +1,67 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 444554602
+| Reference=<ref>[http://www.sigmaaldrich.com/catalog/ProductDetail.do?N4=D7033|SIGMA&N5=SEARCH_CONCAT_PNO|BRAND_KEY&F=SPEC DL-threo-Dihydrosphingosine] at [[Sigma-Aldrich]]</ref>
+| ImageFile=Safingol.png
+| ImageSize=200px
+| IUPACName=(2''S'',3''S'')-2-Aminooctadecane-1,3-diol
+| OtherNames=(−)-''threo''-Dihydrosphingosine; (2''S'',3''S'')-2-Amino-1,3-octadecanediol; <small>L</small>-(−)-''threo''-Sphinganine; <small>L</small>-''threo''-Dihydrosphingosine; <small>L</small>-''threo''-2-Amino-1,3-octadecanediol; ''threo''-1,3-Dihydroxy-2-aminooctadecane
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = OWA98U788S
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo=15639-50-6
+| CASNo2_Ref = {{cascite|changed|??}}
+| CASNo2 = 73938-69-9
+| CASNo2_Comment = (DL)
+| PubChem=3058739
+| SMILES=OC[C@H](N)[C@@H](O)CCCCCCCCCCCCCCC
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 2319840
+| InChI = 1/C18H39NO2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-18(21)17(19)16-20/h17-18,20-21H,2-16,19H2,1H3/t17-,18-/m0/s1
+| InChIKey = OTKJDMGTUTTYMP-ROUUACIJBJ
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C18H39NO2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-18(21)17(19)16-20/h17-18,20-21H,2-16,19H2,1H3/t17-,18-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = OTKJDMGTUTTYMP-ROUUACIJSA-N
+  }}
+|Section2={{Chembox Properties
+| C=18 | H=39 | N=1 | O=2 
+| Appearance=
+| Density=
+| MeltingPt=
+| BoilingPt=
+| Solubility=
+  }}
+|Section3={{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| AutoignitionPt=
+  }}
+}}
+
+'''Safingol''' is a lyso-[[sphingolipid]] [[protein]] [[kinase]] [[enzyme inhibitor|inhibitor]]. It has the [[molecular formula]] C<sub>18</sub>H<sub>39</sub>NO<sub>2</sub> and is a colorless [[solid]]. [[Medicine|Medicinally]], safingol has demonstrated promising [[anticancer]] potential as a modulator of multi-[[drug resistance]] and as an inducer of [[necrosis]]. The administration of safingol alone has not been shown to exert a significant effect on [[tumor]] [[Cell (biology)|cell]] [[cell growth|growth]].<ref name="Schwartz et al. 1995">Schwartz, G. K., Haimovitz-Friedman, A., Dhupar, S. K., Ehleiter, D., Maslak, P., Lai, L., ... & Albino, A. P. (1995). Potentiation of apoptosis by treatment with the protein kinase C-specific inhibitor safingol in mitomycin C-treated gastric cancer cells. Journal of the National Cancer Institute, 87(18), 1394-1399.</ref>  However, preclinical and clinical studies have shown that combining safingol with conventional [[chemotherapy]] agents such as [[fenretinide]], [[vinblastine]], [[irinotecan]] and [[mitomycin C]] can dramatically potentiate their antitumor effects. Currently in [[Phase I clinical trial]]s, it is believed to be safe to co-administer with [[cisplatin]].<ref name="Ling et al. 2011">Ling, L. U., Tan, K. B., Lin, H., & Chiu, G. N. C. (2011). The role of reactive oxygen species and autophagy in safingol-induced cell death. Cell death & disease, 2(3), e129.
+http://www.nature.com/cddis/journal/v2/n3/full/cddis201112a.html</ref><ref name="Dickson et al. 2011"> Dickson, M. A., Carvajal, R. D., Merrill, A. H., Gonen, M., Cane, L. M., & Schwartz, G. K. (2011). A phase I clinical trial of safingol in combination with cisplatin in advanced solid tumors. Clinical Cancer Research, 17(8), 2484-2492.</ref> 
+
+==Mechanism==
+The underlying mechanism by which safingol induces cell death is poorly understood. It is believed to exert a variety of inhibitory effects, resulting in a series of [[signal transduction|cascades]] that result in accidental [[necrosis|necrotic]] cell death brought about by [[reactive oxygen species]] (ROS) and mediated by [[autophagy]]. Increased autophagic activity has been associated with increased cellular death, although it is unclear if there is any causative relationship between the two. Because autophagy normally plays a pro-survival role by impeding apoptosis, it is curious that it may play a role in cell death following safingol exposure.
+
+Safingol competitively competes with [[phorbol dibutyrate]] at [[protein domain|regulatory domain]]s of the [[protein kinase C]] family, inhibiting the activation of such enzymes as [[PKCβ-I]], [[PKCδ]], and [[PKCε]]. Safingol can also inhibit [[phosphoinositide 3-kinase]] (PI3k), which is a critical component of the [[mTOR]] and [[MAPK/ERK pathway]]s. Furthermore, safingol, like other sphingolipids, has been found to inhibit [[glucose]] uptake. This results in [[oxidative stress]], leading to the generation of ROS that are both time and concentration-dependent. Together, the inhibitory signaling effects (particularly of PKCε and PI3k) and the presence of ROS synergize to induce autophagy.<ref name="Ling et al. 2011" />
+
+Following autophagic activity, cell death is eventually induced by an as of yet unknown mechanism. Missing from this cellular death are any signs of apoptotic induction such as characteristic changes to [[Cell nucleus|nuclear]] [[Morphology (biology)|morphology]] and [[Poly ADP ribose polymerase|PARP]] cleavage.<ref name="Sachs et al. 1995">Sachs, C. W., Safa, A. R., Harrison, S. D., & Fine, R. L. (1995). Partial inhibition of multidrug resistance by safingol is independent of modulation of P-glycoprotein substrate activities and correlated with inhibition of protein kinase C. Journal of Biological Chemistry, 270(44), 26639-26648.</ref><ref name="Coward et al. 2009">Coward, J., Ambrosini, G., Musi, E., Truman, J. P., Haimovitz-Friedman, A., Allegood, J. C., ... & Schwartz, G. K. (2009). Safingol (L-threo-sphinganine) induces autophagy in solid tumor cells through inhibition of PKC and the PI3-kinase pathway. Autophagy, 5(2), 184-193.</ref> Instead, several hallmarks of necrosis are observed, such as [[caspase]]-independent cell death, the loss of [[plasma membrane]] integrity, the collapse of [[mitochondria|mitochondrial]] [[membrane potential]], and the depletion of intracellular [[Adenosine triphosphate|ATP]]. However, the involvement of [[RIPK1]] has not been observed, suggesting that this necrosis is accidental in nature and not programmed.<ref name="Ling et al. 2011" />
+
+One potential explanation for safingol’s [[cytotoxicity]] is that high concentrations result in ROS-related molecular and cellular damage that is beyond repair. Therefore, autophagy does not directly contribute to death, but is rather a failed attempt to preserve cell viability. However, not only does this [[hypothesis]] warrants further testing, but safingol has demonstrated unusual regulatory effects on other pathways capable of regulating autophagy.<ref name="Ling et al. 2011" />
+
+As expected, a decrease in glucose heightens [[AMPK]] [[phosphorylation]]. However, an initial increase in phosphorylated mTOR is also observed, which eventually reduces after several hours. The mTOR pathway normally inhibits autophagy, as is induced by heightened glucose uptake. Therefore, decreasing glucose levels should suppress the mTOR pathway, allowing for autophagy. While autophagy is indeed observed following exposure of safingol, it is intriguing that mTOR is activated initially. Modulations in [[Bcl-2]], [[Bcl-xL]], and [[ENDOG|endonuclease G]] from mitochondria are also thought to play a role in safingol-induced cellular death by regulating autophagy.<ref name="Ling et al. 2011" />
+
+Safingol is also a putative inhibitor of [[sphingosine kinase 1]] (SphK), which catalyzes the production of [[sphingosine 1-phosphate]] (S1P), an important mediator of cancer cell growth, proliferation, invasion, and [[angiogenesis]].<ref name="Dickson et al. 2011" /><ref name="Ling et al. 2011" /> This ability further contributes to its anticancer potential. It can also affect the balance of other endogenous sphingolipids, particularly [[ceramide]] and [[dihydroceramide]], which have been implicated in autophagic induction<ref name="Coward et al. 2009" /> and ROS production.<ref name="Ling et al. 2011" />
+
+==References==
+{{Reflist}}
+
+
+{{Lysophospholipid signaling}}
+
+[[Category:Amines]]
+[[Category:Diols]]

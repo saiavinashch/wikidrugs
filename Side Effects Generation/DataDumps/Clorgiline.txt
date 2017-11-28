@@ -1,0 +1,70 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 443677087
+| IUPAC_name = ''N''-[3-(2,4-dichlorophenoxy)propyl]-''N''-methyl-prop-2-yn-1-amine
+| image = Clorgiline.svg
+| width = 250px
+
+<!--Clinical data-->
+| tradename = 
+| pregnancy_category = 
+| legal_status = Uncontrolled
+| routes_of_administration = 
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6636
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 17780-72-2
+| ATC_prefix = none
+| ATC_suffix = 
+| PubChem = 4380
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB04017
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 3763
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4227
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = LYJ16FZU9Q
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03248
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 8706
+
+<!--Chemical data-->
+| C=13 | H=15 | Cl=2 | N=1 | O=1
+| molecular_weight = 272.17 g/mol
+| SMILES = Clc1cc(Cl)ccc1OCCCN(CC#C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C13H15Cl2NO/c1-3-7-16(2)8-4-9-17-13-6-5-11(14)10-12(13)15/h1,5-6,10H,4,7-9H2,2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = BTFHLQRNAMSNLC-UHFFFAOYSA-N
+}}
+
+'''Clorgiline''' ([[International Nonproprietary Name|INN]]), or '''clorgyline''' ([[British Approved Name|BAN]]), is a [[monoamine oxidase inhibitor]] (MAOI) structurally related to [[pargyline]] which is described as an [[antidepressant]].<ref name="Elks2014">{{cite book|author=J. Elks|title=The Dictionary of Drugs: Chemical Data: Chemical Data, Structures and Bibliographies|url=https://books.google.com/books?id=0vXTBwAAQBAJ&pg=PA304|date=14 November 2014|publisher=Springer|isbn=978-1-4757-2085-3|pages=304–}}</ref><ref name="MortonHall2012">{{cite book|author1=I.K. Morton|author2=Judith M. Hall|title=Concise Dictionary of Pharmacological Agents: Properties and Synonyms|url=https://books.google.com/books?id=tsjrCAAAQBAJ&pg=PA80|date=6 December 2012|publisher=Springer Science & Business Media|isbn=978-94-011-4439-1|pages=80–}}</ref> Specifically, it is an [[irreversible inhibition|irreversible]] and [[binding selectivity|selective]] [[enzyme inhibitor|inhibitor]] of [[monoamine oxidase A]] (MAO-A).<ref name="Stone1993">{{cite book|author=T. W. Stone|title=Acetylcholine, Sigma Receptors, CCK and Eicosanoids, Neurotoxins|url=https://books.google.com/books?id=0xmt5kSpJEcC&pg=PA124|date=January 1993|publisher=Taylor & Francis|isbn=978-0-7484-0063-8|pages=124–}}</ref> Clorgiline was never marketed,<ref name="Elks2014" /> but it has found use in [[scientific research]].<ref name="MurphyKaroum1998">{{cite journal|last1=Murphy|first1=D. L.|last2=Karoum|first2=F.|last3=Pickar|first3=D.|last4=Cohen|first4=R. M.|last5=Lipper|first5=S.|last6=Mellow|first6=A. M.|last7=Tariot|first7=P. N.|last8=Sunderland|first8=T.|title=Differential trace amine alterations in individuals receiving acetylenic inhibitors of MAO-A (clorgyline) or MAO-B (selegiline and pargyline)|volume=52|year=1998|pages=39–48|issn=0303-6995|doi=10.1007/978-3-7091-6499-0_5|pmid=9564606|journal=J. Neural Transm. Suppl.}}</ref> It has been found to bind with high [[affinity (pharmacology)|affinity]] to the [[sigma-1 receptor|σ<sub>1</sub> receptor]] (K<sub>i</sub> = 3.2 nM)<ref name="Stone1993" /><ref name="Itzhak1994">{{cite book|author=Yossef Itzhak|title=Sigma Receptors|url=https://books.google.com/books?id=ndRqAAAAMAAJ|year=1994|publisher=Academic Press|isbn=978-0-12-376350-1|page=84}}</ref> and with very high affinity to the [[Imidazoline receptor|I<sub>2</sub> imidazoline receptor]] (K<sub>i</sub> = 40 pM).<ref>{{cite book|title=Critical Reviews in Neurobiology|url=https://books.google.com/books?id=EP9FAQAAIAAJ|year=1995|publisher=CRC Press|page=43}}</ref>
+
+==References==
+{{Reflist|2}}
+
+
+{{Imidazoline receptor modulators}}
+{{Monoamine metabolism modulators}}
+{{Sigma receptor modulators}}
+
+[[Category:Abandoned drugs]]
+[[Category:Alkynes]]
+[[Category:Amines]]
+[[Category:Chloroarenes]]
+[[Category:Monoamine oxidase inhibitors]]
+[[Category:Phenol ethers]]
+[[Category:Sigma receptor agonists]]
+
+
+{{Nervous-system-drug-stub}}

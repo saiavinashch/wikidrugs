@@ -1,0 +1,92 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 457138656
+| IUPAC_name = 1-methyl-2-((phenylthio)methyl)-3-carbethoxy-4-((dimethylamino)methyl)-5-hydroxy-6-bromindole
+| image = Arbidol.svg
+| image2 = Umifenovir ball-and-stick model.png
+| width = 200
+
+<!--Clinical data -->
+| tradename = Arbidol
+| pregnancy_category = C
+| legal_status = [[Over-the-counter drug|OTC]] <small>RU</small>
+| routes_of_administration = [[Wiktionary:oral|Oral]] ([[Capsule (pharmacy)|hard capsules]], [[Tablet (pharmacy)|tablets]])
+
+<!--Pharmacokinetic data-->
+| bioavailability = 40%
+| metabolism = Hepatic
+| elimination_half-life = 17–21 hours
+| excretion = 40% excrete as unchanged umifenovir in feces (38,9%) and urine (0,12%)<ref>{{cite web|title=Full Prescribing Information: Arbidol® (umifenovir) film-coated tablets 50 and 100 mg: Corrections and Additions|url=http://grls.rosminzdrav.ru/InstrImgMZ.aspx?regNr=ЛСР-003900/07&page=2|website=State Register of Medicines|publisher=Open joint-stock company “Pharmstandard-Tomskchempharm”|accessdate=3 June 2015|language=Russian}}</ref>
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 131707-23-8
+| ATC_prefix = L03
+| ATC_suffix = AX
+| PubChem = 9958103
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = N/A
+| ChEMBL = 1214598
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 116151
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 93M09WW4RU
+| PDB_ligand = 75U
+
+<!--Chemical data-->
+| C=22 | H=28 | Br=1 | Cl=1 | N=2 | O=4 | S=1 
+| molecular_weight = 531.89 g/mol
+| smiles = CCOC(=O)c1c(n(c2c1c(c(c(c2)Br)O)CN(C)C)C)CSc3ccccc3
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C22H25BrN2O3S/c1-5-28-22(27)20-18(13-29-14-9-7-6-8-10-14)25(4)17-11-16(23)21(26)15(19(17)20)12-24(2)3/h6-11,26H,5,12-13H2,1-4H3
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = KCFYEAOKVJSACF-UHFFFAOYSA-N
+}}
+
+'''Umifenovir'''<ref>[http://apps.who.int/medicinedocs/documents/s18407en/s18407en.pdf Recommended INN: List 65.], WHO Drug Information, Vol. 25, No. 1, 2011, page 91</ref> (trade name {{lang-ru|Арбидол}}, {{zh|c=阿比朵尔}}) is an [[Antiviral drug|antiviral]] treatment for [[influenza]] infection used in [[Russia]]<ref name="pmid19028526">{{cite journal |vauthors=Leneva IA, Russell RJ, Boriskin YS, Hay AJ |title=Characteristics of arbidol-resistant mutants of influenza virus: implications for the mechanism of anti-influenza action of arbidol |journal=Antiviral Res. |volume=81 |issue=2 |pages=132–40 |date=February 2009 |pmid=19028526 |doi=10.1016/j.antiviral.2008.10.009 |url=http://linkinghub.elsevier.com/retrieve/pii/S0166-3542(08)00431-2}}</ref> and [[China]]. The drug is manufactured by [[Pharmstandard]] ({{lang-ru|Фармстандарт}}). Although some Russian studies have shown it to be effective, it is not approved for use in Western countries.  Chemically, umifenovir features an [[indole]] core, functionalized at all but one positions with different substituents. The drug inhibits viral entry into target cells and also stimulates the immune response.
+
+Umifenovir is manufactured and made available as both [[Tablet (pharmacy)|tablets]] and [[Capsule (pharmacy)|capsules]].
+
+==Status==
+Testing of umifenovir's efficacy has mainly occurred in China and Russia,<ref name=Leneva >{{cite journal |vauthors=Leneva IA, Fediakina IT, Gus'kova TA, Glushkov RG |year= 2005 |title=[Sensitivity of various influenza virus strains to arbidol. Influence of arbidol combination with different antiviral drugs on reproduction of influenza virus A] |journal= Терапевтический Архив (Therapeutic Archive) |volume= 77 |issue= 8 |pages= 84–88 |publisher=ИЗДАТЕЛЬСТВО "МЕДИЦИНА" |location= Moscow, Russia |pmid=16206613 |url= http://arbidol.org/arbidol-2005-works-as-well.html |type=Russian translation |accessdate=2008-02-22}}</ref><ref>{{cite journal |vauthors=Wang MZ, Cai BQ, Li LY |title=[Efficacy and safety of arbidol in treatment of naturally acquired influenza] |language=Chinese |journal=Zhongguo Yi Xue Ke Xue Yuan Xue Bao |volume=26 |issue=3 |pages=289–93 |year=2004 |pmid=15266832 |display-authors=etal}}</ref> and it is well known in these two countries.<ref name="pmid18393857">{{cite journal |vauthors=Boriskin YS, Leneva IA, Pécheur EI, Polyak SJ |title=Arbidol: a broad-spectrum antiviral compound that blocks viral fusion |journal=Curr. Med. Chem. |volume=15 |issue=10 |pages=997–1005 |year=2008 |pmid=18393857 |doi= 10.2174/092986708784049658|url=http://www.bentham-direct.org/pages/content.php?CMC/2008/00000015/00000010/0006C.SGM}}</ref>
+
+Some of the Russian tests showed the drug to be effective.<ref name = Leneva/>
+
+==Mode of action==
+
+===Biochemistry===
+Umifenovir inhibits membrane fusion.<ref name="pmid19028526"/>  Umifenovir prevents contact between the virus and target host cells. Fusion between the [[viral capsid]] and the [[cell membrane]] of the target cell is inhibited. This prevents viral entry to the target cell, and therefore protects it from infection.<ref name="pmid16854226">{{cite journal |vauthors=Boriskin YS, Pécheur EI, Polyak SJ |title=Arbidol: a broad-spectrum antiviral that inhibits acute and chronic HCV infection |journal=Virol. J. |volume=3 |pages=56 |year=2006 |pmid=16854226 |doi=10.1186/1743-422X-3-56 |url=http://www.virologyj.com/content/3//56 |pmc=1559594}}</ref>
+
+Some evidence suggests that the drug's actions are more effective at preventing infections from [[RNA virus]]es than infections from [[DNA virus]]es.<ref name="pmid17497238">{{cite journal |vauthors=Shi L, Xiong H, He J |title=Antiviral activity of arbidol against influenza A virus, respiratory syncytial virus, rhinovirus, coxsackie virus and adenovirus in vitro and in vivo |journal=Arch. Virol. |volume=152 |issue=8 |pages=1447–55 |year=2007 |pmid=17497238 |doi=10.1007/s00705-007-0974-5|display-authors=etal}}</ref>
+
+As well as specific antiviral action against both [[influenza A]] and [[influenza B]] viruses, umifenovir exhibits modulatory effects on the immune system. The drug stimulates a [[humoral immune response]], induces [[interferon]]-production, and stimulates the [[phagocytosis|phagocytic]] function of [[macrophage]]s.<ref name="pmid10222830">{{cite journal |author1=Glushkov RG |author2=Gus'kova TA |author3=Krylova LIu |author4=Nikolaeva IS |title=[Mechanisms of arbidole's immunomodulating action] |language=Russian |journal=Vestn. Akad. Med. Nauk SSSR |issue=3 |pages=36–40 |year=1999 |pmid=10222830 }}</ref>
+
+===Clinical application===
+Umifenovir is used primarily as an [[influenza treatment#antiviral drigs|antiviral treatments for influenza]]. The drug has also been investigated as a candidate drug for treatment of [[hepatitis C]].<ref name="pmid17455911">{{cite journal |authors=Pécheur EI, Lavillette D, Alcaras F |display-authors=etal |title=Biochemical mechanism of hepatitis C virus inhibition by the broad-spectrum antiviral arbidol |journal=Biochemistry |volume=46 |issue=20 |pages=6050–9 |year=2007 |pmid=17455911 |doi=10.1021/bi700181j |pmc=2532706}}</ref>
+
+A more recent study (published online as an accepted manuscript by the ''Journal of Virolog''y) by Pécheur et al. indicates that umifenovir also has ''in vitro'' effectiveness at preventing entry of [[Ebola virus|Ebolavirus]] Zaïre Kikwit, Tacaribe [[arenavirus]] and [[Kaposi's sarcoma-associated herpesvirus|human herpes virus 8]] into mammalian cell cultures, while confirming umifenovir's suppressive effect ''in vitro'' on [[Hepatitis B]] and [[poliovirus]] infection of mammalian cells when introduced either in advance of viral infection or during infection.<ref name="JVI.02077-15">{{cite journal |url=http://jvi.asm.org/content/early/2016/01/04/JVI.02077-15.full.pdf+html?sid=1cabbe49-4a25-4875-9d84-f88f4c3dc0b9 |title=The Synthetic Antiviral Drug Arbidol Inhibits Globally Prevalent Pathogenic Viruses |authors=Pécheur EI, Borisevich V,  Hlafmann P |journal=Journal of Virology |date=January 2016 |volume=90 |issue= 6|pages=3086–92 |doi=10.1128/JVI.02077-15|pmid=26739045 |pmc=4810626 |display-authors=etal}}</ref>
+
+==Side effects==
+[[Adverse drug reaction|Side effects]] in children include sensitization to the drug. No known overdose cases have been reported and [[allergic reactions]] are limited to people with [[hypersensitivity]]. The {{LD50}} is more than 4 g/kg.<ref>http://www.vidal.ru/poisk_preparatov/arbidol.htm</ref>
+
+== References ==
+{{Reflist|2}}
+
+== External links ==
+* "Мастерлек" Pharmaceuticals, Moscow, Russia. Patent number № 2033157, Registry number № 003610/01.
+* {{Ru icon}} [http://www.arbidol.ru/  Arbidol]
+* [http://www.arbidol.org/  English published clinical studies and translations for Arbidol 1973&ndash;2016]
+
+{{RNA antivirals}}
+{{influenza}}
+
+[[Category:Anti-influenza agents]]
+[[Category:Anti-RNA virus drugs]]
+[[Category:Indoles]]
+[[Category:Organobromides]]
+[[Category:Phenols]]
+[[Category:Amines]]
+[[Category:Thioethers]]
+[[Category:Ethyl esters]]
+[[Category:Russian drugs]]

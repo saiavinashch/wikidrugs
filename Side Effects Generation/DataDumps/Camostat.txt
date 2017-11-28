@@ -1,0 +1,68 @@
+{{Drugbox
+| verifiedrevid = 443459490
+| IUPAC_name = ''N'',''N''-dimethylcarbamoylmethyl 4-(4-guanidinobenzoyloxy)phenylacetate
+| image = Camostat.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|camostat}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6432
+| CAS_number_Ref = {{cascite|correct|CAS}}
+| CAS_number = 59721-28-7
+| ATC_prefix = B02
+| ATC_suffix = AB04
+| ATC_supplemental =  
+| PubChem = 2536
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2440
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0FD207WKDU
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 590799
+
+<!--Chemical data-->
+| C=20 | H=22 | N=4 | O=5 
+| molecular_weight = 398.41 g/mol
+| smiles = CN(C)C(=O)COC(=O)CC1=CC=C(C=C1)OC(=O)C2=CC=C(C=C2)N=C(N)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C20H22N4O5/c1-24(2)17(25)12-28-18(26)11-13-3-9-16(10-4-13)29-19(27)14-5-7-15(8-6-14)23-20(21)22/h3-10H,11-12H2,1-2H3,(H4,21,22,23)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = XASIMHXSUQUHLV-UHFFFAOYSA-N
+}}
+
+'''Camostat''' ([[International Nonproprietary Name|INN]]) or '''FOY-305''' is a [[serine protease]] inhibitor. Serine protease enzymes have a variety of functions in the body, and so camostat has a diverse range of uses.  It is used in the treatment of some forms of [[cancer]] and is also effective against some [[virus|viral]] infections, as well as inhibiting [[fibrosis]] in liver or kidney disease or [[pancreatitis]].<ref>Okuno M, Kojima S, Akita K, Matsushima-Nishiwaki R, Adachi S, Sano T, Takano Y, Takai K, Obora A, Yasuda I, Shiratori Y, Okano Y, Shimada J, Suzuki Y, Muto Y, Moriwaki Y. Retinoids in liver fibrosis and cancer. ''Front Biosci''. 2002 Jan 1;7:d204-18. {{PMID|11779708}}</ref><ref>Motoo Y. Antiproteases in the treatment of chronic pancreatitis. ''JOP''. 2007 Jul 9;8(4 Suppl):533-7. {{PMID|17625311}}</ref><ref>Hsieh HP, Hsu JT. Strategies of development of antiviral agents directed against influenza virus replication. ''Curr Pharm Des''. 2007;13(34):3531-42. {{PMID|18220789}}</ref><ref>Kitamura K, Tomita K. Proteolytic activation of the epithelial sodium channel and therapeutic application of a serine protease inhibitor for the treatment of salt-sensitive hypertension. ''Clin Exp Nephrol''. 2012 Feb;16(1):44-8. doi: 10.1007/s10157-011-0506-1 {{PMID|22038264}}</ref><ref>Zhou Y, Vedantham P, Lu K, Agudelo J, Carrion R Jr, Nunneley JW, Barnard D, Pöhlmann S, McKerrow JH, Renslo AR, Simmons G. Protease inhibitors targeting coronavirus and filovirus entry. ''Antiviral Res''. 2015 Apr;116:76-84. doi: 10.1016/j.antiviral.2015.01.011 {{PMID|25666761}}</ref><ref>Ueda M, Uchimura K, Narita Y, Miyasato Y, Mizumoto T, Morinaga J, Hayata M, Kakizoe Y, Adachi M, Miyoshi T, Shiraishi N, Kadowaki D, Sakai Y, Mukoyama M, Kitamura K. The serine protease inhibitor camostat mesilate attenuates the progression of chronic kidney disease through its antioxidant effects. ''Nephron''. 2015;129(3):223-32. doi: 10.1159/000375308 {{PMID|25766432}}</ref>
+
+==References==
+{{reflist}}
+*{{cite journal |vauthors=Kunze H, Bohn E |title=Effects of the serine protease inhibitors FOY and FOY 305 on phospholipase A1 (EC 3.1.1.32) activity in rat - liver lysosomes |journal=Pharmacol Res Commun |volume=15 |issue=5 |pages=451–9 |date=May 1983 |pmid=6412250 |doi= 10.1016/S0031-6989(83)80065-4|url=}}
+*{{cite journal |vauthors=Göke B, Stöckmann F, Müller R, Lankisch PG, Creutzfeldt W |title=Effect of a specific serine protease inhibitor on the rat pancreas: systemic administration of camostate and exocrine pancreatic secretion |journal=Digestion |volume=30 |issue=3 |pages=171–8 |year=1984 |pmid=6209186 |doi= 10.1159/000199102|url=}}
+
+[[Category:Acetamides]]
+[[Category:Acetates]]
+[[Category:Benzoates]]
+[[Category:Guanidines]]
+[[Category:Phenol ethers]]
+[[Category:Serine protease inhibitors]]
+
+
+{{blood-drug-stub}}

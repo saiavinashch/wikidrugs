@@ -1,0 +1,56 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 461936124
+| IUPAC_name = 9-[3-(isopropylamino)propyl]-9''H''-fluorene-9-carboxamide
+| image = Indecainide structure.svg
+| width = 180
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|CAS}}
+| CAS_number = 74517-78-5
+| CAS_supplemental = <br />{{CAS|73681-12-6}} (HCl)
+| ATC_prefix = none
+| PubChem = 52194
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00192
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 47194
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 3AZF20DM1T 
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D04521
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201242
+<!--Chemical data-->
+| C=20 | H=24 | N=2 | O=1
+| molecular_weight = 308.42 g/mol
+| smiles = O=C(N)C3(c1ccccc1c2c3cccc2)CCCNC(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C20H24N2O/c1-14(2)22-13-7-12-20(19(21)23)17-10-5-3-8-15(17)16-9-4-6-11-18(16)20/h3-6,8-11,14,22H,7,12-13H2,1-2H3,(H2,21,23)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = UCEWGESNIULAGX-UHFFFAOYSA-N
+}}
+
+'''Indecainide''' ([[International Nonproprietary Name|INN]], trade name '''Decabid''') is a class Ic [[antiarrhythmic agent]]. Developed and marketed by [[Eli Lilly and Company|Lilly]], it has now been discontinued.
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* FDA drug details [http://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.DrugDetails]
+
+{{Antiarrhythmic agents}}
+
+[[Category:Antiarrhythmic agents]]
+[[Category:Fluorenes]]
+[[Category:Carboxamides]]
+
+
+{{cardiovascular-drug-stub}}

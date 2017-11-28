@@ -1,0 +1,72 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 444144628
+| IUPAC_name = 7-Bromo-6-chloro-3-[3-[(2''S'',3''R'')-3-hydroxy-2-piperidinyl]-2-oxopropyl]-4-quinazolinone
+| image = Halofuginone.png
+| width = 180
+| image2 = Halofuginone molecule ball.png
+| width2 = 240
+| alt2 = Ball-and-stick model of the halofuginone molecule
+<!--Clinical data-->
+| tradename = 
+| Drugs.com = {{drugs.com|international|halofuginone}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Investigational
+| routes_of_administration =
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion =
+<!--Identifiers-->
+| index_label =
+| index2_label =
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 55837-20-2
+| ATCvet = yes
+| ATC_prefix = P51
+| ATC_suffix = AX08
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1199540
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = L31MM1385E
+| PubChem = 400772
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 355164
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C16H17BrClN3O3/c17-11-6-13-10(5-12(11)18)16(24)21(8-20-13)7-9(22)4-14-15(23)2-1-3-19-14/h5-6,8,14-15,19,23H,1-4,7H2/t14-,15+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = LVASCWIMLIKXLA-LSDHHAIUSA-N
+<!--Chemical data-->
+| C=16 | H=17 | Br=1 | Cl=1 | N=3 | O=3
+| smiles = O=C(CN3C=NC2=CC(Br)=C(Cl)C=C2C3=O)C[C@@H]1NCCC[C@H]1O
+|drug_name=|alt=|caption=|type=|MedlinePlus=|licence_EU=|licence_US=}}
+
+'''Halofuginone''' is a [[coccidiostat]] used in veterinary medicine. It is a synthetic [[halogen]]ated derivative of [[febrifugine]], a natural [[quinazolinone]] alkaloid which can be found in the Chinese herb ''[[Dichroa febrifuga]]'' (Chang Shan).<ref name=drugdictionary>[http://www.cancer.gov/drugdictionary/?CdrID=38485  Halofuginone hydrobromide], NCI Drug Dictionary</ref>  Collgard Biopharmaceuticals is developing halofuginone for the treatment of [[scleroderma]] and it has received [[orphan drug]] designation from the [[U.S. Food and Drug Administration]].<ref>[http://www.pslgroup.com/dg/18dff6.htm Halofuginone Receives FDA Orphan Drug Status For Scleroderma], March 10, 2000</ref>
+
+Halofuginone inhibits the development of [[T helper 17 cell]]s, immune cells that play an important role in autoimmune disease, but it does not affect other kinds of T cells which are involved in normal immune function.<ref>{{cite journal | last1 = Sundrud | first1 = M. S. | last2 = Koralov | first2 = S. B. | last3 = Feuerer | first3 = M. | last4 = Calado | first4 = D. P. | last5 = Kozhaya | first5 = A. E. | last6 = Rhule-Smith | first6 = A. | last7 = Lefebvre | first7 = R. E. | last8 = Unutmaz | first8 = D. | last9 = Mazitschek | first9 = R. | title = Halofuginone Inhibits TH17 Cell Differentiation by Activating the Amino Acid Starvation Response | journal = Science | volume = 324 | issue = 5932 | pages = 1334–8 | year = 2009 | pmid = 19498172 | pmc = 2803727 | doi = 10.1126/science.1172638 | bibcode = 2009Sci...324.1334S }}</ref> Halofuginone therefore has potential for the treatment of autoimmune disorders.<ref>[http://www.eurekalert.org/pub_releases/2009-06/chb-anl060109.php A new lead for autoimmune disease: A small-molecule drug inhibits Th17 cells, eases symptoms in mouse model], June 4, 2009</ref>
+
+Halofuginone is also an inhibitor of [[collagen type I]] gene expression and as a consequence it may inhibit tumor cell growth.<ref name=drugdictionary/>  Halofuginone exerts its effects by acting as a high affinity inhibitor of the enzyme glutamyl-prolyl tRNA synthetase. Inhibition of prolyl tRNA charging leads to the accumulation of uncharged prolyl tRNAs, which serve as a signal to initiate the amino acid starvation response, which in turn exerts anti-inflammatory and anti-fibrotic effects.<ref>{{cite journal | doi = 10.1038/nchembio.790| pmid = 22327401| title = Halofuginone and other febrifugine derivatives inhibit prolyl-tRNA synthetase| journal = Nature Chemical Biology| volume = 8| issue = 3| pages = 311| year = 2012| last1 = Keller| first1 = Tracy L| last2 = Zocco| first2 = Davide| last3 = Sundrud| first3 = Mark S| last4 = Hendrick| first4 = Margaret| last5 = Edenius| first5 = Maja| last6 = Yum| first6 = Jinah| last7 = Kim| first7 = Yeon-Jin| last8 = Lee| first8 = Hak-Kyo| last9 = Cortese| first9 = Joseph F| last10 = Wirth| first10 = Dyann F| last11 = Dignam| first11 = John David| last12 = Rao| first12 = Anjana| last13 = Yeo| first13 = Chang-Yeol| last14 = Mazitschek| first14 = Ralph| last15 = Whitman| first15 = Malcolm}}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Antiparasitic agents]]
+[[Category:Organobromides]]
+[[Category:Chloroarenes]]
+[[Category:Piperidines]]
+[[Category:Ketones]]
+[[Category:Secondary alcohols]]
+[[Category:Quinazolinones]]
+[[Category:Lactams]]
+[[Category:Experimental drugs]]

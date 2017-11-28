@@ -1,0 +1,100 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 458269645
+| image =
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = u
+| target = [[Epidermal growth factor receptor|EGFR]]
+<!-- Clinical data -->
+| tradename = Vectibix
+| Drugs.com = {{drugs.com|monograph|panitumumab}}
+| MedlinePlus = a607066
+| pregnancy_category =  
+| legal_status = Rx-only
+| routes_of_administration = intravenous
+<!-- Pharmacokinetic data -->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life = ∼9.4 days (range: 4-11 days)
+| excretion =
+<!-- Identifiers -->
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 339177-26-3
+| ATC_prefix = L01
+| ATC_suffix = XC08
+| PubChem =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01269
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 6A901E312A
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201827
+<!-- Chemical data -->
+| C=6398 | H=9878 | N=1694 | O=2016 | S=48
+|drug_name=|alt=|caption=|licence_EU=|pregnancy_AU=|pregnancy_US=|licence_US=|PDB_ligand=5sx4}}
+
+'''Panitumumab''' ([[International Nonproprietary Name|INN]]), formerly '''ABX-EGF''', is a fully human [[monoclonal antibody]] specific to the [[epidermal growth factor receptor]] (also known as ''EGF receptor'', ''EGFR'', ''ErbB-1'' and ''HER1'' in humans).
+
+Panitumumab is manufactured by [[Amgen]] and marketed as '''Vectibix'''.  It was originally developed by Abgenix Inc.
+
+In 2014, Amgen and [[Illumina (company)|Illumina]] entered into an agreement to develop a [[companion diagnostic]] to accompany panitumumab.<ref name=geneng201402>{{cite news | title=Illumina, Amgen to Develop CDx for Colorectal Cancer | type=paper | date=February 15, 2014 | work=[[Gen. Eng. Biotechnol. News]] | page=32 | department=News: Molecular Diagnostics | volume=34 | issue=4 |url=http://www.genengnews.com/gen-news-highlights/illumina-amgen-to-develop-cdx-for-colorectal-cancer/81249377/}}</ref>
+
+==Uses==
+It was approved by the [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]] (FDA) for the first time in September 2006, for "the treatment of EGFR-expressing metastatic [[colorectal cancer]] with disease progression" despite prior treatment.<ref>[http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2006/125147LTR.pdf U.S. Food and Drug Administration]</ref> Panitumumab was approved by the [[European Medicines Agency]] (EMEA) in 2007, and by [[Health Canada]] in 2008 for "the treatment of refractory EGFR-expressing metastatic colorectal cancer in patients with non-mutated (wild-type) [[KRAS]]".
+
+Panitumumab was the first monoclonal antibody to demonstrate the use of KRAS as a predictive [[biomarker]].
+
+==FDA Approval==
+Panitumumab was initially approved on September 27, 2006 for EGFR-expressing, metastatic CRC with disease progression on or following fluoropyrimidine-, oxaliplatin-, and irinotecan-containing regimens, based on the results of a study which showed clinical benefit in metastatic colorectal cancer patients.<ref>{{cite journal |doi=10.3816/CCC.2006.n.01|pmid=16796788|title=Randomized Phase III Trial Results of Panitumumab, a Fully Human Anti—Epidermal Growth Factor Receptor Monoclonal Antibody, in Metastatic Colorectal Cancer|journal=Clinical Colorectal Cancer|volume=6|issue=1|pages=29–31|year=2006|last1=Gibson|first1=Tara Beers|last2=Ranganathan|first2=Aarati|last3=Grothey|first3=Axel}}</ref> In July 2009, the FDA updated the labels of two anti-EGFR monoclonal antibody drugs (panitumumab and [[cetuximab]]) indicated for the treatment of metastatic colorectal cancer to include information about KRAS mutations.<ref>{{cite web| url=https://www.genomeweb.com/dxpgx/fda-adds-kras-testing-info-vectibix-erbitux-labels | title=FDA updates Vectibix and Erbitux labels with KRAS testing info}}{{MEDRS|date=December 2014}}</ref> This was the result of a study, which demonstrated lack of benefit with Panitumumab in patients who carried [[NRAS (gene)|NRAS]] mutations.<ref name=Douillard2013>{{cite journal |doi=10.1056/NEJMoa1305275|pmid=24024839|title=Panitumumab–FOLFOX4 Treatment andRASMutations in Colorectal Cancer|journal=New England Journal of Medicine|volume=369|issue=11|pages=1023–34 |year=2013 |last1=Douillard|first1=Jean-Yves|last2=Oliner|first2=Kelly S.|last3=Siena|first3=Salvatore|last4=Tabernero|first4=Josep|last5=Burkes|first5=Ronald|last6=Barugel|first6=Mario|last7=Humblet|first7=Yves|last8=Bodoky|first8=Gyorgy|last9=Cunningham|first9=David|last10=Jassem|first10=Jacek|last11=Rivera|first11=Fernando|last12=Kocákova|first12=Ilona|last13=Ruff|first13=Paul|last14=Błasińska-Morawiec|first14=Maria|last15=Šmakal|first15=Martin|last16=Canon|first16=Jean Luc|last17=Rother|first17=Mark|last18=Williams|first18=Richard|last19=Rong|first19=Alan|last20=Wiezorek|first20=Jeffrey|last21=Sidhu|first21=Roger|last22=Patterson|first22=Scott D.}}</ref>
+
+It is also approved as a first-line agent in combination with [[FOLFOX]].<ref>https://www.uptodate.com/contents/panitumumab-drug-information?source=search_result&search=panitumumab&selectedTitle=1~33</ref> 
+
+==Mechanism==
+Panitumumab is an IgG2 human monoclonal antibody.  
+
+{{main|Epidermal growth factor receptor}}
+EGFR is a transmembrane protein. Panitumumab works by binding to the extracellular domain of the EGFR preventing its activation. This results in halting of the cascade of intracellular signals dependent on this receptor.<ref>{{cite book |first=Jack W. |last=Plunkett |title=Plunkett's Biotech & Genetics Industry Almanac 2006 | publisher=Plunkett Research | date=September 30, 2005 |isbn=1-59392-033-4 }}{{page needed|date=December 2014}}</ref>
+
+==Pharmacokinetics==
+The [[pharmacokinetics]] (PK) of panitumumab shows the so-called [[target-mediated disposition behavior]].<ref name=Peiming2009>{{cite journal |doi=10.1177/0091270009344989|title=Population Pharmacokinetic Analysis of Panitumumab in Patients with Advanced Solid Tumors |journal=The Journal of Clinical Pharmacology|volume=49|issue=10|pages=1142–56|year=2009 |last1=Ma|first1=Peiming|last2=Yang|first2=Bing-Bing|last3=Wang|first3=Yow-Ming|last4=Peterson|first4=Mark|last5=Narayanan|first5=Adimoolam |last6=Sutjandra|first6=Liviawati|last7=Rodriguez|first7=Rachelle|last8=Chow|first8=Andrew |pmid=19723673}}</ref> 
+However, the PK is approximately linear at clinical doses, and the terminal half-life for a typical male patient of 80&nbsp;kg and 60 years of age with colorectal cancer is about 9.4 days.
+
+== Adverse Effects ==
+Panitumumab has been associated with skin rash, fatigue, nausea, diarrhea, fever, and decreased magnesium levels. Often, skin rash is noted in the sun exposed parts of the body, such as the face or chest. Oral antibiotics may be needed for worsening skin rash, such as one accompanied with blisters and ulcers. Otherwise, topical steroid creams like hydrocortisone may help.<ref>{{cite journal |doi=10.1200/JCO.2008.21.7828|pmid=20142600|title=Skin Toxicity Evaluation Protocol with Panitumumab (STEPP), a Phase II, Open-Label, Randomized Trial Evaluating the Impact of a Pre-Emptive Skin Treatment Regimen on Skin Toxicities and Quality of Life in Patients with Metastatic Colorectal Cancer|journal=Journal of Clinical Oncology|volume=28|issue=8|pages=1351–7|year=2010|last1=Lacouture|first1=M. E.|last2=Mitchell|first2=E. P.|last3=Piperdi|first3=B.|last4=Pillai|first4=M. V.|last5=Shearer|first5=H.|last6=Iannotti|first6=N.|last7=Xu|first7=F.|last8=Yassine|first8=M.}}</ref>
+
+Ocular toxicity or keratitis was observed in 16% of patients on panitumumab, usually necessitating the discontinuance of therapy.<ref>https://www.uptodate.com/contents/panitumumab-drug-information?source=search_result&search=panitumumab&selectedTitle=1~33</ref>
+
+In clinical trials, 90% of patients had dermatological toxicities and 15% of those were severe. Because of this, panitumumab has a [[boxed warning]] cautioning patients. Skin toxicities were typically apparent two weeks after beginning treatment. More severe skin toxicities were associated with improved progression free survival and overall survival.<ref>https://www.uptodate.com/contents/panitumumab-drug-information?source=search_result&search=panitumumab&selectedTitle=1~33</ref>
+
+Pulmonary fibrosis and interstitial lung disease were observed in clinical trials.<ref>https://www.uptodate.com/contents/panitumumab-drug-information?source=search_result&search=panitumumab&selectedTitle=1~33</ref>
+
+==Contraindications==
+Panitumumab does not work in patients who have KRAS or NRAS mutations.<ref name=Douillard2013/>
+
+== History ==
+Panitumumab was generated using [[Abgenix]]'s XenoMouse platform technology, in which engineered mice were utilized to produce human antibodies. Abgenix partnered with Immunex Corporation to develop the antibody, and Amgen acquired Immunex in 2003. In 2006, [[Amgen]] acquired Abgenix as well. In 2013, Amgen formed an agreement with Zhejiang Beta Pharma to form Amgen Beta Pharmaceuticals and market panitumumab in China. Amgen and Takeda have an agreement under which Takeda will develop and commercialise panitumumab in Japan.<ref>http://adisinsight.springer.com/drugs/800008663</ref> Panitumumab is licensed to [[Dr Reddys Laboratories]] in India and [[GlaxoSmithKline]] in the UK.
+
+== Research ==
+Pantiumumab is being studied in numerous phase II and III clinical trials. Phase III clinical trials include treatment of esophageal cancer,<ref>https://clinicaltrials.gov/ct2/show/NCT01627379</ref> urothelial carcinoma,<ref>https://clinicaltrials.gov/ct2/show/NCT02818725</ref> metastatic head and neck cancer,<ref>https://clinicaltrials.gov/ct2/show/results/NCT00460265</ref> and liver metastasis in colorectal cancer.<ref>https://clinicaltrials.gov/ct2/show/NCT02162563</ref> Early trials showed limited efficacy in patients with malignant melanoma, bladder cancer, prostate cancer, and renal cell carcinoma.<ref>http://adisinsight.springer.com/drugs/800008663</ref> 
+
+==Panitumumab vs. Cetuximab==
+Although they both target the EGFR, panitumumab ([[IgG2]]) and cetuximab ([[IgG1]]) differ in their [[Isotype (immunology)|isotype]] and they might differ in their mechanism of action. Monoclonal antibodies of the IgG1 isotype may activate the complement pathway and mediate [[antibody-dependent cellular cytotoxicity]] (ADCC).<ref>[http://www.healthvalue.net/IgG1_IgG2.html HealthValue: IgG1 & IgG2]{{MEDRS|date=December 2014}}</ref> It is not clear at this time, if one drug is superior to the other. In one of the studies, both these drugs were noted to be similar in activity.<ref>{{cite journal |doi=10.1016/S1470-2045(14)70118-4|pmid=24739896|title=Panitumumab versus cetuximab in patients with chemotherapy-refractory wild-type KRAS exon 2 metastatic colorectal cancer (ASPECCT): A randomised, multicentre, open-label, non-inferiority phase 3 study|journal=The Lancet Oncology|volume=15|issue=6|pages=569–79|year=2014|last1=Price|first1=Timothy J|last2=Peeters|first2=Marc|last3=Kim|first3=Tae Won|last4=Li|first4=Jin|last5=Cascinu|first5=Stefano|last6=Ruff|first6=Paul|last7=Suresh|first7=Atilli Satya|last8=Thomas|first8=Anne|last9=Tjulandin|first9=Sergei|last10=Zhang|first10=Kathy|last11=Murugappan|first11=Swaminathan|last12=Sidhu|first12=Roger}}</ref>
+
+==References==
+{{reflist}}
+
+== Further reading ==
+* {{cite journal |first1=Rafael G. |last1=Amado |first2=Michael |last2=Wolf |first3=Marc |last3=Peeters |first4=Eric |last4=Van Cutsem |first5=Salvatore |last5=Siena |first6=Daniel J. |last6=Freeman |first7=Todd |last7=Juan |first8=Robert |last8=Sikorski |first9=Sid |last9=Suggs |first10=Robert |last10=Radinsky |first11=Scott D. |last11=Patterson |first12=David D. |last12=Chang |year=2008 |title=Wild-Type ''KRAS'' is Required for Panitumumab Efficacy in Patients with Metastatic Colorectal Cancer |journal=Journal of Clinical Oncology |volume=26 |issue=10 |pages=1626–34 |doi=10.1200/JCO.2007.14.7116 |pmid=18316791}}
+* {{cite journal |first1=Eric |last1=Van Cutsem |first2=Marc |last2=Peeters |first3=Salvatore |last3=Siena |first4=Yves |last4=Humblet |first5=Alain |last5=Hendlisz |first6=Bart |last6=Neyns |first7=Jean-Luc |last7=Canon |first8=Jean-Luc |last8=Van Laethem |first9=Joan |last9=Maurel |first10=Gary |last10=Richardson |first11=Michael |last11=Wolf |first12=Rafael G. |last12=Amado |year=2007 |title=Open-Label Phase III Trial of Panitumumab Plus Best Supportive Care Compared with Best Supportive Care Alone in Patients with Chemotherapy-Refractory Metastatic Colorectal Cancer |journal=Journal of Clinical Oncology |volume=25 |issue=13 |pages=1658–64 |doi=10.1200/JCO.2006.08.1620 |pmid=17470858}}
+
+
+{{Extracellular chemotherapeutic agents}}
+{{Monoclonals for tumors}}
+{{Growth factor receptor modulators}}
+
+[[Category:Monoclonal antibodies for tumors]]

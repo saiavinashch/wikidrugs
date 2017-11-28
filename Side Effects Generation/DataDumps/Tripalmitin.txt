@@ -1,0 +1,62 @@
+{{Chembox
+| ImageFile = Tripalmitin.svg
+| ImageSize = 220px
+| ImageName = Skeletal formula of tripalmitin
+| IUPACName = 1,2,3-Propanetriyl trihexadecanoate
+| OtherNames = Palmitin; Glycerol tripalmitate; Glycerin tripalmitate; Glyceryl tripalmitate; Palmitic triglyceride; Tripalmitoyl glycerol
+|Section1={{Chembox Identifiers
+| CASNo = 555-44-2
+| PubChem = 11147
+| ChemSpiderID = 10674
+| SMILES = O=C(OCC(OC(=O)CCCCCCCCCCCCCCC)COC(=O)CCCCCCCCCCCCCCC)CCCCCCCCCCCCCCC
+| InChI = 1/C51H98O6/c1-4-7-10-13-16-19-22-25-28-31-34-37-40-43-49(52)55-46-48(57-51(54)45-42-39-36-33-30-27-24-21-18-15-12-9-6-3)47-56-50(53)44-41-38-35-32-29-26-23-20-17-14-11-8-5-2/h48H,4-47H2,1-3H3
+| InChIKey = PVNIQBQSYATKKL-UHFFFAOYAV
+| StdInChI = 1S/C51H98O6/c1-4-7-10-13-16-19-22-25-28-31-34-37-40-43-49(52)55-46-48(57-51(54)45-42-39-36-33-30-27-24-21-18-15-12-9-6-3)47-56-50(53)44-41-38-35-32-29-26-23-20-17-14-11-8-5-2/h48H,4-47H2,1-3H3
+| StdInChIKey = PVNIQBQSYATKKL-UHFFFAOYSA-N
+| EINECS = 209-098-1
+| RTECS = RT4953500
+  }}
+|Section2={{Chembox Properties
+| C=51 | H=98 | O=6
+| Appearance = White powder
+| Density = 0.8752 g/cm<sup>3</sup> (70 °C)<ref name=crc />
+| MeltingPtC = 44.7-67.4
+| MeltingPt_ref = <ref>{{cite journal|author = Hong, Jindui|journal = Journal of Chemical & Engineering Data|year = 2010|volume = 55|issue = 1|pages = 297–302}}</ref><ref name=spring />
+| BoilingPtC = 315
+| BoilingPt_notes = <br> at 760 mmHg<ref name=crc>{{CRC90}}</ref>
+| Solubility = Insoluble
+| SolubleOther = Soluble in [[ethanol|EtOH]], [[diethyl ether|(C<sub>2</sub>H<sub>5</sub>)<sub>2</sub>O]], [[benzene|C<sub>6</sub>H<sub>6</sub>]], [[chloroform|CHCl<sub>3</sub>]]<ref name=crc />
+| RefractIndex = 1.4381 (80 °C)<ref name=crc />
+  }}
+|Section3={{Chembox Structure
+| CrystalStruct = [[triclinic crystal system|Triclinic]] (β-form)<ref name=iucr>{{Cite journal | doi = 10.1107/S0108768198009392| title = Structure of mono-acid even-numbered β-triacylglycerols| journal = Acta Crystallographica Section B| volume = 55| pages = 114| year = 1999| last1 = Van Langevelde | first1 = A. | last2 = Van Malssen | first2 = K. | last3 = Hollander | first3 = F. | last4 = Peschar | first4 = R. | last5 = Schenk | first5 = H. }}</ref>
+| SpaceGroup = P{{overline|1}} (β-form)<ref name=iucr />
+  }}
+|Section4={{Chembox Thermochemistry
+| Entropy = 1387.4 J/mol·K (liquid)<ref name=nist>{{nist|name=Tripalmitin|id=C555442|accessdate=2014-06-19|mask=FFFF|units=SI}}</ref>
+| DeltaHc = −31605.9 kJ/mol<ref name=nist />
+| DeltaHf = −2468.7 kJ/mol<ref name=nist />
+| HeatCapacity = 1219.4 J/mol·K (β-form, 281.2&nbsp;K)<br> 1753.1 J/mol·K (338.8 K)<ref name=spring>{{Cite journal | doi = 10.1007/BF02643296| title = Thermal properties of fats and oils| journal = Journal of the American Oil Chemists Society| volume = 24| issue = 5| pages = 140| year = 1947| last1 = Charbonnet | first1 = G. H. | last2 = Singleton | first2 = W. S.}}</ref><ref name=nist />
+  }}
+|Section7={{Chembox Hazards
+| EUClass = {{Hazchem Xn}}
+| RPhrases = {{R20/22}}
+| NFPA-H = 1
+| NFPA-F = 0
+| NFPA-R = 0
+| NFPA_ref = <ref name=fca>{{cite web|url = https://www.fishersci.ca/viewmsds.do?catNo=AC422090250|title = MSDS of Trimyristin|website = http://www.fishersci.ca|accessdate = 2014-06-19|publisher = Fisher Scientific}}</ref>
+  }}
+}}
+
+'''Tripalmitin''' is a [[triglyceride]] derived from the [[fatty acid]] [[palmitic acid]].
+
+==References==
+{{reflist}}
+
+{{glycerides}}
+
+[[Category:Triglycerides]]
+[[Category:Palmitates]]
+
+
+{{ester-stub}}

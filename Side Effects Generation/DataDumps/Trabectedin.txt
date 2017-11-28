@@ -1,0 +1,127 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470612054
+| IUPAC_name = (1<nowiki>'</nowiki>''R'',6''R'',6a''R'',7''R'',13''S'',14''S'',16''R'')-6',8,14-trihydroxy-7',9-dimethoxy-4,10,23-trimethyl-19-oxo-3',4',6,7,12,13,14,16-octahydrospiro[6,16-(epithiopropano-oxymethano)-7,13-imino-6a''H''-1,3-dioxolo[7,8]isoquino[3,2-''b''][3]benzazocine-20,1'(2'''H'')-isoquinolin]-5-yl acetate
+| image = Trabectedin.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|trabectedin}}
+| licence_EU = Yondelis
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = POM
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = [[Intravenous therapy|Intravenous]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = Not applicable (IV only)
+| protein_bound = 94 to 98%
+| metabolism = [[Liver|Hepatic]] (mostly [[CYP3A4]]-mediated)
+| elimination_half-life = 180 hours (mean)
+| excretion = Mostly fecal
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 114899-77-3
+| ATC_prefix = L01
+| ATC_suffix = CX01
+| PubChem = 108150
+| IUPHAR_ligand = 2774
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB05109
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 84050
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 97236
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = ID0YZQ2TCP
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 297812
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG =D06199
+
+<!--Chemical data-->
+| C=39 | H=43 | N=3 | O=11 | S=1 
+| molecular_weight = 761.84 g/mol
+|  smiles = Cc1cc2c(c(c1OC)O)[C@@H]3[C@@H]4[C@H]5c6c(c7c(c(c6OC(=O)C)C)OCO7)[C@@H](N4[C@H]([C@H](C2)N3C)O)COC(=O)[C@@]8(CS5)c9cc(c(cc9CCN8)O)OC
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C39H43N3O11S/c1-16-9-20-10-22-37(46)42-23-13-50-38(47)39(21-12-25(48-5)24(44)11-19(21)7-8-40-39)14-54-36(30(42)29(41(22)4)26(20)31(45)32(16)49-6)28-27(23)35-34(51-15-52-35)17(2)33(28)53-18(3)43/h9,11-12,22-23,29-30,36-37,40,44-46H,7-8,10,13-15H2,1-6H3/t22-,23-,29+,30+,36+,37-,39+/m0/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = PKVRCIRHQMSYJX-AIFWHQITSA-N
+}}
+
+'''Trabectedin''' (also known as '''ecteinascidin 743''' or '''ET-743''') is an anti-tumor chemotherapy drug. It is sold by [[Pharma Mar S.A.]] and [[Johnson & Johnson Pharmaceutical Research and Development|Johnson and Johnson]] under the brand name '''Yondelis'''.  It is approved for use in Europe, Russia and South Korea for the treatment of advanced [[soft tissue sarcoma]].  It is also undergoing clinical trials for the treatment of breast, prostate, and paediatric sarcomas. The European Commission and the [[U.S. Food and Drug Administration]] (FDA) have granted [[orphan drug]] status to trabectedin for soft tissue sarcomas and [[ovarian cancer]].
+
+==Discovery and production==
+During the 1950s and 1960s, the [[National Cancer Institute]] carried out a wide-ranging program of screening plant and marine organism material. As part of that program extract from the [[tunicate|sea squirt]] ''[[Ecteinascidia turbinata]]'' was found to have anticancer activity in 1969.<ref>{{cite journal|author=Lichter|title=Food-drugs from the sea. Proc: Aug 20–23, 1972.|editor=Worthen LW|publisher= Marine Tech Soc| volume=173|pages=117–127|display-authors=etal}}</ref>
+Separation and characterisation of the active molecules had to wait many years for the development of sufficiently sensitive techniques, and the structure of one of them, Ecteinascidin 743, was determined by KL Rinehart at the University of Illinois in 1984.<ref name="pmid10608919">{{cite journal
+ |author=Rinehart KL |title=Antitumor compounds from tunicates |journal=Med Res Rev |volume=20 |issue=1 |pages=1–27
+ |date=January 2000 |pmid=10608919 |doi=10.1002/(SICI)1098-1128(200001)20:1<1::AID-MED1>3.0.CO;2-A }}</ref> Rinehart had collected his sea squirts by scuba diving in the reefs of the West Indies.<ref name="harvard">{{cite web
+ |url=http://news.harvard.edu/gazette/2000/05.04/cancersquirt.html |title=Potent cancer drugs made -- Sea squirts provide recipe
+ }}</ref> Recently, the biosynthetic pathway responsible for producing the drug has been determined to come from ''Candidatus Endoecteinascidia frumentensis'', a microbial symbiont of the tunicate.<ref name="pmid21875091">{{cite journal
+  |vauthors=Rath CM, etal |title=Meta-omic characterization of the marine invertebrate microbial consortium that produces the chemotherapeutic natural product ET-743 |journal=[[ACS Chemical Biology]] |volume=6 |issue=11 |pages=1244–56 |date=November 2011 |pmid=21875091 |doi=10.1021/cb200244t |pmc=3220770}}</ref>
+The Spanish company [[PharmaMar]] licensed the compound from the University of Illinois before 1994{{Citation needed|date=July 2008}} and attempted to farm the sea squirt with limited success.<ref name="harvard"/> Yields from the sea squirt are extremely low - it takes 1 [[tonne]] of animals to isolate 1&nbsp;gram of trabectedin - and about 5&nbsp;grams were believed to be needed for a clinical trial<ref name="newscientist">{{cite web
+ |url=https://www.newscientist.com/article/mg15120473.600-hostages-of-the-deep--prospectors-are-taking-to-the-seas-in-search-of-new-and-promising-chemicalsbut-the-better-the-drugs-turn-out-to-be-the-greater-the-threat-to-the-animalsthat-produce-them-itstephanie-painit-investigates.html
+ |title=New Scientist }}</ref> so Rinehart asked the Harvard chemist [[Elias James Corey|E. J. Corey]] to search for a synthetic method of preparation. His group developed such a method and published it in 1996.<ref name=corey>{{cite journal
+ | journal=J. Am. Chem. Soc. |volume=118 |issue=38 |year=1996 |pages=9202–9203
+ |title=Enantioselective Total Synthesis of Ecteinascidin 743 |author1=E. J. Corey |author2=David Y. Gin |author3=Robert S. Kania  |last-author-amp=yes |doi=10.1021/ja962480t }}</ref>  This was later followed by a simpler and more tractable method which was patented by Harvard and subsequently licensed to PharmaMar.<ref name="harvard"/>  The current supply is based on a semisynthetic process developed by PharmaMar starting from [[safracin B]], an antibiotic obtained by fermentation of the bacterium ''[[Pseudomonas fluorescens]]''.<ref>{{cite journal
+ |author=C. Cuevas|title=Synthesis of ecteinascidin ET-743 and phthalascidin PT-650 from cyanosafracin B
+ |journal=Org. Lett. |volume=2|issue=16
+ |year=2000|pages=2545–2548 |display-authors=etal|pmid=10956543 |doi=10.1021/ol0062502
+ }}</ref> PharmaMar have entered into an agreement with Johnson &  Johnson to market the compound outside Europe.{{Citation needed|date=July 2008}}
+
+==Approvals and indications==
+Trabectedin was first trialed in humans in 1996.{{Citation needed|date=July 2008}}
+
+===Soft tissue sarcoma===
+In 2007, the EMEA gave authorization for the marketing of trabectedin, under the trade name Yondelis, for the treatment of patients with advanced soft tissue sarcoma, after failure of [[anthracycline]]s and [[ifosfamide]], or who are unsuited to receive these agents. The agency's evaluating committee, the [[CHMP]], observed that trabectedin had not been evaluated in an adequately designed and analyzed randomized trial against current best care, and that the clinical efficacy data was mainly based on patients with [[liposarcoma]] and [[leiomyosarcoma]]. However the pivotal study did show a significant difference between two different trabectedin treatment regimens, and due to the rarity of the disease the CHMP considered that marketing authorisation could be granted under exceptional circumstances.<ref>{{cite web
+ |title=CHMP evaluation |url=http://www.emea.europa.eu/docs/en_GB/document_library/EPAR_-_Summary_for_the_public/human/000773/WC500045833.pdf }}</ref>  As part of the approval PharmaMar agreed to conduct a further trial to identify whether any specific chromosomal [[translocations]] could be used to predict responsiveness to trabectedin.<ref>{{cite web
+ |url=http://www.pharmamar.com/en/press/news_release.cfm?newsReleaseID=179&year=2008 |title=PharmaMar website }}</ref>
+
+Trabectedin is also approved in South Korea<ref>[https://www.reuters.com/article/rbssHealthcareNews/idUSB73735320080508 S.Korea approves Zeltia cancer drug Yondelis], Reuters.com, May 8, 2008</ref> and Russia.
+
+In 2015 (after phase III study comparing with [[dacarbazine]]<ref name=DAC2015>[http://www.cancernetwork.com/sarcoma/trabectedin-superior-dacarbazine-leiomyosarcoma-liposarcoma Trabectedin Superior to Dacarbazine for Leiomyosarcoma, Liposarcoma]</ref>) the [[US FDA]] approved trabectedin (Yondelis) for the treatment of liposarcoma and leiomyosarcoma that is either unresectable or has metastasized. Patients must have received prior chemotherapy with an anthracycline.<ref name=FDA2015>[http://www.cancernetwork.com/sarcoma/fda-approves-trabectedin-yondelis-advanced-soft-tissue-sarcoma FDA Approves Trabectedin (Yondelis) for Advanced Soft-Tissue Sarcoma]</ref>
+
+===Ovarian cancer and other===
+In 2008 the submission was announced of a registration dossier to the [[European Medicines Agency]] (EMEA) and the FDA for Yondelis when administered in combination with [[Doxorubicin#Liposomal formulations|pegylated liposomal doxorubicin]] (Doxil, Caelyx) for the treatment of women with relapsed [[ovarian cancer]].  In 2011, Johnson&Johnson voluntarily withdrew the submission in the United States following a request by the FDA for an additional Phase III study to be done in support of the submission.<ref>{{cite news
+ |title=J&J pulls submission for Zeltia's Yondelis |first=Kevin |last=Grogan
+ |url=http://www.pharmatimes.com/Article/11-05-03/J_J_pulls_submission_for_Zeltia_s_Yondelis.aspx
+ |newspaper=[[PharmaTimes Magazine]] |location=London, England |date=3 May 2011 |at=Online PharmaTimes
+ |accessdate=7 May 2011 |archiveurl=https://www.webcitation.org/5yVqjzpzc |archivedate=7 May 2011 }}</ref>
+
+Trabectedin is{{when|date=October 2015}} also in phase II trials for prostate, breast and paediatric cancers.<ref>{{cite web
+ |url=http://www.pharmamar.com/contenidos.aspx?menu=66 |title=PharmaMar website }}</ref>
+
+==Structure==
+Trabectedin is composed of 3 [[tetrahydroisoquinoline]] [[Functional group|moieties]], 8 rings including one 10-membered heterocyclic ring containing a [[cysteine]] residue, and 7 chiral centers.
+
+==Biosynthesis==
+[[File:Trabectedin Biosynthesis.png|thumb|Proposed scheme for the biosynthesis of trabecteden]]
+The biosynthesis of trabectedin in ''Candidatus Endoecteinascidia frumentensis'' starts with a fatty acid loading onto the acyl-ligase domain of the EtuA3 module. A cysteine and glycine are then loaded as canonical NRPS amino acids. A tyrosine residue is modified by the enzymes EtuH, EtuM1, and EtuM2 to add a hydroxyl at the meta position of the phenol, and adding two methyl groups at the para-hydroxyl and the meta carbon position. This modified tyrosine reacts with the original substrate via a [[Pictet-Spengler reaction]], where the amine group is converted to an imine by deprotonation, then attacks the free aldehyde to form a carbocation that is quenched by electrons from the methyl-phenol ring. This is done in the EtuA2 T-domain. This reaction is done a second time to yeid a dimer of modified tyrosine residues that have been further cyclized via Pictet-Spengler reaction, yielding a bicyclic ring moiety. The EtuO and EtuF3 enzymes continue to post-translationally modify the molecule, adding several functional groups and making a sulfide bridge between the original cysteine residue and the beta-carbon of the first tyrosine to form ET-583, ET-597, ET-596, and ET-594 which have been previously isolated.<ref name="pmid21875091"/> A third ''O''-methylated tyrosine is added and cyclized via Pictet-Spangler to yield the final product.<ref name="pmid21875091"/>
+
+==Total synthesis==
+The [[total synthesis]] by E.J. Corey <ref name=corey /> used this proposed biosynthesis to guide their synthetic strategy. The synthesis uses such reactions as the [[Mannich reaction]], [[Pictet-Spengler reaction]], the [[Curtius rearrangement]], and [[Chirality (chemistry)|chiral]] [[rhodium]]-based [[diphosphines|diphosphine]]-[[catalysis|catalyzed]] [[enantioselective]] [[hydrogenation]]. A separate synthetic process also involved the [[Ugi reaction]] to assist in the formation of the pentacyclic core. This reaction was unprecedented for using such a one pot multi-component reaction in the synthesis of such a complex molecule.
+
+== Mechanism of action ==
+Recently, it has been shown that Trabectedin blocks DNA binding of the oncogenic [[transcription factor]] [[FUS-CHOP]] and reverses the transcriptional program in [[myxoid liposarcoma]]. By reversing the genetic program created by this transcription factor, Trabectedin promotes differentiation and reverses the oncogenic phenotype in these cells.<ref name=Grohar2011/>
+
+Other than transcriptional interference, the mechanism of action of Trabectedin is complex and not completely understood. The compound is known to bind and alkylate DNA at the N2 position of guanine. It is known from in-vitro work that this binding occurs in the minor groove, spans approximately 3 to 5 bp and is most efficient with CGG sequences. Additional favorable binding sequences are TGG, AGC, or GGC. Once bound, this reversible covalent adduct bends DNA toward the major groove, interferes directly with activated transcription, poisons the [[transcription-coupled nucleotide excision repair]] (TCR) complex, promotes degradation of RNA polymerase II, and generates DNA double-strand breaks.<ref name=Grohar2011>{{cite journal |author=Grohar et. al. |title=Ecteinascidin 743 Interferes with the Activity of EWS-FLI1 in Ewing Sarcoma Cells |journal=Neoplasia |year=2011 |volume=13 |issue=2 |pages=145–153|pmid=21403840 |pmc=3033593 |doi=10.1593/neo.101202}} and works cited therein.</ref>
+
+== References ==
+{{reflist|2}}
+
+{{Chemotherapeutic agents}}
+
+[[Category:Orphan drugs]]
+[[Category:Antineoplastic drugs]]
+[[Category:Alcohols]]
+[[Category:Phenols]]
+[[Category:Phenol ethers]]
+[[Category:Acetate esters]]
+[[Category:Total synthesis]]

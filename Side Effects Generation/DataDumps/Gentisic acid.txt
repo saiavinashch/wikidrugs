@@ -1,0 +1,77 @@
+{{chembox
+| Watchedfields = changed
+| verifiedrevid = 476997017
+| ImageFile =Gentisinsäure.svg
+| ImageSize = 150
+| ImageAlt = Skeletal formula of gentisic acid
+| ImageFile1 = Gentisic acid 3D spacefill.png
+| ImageSize1 = 150
+| ImageAlt1 = Space-filling model of the gentisic acid molecule
+| IUPACName =2,5-dihydroxybenzoic acid
+| OtherNames =DHB<br>2,5-dihydroxybenzoic acid<br>5-Hydroxysalicylic acid<br>Gentianic acid<br>Carboxyhydroquinone<br>2,5-Dioxybenzoic Acid<br>Hydroquinonecarboxylic acid
+| Reference =<ref>[https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=3469&loc=ec_rcs Gentisic acid - Compound Summary], [[PubChem]].</ref>
+|Section1={{Chembox Identifiers
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3350
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = VP36V95O3T
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = C00628
+| InChI = 1/C7H6O4/c8-4-1-2-6(9)5(3-4)7(10)11/h1-3,8-9H,(H,10,11)
+| InChIKey = WXTMDXOMEHJXQO-UHFFFAOYAO
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1461
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C7H6O4/c8-4-1-2-6(9)5(3-4)7(10)11/h1-3,8-9H,(H,10,11)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WXTMDXOMEHJXQO-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo =490-79-9
+| PubChem =3469
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 17189
+| SMILES = O=C(O)c1cc(O)ccc1O
+}}
+|Section2={{Chembox Properties
+| Formula = C<sub>7</sub>H<sub>6</sub>O<sub>4</sub>
+| MolarMass = 154.12 g/mol
+| Appearance = white to yellow powder
+| Density =
+| MeltingPtC = 200 to 205
+| MeltingPt_notes = (Sublimes)
+| BoilingPt =
+| Solubility =
+  }}
+|Section3={{Chembox Hazards
+| MainHazards =
+| FlashPt =
+| AutoignitionPt = 
+ }}
+}}
+'''Gentisic acid''' is a [[dihydroxybenzoic acid]]. It is a derivative of [[benzoic acid]] and a minor (1%) product of the metabolic break down of [[aspirin]], excreted by the kidneys.<ref>{{cite journal|doi=10.1056/NEJM197208312870903|title=Salicylate accumulation kinetics in man|journal=New England Journal of Medicine|date=1972-09-31|first=G|last=Levy|author2=Tsuchiya, T|volume=287|issue=9|pages=430–2|pmid=5044917 |url= }}</ref>
+
+It is also found in the African tree ''[[Alchornea cordifolia]]'' and in [[wine]].<ref>Comparison of Phenolic Acids and Flavan-3-ols During Wine Fermentation of Grapes with Different Harvest Times. Rong-Rong Tian, Qiu-Hong Pan, Ji-Cheng Zhan, Jing-Ming Li, Si-Bao Wan, Qing-Hua Zhang and Wei-Dong Huang, Molecules, 2009, 14, pages 827-838, {{doi|10.3390/molecules14020827}}</ref>
+
+== Production ==
+Gentisic acid is produced by carboxylation of [[hydroquinone]].<ref name=Ullmann>Phillip M. Hudnall "Hydroquinone" in Ullmann's Encyclopedia of Industrial Chemistry 2002, Wiley-VCH, Weinheim. 2005 Wiley-VCH, Weinheim. {{DOI|10.1002/14356007.a13_499}}.</ref>
+:C<sub>6</sub>H<sub>4</sub>(OH)<sub>2</sub>  +  CO<sub>2</sub>   →   C<sub>6</sub>H<sub>3</sub>(CO<sub>2</sub>H)(OH)<sub>2</sub>
+This conversion is an example of a [[Kolbe–Schmitt reaction]].
+
+Alternatively the compound can be synthesized from [[salicylic acid]] via [[Elbs persulfate oxidation]].<ref>{{cite book|last=Behrman|first=E.J.|title=Organic Reactions, Volume 35|date=1988|publisher=John Wiley & Sons Inc.|location=New York|isbn=0471832537|page=440|url=https://books.google.com/books?id=sfjdPwAACAAJ&dq=0471832537&hl=en&sa=X&ei=sD50U5jiBM6QyAS1rYGYBA&ved=0CDYQ6AEwAA}}</ref><ref>{{cite journal|author1=R. U. Schock Jr. |author2=D. L. Tabern|title=The Persulfate Oxidation of Salicylic Acid. 2,3,5-Trihydroxybenzoic Acid|journal=The Journal of Organic Chemistry|date=1951|volume=16|issue=11|pages=1772–1775|doi=10.1021/jo50005a018}}<!--|accessdate=15 May 2014--></ref>
+
+== Applications ==
+As a [[hydroquinone]], gentisic acid is readily oxidised and is used as an [[antioxidant]] [[excipient]] in some [[pharmaceutical]] preparations.
+
+In the laboratory, it is used as a sample matrix in [[matrix-assisted laser desorption/ionization]] (MALDI) [[mass spectrometry]],<ref>{{cite journal |vauthors=Strupat K, Karas M, Hillenkamp F |title=2,5-Dihidroxybenzoic acid: a new matrix for laser desorption-ionization mass spectrometry |journal=Int. J. Mass Spectrom. Ion Processes |volume=72 |issue=111 |pages=89–102 |year=1991 |doi=10.1016/0168-1176(91)85050-V |bibcode=1991IJMSI.111...89S}}</ref> and has been shown to conveniently detect peptides incorporating the boronic acid moiety by MALDI.<ref>{{cite journal|last=Crumpton|first=J.|author2=Zhang, W. |author3=Santos, W. L. |title=Facile Analysis and Sequencing of Linear and Branched Peptide Boronic Acids by MALDI Mass Spectrometry|journal=Analytical Chemistry|year=2011|volume=83|issue=9|pages=3548–3554|doi=10.1021/ac2002565|url=http://pubs.acs.org/doi/abs/10.1021/ac2002565|pmid=21449540|pmc=3090651}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Phenolic acid}}
+
+{{DEFAULTSORT:Gentisic Acid}}
+[[Category:Hydroquinones]]
+[[Category:Salicylic acids]]
+[[Category:Dihydroxybenzoic acids]]
+[[Category:Phenolic human metabolites]]
+[[Category:Human drug metabolites]]

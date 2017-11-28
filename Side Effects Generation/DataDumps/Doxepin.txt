@@ -1,0 +1,338 @@
+{{Distinguish|Dothiepin}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 459441838
+| IUPAC_name = (''E''/''Z'')-3-(dibenzo[''b'',''e'']oxepin-11(6''H'')-ylidene)-''N'',''N''-dimethylpropan-1-amine
+| image = Doxepin2DACS.svg
+| width = 175px
+| image2 = Doxepin-3RZE-2011-ball-and-stick.png
+| width2 = 175px
+
+<!--Clinical data-->
+| tradename = Sinequan, Silenor, others
+| Drugs.com = {{drugs.com|monograph|doxepin-hydrochloride}}
+| MedlinePlus = a682390
+| licence_US = Doxepin
+| pregnancy_AU = C
+| pregnancy_US = B
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = [[Oral administration|By mouth]], [[topical medication|topical]], [[intravenous administration|intravenous]], [[intramuscular injection]]<ref name = MD/>
+
+<!--Pharmacokinetic data-->
+| bioavailability = 13–45% (mean 29%)<ref name="LemkeWilliams2012">{{cite book|author1=Thomas L. Lemke|author2=David A. Williams|title=Foye's Principles of Medicinal Chemistry|url=https://books.google.com/books?id=Sd6ot9ul-bUC&pg=PA604|date=24 January 2012|publisher=Lippincott Williams & Wilkins|isbn=978-1-60913-345-0|pages=604–}}</ref><ref name="pmid12162857" />
+| protein_bound = 76%<ref name = EMC/>
+| metabolism = [[Liver|Hepatic]] ([[CYP2D6]], [[CYP2C19]])<ref name="pmid20658801" /><ref name="LemkeWilliams2012" />
+| metabolites = [[Nordoxepin]], glucuronide conjugates<ref name="pmid20658801" />
+| elimination_half-life = Doxepin: 8–24 hours (mean 17 hours)<ref name = EMC /><br />[[Nordoxepin]]: 31 hours<ref name = EMC>{{cite web|title=Sinepin Capsules 25mg - Summary of Product Characteristics (SPC)|work=electronic Medicines Compendium|publisher=Marlborough Pharmaceuticals Ltd|date=22 September 2011|accessdate=3 December 2013|url=http://www.medicines.org.uk/emc/medicine/24084/SPC/Sinepin+Capsules+25mg/}}</ref>
+| excretion = [[Urine]]: ~50%<ref name="pmid20658801" /><ref name="LemkeWilliams2012" /><br />[[Feces]]: minor<ref name="LemkeWilliams2012" />
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 1668-19-5
+| CAS_supplemental = <br />1229-29-4 ([[hydrochloride]])<br />3607-18-9 ([[cidoxepin]])
+| ATC_prefix = N06
+| ATC_suffix = AA12
+| PubChem = 3158
+| IUPHAR_ligand = 1225
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01142
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3046
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 5ASJ6HUZ7D
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07875
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 4710
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1628227
+| synonyms = NSC-108160<ref name="Elks2014" />
+
+<!--Chemical data-->
+| C=19 | H=21 | N=1 | O=1
+| molecular_weight = 279.376 g/mol
+| SMILES = CN(C)CC/C=C1C2=C(C=CC=C2)OCC3=C/1C=CC=C3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H21NO/c1-20(2)13-7-11-17-16-9-4-3-8-15(16)14-21-19-12-6-5-10-18(17)19/h3-6,8-12H,7,13-14H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ODQWQRRAPPTVAG-UHFFFAOYSA-N
+}}
+
+'''Doxepin''', sold under the brand names '''Sinequan''' and '''Silenor''' among others, is an [[antidepressant]] and [[hypnotic|sleep aid]] medication used to treat [[clinical depression|depression]] and [[insomnia|trouble sleeping]].<ref name = MD>{{cite web|title=Doxepin Hydrochloride|work=Martindale: The Complete Drug Reference|publisher=Pharmaceutical Press|date=30 January 2013|accessdate=3 December 2013|url=http://www.medicinescomplete.com/mc/martindale/current/2513-s.htm|location=London, UK}}</ref> It belongs to a class of antidepressants known as the [[tricyclic antidepressants]] (TCAs). It is believed to counteract depression by [[reuptake inhibitor|inhibiting]] the [[reuptake]] of [[serotonin]] and [[norepinephrine]] (via blocking their [[neurotransmitter transporter|transporter]]s), thereby increasing the concentrations of these [[neurotransmitter]]s in the [[synapse]] and increasing the activity of their respective [[neurotransmitter receptor|receptor]]s. The drug also has [[antiadrenergic]], [[antihistamine]], [[antiserotonergic]], and [[anticholinergic]] activities, which are thought to contribute largely to its [[side effect]]s. At very low doses, it is a pure antihistamine and is used in the treatment of [[insomnia]].<ref name="pmid20658801" />
+
+{{TOC limit|3}}
+
+==Medical uses==
+Doxepin is used to treat [[major depressive disorder|depression]], [[anxiety disorder]]s, [[pruritus|itchiness]], [[insomnia|trouble sleeping]],<ref name="pmid11465523">{{cite journal |author=Hajak G |title=Doxepin in the treatment of primary insomnia: a placebo-controlled, double-blind, polysomnographic study |journal=J Clin Psychiatry |volume=62 |issue=6 |pages=453–63 |year=2001|pmid=11465523|doi=10.4088/JCP.v62n0609 |author2=Rodenbeck A |author3=Voderholzer U |display-authors=3|last4=Riemann|first4=Dieter |last5=Cohrs |first5=Stefan |last6=Hohagen |first6=Fritz |last7=Berger |first7=Mathias |last8=Ruther|first8=Eckart}}</ref> and as a second-line treatment of [[chronic idiopathic urticaria]] (hives).<ref name = MD/><ref name=AHFS>{{cite web|title=Doxepin|url=http://www.drugs.com/monograph/doxepin-hydrochloride.html|work=The American Society of Health-System Pharmacists|accessdate=3 April 2011}}</ref> Its oral formulations are {{abbrlink|FDA|Food and Drug Administration}}-approved for the treatment of depression, anxiety, and insomnia and its topical formulations are FDA-approved the short-term management (up to 8 days) of [[atopic dermatitis]] and [[lichen simplex chronicus]].<ref name = DMC>{{cite web|title=PRUDOXIN (doxepin hydrochloride) cream [HEALTHPOINT, LTD]|work=DailyMed|publisher=HEALTHPOINT, LTD|date=August 2010|accessdate=3 December 2013|url=http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=64311378-2da2-4835-a222-5df5204c59c2}}</ref> Whereas in [[Australia]] and the [[United Kingdom]], the only licensed indication(s) is/are in the treatment of major depression and pruritus in eczema, respectively.<ref name = AMH/><ref name="BNF">{{cite book | isbn = 978-0-85711-084-8 | title = British National Formulary (BNF) | last1 = Joint Formulary Committee | year = 2013 | publisher = Pharmaceutical Press | location = London, UK | edition = 65  | pages =  }}</ref>
+
+==Contraindications==
+Known contraindications include:<ref name = TGA>{{cite web|title=Deptran Doxepin (as hydrochloride)|work=TGA eBusiness Services|publisher=Alphapharm Pty Ltd|date=6 May 2013|accessdate=3 December 2013|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2010-PI-04542-3|format=PDF}}</ref>
+
+* Hypersensitivities to doxepin, other TCAs, or any of the excipients inside the product used
+* [[Glaucoma]]
+* A predisposition to developing [[urinary retention]] such as in [[benign prostatic hyperplasia]]
+* Use of [[monoamine oxidase inhibitor]]s in last 14&nbsp;days<ref name = MSR>{{cite web|title=Silenor (doxepin) dosing, indications, interactions, adverse effects, and more|work=Medscape Reference|publisher=WebMD|accessdate=3 December 2013|url=http://reference.medscape.com/drug/silenor-doxepin-342940#showall}}</ref>
+
+===Pregnancy and lactation===
+Its use in pregnant and lactating women is advised against, although the available preclinical (based on animal studies) evidence suggests it is unlikely to cause any deleterious effects on fetal development.<ref name = EMC/> The lack of evidence from human studies, however, means it is currently impossible to rule out any risk to the fetus<ref name = EMC/> and it is known to cross the placenta.<ref name = EMC/> Doxepin is secreted in breast milk<ref name = MD/> and neonatal cases of [[respiratory depression]] in association with maternal doxepin use have been reported.<ref name="AMH">{{cite book | editor = Rossi, S | isbn = 978-0-9805790-9-3 | title = Australian Medicines Handbook | place = Adelaide | publisher = The Australian Medicines Handbook Unit Trust | year = 2013 | edition = 2013 }}</ref>
+
+==Side effects==
+{{See also|List of adverse effects of doxepin}}
+
+* Central nervous system: [[fatigue (physical)|fatigue]], dizziness, drowsiness, lightheadedness, confusion, [[nightmares]], agitation, increased anxiety, insomnia, [[seizures]] (infrequently), [[delirium]], rarely induction of [[hypomania]] and [[schizophrenia]] (stop medication immediately), [[extrapyramidal side effect]]s (rarely), abuse in patients with polytoxicomania (rarely), [[tinnitus]]
+* Anticholinergic: dry mouth, constipation, even [[ileus]] (rarely), difficulties in urinating, sweating, precipitation of [[glaucoma]]
+* Antiadrenergic: [[hypotension]], postural collapse (if patient arises too fast from lying/sitting position to standing), [[arrhythmias]] (sinus-tachycardia, bradycardia, AV-blockade)
+* Allergic/toxic: skin rash, [[photosensitivity]], liver damage of the cholestatic type (rarely), [[hepatitis]] (extremely rare), leuko- or thrombopenia (rarely), [[agranulocytosis]] (very rarely), hypoplastic anemia (rarely)
+* Others: frequently increased appetite, weight gain, rarely nausea, frequently impaired sexual function in men (impotence, ejaculation-difficulties), rarely [[hypertension]], rarely [[polyneuropathy]], in both sexes breast-enlargement and [[galactorrhea]] (rarely)
+* May increase or decrease liver function in some patients.<ref>Lippincott "nursing 2007 drug handbook" LWW press. 2007</ref>
+* A large study linked the development of [[Alzheimer's disease]] and other forms of dementia to the use of doxepin, due to its [[anticholinergic]] properties.<ref>{{cite journal |last=Gray|first=Shelly L.|last2=Anderson|first2=Melissa L.|date=January 26, 2015|title=Cumulative Use of Strong Anticholinergics and Incident Dementia: A Prospective Cohort Study|url=http://archinte.jamanetwork.com/article.aspx?articleid=2091745|journal=JAMA Intern. Med.|doi=10.1001/jamainternmed.2014.7663|access-date=January 27, 2015|pmid=25621434|pmc=4358759|volume=175|pages=401–7}}</ref>
+
+==Overdose==
+{{Main|Tricyclic antidepressant overdose}}
+
+Like other TCAs, doxepin is highly [[toxicity|toxic]] in cases of [[overdose]].<ref>{{cite journal |author1=White, N |author2=Litovitz, T |author3=Clancy, C | date = December 2008 | title = Suicidal antidepressant overdoses: a comparative analysis by antidepressant type | journal = Journal of Medical Toxicology | volume = 4 | issue = 4 | pages = 238–250 | pmid = 19031375 | pmc = 3550116 | doi = 10.1007/BF03161207 | url = http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3550116/pdf/13181_2009_Article_BF03161207.pdf}}</ref> Mild symptoms include drowsiness, stupor, blurred vision, and excessive dryness of mouth. More serious adverse effects include respiratory depression, hypotension, coma, convulsions, cardiac arrhythmia, and tachycardia. [[Urinary retention]], decreased gastrointestinal motility (paralytic ileus), [[hyperthermia]] (or hypothermia), hypertension, dilated pupils, and hyperactive reflexes are other possible symptoms of doxepin overdose.<ref name = EMC/> Management of overdose is mostly supportive and symptomatic, and can include the administration of a [[gastric lavage]] so as to reduce absorption of the doxepin.<ref name = EMC/> Supportive measures to prevent respiratory aspiration is also advisable.<ref name = EMC/> Antiarrhythmic agents may be an appropriate measure to treat cardiac arrhythmias resulting from doxepin overdose.<ref name = EMC/> Slow intravenous administration of [[physostigmine]] may reverse some of the toxic effects of overdose such as anticholinergic effects.<ref name = EMC/> [[Haemodialysis]] is not recommended due to the high degree of protein binding with doxepin.<ref name = EMC/> ECG monitoring is recommended for several days after doxepin overdose due to the potential for cardiac conduction abnormalities.<ref name = EMC/>
+
+==Interactions==
+Doxepin should not be used within 14&nbsp;days of using a [[monoamine oxidase inhibitor]] (MAOIs) such as [[phenelzine]] due to the potential for [[hypertensive crisis]] or [[serotonin syndrome]] to develop.<ref name = TGA/> Its use in those taking [[potency (pharmacology)|potent]] [[CYP2D6]] inhibitors such as [[fluoxetine]], [[paroxetine]], [[sertraline]], [[duloxetine]], [[bupropion]], and [[quinidine]] is recommended against due to the potential for its accumulation in the absence of full CYP2D6 catalytic activity.<ref name = TGA/> Hepatic enzyme inducers such as [[carbamazepine]], [[phenytoin]], and [[barbiturate]]s are advised against in patients receiving TCAs like doxepin due to the potential for problematically rapid metabolism of doxepin to occur in these individuals.<ref name = TGA/> Sympathomimetic agents may have their effects potentiated by TCAs like doxepin.<ref name = TGA/> Doxepin also may potentiate the adverse effects of anticholinergic agents such as [[benztropine]], [[atropine]] and [[hyoscine hydrobromide|hyoscine]] (scopolamine).<ref name = TGA/> [[Tolazamide]], when used in conjunction with doxepin has been associated with a case of severe hypoglycaemia in a [[type II diabetes mellitus|type II diabetic]] individual.<ref name = TGA/> [[Cimetidine]] may influence the absorption of doxepin.<ref name = TGA/> Alcohol may potentiate some of the CNS depressant effects of doxepin.<ref name = TGA/> Antihypertensive agents may have their effects mitigated by doxepin.<ref name = TGA/> Cotreatment with CNS depressants such as the [[benzodiazepines]] can cause additive CNS depression.<ref name = EMC/> Co-treatment with [[thyroid hormone]]s may also increase the potential for adverse reactions.<ref name = EMC/>
+
+==Pharmacology==
+
+===Pharmacodynamics===
+{{See also|Pharmacology of antidepressants|Tricyclic antidepressant#Binding profiles}}
+{| class="wikitable floatright" style="font-size:small;"
+|+ Doxepin<ref name="PDSP">{{cite web | title = PDSP K<sub>i</sub> Database | work = Psychoactive Drug Screening Program (PDSP) | author1 = Roth, BL | author2 = Driscol, J | publisher = University of North Carolina at Chapel Hill and the United States National Institute of Mental Health | accessdate = 14 August 2017 | url = https://kidbdev.med.unc.edu/databases/pdsp.php?knowID=0&kiKey=&receptorDD=&receptor=&speciesDD=&species=&sourcesDD=&source=&hotLigandDD=&hotLigand=&testLigandDD=&testFreeRadio=testFreeRadio&testLigand=doxepin&referenceDD=&reference=&KiGreater=&KiLess=&kiAllRadio=all&doQuery=Submit+Query}}</ref>
+|-
+! Site !! K<sub>i</sub> (nM) !! Species !! Ref
+|-
+| '''{{abbrlink|SERT|Serotonin transporter}}''' || '''68–95'''<br />'''210 ({{abbrlink|IC<sub>50</sub>|Half-maximal inhibitory concentration}})''' || '''Human''' || <ref name="pmid9537821">{{cite journal | vauthors = Tatsumi M, Groshan K, Blakely RD, Richelson E | title = Pharmacological profile of antidepressants and related compounds at human monoamine transporters | journal = Eur. J. Pharmacol. | volume = 340 | issue = 2-3 | pages = 249–58 | year = 1997 | pmid = 9537821 | doi = | url = }}</ref><ref name="pmid23357028">{{cite journal | vauthors = Krystal AD, Richelson E, Roth T | title = Review of the histamine system and the clinical effects of H1 antagonists: basis for a new model for understanding the effects of insomnia medications | journal = Sleep Med Rev | volume = 17 | issue = 4 | pages = 263–72 | year = 2013 | pmid = 23357028 | doi = 10.1016/j.smrv.2012.08.001 | url = }}</ref><br /><ref name="pmid20658801" />
+|-
+| '''{{abbrlink|NET|Norepinephrine transporter}}''' || '''30–58'''<br />'''13 ({{abbr|IC<sub>50</sub>|Half-maximal inhibitory concentration}})''' || '''Human''' || <ref name="pmid9537821" /><ref name="pmid23357028" /><br /><ref name="pmid20658801" />
+|-
+| {{abbrlink|DAT|Dopamine transporter}} || >10,000<br />4,600 ({{abbr|IC<sub>50</sub>|Half-maximal inhibitory concentration}}) || Human || <ref name="pmid9537821" /><br /><ref name="pmid20658801" />
+|-
+| [[5-HT1A receptor|5-HT<sub>1A</sub>]] || 276 || Human || <ref name="pmid7855217" />
+|-
+| '''[[5-HT2A receptor|5-HT<sub>2A</sub>]]''' || '''11–27''' || '''Human''' || <ref name="pmid23357028" /><ref name="pmid7855217" />
+|-
+| [[5-HT2B receptor|5-HT<sub>2B</sub>]] || {{abbr|ND|No data}} || {{abbr|ND|No data}} || {{abbr|ND|No data}}
+|-
+| '''[[5-HT2C receptor|5-HT<sub>2C</sub>]]''' || 200<br />'''8.8''' || Human<br />'''Rat''' || <ref name="pmid23357028" /><br /><ref name="pmid8876023">{{cite journal | vauthors = Pälvimäki EP, Roth BL, Majasuo H, Laakso A, Kuoppamäki M, Syvälahti E, Hietala J | title = Interactions of selective serotonin reuptake inhibitors with the serotonin 5-HT2c receptor | journal = Psychopharmacology | volume = 126 | issue = 3 | pages = 234–40 | year = 1996 | pmid = 8876023 | doi = | url = }}</ref>
+|-
+| [[5-HT3 receptor|5-HT<sub>3</sub>]] || {{abbr|ND|No data}} || Human || <ref name="pmid18314100">{{cite journal | vauthors = Gumilar F, Bouzat C | title = Tricyclic antidepressants inhibit homomeric Cys-loop receptors by acting at different conformational states | journal = Eur. J. Pharmacol. | volume = 584 | issue = 1 | pages = 30–9 | year = 2008 | pmid = 18314100 | doi = 10.1016/j.ejphar.2008.01.023 | url = }}</ref>
+|-
+| [[5-HT6 receptor|5-HT<sub>6</sub>]] || 136 || Rat || <ref name="pmid7680751">{{cite journal |vauthors=Monsma FJ, Shen Y, Ward RP, Hamblin MW, Sibley DR |title=Cloning and expression of a novel serotonin receptor with high affinity for tricyclic psychotropic drugs |journal=Mol. Pharmacol. |volume=43 |issue=3 |pages=320–7 |year=1993 |pmid=7680751 |doi= |url=}}</ref>
+|-
+| [[5-HT7 receptor|5-HT<sub>7</sub>]] || {{abbr|ND|No data}} || {{abbr|ND|No data}} || {{abbr|ND|No data}}
+|-
+| '''[[Alpha-1 adrenergic receptor|α<sub>1</sub>]]''' || '''24''' || '''Human''' || <ref name="pmid23357028" />
+|-
+| '''&nbsp;&nbsp;[[Alpha-1B adrenergic receptor|α<sub>1B</sub>]]''' || '''12''' || '''Human''' || <ref name="pmid23357028" />
+|-
+| [[Alpha-2A adrenergic receptor|α<sub>2A</sub>]] || 1,100–1,270 || Human || <ref name="pmid23357028" /><ref name="pmid7855217" />
+|-
+| '''[[Alpha-2B adrenergic receptor|α<sub>2B</sub>]]''' || '''28''' || '''Human''' || <ref name="pmid23357028" />
+|-
+| '''[[Alpha-2C adrenergic receptor|α<sub>2C</sub>]]''' || '''96''' || '''Human''' || <ref name="pmid23357028" />
+|-
+| [[Dopamine D2 receptor|D<sub>2</sub>]] || 360 || Human || <ref name="pmid7855217" />
+|-
+| '''[[Histamine H1 receptor|H<sub>1</sub>]]''' || '''0.09–1.23''' || '''Human''' || <ref name="pmid22033803">{{cite journal | vauthors = Appl H, Holzammer T, Dove S, Haen E, Strasser A, Seifert R | title = Interactions of recombinant human histamine H₁R, H₂R, H₃R, and H₄R receptors with 34 antidepressants and antipsychotics | journal = Naunyn Schmiedebergs Arch. Pharmacol. | volume = 385 | issue = 2 | pages = 145–70 | year = 2012 | pmid = 22033803 | doi = 10.1007/s00210-011-0704-0 | url = }}</ref><ref name="pmid7855217">{{cite journal | vauthors = Cusack B, Nelson A, Richelson E | title = Binding of antidepressants to human brain receptors: focus on newer generation compounds | journal = Psychopharmacology | volume = 114 | issue = 4 | pages = 559–65 | year = 1994 | pmid = 7855217 | doi = | url = }}</ref><ref name="pmid23357028" />
+|-
+| [[Histamine H2 receptor|H<sub>2</sub>]] || 174 || Human || <ref name="pmid22033803" />
+|-
+| [[Histamine H3 receptor|H<sub>3</sub>]] || 39,800 || Human || <ref name="pmid22033803" /><ref name="pmid23357028" />
+|-
+| [[Histamine H4 receptor|H<sub>4</sub>]] || 15,100 || Human || <ref name="pmid22033803" /><ref name="pmid11179435">{{cite journal |vauthors=Nguyen T, Shapiro DA, George SR, et al. |title=Discovery of a novel member of the histamine receptor family |journal=Mol. Pharmacol. |volume=59 |issue=3 |pages=427–33 |year=2001 |pmid=11179435 |doi= |url=}}</ref>
+|-
+| '''{{abbrlink|mACh|Muscarinic acetylcholine receptor}}''' || '''23–80''' || '''Human''' || <ref name="pmid7855217" /><ref name="pmid6086881" />
+|-
+| '''&nbsp;&nbsp;[[Muscarinic acetylcholine receptor M1|M<sub>1</sub>]]''' || '''18–38''' || '''Human''' || <ref name="pmid23357028" /><ref name="pmid8100134">{{cite journal | vauthors = Stanton T, Bolden-Watson C, Cusack B, Richelson E | title = Antagonism of the five cloned human muscarinic cholinergic receptors expressed in CHO-K1 cells by antidepressants and antihistaminics | journal = Biochem. Pharmacol. | volume = 45 | issue = 11 | pages = 2352–4 | year = 1993 | pmid = 8100134 | doi = | url = }}</ref>
+|-
+| &nbsp;&nbsp;[[Muscarinic acetylcholine receptor M2|M<sub>2</sub>]] || 160–230 || Human || <ref name="pmid23357028" /><ref name="pmid8100134" />
+|-
+| '''&nbsp;&nbsp;[[Muscarinic acetylcholine receptor M3|M<sub>3</sub>]]''' || '''25–52''' || '''Human''' || <ref name="pmid23357028" /><ref name="pmid8100134" />
+|-
+| '''&nbsp;&nbsp;[[Muscarinic acetylcholine receptor M4|M<sub>4</sub>]]''' || '''20–82''' || '''Human''' || <ref name="pmid23357028" /><ref name="pmid8100134" />
+|-
+| '''&nbsp;&nbsp;[[Muscarinic acetylcholine receptor M5|M<sub>5</sub>]]''' || '''5.6–75''' || '''Human''' || <ref name="pmid23357028" /><ref name="pmid8100134" />
+|-
+| {{abbrlink|hERG|Human Ether-à-go-go-Related Gene}} || 6,500 ({{abbrlink|IC<sub>50</sub>|Half-maximal inhibitory concentration}}) || Human || <ref name="pmid17560554">{{cite journal | vauthors = Duncan RS, McPate MJ, Ridley JM, Gao Z, James AF, Leishman DJ, Leaney JL, Witchel HJ, Hancox JC | title = Inhibition of the HERG potassium channel by the tricyclic antidepressant doxepin | journal = Biochem. Pharmacol. | volume = 74 | issue = 3 | pages = 425–37 | year = 2007 | pmid = 17560554 | pmc = 1920586 | doi = 10.1016/j.bcp.2007.04.024 | url = }}</ref>
+|- class="sortbottom"
+| colspan="4" style="width: 1px;" | Values are K<sub>i</sub>, unless otherwise specified. The smaller the value, the more strongly the drug binds to the site.
+|}
+
+Doxepin is a [[reuptake inhibitor]] of [[serotonin]] and [[norepinephrine]], or a [[serotonin–norepinephrine reuptake inhibitor]] (SNRI), and has additional [[antiadrenergic]], [[antihistamine]], [[antiserotonergic]], and [[anticholinergic]] activities.<ref name="pmid23357028" /><ref name="PDSP" /> It is specifically an [[receptor antagonist|antagonist]] of the [[histamine]] [[H1 receptor|H<sub>1</sub>]] and [[H2 receptor|H<sub>2</sub> receptor]]s, the [[serotonin]] [[5-HT2A receptor|5-HT<sub>2A</sub>]] and [[5-HT2C receptor|5-HT<sub>2C</sub> receptor]]s, the [[alpha-1 adrenergic receptor|α<sub>1</sub>-adrenergic receptor]], and the [[muscarinic acetylcholine receptor]]s ([[muscarinic acetylcholine receptor M1|M<sub>1</sub>]]–[[muscarinic acetylcholine receptor M5|M<sub>5</sub>]]).<ref name="PDSP" /> Similarly to other TCAs, doxepin is also a potent [[sodium channel blocker|blocker]] of [[voltage-gated sodium channel]]s, and this action is thought to be involved in both its lethality in overdose<ref name="pmid16390222">{{cite journal | vauthors = Thanacoody HK, Thomas SH | title = Tricyclic antidepressant poisoning : cardiovascular toxicity | journal = Toxicol Rev | volume = 24 | issue = 3 | pages = 205–14 | year = 2005 | pmid = 16390222 | doi = | url = }}</ref> and its effectiveness as an [[analgesic]] (including in the treatment of [[neuropathic pain]],<ref name="BertelsenBackonja2007">{{cite journal|last1=Bertelsen|first1=Anne K.|last2=Backonja|first2=Misha-Miroslav|title=Drugs Targeting Voltage-Gated Sodium and Calcium Channels|year=2007|pages=651–651|doi=10.1007/978-3-540-29805-2_1205}}</ref> as a [[migraine]] [[prophylaxis|prophylactic]],<ref name="pmid15893128">{{cite journal | vauthors = Cohen GL | title = Migraine prophylactic drugs work via ion channels | journal = Med. Hypotheses | volume = 65 | issue = 1 | pages = 114–22 | year = 2005 | pmid = 15893128 | doi = 10.1016/j.mehy.2005.01.027 | url = }}</ref> and as a [[local anesthetic]]).<ref name="pmid17685877" /> The potencies of doxepin in terms of its receptor antagonism specifically are as follows:<ref name="pmid17685877" /><ref name="Lankford2011">{{cite journal|last1=Lankford|first1=Alan|title=Low-dose doxepin (3 and 6 mg) for the treatment of insomnia|journal=Future Neurology|volume=6|issue=2|year=2011|pages=143–154|issn=1479-6708|doi=10.2217/fnl.10.83}}</ref>
+
+* Extremely strong: H<sub>1</sub> receptor
+* Strong: 5-HT<sub>2</sub>, α<sub>1</sub>-adrenergic, and muscarinic acetylcholine receptors
+* Moderate: [[5-HT1 receptor|5-HT<sub>1</sub> receptor]]s
+* Weak: [[alpha-2 adrenergic receptor|α<sub>2</sub>-adrenergic]] and [[D2 receptor|D<sub>2</sub> receptor]]s
+
+Based on its {{abbrlink|IC<sub>50</sub>|half-maximal inhibitory concentration}} values for monoamine reuptake inhibition, doxepin is relatively selective for inhibition of norepinephrine reuptake with much weaker effects on serotonin reuptake and negligible influence on dopamine reuptake.<ref name="pmid9537821" /><ref name="pmid23357028" />
+
+The major [[metabolite]] of doxepin, [[nordoxepin]] (desmethyldoxepin), is pharmacologically active similarly,<ref name="pmid20658801" /> but relative to doxepin, is much more selective as a [[norepinephrine reuptake inhibitor]].<ref name="CutlerSramek1994">{{cite book|author1=Neal R. Cutler|author2=John J. Sramek|author3=Prem K. Narang|title=Pharmacodynamics and Drug Development: Perspectives in Clinical Pharmacology|url=https://books.google.com/books?id=ncRXa8Dq88QC&pg=PA160|date=20 September 1994|publisher=John Wiley & Sons|isbn=978-0-471-95052-3|pages=160–}}</ref><ref name="AnzenbacherZanger2012">{{cite book|author1=Pavel Anzenbacher|author2=Ulrich M. Zanger|title=Metabolism of Drugs and Other Xenobiotics|url=https://books.google.com/books?id=f-XHh17NfwgC&pg=PA302|date=23 February 2012|publisher=John Wiley & Sons|isbn=978-3-527-64632-6|pages=302–}}</ref> In general, the demethylated variants of [[tertiary amine]] TCAs like doxepin are much more potent inhibitors of norepinephrine reuptake, less potent inhibitors of serotonin reuptake, and less potent in their antiadrenergic, antihistamine, and anticholinergic activities.<ref name="CutlerSramek1994" /><ref name="AnzenbacherZanger2012" /><ref name="SchatzbergNemeroff2009">{{cite book|author1=Alan F. Schatzberg|author2=Charles B. Nemeroff|title=The American Psychiatric Publishing Textbook of Psychopharmacology|url=https://books.google.com/books?id=Xx7iNGdV25IC&pg=PA264|year=2009|publisher=American Psychiatric Pub|isbn=978-1-58562-309-9|pages=264–}}</ref>
+
+Antidepressant doses of doxepin are defined as 25 to 300&nbsp;mg/day, although are typically above 75&nbsp;mg/day.<ref name="pmid25364337">{{cite journal | vauthors = Rojas-Fernandez CH, Chen Y | title = Use of ultra-low-dose (≤6 mg) doxepin for treatment of insomnia in older people | journal = Can Pharm J (Ott) | volume = 147 | issue = 5 | pages = 281–9 | year = 2014 | pmid = 25364337 | pmc = 4213269 | doi = 10.1177/1715163514543856 | url = }}</ref><ref name="pmid25047681">{{cite journal | vauthors = Yeung WF, Chung KF, Yung KP, Ng TH | title = Doxepin for insomnia: a systematic review of randomized placebo-controlled trials | journal = Sleep Med Rev | volume = 19 | issue = | pages = 75–83 | year = 2015 | pmid = 25047681 | doi = 10.1016/j.smrv.2014.06.001 | url = }}</ref> Antihistamine doses, including for dermatological uses and as a sedative/hypnotic for insomnia, are considered to be 3 to 25&nbsp;mg,<ref name="pmid17471183">{{cite journal | vauthors = Gillman PK | title = Tricyclic antidepressant pharmacology and therapeutic drug interactions updated | journal = Br. J. Pharmacol. | volume = 151 | issue = 6 | pages = 737–48 | year = 2007 | pmid = 17471183 | pmc = 2014120 | doi = 10.1038/sj.bjp.0707253 | url = }}</ref><ref name="pmid25047681" /> although higher doses between 25 and 50&nbsp;mg and in some cases even up to 150&nbsp;mg have been used to treat insomnia.<ref name="pmid18035234">{{cite journal | vauthors = Tariq SH, Pulisetty S | title = Pharmacotherapy for insomnia | journal = Clin. Geriatr. Med. | volume = 24 | issue = 1 | pages = 93–105, vii | year = 2008 | pmid = 18035234 | doi = 10.1016/j.cger.2007.08.009 | url = }}</ref> At low doses, below 25&nbsp;mg, doxepin is a pure antihistamine.<ref name="pmid25364337" /> At antidepressant doses of above 25&nbsp;mg, doxepin has significant antiadrenergic, antiserotonergic, and anticholinergic effects, and these activities contribute to its side effects.<ref name="pmid17471183" /><ref name="pmid25364337" /><ref name="pmid25047681" />
+
+Doxepin is a [[mixture]] of [[Stereoisomerism#Cis–trans and E-Z isomerism|(''E'') and (''Z'')]] [[stereoisomer]]s with an approximate ratio of 85:15.<ref name="LemkeWilliams2012" /> When doxepin was developed, no effort was made to separate or balance the mixture following its [[chemical synthesis|synthesis]], resulting in the asymmetric ratio.<ref name="LemkeWilliams2012" /> (''Z'')-Doxepin is more active as an inhibitor of serotonin and norepinephrine reuptake than (''E'')-doxepin.<ref name="LemkeWilliams2012" /> The selectivity of doxepin for inhibition of norepinephrine reuptake over that of serotonin is likely due to the 85% presence of (''E'')-doxepin in the mixture.<ref name="LemkeWilliams2012" /> Most other tertiary amine TCAs like [[amitriptyline]] and [[imipramine]] do not exhibit ''E''-''Z''  isomerism or such mixture asymmetry and are comparatively more balanced inhibitors of serotonin and norepinephrine reuptake.<ref name="LemkeWilliams2012" /><ref name="pmid9537821" />
+
+====As a hypnotic====
+{| class="wikitable sortable floatright"
+|+ <br />TCAs and TeCAs at H<sub>1</sub><br />and mACh receptors<ref name="BruntonChabner2011">{{cite book|author1=Laurence Brunton|author2=Bruce A. Chabner|author3=Bjorn Knollman|title=Goodman and Gilman's The Pharmacological Basis of Therapeutics, Twelfth Edition|url=https://books.google.com/books?id=e_yAOpyyaowC|date=14 January 2011|publisher=McGraw Hill Professional|isbn=978-0-07-176939-6|page=410}}</ref><ref name="pmid6086881">{{cite journal | vauthors = Richelson E, Nelson A | title = Antagonism by antidepressants of neurotransmitter receptors of normal human brain in vitro | journal = J. Pharmacol. Exp. Ther. | volume = 230 | issue = 1 | pages = 94–102 | year = 1984 | pmid = 6086881 | doi = | url = }}</ref>
+|-
+! Drug !! [[H1 receptor|H<sub>1</sub>]] !! {{abbrlink|mACh|Muscarinic acetylcholine receptor}}
+|-
+| [[Amitriptyline]] || 1.1 || 18
+|-
+| [[Amoxapine]] || 25 || 1,000
+|-
+| [[Clomipramine]] || 31 || 37
+|-
+| [[Desipramine]] || 110 || 196
+|-
+| [[Dosulepin]]<ref name="pmid17471183"/> || 4.0 || 38
+|-
+| '''Doxepin''' || '''0.24''' || '''83'''
+|-
+| [[Imipramine]] || 11 || 91
+|-
+| [[Lofepramine]]<ref name="pmid7855217" /> || 360 || 67
+|-
+| [[Maprotiline]] || 2.0 || 560
+|-
+| [[Mianserin]] || 0.40 || 820
+|-
+| [[Mirtazapine]] || 0.14 || 670
+|-
+| [[Nortriptyline]] || 10 || 149
+|-
+| [[Protriptyline]] || 25 || 25
+|-
+| [[Trimipramine]] || 0.27 || 58
+|- class="sortbottom"
+| colspan="3" | Values are K<sub>i</sub> (nM).
+|}
+
+Doxepin is a highly potent antihistamine, with this being its strongest activity.<ref name="Lankford2011" /><ref name="pmid25364337" /><ref name="pmid19179941" /><ref name="pmid20658801">{{cite journal | vauthors = Weber J, Siddiqui MA, Wagstaff AJ, McCormack PL | title = Low-dose doxepin: in the treatment of insomnia | journal = CNS Drugs | volume = 24 | issue = 8 | pages = 713–20 | year = 2010 | pmid = 20658801 | doi = 10.2165/11200810-000000000-00000 | url = }}</ref> In fact, doxepin has been said to be the most or one of the most potent H<sub>1</sub> receptor antagonists available, with one study finding an ''[[in vitro]]'' K<sub>i</sub> of 0.17&nbsp;nM.<ref name="pmid7855217" /> It is the most potent and selective H<sub>1</sub> receptor antagonist of the TCAs (although the [[tetracyclic antidepressant|''tetracyclic'' antidepressant]] (TeCA) [[mirtazapine]] is slightly more potent),<ref name="pmid17471183"/><ref name="pmid39202">{{cite journal | vauthors = Richelson E | title = Tricyclic antidepressants and histamine H1 receptors | journal = Mayo Clin. Proc. | volume = 54 | issue = 10 | pages = 669–74 | year = 1979 | pmid = 39202 | doi = | url = }}</ref><ref name="SchatzbergNemeroff2017">{{cite book|author1=Alan F. Schatzberg|author2=Charles B. Nemeroff|title=The American Psychiatric Association Publishing Textbook of Psychopharmacology|url=https://books.google.com/books?id=v9wnDwAAQBAJ&pg=PA322|date=10 May 2017|publisher=American Psychiatric Pub|isbn=978-1-61537-122-8|pages=322–}}</ref> and other sedating antihistamines, for instance the [[over-the-counter]] [[diphenhydramine]] (K<sub>i</sub> = 16&nbsp;nM) and [[doxylamine]] (K<sub>i</sub> = 42&nbsp;nM), show far lower affinities for this receptor in comparison.<ref name="pmid20658801" /> The [[affinity (pharmacology)|affinity]] of doxepin for the H<sub>1</sub> receptor is far greater than its affinity for other sites,<ref name="pmid20658801" /> and 10- to 100-fold higher doses are needed for antidepressant effects.<ref name="pmid19238121">{{cite journal | vauthors = Stahl SM | title = Multifunctional drugs: a novel concept for psychopharmacology | journal = CNS Spectr | volume = 14 | issue = 2 | pages = 71–3 | year = 2009 | pmid = 19238121 | doi = | url = }}</ref><ref name="pmid19179941">{{cite journal | vauthors = Stahl SM | title = Selective histamine H1 antagonism: novel hypnotic and pharmacologic actions challenge classical notions of antihistamines | journal = CNS Spectr | volume = 13 | issue = 12 | pages = 1027–38 | year = 2008 | pmid = 19179941 | doi = | url = }}</ref> In accordance, although it is often described as a "dirty drug" due to its highly promiscuous binding profile,<ref name="pmid19179941" /> doxepin acts as a highly selective antagonist of the H<sub>1</sub> receptor at very low doses (less than 10&nbsp;mg; typically 3 to 6&nbsp;mg).<ref name="pmid25364337" /><ref name="pmid20658801" /><ref name="pmid25047681" /> At these doses, it notably has no clinically relevant anticholinergic effects such as [[dry mouth]] or [[cognitive deficit|cognitive]]/[[memory impairment]], unlike most other sedating antihistamines, and similarly has no effect on other receptors such as adrenergic and serotonin receptors.<ref name="pmid25364337" /><ref name="pmid20658801" /><ref name="pmid25047681" />
+
+The H<sub>1</sub> receptor antagonism of doxepin is responsible for its hypnotic effects and its effectiveness in the treatment of insomnia at low doses.<ref name="pmid20658801" /><ref name="pmid19179941" /> The incidence of side effects with doxepin and its safety at these doses was similar to that of [[placebo]] in [[clinical trial]]s; the most frequent side effects were [[headache]] and [[somnolence]]/[[sedation]], both with an incidence of less than 5%.<ref name="pmid25364337" /><ref name="pmid20658801" /> Other side effects sometimes associated with antihistamines, including daytime sedation, [[polyphagia|increased appetite]], and [[weight gain]], all were not observed.<ref name="pmid19179941" /> Clinical evidence of H<sub>1</sub> receptor antagonists and TCAs for the treatment insomnia shows mixed effectiveness and is limited in its quality due to weaknesses like small [[sample size]]s and poor [[external validity|generalizability]].<ref name="pmid25047681" /><ref name="pmid23229983">{{cite journal | vauthors = Vande Griend JP, Anderson SL | title = Histamine-1 receptor antagonism for treatment of insomnia | journal = J Am Pharm Assoc (2003) | volume = 52 | issue = 6 | pages = e210–9 | year = 2012 | pmid = 23229983 | doi = 10.1331/JAPhA.2012.12051 | url = }}</ref> However, doxepin is a unique and notable exception; it has been well-studied in the treatment of insomnia and shows consistent benefits with excellent [[tolerability]] and [[drug safety|safety]].<ref name="pmid25047681" /><ref name="pmid23229983" /> Aside from diphenhydramine and doxylamine, which have historical approval as hypnotics, doxepin is the only H<sub>1</sub> receptor antagonist that is specifically approved for the treatment of insomnia in the United States.<ref name="pmid23229983" /><ref name="FDA2017">{{cite web | title = Sleep Disorder (Sedative-Hypnotic) Drug Information - U.S. FDA | url = https://www.fda.gov/drugs/drugsafety/postmarketdrugsafetyinformationforpatientsandproviders/ucm101557.htm | date = 13 June 2017 | accessdate = 9 August 2017}}</ref>
+
+The [[effect size]]s of very-low-dose doxepin in the treatment of insomnia range from small to medium.<ref name="pmid25047681" /> These include subjective and objective measures of sleep maintenance, sleep duration, and sleep efficiency.<ref name="pmid25047681" /> Conversely, very-low-dose doxepin shows relatively weak effects on sleep initiation and does not significantly separate from placebo on this measure.<ref name="pmid25047681" /> This is in contrast to [[benzodiazepine]]s and [[nonbenzodiazepine]] ([[Z-drug]]) hypnotics, which are additionally effective in improving sleep onset latency.<ref name="pmid25047681" /> However, it is also in contrast to higher doses of doxepin (50 to 300&nbsp;mg/day), which ''have'' been found to significantly reduce latency to sleep onset.<ref name="pmid25047681" /> A positive [[dose–response relationship]] on sleep measures was observed for doses of doxepin between 1 and 6&nbsp;mg in clinical studies, whereas the incidence of adverse effects remained constant across this dose range in both young and older adults.<ref name="pmid25047681" /> However, the incidence of adverse effects appeared to increase with longer treatment duration.<ref name="pmid25047681" /> A dose of doxepin as low as 1&nbsp;mg/day was found to significantly improve most of the assessed sleep measures, but unlike the 3 and 6&nbsp;mg/day doses, was not able to improve wake time during sleep.<ref name="pmid25047681" /> This, along with greater effect sizes with the higher doses, was likely the basis for the approval of the 3 and 6&nbsp;mg doses of doxepin for insomnia and not the 1&nbsp;mg dose.<ref name="pmid25047681" />
+
+At very low doses, doxepin has not shown [[drug discontinuation|discontinuation]] or [[drug withdrawal|withdrawal]] effects nor [[rebound insomnia]].<ref name="pmid20658801" /> Sustained effectiveness without apparent tolerance was demonstrated in clinical studies of up to 12&nbsp;weeks duration.<ref name="pmid23229983" /> This appears to be in contrast to over-the-counter antihistamines like diphenhydramine and doxylamine and all other first-generation antihistamines, which are associated with rapid development of [[drug tolerance|tolerance]] and [[drug dependence|dependence]] (by day 3 or 4 of continuous dosing) and loss of hypnotic effectiveness.<ref name="pmid23229983" /> It is for this reason that, unlike doxepin, they are not recommended for the chronic management of insomnia and are advised for only short-term treatment (i.e., 1&nbsp;week).<ref name="pmid23229983" /> It is not entirely clear why doxepin and first-generation antihistamines are different in this regard, but it has been suggested that it may have to do with the lack of [[binding selectivity|selectivity]] for the H<sub>1</sub> receptor of the latter or may have to do with the use of optimal doses.<ref name="pmid19179941" /> Unlike very-low-dose doxepin, most first-generation antihistamines also have marked anticholinergic activity as well as associated side effects such as dry mouth, [[constipation]], [[urinary retention]], and [[confusion]].<ref name="pmid23229983" /> This is particularly true in older people, and antihistamines with concomitant anticholinergic effects are not recommended in adults over the age of 65.<ref name="pmid23229983" /> Anticholinergic activity notably may interfere with the sleep-promoting effects of H<sub>1</sub> receptor blockade.<ref name="pmid23357028" />
+
+Antagonism of the H<sub>1</sub>, 5-HT<sub>2A</sub>, 5-HT<sub>2C</sub>, and α<sub>1</sub>-adrenergic receptors is thought to have sleep-promoting effects and to be responsible for the sedative effects of TCAs including those of doxepin.<ref name="KatwalaKumar2013">{{cite journal|last1=Katwala|first1=Jigar|last2=Kumar|first2=Ananda K|last3=Sejpal|first3=Jaykumar J|last4=Terrence|first4=Marcelle|last5=Mishra|first5=Manish|title=Therapeutic rationale for low dose doxepin in insomnia patients|journal=Asian Pacific Journal of Tropical Disease|volume=3|issue=4|year=2013|pages=331–336|issn=2222-1808|doi=10.1016/S2222-1808(13)60080-8|pmc=4027305|quote=In general, sedating properties of anti-depressant agents are related to antagonism of serotonin 5HT2, histamines, and α-1 adrenergic receptors[14]–[16].}}</ref><ref name="pmid19473234">{{cite journal | vauthors = Landolt HP, Wehrle R | title = Antagonism of serotonergic 5-HT2A/2C receptors: mutual improvement of sleep, cognition and mood? | journal = Eur. J. Neurosci. | volume = 29 | issue = 9 | pages = 1795–809 | year = 2009 | pmid = 19473234 | doi = 10.1111/j.1460-9568.2009.06718.x | url = }}</ref><ref name="pmid22290201">{{cite journal | vauthors = Broese M, Riemann D, Hein L, Nissen C | title = α-Adrenergic receptor function, arousal and sleep: mechanisms and therapeutic implications | journal = Pharmacopsychiatry | volume = 45 | issue = 6 | pages = 209–16 | year = 2012 | pmid = 22290201 | doi = 10.1055/s-0031-1299728 | url = }}</ref> Although doxepin is selective for the H<sub>1</sub> receptor at doses lower than 25&nbsp;mg, blockade of serotonin and adrenergic receptors may also be involved in the hypnotic effects of doxepin at higher doses.<ref name="KatwalaKumar2013" /> However, in contrast to very low doses of doxepin, rebound insomnia and daytime sedation are significantly more frequent than placebo with moderate doses (25 to 50&nbsp;mg/day) of the drug.<ref name="pmid25047681" /> In addition, one study found that although such doses of doxepin improved sleep measures initially, most of the benefits were lost with chronic treatment (by 4&nbsp;weeks).<ref name="pmid25047681" /> Due to limited data however, more research on potential tolerance and withdrawal effects of moderate doses of doxepin is needed.<ref name="pmid25047681" /> At these doses of doxepin, dry mouth, an anticholinergic effect, was common (71%), and other side effects such as headache (25%), increased appetite (21%), and [[dizziness]] (21%) were also frequently observed, although these adverse effects were notably not significantly more frequent than with placebo in the study in question.<ref name="pmid25047681" /> In any case, taken together, higher doses of doxepin than very low doses are associated with an increased rate of side effects as well as apparent loss of hypnotic effectiveness with chronic treatment.<ref name="pmid19179941" />
+
+Doxepin at a dose of 25&nbsp;mg/day for 3&nbsp;weeks has been found to decrease [[cortisol]] levels by 16% in adults with chronic insomnia and to increase [[melatonin]] production by 26% in healthy volunteers.<ref name="pmid20658801" /> In individuals with neuroendocrine dysregulation in the form of nocturnal melatonin deficiency presumably due to chronic insomnia, very-low-dose doxepin was found to restore melatonin levels to near-normal values after 3&nbsp;weeks of treatment.<ref name="pmid17685877" /> These findings suggest that normalization of the [[hypothalamic–pituitary–adrenal axis]] and the [[circadian sleep–wake cycle]] may be involved in the beneficial effects of doxepin on sleep and insomnia.<ref name="pmid20658801" /><ref name="pmid17685877" />
+
+====CYP2D6 inhibitor====
+Doxepin has been identified as an [[enzyme inhibitor|inhibitor]] of [[CYP2D6]] ''[[in vivo]]'' in a study of human patients being treated with 75 to 250&nbsp;mg/day for depression.<ref name="pmid15520506">{{cite journal | vauthors = Szewczuk-Bogusławska M, Kiejna A, Beszłej JA, Orzechowska-Juzwenko K, Milejski P | title = Doxepin inhibits CYP2D6 activity in vivo | journal = Pol J Pharmacol | volume = 56 | issue = 4 | pages = 491–4 | year = 2004 | pmid = 15520506 | doi = | url = }}</ref> While it significantly altered metabolic ratios for [[sparteine]] and its [[metabolite]]s, doxepin did not convert any of the patients to a different metabolizer phenotype (e.g., extensive to intermediate or poor).<ref name="pmid15520506" /> Nonetheless, inhibition of CYP2D6 by doxepin could be of clinical importance.<ref name="pmid15520506" />
+
+===Pharmacokinetics===
+{| class="wikitable floatright"
+|-
+|+ Pharmacokinetics of doxepin (25&nbsp;mg)<ref name = EMC/><ref name = TGA/>
+|-
+! Parameters !! Doxepin !! [[Nordoxepin]]
+|-
+| {{abbrlink|T<sub>max</sub>|Time to peak concentrations}} (hours) || Mean: 2.9<br />Range: 2–4 || Mean: {{abbr|ND|No data}}<br />Range: 2–10
+|-
+| {{abbrlink|C<sub>max</sub>|Peak concentrations}} (ng/mL) || Mean: {{abbr|ND|No data}}<br />Range: 8.8–45.8 || Mean: 9.7<br />Range: 4.8–14.5
+|-
+| {{abbrlink|V<sub>D</sub>|Volume of distribution}} (L/kg) || 20 || {{abbr|ND|No data}}
+|-
+| {{abbrlink|Protein binding|Plasma protein binding}} || 76% || {{abbr|ND|No data}}
+|-
+| {{abbrlink|t<sub>1/2</sub>|Terminal half-life}} (hours) || Mean: 17<br />Range: 8–24 || Mean: 31<br />Range: {{abbr|ND|No data}}
+|-
+| [[Metabolism|Metabolic]]<br />[[enzyme]]s || colspan="2" | Major: [[CYP2D6]], [[CYP2C19]]<br />Minor: [[CYP1A2]], [[CYP2C9]], [[CYP3A4]]
+|-
+| [[Metabolic pathway|Metabolic<br />pathway]]s || colspan="2" style="width: 1px;" | N-[[Demethylation]], N-[[oxidation]], [[hydroxylation]], [[glucuronidation]]
+|}
+
+====Absorption====
+Doxepin is well-[[absorption (pharmacokinetics)|absorbed]] from the [[gastrointestinal tract]] but between 55 and 87% undergoes [[first-pass metabolism]] in the [[liver]],<ref name="pmid20658801" /> resulting in a mean [[oral administration|oral]] [[bioavailability]] of approximately 29%.<ref name="pmid12162857">{{cite journal | vauthors = Yan JH, Hubbard JW, McKay G, Korchinski ED, Midha KK | title = Absolute bioavailability and stereoselective pharmacokinetics of doxepin | journal = Xenobiotica | volume = 32 | issue = 7 | pages = 615–23 | year = 2002 | pmid = 12162857 | doi = 10.1080/00498250210131879 | url = }}</ref> Following a single very low dose of 6&nbsp;mg, peak plasma levels of doxepin are 0.854&nbsp;ng/mL (3.06&nbsp;nmol/L) at 3&nbsp;hours without food and 0.951&nbsp;ng/mL (3.40&nbsp;nmol/L) at 6&nbsp;hours with food.<ref name="pmid20658801" /> Plasma concentrations of doxepin with antidepressant doses are far greater, ranging between 50 to 250&nbsp;ng/mL (180 to 900&nbsp;nmol/L).<ref name="pmid11476128">{{cite journal | vauthors = Leucht S, Steimer W, Kreuz S, Abraham D, Orsulak PJ, Kissling W | title = Doxepin plasma concentrations: is there really a therapeutic range? | journal = J Clin Psychopharmacol | volume = 21 | issue = 4 | pages = 432–9 | year = 2001 | pmid = 11476128 | doi = | url = }}</ref> [[Area-under-curve (pharmacokinetics)|Area-under-curve]] levels of the drug are increased significantly when it is taken with food.<ref name="pmid20658801" />
+
+====Distribution====
+Doxepin is widely [[distribution (pharmacology)|distributed]] throughout the body and is approximately 80% [[plasma protein binding|plasma protein-bound]], specifically to [[human serum albumin|albumin]] and [[orosomucoid|α<sub>1</sub>-acid glycoprotein]].<ref name="pmid20658801" /><ref name="pmid7113722">{{cite journal | vauthors = Virtanen R, Iisalo E, Irjala K | title = Protein binding of doxepin and desmethyldoxepin | journal = Acta Pharmacol Toxicol (Copenh) | volume = 51 | issue = 2 | pages = 159–64 | year = 1982 | pmid = 7113722 | doi = | url = }}</ref>
+
+====Metabolism====
+Doxepin is extensively [[metabolism|metabolized]] by the [[liver]] via [[oxidation]] and ''N''-[[demethylation]].<ref name="pmid20658801" /> Based on ''[[in vitro]]'' research, the major [[enzyme]]s involved in the metabolism of doxepin are the [[cytochrome P450]] enzymes [[CYP2D6]] and [[CYP2C19]], with [[CYP1A2]], [[CYP2C9]], and [[CYP3A4]] also involved to a lesser extent.<ref name="pmid20658801" /><ref name="pmid12360109">{{cite journal | vauthors = Kirchheiner J, Meineke I, Müller G, Roots I, Brockmöller J | title = Contributions of CYP2D6, CYP2C9 and CYP2C19 to the biotransformation of E- and Z-doxepin in healthy volunteers | journal = Pharmacogenetics | volume = 12 | issue = 7 | pages = 571–80 | year = 2002 | pmid = 12360109 | doi = | url = }}</ref> The major active metabolite of doxepin, [[nordoxepin]], is formed mainly by CYP2C19 (>50% contribution), while CYP1A2 and CYP2C9 are involved to a lesser extent, and CYP2D6 and CYP3A4 are not involved.<ref name="pmid12180536">{{cite journal | vauthors = Härtter S, Tybring G, Friedberg T, Weigmann H, Hiemke C | title = The N-demethylation of the doxepin isomers is mainly catalyzed by the polymorphic CYP2C19 | journal = Pharm. Res. | volume = 19 | issue = 7 | pages = 1034–7 | year = 2002 | pmid = 12180536 | doi = | url = }}</ref> Both doxepin and nordoxepin are [[hydroxylation|hydroxylated]] mainly by CYP2D6,<ref name="pmid16007002">{{cite journal | vauthors = Kirchheiner J, Henckel HB, Franke L, Meineke I, Tzvetkov M, Uebelhack R, Roots I, Brockmöller J | title = Impact of the CYP2D6 ultra-rapid metabolizer genotype on doxepin pharmacokinetics and serotonin in platelets | journal = Pharmacogenet. Genomics | volume = 15 | issue = 8 | pages = 579–87 | year = 2005 | pmid = 16007002 | doi = | url = }}</ref> and both doxepin and nordoxepin are also [[biotransformation|transformed]] into [[glucuronide]] [[conjugate (biochemistry)|conjugate]]s.<ref name="pmid17685877" /><ref name="pmid20658801" /> The [[elimination half-life]] of doxepin is about 15–18&nbsp;hours, whereas that of nordoxepin is around 28–31&nbsp;hours.<ref name="pmid20658801" /><ref name="pmid7293791">{{cite journal | vauthors = Virtanen R, Scheinin M, Iisalo E | title = Single dose pharmacokinetics of doxepin in healthy volunteers | journal = Acta Pharmacol Toxicol (Copenh) | volume = 47 | issue = 5 | pages = 371–6 | year = 1980 | pmid = 7293791 | doi = | url = }}</ref> Up to 10% of [[Caucasian race|Caucasian individual]]s show substantially reduced metabolism of doxepin that can result in up to 8-fold elevated plasma concentrations of the drug compared to normal.<ref name="Lankford2011" /><ref name="pmid17685877" />
+
+A study assessed the metabolism of a single 75&nbsp;mg oral dose of doxepin in healthy volunteers with [[genetic polymorphism]]s in CYP2D6, CYP2C9, and CYP2C19 enzymes.<ref name="pmid12360109" /> In CYP2D6 [[extensive metabolizer|extensive]], [[intermediate metabolizer|intermediate]], and [[poor metabolizer]]s, the mean [[clearance (pharmacology)|clearance]] rates of (''E'')-doxepin were 406, 247, and 127&nbsp;L/hour, respectively (~3-fold difference between extensive and poor).<ref name="pmid12360109" /> In addition, the bioavailability of (''E'')-doxepin was about 2-fold lower in extensive relative to poor CYP2D6 metabolizers, indicating a significant role of CYP2D6 in the [[first-pass metabolism]] of (''E'')-doxepin.<ref name="pmid12360109" /> The clearance of (''E'')-doxepin in CYP2C9 [[slow metabolizer]]s was also significantly reduced at 238&nbsp;L/hour.<ref name="pmid12360109" /> CYP2C19 was involved in the metabolism of (''Z'')-doxepin, with clearance rates of 191&nbsp;L/hour in CYP2C19 extensive metabolizers and 73&nbsp;L/hour in poor metabolizers (~2.5-fold difference).<ref name="pmid12360109" /> [[Area-under-the-curve (pharmacokinetics)|Area-under-the-curve]] (0–48&nbsp;hour) levels of nordoxepin were dependent on the [[genotype]] of CYP2D6 with median values of 1.28, 1.35, and 5.28&nbsp;nM•L/hour in CYP2D6 extensive, intermediate, and poor metabolizers, respectively (~4-fold difference between extensive and poor).<ref name="pmid12360109" /> Taken together, doxepin metabolism appears to be highly [[stereoselectivity|stereoselective]], and CYP2D6 genotype has a major influence on the pharmacokinetics of (''E'')-doxepin.<ref name="pmid12360109" /> Moreover, CYP2D6 poor metabolizers, as well as patients taking potent CYP2D6 inhibitors (which can potentially convert a CYP2D6 extensive metabolizer into a poor metabolizer), may be at an increased risk for adverse effects of doxepin due to their slower clearance of the drug.<ref name="pmid12360109" />
+
+Another study assessed doxepin and nordoxepin metabolism in CYP2D6 [[ultra-rapid metabolizer|ultra-rapid]], extensive, and poor metabolizers following a single 75&nbsp;mg oral dose.<ref name="pmid16007002" /> They found up to more than 10-fold variation in total exposure to doxepin and nordoxepin between the different groups.<ref name="pmid16007002" /> The researchers suggested that in order to achieve equivalent exposure, based on an average dose of 100%, the dosage of doxepin might be adjusted to 250% in ultra-rapid metabolizers, 150% in extensive metabolizers, 50% in intermediate metabolizers, and 30% in poor metabolizers.<ref name="pmid16007002" />
+
+Nordoxepin is a [[mixture]] of [[Stereoisomerism#Cis–trans and E-Z isomerism|(''E'') and (''Z'')]] [[stereoisomer]]s similarly to doxepin.<ref name="LemkeWilliams2012" /> Whereas pharmaceutical doxepin is supplied in an approximate 85:15 ratio mixture of (''E'')- and (''Z'')-stereoisomers and plasma concentrations of doxepin remain roughly the same as this ratio with treatment, plasma levels of the (''E'')- and (''Z'')-stereoisomers of nordoxepin, due to stereoselective metabolism of doxepin by cytochrome P450 enzymes, are approximately 1:1.<ref name="LemkeWilliams2012" />
+
+====Elimination====
+Doxepin is [[elimination (pharmacology)|eliminated]] primarily in the [[urine]] and predominantly in the form of glucuronide conjugates, with less than 3% of a dose [[excretion|excreted]] unchanged as doxepin or nordoxepin.<ref name="pmid20658801" />
+
+==Chemistry==
+Doxepin is a [[tricyclic compound]], specifically a [[dibenzoxepin]], and possesses three [[ring (chemistry)|ring]]s fused together with a [[side chain]] attached in its [[chemical structure]].<ref name="pmid17685877" /> It is the only TCA with a dibenzoxepin [[ring system (chemistry)|ring system]] to have been marketed.<ref name="Ebadi2007">{{cite book|author=Manuchair Ebadi|title=Desk Reference of Clinical Pharmacology, Second Edition|url=https://books.google.com/books?id=ihxyHbnj3qYC&pg=PA329|date=31 October 2007|publisher=CRC Press|isbn=978-1-4200-4744-8|pages=329–}}</ref> Doxepin is a [[tertiary amine]] TCA, with its [[side chain]]-[[demethylation|demethylated]] metabolite [[nordoxepin]] being a [[secondary amine]].<ref name="CutlerSramek1994"/><ref name="AnzenbacherZanger2012"/> Other tertiary amine TCAs include [[amitriptyline]], [[imipramine]], [[clomipramine]], [[dosulepin]] (dothiepin), and [[trimipramine]].<ref name="Anthony2002">{{cite book|author=Patricia K. Anthony|title=Pharmacology Secrets|url=https://books.google.com/books?id=_QQsj3PAUrEC&pg=PA39|year=2002|publisher=Elsevier Health Sciences|isbn=1-56053-470-2|pages=39–}}</ref><ref name="CowenHarrison2012">{{cite book|author1=Philip Cowen|author2=Paul Harrison|author3=Tom Burns|title=Shorter Oxford Textbook of Psychiatry|url=https://books.google.com/books?id=Y1DtSGq-LnoC&pg=PA532|date=9 August 2012|publisher=OUP Oxford|isbn=978-0-19-162675-3|pages=532–}}</ref> Doxepin is a [[mixture]] of [[Stereoisomerism#Cis–trans and E-Z isomerism|(''E'') and (''Z'')]] [[stereoisomer]]s (the latter being known as ''[[cidoxepin]]'' or ''cis''-doxepin) and is used commercially in a ratio of approximately 85:15.<ref name="Elks2014" /><ref name="Zhou2016">{{cite book|author=Shufeng Zhou|title=Cytochrome P450 2D6: Structure, Function, Regulation and Polymorphism|url=https://books.google.com/books?id=UJqmCwAAQBAJ&pg=PA142|date=6 April 2016|publisher=CRC Press|isbn=978-1-4665-9788-4|pages=142–}}</ref> The [[chemical name]] of doxepin is (''E''/''Z'')-3-(dibenzo[''b'',''e'']oxepin-11(6''H'')-ylidene)-''N'',''N''-dimethylpropan-1-amine<ref name="pmid17685877" /><ref name="ChemIDPlus">https://chem.nlm.nih.gov/chemidplus/rn/1668-19-5</ref> and its [[free base]] form has a [[chemical formula]] of C<sub>19</sub>H<sub>21</sub>NO with a [[molecular weight]] of 279.376&nbsp;g/mol.<ref name="ChemIDPlus" /> The drug is used commercially almost exclusively as the [[hydrochloride]] [[salt (chemistry)|salt]]; the free base has been used rarely.<ref name="Elks2014" /><ref name="IndexNominum2000" /> The [[CAS Registry Number]] of the free base is 1668-19-5 and of the hydrochloride is 1229-29-4.<ref name="Elks2014" /><ref name="IndexNominum2000" />
+
+==History==
+Doxepin was discovered in [[Germany]] in 1963 and was introduced in the [[United States]] as an antidepressant in 1969.<ref name="pmid17685877">{{cite journal | vauthors = Singh H, Becker PM | title = Novel therapeutic usage of low-dose doxepin hydrochloride | journal = Expert Opin Investig Drugs | volume = 16 | issue = 8 | pages = 1295–305 | year = 2007 | pmid = 17685877 | doi = 10.1517/13543784.16.8.1295 | url = }}</ref> It was subsequently approved at very low doses in the United States for the treatment of insomnia in 2010.<ref name="pmid25047681" /><ref name="IndexNominum2000" />
+
+==Society and culture==
+
+===Generic names===
+''Doxepin'' is the [[generic term|generic name]] of the drug in [[English language|English]] and [[German language|German]] and its {{abbrlink|INN|International Nonproprietary Name}} and {{abbrlink|BAN|British Approved Name}}, while ''doxepin hydrochloride'' is its {{abbrlink|USAN|United States Adopted Name}}, {{abbrlink|USP|United States Pharmacopeia}}, {{abbrlink|BANM|British Approved Name}}, and {{abbrlink|JAN|Japanese Accepted Name}}.<ref name="Elks2014">{{cite book|author=J. Elks|title=The Dictionary of Drugs: Chemical Data: Chemical Data, Structures and Bibliographies|url=https://books.google.com/books?id=0vXTBwAAQBAJ&pg=PA469|date=14 November 2014|publisher=Springer|isbn=978-1-4757-2085-3|pages=469–}}</ref><ref name="IndexNominum2000">{{cite book|title=Index Nominum 2000: International Drug Directory|url=https://books.google.com/books?id=5GpcTQD_L2oC&pg=PA370|year=2000|publisher=Taylor & Francis|isbn=978-3-88763-075-1|pages=370–}}</ref><ref name="MortonHall2012">{{cite book|author1=I.K. Morton|author2=Judith M. Hall|title=Concise Dictionary of Pharmacological Agents: Properties and Synonyms|url=https://books.google.com/books?id=tsjrCAAAQBAJ&pg=PA106|date=6 December 2012|publisher=Springer Science & Business Media|isbn=978-94-011-4439-1|pages=106–}}</ref><ref name="Drugs.com" /> Its generic name in [[Spanish language|Spanish]] and [[Italian language|Italian]] and its {{abbrlink|DCIT|Denominazione Comune Italiana}} are ''doxepina'', in [[French language|French]] and its {{abbrlink|DCF|Dénomination Commune Française}} are ''doxépine'', and in [[Latin language|Latin]] is ''doxepinum''.<ref name="Drugs.com" />
+
+The ''cis'' or (''Z'') stereoisomer of doxepin is known as ''cidoxepin'', and this is its {{abbrlink|INN|International Nonproprietary Name}} while ''cidoxepin hydrochloride'' is its {{abbrlink|USAN|United States Adopted Name}}.<ref name="Elks2014" />
+
+===Brand names===
+Doxepin has been marketed as an antidepressant most commonly under the brand names Adapin, Curatin, and Sinequan.<ref name="Elks2014" /><ref name="IndexNominum2000" /><ref name="MortonHall2012" /><ref name="Drugs.com">Drugs.com [https://www.drugs.com/international/doxepin.html International brands of doxepin] Page accessed August 23, 2016</ref> It is approved specifically for the treatment of insomnia under the brand name Silenor in the United States and [[Canada]].<ref name="pmid20658801" /><ref name="Drugs.com" />
+
+==Research==
+
+===Antihistamine===
+[[Cidoxepin]] is under development by Elorac, Inc. for the treatment of chronic [[urticaria]] (hives).<ref name="AdisInsight">http://adisinsight.springer.com/drugs/800032883</ref> As of 2017, it is in [[Phases of clinical research#Phase II|phase II]] [[clinical trial]]s for this indication.<ref name="AdisInsight" /> The drug was also under investigation for the treatment of [[allergic rhinitis]], [[atopic dermatitis]], and [[contact dermatitis]], but development for these indications was discontinued.<ref name="AdisInsight" />
+
+===Headache===
+Doxepin is under development by Winston Pharmaceuticals in an [[intranasal administration|intranasal]] formulation for the treatment of [[headache]].<ref name="AdisInsight-2">http://adisinsight.springer.com/drugs/800033233</ref> As of August 2015, it is in phase II clinical trials for this indication.<ref name="AdisInsight-2" />
+
+==References==
+{{Reflist|30em}}
+
+{{Navboxes
+| title = [[Medicine|Medical uses]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Antidepressants}}
+{{Anxiolytics}}
+{{Antihistamines}}
+{{Hypnotics}}
+{{Insomnia pharmacotherapies}}
+}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Adrenergic receptor modulators}}
+{{Dopamine receptor modulators}}
+{{Histamine receptor modulators}}
+{{Ion channel blockers}}
+{{Monoamine reuptake inhibitors}}
+{{Muscarinic acetylcholine receptor modulators}}
+{{Serotonin receptor modulators}}
+}}
+{{Tricyclics}}
+
+[[Category:Alpha blockers]]
+[[Category:Amines]]
+[[Category:Antihistamines]]
+[[Category:D2 antagonists]]
+[[Category:Dibenzoxepins]]
+[[Category:Embryotoxicants]]
+[[Category:Hypnotics]]
+[[Category:Muscarinic antagonists]]
+[[Category:Sedatives]]
+[[Category:Serotonin antagonists]]
+[[Category:Serotonin-norepinephrine reuptake inhibitors]]
+[[Category:Sodium channel blockers]]
+[[Category:Tricyclic antidepressants]]

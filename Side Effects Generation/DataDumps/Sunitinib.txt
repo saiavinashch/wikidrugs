@@ -1,0 +1,206 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470474859
+| IUPAC_name = ''N''-(2-Diethylaminoethyl)-5-[(''Z'')-(5-fluoro-2-oxo-1''H''-indol-3-ylidene)methyl]-2,4-dimethyl-1''H''-pyrrole-3-carboxamide
+| image = Sunitinib.svg
+| image2 = Sunitinib-3D-balls.png
+
+<!--Clinical data-->
+| tradename = Sutent
+| Drugs.com = {{drugs.com|monograph|sutent}}
+| MedlinePlus = a607052
+| licence_EU = Sutent
+| licence_US = Sunitinib
+| pregnancy_AU = D
+| pregnancy_US = D
+| legal_US = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = Unaffected by food
+| protein_bound = 95%
+| metabolism = [[Liver|Hepatic]] ([[CYP3A4]]-mediated)
+| elimination_half-life = 40 to 60 hours (sunitinib)<br />80 to 110 hours (metabolite)
+| excretion = Fecal (61%) and [[Kidney|renal]] (16%)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5713
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 341031-54-7
+| ATC_prefix = L01
+| ATC_suffix = XE04<!--will become available on January 2007-->
+| PubChem = 5329102
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01268
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4486264
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = V99T50803M
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D06402
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 38940
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 535
+
+<!--Chemical data-->
+| C=22 | H=27 | F=1 | N=4 | O=2 
+| molecular_weight = 398.474&nbsp;g/mol<br />532.561&nbsp;g/mol ([[malate]])
+| smiles = CCN(CC)CCNC(=O)c1c(c([nH]c1C)/C=C\2/c3cc(ccc3NC2=O)F)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H27FN4O2/c1-5-27(6-2)10-9-24-22(29)20-13(3)19(25-14(20)4)12-17-16-11-15(23)7-8-18(16)26-21(17)28/h7-8,11-12,25H,5-6,9-10H2,1-4H3,(H,24,29)(H,26,28)/b17-12-
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WINHZLLDWRZWRT-ATVHPVEESA-N
+}}
+
+'''Sunitinib''' (marketed as '''Sutent''' by [[Pfizer]], and previously known as '''SU11248''') is an oral, small-molecule, multi-targeted [[receptor tyrosine kinase]] (RTK) inhibitor that was approved by the FDA for the treatment of [[renal cell carcinoma]] (RCC) and [[imatinib]]-resistant [[gastrointestinal stromal tumor]] (GIST) on January 26, 2006. Sunitinib was the first cancer drug simultaneously approved for two different indications.<ref name="FDA"/>
+
+==Mechanism of action==
+Sunitinib inhibits cellular signaling by targeting multiple receptor tyrosine kinases (RTKs).
+
+These include all [[receptor (biochemistry)|receptors]] for [[platelet-derived growth factor]] ([[PDGF-R]]s) and [[vascular endothelial growth factor]] receptors ([[VEGFRs]]), which play a role in both tumor [[angiogenesis]] and tumor cell proliferation. The simultaneous inhibition of these targets therefore reduces tumor vascularization and triggers cancer cell [[apoptosis]] and thus results in tumor shrinkage.
+
+Sunitinib also inhibits [[CD117]] (c-KIT),<ref name="pmid19015436"/> the [[receptor tyrosine kinase]] that (when improperly activated by mutation) drives the majority of gastrointestinal stromal cell tumors.<ref>{{cite journal | doi = 10.1016/j.hoc.2008.11.006 | pmid = 19248971 | volume=23 | issue=1 | title=Gastrointestinal stromal tumor: a clinical overview |date=February 2009 | journal=Hematol. Oncol. Clin. North Am. | pages=69–78, viii | vauthors=Quek R, George S}}</ref>  It has been recommended as a second-line therapy for patients whose tumors develop mutations in c-KIT that make them resistant to [[imatinib]], or who the cannot tolerate the drug.<ref>{{cite journal | doi = 10.1586/era.09.34 | pmid = 19496720 | volume=9 | issue=6 | title=Advanced gastrointestinal stromal tumor in Europe: a review of updated treatment recommendations |date=June 2009 | journal=Expert Rev Anticancer Ther | pages=831–8 | vauthors=Blay JY, Reichardt P}}</ref><ref>{{cite journal | doi = 10.1517/13543780902980171 | pmid = 19453268 | volume=18 | issue=6 | title=Sunitinib in solid tumors |date=June 2009 | journal=Expert Opin Investig Drugs | pages=821–34 | vauthors=Gan HK, Seruga B, Knox JJ}}</ref>
+
+In addition, sunitinib binds other receptors.<ref name="PI"/>  These include:
+* [[RET proto-oncogene|RET]]
+* [[CD114]]
+* [[CD135]]
+
+The fact that sunitinib targets many different receptors, leads to many of its side effects such as the classic [[hand-foot syndrome]], [[stomatitis]], and other [[dermatology|dermatologic]] toxicities.
+
+==Indications==
+
+===Gastrointestinal stromal tumor===
+Like RCC, GIST does not generally respond to standard chemotherapy or radiation. [[Imatinib]] was the first cancer agent proven effective for metastatic GIST and represented a major development in the treatment of this rare but challenging disease. However, approximately 20% of patients do not respond to imatinib (early or primary resistance), and among those who do respond initially, 50% develop secondary imatinib resistance and disease progression within two years. Prior to sunitinib, patients had no therapeutic option once they became resistant to imatinib.<ref name="demetri"/>
+
+Sunitinib offers patients with imatinib-resistant GIST a new treatment option to stop further disease progression and, in some cases, even reverse it. This was shown in a large, Phase III clinical trial in which patients who failed imatinib therapy (due to primary resistance, secondary resistance, or intolerance) were treated in a randomized and blinded fashion with either sunitinib or placebo.<ref name=demetri />
+
+The study was unblinded early, at the very first interim analysis, due to the clearly emerging benefit of sunitinib. At that time, patients receiving placebo were offered to switch over to sunitinib. In the [[End point of clinical trials|primary endpoint]] of this study, median time to tumor progression (TTP) was more than four-fold longer with sunitinib (27 weeks) compared with placebo (six weeks, ''P''<.0001). These are based on the assessments of an independent radiology lab assessment. The benefit of sunitinib remained statistically significant when stratified for a multitude of prespecified baseline factors.<ref name=demetri />
+
+Among the [[End point of clinical trials|secondary endpoints]], the difference in [[progression-free survival]] (PFS) was similar to that in TTP (24 weeks vs six weeks, ''P''<.0001). Seven percent of sunitinib patients had significant tumor shrinkage (objective response) compared with 0% of placebo patients (''P''=.006). Another 58% of sunitinib patients had disease stabilization vs. 48% of patients receiving placebo. The median time to response with sunitinib was 10.4 weeks.<ref name=demetri />
+Sunitinib reduced the relative risk of disease progression or death by 67%, and the risk of death alone by 51%. The difference in survival benefit may be diluted because placebo patients crossed over to sunitinib upon disease progression, and most of these patients subsequently responded to sunitinib.<ref name=demetri />
+
+Sunitinib was relatively well tolerated. About 83% of sunitinib patients experienced a treatment-related adverse event of any severity, as did 59% of patients who received placebo. Serious adverse events were reported in 20% of sunitinib patients and 5% of placebo patients. Adverse events were generally moderate and easily managed by dose reduction, dose interruption, or other treatment. Nine percent of sunitinib patients and 8% of placebo patients discontinued therapy due to an adverse event.<ref name=demetri />
+
+Fatigue is the adverse event most commonly associated with sunitinib therapy. In this study, 34% of sunitinib patients reported any grade of fatigue, compared with 22% for placebo. The incidence of grade 3 (severe) fatigue was similar between the two groups, and no grade 4 fatigue was reported.<ref name=demetri />
+
+===Meningioma===
+
+Sunitinib is being studied for treatment of [[meningioma]] which is associated with [[neurofibromatosis]].<ref>[http://clinicaltrials.gov/ct2/show/NCT00589784 "Phase II Trial of Sunitinib (SU011248) in Patients With Recurrent or Inoperable Meningioma"]</ref>
+
+===Pancreatic neuroendocrine tumors===
+
+In November 2010, Sutent gained approval from the European Commission for the treatment of 'unresectable or metastatic, well-differentiated pancreatic [[neuroendocrine tumor]]s with disease progression in adults'.<ref name="EU2010"/> In May 2011, the USFDA approved Sunitinib for treating patients with 'progressive neuroendocrine cancerous tumors located in the pancreas that cannot be removed by surgery or that have spread to other parts of the body (metastatic)'.<ref>[http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm256237.htm FDA approves Sutent for rare type of pancreatic cancer]</ref>
+
+===Renal cell carcinoma===
+Sunitinib is approved for treatment of metastatic RCC. Other therapeutic options in this setting are [[pazopanib]] (Votrient), [[sorafenib]] (Nexavar), [[temsirolimus]] (Torisel), [[interleukin-2]] (Proleukin), [[everolimus]] (Afinitor), [[bevacizumab]] (Avastin), and  aldesleukin.
+
+RCC is generally resistant to chemotherapy or radiation. Prior to RTKs, metastatic disease could only be treated with the cytokines [[alpha-interferon|interferon alpha]] (IFNα) or interleukin-2. However, these agents demonstrated low rates of efficacy (5%-20%).
+
+In a phase 3 study, median progression-free survival was significantly longer in the sunitinib group (11 months) than in the IFNα group (five months), a hazard ratio of 0.42.<ref name=PI /><ref name="motzer"/> In the secondary endpoints, 28% had significant tumor shrinkage with sunitinib compared to 5% with IFNα. Patients receiving sunitinib had a better quality of life than IFNα. An update in 2008 showed that the primary endpoint of median progression-free survival (PFS) remained superior with sunitinib: 11 months versus 5 months for IFNα, ''P''<.000001. Objective response rate also remained superior: 39-47% for sunitinib versus 8-12% with IFNα, ''P''<.000001.<ref name="figlin"/><ref>{{cite journal | doi = 10.1200/JCO.2008.20.1293 | pmid = 19487381 | volume=27 | issue=22 | title=Overall survival and updated results for sunitinib compared with interferon alfa in patients with metastatic renal cell carcinoma |date=August 2009 | journal=J. Clin. Oncol. | pages=3584–90 | vauthors=Motzer RJ, Hutson TE, Tomczak P ''et al''}}</ref>
+
+Sunitinib treatment trended towards a slightly longer overall survival, although this was not statistically significant.
+* Median overall survivability was 26 months with sunitinib vs 22 months for IFNα regardless of stratification (''P''-value ranges from .051 to .0132, depending on statistical analysis).
+* The first analysis includes 25 patients initially randomized to IFNα who crossed over to sunitinib therapy, which may have confounded the results; in an exploratory analysis that excluded these patients, the difference becomes more robust: 26 vs 20 months, ''P''=.0081.
+* Patients in the study were allowed to receive other therapies once they had progressed on their study treatment. For a "pure" analysis of the difference between the two agents, an analysis was done using only patients who did not receive any post-study treatment. This analysis demonstrated the greatest advantage for sunitinib: 28 months vs 14 months for IFNα, ''P''=.0033.  The number of patients in this analysis was small and this does not reflect actual clinical practice and is therefore not meaningful.
+
+Hypertension (HTN) was found to be a biomarker of efficacy in patients with metastatic renal cell carcinoma treated with sunitinib.<ref>[http://www.curehunter.com/public/pubmed21527770.do Hypertension as a biomarker of efficacy in patients with metastatic renal cell carcinoma treated with sunitinib. &#124; CureHunter]</ref> Patients with mRCC and sunitinib-induced hypertension  had better outcomes than those without treatment-induced HTN (objective response rate: 54.8% vs 8.7%; median PFS: 12.5 months, 95% confidence interval [CI] = 10.9 to 13.7 vs 2.5 months, 95% CI = 2.3 to 3.8 months; and OS: 30.9 months, 95% CI = 27.9 to 33.7 vs 7.2 months, 95% CI = 5.6 to 10.7 months; P < .001 for all).
+
+===Other solid tumors===
+The efficacy of sunitinib is currently being evaluated in a broad range of solid tumors, including breast, lung, thyroid and colorectal cancers. Early studies have shown single-agent efficacy in a number of different areas. Sunitinib blocks the [[tyrosine kinase]] activities of [[KIT (gene)|KIT]], [[PDGFR]], [[VEGFR2]] and other tyrosine kinases involved in the development of tumours.
+
+* A Phase II study in previously treated patients with [[metastatic breast cancer]] found sunitinib “has significant single agent activity”.<ref name="miller"/>
+* A Phase II study of refractory [[non-small-cell lung cancer]] found “Sunitinib has provocative single-agent activity in previously treated pts with recurrent and advanced NSCLC, with the level of activity similar to currently approved agents.” <ref name="socinski"/>
+* In a Phase II study of patients with nonresectable [[neuroendocrine tumor]]s, 91% of patients responded to sunitinib (9% partial response + 82% stable disease).<ref name="kulke"/>
+
+===Leukemia===
+Sunitinib was used to treat the [[leukemia]] of a [[Washington University in St. Louis]] leukemia researcher who developed the disease himself. His team used [[Whole genome sequencing|genetic sequencing]] and noticed that the [[FLT3]] gene was hyperactive in his leukemia cells and used sunitinib as a treatment.<ref name="nytimes">{{cite web|url=https://www.nytimes.com/2012/07/08/health/in-gene-sequencing-treatment-for-leukemia-glimpses-of-the-future.html?pagewanted=2&_r=1&hp|title=In Gene Sequencing Treatment for Leukemia, Glimpses of the Future}}</ref>
+
+===Unsuccessful trials===
+Between April 2009 and May 2011 Pfizer has reported unsuccessful late-stage trials in breast cancer, metastatic colorectal cancer, advanced non-small-cell lung cancer, and castration-resistant prostate cancer.<ref>[http://www.genengnews.com/gen-news-highlights/fda-expands-sutent-label-to-include-pancreatic-neuroendocrine-tumors/81245191/ GEN &#124; News Highlights: FDA Expands Sutent Label to Include Pancreatic Neuroendocrine Tumors]</ref>
+
+==History==
+The drug was discovered at [[SUGEN]], a biotechnology company which pioneered protein kinase inhibitors. It was the third in a series of compounds including [[Semaxanib|SU5416]] and SU6668. The concept was of an [[Adenosine triphosphate|ATP]] mimic that would compete with ATP for binding to the catalytic site of [[receptor tyrosine kinase]]s. This concept led to the invention of many small-molecule [[tyrosine kinase inhibitor]]s, including [[Gleevec]], Sutent, [[Tarceva]] and many others. {{Citation needed|date=October 2015}}
+
+==Side effects==
+Sunitinib adverse events are considered somewhat manageable and the incidence of serious adverse events low.<ref name=demetri /><ref name=motzer />
+
+The most common adverse events associated with sunitinib therapy are fatigue, diarrhea, nausea, anorexia, hypertension, a yellow skin discoloration, hand-foot skin reaction, and stomatitis.<ref name="Yellow skin discoloration associated with sorafenib use for treatment of metastatic renal cell carcinoma."/> In the placebo-controlled Phase III GIST study, adverse events which occurred more often with sunitinib than placebo included diarrhea, anorexia, skin discoloration, mucositis/stomatitis, asthenia, altered taste, and constipation.<ref name=PI /><ref name=demetri />
+
+Dose reductions were required in 50% of the patients studied in RCC in order to manage the significant toxicities of this agent.
+
+Serious (grade 3 or 4) adverse events occur in ≤10% of patients and include hypertension, fatigue, asthenia, diarrhea, and [[chemotherapy-induced acral erythema]]. Lab abnormalities associated with sunitinib therapy include lipase, amylase, neutrophils, lymphocytes, and platelets. Hypothyroidism and reversible erythrocytosis have also been associated with sunitinib.<ref name=PI /><ref>{{cite journal | last1 = Alexandrescu | first1 = DT | last2 = McClure | first2 = R | last3 = Farzanmehr | first3 = H | last4 = Dasanu | first4 = CA |name-list-format=vanc | year = 2008 | title = ''Secondary erythrocytosis produced by the tyrosine kinase inhibitors sunitinib and sorafenib'' | url = | journal = Journal of Clinical Oncology | volume = 26 | issue = 24| pages = 4047–8 | doi=10.1200/jco.2008.18.3525 | pmid=18711201}}</ref>
+
+Most adverse events can be managed through supportive care, dose interruption, or dose reduction.<ref name=demetri /><ref name=motzer />
+
+A recent study done at MD Anderson Cancer Center compared the outcomes of metastatic renal cell cancer patients who received sunitinib on the standard schedule (50&nbsp;mg/4 weeks on 2 weeks off)  with those who received sunitinib with more frequent and short drug holidays (alternative schedule). It was seen that the overall survival, progression free survival and drug adherence were significantly higher in the patients who received Sunitinib on the alternative schedule. Patients also had a better tolerance and lower severity of adverse events which frequently lead to discontinuation of treatment of metastatic renal cell cancer patients.<ref>{{cite journal |vauthors=Atkinson BJ, Kalra S, Wang X, Bathala T, Corn P, Tannir NM, Jonasch E | date=March 2014 | title = Clinical Outcomes in Patients with Metastatic Renal Cell Carcinoma Treated with Alternative Sunitinib Schedules. |url = | journal = J Urol | volume = 191 | issue = 3| pages = 611–618 | doi = 10.1016/j.juro.2013.08.090}}</ref>
+
+==Interactions==
+[[Epigallocatechin-3-gallate]], a major constituent of green tea, may reduce the [[bioavailability]] of sunitinib when they are taken together.<ref>{{cite journal  |vauthors=Ge J, Tan BX, Chen Y, Yang L, Peng XC, Li HZ, Lin HJ, Zhao Y, Wei M, etal |date=Jun 2011 | title = Interaction of green tea polyphenol epigallocatechin-3-gallate with sunitinib: potential risk of diminished sunitinib bioavailability | url = | journal = J Mol Med (Berl) | volume = 89 | issue = 6| pages = 595–602 | doi=10.1007/s00109-011-0737-3}}</ref>
+
+==Costs==
+Sunitinib is marketed by [[Pfizer]] as Sutent, and is subject to [[patent]]s and [[market exclusivity]] as a new chemical entity until February 15, 2021.<ref name="Patent and Exclusivity Search Results from query on Appl No 021938 Product 003 in the OB_Rx list"/><!--- following reference is unnecessary, unless there are worries about WP:OR ---><ref name="Details for Generic 'SUNITINIB MALATE'"/>  Sutent has been cited in financial news as a potential revenue source to replace royalties lost from [[Lipitor]] following the expiration of the latter drug's patent expiration in November 2011.<ref name="Will biologics and Sutent save Pfizer?"/><ref name="Pfizer's a Sell: Shrinking Top Line, No Blockbusters In the Pipeline"/>  Sutent is one of the most expensive drugs widely marketed.{{cn|date=September 2017}} Doctors and editorials have criticized the high cost for a drug that does not cure cancer, but only prolongs life.
+
+===U.S.===
+{{unreferenced section|date=September 2017}}
+In the U.S., the insurance companies{{which|date=September 2017}} have refused to pay for all or part of the costs of Sutent. Because it is an oral therapy, the copay associated with this therapy can be very substantial. If a patient's secondary insurance does not cover this, the cost burden to the patient can be extreme. Particularly challenging is the [[Medicare Part D coverage gap]]. Patients have to spend thousands of dollars out-of-pocket during the gap in coverage. If this is done at the end of a calendar year, it has to be paid again at the beginning of the next calendar year, which may be burdensome financially.
+
+===UK===
+In the UK, [[NICE]] refused (late 2008) to recommend sunitinib for late-stage [[renal cancer]] (kidney cancer) due to the high cost per [[QALY]], estimated by NICE at £72,000/QALY and by Pfizer at £29,000/QALY.<ref>BMJ 31-Jan-2009 "NICE and the challenge of cancer drugs" p271</ref><ref>[http://news.bbc.co.uk/1/hi/health/7546879.stm BBC news - Aug 2008 - 'We'll sell our house for this drug']</ref>  This was overturned in February 2009 after pricing changes and public responses.<ref>[http://www.telegraph.co.uk/health/healthnews/4449605/Kidney-cancer-patients-should-get-Sutent-on-the-NHS-says-NICE.html Daily Telegraph, Feb 4, 2009]</ref>  Therefore, Sunitinib is recommended as a first-line treatment option for people with advanced and/or metastatic renal cell carcinoma who are suitable for immunotherapy and have an ECOG [[performance status]] of 0 or 1.<ref>{{Cite web|url=https://pathways.nice.org.uk/pathways/renal-cancer#content=view-node:nodes-first-line-treatment-for-advanced-and-metastatic-renal-cancer|title=Renal cancer - NICE Pathways|website=pathways.nice.org.uk|language=en|access-date=2017-03-14}}</ref>
+
+===AU===
+Sunitinib is available in Australia and is subsidized by the Pharmaceutical Benefits Scheme for Stage IV Renal Cell Carcinoma (RCC). The cost to the patient who meets the clinical criteria of Stage IV RCC is AUD $35.40 for 28 capsules, regardless of dose. Manufacturer pricing for Sunitinib ranges from AUD $1,834.30 to AUD $6897.54, depending on dose (12.5&nbsp;mg to 50&nbsp;mg).<ref>[http://www.pbs.gov.au/medicine/item/9417p-9418q-9419r-9420t-9421w-9422x-9488j-9489k-9490l Australian Pharmaceutical Benefits Scheme - Sutent]</ref>
+
+==References==
+{{reflist|2|refs=
+
+<ref name="Details for Generic 'SUNITINIB MALATE'">{{cite web|url=http://www.drugpatentwatch.com/p/generic-api/SUNITINIB+MALATE|title=Details for Generic 'SUNITINIB MALATE'|publisher=DrugPatentWatch}}</ref>
+
+<ref name="EU2010">{{cite news |url=http://www.genengnews.com/gen-news-highlights/pfizer-scores-new-approval-for-sutent-in-europe/81244326/ |title=Pfizer Scores New Approval for Sutent in Europe |date=2 Dec 2010 }}</ref>
+
+<ref name="FDA">{{cite web | author = US Food and Drug Administration | title = FDA approves new treatment for gastrointestinal and kidney cancer | url=http://www.fda.gov/bbs/topics/news/2006/NEW01302.html |year=2006 | authorlink = Food and Drug Administration}}</ref>
+
+<ref name="PI">{{cite journal | title = Prescribing information for Sutent (sunitinib malate) | journal = [[Pfizer|Pfizer, Inc, New York NY]]}}</ref>
+
+<ref name="Patent and Exclusivity Search Results from query on Appl No 021938 Product 003 in the OB_Rx list">{{cite web|url=http://www.accessdata.fda.gov/scripts/cder/ob/docs/patexclnew.cfm?Appl_No=021938&Product_No=003&table1=OB_Rx|title=Patent and Exclusivity Search Results from query on Appl No 021938 Product 003 in the OB_Rx list|publisher=U.S. FDA|accessdate=2009-06-05}}  Sutent is subject to US patent 7211600 (expires Dec 22 2020), 7125905 and 6573293 (expire Feb 15 2021).  Note that this information does not include or predict [[patent extensions]].</ref>
+
+<ref name="Pfizer's a Sell: Shrinking Top Line, No Blockbusters In the Pipeline">{{cite web|url=http://seekingalpha.com/article/30382-pfizer-s-a-sell-shrinking-top-line-no-blockbusters-in-the-pipeline|title=Pfizer's a Sell: Shrinking Top Line, No Blockbusters In the Pipeline|date=2007-03-22|author=Zacks Investment Research|publisher=SeekingAlpha}}</ref>
+
+<ref name="Will biologics and Sutent save Pfizer?">{{cite web|url=http://investorplace.com/2009/03/will-biologics-sutent-save-pfizer-pfe/|title=Will biologics and Sutent save Pfizer?|author=Jamie Dlugosch|publisher=InvestorPlace|date=2009-03-13}}</ref>
+
+<ref name="Yellow skin discoloration associated with sorafenib use for treatment of metastatic renal cell carcinoma.">{{cite journal|url=http://www.thefreelibrary.com/Yellow+skin+discoloration+associated+with+sorafenib+use+for+treatment...-a0161610873|title=Yellow skin discoloration associated with sorafenib use for treatment of metastatic renal cell carcinoma. |vauthors=Dasanu CA, etal |date=2007-03-01|journal=Southern Medical Journal| doi = 10.1097/smj.0b013e31802f01a9|volume=100|pages=328–330}}</ref>
+
+<ref name="demetri">{{cite journal  |vauthors=Demetri GD, etal | title = Efficacy and safety of sunitinib in patients with advanced gastrointestinal stromal tumour after failure of imatinib: a randomised controlled trial | journal = [[The Lancet|Lancet]] | year = 2006 | volume = 368 | pages = 1329–1338 | pmid = 17046465 | doi = 10.1016/S0140-6736(06)69446-4 | issue = 9544}}</ref>
+
+<ref name="figlin">{{cite journal  |vauthors=Figlin RA, etal | title = Overall survival with sunitinib versus interferon alfa (IFN-α) as first-line treatment of metastatic renal cell carcinoma (mRCC). Abstract no. 5024. | journal = Presented at ASCO 2008 | id = Available at: http://www.asco.org/ASCO/Abstracts+%26+Virtual+Meeting/Abstracts?&vmview=abst_detail_view&confID=55&abstractID=32895}}</ref>
+
+<ref name="kulke">{{cite journal  |vauthors=Kulke MH, etal | title = A Phase 2 Study to Evaluate the Efficacy of SU11248 in Patients with Unresectable Neuroendocrine Tumors | journal = Presented at ASCO 2005 | id = Available at: http://www.asco.org/portal/site/ASCO/menuitem.34d60f5624ba07fd506fe310ee37a01d/?vgnextoid=76f8201eb61a7010VgnVCM100000ed730ad1RCRD&vmview=abst_detail_view&confID=34&abstractID=33268}}</ref>
+
+<ref name="miller">{{cite journal  |vauthors=Miller KD, etal | title = Phase II study of SU11248, a multi-targeted tyrosine kinase inhibitor in patients with previously treated metastatic breast cancer | journal = Presented at ASCO 2005 | id = Available at: http://www.asco.org/portal/site/ASCO/menuitem.34d60f5624ba07fd506fe310ee37a01d/?vgnextoid=76f8201eb61a7010VgnVCM100000ed730ad1RCRD&vmview=abst_detail_view&confID=34&abstractID=31881}}</ref>
+
+<ref name="motzer">{{cite journal  |vauthors=Motzer RJ, etal | title = Sunitinib versus interferon alfa in metastatic renal-cell carcinoma | journal = [[New England Journal of Medicine|N Engl J Med]] | volume = 356 | issue = 2 | pages = 115–124 | year = 2007 | pmid = 17215529 | doi = 10.1056/NEJMoa065044}}</ref>
+
+<ref name="pmid19015436">{{cite journal |vauthors=Hartmann JT, Kanz L |title=Sunitinib and periodic hair depigmentation due to temporary c-KIT inhibition |journal=Arch Dermatol |volume=144 |issue=11 |pages=1525–6 |date=November 2008 |pmid=19015436 |doi=10.1001/archderm.144.11.1525 |url=http://archderm.ama-assn.org/cgi/pmidlookup?view=long&pmid=19015436}}</ref>
+
+<ref name="socinski">{{cite journal  |vauthors=Socinski MA, etal | title = Efficacy and safety of sunitinib in previously treated, advanced non-small cell lung cancer (NSCLC): preliminary results of a multicenter phase II trial | journal = Journal of Clinical Oncology, 2006 ASCO Annual Meeting Proceedings Part I | volume = 24 | issue = 18S (June 20 suppl) | year = 2006 | id = Available at: http://www.asco.org/portal/site/ASCO/menuitem.34d60f5624ba07fd506fe310ee37a01d/?vgnextoid=76f8201eb61a7010VgnVCM100000ed730ad1RCRD&vmview=abst_detail_view&confID=40&abstractID=34252 }}</ref>
+}}
+
+==External links==
+* [http://www.sutent.com Sutent.com] — Manufacturer's site
+* [http://www.liferaftgroup.org/treat_sutent.html The Life Raft Group]-The Life Raft Group (LRG) is an organization that provides support, information and assistance to patients and families with a rare cancer called Gastrointestinal Stromal Tumor (GIST).
+* [http://www.gistsupport.org/treatments/current-treatments/sutent.php GIST Support International] — An international organization for the support of GIST patients, families, and friends. Includes detailed information from some of the foremost experts on GIST, links to research, treatment options, and GIST registry.
+* [http://kidneycancer.org/ Kidney Cancer Association] — An organization that educates physicians and patients about kidney cancer; funds, promotes, and collaborates on research projects; and advocates at the federal and state levels on behalf of patient interests.
+* [http://www.cancernetwork.com/cancer-management-11/chapter03/article/10165/1402628 Cancer Management Handbook: Principles of Oncologic Pharmacotherapy]
+
+{{Extracellular chemotherapeutic agents}}
+{{Cytokine receptor modulators}}
+{{Growth factor receptor modulators}}
+
+[[Category:Receptor tyrosine kinase inhibitors]]
+[[Category:Pfizer products]]
+[[Category:Fluoroarenes]]
+[[Category:Indoles]]
+[[Category:Pyrroles]]
+[[Category:Cancer treatments]]

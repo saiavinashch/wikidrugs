@@ -1,0 +1,87 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 444260047
+| ImageFile =Quizartinib.svg
+| ImageSize =
+| ImageAlt =
+| IUPACName =1-(5-(''tert''-Butyl)isoxazol-3-yl)-3-(4-(7-(2-morpholinoethoxy)benzo[''d'']imidazo[2,1-b]thiazol-2-yl)phenyl)urea
+| OtherNames = AC220
+| Section1 = {{Chembox Identifiers
+| IUPHAR_ligand = 5658
+| CASNo =950769-58-1
+| CASNo_Ref = {{cascite|correct|??}}
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 90217
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 576982
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 24640357
+| KEGG = D09955
+| SMILES = CC(C)(C)c1cc(no1)NC(=O)Nc2ccc(cc2)c3cn4c5ccc(cc5sc4n3)OCCN6CCOCC6
+| InChI = 1/C29H32N6O4S/c1-29(2,3)25-17-26(33-39-25)32-27(36)30-20-6-4-19(5-7-20)22-18-35-23-9-8-21(16-24(23)40-28(35)31-22)38-15-12-34-10-13-37-14-11-34/h4-9,16-18H,10-15H2,1-3H3,(H2,30,32,33,36)
+| InChIKey = CVWXJKQAOSCOAB-UHFFFAOYAF
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C29H32N6O4S/c1-29(2,3)25-17-26(33-39-25)32-27(36)30-20-6-4-19(5-7-20)22-18-35-23-9-8-21(16-24(23)40-28(35)31-22)38-15-12-34-10-13-37-14-11-34/h4-9,16-18H,10-15H2,1-3H3,(H2,30,32,33,36)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = CVWXJKQAOSCOAB-UHFFFAOYSA-N
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 7LA4O6Q0D3
+  }}
+| Section2 = {{Chembox Properties
+| C=29 |H=32 |N=6 |O=4 |S=1
+| Appearance =
+| Density =
+| MeltingPt =
+| BoilingPt =
+| Solubility =
+  }}
+| Section3 = {{Chembox Hazards
+| MainHazards =
+| FlashPt =
+| AutoignitionPt =
+  }}
+| Section5 = {{Chembox Pharmacology
+| AdminRoutes =
+| Bioavail =
+| Metabolism =
+| HalfLife =
+| ProteinBound =
+| Excretion =
+| Legal_status =
+| Legal_US =
+| Legal_UK =
+| Legal_AU =
+| Legal_CA =
+| PregCat =
+| PregCat_AU =
+| PregCat_US =
+  }}
+}}
+
+'''Quizartinib''' (AC220) is a small molecule [[receptor tyrosine kinase]] inhibitor that is currently under development by [[Ambit Biosciences]] for the treatment of [[acute myeloid leukaemia]]. Its molecular target is [[FLT3]], also known as CD135 which is a [[proto-oncogene]].<ref>{{cite journal |author1=Chao, Qi |author2=Sprankle, Kelly G. |author3=Grotzfeld, Robert M. |author4=Lai, Andiliy G. |author5=Carter, Todd A. |author6=Velasco, Anne Marie |author7=Gunawardane, Ruwanthi N. |author8=Cramer, Merryl D. |author9=Gardner, Michael F. |author10=James, Joyce |author11=Zarrinkar, Patrick P. |author12=Patel, Hitesh K. |author13=Bhagwat, Shripad S. | title = Identification of N-(5-tert-Butyl-isoxazol-3-yl)-N'-<nowiki/>{4-[7-(2-morpholin-4-yl-ethoxy)imidazo[2,1-b][1,3]benzothiazol-2-yl]phenyl}urea Dihydrochloride (AC220), a Uniquely Potent, Selective, and Efficacious FMS-Like Tyrosine Kinase-3 (FLT3) Inhibitor | journal = Journal of Medicinal Chemistry | year = 2009 | volume = 52 | issue = 23 | pages = 7808–7816 | doi=10.1021/jm9007533}}</ref>
+
+Flt3 mutations are among the most common mutations in [[acute myeloid leukaemia]] due to [[internal tandem duplication]] of Flt3. The presence of this mutation is a marker of adverse outcome.
+
+==Mechanism==
+Specifically, Quizartinib selectively inhibits class III receptor tyrosine kinases, including FMS-related tyrosine kinase 3 ([[FLT3]]/STK1), colony-stimulating factor 1 receptor ([[CSF1R]]/[[FMS (gene)|FMS]]), [[stem cell factor receptor]] (SCFR/[[KIT (gene)|KIT]]), and platelet derived growth factor receptors ([[PDGFR]]s).{{citation needed|date=December 2012}}
+
+Mutations cause constitutive action of Flt3 resulting in inhibition of [[ligand-independent leukemic cell proliferation]] and apoptosis.{{citation needed|date=December 2012}}
+
+==Clinical trials==
+It reported good results in 2012 from a phase II clinical trial for refractory AML - particularly in patients who went on to have a stem cell transplant.<ref name=ASH2012>[http://www.medpagetoday.com/MeetingCoverage/ASHHematology/36351 Drug Tames Refractory AML. ASH Dec 2012]</ref>
+
+{{as of|2017}} it has completed 5 clinical trials and another 7 are active.<ref>[https://clinicaltrials.gov/ct2/results?term=quizartinib&Search=Search Quizartinib studies]</ref>
+
+==References==
+{{Reflist}}
+
+
+{{Cytokine receptor modulators}}
+{{Growth factor receptor modulators}}
+
+[[Category:Receptor tyrosine kinase inhibitors]]
+[[Category:Morpholines]]
+[[Category:Isoxazoles]]
+[[Category:Ureas]]
+[[Category:Tert-butyl compounds]]

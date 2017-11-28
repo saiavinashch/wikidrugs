@@ -1,0 +1,63 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 360226032
+| IUPAC_name = (4R)-4-[(3,4-dichlorobenzoyl)amino]-5-(3-methoxypropylpentylamino)-5-oxopentanoic acid
+| image = Dexloxiglumide.png
+
+<!--Clinical data-->
+| tradename = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = 
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 119817-90-2
+| ATC_prefix = none
+| ATC_suffix = 
+| PubChem = 65937
+| IUPHAR_ligand = 889
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 69DY40RH9B
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 550781
+ | ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 59342
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C21H30Cl2N2O5/c1-3-4-5-11-25(12-6-13-30-2)21(29)18(9-10-19(26)27)24-20(28)15-7-8-16(22)17(23)14-15/h7-8,14,18H,3-6,9-13H2,1-2H3,(H,24,28)(H,26,27)/t18-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = QNQZBKQEIFTHFZ-GOSISDBHSA-N
+
+<!--Chemical data-->
+| C=21 | H=30 | Cl=2 | N=2 | O=5 
+| molecular_weight = 461.379 g/mol
+| smiles = CCCCCN(CCCOC)C(=O)[C@@H](CCC(=O)O)NC(=O)C1=CC(=C(C=C1)Cl)Cl
+}}
+
+'''Dexloxiglumide''' is a drug which acts as a [[cholecystokinin antagonist]], selective for the [[Cholecystokinin A receptor|CCK<sub>A</sub>]] subtype. It inhibits gastrointestinal motility and reduces gastric secretions, and despite older selective CCK<sub>A</sub> antagonists such as [[lorglumide]] and [[devazepide]] having had only limited success in trials and ultimately never making it into clinical use, dexloxiglumide is being investigated as a potential treatment for a variety of gastrointestinal problems including [[irritable bowel syndrome]],<ref>Cremonini F, Camilleri M, McKinzie S, Carlson P, Camilleri CE, Burton D, Thomforde G, Urrutia R, Zinsmeister AR. Effect of CCK-1 antagonist, dexloxiglumide, in female patients with irritable bowel syndrome: a pharmacodynamic and pharmacogenomic study. ''American Journal of Gastroenterology''. 2005 Mar;100(3):652-63. {{PMID|15743365}}</ref> [[dyspepsia]],<ref>Galligan JJ, Vanner S. Basic and clinical pharmacology of new motility promoting agents. ''Neurogastroenterology and Motility''. 2005 Oct;17(5):643-53. {{PMID|16185302}}</ref> [[constipation]]<ref>Roberts DJ, Banh HL, Hall RI. Use of novel prokinetic agents to facilitate return of gastrointestinal motility in adult critically ill patients. ''Current Opinion in Critical Care''. 2006 Aug;12(4):295-302. {{PMID|16810038}}</ref> and [[pancreatitis]],<ref>Maselli MA, Mennuni L. CCK1 receptor antagonist, dexloxiglumide: effects on human isolated gallbladder. Potential clinical applications. ''Minerva Gastroenterologica e Dietologica''. 2003 Sep;49(3):211-6. {{PMID|16484960}}</ref><ref>Barrett TD, Yan W, Freedman JM, Lagaud GJ, Breitenbucher JG, Shankley NP. Role of CCK and potential utility of CCK1 receptor antagonism in the treatment of pancreatitis induced by biliary tract obstruction. ''British Journal of Pharmacology''. 2008 Apr;153(8):1650-8. {{PMID|18297100}}</ref> and has had moderate success so far although trials are still ongoing.
+
+==References==
+<references />
+
+{{Neuropeptide agonists and antagonists}}
+
+[[Category:Cholecystokinin antagonists]]
+[[Category:Chloroarenes]]
+[[Category:Benzamides]]
+[[Category:Ethers]]

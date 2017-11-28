@@ -1,0 +1,180 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 373936925
+| ImageFile=Salinomycin.png
+| IUPACName=(2R)-2-[(5S,6R)-6-[(1S,2S,3S,5R)-5-[(2S,5R,7S,9S,10S,12R,15R)-2-[(2R,5R,6S)-5-ethyl-5-hydroxy-6-methyl-2-tetrahydropyranyl]-15-hydroxy-2,10,12-trimethyl-1,6,8-trioxadispiro[4.1.5^{7}.3^{5}]pentadec-13-en-9-yl]-2-hydroxy-1,3-dimethyl-4-oxoheptyl]-5-methyl-2-tetrahydropyranyl]butanoic acid
+| OtherNames=
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 62UXS86T64
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo=53003-10-4
+| PubChem=72370
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1208572
+| SMILES = O=C([C@H]([C@H]([C@@H]([C@]3([H])O[C@]([C@@H](CC)C(O)=O)([H])CC[C@@H]3C)C)O)C)[C@H](CC)[C@@]([C@@H](C)C[C@H]2C)([H])O[C@]12O[C@@]4(CC[C@]([C@]5([H])O[C@@H](C)[C@](CC)(O)CC5)(C)O4)[C@H](O)C=C1
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 2342058
+|  InChI = 1/C42H70O11/c1-11-29(38(46)47)31-15-14-23(4)36(50-31)27(8)34(44)26(7)35(45)30(12-2)37-24(5)22-25(6)41(51-37)19-16-32(43)42(53-41)21-20-39(10,52-42)33-17-18-40(48,13-3)28(9)49-33/h16,19,23-34,36-37,43-44,48H,11-15,17-18,20-22H2,1-10H3,(H,46,47)/t23-,24-,25+,26-,27-,28-,29+,30-,31+,32+,33+,34+,36+,37-,39-,40+,41-,42-/m0/s1
+|  InChIKey = KQXDHUJYNAXLNZ-XQSDOZFQBR
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C42H70O11/c1-11-29(38(46)47)31-15-14-23(4)36(50-31)27(8)34(44)26(7)35(45)30(12-2)37-24(5)22-25(6)41(51-37)19-16-32(43)42(53-41)21-20-39(10,52-42)33-17-18-40(48,13-3)28(9)49-33/h16,19,23-34,36-37,43-44,48H,11-15,17-18,20-22H2,1-10H3,(H,46,47)/t23-,24-,25+,26-,27-,28-,29+,30-,31+,32+,33+,34+,36+,37-,39-,40+,41-,42-/m0/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = KQXDHUJYNAXLNZ-XQSDOZFQSA-N
+  }}
+|Section2={{Chembox Properties
+| Formula=C<sub>42</sub>H<sub>70</sub>O<sub>11</sub>
+| MolarMass=751.00 g/mol
+| Appearance=
+| Density=
+| MeltingPt=
+| BoilingPt=
+| Solubility=
+  }}
+|Section6={{Chembox Pharmacology
+| ATCvet = yes
+| ATCCode_prefix = P51
+| ATCCode_suffix = AH01
+}}
+|Section7={{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| AutoignitionPt =
+  }}
+}}
+
+'''Salinomycin''' is an [[antibacterial]] and [[coccidiostat]] [[ionophore]] therapeutic drug.
+
+== Antibacterial activity ==
+Salinomycin and its derivatives exhibit high antimicrobial activity against [[Gram-positive bacteria]], including the most problematic bacteria strains such as [[methicillin-resistant Staphylococcus aureus]] (MRSA) and [[methicillin-resistant Staphylococcus epidermidis]] (MRSE), and [[Mycobacterium tuberculosis]]. Salinomycin is inactive against fungi such as [[Candida (fungus)|Candida]] and [[Gram-negative bacteria]]. 
+<ref>
+{{cite journal
+| author = M. Antoszczak| date = 
+| year = 2014
+| volume =19
+| issue = 12
+| pages= 19435–19459
+| title = Synthesis, Anticancer and Antibacterial Activity of Salinomycin N-Benzyl Amides
+| journal = Molecules
+| doi = 10.3390/molecules191219435
+| display-authors=etal}}</ref>
+
+== Cancer research ==
+
+===Pre-clinical===
+Salinomycin has been shown by Piyush Gupta et al. of the [[Massachusetts Institute of Technology]] and the [[Broad Institute]] to kill [[breast cancer]] [[stem cell]]s in mice at least 100 times more effectively than the anti-cancer drug [[paclitaxel]]. The study screened 16,000 different chemical compounds and found that only a small subset, including salinomycin and [[etoposide]], targeted [[cancer stem cells]] responsible for metastasis and relapse.<ref>{{cite news 
+| title=Drug shows cancer stem cells not invulnerable 
+| publisher=[[New Scientist]] 
+| url=https://www.newscientist.com/article/dn17610-drug-shows-cancer-stem-cells-not-invulnerable.html 
+| date=2009-08-13}}
+</ref><ref>
+{{cite news 
+| url=http://www.broadinstitute.org/news/1305
+| title=New method takes aim at aggressive cancer cells
+| publisher=[[Broad Institute]]
+| work=Broad Communications
+| date=2009-08-13
+| accessdate=2009-08-13
+}}
+</ref><ref>
+{{cite journal
+| doi=10.1016/j.cell.2009.06.034
+| last=Gupta
+| first=P.
+| pmid=19682730
+| pmc=4892125
+| title=Identification of selective inhibitors of cancer stem cells by high-throughput screening
+| journal=Cell 
+| date=2009-08-13
+| last2=Onder
+| first2=Tamer T.
+| last3=Jiang
+| first3=Guozhi
+| last4=Tao
+| first4=Kai
+| last5=Kuperwasser
+| first5=Charlotte
+| last6=Weinberg
+| first6=Robert A.
+| last7=Lander
+| first7=Eric S.
+| volume=138
+| issue=4
+| pages=645–59
+|display-authors=etal}}
+</ref><ref>
+{{cite journal
+| author = Adam Huczynski
+| date = 
+| year = 2012
+| volume =79
+| issue = 3
+| pages=235–238
+| title = Salinomycin – a New Cancer Drug Candidate
+| journal = Chemical Biology & Drug Design
+| doi = 10.1111/j.1747-0285.2011.01287.x
+}}
+</ref>
+
+The [[mechanism of action]] by which salinomycin kills cancer stem cells specifically remains unknown, but is thought to be due to its action as a potassium ionophore due to the detection of [[nigericin]] in the same compound screen. Studies performed in 2011 showed that salinomycin could induce [[apoptosis]] of human cancer cells. Promising results from a few clinical pilot studies reveal that salinomycin is able to effectively eliminate CSCs and to induce partial clinical regression of heavily pretreated and therapy-resistant cancers. The ability of salinomycin to kill both CSCs and therapy-resistant cancer cells may define the compound as a novel and an effective anticancer drug.<ref>C.  Naujokat, R. Steinhart ” Salinomycin as a Drug for Targeting Human Cancer Stem Cells”, ''[[Journal of Biomedicine and Biotechnology]]'', Volume 2012 (2012), Article ID 950658, {{doi| 10.1155/2012/950658}}, [http://downloads.hindawi.com/journals/bmri/2012/950658.pdf open access review article]</ref><ref>A. Huczyński, ”Polyether ionophores—promising bioactive molecules for cancer therapy”, ''[[Bioorganic & Medicinal Chemistry Letters]]'', 2012,22, 7002-7010,{{doi|10.1016/j.bmcl.2012.09.046}}, [http://pdn.sciencedirect.com/science?_ob=MiamiImageURL&_cid=271398&_user=10&_pii=S0960894X12011924&_check=y&_origin=article&_zone=toolbar&_coverDate=2012--01&view=c&originContentFamily=serial&wchp=dGLzVlt-zSkzV&md5=84788aa32c6c31005037121056abfe26&pid=1-s2.0-S0960894X12011924-main.pdf  open access review article]</ref> It has been also shown that Salinomycin and its derivatives exhibit potent antiproliferative activity against the drug-resistant cancer cell lines.<ref>A. Huczyński, J. Janczak, M. Antoszczak, J. Wietrzyk, E. Maj, B. Brzezinski, , ” Antiproliferative activity of salinomycin and its derivatives”, ''[[Bioorganic & Medicinal Chemistry Letters]]'', 2012,22, 7146-7150,{{doi|10.1016/j.bmcl.2012.09.068}},</ref><ref>
+{{cite journal
+| author = Michal Antoszczak and Adam Huczynski
+| date = 
+| year = 2015
+| volume =15
+| issue = 5
+| pages= 575–591
+| title = Anticancer Activity of Polyether Ionophore-Salinomycin
+| journal = Anti-Cancer Agents in Medicinal Chemistry
+| doi = 10.2174/1871520615666150101130209
+}}[http://www.eurekaselect.com/127288/article  review article]
+</ref> Salinomycin is the key compound in the pharmaceutical company Verastem's efforts to produce an anti-cancer-stem-cell drug.
+
+== Use in agriculture ==
+Salinomycin is used in chicken fodder as a [[coccidiostat]].
+
+== Biosynthesis ==
+A team from the [[University of Cambridge]] has cloned and sequenced the biosynthetic cluster responsible for salinomycin production, from ''Streptomyces albus'' DSM 41398.<ref>{{cite journal
+| doi=10.1002/cbic.201100590
+| last=Yurkovich
+| first=Marie E.
+| pmid= 22076845
+| title=A Late-Stage Intermediate in Salinomycin Biosynthesis Is Revealed by Specific Mutation in the Biosynthetic Gene Cluster
+| journal=ChemBioChem
+| date=2011-11-11
+| last2=Tyrakis
+| first2=Petros A.
+| last3=Hong
+| first3=Hui
+| last4=Sun
+| first4=Yuhui
+| last5=Samborskyy
+| first5=Markiyan 
+| last6=Kamiya
+| first6=Kohei
+| last7=Leadlay
+| first7=Peter F.
+| volume=13
+| issue=1
+| pages=66–71
+|display-authors=etal}}</ref> This has shown that the [[polyketide]] backbone of salinomycin is synthesised on an assembly line of nine [[polyketide synthase]] (PKS) multienzymes. Furthermore, the cluster contains genes involved in oxidative cyclization including ''salC'' (epoxidase) and ''salBI/BII/BIII'' (epoxide hydrolase) genes. The cluster also contains genes suspected to be involved in self-resistance, export, precursor supply and regulation.  Interestingly, the cluster contains a NRPS-like carrier protein, SalX, that is suspected to tether “pre-salinomycin” during oxidative cyclization. By inactivating salC the Cambridge-based team have demonstrated that salinomycin biosynthesis proceeds via a diene intermediate.
+
+==See also==
+* [[Narasin]] a derivative of salinomycin which has an additional methyl group.
+* [[Targeted therapy]]
+
+==References==
+
+{{Reflist}}
+
+[[Category:Antibiotics]]
+[[Category:Antiparasitic agents]]
+[[Category:Ionophores]]
+[[Category:Carboxylic acids]]
+[[Category:Alcohols]]
+[[Category:Ketones]]
+[[Category:Tetrahydropyrans]]
+[[Category:Tetrahydrofurans]]
+[[Category:Polyketides]]
+[[Category:Spiro compounds]]

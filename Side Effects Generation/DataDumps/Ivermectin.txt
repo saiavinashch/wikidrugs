@@ -1,0 +1,183 @@
+{{Use mdy dates|date=May 2016}}
+{{Use American English|date=May 2016}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 457127811
+| IUPAC_name = 22,23-dihydroavermectin B<sub>1a</sub> + 22,23-dihydroavermectin B<sub>1b</sub>
+| image = Ivermectin skeletal.svg
+| width = 300
+
+<!--Clinical data-->
+| tradename = Stromectol, Soolantra cream
+| Drugs.com = {{drugs.com|monograph|ivermectin}} ([[antiparasitic]])<br />{{Drugs.com|pro|soolantra-cream}} ([[rosacea]])
+| MedlinePlus = a607069
+| pregnancy_AU = B3
+| pregnancy_US = C
+| legal_US = Rx-only
+| routes_of_administration = by mouth, topical
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound = 93%
+| metabolism = Liver ([[CYP450]])
+| elimination_half-life = 18 hours
+| excretion = Feces; <1% urine
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 70288-86-7
+| CAS_supplemental = {{CAS|71827-03-7}}
+| ATC_prefix = D11
+| ATC_suffix = AX22
+| ATC_supplemental = {{ATC|P02|CF01}} {{ATCvet|P54|AA01}} {{ATCvet|S02|QA03}}
+| PubChem = 9812710
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00602
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 7988461
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 8883YP2R6D
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00804
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 341047
+| PDB_ligand = IVM
+
+<!--Chemical data-->
+| chemical_formula = {{Chem | C|48 | H|74 | O|14}} {{nowrap|1=(22,23-dihydroavermectin&nbsp;B<sub>1a</sub>)}}<br />{{Chem | C|47 | H|72 | O|14}} {{nowrap|1=(22,23-dihydroavermectin&nbsp;B<sub>1b</sub>)}}
+| molecular_weight = 875.10 g/mol
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C48H74O14.C47H72O14/c1-11-25(2)43-28(5)17-18-47(62-43)23-34-20-33(61-47)16-15-27(4)42(26(3)13-12-14-32-24-55-45-40(49)29(6)19-35(46(51)58-34)48(32,45)52)59-39-22-37(54-10)44(31(8)57-39)60-38-21-36(53-9)41(50)30(7)56-38;1-24(2)41-27(5)16-17-46(61-41)22-33-19-32(60-46)15-14-26(4)42(25(3)12-11-13-31-23-54-44-39(48)28(6)18-34(45(50)57-33)47(31,44)51)58-38-21-36(53-10)43(30(8)56-38)59-37-20-35(52-9)40(49)29(7)55-37/h12-15,19,25-26,28,30-31,33-45,49-50,52H,11,16-18,20-24H2,1-10H3;11-14,18,24-25,27,29-30,32-44,48-49,51H,15-17,19-23H2,1-10H3/b13-12+,27-15+,32-14+;12-11+,26-14+,31-13+/t25-,26-,28-,30-,31-,33+,34-,35-,36-,37-,38-,39-,40+,41-,42-,43+,44-,45+,47+,48+;25-,27-,29-,30-,32+,33-,34-,35-,36-,37-,38-,39+,40-,41+,42-,43-,44+,46+,47+/m00/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SPBDXSGPUHCETR-JFUDTMANSA-N
+| smiles = CC[C@H](C)[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)C.C[C@H]1CC[C@]2(C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)O[C@@H]1C(C)C
+}}
+<!-- Definition and medical uses -->
+'''Ivermectin''' is a medication that is effective against many types of [[parasite]]s.<ref name=Sau2015 /> It is used to treat [[head lice infestation|head lice]],<ref name=AHFS2016 /> [[scabies]],<ref>{{cite journal|last1=Panahi|first1=Y|last2=Poursaleh|first2=Z|last3=Goldust|first3=M|title=The efficacy of topical and oral ivermectin in the treatment of human scabies.|journal=Annals of Parasitology|date=2015|volume=61|issue=1|pages=11–6|pmid=25911032}}</ref> [[river blindness]],<ref>{{cite book|last1=Sneader|first1=Walter|title=Drug Discovery a History.|date=2005|publisher=John Wiley & Sons|location=Chichester|isbn=978-0-470-01552-0|page=333|url=https://books.google.co.jp/books?id=jglFsz5EJR8C&pg=PA333|deadurl=no|archiveurl=https://web.archive.org/web/20160131141138/https://books.google.co.jp/books?id=jglFsz5EJR8C&pg=PA333|archivedate=January 31, 2016|df=mdy-all}}</ref> [[strongyloidiasis]],<ref name=Ric2014 /> and [[lymphatic filariasis]], among others.<ref name=Meh2008 /> It can be either applied to the skin or taken by mouth.<ref name=AHFS2016 /> The eyes should be avoided.<ref name=AHFS2016 />
+
+<!-- Side effects and mechanism -->
+Common side effects include [[Red eye (medicine)|red eyes]], dry skin, and burning skin.<ref name=AHFS2016>{{cite web|title=Ivermectin|url=http://www.drugs.com/monograph/ivermectin.html|publisher=The American Society of Health-System Pharmacists|accessdate=16 January 2016|deadurl=no|archiveurl=https://web.archive.org/web/20160103191914/http://www.drugs.com/monograph/ivermectin.html|archivedate=January 3, 2016|df=mdy-all}}</ref> It is unclear if it is safe for use during [[pregnancy]], but is likely acceptable for use during [[breastfeeding]].<ref>{{cite web|title=Ivermectin Levels and Effects while Breastfeeding|url=http://www.drugs.com/breastfeeding/ivermectin.html|accessdate=January 16, 2016|deadurl=no|archiveurl=https://web.archive.org/web/20160101113118/http://www.drugs.com/breastfeeding/ivermectin.html|archivedate=January 1, 2016|df=mdy-all}}</ref> It is in the [[avermectin]] family of medications and works by causing an increase in permeability of cell membrane resulting in paralysis and death of the parasite.<ref name=AHFS2016 />
+
+<!-- Society and culture -->
+Ivermectin was discovered in 1975 and came into medical use in 1981.<ref name=Meh2008>{{cite book|last1=Mehlhorn|first1=Heinz|title=Encyclopedia of parasitology|date=2008|publisher=Springer|location=Berlin|isbn=978-3-540-48994-8|page=646|edition=3rd|url=https://books.google.co.jp/books?id=Jpg1ysgVn-AC&pg=PA646|deadurl=no|archiveurl=https://web.archive.org/web/20160131155507/https://books.google.co.jp/books?id=Jpg1ysgVn-AC&pg=PA646|archivedate=January 31, 2016|df=mdy-all}}</ref><ref>{{cite book|last1=Vercruysse|first1=edited by J.|last2=Rew|first2=R.S.|title=Macrocyclic lactones in antiparasitic therapy|date=2002|publisher=CABI Pub.|location=Oxon, UK|isbn=978-0-85199-840-4|page=Preface|url=https://books.google.co.jp/books?id=QXafQ91O74wC&pg=PR13|deadurl=no|archiveurl=https://web.archive.org/web/20160131121128/https://books.google.co.jp/books?id=QXafQ91O74wC&pg=PR13|archivedate=January 31, 2016|df=mdy-all}}</ref> It is on the [[World Health Organization's List of Essential Medicines]], the most effective and safe medicines needed in a [[health system]].<ref name=WHO19th>{{cite web|title=WHO Model List of Essential Medicines (19th List)|url=http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|work=World Health Organization|accessdate=8 December 2016|date=April 2015|deadurl=no|archiveurl=https://web.archive.org/web/20161213052708/http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|archivedate=December 13, 2016|df=mdy-all}}</ref> The wholesale cost in the [[developing world]] is about US$0.12 for a course of treatment.<ref>{{cite web|title=Ivermectin|url=http://erc.msh.org/dmpguide/resultsdetail.cfm?language=english&code=IV3T&s_year=2013&year=2013&str=3%20mg&desc=Ivermectin&pack=new&frm=TAB-CAP&rte=PO&class_code2=06%2E1%2E2%2E&supplement=&class_name=%2806%2E1%2E2%2E%29Antifilarials%3Cbr%3E|website=International Drug Price Indicator Guide|accessdate=January 16, 2016}}</ref> In the United States it costs $25–50.<ref name=Ric2014>{{cite book|last1=Hamilton|first1=Richard J.|title=Tarascon pocket pharmacopoeia : 2014 deluxe lab-pocket edition|date=2014|publisher=Jones & Bartlett Learning|location=Sudbury|isbn=978-1-284-05399-9|page=422|edition=15th|url=https://books.google.co.jp/books?id=BwqEAgAAQBAJ&pg=PA422|deadurl=no|archiveurl=https://web.archive.org/web/20160131114409/https://books.google.co.jp/books?id=BwqEAgAAQBAJ&pg=PA422|archivedate=January 31, 2016|df=mdy-all}}</ref> In other animals it is used to prevent and treat [[heartworm]] among other diseases.<ref name=Sau2015>{{cite book|title=Saunders Handbook of Veterinary Drugs: Small and Large Animal|date=2015|publisher=Elsevier Health Sciences|isbn=978-0-323-24486-2|page=420|edition=4|url=https://books.google.co.jp/books?id=SJvmCgAAQBAJ&pg=PA420|deadurl=no|archiveurl=https://web.archive.org/web/20160131142826/https://books.google.co.jp/books?id=SJvmCgAAQBAJ&pg=PA420|archivedate=January 31, 2016|df=mdy-all}}</ref>
+
+== Medical uses ==
+
+Ivermectin is a broad-spectrum antiparasitic agent, traditionally against [[parasitic worm]]s and other multicellular  parasites. It is mainly used in humans in the treatment of [[onchocerciasis]] (river blindness), but is also effective against other worm infestations (such as [[strongyloidiasis]], [[ascariasis]], [[trichuriasis]], [[filariasis]] and [[enterobiasis]]), and some epidermal parasitic skin diseases, including [[scabies]].
+
+Ivermectin is currently being used to help eliminate river blindness (onchocerciasis) in the [[Americas]], and to stop [[transmission (medicine)|transmission]] of [[lymphatic filariasis]] and onchocerciasis around the world in programs sponsored by the Carter Center using ivermectin donated by Merck.<ref name="RBP">{{cite web | author=The Carter Center | title=River Blindness (Onchocerciasis) Program | url=http://www.cartercenter.org/health/river_blindness/index.html | accessdate=July 17, 2008 | postscript=<!--None--> | deadurl=no | archiveurl=https://web.archive.org/web/20080720091056/http://cartercenter.org/health/river_blindness/index.html | archivedate=July 20, 2008 | df=mdy-all }}</ref><ref name="LFEP">{{cite web | author=The Carter Center | title=Lymphatic Filariasis Elimination Program | url=http://www.cartercenter.org/health/lf/index.html | accessdate=July 17, 2008 | postscript=<!--None--> | deadurl=no | archiveurl=https://web.archive.org/web/20080720092050/http://cartercenter.org/health/lf/index.html | archivedate=July 20, 2008 | df=mdy-all }}</ref><ref name="APOC">{{cite web | author=WHO | title=African Programme for Onchocerciasis Control | url=http://www.who.int/blindness/partnerships/APOC/en/ | accessdate=November 12, 2009 | postscript=<!--None--> | deadurl=no | archiveurl=https://web.archive.org/web/20090922222045/http://www.who.int/blindness/partnerships/APOC/en/ | archivedate=September 22, 2009 | df=mdy-all }}</ref> The disease is common in 30 African countries, six Latin American countries, and Yemen.<ref name="UFAR">{{cite web|author=United Front Against Riverblindness |title=Onchocerciasis or Riverblindness |url=http://www.riverblindness.org/index.php?menu=tn2&page=aboutRiverblindness |postscript= |archive-url=https://web.archive.org/web/20070826234834/http://www.riverblindness.org/index.php?menu=tn2&page=aboutRiverblindness |archive-date=August 26, 2007 |deadurl=yes |df= }}</ref> The drug rapidly kills microfilariae, but not the adult worms. A single oral dose of ivermectin, taken annually for the 10{{ndash}}15-year lifespan of the adult worms, is all that is needed to protect the individual from onchocerciasis.<ref name="UFAR Treatment">{{cite web|author=United Front Against Riverblindness |title=Control of Riverblindness |url=http://www.riverblindness.org/index.php?menu=tn3&page=Treatment |postscript= |archive-url=https://web.archive.org/web/20070827154413/http://www.riverblindness.org/index.php?menu=tn3&page=Treatment |archive-date=August 27, 2007 |deadurl=yes |df= }}</ref>
+
+=== Arthropod ===
+
+'''More recent evidence supports its use against parasitic arthropods and insects''':
+* [[Mites]] such as [[scabies]]:<ref name="pmid12174005">{{cite journal |vauthors=Brooks PA, Grace RF |title=Ivermectin is better than benzyl benzoate for childhood scabies in developing countries |journal=J Paediatr Child Health |volume=38 |issue=4 |pages=401–4 |date=August 2002 |pmid=12174005 |doi= 10.1046/j.1440-1754.2002.00015.x|url=http://www3.interscience.wiley.com/resolve/openurl?genre=article&sid=nlm:pubmed&issn=1034-4810&date=2002&volume=38&issue=4&spage=401}}</ref><ref name="pmid11207977">{{cite journal |vauthors=Victoria J, Trujillo R |title=Topical ivermectin: a new successful treatment for scabies |journal=Pediatr Dermatol |volume=18 |issue=1 |pages=63–5 |year=2001 |pmid=11207977 |doi= 10.1046/j.1525-1470.2001.018001063.x|url=http://www3.interscience.wiley.com/resolve/openurl?genre=article&sid=nlm:pubmed&issn=0736-8046&date=2001&volume=18&issue=1&spage=63}}</ref><ref name="pmid17636630">{{cite journal| author = Strong M, Johnstone PW| title = Interventions for treating scabies| journal = Cochrane Database of Systematic Reviews| volume =| issue = 3| pages = CD000320| year = 2007| pmid = 17636630| doi = 10.1002/14651858.CD000320.pub2| url =| editor1-last = Strong| editor1-first = Mark}}</ref> It is usually limited to cases that prove to be resistant to topical treatments or that present in an advanced state (such as [[Norwegian scabies]]).<ref name="pmid17636630" />
+* [[louse|Lice]]:<ref>{{cite journal| author = Dourmishev AL | author2=Dourmishev LA | author3=Schwartz RA| title = Ivermectin: pharmacology and application in dermatology| journal = International Journal of Dermatology| volume = 44| issue = 12| pages = 981–8|date=December 2005| pmid = 16409259| doi = 10.1111/j.1365-4632.2004.02253.x}}</ref><ref>{{cite journal| author = Strycharz JP | author2=Yoon KS | author3=Clark JM | title = A new ivermectin formulation topically kills permethrin-resistant human head lice (Anoplura: Pediculidae)| journal = Journal of Medical Entomology| volume = 45| issue = 1| pages = 75–81|date=January 2008| pmid = 18283945| doi = 10.1603/0022-2585(2008)45[75:ANIFTK]2.0.CO;2| issn = 0022-2585 }}</ref> Ivermectin lotion (0.5%) is FDA-approved for patients six months of age and older.<ref>[http://www.drugs.com/sklice.html "Sklice lotion"] {{webarchive|url=https://web.archive.org/web/20120512075611/http://www.drugs.com/sklice.html |date=May 12, 2012 }}.</ref> After a single, 10-minute application of this formulation on dry hair, 78% of subjects were found to be free of lice after two weeks.<ref name=nejm>{{cite journal |journal=New England Journal of Medicine |date=November 1, 2012 |author=David M. Pariser, M.D. |author2=Terri Lynn Meinking, Ph.D. |author3=Margie Bell, M.S. |author4=William G. Ryan, B.V.Sc. |volume=367 |issue=18 |pages=1687–1693 |url=http://www.nejm.org/doi/full/10.1056/NEJMoa1200107 |title=Topical 0.5% Ivermectin Lotion for Treatment of Head Lice |doi=10.1056/NEJMoa1200107 |pmid=23113480 |deadurl=no |archiveurl=https://web.archive.org/web/20130527073356/http://www.nejm.org/doi/full/10.1056/NEJMoa1200107 |archivedate=May 27, 2013 |df=mdy-all }}</ref> This level of effectiveness is equivalent to other [[pediculicide]] treatments requiring two applications.<ref>{{citation |publisher=Los Angeles Times |date=November 5, 2012 |title=Study shows ivermectin ending lice problem in one treatment }}</ref>
+* [[Bed bug]]s:<ref>{{cite web|url=http://well.blogs.nytimes.com/2012/12/31/pill-could-join-arsenal-against-bedbugs|title=Pill Could Join Arsenal Against Bedbugs|author=DONALD G. MCNEIL JR.|publisher=The New York Times|date=December 31, 2012|accessdate=April 5, 2013|deadurl=no|archiveurl=https://web.archive.org/web/20130331222600/http://well.blogs.nytimes.com/2012/12/31/pill-could-join-arsenal-against-bedbugs/|archivedate=March 31, 2013|df=mdy-all}}</ref> Early research shows that the drug kills bed bugs when taken by humans at normal doses. The drug enters the human bloodstream and if the bedbugs bite during that time, they will die in a few days.
+
+=== Rosacea ===
+
+An ivermectin cream has been approved by the [[FDA]], as well as in Europe, for the treatment of inflammatory [[lesion]]s of [[rosacea]]. The treatment is based upon the hypothesis that parasitic mites of the genus ''[[Demodex]]'' play a role in rosacea. In a clinical study, ivermectin reduced lesions by 83% over 4 months, as compared to 74% under a [[metronidazole]] standard therapy.<ref>[http://www.drugs.com/newdrugs/galderma-receives-fda-approval-soolantra-ivermectin-cream-rosacea-4135.html Galderma Receives FDA Approval of Soolantra (Ivermectin) Cream for Rosacea] {{webarchive|url=https://web.archive.org/web/20150122021246/http://www.drugs.com/newdrugs/galderma-receives-fda-approval-soolantra-ivermectin-cream-rosacea-4135.html |date=January 22, 2015 }}"</ref><ref>{{cite web|url=http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b1d5b166-ab06-4ab5-b0c6-31126238118a|title=SOOLANTRA- ivermectin cream (NDC Code(s): 0299-3823-30, 0299-3823-45, 0299-3823-60)|website=DailyMed|date=December 2014|access-date=September 9, 2015|deadurl=no|archiveurl=https://web.archive.org/web/20160224120140/http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b1d5b166-ab06-4ab5-b0c6-31126238118a|archivedate=February 24, 2016|df=mdy-all}}</ref><ref>{{cite news|url=http://www.galderma.com/News/articleType/ArticleView/articleId/79/Galderma-Announces-Positive-Outcome-of-European-Decentralised-Procedure-for-Approval-of-SOOLANTRA-ivermectin-Cream-10mgg-for-Rosacea-Patients|publisher=Galderma|title=Galderma Announces Positive Outcome of European Decentralised Procedure for Approval of Soolantra (ivermectin) Cream 10mg/g for Rosacea Patients|date=March 27, 2015|deadurl=no|archiveurl=https://web.archive.org/web/20160305154203/http://www.galderma.com/News/articleType/ArticleView/articleId/79/Galderma-Announces-Positive-Outcome-of-European-Decentralised-Procedure-for-Approval-of-SOOLANTRA-ivermectin-Cream-10mgg-for-Rosacea-Patients|archivedate=March 5, 2016|df=mdy-all}}</ref>
+
+== Contraindications ==
+
+Ivermectin is contraindicated in children under the age of five, or those who weigh less than {{convert|15|kg|abbr=off}}<ref>{{cite journal| author = Dourmishev AL | author2=Dourmishev LA | author3=Schwartz RA | title = Ivermectin: pharmacology and application in dermatology| journal = International Journal of Dermatology| volume = 44| issue = 12| pages = 981–988|date=December 2005| pmid = 16409259| doi = 10.1111/j.1365-4632.2004.02253.x}}</ref> and those who are breastfeeding, and have a hepatic or renal disease.<ref>{{cite journal|last1=Heukelbach|first1=J|last2=Winter|first2=B|last3=Wilcke|first3=T|last4=Muehlen|first4=M|last5=Albrecht|first5=S|last6=de Oliveira|first6=FA|last7=Kerr-Pontes|first7=LR|last8=Liesenfeld|first8=O|last9=Feldmeier|first9=H|title=Selective mass treatment with ivermectin to control intestinal helminthiases and parasitic skin diseases in a severely affected population.|journal=Bulletin of the World Health Organization|date=August 2004|volume=82|issue=8|pages=563–71|pmid=15375445}}</ref>
+
+== Side effects ==
+
+The main concern is neurotoxicity, which in most mammalian species may manifest as [[central nervous system depression]], and consequent [[ataxia]], as might be expected from potentiation of inhibitory GABA-ergic synapses.
+
+Dogs with defects in the P-glycoprotein gene (''MDR1''), often collie-like herding dogs, can be severely poisoned by ivermectin.
+
+Since drugs that inhibit CYP3A4 enzymes often also inhibit P-glycoprotein transport, the risk of increased absorption past the blood-brain barrier exists when ivermectin is administered along with other CYP3A4 inhibitors. These drugs include statins, HIV protease inhibitors, many calcium channel blockers, and glucocorticoids such as dexamethasone, lidocaine, and the benzodiazepines.<ref>Goodman and Gilman's Pharmacological Basis of Therapeutics, 11th edition, pages 122, 1084–1087.</ref>
+
+For dogs, the insecticide [[spinosad]] may have the effect of increasing the potency of ivermectin.<ref>{{cite web|title=COMFORTIS® and ivermectin interaction Safety Warning Notification|url=http://www.fda.gov/animalveterinary/newsevents/cvmupdates/ucm047942.htm|publisher=U.S. Food and Drug Administration (FDA) Center for Veterinary Medicine (CVM)|archive-url=https://web.archive.org/web/20090829064135/http://www.fda.gov/AnimalVeterinary/NewsEvents/CVMUpdates/ucm047942.htm|archive-date=August 29, 2009}}</ref>
+
+== Pharmacology ==
+
+=== Pharmacodynamics ===
+
+Ivermectin and other avermectins ([[insecticide]]s most frequently used in home-use [[ant]] baits) are [[cyclic compound|macrocyclic]] [[lactones]] derived from the [[bacterium]] ''[[Streptomyces avermitilis]]''. Ivermectin kills by interfering with [[nervous system]] and [[muscle]] function, in particular by enhancing inhibitory [[neurotransmission]].
+
+The drug binds to glutamate-gated [[chloride channels]] (GluCls) in the membranes of [[invertebrate]] nerve and muscle cells, causing increased permeability to chloride ions, resulting in cellular hyper-polarization, followed by paralysis and death.<ref name=AHFS2016 /><ref name="pmid15313134">{{cite journal |vauthors=Yates DM, Wolstenholme AJ |title=An ivermectin-sensitive glutamate-gated chloride channel subunit from Dirofilaria immitis |journal=Int. J. Parasitol. |volume=34 |issue=9 |pages=1075–81 |date=August 2004 |pmid=15313134 |doi=10.1016/j.ijpara.2004.04.010 |url=http://linkinghub.elsevier.com/retrieve/pii/S0020751904000979}}</ref> GluCls are invertebrate-specific members of the [[Cys-loop]] family of [[ligand-gated ion channel]]s present in [[neuron]]s and [[myocyte]]s.
+
+=== Pharmacokinetics ===
+
+Ivermectin can be given either by mouth or injection. It does not readily cross the [[blood–brain barrier]] of [[mammal]]s due to the presence of [[P-glycoprotein]],<ref>{{cite journal|vauthors=Borst P, Schinkel AH | title = What have we learnt thus far from mice with disrupted P-glycoprotein genes?| journal = European Journal of Cancer| volume = 32| issue = 6| pages =985–990|date=June 1996| pmid =| doi = 10.1016/0959-8049(96)00063-9}}</ref> (the ''MDR1'' gene mutation affects function of this protein). Crossing may still become significant if ivermectin is given at high doses (in which case, brain levels peak 2–5 hr after administration).
+In contrast to mammals, ivermectin can cross the blood–brain barrier in tortoises, often with fatal consequences.
+
+=== Ecotoxicity ===
+
+Field studies have demonstrated the dung of animals treated with ivermectin supports a significantly reduced diversity of invertebrates, and the dung persists longer.<ref>{{cite journal |vauthors=Iglesias LE, Saumell CA, Fernández AS, etal | title = Environmental impact of ivermectin excreted by cattle treated in autumn on dung fauna and degradation of faeces on pasture| journal = Parasitology Research| volume = 100| issue = 1| pages = 93–102|date=December 2006| pmid = 16821034| doi = 10.1007/s00436-006-0240-x}}</ref>
+
+== History ==
+
+The discovery of the [[avermectin]] family of compounds, from which ivermectin is chemically derived, was made by [[Satoshi Ōmura]] of Kitasato University, Tokyo and [[William C. Campbell (scientist)|William C. Campbell]] of the Merck Institute for Therapeutic research. Ōmura identified avermectin from the bacterium ''[[Streptomyces avermitilis]]''. Campbell purified avermectin from cultures obtained from Ōmura and led efforts leading to the discovery of ivermectin, a derivative of greater potency and lower toxicity.<ref>{{cite journal |vauthors=Fisher MH, Mrozik H |title=The chemistry and pharmacology of avermectins |journal=Annu. Rev. Pharmacol. Toxicol. |volume=32 |issue= |pages=537–53 |year=1992 |pmid=1605577 |doi=10.1146/annurev.pa.32.040192.002541 |url=}}</ref> Ivermectin was introduced in 1981.<ref>{{cite book|publisher=American Chemical Society|isbn=978-0-8412-1083-7|pages=5–20|url=http://pubs.acs.org/doi/pdf/10.1021/bk-1984-0255.ch001|author=W. C. CAMPBELL| author2=R. W. BURG | author3=M. H. FISHER | author4=R. A. DYBAS|title=Pesticide Synthesis Through Rational Approaches|volume=255|chapter=1|date=June 26, 1984|doi=10.1021/bk-1984-0255.ch001|series=ACS Symposium Series}}</ref> Half of the 2015 [[Nobel Prize in Physiology or Medicine]] was awarded jointly to Campbell and Ōmura for discovering avermectin, "the  derivatives  of which have radically lowered the incidence of [[Onchocerciasis|river blindness]] and [[lymphatic filariasis]], as well as showing efficacy against an expanding number of other  parasitic diseases".<ref name="nobel-2015">{{cite web|url=https://www.nobelprize.org/nobel_prizes/medicine/laureates/2015/press.pdf|format=PDF|title=The Nobel Prize in Physiology or Medicine 2015|publisher=Nobel Foundation|accessdate=October 7, 2015|deadurl=no|archiveurl=https://web.archive.org/web/20151006112430/http://www.nobelprize.org/nobel_prizes/medicine/laureates/2015/press.pdf|archivedate=October 6, 2015|df=mdy-all}}</ref>
+
+== Brand names ==
+
+It is sold under [[brand names]] Heartgard, Sklice<ref>{{cite web|url=http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4c5557cd-c4cf-11df-851a-0800200c9a66|title=SKLICE- ivermectin lotion (NDC Code(s): 49281-183-71)|website=DailyMed|date=February 2012|access-date=September 9, 2015|deadurl=no|archiveurl=https://web.archive.org/web/20160306023406/http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4c5557cd-c4cf-11df-851a-0800200c9a66|archivedate=March 6, 2016|df=mdy-all}}</ref> and Stromectol<ref>{{cite web|url=http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=681888c9-af79-4b7d-ae80-c3f4f6f1effd|title=STROMECTOL- ivermectin tablet (NDC Code(s): 0006-0032-20)|website=DailyMed|date=May 2010|access-date=September 9, 2015|deadurl=no|archiveurl=https://web.archive.org/web/20160306025605/http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=681888c9-af79-4b7d-ae80-c3f4f6f1effd|archivedate=March 6, 2016|df=mdy-all}}</ref> in the United States, Ivomec worldwide by Merial Animal Health, Mectizan in Canada by [[Merck & Co.|Merck]], Iver-DT<ref>{{cite web|title = ALIVE PHARMACEUTICAL (P) LTD.: Iver-DT|url = http://alivepharmaceutical.blogspot.com/2014/05/iver-dt.html|website = ALIVE PHARMACEUTICAL (P) LTD.|date = May 27, 2014|accessdate = October 7, 2015|first = Santosh|last = Adhikari|deadurl = no|archiveurl = https://web.archive.org/web/20160304223410/http://alivepharmaceutical.blogspot.com/2014/05/iver-dt.html|archivedate = March 4, 2016|df = mdy-all}}</ref> in Nepal by Alive Pharmaceutical and Ivexterm in Mexico by [[Valeant Pharmaceuticals International]]. In Southeast Asian countries, it is marketed by Delta Pharma Ltd. under the trade name Scabo 6. While in development, it was assigned the code MK-933 by Merck.<ref>{{cite journal| author = Pampiglione S | author2=Majori G | author3=Petrangeli G | author4=Romi R| title = Avermectins, MK-933 and MK-936, for mosquito control| journal = Trans R Soc Trop Med Hyg| year = 1985| volume = 79| issue = 6| pages = 797–9| pmid = 3832491| doi = 10.1016/0035-9203(85)90121-X}}</ref>
+
+== Veterinary use ==
+
+In veterinary medicine ivermectin is used against many intestinal worms (but not tapeworms), most mites, and some lice. Despite this, it is not effective for eliminating ticks, flies, flukes, or fleas. Eggs and larvae mature and come back to the host. It is effective against larval heartworms, but not against adult heartworms, though it may shorten their lives. The dose of the medicine must be very accurately measured as it is very toxic in over-dosage. It is sometimes administered in combination with other medications to treat a broad spectrum of animal parasites. Some dog breeds (especially the [[Rough Collie]], the [[Smooth Collie]], the [[Shetland Sheepdog]], and the [[Australian Shepherd]]), though, have a high incidence of a certain mutation within the ''[[MDR1]]'' gene (coding for [[P-glycoprotein]]); affected animals are particularly sensitive to the toxic effects of ivermectin.<ref>[http://www.ashgi.org/articles/mdr1.htm "MDR1 FAQs"] {{webarchive |url=https://web.archive.org/web/20071213125320/http://www.ashgi.org/articles/mdr1.htm |date=December 13, 2007 }}, Australian Shepherd Health & Genetics Institute, Inc.</ref><ref>[http://vcpl.vetmed.wsu.edu/vcpl-home "Multidrug Sensitivity in Dogs"] {{webarchive|url=https://web.archive.org/web/20150623212433/http://vcpl.vetmed.wsu.edu/vcpl-home |date=June 23, 2015 }}, Washington State University's College of Veterinary Medicine</ref> Clinical evidence suggests kittens are susceptible to ivermectin toxicity.<ref>{{cite journal|vauthors=Frischke H, Hunt L | title = Suspected ivermectin toxicity| journal = Canadian Veterinary Journal| volume = 32| issue = 4| page = 245|date=April 1991| doi =| pmc=1481314| pmid=17423775}}</ref> A 0.01% ivermectin topical preparation for treating [[ear mite]]s in cats (Acarexx) is available.
+
+Ivermectin is sometimes used as an [[acaricide]] in reptiles, both by injection and as a diluted spray. While this works well in some cases, care must be taken, as several species of reptiles are very sensitive to ivermectin. Use in turtles is particularly contraindicated.
+
+== Research ==
+
+Ivermectin is also being studied as a potential antiviral agent against the viruses [[chikungunya]] and [[yellow fever]].<ref>{{cite journal | author = Varghese FS | date = Feb 2016 | title = Discovery of berberine, abamectin and ivermectin as antivirals against chikungunya and other alphaviruses | url = | journal = Antiviral Res | volume = 126 | issue = | pages = 117–24 | doi = 10.1016/j.antiviral.2015.12.012 | pmid = 26752081 |display-authors=etal}}</ref>
+
+A 2012 [[Cochrane (organisation)|Cochrane review]] found weak evidence suggesting that ivermectin could result in the reduction of chorioretinal lesions and prevent loss of vision in people with [[onchocerciasis]].<ref name="Ejere">{{cite journal |vauthors=Ejere HO, Schwartz E, Wormald R, Evans JR |title= Ivermectin for onchocercal eye disease (river blindness) |journal=Cochrane Database Syst Rev |volume=8 |issue= 8 |pages= CD002219 |date=2012 |pmid= 22895928|doi= 10.1002/14651858.CD002219.pub2 |pmc=4425412}}</ref>
+
+In 2013, this antiparasitic drug was demonstrated as a novel ligand of [[farnesoid X receptor]] (FXR),<ref name="pmid25388537">{{cite journal |vauthors=Carotti A, Marinozzi M, Custodi C, Cerra B, Pellicciari R, Gioiello A, Macchiarulo A |title=Beyond bile acids: targeting Farnesoid X Receptor (FXR) with natural and synthetic ligands |journal=Curr Top Med Chem |volume=14 |issue=19 |pages=2129–42 |year=2014 |pmid=25388537 |doi= |url=}}</ref><ref>{{cite journal|last1=Jin|first1=L|last2=Feng|first2=X|last3=Rong|first3=H|last4=Pan|first4=Z|last5=Inaba|first5=Y|last6=Qiu|first6=L|last7=Zheng|first7=W|last8=Lin|first8=S|last9=Wang|first9=R|last10=Wang|first10=Z|last11=Wang|first11=S|last12=Liu|first12=H|last13=Li|first13=S|last14=Xie|first14=W|last15=Li|first15=Y|title=The antiparasitic drug ivermectin is a novel FXR ligand that regulates metabolism.|journal=Nature Communications|date=2013|volume=4|pages=1937|pmid=23728580}}</ref> a therapeutic target for [[Nonalcoholic Fatty Liver Disease]].<ref>{{cite journal|last1=Kim|first1=Sun-Gi|last2=Kim|first2=Byung-Kwon|last3=Kim|first3=Kyumin|last4=Fang|first4=Sungsoon|title=Bile Acid Nuclear Receptor Farnesoid X Receptor: Therapeutic Target for Nonalcoholic Fatty Liver Disease|journal=Endocrinology and Metabolism|date=17 May 2017|volume=31|issue=4|pages=500–504|doi=10.3803/EnM.2016.31.4.500|pmc=5195824|issn=2093-596X}}</ref>
+
+== See also ==
+
+{{Portal|Medicine}}
+
+* [[Carter Center]]
+* [[Neglected Diseases|Neglected diseases]]
+* [[United Front Against Riverblindness]]
+
+== Notes and references ==
+
+{{Reflist}}
+
+== External links ==
+
+* [http://www.merck.com/product/usa/pi_circulars/s/stromectol/stromectol_pi.pdf Stromectol]
+* [http://www.cartercenter.org/health/river_blindness/index.html The Carter Center River Blindness (Onchocerciasis) Control Program]
+* [http://www.mectizan.org/ Mectizan Donation Program]
+* [http://www.riverblindness.org/ American NGDO Treating River Blindness]
+* [http://www.merck.com/about/featured-stories/mectizan1.html MERCK. 25 Years: The MECTIZAN® Donation Program]{{webarchive |url=https://web.archive.org/web/20121013211354/http://www.merck.com/about/featured-stories/mectizan1.html |date=October 13, 2012 }}
+* [https://www.youtube.com/watch?v=t96_xbpXH-M Trinity College Dublin. Prof William Campbell – The Story of Ivermectin]
+* {{cite web|url=http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=847a1dd7-d65b-4a0e-a67d-d90392059dac|title=IVERMECTIN- ivermectin tablet (NDC Code(s): 42799-806-01)|website=DailyMed|date=November 2014|access-date=September 9, 2015}}
+* {{cite web|url=http://reference.medscape.com/drug/stromectol-ivermectin-342657|title=ivermectin (Rx) Stromectol|website=Medscape|publisher=WebMD|access-date=November 1, 2015}}
+
+{{Anthelmintics}}
+{{Ectoparasiticides}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{GABAA receptor positive modulators}}
+{{Glycine receptor modulators}}
+{{Nicotinic acetylcholine receptor modulators}}
+{{Purine receptor modulators}}
+}}
+{{Authority control}}
+
+[[Category:Acaricides]]
+[[Category:Antiparasitic agents]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:Glycine receptor agonists]]
+[[Category:Insecticides]]
+[[Category:Japanese inventions]]
+[[Category:Macrolides]]
+[[Category:Merck]]
+[[Category:Nicotinic agonists]]
+[[Category:Peripherally selective drugs]]
+[[Category:Veterinary drugs]]
+[[Category:World Health Organization essential medicines]]
+[[Category:RTT]]

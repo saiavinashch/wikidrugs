@@ -1,0 +1,179 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 461425696
+| IUPAC_name = (3''R'')-3-Cyclopentyl-3-[4-(7''H''-pyrrolo[2,3-d]pyrimidin-4-yl)pyrazol-1-yl]propanenitrile
+| image = Ruxolitinib.svg
+| width = 140
+
+<!--Clinical data-->
+| tradename = Jakafi, Jakavi
+| Drugs.com = {{Drugs.com|monograph|ruxolitinib}}
+| MedlinePlus = a612006
+| licence_EU = Jakavi
+| licence_US = Ruxolitinib
+| pregnancy_AU = C
+| pregnancy_US = C
+| pregnancy_category =
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status =
+| routes_of_administration = [[Oral administration|By mouth]], [[Topical medication|topical]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 95%<ref name = MSR>{{cite web|title=Jakafi (ruxolitinib) dosing, indications, interactions, adverse effects, and more|work=Medscape Reference|publisher=WebMD|accessdate=16 February 2014|url=http://reference.medscape.com/drug/jakafi-ruxolitinib-999703#showall}}</ref>
+| protein_bound = 97%<ref name = MSR/>
+| metabolism = Hepatic (mainly [[CYP3A4]]-mediated)<ref name = MSR/>
+| elimination_half-life = 2.8-3 hours<ref name = MSR/>
+| excretion = Urine (74%), faeces (22%)<ref name = MSR/>
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5688
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 25027389
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 941678-49-5
+| ATC_prefix = L01
+| ATC_suffix = XE18
+| ATC_supplemental =
+| PubChem = 25126798
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 82S8X8XX8H
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D09959
+| synonyms = INCB018424, INC424
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1789941
+| PDB_ligand = RXT
+
+<!--Chemical data-->
+| chemical_formula =
+| C=17 | H=18 | N=6
+| molecular_weight = 306.37 g/mol
+| smiles = C1CCC(C1)C(CC#N)N2C=C(C=N2)C3=C4C=CNC4=NC=N3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H18N6/c18-7-5-15(12-3-1-2-4-12)23-10-13(9-22-23)16-14-6-8-19-17(14)21-11-20-16/h6,8-12,15H,1-5H2,(H,19,20,21)/t15-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = HFNKQEVNSGCOJV-OAHLLOKOSA-N
+}}
+
+'''Ruxolitinib''' (trade names '''Jakafi''' {{IPAc-en|ˈ|dʒ|æ|k|ə|f|aɪ}} {{respell|JAK|ə-fye}} and '''Jakavi''') is a [[pharmaceutical drug|drug]] for the treatment of intermediate or high-risk [[myelofibrosis]], a type of myeloproliferative disorder that affects the bone marrow,<ref>{{cite journal | doi = 10.1038/nrd3652 | title = Ruxolitinib | year = 2012 | last1 = Mesa | first1 = Ruben A. | last2 = Yasothan | first2 = Uma | last3 = Kirkpatrick | first3 = Peter | journal = Nature Reviews Drug Discovery | volume = 11 | issue = 2 | pages = 103–4 | pmid = 22293561}}</ref><ref>{{cite journal | doi = 10.1586/17474086.2013.827413 | title = Practical management of patients with myelofibrosis receiving ruxolitinib | year = 2013 | last1 = Harrison | first1 = C | last2 = Mesa | first2 = R | last3 = Ross | first3 = D | last4 = Mead | first4 = A | last5 = Keohane | first5 = C | last6 = Gotlib | first6  = J | last7 = Verstovsek | first7  = S | journal = Expert Review of Hematology | volume = 6 | issue = 5 | pages = 511–23 | pmid = 24083419}}</ref> and for [[polycythemia vera]] (PCV) when there has been an inadequate response to or intolerance of [[hydroxyurea]].<ref name=PI>HIGHLIGHTS OF PRESCRIBING INFORMATION [http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/202192s012lbl.pdf]</ref><ref name=Vannucchi2015>{{cite journal |authors=Vannucchi AM, Kiladjian JJ, Griesshammer M |title=Ruxolitinib versus standard therapy for the treatment of polycythemia vera |journal=N. Engl. J. Med. |volume=372 |issue=5 |pages=426–35 |year=2015 |pmid=25629741 |pmc=4358820 |doi=10.1056/NEJMoa1409002 |url=http://www.nejm.org/doi/pdf/10.1056/NEJMoa1409002|display-authors=etal}}</ref>
+
+==Mechanism of action==
+Ruxolitinib is a [[janus kinase inhibitor]] with selectivity for subtypes [[JAK1]] and [[JAK2]] of this enzyme.<ref name=Mesa2010>{{cite journal |authors=Mesa RA |title=Ruxolitinib, a selective JAK1 and JAK2 inhibitor for the treatment of myeloproliferative neoplasms and psoriasis |journal=IDrugs |volume=13 |issue=6 |pages=394–403 |year=2010 |pmid=20506062 |doi= |url=}}}</ref><ref>{{Cite journal
+| last1 = Pardanani | first1 = A.
+| last2 = Tefferi | first2 = A.
+| doi = 10.1097/MOH.0b013e3283439964
+| title = Targeting myeloproliferative neoplasms with JAK inhibitors
+| journal = Current Opinion in Hematology
+| volume = 18
+| issue = 2
+| pages = 105–10
+| year = 2011
+| pmid = 21245760
+| pmc =
+}}</ref>  Ruxolitinib inhibits dysregulated JAK signaling associated with [[myelofibrosis]]. JAK1 and JAK2 recruit [[STAT protein|signal transducers and activators of transcription]] (STATs) to [[cytokine receptor]]s leading to modulation of [[gene expression]].
+
+==Side effects==
+Side effects include [[pancytopenia]],{{fact|date=October 2017}} [[thrombocytopenia]] (low blood platelet count), [[anemia]] (low red blood cell count) and [[neutropenia]]; risk of infection; symptom exacerbation if the medication is interrupted or discontinued; and non-melanoma skin cancer.<ref name=PI/><ref>{{cite journal|last=Hobbs|first=GS|author2=Rampal RK|journal=Contemporary Oncology|year=2015|volume=7|issue=1|pages=22–28|title=JAK2 Mutations and JAK Inhibitors in the Management of Myeloproliferative Neoplasms|url=http://www.onclive.com/publications/contemporary-oncology/2015/february-2015/jak2-mutations-and-jak-inhibitors-in-the-management-of-myeloproliferative-neoplasms}}</ref>
+
+Immunologic side effects have included [[herpes zoster]] (shingles) and case reports of opportunistic infections.<ref>{{cite journal|last=Wysham|first=NG|author2=Allada G |author3=Sullivan DR |journal=Chest|year=2013|volume=143|issue=5|pages=1478–9|pmid=23648912|doi=10.1378/chest.12-1604|title=An opportunistic infection associated with ruxolitinib, a novel janus kinase 1,2 inhibitor.}}</ref> Metabolic side effects have included weight gain. Laboratory abnormalities have included [[alanine transaminase]] (ALT) abnormalities, [[aspartate transaminase]] (AST) abnormalities, and mildly elevated cholesterol levels.<ref name=PI/>
+
+==Approval==
+The phase III Controlled Myelofibrosis Study with Oral JAK Inhibitor-I (COMFORT-I) and COMFORT-II trials showed significant benefits by reducing spleen size and relieving debilitating symptoms.<ref>{{Cite journal
+| last1 = Harrison | first1 = C.
+| last2 = Kiladjian | first2 = J. J.
+| last3 = Al-Ali | first3 = H. K.
+| last4 = Gisslinger | first4 = H.
+| last5 = Waltzman | first5 = R.
+| last6 = Stalbovskaya | first6 = V.
+| last7 = McQuitty | first7 = M.
+| last8 = Hunter | first8 = D. S.
+| last9 = Levy | first9 = R.
+| last10 = Knoops
+| doi = 10.1056/NEJMoa1110556 | first10 = L.
+| last11 = Cervantes | first11 = F.
+| last12 = Vannucchi | first12 = A. M.
+| last13 = Barbui | first13 = T.
+| last14 = Barosi | first14 = G.
+| title = JAK Inhibition with Ruxolitinib versus Best Available Therapy for Myelofibrosis
+| journal = New England Journal of Medicine
+| volume = 366
+| issue = 9
+| pages = 787–798
+| year = 2012
+| pmid = 22375970
+| pmc =
+}}</ref><ref>{{Cite journal
+| last1 = Verstovsek | first1 = S.
+| last2 = Mesa | first2 = R. A.
+| last3 = Gotlib | first3 = J.
+| last4 = Levy | first4 = R. S.
+| last5 = Gupta | first5 = V.
+| last6 = Dipersio | first6 = J. F.
+| last7 = Catalano | first7 = J. V.
+| last8 = Deininger | first8 = M.
+| last9 = Miller | first9 = C.
+| last10 = Silver
+| doi = 10.1056/NEJMoa1110557 | first10 = R. T.
+| last11 = Talpaz | first11 = M.
+| last12 = Winton | first12 = E. F.
+| last13 = Harvey Jr | first13 = J. H.
+| last14 = Arcasoy | first14 = M. O.
+| last15 = Hexner | first15 = E.
+| last16 = Lyons | first16 = R. M.
+| last17 = Paquette | first17 = R.
+| last18 = Raza | first18 = A.
+| last19 = Vaddi | first19 = K.
+| last20 = Erickson-Viitanen | first20 = S.
+| last21 = Koumenis | first21 = I. L.
+| last22 = Sun | first22 = W.
+| last23 = Sandor | first23 = V.
+| last24 = Kantarjian | first24 = H. M.
+| title = A Double-Blind, Placebo-Controlled Trial of Ruxolitinib for Myelofibrosis
+| journal = New England Journal of Medicine
+| volume = 366
+| issue = 9
+| pages = 799–807
+| year = 2012
+| pmid = 22375971
+| pmc =
+}}</ref><ref>{{Cite journal
+| last1 = Tefferi | first1 = A.
+| title = Challenges Facing JAK Inhibitor Therapy for Myeloproliferative Neoplasms
+| doi = 10.1056/NEJMe1115119
+| journal = New England Journal of Medicine
+| volume = 366
+| issue = 9
+| pages = 844–846
+| year = 2012
+| pmid = 22375977
+| pmc =
+}}</ref><ref>ASCO Annual Meeting 2011: [http://chicago2011.asco.org/ASCODailyNews/comfort.aspx JAK Inhibitor Ruxolitinib Demonstrates Significant Clinical Benefit in Myelofibrosis] {{webarchive |url=https://web.archive.org/web/20111121054919/http://chicago2011.asco.org/ASCODailyNews/comfort.aspx |date=November 21, 2011 }}</ref>
+
+In November 2011, ruxolitinib was approved by the U.S. [[Food and Drug Administration]] (FDA) for the treatment of intermediate or high-risk myelofibrosis based on results of the COMFORT-I and COMFORT-II Trials.<ref>{{cite press release|url=http://investor.incyte.com/phoenix.zhtml?c=69764&p=irol-newsArticle&ID=1631201&highlight= |title=FDA Approves Incyte's Jakafi (ruxolitinib) for Patients with Myelofibrosis |publisher=Incyte |accessdate=2012-01-02}}</ref>
+
+In 2014, it was approved in [[polycythemia vera]] (PCV) when there has been an inadequate response to or intolerance of [[hydroxyurea]], based on the RESPONSE trial.<ref>FDA approval letter. [http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2014/202192Orig1s008ltr.pdf]</ref><ref name=Vannucchi2015/>
+
+==Research==
+It is also being investigated for [[plaque psoriasis]],<ref name=Mesa2010/> [[alopecia areata]],<ref>{{cite journal|last1=Falto-Aizpurua|first1=L|last2=Choudhary|first2=S|last3=Tosti|first3=A|title=Emerging treatments in alopecia.|journal=Expert opinion on emerging drugs|date=December 2014|volume=19|issue=4|pages=545–56|pmid=25330928|doi=10.1517/14728214.2014.974550}}</ref> relapsed [[diffuse large B-cell lymphoma]], and [[peripheral T-cell lymphoma]].<ref>{{cite web|last1=Vose|first1=Julie|title=Ruxolitinib Phosphate (Oral JAK Inhibitor INCB18424) in Treating Patients With Relapsed or Refractory Diffuse Large B-Cell or Peripheral T-Cell Non-Hodgkin Lymphoma|url=https://clinicaltrials.gov/ct2/show/NCT01431209?term=NCT01431209&rank=1|website=ClinicalTrials.gov}}</ref>
+
+In Feb 2016, a phase III trial for pancreatic cancer was terminated due to insufficient efficacy.<ref>[http://seekingalpha.com/news/3100076-incyte-bags-late-stage-development-jakafi-solid-tumors-shares-10-percent-premarket Incyte bags late-stage development of Jakafi for solid tumors; shares down 10% premarket. Feb 2016]</ref>
+
+Eight weeks-treatment with ruxolitinib blunted senescent cell-mediated inhibition of [[adipogenesis]] and increased [[insulin sensitivity]] in 22-month-old mice.<ref>{{cite journal|doi=10.7554/eLife.12997|title=Targeting senescent cells enhances adipogenesis and metabolic function in old age|journal=ELife|volume=4|year=2015|last1=Xu|first1=Ming|last2=Palmer|first2=Allyson K|last3=Ding|first3=Husheng|last4=Weivoda|first4=Megan M|last5=Pirtskhalava|first5=Tamar|last6=White|first6=Thomas A|last7=Sepe|first7=Anna|last8=Johnson|first8=Kurt O|last9=Stout|first9=Michael B|last10=Giorgadze|first10=Nino|last11=Jensen|first11=Michael D|last12=Lebrasseur|first12=Nathan K|last13=Tchkonia|first13=Tamar|last14=Kirkland|first14=James L|pmid=26687007|pmc=4758946}}</ref>
+
+==References==
+{{Reflist|35em}}
+
+{{Extracellular chemotherapeutic agents}}
+{{Cytokine receptor modulators}}
+
+[[Category:Non-receptor tyrosine kinase inhibitors]]
+[[Category:Pyrrolopyrimidines]]
+[[Category:Pyrazoles]]
+[[Category:Nitriles]]
+[[Category:Cyclopentanes]]

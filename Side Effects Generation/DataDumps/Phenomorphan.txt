@@ -1,0 +1,91 @@
+{{Drugbox
+| verifiedrevid = 447927638
+| IUPAC_name = 17-(2-Phenylethyl)morphinan-3-ol
+| image = Phenomorphan.svg
+| width = 230px
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = S9
+| legal_CA = Schedule I
+| legal_UK = Class A
+| legal_US = Schedule I
+| legal_DE = Anlage I
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 468-07-5
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 5362458
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 16735962
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 26HXE4B73P
+
+<!--Chemical data-->
+| C=24 | H=29 | N=1 | O=1 
+| molecular_weight = 347.493 g/mol
+| smiles = Oc3ccc4C[C@H]1N(CC[C@@]2(CCCC[C@@H]12)c4c3)CCc5ccccc5
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C24H29NO/c26-20-10-9-19-16-23-21-8-4-5-12-24(21,22(19)17-20)13-15-25(23)14-11-18-6-2-1-3-7-18/h1-3,6-7,9-10,17,21,23,26H,4-5,8,11-16H2/t21-,23+,24+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = CFBQYWXPZVQQTN-QPTUXGOLSA-N
+| synonyms = <small>(-)-3-hydroxy- ''N''- (2-phenylethyl) morphinan</small>
+}}
+
+'''Phenomorphan'''<ref>{{ cite patent
+| country = US
+| number = 2885401
+| status = patent
+| title = Process for making morphinan derivatives and products available thereby
+| pubdate = 1956-03-22
+| gdate = 1959-05-05
+| inventor = Andre Grussner, Joseph Hellerbach, Otto Schnider
+}}</ref> is an [[opioid]] [[analgesic]]. It is not currently used in medicine, but has similar side-effects to other opiates, which include [[itching]], [[nausea]] and [[respiratory depression]].
+
+Phenomorphan is a highly potent drug due to the N-phenethyl group, which boosts affinity to the [[μ-opioid receptor]], and so phenomorphan is around 10x more potent than [[levorphanol]], which is itself 6-8x the potency of [[morphine]]. Other analogues where the N-(2-phenylethyl) group has been replaced by other aromatic rings.<ref>{{ cite patent
+| country = US
+| number = 2970147
+| status = patent
+| title = 3-hydroxy-N-(heterocyclic-ethyl)-morphinans
+| pubdate = 1958-11-26
+| gdate = 1961-01-31
+| inventor = Andre Grussner, Joseph Hellerbach, Otto Schnider
+}}</ref> are even more potent, with the N-(2-(2-[[furan|furyl]])ethyl) and the N-(2-(2-[[thiophene|thienyl]])ethyl) analogues being 60x and 45x stronger than levorphanol, respectively.<ref>{{cite book |author1=Hellerbach J. |author2=Schnider O |author3=Besendorf H |author4=Pellmont B | series= International series of monographs on organic chemistry | title = Synthetic Analgesics: Part IIA. Morphinans | publisher = Pergamon Press | year = 1966 | url=https://www.scribd.com/doc/39966259/Synthetic-Analgesics-1966-Part-IIA-Morphinans }}</ref>
+
+==See also==
+* [[14-Cinnamoyloxycodeinone]]
+* [[14-Phenylpropoxymetopon]]
+* [[7-PET]]
+* [[N-Phenethylnormorphine]]
+* [[N-Phenethylnordesomorphine]]
+* [[N-Phenethyl-14-ethoxymetopon]]
+* [[RAM-378]]
+* [[Ro4-1539]]
+
+==References==
+{{Reflist|2}}
+
+{{Opioidergics}}
+
+[[Category:Synthetic opioids]]
+[[Category:Morphinans]]
+[[Category:Phenols]]
+[[Category:Mu-opioid agonists]]
+
+
+{{pharm-stub}}

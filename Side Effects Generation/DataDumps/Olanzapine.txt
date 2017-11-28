@@ -1,0 +1,422 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 418858405
+| IUPAC_name = 2-Methyl-4-(4-methyl-1-piperazinyl)-10''H''-thieno[2,3-''b''][1,5]benzodiazepine
+| image = Olanzapine.svg
+| width = 200px
+| image2 = Olanzapine-from-xtal-3D-balls.png
+| width2 = 225px
+<!--Clinical data-->
+| tradename = Zyprexa, others<ref name=Drugnames/>
+| Drugs.com = {{drugs.com|monograph|olanzapine}}
+| MedlinePlus = a601213
+| licence_US = Olanzapine
+| pregnancy_AU = C
+| pregnancy_US = C
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_US = Rx-only
+| legal_NZ_comment = Prescription medicine
+| legal_UK = POM
+| routes_of_administration = [[Oral administration|By mouth]], [[intramuscular injection]]
+<!--Pharmacokinetic data-->
+| bioavailability = 87%<ref>{{cite book | last1 = Burton | first1 = Michael E. | last2 = Shaw | first2 = Leslie M. | last3 = Schentag|first3 = Jerome J. | last4 = Evans | first4 = William E. | authorlink = | title = Applied Pharmacokinetics & Pharmacodynamics: Principles of Therapeutic Drug Monitoring | publisher = Lippincott Williams & Wilkins |edition=4th | date = May 1, 2005| location = | page = 815 | url = | doi = | id = | isbn = 978-0-7817-4431-7}}</ref>
+| protein_bound = 93%<ref name = TGA/>
+| metabolism = Hepatic (direct glucuronidation and [[CYP1A2]] mediated oxidation)
+| elimination_half-life = 33 hours, 51.8 hours (elderly)<ref name = TGA/>
+| excretion = Urine (57%; 7% as unchanged drug), faeces (30%)<ref name = TGA/><ref name = MSR/>
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 132539-06-1
+| ATC_prefix = N05
+| ATC_suffix = AH03
+| PubChem = 4585
+| IUPHAR_ligand = 47
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00334
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 10442212
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = N7U69T4SZR
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00454
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 7735
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 715
+<!--Chemical data-->
+| C=17 | H=20 | N=4 | S=1
+| molecular_weight = 312.439
+| smiles = CN1CCN(CC1)C/2=N/c4ccccc4Nc3sc(C)cc\23
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H20N4S/c1-12-11-13-16(21-9-7-20(2)8-10-21)18-14-5-3-4-6-15(14)19-17(13)22-12/h3-6,11,19H,7-10H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = KVWDHTXUZHCGIO-UHFFFAOYSA-N
+| melting_point = 195
+| solubility = Practically insoluble in water
+}}
+
+'''Olanzapine''' (originally branded '''Zyprexa''') is an [[antipsychotic]] medication used to treat [[schizophrenia]] and [[bipolar disorder]]. It is usually classed with the [[atypical antipsychotics]], the newer generation of antipsychotics.<ref name = olanzapinepi>{{cite web| title = Olanzapine Prescribing Information| work =| publisher = Eli Lilly and Company| date = 2009-03-19| url = http://pi.lilly.com/us/zyprexa-pi.pdf| format = PDF| doi =| accessdate = 2009-09-06}}</ref> It appears to have slightly greater effectiveness in treating schizophrenia (especially the [[negative symptoms]]) and a lower risk of causing [[extrapyramidal effect|movement disorders]] than [[typical antipsychotics]].<ref name=Leucht2013>{{Cite journal|last=Leucht|first=Stefan|last2=Cipriani|first2=Andrea|last3=Spineli|first3=Loukia|last4=Mavridis|first4=Dimitris|last5=Orey|first5=Deniz|last6=Richter|first6=Franziska|last7=Samara|first7=Myrto|last8=Barbui|first8=Corrado|last9=Engel|first9=Rolf R.|date=2013-09-14|title=Comparative efficacy and tolerability of 15 antipsychotic drugs in schizophrenia: a multiple-treatments meta-analysis|url=|journal=Lancet|volume=382|issue=9896|pages=951–962|doi=10.1016/S0140-6736(13)60733-3|issn=1474-547X|pmid=23810019|via=}}</ref> Olanzapine, however, has a higher risk of causing metabolic side effects like [[weight gain]] and [[type 2 diabetes]] than the typical antipsychotics.<ref name="olanzapinepi"/><ref name=Leucht2013/>
+
+Olanzapine is believed to work by blocking, or antagonizing, the [[dopamine D2 receptor|dopamine D<sub>2</sub> receptor]] which is an action it shares with most antipsychotics.<ref name = GG>{{cite book |author1=Brunton, L |author2=Chabner, B |author3=Knollman, B | title = Goodman and Gilman's The Pharmacological Basis of Therapeutics | year = 2010 | publisher = McGraw-Hill Professional | isbn = 978-0-07-162442-8 | edition = 12th | location = New York }}</ref> Like most other atypical antipsychotics olanzapine also strongly antagonizes the [[5-HT2A receptor|5-HT<sub>2A</sub> receptor]], which may partially underpin its reduced propensity for causing movement disorders.<ref name="GG"/> Despite its close structural relation to traditional [[benzodiazepine]] [[anxiolytic|anxiety-relieving medications]], it possesses no affinity for the [[GABAA receptor|GABA<sub>A</sub> receptor]], its anxiety-relieving effect is mediated through its effect on dopamine and [[serotonin receptors|5-HT receptors]].
+
+<!-- History and culture -->
+Olanzapine was first patented in 1971.<ref>{{cite book|last1=Taylor|first1=D|last2=Paton|first2=C|last3=Kapur|first3=S|title=The Maudsley Prescribing Guidelines in Psychiatry|date=2015|publisher=Wiley-Blackwell|location=London, UK|isbn=978-1-118-75460-3|page=16|edition=12th|url=https://books.google.com/books?id=XvOyBwAAQBAJ&pg=PA16}}</ref> The drug became [[generic medication|generic]] in 2011. Sales of Zyprexa in 2008 were $2.2B in the [[United States|US]], and $4.7B worldwide.<ref>{{cite web| title = Lilly 2008 Annual Report| publisher = Lilly| year = 2009| url = http://files.shareholder.com/downloads/LLY/696621960x0x296463/611E167A-61C9-4C03-8866-ACF5FA7C8953/English.PDF| format=PDF| accessdate = 2009-08-06}}</ref>
+{{TOC limit|3}}
+
+==Medical uses==
+
+===Schizophrenia===
+The first-line psychiatric treatment for schizophrenia is antipsychotic medication which includes olanzapine.<ref name="fn_72">{{cite web |url=http://www.nice.org.uk/nicemedia/pdf/CG82FullGuideline.pdf |title= Schizophrenia: Full national clinical guideline on core interventions in primary and secondary care |accessdate=25 November 2009 |author=National Collaborating Centre for Mental Health |date=25 March 2009 }}</ref> Olanzapine appears effective in reducing symptoms of schizophrenia, treating acute exacerbations, and treating early-onset schizophrenia.<ref name=Leucht2013/><ref name=":0">{{Cite journal|last=Harvey|first=Rebecca C.|last2=James|first2=Anthony C.|last3=Shields|first3=Gemma E.|date=January 2016|title=A Systematic Review and Network Meta-Analysis to Assess the Relative Efficacy of Antipsychotics for the Treatment of Positive and Negative Symptoms in Early-Onset Schizophrenia|url=|journal=CNS drugs|volume=30|issue=1|pages=27–39|doi=10.1007/s40263-015-0308-1|issn=1179-1934|pmid=26801655|via=}}</ref><ref>{{Cite journal|last=Pagsberg|first=Anne Katrine|last2=Tarp|first2=Simon|last3=Glintborg|first3=Dorte|last4=Stenstrøm|first4=Anne Dorte|last5=Fink-Jensen|first5=Anders|last6=Correll|first6=Christoph Ulrich|last7=Christensen|first7=Robin|date=March 2017|title=Acute Antipsychotic Treatment of Children and Adolescents With Schizophrenia-Spectrum Disorders: A Systematic Review and Network Meta-Analysis|url=|journal=Journal of the American Academy of Child and Adolescent Psychiatry|volume=56|issue=3|pages=191–202|doi=10.1016/j.jaac.2016.12.013|issn=1527-5418|pmid=28219485|via=}}</ref><ref>{{cite journal|year=2013|title=The psychopharmacology algorithm project at the Harvard South Shore Program: an update on schizophrenia|url=|journal=Harv Rev Psychiatry|volume=21|issue=1|pages=18–40|doi=10.1097/HRP.0b013e31827fd915|pmid=23656760|vauthors=Osser DN, Roudsari MJ, Manschreck T}}</ref> The usefulness of maintenance therapy, however, is difficult to determine as more than half of people in trials quit before the six-week completion date.<ref>{{Cite journal|last=Duggan|first=L.|last2=Fenton|first2=M.|last3=Rathbone|first3=J.|last4=Dardennes|first4=R.|last5=El-Dosoky|first5=A.|last6=Indran|first6=S.|date=2005-04-18|title=Olanzapine for schizophrenia|url=|journal=The Cochrane Database of Systematic Reviews|volume=|issue=2|pages=CD001359|doi=10.1002/14651858.CD001359.pub2|issn=1469-493X|pmid=15846619|via=}}</ref> Olanzapine treatment may result in increased weight gain and increased glucose and cholesterol levels when compared to most other second-generation antipsychotic drugs used to treat schizophrenia, other than clozapine.<ref name="Komossa2010" /><ref name=":0" />
+
+====Comparison====
+[[National Institute for Health and Care Excellence]], the British Association for Psychopharmacology, and the World Federation of Societies for Biological Psychiatry suggest that there is little difference in effectiveness between antipsychotics in prevention of relapse, and recommend that the specific choice of antipsychotic be chosen based on persons preference and side effect profile.<ref>{{cite web |url=http://www.nice.org.uk/Guidance/CG178 |title=Psychosis and schizophrenia in adults: treatment and management &#124; Guidance and guidelines &#124; NICE |publisher = National Institute for Health and Care Excellence }}</ref><ref>{{cite journal | author = Barnes TR | title = Evidence-based guidelines for the pharmacological treatment of schizophrenia: recommendations from the British Association for Psychopharmacology | journal = J. Psychopharmacol. (Oxford) | volume = 25 | issue = 5 | pages = 567–620 | year = 2011 | pmid = 21292923 | doi = 10.1177/0269881110391123 }}</ref><ref>{{cite journal |vauthors=Hasan A, Falkai P, Wobrock T, Lieberman J, Glenthoj B, Gattaz WF, Thibaut F, Möller HJ | title = World Federation of Societies of Biological Psychiatry (WFSBP) guidelines for biological treatment of schizophrenia, part 2: update 2012 on the long-term treatment of schizophrenia and management of antipsychotic-induced side effects | journal = World J. Biol. Psychiatry | volume = 14 | issue = 1 | pages = 2–44 | year = 2013 | pmid = 23216388 | doi = 10.3109/15622975.2012.739708 }}</ref> The U.S. Agency for Healthcare Research and Quality concludes that olanzapine is not different from haloperidol in the treatment of positive symptoms and general psychopathology, or in overall assessment, but that it is superior for the treatment of negative and depressive symptoms. When trials enrolling only treatment-resistant patients were excluded from the analysis, olanzapine was superior for overall assessment.<ref name=AHRQ2012>{{cite journal|last1=Abou-Setta|first1=AM|last2=Mousavi|first2=SS|last3=Spooner|first3=C|last4=Schouten|first4=JR|last5=Pasichnyk|first5=D|last6=Armijo-Olivo|first6=S|last7=Beaith|first7=A|last8=Seida|first8=JC|last9=Dursun|first9=S|last10=Newton|first10=AS|last11=Hartling|first11=L|date=August 2012|pmid=23035275 |title=First-Generation Versus Second-Generation Antipsychotics in Adults: Comparative Effectiveness [Internet]}}</ref>
+
+In a 2013 comparison of 15 antipsychotic drugs in schizophrenia, olanzapine was ranked third. It was 5% more effective than [[risperidone]] (4th), 24-27% more effective than [[haloperidol]], [[quetiapine]], and [[aripiprazole]], and 33% less effective than [[clozapine]] (1st).<ref name=Leucht2013/> A 2013 review of first episode schizophrenia concluded that olanzapine is superior to [[haloperidol]] in providing a lower discontinuation rate, and in short-term symptom reduction, response rate, negative symptoms, depression, cognitive function, discontinuation due to poor efficacy, and long-term relapse, but not in positive symptoms or on the Clinical Global Impressions score. In contrast, pooled second generation antipsychotics showed superiority to first generation antipsychotics only against the discontinuation, negative symptoms (with a much larger effect seen among industry- compared to government-sponsored studies), and cognition scores.  Olanzapine caused less extrapyramidal side effects, less akathisia, but caused significantly more weight gain, serum cholesterol increase, and triglyceride increase than haloperidol.<ref>{{cite journal |vauthors=Zhang JP, Gallego JA, Robinson DG, Malhotra AK, Kane JM, Correll CU |title=Efficacy and safety of individual second-generation vs. first-generation antipsychotics in first-episode psychosis: a systematic review and meta-analysis |journal=Int. J. Neuropsychopharmacol. |volume=16 |issue=6 |pages=1205–18 | date=July 2013 |pmid=23199972 |pmc=3594563 |doi=10.1017/S1461145712001277 |url=}}</ref> A 2012 review concluded that among 10 atypical antipsychotics, only clozapine, olanzapine, and risperidone were better than first generation antipsychotics.<ref>{{cite journal |author=Citrome L |title=A systematic review of meta-analyses of the efficacy of oral atypical antipsychotics for the treatment of adult patients with schizophrenia |journal=Expert Opin Pharmacother |volume=13 |issue=11 |pages=1545–73 | date=August 2012 |pmid=21999805 |doi=10.1517/14656566.2011.626769 |url=}}</ref> A 2011 review concluded that neither first- nor second generation antipsychotics produce clinically meaningful changes in Clinical Global Impression scores but found that olanzapine and amisulpride produce larger effects on the PANSS and BPRS batteries than 5 other second generation antipsychotics or pooled first generation antipsychotics.<ref>{{cite journal |vauthors=Lepping P, Sambhi RS, Whittington R, Lane S, Poole R |title=Clinical relevance of findings in trials of antipsychotics: systematic review |journal=Br J Psychiatry |volume=198 |issue=5 |pages=341–5 | date=May 2011 |pmid=21525517 |doi=10.1192/bjp.bp.109.075366 |url=}}</ref> A 2010 Cochrane systematic review found that olanzapine may have a slight advantage in effectiveness when compared to aripiprazole, quetiapine, risperidone and ziprasidone.<ref name=Komossa2010 /> No differences in effectiveness was detected when comparing olanzapine to amisulpride and clozapine.<ref name=Komossa2010>{{Cite journal|last=Komossa|first=Katja|last2=Rummel-Kluge|first2=Christine|last3=Hunger|first3=Heike|last4=Schmid|first4=Franziska|last5=Schwarz|first5=Sandra|last6=Duggan|first6=Lorna|last7=Kissling|first7=Werner|last8=Leucht|first8=Stefan|date=2010-03-17|title=Olanzapine versus other atypical antipsychotics for schizophrenia|url=|journal=The Cochrane Database of Systematic Reviews|volume=|issue=3|pages=CD006654|doi=10.1002/14651858.CD006654.pub2|issn=1469-493X|pmc=4169107|pmid=20238348|via=}}</ref>
+
+A 2014 meta analysis of 9 published trials having minimum duration 6 months and median duration 52 weeks concluded that olanzapine, quetiapine, and risperidone had better effects on cognitive function than amisulpride and haloperidol.<ref>{{cite journal  |vauthors=Désaméricq G, Schurhoff F, Meary A, etal |title=Long-term neurocognitive effects of antipsychotics in schizophrenia: a network meta-analysis |journal=Eur. J. Clin. Pharmacol. |volume=70 |issue=2 |pages=127–34 | date=February 2014 |pmid=24145817 |doi=10.1007/s00228-013-1600-y |url=}}</ref>
+
+===Bipolar disorder===
+Olanzapine is recommended by the [[National Institute for Health and Care Excellence|National Institute of Health and Care Excellence]] as a first line therapy for the treatment of acute mania in bipolar disorder.<ref name=NICE2014B/> Other recommended first lines are [[haloperidol]], [[quetiapine]] and [[risperidone]].<ref name=NICE2014B/> It is recommended in combination with [[fluoxetine]] as a first line therapy for acute bipolar depression; and as a second line treatment by itself for the maintenance treatment of bipolar disorder.<ref name=NICE2014B>{{cite web |url=http://www.nice.org.uk/guidance/cg185/chapter/1-recommendations |title=Bipolar disorder: the assessment and management of bipolar disorder in adults, children and young people in primary and secondary care &#124; 1-recommendations &#124; Guidance and guidelines &#124; NICE |format= |work= |accessdate=26 July 2016}}</ref>
+
+The Network for Mood and Anxiety Treatments (CANMAT) recommends olanzapine as a first line maintenance treatment in bipolar disorder and the combination of olanzapine with fluoxetine as second line treatment for bipolar depression.<ref>{{cite journal  |vauthors=Yatham LN, Kennedy SH, O'Donovan C, etal |title=Canadian Network for Mood and Anxiety Treatments (CANMAT) guidelines for the management of patients with bipolar disorder: update 2007 |journal=Bipolar Disord |volume=8 |issue=6 |pages=721–39 |date=December 2006  |pmid=17156158 |doi=10.1111/j.1399-5618.2006.00432.x |url=}}</ref>
+
+A 2014 meta analysis concluded that olanzapine plus fluoxetine was the most effective among nine treatments for bipolar depression included in the analysis.<ref>{{cite journal |vauthors=Selle V, Schalkwijk S, Vázquez GH, Baldessarini RJ |title=Treatments for acute bipolar depression: meta-analyses of placebo-controlled, monotherapy trials of anticonvulsants, lithium and antipsychotics |journal=Pharmacopsychiatry |volume=47 |issue=2 |pages=43–52 |date=March 2014  |pmid=24549862 |doi=10.1055/s-0033-1363258 |url=}}</ref>
+
+===Other===
+Evidence does not support the use of atypical antipsychotics including olanzapine in [[eating disorders]].<ref>{{cite journal  |vauthors=Maglione M, Maher AR, Hu J, etal | title = Off-Label Use of Atypical Antipsychotics: An Update | year = 2011 | pmid = 22132426 | url = https://www.ncbi.nlm.nih.gov/books/NBK66081/ }}</ref>
+
+Olanzapine has not been rigorously evaluated in [[generalized anxiety disorder]], [[panic disorder]], [[delusional parasitosis]] or [[post-traumatic stress disorder]]. Olanzapine is no less effective than [[lithium]] or [[valproate]], and more effective than placebo in treating bipolar disorder.<ref>{{cite journal | date = October 2007 | title = Review of olanzapine in the management of bipolar disorders | journal = Neuropsychiatr Dis Treat | volume = 3 | issue = 5| pages = 579–587 | pmc=2656294 | pmid=19300587 |vauthors=Narasimhan M, Bruce TO, Masand P }}</ref> It has also been used for [[Tourette syndrome]] and [[stuttering]].<ref>{{cite web |first=Lisa |last=Scott |url=http://www.stutteringhelp.org/default.aspx?TabId=462 |publisher=Stuttering Foundation of America|title=Genetic and Neurological Factors in Stuttering |date=Winter 2006}}</ref>
+
+===Elderly===
+Citing an increased risk of [[stroke]], in 2004 the [[Committee on the Safety of Medicines]] (CSM) in the UK issued a warning that olanzapine and [[risperidone]], both atypical antipsychotic medications, should not be given to elderly patients with [[dementia]]. In the U.S., olanzapine comes with a [[black box warning]] for increased risk of death in elderly patients. It is not approved for use in patients with dementia-related psychosis.<ref>{{cite web
+| url = http://zyprexa.com/common_pages/safety.jsp
+| title = Important Safety Information for Olanzapine
+| accessdate = 2007-12-03 | year = 2007
+| work = Zyprexa package insert | publisher = Eli Lilly & Company
+| quote = Elderly patients with dementia-related psychosis treated with atypical antipsychotic drugs are at an increased risk of death compared to placebo. [...] ZYPREXA (olanzapine) is not approved for the treatment of elderly patients with dementia-related psychosis.
+| archiveurl = https://web.archive.org/web/20071123225813/http://www.zyprexa.com/common_pages/safety.jsp <!-- Bot retrieved archive -->|archivedate = 2007-11-23}}</ref> However, a BBC investigation in June 2008 found that this advice was being widely ignored by British doctors.<ref>{{cite news
+| title =  Doctors 'ignoring drugs warning'
+| work =
+| pages =
+| language =
+| publisher = BBC News
+| date =  17 June 2008
+| url = http://news.bbc.co.uk/1/hi/programmes/file_on_4/7457132.stm
+| accessdate = 2008-06-22}}</ref>
+
+==Adverse effects==
+{{See also|List of adverse effects of olanzapine}}
+
+The principal side effect of olanzapine is weight gain, which may be profound in some cases and/or associated with derangement in the blood lipid and blood sugar profiles (see section [[Olanzapine#Metabolic effects|metabolic effects]]). A recent meta-analysis of the efficacy and tolerance of 15 antipsychotic drugs (APDs) found that it had the highest propensity for causing weight gain out of the 15 APD compared with a SMD of 0.74<ref name=Leucht2013/> Extrapyramidal side effects, although potentially serious, are infrequent to rare from olanzapine<ref name="lexicomp">Lexi-Comp Inc. (2010) Lexi-Comp Drug Information Handbook 19th North American Ed. Hudson, OH: Lexi-Comp Inc. {{ISBN|978-1-59195-278-7}}.</ref> but may include tremors and muscle rigidity.
+
+Several patient groups are at a heightened risk of side effects from olanzapine and antipsychotics in general. Olanzapine may produce non-trivial [[hyperglycemia|high blood sugar]] in people with [[diabetes mellitus]]. Likewise, the elderly are at a greater risk of falls and accidental injury. Young males appear to be at heightened risk of [[dystonia|dystonic]] reactions, although these are relatively rare with olanzapine. Most antipsychotics, including olanzapine, may disrupt the body's natural thermoregulatory systems, thus permitting excursions to dangerous levels when situations (exposure to heat, strenuous exercise) occur.<ref name = TGA>{{cite web|title=PRODUCT INFORMATION OLANZAPINE SANDOZ® 2.5mg/5mg/7.5mg/10mg/15mg/20mg FILM-COATED TABLETS |work=TGA eBusiness Services|publisher=Sandoz Pty Ltd|date=8 June 2012|accessdate=26 November 2013|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2011-PI-02375-3|format=PDF}}</ref><ref>{{cite journal |author1=Stöllberger C. |author2=Lutz W. |author3=Finsterer J. | year = 2009 | title = Heat-related side-effects of neurological and non-neurological medication may increase heatwave fatalities | url = | journal = European Journal of Neurology | volume = 16 | issue = | pages = 879–882 | doi=10.1111/j.1468-1331.2009.02581.x}}</ref><ref name = DM>{{cite web|title=OLANZAPINE (olanzapine) tablet OLANZAPINE (olanzapine) tablet, orally disintegrating [Prasco Laboratories]|work=DailyMed|publisher=Prasco Laboratories|date=September 2013|accessdate=26 November 2013|url=http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4464f13c-b9b9-4464-a05e-5b2cdc091fb2}}</ref><ref name = EMC>{{cite web|title=Olanzapine 10 mg tablets - Summary of Product Characteristics (SPC)|work=electronic Medicines Compendium|publisher=Aurobindo Pharma - Milpharm Ltd.|date=17 May 2013|accessdate=26 November 2013|url=http://www.medicines.org.uk/emc/medicine/27661/SPC/Olanzapine++10+mg+tablets/}}</ref><ref name = MSR>{{cite web|title=Zyprexa, Zyprexa Relprevv (olanzapine) dosing, indications, interactions, adverse effects, and more|accessdate=26 November 2013|work=Medscape Reference|publisher=WebMD|url=http://reference.medscape.com/drug/zyprexa-relprevv-olanzapine-342979#showall}}</ref>
+
+Other side effects include [[galactorrhea]], [[amenorrhea]], [[gynecomastia]], [[impotence]].<ref>{{cite web|title=Olanzapine Monograph for Professionals - Drugs.com|url=https://www.drugs.com/monograph/olanzapine.html|website=Drugs.com|accessdate=24 March 2017}}</ref>
+
+===Paradoxical effects===
+Olanzapine is used therapeutically to treat serious mental illness. Occasionally it can have the opposite effect and provoke serious [[paradoxical reaction]]s in a small subgroup of people, causing unusual changes in personality, thoughts or behavior; hallucinations and [[suicidal ideation|excessive thoughts about suicide]] have also been linked to olanzapine use.<ref>{{cite web|url=http://www.drugs.com/mtm/olanzapine.html |title=Olanzapine |author=Cerner Multum Incorporated |authorlink=Cerner |date=27 September 2011 |publisher=Drugs.com }}</ref>
+
+===Metabolic effects===
+Direct glucuronidation and [[cytochrome P450]] mediated oxidation are the primary metabolic pathways for olanzapine. In vitro studies suggest that CYPs 1A2 and 2D6, and the flavin-containing monooxygenase system are involved in olanzapine oxidation. CYP2D6 mediated oxidation appears to be a minor metabolic pathway in vivo.
+The U.S. [[Food and Drug Administration]] requires all atypical antipsychotics to include a warning about the risk of developing [[hyperglycemia]] and [[diabetes]], both of which are factors in the [[metabolic syndrome]]. These effects may be related to the drugs' ability to induce weight gain, although there are some reports of metabolic changes in the absence of weight gain.<ref>{{cite journal | author = Ramankutty G | title = Olanzapine-induced destabilization of diabetes in the absence of weight gain | journal = Acta Psychiatrica Scandinavica | volume = 105 | issue = 3 | pages = 235–6; discussion 236–7 | year = 2002 | pmid = 11939979 | doi = 10.1034/j.1600-0447.2002.2c257a.x }}</ref><ref>{{cite journal |vauthors=Lambert MT, Copeland LA, Sampson N, Duffy SA | title = New-onset type-2 diabetes associated with atypical antipsychotic medications | journal = Progress in Neuro-Psychopharmacology and Biological Psychiatry | volume = 30 | issue = 5 | pages = 919–23 | year = 2006 | pmid = 16581171 | doi = 10.1016/j.pnpbp.2006.02.007 }}</ref>  Studies have indicated that olanzapine carries a greater risk of causing and exacerbating diabetes than another commonly prescribed atypical antipsychotic, Risperidone. Of all the atypical antipsychotics, olanzapine is one of the most likely to induce weight gain based on various measures.<ref name = Moyer>{{cite news
+| first = Paula
+| last = Moyer
+| title = CAFE Study Shows Varying Benefits Among Atypical Antipsychotics
+| url = http://www.medscape.com/viewarticle/515435
+| work = Medscape Medical News
+| publisher = [[WebMD]]
+| date =  Oct 25, 2005
+| accessdate = 2007-12-03
+ }}
+</ref><ref name = Astra>{{cite web
+| url = http://www.astrazenecaclinicaltrials.com/Article/526695.aspx
+| title = Efficacy and Tolerability of Olanzapine, Quetiapine and Risperidone in the Treatment of First Episode Psychosis: A Randomised Double Blind 52 Week Comparison
+| accessdate = 2007-12-03
+| author = AstraZeneca Pharmaceuticals
+| date = 4 April 2006
+| work = AstraZeneca Clinical Trials
+| publisher = [[AstraZeneca]] PLC
+| quote = At week 12, the olanzapine-treated group had more weight gain, a higher increase in [ [[body mass index]] ], and a higher proportion of patients with a BMI increase of at least 1 unit compared with the [[quetiapine]] and [[risperidone]] groups (p<=0.01).|archiveurl = https://web.archive.org/web/20071113125708/http://www.astrazenecaclinicaltrials.com/Article/526695.aspx <!-- Bot retrieved archive --> |archivedate = 2007-11-13}}
+</ref><ref>{{cite journal |vauthors=Wirshing DA, Wirshing WC, Kysar L, Berisford MA, Goldstein D, Pashdag J, Mintz J, Marder SR | title = Novel Antipsychotics | journal = The Journal of Clinical Psychiatry | volume = 60 | issue = 6 | pages = 358–63 | year = 1999 | pmid = 10401912 | doi = 10.4088/JCP.v60n0602 }}</ref><ref name = NIMH>{{cite press release
+| title = NIMH study to guide treatment choices for schizophrenia
+| publisher = [[National Institute of Mental Health]] | date = 19 September 2005
+| url = http://www.eurekalert.org/pub_releases/2005-09/niom-nst091905.php
+| accessdate = 2006-12-18
+}}</ref><ref>{{cite journal |vauthors=McEvoy JP, Lieberman JA, Perkins DO, Hamer RM, Gu H, Lazarus A, Sweitzer D, Olexy C, Weiden P, Strakowski SD | title = Efficacy and Tolerability of Olanzapine, Quetiapine, and Risperidone in the Treatment of Early Psychosis: A Randomized, Double-Blind 52-Week Comparison | journal = American Journal of Psychiatry | volume = 164 | issue = 7 | pages = 1050–60 | year = 2007 | pmid = 17606657 | doi = 10.1176/ajp.2007.164.7.1050 }}</ref> The effect is dose dependent in humans<ref>{{cite journal | author = Nemeroff CB | title = Dosing the antipsychotic medication olanzapine | journal = The Journal of Clinical Psychiatry | volume = 58 | issue = Suppl 10 | pages = 45–9 | year = 1997 | pmid = 9265916 }}</ref> and animal models of olanzapine-induced metabolic side effects. There are some case reports of olanzapine-induced [[diabetic ketoacidosis]].<ref>{{cite journal|doi=10.1177/0897190006294180 |title=Complete Resolution of Olanzapine-Induced Diabetic Ketoacidosis |year=2006|last1=Fulbright|first1=A. R. |last2=Breedlove |first2=K. T. |journal=Journal of Pharmacy Practice |volume=19 |issue=4 |pages=255–8}}</ref> Olanzapine may decrease [[insulin sensitivity]],<ref>{{cite journal |vauthors=Chiu CC, Chen CH, Chen BY, Yu SH, Lu ML | title = The time-dependent change of insulin secretion in schizophrenic patients treated with olanzapine | journal = Progress in Neuro-Psychopharmacology and Biological Psychiatry | volume = 34 | issue = 6 | pages = 866–70 | year = 2010 | pmid = 20394794 | doi = 10.1016/j.pnpbp.2010.04.003 }}</ref><ref>{{cite journal |vauthors=Sacher J, Mossaheb N, Spindelegger C, Klein N, Geiss-Granadia T, Sauermann R, Lackner E, Joukhadar C, Müller M, Kasper S | title = Effects of Olanzapine and Ziprasidone on Glucose Tolerance in Healthy Volunteers | journal = Neuropsychopharmacology | volume = 33 | issue = 7 | pages = 1633–41 | year = 2007 | pmid = 17712347 | doi = 10.1038/sj.npp.1301541 }}</ref> though one 3-week study seems to refute this.<ref>{{cite journal |vauthors=Sowell M, Mukhopadhyay N, Cavazzoni P, Carlson C, Mudaliar S, Chinnapongse S, Ray A, Davis T, Breier A, Henry RR, Dananberg J | title = Evaluation of Insulin Sensitivity in Healthy Volunteers Treated with Olanzapine, Risperidone, or Placebo: A Prospective, Randomized Study Using the Two-Step Hyperinsulinemic, Euglycemic Clamp | journal = Journal of Clinical Endocrinology & Metabolism | volume = 88 | issue = 12 | pages = 5875–80 | year = 2003 | pmid = 14671184 | doi = 10.1210/jc.2002-021884 }}</ref> It may also increase [[triglyceride]] levels.<ref name = Astra />
+
+Despite weight gain, a large multi-center randomized [[National Institute of Mental Health]] study found that olanzapine was better at controlling symptoms because patients were more likely to remain on olanzapine than the other drugs.<ref>{{cite news
+| first = Benedict
+| last = Carey
+| authorlink = Benedict Carey
+| title = Little Difference Found in Schizophrenia Drugs
+| url = https://www.nytimes.com/2005/09/20/health/psychology/20drug.html
+| work = [[The New York Times]]
+| date = September 20, 2005
+| accessdate = 2007-12-03
+ }}</ref> One small, open-label, non-randomized study suggests that taking olanzapine by orally dissolving tablets may induce less weight gain,<ref>{{cite journal |vauthors=de Haan L, van Amelsvoort T, Rosien K, Linszen D | title = Weight loss after switching from conventional olanzapine tablets to orally disintegrating olanzapine tablets | journal = Psychopharmacology | volume = 175 | issue = 3 | pages = 389–90 | year = 2004 | pmid = 15322727 | doi = 10.1007/s00213-004-1951-2 }}</ref> but this has not been substantiated in a blinded experimental setting.
+
+===Pregnancy and lactation===
+Olanzapine is associated with the highest placental exposure of any atypical antipsychotic.<ref name = Maudsley>{{cite book | last1 = Taylor | first1 = D | title = The Maudsley prescribing guidelines in psychiatry | volume =  | trans-title =  | quote =  | orig-year =  | publisher = Wiley-Blackwell | work =  }}</ref> Despite this, the available evidence suggests it is safe during pregnancy, although the evidence is insufficiently strong to say anything with a high degree of confidence.<ref name = Maudsley/> Olanzapine is associated with weight gain which according to recent studies may put olanzapine-treated patients' offspring at a heightened risk for [[neural tube defects]] (e.g. [[spina bifida]]).<ref>{{cite journal |vauthors=Rasmussen SA, Chu SY, Kim SY, Schmid CH, Lau J | title = Maternal obesity and risk of neural tube defects: a metaanalysis | journal = American Journal of Obstetrics & Gynecology | volume = 198 | issue = 6 | pages = 611–619 | date = June 2008 | pmid = 18538144 | doi = 10.1016/j.ajog.2008.04.021 }}</ref><ref>{{cite journal |vauthors=McMahon DM, Liu J, Zhang H, Torres ME, Best RG | title = Maternal obesity, folate intake, and neural tube defects in offspring | journal = Birth Defects Research Part A: Clinical and Molecular Teratology | volume = 97 | issue = 2 | pages = 115–122 | date = February 2013 | pmid = 23404872 | doi = 10.1002/bdra.23113 }}</ref> Breastfeeding in women taking olanzapine is advised against due to the fact that olanzapine is secreted in breast milk with one study finding that the exposure to the infant (in mg per kg of body weight, that is) is about 1.8% that to the mother.<ref name = TGA/>
+
+===Animal toxicology===
+Olanzapine has demonstrated carcinogenic effects in multiple studies when exposed chronically to female mice and rats, but not male mice and rats.  The tumors found were in either the liver or mammary glands of the animals.<ref name="pmid19410629">{{cite journal |vauthors=Brambilla G, Mattioli F, Martelli A | title = Genotoxic and carcinogenic effects of antipsychotics and antidepressants | journal = Toxicology | volume = 261 | issue = 3 | pages = 77–88 | year = 2009 | pmid = 19410629 | doi = 10.1016/j.tox.2009.04.056 }}</ref>
+
+===Discontinuation===
+The [[British National Formulary]] recommends a gradual withdrawal when discontinuing anti-psychotic treatment to avoid acute withdrawal syndrome or rapid relapse.<ref>{{cite book |title=British National Formulary |edition=57th |date=March 2009|publisher=Pharmaceutical Press |location=London and Chicago |isbn=978-0-85711-065-7 |pages=221–31 |chapter=4.2.1 Antipsychotic drugs|quote=Withdrawal of antipsychotic drugs after long-term therapy should always be gradual and closely monitored to avoid the risk of acute withdrawal syndromes or rapid relapse.}}</ref> Due to compensatory changes at dopamine, serotonin, adrenergic and histamine receptor sites in the central nervous system, withdrawal symptoms can occur during abrupt or over-rapid reduction in dosage. However, despite increasing demand for safe and effective antipsychotic withdrawal protocols or dose-reduction schedules, no specific guidelines with proven safety and efficacy are currently available. Support groups such as the [[Icarus Project]], and other online forums provide resources and social support for those attempting to discontinue antipsychotics and other psychiatric medications.<ref>{{cite web |url=http://theicarusproject.net/HarmReductionGuideComingOffPsychDrugs |title=Harm Reduction Guide To Coming Off Psychiatric Drugs & Withdrawal |date=April 23, 2008 |publisher=[[Icarus Project]] |deadurl=yes |archiveurl=https://web.archive.org/web/20131112214617/http://www.theicarusproject.net/HarmReductionGuideComingOffPsychDrugs |archivedate=November 12, 2013 |df= }}</ref> Withdrawal symptoms reported to occur after discontinuation of antipsychotics include nausea, vomiting, lightheadedness, [[diaphoresis]], [[dyskinesia]], [[orthostatic hypotension]], [[tachycardia]], nervousness, dizziness, headache, excessive non-stop crying, and [[anxiety]].<ref>{{cite journal |vauthors=Kim DR, Staab JP | title = Quetiapine Discontinuation Syndrome | journal = American Journal of Psychiatry | volume = 162 | issue = 5 | pages = 1020 | year = 2005 | pmid = 15863814 | doi = 10.1176/appi.ajp.162.5.1020 }}</ref><ref>{{cite journal |vauthors=Michaelides C, Thakore-James M, Durso R | title = Reversible withdrawal dyskinesia associated with quetiapine | journal = Movement Disorders | volume = 20 | issue = 6 | pages = 769–70 | year = 2005 | pmid = 15747370 | doi = 10.1002/mds.20427 }}</ref> Some have argued additional somatic and psychiatric symptoms associated with dopaminergic hypersensitivity, including dyskinesia and acute psychosis, are common features of withdrawal in individuals treated with neuroleptics.<ref>{{cite journal |vauthors=Chouinard G, Jones BD | title = Neuroleptic-induced supersensitivity psychosis: Clinical and pharmacologic characteristics | journal = The American Journal of Psychiatry | volume = 137 | issue = 1 | pages = 16–21 | year = 1980 | pmid = 6101522 | url = http://ajp.psychiatryonline.org/article.aspx?volume=137&page=16 }}</ref><ref>{{cite journal |vauthors=Miller R, Chouinard G | title = Loss of striatal cholinergic neurons as a basis for tardive and L-dopa-induced dyskinesias, neuroleptic-induced supersensitivity psychosis and refractory schizophrenia | journal = Biological Psychiatry | volume = 34 | issue = 10 | pages = 713–38 | year = 1993 | pmid = 7904833 | doi = 10.1016/0006-3223(93)90044-E }}</ref><ref>{{cite journal |vauthors=Chouinard G, Jones BD, Annable L | title = Neuroleptic-induced supersensitivity psychosis | journal = The American Journal of Psychiatry | volume = 135 | issue = 11 | pages = 1409–10 | year = 1978 | pmid = 30291 | url = http://ajp.psychiatryonline.org/article.aspx?volume=135&page=1409 }}</ref><ref>{{cite journal |vauthors=Seeman P, Weinshenker D, Quirion R, Srivastava LK, Bhardwaj SK, Grandy DK, Premont RT, Sotnikova TD, Boksa P, El-Ghundi M, O'dowd BF, George SR, Perreault ML, Männistö PT, Robinson S, Palmiter RD, Tallerico T | title = Dopamine supersensitivity correlates with D2High states, implying many paths to psychosis | journal = Proceedings of the National Academy of Sciences | volume = 102 | issue = 9 | pages = 3513–8 | year = 2005 | pmid = 15716360 | pmc = 548961 | doi = 10.1073/pnas.0409766102 | bibcode = 2005PNAS..102.3513S | jstor = 3374957 }}</ref> Thus, some suggest the withdrawal process itself may be schizo-mimetic, producing schizophrenia-like symptoms even in previously healthy patients.<ref>{{cite journal | author = Moncrieff J | title = Does antipsychotic withdrawal provoke psychosis? Review of the literature on rapid onset psychosis (supersensitivity psychosis) and withdrawal-related relapse | journal = Acta Psychiatrica Scandinavica | volume = 114 | issue = 1 | pages = 3–13 | year = 2006 | pmid = 16774655 | doi = 10.1111/j.1600-0447.2006.00787.x }}</ref>
+
+===Overdose===
+Symptoms of an overdose include [[tachycardia]], [[Psychomotor agitation|agitation]], [[dysarthria]], decreased consciousness and coma. Death has been reported after an acute overdose of 450&nbsp;mg, but also survival after an acute overdose of 2000&nbsp;mg.<ref name="RxList">{{cite web
+| url = http://www.rxlist.com/cgi/generic/symbyax_od.htm
+| title = Symbyax (Olanzapine and fluoxetine) drug overdose and contraindication information
+| accessdate = 2007-12-03
+| year = 2007
+| work = RxList: The Internet Drug Index
+| publisher = [[WebMD]]
+ }}</ref>  There is no known specific antidote for olanzapine overdose, and even physicians are recommended to call a certified [[poison control center]] for information on the treatment of such a case.<ref name="RxList"/>
+Olanzapine is considered moderately toxic in overdose; more toxic than quetiapine, aripiprazole and the [[Selective serotonin reuptake inhibitors|SSRIs]] and less toxic than the [[monoamine oxidase inhibitors|MAOIs]] and [[tricyclic antidepressants|TCAs]].<ref name =Maudsley/>
+
+==Pharmacology==
+
+===Pharmacodynamics===
+{{See also|Atypical antipsychotic#Pharmacodynamics|Antipsychotic#Comparison of medications}}
+{| class="wikitable floatright" style="font-size:small;"
+|+ Olanzapine<ref name="PDSP">{{cite web | title = PDSP K<sub>i</sub> Database | work = Psychoactive Drug Screening Program (PDSP) | author1 = Roth, BL | author2 = Driscol, J | publisher = University of North Carolina at Chapel Hill and the United States National Institute of Mental Health | accessdate = 14 August 2017 | url = https://pdsp.unc.edu/databases/pdsp.php?knowID=0&kiKey=&receptorDD=&receptor=&speciesDD=&species=&sourcesDD=&source=&hotLigandDD=&hotLigand=&testLigandDD=&testFreeRadio=testFreeRadio&testLigand=olanzapine&referenceDD=&reference=&KiGreater=&KiLess=&kiAllRadio=all&doQuery=Submit+Query}}</ref>
+|-
+! Site !! K<sub>i</sub> (nM) !! Action !! Ref
+|-
+| [[5-HT1A receptor|5-HT<sub>1A</sub>]] || 2,063–2,720 || Antagonist || <ref name="pmid12629531">{{cite journal | vauthors = Kroeze WK, Hufeisen SJ, Popadak BA, Renock SM, Steinberg S, Ernsberger P, Jayathilake K, Meltzer HY, Roth BL | title = H1-histamine receptor affinity predicts short-term weight gain for typical and atypical antipsychotic drugs | journal = Neuropsychopharmacology | volume = 28 | issue = 3 | pages = 519–26 | year = 2003 | pmid = 12629531 | doi = 10.1038/sj.npp.1300027 | url = }}</ref><ref name="pmid8935801" />
+|-
+| [[5-HT1B receptor|5-HT<sub>1B</sub>]] || 509–660 || {{abbr|ND|No data}} || <ref name="PDSP" /><ref name="pmid8935801" />
+|-
+| [[5-HT1D receptor|5-HT<sub>1D</sub>]] || 540–1,582 || {{abbr|ND|No data}} || <ref name="PDSP" /><ref name="pmid8935801" />
+|-
+| [[5-HT1E receptor|5-HT<sub>1E</sub>]] || 2,010–2,408 || {{abbr|ND|No data}} || <ref name="PDSP" /><ref name="pmid8935801" />
+|-
+| [[5-HT1F receptor|5-HT<sub>1F</sub>]] || 310 || {{abbr|ND|No data}} || <ref name="pmid8935801" />
+|-
+| [[5-HT2A receptor|5-HT<sub>2A</sub>]] || 1.32–24.2 || Inverse agonist || <ref name="pmid16314884">{{cite journal | vauthors = Davies MA, Setola V, Strachan RT, Sheffler DJ, Salay E, Hufeisen SJ, Roth BL | title = Pharmacologic analysis of non-synonymous coding h5-HT2A SNPs reveals alterations in atypical antipsychotic and agonist efficacies | journal = Pharmacogenomics J. | volume = 6 | issue = 1 | pages = 42–51 | year = 2006 | pmid = 16314884 | doi = 10.1038/sj.tpj.6500342 | url = }}</ref><ref name="pmid8997630" />
+|-
+| [[5-HT2B receptor|5-HT<sub>2B</sub>]] || 11.8–12.0 || Inverse agonist || <ref name="pmid8632342">{{cite journal | vauthors = Wainscott DB, Lucaites VL, Kursar JD, Baez M, Nelson DL | title = Pharmacologic characterization of the human 5-hydroxytryptamine2B receptor: evidence for species differences | journal = J. Pharmacol. Exp. Ther. | volume = 276 | issue = 2 | pages = 720–7 | year = 1996 | pmid = 8632342 | doi = | url = }}</ref><ref name="pmid10227113">{{cite journal | vauthors = Bymaster FP, Nelson DL, DeLapp NW, Falcone JF, Eckols K, Truex LL, Foreman MM, Lucaites VL, Calligaro DO | title = Antagonism by olanzapine of dopamine D1, serotonin2, muscarinic, histamine H1 and alpha 1-adrenergic receptors in vitro | journal = Schizophr. Res. | volume = 37 | issue = 1 | pages = 107–22 | year = 1999 | pmid = 10227113 | doi = | url = }}</ref>
+|-
+| [[5-HT2C receptor|5-HT<sub>2C</sub>]] || 6.4–29 || Inverse agonist || <ref name="pmid8997630" /><ref name="pmid10227113" />
+|-
+| [[5-HT3 receptor|5-HT<sub>3</sub>]] || 202 || Antagonist || <ref name="PDSP" />
+|-
+| [[5-HT5A receptor|5-HT<sub>5A</sub>]] || 1,212 || {{abbr|ND|No data}} || <ref name="PDSP" />
+|-
+| [[5-HT6 receptor|5-HT<sub>6</sub>]] || 6.0–42 || Antagonist || <ref name="PDSP" /><ref name="pmid14642972">{{cite journal | vauthors = Bymaster FP, Felder CC, Tzavara E, Nomikos GG, Calligaro DO, Mckinzie DL | title = Muscarinic mechanisms of antipsychotic atypicality | journal = Prog. Neuropsychopharmacol. Biol. Psychiatry | volume = 27 | issue = 7 | pages = 1125–43 | year = 2003 | pmid = 14642972 | doi = 10.1016/j.pnpbp.2003.09.008 | url = }}</ref>
+|-
+| [[5-HT7 receptor|5-HT<sub>7</sub>]] || 105–365 || Antagonist || <ref name="PDSP" /><ref name="pmid15771415">{{cite journal | vauthors = Fernández J, Alonso JM, Andrés JI, Cid JM, Díaz A, Iturrino L, Gil P, Megens A, Sipido VK, Trabanco AA | title = Discovery of new tetracyclic tetrahydrofuran derivatives as potential broad-spectrum psychotropic agents | journal = J. Med. Chem. | volume = 48 | issue = 6 | pages = 1709–12 | year = 2005 | pmid = 15771415 | doi = 10.1021/jm049632c | url = }}</ref>
+|-
+| [[Alpha-1A adrenergic receptor|α<sub>1A</sub>]] || 109–115 || Antagonist || <ref name="PDSP" /><ref name="pmid12629531" />
+|-
+| [[Alpha-1B adrenergic receptor|α<sub>1B</sub>]] || 263 || Antagonist || <ref name="PDSP" />
+|-
+| [[Alpha-2A adrenergic receptor|α<sub>2A</sub>]] || 192–470 || Antagonist || <ref name="pmid15771415" /><ref name="pmid8935801" />
+|-
+| [[Alpha-2B adrenergic receptor|α<sub>2B</sub>]] || 82–180 || Antagonist || <ref name="pmid12629531" /><ref name="pmid8935801" />
+|-
+| [[Alpha-2C adrenergic receptor|α<sub>2C</sub>]] || 29–210 || Antagonist || <ref name="pmid12629531" /><ref name="pmid8935801" />
+|-
+| [[Beta-1 adrenergic receptor|β<sub>1</sub>]] || >10,000 || {{abbr|ND|No data}} || <ref name="PDSP" /><ref name="pmid8935801" />
+|-
+| [[Beta-2 adrenergic receptor|β<sub>2</sub>]] || >10,000 || {{abbr|ND|No data}} || <ref name="PDSP" /><ref name="pmid8935801" />
+|-
+| [[Dopamine D1 receptor|D<sub>1</sub>]] || 35–118 || Antagonist || <ref name="pmid8997630" /><ref name="pmid15771415"/>
+|-
+| [[Dopamine D2 receptor|D<sub>2</sub>]] || 3.00–106 || Antagonist || <ref name="pmid9577836">{{cite journal | vauthors = Seeman P, Tallerico T | title = Antipsychotic drugs which elicit little or no parkinsonism bind more loosely than dopamine to brain D2 receptors, yet occupy high levels of these receptors | journal = Mol. Psychiatry | volume = 3 | issue = 2 | pages = 123–34 | year = 1998 | pmid = 9577836 | doi = | url = }}</ref><ref name="pmid16135699">{{cite journal | vauthors = Burstein ES, Ma J, Wong S, Gao Y, Pham E, Knapp AE, Nash NR, Olsson R, Davis RE, Hacksell U, Weiner DM, Brann MR | title = Intrinsic efficacy of antipsychotics at human D2, D3, and D4 dopamine receptors: identification of the clozapine metabolite N-desmethylclozapine as a D2/D3 partial agonist | journal = J. Pharmacol. Exp. Ther. | volume = 315 | issue = 3 | pages = 1278–87 | year = 2005 | pmid = 16135699 | doi = 10.1124/jpet.105.092155 | url = }}</ref>
+|-
+| [[Dopamine D2 receptor|D<sub>2L</sub>]] || 31–38 || Antagonist || <ref name="pmid8935801">{{cite journal | vauthors = Schotte A, Janssen PF, Gommeren W, Luyten WH, Van Gompel P, Lesage AS, De Loore K, Leysen JE | title = Risperidone compared with new and reference antipsychotic drugs: in vitro and in vivo receptor binding | journal = Psychopharmacology | volume = 124 | issue = 1-2 | pages = 57–73 | year = 1996 | pmid = 8935801 | doi = | url = }}</ref><ref name="pmid8997630">{{cite journal | vauthors = Kongsamut S, Roehr JE, Cai J, Hartman HB, Weissensee P, Kerman LL, Tang L, Sandrasagra A | title = Iloperidone binding to human and rat dopamine and 5-HT receptors | journal = Eur. J. Pharmacol. | volume = 317 | issue = 2-3 | pages = 417–23 | year = 1996 | pmid = 8997630 | doi = | url = }}</ref>
+|- 
+| [[Dopamine D2 receptor|D<sub>2S</sub>]] || 21–52 || Antagonist || <ref name="pmid8935801" /><ref name="pmid8566176">{{cite journal | vauthors = Seeman P, Van Tol HH | title = Deriving the therapeutic concentrations for clozapine and haloperidol: the apparent dissociation constant of a neuroleptic at the dopamine D2 or D4 receptor varies with the affinity of the competing radioligand | journal = Eur. J. Pharmacol. | volume = 291 | issue = 2 | pages = 59–66 | year = 1995 | pmid = 8566176 | doi = | url = }}</ref>
+|-
+| [[Dopamine D3 receptor|D<sub>3</sub>]] || 7.8–91 || Antagonist || <ref name="pmid9577836" /><ref name="pmid16135699" />
+|-
+| [[Dopamine D4 receptor|D<sub>4</sub>]] || 1.6–50 || Antagonist || <ref name="pmid9577836" /><ref name="pmid18595716">{{cite journal | vauthors = Ablordeppey SY, Altundas R, Bricker B, Zhu XY, Kumar EV, Jackson T, Khan A, Roth BL | title = Identification of a butyrophenone analog as a potential atypical antipsychotic agent: 4-[4-(4-chlorophenyl)-1,4-diazepan-1-yl]-1-(4-fluorophenyl)butan-1-one | journal = Bioorg. Med. Chem. | volume = 16 | issue = 15 | pages = 7291–301 | year = 2008 | pmid = 18595716 | pmc = 2664318 | doi = 10.1016/j.bmc.2008.06.030 | url = }}</ref>
+|-
+| [[Dopamine D4 receptor|D<sub>4.2</sub>]] || 17–102 || Antagonist || <ref name="pmid9430133">{{cite journal | vauthors = Arnt J, Skarsfeldt T | title = Do novel antipsychotics have similar pharmacological characteristics? A review of the evidence | journal = Neuropsychopharmacology | volume = 18 | issue = 2 | pages = 63–101 | year = 1998 | pmid = 9430133 | doi = 10.1016/S0893-133X(97)00112-7 | url = }}</ref><ref name="pmid9262370">{{cite journal | vauthors = Tallman JF, Primus RJ, Brodbeck R, Cornfield L, Meade R, Woodruff K, Ross P, Thurkauf A, Gallager DW | title = I. NGD 94-1: identification of a novel, high-affinity antagonist at the human dopamine D4 receptor | journal = J. Pharmacol. Exp. Ther. | volume = 282 | issue = 2 | pages = 1011–9 | year = 1997 | pmid = 9262370 | doi = | url = }}</ref>
+|-
+| [[Dopamine D4 receptor|D<sub>4.4</sub>]] || 21–60 || Antagonist || <ref name="pmid8566176" />
+|-
+| [[Dopamine D5 receptor|D<sub>5</sub>]] || 74–90 || Antagonist || <ref name="pmid8997630" /><ref name="PDSP" />
+|-
+| [[Histamine H1 receptor|H<sub>1</sub>]] || 0.65–4.9 || Inverse agonist || <ref name="pmid8935801" /><ref name="PDSP" />
+|-
+| [[Histamine H2 receptor|H<sub>2</sub>]] || 44 || Antagonist || <ref name="PDSP" />
+|-
+| [[Histamine H3 receptor|H<sub>3</sub>]] || 3,713 || Antagonist || <ref name="PDSP" />
+|-
+| [[Histamine H4 receptor|H<sub>4</sub>]] || >10,000 || Antagonist || <ref name="PDSP" />
+|-
+| [[Muscarinic acetylcholine receptor M1|M<sub>1</sub>]] || 2.5–73 || Antagonist || <ref name="pmid8822531">{{cite journal | vauthors = Bymaster FP, Calligaro DO, Falcone JF, Marsh RD, Moore NA, Tye NC, Seeman P, Wong DT | title = Radioreceptor binding profile of the atypical antipsychotic olanzapine | journal = Neuropsychopharmacology | volume = 14 | issue = 2 | pages = 87–96 | year = 1996 | pmid = 8822531 | doi = 10.1016/0893-133X(94)00129-N | url = }}</ref><ref name="pmid10708730">{{cite journal | vauthors = Bymaster FP, Falcone JF | title = Decreased binding affinity of olanzapine and clozapine for human muscarinic receptors in intact clonal cells in physiological medium | journal = Eur. J. Pharmacol. | volume = 390 | issue = 3 | pages = 245–8 | year = 2000 | pmid = 10708730 | doi = | url = }}</ref>
+|-
+| [[Muscarinic acetylcholine receptor M2|M<sub>2</sub>]] || 48–622 || Antagonist || <ref name="pmid14642972" />
+|-
+| [[Muscarinic acetylcholine receptor M3|M<sub>3</sub>]] || 13–126 || Antagonist || <ref name="pmid10227113" /><ref name="pmid14642972" />
+|-
+| [[Muscarinic acetylcholine receptor M4|M<sub>4</sub>]] || 10–350 || Antagonist || <ref name="pmid8822531" /><ref name="pmid14642972" />
+|-
+| [[Muscarinic acetylcholine receptor M5|M<sub>5</sub>]] || 6.0–82 || Antagonist || <ref name="pmid8822531" /><ref name="pmid14642972" />
+|-
+| [[Sigma-1 receptor|σ<sub>1</sub>]] || >5,000 || {{abbr|ND|No data}} || <ref name="pmid8935801" />
+|-
+| [[Sigma-2 receptor|σ<sub>2</sub>]] || {{abbr|ND|No data}} || {{abbr|ND|No data}} || {{abbr|ND|No data}}
+|-
+| [[Opioid receptor|Opioid]] || >10,000 || {{abbr|ND|No data}} || <ref name="pmid8935801" />
+|-
+| {{abbrlink|nACh|Nicotinic acetylcholine receptor}} || >10,000 || {{abbr|ND|No data}} || <ref name="PDSP" />
+|-
+| [[NMDA receptor|{{abbr|NMDA|N-Methyl-D-aspartate receptor}}<br />({{abbr|PCP|Phencyclidine site}})]] || >10,000 || {{abbr|ND|No data}} || <ref name="PDSP" />
+|-
+| {{abbrlink|SERT|Serotonin transporter}} || ≥3,676 || {{abbr|ND|No data}} || <ref name="PDSP" /><ref name="pmid18595716" />
+|-
+| {{abbrlink|NET|Norepinephrine transporter}} || >10,000 || {{abbr|ND|No data}} || <ref name="PDSP" />
+|-
+| {{abbrlink|DAT|Dopamine transporter}} || >10,000 || {{abbr|ND|No data}} || <ref name="PDSP" />
+|-
+| {{abbrlink|VDCC|Voltage-dependent calcium channel}} || >10,000 || {{abbr|ND|No data}} || <ref name="PDSP" /><ref name="pmid8935801" />
+|-
+| {{abbrlink|VGSC|Voltage-gated sodium channel}} || >5,000 || {{abbr|ND|No data}} || <ref name="pmid8935801" />
+|-
+| {{abbrlink|hERG|Human Ether-à-go-go-Related Gene}} || 6,013 || Blocker || <ref name="pmid12176106">{{cite journal | vauthors = Kongsamut S, Kang J, Chen XL, Roehr J, Rampe D | title = A comparison of the receptor binding and HERG channel affinities for a series of antipsychotic drugs | journal = Eur. J. Pharmacol. | volume = 450 | issue = 1 | pages = 37–41 | year = 2002 | pmid = 12176106 | doi = | url = }}</ref>
+|- class="sortbottom"
+| colspan="5" style="width: 1px;" | Values are K<sub>i</sub> (nM). The smaller the value, the more strongly the drug binds to the site. All data are for human cloned proteins, except H<sub>3</sub> (guinea pig), σ<sub>1</sub> (guinea pig), opioid (rodent), {{abbr|NMDA|N-Methyl-D-aspartate receptor}}/{{abbr|PCP|Phencyclidine site}} (rat), {{abbr|VDCC|Voltage-dependent calcium channel}}, and {{abbr|VGSC|Voltage-gated calcium channel}}.<ref name="PDSP" />
+|}
+
+Olanzapine has a higher affinity for [[serotonin receptor|5-HT<sub>2A</sub> serotonin receptors]] than [[dopamine receptor|D<sub>2</sub> dopamine]] receptors, which is a common property of most atypical antipsychotics, aside from the benzamide antipsychotics such as [[amisulpride]] along with the non-benzamides [[aripiprazole]], [[brexpiprazole]], [[blonanserin]], [[cariprazine]], [[melperone]] and [[perospirone]]. Olanzapine also had the highest affinity of any second-generation antipsychotic towards the [[P-glycoprotein]] in one ''in vitro'' study.<ref>{{cite journal |vauthors=Wang JS, Zhu HJ, Markowitz JS, Donovan JL, DeVane CL | title = Evaluation of antipsychotic drugs as inhibitors of multidrug resistance transporter P-glycoprotein | journal = Psychopharmacology | volume = 187 | issue = 4 | pages = 415–423 | date = September 2006 | pmid = 16810505 | doi = 10.1007/s00213-006-0437-9 }}</ref> P-glycoprotein transports a myriad of drugs across a numerous of different biological membranes (found in numerous body systems) including the [[blood-brain barrier]] (a semi-permeable membrane which filters the contents of blood prior to it reaching the brain); P-GP inhibition could mean that less brain exposure to olanzapine results from this interaction with the P-glycoprotein.<ref>{{cite journal |vauthors=Moons T, de Roo M, Claes S, Dom G | title = Relationship between P-glycoprotein and second-generation antipsychotics | journal = Pharmacogenomics | volume = 12 | issue = 8 | pages = 1193–1211 | date = August 2011 | pmid = 21843066 | doi = 10.2217/pgs.11.55 }}</ref> A relatively large quantity of commonly encountered foods and medications inhibit P-GP, and it is fairly common for pharmaceuticals to be either substrates of P-GP, or to inhibit its action; both substrates and inhibitors of P-GP effectively increase the permeability of the blood brain barrier to P-GP substrates and subsequently increase the central activity of the substrate while reducing the local effects on the GI tract. The mediation of olanzapine in the central nervous system by P-GP means that any other substance or drug which interacts with P-GP increases the risk for toxic accumulations of both olanzapine and the other drug.<ref>{{cite web|title=Drug Transporters: The Final Frontier for Drug Interactions|date=December 1, 2008|author=John R. Horn, PharmD, FCCP, and Philip Hansten, PharmD|url=http://www.pharmacytimes.com/publications/issue/2008/2008-12/2008-12-8474|journal=Pharmacy Times}}</ref>
+
+Olanzapine is a potent antagonist of the muscarinic M<sub>3</sub> receptor,<ref>{{cite journal |vauthors=Johnson DE, Yamazaki H, Ward KM, Schmidt AW, Lebel WS, Treadway JL, Gibbs EM, Zawalich WS, Rollema H | title = Inhibitory Effects of Antipsychotics on Carbachol-Enhanced Insulin Secretion from Perifused Rat Islets: Role of Muscarinic Antagonism in Antipsychotic-Induced Diabetes and Hyperglycemia | journal = Diabetes | volume = 54 | issue = 5 | pages = 1552–8 | year = 2005 | pmid = 15855345 | doi = 10.2337/diabetes.54.5.1552 }}</ref> which may underlie its diabetogenic side effects.<ref name="Weston-Green 1069–1080">{{cite journal |vauthors=Weston-Green K, Huang XF, Deng C | title = Second Generation Antipsychotic-Induced Type 2 Diabetes: A Role for the Muscarinic M3 Receptor | journal = CNS Drugs | volume = 27 | pages = 1069–1080 | date = 10 October 2013 | pmid = 24114586 | doi = 10.1007/s40263-013-0115-5 | url = https://link.springer.com/article/10.1007%2Fs40263-013-0115-5 | accessdate = 15 February 2014 }}</ref><ref>{{cite journal |vauthors=Silvestre JS, Prous J | title = Research on adverse drug events. I. Muscarinic M3 receptor binding affinity could predict the risk of antipsychotics to induce type 2 diabetes | journal = Methods and Findings in Experimental and Clinical Pharmacology | volume = 27 | issue = 5 | pages = 289–304 | year = 2005 | pmid = 16082416 | doi = 10.1358/mf.2005.27.5.908643 }}</ref>
+Additionally, olanzapine also exhibits a relatively low affinity for serotonin 5-HT<sub>1</sub>, GABA<sub>A</sub>, beta-adrenergic receptors, and benzodiazepine binding sites.<ref name="lexicomp"/><ref>{{cite web|url=http://www.cancer.gov/Templates/drugdictionary.aspx?&cdrid=449664&page=1&print=1 |title=olanzapine |publisher=National Cancer Institute |work=NCI Drug Dictionary}}</ref>
+
+The mode of action of olanzapine's antipsychotic activity is unknown. It may involve antagonism of [[dopamine]] and [[serotonin]] receptors. Antagonism of dopamine receptors is associated with [[extrapyramidal effects]] such as [[tardive dyskinesia]] (TD), and with therapeutic effects. Antagonism of [[muscarinic acetylcholine receptors]] is associated with [[anticholinergic]] side effects such as dry mouth and constipation, in addition it may suppress or reduce the emergence of [[extrapyramidal effects]] for the duration of treatment, however it offers no protection against the development of [[tardive dyskinesia]]. In common with other second generation (atypical) antipsychotics, olanzapine poses a relatively low risk of extrapyramidal side effects including TD, due to its high affinity for the D<sub>1</sub> receptor over the D<sub>2</sub> receptor.<ref name="foyes">Lemke TL, Williams DA (2009) Foye's Medicinal Chemistry, 6th edition. Wolters Kluwer: New Delhi. {{ISBN|978-81-89960-30-8}}.</ref>
+
+Antagonizing H<sub>1</sub> histamine receptors causes sedation and may cause weight gain, although antagonistic actions at serotonin 5-HT<sub>2C</sub> and dopamine D<sub>2</sub> receptors have also been associated with weight gain and appetite stimulation.<ref>[https://web.archive.org/web/20081120102136/http://www.askdrjones.com/medication-best-meds/part-six-medication-and-weight-control/ "Medication and Weight Control"]</ref>
+
+===Pharmacokinetics===
+
+====Metabolism====
+Olanzapine is metabolized by the [[cytochrome P450]] system; principally by isozyme 1A2 and to a lesser extent by 2D6. By these mechanisms more than 40% of the oral dose, on average, is removed by the [[First pass effect|hepatic first-pass effect]].<ref name="lexicomp"/> Drugs or agents that increase the activity of CYP1A2, notably tobacco smoke, may significantly increase hepatic first-pass clearance of Olanzapine; conversely, drugs which inhibit 1A2 activity (examples: [[Ciprofloxacin]], [[Fluvoxamine]]) may reduce Olanzapine clearance.<ref name = olanzapinepi />
+
+==Society and culture==
+[[File:Zyprexa.jpg|thumb|Zyprexa (olanzapine) 10 mg tablets ([[Australia|AU]])]]
+
+===Regulatory status===
+Olanzapine is approved in the U.S.A. by the [[Food and Drug Administration]] (FDA) for:
+*Treatment — in combination with [[fluoxetine]] — of depressive episodes associated with [[bipolar disorder]] (December 2003).<ref>
+{{cite web
+| title = NDA 21-520
+| publisher = Food and Drug Administration
+| date =  2003-12-24
+| url = http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2003/21520ltr.pdf
+| format=PDF| accessdate = 2009-09-06
+}}</ref>
+
+*Long-term treatment of [[bipolar I disorder]] (January 2004).<ref>
+{{cite web
+| title = NDA 20-592 / S-019
+| publisher = Food and Drug Administration
+| date =  2004-01-14
+| url = http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2004/20592se1-019ltr.pdf
+| format=PDF
+| accessdate = 2009-09-06
+}}</ref><ref>{{cite journal |vauthors=Pillarella J, Higashi A, Alexander GC, Conti R | title = Trends in the use of atypical antipsychotics for the treatment of bipolar disorder in the United States, 1998-2009 | journal = Psychiatric Services | volume = 63 | issue = 1 | pages = 83–86 | year = 2012 | pmid = 22227765 | doi = 10.1176/appi.ps.201100092 | url = http://ps.psychiatryonline.org/article.aspx?articleID=181283 | pmc=4594841}}</ref>
+
+*Long-term treatment — in combination with [[fluoxetine]] — of resistant depression (March 2009).<ref>[https://www.forbes.com/feeds/hscout/2009/03/23/hscout625355.html Forbes.com]{{dead_link|date=March 2013}}</ref>
+*Oral formulation: acute and maintenance treatment of schizophrenia in adults, acute treatment of manic or mixed episodes associated with bipolar I disorder (monotherapy and in combination with [[lithium]] or [[sodium valproate]])
+*Intramuscular formulation: acute agitation associated with schizophrenia and bipolar I mania in adults
+*Oral formulation combined with [[fluoxetine]]: treatment of acute depressive episodes associated with bipolar I disorder in adults, or treatment of acute, resistant depression in adults<ref>treatment resistant depression defined as major depressive disorder in adult patients who do not respond to two separate trials of different antidepressants of adequate dose and duration in the current episode</ref>
+*Treatment of the manifestations of psychotic disorders (September 1996<ref name = "NDA 20-592">
+{{cite web
+| title = NDA 20-592
+| publisher = Food and Drug Administration
+| date = 1996-09-06
+| url = http://www.accessdata.fda.gov/drugsatfda_docs/nda/96/020592_Original_Approval_Pkg%20.pdf
+| format=PDF| accessdate = 2009-09-06
+}}</ref>—March 2000).<ref name = "Off-label">
+{{cite web
+| title = Eli Lilly and Company Agrees to Pay $1.415 Billion to Resolve Allegations of Off-label Promotion of Zyprexa
+| publisher = U.S. Justice Department
+| date =  2009-01-15
+| url = http://www.justice.gov/opa/pr/2009/January/09-civ-038.html
+| accessdate = 2012-07-09
+}}</ref>
+
+*Short-term treatment of acute manic episodes associated with [[bipolar I disorder]] (March 2000).<ref name = "Off-label" />
+*Short-term treatment of schizophrenia instead of the management of the manifestations of psychotic disorders (March 2000).<ref name = "Off-label" />
+*Maintaining treatment response in schizophrenic patients who had been stable for approximately eight weeks and were then followed for a period of up to eight months (November 2000).<ref name = "Off-label" />
+
+===Controversy and litigation===
+Eli Lilly has faced many lawsuits from people who claimed they developed diabetes or other diseases after taking Zyprexa, as well as by various governmental entities, insurance companies, and others.  Lilly produced a large number of documents as part of the [[Discovery (law)|discovery phase]] of this litigation, which started in 2004; the documents were ruled to be confidential by a judge and placed under [[Record sealing|seal]], and later themselves became the subject of litigation.<ref name=NYTrelease/>
+
+In 2006, Lilly paid $700 million to settle around 8,000 of these lawsuits,<ref>{{cite news |last=Berenson|first=Alex|url=https://www.nytimes.com/2007/01/04/business/04drug.html |title=Mother Wonders if Psychosis Drug Helped Kill Son |work=The New York Times |date=January 4, 2007 |accessdate=May 21, 2013}}</ref>  and in early 2007,  Lilly settled around 18,000 suits for $500 million, which brought the total Lilly had paid to settle suits related to the drug to $1.2 billion.<ref name=NYT200101>{{cite news|last1=Berenson|first1=Alex|title=Lilly Settles With 18,000 Over Zyprexa|url=https://www.nytimes.com/2007/01/05/business/05drug.html?_r=0|work=The New York Times|date=5 January 2007}}</ref><ref name=timeso/>
+
+A December 2006 [[New York Times]] article based on leaked company documents concluded that the company had engaged in a deliberate effort to downplay olanzapine's side effects.<ref name=NYT200101/><ref>{{cite news|last=Berenson|first=Alex |title=Eli Lilly Said to Play Down Risk of Top Pill |url=https://www.nytimes.com/2006/12/17/business/17drug.html|work=The New York Times |date=December 17, 2006 |accessdate=May 21, 2013}}</ref> The company denied these allegations and stated that the article had been based on cherry picked documents.<ref name=NYT200101/><ref name=timeso/>  The documents were provided to the Times by [[James Gottstein|Jim Gottstein]], a lawyer who represented mentally ill patients, who obtained them from a doctor, David Egilman, who was serving as an expert consultant on the case.<ref name=NYTrelease/>  In 2007 Lilly filed a protection order to stop the dissemination of some of the documents, which Judge [[Jack B. Weinstein]] of the Brooklyn Federal District Court granted, and criticized the New York Times reporter, Gottstein, and Egilman in the ruling.<ref name=NYTrelease/>  ''[[The Times]]'' of London also received the documents and reported that as early as 1998, Lilly considered the risk of drug-induced obesity to be a "top threat" to Zyprexa sales.<ref name=timeso>{{cite news|last1=Pagnamenta|first1=Robin|title=Eli Lilly was concerned by Zyprexa side-effects from 1998|url=http://www.timesonline.co.uk/tol/life_and_style/health/article1295456.ece|work=The Times (London)|date=January 23, 2007 |archiveurl=https://web.archive.org/web/20070220232729/http://www.timesonline.co.uk/tol/life_and_style/health/article1295456.ece|archivedate=February 20, 2007}}</ref> On October 9, 2000, senior Lilly research physician Robert Baker noted that an academic advisory board he belonged to was "quite impressed by the magnitude of weight gain on olanzapine and implications for glucose."<ref name=timeso/>
+
+Lilly had threatened Egilman with criminal contempt charges regarding the documents he took and provided to reporters; in September 2007 he agreed to pay Lilly $100,000 in return for the company’s agreement to drop the threat of charges.<ref name=NYT2009-01>{{cite news|last1=Harris|first1=Gardiner|last2=Berenson|first2=Alex|title=Lilly Said to Be Near $1.4 Billion U.S. Settlement|url=https://www.nytimes.com/2009/01/15/business/15drug.html|work=The New York Times|date=14 January 2009}}</ref>
+
+In September 2008 Judge Weinstein issued an order to make public Lilly's internal documents about the drug in a different suit brought by insurance companies, pension funds, and other payors.<ref name=NYTrelease>{{cite news|last1=Walsh|first1=Mary Williams|title=Judge to Unseal Documents on the Eli Lilly Drug Zyprexa|url=https://www.nytimes.com/2008/09/06/business/06lilly.html|work=The New York Times|date=5 September 2008}}</ref>
+
+In March 2008 Lilly settled a suit with the state of Alaska<ref>{{cite news|last1=Berenson|first1=Alex|title=Lilly Settles Alaska Suit Over Zyprexa|url=https://www.nytimes.com/2008/03/26/business/26cnd-zyprexa.html|work=The New York Times|date=26 March 2008}}</ref> and in October 2008, Lilly agreed to pay $62 million to 32 states and the District of Columbia to settle suits brought under state [[consumer protection]] laws.<ref name=NYT2009-01/>
+
+In 2009, Eli Lilly pleaded guilty to a US federal criminal [[misdemeanor]] charge of illegally marketing Zyprexa for [[off-label use]] and agreed to pay $1.4 billion.<ref name="MSN.com">[http://www.msnbc.msn.com/id/28677805/ MSN.com] Lilly settles Zyprexa suit for $1.42 billion.</ref><ref name="Berenson, Alex">{{cite news |last=Berenson |first=Alex |title=Drug Files Show Maker Promoted Unapproved Use |url=https://www.nytimes.com/2006/12/18/business/18drug.html |date=December 18, 2006 |work=The New York Times|accessdate=May 21, 2013}}</ref>
+
+===Trade names===
+Olanzapine is generic and is available under many trade names worldwide.<ref name=Drugnames>Drugs.com [http://www.drugs.com/international/olanzapine.html Drugs.com international listings for Olanzapine] Page accessed August 4, 2015</ref>
+
+===Dosage forms===
+Olanzapine is marketed in a number of countries, with tablets ranging from 2.5 to 20 milligrams. Zyprexa (and generic olanzapine) is available as an orally-disintegrating "wafer" which rapidly dissolves in saliva. It is also available in 10 milligram vials for intramuscular injection.<ref name = olanzapinepi />
+
+==Research==
+Olanzapine has been investigated for use as an [[antiemetic]], particularly for the control of [[chemotherapy-induced nausea and vomiting]] (CINV).  A 2007 study demonstrated its successful potential for this use, achieving a complete response in the acute prevention of nausea and vomiting in 100% of patients treated with moderately and highly-emetogenic [[chemotherapy]], when used in combination with [[palonosetron]] and [[dexamethasone]].<ref>{{cite journal |vauthors=Navari RM, Einhorn LH, Loehrer PJ, Passik SD, Vinson J, McClean J, Chowhan N, Hanna NH, Johnson CS | title = A phase II trial of olanzapine, dexamethasone, and palonosetron for the prevention of chemotherapy-induced nausea and vomiting: A Hoosier oncology group study | journal = Supportive Care in Cancer | volume = 15 | issue = 11 | pages = 1285–91 | year = 2007 | pmid = 17375339 | doi = 10.1007/s00520-007-0248-5  }}</ref>
+
+Olanzapine has been considered as part of an [[early intervention in psychosis|early psychosis]] approach for schizophrenia.  The Prevention through Risk Identification, Management, and Education (PRIME) study, funded by the [[National Institute of Mental Health]] and Eli Lilly, tested the hypothesis that olanzapine might prevent the onset of psychosis in people at very high risk for [[schizophrenia]]. The study examined 60 patients with [[Prodrome|prodromal]] schizophrenia, who were at an estimated risk of 36–54% of developing schizophrenia within a year, and treated half with olanzapine and half with [[placebo]].<ref>{{cite journal |vauthors=McGlashan TH, Zipursky RB, Perkins D, Addington J, Miller TJ, Woods SW, Hawkins KA, Hoffman R, Lindborg S, Tohen M, Breier A | title = The PRIME North America randomized double-blind clinical trial of olanzapine versus placebo in patients at risk of being prodromally symptomatic for psychosis | journal = Schizophrenia Research | volume = 61 | issue = 1 | pages = 7–18 | year = 2003 | pmid = 12648731 | doi = 10.1016/S0920-9964(02)00439-5 }}</ref> In this study, patients receiving olanzapine did not have a [[statistically significant|significantly]] lower risk of progressing to psychosis. Olanzapine was effective for treating the prodromal symptoms, but was associated with significant weight gain.<ref>{{cite journal |vauthors=McGlashan TH, Zipursky RB, Perkins D, Addington J, Miller T, Woods SW, Hawkins KA, Hoffman RE, Preda A, Epstein I, Addington D, Lindborg S, Trzaskoma Q, Tohen M, Breier A | title = Randomized, Double-Blind Trial of Olanzapine Versus Placebo in Patients Prodromally Symptomatic for Psychosis | journal = American Journal of Psychiatry | volume = 163 | issue = 5 | pages = 790–9 | year = 2006 | pmid = 16648318 | doi = 10.1176/appi.ajp.163.5.790 }}</ref>
+
+==References==
+{{Reflist|2}}
+
+==External links==
+{{Commonscat}}
+* [http://www.zyprexa.com/ Zyprexa.com] - official Zyprexa brand website from [[Eli Lilly and Company]]
+* [http://pi.lilly.com/us/zyprexa-pi.pdf Zyprexa package insert]
+*{{cite news |url=https://query.nytimes.com/gst/fullpage.html?res=9F00E5DB1430F936A35752C0A9619C8B63 |title=Lilly Settles With 18,000 Over Zyprexa |first=Alex |last=Berenson |work=[[New York Times]] |date=December 17, 2006}}
+
+{{Antipsychotics}}
+{{Mood stabilizers}}
+{{Orexigenics}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Adrenergic receptor modulators}}
+{{Dopamine receptor modulators}}
+{{Histamine receptor modulators}}
+{{Muscarinic acetylcholine receptor modulators}}
+{{Serotonin receptor modulators}}
+}}
+{{Benzodiazepines}}
+{{Tricyclics}}
+
+[[Category:5-HT2A antagonists]]
+[[Category:5-HT2B antagonists]]
+[[Category:5-HT2C antagonists]]
+[[Category:5-HT6 antagonists]]
+[[Category:5-HT7 antagonists]]
+[[Category:Alpha-1 blockers]]
+[[Category:Alpha-2 blockers]]
+[[Category:Appetite stimulants]]
+[[Category:Atypical antipsychotics]]
+[[Category:D1 antagonists]]
+[[Category:D2 antagonists]]
+[[Category:D3 antagonists]]
+[[Category:D4 antagonists]]
+[[Category:D5 antagonists]]
+[[Category:Eli Lilly and Company]]
+[[Category:H1 receptor antagonists]]
+[[Category:H2 receptor antagonists]]
+[[Category:Medical controversies]]
+[[Category:Mood stabilizers]]
+[[Category:Muscarinic antagonists]]
+[[Category:Piperazines]]
+[[Category:Thienobenzodiazepines]]

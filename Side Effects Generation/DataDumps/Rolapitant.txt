@@ -1,0 +1,95 @@
+{{Drugbox
+| IUPAC_name = (5''S'',8''S'')-8-({(1''R'')-1-[3,5-bis(trifluoromethyl)phenyl]ethoxy}methyl)- 8-phenyl-1,7-diazaspiro[4.5]decan-2-one
+| image = Rolapitant.svg
+| width = 225
+
+<!--Clinical data-->
+| pronounce = {{IPAc-en|r|oʊ|ˈ|l|æ|p|ɪ|t|æ|n|t}} {{respell|roh|LAP|i-tant}}
+| tradename = Varubi (US), Varuby (EU)
+| Drugs.com = {{Drugs.com|parent|varubi}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US =
+| pregnancy_category =
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = Rx-only
+| routes_of_administration = [[Oral administration|By mouth]] ([[Tablet (pharmacy)|tablets]])
+
+<!--Pharmacokinetic data-->
+| bioavailability = nearly 100%
+| protein_bound = 99.8%
+| metabolism = [[CYP3A4]]
+| metabolites = C4-pyrrolidine-hydroxylated rolapitant (major)
+| elimination_half-life = 169–183 hours
+| excretion = Feces (52–89%), urine (9–20%)<ref name="PI">{{cite web|title=Varubi (rolapitant) Tablets, for Oral Use. Full Prescribing Information|url=http://varubirx.com/downloads/VARUBI_(rolapitant)_Full_Prescribing_Information.pdf|publisher=TESARO, Inc. 1000 Winter St., #3300, Waltham, MA 02451}}</ref>
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 552292-08-7
+| CAS_supplemental =
+| ATC_prefix = A04
+| ATC_suffix = AD14
+| PubChem = 10311306
+| IUPHAR_ligand = 5749
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB09291
+| ChemSpiderID = 8486772
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = NLE429IZUC
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 90908
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL =
+| KEGG = D10742
+| synonyms = SCH 619734
+
+<!--Chemical data-->
+| C=25 | H=26 | F=6 | N=2 | O=2 
+| molecular_weight = 500.476 g/mol
+| smiles = FC(F)(F)c(c4)cc(C(F)(F)F)cc4C(C)OCC3(c2ccccc2)NCC1(CC3)NC(=O)CC1
+| StdInChI=1S/C25H26F6N2O2/c1-16(17-11-19(24(26,27)28)13-20(12-17)25(29,30)31)35-15-23(18-5-3-2-4-6-18)10-9-22(14-32-23)8-7-21(34)33-22/h2-6,11-13,16,32H,7-10,14-15H2,1H3,(H,33,34)/t16-,22-,23-/m1/s1
+| StdInChIKey = FIVSJYGQAIEMOC-ZGNKEGEESA-N
+}}
+
+'''Rolapitant''' ([[International Nonproprietary Name|INN]],<ref>{{cite web|title=International Nonproprietary Names for Pharmaceutical Substances (INN). Recommended International Nonproprietary Names (Rec. INN): List 59|url=http://www.who.int/medicines/publications/druginformation/innlists/RL59.pdf|publisher=World Health Organization|accessdate=5 October 2016|page=64}}</ref> trade name '''Varubi''' {{IPAc-en|v|ə|ˈ|r|uː|b|i}} {{respell|vuh|ROO|bee}} in the US and '''Varuby''' in Europe) is a drug originally developed by [[Schering-Plough]] and licensed for clinical development by [[Tesaro]], which acts as a selective [[NK1 receptor antagonist|NK<sub>1</sub> receptor antagonist]] ([[Antagonist (pharmacology)|antagonist]] for the [[Tachykinin receptor 1|NK<sub>1</sub>]] [[Receptor (biochemistry)|receptor]]).<ref>{{cite journal|title=Rolapitant (SCH 619734): a potent, selective and orally active neurokinin NK1 receptor antagonist with centrally-mediated antiemetic effects in ferrets|journal=Pharmacol Biochem Behav|year=2012|volume=102|issue=1|pages=95–100|doi=10.1016/j.pbb.2012.03.021|pmid=22497992|author1=Duffy|first1=R. A|last2=Morgan|first2=C|last3=Naylor|first3=R|last4=Higgins|first4=G. A|last5=Varty|first5=G. B|last6=Lachowicz|first6=J. E|last7=Parker|first7=E. M}}</ref> It has been approved as a medication for the treatment of [[chemotherapy-induced nausea and vomiting]] (CINV) after [[clinical trial]]s showed it to have similar or improved efficacy and some improvement in safety over existing drugs for this application.<ref>{{cite journal|title=Recent developments in the prevention of chemotherapy-induced nausea and vomiting (CINV): a comprehensive review|journal=Ann Oncol|year=2015|volume=26|issue=6|pages=1081–90|doi=10.1093/annonc/mdv138|pmid=25755107|author1=Jordan|first1=K|last2=Jahn|first2=F|last3=Aapro|first3=M}}</ref><ref>{{cite journal|title=Recent Advances in Preventing Chemotherapy-Induced Nausea and Vomiting|journal=Oncology|year=2016|volume=30|issue=8|pages=750–62|pmid=27539626|author1=Nasir|first1=S. S|last2=Schwartzberg|first2=L. S}}</ref><ref>{{cite journal|title=Efficacy and safety of rolapitant for prevention of chemotherapy-induced nausea and vomiting over multiple cycles of moderately or highly emetogenic chemotherapy|journal=Eur J Cancer|year=2016|volume=57|pages=23–30|doi=10.1016/j.ejca.2015.12.023|pmid=26851398|author1=Rapoport|first1=B|last2=Schwartzberg|first2=L|last3=Chasen|first3=M|last4=Powers|first4=D|last5=Arora|first5=S|last6=Navari|first6=R|last7=Schnadig|first7=I}}</ref><ref>{{cite journal|title=Rolapitant for the treatment of chemotherapy-induced nausea and vomiting: a review of the clinical evidence|journal=Future Oncol|year=2016|volume=12|issue=6|pages=763–78|doi=10.2217/fon.16.11|pmid=26842387|author1=Chasen|first1=M. R|last2=Rapoport|first2=B. L}}</ref>
+
+== Medical uses ==
+Rolapitant is used in combination with other [[antiemetic]] (anti-vomiting) agents in adults for the prevention of delayed nausea and vomiting associated with initial and repeat courses of emetogenic cancer [[chemotherapy]], including, but not limited to, highly emetogenic chemotherapy.<ref name="PI" /> The approved antiemetic combination consists of rolapitant plus [[dexamethasone]] and a [[5-HT3 antagonist|5-HT<sub>3</sub> antagonist]].<ref name="EPAR" />
+
+==Contraindications==
+Under the US approval, rolapitant is contraindicated in combination with [[thioridazine]], whose inactivation could be inhibited by rolapitant.<ref name="Drugs.com">{{Drugs.com|pro|varubi}} on Varubi. Accessed 2017-10-11.</ref> Under the European approval, it is contraindicated in combination with [[St. John's Wort]], which is expected to accelerate inactivation of rolapitant.<ref name="EPAR">{{cite web|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/004196/WC500228742.pdf|title=Varuby: EPAR – Product Information|publisher=[[European Medicines Agency]]|date=2017-05-31}}</ref>
+
+==Side effects==
+In studies comparing chemotherapy plus rolapitant, dexamethasone and a 5-HT<sub>3</sub> antagonist to chemotherapy plus [[placebo]], dexamethasone and a 5-HT<sub>3</sub> antagonist, most side effects had comparable frequencies in both groups, and differed more between chemotherapy regimens than between rolapitant and placebo groups. Common side effects included decreased appetite (9% under rolapitant vs. 7% under placebo), [[neutropenia]] (9% vs. 8% or 7% vs. 6%, depending on the kind of chemotherapy), dizziness (6% vs. 4%), indigestion and [[stomatitis]] (both 4% vs. 2%).<ref name="Drugs.com" />
+
+==Overdose==
+Up to eightfold therapeutic doses have been given in studies without problems.<ref name="EPAR" />
+
+==Pharmacology==
+{{see|Aprepitant#Mechanism of action}}
+
+===Pharmacodynamics===
+Both rolapitant and its [[active metabolite]] M19 (C4-[[pyrrolidine]]-hydroxylated rolapitant) block the [[Tachykinin receptor 1|NK<sub>1</sub> receptor]] with high [[affinity (pharmacology)|affinity]] and [[Binding selectivity|selectivity]]: to block the closely related receptor [[Tachykinin receptor 2|NK<sub>2</sub>]] or any other of 115 tested receptors and [[enzyme]]s, more than 1000-fold therapeutic doses would be necessary.<ref name="AssessmentReport" />
+
+===Pharmacokinetics===
+Rolapitant is practically completely absorbed from the gut, independently of food intake. It undergoes no measurable [[first-pass effect]] in the liver. Highest [[blood plasma]] concentrations are reached after about four hours. When in the bloodstream, 99.8% of the substance are bound to [[plasma protein]]s.<ref name="EPAR" />
+
+It is metabolized by the liver enzyme [[CYP3A4]], resulting in the major active metabolite M19 and a number of inactive metabolites. Rolapitant is mainly excreted via the feces (52–89%) in unchanged form, and to a lesser extent via the urine (9–20%) in form of its inactive metabolites. [[Elimination half-life]] is about seven days (169 to 183 hours) over a wide dosing range.<ref name="EPAR" />
+
+==Chemistry==
+The drug is used in form of rolapitant [[hydrochloride]] [[monohydrate]], a white to off-white, slightly [[hygroscopic]] crystalline powder. Its maximum solubility in aqueous solutions is at [[pH]] 2–4.<ref name="AssessmentReport">{{cite web|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Public_assessment_report/human/004196/WC500228744.pdf|title=Varuby: EPAR – Public assessment report|publisher=[[European Medicines Agency]]|date=2017-05-31}}</ref>
+
+== See also ==
+* [[Palonosetron]]
+
+== References ==
+{{Reflist|35em}}
+
+{{Antiemetics and antinauseants}}
+{{Neurokinin receptor modulators}}
+
+[[Category:Antiemetics]]
+[[Category:NK1 receptor antagonists]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Spiro compounds]]

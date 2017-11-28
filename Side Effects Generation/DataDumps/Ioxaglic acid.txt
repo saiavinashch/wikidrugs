@@ -1,0 +1,71 @@
+{{Drugbox
+| IUPAC_name = 3-[(2-hydroxyethyl)carbamoyl]-2,4,6-triiodo-5-(2-<nowiki/>{[2,4,6-triiodo-3-(methylcarbamoyl)-5-(''N''-methylacetamido)phenyl]formamido}acetamido)benzoic acid
+| image = Ioxaglic acid.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|ioxaglic-acid}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number =  
+| ATC_prefix = V08
+| ATC_suffix = AB03
+| PubChem = 3742
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = Z40X7EI2AF
+| KEGG = D01761
+| ChEMBL = 1201291
+| ChemSpiderID      = 3611
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=24 | H=21 | I=6 | N=5 | O=8 
+| molecular_weight = 1268.87906 g/mol
+| smiles            = CC(=O)N(C)C1=C(C(=C(C(=C1I)C(=O)NCC(=O)NC2=C(C(=C(C(=C2I)C(=O)O)I)C(=O)NCCO)I)I)C(=O)NC)I
+| StdInChI          = 1S/C24H21I6N5O8/c1-7(37)35(3)20-17(29)10(21(39)31-2)13(25)11(18(20)30)23(41)33-6-8(38)34-19-15(27)9(22(40)32-4-5-36)14(26)12(16(19)28)24(42)43/h36H,4-6H2,1-3H3,(H,31,39)(H,32,40)(H,33,41)(H,34,38)(H,42,43)
+| StdInChIKey       = TYYBFXNZMFNZJT-UHFFFAOYSA-N
+
+}}
+'''Ioxaglic acid''' (trade name '''Hexabrix''') is an [[iodine]] containing molecule used as a low-[[osmolality]] [[contrast medium]].<ref>{{Cite journal 
+| last1 = Meijenhorst | first1 = G. C. 
+| last2 = De Bruin | first2 = J. N. 
+| title = Hexabrix (ioxaglate), a new low osmolality contrast agent for lumbar epidural double-catheter venography 
+| journal = Neuroradiology 
+| volume = 20 
+| issue = 1 
+| pages = 29–32 
+| year = 1980 
+| pmid = 6999377
+ | doi=10.1007/bf00346858
+}}</ref>
+
+==References==
+{{reflist}}
+
+{{Contrast media}}
+
+[[Category:Radiocontrast agents]]
+[[Category:Benzamides]]
+[[Category:Acetanilides]]
+[[Category:Iodoarenes]]
+[[Category:Benzoic acids]]
+
+
+{{pharmacology-stub}}

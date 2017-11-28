@@ -1,0 +1,76 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 455055546
+| IUPAC_name = 3-methyl-3-pentanol carbamate
+| image = Emylcamate.svg
+| width = 150
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_category =  
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 78-28-4
+| ATC_prefix = N05
+| ATC_suffix = BC03
+| PubChem = 6526
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 6278
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2104208
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = KCJ747D3R4
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07317
+
+<!--Chemical data-->
+| C=7 | H=15 | N=1 | O=2 
+| molecular_weight =  
+| smiles = O=C(OC(C)(CC)CC)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C7H15NO2/c1-4-7(3,5-2)10-6(8)9/h4-5H2,1-3H3,(H2,8,9)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SLWGJZPKHAXZQL-UHFFFAOYSA-N
+}}
+'''Emylcamate''' (marketed as '''Striatran''' by [[Merck & Co.|Merck]]) is an [[anxiolytic]] and [[muscle relaxant]]. It was patented in the US in 1961 (US Patent 2,972,564) and advertised for the treatment of anxiety and tension. It was claimed to be superior to [[meprobamate]], which was the market leader at the time. It is no longer prescribed.
+
+A study of the drug's effects in mice was done in 1959. It concluded that at 50 mg/kg emylcamate gave a 63% decrease in motor activity compared with meprobamate's 32% decrease, a doubling in effective potency. The therapeutic index in mice was also established:
+{| class="wikitable"
+|-
+! Meprobamate !! Emylcamate !! Effect
+|-
+| 175 || 123 || [[Effective_dose_(pharmacology)| ED<sub>50</sub>]] (mg/kg)
+|-
+| 600 || 550|| [[Median_lethal_dose| LD<sub>50</sub>]] (mg/kg)
+|-
+| 3.4 || 4.4|| [[Therapeutic index]]
+|}
+
+Emylcamate also has a faster intra-parenteral onset then meprobabamate, 3 minutes compared with 35.
+<ref>{{Cite journal | last1 = Melander | first1 = B. | title = Emylcamate, A Potent Tranquillizing Relaxant | doi = 10.1021/jm50006a003 | journal = Journal of Medicinal and Pharmaceutical Chemistry | volume = 1 | issue = 5 | pages = 443–457 | year = 1959 | pmid =  | pmc = }}</ref>
+==References==
+{{reflist}}
+* [http://www.revistapsiqrs.org.br/administracao/arquivos/10-698-olhando_para_tras.pdf Olhando para trás: um novo caminho possível para a descoberta de drogas em psicofarmacologia] (Portuguese)
+* [http://ctdbase.org/detail.go?type=chem&acc=C100111 The Comparative Toxicogenomics Database: Emylcamate].
+* [http://www.biam2.org/www/Sub2770.html BIAM: Emylcamate] (French).
+
+{{Anxiolytics}}
+{{GABAAR PAMs}}
+
+[[Category:Anxiolytics]]
+[[Category:Muscle relaxants]]
+[[Category:Carbamates]]
+[[Category:GABAA receptor positive allosteric modulators]]
+
+
+{{musculoskeletal-drug-stub}}
+{{nervous-system-drug-stub}}

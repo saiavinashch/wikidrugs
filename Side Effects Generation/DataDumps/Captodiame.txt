@@ -1,0 +1,80 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 447821290
+| IUPAC_name = 2-[(4-butylsulfanylphenyl)-phenyl-methyl]sulfanyl-''N'',''N''-dimethylethanamine
+| image = Captodiame.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|captodiame}}
+| legal_status = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| excretion = [[Kidney|Renal]]
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 486-17-9
+| ATC_prefix = N05
+| ATC_suffix = BB02
+| PubChem = 10240
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB09014
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 9823
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = H93K9455DD
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07316
+
+<!--Chemical data-->
+| C=21 | H=29 | N=1 | S=2 
+| molecular_weight = 359.594 g/mol
+| smiles = S(c1ccc(cc1)C(SCCN(C)C)c2ccccc2)CCCC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H29NS2/c1-4-5-16-23-20-13-11-19(12-14-20)21(24-17-15-22(2)3)18-9-7-6-8-10-18/h6-14,21H,4-5,15-17H2,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IZLPZXSZLLELBJ-UHFFFAOYSA-N
+}}
+
+'''Captodiame''' ([[International Nonproprietary Name|INN]]), also known as '''captodiamine''', is an [[antihistamine]] sold under the trade names '''Covatine''', '''Covatix''', and '''Suvren''' which is used as a [[sedative]] and [[anxiolytic]]. It is a [[chemical derivative|derivative]] of [[diphenhydramine]].<ref name=Mercier-Guyon/>
+
+A 2004 study suggested captodiame may be helpful in preventing [[benzodiazepine withdrawal syndrome]] in people discontinuing [[benzodiazepine]] treatment.<ref name=Mercier-Guyon>{{cite journal |vauthors=Mercier-Guyon C, Chabannes JP, Saviuc P |title=The role of captodiamine in the withdrawal from long-term benzodiazepine treatment |journal=Curr Med Res Opin |volume=20 |issue=9 |pages=1347–55 |year=2004 |pmid=15383182 |doi=10.1185/030079904125004457}} [http://www.medscape.com/viewarticle/489359 Free full text with registration]</ref>
+
+In addition to its actions as an antihistamine, captodiamine has been found to act as a [[5-HT2C receptor|5-HT<sub>2C</sub> receptor]] [[receptor antagonist|antagonist]] and [[sigma-1 receptor|σ<sub>1</sub> receptor]] and [[D3 receptor|D<sub>3</sub> receptor]] [[agonist]].<ref name="pmid23863923">{{cite journal | vauthors = Ring RM, Regan CM | title = Captodiamine, a putative antidepressant, enhances hypothalamic BDNF expression in vivo by synergistic 5-HT2c receptor antagonism and sigma-1 receptor agonism | journal = J. Psychopharmacol. (Oxford) | volume = 27 | issue = 10 | pages = 930–9 |date=October 2013  | pmid = 23863923 | doi = 10.1177/0269881113497614 | url = http://jop.sagepub.com/cgi/pmidlookup?view=long&pmid=23863923}}</ref> It produces [[antidepressant]]-like effects in rats.<ref name="pmid23863923" /> However, captodiamine is unique among antidepressant-like drugs in that it increases [[brain-derived neurotrophic factor]] (BDNF) levels in the [[hypothalamus]] but not in the [[frontal cortex]] or [[hippocampus]].<ref name="pmid23863923" /> This unique action may be related to its ability to attenuate [[Stress (psychology)|stress]]-induced [[anhedonia]] and [[corticotropin-releasing factor]] (CRF) signaling in the hypothalamus.<ref name="pmid23863923" />
+
+==Synthesis==
+The oxygen atom in these molecules can in many cases be dispensed with as well; substitution of sulfur for nitrogen affords a molecule whose salient biologic properties are those of a sedative and tranquilizer. 
+[[File:Captodiamine synthesis.png|thumb|center|700px|Captodiamine synthesis: Hubner Oluf Herman, Petersen Povl Viggo. {{US patent|2830088}} (1958).]]
+[[Friedel-Crafts]] acylation of the n-butyl ether of thiophenol with [[benzoyl chloride]] gives the corresponding [[benzophenone]]. Reduction of the ketone with zinc/NaOH followed by treatment with HCl in ether affords the benzhydryl chloride. Displacement of the halogen with [[thiourea]] gives, by reaction of the last at its most nucleophilic center, the [[isothiouronium]] salt. Hydrolysis of the salt leads to the sulfur analog of a benzhydrol. Alkylation of the sodium salt of this last with ''N''-(2-chloroethyl)dimethylamine affords captodiame.
+
+==See also==
+* [[Hydroxyzine]]
+* [[Cyproheptadine]]
+
+==References==
+{{Reflist}}
+
+{{Sedatives}}
+{{Anxiolytics}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Dopamine receptor modulators}}
+{{Histamine receptor modulators}}
+{{Muscarinic acetylcholine receptor modulators}}
+{{Serotonin receptor modulators}}
+{{Sigma receptor modulators}}
+}}
+
+[[Category:5-HT2C antagonists]]
+[[Category:Antihistamines]]
+[[Category:Anxiolytics]]
+[[Category:Dopamine agonists]]
+[[Category:H1 receptor antagonists]]
+[[Category:Muscarinic antagonists]]
+[[Category:Sedatives]]
+[[Category:Sigma agonists]]
+[[Category:Thioethers]]

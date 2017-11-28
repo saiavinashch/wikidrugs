@@ -1,0 +1,88 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 457136476
+| IUPAC_name = 2,6-Dichloro-''N''- (4,5-dihydro-1''H''-imidazol-2-yl) benzene-1,4-diamine
+| image = Apraclonidine structure.svg
+| width = 185
+
+<!--Clinical data-->
+| tradename = Iopidine
+| Drugs.com = {{drugs.com|monograph|apraclonidine-hydrochloride}}
+| MedlinePlus = a608005
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status = Rx-only
+| routes_of_administration = [[Topical medication|Topical]] ([[Eye drop|ophthalmic solution]])
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound = 98.7%
+| metabolism =
+| elimination_half-life = 8 hours
+| excretion =
+<!--Identifiers-->
+| IUPHAR_ligand = 7117
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 66711-21-5
+| ATC_prefix = S01
+| ATC_suffix = EA03
+| ATC_supplemental =  
+| PubChem = 2216
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00964
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2130
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 843CEN85DI
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07461
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 2788
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 647
+
+<!--Chemical data-->
+| C=9 | H=10 | Cl=2 | N=4
+| molecular_weight = 245.108 g/mol
+| smiles = Clc1c(c(Cl)cc(N)c1)N/C2=N/CCN2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C9H10Cl2N4/c10-6-3-5(12)4-7(11)8(6)15-9-13-1-2-14-9/h3-4H,1-2,12H2,(H2,13,14,15)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IEJXVRYNEISIKR-UHFFFAOYSA-N
+}}
+
+'''Apraclonidine''' ([[International Nonproprietary Name|INN]]), also known under the brand name '''Iopidine''', is a [[Sympathomimetic drug|sympathomimetic]] used in [[glaucoma]] therapy. It is an [[Alpha-2 adrenergic receptor|α<sub>2</sub> adrenergic receptor]] [[agonist]] and a weak [[Alpha-1 adrenergic receptor|α<sub>1</sub> adrenergic receptor]] agonist.
+
+Topical apraclonidine is administered at a concentration of 1% for the prevention and treatment of post-surgical [[intraocular pressure]] (IOP) elevation and 0.5% for short-term adjunctive therapy in patients on maximally tolerated medical therapy who require additional reduction of IOP. One drop is usually added one hour prior to laser [[eye surgery]] and another drop is given after the procedure is complete.
+
+==Clinical uses==
+Apraclonidine is indicated for the short-term adjunctive treatment of glaucoma for patients on maximally tolerated medical therapy who require additional reduction of IOP. These patients, who are treated with apraclonidine to delay surgery, should have frequent follow-up examinations and treatment should be discontinued if the intraocular pressure rises significantly.
+
+Apraclonidine may be useful in the diagnosis of [[Horner's syndrome]]. In Horner's syndrome, the sympathetic innervation to the pupillary dilator muscle is lost. The affected pupil is thus miotic and the pupillary dilator responds to denervation by increasing α<sub>1</sub> receptors. Apraclonidine is useful in this case due to its weak α<sub>1</sub>-adrenergic properties. When applied to the denervated (and thus hyper-sensitive) pupillary dilator muscle, a super-normal dilatory response is generated in which the pupil dilates to a degree greater than that which would be seen in a non-denervated muscle. This causes the reversal of [[anisocoria]] that is characteristic of Horner's.
+
+Topical apraclonidine can also decrease IOP in glaucoma patients by increasing trabecular outflow, in a similar way to [[clonidine]],<ref>{{Cite journal | doi = 10.1016/S0161-6420(95)31000-7| title = Effects of Apraclonidine on Aqueous Humor Dynamics in Human Eyes| journal = Ophthalmology| volume = 102| issue = 3| pages = 456| year = 1995| last1 = Toris | first1 = C. B. | last2 = Tafoya | first2 = M. E. | last3 = Camras | first3 = C. B. | last4 = Yablonski | first4 = M. E. }} </ref> but without the cardiovascular side effects. Apraclonidine has been compared with other treatments such as [[brimonidine]] and [[pilocarpine]] in preventing IOP spikes after [[trabeculoplasty|laser trabeculoplasty]].<ref name="Zhang">{{cite journal | author=Zhang L, Weizer JS, Musch DC | title= Perioperative medications for preventing temporarily increased intraocular pressure after laser trabeculoplasty | journal= Cochrane Database Syst Rev | volume= | issue= 2 | pages= CD010746 | date= 2017 | pmid= 28231380 | doi= 10.1002/14651858.CD010746.pub2}}</ref> The results did not show significant differences in the reduction of IOP for apraclonidine, when compared to brimonidine or pilocarpine.<ref name="Zhang" />
+
+==External links==
+* [http://www.accessdata.fda.gov/drugsatfda_docs/label/2004/19779s018,019lbl.pdf Iopidine prescribing information] (from the FDA website)
+
+==References==
+{{reflist}}
+* {{cite journal |vauthors=Chen P, Chen J, Lu D, Chen Y, Hsiao C | title = Comparing efficacies of 0.5% apraclonidine with 4% cocaine in the diagnosis of horner syndrome in pediatric patients | journal = J Ocul Pharmacol Ther | volume = 22 | issue = 3 | pages = 182–7 | year = 2006 | pmid = 16808679 | doi = 10.1089/jop.2006.22.182}}
+* {{cite journal |author1=Aslanides l |author2=Tsiklis N |author3=Ozkilic E |author4=Coskunseven E |author5=Pallikaris l |author6=Jankov M | title = The effect of topical apraclonidine on subconjunctival hemorrhage and flap adherence in LASIK patients | journal = J Refract Surg | volume = 22 | issue = 6 | pages = 585–8 | year = 2006 | pmid = 16805122}}
+* {{cite journal |vauthors=Koc F, Kansu T, Kavuncu S, Firat E | title = Topical apraclonidine testing discloses pupillary sympathetic denervation in diabetic patients | journal = J Neuroophthalmol | volume = 26 | issue = 1 | pages = 25–9 | year = 2006 | pmid = 16518162 | doi = 10.1097/01.wno.0000204648.79744.71}}
+* {{cite journal | doi = 10.1097/01.iop.0000196322.05586.6a |vauthors=Garibaldi D, Hindman H, Grant M, Iliff N, Merbs S | title = Effect of 0.5% apraclonidine on ptosis in Horner syndrome | journal = Ophthal Plast Reconstr Surg | volume = 22 | issue = 1 | pages = 53–5 | year = 2006| pmid = 16418668}}
+* {{cite journal |vauthors=Onal S, Gozum N, Gucukoglu A | title = Effect of apraclonidine versus dorzolamide on intraocular pressure after phacoemulsification | journal = Ophthalmic Surg Lasers Imaging | volume = 36 | issue = 6 | pages = 457–62 | year = 2005| pmid = 16355950}}
+
+{{Antiglaucoma preparations and miotics}}
+{{Adrenergics}}
+{{Imidazolinergics}}
+
+[[Category:Alpha-adrenergic agonists]]
+[[Category:Chloroarenes]]
+[[Category:Guanidines]]
+[[Category:Imidazolines]]
+[[Category:Sympathomimetic amines]]

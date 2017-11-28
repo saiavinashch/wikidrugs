@@ -1,0 +1,69 @@
+{{chembox
+| Verifiedfields = changed
+| verifiedrevid = 408784062
+|ImageFile=6-Hydroxydopamine.svg
+|ImageSize=200px
+|ImageFile2=Oxidopamine-3D-balls.png
+|IUPACName=5-(2-Aminoethyl)benzene-1,2,4-triol
+|OtherNames=
+|Section1= {{Chembox Identifiers
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 8HW4YBZ748
+|  ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4463
+| InChI = 1/C8H11NO3/c9-2-1-5-3-7(11)8(12)4-6(5)10/h3-4,10-12H,1-2,9H2
+| InChIKey = DIVDFFZHCJEHGG-UHFFFAOYAG
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 78741
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 337702
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C8H11NO3/c9-2-1-5-3-7(11)8(12)4-6(5)10/h3-4,10-12H,1-2,9H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = DIVDFFZHCJEHGG-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo = 1199-18-4
+|  PubChem=4624
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05294
+|  SMILES = c1c(c(cc(c1O)O)O)CCN
+}}
+|Section2= {{Chembox Properties
+|  Formula=C<sub>8</sub>H<sub>11</sub>NO<sub>3</sub>
+|  MolarMass = 169.18 g/mol
+|  Appearance=
+|  Density=
+|  MeltingPt=
+|  BoilingPt=
+|  Solubility=
+  }}
+|Section3= {{Chembox Hazards
+|  MainHazards=
+|  FlashPt=
+|  AutoignitionPt=
+  }}
+}}
+
+'''Oxidopamine''', also known as '''6-hydroxydopamine''' ('''6-OHDA''') or '''2,4,5-trihydroxyphenethylamine''', is a [[neurotoxin|neurotoxic]] synthetic [[organic compound]] used by researchers to selectively destroy [[dopaminergic]] and [[noradrenergic]] neurons in the brain. 6-OHDA is thought to enter the neurons via the [[dopamine]] and noradrenaline ([[norepinephrine]]) [[reuptake transporter]]s. Oxidopamine is often used in conjunction with a selective noradrenaline reuptake inhibitor (such as [[desipramine]]) to selectively destroy dopaminergic neurons.
+
+The main use for oxidopamine in scientific research is to induce [[Parkinsonism]] in laboratory animals such as mice, rats and monkeys, in order to develop and test new medicines and treatments for [[Parkinson's disease]]. In order to induce this condition in animals, around 70% of the dopaminergic neurons in the [[substantia nigra]] of the brain must be destroyed, and this is achieved either with oxidopamine or [[MPTP]]. Both these agents likely destroy neurons by generating reactive oxygen species such as [[superoxide]] radical. Oxidopamine toxicity in neonatal rodents is also used as an animal model for the [[Lesch-Nyhan syndrome]].<ref>{{cite journal |vauthors=Breese GR, Knapp DJ, Criswell HE, Moy SS, Papadeas ST, Blake BL |title=The neonate-6-hydroxydopamine-lesioned rat: a model for clinical neuroscience and neurobiological principles |journal=Brain Res. Brain Res. Rev. |volume=48 |issue=1 |pages=57–73 |year=2005 |pmid=15708628 |doi=10.1016/j.brainresrev.2004.08.004}}</ref>
+
+== See also ==
+* [[5,7-Dihydroxytryptamine]]
+* [[DSP-4]]
+* [[MPTP]]
+* [[Norsalsolinol]]
+* [[Rotenone]]
+* [[FAUC50]]
+
+== References ==
+{{Reflist}}
+
+{{Monoamine neurotoxins}}
+{{Phenethylamines}}
+
+[[Category:Catecholamines]]
+[[Category:Neurotoxins]]
+
+
+{{nervous-system-drug-stub}}

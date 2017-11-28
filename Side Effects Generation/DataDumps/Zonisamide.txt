@@ -1,0 +1,164 @@
+{{Drugbox
+| verifiedrevid = 477869643
+| IUPAC_name = benzo[d]isoxazol-3-ylmethanesulfonamide
+| image = Zonisamide structure.svg
+| image2 = Zonisamide molecule ball.png
+| alt2 = Ball-and-stick model of the zonisamide molecule
+<!--Clinical data-->
+| tradename = Zonegran
+| Drugs.com = {{drugs.com|monograph|zonisamide}}
+| MedlinePlus = a603008
+| pregnancy_AU = D
+| pregnancy_US = C
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability = ~100%<ref name = TGA/>
+| protein_bound = 40%<ref name = TGA/>
+| metabolism = [[Hepatic]] through [[CYP3A4]]<ref name = TGA/>
+| elimination_half-life = 63 hours in [[Blood plasma|plasma]]<ref name = TGA/>
+| excretion = [[Renal]] (62%); Faeces (3%)<ref name = TGA/>
+<!--Identifiers-->
+| IUPHAR_ligand = 7047
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 68291-97-4
+| ATC_prefix = N03
+| ATC_suffix = AX15
+| PubChem = 5734
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00909
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5532
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 459384H98V
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00538
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 10127
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 750
+| PDB_ligand = ZON
+<!--Chemical data-->
+| C=8 | H=8 | N=2 | O=3 | S=1
+| molecular_weight = 212.227 g/mol
+| smiles = O=S(=O)(N)Cc2noc1ccccc12
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C8H8N2O3S/c9-14(11,12)5-7-6-3-1-2-4-8(6)13-10-7/h1-4H,5H2,(H2,9,11,12)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = UBQNRHZMVUUOMG-UHFFFAOYSA-N
+| melting_point = 162
+}}
+'''Zonisamide''' is a medication used to treat the symptoms of [[epilepsy]] and [[Parkinson's disease]].<ref name="PD2013">{{cite journal|last1=Grover|first1=ND|last2=Limaye|first2=RP|last3=Gokhale|first3=DV|last4=Patil|first4=TR|title=Zonisamide: a review of the clinical and experimental evidence for its use in Parkinson's disease.|journal=Indian Journal of Pharmacology|date=November-December 2013|volume=45|issue=6|pages=547-55|doi=10.4103/0253-7613.121266|pmid=24347760|pmc=3847242}}</ref><ref name="MD">{{cite web|title=Zonisamide: Martindale: The Complete Drug Reference|url=https://www.medicinescomplete.com/mc/martindale/current/1668-x.htm|publisher=Pharmaceutical Press|website=MedicinesComplete|date=8 March 2016|accessdate=19 August 2017|editor=Brayfield, A|location=London, UK}}</ref> Chemically it is a [[sulfonamide (medicine)|sulfonamide]]. It serves as an [[anticonvulsant]] used primarily as an [[Wiktionary:adjunct|adjunctive]] therapy in adults with Parkinson's disease, [[seizure|partial-onset seizure]]s; [[infantile spasm]], mixed seizure types of [[Lennox–Gastaut syndrome]], [[myoclonic]] and generalized [[tonic clonic seizure]].<ref>{{cite book|title=Comprehensive Pharmacy Review|date=2007|publisher=Williams & Wilkins|isbn=9780781765619|page=988|edition=6th|author=Souney, P; Mutnick, A; Shargel, L|oclc=869677890}}</ref> Despite this it is also sometimes used as a [[monotherapy]] for partial-onset seizures.<ref name="MD"/><ref name="AMH"/>
+
+==Medical uses==
+
+===Epilepsy===
+Zonisamide is approved in the United States,<ref name="US_approval">{{cite web| author = Élan Pharmaceuticals Inc | url = http://www.accessdata.fda.gov/drugsatfda_docs/label/2003/20789scm001_zonegran_lbl.pdf| title = NDA 20-789/S-001; Zonegran (zonisamide) Capsules 25, 50, 100&nbsp;mg FDA Approvable Labeling Text| format = PDF | work = Zonisamide Approval History| publisher = Food and Drug Administration | date=22 August 2003 |accessdate =24 August 2009}}</ref> and United Kingdom<ref name="UK_approval">{{cite web| author=Eisai Ltd.| year=2005| title=Zonegran Summary of Product Characteristics| work=electronic Medicines Compendium | publisher=Medicines.org.uk| accessdate = 13 November 2005| url=http://emc.medicines.org.uk/}}</ref> for adjunctive treatment of partial seizures in adults and Japan for both adjunctive and monotherapy for partial seizures (simple, complex, secondarily generalized), generalized (tonic, tonic-clonic (grand mal), and atypical absence) and combined seizures.<ref name="DAINIP03">{{cite web | author = Dainippon Pharmaceutical Co., Ltd. | year = 2004 | url =http://www.e-search.ne.jp/~jpr/PDF/DAINIP03.PDF | title = EXCEGRAN Tablets 100&nbsp;mg &amp; EXCEGRAN Powder 20% | accessdate =13 March 2006|format=PDF}}</ref> In Australia it is marketed as both an adjunctive therapy and monotherapy for partial seizures only.<ref name="AMH"/>
+
+===Parkinson's disease===
+It has been approved for the treatment of the motor symptoms of Parkinson's disease, as an adjunct to [[levodopa]], in a few countries such as Japan.<ref name="PD2013"/><ref name="MD"/>
+
+===Tardive dyskinesia===
+In an open-label trial zonisamide attenuated the symptoms of [[tardive dyskinesia]].<ref>{{cite journal|title=Effects of zonisamide on tardive dyskinesia: a preliminary open-label trial|journal=Journal of the Neurological Sciences|date=15 April 2012|volume=315|issue=1-2|pages=137–140|doi=10.1016/j.jns.2011.12.010|pmid=22285275|author1=Iwata, Y |author2=Irie, S |author3=Uchida, H |author4=Suzuki, T |author5=Watanabe, K |author6=Iwashita, S |author7=Mimura, M }}</ref>
+
+===Obesity===
+It has also been studied for [[obesity]]<ref name=anti_obesity>{{cite journal | first1 = KM | last1 = Gadde | first2 = DM |last2 = Franciscy|first3 = HR|last3 = Wagner, II|first4 = KRR|last4 = Krishnan |date=April 2003 | title = Zonisamide for Weight Loss in Obese Adults: A Randomized Controlled Trial | journal = Journal of the American Medical Association | volume = 289 | issue = 14 | pages = 1820–1825 | pmid = 12684361 | doi = 10.1001/jama.289.14.1820}}</ref> with significant positive effects on body weight loss and there are three ongoing clinical trials for this indication.<ref name=BED_obesity>{{cite web | author = University of Cincinnati | year = 2005 | title = Zonegran in the Treatment of Binge Eating Disorder Associated With Obesity | work = ClinicalTrials.gov | url =http://clinicaltrials.gov/show/NCT00221442 | accessdate = 2006-05-04}}</ref><ref name=drug-induced-obesity>{{cite web |author1=Tuscaloosa Research |author2=Education Advancement Corporation | year = 2005 | title = Zonegran for the Treatment of Weight Gain Associated With Psychotropic Medication Use: A Placebo-Controlled Trial | work = ClinicalTrials.gov | url = http://clinicaltrials.gov/show/NCT00203450 |accessdate = 2006-05-04}}</ref><ref name=just_obesity>{{cite web | author = National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) | year = 2006 | title = Zonisamide for Weight Reduction in Obese Adults | work = ClinicalTrials.gov | url =http://clinicaltrials.gov/show/NCT00275834 | accessdate = 2006-05-04}}</ref> It was to be sold, when combined with [[bupropion]], under the brand name [[Empatic]], until its development was discontinued.<ref>{{cite web|title=Bupropion/zonisamide|website=AdisInsight|publisher=Springer|date=20 May 2017|accessdate=19 August 2017|url=http://adisinsight.springer.com/drugs/800024638}}</ref>
+
+===Migraine===
+Zonisamide has been studied for and used as a [[migraine]] preventative medication, when [[topiramate]] is either ineffective or cannot be continued due to side effects.<ref name="MD"/>
+
+===Bipolar depression===
+It has also been used [[off-label]] by psychiatrists as a mood stabilizer to treat bipolar depression.<ref name="Bellaire Neurology">{{Cite web|url=http://www.bellaireneurology.com/seizure/epil_trt_zonegran.html|title=Zonegran|accessdate=2006-11-29|year=2004|author= Brian D. Loftus}}</ref><ref>{{cite journal| first = H| last = Hasegawa| date=May 2004| title = utilization of zonisamide in patients with chronic pain or epilepsy refractory to other treatments: a retrospective, open label, uncontrolled study in a VA hospital| journal = Curr Med Research Opinion| volume = 20| issue = 5| pages = 577–580| pmid = 15140322| doi = 10.1185/030079904125003313}}</ref>
+
+==Adverse effects==
+'''<big>Adverse effects by incidence:</big>'''<ref name = TGA>{{cite web|title=Zonegran® Product Information|work=TGA eBusiness Services|publisher=SciGen (Australia) Pty Ltd|date=4 April 2013|accessdate=18 November 2013|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2011-PI-02002-3|format=PDF}}</ref><ref>{{cite web|title=Zonegran 25, 50, 100 mg Hard Capsules|work=electronic Medicines Compendium|date=8 October 2013|accessdate=18 November 2013|url=http://www.medicines.org.uk/emc/medicine/16240/SPC/Zonegran+25%2c+50%2c+100+mg+Hard+Capsules/|publisher=Eisai Ltd}}</ref><ref name = MSR>{{cite web|title=zonisamide (Rx) - Zonegran|work=Medscape Reference|publisher=WebMD|accessdate=18 November 2013|url=http://reference.medscape.com/drug/zonegran-zonisamide-343025}}</ref>
+
+'''Very common (>10% incidence) adverse effects include:'''
+{{colbegin|4}}
+* [[Anorexia (symptom)|Anorexia]]
+* [[Somnolence]]
+* Dizziness
+* Agitation
+* Irritability
+* Confusional state
+* Depression
+* Diplopia
+* Memory impairment
+* Decreased bicarbonate
+{{colend}}
+
+'''Common (1-10% incidence) adverse effects include:'''
+
+{{colbegin|3}}
+
+* Ecchymosis
+* Hypersensitivity
+* Affect lability
+* Anxiety
+* Insomnia
+* Psychotic disorder
+* Bradyphrenia
+* Disturbance in attention
+* Nystagmus
+* Paraesthesia
+* Speech disorder
+* Tremor
+* Abdominal pain
+* Constipation
+* Diarrhoea
+* Dyspepsia
+* Nausea
+* Rash
+* Pruritus
+* Alopecia
+* Nephrolithiasis
+* Fatigue
+* Influenza-like illness
+* Pyrexia
+* Oedema peripheral
+* Weight loss
+{{colend}}
+
+===Interactions===
+Zonisamide and other [[carbonic anhydrase]] inhibitors such as [[topiramate]], [[furosemide]], and [[hydrochlorothiazide]] have been known to interfere with [[amobarbital]], which has led to inadequate anesthetization during the [[Wada test]].<ref name=zonisamide-amobarbital>{{cite journal| first1 = S| last1 = Bookheimer| last2 = Schrader| first2 = LM| last3 = Rausch| first3 = R| last4 = Sankar| first4 = R| last5 = Engel| first5 = J| date=February 2005| title = Reduced anesthetization during the intracarotid amobarbital (Wada) test in patients taking carbonic anhydrase-inhibiting medications| journal = Epilepsia| volume = 46| issue = 2| pages = 236–43| doi = 10.1111/j.0013-9580.2005.23904.x| url = http://www.blackwell-synergy.com/doi/full/10.1111/j.0013-9580.2005.23904.x| pmid = 15679504}}</ref> Zonisamide may also interact with other carbonic anhydrase inhibitors to increase the potential for metabolic acidosis.<ref name = TGA/>
+
+Additionally, the metabolism of zonisamide is inhibited by [[ketoconazole]], [[ciclosporin]], [[miconazole]], [[fluconazole]] and [[carbamazepine]] (in descending order of inhibition) due to their effects on the [[CYP3A4]] enzyme.<ref name=inhibit>{{cite journal| first = H| last = Nakasa| author2=Nakamura, H |author3=Ono, S |author4=Tsutsui, M |author5=Kiuchi, M |author6=Ohmori, S |author7=Kitada, M| date=April 1998| title = Prediction of drug-drug interactions of zonisamide metabolism in humans from ''in vitro'' data| journal = European Journal of Clinical Pharmacology| volume = 54| issue = 2| pages = 177–83| pmid = 9626925| doi = 10.1007/s002280050442}}</ref>
+
+Zonisamide is not known to inhibit cytochrome P450 enzymes when present at therapeutic concentrations.<ref name="eMC">{{cite web | publisher=Electronic Medicines Compendium (eMC) | title=Zonegran 25, 50, 100 mg Hard Capsules | url=https://www.medicines.org.uk/emc/medicine/16240|accessdate=12 April 2017}}</ref>
+
+==Mechanism of action==
+Zonisamide is an antiseizure drug chemically classified as a sulfonamide and unrelated to other antiseizure agents. The precise mechanism by which zonisamide exerts its antiseizure effect is unknown, although it is believed that the drug blocks [[sodium ion channel|sodium]] and [[T-type calcium channel]]s, which leads to the suppression of neuronal hypersynchronization (that is, seizure-form activity).<ref name = AMH/> It is also known to be a weak [[carbonic anhydrase]] inhibitor (similarly to the anticonvulsant, [[acetazolamide]]). It is also known to modulate [[Gamma-aminobutyric acid|GABAergic]] and [[glutamate]]rgic neurotransmission.<ref name="AMH">{{cite book | editor = Rossi, S | isbn = 978-0-9805790-9-3 | title = Australian Medicines Handbook | place = Adelaide | publisher = The Australian Medicines Handbook Unit Trust | year = 2013 | edition = 2013 }}</ref><ref name=leppik-mech>{{cite journal | first = Ilo E.| last = Leppik|date=December 2004| title = Zonisamide: chemistry, mechanism of action, and pharmacokinetics| journal = Seizure| volume = 13| issue = Suppl 1| pages = S5–9; discussion S10| doi = 10.1016/j.seizure.2004.04.016| pmid = 15511691}}</ref><ref name=Mimakietal1990-1>{{cite journal| first1 = T| last1 = Mimaki| last2 = Suzuki| first2 = Y|last3 = Tagawa|first3=T|last4=Karasawa|first4=T|last5=Yabuuchi|first5=H|date=March 1990| title = Interaction of zonisamide with benzodiazepine and GABA receptors in rat brain| journal = Medical Journal of Osaka University| volume = 39| issue = 1-4| pages = 13–7|pmid = 1369646}}</ref><ref name=Mimakietal1990-2>{{cite journal | first1 = T| last1 = Mimaki| last2 = Suzuki|first2=Y|last3=Tagawa|first3=T|last4=Karasawa|first4=T|last5=Yabuuchi|first5=H|date=March 1990| title = [3H]zonisamide binding in rat brain|journal = Medical Journal of Osaka University|volume = 39| issue = 1-4| pages = 19–22| pmid = 1369647}}</ref><ref name=Ueda_etal_2003>{{cite journal | first1 = Y| last1 = Ueda|last2 = Doi|first2 = T|last3 = Tokumaru|first3 = J|last4 = Willmore|first4 = J| date = 2003-08-19| title = Effect of zonisamide on molecular regulation of glutamate and GABA transporter proteins during epileptogenesis in rats with hippocampal seizures| journal = Molecular Brain Research| volume = 116|issue = 1-2| pages = 1–6| doi = 10.1016/S0169-328X(03)00183-9| pmid = 12941455}}</ref>
+
+==Pharmacokinetics==
+
+===Absorption===
+Variable, yet relatively rapid rate of absorption with a time to peak concentration of 2.8-3.9 hours. Bioavailability is close to 100% and food has no effect on the bioavailability of zonisamide but may affect the rate of absorption.<ref>http://www.drugbank.ca/drugs/DB00909</ref><ref name="eMC" />
+
+===Metabolism===
+Zonisamide is metabolized mostly by the [[CYP3A4]] [[isoenzyme]], but also [[CYP3A7]] and [[CYP3A5]],<ref name=enzymes>{{cite journal| first = S| last = Ohmori| author2=Nakasa H |author3=Asanome K |author4=Kurose Y |author5=Ishii I |author6=Hosokawa M |author7=Kitada M| date = 1998-05-08| title = Differential catalytic properties in metabolism of endogenous and exogenous substrates among CYP3A enzymes expressed in COS-7 cells| journal = Biochimica et Biophysica Acta| volume = 1380| issue = 3| pages = 297–304| pmid = 9555064| doi=10.1016/s0304-4165(97)00156-6}}</ref> to 2-(sulphamoylacetyl)-phenol via reductive [[bond cleavage|cleavage]] of the 1,2-[[benzisoxazole]] ring.<ref name=reduct>{{cite journal| doi = 10.3109/00498259209053097| first = DD| last = Stiff| author2=Robicheau JT |author3=Zemaitis MA| date=January 1992| title = Reductive metabolism of the anticonvulsant agent zonisamide, a 1,2-benzisoxazole derivative| journal= Xenobiotica| volume = 22| issue = 1| pages = 1–11| pmid = 1615700}}</ref>
+
+==History==
+Zonisamide was discovered by Uno and colleagues in 1972<ref name=Levy_2002>{{cite book |last=Shah |first=J |author2=Kent S |author3=Daniel MC  |veditors=René H, Levy RH, Brian SM, Perrucca E |title=Antiepileptic Drugs |origyear=1972 |url= |format= |accessdate=2007-11-07 |edition=Fifth |date=2002-06-15 |publisher=Lippincott Williams & Wilkins |location=Philadelphia |isbn=0-7817-2321-3 |oclc= |doi= |id= |chapter=Zonisamide |chapterurl=https://books.google.com/books?id=HAOY0qG-vAYC&pg=PA873&dq=zonisamide+synthesized&sig=iVrgUS51CNUo4qbjPMSt1sQV2pY#PPA873,M1 |quote=|page=873 }}</ref> and launched by [[Dainippon Sumitomo Pharma]] (formerly Dainippon Pharmaceutical) in 1989 as '''Excegran''' in Japan.<ref name=excegran_1989>{{cite web |author=Dainippon Sumitomo Pharma Co. Ltd.  |year=2005  |title=Company History  |work=Company Information  |publisher=Dainippon Sumitomo Co., Ltd.  |url=http://www.ds-pharma.co.jp/english/profile/history.html  |accessdate=12 November 2005  |archiveurl=https://web.archive.org/web/20060213055236/http://www.ds-pharma.co.jp/english/profile/history.html  |archivedate=13 February 2006  |deadurl=yes  |df= }}</ref> It was marketed by [[Élan]] in the United States starting in 2000 as '''Zonegran''', before Élan transferred their interests in zonisamide to [[Eisai (company)|Eisai Co., Ltd.]] in 2004.<ref name=elan_to_eisai>{{cite web |author=Dainippon Pharmaceutical Co. Ltd.  |year=2004  |url=http://www.ds-pharma.co.jp/english/news/dainippon_2004.html  |title=Transfer of Rights Agreement for North America and Europe Reached on Zonegran  |work=News Releases for Dainippon Pharmaceutical in 2004  |publisher=Dainippon Sumitomo Pharma Co., Ltd  |accessdate=12 November 2005  |archiveurl=https://web.archive.org/web/20060213055615/http://www.ds-pharma.co.jp/english/news/dainippon_2004.html  |archivedate=13 February 2006  |deadurl=yes  |df= }}</ref> Eisai also markets Zonegran in Asia (China, Taiwan, and fourteen others)<ref name=Asia>{{cite web |author=Dainippon Pharmaceutical Co. Ltd.  |year=2005  |title=Dainippon Pharmaceutical and Eisai Conclude Agreement for the Development, Manufacture and Marketing of the Anti-Epileptic Agent Zonisamide in Asia  |work=Dainippon Pharmaceutical News Releases for 2005  |publisher=Dainippon Sumitomo Pharma Co., Ltd.  |url=http://www.ds-pharma.co.jp/english/news/dainippon_2005/no_002.html  |accessdate=12 November 2005  |archiveurl=https://web.archive.org/web/20060222095009/http://www.ds-pharma.co.jp/english/news/dainippon_2005/no_002.html  |archivedate=22 February 2006  |deadurl=yes  |df= }}</ref> and Europe (starting in Germany and the United Kingdom).<ref name=Germany_UK>{{cite web |author=Eisai Co. Ltd.
+| year=2005 | title=Eisai Announces Launch of Zonegran (zonisamide), Treatment For Epilepsy In the UK and Germany
+| work=Eisai 2005 News Releases | publisher=Eisai Co., Ltd. | url=http://www.eisai.co.jp/enews/index.html | accessdate=12 November 2005}}</ref> <!--[[Kyowa Yakuhin]] makes the '''Excemide''' brand, sold in-->
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*[http://www.eisai.com// Official Eisai Website]
+*[http://med.ds-pharma.co.jp/medicine/ryouiki/seishin/doc/excegran_tabpow_tenpu.pdf Dainippon Sumitomo Prescribing Information for Excegran]{{dead link|date=July 2016 |bot=InternetArchiveBot |fix-attempted=yes }} (Japanese version)
+*[http://www.ds-pharma.co.jp/english/ Official Dainippon Sumitomo Pharma Website] (English version)
+
+{{Anticonvulsants}}
+{{Channelergics}}
+
+[[Category:Anticonvulsants]]
+[[Category:Benzisoxazoles]]
+[[Category:Calcium channel blockers]]
+[[Category:Carbonic anhydrase inhibitors]]
+[[Category:Sodium channel blockers]]
+[[Category:Sulfonamides]]

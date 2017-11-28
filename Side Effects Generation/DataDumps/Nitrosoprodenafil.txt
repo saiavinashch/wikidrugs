@@ -1,0 +1,72 @@
+{{Drugbox
+| IUPAC_name = 2-[(5-[5-(3,5-Dimethylpiperazine-1-sulfonyl)-2-ethoxyphenyl]-1-methyl-3-propyl-1''H''-pyrazolo[4,3-d]pyrimidin-7-yl)oxy]-''N''-methyl-''N''-nitroso-1,3-thiazol-5-amine
+| image = Nitrosoprodenafil.svg
+| width = 250
+
+<!--Clinical data-->
+| tradename =
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- Schedule I -->
+| legal_UK = <!-- Class A -->
+| legal_US = OTC
+| legal_status =
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number = 1266755-08-1
+| ATC_prefix = None
+| ATC_suffix =
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = X8TO9P16G7
+| PubChem = 71308247
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+
+<!--Chemical data-->
+| C=28 | H=38 | N=8 | O=5 | S=2 
+| molecular_weight = 630.780 g/mol
+| ChemSpiderID = 32701496
+| smiles = CCCc1c2c(c(nc(n2)c3cc(ccc3OCC)S(=O)(=O)N4C[C@H](N[C@H](C4)C)C)Oc5ncc(s5)N(C)N=O)n(n1)C
+| StdInChI = 1S/C27H35N9O5S2/c1-7-9-20-23-24(35(6)32-20)26(41-27-28-13-22(42-27)34(5)33-37)31-25(30-23)19-12-18(10-11-21(19)40-8-2)43(38,39)36-14-16(3)29-17(4)15-36/h10-13,16-17,29H,7-9,14-15H2,1-6H3/t16-,17+
+| StdInChIKey = DTAKXJYYAUWRND-CALCHBBNSA-N
+
+}}
+
+'''Nitrosoprodenafil''' is a synthetic [[designer drug]] found in "herbal" [[aphrodisiac]] products, which is a novel nitrosated [[analog (chemistry)|analogue]] of [[sildenafil]] (Viagra). It has an innovative structure which acts as a [[prodrug]], breaking down in the body to release both the [[cGMP specific phosphodiesterase type 5|PDE<sub>5</sub>]] inhibitor [[aildenafil]] as well as free [[nitric oxide]], which have powerfully synergistic effects. This dual mechanism of action has never been exploited by conventional pharmaceutical companies because of the risks involved; usually combining [[PDE5 inhibitor|PDE<sub>5</sub> inhibitors]] with nitric oxide releasers like [[amyl nitrite]] is contraindicated as it can cause a precipitous drop in blood pressure that can potentially result in death. [[Nitrosamine]]s are also generally avoided in drug development as they can often be [[hepatotoxic]], so while the combined mechanisms of action are likely to be effective, this drug also has severe risks of toxicity.<ref>{{ cite journal |author1=Venhuis, B. J. |author2=Zomer, G. |author3=Hamzink, M. |author4=Meiring, H. D. |author5=Aubin, Y. |author6=de Kaste, D. | title = The identification of a nitrosated prodrug of the PDE-5 inhibitor aildenafil in a dietary supplement: a Viagra with a pop | journal = Journal of Pharmaceutical and Biomedical Analysis | year = 2011 | volume = 54 | issue = 4 | pages = 735–741 | pmid = 21145686 | doi = 10.1016/j.jpba.2010.11.020 }}</ref>
+
+Shortly after Venhuis et al. published the suggested structure for nitrosoprodenafil, it was contested by Demizu et al. who suggested the structure was an [[azathioprine]]/aildenafil hybrid.<ref>{{ cite journal |author1=Demizu, Y. |author2=Wakana, D. |author3=Kamakure, H. |author4=Kurehara, M. |author5=Okuda, M. |author6=Goda, Y. | title = Identification of Mutaprodenafil in a Dietary Supplement and its Subsequent Synthesis | journal = Chem. Pharm. Bull.| year = 2011 | volume = 59 | pages = 1314–1316 | doi=10.1248/cpb.59.1314}}</ref> This newly suggested structure was dubbed 'mutaprodenafil' because  of the structural similarity with the [[mutagenic]] [[azathioprine]].
+
+The final confirmation of the azathioprine/aildenafil hybrid was provided by Sakamoto et al. who prepared crystals for X-ray analysis.<ref>{{ cite journal |author1=Sakamoto, M. |author2=Moriyasu, T. |author3=Minowa, K. |author4=Kishimoto, K. |author5=Kadoi, H. |author6=Hamano, T. |author7=Fukaya, H. | title = Structure Elucidation of a Novel Analog of Sildenafil Detected as an Adulterant in a Dietary Supplement Using LC-UV and LC/MS | journal = Journal of AOAC International | year = 2012 | volume = 95 | issue = 4 | pages = 1048–1052 | doi=10.5740/jaoacint.11-235}}</ref> Although Sakamoto et al. support the name 'mutaprodenafil', they prefer to use 'nitrosoprodenafil' instead.
+
+[[Image:Nitrosoprodenafil proposed structures.svg|450px|thumb|left|Proposed structures]]{{clear left}}
+
+==See also==
+* [[Acetildenafil]]
+* [[Sulfoaildenafil]]
+* [[Naproxcinod]]
+* [[Designer drug]]
+
+==References==
+{{reflist}}
+
+{{Sexual dysfunction pharmacotherapies}}
+{{Phosphodiesterase inhibitors}}
+
+[[Category:Designer drugs]]
+[[Category:Ketones]]
+[[Category:Nitroso compounds]]
+[[Category:PDE5 inhibitors]]
+[[Category:Phenol ethers]]
+[[Category:Piperazines]]
+[[Category:Pyrazolopyrimidines]]
+[[Category:Thiazoles]]

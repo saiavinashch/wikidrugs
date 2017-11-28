@@ -1,0 +1,72 @@
+{{Drugbox
+| verifiedrevid = 459957378
+| IUPAC_name = ''N''-benzyl-''N''-(3-isobutoxy-2-pyrrolidin-1-yl-propyl)aniline<!--from ChemSpider-->
+| image = Bepridil.svg
+<!--Clinical data-->
+| tradename = Vascor
+| Drugs.com = {{drugs.com|monograph|nifedipine}}
+| MedlinePlus = a699051
+| pregnancy_US = C
+| pregnancy_category =  
+| legal_status =  
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability = Well absorbed
+| protein_bound = 99%
+| metabolism = [[Liver|Hepatic]], [[CYP3A4]]-mediated
+| elimination_half-life = 42 hours
+| excretion = [[Kidney|Renal]]
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 64706-54-3
+| ATC_prefix = C08
+| ATC_suffix = EA02
+| PubChem = 2351
+| IUPHAR_ligand = 2337
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01244
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2261
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 755BO701MA
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 3061
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1008
+<!--Chemical data-->
+| C=24 | H=34
+| N=2 | O=1
+| molecular_weight = 366.54 g/mol
+| smiles = O(CC(C)C)CC(N1CCCC1)CN(c2ccccc2)Cc3ccccc3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C24H34N2O/c1-21(2)19-27-20-24(25-15-9-10-16-25)18-26(23-13-7-4-8-14-23)17-22-11-5-3-6-12-22/h3-8,11-14,21,24H,9-10,15-20H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = UIEATEWHFDRYRU-UHFFFAOYSA-N
+}}
+'''Bepridil''' (trade name '''Vascor''') is an [[amine]] [[calcium channel blocker]] once used to treat [[Angina pectoris|angina]]. It is no longer sold in the United States.
+
+It is nonselective.<ref name="pmid7565636">{{cite journal |vauthors=Bezprozvanny I, Tsien RW |title=Voltage-dependent blockade of diverse types of voltage-gated Ca2+ channels expressed in Xenopus oocytes by the Ca2+ channel antagonist mibefradil (Ro 40-5967) |journal=Mol. Pharmacol. |volume=48 |issue=3 |pages=540–9 |date=September 1995 |pmid=7565636 |doi= |url=http://molpharm.aspetjournals.org/cgi/pmidlookup?view=long&pmid=7565636}}</ref>
+
+It has been discussed as a possible option in the treatment of [[atrial fibrillation]].<ref name="pmid18441448">{{cite journal |vauthors=Imai S, Saito F, Takase H |title=Use of bepridil in combination with Ic antiarrhythmic agent in converting persistent atrial fibrillation to sinus rhythm |journal=Circ. J. |volume=72 |issue=5 |pages=709–15 |date=May 2008 |pmid=18441448 |doi= 10.1253/circj.72.709|url=https://www.jstage.jst.go.jp/article/circj/72/5/72_5_709/_pdf |format=|display-authors=etal}}</ref>
+
+It has been implicated in causing ventricular arrhythmia ([[torsades de pointes]]).
+
+==Ebola research==
+
+In June 2015 a research paper <ref>{{cite journal | url = http://stm.sciencemag.org/content/7/290/290ra89 | title=A screen of approved drugs and molecular probes identifies therapeutics with anti–Ebola virus activity}}</ref> was published finding bepridil to result in a 100% survival rate for mice exposed to [[ebola]] during an experiment searching for potential pharmaceutical ebola treatments; indicating its potential use in future ebola research and therapy.<ref>{{cite news | url = https://www.washingtonpost.com/news/to-your-health/wp/2015/06/03/zoloft-as-ebola-cure-anti-depressant-is-one-of-a-number-of-promising-drugs-being-looked-at-by-scientists/ | title=Zoloft as Ebola cure? Antidepressant is one of a number of promising drugs being looked at by scientists.}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{MedlinePlusDrugInfo|medmaster|a697050}}
+
+{{Calcium channel blockers}}
+
+[[Category:Calcium channel blockers]]
+[[Category:Pyrrolidines]]
+[[Category:Amines]]
+[[Category:Ethers]]
+
+
+{{cardiovascular-drug-stub}}

@@ -1,0 +1,81 @@
+{{Drugbox
+| verifiedrevid = 470610559
+| IUPAC_name = 1-(2-ethylsulfonylethyl)-2-methyl-5-nitro-imidazole
+| image = Tinidazole.svg
+| width = 160
+
+<!--Clinical data-->
+| tradename = Fasigyn, Simplotan, Tindamax
+| Drugs.com = {{drugs.com|monograph|tinidazole}}
+| MedlinePlus = a604036
+| pregnancy_AU = B3
+| pregnancy_US = C
+| legal_AU = S4
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| protein_bound = 12%
+| metabolism = Hepatic ([[CYP3A4]])
+| elimination_half-life = 12–14 hours
+| excretion = Urine (20–25%), faeces (12%)
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 19387-91-8
+| ATC_prefix = J01
+| ATC_suffix = XD02
+| ATC_supplemental =  {{ATC|P01|AB02}} {{ATCvet|P51|AA02}}
+| PubChem = 5479
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00911
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5279
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 033KF7V46H
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01426
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1220
+| NIAID_ChemDB = 007940
+
+<!--Chemical data-->
+| C=8 | H=13 | N=3 | O=4 | S=1
+| molecular_weight = 247.273 g/mol
+| smiles = [O-][N+](=O)c1cnc(n1CCS(=O)(=O)CC)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C8H13N3O4S/c1-3-16(14,15)5-4-10-7(2)9-6-8(10)11(12)13/h6H,3-5H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = HJLSLZFTEKNLFI-UHFFFAOYSA-N
+}}
+
+'''Tinidazole''' is an anti-parasitic [[Medication|drug]] used against [[protozoan]] infections. It is widely known throughout Europe and the developing world as a treatment for a variety of amoebic and parasitic infections. It was developed in 1972.  A derivative of [[2-Methylimidazole|2-methylimidazole]], it is a prominent member of the [[nitroimidazole]] antibiotics.<ref name=Ebel>Ebel, K., Koehler, H., Gamer, A. O., & Jäckh, R. “Imidazole and Derivatives.” In Ullmann’s Encyclopedia of Industrial Chemistry; 2002 Wiley-VCH, {{DOI|10.1002/14356007.a13_661}}</ref>
+
+Tinidazole is marketed by Mission Pharmacal under the brand name '''Tindamax''', by [[Pfizer]] under the names '''Fasigyn''' and '''Simplotan''', and in some Asian countries as '''Sporinex'''.
+
+==Uses==
+A large body of clinical data exists to support use of tinidazole for infections from amoebae, giardia, and trichomonas, just like metronidazole. Tinidazole may be a therapeutic alternative in the setting of metronidazole tolerance.  Tinidazole may also be used to treat a variety of other bacterial infections (e.g., as part of combination therapy for [[Helicobacter pylori eradication protocols]]).<ref> Edwards, David I. "Nitroimidazole drugs - action and resistance mechanisms. I. Mechanism of action" Journal of Antimicrobial Chemotherapy 1993, volume 31, pp. 9-20. {{doi|10.1093/jac/31.1.9}}.</ref>
+
+== Side effects ==
+Drinking alcohol while taking tinidazole causes an unpleasant disulfiram-like reaction, which includes nausea, vomiting, headache, increased blood pressure, flushing, and shortness of breath.
+
+== Half-life ==
+Elimination half-life is 13.2 ± 1.4 hours. Plasma half-life is 12 to 14 hours.
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [http://www.nlm.nih.gov/medlineplus/druginfo/medmaster/a604036.html MedlinePlus Drug Information: Tinidazole]
+* [http://redpoll.pharmacy.ualberta.ca/drugbank/cgi-bin/getCard.cgi?CARD=APRD01260.txt Drug Bank Facts on Tinidazole]
+
+{{Nucleic acid inhibitors}}
+{{Agents against amoebiasis and other protozoal diseases}}
+{{Excavata antiparasitics}}
+{{Agents against amoebozoa}}
+
+[[Category:Antiprotozoal agents]]
+[[Category:Disulfiram-like drugs]]
+[[Category:Nitroimidazole antibiotics]]
+[[Category:Sulfones]]

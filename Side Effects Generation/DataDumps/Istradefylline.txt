@@ -1,0 +1,69 @@
+{{Drugbox
+| verifiedrevid = 443805396
+| IUPAC_name = 8-[(''E'')-2-(3,4-dimethoxyphenyl)vinyl]-1,3-diethyl-7-methyl-3,7-dihydro-1''H''-purine-2,6-dione
+| image = Istradefylline.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5608
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 155270-99-8
+| ATC_prefix = none
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem = 5311037
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4470574
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 2GZ0LIK7T4
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D04641
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 431770
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=20 | H=24 | N=4 | O=4 
+| molecular_weight = 384.429 g/mol
+| smiles = O=C2N(c1nc(n(c1C(=O)N2CC)C)\C=C\c3ccc(OC)c(OC)c3)CC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C20H24N4O4/c1-6-23-18-17(19(25)24(7-2)20(23)26)22(3)16(21-18)11-9-13-8-10-14(27-4)15(12-13)28-5/h8-12H,6-7H2,1-5H3/b11-9+
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IQVRBWUUXZMOPW-PKNBQFBNSA-N
+}}
+
+'''Istradefylline''' ('''KW-6002''') is a selective [[receptor antagonist|antagonist]] at the [[Adenosine A2a receptor|A<sub>2A</sub> receptor]]. It has been found to be useful in the treatment of [[Parkinson's disease]].<ref name="pmid18306243">{{cite journal | author = Peter A. LeWitt, MD, M. Guttman, James W. Tetrud, MD, Paul J. Tuite, MD, Akihisa Mori, PhD, Philip Chaikin, PharmD, MD, Neil M. Sussman, MD | title = Adenosine A2A receptor antagonist istradefylline (KW-6002) reduces off time in Parkinson's disease: A double-blind, randomized, multicenter clinical trial (6002-US-005) | journal = Annals of Neurology | volume = 63 | issue = 3 | pages = 295–302 | year = 2008 | pmid = 18306243 | doi = 10.1002/ana.21315 }}</ref> Istradefylline reduces [[dyskinesia]] resulting from long-term treatment with classical [[antiparkinson drug]]s such as [[levodopa]]. Istradefylline is an analog of [[caffeine]].
+
+== References ==
+{{Reflist}}
+
+
+{{Adenosinergics}}
+
+[[Category:Adenosine receptor antagonists]]
+[[Category:Xanthines]]
+[[Category:Phenol ethers]]
+[[Category:Alkene derivatives]]
+
+
+{{nervous-system-drug-stub}}

@@ -1,0 +1,60 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 477218095
+| ImageFile=3-aminoisobutyric acid.png
+| ImageSize = 160
+| ImageAlt = Skeletal formula of 3-aminoisobutyric acid
+| ImageFile1 = 3-Aminoisobutyric-acid-3D-balls.png
+| ImageSize1 = 170
+| ImageAlt1 = Ball-and-stick model of the 3-aminoisobutyric acid molecule
+| IUPACName=3-Amino-2-methylpropanoic acid
+| OtherNames=3-Aminoisobutyrate
+|Section1={{Chembox Identifiers
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 58481
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = C05145
+| InChI = 1/C4H9NO2/c1-3(2-5)4(6)7/h3H,2,5H2,1H3,(H,6,7)
+| InChIKey = QCHPKSFMDHPSNR-UHFFFAOYAN
+| SMILES1 = O=C(O)C(C)CN
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C4H9NO2/c1-3(2-5)4(6)7/h3H,2,5H2,1H3,(H,6,7)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = QCHPKSFMDHPSNR-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|changed|??}}
+| CASNo=144-90-1
+| PubChem=64956
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 27389
+| SMILES=CC(CN)C(=O)O
+  }}
+|Section2={{Chembox Properties
+| Formula=C<sub>4</sub>H<sub>9</sub>NO<sub>2</sub>
+| MolarMass=103.12 g/mol
+| Appearance=
+| Density=
+| MeltingPt=
+| BoilingPt=
+| Solubility=
+  }}
+|Section3={{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| AutoignitionPt =
+  }}
+}}
+
+'''3-Aminoisobutyric acid''' (or '''β-aminoisobutyric acid''', '''BAIBA''') is a product formed by the catabolism of [[thymine]].
+
+During exercise, the increase of [[PGC-1a|PGC-1α protein]] triggers the secretion of BAIBA from exercising muscles to blood (concentration 2 to 3 µM in human serum). When BAIBA reaches the white fat tissue, it activates the expression of thermogenic genes via [[PPARA|PPARα receptors]], resulting in a browning of white fat cells.<ref>{{cite journal | doi = 10.1016/j.cmet.2013.12.003| pmid = 24411942| pmc = 4017355| title = Β-Aminoisobutyric Acid Induces Browning of White Fat and Hepatic β-Oxidation and is Inversely Correlated with Cardiometabolic Risk Factors| journal = Cell Metabolism| volume = 19| issue = 1| pages = 96–108| year = 2014| last1 = Roberts| first1 = Lee D.| last2 = Boström| first2 = Pontus| last3 = o'Sullivan| first3 = John F.| last4 = Schinzel| first4 = Robert T.| last5 = Lewis| first5 = Gregory D.| last6 = Dejam| first6 = Andre| last7 = Lee| first7 = Youn-Kyoung| last8 = Palma| first8 = Melinda J.| last9 = Calhoun| first9 = Sondra| last10 = Georgiadi| first10 = Anastasia| last11 = Chen| first11 = Ming-Huei| last12 = Ramachandran| first12 = Vasan S.| last13 = Larson| first13 = Martin G.| last14 = Bouchard| first14 = Claude| last15 = Rankinen| first15 = Tuomo| last16 = Souza| first16 = Amanda L.| last17 = Clish| first17 = Clary B.| last18 = Wang| first18 = Thomas J.| last19 = Estall| first19 = Jennifer L.| last20 = Soukas| first20 = Alexander A.| last21 = Cowan| first21 = Chad A.| last22 = Spiegelman| first22 = Bruce M.| last23 = Gerszten| first23 = Robert E.}}</ref> One of the consequences of the BAIBA activity is the increase of the background metabolism of the BAIBA target cells.
+
+It has recently been postulated to play a role in cell metabolism, how body burns fat and regulates insulin, triglycerides, and total cholesterol.<ref>{{cite web | url = http://medicalxpress.com/news/2014-01-molecule-benefits.html | title = Researchers discover molecule behind the benefits of exercise | publisher = Medical Express}}</ref>{{medrs|date=February 2016}}
+
+==References==
+{{Reflist}}
+
+{{Nucleotide metabolism intermediates}}
+
+{{DEFAULTSORT:Aminoisobutyric acid, 3-}}
+[[Category:Amino acids]]

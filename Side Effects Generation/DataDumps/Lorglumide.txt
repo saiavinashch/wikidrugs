@@ -1,0 +1,59 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 405761835
+| IUPAC_name = ''N''<sup>2</sup>-(3,4-Dichlorobenzoyl-''N'',''N''-dipentyl-α-glutamine
+| image = Lorglumide.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_category =  
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 97964-56-2
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 3960
+| IUPHAR_ligand = 891
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = LAD1UQ73BE
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 24938
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 88305
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 3823
+
+<!--Chemical data-->
+| C=22 | H=32 | Cl=2 | N=2 | O=4 
+| molecular_weight = 459.406 g/mol
+| synonyms = <small>4-[(3,4-dichlorobenzoyl)amino]-5-(dipentylamino)-5-oxopentanoic acid</small>
+| smiles            = CCCCCN(CCCCC)C(=O)C(CCC(=O)O)NC(=O)C1=CC(=C(C=C1)Cl)Cl
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C22H32Cl2N2O4/c1-3-5-7-13-26(14-8-6-4-2)22(30)19(11-12-20(27)28)25-21(29)16-9-10-17(23)18(24)15-16/h9-10,15,19H,3-8,11-14H2,1-2H3,(H,25,29)(H,27,28)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = IEKOTSCYBBDIJC-UHFFFAOYSA-N
+}}
+
+'''Lorglumide''' ('''CR-1409''') is a drug which inhibits gastrointestinal motility and reduces gastric secretions, acting as a [[cholecystokinin antagonist]],<ref>{{cite journal | pmid = 3440035| year = 1987| author1 = Makovec| first1 = F| title = Pharmacological properties of lorglumide as a member of a new class of cholecystokinin antagonists| journal = Arzneimittel-Forschung| volume = 37| issue = 11| pages = 1265–8| last2 = Bani| first2 = M| last3 = Cereda| first3 = R| last4 = Chisté| first4 = R| last5 = Pacini| first5 = M. A.| last6 = Revel| first6 = L| last7 = Rovati| first7 = L. A.| last8 = Rovati| first8 = L. C.| last9 = Setnikar| first9 = I}}</ref> with fairly high selectivity for the [[Cholecystokinin A receptor|CCK<sub>A</sub>]] subtype.<ref>{{cite journal | pmid = 16150104| year = 2005| author1 = González-Puga| first1 = C| title = Selective CCK-A but not CCK-B receptor antagonists inhibit HT-29 cell proliferation: Synergism with pharmacological levels of melatonin| journal = Journal of Pineal Research| volume = 39| issue = 3| pages = 243–50| last2 = García-Navarro| first2 = A| last3 = Escames| first3 = G| last4 = León| first4 = J| last5 = López-Cantarero| first5 = M| last6 = Ros| first6 = E| last7 = Acuña-Castroviejo| first7 = D| doi = 10.1111/j.1600-079X.2005.00239.x}}</ref> It has been suggested as a potential treatment for a variety of gastrointestinal problems including [[stomach ulcer]]s, [[irritable bowel syndrome]], [[dyspepsia]], [[constipation]] and [[pancreatitis]], as well as some forms of [[cancer]], but animal and human testing has produced inconsistent results and no clear therapeutic role has been established, although it is widely used in scientific research.<ref>{{cite journal | pmid = 10213792| year = 1999| author1 = De Tullio| first1 = P| title = Recent advances in the chemistry of cholecystokinin receptor ligands (agonists and antagonists)| journal = Current medicinal chemistry| volume = 6| issue = 6| pages = 433–55| last2 = Delarge| first2 = J| last3 = Pirotte| first3 = B}}</ref><ref>{{cite journal | pmid = 11060666| year = 2000| author1 = De Tullio| first1 = P| title = Therapeutic and chemical developments of cholecystokinin receptor ligands| journal = Expert Opinion on Investigational Drugs| volume = 9| issue = 1| pages = 129–46| last2 = Delarge| first2 = J| last3 = Pirotte| first3 = B| doi = 10.1517/13543784.9.1.129}}</ref><ref>{{cite journal | pmid = 12789687| year = 2003| author1 = Herranz| first1 = R| title = Cholecystokinin antagonists: Pharmacological and therapeutic potential| journal = Medicinal Research Reviews| volume = 23| issue = 5| pages = 559–605| doi = 10.1002/med.10042}}</ref><ref>{{cite journal | pmid = 17997137| pmc = 2186776| year = 2007| author1 = Berna| first1 = M. J.| title = Progress in developing cholecystokinin (CCK)/gastrin receptor ligands that have therapeutic potential| journal = Current Opinion in Pharmacology| volume = 7| issue = 6| pages = 583–92| last2 = Tapia| first2 = J. A.| last3 = Sancho| first3 = V| last4 = Jensen| first4 = R. T.| doi = 10.1016/j.coph.2007.09.011}}</ref> 
+
+== References ==
+{{Reflist}}
+
+
+{{Drugs for functional gastrointestinal disorders}}
+{{Drugs for peptic ulcer and GORD}}
+{{Neuropeptidergics}}
+
+[[Category:Cholecystokinin antagonists]]
+[[Category:Chloroarenes]]
+[[Category:Benzamides]]

@@ -1,0 +1,89 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 456506144
+| IUPAC_name = 1-[(''N''-methylpiperidin-2-yl)methyl]-3-(2-iodobenzoyl)indole
+| image = AM-2233_structure.png
+| width = 200
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = Schedule II
+| legal_DE = Anlage II
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_NZ = Temporary Class 
+| legal_status = 
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 444912-75-8
+| ATC_prefix =  
+| ATC_suffix =  
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 364266
+| PubChem = 10226340
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 8401830
+
+<!--Chemical data-->
+| C=22 | H=23 | I=1 | N=2 | O=1 
+| molecular_weight = 458.334 g/mol
+| smiles = Ic3ccccc3C(=O)c1cn(CC2CCCCN2C)c4c1cccc4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H23IN2O/c1-24-13-7-6-8-16(24)14-25-15-19(17-9-3-5-12-21(17)25)22(26)18-10-2-4-11-20(18)23/h2-5,9-12,15-16H,6-8,13-14H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = KSLCYQTUSSEGPT-UHFFFAOYSA-N
+}}
+
+'''AM-2233''' is a drug that acts as a highly potent [[full agonist]] for the [[cannabinoid receptor]]s, with a [[Dissociation constant|''K''<sub>i</sub>]] of 1.8&nbsp;nM at [[Cannabinoid receptor 1|CB<sub>1</sub>]] and 2.2&nbsp;nM at [[Cannabinoid receptor 2|CB<sub>2</sub>]] as the active (''R'') [[enantiomer]].<ref>{{Cite thesis |type=PhD Dissertation |title=Design and synthesis of selective cannabinoid receptor ligands: Aminoalkylindole and other heterocyclic analogs |url=http://proquest.umi.com/pqdlink?did=726066941&Fmt=7&clientId=79356&RQT=309&VName=PQD |author = Hongfeng Deng |year=2000 |publisher=University of Connecticut }}</ref> It was developed as a selective [[isotopic labelling|radioligand]] for the cannabinoid receptors and has been used as its [[Iodine-131|<sup>131</sup>I]] derivative for mapping the distribution of the CB<sub>1</sub> receptor in the brain.<ref name="pmid16190764">{{cite journal |author =Deng H |title=Potent cannabinergic indole analogues as radioiodinatable brain imaging agents for the CB1 cannabinoid receptor |journal=Journal of Medicinal Chemistry |volume=48 |issue=20 |pages=6386–92 |date=October 2005 |pmid=16190764 |doi=10.1021/jm050135l |display-authors=etal}}</ref><ref>{{Cite book | last1 =  Hanuš| first1 = L. R. O. | last2 = Mechoulam | first2 = R. | title = Cannabinoids as Therapeutics | doi = 10.1007/3-7643-7358-X_2 | pages = 23 | year = 2005 | pmid =  | pmc = | chapter =  Cannabinoid chemistry: an overview | series =  Milestones in Drug Therapy MDT | isbn =  3-7643-7055-6 }}</ref><ref name="pmid16438957">{{cite journal |author =Shen CP |title=F200A substitution in the third transmembrane helix of human cannabinoid CB1 receptor converts AM2233 from receptor agonist to inverse agonist |journal=European Journal of Pharmacology |volume=531 |issue=1–3 |pages=41–6 |date=February 2006 |pmid=16438957 |doi=10.1016/j.ejphar.2005.12.026 |display-authors=etal}}</ref><ref>{{Cite journal |last1= Dhawan |doi= 10.1002/syn.20277 | first1= J. |last2= Deng | first2= H. |last3= Gatley | first3= S. J. |last4= Makriyannis | first4= A. |last5= Akinfeleye | first5= T. |last6= Bruneus | first6= M. |last7= Dimaio | first7= A. A. |last8= Gifford | first8= A. N. |title= Evaluation of the in vivo receptor occupancy for the behavioral effects of cannabinoids using a radiolabeled cannabinoid receptor agonist, R-[125/131I]AM2233 |journal= Synapse |volume= 60 |issue= 2 |pages= 93–101 |year= 2006 |pmid= 16715483 }}
+</ref><ref name="pmid20641836">{{cite journal |author =Leung K |title=R-2-[131I]Iodophenyl-(1-(1-methylpiperidin-2-ylmethyl)-1H-indol-3-yl)methanone |journal=Molecular Imaging and Contrast Agent Database (MICAD) [Internet] |date=Dec 12, 2006 |pmid=20641836 }}</ref><ref>{{Cite journal |author = Pei, Y.|title= Ligand-Binding Architecture of Human CB2 Cannabinoid Receptor: Evidence for Receptor Subtype-Specific Binding Motif and Modeling GPCR Activation |doi= 10.1016/j.chembiol.2008.10.011 |journal= Chemistry & Biology |volume= 15 |pages= 1207 |year= 2008 |display-authors=etal |pmid=19022181 |pmc=3700404}}
+</ref> AM-2233 was found to fully substitute for [[tetrahydrocannabinol|THC]] in rats, with a potency lower than that of [[JWH-018]] but higher than [[WIN 55,212-2]].<ref name="pmid21836461">{{cite journal |vauthors=Järbe TU, Deng H, Vadivel SK, Makriyannis A |title=Cannabinergic aminoalkylindoles, including AM678=JWH018 found in 'Spice', examined using drug (Δ9-tetrahydrocannabinol) discrimination for rats |journal=Behavioural Pharmacology |volume=22 |issue=5–6 |pages=498–507 |date=September 2011 |pmid=21836461 |doi=10.1097/FBP.0b013e328349fbd5 |pmc=3212432}}</ref>
+
+==Legal Status==
+
+As of October 2015 AM-2233 is a controlled substance in China.<ref>{{cite web | url=http://www.sfda.gov.cn/WS01/CL0056/130753.html | title=关于印发《非药用类麻醉药品和精神药品列管办法》的通知 | publisher=China Food and Drug Administration | date=27 September 2015 | language=Chinese | accessdate=1 October 2015}}</ref>
+
+==See also==
+* [[AM-679 (cannabinoid)|AM-679]]
+* [[AM-694]]
+* [[AM-1220]]
+* [[AM-1221]]
+* [[AM-1235]]
+* [[AM-1241]]
+* [[AM-2232]]
+* [[Cannabipiperidiethanone]]
+* [[FUBIMINA]]
+* [[JWH-018]]
+* [[List of AM cannabinoids]]
+* [[List of JWH cannabinoids]]
+
+==References==
+{{reflist}}
+
+{{Cannabinoids}}
+
+[[Category:Cannabinoids]]
+[[Category:Benzoylindoles]]
+[[Category:AM cannabinoids]]
+[[Category:Aminoalkylindoles]]
+[[Category:Iodoarenes]]
+[[Category:Piperidines]]
+[[Category:Designer drugs]]
+
+
+{{cannabinoid-stub}}

@@ -1,0 +1,79 @@
+{{unreferenced|date=March 2017}}
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 470610157
+| IUPAC_name = (2''S'',5''R'',6''R'')-6-{[(2''R'')-2-carboxy-2-(3-thienyl)acetyl]amino}-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+| image = Ticarcillin.svg
+<!--Clinical data-->
+| tradename = 
+| Drugs.com = {{drugs.com|monograph|ticarcillin-disodium-and-clavulanate-potassium}}
+| MedlinePlus = a685037
+| pregnancy_AU = B2
+| pregnancy_US = B
+| legal_status = Rx-only
+| routes_of_administration = [[Intravenous therapy|Intravenous]]
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 45%
+| metabolism = 
+| elimination_half-life = 1.1 hours
+| excretion = [[Kidney|Renal]]
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 34787-01-4
+| ATC_prefix = J01
+| ATC_suffix = CA13
+| ATC_supplemental = {{ATC|J01|CR03}}
+| PubChem = 36921
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01607
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 33876
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = F93UJX4SWT
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08593
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 9587
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1449
+<!--Chemical data-->
+| C=15 | H=16 | N=2 | O=6 | S=2
+| molecular_weight = 384.429 g/mol
+| smiles = O=C(O)[C@@H]2N3C(=O)[C@@H](NC(=O)[C@@H](c1ccsc1)C(=O)O)[C@H]3SC2(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C15H16N2O6S2/c1-15(2)9(14(22)23)17-11(19)8(12(17)25-15)16-10(18)7(13(20)21)6-3-4-24-5-6/h3-5,7-9,12H,1-2H3,(H,16,18)(H,20,21)(H,22,23)/t7-,8-,9+,12-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OHKOGUYZJXTSFX-KZFFXBSXSA-N
+}}
+'''Ticarcillin''' is a [[carboxypenicillin]]. It is almost invariably{{Citation needed|date=June 2009}} sold and used in combination with [[clavulanate]] as '''[[Ticarcillin/clavulanic acid|Timentin]]'''. Because it is a penicillin, it also falls within the larger class of [[beta-lactam]] antibiotics. Its main clinical use is as an injectable antibiotic for the treatment of [[Gram-negative]] bacteria, particularly ''[[Pseudomonas aeruginosa]]''. It is also one of the few antibiotics capable of treating ''[[Stenotrophomonas maltophilia]]'' infections.
+
+It is provided as a white or pale-yellow powder. It is highly soluble in water, but should be dissolved only immediately before use to prevent degradation.
+
+== Mechanism of action ==
+Ticarcillin's antibiotic properties arise from its ability to prevent cross-linking of [[peptidoglycan]] during [[cell wall]] synthesis, when the bacteria try to [[Binary fission|divide]], causing cell death.
+
+Ticarcillin, like [[penicillin]], contains a β-lactam ring that can be cleaved by [[beta-lactamase]]s, resulting in inactivation of the antibiotic. Those bacteria that can express β-lactamases are, therefore, resistant to β-lactam antibiotics. Due, at least in part, to the common β-lactam ring, ticarcillin can cause reactions in patients allergic to penicillin. Ticarcillin is also often paired with a [[beta-lactamase inhibitor|&beta;-lactamase inhibitor]] such as [[clavulanic acid]] ([[co-ticarclav]]).
+
+==Other uses==
+In [[molecular biology]], ticarcillin is used to as an alternative to [[ampicillin]] to test the uptake of [[marker gene]]s into bacteria. It prevents the appearance of satellite colonies that occur when ampicillin breaks down in the medium. It is also used in plant molecular biology to kill ''[[Agrobacterium]]'', which is used to deliver genes to plant cells.
+
+== Dosing and administration ==
+Ticarcillin is not absorbed orally, so must be given by intravenous or intramuscular injection.
+
+== Trade names and preparations ==
+* Ticarcillin: Ticar was formerly marketed by [[Beecham (pharmaceutical company)|Beecham]], then [[SmithKline Beecham]] until 1999, when it merged with Glaxo to form [[GlaxoSmithKline]]; it is no longer available in the UK. US distribution ceased in 2004. Ticar was replaced by Timentin. 
+However Timentin contains clavulanate unlike Ticar
+* [[Ticarcillin/clavulanate]]: Timentin, in Australia, the UK, and the US, was marketed by Beecham, then GlaxoSmithKline.
+
+==Synthesis==
+[[Carbenicillin]] is used in the clinic primarily because of its low toxicity and its utility in treating [[urinary tract infections]] due to susceptible [[Pseudomonas]] species. Its low potency, low oral activity, and susceptibility to bacterial [[beta-lactamases]] make it vulnerable to replacement by agents without these deficits. One contender in this race is ticaricillin. Its origin depended on the well-known fact that a divalent sulfur is roughly equivalent to a vinyl group (cf [[methiopropamine]], [[sufentanil]], [[pizotyline]] etc.).
+[[File:Ticarcillin synthesis.svg|thumb|center|700px|Ticarcillin synthesis: GEORGE BRAIN EDWARD, CHARLES NAYLER JOHN HERBERT; {{Cite patent|BE|646991}} (1964 to [[Beecham]]).]]
+One synthesis began by making the monobenzyl ester of 3-Thienylmalonic acid, converting this to the acid chloride with SOCl2, and condensing it with 6-Aminopenicillanic acid ([[6-APA]]). Hydrogenolysis (Pd/C) completed the synthesis of ticarcillin.
+==References==
+{{reflist}}
+
+{{PenicillinAntiBiotics}}
+
+[[Category:Penicillins]]
+[[Category:Thiophenes]]

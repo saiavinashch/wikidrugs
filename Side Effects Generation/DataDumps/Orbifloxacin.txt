@@ -1,0 +1,73 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 462265582
+| IUPAC_name = 1-Cyclopropyl-7-[(3''s'',5''r'')-3,5-dimethylpiperazin-1-yl]-5,6,8-trifluoro-4-oxo-1,4-dihydroquinoline-3-carboxylic acid
+| image = orbifloxacin.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|orbifloxacin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = veterinary use only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 113617-63-3
+| ATCvet = yes
+| ATC_prefix = J01
+| ATC_suffix = MA95
+| PubChem = 60605
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 54631
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 660932TPY6
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08299
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 295433
+
+<!--Chemical data-->
+| C=19 | H=20 | F=3 | N=3 | O=3 
+| molecular_weight = 395.37 g/mol
+| smiles = O=C(O)C1=CN(C2CC2)c3c(C1=O)c(F)c(F)c(c3F)N4C[C@H](C)N[C@H](C)C4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H20F3N3O3/c1-8-5-24(6-9(2)23-8)17-14(21)13(20)12-16(15(17)22)25(10-3-4-10)7-11(18(12)26)19(27)28/h7-10,23H,3-6H2,1-2H3,(H,27,28)/t8-,9+
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = QIPQASLPWJVQMH-DTORHVGOSA-N
+}}
+
+'''Orbifloxacin''' (brand name '''Orbax''') is a [[fluoroquinolone]] [[antibiotic]] which is approved for use in dogs,<ref>[http://dil.vetmed.vt.edu/Display/NadaBrowse.cfm?NadaString=141-081 Product Abstract - NADA 141-081]. Retrieved on June 23, 2008.</ref> marketed by [[Schering-Plough|Schering-Plough Animal Health]].
+
+==See also==
+*[[Quinolone antibiotic|Quinolone]]
+
+==References==
+{{Reflist}}
+
+{{QuinoloneAntiBiotics}}
+
+[[Category:Fluoroquinolone antibiotics]]
+[[Category:Piperazines]]
+[[Category:Cyclopropanes]]
+[[Category:Veterinary drugs]]
+[[Category:Carboxylic acids]]
+
+
+{{antibiotic-stub}}
+{{Veterinary-med-stub}}

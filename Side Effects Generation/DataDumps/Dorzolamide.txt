@@ -1,0 +1,83 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 461091269
+| IUPAC_name = (4''S'',6''S'')-4-(ethylamino)-6-methyl-7,7-dioxo-5,6-dihydro-4''H''-thieno[2,3-b]thiopyran-2-sulfonamide
+| image = Dorzolamide.svg
+| width = 200
+| image2 = Dorzolamide-3D-balls.png
+
+<!--Clinical data-->
+| tradename = Trusopt
+| Drugs.com = {{drugs.com|monograph|dorzolamide-hydrochloride}}
+| MedlinePlus = a602022
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = C
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = Rx-only
+| routes_of_administration = Topical ([[eye drop]]s)
+
+<!--Pharmacokinetic data-->
+| protein_bound = ~33%
+| elimination_half-life = 4 months
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6810
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 130693-82-2
+| CAS_supplemental = {{CAS|120279-96-1}}
+| ATC_prefix = S01
+| ATC_suffix = EC03
+| PubChem = 5284549
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00869
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4447604
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 9JDX055TW1
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D07871
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 4702
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 218490
+
+<!--Chemical data-->
+| C=10 | H=16 | N=2 | O=4 | S=3 
+| molecular_weight = 324.443 g/mol
+| smiles = CCNC1CC(C)S(=O)(=O)c2sc(cc12)S(=O)(=O)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H16N2O4S3/c1-3-12-8-4-6(2)18(13,14)10-7(8)5-9(17-10)19(11,15)16/h5-6,8,12H,3-4H2,1-2H3,(H2,11,15,16)/t6-,8-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IAVUPMFITXYVAF-XPUUQOCRSA-N
+}}
+'''Dorzolamide''' (trade name '''Trusopt''') is a [[carbonic anhydrase inhibitor]]. It is an [[anti-glaucoma agent]], and acts by decreasing the production of [[aqueous humour]].<ref>[http://www.drugs.com/pro/dorzolamide.html Dorzolamide] at Drugs.com. Revised: 12/2011</ref> It is administered as a topical ophthalmic in the form of a 2% solution.<ref name=dor/>
+
+==History==
+This drug, developed by [[Merck & Co.|Merck]], was the first drug in human therapy (market introduction 1995) that resulted from structure-based [[drug design]]. It was developed to circumvent the systemic side effects of [[acetazolamide]] which has to be taken orally.<ref name=dor>{{cite book|title=Essentials of Medical Pharmacology|publisher=Jaypee Brothers Medical Publishers(P) Ltd.|isbn=81-8061-187-6|page=88|author=KD Tripari MD|edition=5th}}</ref>
+
+==Uses==
+Dorzolamide hydrochloride is used to lower increased [[intraocular pressure]] in open-angle [[glaucoma]] and [[ocular hypertension]].
+
+==Pharmacodynamics==
+It lowers [[intraocular pressure|IOP]] by about 20%.<ref name=dor/>
+
+==Side effects==
+Ocular stinging, burning, itching and bitter taste.<ref name=dor/> It causes shallowing of the anterior chamber and leads to transient [[myopia]].
+
+== References ==
+<references />
+
+==Further reading==
+* {{cite journal | author = Kubinyi H | year = 1999 | title = Chance favors the prepared mind--from serendipity to rational drug design | journal = [[J Recept Signal Transduct Res]] | volume = 19 | issue = 1–4 | pages = 15–39 | pmid =  10071748 | doi = 10.3109/10799899909036635}}
+* {{cite journal | vauthors = Plummer C, MacKay E, Gelatt K | title = Comparison of the effects of topical administration of a fixed combination of dorzolamide-timolol to monotherapy with timolol or dorzolamide on IOP, pupil size, and heart rate in glaucomatous dogs | journal = Vet Ophthalmol | volume = 9 | issue = 4 | pages = 245–9 | year = 2006| pmid = 16771760 | doi = 10.1111/j.1463-5224.2006.00469.x}}
+* {{cite journal | vauthors = Grover S, Apushkin M, Fishman G | title = Topical dorzolamide for the treatment of cystoid macular edema in patients with retinitis pigmentosa | journal = Am J Ophthalmol | volume = 141 | issue = 5 | pages = 850–8 | year = 2006 | pmid = 16546110 | doi = 10.1016/j.ajo.2005.12.030}}
+* {{cite journal | vauthors = Almeida G, Faria e Souza S | title = Effect of topical dorzolamide on rabbit central corneal thickness | journal = Braz J Med Biol Res | volume = 39 | issue = 2 | pages = 277–81 | year = 2006 | pmid = 16470316 | doi = 10.1590/S0100-879X2006000200015}}
+
+{{Antiglaucoma preparations and miotics}}
+
+[[Category:Carbonic anhydrase inhibitors]]
+[[Category:Sulfones]]
+[[Category:Sulfonamides]]
+[[Category:Amines]]

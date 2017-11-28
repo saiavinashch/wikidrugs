@@ -1,0 +1,63 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 448230811
+| IUPAC_name = (3''R'')-3-[di(cyclobutyl)amino]-8-fluoro-3,4-dihydro-2''H''-chromene-5-carboxamide
+| image = Robalzotan.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_category =  
+| legal_status = Uncontrolled
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 72
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 169758-66-1
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 3055171
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = I18M56OGME
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 2316732
+
+<!--Chemical data-->
+| C=18 | H=23 | F=1 | N=2 | O=2 
+| molecular_weight = 318.174 g/mol
+| smiles = C1CC(C1)N(C2CCC2)[C@@H]3CC4=C(C=CC(=C4OC3)F)C(=O)N
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C18H23FN2O2/c19-16-8-7-14(18(20)22)15-9-13(10-23-17(15)16)21(11-3-1-4-11)12-5-2-6-12/h7-8,11-13H,1-6,9-10H2,(H2,20,22)/t13-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = MQTUXRKNJYPMCG-CYBMUJFWSA-N
+}}
+
+'''Robalzotan''' ('''NAD-299''', '''AZD-7371''') is a [[binding selectivity|selective]] [[receptor antagonist|antagonist]] at the [[5-HT1A|5-HT<sub>1A</sub>]] [[receptor (biochemistry)|receptor]].<ref name="pmid9851589">{{cite journal | doi = 10.1016/S0014-2999(98)00667-0 |vauthors=Jerning E, Svantesson GT, Mohell N | title = Receptor binding characteristics of [3H]NAD-299, a new selective 5-HT1A receptor antagonist. | journal = Eur J Pharmacol. | volume = 360 | issue = 2-3 | pages = 219–225 | year = 1998 | pmid = 9851589 }}</ref> It was shown to completely reverse the [[autoreceptor]]-mediated inhibition of [[serotonin]] release induced by the administration of [[selective serotonin reuptake inhibitors]] like [[citalopram]] in [[animal testing on rodents|rodent studies]].<ref name="pmid10528148">{{cite journal | doi = 10.1016/S0014-2999(99)00592-0 |vauthors=Arborelius L, Wallsten C, Ahlenius S, Svensson TH | title = The 5-HT(1A) receptor antagonist robalzotan completely reverses citalopram-induced inhibition of serotonergic cell firing. | journal = Eur J Pharmacol. | volume = 382 | issue = 2 | pages = 133–138 | year = 1999 | pmid = 10528148 }}</ref> It was subsequently investigated by [[AstraZeneca]] as a potential [[antidepressant]] but like many other 5-HT<sub>1A</sub> ligands was discontinued.<ref name="pmid11249580">{{cite journal | author = Mucke HA. | title = Robalzotan AstraZeneca. | journal = Curr Opin Investig Drugs. | volume = 1 | issue = 2 | pages = 236–240 | year = 2000 | pmid = 11249580 }}</ref> Later on it was researched for other indications such as [[irritable bowel syndrome]] but was dropped once again.<ref name="pmid18775020">{{cite journal |vauthors=Drossman DA, Danilewitz M, Naesdal J, Hwang C, Adler J, Silberg DG | title = Randomized, double-blind, placebo-controlled trial of the 5-HT1A receptor antagonist AZD7371 tartrate monohydrate (robalzotan tartrate monohydrate) in patients with irritable bowel syndrome | journal = The American Journal of Gastroenterology | volume = 103 | issue = 10 | pages = 2562–9 |date=October 2008 | pmid = 18775020 | doi = 10.1111/j.1572-0241.2008.02115.x}}</ref>
+
+== See also ==
+* [[Ebalzotan]]
+* [[UH-301]]
+
+== References ==
+{{Reflist|2}}
+
+{{Antidepressants}}
+{{Anxiolytics}}
+{{Drugs for functional gastrointestinal disorders}}
+{{Serotonergics}}
+
+[[Category:Amines]]
+[[Category:Carboxamides]]
+[[Category:Chromenes]]
+[[Category:Fluoroarenes]]
+[[Category:Cyclobutanes]]
+
+
+{{gastrointestinal-drug-stub}}
+{{nervous-system-drug-stub}}

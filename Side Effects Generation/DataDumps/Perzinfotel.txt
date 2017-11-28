@@ -1,0 +1,57 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 443223642
+| IUPAC_name = 2-(8,9-Dioxo-2,6-diazabicyclo[5.2.0]non-1(7)-en-2-yl)ethylphosphonic acid
+| image = Perzinfotel.png
+| width = 240
+
+<!--Clinical data-->
+| tradename =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 144912-63-0
+| ATC_prefix = none
+| PubChem = 6918236
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = FX5AUU7Z8T
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05447
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 5293443
+
+<!--Chemical data-->
+| C=9 | H=13 | N=2 | O=5 | P=1 
+| molecular_weight = 260.184 g/mol
+| smiles = C1CNC2=C(C(=O)C2=O)N(C1)CCP(=O)(O)O
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C9H13N2O5P/c12-8-6-7(9(8)13)11(3-1-2-10-6)4-5-17(14,15)16/h10H,1-5H2,(H2,14,15,16)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = BDABGOLMYNHHTR-UHFFFAOYSA-N
+}}
+'''Perzinfotel''' ('''EAA-090''') is a drug which acts as a potent [[NMDA antagonist]].<ref>{{cite journal | pmid = 9457246 | doi=10.1021/jm970504g | volume=41 | title=Design and synthesis of [2-(8,9-dioxo-2,6-diazabicyclo[5.2.0]non-1(7)-en-2-yl)-ethyl]phosphonic acid (EAA-090), a potent N-methyl-D-aspartate antagonist, via the use of 3-cyclobutene-1,2-dione as an achiral alpha-amino acid bioisostere | date=January 1998 | journal=J. Med. Chem. | pages=236–46 | last1 = Kinney | first1 = WA | last2 = Abou-Gharbia | first2 = M | last3 = Garrison | first3 = DT | display-authors = 3 | last4 = et al}}</ref> It has [[neuroprotective]] effects and has been investigated for the treatment of [[stroke]],<ref>{{cite journal | last1 = Sun | first1 = L | last2 = Chiu | first2 = D | last3 = Kowal | first3 = D | last4 = Simon | first4 = R | last5 = Smeyne | first5 = M | last6 = Zukin | first6 = RS | last7 = Olney | first7 = J | last8 = Baudy | first8 = R | last9 = Lin | first9 = S | date = Aug 2004 | title = Characterization of two novel N-methyl-D-aspartate antagonists: EAA-090 (2-[8,9-dioxo-2,6-diazabicyclo [5.2.0]non-1(7)-en2-yl]ethylphosphonic acid) and EAB-318 (R-alpha-amino-5-chloro-1-(phosphonomethyl)-1H-benzimidazole-2-propanoic acid hydrochloride) | url = | journal = Journal of Pharmacology and Experimental Therapeutics | volume = 310 | issue = 2| pages = 563–70 | doi = 10.1124/jpet.104.066092 | pmid = 15075380 }}</ref> but lacks [[analgesic]] effects.<ref>{{cite journal | pmid = 15764736 | doi=10.1124/jpet.105.084467 | volume=313 | title=Effects of the N-methyl-D-aspartate receptor antagonist perzinfotel [EAA-090; [2-(8,9-dioxo-2,6-diazabicyclo[5.2.0]non-1(7)-en-2-yl)-ethyl]phosphonic acid] on chemically induced thermal hypersensitivity | date=June 2005 | journal=J. Pharmacol. Exp. Ther. | pages=1379–86 | last1 = Brandt | first1 = MR | last2 = Cummons | first2 = TA | last3 = Potestio | first3 = L | last4 = Sukoff | first4 = SJ | last5 = Rosenzweig-Lipson | first5 = S}}</ref> Nevertheless, it shows a good safety profile compared to older drugs, although further development of this drug has been discontinued.<ref>http://adisinsight.springer.com/drugs/800009946</ref>
+
+Prodrugs were developed since the oral bioavailability of perzinfotel is only around 3-5%.<ref name="BaudyButera2009">{{cite journal|last1=Baudy|first1=Reinhardt B.|last2=Butera|first2=John A.|last3=Abou-Gharbia|first3=Magid A.|last4=Chen|first4=Hong|last5=Harrison|first5=Boyd|last6=Jain|first6=Uday|last7=Magolda|first7=Ronald|last8=Sze|first8=Jean Y.|last9=Brandt|first9=Michael R.|last10=Cummons|first10=Terri A.|last11=Kowal|first11=Diane|last12=Pangalos|first12=Menelas N.|last13=Zupan|first13=Bojana|last14=Hoffmann|first14=Matthew|last15=May|first15=Michael|last16=Mugford|first16=Cheryl|last17=Kennedy|first17=Jeffrey|last18=Childers|first18=Wayne E.|title=Prodrugs of Perzinfotel with Improved Oral Bioavailability|journal=Journal of Medicinal Chemistry|volume=52|issue=3|year=2009|pages=771–778|issn=0022-2623|doi=10.1021/jm8011799|pmid=19146418}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Hallucinogens}}
+{{Ionotropic glutamate receptor modulators}}
+
+[[Category:NMDA receptor antagonists]]
+[[Category:Phosphonic acids]]
+[[Category:Quinones]]
+[[Category:Cyclobutenes]]
+[[Category:Nitrogen heterocycles]]
+[[Category:Heterocyclic compounds (2 rings)]]
+
+{{nervous-system-drug-stub}}

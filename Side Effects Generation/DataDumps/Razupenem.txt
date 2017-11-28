@@ -1,0 +1,81 @@
+{{Drugbox
+| IUPAC_name = (4R,5S,6S)-6-((R)-1-hydroxyethyl)-4-methyl-3-((4-((S)-5-methyl-2,5-dihydro-1H-pyrrol-3-yl)thiazol-2-yl)thio)-7-oxo-1-azabicyclo[3.2.0]hept-2-ene-2-carboxylic acid
+| image = Razupenem_structure.png
+
+<!--Clinical data-->
+| tradename = PTZ-601
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = Investigational New Drug
+| legal_status = 
+| routes_of_administration = [[Intravenous therapy|IV]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism = 
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 
+| ATC_prefix = 
+| ATC_suffix = 
+| PubChem = 
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| KEGG = D09658
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID      = 9168406
+
+<!--Chemical data-->
+| C=18 | H=21 | N=3 | O=4 | S=2 
+| molecular_weight = 407.51 g/mol
+| smiles = [H][C@]12N(C(C(O)=O)=C(SC3=NC(C4=C[C@H](C)NC4)=CS3)[C@@H]2C)C([C@@]1([C@H](O)C)[H])=O
+| StdInChI          = 1S/C18H21N3O4S2/c1-7-4-10(5-19-7)11-6-26-18(20-11)27-15-8(2)13-12(9(3)22)16(23)21(13)14(15)17(24)25/h4,6-9,12-13,19,22H,5H2,1-3H3,(H,24,25)/t7-,8+,9+,12+,13+/m0/s1
+| StdInChIKey       = XFGOMLIRJYURLQ-GOKYHWASSA-N
+}}
+
+'''Razupenem''' ('''PTZ-601''') is a broad spectrum injectable [[antibiotic]], from the [[carbapenem]] subgroup of [[beta-lactam antibiotic|beta-lactam]] antibiotics. It was developed as a replacement drug to combat bacteria that had acquired [[antibiotic resistance]] to commonly used antibiotics.<ref>{{Cite journal 
+| last1 = Livermore | first1 = D. M. 
+| last2 = Mushtaq | first2 = S. 
+| last3 = Warner | first3 = M. 
+| doi = 10.1093/jac/dkp187 
+| title = Activity of the anti-MRSA carbapenem razupenem (PTZ601) against Enterobacteriaceae with defined resistance mechanisms 
+| journal = Journal of Antimicrobial Chemotherapy 
+| volume = 64 
+| issue = 2 
+| pages = 330–335 
+| year = 2009 
+| pmid = 19497942 
+| pmc = 
+}}</ref> Razupenem performed well against a variety of bacterial strains,<ref>{{Cite journal 
+| last1 = Tran | first1 = C. M. 
+| last2 = Tanaka | first2 = K. 
+| last3 = Yamagishi | first3 = Y. 
+| last4 = Goto | first4 = T. 
+| last5 = Mikamo | first5 = H. 
+| last6 = Watanabe | first6 = K. 
+| doi = 10.1128/AAC.01038-10 
+| title = In Vitro Antimicrobial Activity of Razupenem (SMP-601, PTZ601) against Anaerobic Bacteria 
+| journal = Antimicrobial Agents and Chemotherapy 
+| volume = 55 
+| issue = 5 
+| pages = 2398–2402 
+| year = 2011 
+| pmid = 21343447 
+| pmc =3088197 
+}}</ref> but further development is in doubt due to a high rate of side effects in Phase II clinical trials.
+
+==References==
+<references/>
+
+
+{{CephalosporinAntiBiotics}}
+
+[[Category:Carbapenem antibiotics]]

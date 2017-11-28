@@ -1,0 +1,72 @@
+{{refimprove|date=July 2015}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 376278091
+| IUPAC_name = (1''R'',2''R'',3''S'',4''R'',6''S'')-4,6-diamino-3-hydroxy-2-(β-<small>D</small>-ribofuranosyloxy)cyclohexyl 2,6-diamino-2,6-dideoxy-α-<small>D</small>-glucopyranoside
+| image = Ribostamycin.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|ribostamycin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number =  
+| CAS_supplemental = {{CAS|53797-35-6}}
+| ATC_prefix = J01
+| ATC_suffix = GB10
+|  PubChem = 33042
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 30581
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 2Q5JOU7T53
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 221572
+
+<!--Chemical data-->
+| C=17 | H=34 | N=4 | O=10 
+| molecular_weight = 454.47266 g/mol
+|  smiles = C1[C@H]([C@@H]([C@H]([C@@H]([C@H]1N)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CN)O)O)N)O[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)O)N
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C17H34N4O10/c18-2-6-10(24)12(26)8(21)16(28-6)30-14-5(20)1-4(19)9(23)15(14)31-17-13(27)11(25)7(3-22)29-17/h4-17,22-27H,1-3,18-21H2/t4-,5+,6-,7-,8-,9+,10-,11-,12-,13-,14-,15-,16-,17+/m1/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = NSKGQURZWSPSBC-VVPCINPTSA-N
+
+| synonyms = <small>(2''R'',3''S'',4''R'',5''R'',6''R'')-5-amino-2-(aminomethyl)-6-<nowiki/>{[(1''R'',2''R'',3''S'',4''R'',6''S'')-4,6-diamino-2-<nowiki/>{[(2''S'',3''R'',4''S'',5''R'')-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy}-3-hydroxycyclohexyl]oxy}oxane-3,4-diol</small>
+}}
+
+'''Ribostamycin''' is an aminoglycoside-aminocyclitol antibiotic isolated from a streptomycete, Streptomyces ribosidificus, originally identified in a soil sample from Tsu City of Mie Prefecture in Japan.<ref>Shomura, T.; Ezaki, N.; Tsuruoka, T.; Niwa, T.; Akita, E.; Niida, T.; Studies on Antibiotic SF-733, a New Antibiotic. I Taxonomy, Isolation and Characterization. The Journal of Antibiotics. 1970, 23 (3), 155-161.</ref> It is made up of 3 ring subunits: 2-deoxystreptamine (DOS), neosamine C, and [[ribose]].<ref name="Subba">Subba, B.; Kharel, M.K.; Lee, H.C.; Liou, K.; Kim, B.G; Sohng, J.K.; The Ribostamycin Biosynthetic Gene Cluster in Streptomyces ribosidificus: Comparison With Butirosin Biosynthesis. Molecules and Cells. 2005, 20 (1), 90-96.</ref> Ribostamycin, along with other aminoglycosides with the DOS subunit, is an important broad-spectrum antibiotic with important use against human immunodeficiency virus and is considered a critically important antimicrobial by the [[World Health Organization]].,<ref name="Kurumbang">Kurumbang N.P.; Liou, K.; Sohng, J.K.; Biosynthesis of Ribostamycin Derivatives by Reconstitution and Heterologous Expression of Required Gene Sets. Applied Biochemistry and Biotechnology. 2011, 163, 373-382.</ref><ref>World Health Organization. Critically Important Antimicrobials for Human Medicine 3rd revision. 2011</ref> Resistance against aminoglycoside antibiotics, such as ribostamycin, is a growing concern. The resistant bacteria contain enzymes that modify the structure through phosphorylation, adenylation, and acetylation and prevent the antibiotic from being able to interact with the bacterial ribosomal RNAs.<ref>Kudo, F.; Eguchi, T.; Biosynthetic Genes for Aminoglycoside Antibiotics. The Journal of Antibiotics. 2009, 62, 471-481.</ref>
+
+== Biosynthesis ==
+
+The biosynthesis of ribostamycin begins with the sugar, D-glucose, which is phosphorylated at the 6 position to form glucose-6-phosphate. Enzyme rbmA contains a genetic sequence that corresponds to [[Nicotinamide adenine dinucleotide|NAD+]] binding and catalyzes the formation of 2-deoxy-scyllo-inosose. Enzyme rmbB then catalyzes the transamination of 2-deoxy-scyllo-inosose to 2-deoxy-scyllo-inosamine with L-glutamine and [[pyridoxal phosphate]] (PLP). Enzyme rbmC oxidizes the ring to 2-deoxy-3-amino-scyllo-inosose, which is then transaminated by enzyme rmbB to DOS.  DOS is then glycosylated by the glycosyltransferase rmbD with uridine diphosphate N-acetylglucosamine (UDP-Glc-NAc) to form 2’-N-acetylparomamine. The deacetylase, racJ, removes the acetyl group and forms paromamine. Paromamine is oxidized by enzyme rbmG and then enzyme rmbH transaminates to produce neamine. Neamine is then ribosylated to form ribostamycin.,<ref name="Subba" /><ref name="Kurumbang" />
+[[File:Ribostamycin Proposedbiosynthesis.gif|frameless|Biosynthetic patway for ribostamycin]]
+
+{{AminoglycosideAntiBiotics}}
+
+== References ==
+{{Reflist}}
+
+[[Category:Aminoglycoside antibiotics]]
+
+
+{{antibiotic-stub}}

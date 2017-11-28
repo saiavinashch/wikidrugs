@@ -1,0 +1,70 @@
+{{chembox
+| Verifiedfields = changed
+| verifiedrevid = 457129337
+| ImageFile=Amprolium.svg
+| ImageSize=
+| IUPACName=5-[(2-methylpyridin-1-ium-1-yl)methyl]-2-propyl-pyrimidin-4-amine chloride
+| OtherNames=1-[(4-Amino-2-propyl-5-pyrimidinyl)methyl]-2-picolinium chloride
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 71M75T660B
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C14H19N4.ClH/c1-3-6-13-16-9-12(14(15)17-13)10-18-8-5-4-7-11(18)2;/h4-5,7-9H,3,6,10H2,1-2H3,(H2,15,16,17);1H/q+1;/p-1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = LCTXBFGHZLGBNU-UHFFFAOYSA-M
+| CASNo_Ref = {{cascite|changed|correct}}
+| CASNo=121-25-5
+| EINECS=204-458-4
+| MeSHName=Amprolium
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 97350
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 85265
+| PubChem=2178
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID=66070
+| SMILES=[Cl-].n1c(c(cnc1CCC)C[n+]2ccccc2C)N
+| InChI=1/C14H19N4.ClH/c1-3-6-13-16-9-12(14(15)17-13)10-18-8-5-4-7-11(18)2;/h4-5,7-9H,3,6,10H2,1-2H3,(H2,15,16,17);1H/q+1;/p-1
+| InChIKey = LCTXBFGHZLGBNU-REWHXWOFAP
+  }}
+|Section2={{Chembox Properties
+| Formula=C<sub>14</sub>H<sub>19</sub>N<sub>4</sub><sup>+</sup> · Cl<sup>−</sup>
+| MolarMass=278.780 g·mol<sup>−1</sup>
+| Appearance=
+| Density=
+| MeltingPt=
+| BoilingPt=
+| Solubility=
+  }}
+|Section6={{Chembox Pharmacology
+| ATCvet = yes
+| ATCCode_prefix = P51
+| ATCCode_suffix = AX09
+}}
+|Section7={{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| AutoignitionPt =
+  }}
+}}
+'''Amprolium''' ([[International Nonproprietary Name|INN]], trade names '''Amprovine''', '''Amprolium''', '''Amprol''', '''Anticoccid''') is a [[coccidiostat]] used in [[poultry]].
+
+The drug is a [[thiamine]] analogue and blocks the thiamine transporter of ''[[Eimeria]]'' species. By blocking thiamine uptake it prevents carbohydrate synthesis.
+
+Despite only moderate efficacy it is well favoured due to few resistance issues and is commonly used in conjunction with [[Sulfonamide (medicine)|sulfonamide]]s prophylactically in [[chicken]]s and [[cattle]] as a coccidiostat.
+
+==Synthesis==
+[[Coccidia]] are protozoans that can wreak havoc in a flock of poultry by an infection known as [[coccidiosis]]. Agents that control this disease–[[coccidiostats]]–are in view of the world's heavy dependence on poultry as a source of protein, of great economical significance.
+[[File:Amprolium synthesis.svg|700px|center|thumb|Amprolium synthesis<ref>Grewe, R. Z. Physiol. Chem. (1936).</ref> Rogers, Sarett, {{US patent|3020277}} (1962 to Merck & Co.), see also {{US patent|3020200}} <ref>{{cite web|url=http://www.dissertationtopic.net/doc/1133386 |title=Archived copy |accessdate=2015-03-30 |deadurl=yes |archiveurl=https://web.archive.org/web/20150402131023/http://www.dissertationtopic.net/doc/1133386 |archivedate=2015-04-02 |df= }}</ref>]]
+Condensation of [[ethoxymethylenemalononitrile]] ('''1''') with [[acetamidine]] ('''2''') affords the substituted [[pyrimidine]] ('''4'''). The rxn may well involve [[conjugate addition]] of the [[amidine]] nitrogen to the [[malononitrile]] followed by loss of ethoxide ('''3'''); addition of the remaining [[amidine]] nitrogen to one of the nitriles will then lead to the [[pyrimidine]] ('''4'''). Reduction of the nitrile gives the corresponding aminomethyl compound ('''5'''). Exhaustive [[methylation]] of the amin followed by displacement of the activated [[Quaternary ammonium cation|quaternary nitrogen]] by [[bromide ion]] affords the key intermediate ('''7'''). Displacement of the halogen by α-[[picoline]] gives amprolium.
+
+==References==
+<references/>
+
+[[Category:Antiprotozoal agents]]
+[[Category:Pyridines]]
+[[Category:Pyrimidines]]
+[[Category:Chlorides]]
+
+
+{{antiinfective-drug-stub}}

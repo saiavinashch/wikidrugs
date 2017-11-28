@@ -1,0 +1,66 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 460122980
+| IUPAC_name = 33-[(3-Amino-3,6-dideoxy-<small>D</small>-mannopyranosyl)oxy]-17-[6-(4-aminophenyl)-4-hydroxy-1,3-dimethyl-6-oxohexyl]-1,3,5,7,37-pentahydroxy-18-methyl-9,13,15-trioxo-16,39-dioxabicyclo[33.3.1]nonatriaconta-19,21,23,25,27,29,31-heptaene-36-carboxylic acid
+| image = Candicidin.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 1403-17-4
+| ATC_prefix = G01
+| ATC_suffix = AA04
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C59H84N2O18/c1-35-18-15-13-11-9-7-5-6-8-10-12-14-16-21-46(77-58-55(72)53(61)54(71)38(4)76-58)31-50-52(57(73)74)49(69)34-59(75,79-50)33-45(66)29-44(65)28-43(64)27-41(62)19-17-20-42(63)30-51(70)78-56(35)37(3)26-36(2)47(67)32-48(68)39-22-24-40(60)25-23-39/h5-16,18,21-25,35-38,43-47,49-50,52-56,58,64-67,69,71-72,75H,17,19-20,26-34,60-61H2,1-4H3,(H,73,74)/b6-5-,9-7-,10-8-,13-11-,14-12-,18-15-,21-16-/t35?,36?,37?,38-,43?,44?,45?,46?,47?,49?,50?,52?,53+,54-,55+,56?,58?,59?/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YKSVGLFNJPQDJE-WDANKXQLSA-N
+| PubChem = 441142
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB01152
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 10128184
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 48N2IYJ202
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1200647
+
+<!--Chemical data-->
+| C=59 | H=84 | N=2 | O=18
+| molecular_weight = 1109.32 g/mol
+| smiles = Nc1ccc(cc1)C(=O)CC(O)C(C)CC(C)C3OC(=O)CC(=O)CCCC(=O)CC(O)CC(O)CC(O)CC4(O)CC(O)C(C(=O)O)C(CC(OC2O[C@H](C)[C@@H](O)[C@H](N)[C@@H]2O)C=CC=CC=CC=CC=CC=CC=CC3C)O4
+}}
+
+'''Candicidin''' is an [[Antifungal medication|antifungal]] compound obtained from ''[[Streptomyces griseus]]''.  It is active against some fungi including ''[[Candida albicans]]''. Candicidin is administered intravaginally in the treatment of vulvovaginal [[candidiasis]].<ref>{{ cite web | title = Product information Candicidin | url = http://www.toku-e.com/Upload/Products/PDS/20120604006556.pdf | format = pdf | publisher = Toku-E | date = 2012-01-11 | accessdate = 2012-06-11 }}</ref>
+
+This [[Bioactive compounds|bioactive compound]] was named candicidin, because of its high activity on '' Candida albicans''.<ref>Selman A. Waksman, Hubert A. Lechevalier & Carl P. Schaffner: ''Candicidin and other Polyenic Antifungal Antibiotics'', 1965, 33, 219-226</ref>
+
+== References ==
+{{reflist}}
+
+{{Gynecological anti-infectives and antiseptics}}
+
+[[Category:Macrolides]]
+[[Category:Antifungals]]
+[[Category:Polyenes]]
+
+
+{{genito-urinary-drug-stub}}

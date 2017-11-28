@@ -1,0 +1,83 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 462093427
+| IUPAC_name = ''N''-(2-chloroethyl)-''N'''-cyclohexyl-''N''-nitrosourea
+| image = Lomustine.svg
+| width = 200
+| image2 = Lomustine ball-and-stick model.png
+| width2 = 175
+
+<!--Clinical data-->
+| tradename = Gleostine
+| Drugs.com = {{drugs.com|monograph|lomustine}}
+| MedlinePlus = a682207
+| pregnancy_category = D 
+| legal_status = ℞-only
+| routes_of_administration = Oral ([[Capsule (pharmacy)|capsules]])
+
+<!--Pharmacokinetic data-->
+| bioavailability = ~100%
+| protein_bound = 50%
+| metabolism = [[Liver]]
+| metabolites = Monoxydroxylated metabolites, ''trans''-4-hydroxy-CCNU, ''cis''-4-hydroxy-CCNU<ref>{{cite journal | last1 = Lee | first1 = FY | last2 = Workman | first2 = P | last3 = Roberts | first3 = JT | last4 = Bleehen | first4 = NM | title = Clinical Pharmacokinetics of Oral CCNU (lomustine) | journal = Cancer Chemotherapy and Pharmacology | date = 1985 | volume = 14 | issue = 2 | pages = 125–31 | pmid = 3971475 | accessdate = 15 July 2016 | doi=10.1007/bf00434350}}</ref> 
+| elimination_half-life = 16–48 hours (metabolites)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7214
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 13010-47-4
+| ATC_prefix = L01
+| ATC_suffix = AD02
+| ATC_supplemental =  
+| PubChem = 3950
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01206
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3813
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 7BRF0Z81KG
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00363
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 6520
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 514
+
+<!--Chemical data-->
+| C=9 | H=16 | Cl=1 | N=3 | O=2
+| molecular_weight = 233.695 g/mol
+| smiles = O=C(NC1CCCCC1)N(N=O)CCCl
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C9H16ClN3O2/c10-6-7-13(12-15)9(14)11-8-4-2-1-3-5-8/h8H,1-7H2,(H,11,14)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GQYIWUVLTXOXAJ-UHFFFAOYSA-N
+| synonyms = <small>1-(2-chloroethyl)-3-cyclohexyl-1-nitrosourea</small>
+| melting_point     = 90
+}}
+
+'''Lomustine''' ([[International Nonproprietary Name|INN]]), abbreviated '''CCNU''' (original brand name (formerly available) is '''CeeNU''', now marketed as '''Gleostine'''), is an [[alkylating antineoplastic agent|alkylating]] [[nitrosourea compounds|nitrosourea compound]] used in [[chemotherapy]]. It is closely related to [[semustine]] and is in the same family as [[streptozotocin]]. It is a highly lipid-soluble drug<ref name = "Drug Manual">{{cite web | title = BC Cancer Agency Cancer Drug Manual. Lomustine (CCNU; CeeNU) | url = http://www.bccancer.bc.ca/drug-database-site/Drug%20Index/Lomustine_monograph_1Apr07.pdf | accessdate = 15 July 2016}}</ref> and thus crosses the [[blood-brain barrier]]. This property makes it ideal for treating [[brain tumor]]s, which is its primary use. Lomustine has a long time to nadir (the time when [[white blood cell]]s reach their lowest number).
+
+Unlike [[carmustine]], lomustine is administered orally. It is a monofunctional alkylating agent, alkylates both [[DNA]] and [[RNA]], has the ability to cross-link DNA.<ref>{{cite book | editor1-last = Pizzo | editor1-first = PA | editor2-last = Poplack | editor2-first = DG | title = Principles and Practice of Pediatric Oncology | date = 2006 | publisher = Lippincott Williams & Wilkins | location = Philadelphia | isbn = 9780781754927 | page = 300 | edition = 5 | accessdate = 15 July 2016}}</ref> As with other nitrosoureas, it may also inhibit several key enzymatic processes by carbamoylation of amino acids in proteins.<ref name="PI">{{cite web | title = Gleostine (lomustine) Capsules, for Oral Use. Full Prescribing Information | url = http://www.nextsourcebiotechnology.com/docs/pi/Gleostine-PI.pdf | publisher = NextSource Biotechnology, LLC | accessdate = 15 July 2016}}</ref> Lomustine is [[Cell-cycle nonspecific antineoplastic agents|cell-cycle nonspecific]].
+
+==Rebranding==
+In 2014, the drug was re-launched and rebranded as Gleostine, manufactured by NextSource Biotechnology.<ref>{{cite web | title = NextSource Biotechnology Gains FDA Approval for Use of Tradename Gleostine (lomustine), an Anti-Cancer Chemotherapy Agent | url = http://www.prnewswire.com/news-releases/nextsource-biotechnology-gains-fda-approval-for-use-of-tradename-gleostine-lomustine-an-anti-cancer-chemotherapy-agent-270367311.html | website = www.prnewswire.com | publisher = NextSource Biotechnology | accessdate = 15 July 2016}}</ref><ref>{{cite web | title = Gleostine (lomustine) Capsules — Healthcare Providers | url = http://www.nextsourcebiotechnology.com/products/gleostine.aspx | publisher = NextSource Biotechnology | accessdate = 15 July 2016}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.fda.gov/Safety/MedWatch/SafetyInformation/Safety-RelatedDrugLabelingChanges/ucm155122.htm CeeNu (lomustine) Capsules] data sheet published by the [[Food and Drug Administration|FDA]]
+* {{MeshName|Lomustine}}
+* {{DiseasesDB|29525}}
+
+{{Chemotherapeutic agents}}
+
+[[Category:Alkylating antineoplastic agents]]
+[[Category:IARC Group 2A carcinogens]]
+[[Category:Nitrosamines]]
+[[Category:Nitrosoureas]]
+[[Category:Organochlorides]]
+[[Category:Cancer treatments]]
+
+{{antineoplastic-drug-stub}}

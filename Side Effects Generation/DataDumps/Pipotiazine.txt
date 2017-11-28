@@ -1,0 +1,100 @@
+{{Drugbox
+| IUPAC_name = 10-[3-[4-(2-hydroxyethyl)-1-piperidyl]propyl]-''N'',''N''-dimethyl-phenothiazine-2-sulfonamide
+| image = Pipotiazine.svg
+| width = 275
+
+<!--Clinical data-->
+| tradename = Piportil
+| Drugs.com = {{drugs.com|international|pipotiazine}}
+| pregnancy_category =  
+| legal_status = Rx-only
+| routes_of_administration = [[oral administration|Oral]], [[Intramuscular|IM]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7557
+| CAS_number = 39860-99-6
+| ATC_prefix = N05
+| ATC_suffix = AC04
+| PubChem = 62867
+| DrugBank = DB01621
+| ChemSpiderID = 56598
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = L903J9JPYV
+| KEGG = D08385
+| ChEMBL = 398880
+
+<!--Chemical data-->
+| C=24 | H=33 | N=3 | O=3 | S=2 
+| molecular_weight = 475.67 g/mol
+| smiles = CN(C)S(=O)(=O)C1=CC2=C(C=C1)SC3=CC=CC=C3N2CCCN4CCC(CC4)CCO
+}}
+
+'''Pipotiazine''' ('''Piportil'''), also known as '''pipothiazine''', is a [[typical antipsychotic]] of the [[phenothiazine]] class<ref>{{Cite journal | last1 = Bechelli | first1 = L. P. | last2 = Ruffino-Netto | first2 = A. | last3 = Hetem | first3 = G. | title = A double-blind controlled trial of pipotiazine, haloperidol and placebo in recently-hospitalized acute schizophrenic patients | journal = Brazilian Journal of Medical and Biological Research| volume = 16 | issue = 4 | pages = 305–311 | year = 1983 | pmid = 6143579}}</ref> used in the [[United Kingdom]] and other countries for the treatment of [[schizophrenia]].<ref>{{drugs.com|international|pipotiazine}}</ref> Its properties are similar to those of [[chlorpromazine]]. A 2004 [[systematic review]] investigated its efficacy for people with schizophrenia:
+{| class="wikitable"
+|+ Pipotiazine palmitate compared to oral antipsychotics for schizophrenia<ref name=Din2004>{{cite journal|last1=Dinesh| first1=M| last2=David|first2=A| first3=S| last3=Quraishi|title=Depot pipotiazine palmitate and undecylenate for schizophrenia|journal=Cochrane Database of Systematic Reviews|date=2004|volume=3|url=http://www.cochrane.org/CD001720/SCHIZ_depot-pipotiazine-palmitate-and-undecylenate-for-schizophrenia|pages=CD001720.pub2 |DOI=10.1002/14651858.CD001720.pub2}}</ref>
+|-
+! Summary
+|-
+|Although well-conducted and reported [[Randomized controlled trial|randomized trials]] are still needed to fully inform practice (no trial data exists reporting hospital and services outcomes, [[Quality of life|quality of life]], satisfaction with care and economics) pipotiazine palmitate is a viable choice for both clinician and person with schizophrenia.<ref name=Din2004/>
+|-
+| style="padding:0;" |
+{| class="wikitable collapsible collapsed" style="width:100%;"
+|-
+! scope="col" style="text-align: left;"| Outcome
+! scope="col" style="text-align: left;"| Findings in words
+! scope="col" style="text-align: left;"| Findings in numbers
+! scope="col" style="text-align: left;"| Quality of evidence
+|-
+! colspan="4" style="text-align: left;"| Global outcomes
+|-
+| No important clinical response<br>Follow-up: by 3 week) || There is no clear difference between people given pipotiazine palmitate and those receiving oral antipsychotics. These findings are based on data of low quality. || [[Relative risk|RR]] 2.57 (0.76 to 8.63) || [[The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach|Low]]
+|-
+| Leaving the study early<br>Follow-up: up to 5 weeks || Pipotiazine palmitate may increase the chance of leaving the study early but the difference difference between people given pipotiazine palmitate and those receiving oral antipsychotics is not clear. These findings are based on data of low quality. || [[Relative risk|RR]] 3.85 (0.46 to 32.22) || [[The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach|Low]]
+|-
+! colspan="4" style="text-align: left;"| [[Mental health|Mental state]]
+|-
+| Relapse<br>Follow-up: by 18 months) || Pipotiazine palmitate has not more - or less - effect on risk of relapse than oral antipsychotics. These findings are based on data of low quality. || [[Relative risk|RR]] 1.55 (0.76 to 3.18) || [[The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach|Low]]
+|-
+! colspan="4" style="text-align: left;"| [[Adverse event|Adverse effects]]
+|-
+| [[Tardive dyskinesia|Tardive dyskinesia]] || Oral antipsychotic drugs and pipotiazine palmitate carry similar risks of this problematic movement disorder. These findings are based on data of low quality. || [[Relative risk|RR]] 1.03 (0.22 to 4.92) || [[The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach|Low]]
+|-
+| [[Dystonia|Dystonia]] || Pipotiazine palmitate may slightly reduce the chance of experiencing this movement disorder but there is no clear difference between people given pipotiazine palmitate and those receiving oral antipsychotics. These findings are based on data of low quality.
+ || [[Relative risk|RR]] 0.32 (0.04 to 2.89) || [[The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach|Low]]
+|-
+|}
+|}
+
+== See also ==
+* [[Typical antipsychotic]]
+* [[Phenothiazine]]
+
+== References ==
+{{Reflist}}
+
+{{Antipsychotics}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Acetylcholine receptor modulators}}
+{{Adrenergic receptor modulators}}
+{{Dopamine receptor modulators}}
+{{Histamine receptor modulators}}
+{{Serotonin receptor modulators}}
+}}
+{{Tricyclics}}
+
+[[Category:Phenothiazines]]
+[[Category:Typical antipsychotics]]
+[[Category:Piperidines]]
+[[Category:Alcohols]]
+
+
+{{nervous-system-drug-stub}}

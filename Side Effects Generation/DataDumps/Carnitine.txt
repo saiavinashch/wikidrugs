@@ -1,0 +1,177 @@
+{{distinguish|carnosine|creatine}}
+{{multiple issues|{{Expert needed | Medicine|ex2=Chemistry|ex3=Molecular and Cellular Biology |talk=Edits of this date | reason= first, to address lack of authoritative coverage of the clinical uses of the agent (e.g., in [[Systemic primary carnitine deficiency|SPCD]]), second, to address the article's lack of information about the chemical entity (where it lacks nearly all detail on preparation, forms and properties, non-biologic uses, etc.) and, about the biosynthetic intermediate and nutrient <small>L</small>-carnitine (as further images and text on its bacterial, plant, and mammalian biochemistry are needed)|date=June 2017}}
+{{refimprove science|date=January 2016}}}}
+
+{{drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 460019989
+| IUPAC_name = 3-Hydroxy-4-(trimethylazaniumyl)butanoate
+| image = Carnitine.svg
+| width = 180
+| image2 = Carnitine-3D-structure.png
+
+<!--Clinical data-->
+| Drugs.com = {{drugs.com|CONS|carnitine}}
+| pregnancy_US = B
+| legal_US = OTC
+| routes_of_administration = [[Mouth|Oral]], [[Intravenous therapy|intravenous]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = <10%
+| protein_bound = None
+| metabolism = slightly
+| elimination_half-life =
+| excretion = Urine (>95%)
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 541-15-1
+| ATC_prefix = A16
+| ATC_suffix = AA01
+| ATC_supplemental = (<small>L</small> form)
+| PubChem = 288
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB00583
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 282
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0G389FZZ9M
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = C00318
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 17126
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 172513
+
+<!--Chemical data-->
+| C=7 | H=15 | N=1 | O=3
+| molecular_weight = 161.199 g/mol
+| smiles = C[N+](C)(C)CC(CC(=O)[O-])O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C7H15NO3/c1-8(2,3)5-6(9)4-7(10)11/h6,9H,4-5H2,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = PHIQHXFUZVPYII-UHFFFAOYSA-N
+}}
+
+'''Carnitine''' ('''β-hydroxy-γ-''N''-trimethylaminobutyric acid''', '''3-hydroxy-4-''N'',''N'',''N''- trimethylaminobutyrate''') is a [[quaternary ammonium compound]]<ref name="sports"/> involved in metabolism in most mammals, plants and some bacteria.<ref name="Bremer">{{cite journal|last1=Bremer|first1=J.|title=Carnitine--metabolism and functions|journal=Physiological Reviews|date=1 October 1983|volume=63|issue=4|pages=1420–1480|pmid=6361812|issn=0031-9333}}</ref> Carnitine may exist in two isomers, labeled <small>D</small>-carnitine and <small>L</small>-carnitine, as they are optically active.  At room temperature, pure carnitine is a white powder, and a water-soluble [[zwitterion]] with low toxicity.  Carnitine only exists in animals as the <small>L</small>-enantiomer, and <small>D</small>-carnitine is toxic because it inhibits the activity of <small>L</small>-carnitine.<ref>{{cite web|last1=Harmeyer|first1=J|title=The Phystiological Role of L-Carntine |url=http://lohmann-information.de/content/l_i_27_article_3.pdf|publisher=Lohmann Information}}</ref>  Carnitine was discovered in 1905 as a result of its high concentration in muscle tissue. It was originally labeled vitamin B<sub>T</sub>; however, because carnitine is synthesized in the human body, it is no longer considered a vitamin.<ref name="Bremer"/>  Carnitine can be synthesized by most humans; about 1 in 350 males is unable to synthesize it due to genetic causes on the X chromosome.<ref>Patrícia B. S. Celestino-Soper et al., A common X-linked inborn error of carnitine biosynthesis may be a risk factor for nondysmorphic autism, PNAS 109(21), 2012, pp. 7974–7981. {{doi|10.1073/pnas.1120210109}}, http://www.pnas.org/content/109/21/7974.full</ref><ref>Researchers investigate possible link between carnitine deficiency and autism, https://medicalxpress.com/news/2017-07-link-carnitine-deficiency-autism.html</ref> Carnitine is involved in the oxidation of [[fatty acid]]s, and involved in [[systemic primary carnitine deficiency]].  It has been studied for preventing and treating other conditions, and is used as a purported [[performance enhancing drug]].<ref name="sports">{{cite journal|last1=Karlic|first1=Heidrun|last2=Lohninger|first2=Alfred|title=Supplementation of l-carnitine in athletes: does it make sense?|journal=Nutrition|date=1 July 2004|volume=20|issue=7-8|pages=709–715|doi=10.1016/j.nut.2004.04.003|url=https://www.researchgate.net/publication/8495002_Supplementation_of_L-carnitine_in_athletes_Does_it_make_sense?enrichId=rgreq-ae5cdb7fa63726b4448f558bcde63c0f-XXX&enrichSource=Y292ZXJQYWdlOzg0OTUwMDI7QVM6OTg4MDgzMzU2OTk5ODVAMTQwMDU2OTE1MTkzOQ%3D%3D&el=1_x_2&_esc=publicationCoverPdf|language=en|issn=0899-9007}}</ref>
+
+== Biosynthesis and metabolism ==
+{{Main|carnitine biosynthesis}}
+Many eukaryotes have the ability to synthesize carnitine, including humans.  Humans synthesize carnitine from the substrate TML (6-''N''-trimethyllysine), which is in turn derived from the [[methylation]] of the amino acid [[lysine]].  TML is then hydroxylated into hydroxytrimethyllysine (HTML) by [[trimethyllysine dioxygenase]], requiring the presence of [[ascorbic acid]].  HTML is then cleaved by HTML aldose, yielding 4-trimethylaminobutyraldehyde (TMABA) and [[glycine]].  TMABA is then [[dehydrogenated]] into gamma-butyrobetaine, in an NAD<sup>+</sup>-dependent reaction, catalyzed by TMABA dehydrogenase.  Gamma-butyrobetaine is then hydroxylated by gamma butyrobetaine hydroxylase into <small>L</small>-carnitine, requiring iron in the form of [[Ferrous|Fe<sup>2+</sup>]].<ref name="synthesis">{{cite journal|last1=Strijbis|first1=Karin|last2=Vaz|first2=Frédéric M.|last3=Distel|first3=Ben|title=Enzymology of the carnitine biosynthesis pathway|journal=IUBMB Life|date=1 May 2010|volume=62|issue=5|pages=357–362|doi=10.1002/iub.323|url=http://onlinelibrary.wiley.com/doi/10.1002/iub.323/epdf|language=en|issn=1521-6551}}</ref>
+
+Carnitine is involved in transporting fatty acids across the mitochondrial membrane, by forming a long chain acetylcarnitine ester and being transported by [[carnitine palmitoyltransferase I]] and [[carnitine palmitoyltransferase II]].<ref name="Role of carnitine in disease">{{cite journal|last1=Flanagan|first1=Judith L|last2=Simmons|first2=Peter A|last3=Vehige|first3=Joseph|last4=Willcox|first4=Mark DP|last5=Garrett|first5=Qian|title=Role of carnitine in disease|journal=Nutrition & Metabolism|date=16 April 2010|volume=7|pages=30|doi=10.1186/1743-7075-7-30|pmc=2861661|issn=1743-7075}}</ref>  Carnitine also plays a role in stabilizing [[Acetyl-CoA]] and [[coenzyme A]] levels through the ability to receive or give an acetyl group.<ref name="sport"/>
+
+== Physiological effects ==
+
+===Deficiency===
+{{see|Systemic primary carnitine deficiency}}
+Carnitine deficiency caused by a genetic defect in carnitine transport occurs in roughly 1 in 50,000 in the US.  [[Systemic primary carnitine deficiency]] (SPDC) is characterized by various cardiological, metabolic and musculoskeletal symptoms that vary widely in age of onset and presentation.  Prognosis is generally good with carnitine supplementation.<ref>{{cite journal|last1=Magoulas|first1=Pilar L.|last2=El-Hattab|first2=Ayman W.|title=Systemic primary carnitine deficiency: an overview of clinical manifestations, diagnosis, and management|journal=Orphanet Journal of Rare Diseases|date=1 January 2012|volume=7|pages=68|doi=10.1186/1750-1172-7-68|url=https://ojrd.biomedcentral.com/articles/10.1186/1750-1172-7-68|issn=1750-1172}}</ref>
+
+Secondary carnitine deficiency may occur due to conditions such as malnutrition, poor absorption or access to only vegetables.<ref name="Role of carnitine in disease"/>
+
+===Supplementation===
+
+Some research has been carried out on carnitine supplementation in athletes, given its role in fatty acid metabolism; however, individual responses varied significantly in the 300 people involved in one study.{{vague|date=February 2017}}<ref name="sport"/>  Carnitine has been studied in various cardiometabolic conditions, with a bit of evidence pointing towards efficacy as an adjunct in [[heart disease]] and [[diabetes]].  However, there are insufficient trials to determine its efficacy.<ref>{{cite journal|last1=Mingorance|first1=Carmen|last2=Rodríguez-Rodríguez|first2=Rosalía|last3=Justo|first3=María Luisa|last4=Álvarez de Sotomayor|first4=María|last5=Herrera|first5=María Dolores|title=Critical update for the clinical use of L-carnitine analogs in cardiometabolic disorders|journal=Vascular Health and Risk Management|date=1 January 2011|volume=7|pages=169–176|doi=10.2147/VHRM.S14356|pmc=3072740|issn=1176-6344}}</ref>  Carnitine has no effect on preventing mortality associated with cardiovascular conditions.<ref>{{cite journal|last1=Shang|first1=Ruiping|last2=Sun|first2=Zhiqi|last3=Li|first3=Hui|title=Effective dosing of L-carnitine in the secondary prevention of cardiovascular disease: a systematic review and meta-analysis|journal=BMC Cardiovascular Disorders|date=21 July 2014|volume=14|pages=88|doi=10.1186/1471-2261-14-88|pmid=25044037|issn=1471-2261}}</ref>  Carnitine has no effect on serum lipids, except a possible lowering of [[LDL]]<ref>{{cite journal|last1=Huang|first1=Haohai|last2=Song|first2=Lijun|last3=Zhang|first3=Hua|last4=Zhang|first4=Hanbin|last5=Zhang|first5=Jiping|last6=Zhao|first6=Wenchang|title=Influence of L-carnitine supplementation on serum lipid profile in hemodialysis patients: a systematic review and meta-analysis|journal=Kidney & Blood Pressure Research|date=1 January 2013|volume=38|issue=1|pages=31–41|doi=10.1159/000355751|pmid=24525835|issn=1423-0143}}</ref>  Carnitine has no effect on most parameters in end stage kidney disease, however it possibly has an effect on [[c-reactive protein]].  The effects on mortality and disease outcome are unknown.<ref>{{cite journal|last1=Chen|first1=Yizhi|last2=Abbate|first2=Manuela|last3=Tang|first3=Li|last4=Cai|first4=Guangyan|last5=Gong|first5=Zhixiang|last6=Wei|first6=Ribao|last7=Zhou|first7=Jianhui|last8=Chen|first8=Xiangmei|title=L-Carnitine supplementation for adults with end-stage kidney disease requiring maintenance hemodialysis: a systematic review and meta-analysis|journal=The American Journal of Clinical Nutrition|date=1 February 2014|volume=99|issue=2|pages=408–422|doi=10.3945/ajcn.113.062802|pmid=24368434|issn=1938-3207}}</ref>
+
+'''<big>Male infertility</big>'''
+
+The carnitine content of seminal fluid is directly related to sperm count and motility, suggesting that the compound might be of value in treating male infertility. Several studies indicate that carnitine supplementation (2–3 grams/day for 3–4 months) may improve sperm quality, and one randomized, double-blind crossover trial found that 2 grams/day of carnitine taken for 2 months by 100 infertile men increased the concentration and both total and forward motility of their sperm. The reported benefits may relate to increased mitochondrial fatty-acid oxidation (providing more energy for sperm) and reduced cell death in the testes.
+
+===Atherosclerosis===
+
+An important interaction between diet and the intestinal microbiome brings into play additional metabolic factors that aggravate atherosclerosis beyond dietary cholesterol. This may help to explain some benefits of the Mediterranean diet. Hazen’s group from the Cleveland Clinic reported that carnitine<ref>{{cite journal|last1=Koeth|first1=RA|last2=Wang|first2=Z|last3=Levison|first3=BS, et al|title= Intestinal microbiota metabolism of <small>L</small>-carnitine, a nutrient in red meat, promotes atherosclerosis|journal=Nat Med.|date= 2013|volume=19|issue=5|pages=576–85|url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3650111}}</ref> from animal flesh (four times as much in red meat as in fish or chicken), as well as phosphatidylcholine from egg yolk, are converted by intestinal bacteria to trimethylamine (the compound that causes uremic breath to smell fishy). Trimethylamine is oxidized in the liver to [[trimethylamine N-oxide|trimethylamine ''N''-oxide]] (TMAO), which causes atherosclerosis in animal models. Patients in the top quartile of TMAO had a 2.5-fold increase in the 3-year risk of stroke, death, or myocardial infarction.
+
+A key issue is that vegans who consumed <small>L</small>-carnitine did not produce TMAO because they did not have the intestinal bacteria that produce TMA from carnitine.<ref>{{cite journal|last1=Spence|first1=J. David|title=REVIEW, Recent advances in pathogenesis, assessment, and treatment of atherosclerosis [version 1; referees: 3 approved]|journal=F1000Research 2016|date=Last updated: 28 JUL 2016|volume=5(F1000 Faculty Rev):1880|url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4965699/pdf/f1000research-5-9109.pdf|issn=1938-3207}}</ref>
+
+== Sources ==
+
+=== Food ===
+{{refimprove section|date=January 2016}}
+{{Cleanup|reason=Lists are both redundant (presenting same items in list and table) and largely unsourced, and so violating [[WP:VERIFY]] |date=January 2016}}
+
+=== Sources of carnitine ===
+Animal products like meat, fish, poultry, and milk are the best sources. In general, the redder the meat, the higher its carnitine content. Dairy products contain carnitine primarily in the whey fraction, in small amounts relative to red meat.<ref>Rebouche CJ. Carnitine. In: Modern Nutrition in Health and Disease, 9th Edition (edited by Shils ME, Olson JA, Shike M, Ross, AC). Lippincott Williams and Wilkins, New York, 1999, pp. 505-12.</ref><ref>Carnitine: lessons from one hundred years of research. Ann NY Acad Sci 2004;1033:ix-xi.</ref><ref>National Research Council. Food and Nutrition Board. Recommended Dietary Allowances, 10th Edition. National Academy Press, Washington, DC, 1989.</ref>
+The carnitine content of several foods is listed in Table 1.
+{| class="wikitable"
+|+Table 1: Selected food sources of carnitine [1]
+!Food
+!Milligrams (mg)
+|-
+|Beef steak, cooked, 4 ounces
+|56–162
+|-
+|Ground beef, cooked, 4 ounces
+|87–99
+|-
+|Milk, whole, 1 cup
+|8
+|-
+|Codfish, cooked, 4 ounces
+|4–7
+|-
+|Chicken breast, cooked, 4 ounces
+|3–5
+|-
+|Ice cream, ½ cup
+|3
+|-
+|Cheese, cheddar, 2 ounces
+|2
+|-
+|Whole–wheat bread, 2 slices
+|0.2
+|-
+|Asparagus, cooked, ½ cup
+|0.1
+|}
+Carnitine occurs in two forms, known as D and L, that are mirror images (isomers) of each other. Only L-carnitine is active in the body and is the form found in food [1,6].
+<ref>Institute of Medicine. Food and Nutrition Board. Dietary Reference Intakes. 2005. http://www.iom.edu/project.asp?id=4574</ref><ref>Stanley CA. Carnitine deficiency disorders in children. Ann NY Acad Sci 2004;1033:42-51.</ref><ref>Rebouche CJ. Kinetics, pharmacokinetics, and regulation of L-carnitine and acetyl-L-carnitine metabolism. Ann NY Acad Sci 2004;1033:30-41.</ref>
+However, even strict vegetarians (vegans) show no signs of carnitine deficiency, despite the fact that most dietary carnitine is derived from animal sources.<ref name="lpi.oregonstate.edu">{{cite web|url=http://lpi.oregonstate.edu/infocenter/othernuts/carnitine/|title=L-Carnitine – Linus Pauling Institute – Oregon State University|publisher=}}</ref><ref name="Lombard 301–306">{{Cite journal|last=Lombard|first=K. A.|last2=Olson|first2=A. L.|last3=Nelson|first3=S. E.|last4=Rebouche|first4=C. J.|date=1989-08-01|title=Carnitine status of lactoovovegetarians and strict vegetarian adults and children|journal=The American Journal of Clinical Nutrition|volume=50|issue=2|pages=301–306|issn=0002-9165|pmid=2756917}}</ref> No advantage appears to exist in giving an oral dose greater than 2&nbsp;g at one time, since [[absorption (small intestine)|absorption]] studies indicate [[wikt:saturation|saturation]] at this dose.<ref>{{Cite journal|title = Disposition and metabolite kinetics of oral L-carnitine in humans|journal = Journal of Clinical Pharmacology|date = 2006-10-01|issn = 0091-2700|pmid = 16988205|pages = 1163–1170|volume = 46|issue = 10|doi = 10.1177/0091270006292851|first = Marcus A.|last = Bain|first2 = Robert W.|last2 = Milne|first3 = Allan M.|last3 = Evans}}</ref>
+
+=== Health Canada ===
+Other sources may be found in over-the-counter [[vitamins]], [[energy drink]]s and various other products.  Products containing <small>L</small>-carnitine can now be marketed as "natural health products" in [[Canada]]. As of 2012, [[Parliament of Canada|Parliament]] has allowed carnitine products and supplements to be imported into Canada ([[Health Canada]]). The Canadian government did issue an amendment in December 2011 allowing the sale of <small>L</small>-carnitine without a prescription.<ref>{{cite web |url=http://www.gazette.gc.ca/rp-pr/p2/2011/2011-12-07/html/sor-dors275-eng.html |title=Regulations Amending the Food and Drug Regulations}}</ref>
+
+== History ==
+Levocarnitine was approved by the U.S. [[Food and Drug Administration]] as a [[New chemical entity|new molecular entity]] under the brand name Carnitor on December 27, 1985.<ref>[http://www.accessdata.fda.gov/drugsatfda_docs/nda/pre96/018948a_s016_071492.pdf FDA approval letter]</ref>
+
+== See also ==
+* [[Acetylcarnitine]]
+* [[Gamma-butyrobetaine dioxygenase]]
+* [[Glycine propionyl-L-carnitine|Glycine Propionyl-L-Carnitine (GPLC)]]
+* [[Meldonium]]
+* [[Systemic primary carnitine deficiency]]
+
+== References ==
+{{reflist|Male Infertility|refs=Menchini-Fabris GF, Canale D, Izzo PL, Olivieri L, Bartelloni M. Free L-carnitine in human semen: its variability in different andrologic pathologies. Fertil Steril 1984;42:263-7.
+Matalliotakis I, Koumantaki Y, Evageliou A, Matalliotakis G, Goumenou A, Koumantakis E. L-carnitine levels in the seminal plasma of fertile and infertile men: correlation with sperm quality. Int J Fertil Womens Med 2000;45:236-40.
+Costa M, Canale D, Filicori M, D’Iddio S, Lenzi A. L-carnitine in idiopathic asthenozoospermia: a multicenter study. Italian study group on carnitine and male infertility. Andrologia 1994;3:155-9.
+Vitali G, Parente R, Melotti C. Carnitine supplementation in human idiopathic asthenospermia: clinical results. Drugs Exp Clin Res 1995;21:157-9.
+Vicari E, Calogero AE. Effects of treatment with carnitines in infertile patients with prostato-vesiculo-epididymitis. Hum Reprod 2001;16:2338-42.
+Lenzi A, Lombardo F, Sgrò P, Salacone P, Caponecchia L, Dondero F, Gandini L. Use of carnitine therapy in selected cases of male factor infertility: a double-blind crossover trial. Fertil Steril 2003;79:292-300.
+Ng CM, Blackman MR, Wang C, Swerdloff RS. The role of carnitine in the male reproductive system. Ann NY Acad Sci 2004;1033:177-88}}
+
+== Further reading ==
+The following are good secondary sources on the subject of this article.
+* {{cite journal | last1 = Bremer | first1 = J | year = 1983 | title = Carnitine—Metabolism and Functions | journal = Physiol. Rev. | volume = 63 | issue = 4| pages = 1420–1480 | url = http://physrev.physiology.org/content/63/4/1420 | access-date = 22 January 2016 | pmid = 6361812 }}
+* {{cite book |last1=Stanley |first1=Charles A. |last2=Bennett |first2=Michael J. |last3=Longo |first3=Nicolo |editor1-first=C.W. |editor1-last=Scriver |editor2-first=A.L. |editor2-last=Beaudet |editor3-first=W.S.|editor3-last=Sly |editor4-first=D.|editor4-last=Valle |others= |title=Metabolic and Molecular Bases of Inherited Disease |edition=8th |year=2000 |publisher=McGraw Hill|location=New York, NY, USA | doi = 10.1036/ommbid.297 | isbn=0-07-913035-6  |pages=  | chapter=Plasma Membrane Carnitine Transport Defect | url = http://ommbid.mhmedical.com/content.aspx?bookid=971&sectionid=62633497&jumpsectionID=62633503 | access-date = 22 January 2016 }}
+* {{cite journal |author1=Steiber A. |author2=J. Kerner |author3=C. Hoppel |title=Carnitine: a Nutritional, Biosynthetic, and Functional perspective |journal=Mol. Aspects Med. |volume=25 |issue=5–6 |pages=455–73 |year=2004 |doi=10.1016/j.mam.2004.06.006 | pmid = 15363636 }}
+* {{Cite journal | last1 = Marcovina | first1 = S. M. | last2 = Sirtori | first2 = C. | last3 = Peracino | first3 = A. | last4 = Gheorghiade | first4 = M. | last5 = Borum | first5 = P. | last6 = Remuzzi | first6 = G. | last7 = Ardehali | first7 = H. | doi = 10.1016/j.trsl.2012.10.006 | title = Translating the Basic Knowledge of Mitochondrial Functions to Metabolic Therapy: Role of L-Carnitine | journal = Translational Research | volume = 161 | issue = 2 | pages = 73–84 | year = 2013 | pmid =  23138103| pmc =3590819 }}
+* {{cite journal | author = Johri, A.M. | author2 = D.K. Heyland | author3 = M.F. Hétu | author4 = B. Crawford | author5 = J.D. Spence | last-author-amp = yes | year = 2014 | title = Carnitine Therapy for the Treatment of Metabolic Syndrome and Cardiovascular Disease: Evidence and Controversies | journal = Nutr. Metab. Cardiovasc. Dis. | format = print, online review | volume = 24 | issue = 8, Aug. | pages = 808–814 | doi = 10.1016/j.numecd.2014.03.007 | url = http://www.nmcd-journal.com/article/S0939-4753(14)00113-6/abstract | access-date = 22 January 2016 }}
+* {{cite journal |author1=Dambrova, M.  |author2=E. Liepinsh | year = 2015 | title = Risks and Benefits of Carnitine Supplementation in Diabetes | journal = Exp. Clin. Endocrinol. Diabetes | format = print, online review | volume = 123 | issue = 2, Feb. | pages = 95–100 | doi = 10.1055/s-0034-1390481 | url = https://www.thieme-connect.com/DOI/DOI?10.1055/s-0034-1390481 | access-date = 22 January 2016 }}
+* {{cite journal |author1=Brown, J. Mark  |author2=Stanley L. Hazen |title= The Gut Microbial Endocrine Organ: Bacterially Derived Signals Driving Cardiometabolic Diseases |journal=Annu. Rev. Med. | year=2015 |doi=10.1146/annurev-med-060513-093205 | volume=66 | pages=343–359 |pmid= 25587655 | pmc = 4456003  }}
+
+== External links ==
+* [https://ods.od.nih.gov/factsheets/Carnitine-HealthProfessional/ National Institutes of Health fact sheet on carnitine]
+* [http://www.chm.bris.ac.uk/motm/carnitine/Carnitine.htm Molecule of the Month] at [[University of Bristol]]
+
+{{Dietary supplement}}
+{{Antioxidants}}
+{{Other alimentary tract and metabolism products}}
+
+{{Authority control}}
+
+[[Category:Beta hydroxy acids]]
+[[Category:Quaternary ammonium compounds]]
+[[Category:Dietary supplements]]
+[[Category:Amino acids]]

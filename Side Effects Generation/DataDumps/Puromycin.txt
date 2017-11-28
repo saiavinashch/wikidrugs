@@ -1,0 +1,93 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464376480
+| ImageFile=Puromycin skeletal.svg
+| ImageSize=160
+| ImageFile1 = Puromycin 3D spacefill.png
+| ImageSize1 = 180
+| IUPACName=3'-deoxy-''N,N''-dimethyl-3'-[(''O''-methyl-<small>L</small>-tyrosyl)amino]adenosine
+| OtherNames=
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 4A6ZS6Q2CL
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 388623
+| InChI = 1/C22H29N7O5/c1-28(2)19-17-20(25-10-24-19)29(11-26-17)22-18(31)16(15(9-30)34-22)27-21(32)14(23)8-12-4-6-13(33-3)7-5-12/h4-7,10-11,14-16,18,22,30-31H,8-9,23H2,1-3H3,(H,27,32)/t14-,15+,16+,18+,22+/m0/s1
+| InChIKey = RXWNCPJZOCPEPQ-NVWDDTSBBO
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H29N7O5/c1-28(2)19-17-20(25-10-24-19)29(11-26-17)22-18(31)16(15(9-30)34-22)27-21(32)14(23)8-12-4-6-13(33-3)7-5-12/h4-7,10-11,14-16,18,22,30-31H,8-9,23H2,1-3H3,(H,27,32)/t14-,15+,16+,18+,22+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = RXWNCPJZOCPEPQ-NVWDDTSBSA-N
+| CASNo_Ref = {{cascite|changed|??}}
+| CASNo=53-79-2
+| CASNo_Comment = ([[free base]])
+| CASNo2_Ref = {{cascite|changed|??}}
+| CASNo2 = 58-58-2
+| CASNo2_Comment = (DiHCl)
+| PubChem = 439530
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 469912
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05653
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB08437
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 17939
+| SMILES = O=C(N[C@@H]3[C@H](O[C@@H](n2cnc1c2ncnc1N(C)C)[C@@H]3O)CO)[C@@H](N)Cc4ccc(OC)cc4
+| MeSHName=Puromycin
+  }}
+|Section2={{Chembox Properties
+| C=22 | H=29 | N=7 | O=5 
+| MolarMass=471.50956
+| Appearance=
+| Density=
+| MeltingPt=
+| BoilingPt=
+| Solubility=
+  }}
+|Section3={{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| AutoignitionPt =
+  }}
+}}
+
+'''Puromycin''' is an [[antibiotic]] that is a [[protein synthesis inhibitor]] by inhibiting translation.  Causes premature chain termination during translation taking place in the ribosome.
+
+== Inhibition of translation ==
+
+Puromycin is an [[nucleoside|aminonucleoside]] [[antibiotic]], derived from the ''[[Streptomyces alboniger]]'' bacterium,<ref>[http://www.fermentek.co.il/puromycin.htm Puromycin ] from [[Fermentek]]</ref> that causes premature chain termination during translation taking place in the [[ribosome]]. Part of the molecule resembles the 3' end of the aminoacylated [[tRNA]]. It enters the A site and transfers to the growing chain, causing the formation of a puromycylated nascent chain and premature chain release.<ref>{{cite journal | author = Pestka, S. | year = 1971 | title = Inhibitors of ribosome functions | journal = Annu. Rev. Microbiol. | volume = 25 | pages = 487–562 | doi = 10.1146/annurev.mi.25.100171.002415 | pmid = 4949424}}</ref> The exact mechanism of action is unknown at this time but the 3' position contains an [[amide]] linkage instead of the normal [[ester]] linkage of [[tRNA]]. That makes the molecule much more resistant to [[hydrolysis]] and stops the [[ribosome]].
+
+Puromycin is selective for either [[prokaryotes]] or [[eukaryotes]].
+
+Also of note, puromycin is critical in [[mRNA display]]. In this reaction, a puromycin molecule is chemically attached to the end of an [[mRNA]] template, which is then translated into protein. The puromycin can then form a covalent link to the growing [[peptide]] chain allowing the mRNA to be physically linked to its translational product.
+
+Antibodies that recognize puromycylated nascent chains can also be used to purify newly synthesized polypeptides<ref>{{cite journal | vauthors=Eggers DK, Welch WJ, Hansen WJ | year = 1997 | journal = Mol Biol Cell | volume = 8 | pages = 1559–1573 | pmid = 9285825 | title = Complexes between nascent polypeptides and their molecular chaperones in the cytosol of mammalian cells | issue = 8 | pmc = 276176 | doi=10.1091/mbc.8.8.1559}}</ref> and to visualize the distribution of actively translating ribosomes by [[immunofluorescence]].<ref>{{cite journal | vauthors=Starck SR, Green HM, Alberola-Ila J, Roberts RW  | year = 2004 | title = A general approach to detect protein expression in vivo using fluorescent puromycin conjugates | journal = Chem. Biol. | volume = 11 | pages = 999–1008 | doi = 10.1016/j.chembiol.2004.05.011 | pmid = 15271358 | issue = 7}}</ref>
+
+== Peptidase Inhibitor ==
+Puromycin is a reversible inhibitor of dipeptidyl-peptidase II ([[Serine protease|serine peptidase]]) and cytosol alanyl aminopeptidase ([[metallopeptidase]]).<ref>{{cite book |first1=Pam M. |last1=Dando |first2=Nina E. |last2=Young |first3=Alan J. |last3=Barrett |chapter=Aminopeptidase PS: a Widely Distributed Cytosolic Peptidase |chapterurl=https://books.google.com/books?id=5gy5GU9eb4kC&pg=PA88 |pages=88–95 |editor1-first=Väinö K. |editor1-last=Hopsu-Havu |editor2-first=Mikko |editor2-last=Järvinen |editor3-first=Heidrun |editor3-last=Kirschke |year=1997 |title=Proteolysis in Cell Functions |publisher=IOS Press |isbn=978-90-5199-322-6 }}</ref><ref>{{cite journal |vauthors=McDonald JK, Reilly TJ, Zeitman BB, Ellis S |title=Dipeptidyl arylamidase II of the pituitary. Properties of lysylalanyl-beta-naphthylamide hydrolysis: inhibition by cations, distribution in tissues, and subcellular localization |journal=The Journal of Biological Chemistry |volume=243 |issue=8 |pages=2028–37 |year=1968 |pmid=5646493 |url=http://www.jbc.org/cgi/pmidlookup?view=long&pmid=5646493 }}</ref> The mechanism of inhibition is not well understood, however puromycin can be used to distinguish between aminopeptidase M (active) and cytosol alanyl aminopeptidase (inhibited by puromycin).
+
+== Cell culture ==
+Puromycin is used in cell biology as a selective agent in cell culture systems. It is toxic to prokaryotic and eukaryotic cells. Resistance to puromycin is conferred by the ''pac'' gene encoding a puromycin ''N''-acetyl-transferase (PAC) that was found in a Streptomyces producer strain. Puromycin is soluble in water (50&nbsp;mg/ml) as colorless solution at 10&nbsp;mg/ml. Puromycin is stable for one year as solution when stored at -20&nbsp;°C. The recommended dose as a selection agent in cell cultures is within a range of 1-10 μg/ml, although it can be toxic to eukaryotic cells at concentrations as low as 1 μg/ml. Puromycin acts quickly and can kill up to 99% of nonresistant cells within 2 days.{{citation needed|date=November 2015}}
+
+== Selection of ''Escherichia coli'' ==
+
+Puromycin is poorly active on ''E. coli''. Puromycin-resistant transformants are selected in LB agar medium supplemented with 125&nbsp;µg/ml of puromycin. But use of puromycin for ''E. coli'' selection requires precise pH adjustment and also depends on which strain is selected. For hassle–free selection and optimum results the use of specially modified puromycin is possible. Plates containing puromycin are stable for 1 month when stored at 4&nbsp;<ref>http://www.puromycin.com/protocols.htm</ref>°C.{{citation needed|date=November 2015}}
+
+== Selection of yeast ==
+
+Puromycin resistance in yeast can also be conferred through expression of the puromycin N-acetyl-transferase (''pac'') gene.<ref>{{cite journal |vauthors=MacDonald C, Piper RC |title=Puromycin- and methotrexate-resistance cassettes and optimized Cre-recombinase expression plasmids for use in yeast |journal=Yeast |volume=32 |issue=5 |pages=423–38 |year=2015 |pmid=25688547 |doi=10.1002/yea.3069 |pmc=4454448}}</ref> Lethal concentrations of puromycin are much higher for strains of ''Saccharomyces cerevisiae'' than mammalian cell lines. Deletion of the gene encoding the multidrug efflux pump Pdr5 sensitizes cells to puromycin.{{citation needed|date=November 2015}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* The [[MEROPS]] online database for peptidases and their inhibitors: [http://meropstest.sanger.ac.uk/cgi-bin/smi_summary?mid=J00019 Puromycin]
+
+{{Protein synthesis inhibitor antibiotics}}
+{{Peptide receptor modulators}}
+
+[[Category:Antibiotics]]
+[[Category:Nucleosides]]
+[[Category:Carboxamides]]

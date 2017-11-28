@@ -1,0 +1,69 @@
+{{enzyme
+| Name = Glucose oxidase
+| EC_number = 1.1.3.4
+| CAS_number = 9001-37-0
+| IUBMB_EC_number = 1/1/3/4
+| GO_code = 0046562
+| image =77_1gpe.png
+| width = 
+| caption = Structure of glucose oxidase dimer (dark and light blue) complexed with [[flavin adenine dinucleotide|FAD]] (salmon) and [[glycan]]s (aquamarine) from ''[[Penicillium amagasakiense]]''.<ref name = "Goodsell_2006">{{PDB|1gpe}}; {{cite web | url = http://www.rcsb.org/pdb/101/motm.do?momID=77 | title = Molecule of the Month: Glucose Oxidase | author = Goodsell D | work = RCSB Protein Data Bank | date = May 2006 | doi = 10.2210/rcsb_pdb/mom_2006_5 }}</ref> }}
+The '''glucose oxidase''' enzyme ('''GOx''') also known as '''notatin''' (EC number 1.1.3.4) is an [[Oxidoreductase|oxido-reductase]] that catalyses the oxidation of [[glucose]] to [[hydrogen peroxide]] and [[Glucono delta-lactone|D-glucono-δ-lactone]]. This enzyme is produced by certain species of fungi and insects and displays [[antibacterial]] activity when oxygen and glucose are present.<ref name = "Wong_2008">{{cite journal | vauthors = Wong CM, Wong KH, Chen XD | title = Glucose oxidase: natural occurrence, function, properties and industrial applications | journal = Applied Microbiology and Biotechnology | volume = 78 | issue = 6 | date = Apr 2008 | pmid = 18330562 | doi = 10.1007/s00253-008-1407-4 }}</ref>
+
+[[File:Glucose oxidase rxn.svg|thumb|left|600px|Reaction catalyzed by glucose oxidase]]
+{{clear|left}}
+Glucose oxidase is widely used for the determination of free glucose in body fluids ([[diagnostic]]s), in vegetal raw material, and in the food industry. It also has many applications in [[biotechnology|biotechnologies]], typically enzyme assays for [[biochemistry]] including [[biosensors]] in [[nanotechnologies]].<ref name=GOxTechData>{{cite web | url = http://www.interchim.fr/ft/1/12718A.pdf | title = Glucose Oxidase Technical sheet | publisher = [[Interchim]] }}</ref><ref name="ghoshdastider">{{cite journal | vauthors = Ghoshdastider U, Xu R, Trzaskowski B, Mlynarczyk K, Miszta P, Viswanathan S, Renugopalakrishnan V, Filipek S |  year = 2015 | title = Molecular Effects of Encapsulation of Glucose Oxidase Dimer by Graphene | journal = RSC Advances | volume = 5 | pages = 13570–8 | doi = 10.1039/C4RA16852F }}</ref> It was first isolated by [[Detlev_Müller|Detlev Müller]] in 1928 from ''[[Aspergillus niger]]''<ref>{{cite web|title=Detlev Müller discovers glucose oxidase|url=https://tacomed.com/chapter-x-modern-glucose-measuring/detlev-muller-discovers-glucose-oxidase/|website=Tacomed.com|accessdate=13 June 2017}}</ref>.
+
+== Function ==
+
+Glucose oxidase is synthesized in several species of fungi and insects where it is used to produce hydrogen peroxide which in turn kills bacteria.<ref name = "Wong_2008"/>
+
+'''Notatin''', extracted from antibacterial cultures of ''[[Penicillium notatum]]'', was originally named '''Penicillin A''', but was renamed to avoid confusion with [[penicillin]].<ref name=pmid16747849>{{cite journal | vauthors = Coulthard CE, Michaelis R, Short WF, Sykes G | title = Notatin: an anti-bacterial glucose-aerodehydrogenase from Penicillium notatum Westling and Penicillium resticulosum sp. nov | journal = The Biochemical Journal | volume = 39 | issue = 1 | pages = 24–36 | year = 1945 | pmid = 16747849 | pmc = 1258144 | doi =  10.1042/bj0390024}}</ref> Notatin was shown to be identical to '''Penicillin B''' and glucose oxidase, enzymes extracted from other molds besides ''P. notatum'';<ref name=pmid14915954>{{cite journal | vauthors = Keilin D, Hartree EF | title = Specificity of glucose oxidase (notatin) | journal = The Biochemical Journal | volume = 50 | issue = 3 | pages = 331–41 | date = Jan 1952 | pmid = 14915954 | pmc = 1197657 | doi =  10.1042/bj0500331}}</ref> it is now generally known as glucose oxidase.<ref name=JulioRaba/>
+
+Early experiments showed that notatin exhibits ''in vitro'' antibacterial activity (in the presence of glucose) due to hydrogen peroxide formation.<ref name=pmid16747849/><ref name=pmid19108091>{{cite journal | vauthors = Broom WA, Coulthard CE, Gurd MR, Sharpe ME | title = Some pharmacological and chemotherapeutic properties of notatin | journal = British Journal of Pharmacology and Chemotherapy | volume = 1 | issue = 4 | pages = 225–233 | date = Dec 1946 | pmid = 19108091 | pmc = 1509745 | doi = 10.1111/j.1476-5381.1946.tb00041.x }}</ref> ''In vivo'' tests showed that notatin was not effective in protecting rodents from ''[[Streptococcus haemolyticus]]'', ''[[Staphylococcus aureus]]'', or [[salmonella]], and caused severe tissue damage at some doses.<ref name=pmid19108091/>
+
+Glucose oxidase is also produced by the hypopharyngeal glands of [[worker bee|honeybee workers]] and deposited into honey where it acts as a natural preservative.  GOx at the surface of the honey reduces atmospheric O<sub>2</sub> to [[hydrogen peroxide]] (H<sub>2</sub>O<sub>2</sub>), which acts as an [[antimicrobial]] barrier.<ref>{{cite journal | vauthors = Bucekova M, Valachova I, Kohutova L, Prochazka E, Klaudiny J, Majtan J | title = Honeybee glucose oxidase--its expression in honeybee workers and comparative analyses of its content and H<sub>2</sub>O<sub>2</sub>-mediated antibacterial activity in natural honeys | journal = Die Naturwissenschaften | volume = 101 | issue = 8 | date = Aug 2014 | pmid = 24969731 | doi = 10.1007/s00114-014-1205-z }}</ref>
+
+== Structure ==
+
+GOx is a [[protein dimer|dimer]]ic protein, the 3D structure of which has been elucidated. The active site where glucose binds is in a deep pocket. The enzyme, like many proteins that act outside of cells, is covered with [[carbohydrate]] chains.
+
+== Mechanism ==
+
+At pH 7, glucose exists in solution in cyclic hemiacetal form as 63.6% β-D-glucopyranose and 36.4% α-D-glucopyranose, the proportion of linear and [[furanose]] form being negligible. The glucose oxidase binds specifically to β-D-glucopyranose and does not act on α-D-glucose. It is able to oxidise all of the glucose in solution because the equilibrium between the α and β anomers is driven towards the β side as it is consumed in the reaction.<ref name=GOxTechData />
+
+Glucose oxidase [[catalyst|catalyze]]s the oxidation of β-D-glucose into [[Glucono delta-lactone|D-glucono-1,5-lactone]], which then [[hydrolysis|hydrolyze]]s to [[gluconic acid]].
+
+In order to work as a catalyst, GOx requires a [[cofactor (biochemistry)|cofactor]], [[flavin adenine dinucleotide]] (FAD).  FAD is a common component in biological oxidation-reduction ([[redox|redox reaction]]s).  Redox reactions involve a gain or loss of electrons from a molecule.  In the GOx-catalyzed redox reaction, FAD works as the initial electron acceptor and is reduced to FADH<sub>2</sub>.  Then FADH<sub>2</sub> is oxidized by the final electron acceptor, molecular [[oxygen]] (O<sub>2</sub>), which can do so because it has a higher reduction potential.  O<sub>2</sub> is then reduced to [[hydrogen peroxide]] (H<sub>2</sub>O<sub>2</sub>).
+
+== Applications ==
+
+Glucose oxidase is widely used coupled to [[peroxidase]] reaction that visualizes colorimetrically the formed H<sub>2</sub>O<sub>2</sub>, for the determination of free glucose in [[Serum (blood)|sera]] or [[blood plasma]] for diagnostics, using spectrometric assays manually or with automated procedures, and even point of use rapid assays.<ref name=GOxTechData /><ref name=JulioRaba>{{cite journal | vauthors =J ulio Raba J, Mottola HA | title = Glucose Oxidase as an Analytical Reagent | journal = Critical Reviews in Analytical Chemistry | volume = 25 | issue = 1 | pages = 1–42 | year = 1995 | pmid = | doi =  10.1080/10408349508050556 | url = http://www.biosensing.net/EBLA/Corso/Lezione%2001/GOD.PDF }}</ref>
+
+Similar assays allows to monitor glucose levels in fermentation, bioreactors, and to control glucose in vegetal raw material and food products.{{Citation needed|date=August 2012}}  In the glucose oxidase assay, the glucose is first oxidized by glucose oxidase to produce gluconate and hydrogen peroxide. The hydrogen peroxide is then oxidatively coupled with a [[chromogen]] to produce a colored compound which may be measured spectroscopically. For example, hydrogen peroxide together with [[Ampyrone|4 amino-antipyrene]] (4-AAP) and phenol in the presence of peroxidase yield a red quinoeimine dye that can be measured at 505&nbsp;nm. The absorbance at 505&nbsp;nm is proportional to concentration of glucose in the sample.
+
+Enzymatic glucose [[biosensor]]s use an [[electrode]] instead of O<sub>2</sub> to take up the electrons needed to oxidize glucose and produce an electronic current in proportion to glucose concentration.<ref>{{cite journal | vauthors = Blanford CF | title = The birth of protein electrochemistry | journal = Chemical Communications | volume = 49 | issue = 95 | pages = 11130–11132 | date = Dec 2013 | pmid = 24153438 | doi = 10.1039/C3CC46060F | publisher = Royal Society of Chemistry }}</ref> This is the technology behind the disposable glucose sensor strips used by [[Diabetes mellitus|diabetic]]s to monitor serum glucose levels.<ref>{{cite journal | vauthors = Cass AE, Davis G, Francis GD, Hill HA, Aston WJ, Higgins IJ, Plotkin EV, Scott LD, Turner AP | title = Ferrocene-mediated enzyme electrode for amperometric determination of glucose | journal = Analytical Chemistry | volume = 56 | issue = 4 | pages = 667–671 | date = Apr 1984 | pmid = 6721151 | doi = 10.1021/ac00268a018 | publisher = American Chemical Society }}</ref>
+
+In manufacturing, GOx is used as an additive thanks to its oxidizing effects: it prompts for stronger dough in [[bakery]], replacing oxidants such as bromate.{{Citation needed|date=August 2012}} It also helps remove oxygen from food packaging, or D-glucose from egg white to prevent browning.{{Citation needed|date=August 2012}}
+
+== Clinical trials ==
+
+A nasal spray from a [[Aerosol spray#Non-Aerosol Packaging Alternatives|bag-on-valve]] device that mixes glucose oxidase with glucose is undergoing [[clinical trial]]s for the prevention and treatment of the [[common cold]].<ref name = "NCT01883427">{{ClinicalTrialsGov|NCT01883427|Nasal Spray With Glucose Oxidase Preventing Common Cold in Pre-school Children}}</ref><ref name = "NCT01883440">{{ClinicalTrialsGov|NCT01883440|Glucose Oxidase as Treatment Against Common Cold}}</ref><ref name = "NCT01883453">{{ClinicalTrialsGov|NCT01883453|A Nasal Spray With Glucose Oxidase as a Treatment of Common Cold}}</ref>
+
+== See also ==
+* [[Oxidoreductase]]
+* [[Glucose meter]]
+
+== References ==
+{{reflist|33em}}
+
+== External links ==
+* [http://www-biol.paisley.ac.uk/marco/enzyme_electrode/chapter3/chapter3_page1.htm "Glucose Oxidase:  A much used and much loved enzyme in biosensors"] at [[University of Paisley]]
+* {{MeshName|Glucose+Oxidase}}
+
+{{Alcohol oxidoreductases}}
+{{Enzymes}}
+{{Portal bar|Molecular and Cellular Biology|border=no}}
+
+{{DEFAULTSORT:Glucose Oxidase}}
+
+[[Category:EC 1.1.3]]

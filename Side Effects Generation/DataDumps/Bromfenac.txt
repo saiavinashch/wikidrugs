@@ -1,0 +1,102 @@
+{{Drugbox
+| verifiedrevid = 451820887
+| IUPAC_name = 2-[2-amino-3-(4-bromobenzoyl)phenyl]acetic acid
+| image = Bromfenac.svg
+<!--Clinical data-->
+| tradename = Bromday, Prolensa (US), Yellox (EU)
+| Drugs.com = {{drugs.com|monograph|bromfenac-sodium}}
+| MedlinePlus = a611018
+| pregnancy_US = C
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = Oral (discontinued),<br />[[eye drops|ophthalmic]]
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 99.8%
+| metabolism = [[CYP2C9]]
+| metabolites = [[Lactam]], others
+| elimination_half-life = 1.4 hours in [[aqueous humour]]
+| excretion = 82% urine, 13% [[faeces]]
+<!--Identifiers-->
+| IUPHAR_ligand = 7131
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 91714-94-2
+| ATC_prefix = S01
+| ATC_suffix = BC11
+| ATC_supplemental =  
+| PubChem = 60726
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00963
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 54730
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 864P0921DW
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07541
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 240107
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1077
+<!--Chemical data-->
+| C=15 | H=12 | Br=1 | N=1 | O=3
+| molecular_weight = 334.16 g/mol
+| SMILES = O=C(c1ccc(Br)cc1)c2cccc(c2N)CC(=O)O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C15H12BrNO3/c16-11-6-4-9(5-7-11)15(20)12-3-1-2-10(14(12)17)8-13(18)19/h1-7H,8,17H2,(H,18,19)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ZBPLOVFIXSTCRZ-UHFFFAOYSA-N
+| melting_point     = 284
+| melting_high      = 286
+| melting_notes     = (bromfenac sodium·1.5H<sub>2</sub>O)
+}}
+
+'''Bromfenac''' is a [[nonsteroidal anti-inflammatory drug]] (NSAID)<ref>{{Cite journal|last=Rovere|first=Giuseppe|last2=Nadal-Nicolás|first2=Francisco M.|last3=Sobrado-Calvo|first3=Paloma|last4=García-Bernal|first4=David|last5=Villegas-Pérez|first5=Maria Paz|last6=Vidal-Sanz|first6=Manuel|last7=Agudo-Barriuso|first7=Marta|date=2016-11-01|title=Topical Treatment With Bromfenac Reduces Retinal Gliosis and Inflammation After Optic Nerve Crush|journal=Investigative Ophthalmology & Visual Science|volume=57|issue=14|pages=6098–6106|doi=10.1167/iovs.16-20425|issn=1552-5783|pmid=27832276}}</ref> marketed in the US as an [[Ophthalmology|ophthalmic]] solution (current brand names '''Prolensa''' and '''Bromday''',<ref name="Drugs.com">[[Drugs.com]]: {{Drugs.com|monograph|bromfenac-sodium}} for bromfenac sodium.</ref> prior formulation brand name '''Xibrom''', which has since been discontinued) by [[ISTA Pharmaceuticals]] for short-term, local use. Prolensa and Bromday are the once-daily formulation of bromfenac, while Xibrom was approved for twice-daily administration. In Europe, the trade name is '''Yellox'''. Bromfenac is indicated for the treatment of ocular inflammation and pain after [[cataract surgery]].<ref name="AC">{{cite book|title=Austria-Codex|editor=Haberfeld, H|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2015|language=German}}</ref>
+
+==Medical use==
+The [[FDA]] and European approvals for bromfenac are for use one day before and two weeks following cataract surgery for the treatment of ocular inflammation and pain.<ref name="Drugs.com" /><ref name="AC" /> The drug has been shown to reduce [[macular edema]] and thickness of the [[retina]] (an indicator for inflammation) and improve visual acuity after surgery.<ref>{{cite journal|title=Topical bromfenac for prevention and treatment of cystoid macular edema following cataract surgery: a review|journal=Clinical ophthalmology (Auckland, N.Z.)|volume=10|pages=2099–2111|pmid=27822006|pmc=5087782|doi=10.2147/OPTH.S86971|year=2016|author1=Sheppard|first1=J. D.}}</ref>
+
+==Contraindications==
+Bromfenac is contraindicated for people with adverse reactions to NSAIDs, such as asthma or rashes.<ref name="AC" /><ref name="EPAR">{{cite web|title=Yellox Summary of Product Characteristics|publisher=[[European Medicines Agency]]|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/001198/WC500107575.pdf|date=11 January 2016}}</ref>
+
+==Side effects==
+Bromfenac eye drops are generally well tolerated. Comparatively common side effects in clinical studies included abnormal sensations in eye (0.5% of people treated with bromfenac), mild to moderate erosion of the [[cornea]] (0.4%), eye [[pruritus]] (0.4%), eye pain (0.3%) and redness (0.3%). Serious side effects such as [[corneal perforation]] were not reported in studies but only during post-marketing in less than one patient in 1000.<ref name="AC" /><ref name="EPAR" />
+
+==Interactions==
+No systematic interaction studies have been performed. There are no known cases of interactions with antibiotic eye drops.<ref name="AC" /><ref name="EPAR" /> [[Blood plasma]] levels remain very low during bromfenac therapy, so interactions with drugs taken by mouth are unlikely.
+
+==Pharmacology==
+===Mechanism of action===
+{{main|Nonsteroidal anti-inflammatory drug#Mechanism of action}}
+As an NSAID, bromfenac works by inhibiting [[prostaglandin]] synthesis by blocking the [[cyclooxygenase]] (COX) enzymes. It preferably acts on [[COX-2]] and only has a low affinity for [[COX-1]].<ref name="EPAR" />
+
+===Pharmacokinetics===
+[[File:Bromfenac cyclic amide.svg|thumb|Bromfenac [[lactam]], the main metabolite in urine]]
+Bromfenac is well absorbed through the cornea and reaches highest concentrations in the [[aqueous humour]] after 150 to 180 minutes, with a [[biological half-life]] of 1.4 hours and high drug levels being maintained for at least 12 hours. It is mainly concentrated in the aqueous humour and [[conjunctiva]], and much less in the [[lens (anatomy)|lens]] and [[vitreous body]].<ref name="AC" /><ref name="EPAR" />
+
+Concentrations in the blood plasma are too low to be measured quantitatively. 99.8% of the substance are bound to plasma proteins. The enzyme mainly responsible for [[metabolization]] of bromfenac is [[CYP2C9]], and metabolites include the [[lactam]] and several [[Conjugation (pharmacology)|conjugated]] compounds. 82% are excreted via the urine, and 13% via the [[faeces]].<ref name="AC" /><ref name="EPAR" />
+
+The high degree of penetration and potency of bromfenac can be attributed to the [[halogenation]] of the molecule: by adding a bromine the NSAID becomes highly lipophilic which allows for rapid, sustained drug levels in the ocular tissues.{{citation needed|date=December 2016}}
+
+==Chemistry==
+Along with [[indomethacin]], [[diclofenac]] and others, bromfenac belongs to the acetic acid group of NSAIDs. It is used in form of bromfenac sodium · 1.5 [[Water of crystallization|H<sub>2</sub>O]] ([[CAS number]]: {{CAS|120638-55-3}}), which is soluble in water, [[methanol]] and aqueous bases, insoluble in [[chloroform]] and aqueous acids, and melts at {{convert|284 to 286|C|F}} under decomposition.<ref>{{cite book|title=Arzneistoff-Profile|editor1=Dinnendahl, V |editor2=Fricke, U |publisher=Govi Pharmazeutischer Verlag|location=Eschborn, Germany|date=2012|edition=26|volume=2|isbn=978-3-7741-9846-3|language=German}}</ref>
+
+==History==
+For ophthalmic use, bromfenac has been prescribed more than 20,000,000 times across the world.<ref name="EPAR" /> As an eye drop, it has been available since 2000, starting in Japan where it was sold as ''Bronuck''.<ref>{{cite web|title=Ethical Products for Medical Professionals|publisher=Senju Pharmaceutical|access-date=11 December 2016|url=http://www.senju.co.jp/english/products/mp.html}}</ref> It was first FDA approved for use in the United States in 2005, and it was marketed as ''Xibrom'', twice-daily.<ref name="approval">{{Drugs.com|pro|xibrom}} for Xibrom.</ref> In October 2010 ''Bromday'' received FDA approval as a new, once-daily formulation.{{citation needed|date=December 2016}} More recently, in 2013, ''Prolensa'' has also been approved by the FDA.<ref name="approval" /> Bromfenac eye drops have been marketed in Europe since 2011<ref name="EPAR" /> and are available on worldwide markets with agreements from [[Bausch & Lomb]],<ref name="EPAR" /> [[Croma-Pharma]], and other companies.
+
+Bromfenac was formerly marketed in the United States by [[Wyeth-Ayerst]] in an oral formulation called ''Duract'' for short-term relief of pain (less than 10 days at a time). It was brought to market in July 1997 and was withdrawn 22 June 1998 following numerous reports of [[hepatotoxicity]] in patients who had taken the medication for longer than the recommended 10-day period.<ref>{{cite journal|title=Bromfenac(Duract)-associated hepatic failure requiring liver transplantation|journal=The American Journal of Gastroenterology|volume=94|issue=8|pages=2299|doi=10.1111/j.1572-0241.1999.01321.x|pmid=10445569|year=1999|last1=Hunter|first1=Ellen B.|last2=Johnston|first2=Philip E.|last3=Tanner|first3=Gordon|last4=Pinson|first4=C. Wright|last5=Awad|first5=Joseph A.}}</ref><ref>{{cite web|title=Duract (bromfenac) Information|publisher=[[FDA]]|url=http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm266677.htm|accessdate=11 December 2016}}</ref>
+
+==References==
+{{Reflist|35em}}
+
+==External links==
+* [https://web.archive.org/web/20110713070403/http://www.istavision.com/products/bromday.html Bromday homepage]
+
+{{Bromine compounds}}
+{{Prostanoidergics}}
+
+[[Category:Nonsteroidal anti-inflammatory drugs]]
+[[Category:Anilines]]
+[[Category:Benzophenones]]
+[[Category:Bromoarenes]]
+[[Category:Hepatotoxins]]
+[[Category:Acetic acids]]

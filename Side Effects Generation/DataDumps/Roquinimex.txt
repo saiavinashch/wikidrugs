@@ -1,0 +1,70 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 447995846
+| IUPAC_name = 4-hydroxy-''N'',1-dimethyl-2-oxo-''N''-<br>phenyl-1,2-dihydroquinoline-3-carboxamide
+| image = Roquinimex.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life = 26-42 hours
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 84088-42-6
+| ATC_prefix = L03
+| ATC_suffix = AX02
+| PubChem = 55197
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 372T2944C0
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 10619239
+
+<!--Chemical data-->
+| C=18 | H=16 | N=2 | O=3 
+| molecular_weight = 308.331 g/mol
+| smiles            = CN1C2=CC=CC=C2C(=C(C1=O)C(=O)N(C)C3=CC=CC=C3)O
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C18H16N2O3/c1-19(12-8-4-3-5-9-12)17(22)15-16(21)13-10-6-7-11-14(13)20(2)18(15)23/h3-11,21H,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = SGOOQMRIPALTEL-UHFFFAOYSA-N
+
+}}
+'''Roquinimex''' (Linomide) is a [[quinoline]] derivative [[immunostimulant]] which increases [[Natural killer cell|NK cell]] activity and [[macrophage]] [[cytotoxicity]]. It also inhibits [[angiogenesis]] and reduces the secretion of [[Tumor necrosis factor-alpha|TNF alpha]].
+
+Roquinimex has been investigated as a treatment for some cancers (including as adjuvant therapy after [[Hematopoietic stem cell transplantation|bone marrow transplantation]] in acute [[leukemia]]) and autoimmune diseases, such as [[multiple sclerosis]] and recent-onset [[Diabetes mellitus type 1|type I diabetes]]. Several trials have been terminated due to serious cardiovascular toxicity.
+
+==Synthesis==
+[[File:Roquinimex synthesis.svg|thumb|center|700px|Roquinimex synthesis:<ref>E. Eriksoo et al., {{Cite patent|EP|59698}}; eidem, {{US patent|4738971}} (1982, 1988 both to AB Leo).</ref>]]
+Ethyl 2-(methylamino)benzoate is condensed with [[ethyl malonate]]. Amine-ester ineterchange of that compound with [[N-methylaniline]] results in formation of the amide roquinimex.
+
+{{Immunostimulants}}
+
+==References==
+{{Reflist}}
+
+[[Category:Immunostimulants]]
+[[Category:2-Quinolones]]
+[[Category:Quinolinols]]
+[[Category:Carboxamides]]
+[[Category:Anilides]]
+
+
+{{antineoplastic-drug-stub}}

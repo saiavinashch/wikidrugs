@@ -1,0 +1,72 @@
+{{chembox
+| verifiedrevid = 443681733
+| ImageFile=Debrisoquine.svg
+| ImageSize=
+| IUPACName=1,2,3,4-tetrahydroisoquinoline-2-carboximidamide
+| OtherNames=
+| Reference=<ref>[https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=2966 Debrisoquine – Compound Summary], [[PubChem]].</ref>
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = X31CDK040E
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = C13650
+| InChI = 1/C10H13N3/c11-10(12)13-6-5-8-3-1-2-4-9(8)7-13/h1-4H,5-7H2,(H3,11,12)
+| InChIKey = JWPGJSVJDAJRLW-UHFFFAOYAE
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 169901
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H13N3/c11-10(12)13-6-5-8-3-1-2-4-9(8)7-13/h1-4H,5-7H2,(H3,11,12)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = JWPGJSVJDAJRLW-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo=1131-64-2
+| PubChem=2966
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2860
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 34665
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB04840
+| SMILES = [N@H]=C(N)N2Cc1c(cccc1)CC2
+| MeSHName=Debrisoquine
+  }}
+|Section2={{Chembox Properties
+| Formula=C<sub>10</sub>H<sub>13</sub>N<sub>3</sub>
+| MolarMass=175.23032
+| Appearance=
+| Density=
+| MeltingPt=
+| BoilingPt=
+| Solubility=
+  }}
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = C02
+| ATCCode_suffix = CC04
+}}
+|Section7={{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| AutoignitionPt =
+  }}
+}}
+
+'''Debrisoquine''' is a derivative of [[guanidine]].  It is an [[antihypertensive]] drug similar to [[guanethidine]]. Debrisoquine is frequently used for phenotyping the [[CYP2D6]] enzyme, a drug metabolizing enzyme.<ref>{{Cite journal | last1 = Fuhr | first1 = U. | last2 = Jetter | first2 = A. | last3 = Kirchheiner | first3 = J. | doi = 10.1038/sj.clpt.6100050 | title = Appropriate Phenotyping Procedures for Drug Metabolizing Enzymes and Transporters in Humans and Their Simultaneous Use in the "Cocktail" Approach | journal = Clinical Pharmacology & Therapeutics | volume = 81 | issue = 2 | pages = 270–283 | year = 2007 | pmid = | pmc = }}</ref>
+
+== See also ==
+* [[Isoquinoline#Applications of derivatives]]
+
+The [[guanidine]] part of the molecule also appears in [[guanoxan]] and [[guanadrel]].
+
+*The 7-bromo analog of Debrisoquine is called [[Guanisoquin]].
+
+== References ==
+{{reflist}}
+
+{{Antihypertensives and diuretics}}
+
+[[Category:Guanidines]]
+[[Category:Tetrahydroisoquinolines]]
+[[Category:Antihypertensive agents]]
+
+
+{{antihypertensive-stub}}

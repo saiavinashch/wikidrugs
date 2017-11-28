@@ -1,0 +1,82 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 461936008
+| IUPAC_name = ''N''-<nowiki/>{1-[2-(1''H''-indol-3-yl)ethyl]piperidin-4-yl}benzamide
+| image = Indoramin.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|indoramin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_UK = <!-- GSL         / P       / POM / CD -->
+| legal_US = <!-- OTC                   / Rx-only  -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 26844-12-2
+| ATC_prefix = C02
+| ATC_suffix = CA02
+| PubChem = 33625
+| IUPHAR_ligand = 501
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB08950 
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 31014
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0Z802HMY7H
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D04531
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 279516
+
+<!--Chemical data-->
+| C=22 | H=25 | N=3 | O=1 
+| molecular_weight = 347.454 g/mol
+| smiles = O=C(c1ccccc1)NC4CCN(CCc3c2ccccc2nc3)CC4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H25N3O/c26-22(17-6-2-1-3-7-17)24-19-11-14-25(15-12-19)13-10-18-16-23-21-9-5-4-8-20(18)21/h1-9,16,19,23H,10-15H2,(H,24,26)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = JXZZEXZZKAWDSP-UHFFFAOYSA-N
+}}
+'''Indoramin''' (trade names '''Baratol''' and '''Doralese''') is a [[piperidine]] [[antiadrenergic]] agent.
+
+It is an [[alpha-1 receptor|alpha-1]] selective adrenoceptor antagonist<ref name="pmid3955309">{{cite journal |vauthors=Pierce V, Shepperson NB, Todd MH, Waterfall JF |title=Investigation into the cardioregulatory properties of the alpha 1-adrenoceptor blocker indoramin |journal=Br. J. Pharmacol. |volume=87 |issue=2 |pages=433–441 |date=February 1986 |pmid=3955309 |pmc=1916533 |doi= 10.1111/j.1476-5381.1986.tb10834.x|url=}}</ref> with direct myocardial depression action; therefore, it results in no reflex [[tachycardia]]. It is also used in [[benign prostatic hyperplasia]] (BPH).<ref>{{cite web|url=http://www.medicines.org.uk/Guides/indoramin%20hydrochloride/prostatic%20hyperplasia%20(benign)|title=Indoramin 20mg tablets|publisher=''Medicines.org.uk''|date= April 20, 2011|accessdate=September 30, 2012}}</ref>
+
+It is commonly synthesized from [[tryptophol]].<ref>Ullman's encyclopedia of Industrial Chemistry, Sixth Edition, 2002.</ref>
+
+==Dosage==
+Indoramin is commonly prescribed as 20&nbsp;mg tablets when used in BPH.<ref>{{cite web|url=http://www.nhs.uk/medicine-guides/pages/MedicineOverview.aspx?condition=Prostatic%20hyperplasia%20(benign)&medicine=indoramin%20hydrochloride|title=Indoramin hydrochloride|publisher=''National Health Service (UK)''|accessdate=September 30, 2012}}</ref>
+
+==Side Effects==
+Drowsiness, dizziness, dry mouth, nasal congestion, headache, fatigue, weight gain, [[hypotension]], [[postural hypotension]], depression, problems with ejaculation, diarrhoea, nausea, increased need to pass urine, and [[palpitations]].<ref>{{cite web|url=http://www.medicines.org.uk/Guides/indoramin%20hydrochloride/prostatic%20hyperplasia%20(benign)|title=Indoramin 20mg tablets|publisher=''Medicines.org.uk''|accessdate=September 30, 2012}}</ref>
+
+==Synthesis==
+Tryptamine and serotonin are naturally occurring indole ethylamino compounds with pronounced pharmacological activities. They have served as the inspiration for synthesis of numerous analogues. 
+[[File:Indoramin synthesis.svg|thumb|center|700px|α1-Adrenergic blocking agent with antihypertensive and bronchodilating activity. Prepn:<ref>J. L. Archibald, J. L. Jackson, {{Cite patent|ZA|6803204}}; eidem, {{US patent|3527761}} (1969, 1970 both to [[Wyeth]]).</ref><ref>{{cite journal|doi=10.1021/jm00293a009|pmid=5115203|title=Synthesis and hypotensive activity of benzamidopiperidylethylindoles|journal=Journal of Medicinal Chemistry|volume=14|issue=11|pages=1054|year=1971|last1=Archibald|first1=J. L.|last2=Alps|first2=B. J.|last3=Cavalla|first3=J. F.|last4=Jackson|first4=J. L.}}</ref>]]
+One such study involved alkylation of 4-benzamidopyridine ('''2''') with 3-(2-Bromoethyl)-1H-indole ('''1''') to give quaternary salt ('''3'''); this intermediate was in turn hydrogenated with a [[Raney nickel]] catalyst to give indoramine ('''4''').
+
+==References==
+{{reflist}}
+
+{{Adrenergics}}
+{{Antihypertensives and diuretics}}
+
+[[Category:Alpha blockers]]
+[[Category:Indoles]]
+[[Category:Piperidines]]
+[[Category:Benzamides]]
+
+
+{{antihypertensive-stub}}

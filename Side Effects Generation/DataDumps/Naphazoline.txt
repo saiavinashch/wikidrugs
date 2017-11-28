@@ -1,0 +1,78 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 462258437
+| IUPAC_name = 2-(naphthalen-1-ylmethyl)-4,5-dihydro-1''H''-imidazole
+| image = Naphazoline.svg
+| width = 175
+| image2 = Naphazoline.png
+| width2 = 175
+
+<!--Clinical data-->
+| tradename = Naphcon-a
+| Drugs.com = {{drugs.com|monograph|naphazoline-hydrochloride}}
+| pregnancy_category =  
+| legal_status =  
+| routes_of_administration = Topical ([[solution]])
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5509
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 835-31-4
+| ATC_prefix = R01
+| ATC_suffix = AA08
+| ATC_supplemental = {{ATC|S01|GA01}}
+| PubChem = 4436
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB06711
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4283
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = H231GF11BV
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08253
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 761
+
+<!--Chemical data-->
+| C=14 | H=14 | N=2 
+| molecular_weight = 210.274
+| smiles = N\1=C(\NCC/1)Cc2cccc3c2cccc3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C14H14N2/c1-2-7-13-11(4-1)5-3-6-12(13)10-14-15-8-9-16-14/h1-7H,8-10H2,(H,15,16)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = CNIIGCLFLJGOGP-UHFFFAOYSA-N
+}}
+
+'''Naphazoline''' (in the hydrochloride form) is the common name for 2-(1-naphthylmethyl)-2-imidazoline hydrochloride. It is a [[sympathomimetic]] agent with marked [[Adrenergic receptor|alpha adrenergic]] activity. It is a [[vasoconstrictor]]  with a rapid action in reducing swelling when applied to [[mucous membrane]]. It acts on alpha-receptors in the [[arterioles]] of the [[conjunctiva]] to produce constriction, resulting in decreased congestion. It is an [[active ingredient]] in several over-the-counter formulations including '''Clear Eyes''' and '''Naphcon''' [[eye drop]]s.<ref>{{cite encyclopedia | author = Green, S. M. | year = 2008 | title = Ophthalmology: Naphazoline | encyclopedia = Tarascon Pocket Pharmacopoeia 2009 | publisher = Jones and Bartlett | isbn = 0-7637-6572-4 }}</ref>
+
+The non-hydrochloride form of Naphazoline has the [[Chemical formula|molecular formula]] C<sub>14</sub>H<sub>14</sub>N<sub>2</sub> and a [[molar mass]] of 210.28 g/mol. The HCl salt form has a molar mass of 246.73 g/mol.
+
+==Warnings and contraindications==
+A few warnings and [[contraindications]] that apply to all naphazoline-containing substances intended for medicinal use are:
+
+* Hypersensitivity to naphazoline
+* Patients taking [[Monoamine oxidase inhibitor|MAO inhibitors]] can experience a severe [[hypertension|hypertensive]] crisis if given a [[sympathomimetic]] drug such as naphazoline HCl
+* Use in infants and children can result in [[central nervous system]] depression, leading to coma and marked reduction in [[Thermoregulation|body temperature]]
+* Should be used with caution in patients with severe [[cardiovascular disease]] including [[cardiac arrhythmia]] and in patients with [[diabetes]], especially those with a tendency toward diabetic [[ketoacidosis]]
+* Drug interactions can occur with [[anaesthetics]] that sensitize the [[myocardium]] to sympathomimetics (e.g. [[cyclopropane]] or [[halothane]] cautiously)
+* Exercise caution when applying prior to use of [[phenylephrine]].
+* Extended use may cause [[rhinitis medicamentosa]], a condition of [[Rebound effect|rebound]] [[nasal congestion]].
+
+A possible association with stroke has been suggested.<ref name="pmid15476091">{{cite journal |author1=Zavala, J. A. |author2=Pereira, E. R. |author3=Zétola, V. H. |author4=Teive, H. A. |author5=Nóvak, E. M. |author6=Werneck, L. C. | title = Hemorrhagic stroke after naphazoline exposition: case report | journal = Arquivos de Neuro-Psiquiatria | year = 2004 | volume = 62 | issue = 3B | pages = 889–891 | pmid = 15476091 | doi = 10.1590/S0004-282X2004000500030  | url = http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0004-282X2004000500030&lng=en&nrm=iso&tlng=en }}</ref>
+
+==References==
+{{reflist}}
+
+{{Adrenergic agonists}}
+{{Nasal preparations}}
+
+[[Category:Alpha-adrenergic agonists]]
+[[Category:Decongestants]]
+[[Category:Imidazolines]]
+[[Category:Naphthalenes]]

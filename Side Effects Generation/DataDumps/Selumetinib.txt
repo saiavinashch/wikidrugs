@@ -1,0 +1,131 @@
+{{drugbox
+| verifiedrevid = 416014858
+| IUPAC_name = 6-(4-bromo-2-chloroanilino)-7-fluoro-N-(2-hydroxyethoxy)-3-methylbenzimidazole-5-carboxamide
+| image = Selumetinib skeletal.svg
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 8303141
+| smiles = CN1C=NC2=C1C=C(C(=C2F)NC3=C(C=C(C=C3)Br)Cl)C(=O)NOCCO
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H15BrClFN4O3/c1-24-8-21-16-13(24)7-10(17(26)23-27-5-4-25)15(14(16)20)22-12-3-2-9(18)6-11(12)19/h2-3,6-8,22,25H,4-5H2,1H3,(H,23,26)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = CYOHGALHFOKKQC-UHFFFAOYSA-N
+| CAS_number = 606143-52-6
+| ChEBI = 90227
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1614701
+| ATC_prefix = None
+| ATC_suffix = 
+| ATC_supplemental = 
+| synonyms = AZD6244, ARRY-142886
+| UNII = 6UH91I579U
+| PubChem = 10127622
+| IUPHAR_ligand = 5665
+| DrugBank = 
+| KEGG = D09666
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| C=17 | H=15 | Br=1 | Cl=1 | F=1 | N=4 | O=3
+| molecular_weight = 457.68 g/mol
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| pregnancy_category = 
+| legal_status = Investigational
+| routes_of_administration = 
+}}
+'''Selumetinib''' ('''AZD6244''') is a [[medical drug|drug]] that was discovered by [[Array BioPharma]] and was licensed to [[AstraZeneca]].  It is being investigated for the treatment of various types of cancer, such as [[non-small cell lung cancer]] (NSCLC).
+
+==Mechanism of action==
+The gene [[BRAF gene|''BRAF'']] is part of the [[MAPK/ERK pathway]], a chain of proteins in cells that communicates input from [[growth factor]]s. Activating mutations in the ''BRAF'' gene, primarily V600E (meaning that the amino acid [[valine]] in position 600 is replaced by [[glutamic acid]]), are associated with lower survival rates in patients with [[papillary thyroid cancer]]. Another type of mutation that leads to undue activation of this pathway occurs in the gene ''[[KRAS]]'' and is found in NSCLC. A possibility of reducing the activity of the MAPK/ERK pathway is to block the enzyme [[MAPK kinase]] (MEK), immediately downstream of ''BRAF'', with the drug selumetinib. More specifically, selumetinib blocks the subtypes [[MEK1]] and [[MEK2]] of this enzyme.<ref name="Troiani">{{Cite journal 
+| last1 = Troiani | first1 = T. 
+| last2 = Vecchione | first2 = L. 
+| last3 = Martinelli | first3 = E. 
+| last4 = Capasso | first4 = A. 
+| last5 = Costantino | first5 = S. 
+| last6 = Ciuffreda | first6 = L. P. 
+| last7 = Morgillo | first7 = F. 
+| last8 = Vitagliano | first8 = D. 
+| last9 = d'Aiuto | first9 = E. 
+| last10 = De Palma 
+| doi = 10.1038/bjc.2012.129 | first10 = R. 
+| last11 = Tejpar | first11 = S. 
+| last12 = Van Cutsem | first12 = E. 
+| last13 = De Lorenzi | first13 = M. 
+| last14 = Caraglia | first14 = M. 
+| last15 = Berrino | first15 = L. 
+| last16 = Ciardiello | first16 = F. 
+| title = Intrinsic resistance to selumetinib, a selective inhibitor of MEK1/2, by cAMP-dependent protein kinase a activation in human lung and colorectal cancer cells 
+| journal = British Journal of Cancer 
+| volume = 106 
+| issue = 10 
+| pages = 1648–1659 
+| year = 2012 
+| pmid = 22569000 
+| pmc =3349172 
+}}</ref>
+
+==Possible uses==
+In addition to thyroid cancer, ''BRAF''-activating mutations are prevalent in [[melanoma]] (up to 59%), [[colorectal cancer]] (5–22%), serous [[ovarian cancer]] (up to 30%), and several other tumor types.<ref>{{Cite journal 
+| last1 = Davies | first1 = H. 
+| last2 = Bignell | first2 = G. R. 
+| last3 = Cox | first3 = C. 
+| last4 = Stephens | first4 = P. 
+| last5 = Edkins | first5 = S. 
+| last6 = Clegg | first6 = S. 
+| last7 = Teague | first7 = J. 
+| last8 = Woffendin | first8 = H. 
+| last9 = Garnett | first9 = M. J. 
+| last10 = Bottomley 
+| doi = 10.1038/nature00766 | first10 = W. 
+| last11 = Davis | first11 = N. 
+| last12 = Dicks | first12 = E. 
+| last13 = Ewing | first13 = R. 
+| last14 = Floyd | first14 = Y. 
+| last15 = Gray | first15 = K. 
+| last16 = Hall | first16 = S. 
+| last17 = Hawes | first17 = R. 
+| last18 = Hughes | first18 = J. 
+| last19 = Kosmidou | first19 = V. 
+| last20 = Menzies | first20 = A. 
+| last21 = Mould | first21 = C. 
+| last22 = Parker | first22 = A. 
+| last23 = Stevens | first23 = C. 
+| last24 = Watt | first24 = S. 
+| last25 = Hooper | first25 = S. 
+| last26 = Wilson | first26 = R. 
+| last27 = Jayatilake | first27 = H. 
+| last28 = Gusterson | first28 = B. A. 
+| last29 = Cooper | first29 = C. 
+| last30 = Shipley | first30 = J. 
+| title = Mutations of the BRAF gene in human cancer 
+| journal = Nature 
+| volume = 417 
+| issue = 6892 
+| pages = 949–954 
+| year = 2002 
+| pmid = 12068308 
+| pmc = 
+}}</ref>
+
+Selumetinib has also been shown to inhibit growth of [[:en:GNAQ|GNAQ]] mutated uveal melanoma cell lines.<ref>{{Cite journal|title = Identification of unique MEK-dependent genes in GNAQ mutant uveal melanoma involved in cell growth, tumor cell invasion, and MEK resistance|date = Jul 1, 2012|journal = Clinical Cancer Research|doi = 10.1158/1078-0432.CCR-11-3086 |volume=18 |pages=3552–3561 |pmid=22550165 |pmc=3433236 | last1 = Ambrosini | first1 = G | last2 = Pratilas | first2 = CA | last3 = Qin | first3 = LX | last4 = Tadi | first4 = M | last5 = Surriga | first5 = O | last6 = Carvajal | first6 = RD | last7 = Schwartz | first7 = GK}}</ref> Furthermore, preliminary results suggest that selumetinib treatment of uveal melanoma patients can result in tumor shrinkage as the consequence of sustained inhibition of [[:en:MAPK/ERK pathway|ERK]] [[:en:Phosphorylation|phosphorylation]].<ref>{{Cite news|url = http://meetinglibrary.asco.org/content/101496-114|title = Pharmacodynamic activity of selumetinib to predict radiographic response in advanced uveal melanoma|last = |first = |date = 2012|work = |accessdate = }}</ref>
+
+''KRAS'' mutations appear in 20 to 30% of NSCLC cases and about 40% of colorectal cancer.<ref name="Troiani" />
+
+A Phase II clinical trial about selumetinib in NSCLC has been completed in September 2011;<ref>{{ClinicalTrialsGov|NCT00890825|Comparison of AZD6244 in Combination With Docetaxel Versus Docetaxel Alone in KRAS Mutation Positive Non Small Cell Lung Cancer (NSCLC) Patients}}</ref> one about cancers with BRAF mutations is ongoing {{as of|2012|6|lc=on}}.<ref>{{ClinicalTrialsGov|NCT00888134|AZD6244 in Cancers With BRAF Mutations}}</ref>
+
+In July 2015 selumetinib failed a Phase III trial testing whether the drug significantly prolonged the survival of patients in a study on [[melanoma]] originating in the eye. In the 152-patient trial, a combination of selumetinib and [[dacarbazine]] failed to improve [[progression-free survival]] compared with just the old drug alone.<ref>{{cite web|url=http://www.astrazeneca.com/Media/Press-releases/Article/20150722--astrazeneca-provides-update-on-selumetinib|title=AstraZeneca - AstraZeneca provides update on selumetinib in uveal melanoma|work=astrazeneca.com}}</ref><ref>{{cite web|url=http://www.fiercebiotech.com/story/astrazenecas-once-lauded-drug-flunks-phase-iii-eye-cancer-trial/2015-07-22|title=AstraZeneca's once-lauded drug flunks a Phase III eye cancer trial|work=FierceBiotech}}</ref>
+
+{{as of|March 2016}} there are other phase 3 trials registered for thyroid cancer,<ref>[https://clinicaltrials.gov/ct2/show/NCT01843062 Study Comparing Complete Remission After Treatment With Selumetinib/Placebo in Patient With Differentiated Thyroid Cancer (ASTRA)]</ref> and KRAS Positive NSCLC.<ref>[https://clinicaltrials.gov/ct2/show/NCT01933932 Assess Efficacy & Safety of Selumetinib in Combination With Docetaxel in Patients Receiving 2nd Line Treatment for v-Ki-ras2 Kirsten Rat Sarcoma Viral Oncogene Homolog (KRAS) Positive NSCLC (SELECT-1)]</ref> The combination of selumetinib to chemotherapy improved median progression-free survival in a trial of 510 patients with advanced KRAS-mutant non–small cell lung cancer (NSCLC)just for one month, which was statistically not significant.<ref> Jänne PA,  van den Heuvel MM, Barlesi F et al: Selumetinib Plus Docetaxel Compared With Docetaxel Alone and Progression-Free Survival in Patients With KRAS-Mutant Advanced Non–Small Cell Lung Cancer. The SELECT-1 Randomized Clinical Trial.  JAMA. 2017;317(18):1844-1853. doi:10.1001/jama.2017.3438 </ref>
+
+==References==
+{{reflist}}
+
+== Further reading==
+* {{cite journal | doi = 10.1056/NEJMoa1209288 | title = Selumetinib-Enhanced Radioiodine Uptake in Advanced Thyroid Cancer | year = 2013 | last1 = Ho | first1 = Alan L. | last2 = Grewal | first2 = Ravinder K. | last3 = Leboeuf | first3 = Rebecca | last4 = Sherman | first4 = Eric J. | last5 = Pfister | first5 = David G. | last6 = Deandreis | first6 = Desiree | last7 = Pentlow | first7 = Keith S. | last8 = Zanzonico | first8 = Pat B. | last9 = Haque | first9 = Sofia | last10 = Gavane | first10 = Somali | last11 = Ghossein | first11 = Ronald A. | last12 = Ricarte-Filho | first12 = Julio C. | last13 = Domínguez | first13 = José M. | last14 = Shen | first14 = Ronglai | last15 = Tuttle | first15 = R. Michael | last16 = Larson | first16 = Steve M. | last17 = Fagin | first17 = James A. | journal = New England Journal of Medicine | volume = 368 | issue = 7 | pages = 623–32 | pmid = 23406027| display-authors = 8 | pmc = 3615415 }}
+
+{{Extracellular chemotherapeutic agents}}
+
+[[Category:Antineoplastic drugs]]
+[[Category:Oximes]]
+[[Category:Experimental cancer drugs]]
+[[Category:MEK inhibitor]]

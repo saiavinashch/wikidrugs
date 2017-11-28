@@ -1,0 +1,49 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 402050282
+| IUPAC_name = (2''S'',5''R'',6''R'')-3,3-dimethyl-7-oxo-6-[(2-phenoxybutanoyl)amino]-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+| image = Propicillin.png
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|propicillin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 551-27-9
+| ATC_prefix = J01
+| ATC_suffix = CE03
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 8X1R260V33
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1477112
+| PubChem = 92879
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 83843
+| smiles = CCC(C(=O)N[C@H]1[C@@H]2N(C1=O)[C@H](C(S2)(C)C)C(=O)O)OC3=CC=CC=C3
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C18H22N2O5S/c1-4-11(25-10-8-6-5-7-9-10)14(21)19-12-15(22)20-13(17(23)24)18(2,3)26-16(12)20/h5-9,11-13,16H,4H2,1-3H3,(H,19,21)(H,23,24)/t11?,12-,13+,16-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = HOCWPKXKMNXINF-XQERAMJGSA-N
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 52429
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = C13110
+<!--Chemical data-->
+| C=18 | H=22 | N=2 | O=5 | S=1
+| molecular_weight = 378.44268 g/mol
+}}
+'''Propicillin''' is a [[penicillin]]. Properties are similar to [[benzylpenicillin]] particularly used in [[streptococcal infections]], not resistant to [[penicillinase]]. It is acid resistant and can be used orally as the [[potassium salt]].{{cn|date=June 2015}}
+{{Cell wall disruptive antibiotics}}
+
+[[Category:Penicillins]]
+
+
+
+{{Antibiotic-stub}}

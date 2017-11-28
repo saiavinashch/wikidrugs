@@ -1,0 +1,158 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 458266659
+| IUPAC_name = ''N''-(2-chloro-6-methylphenyl)-2-<nowiki>[[</nowiki>6-[4-(2-hydroxyethyl)-<br>1-piperazinyl]-2-methyl-4-pyrimidinyl]amino]-5-thiazole<br>carboxamide  monohydrate
+| image = Dasatinib.svg
+| width = 325
+| image2 = Dasatinib-2GQG-ball-and-stick.png
+| width2 = 350
+
+<!--Clinical data-->
+| tradename = Sprycel
+| Drugs.com = {{drugs.com|monograph|dasatinib}}
+| MedlinePlus = a607063
+| licence_EU = Sprycel
+| licence_US = Dasatinib
+| pregnancy_AU = D
+| pregnancy_US = D
+| legal_AU = S4
+| legal_US = Rx-only
+| legal_status = ℞-only
+| routes_of_administration = Oral ([[Tablet (pharmacy)|tablets]])
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 96%
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life = 1.3 to 5 hours
+| excretion = Faecal (85%), [[kidney|renal]] (4%)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5678
+| CAS_number_Ref = {{cascite|correct|CAS}}
+| CAS_number = 302962-49-8
+| ATC_prefix = L01
+| ATC_suffix = XE06
+| PubChem = 3062316
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01254
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2323020
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII =  X78UG0A0RN
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D03658
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 49375
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1421
+
+<!--Chemical data-->
+| C=22 | H=26 | Cl=1 | N=7 | O=2 | S=1 
+| molecular_weight = 488.01 g/mol
+| smiles = Cc1cccc(c1NC(=O)c2cnc(s2)Nc3cc(nc(n3)C)N4CCN(CC4)CCO)Cl
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H26ClN7O2S/c1-14-4-3-5-16(23)20(14)28-21(32)17-13-24-22(33-17)27-18-12-19(26-15(2)25-18)30-8-6-29(7-9-30)10-11-31/h3-5,12-13,31H,6-11H2,1-2H3,(H,28,32)(H,24,25,26,27)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ZBNZXTGUTAYRHI-UHFFFAOYSA-N
+}}
+
+'''Dasatinib''' is a [[medication]] used primarily to treat [[chronic myelogenous leukemia]] and selected cases of [[acute lymphoblastic leukemia]]. It is produced by [[Bristol-Myers Squibb]] and sold under the trade name '''Sprycel'''. Dasatinib is a [[Bcr-Abl tyrosine kinase inhibitor|Bcr-Abl]] (the "[[Philadelphia chromosome]]") and [[Src (gene)|Src]] family [[tyrosine kinase inhibitor]] approved for first line use in people with [[chronic myelogenous leukemia]] (CML) and [[Philadelphia chromosome]]-positive [[acute lymphoblastic leukemia]] (Ph+ ALL).<ref name="MD">{{cite web|title=Dasatinib: Martindale: The Complete Drug Reference|website=MedicinesComplete|publisher=Pharmaceutical Press|date=17 October 2012|accessdate=7 August 2017|url=https://www.medicinescomplete.com/mc/martindale/current/23086-d.htm|editor=Brayfield, A}}</ref>
+
+<!-- History and culture -->
+It is on the [[World Health Organization's List of Essential Medicines]], the most effective and safe medicines needed in a [[health system]].<ref name=WHO20th>{{cite web|title=WHO Model List of Essential Medicines (20th List)|url=http://www.who.int/medicines/publications/essentialmedicines/20th_EML2017.pdf?ua=1|work=World Health Organization|accessdate=29 June 2017|date=March 2017}}</ref>
+
+==Medical uses==
+In a [[Clinical trial|Phase I]] dose escalation study published in June 2006, dasatinib was tested in people who were resistant to or who could not tolerate [[imatinib]].<ref name="pmid16775234">{{cite journal  |vauthors=Talpaz M, Shah NP, Kantarjian H, etal |title=Dasatinib in imatinib-resistant Philadelphia chromosome-positive leukemias |journal=N. Engl. J. Med. |volume=354 |issue=24 |pages=2531–41 |date=June 2006 |pmid=16775234 |doi=10.1056/NEJMoa055229 |url=http://content.nejm.org/cgi/pmidlookup?view=short&pmid=16775234&promo=ONFLNS19}}</ref> Complete hematological responses<ref>Complete hematologic response was defined as normal [[white blood cell]] and [[platelet]] counts, no [[myeloblast|blasts]] in the peripheral blood, <5% [[myelocyte]]s plus [[metamyelocyte]]s in the peripheral blood, <20% [[basophils]] in the peripheral blood, and no extramedullary disease.</ref> were seen in 37 of 40 people with chronic-phase CML. Major hematologic responses were seen in 31 of 44 people with accelerated-phase CML, CML in blast crisis, or Ph+ ALL.
+
+==Molecular targets==
+[[File:2GQG Abl1Kinase Dasatinib.png|thumb|250px|left|Crystal structure<ref name="pmid16740718">{{Cite journal 
+| last1 = Tokarski | first1 = J. S. 
+| last2 = Newitt | first2 = J. A. 
+| last3 = Chang | first3 = C. Y. 
+| last4 = Cheng | first4 = J. D. 
+| last5 = Wittekind | first5 = M. 
+| last6 = Kiefer | first6 = S. E. 
+| last7 = Kish | first7 = K. 
+| last8 = Lee | first8 = F. Y. 
+| last9 = Borzillerri | first9 = R. 
+| last10 = Lombardo | first10 = L. J. 
+| last11 = Xie | first11 = D. 
+| last12 = Zhang | first12 = Y. 
+| last13 = Klei | first13 = H. E. 
+| title = The Structure of Dasatinib (BMS-354825) Bound to Activated ABL Kinase Domain Elucidates Its Inhibitory Activity against Imatinib-Resistant ABL Mutants 
+| doi = 10.1158/0008-5472.CAN-05-4187 
+| journal = Cancer Research 
+| volume = 66 
+| issue = 11 
+| pages = 5790–5797 
+| year = 2006 
+| pmid = 16740718 
+| pmc = 
+}}</ref> ([http://www.pdb.org/pdb/explore.do?structureId=2GQG PDB 2GQG]) of [[Abl gene|Abl kinase domain]] (blue) in complex with dasatinib (red).]]
+The main targets of dasatinib are [[Philadelphia chromosome|BCR/Abl]] (the "Philadelphia chromosome"), [[Src (gene)|Src]], [[c-Kit]], [[ephrin receptor]]s, and several other tyrosine kinases.
+
+==Duration of benefit==
+
+Responses were maintained in 95% of people with chronic-phase CML, with a [[median follow-up]] time of >12 months. In people with accelerated-phase CML, 82% remained in remission, although with a median follow-up of only 5 months. Nearly all people with CML in blast crisis or Ph+ ALL relapsed within 6 months.
+
+==Susceptible genotypes==
+Responses were seen in people with all [[Philadelphia chromosome|BCR/Abl]] genotypes, with the exception of [[Bcr-Abl tyrosine-kinase inhibitor#T315I mutation|T315I mutation]], which confers resistance to dasatinib, nilotinib and [[imatinib]] ''in vitro''.
+
+== Adverse effects==
+[[Neutropenia]] and [[myelosuppression]] were common toxic effects. Fifteen people (of 84, i.e. 18%) in the above-mentioned study developed [[pleural effusion]]s, which were felt to be a side effect of dasatinib. Some of these people required [[thoracentesis]] or [[pleurodesis]] to treat the effusions. Other adverse events included mild to moderate diarrhea, peripheral [[edema]], and [[headache]]. A small number of people developed abnormal [[liver function tests]] which returned to normal without dose adjustments. Mild [[hypocalcemia]] was also noted, but did not appear to cause any significant problems. Several cases of [[pulmonary arterial hypertension]] (PAH) were found in people treated with dasatinib.<ref>[http://www.nelm.nhs.uk/en/NeLM-Area/News/2011---August/16/Healthcare-professional-communication-regarding-association-of-dasatinib-Sprycel-with-pulmonary-arterial-hypertension/ NHS - Healthcare News]</ref>
+
+On October 11, 2011 the U.S. [[Food and Drug Administration]] (FDA) announced that dasatinib may increase the risk of a rare but serious condition in which there is abnormally high blood pressure in the arteries of the lungs ([[pulmonary hypertension]], PAH). Symptoms of PAH may include shortness of breath, fatigue, and swelling of the body (such as the ankles and legs). In reported cases, people developed PAH after starting dasatinib, including after more than one year of treatment.
+
+Information about this risk has been added to the Warnings and Precautions section of the Sprycel drug label.<ref>FDA: [http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm275176.htm Sprycel (dasatinib): Drug Safety Communication - Risk of Pulmonary Arterial Hypertension], 10/11/2011.</ref>
+
+==Cost==
+The Union for Affordable Cancer Treatment objected to the price of dasatinib, in a letter to the U.S. trade representative. The average wholesale price in the U.S. is $367 per day, twice the price in other high income countries. The price in India, where the average annual per capita income is $1,570, and where most people pay out of pocket,  is Rs6627 ($108) a day. Indian manufacturers offered to supply generic versions for $4 a day, but, under pressure from the U.S., the Indian Department of Industrial Policy and Promotion refused to issue a compulsory license.<ref name="cost">{{cite journal
+| title =US trade rep is pressing Indian government to forbid production of generic cancer drug, consortium says
+| journal =BMJ 
+| date =4 November 2014
+| author =Deborah Cohen
+| volume =349 
+| issue =
+| pages =g6593
+| url =http://www.bmj.com/content/349/bmj.g6593.short
+| doi =10.1136/bmj.g6593 
+| pmid =25370846
+| pmc =
+}}</ref>
+
+Bristol-Myers Squibb justified the high prices of cancer drugs with the high R&D costs, but the Union of Affordable Cancer Treatment said that most of the R&D costs came from the U.S. government, including National Institutes of Health funded research and clinical trials, and a 50% tax credit. In England and Wales, the National Institute for Health and Care Excellence recommended against dasatinib because of the high cost-benefit ratio.<ref name="cost"/>
+
+The Union for Affordable Cancer Treatment said that "the dasatinib dispute illustrates the shortcomings of US trade policy and its impact on cancer people."<ref name="cost"/>
+
+==History==
+Dasatinib was developed by collaboration of [[Bristol-Myers Squibb]] and Otsuka Pharmaceutical Co., Ltd,<ref>https://www.otsuka.co.jp/en/company/release/2015/0302_01.html, http://news.bms.com/press-release/rd-news/fda-approves-us-product-labeling-update-sprycel-dasatinib-include-three-year-f, http://news.bms.com/press-release/financial-news/bristol-myers-squibb-announces-extension-us-agreement-abilify-and-estab</ref> and named for Bristol-Myers Squibb research fellow Jagabandhu Das, whose program leader says that the drug would not have come into existence had he not challenged some of the [[medicinal chemist]]s' underlying assumptions at a time when progress in the development of the molecule had stalled.<ref name="Drahl2012">{{cite web|last1=Drahl|first1=Carmen|title=How Jagabandhu Das made dasatinib possible|url=http://cenblog.org/the-haystack/2012/01/jagabandhu-das-dasatinib/|website=The Safety Zone blog|publisher=[[Chemical & Engineering News]]|accessdate=29 August 2016|date=16 January 2012}}</ref>
+
+==See also==
+* [[Discovery and development of Bcr-Abl tyrosine kinase inhibitors]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [http://www.sprycel.com/# Sprycel (dasatinib) Official Site]
+* [http://packageinserts.bms.com/pi/pi_sprycel.pdf Prescribing information from Bristol-Myers Squibb]
+* [http://www.fda.gov/cder/foi/nda/2006/021986_022072_SprycelTOC.htm Summary Basis for Approval from the U.S. Food and Drug Administration Freedom of Information Homepage]
+* [https://web.archive.org/web/20070711095941/http://www.emea.europa.eu/humandocs/PDFs/EPAR/sprycel/H-709-PI-en.pdf Sprycel Summary of Product Characteristics] (from the European Medicines Agency Website)
+* [http://pubs.acs.org/doi/full/10.1021/jm049486a Discovery of ''N''-(2-Chloro-6-methyl-phenyl)-2-(6-(4-(2-hydroxyethyl)-piperazin-1-yl)-2-methylpyrimidin-4-ylamino)thiazole-5-carboxamide (BMS-354825), a Dual Src/Abl Kinase Inhibitor with Potent Antitumor Activity in Preclinical Assays]
+
+{{Extracellular chemotherapeutic agents}}
+{{Growth factor receptor modulators}}
+{{Piperazines}}
+
+[[Category:Alcohols]]
+[[Category:Amines]]
+[[Category:Anilides]]
+[[Category:Bristol-Myers Squibb]]
+[[Category:Chloroarenes]]
+[[Category:Non-receptor tyrosine kinase inhibitors]]
+[[Category:Orphan drugs]]
+[[Category:Piperazines]]
+[[Category:Pyrimidines]]
+[[Category:Thiazoles]]
+[[Category:World Health Organization essential medicines]]

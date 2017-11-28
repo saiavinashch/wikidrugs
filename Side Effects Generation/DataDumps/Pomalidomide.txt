@@ -1,0 +1,102 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 352895258
+| IUPAC_name = (''RS'')-4-Amino-2-(2,6-dioxopiperidin-3-yl)isoindole-1,3-dione
+| image = Pomalidomide enantiomers.svg
+| width = 200
+| chirality = Racemic mixture
+
+<!--Clinical data-->
+| tradename = Pomalyst, Imnovid
+| Drugs.com = {{drugs.com|monograph|pomalidomide}}
+| pregnancy_AU = X
+| pregnancy_US = X
+| licence_EU = Imnovid
+| licence_US = Pomalidomide
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status = ℞-only
+| routes_of_administration = Oral ([[Capsule (pharmacy)|capsules]])
+
+<!--Pharmacokinetic data-->
+| bioavailability = 73% (at least)<ref>{{cite web|title=Imnovid 1 mg Hard Capsules. Summary of Product Characteristics. 5.2 Pharmacokinetic properties|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/002682/WC500147717.pdf|publisher=Celgene Europe Ltd.|accessdate=21 August 2016|page=22}}</ref>
+| protein_bound = 12–44%
+| metabolism = [[Liver]] (mostly [[CYP1A2]]- and [[CYP3A4]]-mediated; some minor contributions by [[CYP2C19]] and [[CYP2D6]])
+| elimination_half-life = 7.5 hours
+| excretion = Urine (73%), faeces (15%)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7348
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 19171-19-8
+| ATC_prefix = L04
+| ATC_suffix = AX06
+| PubChem = 134780
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = D2UX06XLB5
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D08976
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 43452
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=13 | H=11 | N=3 | O=4
+| molecular_weight = 273.24 g/mol
+| smiles = C1CC(=O)NC(=O)C1N2C(=O)C3=C(C2=O)C(=CC=C3)N
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 118785
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C13H11N3O4/c14-7-3-1-2-6-10(7)13(20)16(12(6)19)8-4-5-9(17)15-11(8)18/h1-3,8H,4-5,14H2,(H,15,17,18)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = UVSMNLNDYGZFPF-UHFFFAOYSA-N
+}}
+
+'''Pomalidomide'''{{#tag:ref|[[International Nonproprietary Name|INN]],<ref>{{cite web|title=International Nonproprietary Names for Pharmaceutical Substances (INN). Recommended International Nonproprietary Names: List 59|url=http://www.who.int/medicines/publications/druginformation/innlists/RL59.pdf|publisher=World Health Organization|accessdate=21 August 2016|pages=61–62}}</ref> codenamed CC-4047, also known as 3-amino-thalidomide, trade name '''Pomalyst''' in the U.S.<ref name = "Pomalyst PI">{{cite web|title=Pomalyst (pomalidomide) Capsules, for Oral Use. Full Prescribing Information|url=http://www.pomalyst.com/wp-content/uploads/resource-prescribing-information.pdf|publisher=Celgene Corporation, Summit, NJ 07901|accessdate=26 October 2015}}</ref> and '''Imnovid''' in [[European Union|EU]] and Russia.|group = "note" }} is a [[derivative (chemistry)|derivative]] of [[thalidomide]] marketed by [[Celgene Corporation|Celgene]].  It is anti-angiogenic and also acts as an [[immunomodulator]].
+
+Pomalidomide was approved in February 2013 by the U.S. [[Food and Drug Administration]] (FDA) as a treatment for relapsed and refractory [[multiple myeloma]]. It has been approved for use in people who have received at least two prior therapies including [[lenalidomide]] and [[bortezomib]] and have demonstrated disease progression on or within 60 days of completion of the last therapy.<ref name=P1>{{cite web|title=Pomalyst (Pomalidomide) Approved By FDA For Relapsed And Refractory Multiple Myeloma | url=http://www.myelomabeacon.com/news/2013/02/08/pomalyst-pomalidomide-fda-approval-multiple-myeloma/ | publisher=The Myeloma Beacon | accessdate=2013-08-10}}</ref>  It received a similar approval from the [[European Commission]] in August 2013.<ref name=P2>{{cite web|title=Pomalidomide Approved In Europe For Relapsed And Refractory Multiple Myeloma | url=http://www.myelomabeacon.com/news/2013/08/09/pomalidomide-imnovid-pomalyst-europe-ema-approval-multiple-myeloma/ | publisher=The Myeloma Beacon | accessdate=2013-08-10}}</ref>
+
+==Origin and development==
+The parent compound of pomalidomide, thalidomide, was originally discovered to inhibit angiogenesis in 1994.<ref>{{cite journal |pmid=7513432 |year=1994 |last1=D'Amato |first1=Robert J. |last2=Loughnan |first2=Michael S. |last3=Flynn |first3=Evelyn |last4=Folkman |first4=Judah |title=Thalidomide is an inhibitor of angiogenesis |volume=91 |issue=9 |pages=4082–5 |pmc=43727 |journal=Proceedings of the National Academy of Sciences of the United States of America |url=http://www.pnas.org/cgi/pmidlookup?view=long&pmid=7513432 |bibcode=1994PNAS...91.4082D |jstor=2364596 |doi=10.1073/pnas.91.9.4082}}</ref> Based upon this discovery, thalidomide was taken into clinical trials for cancer, leading to its ultimate FDA approval for multiple myeloma.<ref>{{cite news|last1=Altman|first1=David|title=From Thalidomide to Pomalyst: Better Living Through Chemistry|url=http://vector.childrenshospital.org/2013/04/from-thalidomide-to-pomalyst-better-living-through-chemistry/|accessdate=21 August 2016|publisher=Boston Children's Hospital's Science and Clinical Innovation Blog|date=2 April 2013}}</ref> Structure-activity studies revealed that amino substituted thalidomide had improved antitumor activity, which was due to its ability to directly inhibit both the tumor cell and vascular compartments of myeloma cancers.<ref name=pmid11740816>{{cite journal |doi=10.1016/S0093-7754(01)90031-4 |title=Mechanism of action of thalidomide and 3-aminothalidomide in multiple myeloma |year=2001 |last1=D'Amato |first1=R |journal=Seminars in Oncology |volume=28 |issue=6 |pages=597–601 |pmid=11740816 |last2=Lentzsch |first2=S |last3=Anderson |first3=KC |last4=Rogers |first4=MS}}</ref>  This dual activity of pomalidomide makes it more efficacious than thalidomide ''in vitro'' and ''in vivo''.<ref>{{cite journal |pmid=11956087 |year=2002 |last1=Lentzsch |first1=S |last2=Rogers |first2=MS |last3=Leblanc |first3=R |last4=Birsner |first4=AE |last5=Shah |first5=JH |last6=Treston |first6=AM |last7=Anderson |first7=KC |last8=D'Amato |first8=RJ |title=S-3-Amino-phthalimido-glutarimide inhibits angiogenesis and growth of B-cell neoplasias in mice |volume=62 |issue=8 |pages=2300–5 |journal=Cancer Research}}</ref>
+
+==Clinical trials==
+Phase I trial results showed tolerable side effects.<ref>{{cite journal |doi=10.1111/j.1365-2141.2008.07013.x |title=Alternate day pomalidomide retains anti-myeloma effect with reduced adverse events and evidence of in vivo immunomodulation |year=2008 |last1=Streetly |first1=Matthew J. |last2=Gyertson |first2=Kylie |last3=Daniel |first3=Yvonne |last4=Zeldis |first4=Jerome B. |last5=Kazmi |first5=Majid |last6=Schey |first6=Stephen A. |journal=British Journal of Haematology |volume=141 |pages=41–51 |pmid=18324965 |issue=1}}</ref>
+
+Phase II clinical trials for multiple myeloma and [[myelofibrosis]] reported 'promising results'.<ref>{{cite press release |title=Promising Results From 2 Trials Highlighting Pomalidomide Presented At ASH |publisher=[[Celgene]] |date=December 11, 2008 |url=http://www.medicalnewstoday.com/releases/132590.php |accessdate=October 28, 2012}}<!-- alternate url for identical press release: http://www.eurekalert.org/pub_releases/2008-12/wsw-prf121008.php --></ref><ref>{{cite conference |url=https://ash.confex.com/ash/2008/webprogram/Paper13194.html |title=Pomalidomide Therapy in Anemic Patients with Myelofibrosis: Results from a Phase-2 Randomized Multicenter Study |first=Ayalew |last=Tefferi |date=December 8, 2008 |conference=50th ASH Annual Meeting and Exposition |location=San Francisco |accessdate=October 28, 2012}}</ref>
+
+Phase III results showed significant extension of [[progression-free survival]], and [[overall survival]] (median 11.9 months vs. 7.8 months; ''[[p-value|p]]'' = 0.0002) in patients taking pomalidomide and [[dexamethasone]] vs. dexamethasone alone.<ref>{{cite journal|last1=San Miguel|first1=J|last2=Weisel|first2=K|last3=Moreau|first3=P|last4=Lacy|first4=M|last5=Song|first5=K|title=Pomalidomide plus low-dose dexamethasone versus high-dose dexamethasone alone for patients with relapsed and refractory multiple myeloma (MM-003): a randomised, open-label, phase 3 trial|journal=Lancet Oncology|date=October 2014|volume=14|issue=11|pages=1055–1066|pmid=24007748|display-authors=etal|doi=10.1016/s1470-2045(13)70380-2}}</ref>
+
+==Mechanism==
+Pomalidomide directly inhibits angiogenesis and myeloma cell growth.  This dual effect is central to its activity in myeloma, rather than other pathways such as TNF alpha inhibition, since potent [[TNF inhibitor]]s including [[rolipram]] and [[pentoxifylline]] do not inhibit myeloma cell growth or angiogenesis.<ref name=pmid11740816/> [[Downregulation and upregulation|Upregulation]] of [[interferon gamma]], [[Interleukin 2|IL-2]] and [[Interleukin 10|IL-10]] as well as downregulation of [[Interleukin 6|IL-6]] have been reported for pomalidomide. These changes may contribute to pomalidomide's anti-angiogenic and anti-myeloma activities.
+
+== Pregnancy and sexual contact warnings==
+Because pomalidomide can cause [[Congenital disorder|harm to unborn babies]] when administered during pregnancy, women taking pomalidomide must not become pregnant. To avoid embryo-fetal exposure, a "Risk Evaluation and Mitigation Strategy" (REMS) program was developed to ensure pregnancy prevention or distribution of the drug to those who are or might become pregnant.<ref>{{cite web|title=Pomalyst Risk Evaluation and Mitigation Strategy (REMS) Program|url=http://www.pomalystrems.com|publisher=Celgene Corporation|accessdate=21 August 2016}}</ref> Women must produce two negative pregnancy tests and use contraception methods before beginning pomalidomide. Women must commit either to abstain continuously from heterosexual sexual intercourse or to use two methods of reliable birth control, beginning 4 weeks prior to initiating treatment with pomalidomide, during therapy, during dose interruptions and continuing for 4 weeks following discontinuation of pomalidomide therapy. Pomalidomide is present in the [[semen]] of patients receiving the drug. Therefore, males must always use a latex or synthetic [[condom]] during any sexual contact with females of reproductive potential while taking pomalidomide and for up to 28 days after discontinuing pomalidomide, even if they have undergone a successful [[vasectomy]]. Male patients taking pomalidomide must not [[Sperm donation|donate sperm]].<ref name = "Pomalyst PI" />
+
+==Notes==
+{{Reflist|group="note"}}
+
+==See also==
+* [[Lenalidomide]], another thalidomide analog
+* [[Development of analogs of thalidomide]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.pomalyst.com Pomalyst (pomalidomide) Official Web Site]
+* [http://clinicaltrials.gov/ct2/results?term=pomalidomide Clinical trials of pomalidomide]
+
+{{Immunosuppressants}}
+
+[[Category:Aromatic amines]]
+[[Category:Glutarimides]]
+[[Category:Immunosuppressants]]
+[[Category:Orphan drugs]]
+[[Category:Phthalimides]]
+[[Category:Drugs with unknown mechanisms of action]]

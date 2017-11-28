@@ -1,0 +1,58 @@
+{{distinguish|Fosfomycin}}
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 461113697
+| IUPAC_name = 3-[Formyl(hydroxy)amino]propylphosphonic acid
+| image = Fosmidomycin_.svg
+| alt = Structural formula of fosmidomycin
+| image2 = Fosmidomycin 3D ball.png
+| alt2 = Ball-and-stick model of the fosmidomycin molecule
+| width = 240
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 66508-53-0
+| ATC_prefix = none
+| PubChem = 572
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB02948
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 555
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 5829E3D9I9
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 443725
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 203125
+
+<!--Chemical data-->
+| C=4 | H=10 | N=1 | O=5 | P=1 
+| molecular_weight = 183.100 g/mol
+| smiles = O=P(O)(O)CCCN(O)C=O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C4H10NO5P/c6-4-5(7)2-1-3-11(8,9)10/h4,7H,1-3H2,(H2,8,9,10)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GJXWDTUCERCKIX-UHFFFAOYSA-N
+}}
+'''Fosmidomycin''' is an [[antibiotic]] that was originally isolated from culture broths of bacteria of the genus ''[[Streptomyces]]''.<ref>{{cite journal|last=Iguchi|first=E|author2=Okuhara, M |author3=Kohsaka, M |author4=Aoki, H |author5=Imanaka, H |title=Studies on new phosphonic acid antibiotics. II. Taxonomic studies on producing organisms of the phosphonic acid and related compounds.|journal=The Journal of antibiotics|year=1980|volume=33|issue=1|pages=19–23|pmid=7372546|url=http://www.journalarchive.jst.go.jp/japanese/jnlabstract_ja.php?cdjournal=antibiotics1968&cdvol=33&noissue=1&startpage=18 |doi=10.7164/antibiotics.33.18}}</ref> It specifically inhibits [[DXP reductoisomerase]], a key enzyme in the [[non-mevalonate pathway]] of [[isoprenoid]] biosynthesis. It is a structural analogue of [[2-C-methyl-D-erythrose 4-phosphate]]. It inhibits the ''[[E. coli]]'' enzyme with a KI value of 38 nM (4), [[Magnetotactic bacteria|MTB]] at 80 nM, and the ''[[Francisella]]'' enzyme at 99 nM.<ref>Jawaid, S., Seidle, H., Zhou W, Abdirahman, H., Abadeer, M, Hix, JH, van Hoek, ML and RD Couch.  Kinetic Characterization and Phosphoregulation of the Francisella tularensis 1-Deoxy-D-Xylulose 5-Phosphoate Reductoisomerase (MEP Synthase), PLOS One, 4(12): e8288. {{doi|10.1371/journal.pone.0008288}}</ref>
+
+==Use in malaria==
+
+The discovery of the [[non-mevalonate pathway]] in [[malaria parasites]] has indicated the use of fosmidomycin and other such inhibitors as [[Antimalarial drug|antimalarial]] drugs.<ref name="Jomaa1999">{{cite journal |last=Jomaa |first=H |authorlink= |year=1999 |title=Inhibitors of the nonmevalonate pathway of isoprenoid biosynthesis as antimalarial drugs |journal=Science |volume=285 |issue=5433 |pages=1573–6 |doi=10.1126/science.285.5433.1573 |url= |accessdate= |quote= |pmid=10477522 |display-authors=etal}}</ref> Indeed, fosmidomycin has been tested in combination treatment with [[clindamycin]] for treatment of [[malaria]] with favorable results.<ref name="Borrmann2004">{{cite journal |last=Borrmann |first=S |authorlink= |year=2004 |title=Fosmidomycin-clindamycin for ''Plasmodium falciparum'' infections in African children |journal=J Infect Dis |volume=189 |issue=5 |pages=901–8 |doi=10.1086/381785 |url= |accessdate= |quote= |pmid=14976608 |display-authors=etal}}</ref><ref name="Borrmann2006">{{cite journal |last=Borrmann |first=S |authorlink= |year=2006 |title=Fosmidomycin plus clindamycin for treatment of pediatric patients aged 1 to 14 years with ''Plasmodium falciparum'' malaria |journal=Antimicrob Agents Chemother |volume=50 |issue=8 |pages=2713–8 |doi=10.1128/AAC.00392-06 |url= |accessdate= |quote= |pmid=16870763 |pmc=1538678 |display-authors=etal}}</ref><ref name="Ruangweerayut2008">{{cite journal |last=Ruangweerayut |first=R |authorlink= |year=2008 |title=Assessment of the pharmacokinetics and dynamics of two combination regimens of fosmidomycin-clindamycin in patients with acute uncomplicated falciparum malaria |journal=Malaria J |volume=7 |issue= 1|pages=225 |doi=10.1186/1475-2875-7-225 |url= |accessdate= |quote= |pmid=18973702 |pmc=2600645 |display-authors=etal}}</ref> It has been shown that an increase in copy number of the target enzyme ([[DXP reductoisomerase]]) correlates with ''[[in vitro]]'' fosmidomycin resistance in the lethal [[malaria]] parasite, ''[[Plasmodium falciparum]]''.<ref name="Dharia2009">{{cite journal |last=Dharia |first=NV |authorlink= |year=2009 |title=Use of high-density tiling microarrays to globally identify mutations and elucidate mechanisms of drug resistance in ''Plasmodium falciparum'' |journal=Genome Biology |volume=10 |issue= 2|pages=R21 |doi=10.1186/gb-2009-10-2-r21 |url= |accessdate= |quote= |pmid=19216790 |pmc=2688282 |display-authors=etal}}</ref>
+
+== References ==
+{{reflist}}
+
+[[Category:Antibiotics]]
+[[Category:Oxidoreductase inhibitors]]
+[[Category:Phosphonic acids]]
+
+{{antibiotic-stub}}

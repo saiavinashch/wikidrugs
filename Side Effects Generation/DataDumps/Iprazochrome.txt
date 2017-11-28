@@ -1,0 +1,72 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 444424244
+| IUPAC_name = 3-hydroxy-1-isopropylindoline-5,6-dione 5-semicarbazone
+| image = Iprazochrome.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|iprazochrome}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 7248-21-7
+| ATC_prefix = N02
+| ATC_suffix = CX03
+| PubChem = 6381821
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2104324	
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 903A9K181P
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07297
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 4903581
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=12 | H=16 | N=4 | O=3 
+| molecular_weight = 264.28 g/mol
+| smiles            = CC(C)N1CC(C2=C/C(=N/NC(=O)N)/C(=O)C=C21)O
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C12H16N4O3/c1-6(2)16-5-11(18)7-3-8(14-15-12(13)19)10(17)4-9(7)16/h3-4,6,11,18H,5H2,1-2H3,(H3,13,15,19)/b14-8-
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = XZKVIDLLLOUTSS-ZSOIEALJSA-N
+| synonyms = <small>[(3-hydroxy-1-isopropyl-6-oxo-2,3-dihydroindol-5-ylidene)amino]urea</small>
+}}
+
+'''Iprazochrome''' is an [[antimigraine]] agent. It is a [[serotonin antagonist]].<ref name="pmid2639158">{{cite journal |author=Hampf G |title=Effect of serotonin antagonists on patients with atypical facial pain |journal=J Craniomandib Disord |volume=3 |issue=4 |pages=211–2 |year=1989 |pmid=2639158 |doi= |url=}}</ref>
+
+==References==
+{{Reflist}}
+
+
+{{Antimigraine preparations}}
+{{Serotonergics}}
+
+[[Category:Antimigraine drugs]]
+[[Category:Semicarbazones]]
+[[Category:Indolines]]
+[[Category:Alcohols]]
+
+
+{{analgesic-stub}}

@@ -1,0 +1,89 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 464208620
+| IUPAC_name = 3-{3,5-dimethyl-4-[3-(3-methylisoxazol-5-yl)propoxy]<br>phenyl}-5-(trifluoromethyl)-1,2,4-oxadiazole
+| image = Pleconaril.svg
+| width = 250
+| image2 = Pleconaril ball-and-stick model.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Oral, intranasal
+
+<!--Pharmacokinetic data-->
+| bioavailability = 70% (oral)
+| protein_bound = >99%
+| metabolism = Hepatic
+| elimination_half-life =  
+| excretion = <1% excreted unchanged in urine
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 153168-05-9
+| ATC_prefix = J05
+| ATC_suffix = AX06
+| PubChem = 1684
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB05105
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 1621
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 9H4570Q89D
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 29609
+| PDB_ligand = W11
+
+<!--Chemical data-->
+| C=18 | H=18 | F=3 | N=3 | O=3 
+| molecular_weight = 381.35 g/mol
+| smiles = FC(F)(F)c1nc(no1)c3cc(c(OCCCc2onc(c2)C)c(c3)C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C18H18F3N3O3/c1-10-7-13(16-22-17(27-24-16)18(19,20)21)8-11(2)15(10)25-6-4-5-14-9-12(3)23-26-14/h7-9H,4-6H2,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = KQOXLKOJHVFTRN-UHFFFAOYSA-N
+}}
+'''Pleconaril''' ('''Picovir'''<ref>http://pharma.financialexpress.com/20011227/research1.htm</ref>) is an [[antiviral drug]] that was being developed by [[Schering-Plough]] for prevention of [[asthma]] exacerbations and [[common cold]] symptoms in patients exposed to [[picornavirus]] respiratory infections.<ref name="CTgov">{{cite web | url = http://www.clinicaltrials.gov/ct/gui/show/NCT00394914 | title = Effects of Pleconaril Nasal Spray on Common Cold Symptoms and Asthma Exacerbations Following Rhinovirus Exposure (Study P04295AM2) |date=March 2007 | accessdate = 2007-04-10 | publisher = U.S. [[National Institutes of Health]] | work = ClinicalTrials.gov}}</ref> Pleconaril, administered either orally or intranasally, is active against viruses in the ''[[Picornaviridae]]'' family, including ''[[Enterovirus]]''<ref>{{cite journal |vauthors=Pevear D, Tull T, Seipel M, Groarke J |title=Activity of pleconaril against enteroviruses |journal=Antimicrob Agents Chemother |volume=43 |issue=9 |pages=2109–15 |year=1999 |pmid=10471549 |pmc=89431}}</ref> and ''[[Rhinovirus]]''.<ref>{{cite journal |author1=Ronald B. Turner |author2=J. Owen Hendley |title=Virucidal hand treatments for prevention of rhinovirus infection |journal=J Antimicrob Chemother |volume=56 |issue=5 |pages=805–807 |year=2005 |pmid=16159927|doi=10.1093/jac/dki329}}</ref> It has shown useful activity against the dangerous strain [[enterovirus D68]].<ref>{{cite journal | last1 = Liu | first1 = Y | display-authors = etal   | year = 2015 | title = Structure and inhibition of EV-D68, a virus that causes respiratory illness in children | journal = Science | volume = 347 | issue = 6217| pages = 71–74 | doi = 10.1126/science.1261962 | pmid=25554786 | pmc=4307789}}</ref>
+
+==History==
+Pleconaril was originally developed by [[Sanofi-Aventis]], and licensed to [[ViroPharma]] in 1997. ViroPharma developed it further, and submitted a [[New drug application|New Drug Application]] to the [[United States]] [[Food and Drug Administration]] (FDA) in 2001. The application was rejected, citing safety concerns; and ViroPharma re-licensed it to Schering-Plough in 2003. The Phase II [[clinical trial]] was completed in 2007.<ref name="CTgov"/>  A pleconaril intranasal spray had reached phase II clinical trial for the treatment of the common cold symptoms and asthma complications. However, the results have yet to be reported.<ref name="New pleconaril against coxsackieviruses">{{cite journal|last=Schmidtke|first=Michaela|author2=Wutzler, Peter |author3=Zieger, Romy |author4=Riabova, Olga B. |author5= Makarov, Vadim A. |title=New pleconaril and [(biphenyloxy)propyl]isoxazole derivatives with substitutions in the central ring exhibit antiviral activity against pleconaril-resistant coxsackievirus B3|journal=Antiviral Research|year=2009|volume=81|issue=1|pages=56–63|doi=10.1016/J.ANTIVIRAL.2008.09.002|pmid=18840470}}</ref>
+
+==Mechanism of action==
+In enteroviruses, Pleconaril prevents the virus from exposing its [[RNA]], and in rhinoviruses Pleconaril prevents the virus from attaching itself to the host cell.<ref>{{cite journal |vauthors=Florea N, Maglio D, Nicolau D |title=Pleconaril, a novel antipicornaviral agent |journal=Pharmacotherapy |volume=23 |issue=3 |pages=339–48 |year=2003 |pmid=12627933 |doi=10.1592/phco.23.3.339.32099}} [http://www.medscape.com/viewarticle/451846 Free full text with registration]</ref>
+Human rhinoviruses (HRVs) contain four structural proteins labeled VP1-VP4. Proteins VP1, VP2 and VP3 are eight stranded anti-parallel β-barrels. VP4 is an extended polypeptide chain on the viral capsid inner surface.<ref name="Genetic Basis for pleconaril resistance">{{cite journal|last=Ledford|first=Rebecca M.|author2=Collett, Marc S. |author3=Pevear, Daniel C. |title=Insights into the genetic basis for natural phenotypic resistance of human rhinoviruses to pleconaril|journal=Antiviral Research|date=1 December 2005|volume=68|issue=3|pages=135–138|doi=10.1016/j.antiviral.2005.08.003}}</ref> Pleconaril binds to a hydrophobic pocket in the VP1 protein. Pleconaril has been shown in viral assembly to associate with viral particles.<ref name="Pleconaril Susceptibility with rhinovirus">{{cite journal|last=Pevear|first=D. C.|author2=Hayden, F. G. |author3=Demenczuk, T. M. |author4=Barone, L. R. |author5=McKinlay, M. A. |author6= Collett, M. S. |title=Relationship of Pleconaril Susceptibility and Clinical Outcomes in Treatment of Common Colds Caused by Rhinoviruses|journal=Antimicrobial Agents and Chemotherapy|date=26 October 2005|volume=49|issue=11|pages=4492–4499|doi=10.1128/AAC.49.11.4492-4499.2005 |pmid=16251287 |pmc=1280128}}</ref> Through noncovalent, hydrophobic interactions compounds can bind to the hydrophobic pocket.<ref name="treatment of picornavirus infections">{{cite journal|last=Rotbart|first=HA|title=Treatment of picornavirus infections.|journal=Antiviral Research|date=February 2002|volume=53|issue=2|pages=83–98|pmid=11750935|doi=10.1016/s0166-3542(01)00206-6}}</ref> Amino acids in positions [[Tyrosine|Tyr]]152 and [[Valine|Val]]191 are a part of the VP1 drug binding pocket.<ref name="Genetic Basis for pleconaril resistance" />
+[[File:Human Rhinovirus bound with Pleconaril.png|thumb|This Image was created in JMOL showing the beta sheets and alpha helices of the Human Rhinovirus. The molecule embedded in the hydrophobic pocket of the VP1 protein is Pleconaril]]
+
+In [[Coxsackievirus]], Pleconaril efficiency correlates to the susceptibility of CVB3 with the amino acid at position 1092 in the hydrophobic pocket.<ref name="Amino acid substitutions with coxsackievirus">{{cite journal|last=Braun|first=Heike|author2=Makarov, Vadim A. |author3=Riabova, Olga B. |author4=Wutzler, Peter |author5= Schmidtke, Michaela |title=Amino Acid Substitutions At Residue 207 of Viral Capsid Protein 1 (VP1) Confer Pleconaril Resistance in Coxsackievirus B3 (CVB3)|journal=Antiviral Research|volume=90|issue=2|pages=A54–A55|doi=10.1016/j.antiviral.2011.03.100|year=2011}}</ref> Amino acid 1092 is in close proximity to the central ring of capsid binders.<ref name="pleconaril amino acid substitutions">{{cite journal|last=Schmidtke|first=Michaela|author2=Wutzler, Peter |author3=Zieger, Romy |author4=Riabova, Olga B. |author5= Makarov, Vadim A. |title=New pleconaril and [(biphenyloxy)propyl]isoxazole derivatives with substitutions in the central ring exhibit antiviral activity against pleconaril-resistant coxsackievirus B3|journal=Antiviral Research|volume=81|issue=1|pages=56–63|doi=10.1016/j.antiviral.2008.09.002|pmid=18840470|year=2009}}</ref> The binding of pleconaril in the hydrophobic pocket creates conformational changes, which increases the rigidity of the virion and decreases the virions' ability to interact with its receptor.<ref name="combating enterovirus replication">{{cite journal|last=Thibaut|first=Hendrik Jan|last2=De Palma|first2=Armando M.|last3=Neyts|first3=Johan|title=Combating enterovirus replication: State-of-the-art on antiviral research|journal=Biochemical Pharmacology|volume=83|issue=2|pages=185–192|doi=10.1016/j.bcp.2011.08.016|pmid=21889497|year=2012}}</ref> Drugs bind with the methylisoxazole ring close to the entrance pocket in VP1, the 3-fluromethyl oxadiazole ring at the end of the pocket and the phenyl ring in the center of the pocket.<ref name="New pleconaril against coxsackieviruses" />
+
+==Clinical trials==
+The results of two randomized, double blind, placebo studies found Pleconaril treatment could benefit patients suffering from colds due to picornaviruses.<ref name="Pleconaril study results in double blind trials" />  Participants in the studies were healthy adults from Canada and the United States, with self-diagnosed colds that had occurred within 24 hours of trial enrollment.  Participants were randomly given a placebo or two 200&nbsp;mg tablets to take three times daily for five days. To increase absorption it was recommended to be taken after a meal.<ref name="Pleconaril study results in double blind trials" /> To monitor the effectiveness of Pleconaril, participants recorded the severity of their symptoms and nasal mucosal samples were obtained at enrollment, day 3, day 6 and day 18. The two studies had a total of 2096 participates and more than 90% (1945) completed the trial. The most common reason for a participant not finishing the trial was an adverse event. Pleconaril treatment showed a reduction in nose blowing, sleep disturbance, and less cold medication used.<ref name="Pleconaril study results in double blind trials" />
+
+Another study showed over 87% of virus isolates in cell culture were inhibited by pleconaril.<ref name="Pleconaril Susceptibility with rhinovirus" />  Virus variants were detected in 0.7% of the placebo group and 10.7% of the pleconaril group. Of the two isolates a subject from the placebo group had a resistant virus in cell culture to pleconaril. The other strain was susceptible to the drug. The pleconaril group had 21 virus strains, which remained susceptible. Resistance strains were found in 7 pleconaril patients.<ref name="Pleconaril Susceptibility with rhinovirus" />
+
+A [[Phases of clinical research#Phase II|Phase II]] study that used an [[intranasal]] formulation of pleconaril failed to show a statistically significant result for either of its two primary efficacy endpoints, percentage of participants with rhinovirus [[PCR]]-positive colds and percentage of participants with asthma exacerbations together with rhinovirus-positive PCR.<ref>National Institutes of Health. Effects of Pleconaril Nasal Spray on Common Cold Symptoms and Asthma Exacerbations Following Rhinovirus Exposure (Study P04295AM2). Clinical Trials.gov. Available at http://www.clinicaltrials.gov/ct/gui/show/NCT00394914. Accessed: July 20, 2015</ref>
+
+==Resistance==
+In human rhinoviruses mutations in amino acids at positions 152 and 191 decrease the efficiency of pleconaril. The resistant HRV have [[phenylalanine]] at position 152 and [[leucine]] at position 191. In vitro studies have shown resistance to pleconaril may emerge. The wild type resistance frequency to pleconaril was about 5X10^-5. [[Coxsackie B virus|Coxsackievirus B3(CVB3)]] strain Nancy and other mutants carry amino acid substitutions at position 1092 of [[Isoleucine|Ile]]1092->[[Leucine|Leu]]1092 or Ile1092->[[Methionine|Met]] in VP1. The Ile->Leu mutation causes complete resistance to pleconaril. The study found resistance of CVB3 to pleconaril can be overcome by substitution of the central phenyl group. Methyl and bromine substitutions created an increase of pleconaril activity towards sensitive and resistant strains. Amino acid substitutions in the hydrophobic pocket and receptor binding region of viral capsid proteins were shown to have an effect against the sensitivity of capsid binding antivirals.<ref name="New pleconaril against coxsackieviruses" />
+
+==Side effects of pleconaril==
+The U.S. Food and Drug Administration rejected pleconaril in 2002 due to the side effects. The most commonly reported side effects were mild to moderate headache, diarrhea, and nausea.<ref name="Pleconaril study results in double blind trials">{{cite journal|last=Hayden|first=F.G.|last2=Herrington|first2=D.T.|last3=Coats|first3=T.L.|last4=Kim|first4=K.|last5=Cooper|first5=E.C.|last6=Villano|first6=S.A.|last7=Liu|first7=S.|last8=Hudson|first8=S.|last9=Pevear|first9=D.C.|last10=Collett|first10=M.|last11=McKinlay|first11=M.| department=Pleconaril Respiratory Infection Study, Group|title=Efficacy and safety of oral pleconaril for treatment of colds due to picornaviruses in adults: results of 2 double-blind, randomized, placebo-controlled trials.|journal=Clinical Infectious Diseases|date=Jun 15, 2003|volume=36|issue=12|pages=1523–32|pmid=12802751|doi=10.1086/375069}}</ref>  Some women were having symptoms of spotting in between periods. Menstrual irregularities were reported by 3.5% of the 320 pleconaril treated women using oral contraceptives and by none of the 291 placebo treated women.<ref name="Pleconaril study results in double blind trials" />  In the clinical trial two women became pregnant due to the drug interfering with hormonal birth control. Other patients have described painful nasal inflammation.<ref name="Curing the Common Cold">{{cite web|last=Greenwood|first=Veronique|title=Curing the Common Cold|url=http://www.scientificamerican.com/article.cfm?id=curing-the-common-cold|publisher=Scientific American|accessdate=2013-03-25}}</ref> Another side effect of the Pleconaril drug trials was activation of [[CYP3A|cytochrome P-450 3A enzymes]].
+
+==References==
+{{Reflist|2}}
+
+{{RNA antivirals}}
+{{Common Cold}}
+
+[[Category:Anti-RNA virus drugs]]
+[[Category:Isoxazoles]]
+[[Category:Phenol ethers]]
+[[Category:Oxadiazoles]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Experimental drugs]]

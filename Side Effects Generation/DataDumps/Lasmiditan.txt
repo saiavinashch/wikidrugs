@@ -1,0 +1,80 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 451563097
+| IUPAC_name = 2,4,6-Trifluoro-''N''-[6-[(1-methyl-4-piperidinyl)carbonyl]-2-pyridinyl]benzamide
+| image = Lasmiditan skeletal.svg
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Investigational
+| routes_of_administration = [[Oral administration|By mouth]], [[intravenous]]
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| IUPHAR_ligand = 3928
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number =  439239-90-4
+| ATC_prefix = none
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem = 11610526
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 760I9WM792
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D10338
+<!--Chemical data-->
+| chemical_formula =  
+| C=19 | H=18 | F=3 | N=3 | O=2 
+| molecular_weight = 377.36 g/mol
+| smiles = CN3CCC(CC3)C(=O)c(n2)cccc2NC(=O)c1c(F)cc(F)cc1F
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 9785281
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C19H18F3N3O2/c1-25-7-5-11(6-8-25)18(26)15-3-2-4-16(23-15)24-19(27)17-13(21)9-12(20)10-14(17)22/h2-4,9-11H,5-8H2,1H3,(H,23,24,27)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = XEDHVZKDSYZQBF-UHFFFAOYSA-N
+}}
+'''Lasmiditan''' ('''COL-144''') is an investigational drug for the treatment of acute [[migraine]]. It is being developed by [[Eli Lilly]] and is in phase III [[clinical trial]]s. It is a first-in-class "neurally acting anti-migraine agent" [[ditan]].
+
+==Mechanism of action==
+Lasmiditan is a [[serotonin receptor agonist]] that, like the unsuccessful [[LY-334,370]], selectively binds to the [[5-HT1F receptor|5-HT<sub>1F</sub> receptor]] subtype. A number of [[triptan]]s have been shown to act on this subtype as well, but only after their affinity for [[5-HT1B receptor|5-HT<sub>1B</sub>]] and [[5-HT1D receptor|5-HT<sub>1D</sub>]] has been made responsible for their anti-migraine activity. The lack of affinity for these receptors might result in fewer side effects related to [[vasoconstriction]] compared to triptans in susceptible patients, such as those with [[ischemic heart disease]], [[Raynaud's phenomenon]] or after a [[myocardial infarction]],<ref name="Prous" /> although a 1998 review has found such side-effects to rarely occur in patients taking triptans.<ref>{{Cite journal | last1 = Dahlöf | first1 = CG | last2 = Mathew | first2 = N | title = Cardiovascular safety of 5HT1B/1D agonists--is there a cause for concern? | journal = Cephalalgia : an international journal of headache | volume = 18 | issue = 8 | pages = 539–45 | year = 1998 | pmid = 9827245| doi=10.1046/j.1468-2982.1998.1808539.x}}</ref><ref name="Mutschler" />
+
+== Discovery and development ==
+Lasmiditan was discovered by [[Eli Lilly and Company]] and was out-licensed to [[CoLucid Pharmaceuticals]] in 2006, until CoLucid was bought by Eli Lilly in 2017 to reacquire the drug.<ref>http://www.fiercebiotech.com/biotech/lilly-buys-migraine-biotech-colucid-for-960m-and-drug-it-out-licensed</ref> The drug is protected by patents until 2031.<ref name="adisinsight">http://adisinsight.springer.com/drugs/800028519</ref>
+
+Phase II clinical trials for dose finding purposes were completed in 2007 for an intravenous form<ref name="NCT00384774" /> and in early 2010 for an oral form.<ref name="NCT00883051" /> Two separate Phase III clinical trials for the oral version are currently ongoing under special protocol agreements with the US [[Food and Drug Administration]] (FDA). Eli Lilly has stated that they intend to submit a [[new drug application]] to the FDA in early 2018.<ref name="adisinsight" />
+
+As of 2017, three phase III clinical trials have been completed or are in progress. The SPARTAN trial compares placebo with 50, 100, and 200&nbsp;mg of lasmiditan.<ref>{{ClinicalTrialsGov|NCT02605174|Three Doses of Lasmiditan (50 mg, 100 mg and 200 mg) Compared to Placebo in the Acute Treatment of Migraine (SPARTAN)}}</ref> SAMURAI compared placebo with 100 and 200 mg doses of lasmidatin. In 2016, CoLucid announced that the trial had met its primary and secondary endpoints of patients being pain-free two hours after dosing.<ref name="adisinsight" /> GLADIATOR is an [[open-label]] study comparing 100 and 200&nbsp;mg doses of lasmidatin in patients that received the drug as part of a prior trial.<ref>{{ClinicalTrialsGov|NCT02565186|An Open-label, Long-term, Safety Study of Lasmiditan for the Acute Treatment of Migraine (GLADIATOR)}}</ref> In August of 2017 topline results from the SPARTAN trial showed that the drug induced met its primary and secondary endpoints in the trial. The primary result showed a statistically significant improvement in pain relief relative to placebo 2 hours after the first dose. The secondary result showed a statistically significantly greater percentage of patients were free of their most bothersome symptom (MBS) compared with placebo at two hours following the first dose. <ref>https://investor.lilly.com/releasedetail.cfm?ReleaseID=1036101</ref>
+
+==References==
+{{reflist|2|refs=
+<ref name="NCT00384774">{{ClinicalTrialsGov|NCT00384774|A Placebo-Controlled Adaptive Treatment Assignment Study of Intravenous COL-144 in the Acute Treatment of Migraine}}</ref>
+<ref name="NCT00883051">{{ClinicalTrialsGov|NCT00883051|Dose-ranging Study of Oral COL-144 in Acute Migraine Treatment}}</ref>
+<ref name="Prous">{{cite web|url=http://www.prous.com/molecules/default.asp?ID=198|publisher=[[Prous Science]]|title=Molecule of the Month July 2010: Lasmiditan hydrochloride|accessdate=2011-08-03}}</ref>
+<ref name="Mutschler">{{cite book|last1=Mutschler|first1=Ernst|first2=Gerd|last2=Geisslinger|first3=Heyo K.|last3=Kroemer|first4=Monika|last4=Schäfer-Korting|title=Arzneimittelwirkungen|publisher=Wissenschaftliche Verlagsgesellschaft|location=Stuttgart|date=2001|edition=8th|page=265|isbn=978-3-8047-1763-3|oclc=47700647|language=German}}</ref>
+}}
+
+{{Serotonergics}}
+
+[[Category:Antimigraine drugs]]
+[[Category:Serotonin receptor agonists]]
+[[Category:Eli Lilly and Company]]
+[[Category:Fluoroarenes]]
+[[Category:Benzamides]]
+[[Category:Pyridines]]
+[[Category:Piperidines]]
+[[Category:Ketones]]
+
+{{analgesic-stub}}

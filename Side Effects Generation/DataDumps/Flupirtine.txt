@@ -1,0 +1,115 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 455522860
+| IUPAC_name = ethyl {2-amino-6-[(4-fluorobenzyl)amino]pyridin-3-yl}carbamate
+| image = Flupirtine.svg
+| width = 250
+
+<!--Clinical data-->
+| tradename = 
+| Drugs.com = {{drugs.com|international|flupirtine}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = 
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability = 90% (oral), 70% (rectal)<ref name="Pharmacokinetics of Flupirtine">{{cite journal|last=Abrams|first=SML |author2=L.R.I. Baker |author3=P. Crome |author4=A.S.T. White |author5=A. Johnston |author6=S.I. Ankier |author7=S.J. Warrington |author8=P. Turner |author9=G. Niebch|title=Pharmacokinetics of flupirtine in elderly volunteers and in patients with moderate renal impairment|journal=The Fellowship of Postgraduate Medicine|year=1988|volume=64|issue=751|pages=361–363|pmid=3200777|url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2428663/pdf/postmedj00185-0020.pdf|doi=10.1136/pgmj.64.751.361|pmc=2428663}}</ref> 
+| protein_bound = 
+| metabolism = Hepatic to 2-amino-3-acetylamino-6-(para-fluorobenzylamino) pyridine (which has 20-30% the analgesic potential of its parent compound), para-fluorohippuric acid<ref>{{cite journal|last=Narang|first=PK|author2=Tourville JF |author3=Chatterji DC |author4=Gallelli JF |title=Quantitation of flupirtine and its active acetylated metabolite by reversed-phase high-performance liquid chromatography using fluorometric detection|journal=Journal of Chromatography|year=1984|volume=305|issue=1|pages=135–143|doi=10.1016/S0378-4347(00)83321-6|pmid=6707137}}</ref> and a mercapturic acid metabolite, presumably formed from a glutathione adduct<ref>{{cite journal|last=Methling|first=K|author2=Reszka P |author3=Lalk M |author4=Vrana O |author5=Scheuch E |author6=Siegmund W |author7=Terhaag B |author8=Bednarski PJ |title=Investigation of the in Vitro Metabolism of the Analgesic Flupirtine|journal=Drug Metabolism and Disposition|year=2008|volume=37|issue=3|pages=479–493|doi=10.1124/dmd.108.024364}}</ref>
+| elimination_half-life = 6.5 hrs (average), 11.2-16.8 hrs (average 14 hrs) (elderly), 8.7-10.9 hrs (average 9.8 hrs) (in those with moderate-level renal impairment)<ref name="Pharmacokinetics of Flupirtine" />
+| excretion = 72% of flupirtine and its metabolites appear in urine and 18% appear in feces<ref name="Retigabine: Chemical Synthesis">{{cite journal|last=Blackburn-Munro|first=G|author2=W. Dalby-Brown |author3=N. R. Mirza |author4=J. D. Mikkelsen |author5=R. E. Blackburn-Munro |title=Retigabine: Chemical Synthesis to Clinical Application|journal=CNS Drug Reviews|year=2005|volume=11|issue=1|pages=1–20|doi=10.1111/j.1527-3458.2005.tb00033.x|pmid=15867950|url=http://onlinelibrary.wiley.com/doi/10.1111/j.1527-3458.2005.tb00033.x/pdf}}</ref>
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 56995-20-1
+| ATC_prefix = N02
+| ATC_suffix = BG07
+| PubChem = 53276
+| IUPHAR_ligand = 2598
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = MOH3ET196H
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07978
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 255044
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 48119
+| smiles = Fc1ccc(cc1)CNc2nc(N)c(NC(=O)OCC)cc2
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C15H17FN4O2/c1-2-22-15(21)19-12-7-8-13(20-14(12)17)18-9-10-3-5-11(16)6-4-10/h3-8H,2,9H2,1H3,(H,19,21)(H3,17,18,20)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = JUUFBMODXQKSTD-UHFFFAOYSA-N
+
+<!--Chemical data-->
+| C=15 | H=17 | F=1 | N=4 | O=2 
+| molecular_weight = 304.32 g/mol
+}}
+
+'''Flupirtine''' is an [[aminopyridine]] that functions as a centrally acting non-[[opioid]] [[analgesic]] that was originally used as an analgesic for acute and chronic pain<ref name=2012rev>{{cite journal|last1=Harish|first1=S|last2=Bhuvana|first2=K|last3=Bengalorkar|first3=GM|last4=Kumar|first4=T|title=Flupirtine: Clinical pharmacology.|journal=Journal of anaesthesiology, clinical pharmacology|date=April 2012|volume=28|issue=2|pages=172–7|pmid=22557738|pmc=3339720|doi=10.4103/0970-9185.94833}}</ref> but in 2013 due to issues with liver toxicity, the European Medicines Agency restricted its use to acute pain, for no more than two weeks, and only for people who cannot use other painkillers.<ref name=EMAoverview2013>{{cite web|title=Flupirtine-containing medicines|url=http://www.ema.europa.eu/ema/index.jsp?curl=pages/medicines/human/referrals/Flupirtine-containing_medicines/human_referral_prac_000019.jsp&mid=WC0b01ac05805c516f|publisher=European Medicines Agency|date=November 21, 2013}}</ref>
+
+Flupirtine is a selective neuronal [[potassium channel opener]] (SNEPCO) that also has [[NMDA receptor antagonist]] and [[GABAA receptor]] [[allosteric modulator|modulatory]] properties.<ref name=FlupirtineDev2013>{{cite journal|last1=Szelenyi|first1=I|title=Flupirtine, a re-discovered drug, revisited.|journal=Inflammation Research|date=March 2013|volume=62|issue=3|pages=251–8|pmid=23322112|doi=10.1007/s00011-013-0592-5}}</ref>
+
+It first became available in Europe in 1984 under the brand name '''Katadolon''' and after it went off patent many generic brands were introduced.<ref name=brands/>
+
+==Uses==
+Flupirtine is used as an analgesic for acute pain, in moderate-to-severe cases.<ref name=2012rev/><ref>{{cite journal|vauthors=McMahon FG, Arndt WF, Newton JJ, Montgomery PA, Perhach JL |title=Clinical experience with flupirtine in the U.S|journal=Postgraduate Medical Journal|year=1987|volume=63|issue=3|pages=81–85|pmid=3328854}}</ref> Its muscle relaxant properties make it popular for back pain and other [[orthopedic]] uses, but it is also used for [[migraine]]s, in [[oncology]], postoperative care, and [[gynecology]].
+
+In 2013 due to issues with liver toxicity, the European Medicines Agency restricted its use to acute pain, for no more than two weeks, and only for people who cannot use other painkillers.<ref name=EMAoverview2013/>
+
+==Side Effects==
+The most serious side effect is frequent [[hepatotoxicity]] which prompted regulatory agencies to issue several warnings and restrictions.<ref>[http://www.ema.europa.eu/ema/index.jsp?curl=pages/medicines/human/referrals/Flupirtine-containing_medicines/human_referral_prac_000019.jsp&mid=WC0b01ac05805c516f EMA information about flupirtine]</ref><ref>[http://www.aerzteblatt.de/nachrichten/53767/Flupirtin-EMA-startet-Risikobewertung-wegen-Leberrisiko article] in [[Deutsches Ärzteblatt]]</ref>
+
+Flupirtine is devoid of negative [[psychological]] or motor function effects, or effects on [[reproductive]] function.<ref>{{cite journal|last=Singal|first=Rikki|author2=Parveen Gupta |author3=Nidhi Jain |author4=Samita Gupta |title=Role of Flupirtine in the Treatment of Pain - Chemistry and its Effects|journal=Mædica — a Journal of Clinical Medicine|year=2012|volume=7|issue=2|pages=163–166|pmid=23401726|url=http://www.maedica.org/articles/2012/2/MAEDICA_art_9.pdf |pmc=3557425}}</ref><ref>{{cite web|title=DRUGDEX® Evaluations - Flupirtine|url=http://www.micromedexsolutions.com.elibrary.jcu.edu.au/micromedex2/librarian/ND_T/evidencexpert/ND_PR/evidencexpert/CS/C13ED6/ND_AppProduct/evidencexpert/DUPLICATIONSHIELDSYNC/9F4E9C/ND_PG/evidencexpert/ND_B/evidencexpert/ND_P/evidencexpert/PFActionId/evidencexpert.DisplayDrugdexDocument?docId=1385&contentSetId=31&title=FLUPIRTINE&servicesTitle=FLUPIRTINE&topicId=cautionsSection&subtopicId=adverseReactionsSection|accessdate=24 March 2013}}</ref>
+
+==Abuse and Dependence==
+Although some studies have reported flupirtine has no addictive properties,<ref>{{cite journal|last1=Preston|first1=KL|last2=Funderburk|first2=FR|last3=Liebson|first3=IA|last4=Bigelow|first4=GE|title=Evaluation of the Abuse Potential of the Novel Analgesic Flupirtine Maleate|journal=Drug and Alcohol Dependence|date=Mar 1991|volume=27|issue=2|pages=101–113|pmid=2055157|doi=10.1016/0376-8716(91)90027-v}}<!--|accessdate=2 June 2014--></ref><ref>{{cite journal|last1=Sofia|first1=RD|last2=Diamantis|first2=W|last3=Gordon|first3=R|title=Abuse Potential and Physical Dependence Liability Studies with Flupirtine Maleate in Laboratory Animals|journal=Postgraduate Medical Journal|date=1987|volume='''63''' Suppl 3|pages=35–40|pmid=3447127}}<!--|accessdate=2 June 2014--></ref> there was suggestion that it may possess some abuse potential and liability.<ref>{{cite journal|last1=Gahr|first1=M|last2=Freudenmann|first2=RW|last3=Connemann|first3=BJ|last4=Hiemke|first4=C|last5=Schönfeldt–Lecuona|first5=C|title=Abuse Liability of Flupirtine Revisited: Implications of Spontaneous Reports of Adverse Drug Reactions|journal=Journal of Clinical Pharmacology|date=Dec 2013|volume=53|issue=12|pages=1328–1333|pmid=24037995|doi=10.1002/jcph.164}}<!--|accessdate=2 June 2014--></ref> There were at least two registered cases of flupirtine abuse.<ref name = "Flupirtine abuse">{{cite journal|last1=Stoessel|first1=C|last2=Heberlein|first2=A|last3=Hillemacher|first3=T|last4=Bleich|first4=S|last5=Kornhuber|first5=J|title=Positive Reinforcing Effects of Flupirtine—Two Case Reports|journal=Progress in Neuro-psychopharmacology & Biological Psychiatry|date=Aug 16, 2010|volume=34|issue=6|pages=1120–1121|pmid=20362025|accessdate=2 June 2014|url=http://www.deepdyve.com/lp/elsevier/positive-reinforcing-effects-of-flupirtine-two-case-reports-b00d706OMR|doi=10.1016/j.pnpbp.2010.03.031}}</ref> [[Drug tolerance]] does not develop in most cases, but has individually occurred.<ref name = "Flupirtine abuse" />
+
+==Mechanism of Action==
+Flupirtine is a selective neuronal [[potassium channel opener]] that also has indirect [[NMDA receptor antagonist]] and [[GABAA receptor]] [[allosteric modulator|modulatory]] properties.<ref name=FlupirtineDev2013/><ref name=2012rev/>
+
+==History==
+Flupirtine was discovered and developed between the 1970s and the 1990s by Chemiewerk Homburg in [[Frankfurt am Main]], Germany, which became Degussa Pharma Group and then through mergers, ASTA Pharma and [[Asta Medica]].<ref name=FlupirtineDev2013/> [[Retigabine]], in which the pyridine group in flupirtine is replaced with a phenyl group, was discovered as part of the same program and has a similar mechanism of action.<ref name=FlupirtineDev2013/>
+
+It was approved for the treatment of pain in 1984 in Europe<ref name=EMAassess/> under the brand name Katadolon.<ref>{{cite book|author1=Richard C Allen|editor1-last=Hesp|editor1-first=Barrie|title=Annual Reports in Medicinal Chemistry, Volume 21|date=1986|publisher=Academic Press|location=Orlando|isbn=9780080583655|page=328|url=https://books.google.com/books?id=qsFCGskRHZQC&pg=PA328|chapter=To Market, To Market - 1985}}</ref>
+
+As of 2013 it was used in 11 member countries: Bulgaria, Estonia, Germany, Hungary, Italy, Latvia, Lithuania, Poland, Portugal, Romania and Slovak Republic.<ref name=EMAassess>{{cite web|title=Assessment report for flupirtine containing medicinal products|url=http://www.ema.europa.eu/docs/en_GB/document_library/Referrals_document/Flupirtine-containing_medicines/Recommendation_provided_by_Pharmacovigilance_Risk_Assessment_Committee/WC500146103.pdf|publisher=EMA|date=June 24, 2013}}</ref> Many generics entered the European market around 2011.<ref>{{cite web|title=Rationale for the triggering of procedure under Article 107i of Directive 2001/83/EC on flupirtine presented by the Federal Institute for Drugs and Medicinal Devices/BfArM, Germany|url=http://www.ema.europa.eu/docs/en_GB/document_library/Referrals_document/Flupirtine-containing_medicines/Procedure_started/WC500139760.pdf|publisher=EMA|date=March 8, 2013}}</ref>
+
+It was never introduced to the [[United States]] market for any indication but in 2008, Adeona Pharmaceuticals, Inc. (now called Synthetic Biologics, Inc.) obtained an option to license issued and [[patent pending]] applications relating to flupirtine’s use in the treatment of [[Human eye|ophthalmic]] indications, particularly [[retinitis pigmentosa]].<ref>{{cite web|title=Adeona Pharmaceuticals and National Neurovision Research Institute (NNRI) Collaborate to Test Flupirtine for Retinitis Pigmentosa|url=http://www.syntheticbiologics.com/index.php?s=43&item=38|publisher=Synthetic Biologics, Inc.|accessdate=2 June 2014|location=Ann Arbor, MI and Owings Mills, MD|date=December 2, 2008}}</ref>
+
+In 2010 retigabine was approved by the FDA as an anticonvulsant for the treatment of refractory partial-onset seizures in treatment-experienced patients.<ref>{{cite web|title=POTIGA<sup>®</sup> (ezogabine) Tablets, CV. Full Prescribing Information Revised: September, 2013. Initial U.S. Approval: 2011.|url=https://www.gsksource.com/gskprm/htdocs/documents/POTIGA-PI-MG.PDF|publisher=GlaxoSmithKline and Valeant Pharmaceuticals|accessdate=2 June 2014}}</ref>
+
+As of 2016 it is marketed under many brand names, including Efiret, Flupigil, Flupirtin, Flupirtina, Flupirtine, Flupizen, Fluproxy, Katadolon, Metanor, Trancolong, and Zentiva.<ref name=brands>[http://www.drugs.com/international/flupirtine.html Flupirtine] Drugs.com. Accessed 30 August 2016</ref>
+
+==Research==
+Flupirtine has been noted for its neuroprotective properties, and has been investigated for possible use in [[Creutzfeldt–Jakob disease]], [[Alzheimer's disease]], and [[multiple sclerosis]].<ref name="Klawe_2009">{{Cite journal|pmid=19505216|year=2009|last1=Klawe|first1=C|last2=Maschke|first2=M|title=Flupirtine: pharmacology and clinical applications of a nonopioid analgesic and potentially neuroprotective compound| volume=10| issue=9| pages=1495–500| doi=10.1517/14656560902988528| journal=Expert opinion on pharmacotherapy}}</ref><ref name="pmid2901483">{{cite journal |vauthors=Swedberg MD, Shannon HE, Nickel B, Goldberg SR |title=Pharmacological mechanisms of action of flupirtine: a novel, centrally acting, nonopioid analgesic evaluated by its discriminative effects in the rat |journal=J. Pharmacol. Exp. Ther. |volume=246 |issue=3 |pages=1067–74 |date=September 1988 |pmid=2901483 |doi= |url=http://jpet.aspetjournals.org/cgi/pmidlookup?view=long&pmid=2901483}}</ref> It has also been proposed as a possible treatment for [[Batten disease]].<ref name="pmid11921051">{{cite journal |vauthors=Dhar S, Bitting RL, Rylova SN |title=Flupirtine blocks apoptosis in batten patient lymphoblasts and in human postmitotic CLN3- and CLN2-deficient neurons |journal=Ann. Neurol. |volume=51 |issue=4 |pages=448–66 |date=April 2002 |pmid=11921051|doi=10.1002/ana.10143|display-authors=etal}}</ref>
+
+Flupirtine underwent a [[clinical trial]] as a treatment for [[multiple sclerosis]]<ref name="test">[http://clinicaltrials.gov/ct2/show/NCT00623415 Flupirtine as Oral Treatment in Multiple Sclerosis (FLORIMS)] Clinical Trials.gov Accessed 20 September 2011.</ref> and [[fibromyalgia]].<ref>[http://www.biospace.com/news_story.aspx?NewsEntityId=93287 Pipex Pharmaceuticals (PPXP)' Oral Flupirtine Receives IND With FDA for Phase II Clinical Trial for Fibromyalgia] 4/21/2008</ref> Flupirtine showed promise for fibromyalgia due to its different action than the three approved by U.S. [[Food and Drug Administration|FDA]] drugs: [[pregabalin]], [[milnacipran]], and [[duloxetine]].<ref name = "Effirma">{{cite web|title=Partnered Program. Effirma™ for Fibromyalgia|url=http://www.syntheticbiologics.com/fibromyalgia|publisher=Synthetic Biologics, Inc.|accessdate=2 June 2014}}</ref> Additionally, there are case reports regarding flupirtine as a treatment for fibromyalgia.<ref name="psy.psychiatryonline.org">Stoll AL, Belmont MA. (2000) "[http://psy.psychiatryonline.org/cgi/content/full/41/4/371 Fibromyalgia Symptoms Relieved by Flupirtine: An Open-Label Case Series]" ''Psychosomatics'' '''41''':371-372. Accessed 20 September 2011.</ref> Adeona Pharmaceuticals (now called Synthetic Biologics) sub-licensed its patents for using flupirtine for fibromyalgia to [[Meda AB]] in May 2010.<ref name = "Effirma" />
+
+==References==
+{{Reflist|30em}}
+
+{{Analgesics}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{GABAA receptor positive modulators}}
+{{Ion channel modulators}}
+{{Ionotropic glutamate receptor modulators}}
+}}
+
+[[Category:Pyridines]]
+[[Category:Carbamates]]
+[[Category:Potassium channel openers]]
+[[Category:Fluoroarenes]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:NMDA receptor antagonists]]

@@ -1,0 +1,55 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470603052
+| IUPAC_name = [1-(2,2-dichloroacetyl)-3,4-dihydro-2H-quinolin-6-yl] furan-2-carboxylate
+| image = Quinfamide.svg
+| width = 170
+<!--Clinical data-->
+| tradename =
+| pregnancy_AU =
+| pregnancy_US =
+| pregnancy_category =
+| legal_AU =
+| legal_CA =
+| legal_UK =
+| legal_US =
+| legal_status =
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| ATC_prefix = None
+| ATC_suffix =
+| CAS_number = 62265-68-3
+| PubChem = 71743
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 64787
+| smiles = C1CC2=C(C=CC(=C2)OC(=O)C3=CC=CO3)N(C1)C(=O)C(Cl)Cl
+| StdInChI = 1S/C16H13Cl2NO4/c17-14(18)15(20)19-7-1-3-10-9-11(5-6-12(10)19)23-16(21)13-4-2-8-22-13/h2,4-6,8-9,14H,1,3,7H2
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = SBJGFIXQRZOVTO-UHFFFAOYSA-N
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = O1ZB1046R1
+<!--Chemical data-->
+| C=16 | H=13 | Cl=2 | N=1 | O=4
+| molecular_weight = 354.18472 g/mol
+| melting_point =
+| melting_high =
+}}
+
+'''Quinfamide''', is a drug that has anti-parasitic properties.<ref name="pmid12139216">{{cite journal  | last1 = Davila-Gutierrez | first1 = CE. | last2 = Vasquez | first2 = C. | last3 = Trujillo-Hernandez | first3 = B. | last4 = Huerta | first4 = M. | title = Nitazoxanide compared with quinfamide and mebendazole in the treatment of helminthic infections and intestinal protozoa in children | journal = Am J Trop Med Hyg | volume = 66 | issue = 3 | pages = 251–4 |date=Mar 2002 | doi =  | pmid = 12139216 }}</ref>
+== Synthesis ==
+Quinfamide is one of a relatively small family of [[wikt:antiamoebic|antiamoebic]] compounds containing a dichloroacetamide function.
+[[File:Quinfamide synthesis.svg|thumb|center|700px|Quinfamide synthesis:<ref>D. M. Bailey, {{US patent|3997542}} (1976 to Sterling).</ref><ref>{{cite journal|doi=10.1021/jm00191a031|pmid=458814|title=1-(Dichloroacetyl)-1,2,3,4-tetrahydro-6-quinolinol esters. New potent antiamebic agents|journal=Journal of Medicinal Chemistry|volume=22|issue=5|pages=599|year=1979|last1=Bailey|first1=Denis M.|last2=Mount|first2=Eldridge M.|last3=Siggins|first3=James|last4=Carlson|first4=John A.|last5=Yarinsky|first5=Allen|last6=Slighter|first6=Ralph G.}}</ref>]]
+The synthesis begins by amidation of 6-hydroxytetrahydroquinoline with [[dichloroacetyl chloride]]. The sequence is completed by acylation with 2-furoyl chloride.
+== References ==
+{{reflist}}
+
+[[Category:Antiprotozoal agents]]

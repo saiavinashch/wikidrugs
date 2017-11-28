@@ -1,0 +1,156 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464208649
+| IUPAC_name = 1,1’-(1,4-phenylenebismethylene)bis(1,4,8,11- tetraazacyclotetradecane)
+| image = Plerixafor.svg
+| width = 250
+| image2 = Plerixafor ball-and-stick model.png
+
+<!--Clinical data-->
+| tradename = Mozobil
+| Drugs.com = {{drugs.com|CDI|plerixafor}}
+| MedlinePlus = a609018
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = D
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Rx-only
+| legal_status = ℞-only
+| routes_of_administration = [[Subcutaneous injection]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = Up to 58%
+| metabolism = None
+| elimination_half-life = 3–5 hours
+| excretion = [[Kidney|Renal]]
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 155148-31-5
+| ATC_prefix = L03
+| ATC_suffix = AX16
+| PubChem = 65015
+| IUPHAR_ligand = 844
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB06809
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 58531
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = S915P5499N
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08971
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 18442
+
+<!--Chemical data-->
+| C=28 | H=54 | N=8
+| molecular_weight = 502.782 g/mol
+| smiles = N1CCNCCCN(CCNCCC1)Cc2ccc(cc2)CN3CCCNCCNCCCNCC3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C28H54N8/c1-9-29-15-17-31-13-3-21-35(23-19-33-11-1)25-27-5-7-28(8-6-27)26-36-22-4-14-32-18-16-30-10-2-12-34-20-24-36/h5-8,29-34H,1-4,9-26H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YIQPUIGJQJDJOS-UHFFFAOYSA-N
+| synonyms = JM 3100, AMD3100
+}}
+
+'''Plerixafor''' ([[International Nonproprietary Name|INN]] and [[United States Adopted Name|USAN]], trade name '''Mozobil''') is an [[immunostimulant]] used to mobilize [[hematopoietic stem cell]]s in cancer patients into the bloodstream. The stem cells are then extracted from the blood and [[Autologous stem cell transplantation|transplanted back]] to the patient. The drug was developed by [[AnorMED]] which was subsequently bought by [[Genzyme]].
+
+==Medical uses==
+Peripheral blood stem cell mobilization, which is important as a source of [[hematopoietic stem cells]] for [[Hematopoietic stem cell transplantation|transplantation]], is generally performed using [[granulocyte colony-stimulating factor]] (G-CSF), but is ineffective in around 15 to 20% of patients. Combination of G-CSF with plerixafor increases the percentage of persons that respond to the therapy and produce enough stem cells for transplantation.<ref name="DrugsRD">{{Cite journal | title = Plerixafor | journal = Drugs in R & D | volume = 8 | issue = 2| pages = 113–119 | year = 2007 | doi = 10.2165/00126839-200708020-00006| pmid = 17324009}}</ref> The drug is approved for patients with [[lymphoma]] and [[multiple myeloma]].<ref name="AustriaCodex">{{cite book|title=Austria-Codex|editor=Haberfeld, H|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2009|edition=2009/2010|isbn=3-85200-196-X|language=German}}</ref>
+
+==Contraindications==
+
+===Pregnancy and lactation===
+Studies in pregnant animals have shown [[teratogenic]] effects. Plerixafor is therefore contraindicated in pregnant women except in critical cases. Fertile women are required to use [[contraception]]. It is not known whether the drug is secreted into the breast milk. Breast feeding should be discontinued during therapy.<ref name="AustriaCodex" />
+
+==Adverse effects==
+[[Nausea]], [[diarrhea]] and local reactions were observed in over 10% of patients. Other problems with digestion and general symptoms like dizziness, headache, and muscular pain are also relatively common; they were found in more than 1% of patients. Allergies occur in less than 1% of cases. Most adverse effects in clinical trials were mild and transient.<ref name="AustriaCodex" /><ref name="Wagstaff">{{Cite journal | last1 = Wagstaff | first1 = A. J. | title = Plerixafor: in patients with non-Hodgkin's lymphoma or multiple myeloma | journal = Drugs | volume = 69 | issue = 3| pages = 319–26 | year = 2009 | doi = 10.2165/00003495-200969030-00007| pmid = 19275275 }}</ref>
+
+The [[European Medicines Agency]] has listed a number of safety concerns to be evaluated on a post-marketing basis, most notably the theoretical possibilities of [[spleen]] rupture and tumor cell mobilisation. The first concern has been raised because [[splenomegaly]] was observed in animal studies, and G-CSF can cause spleen rupture in rare cases. Mobilisation of tumor cells has occurred in patients with leukaemia treated with plerixafor.<ref name="CHMP">{{cite web|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Public_assessment_report/human/001030/WC500030689.pdf|publisher=[[European Medicines Agency]]|title=CHMP Assessment Report for Mozobil}}</ref>
+
+==Interactions==
+No interaction studies have been conducted. The fact that plerixafor does not interact with the cytochrome system indicates a low potential for interactions with other drugs.<ref name="AustriaCodex" />
+
+==Pharmacology==
+
+===Mechanism of action===
+In the form of its zinc complex, plerixafor acts as an [[Receptor antagonist|antagonist]] (or perhaps more accurately a [[partial agonist]]) of the alpha [[chemokine receptor]] [[CXCR4]] and an [[allosteric]] agonist of [[CXCR7]].<ref>{{Cite journal 
+| last1 = Kalatskaya | first1 = I. 
+| last2 = Berchiche | first2 = Y. A. 
+| last3 = Gravel | first3 = S. 
+| last4 = Limberg | first4 = B. J. 
+| last5 = Rosenbaum | first5 = J. S. 
+| last6 = Heveker | first6 = N. 
+| title = AMD3100 is a CXCR7 Ligand with Allosteric Agonist Properties 
+| journal = Molecular Pharmacology 
+| volume = 75 
+| pages = 1240–7 
+| year = 2009 
+| doi = 10.1124/mol.108.053389 | pmid=19255243 | issue=5
+}}</ref>
+The CXCR4 alpha-[[chemokine]] receptor and one of its [[Ligand (biochemistry)|ligand]]s, [[SDF-1 (biology)|SDF-1]], are important in [[hematopoietic stem cell]] homing to the [[bone marrow]] and in [[hematopoietic stem cell]] [[G0 phase|quiescence]]. The ''[[in vivo]]'' effect of plerixafor with regard to [[ubiquitin]], the alternative endogenous ligand of CXCR4, is unknown. Plerixafor has been found to be a strong inducer of mobilization of [[hematopoietic stem cells]] from the bone marrow to the bloodstream as [[peripheral blood stem cells]].<ref>{{Cite journal | last1 = Cashen | first1 = A. F. | last2 = Nervi | first2 = B. | last3 = Dipersio | first3 = J. | title = AMD3100: CXCR4 antagonist and rapid stem cell-mobilizing agent | journal = Future Oncology | volume = 3 | issue = 1| pages = 19–27 | year = 2007 | doi = 10.2217/14796694.3.1.19| pmid = 17280498}}</ref> Additionally, plerixafor inhibits CD20 expression on B cells by interfering with CXCR4/SDF1 axis that regulates its expression.<ref>{{cite journal|pmid=27480113|year=2016|author1=Pavlasova|first1=G|title=Ibrutinib inhibits CD20 up-regulation on CLL B cells mediated by the CXCR4/SDF-1 axis|journal=Blood|last2=Borsky|first2=M|last3=Seda|first3=V|last4=Cerna|first4=K|last5=Osickova|first5=J|last6=Doubek|first6=M|last7=Mayer|first7=J|last8=Calogero|first8=R|last9=Trbusek|first9=M|last10=Pospisilova|first10=S|last11=Davids|first11=M. S.|last12=Kipps|first12=T. J.|last13=Brown|first13=J. R.|last14=Mraz|first14=M|doi=10.1182/blood-2016-04-709519|volume=128|pages=1609–13}}</ref>
+
+===Pharmacokinetics===
+Following [[subcutaneous injection]], plerixafor is absorbed quickly and peak concentrations are reached after 30 to 60 minutes. Up to 58% are bound to plasma proteins, the rest mostly resides in [[extravascular compartment]]s. The drug is not [[metabolized]] in significant amounts; no interaction with the [[cytochrome P450]] enzymes or [[P-glycoprotein]]s has been found. Plasma half life is 3 to 5 hours. Plerixafor is excreted via the [[kidney]]s, with 70% of the drug being excreted within 24 hours.<ref name="AustriaCodex" />
+
+==Chemistry==
+Plerixafor is a [[macrocyclic compound]] and a bi[[cyclam]] derivative, the cyclam rings being linked at the amine nitrogen atoms by a 1,4-[[xylyl]] spacer.<ref name="DrugsRD" /> It is a strong [[base (chemistry)|base]]; all eight nitrogen atoms accept [[proton]]s readily. The two macrocyclic rings form [[chelate complex]]es with bivalent metal ions, especially [[zinc]], [[copper]] and [[nickel]], as well as  [[cobalt]] and [[rhodium]]. The biologically active form of plerixafor is its zinc complex.<ref>{{Cite journal 
+| last1 = Esté | first1 = J. A. 
+| last2 = Cabrera | first2 = C. 
+| last3 = De Clercq | first3 = E. 
+| last4 = Struyf | first4 = S. 
+| last5 = Van Damme | first5 = J. 
+| last6 = Bridger | first6 = G. 
+| last7 = Skerlj | first7 = R. T. 
+| last8 = Abrams | first8 = M. J. 
+| last9 = Henson | first9 = G. 
+| last10 = Gutierrez | first10 = A. 
+| last11 = Clotet | first11 = B. 
+| last12 = Schols | first12 = D. 
+| title = Activity of different bicyclam derivatives against human immunodeficiency virus depends on their interaction with the CXCR4 chemokine receptor 
+| journal = Molecular Pharmacology 
+| volume = 55 
+| issue = 1 
+| pages = 67–73 
+| year = 1999 
+| pmid = 9882699
+}}</ref>
+
+===Synthesis===
+Three of the four nitrogen atoms of the macrocycle cyclam (1,4,8,11-tetraazacyclotetradecane) are protected with [[tosyl]] groups. The product is treated with 1,4-bis(brommethyl)benzene and [[potassium carbonate]] in [[acetonitrile]]. After cleaving of the tosyl groups with [[hydrobromic acid]], plerixafor octahydrobromide is obtained.<ref>{{cite web|last1=Bridger|first1=G.|year=1993|title=Linked cyclic polyamines with activity against HIV. WO/1993/012096| url=http://www.wipo.int/pctdb/en/wo.jsp?wo=1993012096|display-authors=etal}}</ref>
+
+==History==
+The molecule was first synthesised in 1987 to carry out basic studies on the [[redox]] chemistry of dimetallic coordination compounds.<ref name="De Clercq">{{Cite journal | last1 = Ciampolini | first1 = M. | last2 = Fabbrizzi | first2 = L. | last3 = Perotti | first3 = A. | last4 = Poggi | first4 = A. | last5 = Seghi | first5 = B. | last6 = Zanobini | first6 = F. | doi = 10.1021/ic00268a022 | title = Dinickel and dicopper complexes with N,N-linked bis(cyclam) ligands. An ideal system for the investigation of electrostatic effects on the redox behavior of pairs of metal ions | journal = Inorganic Chemistry | volume = 26 | issue = 21 | pages = 3527–3533 | year = 1987 | pmid =  | pmc = }}</ref> Then, it was [[serendipitously]] discovered by another chemist that such a molecule could have a potential use in the treatment of HIV because of its role in the blocking of CXCR4, a chemokine receptor which acts as a co-receptor for certain strains of HIV (along with the virus's main cellular receptor, CD4).<ref name="Ciampolini">{{Cite journal | last1 = Davies | first1 = S. L. | last2 = Serradell | first2 = N. | last3 = Bolós | first3 = J. | last4 = Bayés | first4 = M. | title = Plerixafor Hydrochloride | journal = Drugs of the Future | volume = 32 | issue = 2| pages = 123 | year = 2007 | doi = 10.1358/dof.2007.032.02.1071897}}</ref> Development of this indication was terminated because of lacking oral availability and [[Heart|cardiac]] disturbances. Further studies led to the new indication for cancer patients.<ref name="Ciampolini"/>
+
+==Society and culture==
+
+===Legal status===
+Plerixafor has [[orphan drug]] status in the United States and European Union for the mobilization of [[hematopoietic stem cells]]. It was approved by the [[U.S. Food and Drug Administration]] for this indication on 15 December 2008.<ref>{{cite press release |url=http://www.prescribingreference.com/news/showNews/which/MozobilApprovedForNonHodgkinsLymphomaAndMultipleMyeloma121801 |title= Mozobil approved for non-Hodgkin’s lymphoma and multiple myeloma |date=December 18, 2008 |publisher=''Monthly Prescribing Reference''| accessdate=January 3, 2009}}</ref> In Europe, the drug was approved after a positive [[Committee for Medicinal Products for Human Use]] assessment report on 29 May 2009.<ref name="CHMP" /> The drug was approved for use in Canada by [[Health Canada]] on 8 December 2011.<ref>[http://www.hc-sc.gc.ca/dhp-mps/prodpharma/sbd-smd/drug-med/nd_ad_2012_mozobil_142638-eng.php Notice of Decision for MOZOBIL]</ref>
+
+==Research==
+
+===Small molecule cancer therapy===
+Plerixafor was seen to reduce metastasis in mice in several studies.<ref>{{Cite journal | last1 = Smith | first1 = M. C. P. | last2 = Luker | first2 = K. E. | last3 = Garbow | first3 = J. R. | last4 = Prior | first4 = J. L. | last5 = Jackson | first5 = E. | last6 = Piwnica-Worms | first6 = D. | last7 = Luker | first7 = G. D. | title = CXCR4 Regulates Growth of Both Primary and Metastatic Breast Cancer | journal = Cancer Research | volume = 64 | issue = 23| pages = 8604–8612 | year = 2004 | doi = 10.1158/0008-5472.CAN-04-1844| pmid = 15574767}}</ref> It has also been shown to reduce recurrence of [[glioblastoma]] in a mouse model after radiotherapy. In this model, the cancer surviving radiation are critically depended on bone marrow derived cells for vasculogenesis whose recruitment mediated by SDF-1 CXCR4 interaction is blocked by plerixafor.<ref>{{Cite journal | last1 = Kioi | first1 = M. | last2 = Vogel | first2 = H. | last3 = Schultz | first3 = G. | last4 = Hoffman | first4 = R. M. | last5 = Harsh | first5 = G. R. | last6 = Brown | first6 = J. M. | title = Inhibition of vasculogenesis, but not angiogenesis, prevents the recurrence of glioblastoma after irradiation in mice | journal = Journal of Clinical Investigation | volume = 120 | issue = 3 | pages = 694–705 | year = 2010 | pmid = 20179352 | pmc = 2827954 | doi = 10.1172/JCI40283}}</ref>
+
+===Use in generation of other stem cells===
+Researchers at Imperial College have demonstrated that plerixafor in combination with [[vascular endothelial growth factor]] (VEGF) can produce [[mesenchymal stem cells]] and [[endothelial progenitor cell]]s in mice.<ref>{{Cite journal | last1 = Pitchford | first1 = S. | last2 = Furze | first2 = R. | last3 = Jones | first3 = C. | last4 = Wengner | first4 = A. | last5 = Rankin | first5 = S. | title = Differential Mobilization of Subsets of Progenitor Cells from the Bone Marrow | journal = Cell Stem Cell | volume = 4 | issue = 1 | pages = 62–72 | year = 2009 | pmid = 19128793 | doi = 10.1016/j.stem.2008.10.017}}</ref>
+
+===Other uses===
+Blockade of [[CXCR4]] signalling by plerixafor has also unexpectedly been found to be effective at counteracting [[opioid-induced hyperalgesia]] produced by chronic treatment with [[morphine]], though only animal studies have been conducted as yet.<ref name="pmid21193025">{{cite journal |vauthors=Wilson NM, Jung H, Ripsch MS, Miller RJ, White FA |title=CXCR4 Signaling Mediates Morphine-induced Tactile Hyperalgesia |journal=Brain, Behavior, and Immunity |volume=25 |issue=3 |pages=565–73 |date=March 2011 |pmid=21193025 |doi=10.1016/j.bbi.2010.12.014 |url= |pmc=3039030}}</ref>
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* {{MeSH|JM+3100}}
+
+{{Immunostimulants}}
+{{Chemokine receptor modulators}}
+
+[[Category:Orphan drugs]]
+[[Category:Immunostimulants]]
+[[Category:Nitrogen heterocycles]]

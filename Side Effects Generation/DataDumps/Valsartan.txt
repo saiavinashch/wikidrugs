@@ -1,0 +1,132 @@
+{{Drugbox
+| verifiedrevid = 470628341
+| IUPAC_name = (''S'')-3-methyl-2-(''N''-<nowiki/>{[2'-(2''H''-1,2,3,4-tetrazol-5-yl)biphenyl-4-yl]methyl}pentanamido)butanoic acid
+| image = Valsartan skeletal.svg
+| image2 = Valsartan ball-and-stick.png
+<!--Clinical data--> 
+| tradename = Diovan
+| Drugs.com = {{drugs.com|monograph|valsartan}}
+| MedlinePlus = a697015
+| licence_US = Valsartan
+| pregnancy_US = D
+| pregnancy_category =
+| legal_US = Rx-only
+| legal_status = 
+| routes_of_administration = oral
+<!--Pharmacokinetic data-->
+| bioavailability = 25%
+| protein_bound = 95%
+| metabolism =
+| elimination_half-life = 6 hours
+| excretion = [[Renal]] 30%, [[biliary]] 70%
+<!--Identifiers-->
+| index_label = <!-- parent -->
+| index2_label = tritiated
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 137862-53-4
+| ATC_prefix = C09
+| ATC_suffix = CA03
+| ATC_supplemental =
+| PubChem = 60846
+| IUPHAR_ligand = 3937
+| IUPHAR_ligand2 = 593
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00177
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 54833
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 80M03YXJ7I
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00400
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 9927
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1069
+<!--Chemical data-->
+| C=24 | H=29 | N=5 | O=3
+| molecular_weight = 435.519 g/mol
+| smiles = O=C(O)[C@@H](N(C(=O)CCCC)Cc3ccc(c1ccccc1c2nnnn2)cc3)C(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C24H29N5O3/c1-4-5-10-21(30)29(22(16(2)3)24(31)32)15-17-11-13-18(14-12-17)19-8-6-7-9-20(19)23-25-27-28-26-23/h6-9,11-14,16,22H,4-5,10,15H2,1-3H3,(H,31,32)(H,25,26,27,28)/t22-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ACWBQPMHZXGDFX-QFIPXVFZSA-N
+}}
+
+'''Valsartan''' (trade name '''Diovan''') is mainly used for treatment of [[hypertension|high blood pressure]], [[congestive heart failure]], and to increase the chances of living longer after a [[myocardial infarction|heart attack]]. It is an [[angiotensin II receptor antagonist]] (commonly called an ARB, or angiotensin receptor blocker), that is selective for the [[Angiotensin II receptor type 1|type I (AT<sub>1</sub>) angiotensin receptor]].
+
+==Medical uses==
+Valsartan is used to treat [[hypertension|high blood pressure]], [[congestive heart failure]], and to reduce death for people with left ventricular dysfunction after having had a [[myocardial infarction|heart attack]].<ref name=G&G>{{cite book |last=Randa |first=Hilal-Dandan |chapter=Chapter 26. Renin and Angiotensin |title=[[Goodman & Gilman's The Pharmacological Basis of Therapeutics]] |editor1-last=Brunton |editor1-first=L. L. |editor2-last=Chabner |editor2-first=Bruce |editor3-last=Knollmann |editor3-first=Björn C. |edition=12th |location=New York |publisher=McGraw-Hill |year=2011 |isbn=978-0-07-162442-8}}</ref><ref name="PI">{{cite web|url = http://www.pharma.us.novartis.com/product/pi/pdf/diovan.pdf | title = Diovan prescribing information | publisher = Novartis}}</ref>
+
+There is contradictory evidence with regard to [[Management of heart failure|treating people with heart failure]] with a combination of an [[angiotensin receptor blocker]] like valsartan and an [[angiotensin-converting enzyme inhibitor]], with two major clinical trials (CHARM-additive and ValHeFt) showing a reduction in death, and two others (VALIANT and ONTARGET) showing no benefits, and more adverse effects including heart attacks.<ref name=G&G/>
+
+In people with type II diabetes and high blood pressure or [[albuminuria|albumin in the urine]], valsartan is used to slow the worsening and the development end-stage renal disease.<ref>{{Cite journal|title = Management of Hyperglycemia in Type 2 Diabetes, 2015: A Patient-Centered Approach: Update to a Position Statement of the American Diabetes Association and the European Association for the Study of Diabetes|url = http://care.diabetesjournals.org/content/38/1/140|journal = Diabetes Care|date = 2015-01-01|issn = 0149-5992|pmid = 25538310|pages = 140–149|volume = 38|issue = 1|doi = 10.2337/dc14-2441|language = en|first = Silvio E.|last = Inzucchi|first2 = Richard M.|last2 = Bergenstal|first3 = John B.|last3 = Buse|first4 = Michaela|last4 = Diamant|first5 = Ele|last5 = Ferrannini|first6 = Michael|last6 = Nauck|first7 = Anne L.|last7 = Peters|first8 = Apostolos|last8 = Tsapas|first9 = Richard|last9 = Wender}}</ref>
+
+==Contraindications==
+The packaging for valsartan includes a warning stating the drug should not be used with the [[renin inhibitor]] [[aliskiren]] in people with diabetes mellitus. It also states the drug should not be used in people with [[renal impairment|kidney disease]].<ref name="PI" />
+
+Valsartan falls in FDA pregnancy category D and includes a [[black box warning]] for fetal toxicity.<ref name="PI" />  Discontinuation of these agents is recommended immediately after detection of pregnancy and an alternative medication should be started.<ref name="PI" />  The US labeling makes no recommendation regarding continuation or discontinuation of valsartan for breast-feeding mothers.<ref name="PI" /> The Canadian labeling does not recommend use by nursing women.<ref name="lexi">{{cite web|title = DIOVAN Product Monograph|publisher = Novartis Pharmaceuticals Canada Inc.|accessdate = 5 November 2015|url = http://webprod5.hc-sc.gc.ca/dpd-bdpp/index-eng.jsp|website = Health Canada Drug Product Database}}</ref>
+
+==Side effects==
+Rates of side effects depends on the reason the medication is used.
+
+===Heart failure===
+Rates of adverse effects are based on a comparison versus [[placebo]] in people with heart failure.<ref name=":0">{{Cite web|title = DailyMed - VALSARTAN - valsartan tablet|url = http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6e2cd953-88bf-4094-8ba8-2c9ba020f4d7|website = dailymed.nlm.nih.gov|accessdate = 2015-11-04}}</ref> Most common side effects include [[dizziness]] (17% vs 9% ), [[hypotension|low blood pressure]] (7% vs 2%), and [[diarrhea]] (5% vs 4%).<ref name=":0" /> Less common side effects include [[arthralgia|joint pain]], fatigue, and back pain (all 3% vs 2%).<ref name=":0" />
+
+===Hypertension===
+Clinical trials for valsartan treatment for hypertension versus placebo demonstrate side effects like viral infection (3% vs 2%), fatigue (2% vs 1%) and abdominal pain (2% vs 1%). Minor side effects that occurred at >1% but were similar to rates from the placebo group include:<ref name=":0" />
+* headache
+* dizziness
+* [[Upper respiratory tract infection|upper respiratory infection]]
+* cough 
+* diarrhea
+* [[rhinitis]]/[[sinusitis]]
+* nausea
+* [[pharyngitis]] 
+* [[edema]] 
+* arthralgia
+
+==Interactions==
+[[File:Two boxes and a blister pack of Co-Diovan (Valsartan and hydrochlorothiazide), Singapore - 20150210.jpg|thumb|Co-Diovan (Valsartan and [[hydrochlorothiazide]])]]
+
+The US prescribing information lists the following drug interactions for valsartan:
+*Other inhibitors of the renin-angiotensin system may increase the risks of low blood pressure, kidney problems, and hyperkalemia
+*Potassium sparing diuretics, potassium supplements, salt substitutes containing potassium may increase the risk of hyperkalemia.
+*NSAIDs may increase the risk of kidney problems and may interfere with blood pressure-lowering effects.
+*Valsartan may increase the concentration of lithium.<ref name="PI" />
+
+==Mechanism of action==
+Valsartan blocks the actions of [[Angiotensin|angiotensin II]], which include constricting blood vessels and activating [[aldosterone]], to reduce blood pressure.<ref name=":1" /> The drug binds to angiotensin type I receptors (AT1), working as an antagonist. This mechanism of action is different than that of the ACE inhibitor drugs, which block the conversion of angiotensin I to angiotensin II. As valsartan acts at the receptor, it can provide more complete angiotensin II antagonism since angiotensin II is generated by other enzymes as well as ACE. Also, valsartan does not affect the metabolism of bradykinin like ACE inhibitors do.<ref name=":1">{{Cite book|title = Basic & Clinical Pharmacology|last = Katzung|first = Bertram G|publisher = McGraw-Hill Education|year = 2015|isbn = 978-0071825054|location = |pages = |url = http://accessmedicine.mhmedical.com/book.aspx?bookid=1193|last2 = Trevor|first2 = Anthony J.|chapter = Chapter 11|edition = 13}}</ref>
+
+==Economics==
+In 2010, valsartan (trade name Diovan) achieved annual sales of $2.052 billion in the United States and $6.053 billion worldwide.<ref>{{Cite web|url = https://www.novartis.com/sites/www.novartis.com/files/novartis-annual-report-2010-en.pdf|title = Novartis Annual Report 2010|date = |accessdate = |website = |publisher = |last = |first = }}</ref> The patents for valsartan and valsartan/hydrochlorothiazide expired in September 2012.<ref>{{cite news| title = Blockbuster Drugs That Will Go Generic Soon| date = April 29, 2011 | author = Philip Moeller | work = [[U.S.News & World Report]] | url = http://money.usnews.com/money/blogs/the-best-life/2011/04/29/blockbuster-drugs-that-will-go-generic-soon}}</ref><ref>{{cite news | title =  Novartis's Jimenez Has Blockbuster Plans For Diovan After Patent Expires| author = Eva Von Schaper | date = August 5, 2011 | url = https://www.bloomberg.com/news/2011-08-05/novartis-has-blockbuster-diovan-plans-after-patent-expires-1-.html | publisher = Bloomberg}}</ref>
+
+==Research==
+In people with impaired glucose tolerance, valsartan may decrease the incidence of developing [[diabetes mellitus type 2]]. However, the absolute risk reduction is small (less than 1&nbsp;percent per year) and diet, exercise or other drugs, may be more protective. In the same study, no reduction in the rate of cardiovascular events (including death) was shown.<ref>{{cite journal  |vauthors=McMurray JJ, Holman RR, Haffner SM, etal | title =  Effect of valsartan on the incidence of diabetes and cardiovascular events| journal = [[The New England Journal of Medicine]] | volume = 362 | issue = 16 | pages = 1477–90 | date = April 2010 | pmid = 20228403 | doi = 10.1056/NEJMoa1001121 | url = http://www.nejm.org/doi/pdf/10.1056/NEJMoa1001121 | format = PDF}}</ref>
+
+In one study of people without diabetes, valsartan reduced the risk of developing diabetes mellitus over [[amlodipine]], mainly for those with hypertensive.<ref>{{cite journal |title=Progressive effects of valsartan compared with amlodipine in prevention of diabetes according to categories of diabetogenic risk in hypertensive patients: the VALUE trial. |author=Kjeldsen SE1, McInnes GT, Mancia G, Hua TA, Julius S, Weber MA, Coca A, Girerd X, Jamerson K, Larochelle P, Macdonald T, Schmieder RE, Anthony Schork M, Viskoper R, Widimsky J, Zanchetti A. |pmid=18608200 | doi=10.1080/08037050802169644 |volume=17 |journal=Blood Press |pages=170–7}}</ref>
+
+A prospective study demonstrated a reduction in the incidence and progression of Alzheimer's disease and dementia.<ref name="pmid20068258">{{cite journal  |vauthors=Li NC, Lee A, Whitmer RA, etal | title =  Use of angiotensin receptor blockers and risk of dementia in a predominantly male population: prospective cohort analysis| journal = [[BMJ]] | volume = 340 | issue = | pages = b5465 | date = January 2010 | pmid = 20068258 | pmc = 2806632 | doi = 10.1136/bmj.b5465 | url = http://www.bmj.com/highwire/filestream/340049/field_highwire_article_pdf/0.pdf}}</ref>
+
+==Combination drugs==
+[[Amlodipine]] and valsartan is a combination drugs for hypertension. The combination is not approved for use by anyone younger than 18 years old. For who have [[diabetes]] or [[kidney disease]] the combination drugs cannot be given with medication that contains [[aliskiren]].<ref>{{cite web |url=https://www.drugs.com/mtm/amlodipine-and-valsartan.html |title=amlodipine and valsartan |accessdate=September 2, 2016}}</ref>
+
+== See also ==
+* [[Angiotensin II receptor antagonist]]
+* [[Discovery and development of angiotensin receptor blockers]]
+* [[Valsartan/hydrochlorothiazide]]
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [https://www.ncbi.nlm.nih.gov/pubmedhealth/PMHT0012598/ Valsartan] National Library of Medicine: Drug Information Portal
+
+{{Angiotensin II receptor antagonists}}
+{{Angiotensin receptor modulators}}
+
+[[Category:Carboxamides]]
+[[Category:Angiotensin II receptor antagonists]]
+[[Category:Biphenyls]]
+[[Category:Carboxylic acids]]
+[[Category:Novartis]]
+[[Category:Tetrazoles]]

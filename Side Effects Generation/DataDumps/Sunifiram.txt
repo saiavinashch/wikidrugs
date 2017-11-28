@@ -1,0 +1,70 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 376278898
+| IUPAC_name = 1-Benzoyl-4-propanoylpiperazine
+| image = Sunifiram.svg
+| width = 225px
+
+<!--Clinical data-->
+| tradename = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- Schedule I -->
+| legal_UK = <!-- Class A -->
+| legal_US = Not FDA approved; unscheduled 
+| legal_status = 
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| excretion = 
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 314728-85-3
+| ATC_prefix = 
+| ATC_suffix = 
+| PubChem = 4223812
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 309176
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 3432996
+| UNII = 66924E735K
+| UNII_Ref = {{fdacite|changed|FDA}}
+| synonyms = DM-235
+
+<!--Chemical data-->
+| C=14 | H=18 | N=2 | O=2 
+| molecular_weight = 246.304 g/mol
+| SMILES = CCC(=O)N1CCN(CC1)C(=O)c2ccccc2
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C14H18N2O2/c1-2-13(17)15-8-10-16(11-9-15)14(18)12-6-4-3-5-7-12/h3-7H,2,8-11H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = DGOWDUFJCINDGI-UHFFFAOYSA-N
+}}
+
+'''Sunifiram''' (developmental code name '''DM-235''') is an [[experimental drug]] which has [[antiamnesic]] effects in [[animal studies]] and with significantly higher [[potency (pharmacology)|potency]] than [[piracetam]].<ref name=Gualtieri2016rev>{{cite journal | vauthors = Gualtieri F | title = Unifi nootropics from the lab to the web: a story of academic (and industrial) shortcomings | journal = Journal of Enzyme Inhibition and Medicinal Chemistry | volume = 31 | issue = 2 | pages = 187–94 | year = 2016 | pmid=25831025 | doi=10.3109/14756366.2015.1021252}}</ref> Sunifiram is a molecular simplification of [[unifiram]] (DM-232).<ref>{{Cite journal | doi = 10.1021/jm000972h | last1 = Manetti | first1 = D. | last2 = Ghelardini | first2 = C. | last3 = Bartolini | first3 = A. | last4 = Dei | first4 = S. | last5 = Galeotti | first5 = N. | last6 = Gualtieri | first6 = F. | last7 = Romanelli | first7 = M. N. | last8 = Teodori | first8 = E. | title = Molecular simplification of 1,4-diazabicyclo4.3.0nonan-9-ones gives piperazine derivatives that maintain high nootropic activity | journal = Journal of Medicinal Chemistry | volume = 43 | issue = 23 | pages = 4499–4507 | year = 2000 | pmid = 11087574}}</ref> Another analogue is [[sapunifiram]] (MN-19).<ref name="pmid16834757">{{cite journal | vauthors = Romanelli MN, Galeotti N, Ghelardini C, Manetti D, Martini E, Gualtieri F | title = Pharmacological characterization of DM232 (unifiram) and DM235 (sunifiram), new potent cognition enhancers | journal = CNS Drug Rev | volume = 12 | issue = 1 | pages = 39–52 | year = 2006 | pmid = 16834757 | doi = 10.1111/j.1527-3458.2006.00039.x | url = }}</ref> As of 2016, sunifiram had not been subjected to [[toxicology]] testing, nor to any human [[clinical trial]]s, and is not approved for use anywhere in the world.<ref name=Gualtieri2016rev/>
+
+==Pharmacology==
+The [[mechanism of action]] of sunifiram is unknown.<ref name="pmid25831025" /> Sunifiram, as well as unifiram, were assayed at a wide panel of sites, including the most important [[receptor (biochemistry)|receptor]]s, [[ion channel]]s, and [[membrane transport protein|transporter]]s, but showed no [[affinity (pharmacology)|affinity]] for any of the sites.<ref name="pmid25831025">{{cite journal | vauthors = Gualtieri F | title = Unifi nootropics from the lab to the web: a story of academic (and industrial) shortcomings | journal = J Enzyme Inhib Med Chem | volume = 31 | issue = 2 | pages = 187–94 | year = 2016 | pmid = 25831025 | doi = 10.3109/14756366.2015.1021252 | url = }}</ref><ref name="pmid16834757">{{cite journal | vauthors = Romanelli MN, Galeotti N, Ghelardini C, Manetti D, Martini E, Gualtieri F | title = Pharmacological characterization of DM232 (unifiram) and DM235 (sunifiram), new potent cognition enhancers | journal = CNS Drug Rev | volume = 12 | issue = 1 | pages = 39–52 | year = 2006 | pmid = 16834757 | doi = 10.1111/j.1527-3458.2006.00039.x | url = }}</ref> They specifically did not bind to the [[glutamate receptor|glutamate]], [[GABA receptor|GABA]], [[serotonin receptor|serotonin]], [[dopamine receptor|dopamine]], [[adrenergic receptor|adrenergic]], [[histamine receptor|histamine]], [[acetylcholine receptor|acetylcholine]], or [[opioid receptor]]s at concentrations of up to 1&nbsp;μM.<ref name="pmid25831025" /><ref name="pmid16834757" /> In addition, the drugs were tested on recombinant [[AMPA receptor]]s and showed no potentiation of the receptors, indicating that they do not act as [[AMPA receptor positive allosteric modulator]]s.<ref name="pmid25831025" /> However, they were able to prevent the [[amnesia]] induced by the AMPA receptor [[receptor antagonist|antagonist]] [[NBQX]] in the passive avoidance test, suggesting that [[upstream and downstream (transduction)|indirect/downstream]] AMPA receptor activation may be involved in their memory-enhancing effects.<ref name="pmid16834757" />
+
+Sunifiram, as well as other nootropics such as piracetam, [[levetiracetam]], and [[aniracetam]] are able to antagonize inhibition of [[glucose]] transport by [[barbiturate]]s (e.g., [[pentobarbital]]), [[diazepam]], and certain other drugs in human [[erythrocyte]]s ''[[in vitro]]'' (K<sub>i</sub> = 26.0&nbsp;uM for sunifiram), and this action has been found to correlate with their potency in reversing [[scopolamine]]-induced memory deficits in mice.<ref name="pmid16834757" /> However, this action has been regarded as very unlikely to represent the main mechanism of action of sunifiram.<ref name="pmid25831025" />
+
+==References==
+{{Reflist|2}}
+
+
+{{Nootropics}}
+
+[[Category:Benzamides]]
+[[Category:Designer drugs]]
+[[Category:Drugs with unknown mechanisms of action]]
+[[Category:Nootropics]]
+[[Category:Piperazines]]

@@ -1,0 +1,75 @@
+{{Drugbox
+| verifiedrevid = 447821902
+| IUPAC_name = ''N''-[(3''R'',4''S'')-1-[2-(4-ethyl-5-oxotetrazol-1-yl)ethyl] -3-methylpiperidin-4-yl]-''N''-(2-fluorophenyl)-2-methoxyacetamide
+| image = Brifentanil Structural Formulae.png
+| width = 180
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA =  
+| legal_UK =  
+| legal_US =  
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number = 101345-71-5
+| ATC_prefix = none
+| ATC_suffix =  
+| ChEMBL = 2220476
+| PubChem = 60672
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 54682
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 6GDT77PQBW
+
+<!--Chemical data-->
+| C=20 | H=29 | F=1 | N=6 | O=3 
+| molecular_weight = 420.481 g/mol
+| smiles = Fc1ccccc1N(C(=O)COC)[C@H]3CCN(CCN2\N=N/N(C2=O)CC)C[C@H]3C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C20H29FN6O3/c1-4-25-20(29)26(23-22-25)12-11-24-10-9-17(15(2)13-24)27(19(28)14-30-3)18-8-6-5-7-16(18)21/h5-8,15,17H,4,9-14H2,1-3H3/t15-,17+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = KKMGCTVJCQYQPV-WBVHZDCISA-N
+| synonyms = Brifentanil
+}}
+
+'''Brifentanil''' (A-3331) is an [[opioid]] [[analgesic]] that is an [[analog (chemistry)|analogue]] of [[fentanyl]] and was developed in the early 1990s.<ref name=Lalinde>{{Cite journal | doi = 10.1021/jm00172a032| pmid = 2170652| title = Synthesis and pharmacological evaluation of a series of new 1,4-disubstituted 3-methyl-piperidine analgesics| journal = Journal of Medicinal Chemistry| volume = 33| issue = 10| pages = 2876–82| year = 1990| last1 = Lalinde | first1 = N. | last2 = Moliterni | first2 = J. | last3 = Wright | first3 = D. | last4 = Spencer | first4 = H. K. | last5 = Ossipov | first5 = M. H. | last6 = Spaulding | first6 = T. C. | last7 = Rudo | first7 = F. G. }}</ref> 
+ 
+Brifentanil is most similar to highly potent, short-acting fentanyl analogues such as [[alfentanil]]. The effects of brifentanil are very similar to those of alfentanil, with strong but short lasting analgesia and sedation, and particularly notable itching and respiratory depression.<ref>Camporesi EM, Esposito B, Cigada M. Ventilatory response to hypoxia and hypercapnia after intravenous brifentanyl (a new synthetic narcotic). Minerva Anestesiologica. 1991 Sep;57(9):618, (Italian).</ref>
+
+Side effects of [[fentanyl]] analogs are similar to those of fentanyl itself, which include [[itching]], [[nausea]] and potentially serious [[respiratory depression]], which can be life-threatening. Fentanyl analogs have killed hundreds of people throughout Europe and the former Soviet republics since the most recent resurgence in use began in Estonia in the early 2000s, and novel derivatives continue to appear.<ref>{{cite journal | url=http://www.ijdp.org/article/S0955-3959%2815%2900097-3/abstract | title=Fentanyls: Are we missing the signs? Highly potent and on the rise in Europe. | author=Jane Mounteney | author2=Isabelle Giraudon | author3=Gleb Denissov | author4=Paul Griffiths | journal=The international journal of drug policy. | date=July 2015 | volume=26 | issue=7 | pages=626–631 | doi=10.1016/j.drugpo.2015.04.003 | pmid=25976511}}</ref> The risk of respiratory depression is especially high with potent fentanyl analogues such as alfentanil and brifentanil, and these drugs pose a significant risk of death if used outside of a hospital setting with appropriate artificial breathing apparatus available.
+
+==Synthesis==
+[[File:Brifentanil synthesis.png|thumb|700px|center|Brifentanil synthesis:<ref name=Lalinde/>]]
+
+== References ==
+{{Reflist|2}}
+
+{{Opioidergics}}
+
+[[Category:Synthetic opioids]]
+[[Category:Piperidines]]
+[[Category:Tetrazoles]]
+[[Category:Fluoroarenes]]
+[[Category:Anilines]]
+[[Category:Ethers]]
+[[Category:Ureas]]
+[[Category:Acetamides]]
+[[Category:Mu-opioid agonists]]
+
+
+{{analgesic-stub}}

@@ -1,0 +1,75 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 407438990
+| IUPAC_name = 1-''N'',3-''N-bis''(2,3-dihydroxypropyl)-2,4,6-triiodo-5-(2-methoxyacetamido)-1-''N''-methylbenzene-1,3-dicarboxamide
+| image = Iopromide.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|iopromide}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number =  73334-07-3
+| ATC_prefix = V08
+| ATC_suffix = AB05
+| PubChem = 3736
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 712BAC33MZ
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01893
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 63578
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1725
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 3605
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=18 | H=24 | I=3 | N=3 | O=8 
+| molecular_weight = 791.11187
+| smiles            = CN(CC(CO)O)C(=O)c1c(c(c(c(c1I)NC(=O)COC)I)C(=O)NCC(CO)O)I
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C18H24I3N3O8/c1-24(4-9(28)6-26)18(31)12-13(19)11(17(30)22-3-8(27)5-25)14(20)16(15(12)21)23-10(29)7-32-2/h8-9,25-28H,3-7H2,1-2H3,(H,22,30)(H,23,29)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = DGAIEPBNLOQYER-UHFFFAOYSA-N
+}}
+'''Iopromide''' is a molecule used as a [[contrast medium]]. It is marketed under the name '''Ultravist''' which is produced by Bayer Healthcare. It is a low [[osmolar]], [[non-ionic]] contrast agent for [[intravascular]] use.<ref>[http://imaging.bayerhealthcare.com/html/ultravist/index.html The entry on Bayer Healthcare's website about Ultravist]</ref>
+
+It is commonly used in radiographic studies such as [[intravenous urogram]]s, brain [[computer tomography]] (CT) and [[CT pulmonary angiogram]]s (CTPAs).
+
+==Notes==
+<references />
+
+== External links ==
+*  [http://www.ultravist.de/scripts/pages/en/ultravist/index.php Bayer Schering Pharma global Ultravist Website]
+
+{{Contrast media}}
+
+[[Category:Radiocontrast agents]]
+[[Category:Benzamides]]
+[[Category:Acetanilides]]
+[[Category:Iodoarenes]]
+
+
+{{pharmacology-stub}}

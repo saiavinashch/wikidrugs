@@ -1,0 +1,85 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 476997570
+| image = Gd(DTPA)(aq)2-.png
+<!--Clinical data-->
+| tradename = 
+| Drugs.com = {{drugs.com|CDI|gadopentetate_dimeglumine}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status = 
+| routes_of_administration =
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = Distribution half life 12 minutes, elimination half 100 minutes
+| excretion =
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 86050-77-3
+| ATC_prefix = V08
+| ATC_suffix = CA01
+| ATC_supplemental = 
+| PubChem = 55466
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00789
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 50087
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = RH248G8V27
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01707
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 31797
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1200431
+<!--Chemical data-->
+| C=14 | H=18 | Gd=1 | N=3 | O=10
+| molecular_weight =938.005 
+| smiles = [Gd+3].[O-]C(=O)CN(CCN(CC(=O)O)CC([O-])=O)CCN(CC([O-])=O)CC(=O)O.O[C@H]([C@@H](O)CNC)[C@H](O)[C@H](O)CO.O[C@@H](CNC)[C@@H](O)[C@H](O)[C@H](O)CO
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C14H23N3O10.2C7H17NO5.Gd/c18-10(19)5-15(1-3-16(6-11(20)21)7-12(22)23)2-4-17(8-13(24)25)9-14(26)27;2*1-8-2-4(10)6(12)7(13)5(11)3-9;/h1-9H2,(H,18,19)(H,20,21)(H,22,23)(H,24,25)(H,26,27);2*4-13H,2-3H2,1H3;/q;;;+3/p-3/t;2*4-,5+,6+,7+;/m.00./s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = LGMLJQFQKXPRGA-VPVMAENOSA-K
+|drug_name=|alt=|caption=|type=|MedlinePlus=|licence_EU=|licence_US=}}
+
+'''Gadopentetic acid''' is one of the  trade names for a [[gadolinium]]-based [[MRI contrast agent]], usually administered as a salt of a complex of gadolinium with [[DTPA]] (''d''iethylene''t''riamine''p''ent''a''cetate) with the chemical formula A<sub>2</sub>[Gd(DTPA)(H<sub>2</sub>O)]; when cation A is the protonated form of the [[amino sugar]] [[meglumine]] the salt goes under the name "gadopentetate dimeglumine". It was described in 1981 and introduced as the first MRI contrast agent in 1987. It is used to assist imaging of blood vessels and of inflamed or diseased tissue where the blood vessels become "leaky".  It is often used when viewing [[intracranial]] [[lesion]]s with abnormal [[blood vessel|vascularity]] or abnormalities in the [[blood–brain barrier]].  It is usually injected intravenously. Gd-DTPA is classed as an acyclic, ionic gadolinium contrast medium.  Its [[paramagnetic]] property reduces the [[Spin-lattice relaxation time|T1]] [[Relaxation (NMR)|relaxation time]] (and to some extent the T2 and T2* relaxation times) in [[NMR]], which is the source of its clinical utility.
+
+[[File:Magnevist Bottle.JPG|thumb|left|A bottle of Magnevist contrast agent.]]
+
+Marketed as '''Magnevist''' by [[Bayer Schering Pharma]], it was the first intravenous contrast agent to become available for clinical use, and is in widespread use around the world.  Similar contrast agents are  Magnetol manufactured by Soreq, Dotarem ([[gadoterate]]) [[Guerbet]], MultiHance ([[gadobenate dimeglumine]]) and ProHance ([[gadoteridol]]) manufactured by [[Bracco (company)|Bracco]], Omniscan ([[gadodiamide]]) manufactured by [[GE Healthcare]], and OptiMARK ([[gadoversetamide]]) manufactured by [[Mallinckrodt]].
+
+Gadolinium based agents may cause a toxic reaction known as [[nephrogenic systemic fibrosis]] (NSF) in patients with severe kidney problems.<ref name="murphy">{{cite journal |vauthors=Murphy KJ, Brunberg JA, Cohan RH | title=Adverse reactions to gadolinium contrast media: a review of 36 cases | journal=American Journal of Roentgenology | year=1996 | volume=167 | pages=847–849 | pmid=8819369 | issue=4 | doi=10.2214/ajr.167.4.8819369}}</ref><ref name="thomsen">{{cite journal |author1=H.S. Thomsen |author2=S.K. Morcos |author3=P. Dawson | title=Is there a causal relation between the administration of gadolinium-based contrast media and the development of nephrogenic systemic fibrosis (NSF)? | journal=Clinical Radiology | volume=61 | issue=11 |date=November 2006 | pages=905–906 | doi=10.1016/j.crad.2006.09.003 | pmid=17018301}}</ref>
+
+Compared to other gadolinium-based MRI contrast agents, Gadopentetate dimeglumine (Gd-DTPA2-) [[chelates]] allow [[Delayed Gadolinium Enhanced Magnetic Resonance Imaging of Cartilage (dGEMRIC)|delayed Gadolinium-enhanced Magnetic Resonance of Cartilage (dGEMRIC)]]. The unique charge characteristic of this complex allows researchers to inversely measure [[spin-lattice relaxation time]]s as they are related to the concentration of [[proteoglycan]] aggregates and charged [[glycosaminoglycan]] side chains in [[articular cartilage]].<ref>Bashir A, Gray ML, Boutin RD, Burstein D. Glycosaminoglycan in articular cartilage: in vivo assessment with delayed Gd(DTPA)(2-)-enhanced MR imaging. Radiology. Nov 1997;205(2) 551–558.</ref><ref>Bashir A, Gray ML, Hartke J, Burstein D. Nondestructive imaging of human cartilage glycosaminoglycan concentration by MRI. Magn Reson Med. May 1999;41(5) 857–865.</ref>
+
+==Chemical structure and mode of action==
+In the complex of Gd<sup>3+</sup> and DTPA<sup>5−</sup> the gadolinium ion is 9-coordinate, surrounded by the 3 nitrogen atoms and 5 oxygen atoms from the carboxylate groups. The ninth coordination site is occupied by a water molecule.<ref>A. Dean Sherry, Peter Caravan,  Robert E. Lenkinski "Primer on Gadolinium Chemistry" J. Magnetic Resonance 2009, volume 30, p1240–1248. {{DOI|10.1002/jmri.21966}}</ref> This water molecule is [[labile]] and exchanges rapidly with water molecules in the immediate vicinity of the gadolinium complex. The gadolinium ion has 7 unpaired electrons with parallel spins and is strongly [[paramagnetic]] with an <sup>8</sup>S electronic ground state. The [[relaxation time]] of the water molecules is affected by their intermittent binding to the paramagnetic centre. This alters their MRI properties and enables contrast enhancement to be achieved.<ref>{{cite journal|last=Caravan|first=Peter|author2=Ellison, Jeffrey J. |author3=McMurry, Thomas J.  |author4= Lauffer, Randall B. |year=1999|title=Gadolinium(III) Chelates as MRI Contrast Agents:  Structure, Dynamics, and Applications|journal=Chem. Rev.|volume=99|issue=9|pages=2293–2342|doi=10.1021/cr980440x|pmid=11749483}}</ref>
+
+==See also==
+* [[Gadobenic acid]]
+* [[Gadoxetic acid]]
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.imaging.bayerhealthcare.com/html/magnevist/index.html?WT.mc_id=berleximaging.com Bayer Healthcare Pharmaceuticals page on Magnevist (for US)]
+* [http://www.magnevist.de/scripts/pages/en/magnevist/index.php Bayer Schering Pharma global Magnevist Website]
+* {{cite web
+| url = http://www.mr-tip.com/serv1.php?type=db1&dbs=Gadopentetate%20Dimeglumine
+| title = Gadopentetate Dimeglumine
+| publisher = Magnetic Resonance—Technology Information Portal
+| accessdate = 2006-03-27
+}}
+
+{{Contrast media}}
+
+[[Category:MRI contrast agents]]
+[[Category:Organogadolinium compounds]]

@@ -1,0 +1,69 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 459493896
+| IUPAC_name = 5-Ethyl-3-methyl-5-phenyl-imidazolidine-2,4-dione
+| image = Mephenytoin.svg
+| alt = Structural formula of mephenytoin
+| width = 135
+| image2 = Mephenytoin 3D spacefill.png
+| alt2 = Space-filling model of the mephenytoin molecule
+| width2 = 160
+
+<!--Clinical data-->
+| tradename =
+| Drugs.com = {{drugs.com|CONS|mephenytoin}}
+| MedlinePlus = a611020
+| pregnancy_US = C
+| legal_status =
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| metabolism = [[CYP2C19]]
+| elimination_half-life = 7 hours
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7223
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 50-12-4
+| ATC_prefix = N03
+| ATC_suffix = AB04
+| ATC_supplemental=
+| PubChem = 4060
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00532
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3920
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = R420KW629U
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00375
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 861
+
+<!--Chemical data-->
+| C=12 | H=14 | N=2 | O=2
+| molecular_weight = 218.252 g/mol
+| smiles = O=C2N(C(=O)NC2(c1ccccc1)CC)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C12H14N2O2/c1-3-12(9-7-5-4-6-8-9)10(15)14(2)11(16)13-12/h4-8H,3H2,1-2H3,(H,13,16)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GMHKMTDVRCWUDX-UHFFFAOYSA-N
+}}
+
+'''Mephenytoin''' (marketed as '''Mesantoin''' by Novartis) is a [[hydantoin]], used as an [[anticonvulsant]]. It was introduced approximately 10 years after [[phenytoin]], in the late 1940s. The significant [[metabolite]] of mephenytoin is [[nirvanol]] (5-ethyl-5-phenylhydantoin), which was the first hydantoin (briefly used as a [[hypnotic]]). However, nirvanol is quite toxic and mephenytoin was only considered after other less toxic anticonvulsants had failed. It can cause potentially fatal blood [[dyscrasia]] in 1% of patients.
+
+Mephenytoin is no longer available in the US or the UK. It is still studied largely because of its interesting [[hydroxylation]] [[Polymorphism (biology)|polymorphism]].
+
+==References==
+* ''The Treatment of Epilepsy'' edited by S. D. Shorvon, David R. Fish, Emilio Perucca, W. Edwin Dodson. Blackwell Publishing.  2004. {{ISBN|0-632-06046-8}}
+* ''The Medical Treatment of Epilepsy'' by Stanley R Resor. Published by Marcel Dekker (1991). {{ISBN|0-8247-8549-5}}.
+* [http://ctdbase.org/detail.go?type=chem&acc=D008617 The Comparative Toxicogenomics Database: Mephenytoin]
+
+{{Anticonvulsants}}
+
+[[Category:Anticonvulsants]]
+[[Category:Hydantoins]]
+
+{{anticonvulsant-stub}}

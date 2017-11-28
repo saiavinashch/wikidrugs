@@ -1,0 +1,66 @@
+{{Drugbox
+| verifiedrevid = 448120715
+| IUPAC_name = Methyl 6-({[(2-chloroethyl)(nitroso)amino]carbonyl}amino)-6-deoxy-α-<small>D</small>-glucopyranoside
+| image = Ranimustine (Haworth).svg
+| width = 215
+
+<!--Clinical data-->
+| tradename = Cymerin
+| Drugs.com = {{drugs.com|international|ranimustine}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = [[Intravenous therapy|IV]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 58994-96-0
+| ATC_prefix = L01
+| ATC_suffix = AD07
+| ATC_supplemental =  
+| PubChem = 71741
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = RYH2T97J77
+| ChemSpiderID      = 64785
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=10 | H=18 | Cl=1 | N=3 | O=7 
+| molecular_weight = 327.71 g/mol
+| smiles = CO[C@@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CNC(=O)N(CCCl)N=O)O)O)O
+| StdInChI = 1S/C10H18ClN3O7/c1-20-9-8(17)7(16)6(15)5(21-9)4-12-10(18)14(13-19)3-2-11/h5-9,15-17H,2-4H2,1H3,(H,12,18)/t5-,6-,7+,8-,9+/m1/s1
+| StdInChIKey = AHHFEZNOXOZZQA-ZEBDFXRSSA-N
+
+| synonyms = <small>1-(2-chloroethyl)-1-nitroso-3-([(2''R'',3''S'',4''S'',5''R'',6''S'')-3,4,5-trihydroxy-6-methoxyoxan-2-yl]methyl)urea</small>
+}}
+
+'''Ranimustine''' ([[International Nonproprietary Name|INN]], marketed under the tradename Cymerin; also known as MCNU) is a [[nitrosourea]] [[alkylating antineoplastic agent|alkylating agent]] approved in [[Japan]] for the treatment of chronic myelogenous [[leukemia]]<ref name="pmid2817908">{{cite journal  |vauthors=Kitajima K, Adachi T, Takahashi I, etal |title=[Chemotherapy of chronic myelogenous leukemia—VP(M) regimen initiated during its chronic phase, and evaluation of MCNU in the phase of blastic crisis] |language=Japanese |journal=Gan To Kagaku Ryoho |volume=16 |issue=11 |pages=3573–9 |date=November 1989 |pmid=2817908 |doi= |url=}}</ref> and polycythemia vera.<ref name="pmid3196045">{{cite journal  |vauthors=Nagai M, Tasaka T, Kamano H, etal |title=[Therapeutic effect of ranimustine (MCNU) on essential thrombocythemia and polycythemia vera] |language=Japanese |journal=Gan To Kagaku Ryoho |volume=15 |issue=12 |pages=3267–70 |date=December 1988 |pmid=3196045 |doi= |url=}}</ref>
+
+It has never been filed for [[Food and Drug Administration|FDA]] evaluation in the [[United States]], where it is not marketed.
+
+==References==
+{{Reflist}}
+* {{ja icon}} [http://di.mt-pharma.co.jp/file/dc/cmr_a.pdf Cymerin サイメリン] (PDF) Mitsubishi Tanabe Pharma. October 2007.
+
+{{Chemotherapeutic agents}}
+
+[[Category:Alkylating antineoplastic agents]]
+[[Category:Nitrosamines]]
+[[Category:Nitrosoureas]]
+[[Category:Ureas]]
+
+{{antineoplastic-drug-stub}}

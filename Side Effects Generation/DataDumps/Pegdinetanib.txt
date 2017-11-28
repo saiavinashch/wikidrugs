@@ -1,0 +1,136 @@
+{{Drugbox
+| IUPAC_name        = 
+| image             = Pegdinetanib non-peptide structure.svg
+| width = 250
+| alt               = 
+| caption           = 
+<!-- Clinical data -->
+| tradename         = Angiocept
+| Drugs.com         = 
+| MedlinePlus       = 
+| pregnancy_AU      = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US      = <!-- A / B            / C / D / X -->
+| pregnancy_category= 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled -->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status      = Investigational
+| routes_of_administration = [[Intravenous]]
+<!-- Pharmacokinetic data -->
+| bioavailability   = 
+| protein_bound     = 
+| metabolism        = 
+| elimination_half-life = 
+| excretion         = 
+<!-- Identifiers -->
+| CAS_number        = 906450-24-6
+| ATCvet            = 
+| ATC_prefix        = None
+| ATC_suffix        = 
+| PubChem           = 
+| DrugBank          = 
+| synonyms          = CT-322; BMS-844203
+| ChemSpiderID = none
+| KEGG = D09945
+<!-- Chemical data -->
+| chemical_formula =
+| C=468 | H=729 | N=125 | O=139 | S=1
+| chemical_formula_comment = (un-[[PEGylated]] peptide)
+| molecular_weight  = 
+}}
+'''Pegdinetanib''' ([[United States Adopted Name|USAN]]; planned trade name '''Angiocept''') is an investigational [[anti-cancer drug]] that acts as a selective [[receptor antagonist|antagonist]] of [[vascular endothelial growth factor receptor 2]] (VEGFR-2), [[Angiogenesis inhibitor|hindering vascularization]] of tumors. It is a [[genetically engineered]] [[peptide]] derivative based on the [[monobody]] technology, and is being developed by [[Adnexus]].<ref name="Tolcher" /><ref name="Mamluk" />
+
+The drug has entered Phase II [[clinical trial]]s investigating the treatment of [[glioblastoma]] in October 2007.<ref name="NCT00562419" /><ref name="Bloom" /> {{as of|2012|08}}, it is also in Phase II trials for the treatment of [[non-small cell lung cancer]]<ref name="NCT00850577" /> and [[colorectal cancer]].<ref name="NCT00851045" />
+
+==Chemical structure==
+Pegdinetanib is a peptide consisting of 94 amino acids, with [[cysteine]] number 93 carrying a doubly methoxy-[[PEGylated]] [[maleimide]] derivative with a molecular mass of 40&nbsp;[[kDa]].<ref name="USAN"/>
+
+==References==
+{{reflist|refs=
+<ref name="Tolcher">{{Cite journal 
+| last1 = Tolcher | first1 = A. W. 
+| last2 = Sweeney | first2 = C. J. 
+| last3 = Papadopoulos | first3 = K. 
+| last4 = Patnaik | first4 = A. 
+| last5 = Chiorean | first5 = E. G. 
+| last6 = Mita | first6 = A. C. 
+| last7 = Sankhala | first7 = K. 
+| last8 = Furfine | first8 = E. 
+| last9 = Gokemeijer | first9 = J. 
+| doi = 10.1158/1078-0432.CCR-10-1411 
+| last10 = Iacono | first10 = L. 
+| last11 = Eaton | first11 = C. 
+| last12 = Silver | first12 = B. A. 
+| last13 = Mita | first13 = M. 
+| title = Phase I and Pharmacokinetic Study of CT-322 (BMS-844203), a Targeted Adnectin Inhibitor of VEGFR-2 Based on a Domain of Human Fibronectin 
+| journal = Clinical Cancer Research 
+| volume = 17 
+| issue = 2 
+| pages = 363–371 
+| year = 2011 
+| pmid = 21224368 
+| pmc = 
+}}</ref>
+<ref name="Mamluk">{{Cite journal 
+| doi = 10.4161/mabs.2.2.11304 
+| last1 = Mamluk | first1 = R. 
+| last2 = Carvajal | first2 = I. M. 
+| last3 = Morse | first3 = B. A. 
+| last4 = Wong | first4 = H. 
+| last5 = Abramowitz | first5 = J. 
+| last6 = Aslanian | first6 = S. 
+| last7 = Lim | first7 = A. C. 
+| last8 = Gokemeijer | first8 = J. 
+| last9 = Storek | first9 = M. J. 
+| last10 = Lee | first10 = J. 
+| last11 = Gosselin | first11 = M. 
+| last12 = Wright | first12 = M. C. 
+| last13 = Camphausen | first13 = R. T. 
+| last14 = Wang | first14 = J. 
+| last15 = Chen | first15 = Y. 
+| last16 = Miller | first16 = K. 
+| last17 = Sanders | first17 = K. 
+| last18 = Short | first18 = S. 
+| last19 = Sperinde | first19 = J. 
+| last20 = Prasad | first20 = G. 
+| last21 = Williams | first21 = S. 
+| last22 = Kerbel | first22 = R. 
+| last23 = Ebos | first23 = J. 
+| last24 = Mutsaers | first24 = A. 
+| last25 = Mendlein | first25 = J. D. 
+| last26 = Harris | first26 = A. S. 
+| last27 = Furfine | first27 = E. S. 
+| title = Anti-tumor effect of CT-322 as an adnectin inhibitor of vascular endothelial growth factor receptor-2 
+| journal = MAbs 
+| volume = 2 
+| issue = 2 
+| pages = 199–208 
+| year = 2010 
+| pmid = 20190562 
+| pmc = 2840239
+}}</ref>
+<ref name="NCT00562419">{{ClinicalTrialsGov|NCT00562419|CT-322 in Treating Patients With Recurrent Glioblastoma Multiforme and Combination Therapy With Irinotecan}}</ref>
+<ref name="Bloom">{{Cite journal 
+| last1 = Bloom | first1 = L. 
+| last2 = Calabro | first2 = V. 
+| doi = 10.1016/j.drudis.2009.06.007 
+| title = FN3: A new protein scaffold reaches the clinic 
+| journal = Drug Discovery Today 
+| volume = 14 
+| issue = 19–20 
+| pages = 949–955 
+| year = 2009 
+| pmid = 19576999 
+| pmc = 
+}}</ref>
+<ref name="NCT00850577">{{ClinicalTrialsGov|NCT00850577|Ph II of a Novel Anti-angiogenic Agent in Combination With Chemotherapy for the Treatment of Non-Small Cell Lung Cancer}}</ref>
+<ref name="NCT00851045">{{ClinicalTrialsGov|NCT00851045|Ph II Trial of a Novel Anti-angiogenic Agent in Combination With Chemotherapy for the Second-line Treatment of Metastatic Colorectal Cancer}}</ref>
+<ref name="USAN">[http://www.ama-assn.org/resources/doc/usan/pegdinetanib.pdf Statement On A Nonproprietary Name Adopted By The USAN Council: Pegdinetanib]</ref>
+}}
+
+
+{{antineoplastic-drug-stub}}
+
+[[Category:Antineoplastic drugs]]
+[[Category:Antibody mimetics]]

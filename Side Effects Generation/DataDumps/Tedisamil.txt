@@ -1,0 +1,76 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 408916612
+| IUPAC_name = 3,7-Bis(cyclopropylmethyl)-3,7-diazaspiro[bicyclo[3.3.1]nonane-9,1'-cyclopentane]
+| image = Tedisamil.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 90961-53-8
+| ATC_prefix = C01
+| ATC_suffix = BD06
+| ATC_supplemental =  
+| PubChem = 65825
+| IUPHAR_ligand = 2567
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = A5VAY2U3R8
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D06652
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 113461
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 28528215
+
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=19 | H=32 | N=2 
+| molecular_weight = 288.470 g/mol
+| smiles = C1CC2([C@H]3CN(C[C@@H]2CN(C3)CC4CC4)CC5CC5)CC1
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C19H32N2/c1-2-8-19(7-1)17-11-20(9-15-3-4-15)12-18(19)14-21(13-17)10-16-5-6-16/h15-18H,1-14H2/t17-,18+
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = CTIRHWCPXYGDGF-HDICACEKSA-N
+}}
+
+'''Tedisamil''' (3,7-dicyclopropylmethyl-9,9-tetramethylene-3,7-diazabicyclo-3,3,1-nonane) is an experimental class III [[antiarrhythmic]] agent currently being investigated for the treatment of [[atrial fibrillation]]. Tedisamil blocks multiple types of potassium channels in the heart resulting in slowed heart rate. While the effects of tedisamil have been demonstrated in both atrial and ventricular muscle, repolarization is prolonged more efficiently in the atria.<ref name=Hohnloser>{{cite journal|last=Hohnloser|first=S.H.|title=Safety and Efficacy of Intravenously Administered Tedisamil for Rapid Conversion of Recent-Onset Atrial Fibrillation or Atrial Flutter|journal=Am J Cardiol|year=2004|volume=44|pages=99–104|doi=10.1016/j.jacc.2004.03.047|display-authors=etal}}</ref> Tedisamil is administered intravenously and has a [[half-life]] of approximately 8 –13 hours in circulation.<ref name=Hohnloser /> Tedisamil is being developed as an alternative to other antiarrhythmics as incidence of additional arrhythmic events is lower compared to other class III agents.<ref name=Hohnloser /> Tedisamil also has significant anti-ischemic properties and was initially investigated as a potential treatment for angina until its antiarrhythmic effects were discovered.<ref name=Fox>{{cite journal|last=Fox|first=K.M.|title=Antianginal and anti-ischemic efficacy of tedisamil, a potassium channel blocker|journal=Heart|year=2000|volume=83|pages=167–171|doi=10.1136/heart.83.2.167 |display-authors=etal}}</ref>
+Tedisamil is manufactured by Solvay Pharmaceuticals Inc. under the proposed trade name Pulzium and is currently in phase III of clinical testing for atrial fibrillation.<ref>{{cite web|last=Solvay Press Office|title=Solvay Pharmaceuticals files Tedisamil, a new cardiometabolic product for the treatment of atrial fibrillation and atrial flutter|url=http://www.solvay.com/EN/NewsPress/20070425_TEDISAMIL.aspx|accessdate=February 1, 2011}}</ref>
+
+== Molecular problem ==
+[[Arrhythmias]] are broadly defined as abnormal electrical activity in the heart and can affect both the atria and ventricles. Atrial arrhythmias are the most common type of arrhythmia with several subtypes currently described, including atrial fibrillation. In atrial fibrillation, there is continual quivering of the atria as contraction of the muscle is uncoordinated.<ref name=Moe>{{cite journal|last=Moe|first=G.K.|title=Atrial Fibrillation as a Self-Sustaining Arrhythmia Independent of Focal Discharge|journal=Am Heart J|year=1959|volume=58|pages=59–70|doi=10.1016/0002-8703(59)90274-1|display-authors=etal}}</ref> Under normal conditions, an electrical impulse from the [[sinoatrial]] (SA) node is distributed rapidly throughout the atria causing coordinated excitement and inactivation of atrial muscle cell ion channels resulting in uniform contraction and relaxation of the muscle fibres.<ref name=Moe /> During fibrillation, other electrical signals overwhelm the SA node and ion channel excitement is no longer uniform throughout the atria.<ref name=Moe /> This results in inappropriate activation properties, further preventing uniform contraction and relaxation of the muscle.<ref name=Moe /> Subsequent action potentials from the SA node will not be able to uniformly excite the muscle as not all of the channels will be available to open as some will still be held in the inactivation phase.<ref name=Moe /> This results in disjointed contraction, or quivering, seen in the atrial muscle during fibrillation.
+
+== Mechanism of action ==
+Tedisamil acts to restore normal electrical rhythm in the heart by prolonging the inactivation phase of the muscle. Both atrial and ventricular repolarization is lengthened by tedisamil by blocking multiple [[potassium channels]] including the transient outward (Ito), the adenosine triphosphate-dependent (IK-ATP), and the delayed rectifier potassium currents (IKr and IKs).<ref name=Wettwer>{{cite journal|last=Wettwer|first=E.|title=Mechanism of block by tedisamil of transient outward current in human ventricular subepicardial myocytes|journal=Br J Pharmacol|year=1998|volume=125|pages=659–666|doi=10.1038/sj.bjp.0702110|display-authors=etal}}</ref><ref name=Dukes>{{cite journal|last=Dukes|first=I.D.|title=Tedisamil blocks the transient and delayed rectifier K+ currents in mammalian cardiac and glial cells|journal=JPET|year=1990|issue=254|pages=560–569|url=http://jpet.aspetjournals.org/content/254/2/560.short|display-authors=etal}}</ref><ref name=Nemeth>{{cite journal|last=Nemeth|first=M|title=Tedisamil is a potent blocker of ATP-sensitive potassium channels in cardiac muscle.|journal=Exp Clin Cardiol|year=1997|issue=2|pages=37–40|display-authors=etal}}</ref> Tedisamil action is dose dependent as currents are blocked longer and more effectively at higher concentrations.<ref name=Hohnloser /> Tedisamil activity is greatest on Ito and acts by binding to the channel in its open configuration.<ref name=Wettwer /> This produces a blocked state and delays its inactivation.<ref name=Wettwer /> To restore normal function, tedisamil must unbind from the channel so that it can inactivate and eventually reopen.<ref name=Wettwer /> Similar mechanisms have been observed on the IKr and IKs currents.<ref name=Dukes /> In both Ito and delayed rectifier channels, the tedisamil binding site appears to be internal as both binding and unbinding occur more effectively when tedisamil is applied inside the cell.<ref name=Dukes /> Tedisamil also appears to provide specific, single channel blocking of IK-ATP at high concentrations.<ref name=Nemeth />  As the potassium channels are responsible for restoring the resting membrane potential during an [[action potential]], lengthening their inactivation will stop the cycle of fibrillation by preventing muscle contraction until all ion channels are available to open. Regular use of tedisamil will prevent further fibrillation and restore normal electrical rhythm.
+Tedisamil’s antiarrythmic activity also appears to be supported by inhibiting sodium currents in cardiac muscle.<ref name=Wettwer /> However this is only observed at concentrations above 20μM, concentrations 20-fold higher than required for potassium channel blocks.<ref name=Wettwer />
+
+==References==
+{{Reflist}}
+
+{{Potassium channel blockers}}{{Antiarrhythmic agents}}
+
+[[Category:Potassium channel blockers]]
+[[Category:Nitrogen heterocycles]]
+[[Category:Cyclopropanes]]
+[[Category:Cyclopentanes]]

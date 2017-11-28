@@ -1,0 +1,87 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 470611086
+| IUPAC_name = (11β)-11,17-Dihydroxy-21-mercaptopregn-4-ene-3,20-dione
+| image = Tixocortol.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|tixocortol}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_UK = <!-- GSL         / P       / POM / CD -->
+| legal_US = <!-- OTC                   / Rx-only  -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 61951-99-3
+| ATC_prefix = A07
+| ATC_suffix = EA05
+| ATC_supplemental =  {{ATC|R01|AD07}}
+| PubChem = 162955
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 143053
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = ZX3KEK657Z
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08610
+
+<!--Chemical data-->
+| C=21 | H=30 | O=4 | S=1 
+| molecular_weight = 378.527 g/mol
+| smiles = O=C4\C=C2/[C@]([C@H]1[C@@H](O)C[C@@]3([C@@](O)(C(=O)CS)CC[C@H]3[C@@H]1CC2)C)(C)CC4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H30O4S/c1-19-7-5-13(22)9-12(19)3-4-14-15-6-8-21(25,17(24)11-26)20(15,2)10-16(23)18(14)19/h9,14-16,18,23,25-26H,3-8,10-11H2,1-2H3/t14-,15-,16-,18+,19-,20-,21-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YWDBSCORAARPPF-VWUMJDOOSA-N
+| synonyms = <small>(8''S'',9''S'',10''R'',11''S'',13''S'',14''S'',17''R'')-11,17-dihydroxy-17-(2-mercaptoacetyl)-10,13-dimethyl-6,7,8,9,10,11,12,13,14,15,16,17-dodecahydro-1''H''-cyclopenta[''a'']phenanthren-3(2''H'')-one</small>
+}}
+
+'''Tixocortol''' is a [[corticosteroid]] used as an [[intestinal]] [[anti-inflammatory]]<ref>{{Cite journal 
+| doi = 10.1038/clpt.1983.43 
+| last1 = Larochelle | first1 = P. 
+| last2 = Du Souich | first2 = P. 
+| last3 = Bolte | first3 = E. 
+| last4 = Lelorier | first4 = J. 
+| last5 = Goyer | first5 = R. 
+| title = Tixocortol pivalate, a corticosteroid with no systemic glucocorticoid effect after oral, intrarectal, and intranasal application 
+| journal = Clinical pharmacology and therapeutics 
+| volume = 33 
+| issue = 3 
+| pages = 343–350 
+| year = 1983 
+| pmid = 6402333
+}}</ref> and [[decongestant]].
+
+==See also==
+* [[Tixocortol pivalate]]
+
+==References==
+{{Reflist|2}}
+
+
+{{Glucocorticoids}}
+{{Antidiarrheals, intestinal anti-inflammatory/anti-infective agents}}
+{{Nasal preparations}}
+{{Glucocorticoidics}}
+
+[[Category:Corticosteroids]]
+[[Category:Thiols]]
+[[Category:Glucocorticoids]]
+
+
+{{gastrointestinal-drug-stub}}
+{{respiratory-system-drug-stub}}

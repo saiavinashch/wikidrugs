@@ -1,0 +1,92 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 459978178
+| IUPAC_name = (1''R'',3a''S'',5a''R'',5b''R'',7a''R'',9''S'',11a''R'',11b''R'',13a''R'',13b''R'')-9-(3-carboxy-3-methylbutanoyl)oxy-5a,5b,8,8,11a-pentamethyl-1-prop-1-en-2-yl-1,2,3,4,5,6,7,7a,9,10,11,11b,12,13,13a,13b-hexadecahydrocyclopenta[a]chrysene-3a-carboxylic acid
+| image = Bevirimat.svg
+| width = 275
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X → -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism = [[Liver|Hepatic]] [[glucuronidation]] ([[Glucuronosyltransferase|UGT1A3]]-mediated)
+| elimination_half-life = 56.3 to 69.5 hours
+| excretion = Fecal<ref name="pmid18615840">{{cite journal | vauthors = Bullock P, Larsen D, Press R, Wehrman T, Martin DE | title = The absorption, distribution, metabolism and elimination of bevirimat in rats | journal = Biopharm Drug Dispos | volume = 29 | issue = 7 | pages = 396–405 |date=July 2008 | pmid = 18615840 | doi = 10.1002/bdd.625}}</ref>
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 174022-42-5
+| ATC_prefix = none
+| ATC_suffix =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 403003
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C36H56O6/c1-21(2)22-12-17-36(30(40)41)19-18-34(8)23(28(22)36)10-11-25-33(7)15-14-26(42-27(37)20-31(3,4)29(38)39)32(5,6)24(33)13-16-35(25,34)9/h22-26,28H,1,10-20H2,2-9H3,(H,38,39)(H,40,41)/t22-,23+,24-,25+,26-,28+,33-,34+,35+,36-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YJEJKUQEXFSVCJ-WRFMNRASSA-N
+| PubChem = 457928
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = S125DW66N8
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 404519
+| NIAID_ChemDB = 028530
+
+<!--Chemical data-->
+| C=36 | H=56 | O=6 
+| molecular_weight = 584.826 g/mol
+| smiles = CC(=C)C1CCC2(C1C3CCC4C5(CCC(C(C5CCC4(C3(CC2)C)C)(C)C)OC(=O)CC(C)(C)C(=O)O)C)C(=O)O
+| synonyms = PA-457; 3-O-(3',3'-dimethylsuccinyl)-[[betulinic acid]]
+}}
+
+'''Bevirimat''' (research code '''MPC-4326''') is an anti-HIV drug derived from a [[betulinic acid]]-like compound, first isolated from ''[[Syzygium]] claviflorum,'' a Chinese herb. It is believed to inhibit [[HIV]] by a novel mechanism, so-called maturation inhibition.<ref name="pmid17638699">{{cite journal | vauthors = Smith PF, Ogundele A, Forrest A, Wilton J, Salzwedel K, Doto J, Allaway GP, Martin DE | title = Phase I and II study of the safety, virologic effect, and pharmacokinetics/pharmacodynamics of single-dose 3-o-(3',3'-dimethylsuccinyl)betulinic acid (bevirimat) against human immunodeficiency virus infection | journal = Antimicrob. Agents Chemother. | volume = 51 | issue = 10 | pages = 3574–81 |date=October 2007 | pmid = 17638699 | pmc = 2043264 | doi = 10.1128/AAC.00152-07 | url = }}</ref>  It is not currently [[U.S. Food and Drug Administration]] (FDA) approved. It was originally developed by the pharmaceutical company [[Panacos Pharmaceuticals|Panacos]] and reached Phase IIb [[clinical trials]]. [[Myriad Genetics]] announced on January 21, 2009 the acquisition of all rights to bevirimat for $7M USD.<ref name="url_Myriad_PR">{{cite web | url = http://investor.myriad.com/releasedetail.cfm?ReleaseID=360258 | title = Myriad Pharmaceuticals Acquires Novel HIV Drug, Bevirimat | publisher = Myriad Genetics, Inc. | work = Press release | date = 2009-01-21 }}</ref> On June 8, 2010 Myriad Genetics announced that it was halting the development of [[maturation inhibitor]]s, including bevirimat, to focus more on their oncology portfolio.<ref name="urlfiles.shareholder.com">{{cite web | url = http://files.shareholder.com/downloads/ABEA-345W4R/1552266059x0x380657/1e90dc83-a7d6-473a-81e0-b755fcfff60a/MYRX_News_2010_6_8_General_Releases.pdf | title = Myriad Pharmaceuticals Announces Intent to Focus on Oncology Portfolio | publisher = Myriad Genetics, Inc. | work = Press Release | date = 2010-06-08 }}</ref>
+
+==Pharmacokinetics==
+According to the only currently available study, "the mean terminal [[elimination half-life]] of bevirimat ranged from 56.3 to 69.5 hours, and the mean [[Clearance (medicine)|clearance]] ranged from 173.9 to 185.8 mL/hour."<ref name="pmid17596104">{{cite journal | vauthors = Martin DE, Blum R, Doto J, Galbraith H, Ballow C | title = Multiple-dose pharmacokinetics and safety of bevirimat, a novel inhibitor of HIV maturation, in healthy volunteers | journal = Clin Pharmacokinet | volume = 46 | issue = 7 | pages = 589–98 | year = 2007 | pmid = 17596104 | doi = 10.2165/00003088-200746070-00004}}</ref>
+
+==Mechanism of action==
+Like [[Protease inhibitor (pharmacology)|protease inhibitors]], bevirimat and other maturation inhibitors interfere with protease processing of newly [[Translation (biology)|translated]] HIV polyprotein precursor, called [[Group-specific antigen|gag]]. Gag is an essential structural protein of the HIV virus. Gag undergoes a chain of interactions both with itself and with other cellular and viral factors to accomplish the assembly of infectious virus particles. HIV assembly is a two-stage process involving an intermediate immature capsid that undergoes a structurally dramatic maturation to yield the infectious particle. This alteration is mediated by the viral protease, which cleaves the Gag polyprotein precursor, allowing the freed parts to reassemble to form the core of the mature virus particle.<ref name="Salzwedel_2007">{{cite journal | vauthors = Salzwedel K, Martin DE, Sakalian M | title = Maturation inhibitors: a new therapeutic class targets the virus structure | journal = AIDS Rev | volume = 9 | issue = 3 | pages = 162–72 | year = 2007 | pmid = 17982941 | doi = | url = }}</ref> Bevirimat prevents this viral replication by specifically inhibiting cleavage of the capsid protein (CA) from the SP1 spacer protein. First, bevirimat enters a growing virus particle as it buds from an infected cell and binds to the Gag polypeptide at the CA/SP1 cleavage site. This prevents the protease enzyme from cleaving CA-SP1. As the capsid protein remains bound to SP1, the virus particle core is prevented from compressing into its normal mature shape, which is crucial for infectivity, resulting in the release of an immature, non-infectious particle.<ref name="Martin_2008">{{cite journal | vauthors = Martin DE, Salzwedel K, Allaway GP | title = Bevirimat: a novel maturation inhibitor for the treatment of HIV-1 infection | journal = Antivir. Chem. Chemother. | volume = 19 | issue = 3 | pages = 107–13 | year = 2008 | pmid = 19024627 | doi = }}</ref>
+
+==Metabolism==
+It has been found that bevirimat does not inhibit the cytochrome P450 system or interact with the human P-glycoprotein.<ref name="Martin_2008"/> Unformulated bevirimat is not well absorbed from the gastrointestinal tract into the blood. Some of the less desirable properties of unformulated bevirimat and its salts include: inadequate bioavailability, poor solubility of the pharmaceutical composition in gastric fluid, insufficient dispersion of bevirimat in gastric fluid, below standard long term safety profile for oral dosage forms, below standard long term chemical and physical stability of the final dosage form, tendency for conversion to metastable forms, lengthy dissolution times for oral dosage forms, and precipitation in gastric or intestinal fluids. Some pharmaceutical compositions of formulated bevirimat have shown to have better properties over unformulated bevirimat. Some of these properties include: improved bioavailability, improved solubility of the composition in gastric fluid, improved dispersion of bevirimat in gastric fluid, improved safety for oral dosage forms, improved chemical and physical stability of the oral dosage form, decreased conversion to metastable forms, and decreased rate of precipitation in gastric fluid.<ref name = "WO-2009/042166">{{ cite patent | country = WO | number = 2009042166 | status = application | title = Liquid Bevirimat Dosage Forms for Oral Administration | pridate = 2007-09-25 | pubdate = 2009-04-02 | inventor = Jacob J, Richards J, Augustine JG, Milea JS | assign1 =  Myriad Pharmaceuticals, Inc. }}</ref> Bevirimat was rapidly absorbed after oral administration, with detectable concentrations present in the plasma within 15 minutes after administration and peak plasma concentrations were achieved approximately one to three hours after administration. The plasma had a mean plasma elimination half-life ranging from 58 to 80 hours. This long half-life of bevirimat supports once-daily dosing. Elimination of bevirimat is primarily via hepatobiliary routes, with renal elimination counting for less than 1% of the dose.<ref name="Martin_2008"/>
+
+==Toxicity and side effects==
+Preclinical studies have not presented any sign that bevirimat might be associated with any specific safety concerns that would limit its clinical use. In vitro preclinical studies in human cells propose that bevirimat should have low potential for cytotoxicity. There is no evidence of any reproductive or developmental toxicity and it is not immunotoxic.<ref name="Martin_2008"/> Bevirimat was initially evaluated for safety and pharmacokinetics in a single-dose, randomized, double-blind, placebo-controlled phase clinical study in healthy volunteers. It was administered as an oral solution in doses of 25, 50, 100, and 250&nbsp;mg. The plasma concentrations were dose-proportional, and the compound was seen to be safe and well tolerated with no dose-limiting toxicities and no serious adverse effects.<ref name="Salzwedel_2007" /> In one clinical trial, headaches was the most commonly reported side effect of bevirimat, reported by four participants on bevirimat and one on the placebo. The second most common reported side effect was throat discomfort by two participants on bevirimat. No serious adverse effects were reported, all adverse effects reported were mild, and no participants discontinued use of bevirimat because of the adverse effects.<ref name="pmid17576843">{{cite journal | vauthors = Martin DE, Blum R, Wilton J, Doto J, Galbraith H, Burgess GL, Smith PC, Ballow C | title = Safety and pharmacokinetics of bevirimat (PA-457), a novel inhibitor of human immunodeficiency virus maturation, in healthy volunteers | journal = Antimicrob. Agents Chemother. | volume = 51 | issue = 9 | pages = 3063–6 |date=September 2007 | pmid = 17576843 | pmc = 2043192 | doi = 10.1128/AAC.01391-06 }}</ref>
+
+==Resistance==
+In vitro studies have shown that presence of a number of single nucleotide polymorphisms in the CA/SP1 cleavage site have resulted in resistance to bevirimat. However, mutations at these sites were not found in phase I and II clinical trials. Instead, mutations in the glutamine-valine-threonine (QVT) motif of the SP1 peptide are also known to cause bevirimat resistance. In addition, V362I mutations have been shown to confer strong resistance to bevirimat, where the S373P and I376V mutations may confer low resistance to bevirimat. A further complication of the use of bevirimat is that, since bevirimat targets the CA/SP1 cleavage site, it could also be used in the treatment of protease inhibitor resistant patients. Except for A364V, mutations in the CA/SP1 cleavage site have showed to result in fitness deficits when combined with protease inhibitor resistance. This proposes that these mutations may develop slowly. It has been shown that protease inhibitor resistance can result in an increase in the occurrence of mutations within the downstream QVT motif.<ref name="pmid21084518">{{cite journal | vauthors = Knapp DJ, Harrigan PR, Poon AF, Brumme ZL, Brockman M, Cheung PK | title = In vitro selection of clinically relevant bevirimat resistance mutations revealed by "deep" sequencing of serially passaged, quasispecies-containing recombinant HIV-1 | journal = J. Clin. Microbiol. | volume = 49 | issue = 1 | pages = 201–8 |date=January 2011 | pmid = 21084518 | pmc = 3020451 | doi = 10.1128/JCM.01868-10 }}</ref><ref name="pmid22151792">{{cite journal | vauthors = Nguyen AT, Feasley CL, Jackson KW, Nitz TJ, Salzwedel K, Air GM, Sakalian M | title = The prototype HIV-1 maturation inhibitor, bevirimat, binds to the CA-SP1 cleavage site in immature Gag particles | journal = Retrovirology | volume = 8 | issue = | pages = 101 | year = 2011 | pmid = 22151792 | pmc = 3267693 | doi = 10.1186/1742-4690-8-101 }}</ref><ref name="pmid22082002">{{cite journal | vauthors = Dybowski JN, Riemenschneider M, Hauke S, Pyka M, Verheyen J, Hoffmann D, Heider D | title = Improved Bevirimat resistance prediction by combination of structural and sequence-based classifiers | journal = BioData Min | volume = 4 | issue = | pages = 26 | year = 2011 | pmid = 22082002 | pmc = 3248369 | doi = 10.1186/1756-0381-4-26 }}</ref><ref name="pmid21502630">{{cite journal | vauthors = Lu W, Salzwedel K, Wang D, Chakravarty S, Freed EO, Wild CT, Li F | title = A single polymorphism in HIV-1 subtype C SP1 is sufficient to confer natural resistance to the maturation inhibitor bevirimat | journal = Antimicrob. Agents Chemother. | volume = 55 | issue = 7 | pages = 3324–9 |date=July 2011 | pmid = 21502630 | pmc = 3122462 | doi = 10.1128/AAC.01435-10 }}</ref>
+
+==Clinical trials==
+In December 2007, some results of the [[Phase IIb|Phase IIb trial]] were released.  Thomson Financial News reported that, "some patients respond 'very well' to the drug, while another population 'does not respond as well at current dose levels.'" Panacos said it intends to add a group to the study at a higher dosage.<ref>Zhou, Wanfeng. [http://money.cnn.com/news/newsfeeds/articles/newstex/AFX-0013-21570015.htm Panacos: Bevirimat data support further dose escalation.]{{dead link|date=July 2017 |bot=InternetArchiveBot |fix-attempted=yes }} Thomson Financial News. 10 Dec 2007.</ref> The drug manufacturer, Panacos, has stated that success with bevirimat hinges on a patient's particular HIV not having a specific group of genetic mutations in HIV’s Gag protein. When they evaluated the study participants’ virus and found that the participant’s virologic response depended greatly on whether or not the Gag protein of a participant’s virus had polymorphisms—multiple mutations in the protein’s structure. After sampling the virus of 100 patients in the company’s database, they found that about 50 percent did not have Gag polymorphisms, meaning that about 50 percent would likely respond well to the drug.<ref>[http://www.panacos.com/press_detail.htm?1115284 Panacos - Press Releases<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20110115015821/http://www.panacos.com/press_detail.htm?1115284 |date=January 15, 2011 }}</ref>
+
+==See also==
+* [[BMS-955176]]
+
+==References==
+{{reflist|35EM}}
+
+==External links==
+*[https://web.archive.org/web/20071215114653/http://www.aidsmeds.com/archive/bevirimat_1897.shtml AIDSmeds Bevirimat]
+*[http://www.panacos.com/documents/panacosmovie.html An animation illustrating Bevirimat's mechanism of action]
+*[http://www.panacos.com/product_2.htm Overview and Publication Listing for Bevirimat from Panacos]
+
+{{HIVpharm}}
+
+[[Category:Carboxylic acids]]
+[[Category:Maturation inhibitors]]
+[[Category:Triterpenes]]
+[[Category:Experimental drugs]]
+[[Category:Cyclopentanes]]

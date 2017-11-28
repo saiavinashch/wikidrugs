@@ -1,0 +1,87 @@
+{{Chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 480482210
+| ImageFile = Valpromide.svg
+| ImageFile_Ref = {{chemboximage|correct|??}}
+| ImageSize = 160
+| ImageName = Skeletal formula of valpromide
+| IUPACName = 2-Propylpentanamide<ref>{{cite web|title=dipropylacetamide - Compound Summary|url=https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=71113|work=PubChem Compound|publisher=National Center for Biotechnology Information|accessdate=21 February 2012|location=USA|date=24 June 2005|at=Identification and Related Records}}</ref>
+|Section1={{Chembox Identifiers
+| CASNo = 2430-27-5
+| CASNo_Ref = {{cascite|changed|??}}
+| PubChem = 71113
+| ChemSpiderID = 64264
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| UNII = RUA6CWU76G
+| UNII_Ref = {{fdacite|correct|FDA}}
+| EINECS = 219-394-2
+| DrugBank = DB04165
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| KEGG = D02766
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| MeSHName = dipropylacetamide
+| ChEMBL = 93836
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| SMILES = CCCC(CCC)C(N)=O
+| StdInChI = 1S/C8H17NO/c1-3-5-7(6-4-2)8(9)10/h7H,3-6H2,1-2H3,(H2,9,10)
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OMOMUFTZPTXCHP-UHFFFAOYSA-N
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+}}
+|Section2={{Chembox Properties
+| C=8 | H=17 | N=1 | O=1
+| Appearance = White crystals
+| MeltingPtC = 125
+| LogP = 2.041
+}}
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = N03
+| ATCCode_suffix = AG02
+}}
+|Section7={{Chembox Hazards
+| GHSPictograms = {{GHS exclamation mark}}
+| GHSSignalWord = '''WARNING'''
+| HPhrases = {{H-phrases|302}}
+| LD50 = {{Unbulleted list|438 mg kg<sup>−1</sup> <small>(intraperitoneal, mouse)</small>|890.0 mg kg<sup>−1</sup> <small>(oral, rat)</small>}}
+}}
+|Section8={{Chembox Related
+| OtherFunction_label = [[amide]]s
+| OtherFunction = [[Valnoctamide]]
+| OtherCompounds = 
+}}
+}}
+'''Valpromide''' (marketed as '''Depamide''' by [[Sanofi-Aventis]]) is a [[carboxamide]] derivative of [[valproic acid]] used in the treatment of [[epilepsy]] and some [[affective disorder]]s. It is rapidly metabolised (80%) to [[valproic acid]] (another [[anticonvulsant]]) but has anticonvulsant properties itself. It may produce more stable plasma levels than valproic acid or [[sodium valproate]] and may be more effective at preventing febrile seizures. However, it is over one hundred times more potent as an inhibitor of liver microsomal [[epoxide hydrolase]]. This makes it incompatible with [[carbamazepine]] and can affect the ability of the body to remove other toxins. Valpromide is no safer during pregnancy than valproic acid.
+
+Valpromide is formed through the reaction of valproic acid and [[ammonia]] via an intermediate [[acid chloride]].
+
+In pure form, valpromide is a white crystalline powder and has melting point 125–126&nbsp;°C. It is practically insoluble in water but soluble in hot water. It is available on the market in some European countries.
+
+==See also==
+* [[Valproate pivoxil]]
+* [[Valnoctamide]]
+*[[Carbromide]]
+*[[Ibrotamide]]
+
+==References==
+* ''The Medical Treatment of Epilepsy'' by Stanley R Resor. Published by Marcel Dekker (1991). {{ISBN|0-8247-8549-5}}.
+* ''Hydrolysis in Drug and Prodrug Metabolism: Chemistry, Biochemistry, and Enzymology'' by Bernard Testa, Joachim M. Mayer (2003). {{ISBN|3-906390-25-X}}.
+* ''In Vitro Methods in Developmental Toxicology'' by Gary L Kimmel, Devendra M Kochhar, Baumann (1989). {{ISBN|0-8493-6919-3}}.
+{{Reflist}}
+
+
+{{Anticonvulsants}}
+{{Mood stabilizers}}
+{{GABA metabolism and transport modulators}}
+{{HDAC inhibitors}}
+{{Ion channel modulators}}
+
+[[Category:Anticonvulsants]]
+[[Category:GABA analogues]]
+[[Category:GABA transaminase inhibitors]]
+[[Category:Histone deacetylase inhibitors]]
+[[Category:Mood stabilizers]]
+[[Category:Carboxamides]]
+
+
+{{anticonvulsant-stub}}

@@ -1,0 +1,65 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 461781491
+| ImageFile = Isosorbide.svg
+| ImageSize = 150px
+| IUPACName = 
+| OtherNames = <small>D-</small>Isosorbide; 1,4:3,6-Dianhydro-<small>D</small>-sorbitol; 1,4-Dianhydrosorbitol
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = WXR179L51S
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 12077
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1200660
+| InChI = 1/C6H10O4/c7-3-1-9-6-4(8)2-10-5(3)6/h3-8H,1-2H2/t3-,4+,5-,6-/m1/s1
+| InChIKey = KLDXJTOLSGUMSJ-JGWLITMVBP
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C6H10O4/c7-3-1-9-6-4(8)2-10-5(3)6/h3-8H,1-2H2/t3-,4+,5-,6-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = KLDXJTOLSGUMSJ-JGWLITMVSA-N
+| CASNo_Ref = {{cascite|changed|??}}
+| CASNo = 652-67-5
+| PubChem = 12597
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00347
+| SMILES = O[C@@H]1[C@H]2OC[C@@H](O)[C@H]2OC1
+}}
+|Section2={{Chembox Properties
+| C=6 | H=10 | O=4 
+| Appearance = Highly [[hygroscopic]] white flakes
+| Density = 1.30 at 25&nbsp;°C
+| MeltingPtC = 62.5 to 63
+| BoilingPtC = 160
+| BoilingPt_notes = at 10 mmHg
+| Solubility = in water (>850 g/L), [[alcohol]]s and [[ketone]]s
+  }}
+|Section3={{Chembox Hazards
+| MainHazards = 
+| FlashPt =
+| AutoignitionPt = 
+ }}
+}}
+
+'''Isosorbide''' is a [[heterocyclic compound]] that is derived from [[glucose]]. Isosorbide and its two [[isomer]]s, namely [[isoidide]] and [[isomannide]], are  1,4:3,6-[[dianhydrohexitol]]s.
+It is a white solid that is prepared from the double [[dehydration reaction|dehydration]] of [[sorbitol]].   Isosorbide is a non-toxic [[diol]] produced from biobased feedstocks, that is biodegradable and thermally stable.  It is used in medicine and has been touted as a potential biofeedstock.
+
+==Production==
+[[Hydrogenation]] of glucose gives [[sorbitol]]. Isosorbide is obtained by double [[dehydration reaction|dehydration]] of sorbitol:
+:(CHOH)<sub>4</sub>(CH<sub>2</sub>OH)<sub>2</sub>    →    C<sub>6</sub>H<sub>10</sub>O<sub>2</sub>(OH)<sub>2</sub>  +  2 H<sub>2</sub>O
+
+An intermediate in the dehydration is the monocycle [[sorbitan]].<ref>{{cite journal | author = M. Rose, R. Palkovits | title = Isosorbide as a Renewable Platform chemical for Versatile Applications—Quo Vadis? | journal = ChemSusChem | year = 2012 | volume = 5 | pages = 167–176 | doi = 10.1002/cssc.201100580 | pmid=22213713 | issue=1}}</ref>
+
+==Application==
+Isosorbide is used as a [[diuretic]], mainly to treat [[hydrocephalus]], and is also used to treat [[glaucoma]].<ref>{{pubChem|12597}}</ref>
+Other medications are derived from isosorbide, including [[isosorbide dinitrate]] and [[isosorbide mononitrate]], are used to treat [[angina pectoris]].  Other isosorbide-based medicines are used as osmotic [[diuretic]]s and for treatment of esophageal varices.  Like other [[nitric oxide]] donors (see [[biological functions of nitric oxide]]), these drugs lower portal pressure by [[vasodilation]] and decreasing cardiac output. Isosorbide dinitrate and [[hydralazine]] are the two components of the anti-hypertensive drug [[isosorbide dinitrate/hydralazine]] (Bidil).
+
+Isosorbide is also used as a building block for bio based polymers such as [[polyester]]s.<ref>{{cite journal| doi = 10.1002/macp.201100146| title = Efficiency Increase of Poly (ethylene terephthalate‐co‐isosorbide terephthalate) Synthesis using Bimetallic Catalytic Systems | year= 2011 | author1 = Bersot J.C.| journal = Macromol. Chem. Phys. | volume = 212 | issue=19 | pages = 2114–2120}}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Antianginals]]
+[[Category:Diols]]
+[[Category:Furofurans]]

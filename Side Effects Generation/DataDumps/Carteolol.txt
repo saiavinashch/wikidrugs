@@ -1,0 +1,79 @@
+{{Drugbox
+| verifiedrevid = 443507665
+| IUPAC_name = (''RS'')-5-[3-(''tert''-butylamino)-2-hydroxypropoxy]-3,4-dihydroquinolin-2(1''H'')-one
+| image = Carteolol skeletal.svg
+| chirality = [[Racemic mixture]]
+<!--Clinical data-->
+| tradename = Ocupress
+| Drugs.com = {{drugs.com|CONS|carteolol}}
+| MedlinePlus = a601078
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = C
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status = Rx
+| routes_of_administration = Eye drops
+<!--Pharmacokinetic data-->
+| bioavailability = 85%
+| protein_bound =  
+| metabolism = [[Liver|Hepatic]], active with 8-hydrocarteolol
+| elimination_half-life = 6–8 hours
+| excretion = [[Renal]] (50-70%)
+<!--Identifiers-->
+| IUPHAR_ligand = 7142
+| CAS_number = 51781-06-7
+| ATC_prefix = C07
+| ATC_suffix = AA15
+| ATC_supplemental =  {{ATC|S01|ED05}}
+| PubChem = 2583
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00521
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2485
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 8NF31401XG
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07624
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 3437
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 839
+<!--Chemical data-->
+| C=16 | H=24 | N=2 | O=3
+| molecular_weight = 292.373 g/mol
+| smiles = O=C2Nc1cccc(OCC(O)CNC(C)(C)C)c1CC2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H24N2O3/c1-16(2,3)17-9-11(19)10-21-14-6-4-5-13-12(14)7-8-15(20)18-13/h4-6,11,17,19H,7-10H2,1-3H3,(H,18,20)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = LWAFSWPYPHEXKX-UHFFFAOYSA-N
+}}
+
+'''Carteolol''' (trade names '''Cartrol''', '''Ocupress''', '''Teoptic''', '''Arteolol''', '''Arteoptic''', '''Calte''', '''Cartéabak''', '''Carteol''', '''Cartéol''', '''Cartrol''', '''Elebloc''', '''Endak''', '''Glauteolol''', '''Mikelan''', '''Poenglaucol''', '''Singlauc''') is a non-selective [[beta blocker]] used to treat [[glaucoma]].
+
+It has been found to act as a [[serotonin]] [[5-HT1A receptor|5-HT<sub>1A</sub>]] and [[5-HT1B receptor|5-HT<sub>1B</sub> receptor]] [[receptor antagonist|antagonist]] in addition to being a beta blocker.<ref name="pmid8093601">{{cite journal | vauthors = Langlois M, Brémont B, Rousselle D, Gaudy F | title = Structural analysis by the comparative molecular field analysis method of the affinity of beta-adrenoreceptor blocking agents for 5-HT1A and 5-HT1B receptors | journal = Eur. J. Pharmacol. | volume = 244 | issue = 1 | pages = 77–87 | year = 1993 | pmid = 8093601 | doi = | url = }}</ref>
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* {{cite journal | vauthors = El-Kamel A, Al-Dosari H, Al-Jenoobi F | title = Environmentally responsive ophthalmic gel formulation of carteolol hydrochloride. | journal = Drug Deliv | volume = 13 | issue = 1 | pages = 55–9 | year = 2006| pmid = 16401594 | doi = 10.1080/10717540500309073}}
+* {{cite journal | vauthors = Kuwahara K, Oizumi N, Fujisawa S, Tanito M, Ohira A | title = Carteolol hydrochloride protects human corneal epithelial cells from UVB-induced damage in vitro. | journal = Cornea | volume = 24 | issue = 2 | pages = 213–20 | year = 2005 | pmid = 15725891 | doi = 10.1097/01.ico.0000141232.41343.9d}}
+* {{cite journal | vauthors = Trinquand C, Romanet J, Nordmann J, Allaire C | title = [Efficacy and safety of long-acting carteolol 1% once daily. A double-masked, randomized study] | journal = J Fr Ophtalmol | volume = 26 | issue = 2 | pages = 131–6 | year = 2003 | pmid = 12660585}}
+
+
+{{Antiglaucoma preparations and miotics}}
+{{Adrenergic receptor modulators}}
+{{Serotonin receptor modulators}}
+
+[[Category:2-Quinolones]]
+[[Category:5-HT1A antagonists]]
+[[Category:5-HT1B antagonists]]
+[[Category:Alcohols]]
+[[Category:Amines]]
+[[Category:Beta blockers]]
+[[Category:Phenol ethers]]
+
+
+{{Cardiovascular-drug-stub}}

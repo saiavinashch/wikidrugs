@@ -1,0 +1,77 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 376121485
+| IUPAC_name = (1''S'',3''R'',5''Z'',7''E'',24''R'')-9,10-secocholesta-5,7,10-triene-1,3,24-triol
+| image = Tacalcitol.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|tacalcitol}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Topical
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 57333-96-7
+| ATC_prefix = D05
+| ATC_suffix = AX04
+| PubChem = 5283734
+| IUPHAR_ligand = 2780
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = C2W72OJ5ZU
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 340361
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 4446823
+
+<!--Chemical data-->
+| C=27 | H=44 | O=3 
+| molecular_weight = 416.64
+| synonyms = (1α,24''R'')-1,24-Dihydroxyvitamin D<sub>3</sub>
+| smiles            = O[C@@H]1CC(\C(=C)[C@@H](O)C1)=C\C=C2/CCC[C@]3([C@H]2CC[C@@H]3[C@H](C)CC[C@@H](O)C(C)C)C
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C27H44O3/c1-17(2)25(29)13-8-18(3)23-11-12-24-20(7-6-14-27(23,24)5)9-10-21-15-22(28)16-26(30)19(21)4/h9-10,17-18,22-26,28-30H,4,6-8,11-16H2,1-3,5H3/b20-9+,21-10-/t18-,22-,23-,24+,25-,26+,27-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = BJYLYJCXYAMOFT-RSFVBTMBSA-N
+}}
+
+'''Tacalcitol''' (1,24-dihydroxyvitamin D<sub>3</sub>) is a synthetic [[vitamin D3|vitamin D<sub>3</sub>]] analog.<ref name="pmid11464105">{{cite journal |vauthors=Fukuoka M, Sakurai K, Ohta T, Kiyoki M, Katayama I |title=Tacalcitol, an active vitamin D3, induces nerve growth factor production in human epidermal keratinocytes |journal=Skin Pharmacol. Appl. Skin Physiol. |volume=14 |issue=4 |pages=226–33 |year=2001 |pmid=11464105 |doi= 10.1159/000056351|url=http://content.karger.com/produktedb/produkte.asp?typ=fulltext&file=sph14226}}</ref>
+
+Tacalcitol is marketed under several names, including '''Curatoderm''' and '''Bonalfa'''.
+
+==Mechanism==
+Tacalcitol reduces excessive cell turnover in the epidermis by interacting with vitamin D receptors on keratinocytes.
+
+==Uses==
+It is usually prescribed by a general practitioner or dermatologist for the treatment of [[psoriasis]], chronic [[chapped lips]] and other severe dry skin conditions because of its ability to reduce excessive skin cell turnover. It is available as an ointment or lotion.
+
+It has also been used for [[vitiligo]]<ref name="pmid16487090">{{cite journal |vauthors=Leone G, Pacifico A, Iacovelli P, Paro Vidolin A, Picardo M |title=Tacalcitol and narrow-band phototherapy in patients with vitiligo |journal=Clin. Exp. Dermatol. |volume=31 |issue=2 |pages=200–5 |date=March 2006 |pmid=16487090 |doi=10.1111/j.1365-2230.2005.02037.x |url=http://www3.interscience.wiley.com/resolve/openurl?genre=article&sid=nlm:pubmed&issn=0307-6938&date=2006&volume=31&issue=2&spage=200}}</ref> and [[Hailey-Hailey disease]].<ref name="pmid9892963">{{cite journal |vauthors=Aoki T, Hashimoto H, Koseki S, Hozumi Y, Kondo S |title=1alpha,24-dihydroxyvitamin D3 (tacalcitol) is effective against Hailey-Hailey disease both in vivo and in vitro |journal=Br. J. Dermatol. |volume=139 |issue=5 |pages=897–901 |date=November 1998 |pmid=9892963 |doi= 10.1046/j.1365-2133.1998.02522.x|url=http://www3.interscience.wiley.com/resolve/openurl?genre=article&sid=nlm:pubmed&issn=0007-0963&date=1998&volume=139&issue=5&spage=897}}</ref>
+
+== References ==
+{{Reflist|2}}
+
+{{Antipsoriatics}}
+{{Vitamin D receptor modulators}}
+
+[[Category:Secosteroids]]
+[[Category:Vitamin D]]
+
+
+{{dermatologic-drug-stub}}

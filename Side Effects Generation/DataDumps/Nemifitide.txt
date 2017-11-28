@@ -1,0 +1,54 @@
+{{Drugbox
+| IUPAC_name = (4''R'')-4-hydroxy-<sub>L</sub>-prolyl-''N''<sup>5</sup>-(diaminomethylidene)-<sub>L</sub>-ornithylglycyl-''N''-[(2''S'')-2-amino-3-(4-fluorophenyl)propanoyl]-<sub>L</sub>-tryptophanamide
+| image = Nemifitide.svg
+| width = 300
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_category =  
+| legal_status = Non-regulated
+| routes_of_administration = [[Subcutaneous injection]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life = 15-30 minutes<ref name="FoyeLemke2007">{{cite book | author1 = William O. Foye | author2 = Thomas L. Lemke | author3 = David A. Williams | title = Foye's principles of medicinal chemistry | url = https://books.google.com/books?id=R0W1ErpsQpkC&pg=PA596 | accessdate = 15 July 2016 | date = 1 September 2007 | publisher = Lippincott Williams & Wilkins | isbn = 978-0-7817-6879-5 | page = 596}}</ref>
+| excretion =
+
+<!--Identifiers-->
+| CAS_number = 173240-15-8
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 177265
+| ChemSpiderID = 154356
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = RO19OXA9NG
+
+<!--Chemical data-->
+| C=33 | H=43 | F=1 | N=10 | O=6 
+| molecular_weight = 694.756 g/mol
+| smiles = c1ccc2c(c1)c(c[nH]2)C[C@@H](C(=O)N)NC(=O)CNC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@@H]3C[C@H](CN3C(=O)[C@H](Cc4ccc(cc4)F)N)O
+}}
+
+'''Nemifitide''' ('''INN-00835''') is a novel [[antidepressant]] [[drug]] with a [[pentapeptide]] [[chemical structure|structure]] similar to that of [[melanocyte-inhibiting factor]] (MIF-1) and the [[amino acid sequence]] 4-F-Phe-4-OH-Pro-Arg-Gly-Trp-NH<sub>2</sub>.<ref name="FoyeLemke2007" /><ref name="pmid18980729">{{cite journal |pmid=18980729 |year=2008 |last1=Holtzheimer |first1=PE |last2=Nemeroff |first2=CB |title=Novel targets for antidepressant therapies. |volume=10 |issue=6 |pages=465–73 |journal=Current psychiatry reports |doi=10.1007/s11920-008-0075-5}}</ref> It is under development by [[Tetragenex]] (previously [[Innapharma, Inc.]]) for the treatment of [[major depressive disorder]].<ref name="Tetragenex">{{cite web | url = http://www.tetragenex.com/technology.html#nem | title = Tetragenex Pharmaceuticals Inc. - Product Technology - Nemifitide | accessdate = 2011-06-13}}</ref> It has been given to over 430 people over the course of 12 [[clinical trial]]s throughout a little over the past decade and has reached [[Clinical trial#Phase III|Phase III]] studies, but has not yet been approved for marketing in any country.<ref name="Tetragenex"/>
+
+Nemifitide has shown mixed efficacy in alleviating depressive symptoms,<ref name="pmid19501541">{{cite journal |pages=291–302 |doi=10.1016/j.cbpa.2009.04.617 |title=Emerging targets for antidepressant therapies |year=2009 |last1=Rakofsky |first1=Jeffrey J |last2=Holtzheimer |first2=Paul E |last3=Nemeroff |first3=Charles B |journal=Current Opinion in Chemical Biology |volume=13 |issue=3 |pmid=19501541}}</ref><ref name="Alarcón2004">{{cite book | author = Renato D. Alarcón | title = Antidepressants: past, present, and future | url = https://books.google.com/books?id=sO_hArhCxwMC&pg=PA575 | year = 2004 | publisher = Springer | isbn = 978-3-540-43054-4 | page = 575}}</ref> but in the cases in which it has worked it has proven to have a rapid [[onset of action]] (~5–7 days), few to no [[side effect]]s, and an excellent [[safety profile]].<ref name="Alarcón2004"/> However, it is inactive [[oral administration|orally]] and must be administered via [[subcutaneous injection]]. Remarkably, despite having a very short [[half-life]] of only 15–30 minutes,<ref name="FoyeLemke2007"/> in most or all studies assessing its efficacy nemifitide has been administered merely once daily via the subcutaneous route and yet is effective for depression.
+
+The [[mechanism of action]] of nemifitide is unclear, but since MIF-1 has been demonstrated to have similar antidepressant effects<ref name="pmid6138756">{{cite journal |pmid=6138756 |year=1983 |last1=Van Der Velde |first1=CD |title=Rapid clinical effectiveness of MIF-I in the treatment of major depressive illness |volume=4 |issue=3 |pages=297–300 |journal=Peptides |doi=10.1016/0196-9781(83)90136-5}}</ref> it may act in an analogous manner.<ref name="FoyeLemke2007"/><ref name="pmid18980729" /> Possibly of interest however is that nemifitide binds to several [[receptor (biochemistry)|receptor]]s including [[5-HT2A receptor|5-HT<sub>2A</sub>]] (where it has been shown to act as an [[receptor antagonist|antagonist]]), [[Neuropeptide Y receptor|NPY<sub>1</sub>]], [[Bombesin receptor|bombesin]], and [[Melanocortin 4 receptor|MC<sub>4</sub>]] and [[Melanocortin 5 receptor|MC<sub>5</sub>]], though at only [[molar concentration|micromolar concentration]]s.<ref name="Alarcón2004"/> Whether any of these relatively weak actions are of any clinical significance is unclear.
+
+== See also ==
+* [[Melanocyte-inhibiting factor]]
+
+== References ==
+{{Reflist}}
+
+== Further reading ==
+* {{Cite journal  | last1 = Dingemanse | first1 = J. | title = Nemifitide. Innapharma. | journal = Curr Opin Investig Drugs | volume = 4 | issue = 7 | pages = 859–62 |date=July 2003 | doi =  | PMID = 14619408 }}
+
+{{Antidepressants}}
+{{Neuropeptidergics}}
+{{Use dmy dates|date=April 2017}}
+
+[[Category:Antidepressants]]
+[[Category:Peptides]]
+[[Category:Drugs with unknown mechanisms of action]]

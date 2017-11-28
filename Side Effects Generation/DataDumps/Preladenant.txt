@@ -1,0 +1,68 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 415652771
+| IUPAC_name = 2-(2-Furanyl)-7-[2-[4-[4-(2-methoxyethoxy)phenyl]-1-piperazinyl]ethyl]7''H''-pyrazolo[4,3-e][1,2,4]triazolo[1,5-c]pyrimidine-5-amine
+| image = Preladenant.svg
+| width = 330
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Investigational
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5614
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 377727-87-2
+| ATC_prefix = none
+| ATC_suffix =  
+| ATC_supplemental =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 950O97NUPO
+|  PubChem = 10117987
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 8293510
+| KEGG = D09717
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=25 | H=29 | N=9 | O=3 
+| molecular_weight = 503.555 g/mol
+| smiles = COCCOc(cc4)ccc4N(CC3)CCN3CCn(c2nc1N)ncc2c(n5)n1nc5-c6occc6
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C25H29N9O3/c1-35-15-16-36-19-6-4-18(5-7-19)32-11-8-31(9-12-32)10-13-33-23-20(17-27-33)24-28-22(21-3-2-14-37-21)30-34(24)25(26)29-23/h2-7,14,17H,8-13,15-16H2,1H3,(H2,26,29)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = DTYWJKSSUANMHD-UHFFFAOYSA-N
+}}
+
+'''Preladenant''' ('''SCH 420814''') was a drug that was developed by [[Schering-Plough]] which acted as a potent and selective [[receptor antagonist|antagonist]] at the [[adenosine]] [[Adenosine A2a receptor|A<sub>2A</sub> receptor]]. It was being researched as a potential treatment for [[Parkinson's disease]].<ref name="pmid19332567">{{cite journal |vauthors=Hodgson RA, Bertorelli R, Varty GB, Lachowicz JE, Forlani A, Fredduzzi S, Cohen-Williams ME, Higgins GA, Impagnatiello F, Nicolussi E, Parra LE, Foster C, Zhai Y, Neustadt BR, Stamford AW, Parker EM, Reggiani A, Hunter JC | title = Characterization of the Potent and Highly Selective A2A Receptor Antagonists Preladenant and SCH 412348 in Rodent Models of Movement Disorders and Depression | journal = The Journal of Pharmacology and Experimental Therapeutics | volume = 330| issue = 1| pages = 294–303|date=March 2009 | pmid = 19332567 | doi = 10.1124/jpet.108.149617 | url = | issn = }}</ref> Positive results were reported in Phase II [[clinical trials]] in humans,<ref>{{Cite journal | last1 = Hauser | first1 = R. A. | last2 = Cantillon | first2 = M. | last3 = Pourcher | first3 = E. | last4 = Micheli | first4 = F. | last5 = Mok | first5 = V. | last6 = Onofrj | first6 = M. | last7 = Huyck | first7 = S. | last8 = Wolski | first8 = K. | title = Preladenant in patients with Parkinson's disease and motor fluctuations: a phase 2, double-blind, randomised trial | doi = 10.1016/S1474-4422(11)70012-6 | journal = The Lancet Neurology | volume = 10 | issue = 3 | pages = 221–229 | year = 2011 | pmid =  | pmc = }}</ref> but it did not prove itself to be more effective than a placebo during Phase III trials, and so was discontinued in May 2013.<ref>http://bigstory.ap.org/article/merck-ends-development-parkinsons-disease-drug</ref>
+
+== References ==
+{{Reflist|2}}
+
+{{Adenosinergics}}
+
+[[Category:Furans]]
+[[Category:Piperazines]]
+[[Category:Phenol ethers]]
+[[Category:Adenosine receptor antagonists]]
+
+
+{{nervous-system-drug-stub}}

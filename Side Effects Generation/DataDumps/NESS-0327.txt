@@ -1,0 +1,72 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 424803248
+| IUPAC_name =  
+| image = NESS-0327.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = Schedule II
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number =  
+| ATC_prefix =  
+| ATC_suffix =  
+| PubChem = 10435654
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII = X1BQI2J97I
+| UNII_Ref = {{fdacite|changed|FDA}}
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 8611079
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C24H23Cl3N4O/c25-16-7-9-18-15(13-16)5-4-6-19-22(24(32)29-30-11-2-1-3-12-30)28-31(23(18)19)21-10-8-17(26)14-20(21)27/h7-10,13-14H,1-6,11-12H2,(H,29,32)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = NCXBPZJQQSNIRA-UHFFFAOYSA-N
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=24 | H=23 | Cl=3 | N=4 | O=1 
+| molecular_weight = 489.824 g/mol
+| smiles = Clc3cc(Cl)ccc3-n4c2-c1ccc(Cl)cc1CCCc2c(n4)C(=O)NN5CCCCC5
+}}
+
+'''NESS-0327''' is a drug used in scientific research which acts as an extremely potent and selective [[Antagonist (pharmacology)|antagonist]] of the [[cannabinoid receptor]] [[cannabinoid receptor 1|CB<sub>1</sub>]]. It is much more potent an antagonist, and more selective for the CB<sub>1</sub> receptor over CB<sub>2</sub>, than the more commonly used ligand [[rimonabant]], with a [[Dissociation constant|K<sub>i</sub>]] at CB<sub>1</sub> of 350fM (i.e. 0.00035nM) and a selectivity of over 60,000x for CB<sub>1</sub> over CB<sub>2</sub>.<ref>{{cite journal | last1 = Ruiu | first1 = S | last2 = Pinna | first2 = GA | last3 = Marchese | first3 = G | last4 = Mussinu | first4 = JM | last5 = Saba | first5 = P | last6 = Tambaro | first6 = S | last7 = Casti | first7 = P | last8 = Vargiu | first8 = R | last9 = Pani | first9 = L | date = Jul 2003 | title = Synthesis and characterization of NESS 0327: a novel putative antagonist of the CB1 cannabinoid receptor | url = | journal = Journal of Pharmacology and Experimental Therapeutics | volume = 306 | issue = 1| pages = 363–70 | pmid = 12663689 | doi=10.1124/jpet.103.049924}}</ref>
+Independently, two other groups have described only modest nanomolar CB<sub>1</sub> affinity for this compound (125nM<ref>{{cite journal | last1 = Stoit | first1 = A.R. | last2 = Lange | first2 = J.H.M. | last3 = den Hartog | first3 = A.P. | last4 = Ronken | first4 = E. | last5 = Tipker | first5 = K. | last6 = van Stuivenberg | first6 = H.H. | last7 = Dijksman | first7 = J.A.R. | last8 = Wals | first8 = H.C. | last9 = Kruse | first9 = C.G. | year = 2002 | title =  Design, Synthesis and Biological Activity of Rigid Cannabinoid CB1 Receptor Antagonists| doi = 10.1248/cpb.50.1109 | journal = Chem. Pharm. Bull. | volume = 50 | issue = 8| pages = 1109–1113 }}</ref> and
+18.4nM<ref>{{cite journal | last1 = Zhang | first1 = Y. | last2 = Burgess | first2 = J.P. | last3 = Brackeen | first3 = M. | last4 = Gilliam | first4 = A. | last5 = Mascarella | first5 = S.W. | last6 = Page | first6 = K. | last7 = Seltzman | first7 = H.H. | last8 = Thomas | first8 = B.F. | year = 2008 | title =  Conformationally Constrained Analogues of N -(Piperidinyl)-5-(4-Chlorophenyl)-1-(2,4- Dichlorophenyl)-4-Methyl-1 H -Pyrazole-3-Carboxamide (SR141716): Design, Synthesis, Computational Analysis, And Biological Evaluations| doi = 10.1021/jm8000778 | journal = J. Med. Chem. | volume = 51 | issue = 12| pages = 3526–3539 }}</ref>).
+Also unlike rimonabant, NESS-0327 does not appear to act as an [[inverse agonist]] at higher doses, instead being a purely [[neutral antagonist]] which blocks the CB<sub>1</sub> receptor but does not produce any physiological effect of its own.<ref>{{cite journal | last1 = Tambaro | first1 = S | last2 = Mongeau | first2 = R | last3 = Dessi | first3 = C | last4 = Pani | first4 = L | last5 = Ruiu | first5 = S | date = Nov 2005 | title = Modulation of ATP-mediated contractions of the rat vas deferens through presynaptic cannabinoid receptors | url = | journal = European Journal of Pharmacology | volume = 525 | issue = 1–3| pages = 150–3 | pmid = 16271359 | doi=10.1016/j.ejphar.2005.09.058}}</ref>
+
+==See also==
+* [[Discovery and development of Cannabinoid Receptor 1 Antagonists]]
+* [[NESS-040C5]]
+
+==References==
+{{reflist}}
+
+{{Cannabinoids}}
+
+[[Category:Cannabinoids]]
+[[Category:CB1 receptor antagonists]]
+[[Category:Hydrazides]]
+[[Category:Chloroarenes]]
+[[Category:Pyrazoles]]
+[[Category:Piperazines]]
+
+
+{{cannabinoid-stub}}

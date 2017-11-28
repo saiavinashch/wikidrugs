@@ -1,0 +1,88 @@
+{{Infobox drug
+| drug_name         =
+| IUPAC_name        = RNA, (P-thio)((2'-O,4'-C-methylene)m5C-dC-(2'-O,4'-C-methylene)A-dT-dT-(2'-O,4'-C-methylene)G-(2'-O,4'-C-methylene)m5U-dC-dA-(2'-O,4'-C-methylene)m5C-dA-(2'-O,4'-C-methylene)m5C-dT-(2'-O,4'-C-methylene)m5C-(2'-O,4'-C-methylene)m5C)
+| image             = Miravirsen.png
+| alt               =
+| caption           =
+<!-- Clinical data -->
+| pronounce         =
+| tradename         =
+| Drugs.com         =
+| MedlinePlus       =
+| pregnancy_AU      = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_AU_comment =
+| pregnancy_US      = <!-- A / B            / C / D / X / N -->
+| pregnancy_category=
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_AU_comment =
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_DE = <!-- Anlage I, II, III -->
+| legal_NZ = <!-- Class A, B, C -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_UN = <!-- N I, II, III, IV / P I, II, III, IV-->
+| legal_status      = Investigational
+| routes_of_administration = [[Intravenous]] or [[subcutaneous injection]]
+<!-- Pharmacokinetic data -->
+| bioavailability   =
+| protein_bound     =
+| metabolism        =
+| metabolites       =
+| onset             =
+| elimination_half-life =
+| duration_of_action =
+| excretion         =
+<!-- Identifiers -->
+| CAS_number        = 1072874-90-8
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = Q083AJW7VS 
+| ATCvet            =
+| ATC_prefix        = none
+| ATC_suffix        =
+| PubChem           = 56843415
+| DrugBank          =
+| synonyms          = SPC3649
+<!-- Chemical data -->
+| C=151 | H=185 | N=49 | O=83 | P=14 | S=14
+| smiles = CC1=CN(C(=O)NC1=O)C2CC(C(O2)COP(=S)(O)OC3C4C(OC3(CO4)COP(=S)(O)OC5CC(OC5COP(=S)(O)OC6C7C(OC6(CO7)CO)N8C=CC(=NC8=O)N)N9C=CC(=NC9=O)N)N1C=NC2=C1N=CN=C2N)OP(=S)(O)OCC1C(CC(O1)N1C=C(C(=O)NC1=O)C)OP(=S)(O)OCC12COC(C1OP(=S)(O)OCC13COC(C1OP(=S)(O)OCC1C(CC(O1)N1C=CC(=NC1=O)N)OP(=S)(O)OCC1C(CC(O1)N1C=NC4=C1N=CN=C4N)OP(=S)(O)OCC14COC(C1OP(=S)(O)OCC1C(CC(O1)N1C=NC5=C1N=CN=C5N)OP(=S)(O)OCC15COC(C1OP(=S)(O)OCC1C(CC(O1)N1C=C(C(=O)NC1=O)C)OP(=S)(O)OCC16COC(C1OP(=S)(O)OCC17COC(C1O)C(O7)N1C=CC(=NC1=O)N)C(O6)N1C=CC(=NC1=O)N)C(O5)N1C=CC(=NC1=O)N)C(O4)N1C=CC(=NC1=O)N)C(O3)N1C=C(C(=O)NC1=O)C)C(O2)N1C=NC2=C1N=C(NC2=O)N
+| StdInChI=1S/C151H185N49O83P14S14/c1-60-26-193(140(215)182-119(60)203)87-21-66(74(258-87)34-245-290(225,304)281-110-102-130(199-58-171-94-114(161)165-55-168-117(94)199)268-150(110,44-239-102)50-252-291(226,305)272-65-20-86(187-13-6-79(153)174-134(187)209)256-72(65)33-243-286(221,300)277-105-97-125(262-144(105,37-201)38-234-97)189-15-8-81(155)176-136(189)211)271-285(220,299)241-30-73-67(22-88(257-73)194-27-61(2)120(204)183-141(194)216)273-293(228,307)253-51-151-45-240-103(131(269-151)200-59-172-95-118(200)180-132(162)181-123(95)207)111(151)283-297(232,311)254-52-149-43-238-101(129(267-149)196-29-63(4)122(206)185-143(196)218)109(149)280-289(224,303)244-32-71-64(19-85(255-71)186-12-5-78(152)173-133(186)208)270-284(219,298)242-31-76-69(24-90(260-76)197-56-169-92-112(159)163-53-166-115(92)197)275-294(229,308)249-47-147-41-236-99(127(265-147)191-17-10-83(157)178-138(191)213)107(147)279-288(223,302)247-36-77-70(25-91(261-77)198-57-170-93-113(160)164-54-167-116(93)198)276-295(230,309)250-48-146-40-235-98(126(264-146)190-16-9-82(156)177-137(190)212)106(146)278-287(222,301)246-35-75-68(23-89(259-75)195-28-62(3)121(205)184-142(195)217)274-292(227,306)251-49-148-42-237-100(128(266-148)192-18-11-84(158)179-139(192)214)108(148)282-296(231,310)248-46-145-39-233-96(104(145)202)124(263-145)188-14-7-80(154)175-135(188)210/h5-18,26-29,53-59,64-77,85-91,96-111,124-131,201-202H,19-25,30-52H2,1-4H3,(H,219,298)(H,220,299)(H,221,300)(H,222,301)(H,223,302)(H,224,303)(H,225,304)(H,226,305)(H,227,306)(H,228,307)(H,229,308)(H,230,309)(H,231,310)(H,232,311)(H2,152,173,208)(H2,153,174,209)(H2,154,175,210)(H2,155,176,211)(H2,156,177,212)(H2,157,178,213)(H2,158,179,214)(H2,159,163,166)(H2,160,164,167)(H2,161,165,168)(H,182,203,215)(H,183,204,216)(H,184,205,217)(H,185,206,218)(H3,162,180,181,207)
+| StdInChIKey = OSOOBMBDIGGTCP-UHFFFAOYSA-N
+}}
+'''Miravirsen''' ([[International Nonproprietary Name|INN]]; codenamed '''SPC3649''') is an experimental drug for the treatment of [[hepatitis C]], being developed by [[Santaris Pharma]].
+
+==Mechanism of action==
+{{further|miR-122#Regulation of HCV}}
+Miravirsen is a short modified [[RNA]] molecule that is applied by [[intravenous]] or [[subcutaneous injection|subcutaneous]]<ref name="van der Ree" /> injection. It reaches the liver and binds to the human [[microRNA]] called [[miR-122]]; this mechanism makes it an [[antisense]] RNA.<ref name="pmid18368051" /> Miravirsen can also bind to the precursors of miR-122 with nanomolar affinity, inhibiting its [[microRNA#Biogenesis|biogenesis]].<ref name="pmid24068553" /> The [[hepatitis C virus]] needs miR-122 to [[Virus replication cycle|multiply]], but cannot use it if bound by miravirsen.<ref name="NEJM" />
+
+==Potential side effects==
+As miR-122 has [[tumour]] protective properties in liver cells,<ref name="Kutay" /><ref name="Coulouarn" /> concerns about a possible risk of [[hepatic cancer]] have been voiced.<ref name="Zsilavecz" /> The drug did not induce liver toxicity in non-human primates,<ref name="pmid18368051" /> nor in a human study.<ref name="van der Ree" />
+
+==Chemical properties==
+[[File:LNASchem.svg|thumb|left|Chemical structure of a single [[nucleoside]] (sugar plus [[nucleobase|base]]) of a [[locked nucleic acid]]]]
+Miravirsen is a modified [[oligonucleotide]] consisting of a chain of 15 [[nucleotide]]s, the base sequence of which is designed to selectively bind to miR-122.<ref name="Zsilavecz" /><ref name="pubchem" /> Seven of the 15 sugar units are [[desoxyribose]]s, and the other eight are [[ribose]]s with an additional bridge between the 2' oxygen and the 4' carbon atoms; this makes the molecule a [[locked nucleic acid]]. Furthermore, the phosphate units have been replaced by [[thiophosphate]]s.<ref name="pubchem" />
+
+The complete base sequence is
+:<code>[[5-Methylcytidine monophosphate|mC]]*-d[[Cytidine monophosphate|C]]-[[Adenosine monophosphate|A]]*-d[[Thymidine monophosphate|T]]-dT-[[Guanosine monophosphate|G]]*-m[[Uridine monophosphate|U]]*-dC-dA-mC*-dA-mC*-dT-mC*-mC*</code> [<code>d</code> = 2'-deoxy, <code>*</code> = 2'-O,4'-C-methylene, i.e. bridged or "locked" sugar]
+with 3'→5' thiophosphate linkages.<ref name="pubchem" />
+
+==Research==
+Miravirsen reduced HCV [[viremia]] in a small-scale trial in [[chimpanzees]]<ref name="Lanford" /> and was found to be safe in a clinical trial in 27 humans over eight to eleven weeks.<ref name="van der Ree" />
+
+The drug underwent a Phase IIa trial in which patients were randomly assigned to [[placebo]] groups or one of the three multiple ascending dose groups (3&nbsp;mg/kg, 5&nbsp;mg/kg, 7&nbsp;mg/kg of miravirsen). The naïve patients were given 5 weekly doses of miravirsen via subcutaneous injection for four weeks, and 4 out of 9 patients receiving the highest dose (7&nbsp;mg/kg) exhibited significant decrease in [[hepatitis C virus]] RNA (p<0.001). The result was sustained even 10 weeks after the last miravirsen administration.<ref name="NEJM" /><ref name="santaris" />
+
+==References==
+{{reflist|35em|refs=
+<ref name="pmid18368051">{{cite journal |vauthors=Elmén J, Lindow M, Schütz S, Lawrence M, Petri A, Obad S, Lindholm M, Hedtjärn M, Hansen HF, Berger U, Gullans S, Kearney P, Sarnow P, Straarup EM, Kauppinen S |title=LNA-mediated microRNA silencing in non-human primates |journal=Nature |volume=452 |issue=7189 |pages=896–9 |year=2008 |pmid=18368051 |doi=10.1038/nature06783|bibcode=2008Natur.452..896E }}</ref>
+<ref name="Lanford">{{cite journal|last1=Lanford|first1=R. E.|author2=Hildebrandt-Eriksen, E. S., Petri, A., Persson, R., Lindow, M., Munk, M. E., Kauppinen, S., Orum, H.|title=Therapeutic Silencing of MicroRNA-122 in Primates with Chronic Hepatitis C Virus Infection|journal=Science|volume=327|issue=5962|pages=198–201|doi=10.1126/science.1178178|pmid=19965718|pmc=3436126|year=2010|bibcode=2010Sci...327..198L}}</ref>
+<ref name="van der Ree">{{cite journal|doi=10.1016/j.antiviral.2014.08.015|pmid=25218783|title=Long-term safety and efficacy of microRNA-targeted therapy in chronic hepatitis C patients|journal=Antiviral Research|volume=111|pages=53–9|year=2014|last1=Van Der Ree|first1=Meike H.|last2=Van Der Meer|first2=Adriaan J.|last3=De Bruijne|first3=Joep|last4=Maan|first4=Raoel|last5=Van Vliet|first5=Andre|last6=Welzel|first6=Tania M.|last7=Zeuzem|first7=Stefan|last8=Lawitz|first8=Eric J.|last9=Rodriguez-Torres|first9=Maribel|last10=Kupcova|first10=Viera|last11=Wiercinska-Drapalo|first11=Alcija|last12=Hodges|first12=Michael R.|last13=Janssen|first13=Harry L.A.|last14=Reesink|first14=Hendrik W.}}</ref>
+<ref name="NEJM">{{cite journal|doi=10.1056/NEJMoa1209026|pmid=23534542|title=Treatment of HCV Infection by Targeting MicroRNA|journal=New England Journal of Medicine|volume=368|issue=18|pages=1685–94|year=2013|last1=Janssen|first1=Harry L.A.|last2=Reesink|first2=Hendrik W.|last3=Lawitz|first3=Eric J.|last4=Zeuzem|first4=Stefan|last5=Rodriguez-Torres|first5=Maribel|last6=Patel|first6=Keyur|last7=Van Der Meer|first7=Adriaan J.|last8=Patick|first8=Amy K.|last9=Chen|first9=Alice|last10=Zhou|first10=Yi|last11=Persson|first11=Robert|last12=King|first12=Barney D.|last13=Kauppinen|first13=Sakari|last14=Levin|first14=Arthur A.|last15=Hodges|first15=Michael R.}}</ref>
+<ref name="santaris">{{cite news|title=Santaris Pharma A/S Phase 2a data of miravirsen shows dose-dependent, prolonged viral reduction of 2-3 logs HCV RNA after four-week treatment in Hepatitis C patients|accessdate=23 November 2011 |url=http://www.santaris.com/sites/default/files/SantarisPharmaAASLDPhase2dataFINALpressrelease11.5.11.pdf|date=5 November 2011}}</ref>
+<ref name="Zsilavecz">Schubert-Zsilavecz, M, Wurglics, M, ''Neue Arzneimittel Herbst 2015''.</ref>
+<ref name="Kutay">{{cite journal|last1=Kutay|first1=Huban|author2=Bai, Shoumei, Datta, Jharna, Motiwala, Tasneem, Pogribny, Igor, Frankel, Wendy, Jacob, Samson T., Ghoshal, Kalpana|title=Downregulation of miR-122 in the rodent and human hepatocellular carcinomas|journal=Journal of Cellular Biochemistry|volume=99|issue=3|pages=671–678|doi=10.1002/jcb.20982|pmid=16924677|pmc=3033198}}</ref>
+<ref name="Coulouarn">{{cite journal|last1=Coulouarn|first1=C|author2=Factor, V M, Andersen, J B, Durkin, M E, Thorgeirsson, S S|title=Loss of miR-122 expression in liver cancer correlates with suppression of the hepatic phenotype and gain of metastatic properties|journal=Oncogene|volume=28|issue=40|pages=3526–3536|doi=10.1038/onc.2009.211|pmid=19617899|date=October 2009}}</ref>
+<ref name="pubchem">[[PubChem]]: [https://pubchem.ncbi.nlm.nih.gov/compound/56843415 Miravirsen]</ref>
+<ref name="pmid24068553">{{cite journal|last1=Gebert|first1=LF|last2=Rebhan|first2=MA|last3=Crivelli|first3=SE|last4=Denzler|first4=R|last5=Stoffel|first5=M|last6=Hall|first6=J|title=Miravirsen (SPC3649) can inhibit the biogenesis of miR-122.|journal=Nucleic Acids Research|date=January 2014|volume=42|issue=1|pages=609–21|pmid=24068553|doi=10.1093/nar/gkt852|pmc=3874169}}</ref>
+}}
+
+[[Category:Anti-hepatitis C agents]]
+[[Category:Antisense RNA]]

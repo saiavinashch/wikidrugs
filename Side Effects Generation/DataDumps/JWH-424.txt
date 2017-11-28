@@ -1,0 +1,61 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 433533861
+| IUPAC_name = 1-pentyl-3-(8-bromo-1-naphthoyl)indole
+| image = JWH-424_structure.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = Schedule II
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number =  
+| ATC_prefix =  
+| ATC_suffix =  
+| PubChem =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID      = 28645324
+
+<!--Chemical data-->
+| C=24 | H=22 | Br=1 | N=1 | O=1 
+| molecular_weight = 420.341 g/mol
+| smiles = c4cccc1c4n(CCCCC)cc1C(=O)c(c2c3Br)cccc2ccc3
+| StdInChI          = 1S/C24H22BrNO/c1-2-3-6-15-26-16-20(18-11-4-5-14-22(18)26)24(27)19-12-7-9-17-10-8-13-21(25)23(17)19/h4-5,7-14,16H,2-3,6,15H2,1H3
+| StdInChIKey       = QXZYVJRMQVOOEQ-UHFFFAOYSA-N
+
+}}
+
+'''JWH-424''' is a drug from the [[naphthoylindole]] family, which acts as a [[cannabinoid]] agonist at both the [[Cannabinoid receptor 1|CB<sub>1</sub>]] and [[Cannabinoid receptor 2|CB<sub>2</sub>]] [[Receptor (biochemistry)|receptors]], but with moderate selectivity for CB<sub>2</sub>, having a [[Dissociation constant#Protein-ligand binding|K<sub>i</sub>]] of 5.44nM at CB<sub>2</sub> vs 20.9nM at CB<sub>1</sub>. The heavier 8-[[Iodine|iodo]] analogue is even more CB<sub>2</sub> selective, with its 2-methyl derivative having 40x selectivity for CB<sub>2</sub>. However the 1-propyl homologues in this series showed much lower affinity at both receptors, reflecting a generally reduced affinity for the 8-substituted naphthoylindoles overall.<ref>Valerie Smith, John Huffman, Jenny Wiley and Billy Martin. EFFECTS OF HALOGEN SUBSTITUENTS UPON CB1 AND CB2 RECEPTOR AFFINITIES IN THE SERIES OF N-ALKYL-3-(8-HALO-1-NAPTHOYL)INDOLES. (2007) 17th Annual Symposium on the Cannabinoids, Burlington, Vermont, International Cannabinoid Research Society, Page 72.</ref><ref>John W. Huffman, ''et al.'' STRUCTURE-ACTIVITY RELATIONSHIPS AT THE CB1 AND CB2 RECEPTORS FOR 1-ALKYL-3-(1-NAPHTHOYL-4 AND 8-HALOGEN SUBSTITUTED) INDOLES (2009) 19th Annual Symposium on the Cannabinoids, Burlington, Vermont, International Cannabinoid Research Society, Page 2.</ref>
+
+==See also==
+* [[JWH-018]]
+* [[JWH-398]]
+
+==References==
+{{reflist}}
+
+{{Cannabinoids}}
+
+[[Category:Naphthoylindoles]]
+[[Category:JWH cannabinoids]]
+[[Category:Bromoarenes]]
+[[Category:Designer drugs]]
+
+
+{{cannabinoid-stub}}

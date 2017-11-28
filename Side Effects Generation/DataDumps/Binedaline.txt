@@ -1,0 +1,91 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 486407515
+| IUPAC_name = ''N'',''N'',''N''-trimethyl-''N''-(3-phenylindol-1-yl)ethane-1,2-diamine
+| image = Binedaline.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_category =  
+| legal_status = Uncontrolled
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 60662-16-0
+| ATC_prefix = none
+| ATC_suffix =  
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H23N3/c1-20(2)13-14-21(3)22-15-18(16-9-5-4-6-10-16)17-11-7-8-12-19(17)22/h4-12,15H,13-14H2,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SXYFFMXPDDGOEK-UHFFFAOYSA-N
+| PubChem = 42509
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2104611
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 38769
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 3AVG9P140R
+
+<!--Chemical data-->
+| C=19 | H=24 | Cl=1 | N=3 
+| molecular_weight = 329.86696 g/mol
+| smiles = c1cccc2c1c(cn2N(CCN(C)C)C)c3ccccc3
+}}
+
+'''Binedaline''' ('''Ixprim'''), also called '''binodaline''', is a [[drug]] that was being investigated as an [[antidepressant]] in the 1980s but never [[marketed]].<ref name="pmid6239991">{{Cite journal
+| pmid = 6239991
+| year = 1984
+| author1 = Faltus | first2 = F.
+| title = A controlled double-blind study comparing binedaline and imipramine in the treatment of endogenous depression
+| volume = 12
+| issue = 1
+| pages = 34–38
+| journal = Neuropsychobiology
+| doi = 10.1159/000118107
+| last2 = Geerling
+}}</ref><ref name="isbn0-412-46630-9">{{cite book | author = David J. Triggle | title = Dictionary of Pharmacological Agents | publisher = Chapman & Hall/CRC | location = Boca Raton | year = 1996 | pages = | isbn = 0-412-46630-9 | oclc = | doi = | url = https://books.google.com/books?id=DeX7jgInYFMC&lpg=PA267&pg=PA267#v=onepage&q=&f=false}}</ref> It acts as a [[binding selectivity|selective]] [[norepinephrine reuptake inhibitor]] (K<sub>i</sub> = 25 nM), with relatively insignificant influence on the [[serotonin transporter|serotonin]] (K<sub>i</sub> = 847 nM) and [[dopamine transporter|dopamine]] (K<sub>i</sub> >= 2 µM) [[membrane transport protein|transporter]]s.<ref name="pmid2540319">{{Cite journal
+| pmid = 2540319
+| year = 1989
+| author1 = Morin | first2 = R. | first3 = S. | first4 = J. P.
+| title = Pharmacological profile of binedaline, a new antidepressant drug
+| volume = 249
+| issue = 1
+| pages = 288–296
+| journal = The Journal of Pharmacology and Experimental Therapeutics
+| last2 = Zini
+| last3 = Urien
+| last4 = Tillement
+}}</ref> It has negligible affinity for the [[alpha-adrenergic receptor|α-adrenergic]], [[muscarinic acetylcholine receptor|mACh]], [[H1 receptor|H<sub>1</sub>]], or [[5-HT2 receptor|5-HT<sub>2</sub>]] [[receptor (biochemistry)|receptor]]s.<ref name="pmid2540319">{{Cite journal
+| pmid = 2540319
+| year = 1989
+| author1 = Morin | first2 = R. | first3 = S. | first4 = J. P.
+| title = Pharmacological profile of binedaline, a new antidepressant drug
+| volume = 249
+| issue = 1
+| pages = 288–296
+| journal = The Journal of Pharmacology and Experimental Therapeutics
+| last2 = Zini
+| last3 = Urien
+| last4 = Tillement
+}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{Antidepressants}}
+{{Stimulants}}
+{{Adrenergics}}
+
+[[Category:Indoles]]
+[[Category:Amines]]
+
+
+{{Amine-stub}}
+{{nervous-system-drug-stub}}

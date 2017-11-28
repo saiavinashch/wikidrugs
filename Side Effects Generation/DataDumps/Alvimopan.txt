@@ -1,0 +1,137 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 456683046
+| IUPAC_name = 2-([(2S)-2-([(3R,4R)-4-(3-hydroxyphenyl)-3,4-dimethylpiperidin-1-yl]methyl) -3-phenylpropanoyl]amino)acetic acid
+| image = Alvimopan2DCSD.svg
+| width = 200px
+| image2 = Alvimopan3DanJ.gif
+| width2 = 250px
+
+<!--Clinical data-->
+| tradename =  Entereg
+| Drugs.com = {{drugs.com|monograph|alvimopan}}
+| MedlinePlus = a608051
+| licence_US = Alvimopan
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = B
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- Schedule I -->
+| legal_UK =  
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 6%
+| protein_bound = 80% (parent drug), 94% (metabolite)
+| metabolism = Gut microflora-mediated hydrolysis to active metabolite
+| elimination_half-life = 10-17 hours
+| excretion = Faeces, urine (35%)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7471
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 156053-89-3
+| ATC_prefix = A06
+| ATC_suffix = AH02
+| PubChem = 5488548
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB06274
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4589864
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = Q153V49P3Z
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 270190
+
+<!--Chemical data-->
+| C=25 | H=32 | N=2 | O=4 
+| molecular_weight = 424.53 g/mol
+| smiles = O=C(O)CNC(=O)[C@@H](Cc1ccccc1)CN3CC[C@@](c2cccc(O)c2)([C@H](C3)C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C25H32N2O4/c1-18-16-27(12-11-25(18,2)21-9-6-10-22(28)14-21)17-20(24(31)26-15-23(29)30)13-19-7-4-3-5-8-19/h3-10,14,18,20,28H,11-13,15-17H2,1-2H3,(H,26,31)(H,29,30)/t18-,20-,25+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = UPNUIXSCZBYVBB-JVFUWBCBSA-N
+| synonyms = Alvimopan, Entereg
+}}
+
+'''Alvimopan''' (trade name '''Entereg''') is a [[drug]] which behaves as a peripherally acting [[Mu opioid receptor|μ-opioid]] [[antagonist (pharmacology)|antagonist]]. With the limited ability to cross the [[blood–brain barrier]] and reach the μ-opioid receptors of the [[central nervous system]], many of the clinically undesirable side-effects (such as [[euphoria]] and [[drug withdrawal|withdrawal]]) of centrally acting [[opioid]] agonists are minimized without affecting the intended activation of μ-opioid receptors of the [[peripheral nervous system]] in the [[gastrointestinal tract]].  For the same reason, alvimopan has no [[analgesic]] properties at therapeutic doses.<ref name="neary_2005">{{cite journal | author=Neary P, Delaney P | title=Alvimopan | journal=Expert Opin Investig Drugs | year=2005 | pages=479–88 | volume=14 | issue=4 | pmid=15882122 | doi=10.1517/13543784.14.4.479}}</ref><ref>{{cite journal | author=Schmidt WK | title=Alvimopan* (ADL 8-2698) is a novel peripheral opioid antagonist | journal=Am J Surg | year=2001 | pages=27S–38S | volume=182 | issue=5A Supp | pmid=11755894 | doi=10.1016/S0002-9610(01)00784-X}}</ref> It is currently only [[Food and Drug Administration]] approved for the treatment of postoperative [[ileus]] which it received in May 2008.<ref>[http://www.fda.gov/bbs/topics/NEWS/2008/NEW01838.html   FDA press release - FDA Approves Entereg to Help Restore Bowel Function Following Surgery]</ref><ref>{{cite journal|last=Sharma|first=A|author2=Jamal, MM|title=Opioid induced bowel disease: a twenty-first century physicians' dilemma. Considering pathophysiology and treatment strategies.|journal=Current Gastroenterology Reports|date=July 2013|volume=15|issue=7|pages=334|doi=10.1007/s11894-013-0334-4|pmid=23836088}}</ref>
+
+== Medical uses ==
+Alvimopan is indicated in people to avoid postoperative ileus following partial large or small bowel resection with primary anastomosis. Alvimopan accelerates the gastrointestinal recovery period as defined by time to first bowel movement or flatus.<ref name="label">Alvimopan Product Label as approved by the FDA on  May 20, 2008.</ref>
+
+== Adverse effects ==
+The most common side effects associated with alvimopan are:<ref name="neary_2005" />
+
+{| class="wikitable"
+|-
+! Adverse Effect
+! Frequency (%) with placebo
+! Frequency (%) with alvimpoan
+|-
+| Dyspepsia
+| 4.6
+| 7.0
+|-
+| Hypokalemia
+| 8.5
+| 9.5
+|-
+| Back Pain
+| 1.7
+| 3.3
+|-
+| Delayed Micturition
+| 2.1
+| 3.2
+|}
+
+== Contraindications ==
+Alvimopan is absolutely contraindicated in patients who have taken therapeutic doses of opioids for more than seven consecutive days immediately prior to when alvimopan would be initiated because individuals with recent exposure to opioids are expected to be more sensitive to the effects of mu-opioid receptor antagonists. The peripheral site of action of alvimopan suggests that such a heightened sensitivity would precipitate gastrointestinal effects beyond dyspepsia.<ref name="label" />
+
+== Interactions ==
+Alvimopan is not substrate for the [[cytochrome P450]] enzyme system.  Therefore, no interactions are expected with hepatically metabolized drugs. Alvimopan is substrate for [[P-glycoprotein]].  Expect interactions with known P-glycoprotein inhibitors such as [[amiodarone]], [[bepridil]], [[diltiazem]], [[ciclosporin]], [[itraconazole]], [[quinine]], [[quinidine]], [[spironolactone]], and [[verapamil]].<ref name="label" />
+
+== Pharmacology ==
+
+=== Mechanism of action ===
+Alvimopan competitively binds to mu-opioid receptor in the gastrointestinal tract.  Unlike [[methylnaltrexone]] (another peripherally acting mu-receptor antagonist) that bears a quaternary amine, alvimopan owes its selectivity for peripheral receptors to its kinetics.  Alvimopan binds to peripheral mu-receptors with a Ki of 0.2&nbsp;ng/mL and dissociates slower than most other ligands.<ref name="label" />
+
+=== Pharmacokinetics ===
+==== Absorption ====
+
+Peak plasma concentration (C<sub>max</sub>) of alvimopan is reached approximately 2 hours after oral dosing, while the C<sub>max</sub> for metabolite occurs 36 hours after an oral dose.  Alvimopan's high affinity for the peripheral mu-receptor results in an absolute bioavailability less than 7%. <ref name="label" />
+
+==== Distribution ====
+80% to 90% of systemically available alvimopan is bound to plasma protein. At steady state, the volume of distribution is approximately 30 liters.<ref name="label" />
+
+==== Metabolism ====
+Alvimopan undergoes no significant hepatic metabolism, but is metabolized by intestinal flora. Gut metabolism produces an active metabolite with no clinically significant contribution to drug effect.<ref name="label" />
+
+==== Elimination ====
+Alvimopan undergoes 35% renal excretion and greater than 50% biliary excretion. Drug metabolized by intestinal flora is excreted in the feces. Alvimopan's half-life of elimination is 10 to 17 hours, while that of the gut metabolite is 10 to 18 hours.<ref name="label" />
+
+== Dosing and administration ==
+Alvimopan is only approved for short term use of no more than 15 doses.  It is available on an inpatient basis at institutions approved by and registered with the Entereg Access Support and Education (E.A.S.E.) program. A person should receive no more than 15 doses.<ref name="label" />
+
+==See also==
+* [[Axelopran]]
+* [[Bevenopran]]
+* [[Methylnaltrexone]]
+* [[Naldemedine]]
+* [[Naloxegol]]
+
+== References ==
+{{Reflist|2}}
+
+
+{{Laxatives}}
+{{Opioidergics}}
+
+[[Category:Opioid antagonists]]
+[[Category:Phenols]]
+[[Category:Piperidines]]
+[[Category:Carboxamides]]
+[[Category:Acetic acids]]
+[[Category:Peripherally selective drugs]]

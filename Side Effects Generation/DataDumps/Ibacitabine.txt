@@ -1,0 +1,65 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 444408658
+| ImageFile=Ibacitabine.svg
+| IUPACName=4-amino-1-[(2''R'',4''S'',5''R'')-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-5-iodopyrimidin-2-one
+| OtherNames=
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 3EK8532DZV
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo=611-53-0
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2104340
+| PubChem=65050
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07200
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 58561
+| SMILES = OCC1[C@@H](O)C[C@@H](O1)N2C=C(I)C(N)=NC2=O
+| InChI = 1/C9H12IN3O4/c10-4-2-13(9(16)12-8(4)11)7-1-5(15)6(3-14)17-7/h2,5-7,14-15H,1,3H2,(H2,11,12,16)/t5-,6+,7+/m0/s1
+| InChIKey = WEVJJMPVVFNAHZ-RRKCRQDMBC
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C9H12IN3O4/c10-4-2-13(9(16)12-8(4)11)7-1-5(15)6(3-14)17-7/h2,5-7,14-15H,1,3H2,(H2,11,12,16)/t5-,6+,7+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = WEVJJMPVVFNAHZ-RRKCRQDMSA-N
+  }}
+|Section2={{Chembox Properties
+| Formula=C<sub>9</sub>H<sub>12</sub>IN<sub>3</sub>O<sub>4</sub>
+| MolarMass=353.11375
+| Appearance=
+| Density=
+| MeltingPt=
+| BoilingPt=
+| Solubility=
+  }}
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = D06
+| ATCCode_suffix = BB08
+}}
+|Section7={{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| AutoignitionPt =
+  }}
+}}
+'''Ibacitabine''' (or '''ibacitabin''',<ref>{{cite journal | pmid = 10739980 | volume=127 | issue=2 | title=[Contact dermatitis to topical antiviral drugs] |date=February 2000 | journal=Ann Dermatol Venereol | pages=191–3}}</ref> or '''5-iodo-2'-deoxy[[cytidine]] ''') is an [[antiviral drug]].
+
+==References==
+{{reflist}}
+
+==External links==
+* {{ATC|D06|BB08}}
+{{Antibiotics and chemotherapeutics for dermatological use}}
+
+
+
+
+
+
+{{dermatologic-drug-stub}}
+
+[[Category:Antivirals]]
+[[Category:Pyrimidones]]
+[[Category:Organoiodides]]

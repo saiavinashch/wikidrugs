@@ -1,0 +1,108 @@
+{{Drugbox
+| IUPAC_name = 7-(3-Aminopyrrolidin-1-yl)-8-chloro-1-cyclopropyl-6-fluoro-4-oxoquinoline-3-carboxylic acid
+| image = Clinafloxacin.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  oral, IV<ref name="Kucers 6ed">{{cite book|last1=Grayson|first1=ML|last2=Crowe|first2=SM|last3=McCarthy|first3=JS|last4=Mills|first4=J|last5=Mouton|first5=JW|last6=Norrby|first6=SR|last7=Paterson|first7=DL|last8=Pfaller|first8=MA|title=Kucers' the use of antibiotics a clinical review of antibacterial, antifungal, antiparasitic and antiviral drugs|date=2012|publisher=CRC Press|location=Boca Raton, FL|isbn=1444147528|pages=1542-1546|edition=6th ed.|accessdate=13 September 2017}}</ref>
+
+<!--Pharmacokinetic data-->
+| bioavailability =  90% (oral)<ref name="FLQ PK Review">{{cite journal|last1=Pranger|first1=AD|last2=Alffenaar|first2=JW|last3=Aarnoutse|first3=RE|title=Fluoroquinolones, the cornerstone of treatment of drug-resistant tuberculosis: a pharmacokinetic and pharmacodynamic approach.|journal=Current pharmaceutical design|date=2011|volume=17|issue=27|pages=2900-30|pmid=21834759}}</ref>
+| protein_bound =  0-10%<ref name="FLQ PK Review" />
+| metabolism =  
+| elimination_half-life =  6.1 hours<ref name="Nord CE Review">{{cite journal|last1=Nord|first1=CE|title=Use of newer quinolones for the treatment of intraabdominal infections: Focus on clinafloxacin|journal=Infection|date=1999|volume=27|issue=3|pages=166-172|accessdate=12 September 2017}}</ref>
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number = 105956-99-8
+| CAS_supplemental =  
+| ATC_prefix = none
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem = 60062
+| DrugBank =  
+| ChemSpiderID = 54184
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 8N86XTF9QD
+| KEGG = D02539
+| ChEMBL = 278255
+| synonyms = AM-1091, CI-960, PD127391<ref name="Kucers 6ed" />
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=17 | H=17 | Cl=1 | F=1 | N=3 | O=3 
+| molecular_weight = 365.786 g/mol
+| smiles = Fc2c(c(Cl)c1N(/C=C(/C(=O)O)C(=O)c1c2)C3CC3)N4CCC(N)C4
+}}
+
+'''Clinafloxacin''' is an [[investigational new drug|investigational]] [[fluoroquinolone]] [[antibiotic]]. Despite its promising antibiotic activity, the clinical development of clinafloxacin has been hampered by its risk for inducing serious [[side effects]].
+
+==Medical uses==
+Clinafloxacin has not been approved for any indication. The [[investigational new drug]] application was withdrawn by the manufacturer in 1999, citing safety concerns.<ref name="Pharmaletter 1999">{{cite web|title=W-L withdraws clinafloxacin NDA|url=https://www.thepharmaletter.com/article/w-l-withdraws-clinafloxacin-nda|website=thepharmaletter.com|publisher=The Pharma Letter|accessdate=14 September 2017}}</ref>
+
+===Available forms===
+Clinafloxacin is available in both oral and intravenous formulations.<ref name="Kucers 6ed" />
+
+===Specific populations===
+There is a warning against using clinafloxacin in pregnant patients, due to possible damage to the developing fetus.<ref name="PubChem" />
+
+==Adverse effects==
+The use of clinafloxacin is associated with [[phototoxicity|drug-induced light sensitivity]] (phototoxicity) and [[hypoglycaemia|low blood sugar]].<ref>{{Cite journal  | last1 = Rubinstein | first1 = E. | title = History of quinolones and their side effects. | journal = Chemotherapy | volume = 47 Suppl 3 | issue =  | pages = 3–8; discussion 44–8 | month =  | year = 2001 | doi =  10.1159/000057838| pmid = 11549783 }}</ref> [[Diarrhea]] has also been reported.<ref name="Kucers 6ed" />
+
+The phototoxicity with clinafloxacin has been more associated with oral dosing as compared to intravenous dosing, though the studies that described this were subject to [[confounding]] by study site (that is, patients that received intravenous clinafloxacin were less mobile, and thereby received less sunlight exposure).<ref name="Kucers 6ed" /> 
+
+The mechanism for clinafloxacin's phototoxicity involves the [[chlorine]] atom at position 8. In the presence of [[ultraviolet light]], the chemical structure of clinafloxacin is degraded, resulting in the formation of toxic, [[reactive oxygen species]] that can damage cellular structures--including [[DNA]]. For this reason clinafloxacin can also be classified as a [[photocarcinogen]] (a chemical that can cause light-induced cancer), though the risk of developing cancer in humans taking the medication is small.<ref name="Kucers 6ed" />
+
+The mechanism for clinafloxacin's effect on blood glucose is thought to involve stimulation of the pancreatic [[beta cells]], which produce [[insulin]] (a hormone that lowers blood glucose levels).<ref name="Kucers 6ed" />
+
+The symptoms of clinafloxacin overdose are unknown.<ref name="Clina Overdose">{{cite web|title=In case of emergency/overdose|url=http://www.clinafloxacin.com/clinafloxacin_emergency.html|website=clinafloxacin.com|accessdate=13 September 2017}}</ref>
+
+==Interactions==
+===Drug-drug interactions===
+Clinafloxacin inhibits multiple [[CYP450]] drug metabolizing enzymes, especially [[CYP1A2]].<ref name="Kucers 6ed" /> Clinafloxacin has induced the accumulation of CYP1A2 substrates, including [[theophylline]], at therapeutic doses.<ref name="Kucers 6ed" /> This can also affect the metabolism of caffeine, another CYP1A2 substrate. Caffeine consumption must be limited while taking clinafloxacin to prevent caffeine accumulation and overdose.<ref name="FLQ PK Review" />
+
+There is also a known interaction of clinafloxacin with [[phenytoin]], resulting in a decrease in the clearance of phenytoin from the body.<ref name="Kucers 6ed" /> The increase in INR seen in patients taking both clinafloxacin and the [[anticoagulant]] [[warfarin]] has yet to be fully elucidated.<ref name="Kucers 6ed" />
+===Food-drug interactions===
+There are no known food-drug interactions with clinafloxacin.<ref name="FLQ PK Review" />
+
+==Pharmacology==
+===Mechanism of action===
+Clinafloxacin's antibiotic mechanism of action, like other [[fluoroquinolones]] is derived from its activity against type II topoisomerases [[DNA gyrase]] and [[topoisomerase IV]].<ref name="PubChem">{{cite web|title=CLINAFLOXACIN|url=https://pubchem.ncbi.nlm.nih.gov/compound/clinafloxacin|website=pubchem.ncbi.nlm.nih.gov|publisher=U.S. National Library of Medicine|accessdate=13 September 2017}}</ref>
+
+Clinafloxacin has been described as a [[broad-spectrum antibiotic]] due to its activity against [[Gram-positive bacteria|Gram-positive]] and [[Gram-negative bacteria]]. In addition, clinafloxacin has antibiotic activity against [[anaerobic bacteria]], including the [[facultative anaerobe]] ''[[Pseudomonas aeruginosa]]''.<ref name="Nord CE Review" /> Clinafloxacin's activity against anaerobic bacteria is higher than that of most other fluoroquinolones, including [[ciprofloxacin]], [[levofloxacin]], and [[moxifloxacin]].<ref name="Appebaum">{{cite journal|last1=Appelbaum|first1=PC|title=Quinolone activity against anaerobes.|journal=Drugs|date=1999|volume=58 Suppl 2|pages=60-4|pmid=10553708|url=https://www.ncbi.nlm.nih.gov/pubmed/10553708|accessdate=13 September 2017}}</ref>
+
+===Pharmacokinetics===
+The time that it takes for [[Serum (blood)|serum]] concentrations of clinafloxacin to reach the maximum concentration ([[Cmax (pharmacology)|Cmax]]) in healthy volunteers after taking a dose by mouth is 0.7 hours.<ref name="Nord CE Review" /> The elimination half-life in humans is 6.1 hours.<ref name="Nord CE Review" /> [[Pharmacokinetics#steady_state|Steady state]] levels of clinafloxacin are achieved in 3 days of twice daily dosing by mouth in healthy volunteers.<ref name="Kucers 6ed" />
+
+About half of an administered clinafloxacin dose is found unchanged in the urine, meaning that the drug is cleared from the blood stream roughly equally by [[hepatic metabolism]] (liver-induced degradation) and [[renal clearance|renal elimination]] (kidney-mediated removal).<ref name="Kucers 6ed" />
+
+==Chemistry==
+Clinafloxacin is a [[fluoroquinolone]], structurally related to other fluoroquinolones like [[ciprofloxacin]].<ref name="PubChem" /> It is soluble in methanol (about 2 mg/mL at 25 °C) and water.<ref name="SCBT">{{cite web|title=Clinafloxacin Hydrochloride (CAS 105956-99-8)|url=https://www.scbt.com/scbt/product/clinafloxacin-hydrochloride-105956-99-8|website=scbt.com|publisher=Santa Cruz Biotechnology, Inc|accessdate=13 September 2017}}</ref>
+
+==History==
+In the 1990s, clinafloxacin showed promise as a novel, broad-spectrum fluoroquinolone antibiotic. However, further clinical trials raised serious concerns regarding its safety in humans, citing [[hypoglycemia|dangerously low blood sugar]], [[phototoxicity|drug-induced light sensitivity]], and multiple [[drug-drug interaction|drug-drug interactions]].<ref name="Kucers 6ed" />
+
+==Research==
+Clinical trials have been done to assess its efficacy in [[sepsis]] and other serious and potentially life-threatening infections.<ref name="Kucers 6ed" />
+
+==See also==
+* [[Adverse effects of fluoroquinolones]]
+
+==References==
+{{reflist}}
+
+{{QuinoloneAntiBiotics}}
+
+[[Category:Fluoroquinolone antibiotics]]
+[[Category:Chloroarenes]]
+[[Category:Pyrrolidines]]
+[[Category:Cyclopropanes]]
+[[Category:Experimental drugs]]

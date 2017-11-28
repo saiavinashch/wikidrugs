@@ -1,0 +1,70 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 407869198
+| IUPAC_name = 1-Cyclopropyl-6-fluoro-7-[(1''S'',4''S'')-3-methyl-3,6-diazabicyclo[2.2.1]heptan-6-yl]-4-oxoquinoline-3-carboxylic acid
+| image = danofloxacin.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|danofloxacin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 112398-08-0
+| ATCvet = yes
+| ATC_prefix = J01
+| ATC_suffix = MA92
+| ATC_supplemental =  
+| PubChem = 71335
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 24CU1YS91D
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 157548
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 64439
+|  smiles = O=C(O)\C4=C\N(c3cc(N1C[C@H]2N(C)C[C@@H]1C2)c(F)cc3C4=O)C5CC5
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C19H20FN3O3/c1-21-7-12-4-11(21)8-22(12)17-6-16-13(5-15(17)20)18(24)14(19(25)26)9-23(16)10-2-3-10/h5-6,9-12H,2-4,7-8H2,1H3,(H,25,26)/t11-,12-/m0/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = QMLVECGLEOSESV-RYUDHWBXSA-N
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=19 | H=20 | F=1 | N=3 | O=3 
+| molecular_weight = 357.37 g/mol
+}}
+
+'''Danofloxacin''' is a [[fluoroquinolone]] antibiotic used in veterinary medicine.<ref>{{Cite journal  | last1 = Lees | first1 = P. | last2 = Shojaee Aliabadi | first2 = F. | title = Rational dosing of antimicrobial drugs: animals versus humans | journal = Int J Antimicrob Agents | volume = 19 | issue = 4 | pages = 269–84 |date=Apr 2002 | pmid = 11978498 | doi=10.1016/s0924-8579(02)00025-0}}</ref>
+
+==References==
+{{reflist}}
+
+
+{{QuinoloneAntiBiotics}}
+
+[[Category:Fluoroquinolone antibiotics]]
+[[Category:Cyclopropanes]]
+[[Category:Veterinary drugs]]
+[[Category:Carboxylic acids]]
+
+
+{{antibiotic-stub}}

@@ -1,0 +1,114 @@
+{{Infobox isotope
+
+    | alternate_names =Radioiodine
+    | symbol =I
+    | mass_number =125
+    | mass =
+    | num_neutrons =72
+    | num_protons =53
+    | abundance =
+    | halflife =59.49 days<ref>https://www.nist.gov/pml/data/halflife-html.cfm</ref>
+    | error_halflife =0.13
+    | background =#c9F
+    | text_color =
+    | image =
+    | decay_product =
+    | decay_symbol =
+    | decay_mass =
+    | decay_mode1 =
+    | decay_energy1 =
+    | decay_mode2 =
+    | decay_energy2 =
+    | decay_mode3 =
+    | decay_energy3 =
+    | decay_mode4 =
+    | decay_energy4 =
+    | parent =
+    | parent_symbol =
+    | parent_mass =
+    | parent_decay =
+    | parent2 =
+    | parent2_symbol =
+    | parent2_mass =
+    | parent2_decay =
+    | spin =
+    | excess_energy =
+    | error1 =
+    | binding_energy =
+    | error2 =
+}}
+
+'''Iodine-125''' (<sup>125</sup>I) is a [[radioisotope]] of [[iodine]] which has uses in [[biological assay]]s, [[nuclear medicine]] imaging and in [[radiation therapy]] as [[brachytherapy]] to treat a number of conditions, including [[prostate cancer]], [[uveal melanoma]]s, and [[brain tumor]]s. It is the second longest-lived radioisotope of iodine, after [[iodine-129]].
+
+Its [[half-life]] is 59.49 days and it decays by [[electron capture]] to an excited state of [[tellurium-125]]. This state is not the metastable Te-125m, but rather a lower energy state that decays immediately by [[gamma decay]] with a maximum energy of 35 [[Electronvolt|keV]]. Some of the excess energy of the excited Te-125 may be [[internal conversion|internally converted]] ejected electrons (also at 35 keV), or to [[x-rays]] (from electron [[bremsstrahlung]]), and also a total of 21 [[Auger effect|Auger electrons]], which are produced at the low energies of 50 to 500 electron volts.<ref>[http://jnm.snmjournals.org/cgi/reprint/33/12/2196.pdf Comparison of radiotoxicity of radioiodine isotopes] accessed 6/22/10</ref> Eventually, stable nonradioactive ground-state Te-125 is produced, as the final decay product. 
+
+The internal conversion and Auger electrons cause little damage outside the cell which contains the isotope atom. The X-rays and gamma rays are of low enough energy to deliver a higher radiation dose selectively to nearby tissues, in "permanent" brachytherapy where the isotope capsules are left in place (I-125 competes with [[palladium-103]] in such uses).<ref>[http://www.prostate-cancer.com/brachytherapy/cancer-treatments/tools-of-brachytherapy.html I-125 vs. Pd-103 for permanent prostate brachytherapy] accessed June 22, 2010.</ref> 
+
+Because of its relatively long half-life and emission of low-energy photons which can be detected by gamma-counter crystal detectors, I-125 is a preferred isotope for tagging antibodies in [[radioimmunoassay]] and other gamma-counting procedures involving proteins outside the body. The same properties of the isotope make it useful for brachytherapy (as noted), and for certain nuclear medicine scanning procedures, in which it is attached to proteins (albumin or fibrinogen), and where a longer half-life than provided by I-123 is required for test lasting several days.
+
+Iodine-125 has been  used in scanning/imaging the thyroid, but iodine-123 is preferred for this purpose, due to better radiation penetration and shorter half-life (13 hours). For radiotherapy killing of tissues that absorb iodine (such as the thyroid) or that absorb an iodine-containing [[radiopharmaceutical]], the beta-emitter iodine-131 is the preferred isotope; iodine-125 is used ''therapeutically'' (to kill tissue) only in [[brachytherapy]].
+
+<sup>125</sup>I is created by the [[electron capture]] decay of [[Xenon-125|<sup>125</sup>Xe]], which is a synthetic isotope of [[xenon]], itself created by [[neutron capture]] of the slightly radioactive [[Xenon-124|<sup>124</sup>Xe]], which occurs naturally with an abundance of around 0.1%.  Because of the synthetic production route of <sup>125</sup>I and its short half-life, the natural abundance is effectively zero.
+
+==Production==
+<sup>125</sup>I is reactor-produced radionuclide and is available in large quantities. Its production follows the reaction:
+
+<sup>124</sup>Xe (n,γ)→	<sup>125m</sup>Xe(57s)→<sup>125</sup>I (59,4 d)<br />
+<sup>124</sup>Xe (n,γ)→	<sup>125g</sup>Xe(19,9h)→<sup>125</sup>I (59,4 d)
+
+The irradiation target is natural [[xenon]] [[gas]] containing 0.0965% <sup>124</sup>Xe, which is the target isotope for making I-125 by neutron capture. It is loaded into capsules of the zirconium alloy [[zircaloy|zircaloy-2]] (a very nonreactive alloy transparent to neutrons) to a pressure of about 100 bars (about 100 atmospheres). Upon irradiation with slow neutrons in a [[nuclear reactor]], several radionuclides of xenon are produced. Only the decay of <sup>125</sup>Xe leads to a radioiodine, and this is <sup>125</sup>I, however. The other radioxenon isotopes decay either to stable [[xenon]], or to various cesium isotopes, some of them radioactive.
+
+Long irradiations are disadvantageous. Iodine-125 itself has a [[neutron capture]] cross section of 900 barns, and consequently during a long irradiation, part of the <sup>125</sup>I formed will be converted to <sup>126</sup>I, a beta-emitter and positron-emitter with a half-life of 13.1 days, which is not medically useful. In practice, the most useful irradiation time in the reactor amounts to a few days. Thereafter, the irradiated gas is allowed to decay for three or four days to dispose of short-lived unwanted isotopes, and to allow the newly created xenon-125 (half-life 17 hours) to decay to iodine-125.
+
+To isolate radioiodine, the irradiated capsule is first cooled (to collect free iodine gas on the capsule sides) and the remaining Xe gas is allowed to escape. The inner walls of the capsule are then rinsed with dilute NaOH solution to collect iodine as soluble [[iodide]] and [[hypoiodite]] '''OI<sup>−</sup>''', according to the standard [[disproportionation]] reaction of [[halogen]]s in alkaline solutions. Any cesium immediately oxidizes and passes into the water as Cs<sup>+</sup>. In order to eliminate any long-lived <sup>135</sup>Cs and <sup>137</sup>Cs which may be present in small amounts, the solution is passed through a cation-exchange column, which exchanges Cs<sup>+</sup> for another non-radioactive cation. The radioiodine (as anion '''I<sup>−</sup>''' or '''OI<sup>−</sup>''' ) remains in solution as iodide/hypoiodite.
+
+==Availability and purity==
+Iodine-125 is commercially available in dilute NaOH solution as <sup>125</sup>I-iodide (or the [[hypohalite]] sodium [[hypoiodite]], NaOI) . The radioactive concentration lies at 4 to 11 GBq/ml and the specific radioactivity is >75GBq/µmol. The chemical and radiochemical purity is high. The radionuclidic purity is also high; some <sup>126</sup>I (t<sub>1/2</sub>=13.1d) is unavoidable due to the neutron capture noted above. The I-126 tolerable content (which is set by the unwanted isotope interfering with dose calculations in brachytherapy) lies at about 0.2% atom fraction of the total iodine (the rest being I-125).
+
+==Producers==
+
+The two largest producers of iodine-125 medical isotopes are in Canada. They are [[McMaster University]]'s [[McMaster Nuclear Reactor|Reactor]] and the [[National Research Universal Reactor|National Research Universal]] (NRU) reactor.<ref>[http://mnr.mcmaster.ca/images/high-level/engage.html Medical Isotopes @ McMaster]</ref>
+
+==Physical Data==
+*Element: Iodine
+*Z: 53
+*A: 125
+*Atomic Mass:
+*Density:
+*Physical state: Solid at room temperature
+*Isotopic abundance: 0%
+*Radioactive: '''Yes'''
+*t({{frac|1|2}}): 59.4 days
+*Decay: [[Electron capture]] to <sup>125</sup>Te
+*Significant high-energy emissions:
+** Gamma-rays at 35.5 keV (7% emitted)
+** 93% internally converted to:
+*** 3.643 keV (86% as K-conversion)
+*** 30.5-31.1 keV (11% as L-conversion)
+*** 34.5-35.3 keV (3% as M- or N-conversion)
+** 1.4 X-rays per decay (average) from K<sub>α</sub> (27 keV) and K<sub>β</sub> (31keV)
+** 1.25 LMM Auger electrons (average) at 3.021 keV
+* Median electron emission energy: 60 eV
+*Half-value layer: 0.025&nbsp;mm Pb
+
+The detailed decay mechanism to form the stable daughter nuclide tellurium-125 is a multi-step process that begins with [[electron capture]]. This is followed by a cascade of electron relaxation as the core electron hole moves toward the valence orbitals. The cascade involves many Auger transitions, each of which cause the atom to become increasingly ionized. The electron capture produces a tellurium-125 nucleus in an excited state with a half-life of 1.6 ns, which undergoes [[gamma decay]] emitting a photon or an [[internal conversion]] electron at 35.5 keV. A second electron relaxation cascade follows the gamma decay before the nuclide comes to rest.  Throughout the entire process an average of 13.3 electrons are emitted (10.3 of which are [[Auger electron]]s), most with energies less than 400 eV (79% of yield).<ref>A Monte Carlo Simulation of Auger Cascades. E. Pomplun, J. Booz, and D. E. Charlton. Radiation Research 1987;111:533-552. See http://www.rrjournal.org/doi/abs/10.2307/3576938 for online paper</ref> The internal conversion and Auger electrons from the radioisotope have been found in one study to do little cellular damage, unless the radionuclide is incorporated chemically directly into cellular DNA, which is not the case for present radiopharmaceuticals which use I-125 as the radioactive label nuclide.<ref>Radiotoxicity of Some Iodine-123, Iodine-125, and Iodine- 131-Labeled Compounds in Mouse Testes: Implications for Radiopharmaceutical Design. Venkat R. Narra, et al. J Nucl Med 1992;33:2196-2201. See http://jnm.snmjournals.org/cgi/reprint/33/12/2196.pdf for online paper</ref>
+
+As with other radioisotopes of iodine, iodine-125 uptake in the body (mostly to the thyroid) can be blocked with prompt administration of stable iodine-127 in the form of an iodide or iodate salt. [[Potassium iodide]] (KI) is typically used for this purpose.<ref>NCRP Report No. 161, Management of Persons Contaminated With Radionuclides</ref>
+
+== See also ==
+*[[Isotopes of iodine]]
+*[[Iodine in biology]]
+
+==Notes and references==
+{{reflist|30em}}
+
+* Harper, P.V. ; Siemens, W.D. ; Lathrop, K.A. ; Brizel, H.E. ; Harrison, R.W. ''Iodine-125.'' Proc. Japan Conf. Radioisotopes; Vol: 4th Jan 01, 1961
+* [http://www.orcbs.msu.edu/radiation/programs_guidelines/radmanual/appendix_iodine_125.pdf#search=%22iodine%20125%22 ORCBS]
+{{Radiopharmaceuticals}}
+
+[[Category:Isotopes of iodine]]
+[[Category:Radiopharmaceuticals]]
+[[Category:Radiobiology]]
+[[Category:Radiation therapy]]
+
+[[ar:علم الصيدلة الإشعاعية]]

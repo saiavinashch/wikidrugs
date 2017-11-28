@@ -1,0 +1,69 @@
+{{Drugbox
+| drug_name = 
+| IUPAC_name        = 1-Cyclopropyl-6-fluoro-7-[4-({2-fluoro-4-[(5''R'')-5-(hydroxymethyl)-2-oxo-1,3-oxazolidin-3-yl]phenoxy}methyl)-4-hydroxypiperidin-1-yl]-4-oxo-1,4-dihydroquinolin-3-carboxylic acid
+| image             = Cadazolid.svg
+| alt               = 
+| caption           = 
+| width             = 250
+
+<!-- Clinical data -->
+| tradename         = 
+| Drugs.com         = 
+| MedlinePlus       = 
+| pregnancy_AU      = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US      = <!-- A / B            / C / D / X -->
+| pregnancy_category= 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status      = Investigational
+| routes_of_administration =
+
+<!-- Pharmacokinetic data -->
+| bioavailability   = 
+| protein_bound     = 
+| metabolism        = 
+| elimination_half-life = 
+| excretion         =
+
+<!-- Identifiers -->
+| CAS_number        = 1025097-10-2
+
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 2OEA2UN10Y
+
+
+| ATCvet            = 
+| ATC_prefix        = none
+| ATC_suffix        = 
+| PubChem           = 
+| DrugBank          = 
+| ChemSpiderID      = 30774277
+
+<!-- Chemical data -->
+| C=29 | H=29 | F=2 | N=3 | O=8
+| molecular_weight  = 585.55 g/mol
+| smiles            = OC(C1=CN(C2CC2)C3=C(C=C(F)C(N4CCC(COC5=C(F)C=C(N6C[C@H](CO)OC6=O)C=C5)(O)CC4)=C3)C1=O)=O
+| StdInChI          = 1S/C29H29F2N3O8/c30-21-10-19-23(33(16-1-2-16)13-20(26(19)36)27(37)38)11-24(21)32-7-5-29(40,6-8-32)15-41-25-4-3-17(9-22(25)31)34-12-18(14-35)42-28(34)39/h3-4,9-11,13,16,18,35,40H,1-2,5-8,12,14-15H2,(H,37,38)/t18-/m1/s1
+| StdInChIKey       = XWFCFMXQTBGXQW-GOSISDBHSA-N
+}}
+
+'''Cadazolid''' is an experimental [[antibacterial|antibiotic]] of the [[2-Oxazolidone|oxazolidinone]] class made by [[Actelion|Actelion Pharmaceuticals Ltd.]] which is effective against ''[[Clostridium difficile (bacteria)|Clostridium difficile]]'', a major cause of drug resistant [[diarrhea]] in the elderly.<ref name="www.internalmedicinenews.com">{{cite web |url=http://www.internalmedicinenews.com/index.php?id=2049&type=98&tx_ttnews%5Btt_news%5D=137097&cHash=da03e20e36 |title=Promising ''C. difficile'' Antibiotic in Pipeline |last1=Boschert |first1=Sherry |date=19 Sep 2012 |website=Internal Medicine News |publisher= International Medical News Group |accessdate=22 May 2013}}</ref> Current drug treatments for this infection involve orally delivered antibiotics, principally [[fidaxomicin]], [[metronidazole]] and [[vancomycin]]; the last two drugs are the  principal therapeutic agents in use, but fail in  approximately 20 to 45% of the cases. The drug is in Phase III trials.<ref name="www.internalmedicinenews.com"/> The drug works by inhibiting synthesis of proteins in the bacteria, thus inhibiting the production of toxins and the formation of spores.<ref name="Cadazolid">{{cite web|url=http://www1.actelion.com/en/scientists/development-pipeline/phase-2/cadazolid.page |title=Cadazolid |publisher=.actelion.com |date= |accessdate=2013-05-22}}</ref>
+
+==Structure==
+The [[chemical structure]] of cadazolid combines the [[pharmacophore]]s of oxazolidinone and [[fluoroquinolone]].<ref name="Cadazolid"/>
+
+==Clinical trials==
+In a study published in the journal ''Anaerobe'', cadazolid has been shown to be effective ''[[in vitro]]'' against 133 strains of ''Clostridium difficile'' all collected from [[Sweden]].<ref name="ScienceDirect">{{cite journal|url=http://www.sciencedirect.com/science/article/pii/S1075996413000231 |title=Anaerobe - In vitro activity of cadazolid against Clostridium difficile strains isolated from primary and recurrent infections in Stockholm, Sweden  |date=2013-02-26 |accessdate=2013-05-22 |doi=10.1016/j.anaerobe.2013.02.003 |volume=20 |journal=Anaerobe |pages=32–35}}</ref>
+
+In phase I tests, sixty four male patients reacted favourably to cadazolid which primarily acted and remained in the [[colon (anatomy)|colon]] while displaying little toxicity even in regimes involving large doses.<ref name="www.internalmedicinenews.com"/>
+
+== References ==
+{{reflist}}
+
+[[Category:Experimental drugs]]
+[[Category:Fluoroquinolone antibiotics]]
+
+
+{{antibiotic-stub}}

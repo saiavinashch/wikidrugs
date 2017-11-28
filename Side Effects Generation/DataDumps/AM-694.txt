@@ -1,0 +1,81 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 477235914
+| IUPAC_name = 1-[(5-fluoropentyl)-1H-indol-3-yl]-(2-iodophenyl)methanone
+| image = AM-694-2D-skeletal.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = S9
+| legal_CA = Schedule II
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = Schedule I
+| legal_DE = Anlage II
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 335161-03-0
+| ATC_prefix =  
+| ATC_suffix =  
+| PubChem = 9889172
+| ChEBI = 138017
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 8064843
+
+<!--Chemical data-->
+| C=20 | H=19 | F=1 | I=1 | N=1 | O=1 
+| molecular_weight = 435.273 g/mol
+| smiles = Ic2ccccc2C(=O)c1cn(CCCCCF)c3ccccc13
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C20H19FINO/c21-12-6-1-7-13-23-14-17(15-8-3-5-11-19(15)23)20(24)16-9-2-4-10-18(16)22/h2-5,8-11,14H,1,6-7,12-13H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = LFFIIZFINPPEMC-UHFFFAOYSA-N
+}}
+{{More footnotes|date=May 2011}}
+'''AM-694''' (1-(5-fluoropentyl)-3-(2-iodobenzoyl)indole) is a drug that acts as a potent and selective [[agonist]] for the [[cannabinoid receptor]] [[Cannabinoid receptor 1|CB<sub>1</sub>]]. It is used in scientific research for mapping the distribution of CB<sub>1</sub> receptors. No public data about AM-694 [[metabolism]] is known{{Citation needed|date=July 2012}}. AM-694 has already emerged as a [[designer drug]].
+
+==Pharmacology==
+AM-694 is an [[agonist]] for [[cannabinoid receptor]]s. Affinities are: with a [[Dissociation constant|''K''<sub>i</sub>]] of 0.08&nbsp;nM at [[Cannabinoid receptor 1|CB<sub>1</sub>]] and 18x selectivity over [[Cannabinoid receptor 2 (macrophage)|CB<sub>2</sub>]] with a ''K''<sub>i</sub> of 1.44&nbsp;nM.<ref name="WO 2001 28557 A1">{{Ref patent2 | country = WO | number = 200128557 | status = granted | title = Cannabimimetic indole derivatives | pubdate = 2001-04-26 | gdate = 2001-06-07 | pridate= 1999-10-18 | inventor = Makriyannis A, Deng H | assign1= }}</ref> It is unclear what is responsible for this unusually high CB<sub>1</sub> binding affinity, but it makes the [[fluorine-18|<sup>18</sup>F]] [[Isotopic labeling|radiolabelled]] derivative of AM-694 useful for mapping the distribution of CB<sub>1</sub> receptors in the body.<ref>Willis PG, Katoch-Rouse R, Horti AG. Regioselective F-18 radiolabeling of AM694, a CB1 cannabinoid receptor ligand. ''Journal of Labelled Compounds and Radiopharmaceuticals'' 2003;46(9):799-804. {{doi|10.1002/jlcr.720}}</ref>
+
+===Pharmacokinetics===
+{{Refimprove section|date=July 2012}}
+{{Main|JWH-018#Pharmacokinetics|l1=Pharmacokinetic data of JWH-018 are generally applicable to AM-694.}}
+AM-694 [[metabolism]] differs only slightly from that of [[JWH-018]]. AM-694 ''N''-[[dealkylation]] produces fluoropentane instead of [[pentane]] (or plain [[alkane]]s in general). It has been speculated that the fluoropentane might function as an [[alkylating agent]] or is further metabolized into toxic [[fluoroacetic acid]]. This is not true since [[fluoroalkane]]s do not act as [[alkylating agent]]s under normal conditions and uneven [[fluoroalkane]] chains metabolize into substantially less toxic [[fluoropropanoic acid]].<ref>[https://wayback.archive-it.org/all/20120227014952/http://article.pubs.nrc-cnrc.gc.ca/ppv/RPViewDoc?issn=1480-3291&volume=34&issue=11&startPage=1532 Millington JE, Pattison FLM. TOXIC FLUORINE COMPOUNDS: XII. ESTERS OF ω-FLUOROALCOHOLS. ''Canadian Journal of Chemistry''. 1956 Nov;34(11):1532-1541.]</ref><ref>[https://wayback.archive-it.org/all/20120227015004/http://article.pubs.nrc-cnrc.gc.ca/ppv/RPViewDoc?issn=1480-3291&volume=35&issue=2&startPage=141 Pattison FLM, Howell WC, Woolford RG. TOXIC FLUORINE COMPOUNDS: XIII. ω-FLUOROALKYL ETHERS. ''Canadian Journal of Chemistry''. 1957 Feb;35(2):141-148.]</ref>
+
+==See also==
+* [[AM-679 (cannabinoid)|AM-679]]
+* [[AM-1235]]
+* [[AM-2201]]
+* [[AM-2232]]
+* [[AM-2233]]
+* [[FUBIMINA]]
+* [[JWH-018]]
+* [[List of AM cannabinoids]]
+* [[List of JWH cannabinoids]]
+* [[THJ-2201]]
+
+==References==
+<references/>
+
+{{Cannabinoids}}
+
+[[Category:Cannabinoids]]
+[[Category:Benzoylindoles]]
+[[Category:Iodoarenes]]
+[[Category:Fluoroalkanes]]
+[[Category:AM cannabinoids]]
+[[Category:Designer drugs]]
+[[Category:Indoles]]

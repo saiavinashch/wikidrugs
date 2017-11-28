@@ -1,0 +1,90 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 477495917
+| IUPAC_name = (1''R'',5''S'',6''S'',7''R'',10''S'',14''S'',16''S'')-6,10-dihydroxy-1,5,7,<br>9,9-pentamethyl-14-[(''E'')-1-(2-methyl-1,3-thiazol-<br>4-yl)prop-1-en-2-yl]-17-oxa-13-azabicyclo[14.1.0]<br>heptadecane-8,12-dione
+| image = Ixabepilone.svg
+| width = 250
+
+<!--Clinical data-->
+| tradename = Ixempra
+| Drugs.com = {{drugs.com|monograph|ixabepilone}}
+| MedlinePlus = a608042
+| licence_US = Ixabepilone
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = D
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = [[Intravenous therapy|Intravenous infusion]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = N/A
+| protein_bound = 67 to 77%
+| metabolism = Extensive, [[liver|hepatic]], [[CYP3A4]]-mediated
+| elimination_half-life = 52 hours
+| excretion = Fecal (mostly) and [[kidney|renal]]
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6824
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 219989-84-1
+| ATC_prefix = L01
+| ATC_suffix = DC04<!--will come into effect January 2008-->
+| PubChem = 6445540
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB04845
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 20145579
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = K27005NP0A
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D04645
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201752
+
+<!--Chemical data-->
+| C=27 | H=42 | N=2 | O=5 | S=1 
+| molecular_weight = 506.698 g/mol
+| smiles = Cc3nc(/C=C(\C)[C@@H]1C[C@@H]2O[C@]2(C)CCC[C@H](C)[C@H](O)[C@@H](C)C(=O)C(C)(C)[C@@H](O)CC(=O)N1)cs3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C27H42N2O5S/c1-15-9-8-10-27(7)22(34-27)12-20(16(2)11-19-14-35-18(4)28-19)29-23(31)13-21(30)26(5,6)25(33)17(3)24(15)32/h11,14-15,17,20-22,24,30,32H,8-10,12-13H2,1-7H3,(H,29,31)/b16-11+/t15-,17+,20-,21-,22-,24-,27+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = FABUFPQFXZVHFB-PVYNADRNSA-N
+| synonyms = Azaepothilone B
+}}
+'''Ixabepilone''' ([[International Nonproprietary Name|INN]]; also known as '''azaepothilone B''', codenamed '''BMS-247550''') is an [[epothilone]] B analog<ref name="pmid18463327">{{cite journal |author=Goodin S |title=Novel cytotoxic agents: epothilones |journal=Am J Health Syst Pharm |volume=65 |issue=10 Suppl 3 |pages=S10–5 |date=May 2008 |pmid=18463327 |doi=10.2146/ajhp080089 |url=http://www.ajhp.org/cgi/pmidlookup?view=long&pmid=18463327}}</ref> developed by [[Bristol-Myers Squibb]] as a [[chemotherapy|chemotherapeutic]] medication for cancer.<ref>http://www.cancer.org/Treatment/TreatmentsandSideEffects/GuidetoCancerDrugs/Ixabepilone</ref>
+
+It is produced by ''[[Sorangium cellulosum]]''.<ref name="pmid18347795">{{cite journal |vauthors=Lee FY, Borzilleri R, Fairchild CR |display-authors=etal|title=Preclinical discovery of ixabepilone, a highly active antineoplastic agent |journal=Cancer Chemother. Pharmacol. |volume=63 |issue=1 |pages=157–66 |date=December 2008 |pmid=18347795 |doi=10.1007/s00280-008-0724-8}}</ref>
+
+==Pharmacology==
+It acts to stabilize [[microtubule]]s.<ref>{{cite journal|last1=Lopus|first1=M|last2=Smiyun|first2=G|last3=Miller|first3=H|last4=Oroudjev|first4=E|last5=Wilson|first5=L|last6=Jordan|first6=MA|title=Mechanism of action of ixabepilone and its interactions with the βIII-tubulin isotype.|journal=Cancer Chemother Pharmacol|date=2015|volume=76|pages=1013–24|doi=10.1007/s00280-015-2863-z|pmid=26416565}}</ref><ref name="pmid18321240">{{cite journal |vauthors=Denduluri N, Swain SM |title=Ixabepilone for the treatment of solid tumors: a review of clinical data |journal=Expert Opin Investig Drugs |volume=17 |issue=3 |pages=423–35 |date=March 2008 |pmid=18321240 |doi=10.1517/13543784.17.3.423 |url=http://www.expertopin.com/doi/abs/10.1517/13543784.17.3.423}}</ref><ref name="pmid18945860">{{cite journal |author=Goodin S |title=Ixabepilone: a novel microtubule-stabilizing agent for the treatment of metastatic breast cancer |journal=Am J Health Syst Pharm |volume=65 |issue=21 |pages=2017–26 |date=November 2008 |pmid=18945860 |doi=10.2146/ajhp070628 |url=http://www.ajhp.org/cgi/pmidlookup?view=long&pmid=18945860}}</ref>
+It is highly potent agent, capable of damaging cancer cells in very low concentrations, and retains activity in cases where tumor cells are insensitive to paclitaxel.<ref name="pancreas">{{cite journal |author=M. Vulfovich|display-authors=etal|title=Novel advances in pancreatic cancer treatment|journal=Expert Rev Anticancer Ther |volume=8 |issue=6 |pages=993–1002 |year=2008 |doi=10.1586/14737140.8.6.993 |pmid=18533808 |last2=Rocha-Lima |first2=C}}</ref>
+
+==Approval==
+On October 16, 2007, the U.S. [[Food and Drug Administration]] approved ixabepilone for the treatment of aggressive [[metastasis|metastatic]] or locally advanced [[breast cancer]] no longer responding to currently available chemotherapies.<ref>[http://www.medicalnewstoday.com/articles/85726.php Medical News Today]</ref> In November 2008, the [[European Medicines Agency|EMEA]] has refused a marketing authorisation for Ixabepilone.<ref>London, 20 November 2008 Doc. Ref. EMEA/602569/2008</ref>
+
+Ixabepilone is administered through injection, and is marketed under the trade name '''Ixempra'''.
+
+==Clinical uses==
+Ixabepilone, in combination with [[capecitabine]], has demonstrated effectiveness in the treatment of metastatic or locally advanced breast cancer in patients after failure of an [[anthracycline]] and a [[taxane]].<ref name="pmid17968020">{{cite journal |vauthors=Thomas ES, Gomez HL, Li RK |display-authors=etal|title=Ixabepilone plus capecitabine for metastatic breast cancer progressing after anthracycline and taxane treatment |journal=J. Clin. Oncol. |volume=25 |issue=33 |pages=5210–7 |date=November 2007 |pmid=17968020 |doi=10.1200/JCO.2007.12.6557 |url=http://www.jco.org/cgi/pmidlookup?view=long&pmid=17968020}}</ref>
+
+It has been investigated for use in treatment of [[non-Hodgkin's lymphoma]].<ref name="pmid17261851">{{cite journal |vauthors=Aghajanian C, Burris HA, Jones S |display-authors=etal|title=Phase I study of the novel epothilone analog ixabepilone (BMS-247550) in patients with advanced solid tumors and lymphomas |journal=J. Clin. Oncol. |volume=25 |issue=9 |pages=1082–8 |date=March 2007 |pmid=17261851 |doi=10.1200/JCO.2006.08.7304 |url=http://www.jco.org/cgi/pmidlookup?view=long&pmid=17261851}}</ref>
+In pancreatic cancer phase two trial it showed some promising results (used alone). Combination therapy trials are ongoing.<ref name="pancreas"/>
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://www.ixempra.com/ Ixempra product website]
+* [http://packageinserts.bms.com/pi/pi_ixempra.pdf Ixempra prescribing information]
+
+{{Chemotherapeutic agents}}
+
+[[Category:Bristol-Myers Squibb]]
+[[Category:Mitotic inhibitors]]
+[[Category:Thiazoles]]
+[[Category:Epoxides]]
+[[Category:Lactams]]

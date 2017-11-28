@@ -1,0 +1,71 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 405853279
+| IUPAC_name = Disodium 4-[(''Z'')-(''tert''-butyl-oxidoazaniumylidene)methyl]benzene-1,3-disulfonate
+| image = Disufenton sodium.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number =  
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 6440181
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1627056
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 7M1J3HN9VO
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03875
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 28530805
+
+<!--Chemical data-->
+| C=11 | H=13 | N=1 | Na=2 | O=7 | S=2 
+| molecular_weight = 381.33 g/mol
+|  smiles = CC(C)(C)[N+]([O-])=Cc1ccc(cc1S(=O)(=O)[O-])S(=O)(=O)[O-].[Na+].[Na+]
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C11H15NO7S2.2Na/c1-11(2,3)12(13)7-8-4-5-9(20(14,15)16)6-10(8)21(17,18)19;;/h4-7H,1-3H3,(H,14,15,16)(H,17,18,19);;/q;2*+1/p-2
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = XLZOVRYBVCMCGL-UHFFFAOYSA-L
+
+}}
+
+'''Disufenton sodium''' ('''NXY-059''', '''Cerovive''') is the disulfonyl derivative of the neuroprotective [[Spin trapping|spin trap]] [[phenylbutylnitrone]] or "PBN".  It was under development at the drug company [[AstraZeneca]].  A 2005 phase-3 clinical trial<ref name="DoiNEJMoa">{{cite journal | doi = 10.1056/NEJMoa052980 | title = NXY-059 for Acute Ischemic Stroke | year = 2006 | last1 = Lees | first1 = Kennedy R. | last2 = Zivin | first2 = Justin A. | last3 = Ashwood | first3 = Tim | last4 = Davalos | first4 = Antonio | last5 = Davis | first5 = Stephen M. | last6 = Diener | first6 = Hans-Christoph | last7 = Grotta | first7 = James | last8 = Lyden | first8 = Patrick | last9 = Shuaib | first9 = Ashfaq| displayauthors = 8 | journal = New England Journal of Medicine | volume = 354 | issue = 6 | pages = 588–600 | pmid = 16467546}}</ref><ref>{{cite journal | pmid = 17068304 | year = 2006 | last1 = Lees | first1 = KR | last2 = Davalos | first2 = A | last3 = Davis | first3 = SM | last4 = Diener | first4 = HC | last5 = Grotta | first5 = J | last6 = Lyden | first6 = P | last7 = Shuaib | first7 = A | last8 = Ashwood | first8 = T | last9 = Hardemark | first9 = HG | displayauthors = 8| title = Additional outcomes and subgroup analyses of NXY-059 for acute ischemic stroke in the SAINT I trial | volume = 37 | issue = 12 | pages = 2970–8 | doi = 10.1161/01.STR.0000249410.91473.44 | journal = Stroke; a journal of cerebral circulation}}</ref> called "SAINT-1" reported some efficacy in the acute treatment of [[ischemia]] injury due to [[stroke]].  However, a 2006 attempt to repeat this trial indicated no significant activity.  After ruling out other causes, the authors tentatively attributed the positive results in the first trial to "chance".<ref name="DoiNEJMoa" /> AstraZeneca then terminated the development programme.<ref>[http://investors.renovis.com/phoenix.zhtml?c=148297&p=irol-newsArticle&t=Regular&id=921678& Renovis: Press Release<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20061028094321/http://investors.renovis.com/phoenix.zhtml?c=148297&p=irol-newsArticle&t=Regular&id=921678& |date=October 28, 2006 }}</ref>  PBN and its derivatives hydrolyze and oxidize ''in vitro'' to form respectively MNP-OH (AKA, NtBHA) and its parent spin-trap MNP.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://jeb.biologists.org/cgi/content/full/207/18/3221 Oxidants, antioxidants and the ischemic brain]
+* [http://www.theannals.com/cgi/content/abstract/40/3/461 NXY-059: Review of Neuroprotective Potential for Acute Stroke]
+
+{{AstraZeneca}}
+
+{{DEFAULTSORT:Disufenton Sodium}}
+[[Category:Free radicals]]
+[[Category:AstraZeneca]]
+[[Category:Tert-butyl compounds]]
+[[Category:Benzenesulfonates]]
+[[Category:Organic sodium salts]]

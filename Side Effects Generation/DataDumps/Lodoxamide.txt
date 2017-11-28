@@ -1,0 +1,81 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 407540115
+| ImageFile=Lodoxamide structure.png
+| ImageSize=160px
+| IUPACName=2-[2-Chloro-5-cyano-3-(oxaloamino)anilino]-2-oxoacetic acid
+| OtherNames=
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = SPU695OD73
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo=53882-12-5
+| PubChem=44564
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201266
+| SMILES=C1=C(C=C(C(=C1NC(=O)C(=O)O)Cl)NC(=O)C(=O)O)C#N
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 40543
+| InChI = 1/C11H6ClN3O6/c12-7-5(14-8(16)10(18)19)1-4(3-13)2-6(7)15-9(17)11(20)21/h1-2H,(H,14,16)(H,15,17)(H,18,19)(H,20,21)
+| InChIKey = RVGLGHVJXCETIO-UHFFFAOYAZ
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C11H6ClN3O6/c12-7-5(14-8(16)10(18)19)1-4(3-13)2-6(7)15-9(17)11(20)21/h1-2H,(H,14,16)(H,15,17)(H,18,19)(H,20,21)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = RVGLGHVJXCETIO-UHFFFAOYSA-N
+  }}
+|Section2={{Chembox Properties
+| C=11 | H=6 | Cl=1 | N=3 | O=6
+| Appearance=
+| Density=
+| MeltingPt=
+| BoilingPt=
+| Solubility=
+  }}
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = S01
+| ATCCode_suffix = GX05
+}}
+|Section7={{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| AutoignitionPt =
+  }}
+}}
+
+'''Lodoxamide''' is an antiallergic pharmaceutical drug. It is marketed under the tradename '''Alomide''' in the UK. Like [[cromoglicic acid]] it acts as a [[mast cell stabilizer]].<ref>{{Cite journal 
+| doi = 10.1016/S0161-6420(00)00089-0 
+| last1 = Avunduk | first1 = A. M. 
+| last2 = Avunduk | first2 = M. C. 
+| last3 = Kapicioglu | first3 = Z. 
+| last4 = Akyol | first4 = N. 
+| last5 = Tavli | first5 = L. 
+| title = Mechanisms and comparison of anti-allergic efficacy of topical lodoxamide and cromolyn sodium treatment in vernal keratoconjunctivitis 
+| journal = Ophthalmology 
+| volume = 107 
+| issue = 7 
+| pages = 1333–1337 
+| year = 2000 
+| pmid = 10890862
+}}</ref> In 2014 lodoxamide and [[bufrolin]] were found to be potent [[agonists]] at the [[G protein-coupled receptor 35]], an [[orphan receptor]] believed to play a role in [[inflammation|inflammatory processes]], [[pain]] and the development of [[stomach cancer]].<ref name="MacKenzie Caltabiano Kent Jenkins 2014 pp. 91–104">{{cite journal | last=MacKenzie | first=AE | last2=Caltabiano | first2=G | last3=Kent | first3=TC | last4=Jenkins | first4=L | last5=McCallum | first5=JE | last6=Hudson | first6=BD | last7=Nicklin | first7=SA | last8=Fawcett | first8=L | last9=Markwick | first9=R | last10=Charlton | first10=SJ | last11=Milligan | first11=G | title=The antiallergic mast cell stabilizers lodoxamide and bufrolin as the first high and equipotent agonists of human and rat GPR35. | journal=Molecular Pharmacology | volume=85 | issue=1 | year=2014 | issn=0026-895X | pmid=24113750 | pmc=3868900 | doi=10.1124/mol.113.089482 | pages=91–104}}</ref>
+
+==See also==
+*[[Nedocromil]]
+*[[Zaprinast]]
+*[[Amlexanox]]
+*[[Pemirolast]]
+*[[Pamoic acid]]
+*[[Kynurenic acid]]
+*[[CXCL17]]
+
+==References==
+{{reflist}}
+
+[[Category:Nitriles]]
+[[Category:Chloroarenes]]
+[[Category:Carboxamides]]
+[[Category:Dicarboxylic acids]]
+[[Category:Mast cell stabilizers]]
+
+
+{{respiratory-system-drug-stub}}

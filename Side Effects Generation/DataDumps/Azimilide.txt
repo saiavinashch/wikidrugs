@@ -1,0 +1,94 @@
+{{Cleanup rewrite|date=May 2009}}
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 458966843
+| IUPAC_name = 1-({(''E'')-[5-(4-chlorophenyl)furan-2-yl]methylidene}amino)-3-[4-(4-methylpiperazin-1-yl)butyl]imidazolidine-2,4-dione
+| image = Azimilide.svg
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 149908-53-2
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 9571004
+| IUPHAR_ligand = 2588
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 7845470
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 74QU6P2934
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 123558
+<!--Chemical data-->
+| C=23 | H=28 | Cl=1 | N=5 | O=3
+| molecular_weight = 457.953 g·mol<sup>−1</sup>
+| smiles = Clc4ccc(c3oc(\C=N\N1C(=O)N(C(=O)C1)CCCCN2CCN(C)CC2)cc3)cc4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C23H28ClN5O3/c1-26-12-14-27(15-13-26)10-2-3-11-28-22(30)17-29(23(28)31)25-16-20-8-9-21(32-20)18-4-6-19(24)7-5-18/h4-9,16H,2-3,10-15,17H2,1H3/b25-16+
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = MREBEPTUUMTTIA-PCLIKHOPSA-N
+}}
+'''Azimilide''' is a class ΙΙΙ [[antiarrhythmic drug]] (used to control abnormal heart rhythms). The agents from this heterogeneous group have an effect on the repolarization, they prolong the duration of the action potential and the refractory period. Also they slow down the spontaneous discharge frequency of automatic [[pacemakers]] by depressing the slope of [[diastolic]] depolarization. They shift the threshold towards zero or hyperpolarize the membrane potential. Although each agent has its own properties and will have thus a different function.
+
+== Heart potential ==
+
+Azimilide dihydrochloride is a chlorophenylfuranyl compound, which slows repolarization of the heart and prolongs the QT interval of the electrocardiogram. Prolongation of atrial or ventricular repolarization can provide an anti-arrhythmic benefit in patients with heart rhythm disturbances, and this has been the primary interest in the clinical development azimilide. In rare cases, excessive prolongation of ventricular repolarization by azimilide can result in predisposition towards severe ventricular arrhythmias. Most recent clinical trials have investigated the use of azimilide in reducing the frequency and severity of arrhythmias in patients with implanted cardiac pacemakers-defibrillators, where rare pro-arrhythmic events are rescued by the device.
+
+<gallery>
+Image:Heartpotential.jpg|
+</gallery>
+
+== The ion currents ==
+
+The action of azimilide is directed to the different currents present in atrial and ventricular cardiac myocytes. It principally blocks I<sub>Kr</sub>, and I<sub>Ks</sub>, with much weaker effects on I<sub>Na</sub>, I<sub>Ca</sub>, I<sub>NCX</sub> and I<sub>K.Ach</sub>. The I<sub>Kr</sub>(rapid)and I<sub>Ks</sub> (slow) are inward rectifier potassium currents, responsible for repolarizing cardiac myocytes towards the end of the cardiac action potential. A somewhat higher concentration of azimilide is needed to block the  IKs current. Both blockages result in an increase of the QT interval and a prolongation of atrial and ventricular refractory periods.
+
+Azimilide blocks hERG channels (which encode the I<sub>Kr</sub> current) with an affinity comparable to that with which KvLQT1 / minK channels (which encode the I<sub>Ks</sub> current) are blocked. This block exhibits reverse use-dependence, i.e. the channel blocking effect wanes at faster pulsing rates of the cell. A possible explanation is an interaction of azimilide with K<sup>+</sup> close to its binding site in the ion channel. However, there is an agonist effect as well, which is a voltage-dependent effect. This is a dual effect, a low voltage depolarization near the activation threshold will increase the current amplitude and higher depolarizing voltages will suppress the current amplitude. The effect comes from outside of the cell membrane and does not depend on [[G-proteins]] or kinase activity inside the cell. Azimilide binds on the extracellular domain of the hERG channel, this propagates a conformational change and inhbits the current. This change makes the activation gate open more easily by low voltage depolarization. Azimilide has two separate binding sites in hERG channel, one for its antagonist function and the other for the agonist function.
+
+==Pharmacology==
+Azimilide has been studied for its anti-arrhythmic effects: its converts and maintains sinus rhythm in patients with atrial arrhythmias; and it reduces the frequency and severity of ventricular arrhythmias in patients with implanted cardioverter-defibrillators.  Azimilide's most important adverse effect is [[torsades de pointes]], which is a form of [[ventricular tachycardia]].
+
+==Pharmacokinetics==
+The drug is administered orally and will be completely absorbed. It shows none or very minor interactions with other drugs and it will be eventually cleared by the [[kidney]]. A peak in concentration in the blood is observed seven hours after the administration of Azimilide. The metabolic clearance is mediated through several pathways:
+* 10% is found unchanged in the blood
+* 30% will cleared by cleavage
+* 25% by CYP 1A1 pathway
+* 25% by CYP 3A4
+F-1292 is the major metabolite of azimilide, it is formed cleavage of the aromethine bond. Unlike desmethyl azimilide, azimilide N-oxide and azimilide carboxylate F-1292 has no cardiovascular activity while the other three minor metabolites have a class ΙΙΙ antiarrhythmic activity. They only make out 10% of azimilde in the blood, so their contribution is not measurable.
+
+This use of azimilide is very controversial subject,{{Citation needed|date=November 2009}} but this article will give only the plain scientific information about this drug.
+
+==References==
+* Nishida A., Reien Y., Ogura T., Uemura H., Tamagawa M., Yabana H., Nakaya H.(2007). Effects of azimilide on the muscarinic acetylcholine receptor-operated K<sup>+</sup>current and experimental atrial fibrillation in guinea-pig hearts. Journal of Pharmacological Sciences '''105''',229-239<k />
+*Watanabe Y., Koide Y., Kimura J. (2006). Topics on the Na<sup>+</sup>/Ca<sup>2+</sup> exchanger:Pharmacological characterization of Na<sup>+</sup>/Ca<sup>2+</sup> exchanger inhibitors. Journal of Pharmacological Sciences'''102''',7-16<k />
+*Hanna I., Langberg J. (2004). The shocking story of azimilide. Journal of the American Heart Association'''110''',3624-3626<k />
+*Lombardi F., Borggrefe M., Ruzyllo W., Lüderitz B. (2006). Azimilide vs. placebo and sotalol for persistent atrial fibrillation:the A-COMET-2 trial. European Heart Journal'''27''',2224-2231<k />
+*Braunwald E., Zipes P., Libby P.(2001) Heart Disease A Textbook of Cardiovascular Medicine 6th edition. W.B. Saunders Company '''717-736''', {{ISBN|0-7216-8561-7}}.
+*Busch A., Eigenberger B., Jurkiewicz N., Salata J., Pica A., Suessbrich H., Lang F. (1998). Blockage of HERG channels by the class ΙΙΙ antiarrhythmic azimilide:mode of action. [[British Journal of Pharmacology]]'''123''',23-30<k />
+*Jiang M., Dun W., Fan J.-S., Tseng G.-N. (1999). Use-Dependent 'Agonist' Effect of Azimilide on the HERG Channels. The Journal of Pharmacology and Experimental Therapeutics'''291''',1324-1336<k />
+*Corey A., Agnew J., Valentine S., Parekh N., Powell J., Thompson G. (2002). The British Journal of Pharmacology'''54''',449-452<k />
+
+{{Piperazines}}
+
+[[Category:Antiarrhythmic agents]]
+[[Category:Furans]]
+[[Category:Chloroarenes]]
+[[Category:Piperazines]]
+[[Category:Ureas]]
+[[Category:Hydantoins]]

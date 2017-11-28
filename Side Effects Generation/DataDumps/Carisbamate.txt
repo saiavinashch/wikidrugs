@@ -1,0 +1,78 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 447761334
+| IUPAC_name = (S)-2-O-carbamoyl-1-o-chlorophenyl-ethanol
+| image = Carisbamate2DACS.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 194085-75-1
+| ATC_prefix = N03
+| ATC_suffix = AX19
+| PubChem = 9942577
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2087003
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 8118189
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = P7725I9V3Z
+
+<!--Chemical data-->
+| C=9 | H=10 | Cl=1 | N=1 | O=3 
+| molecular_weight = 215.633 g/mol
+| smiles = Clc1ccccc1[C@@H](O)COC(=O)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C9H10ClNO3/c10-7-4-2-1-3-6(7)8(12)5-14-9(11)13/h1-4,8,12H,5H2,(H2,11,13)/t8-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OLBWFRRUHYQABZ-QMMMGPOBSA-N
+}}
+
+'''Carisbamate''' (YKP 509, proposed trade name '''Comfyde''') is an experimental [[anticonvulsant]] drug under development by [[Johnson & Johnson Pharmaceutical Research and Development]]. In 1998, the compound was in-licensed from SK Corp. (currently Life Science Business Division of [[SK Holdings]]), a South Korean company. A phase II clinical trial in the treatment of partial seizures demonstrated that the compound has efficacy in the treatment of partial seizures and a good safety profile. Since late 2006, the compound has been undergoing a large multicenter phase III clinical trial for the treatment of partial seizures.  Its [[mechanism of action]] is unknown.<ref>{{cite journal |author=Rogawski MA |title=Diverse mechanisms of antiepileptic drugs in the development pipeline |journal=Epilepsy Res |volume=69 |issue=3 |pages=273–294 |year=2006 |pmid=16621450 |doi=10.1016/j.eplepsyres.2006.02.004 |pmc=1562526}}</ref><ref>{{cite journal |vauthors=Novak GP, Kelley M, Zannikos P, Klein B |title=Carisbamate (RWJ-333369) |journal=Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics |volume=4 |issue=1 |pages=106–109 |year=2007 |pmid=17199023 |doi=10.1016/j.nurt.2006.11.016}}</ref>
+
+On October 24, 2008, [[Johnson & Johnson]] announced that it had submitted a [[New Drug Application]] to the [[U.S. Food and Drug Administration]] (FDA) for carisbamate.<ref>{{cite press release
+  | title = Johnson & Johnson Pharmaceutical Research & Development, L.L.C. Submits New Drug Application to FDA for Carisbamate
+  | publisher = Johnson & Johnson
+  | date = 2008-10-24
+  | url = http://www.drugs.com/nda/comfyde_081024.html
+  | accessdate = 2008-11-02
+}}</ref>  Carisbamate has received provisional approval by the FDA to be marketed under the brand name of Comfyde. However, on August 21, 2009, Johnson & Johnson reported that the FDA had failed to give marketing approval.
+
+A double-blind, placebo-controlled trial of carisbamate in 323 patients with migraine failed to demonstrate that the active drug was more effective than placebo.<ref>{{cite journal |vauthors=Cady RK, Mathew N, Diener HC, Hu P, Haas M, Novak GP, ((Study Group)) |title=Evaluation of carisbamate for the treatment of migraine in a randomized, double-blind trial|journal=Headache|year= 2009 |volume=49|pages=216–226 |pmid= 19222595 |issue=2 |doi=10.1111/j.1526-4610.2008.01326.x}}</ref> However, carisbamate was well tolerated at doses up to 600&nbsp;mg/day.
+
+==References==
+{{Reflist}}
+
+{{Anticonvulsants}}
+{{GABAAR PAMs}}
+
+[[Category:Anticonvulsants]]
+[[Category:Carbamates]]
+[[Category:Alcohols]]
+[[Category:Chloroarenes]]
+[[Category:Johnson & Johnson]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:Abandoned drugs]]
+
+
+{{anticonvulsant-stub}}

@@ -1,0 +1,190 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 458460406
+| IUPAC_name = ''N''-(2-[(5-[(dimethylamino)methyl]furan-2-yl)methylthio]ethyl)-''N'''-methyl-2-nitroethene-1,1-diamine
+| image = Ranitidine.svg
+| width = 250
+| image2 = File:Ranitidine-A-3D-balls.png
+
+<!--Clinical data-->
+| pronounce = {{IPAc-en|r|ə|ˈ|n|ɪ|t|ᵻ|d|iː|n}}
+| tradename = Zantac, others
+| Drugs.com = {{drugs.com|monograph|ranitidine-hydrochloride}}
+| MedlinePlus = a601106
+| licence_US = Ranitidine
+| pregnancy_AU = B1
+| pregnancy_US = B
+| legal_AU = S2
+| legal_US = OTC
+| legal_US_comment = /&nbsp;Rx-only
+| legal_UK = GSL
+| routes_of_administration = Oral, [[intravenous therapy|IV]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 39 to 88%
+| protein_bound = 15%
+| metabolism = [[Liver|Hepatic]]: [[Flavin-containing monooxygenase|FMO]]s, including [[FMO3]]; other enzymes
+| elimination_half-life = 2&ndash;3 hours
+| excretion = 30&ndash;70% [[Kidney|Renal]]
+| onset = 55–65&nbsp;minutes (150&nbsp;mg dose)<ref name="pmid12144582" /><br />55–115&nbsp;minutes (75&nbsp;mg dose)<ref name="pmid12144582">{{cite journal | vauthors = Gardner JD, Ciociola AA, Robinson M, McIsaac RL | title = Determination of the time of onset of action of ranitidine and famotidine on intra-gastric acidity | journal = Aliment. Pharmacol. Ther. | volume = 16 | issue = 7 | pages = 1317–1326 | date = July 2002 | pmid = 12144582 | doi = 10.1046/j.1365-2036.2002.01291.x | url = }}</ref>
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 66357-35-5
+| ATC_prefix = A02
+| ATC_suffix = BA02
+| ATC_supplemental = <br />{{ATC|A02BA|07}} (ranitidine bismuth citrate)
+| IUPHAR_ligand = 1234
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00863
+| PubChem = 3001055
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 4863
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 884KT10YB7
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00422
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 8776
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1790041
+| synonyms = Dimethyl [(5-<nowiki/>{[(2-<nowiki/>{[1-(methylamino)-<br />2-nitroethenyl]amino}ethyl)sulfanyl]<br />methyl}furan-2-yl)methyl]amine
+
+<!--Chemical data-->
+| C=13 | H=22 | N=4 | O=3 | S=1
+| molecular_weight = 314.4 g/mol
+| smiles = [O-][N+](=O)C=C(NC)NCCSCc1ccc(o1)CN(C)C
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C13H22N4O3S/c1-14-13(9-17(18)19)15-6-7-21-10-12-5-4-11(20-12)8-16(2)3/h4-5,9,14-15H,6-8,10H2,1-3H3
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = VMXUWOKSQNHOCA-UHFFFAOYSA-N
+}}
+
+<!-- Definition and medical uses -->
+'''Ranitidine''', sold under the trade name '''Zantac''' among others, is a medication that decreases [[gastric acid|stomach acid]] production.<ref name=AHFS2015/> It is commonly used in treatment of  [[peptic ulcer disease]], [[gastroesophageal reflux disease]], and [[Zollinger–Ellison syndrome]].<ref name=AHFS2015/> There is also tentative evidence of benefit for [[hives]].<ref>{{cite journal|last1=Fedorowicz|first1=Z|last2=van Zuuren|first2=EJ|last3=Hu|first3=N|title=Histamine H2-receptor antagonists for urticaria.|journal=The Cochrane database of systematic reviews|date=14 March 2012|volume=3|pages=CD008596|pmid=22419335|doi=10.1002/14651858.CD008596.pub2}}</ref> It can be taken by mouth, by [[intramuscular|injection into a muscle]], or [[intravenous|into a vein]].<ref name=AHFS2015/>
+
+<!-- Side effects and mechanism -->
+Common side effects include [[headache]]s and pain or burning if given by injection.<ref name=AHFS2015/> Serious side effects may include liver problems, a [[bradycardia|slow heart rate]], [[pneumonia]], and the potential of masking [[stomach cancer]].<ref name=AHFS2015/> It is also linked to an increased risk of [[Clostridium difficile colitis|''Clostridium difficile'' colitis]].<ref>{{cite journal|last1=Tleyjeh|first1=IM|last2=Abdulhak|first2=AB|last3=Riaz|first3=M|last4=Garbati|first4=MA|last5=Al-Tannir|first5=M|last6=Alasmari|first6=FA|last7=Alghamdi|first7=M|last8=Khan|first8=AR|last9=Erwin|first9=PJ|last10=Sutton|first10=AJ|last11=Baddour|first11=LM|title=The association between histamine 2 receptor antagonist use and Clostridium difficile infection: a systematic review and meta-analysis.|journal=PLOS ONE|date=2013|volume=8|issue=3|pages=e56498|pmid=23469173|doi=10.1371/journal.pone.0056498|pmc=3587620}}</ref> It is generally safe in [[pregnancy]].<ref name=AHFS2015/> Ranitidine is an [[H2 antagonist|H<sub>2</sub> histamine receptor antagonist]] that works by blocking [[histamine]] and thus decreasing the amount of acid released by cells of the stomach.<ref name=AHFS2015>{{cite web|title=Ranitidine|url=http://www.drugs.com/monograph/ranitidine-hydrochloride.html|publisher=The American Society of Health-System Pharmacists|accessdate=Dec 1, 2015|deadurl=no|archiveurl=https://web.archive.org/web/20131614452400/http://www.drugs.com/monograph/ranitidine-hydrochloride.html|archivedate=2017-09-08|df=}}</ref>
+
+<!-- History, society and culture -->
+Ranitidine was discovered in 1976 and came into commercial use in 1981.<ref>{{cite book|last1=Fischer|first1=Janos|last2=Ganellin|first2=C. Robin|title=Analogue-based Drug Discovery|date=2006|publisher=John Wiley & Sons|isbn=9783527607495|page=444|url=https://books.google.ca/books?id=FjKfqkaKkAAC&pg=PA444|language=en|deadurl=no|archiveurl=https://web.archive.org/web/20161220084238/https://books.google.ca/books?id=FjKfqkaKkAAC&pg=PA444|archivedate=2016-12-20|df=}}</ref> It is on the [[World Health Organization's List of Essential Medicines]], the most effective and safe medicines needed in a [[health system]].<ref name=WHO19th>{{cite web|title=WHO Model List of Essential Medicines (19th List)|url=http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|work=World Health Organization|accessdate=8 December 2016|date=April 2015|deadurl=no|archiveurl=https://web.archive.org/web/20161213052708/http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|archivedate=13 December 2016|df=}}</ref> It is available as a generic medication.<ref name=AHFS2015/> The 2015 wholesale price in the [[developing world]] was about 0.01 to 0.05 USD per pill.<ref>{{cite web|title=Ranitidine|url=http://erc.msh.org/dmpguide/resultsdetail.cfm?language=english&code=RAN150T&s_year=2014&year=2014&str=150%20mg&desc=Ranitidine&pack=new&frm=TAB-CAP&rte=PO&class_code2=17%2E1%2E&supplement=&class_name=%2817%2E1%2E%29Antiulcer%20medicines%3Cbr%3E|website=International Drug Price Indicator Guide|accessdate=1 December 2015|deadurl=no|archiveurl=https://web.archive.org/web/20170510161832/http://erc.msh.org/dmpguide/resultsdetail.cfm?language=english&code=RAN150T&s_year=2014&year=2014&str=150%20mg&desc=Ranitidine&pack=new&frm=TAB-CAP&rte=PO&class_code2=17.1.&supplement=&class_name=%2817.1.%29Antiulcer%20medicines%3Cbr%3E|archivedate=10 May 2017|df=}}</ref> In the United States it is about 0.05 USD per dose.<ref name=AHFS2015/>
+
+==Medical uses==
+* Relief of [[heartburn]]
+* Short-term and maintenance therapy of gastric and [[duodenal ulcers]]
+* Ranitidine can also be given with [[Nonsteroidal anti-inflammatory drug|NSAID]]s to reduce the risk of ulceration. [[Proton-pump inhibitor]]s (PPIs) are more effective for the prevention of NSAID-induced ulcers.<ref>{{cite web|title=Reflux Remedies: ranitidine|url=http://pharmasight.org/otc/reflux-remedies-ranitidine-zantac/|work=PharmaSight OTC Health|publisher=PharmaSight.org|accessdate=16 November 2011|deadurl=no|archiveurl=https://web.archive.org/web/20130112091347/http://pharmasight.org/otc/reflux-remedies-ranitidine-zantac/|archivedate=12 January 2013|df=}}</ref>
+* Pathologic gastrointestinal (GI) hypersecretory conditions such as [[Zollinger–Ellison syndrome]]
+* [[Gastroesophageal reflux disease]] (GERD)
+* [[Erosive esophagitis]]
+* Part of a multidrug regimen for ''[[Helicobacter pylori]]'' eradication to reduce the risk of duodenal ulcer recurrence
+* Recurrent postoperative ulcer
+* Upper GI bleeding
+* Prevention of acid-aspiration pneumonitis during surgery: ranitidine can be administered preoperatively to reduce the risk of aspiration pneumonia. The drug not only increases gastric [[pH]], but also reduces the total output of gastric juice. In a 2009 meta-analysis comparing the net benefit of proton pump inhibitors and ranitidine to reduce the risk of aspiration before anesthesia, ranitidine was found to be more effective than proton pump inhibitors in reducing the volume of gastric secretions.<ref>{{cite journal | last1 = Clark | first1 = K. | last2 = Lam | first2 = L. T. | last3 = Gibson | first3 = S. | last4 = Currow | first4 = D. | year = 2009 | title = The effect of ranitidine versus proton pump inhibitors on gastric secretions: a meta-analysis of randomised control trials | doi = 10.1111/j.1365-2044.2008.05861.x | journal = Anaesthesia | volume = 64 | issue = 6| pages = 652–657 | pmid=19453319}}</ref>  Ranitidine may have an antiemetic effect when administered preoperatively.
+* Prevention of [[Stress ulcer|stress-induced ulcers]] in critically ill patients<ref>{{cite journal | last1 = Dellinger | first1 = R. Phillip | display-authors = etal   | year = 2013 | title = Surviving Sepsis Campaign: international guidelines for management of severe sepsis and septic shock, 2012 | url = | journal = Intensive Care Medicine | volume = 39 | issue = 2| pages = 165–228 | pmid = 23361625 | doi = 10.1007/s00134-012-2769-8 }}</ref>
+* Used together with [[diphenhydramine]] as secondary treatment for [[anaphylaxis]]; after first-line [[epinephrine]].<ref name="AAFP2003">{{cite web|title=A Practical Guide to Anaphylaxis|url=http://www.aafp.org/afp/2003/1001/p1325.html|publisher=American Academy of Family Physicians|accessdate=3 February 2017|deadurl=no|archiveurl=https://web.archive.org/web/20170110092510/http://www.aafp.org/afp/2003/1001/p1325.html|archivedate=10 January 2017|df=}}</ref><ref name=AAP2017>{{cite web|title=Anaphylaxis: Diagnosis and Management in the Rural Emergency Department|url=http://www.aapsus.org/userfiles/files/ajcm4.pdf|publisher=American Journal of Clinical Medicine|accessdate=3 February 2017|deadurl=no|archiveurl=https://web.archive.org/web/20160814133304/http://www.aapsus.org/userfiles/files/AJCM4.pdf|archivedate=14 August 2016|df=}}</ref>
+
+=== Preparations ===
+Certain preparations of ranitidine are available [[Over-the-counter drug|over the counter]] (OTC) in various countries. In the United States, 75- and 150-mg tablets are available OTC. Zantac OTC is manufactured by [[Boehringer Ingelheim]]. In Australia and the UK, packs containing seven or 14 doses of the 150-mg tablet are available in supermarkets, small packs of 150-mg and 300-mg tablets are [[SUSDP|schedule 2 pharmacy medicines]]. Larger doses and pack sizes still require a prescription.
+
+===Dosing===
+For ulcer treatment, a night-time dose is especially important — as the increase in gastric/duodenal pH promotes healing overnight when the stomach and duodenum are empty. Conversely, for treating reflux, smaller and more frequent doses are more effective.
+
+Ranitidine used to be administered long-term for reflux treatment, sometimes indefinitely. However, [[Proton-pump inhibitor|PPIs]] have taken over this role. In addition, a fairly rapid [[tachyphylaxis]] can develop within 6 weeks of initiation of treatment, further limiting its potential for long-term use.<ref>{{cite journal | last1 = Lightdale | first1 = J. R. | last2 = Gremse | first2 = D. A. | last3 = Heitlinger | first3 = L. A. | last4 = Cabana | first4 = M. | last5 = Gilger | first5 = M. A. | last6 = Gugig | first6 = R. | last7 = Hill | first7 = I. D. | year = 2013 | title = Gastroesophageal reflux: management guidance for the pediatrician | url = | journal = Pediatrics | volume = 131 | issue = 5| pages = e1684–e1695 | doi=10.1542/peds.2013-0421 | pmid=23629618}}</ref>
+
+People with [[Zollinger–Ellison syndrome]] have been given very high doses without any harm.<ref>{{cite web|title=Ranitidine Drug Information|url=http://online.lexi.com/lco/action/doc/retrieve/docid/patch_f/7613#doa|publisher=Lexicomp|accessdate=20 April 2014|deadurl=no|archiveurl=https://web.archive.org/web/20140420014925/http://online.lexi.com/lco/action/doc/retrieve/docid/patch_f/7613#doa|archivedate=20 April 2014|df=}}</ref>
+
+== Contraindication ==
+Ranitidine is contraindicated for patients known to have hypersensitivity to the drug.
+
+== Adverse effects ==
+The following adverse effects have been reported as events in clinical trials:
+
+=== Central nervous system ===
+Rare reports have been made of [[malaise]], [[dizziness]], [[somnolence]], [[insomnia]], and [[vertigo]]. In severely ill, elderly patients, cases of reversible mental confusion, agitation, depression, and hallucinations have been reported.<ref name="ZANTAC Drug Insert">{{cite web|title=ZANTAC Drug Insert|url=http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/018703s068,019675s035,020251s019lbl.pdf|publisher=GlaxoSmithKline|accessdate=19 April 2014|deadurl=no|archiveurl=https://web.archive.org/web/20140420003039/http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/018703s068,019675s035,020251s019lbl.pdf|archivedate=20 April 2014|df=}}</ref> Ranitidine causes fewer CNS adverse reactions and drug interactions compared to cimetidine.{{citation needed|date=August 2016}}
+
+=== Cardiovascular  ===
+Arrhythmias such as [[tachycardia]], [[bradycardia]], [[atrioventricular block]], and premature ventricular beats have also been reported.<ref name="ZANTAC Drug Insert"/>
+
+=== Gastrointestinal ===
+All drugs in its class have the potential to cause vitamin B<sub>12</sub> deficiency secondary to a reduction in food-bound vitamin B<sub>12</sub> absorption.<ref>Force, R. W., and M. C. Nahata. "Effect of histamine H2-receptor antagonists on vitamin B<sub>12</sub> absorption." The Annals of Pharmacotherapy 26.10 (1992): 1283-1286.</ref> Elderly patients taking H<sub>2</sub> receptor antagonists are more likely to require B<sub>12</sub> supplementation than those not taking such drugs.<ref>{{cite journal |vauthors=Mitchell SL, Rockwood K |title=The association between antiulcer medication and initiation of cobalamin replacement in older persons |journal=[[J Clin Epidemiol]] |volume=54 |issue= 5|pages=531–534|year=2001 |doi=10.1016/S0895-4356(00)00340-1}}</ref> H<sub>2</sub> blockers may also reduce the absorption of drugs (azole antifungals, calcium carbonate) that require an acidic stomach.<ref>{{cite web|title=Reflux Remedies: ranitidine|url=http://pharmasight.org/overthecounter/2011/11/15/reflux-remedies-ranitidine-zantac/|work=PharmaSight OTC Health|publisher=PharmaSight.org|accessdate=16 November 2011|deadurl=no|archiveurl=https://web.archive.org/web/20170821045645/http://pharmasight.org/overthecounter/2011/11/15/reflux-remedies-ranitidine-zantac/|archivedate=21 August 2017|df=}}</ref> In addition, multiple studies suggest the use of H<sub>2</sub> receptor antagonists such as raniditine may increase the risk of infectious diarrhoea, including traveller's diarrhoea and salmonellosis.<ref>{{cite journal |vauthors=Cobelens FG, Leentvarr-Kuijpers A, Kleijnen J, Coutinho RA |title=Incidence and risk factors of diarrhoea in Dutch travellers: Consequences for priorities in pre-travel health advice |journal=Trop Med Intern Health |volume= 3|pages=896–903|year=1998}}</ref><ref name="pmid7906170">{{cite journal  |vauthors=Neal KR, Briji SO, Slack RC, etal |title=Recent treatment with H2-antagonists and antibiotics and gastric surgery as risk factors for ''Salmonella'' infection |journal=[[Br Med J]] |volume= 308 |issue=6922 |pages=176 |year=1994 |doi=10.1136/bmj.308.6922.176 |pmid=7906170 |pmc=2542523}}</ref><ref name="pmid8601113">{{cite journal |vauthors=Neal KR, Scott HM, Slack RC, Logan RF |title=Omeprazole as a risk factor for ''Campylobacter'' gastroenteritis: Case-control study|journal=[[BMJ]]|volume=312 |issue=7028|pages=414–415|year=1996|doi=10.1136/bmj.312.7028.414|pmid=8601113 |pmc=2350063}}</ref><ref>{{cite journal |vauthors=Wickramasinghe LS, Basu SK |title=Salmonellosis during treatment with ranitidine |journal=[[Br Med J]] |volume= 289|pages=1272|year=1984 |doi=10.1136/bmj.289.6454.1272 |issue=6454}}</ref><ref>{{cite journal  |vauthors=Ruddell WS, Axon AT, Findlay JM, etal |title=Effect of cimetidine on gastric bacterial flora |journal=[[The Lancet|Lancet]] |volume= i|issue=8170 |pages=672–674|year=1980|doi=10.1016/s0140-6736(80)92826-3 }}</ref> Finally, by suppressing acid-mediated breakdown of proteins, ranitidine may lead to an elevated risk of developing food or drug allergies, due to undigested proteins then passing into the gastrointestinal tract, where sensitisation occurs. Patients who take these agents develop higher levels of [[immunoglobulin E]] against food, whether they had prior antibodies or not.<ref name="pmid15671152">{{cite journal  |vauthors=Untersmayr E, Bakos N, Scholl I, etal |title=Anti-ulcer drugs promote IgE formation toward dietary antigens in adult patients |journal=FASEB J |volume= 19 |issue= 6 |pages=656–658 |year=2005 |pmid=15671152 |doi=10.1096/fj.04-3170fje}}</ref> Even months after discontinuation, an elevated level of IgE in 6% of patients was still found in this study.
+
+=== Liver ===
+Cholestatic hepatitis, liver failure, hepatitis, and [[jaundice]] have been noted, and require immediate discontinuation of the drug.<ref name="ZANTAC Drug Insert"/> Blood tests can reveal an increase in [[liver enzymes]] or [[eosinophilia]], although in rare instances, severe cases of [[hepatotoxicity]] may require a liver [[biopsy]].<ref>{{cite web|url=http://livertox.nlm.nih.gov/Ranitidine.htm|work=NIH official website|title=Ranitidine: Hepatotoxicity|date=June 28, 2016|accessdate=August 25, 2016|deadurl=no|archiveurl=https://web.archive.org/web/20160828180136/http://livertox.nlm.nih.gov/Ranitidine.htm|archivedate=August 28, 2016|df=}}</ref>
+
+=== Lungs ===
+Ranitidine and other [[histamine]] H<sub>2</sub> receptor antagonists may increase the risk of [[pneumonia]] in hospitalized patients.<ref>{{cite journal  |vauthors=Mallow S, Rebuck JA, Osler T, etal |title=Do proton pump inhibitors increase the incidence of nosocomial pneumonia and related infectious complications when compared with histamine-2 receptor antagonists in critically ill trauma patients? |journal=Curr Surg |volume=61 |issue= 5|pages=452–458|year=2004 |doi=10.1016/j.cursur.2004.03.014 |pmid=15475094}}</ref> They may also increase the risk of community-acquired pneumonia in adults and children.<ref name="pmid16651285">{{cite journal|vauthors=Canani RB, Cirillo P, Roggero P, Romano C, Malamisura B, Terrin G, Passariello A, Manguso F, Morelli L, Guarino A |title=Therapy with gastric acidity inhibitors increases the risk of acute gastroenteritis and community-acquired pneumonia in children.|journal=Pediatrics|date=May 2006|volume=117|issue=5|pages=e817–20|doi=10.1542/peds.2005-1655|pmid=16651285}}</ref>
+
+=== Blood ===
+[[Thrombocytopenia]] is a rare but known side effect. Drug-induced thrombocytopenia usually takes weeks or months to appear, but may appear within 12 hours of drug intake in a sensitized individual. Typically, the platelet count falls to 80% of normal, and thrombocytopenia may be associated with neutropenia and [[anemia]].<ref name="pmid21455428">{{cite journal |author1=Amit V Bangia |author2=Narendra Kamath |author3=Vidushi Mohan |title=Ranitidine-induced thrombocytopenia: A rare drug reaction |journal=Indian J Pharmacol |volume=43|issue=1|pages=76–7|year=2011|doi=10.4103/0253-7613.75676|pmid=21455428|pmc=3062128}}</ref>
+
+=== Skin ===
+Rash, including rare cases of [[erythema multiforme]] and rare cases of hair loss and vasculitis have been seen.<ref name="ZANTAC Drug Insert"/>
+
+==Warnings and precautions==
+
+===Disease-related concerns===
+With gastric malignancies, relief of symptoms due to the use of ranitidine does not exclude the presence of a gastric malignancy. In addition, with kidney or liver impairment, ranitidine must be used with caution. Finally, ranitidine should be avoided in patients with [[porphyria]], as it may precipitate an attack.<ref>{{cite web|title=Ranitidine Drug Information|url=http://online.lexi.com/lco/action/doc/retrieve/docid/patch_f/7613#f_warnings-and-precautions|publisher=Lexicomp|accessdate=19 April 2014|deadurl=no|archiveurl=https://web.archive.org/web/20140420014925/http://online.lexi.com/lco/action/doc/retrieve/docid/patch_f/7613#f_warnings-and-precautions|archivedate=20 April 2014|df=}}</ref>
+
+===Pregnancy===
+This drug is rated [[pregnancy category]] B in the United States.
+
+===Lactation===
+Ranitidine enters breast milk, with peak concentrations seen at 5.5 hours after the dose in breast milk. Caution should be exercised when prescribed to nursing women.<ref>{{cite web|title=Ranitidine|url=http://online.lexi.com/lco/action/doc/retrieve/docid/patch_f/7613#f_pregnancy-and-lactation|publisher=Lexicomp|accessdate=19 April 2014|deadurl=no|archiveurl=https://web.archive.org/web/20140420014925/http://online.lexi.com/lco/action/doc/retrieve/docid/patch_f/7613#f_pregnancy-and-lactation|archivedate=20 April 2014|df=}}</ref>
+
+===Children===
+In children, the use of gastric acid inhibitors has been associated with an increased risk for development of acute gastroenteritis and community-acquired pneumonia.<ref>{{cite journal | last1 = Canani | first1 = RB | last2 = Cirillo | first2 = P | last3 = Roggero | first3 = P | display-authors = etal   | year = 2006 | title = Therapy With Gastric Acidity Inhibitors Increases the Risk of Acute Gastroenteritis and Community-Acquired Pneumonia in Children | url = | journal = Pediatrics | volume = 117 | issue = 5| pages = e817–20 | doi=10.1542/peds.2005-1655 | pmid=16651285}}</ref> A cohort analysis including over 11,000 neonates reported an association of H<sub>2</sub> blocker use and an increased incidence of [[necrotizing enterocolitis]] in very-low-birth-weight (VLBW) neonates.<ref>{{cite journal | last1 = Guillet | first1 = R | last2 = Stoll | first2 = BJ | last3 = Cotten | first3 = CM | display-authors = etal   | year = 2006 | title = Association of H2-Blocker Therapy and Higher Incidence of Necrotizing Enterocolitis in Very Low Birth Weight Infants | url = | journal = Pediatrics | volume = 117 | issue = 2| pages = 137–42 | doi = 10.1542/peds.2005-1543 | pmid = 16390920 }}</ref> In addition, about a sixfold increase in mortality, [[necrotizing enterocolitis]], and infection (such as [[sepsis]], [[pneumonia]], [[urinary tract infection]]) was reported in patients receiving ranitidine in a cohort analysis of 274 VLBW neonates.<ref>{{cite journal | last1 = Terrin | first1 = G | last2 = Passariello | first2 = A | last3 = De Curtis | first3 = M | display-authors = etal   | year = 2012 | title = Ranitidine Is Associated With Infections, Necrotizing Enterocolitis, and Fatal Outcome in Newborns | url = | journal = Pediatrics | volume = 129 | issue = 1| pages = 40–5 | pmid = 22157140 | doi=10.1542/peds.2011-0796}}</ref>
+
+===Drug tests===
+Ranitidine may return a false positive on some commercial drug testing kits.<ref>{{cite web |url=http://www.askdocweb.com/falsepositives.html |title=Archived copy |accessdate=2017-08-17 |deadurl=no |archiveurl=https://web.archive.org/web/20170628122416/http://askdocweb.com/falsepositives.html |archivedate=2017-06-28 |df= }}</ref>
+
+== Pharmacology ==
+
+=== Mechanism of action ===
+Ranitidine is a competitive, reversible inhibitor of the action of histamine at the histamine H<sub>2</sub> receptors found in gastric parietal cells. This results in decreased gastric acid secretion and gastric volume, and reduced hydrogen ion concentration.
+
+=== Pharmacokinetics ===
+'''Absorption''': Oral: 50%
+'''Protein binding''': 15%
+'''Metabolism''': ''N''-oxide is the principal metabolite.
+'''Half-life elimination''': With normal renal function, ranitidine taken orally has a half-life of 2.5–3.0 hours. If taken intravenously, the half-life is generally 2.0–2.5 hours in a patient with normal [[creatinine]] clearance.
+'''Excretion''': The primary route of excretion is the urine. In addition, about 30% of the orally administered dose is collected in the urine as non-absorbed drug in 24 hours.
+
+==== Elderly ====
+In the elderly population, the plasma half-life of ranitidine is prolonged to 3–4 hours secondary to decreased kidney function causing decreased [[clearance (medicine)|clearance]].<ref name="Zantac Package Insert">{{cite web|title=Zantac Package Insert|url=http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/018703s068,019675s035,020251s019lbl.pdf|publisher=FDA|deadurl=no|archiveurl=https://web.archive.org/web/20140420003039/http://www.accessdata.fda.gov/drugsatfda_docs/label/2009/018703s068,019675s035,020251s019lbl.pdf|archivedate=2014-04-20|df=}}</ref>
+
+==== Children ====
+In general, studies of pediatric patients (aged 1 month to 16 years) have shown no significant differences in pharmacokinetic parameter values in comparison to healthy adults, when correction is made for body weight.<ref name="Zantac Package Insert"/>
+
+==History==
+[[File:Zantac.jpg|thumb|Zantac (ranitidine) 300-mg tablets]]
+
+Ranitidine was first prepared as AH19065 by John Bradshaw in the summer of 1977 in the [[Ware, Hertfordshire|Ware]] research laboratories of [[Allen & Hanburys]] Ltd, part of the [[Glaxo]] organization.<ref>Lednicer, Daniel (Editor). ''Chronicles of Drug Discovery''. ACS Professional Reference Books, Volume 3, pages 45-81 1993. {{ISBN|0-8412-2733-0}}.</ref><ref>US patent US4128658, "Aminoalkyl furan derivatives", 1978</ref> Its development was a response to the first in class histamine H<sub>2</sub> receptor antagonist, [[cimetidine]], developed by [[Sir James Black]] at [[Smith, Kline and French]], and launched in the United Kingdom as '''Tagamet''' in November 1976. Both companies would eventually become merged as [[GlaxoSmithKline]] following a sequence of mergers and acquisitions starting with the integration of Allen & Hanbury's Ltd and Glaxo to form Glaxo Group Research in 1979, and ultimately with the merger of Glaxo Wellcome and SmithKline Beecham in 2000. Ranitidine was the result of a [[Drug design#Rational drug design|rational drug-design]] process using what was by then a fairly refined model of the histamine H<sub>2</sub> receptor and [[QSAR|quantitative structure-activity relationships]].
+
+Glaxo refined the model further by replacing the [[imidazole]] ring of cimetidine with a [[furan]] ring with a [[nitrogen]]-containing substituent, and in doing so developed ranitidine. Ranitidine was found to have a far-improved tolerability profile (i.e. fewer [[adverse drug reaction]]s), longer-lasting action, and 10 times the activity of cimetidine.  Ranitidine has 10% of the affinity that cimetidine has to [[CYP450]], so it causes fewer side effects, but other H<sub>2</sub> blockers [[famotidine]] and [[nizatidine]] have no CYP450 significant interactions.<ref>
+{{cite book |title       = Goodman & Gilman's The Pharmacological Basis of Therapeutics |author1     = Laurence Brunton |author2     = John Lazo |author3     = Keith Parker |page        = 972 |edition     = 11 |date        = August 2005 |publisher   = McGraw-Hill |isbn        = 0-07-142280-3 |doi         = 10.1036/0071422803 |url         = http://mhprofessional.com/product.php?isbn=0071422803 |deadurl     = no |archiveurl  = https://web.archive.org/web/20160411074421/http://www.mhprofessional.com/product.php?isbn=0071422803 |archivedate = 2016-04-11 |df          = }}</ref>
+
+Ranitidine was introduced in 1981 and was the world's biggest-selling prescription drug by 1987. It has since largely been superseded by the even more effective proton-pump inhibitors, with [[omeprazole]] becoming the biggest-selling drug for many years. When omeprazole and ranitidine were compared in a study of 144 people with severe inflammation and erosions or ulcers of the esophagus, 85% of those treated with omeprazole healed within eight weeks, compared to 50% of those given ranitidine. In addition, the omeprazole group reported earlier relief of heartburn symptoms.<ref>Pelot, Daniel, (M.D.). "''Digestive System : New Drug for Heartburn''". The New Book of Knowledge : Medicine & Health, Grolier : Danbury, Connecticut. 1990. p.262. {{ISBN|0-7172-8244-9}}. Library of Congress 82-645223</ref>
+
+==See also==
+* [[Famotidine]] (trade names Pepcid, Pepcidine) — another popular H<sub>2</sub> receptor antagonist
+* [[Nizatidine]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://druginfo.nlm.nih.gov/drugportal/dpdirect.jsp?name=Ranitidine U.S. National Library of Medicine: Drug Information Portal&nbsp;– Ranitidine]
+
+{{Histaminergics}}
+{{H2-receptor antagonist}}
+{{GlaxoSmithKline}}
+
+[[Category:Amines]]
+[[Category:Furans]]
+[[Category:H2 receptor antagonists]]
+[[Category:Hepatotoxins]]
+[[Category:Nitroethenes]]
+[[Category:RTT]]
+[[Category:Thioethers]]
+[[Category:World Health Organization essential medicines]]

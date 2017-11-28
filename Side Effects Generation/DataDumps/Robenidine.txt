@@ -1,0 +1,63 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 448215878
+| IUPAC_name = 1,2-Bis[(4-chlorophenyl)methyleneamino]guanidine
+| image = Robenidine.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|robenidine}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 25875-51-8
+| ATCvet = yes
+| ATC_prefix = P51
+| ATC_suffix = AX13
+| PubChem = 9570438
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 4888ME6C4E
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 7844905
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=15 | H=13 | Cl=2 | N=5 
+| molecular_weight = 334.20 g/mol
+| smiles = C1=CC(=CC=C1C=NNC(=NN=CC2=CC=C(C=C2)Cl)N)Cl
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C15H13Cl2N5/c16-13-5-1-11(2-6-13)9-19-21-15(18)22-20-10-12-3-7-14(17)8-4-12/h1-10H,(H3,18,21,22)/b19-9+,20-10+
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = MOOFYEJFXBSZGE-LQGKIZFRSA-N
+}}
+
+'''Robenidine''' is a [[coccidiostat]]. Robenidine is an antibiotic used for the control of [[coccidiosis]], a debilitating protozoal infection in poultry. Although there are alternative antibiotics available, robenidine is important in the management of antibiotic resistance as farmers rotate the use of robenidine with other antibiotics to try to preserve the effectiveness of these products in fighting infections.<ref>http://www.apvma.gov.au/products/review/completed/robenidine.php</ref>
+
+==References==
+
+{{Reflist}}
+
+[[Category:Antiparasitic agents]]
+[[Category:Guanidines]]
+[[Category:Chloroarenes]]
+
+
+{{antiinfective-drug-stub}}

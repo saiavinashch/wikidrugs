@@ -1,0 +1,118 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 477162627
+| IUPAC_name = 6,6′-dimethoxy-2,2′,2′-trimethyltubocuraran-2,2′-diium-7′,12′-diol
+| image = Tubocurarine.svg
+| image2 = Tubocurarine-chloride-3D-balls-by-AHRLS-2012.png
+| width2 = 200
+<!-- | image3 = Tubocurarine-3D-sticks.png | size3 =  (no 3rd image possible in drugbox) -->
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|tubocurarine-chloride}}
+| MedlinePlus = a682860
+| pregnancy_AU = C
+| legal_status = Rx-only
+| routes_of_administration = [[Intravenous therapy|IV]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 100% (IV)
+| protein_bound = 50%
+| metabolism =  
+| elimination_half-life = 1–2 hours
+
+<!--Identifiers-->
+| IUPHAR_ligand = 2294
+| CAS_number_Ref = {{cascite|changed|CAS}}
+| CAS_number = 57-95-4
+| CAS_supplemental = (chloride hydrochloride)<br/> 6989-98-6 (chloride hydrochloride pentahydrate)
+| ATC_prefix = M03
+| ATC_suffix = AA02
+| ATC_supplemental =  
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 9774
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C37H40N2O6/c1-38-14-12-24-19-32(42-4)33-21-27(24)28(38)16-22-6-9-26(10-7-22)44-37-35-25(20-34(43-5)36(37)41)13-15-39(2,3)29(35)17-23-8-11-30(40)31(18-23)45-33/h6-11,18-21,28-29H,12-17H2,1-5H3,(H-,40,41)/p+1/t28-,29+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = JFJZZMVDLULRGK-URLMMPGGSA-O
+| PubChem = 6000
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB01199
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5778
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 900961Z8VR
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1687
+
+<!--Chemical data-->
+| C=37 | H=42 | Cl=2 | N=2 | O=6 
+| molecular_weight = 681.65 g/mol
+| smiles = Oc7ccc1cc7Oc5cc6[C@H](Cc4ccc(Oc2c3[C@@H](C1)[N+](C)(C)CCc3cc(OC)c2O)cc4)[N+](C)(C)CCc6cc5OC
+| synonyms = 
+|drug_name=|alt=|caption=|type=|licence_EU=|pregnancy_US=|licence_US=}}
+
+'''Tubocurarine''' (also known as '''''d''-tubocurarine''' or '''DTC''') is a toxic alkaloid historically known for its use as an [[arrow poison]]. In the mid-1900s, it was used in conjunction with an [[anesthetic]] to provide [[skeletal muscle]] relaxation during [[surgery]] or [[mechanical ventilation]]. It is now rarely used as an adjunct for clinical anesthesia because safer alternatives, such as [[cisatracurium]] and [[rocuronium]], are available.
+
+== History ==
+
+Tubocurarine is a naturally occurring mono-quaternary [[alkaloid]] obtained from the bark of the South American plant ''[[Chondrodendron tomentosum]]'', a climbing vine known to the European world since the Spanish conquest of South America. [[Curare]] had been used as a source of [[arrow poison]] by South American natives to hunt animals, and they were able to eat the animals' contaminated flesh subsequently without any adverse effects because tubocurarine cannot easily cross [[mucous membranes]].Thus, tubocurarine is effective only if given [[parenteral]]ly, as demonstrated by [[Claude Bernard|Bernard]], who also showed that the site of its action was at the neuromuscular junction.<ref>{{cite journal |author= Bernard C |title= Analyse physiologie des propriétés des actions de curare et de la nicotine sure systèmes musculaire et nerveux au moyen du curare | journal= Compt. Rend. | volume= 43  |issue= |pages= 305–319 |year=1856 |month= |pmid= |doi= }}</ref> Virchow and Munter confirmed the paralyzing action was limited to [[voluntary muscles]].<ref>{{cite journal |author= Bechter AM |title= The civilizing of curare: a history of its development and introduction into anesthesiology | journal= Anesth Analg | volume= 56 |issue= 2|pages=305–319 |year=1977 |month= |pmid= 322548|doi= 10.1213/00000539-197703000-00032|url=http://www.anesthesia-analgesia.org/content/56/2/305.long }}</ref>
+
+===Etymology===
+
+The word "curare" comes from the South American Indian name for the arrow poison, ''ourare''. Presumably, the initial syllable was pronounced with a heavy [[glottal stop]]. Tubocurarine is so-called because the plant samples containing the curare were stored and shipped to Europe in tubes.{{citation needed|reason=Any primary or secondary sources?|date=August 2015}}  Likewise, curare stored in [[calabash]] containers was called calabash curare.
+
+===Use as an anesthetic===
+
+Griffith and Johnson are credited with pioneering the formal clinical introduction of tubocurarine as an adjunct to anesthetic practice on 23 January 1942, at the Montreal Homeopathic Hospital.<ref name = Griffith>{{cite journal | doi = 10.1097/00000542-194207000-00006 |vauthors=Griffith HR, Johnson GE | title = The use of curare in general anesthesia | journal = Anesthesiol | year = 1942 | volume = 3 | issue =  4| pages = 418–420}}</ref> In this sense, tubocurarine is the prototypical adjunctive [[Neuromuscular-blocking drug#Non-depolarizing blocking agents|neuromuscular non-depolarizing agent]]. However, others before Griffith and Johnson had attempted use of tubocurarine in several situations:<ref>{{cite journal |author= Läwen A |title= Ueber die verbindung der lokakanaesthesie und epidurale injektion anesthesiernder losungen bei tabischen magenkrisen | journal= Beitr Klin Chir | volume= 80 |issue= |pages= 168–189 |year=1912 |month= |pmid= |doi= }}</ref><ref>{{cite journal |author= Wilkinson DJ |title=  Dr. F.P. de Caux - the first user of curare for anaesthesia in England | journal= Anaesthesia | volume= 46 |issue= 1|pages= 49–51 |year=1991 |month= |pmid= 1996757|doi=10.1111/j.1365-2044.1991.tb09317.x }}</ref><ref>{{cite journal |author= Bennett AE |title= Curare: a preventive of traumatic complications in electroconvulsive shock therapy | journal= Am J Psychiatry | volume= 97 |issue= |pages= 1040–1060 |year=1941 |month= |pmid= |doi= }}</ref> some under controlled study conditions<ref>{{cite journal |author= West R |title= An excursion into pharmacology: curare in medicine | journal= Medical History | volume= 28 |issue= 4|pages= 391–405 |year=1984 |month= |pmid= 6390032|doi= 10.1017/s0025727300036279|pmc= 1140012 }}</ref><ref>{{cite journal |author= Burman MS |title= Therapeutic use of curare and erythroidine hydrochloride for spastic and dystonic states | journal= Arch Neurol Psychiatry | volume= 41 |issue= |pages= 307–327 |year=1939 |month= |pmid= |doi= 10.1001/archneurpsyc.1939.02270140093008}}</ref> while others not quite controlled and remained unpublished.<ref>Bevan DR. (1992) "Curare". In: Maltby JR, Shephard DAE (Eds.), Harold Griffith – His Life and Legacy ''Can J Anaesth'' 39(1): 49-55.</ref> Regardless, all in all some 30,000 patients had been given tubocurarine by 1941, although it was Griffith and Johnson's 1942 publication<ref name = Griffith /> that provided the impetus to the standard use of neuromuscular blocking agents in clinical anesthestic practice – a revolution that rapidly metamorphosized into the standard practice of "balanced" anesthesia: the triad of barbiturate hypnosis, light inhalational anesthesia and muscle relaxation.<ref name = Gray>{{cite journal |vauthors=Gray TC, Halton J |title= Technique for the use of ''d''-tubocurarine chloride with balanced anaesthesia | journal= Br Med J | volume= 2 |issue= |pages= 293–295 |year=1946 |month= |pmid= 20996123|doi= 10.1136/bmj.2.4469.293 }}</ref> The technique as described by Gray and Halton was widely known as the "Liverpool technique",<ref name = Gray /> and became the standard anesthetic technique in England in the 1950s and 1960s for patients of all ages and physical status. Present clinical anesthetic practice still employs the central principle of balanced anesthesia though with some differences to accommodate subsequent technological advances and introductions of new and better gaseous anesthetic, hypnotic and neuromuscular blocking agents, and tracheal intubation, as well as monitoring techniques that were nonexistent in the day of Gray and Halton: pulse oximetry, capnography, peripheral nerve stimulation, noninvasive blood pressure monitoring, etc.
+
+== Chemical properties ==
+
+Structurally, tubocurarine is a [[benzylisoquinoline]] derivative. For many years, its structure, when first elucidated in 1948,<ref>{{cite journal |author= King H |title= 64. Curare alkaloids. Part VII. Constitution of dextrotubocurarine chloride|journal= J Chem Soc |volume= |issue= |pages=265 |year= 1948 |month= |pmid= |doi=10.1039/jr9480000265 }}</ref> was wrongly thought to be bis-quaternary: in other words, it was thought to be an ''N'',''N''-dimethylated alkaloid. In 1970, the correct structure was finally established,<ref>{{cite journal |vauthors=Everett AJ, Lowe LA, Wilkinson S |title= | journal= J. Chem. Soc. Chem. Commun. | volume=  |issue= |pages=1020 |year=1970 |month= |pmid= |doi= }}</ref> showing one of the two nitrogens to be tertiary, actually a mono-''N''-methylated alkaloid.
+
+=== Biosynthesis ===
+
+Tubocurarine biosynthesis involves a radical coupling of the two enantiomers of N-methylcoclaurine. (''R'') and (''S'')-''N''-methylcoclaurine come from a Mannich-like reaction between dopamine and 4-hydroxyphenylacetaldehyde, facilitated by norcoclaurine synthase (NCS). Both dopamine and 4-hydroxyphenylacetaldehyde originate from <small>L</small>-tyrosine. Methylation of the amine and hydroxyl substituents are facilitated by [[S-adenosyl methionine|''S''-adenosyl methionine (SAM)]]. One methyl group is present on each nitrogen atom prior to the radical coupling. The additional methyl group is transferred to form tubocurarine, with its single quaternary N,N-dimethylamino group.<ref>Dewick, P. M. Medicinal Natural Products; a Biosynthetic Approach. 3rd ed.; John Wiley and Sons Ltd.: 2009.</ref>
+
+[[File:Tubocurarine proposed biosynthesis.png|center|750px|Tubocurarine proposed biosynthesis]]
+
+== Biological effects ==
+
+[[File:AChe mechanism of action.jpg|thumb|left|Acetylcholine in the synaptic gap<ref>{{cite book | author = Katzung BG | title = Basic and clinical pharmacology:Introduction to autonomic pharmacology | year = 2001 | publisher = The McGraw Hill Companies | isbn = 978-0-07-160405-5 | pages = 75–91 | edition = 8 }}</ref>]]
+Without intervention, [[acetylcholine| acetylcholine (ACh)]] in the peripheral nervous system activates skeletal muscles. Acetylcholine is produced in the body of the neuron by [[choline acetyltransferase]] and transported down the axon to the synaptic gap. Tubocurarine chloride acts as an [[Receptor antagonist|antagonist]] for the [[nicotinic acetylcholine receptor| nicotinic acetylcholine receptor (nAChr)]], meaning it blocks the receptor site from ACh.<ref name="pmid11562442">{{cite journal |vauthors=Wenningmann I, Dilger JP |title=The kinetics of inhibition of nicotinic acetylcholine receptors by (+)-tubocurarine and pancuronium |journal=Molecular Pharmacology |volume=60 |issue=4 |pages=790–6 |date=October 2001 |pmid=11562442 |doi= |url=http://molpharm.aspetjournals.org/cgi/pmidlookup?view=long&pmid=11562442}}</ref> This may be due to the quaternary amino structural motif found on both molecules.
+
+===Clinical pharmacology===
+Unna et al. reported the effects of tubocurarine on humans:
+
+"Forty-five seconds after the beginning of the injection, heaviness of the eyelids and transitory [[diplopia]] were perceived. At the completion of the injection, diplopia became fixed, but could be noticed only when the subject’s eyelids were raised by the operator. As curarization proceeded, it seemed to the subject as if the facial muscles, those of the tongue, pharynx, and lower jaw, the muscles of the neck and back, and the muscles of the extremities became relaxed in about that order. Accompanying the paralysis of the pharynx and the jaw muscles, inability of the subject to swallow was noted … Shortly after the injection was completed the subjects experienced a sensation of increased difficulty in breathing, as if an extra effort was necessary to maintain an adequate respiratory exchange. This sensation was present even though there was no objective evidence of impaired oxygenation or of carbon dioxide retention. It reached its maximum about five minutes after the injection, coinciding with the maximum depression of the vital capacity. In the majority of the experiments the respiratory rate was increased by about 50–100 per cent the first minutes after the injection of any one of the drugs while the tidal volume decreased."<ref>{{cite journal|last1=Unna|first1=K. R.|title=EVALUATION OF CURARIZING DRUGS IN MAN|journal=The Journal of Pharmacology and Experimental Therapeutics|date=March 1950|volume=98}}</ref>
+
+Tubocurarine has a time of onset of around 5 minutes which is relatively slow among [[neuromuscular-blocking drug]]s, and has a duration of action of 60 to 120 minutes.<ref>{{cite journal |author= Thompson MA |title= Muscle relaxant drugs| journal= Br J Hosp Med | volume= 23 |issue= 2|pages=153–4, 163–4, 167–8 passim |year=1980 |month= |pmid= 6102875|doi= }}</ref><ref name=Rang151>Page 151 in: {{cite book |author=Rang, H. P. |title=Pharmacology |publisher=Churchill Livingstone |location=Edinburgh |year=2003 |pages= |isbn=0-443-07145-4 |oclc= 51622037|doi=}}</ref> It also causes [[histamine]] release,<ref>Maclagen J. (1976) In: Zaimis E. (Ed.), "Neuromuscular Junction". Hand. Exp. Pharm.; Vol. 42; Springer-Verlag, Berlin: 421–486.</ref> now a recognized hallmark of the tetrahydroisioquinolinium class of neuromuscular blocking agents. Histamine release is associated with [[bronchospasm]]s, [[hypotension]], [[salivary gland|salivary]] secretions, making it dangerous for asthmatics, children, and those who are pregnant or lactating.<ref>{{cite web|title=''d''-Tubocurarine (Prototype Nondepolarizing Neuromuscular Blocker)|url=http://tmedweb.tulane.edu/pharmwiki/doku.php/tubocurarine_-_prototype_blocker|website=Tulane University|accessdate=4 May 2015}}</ref> However, the main disadvantage in the use of tubocurarine is its significant ganglion-blocking effect,<ref>{{cite journal |vauthors=Bowman WC, Webb SN |title= Neuromuscular blocking and ganglion blocking activities of some acetylcholine antagonists in the cat| journal= J Pharm Pharmacol | volume= 24 |issue= 10|pages=762–72 |year=1972 |month= |pmid= 4403972|doi= 10.1111/j.2042-7158.1972.tb08880.x}}</ref> that manifests as hypotension,<ref>{{cite journal |vauthors=Coleman AJ, Downing JW, Leary WP, Moyes DG |title= The immediate cardiovascular effects of pancuronium, alcuronium and tubocurarine in man| journal= Anaesthesia | volume= 27 |issue= 4|pages=415–22 |year=1972 |month= |pmid= 4264060|doi=10.1111/j.1365-2044.1972.tb08247.x }}</ref> in many patients; this constitutes a relative contraindication to its use in patients with myocardial ischaemia.
+
+Because of the shortcomings of tubocurare, much research effort was undertaken soon after its clinical introduction to find a suitable replacement. The efforts unleashed a multitude of compounds borne from structure-activity relations developed from the tubocurare molecule. Some key compounds that have seen clinical use are identified in the muscle relaxants template box below. Of the many tried as replacements, only a few enjoyed as much popularity as tubocurarine: [[pancuronium]], [[vecuronium]], [[rocuronium]], [[atracurium]], and [[cisatracurium]]. [[Succinylcholine]] is a widely used muscle relaxant drug which acts by activating, instead of blocking, the ACh receptor.
+
+The [[potassium channel blocker]] [[tetraethylammonium]] (TEA) has been shown to reverse the effects of tubocurarine. It is thought to do so by increasing ACh release, which counteracts the antagonistic effects of tubocurarine on the ACh receptor.
+
+===Use as spider bite treatment===
+[[Spider]]s of the genus ''[[Latrodectus]]'' have [[latrotoxin|α-latrotoxin]] in their venom. The most well known spider in this genus is the black widow spider. α-latrotoxin causes the release of neurotransmitters into the synaptic gap, including [[acetylcholine]].<ref>{{cite journal|last1=Südhof|first1=Thomas C|title=α-Latrotoxin and its receptors: Neurexins and CIRL/Latrophilins|journal=Annual Review of Neuroscience|date=March 2001|volume=24|pages=933–962|url=http://www.annualreviews.org/doi/abs/10.1146/annurev.neuro.24.1.933|doi=10.1146/annurev.neuro.24.1.933|pmid=11520923}}</ref> Bites are usually not fatal, but do cause a significant amount of pain in addition to muscle spasms. The venom is the most damaging to nerve endings, but the introduction of ''d''-tubocurarine chloride blocks the [[Nicotinic acetylcholine receptor|nAChr]], alleviating pain and muscle spasms while an antivenom can be administered.<ref>{{cite journal|last1=Allen|first1=George W.|title=Black widow spider (''Latrodectus mactans'') poisoning treated with ''d''-tubocurarine chloride|journal=Annals of Internal Medicine|date=1953|volume=3|pages=624–625|doi=10.7326/0003-4819-39-3-624|url=http://annals.org/article.aspx?articleid=675388}}</ref>
+
+==Toxicology==
+An individual administered tubocurarine chloride will be unable to move any voluntary muscles, including the [[thoracic diaphragm|diaphragm]]. A large enough dose will therefore result in death from respiratory failure unless artificial ventilation is initiated. The [[LD50|LD<sub>50</sub>]] for mice and rabbits are 0.13&nbsp;mg/kg and 0.146&nbsp;mg/kg intravenously, respectively.It releases histamine and cause hypotension.<ref>{{cite journal|last1=Gesler|first1=H. M.|last2=Hoppe|first2=James O.|title=3,6-bis(3-diethylaminopropoxy)pyridazine bismethiodide, a long-acting neuromuscular blocking agent|journal=The Journal of Pharmacology and Experimental Therapeutics|date=1956|volume=118}}</ref>
+
+== References ==
+{{Reflist|2}}
+
+==External links==
+* [http://science.jrank.org/pages/1908/Curare.html Curare – History, Tubocurarine], a more detailed historical account of tubocurare
+
+{{Muscle relaxants}}
+{{Nicotinic acetylcholine receptor modulators}}
+
+[[Category:Muscle relaxants]]
+[[Category:Nicotinic antagonists]]
+[[Category:Alkaloids]]
+[[Category:Quaternary ammonium compounds]]
+[[Category:Tetrahydroisoquinolines]]
+[[Category:Phenol ethers]]
+[[Category:Phenols]]
+[[Category:Macrocycles]]

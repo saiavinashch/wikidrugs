@@ -1,0 +1,69 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 460023791
+| IUPAC_name = (6''R'',7''R'')-7-{[2-[2-(aminomethyl)phenyl]acetyl]amino}-3-<br>{[1-(carboxymethyl)tetrazol-5-yl]sulfanylmethyl}-8-oxo-<br>5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+| image = Ceforanide.svg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|ceforanide}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status =  
+| routes_of_administration = [[Intramuscular injection|Intramuscular]]
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 80.6%
+| metabolism = Nil
+| elimination_half-life = 2.6 to 2.98 hours
+| excretion = [[Kidney|Renal]]
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 60925-61-3
+| ATC_prefix = J01
+| ATC_suffix = DC11
+| ATC_supplemental =  
+| PubChem = 43507
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00923
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 39656
+| NIAID_ChemDB = 007642
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 8M1YF8951V
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00259
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 3495
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201046
+<!--Chemical data-->
+| C=20 | H=21 | N=7 | O=6 | S=2
+| molecular_weight = 519.556 g/mol
+| smiles = O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)Cc3ccccc3CN)CSc4nnnn4CC(=O)O)C(=O)O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C20H21N7O6S2/c21-6-11-4-2-1-3-10(11)5-13(28)22-15-17(31)27-16(19(32)33)12(8-34-18(15)27)9-35-20-23-24-25-26(20)7-14(29)30/h1-4,15,18H,5-9,21H2,(H,22,28)(H,29,30)(H,32,33)/t15-,18-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SLAYUXIURFNXPG-CRAIPNDOSA-N
+}}
+'''Ceforanide''' is a second-generation [[cephalosporin]] [[antibiotic]].
+
+==See also==
+*[[Cefotiam]]
+
+==External links==
+* {{cite journal | vauthors = Crowle A, Sbarbaro J, May M | title = Effects of isoniazid and of ceforanide against virulent tubercle bacilli in cultured human macrophages. | journal = Tubercle | volume = 69 | issue = 1 | pages = 15–25 | year = 1988 | pmid = 3140456 | doi = 10.1016/0041-3879(88)90036-0}}
+* {{cite journal | vauthors = Campoli-Richards D, Lackner T, Monk J | title = Ceforanide. A review of its antibacterial activity, pharmacokinetic properties and clinical efficacy. | journal = Drugs | volume = 34 | issue = 4 | pages = 411–37 | year = 1987 | pmid = 3315624 | doi=10.2165/00003495-198734040-00001}}
+* {{cite journal | vauthors = Cone L, Barton S, Woodard D | title = Treatment of scleroma with ceforanide. | journal = Arch Otolaryngol Head Neck Surg | volume = 113 | issue = 4 | pages = 374–6 | year = 1987 | pmid = 3814386 | doi=10.1001/archotol.1987.01860040036012}}
+
+{{CephalosporinAntiBiotics}}
+
+[[Category:Cephalosporin antibiotics]]
+[[Category:Enantiopure drugs]]
+[[Category:Tetrazoles]]
+
+
+{{antibiotic-stub}}

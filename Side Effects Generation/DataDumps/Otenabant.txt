@@ -1,0 +1,77 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 417842381
+| IUPAC_name = 1-[8-(2-chlorophenyl)-9-(4-chlorophenyl)-9H-purin-6-yl]-4-(ethylamino)piperidine-4- carboxamide
+| image = Otenabant.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 686344-29-6
+| ATC_prefix = none
+| ATC_suffix =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = J8211Y53EF
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D09362
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 562668
+| PubChem           = 10052040
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 8227602
+
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=25 | H=25 | Cl=2 | N=7 | O=1 
+| molecular_weight = 510.4 g/mol
+| smiles            = CCNC1(CCN(CC1)C2=NC=NC3=C2N=C(N3C4=CC=C(C=C4)Cl)C5=CC=CC=C5Cl)C(=O)N
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C25H25Cl2N7O/c1-2-31-25(24(28)35)11-13-33(14-12-25)22-20-23(30-15-29-22)34(17-9-7-16(26)8-10-17)21(32-20)18-5-3-4-6-19(18)27/h3-10,15,31H,2,11-14H2,1H3,(H2,28,35)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = UNAZAADNBYXMIV-UHFFFAOYSA-N
+}}
+
+'''Otenabant''' ('''CP-945,598''') is a drug  which acts as a potent and highly selective [[cannabinoid receptor 1|CB<sub>1</sub>]] [[Antagonist (pharmacology)|antagonist]].<ref name=Kim_2008>{{Citation |last= Kim |first= M.|title= Design, chemical synthesis, and biological evaluation of novel triazolyl analogues of taranabant (MK-0364), a cannabinoid-1 receptor inverse agonist |journal= Tetrahedron |volume= 64 |issue= 48 |pages= 10802–10809 |year= 2008 |url=http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6THR-4TJ1HGJ-9-2&_cdi=5289&_user=713789&_orig=search&_coverDate=11%2F24%2F2008&_sk=999359951&view=c&wchp=dGLbVzb-zSkWA&md5=2e8fe6fab24adb1087bd17bbcd3544a7&ie=/sdarticle.pdf |doi= 10.1016/j.tet.2008.09.057 |display-authors=etal}}</ref> It was developed by [[Pfizer]] for the treatment of [[obesity]],<ref>Woods SC. The endocannabinoid system: novel pathway for cardiometabolic Risk-factor reduction. ''Journal of the American Academy of Physician Assistants''. 2007 Nov;Suppl Endocannabinoid:7-10. {{PMID|18047036}}</ref> but development for this application has been discontinued following the problems seen during clinical use of the similar drug [[rimonabant]].<ref>[http://www.pfizer.com/news/press_releases/pfizer_press_releases.jsp?rssUrl=http://mediaroom.pfizer.com/portal/site/pfizer/index.jsp?ndmViewId=news_view&ndmConfigId=1010794&newsId=20081105006339&newsLang=en http://www.pfizer.com]</ref>
+
+==See also==
+* [[Cannabinoid receptor antagonist]]
+
+==References==
+{{Reflist}}
+
+
+{{Anorectics}}
+{{Cannabinoids}}
+{{Cannabinoidergics}}
+
+[[Category:Cannabinoids]]
+[[Category:Purines]]
+[[Category:Piperidines]]
+[[Category:Carboxamides]]
+[[Category:Chloroarenes]]
+[[Category:Pfizer]]
+[[Category:CB1 receptor antagonists]]
+
+{{cannabinoid-stub}}

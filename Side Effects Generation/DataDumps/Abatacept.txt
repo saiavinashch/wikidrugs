@@ -1,0 +1,85 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 477237032
+<!-- Clinical data -->
+| tradename = Orencia
+| Drugs.com = {{drugs.com|monograph|abatacept}}
+| MedlinePlus = a606016
+| pregnancy_US = C
+| legal_status =
+| legal_UK = POM
+| legal_US = ℞-only
+| routes_of_administration = [[Intravenous therapy|Intravenous]], [[Subcutaneous injection|Subcutaneous]]
+<!-- Pharmacokinetic data -->
+| elimination_half-life = 13.1 days
+<!-- Identifiers -->
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 332348-12-6
+| ATC_prefix = L04
+| ATC_suffix = AA24
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01281
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 7D0YB67S97
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D03203
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201823
+<!-- Chemical data -->
+| C=3498 | H=5458 | N=922 | O=1090 | S=32
+| molecular_weight = 92300 g/mol
+}}
+'''Abatacept''' (marketed as '''Orencia''') is a drug used to treat autoimmune diseases like [[rheumatoid arthritis]], by interfering with the immune activity of [[T cell]]s. It is a modified antibody.
+
+Abatacept is a [[fusion protein]] composed of the Fc region of the [[immunoglobulin]] IgG1 fused to the extracellular domain of [[CTLA-4]]. In order for a [[T cell]] to be activated and produce an immune response, an [[antigen presenting cell]] must present two signals to the T cell. One of those signals is the [[major histocompatibility complex]] (MHC), combined with the antigen, and the other signal is the CD80 or CD86 molecule (also known as B7-1 and B7-2). Abatacept binds to the CD80 and CD86 molecule, and prevents the second signal. Without the second signal, the T cell can't be activated.
+
+Abatacept was developed by [[Bristol-Myers Squibb]] and is licensed in the [[United States]] for the treatment of rheumatoid arthritis in the case of inadequate response to anti-[[TNFα]] therapy. Some doctors criticize its cost ($3,500 to $3,800 a month, like other biological drugs of its class) and its promotional marketing.<ref>[https://www.nytimes.com/2016/02/28/sunday-review/ask-your-doctor-if-this-ad-is-right-for-you.html Ask Your Doctor if This Ad Is Right for You. How advertising promotes expensive drugs and treatments you may not need.] By ELISABETH ROSENTHAL, New York Times, FEB. 27, 2016</ref>
+
+==Medical uses==
+Abatacept is used to treat adults with moderate to severe [[rheumatoid arthritis]] (RA) as a second line agent, and as a first line agent for people whose RA is severe and rapidly progressing.  It also used to treat [[psoriatic arthritis]] and [[juvenile idiopathic arthritis]].<ref name=USlabel>{{cite web|title=US Abatacept label|url=https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/125118s209lbl.pdf|publisher=FDA|date=June 2017}} For label updates, see [https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/125118s209lbl.pdf FDA index page for BLA 125118]</ref><ref name=UKlabelPen>{{cite web|title=UK label prefilled pen|url=https://www.medicines.org.uk/emc/medicine/30346|publisher=UK Electronic Medicines Compendium|language=en|date=25 July 2017}}</ref><ref name=UKlabelPowder>{{cite web|title=UK label powder|url=https://www.medicines.org.uk/emc/medicine/19714|publisher=UK Electronic Medicines Compendium|language=en|date=25 July 2017}}</ref>
+
+==Contraindications==
+Abatacept has not been tested in pregnant women and it is known if it is secreted in breast milk; it causes birth defects in rodents when given in very high doses, and is transmitted in rodent breast milk.<ref name=UKlabelPen/>
+
+People should be tested for [[tuberculosis]] and any infection cleared before starting abatacept; vaccines should be updated prior to starting abatacept as well.   Abacept will likely interfere with any vaccine given while people are taking it.<ref name=UKlabelPen/>
+
+It should not be used in combination with [[anakinra]] or [[TNF antagonist]]s.<ref name=Moreland>{{cite journal | vauthors= Moreland L, Bate G, Kirkpatrick P | title=Abatacept | journal= Nature Reviews Drug Discovery | year= 2006 | volume= 5 | pages= 185–186 | pmid= 16557658 | doi=10.1038/nrd1989 | issue= 3}}</ref> Because abatacept, anakinra, and TNF antagonists suppress the immune system, using them in combination may significantly increase the risk for severe infections.<ref name=USlabel/>
+
+==Adverse effects==
+People have experienced serious infections due to abatacept's suppression of the immune system; some of these infections have been fatal.  People with [[COPD]] are likely to get lung infections more often than usual. Some people have had [[anaphylactic]] reactions to the drug. Abatacept may cause otherwise slow-growing [[cancers]] to proliferate and [[metastasis|spread]], due to suppression of the immune system.<ref name=UKlabelPen/>
+
+Very common adverse effects (occurring in more than 10% of people) include upper respiratory tract infections. Common adverse effects (occurring in between 1% and 10% of people) include lower respiratory tract infections, urinary tract infections, herpes infections, pneumonia, flu, cough, high blood pressure, stomach pain, diarrhea, nausea, vomiting, upset stomach, mouth sores, [[elevated transaminases]], rashes, fatigue, weakness, local injection site reactions, and systemic injection reactions.<ref name=UKlabelPen/>
+
+==Mechanism of action==
+Abatacept prevents antigen-presenting cells (APCs) from delivering the co-stimulatory signal. This prevents the T cells from being [[T cell#Activation|fully activated]], and even downregulates them. Simple signaling without co-stimulation allows the cell to recognize the primary signal as "self" and not ramp-up responses for future responses as well.
+
+In order for T cells to be activated and attack an antigen, that antigen must be presented to the T cell by an [[antigen-presenting cell]] (APC).
+
+That activation requires two co-stimulatory signals:
+
+For signal 1, the APC must bind the antigen to a [[major histocompatibility complex]] (MHC) molecule, bring that complex to its surface, and present it to the T cell receptor on the surface of the T cell.
+
+For signal 2, the APC must present a B7 protein on its cell surface to a CD28 protein on the surface of the T cell. These two signals activate the T cell. Without signal 2, the T cell will not be activated, and will become anergic.
+
+Abatacept consists of a fusion protein of the extracellular domain of CTLA-4 and human IgG1, binds to the B7 protein on the APC and prevents it from delivering the co-stimulatory signal to the T cell.<ref>{{cite web | url = http://www.healthvalue.net/ctlaigenglish.html | title = ABATACEPT & BELATACEPT: the CTLA-4-Igs | publisher = Healthvalue.net | accessdate = 2007-05-25}}</ref><ref>{{cite journal | vauthors=  Dall'Era M, Davis J| title=CTLA4Ig: a novel inhibitor of co-stimulation | journal= Lupus | year= 2004 | volume= 13 | issue=5 | pages= 372–376 | pmid= 15230295| doi=10.1191/0961203303lu1029oa}}</ref>
+
+==Chemistry==
+Abatacept is a [[fusion protein]] composed of the extracellular domain of [[CTLA-4]] with the hinge, CH2, and CH3 domains of [[IgG1]].<ref name=Moreland/>
+
+==Research==
+Abatacept is the basis for the second-generation [[belatacept]] currently being tested in clinical trials. They differ by only 2 amino acids. In [[organ transplantation]], belatacept is intended to provide extended [[Medical grafting|graft]] survival while limiting the toxicity generated by standard immune-suppressing regimens such as [[calcineurin]] inhibitors (for example [[cyclosporin]]).
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20070213123722/http://www.orencia.com/orencia/home/index.jsp?BV_UseBVCookie=Yes Orencia Official Site]
+
+{{Immunosuppressants}}
+
+[[Category:Engineered proteins]]
+[[Category:Bristol-Myers Squibb]]
+[[Category:Immunosuppressants]]

@@ -1,0 +1,121 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470472707
+| IUPAC_name =  
+| image = Sugammadex sodium.svg
+| image2 = Sugammadex sodium 3D front view.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|sugammadex}}
+| licence_EU = Bridion
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = Intravenous
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 343306-79-6
+| ATC_prefix = V03
+| ATC_suffix = AB35
+| PubChem = 6918584
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 90952
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 5293781
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 361LPM2T56
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05940
+
+<!--Chemical data-->
+| C=72 | H=104 | Na=8 | O=48 | S=8 
+| molecular_weight = 2178 g/mol
+|  smiles = [Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].O=C([O-])CCSC[C@H]8O[C@@H]7O[C@H]1[C@H](O)[C@@H](O)[C@H](O[C@@H]1CSCCC(=O)[O-])O[C@H]2[C@H](O)[C@@H](O)[C@H](O[C@@H]2CSCCC(=O)[O-])O[C@H]3[C@H](O)[C@@H](O)[C@H](O[C@@H]3CSCCC(=O)[O-])O[C@H]4[C@H](O)[C@@H](O)[C@H](O[C@@H]4CSCCC(=O)[O-])O[C@@H]9[C@H](O[C@H](O[C@H]5[C@H](O)[C@@H](O)[C@H](O[C@@H]5CSCCC(=O)[O-])O[C@H]6[C@H](O)[C@@H](O)[C@H](O[C@@H]6CSCCC([O-])=O)O[C@H]8[C@H](O)[C@H]7O)[C@H](O)[C@H]9O)CSCCC(=O)[O-]
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C72H112O48S8.8Na/c73-33(74)1-9-121-17-25-57-41(89)49(97)65(105-25)114-58-26(18-122-10-2-34(75)76)107-67(51(99)43(58)91)116-60-28(20-124-12-4-36(79)80)109-69(53(101)45(60)93)118-62-30(22-126-14-6-38(83)84)111-71(55(103)47(62)95)120-64-32(24-128-16-8-40(87)88)112-72(56(104)48(64)96)119-63-31(23-127-15-7-39(85)86)110-70(54(102)46(63)94)117-61-29(21-125-13-5-37(81)82)108-68(52(100)44(61)92)115-59-27(19-123-11-3-35(77)78)106-66(113-57)50(98)42(59)90;;;;;;;;/h25-32,41-72,89-104H,1-24H2,(H,73,74)(H,75,76)(H,77,78)(H,79,80)(H,81,82)(H,83,84)(H,85,86)(H,87,88);;;;;;;;/q;8*+1/p-8/t25-,26-,27-,28-,29-,30-,31-,32-,41-,42-,43-,44-,45-,46-,47-,48-,49-,50-,51-,52-,53-,54-,55-,56-,57-,58-,59-,60-,61-,62-,63-,64-,65-,66-,67-,68-,69-,70-,71-,72-;;;;;;;;/m1......../s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = KMGKABOMYQLLDJ-VKHHSAQNSA-F
+}}
+
+'''Sugammadex ''' ('''Org 25969''', tradename '''Bridion''') is an agent for reversal of [[neuromuscular blocking drugs|neuromuscular blockade]] by the agent [[rocuronium]] in [[general anaesthesia]]. It is the first [[selective relaxant binding agent]] (SRBA).
+
+==Medical uses==
+Sugammadex is used to reverse neuromuscular blockade after administration of [[Neuromuscular-blocking_drug#Non-depolarizing_blocking_agents|non-depolarizing neuromuscular-blocking agents]] such as [[vecuronium]] or [[rocuronium]].
+
+==Pharmacology==
+===Pharmacodynamics===
+Sugammadex is a modified γ-[[cyclodextrin]], with a lipophilic core and a hydrophilic periphery. This gamma cyclodextrin has been modified from its natural state by placing eight carboxyl thio ether groups at the sixth carbon positions.  These extensions extend the cavity size allowing greater encapsulation of the rocuronium molecule. These negatively charged extensions electrostatically bind to the quaternary nitrogen of the target as well as contribute to the aqueous nature of the cyclodextrin. Sugammadex's binding encapsulation of rocuronium is one of the strongest among cyclodextrins and their guest molecules. The rocuronium molecule (a modified [[steroid]]) bound within sugammadex's lipophilic core, is rendered unavailable to bind to the [[acetylcholine receptor]] at the [[neuromuscular junction]]. <div class="thumb tleft" style="background-color: #f9f9f9; border: 1px solid #CCCCCC; margin:0em;">
+{|border="0" width=475px border="0" cellpadding="0" cellspacing="0" style="font-size: 85%; border: 1px solid #CCCCCC; margin: 0.3em;"
+|[[Image:Sugammadex encaps rocuronium.jpg|300px|Schematic diagram of sugammadex encapsulating a rocuronium molecule]]
+||
+|[[Image:Sugammadex sodium 3D three quarters view.png|left|160px]]
+|}
+<div style="border: none; width:480px;"><div class="thumbcaption">Left: Schematic of a sugammadex molecule encapsulating a rocuronium molecule.<br>Right: [[Space-filling model]] of a sugammadex sodium molecule in the same orientation.</div></div></div>
+
+<!--Table adapted from DNA article, feel free to replace with cleaner one-->
+
+Sugammadex, unlike [[neostigmine]], does not inhibit [[acetylcholinesterase]] so [[cholinergic]] effects are not produced and co-administration of an [[antimuscarinic]] agent ([[glycopyrronium bromide]] or [[atropine]]) is not needed. Sugammadex might therefore be expected to have fewer adverse effects than the traditional reversal agents.
+
+When muscle relaxant with rapid onset and short duration of action is required, there has been little choice apart from [[suxamethonium]] but this drug has important contraindications; for example, it can trigger [[malignant hyperthermia]] in susceptible individuals, it has a prolonged duration of action in patients with [[pseudocholinesterase deficiency]] and it causes an increase in plasma potassium concentration which is dangerous in some circumstances. Rocuronium has a comparably quick onset in high dose (0.6&nbsp;mg kg<sup>−1</sup> to 1&nbsp;mg kg<sup>−1</sup>) and can be rapidly reversed with sugammadex (16&nbsp;mg kg<sup>−1</sup>), so this drug combination offers an alternative to suxamethonium.
+
+'Recurarisation', a phenomenon of recurrence of neuromuscular block, may occur where the reversal agents wear off before a neuromuscular blocking drug is completely cleared. This is very unusual with all but the longest acting neuromuscular blocking drugs (such as [[gallamine]], [[pancuronium]] or [[tubocurarine]]). It has been demonstrated to occur only rarely with sugammadex, and only when insufficient doses were administered.<ref>{{cite journal |author=Miller R |title=Sugammadex: an opportunity to change the practice of anesthesiology? |journal=Anesth Analg |volume=104 |issue=3 |pages=477–8 |year=2007 |pmid=17312188 |doi=10.1213/01.ane.0000255645.64583.e8}}</ref>  The underlying mechanism is thought to be related to redistribution of relaxant after reversal. It may occur for a limited range of sugammadex doses which are sufficient for complex formation with relaxant in the central compartment, but insufficient for additional relaxant returning to central from peripheral compartments.<ref>{{cite journal |author=Eleveld DJ |title=A Temporary Decrease in Twitch Response During Reversal of Rocuronium-Induced Muscle Relaxation with a Small Dose of Sugammadex |journal=Anesth Analg |volume=104 |issue=3 |pages=582–4 |year=2008 |pmid=17312212  |doi=10.1213/01.ane.0000250617.79166.7f |last2=Kuizenga |first2=K |last3=Proost |first3=JH |last4=Wierda |first4=JM}}</ref>
+
+Sugammadex has been shown to have affinity for two other aminosteroid neuromuscular blocking agents, [[vecuronium]] and [[pancuronium]]. Although sugammadex has a lower affinity for vecuronium than for rocuronium, reversal of vecuronium is still effective because fewer vecuronium molecules are present in vivo for equivalent blockade: vecuronium is approximately seven times more potent than rocuronium. Sugammadex encapsulates with a 1:1 ratio and therefore will adequately reverse vecuronium as there are fewer molecules to bind compared to rocuronium.<ref>Welliver M (2006). "New drug sugammadex; A selective relaxant binding agent". ''AANA J'' '''74'''(5): 357–363. {{PMID|17048555}}</ref> Shallow pancuronium blockade has been successfully reversed by sugammadex in phase III clinical trials.<ref>Decoopman M (2007). "Reversal of pancuronium-induced block by the selective relaxant binding agent sugammadex". ''Eur J Anaesthesiol.'' 24(Suppl 39)'':110-111.</ref>
+
+==Efficacy==
+A study was carried out in Europe looking at its suitability in [[rapid sequence induction]]. It found that sugammadex provides a rapid and dose-dependent reversal of neuromuscular blockade induced by high-dose [[rocuronium]].<ref>{{cite journal  |vauthors=Pühringer FK, Rex C, Sielenkämper AW, etal |title=Reversal of profound, high-dose rocuronium-induced neuromuscular blockade by sugammadex at two different time points: an international, multicenter, randomized, dose-finding, safety assessor-blinded, phase II trial |journal=Anesthesiology |volume=109 |issue=2 |pages=188–97 |date=August 2008 |pmid=18648227 |doi=10.1097/ALN.0b013e31817f5bc7 }}</ref>
+
+A [[Cochrane review]] on sugammadex concluded that "sugammadex was shown to be more effective than placebo (no medication) or neostigmine in reversing muscle relaxation caused by neuromuscular blockade during surgery and is relatively safe. Serious complications occurred in less than 1% of the patients who received sugammadex. The results of this review article (especially the safety results) need to be confirmed by future trials on larger patient populations".<ref>{{cite journal |author=Abrishami A, Ho J, Wong J, Yin L, Chung F. |editor1-last=Abrishami |editor1-first=Amir|title=Sugammadex, a selective reversal medication for preventing postoperative residual neuromuscular blockade |journal=Cochrane Database of Systematic Reviews |issue=4 |pages=CD007362 |date=October 2009 |pmid=19821409  |doi=10.1002/14651858.CD007362.pub2}}</ref>
+
+==Tolerability==
+Sugammadex was generally well tolerated in clinical trials in surgical patients or healthy volunteers.  In pooled analyses, the tolerability profile of sugammadex was generally similar to that of placebo or neostigmine plus [[glycopyrrolate]].<ref name="sugamma">Yang LPH, Keam SJ.[http://adisonline.com/drugs/abstract/2009/69070/Sugammadex__A_Review_of_its_Use_in_Anaesthetic.8.aspx].Drugs 2009;69(7):919-942. {{doi|10.2165/00003495-200969070-00008}}.</ref>
+
+==History==
+Sugammadex was discovered by the pharmaceutical company Organon at the [[Newhouse Research Site]] in [[Scotland]].<ref>Naguib M (2007). "Sugammadex: another milestone in clinical neuromuscular pharmacology.". ''Anesth Analg'' '''104'''(3): 575–81. {{PMID|17312211}}</ref>  Organon was acquired by [[Schering-Plough]] in 2007; Schering-Plough merged with [[Merck & Co.|Merck]] in 2009.  Sugammadex is now owned and sold by Merck.
+
+The US [[Food and Drug Administration]] (FDA) initially rejected Schering-Plough's [[New Drug Application]] for sugammadex in 2008,<ref>{{cite press release
+  | title = U.S. FDA Issues Action Letter for Sugammadex
+  | publisher = [[Schering-Plough]]
+  | date = 2008-08-01
+  | url = http://www.schering-plough.com/schering_plough/news/release.jsp?releaseID=1182475
+  | accessdate = 2008-08-02
+}}</ref> but finally approved the medication for use in the [[United States]] on December 15, 2015.<ref>{{cite press release
+  | title = FDA approves Bridion to reverse effects of neuromuscular blocking drugs used during surgery
+  | publisher = [[Food and Drug Administration]]
+  | date = 2015-12-15
+  | url = http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm477512.htm
+  | accessdate = 2015-12-15
+}}</ref>
+Sugammadex was approved for use in the [[European Union]] on July 29, 2008.<ref>{{cite press release
+  | title = BRIDION(R) (sugammadex) Injection - First and Only Selective Relaxant Binding Agent - Approved in European Union
+  | publisher = [[Schering-Plough]]
+  | date = 2008-07-29
+  | url = http://www.schering-plough.com/schering_plough/news/release.jsp?releaseID=1180933
+  | accessdate = 2008-08-02
+}}</ref>
+
+==References==
+{{reflist}}
+
+{{Antidotes}}
+{{Acetylcholine receptor modulators}}
+
+[[Category:Anesthesia]]
+[[Category:Polysaccharides]]

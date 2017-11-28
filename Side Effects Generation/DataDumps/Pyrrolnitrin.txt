@@ -1,0 +1,99 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 444574505
+| ImageFile=Pyrrolnitrin.svg
+| ImageSize=150px
+| IUPACName=3-chloro-4-(3-chloro-2-nitrophenyl)-1H-pyrrole
+| OtherNames=
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = N0P24B6EDQ
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo=1018-71-9
+| PubChem=13916
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01094
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 32079
+| SMILES=C1=CC(=C(C(=C1)Cl)[N+](=O)[O-])C2=CNC=C2Cl
+| EINECS = 213-812-7
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 13314
+| InChI = 1/C10H6Cl2N2O2/c11-8-3-1-2-6(10(8)14(15)16)7-4-13-5-9(7)12/h1-5,13H
+| InChIKey = QJBZDBLBQWFTPZ-UHFFFAOYAG
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C10H6Cl2N2O2/c11-8-3-1-2-6(10(8)14(15)16)7-4-13-5-9(7)12/h1-5,13H
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = QJBZDBLBQWFTPZ-UHFFFAOYSA-N
+| RTECS = 
+| MeSHName = D011764
+  }}
+|Section2={{Chembox Properties
+| Formula=C<sub>10</sub>H<sub>6</sub>Cl<sub>2</sub>N<sub>2</sub>O<sub>2</sub>
+| MolarMass=257.07284
+| Appearance=
+| Density=
+| MeltingPt=
+| BoilingPt=
+| Solubility=
+  }}
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = D01
+| ATCCode_suffix = AA07
+}}
+|Section7={{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| AutoignitionPt =
+  }}
+}}
+'''Pyrrolnitrin''' is an [[Antifungal medication|antifungal]] [[antibiotic]].<ref>{{Cite journal 
+| last1 = Gordee | first1 = R. S. 
+| last2 = Matthews | first2 = T. R. 
+| title = Systemic antifungal activity of pyrrolnitrin 
+| journal = Applied microbiology 
+| volume = 17 
+| issue = 5 
+| pages = 690–694 
+| year = 1969 
+| pmid = 5785951 
+| pmc = 377781
+}}</ref> ''[[Pseudomonas pyrrocinia]]'' and other ''[[Pseudomonas]]'' species produce pyrrolnitrin from [[tryptophan]] as secondary metabolite.<ref>{{Cite journal 
+| last1 = Zhu | first1 = X. 
+| last2 = Van Pee | first2 = K. -H. 
+| last3 = Naismith | first3 = J. H. 
+| doi = 10.1074/jbc.M110.120485 
+| title = The Ternary Complex of PrnB (the Second Enzyme in the Pyrrolnitrin Biosynthesis Pathway), Tryptophan, and Cyanide Yields New Mechanistic Insights into the Indolamine Dioxygenase Superfamily 
+| journal = Journal of Biological Chemistry 
+| volume = 285 
+| issue = 27 
+| pages = 21126–21133 
+| year = 2010 
+| pmid = 20421301 
+| pmc =2898318 
+}}</ref><ref>{{Cite journal 
+| last1 = Park | first1 = J. Y. 
+| last2 = Oh | first2 = S. A. 
+| last3 = Anderson | first3 = A. J. 
+| last4 = Neiswender | first4 = J. 
+| last5 = Kim | first5 = J. -C. 
+| last6 = Kim | first6 = Y. C. 
+| doi = 10.1111/j.1472-765X.2011.03036.x 
+| title = Production of the antifungal compounds phenazine and pyrrolnitrin from Pseudomonas chlororaphis O6 is differentially regulated by glucose 
+| journal = Letters in Applied Microbiology 
+| volume = 52 
+| issue = 5 
+| pages = 532–537 
+| year = 2011 
+| pmid = 21362001 
+| pmc = 
+}}</ref> The fungicides [[fenpiclonil]] and [[fludioxonil]] are chemically related to pyrrolnitrin.<ref name="PillonelKnauf-beiter2003">{{cite journal|last1=Pillonel|first1=Ch|last2=Knauf-beiter|first2=G.|last3=Steinemann|first3=A.|title=Fungicides, Phenylpyrroles|year=2003|doi=10.1002/047126363X.agr106}}</ref><ref name="JespersDavidse1993">{{cite journal|last1=Jespers|first1=A.B.K.|last2=Davidse|first2=L.C.|last3=Dewaard|first3=M.A.|title=Biochemical Effects of the Phenylpyrrole Fungicide Fenpiclonil in Fusarium sulphureum (Schlecht)|journal=Pesticide Biochemistry and Physiology|volume=45|issue=2|year=1993|pages=116–129|issn=0048-3575|doi=10.1006/pest.1993.1014}}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Antifungals]]
+
+
+{{antiinfective-drug-stub}}

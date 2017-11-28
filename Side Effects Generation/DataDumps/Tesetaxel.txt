@@ -1,0 +1,86 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 448210005
+| IUPAC_name = (2a''S'',2b''R'',3''S'',4''S'',6''S'',8a''R'',10''S'',11a''S'',11b''R'',13a''R'')-2a-(acetyloxy)-6-{[(2''R'',3''S'')-3-[(''tert''-butoxycarbonyl)amino]-3-(3-fluoropyridin-2-yl)-2-hydroxypropanoyl]oxy}-10-[(dimethylamino)methyl]-4-hydroxy-7,11b,14,14-tetramethyl-2a,2b,3,4,5,6,8a,11a,11b,12,13,13a-dodecahydro-2''H''-4,8-methano[1,3]dioxolo[3,4]cyclodeca[1,2-''d''][1]benzoxet-3-yl benzoate
+| image = Tesetaxel.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Investigational
+| routes_of_administration = 
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 333754-36-2
+| ATC_prefix = none
+| ATC_suffix = 
+| PubChem = 6918574
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = UG97LO5M8Y
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 5293771
+
+<!--Chemical data-->
+| C=46 | H=60 | F=1 | N=3 | O=13 
+| molecular_weight = 881.98 g/mol
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI=1S/C46H60FN3O13/c1-24-28(58-40(54)34(52)33(32-27(47)17-14-20-48-32)49-41(55)63-42(3,4)5)21-46(56)38(61-39(53)26-15-12-11-13-16-26)36-44(8,19-18-29-45(36,23-57-29)62-25(2)51)37-35(31(24)43(46,6)7)59-30(60-37)22-50(9)10/h11-17,20,28-30,33-38,52,56H,18-19,21-23H2,1-10H3,(H,49,55)/t28-,29+,30+,33-,34+,35+,36-,37+,38-,44+,45-,46+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = MODVSQKJJIBWPZ-VLLPJHQWSA-N
+| smiles = CC1=C2[C@@H]3[C@H]([C@@]4(CC[C@@H]5[C@]([C@H]4[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C6=C(C=CC=N6)F)NC(=O)OC(C)(C)C)O)O)OC(=O)C7=CC=CC=C7)(CO5)OC(=O)C)C)O[C@@H](O3)CN(C)C
+}}
+
+'''Tesetaxel''' ('''DJ-927''') is a drug being investigated for [[chemotherapy]] of various types of cancer, including [[breast cancer]],<ref>{{ClinicalTrialsGov|NCT01609127|Tesetaxel Every 3 Weeks vs Weekly vs Capecitabine as 1st-line Therapy for Locally Advanced or Metastatic Breast Cancer}}</ref> [[gastric cancer]],<ref>{{ClinicalTrialsGov|NCT01348009|Tesetaxel Plus Capecitabine and Cisplatin in Advanced Gastric Cancer}}</ref> and other solid tumours.<ref>{{Cite journal 
+| last1 = Saif | first1 = M. W. 
+| last2 = Sarantopoulos | first2 = J. 
+| last3 = Patnaik | first3 = A. 
+| last4 = Tolcher | first4 = A. W. 
+| last5 = Takimoto | first5 = C. 
+| last6 = Beeram | first6 = M. 
+| doi = 10.1007/s00280-011-1639-3 
+| title = Tesetaxel, a new oral taxane, in combination with capecitabine: A phase I, dose-escalation study in patients with advanced solid tumors 
+| journal = Cancer Chemotherapy and Pharmacology 
+| volume = 68 
+| issue = 6 
+| pages = 1565–1573 
+| year = 2011 
+| pmid = 21547572 
+| pmc = 
+}}</ref>
+
+==References==
+{{reflist}}
+
+{{Chemotherapeutic agents}}
+
+
+[[Category:Mitotic inhibitors]]
+[[Category:Benzoates]]
+[[Category:Carbamates]]
+[[Category:Pyridines]]
+[[Category:Organofluorides]]
+[[Category:Alcohols]]
+[[Category:Ketones]]
+[[Category:Acetate esters]]
+[[Category:Taxanes]]
+[[Category:Tert-butyl compounds]]
+
+
+{{antineoplastic-drug-stub}}

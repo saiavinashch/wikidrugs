@@ -1,0 +1,125 @@
+{{Distinguish|ralfinamide}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464384547
+| IUPAC_name = 1-(2,6-Difluorobenzyl)-1''H''-1,2,3-triazole-4-carboxamide
+| image = Rufinamide.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CDI|rufinamide}}
+| MedlinePlus = a609001
+| INN_EMA = rufinamide
+| licence_EU = Inovelon
+| licence_US = Rufinamide
+| pregnancy_US = C
+| legal_status = Rx-only
+| legal_UK = POM
+| routes_of_administration = [[Oral administration|By mouth]] ([[Tablet (pharmacy)|tablets]])
+
+<!--Pharmacokinetic data-->
+| bioavailability = 85% (under fed conditions); [[Cmax (pharmacology)|t<sub>max</sub>]] = 4–6 hours 
+| protein_bound = 34%
+| metabolism = Carboxylesterase-mediated hydrolysis ([[Cytochrome P450|CYP]] not involved)
+| metabolites = Inactive
+| elimination_half-life = 6–10 hours
+| excretion = Urine (85%)<ref name="PI">{{cite web|title=Banzel (rufinamide) Film-Coated Tablet, for Oral Use, Oral Suspension. Full Prescribing Information|url=https://www.banzel.com/areas/banzel/pdfs/BanzelPI.pdf|publisher=Eisai Inc.|accessdate=15 February 2017}}</ref>
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7470
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 106308-44-5
+| ATC_prefix = N03
+| ATC_suffix = AF03
+| PubChem = 129228
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 114471
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = WFW942PR79
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201754
+
+<!--Chemical data-->
+| C=10 | H=8 | F=2 | N=4 | O=1 
+| molecular_weight = 238.194
+| smiles = O=C(c1nnn(c1)Cc2c(F)cccc2F)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H8F2N4O/c11-7-2-1-3-8(12)6(7)4-16-5-9(10(13)17)14-15-16/h1-3,5H,4H2,(H2,13,17)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = POGQSBRIGCQNEG-UHFFFAOYSA-N
+}}
+
+'''Rufinamide''' is an [[anticonvulsant]] medication.  It is used in combination with other medication and therapy to treat [[Lennox–Gastaut syndrome]]<ref name="pmid17696794">{{cite journal |vauthors=Hakimian S, Cheng-Hakimian A, Anderson GD, Miller JW |title=Rufinamide: a new anti-epileptic medication |journal=Expert Opin Pharmacother |volume=8 |issue=12 |pages=1931–40 |date=August 2007 |pmid=17696794 |doi=10.1517/14656566.8.12.1931 |url=http://www.expertopin.com/doi/abs/10.1517/14656566.8.12.1931}}</ref> and various other [[seizure disorder]]s. Rufinamide, a [[triazole]] derivative, was developed in 2004 by [[Novartis|Novartis Pharma, AG]], and is manufactured by [[Eisai Co.|Eisai]].
+
+Rufinamide was approved by the US [[Food and Drug Administration]] on November 14, 2008 as adjunctive treatment of seizures associated with Lennox-Gastaut syndrome
+in children 4 years and older and adults. Its official FDA-approved labeling does not mention use in the treatment of partial seizures inasmuch as clinical trials submitted to the FDA were marginal. However, several recent clinical trials suggest that the drug has efficacy for partial seizures <ref name="pmid19490053">{{cite journal|vauthors=Brodie MJ, Rosenfeld WE, Vazquez B, Sachdeo R, Perdomo C, Mann A, Arroyo S |title=Rufinamide for the adjunctive treatment of partial seizures in adults and adolescents: a randomized placebo-controlled trial|journal= Epilepsia|date=August 2009|volume=50|pages=1899–909|pmid=19490053|issue=8|doi=10.1111/j.1528-1167.2009.02160.x}}</ref> It is marketed under the brand name '''Banzel'''.<ref>[http://www.fda.gov/newsevents/newsroom/pressannouncements/2008/ucm116980.htm FDA press release - FDA Approves New Drug to Treat Severe Form of Epilepsy]</ref>  It is also marketed in the European Union under the brand name '''Inovelon'''.<ref>[http://www.emea.europa.eu/humandocs/Humans/EPAR/inovelon/inovelon.htm European Public Assessment Report for rufinamide (INOVELON)]</ref>
+
+The [[mechanism of action]] of rufinamide is unknown. There is some evidence that rufinamide can modulate the gating of [[voltage-gated sodium channels]],<ref>{{Cite journal
+ | pmid = 16621450
+| year = 2006
+| author1 = Rogawski
+| first1 = M. A.
+| title = Diverse mechanisms of antiepileptic drugs in the development pipeline
+| journal = Epilepsy Research
+| volume = 69
+| issue = 3
+| pages = 273–94
+| doi = 10.1016/j.eplepsyres.2006.02.004
+| pmc = 1562526
+}}</ref> a common target for antiepileptic drugs.<ref>{{Cite journal| first1 = A. | first2 = W.
+| last2 = Löscher
+| title = The neurobiology of antiepileptic drugs 
+| volume = 5
+| last1 = Rogawski 
+| journal = Nature Reviews. Neuroscience 
+| issue = 7 
+| pages = 553–564 
+| date=Jul 2004 | issn = 1471-003X 
+| pmid = 15208697 
+| doi = 10.1038/nrn1430
+}}</ref> A recent study indicates subtle effects on the voltage-dependence of gating and the time course of inactivation in some sodium channel isoforms that could reduce neuronal excitability.<ref>{{Cite journal
+ | pmid = 24635129
+| year = 2014
+| author1 = Gilchrist
+| first1 = J
+| title = Nav1.1 modulation by a novel triazole compound attenuates epileptic seizures in rodents
+| journal = ACS Chemical Biology
+| volume = 9
+| issue = 5
+| pages = 1204–12
+| last2 = Dutton
+| first2 = S
+| last3 = Diaz-Bustamante
+| first3 = M
+| last4 = McPherson
+| first4 = A
+| last5 = Olivares
+| first5 = N
+| last6 = Kalia
+| first6 = J
+| last7 = Escayg
+| first7 = A
+| last8 = Bosmans
+| first8 = F
+| doi = 10.1021/cb500108p
+| pmc = 4027953
+}}</ref> However, this action cannot explain the unique spectrum of activity of rufinamide.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.drugs.com/nda/rufinamide_050913.html Drugs.com - Rufinamide]
+*[http://www.epilepsy.com/medications/rufinamide Epilepsy.com - Rufinamide]
+*[https://braininstitute.mch.com/wiki/Rufinamide Miami Children's Brain Institute - Rufinamide]
+
+{{Anticonvulsants}}
+{{Channelergics}}
+
+[[Category:Anticonvulsants]]
+[[Category:Triazoles]]
+[[Category:Fluoroarenes]]
+[[Category:Carboxamides]]
+[[Category:Sodium channel blockers]]

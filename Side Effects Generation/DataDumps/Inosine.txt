@@ -1,0 +1,104 @@
+{{medref|date=January 2014}}
+{{drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 461935819
+| IUPAC_name = 9-[(2''R'',3''R'',4''S'',5''R'')-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-6,9-dihydro-3''H''-purin-6-one
+| image = Inosin.svg
+| image2 = Inosine ball-and-stick.png
+<!--Clinical data-->
+| Drugs.com = {{drugs.com|international|inosine}}
+| pregnancy_category = 
+| legal_status = OTC
+| routes_of_administration =
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life =
+<!--Identifiers-->
+| IUPHAR_ligand = 4554
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 58-63-9
+| ATC_prefix = D06
+| ATC_suffix = BB05
+| ATC_supplemental = {{ATC|G01|AX02}} {{ATC|S01|XA10}}
+| PubChem = 6021
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB04335 
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5799
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 5A614L51CT
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = C00294
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 17596
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1556
+<!--Chemical data-->
+| C=10 | H=12 | N=4 | O=5
+| molecular_weight = 268.23 g/mol
+| smiles = c1[nH]c2c(c(=O)n1)ncn2[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H12N4O5/c15-1-4-6(16)7(17)10(19-4)14-3-13-5-8(14)11-2-12-9(5)18/h2-4,6-7,10,15-17H,1H2,(H,11,12,18)/t4-,6-,7-,10-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = UGQMRVRMYYASKQ-KQYNXXCUSA-N
+}}
+'''Inosine''' is a [[nucleoside]] that is formed when [[hypoxanthine]] is attached to a [[ribose]] ring (also known as a [[ribofuranose]]) via a β-N<sub>9</sub>-[[glycosidic bond]].
+
+Inosine is commonly found in [[tRNA]]s and is essential for proper translation of the genetic code in [[wobble base pair]]s.
+
+Knowledge of inosine metabolism has led to advances in [[immunotherapy]] in recent decades. Inosine monophosphate is oxidised by the enzyme [[inosine monophosphate dehydrogenase]], yielding [[xanthosine monophosphate]], a key precursor in [[purine]] metabolism.  [[Mycophenolate mofetil]] is an anti-metabolite, anti-proliferative drug that acts as an inhibitor of inosine monophosphate dehydrogenase. It is used in the treatment of a variety of [[autoimmune]] diseases including [[granulomatosis with polyangiitis]] because the uptake of purine by actively dividing [[B cell]]s can exceed 8 times that of normal body cells, and, therefore, this set of white cells (which cannot operate purine salvage pathways) is selectively targeted by the purine deficiency resulting from inosine monophosphate dehydrogenase (IMD) inhibition.
+
+==Reactions==
+[[Adenine]] is converted to [[adenosine]] or [[inosine monophosphate]] (IMP), either of which, in turn, is converted into inosine (I), which pairs with adenine (A), [[cytosine]] (C), and [[uracil]] (U).
+
+[[Purine nucleoside phosphorylase]] intraconverts inosine and [[hypoxanthine]].
+
+Inosine is also an intermediate in a chain of purine nucleotides reactions required for muscle movements.
+
+==Clinical significance==
+It was tried in the 1970s in Eastern countries for improving athletic performance. Nevertheless, the clinical trials for this purpose showed no improvement.<ref>{{cite journal |title=Inosine supplementation has no effect on aerobic or anaerobic cycling performance |journal=International journal of sport nutrition |volume=9 |issue=4 |pages=333–44 |year=1999 |pmid=10660865 |doi= |author1=McNaughton L |author2=Dalton B |author3=Tarr J |name-list-format=vanc}}</ref>
+It has been shown that inosine has neuroprotective properties. It has been proposed for spinal cord injury;<ref>{{cite journal |title=Secondary degeneration reduced by inosine after spinal cord injury in rats |journal=Spinal Cord |volume=44 |issue=7 |pages=421–6 |year=2006 |pmid=16317421 |doi=10.1038/sj.sc.3101878 |display-authors=3 |author1=Liu F |author2=You SW |author3=Yao LP |name-list-format=vanc |last4=Liu |first4=HL |last5=Jiao |first5=XY |last6=Shi |first6=M |last7=Zhao |first7=QB |last8=Ju |first8=G}}</ref> because it improves axonal rewiring, and for administration after [[stroke]], because observation has shown that axonal rewiring is encouraged.<ref>{{cite journal |title=Inosine induces axonal rewiring and improves behavioral outcome after stroke |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=99 |issue=13 |pages=9031–6 |year=2002 |pmid=12084941 |doi=10.1073/pnas.132076299 |url=http://www.pnas.org/cgi/content/full/99/13/9031 |author1=Chen P |author2=Goldberg DE |author3=Kolb B |author4=Lanser M |author5=Benowitz LI |name-list-format=vanc |pmc=124418}}</ref>
+
+After ingestion, inosine produces uric acid that is suggested to be a natural antioxidant and a [[peroxynitrite]] scavenger with potential benefits to patients with [[multiple sclerosis]] (MS).<ref name=":0">[https://www.webcitation.org/query?url=http://www.geocities.com/hotsprings/3468/uric_acid-peroxynitrite2-98.html&date=2009-10-26+00:12:14 Uric Acid: Natural Scavenger Of Peroxynitrite<!-- Bot generated title -->]</ref> Peroxynitrite has been correlated with axon degeneration [http://www.fedem.org/revista/n17/neuhausing.htm]. In 2003, a study was initiated at the University of Pennsylvania MS Center to determine whether raising the levels of uric acid by the administration of inosine would slow the progression of MS.<ref>{{cite web|title=Treatment of Multiple Sclerosis Using Over the Counter Inosine|url=http://www.clinicaltrials.gov/ct/show/NCT00067327}}</ref> The study was completed in 2006 but the results were not reported to NIH. A subsequent publication hinted at potential benefits but the sample size (16 patients) was too small for a definitive conclusion.<ref>{{cite journal | title=The Treatment of Multiple Sclerosis with Inosine |journal=J Altern Complem Med |volume=15 |issue=6 |pages=619–625 |year=2009 |doi=10.1089/acm.2008.0513 |url=http://online.liebertpub.com/doi/abs/10.1089/acm.2008.0513?2 |author1=Markowitz CE |author2=Spitsin S | author3=Zimmerman V |author4=Jacobs D |author5=Udupa JK |author6=Hooper DC| author7=Koprowski H | pmid=19425822 | pmc=3189001}}</ref> In addition, the side effect of the treatment was the development of kidney stones in four of 16 patients. Thus, additional studies are necessary to prove the treatment's efficacy.
+
+Its phase II trials for Parkinson's disease is now ended, it will continue to phase III trials. Earlier trials had suggested those with the highest serum urate levels had lower progression of Parkinson's symptoms. The trial uses inosine to raise urate levels in those with levels lower than the population mean (6&nbsp;mg/dL).<ref>{{cite web|title=Safety of Urate Elevation in Parkinson's Disease|url=https://foxtrialfinder.michaeljfox.org/trial/468/}}</ref><ref>{{cite web|title=Safety of Urate Elevation in Parkinson's Disease|url=http://clinicaltrials.gov/ct2/show/NCT00833690|publisher=ClinicalTrials.gov}}</ref><ref>{{cite web|title=Inosine Trial Secures Phase III Funding to Study Effect on Slowing Parkinson’s|url=https://www.michaeljfox.org/foundation/news-detail.php?inosine-trial-secures-phase-iii-funding-to-study-effect-on-slowing-parkinson}}</ref>
+
+[[Alseres Pharmaceuticals]] (named Boston Life Sciences when patent was granted) patented the treatment for stroke [http://www.bostonlifesciences.com/news111.htm] and is currently investigating the drug in the MS setting.<ref>[http://www.alseres.com/product-pipeline/product-candidates/inosine.asp Alseres pharma drug description]</ref>
+
+In the [[Anatomical Therapeutic Chemical Classification System]], it is classified as an [[Antiviral drug|antiviral]].<ref name="urlATC/DDD Index">{{cite web |url=http://www.whocc.no/atc_ddd_index/?code=D06BB05 |title=ATC/DDD Index |format= |work= |accessdate=}}</ref>
+
+==Biotechnology==
+When designing [[primer (molecular biology)|primer]]s for [[polymerase chain reaction]], inosine is useful in that it can pair with any natural base.<ref>{{cite journal|title=Advantage of Using Inosine at the 3′ Termini of 16S rRNA Gene Universal Primers for the Study of Microbial Diversity|doi=10.1128/AEM.00849-06|url=http://aem.asm.org/content/72/11/6902.full}}</ref>  This allows for design of primers that span a [[single-nucleotide polymorphism]], without the polymorphism disrupting the primer's annealing efficiency.
+
+However, inosine pairs preferentially with cytidine (C) and its introduction to RNA, e.g. by the action of ADARs, thereby destabilizes double-stranded RNA by changing AU base-pairs to
+IU mismatches.<ref>(Bass and Weintraub, Cell, 1988).</ref>
+
+==Fitness==
+Despite  lack of clinical evidence that it improves muscle development, inosine remains an ingredient in some fitness supplements.
+
+==Feeding Stimulant==
+Inosine has also been found to be an important feed stimulant by itself or in combination with certain [[amino acids]] in some species of farmed [[fish]]. For example, inosine and inosine-5-monophosphate have been reported as specific feeding stimulants for [[turbot]] fry, (''Scophthalmus maximus'') <ref>Mackie, A.M. (1987). Identification of the gustatory feeding stimulants. In: Chemoreception in Fishes. (ed. T.J. Hara). Elsevier Scientific Publishing Co., Amsterdam, pp. 275-291.</ref> and [[Japanese amberjack]], (''Seriola quinqueradiata'').<ref>Takeda, M. Takii, K. & Matsui, K. (1984). Identification of feeding stimulants for juvenile eel. Bull. Jap. Soc. Scient. Fish., 50: 645-651.</ref> The main problem of using inosine and/or inosine-5-monophosphate as feeding attractants is their high cost. However, their use may be economically justified within larval feeds for marine fish larvae during the early weaning period, since the total quantity of feed consumed is relatively low.
+
+==See also==
+*[[Inosine monophosphate dehydrogenase]]
+*[[Inosine pranobex]]
+*[[Nucleobase]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://www.pdrhealth.com/drug_info/nmdrugprofiles/nutsupdrugs/ino_0144.shtml PDR health study]
+
+{{Nucleobases, nucleosides, and nucleotides}}
+{{Antibiotics and chemotherapeutics for dermatological use}}
+{{Gynecological anti-infectives and antiseptics}}
+{{Antivirals}}
+{{Purinergics}}
+
+[[Category:Nucleosides]]
+[[Category:Purines]]
+[[Category:Antivirals]]

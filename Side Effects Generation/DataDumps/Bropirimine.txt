@@ -1,0 +1,45 @@
+{{Drugbox
+| verifiedrevid =  
+| IUPAC_name = 2-amino-5-bromo-6-phenylpyrimidin-4(1H)-one
+| image = Bropirimine structure.png
+<!--Clinical data-->
+| tradename =  
+| pregnancy_category =  
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| excretion =  
+<!--Identifiers-->
+| CAS_number = 56741-95-8
+| ATC_prefix = none
+| DrugBank =  
+| ChEMBL = 37387
+| ChemSpiderID = 58914
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = J57CTF25XJ
+| synonyms =  
+<!--Chemical data-->
+| C=10 | H=8 | Br=1 | N=3 | O=1
+| molecular_weight = 266.09 g/mol
+| smiles = Br\C2=C(/c1ccccc1)N\C(=N/C2=O)N
+| StdInChI=1S/C10H8BrN3O/c11-7-8(6-4-2-1-3-5-6)13-10(12)14-9(7)15/h1-5H,(H3,12,13,14,15)
+| StdInChIKey = CIUUIPMOFZIWIZ-UHFFFAOYSA-N
+}}
+
+'''Bropirimine''' is an experimental drug with [[anti-cancer]] and [[antiviral medicine|antiviral]] properties.<ref>[https://archive.is/20130202061544/http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6WXH-4DBJKXX-B2&_user=10&_rdoc=1&_fmt=&_orig=search&_sort=d&_docanchor=&view=c&_searchStrId=961628678&_rerunOrigin=google&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=2153a0f206ac03596861c249369d347d sciencedirect] </ref> It is an orally effective [[immune modulator|immunomodulator]] and is being tried in [[bladder cancer]]s.<ref>http://content.karger.com/ProdukteDB/produkte.asp?Doi=19693</ref>
+
+==Synthesis==
+[[File:Bropirimine synthesis.png|700px|center|thumb|Bropirimine synthesis:<ref>{{Cite journal|doi=10.1021/jm00150a018|title=Pyrimidinones. 1. 2-Amino-5-halo-6-aryl-4(3H)-pyrimidinones. Interferon-inducing antiviral agents|pmid=2999405|year=1985|last1=Skulnick|first1=Harvey I.|last2=Weed|first2=Sheldon D.|last3=Eidson|first3=Emerson E.|last4=Renis|first4=Harold E.|last5=Stringfellow|first5=Dale A.|last6=Wierenga|first6=Wendell|journal=Journal of Medicinal Chemistry|volume=28|issue=12|pages=1864–9}}</ref> other syntheses:<ref name="BrownStevens1975">{{cite journal|last1=Brown|first1=Thomas B.|last2=Stevens|first2=Malcolm F. G.|title=Triazines and related products. Part XV. 2,4-Diaminopyrimidines and 2-aminopyrimidin-4(3H)-ones bearing 1,2,3-benzotriazinyl groups as potential dihydrofolic reductase inhibitors|journal=Journal of the Chemical Society, Perkin Transactions 1|issue=11|year=1975|pages=1023|issn=0300-922X|doi=10.1039/p19750001023}}</ref><ref>[http://www.ingentaconnect.com/content/cog/antcan M. F. G. Stevens et al., Anti-Cancer Drug Des. 10, 215 (1995).]</ref>]]
+For the first step, the dianion from malonic acid half-ester is formed by treatment with butyllithium. Acylation of the anion with benzoyl chloride proceeds at the carbanion, which is more nucleophilic (because of the higher charge density). This tricarbonyl compound decarboxylates on acidification to the β-ketoester. Condensation with guanidine leads to the pyrimidone. NBS mediated bromination then gives bropirimine.
+
+==References==
+{{reflist}}
+
+[[Category:Experimental cancer drugs]]
+[[Category:Pyrimidones]]
+[[Category:Organobromides]]
+
+
+{{antineoplastic-drug-stub}}

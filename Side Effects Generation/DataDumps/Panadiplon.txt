@@ -1,0 +1,70 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 464197175
+| IUPAC_name = 3-(5-cyclopropyl-1,2,4-oxadiazol-3-yl)-5 -propan-2-ylimidazo[5,1-c]quinoxalin-4-one
+| image = Panadiplon.svg
+| width = 150
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = See [[Hepatotoxic]]
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 124423-84-3
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 3033821
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2298411
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = V4PW0S7ZP7
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05346
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 279867
+
+<!--Chemical data-->
+| C=18 | H=17 | N=5 | O=2 
+| molecular_weight = 335.36 g/mol
+| smiles = O=C4N(c5ccccc5n3cnc(c1nc(on1)C2CC2)c34)C(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C18H17N5O2/c1-10(2)23-13-6-4-3-5-12(13)22-9-19-14(15(22)18(23)24)16-20-17(25-21-16)11-7-8-11/h3-6,9-11H,7-8H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ZGEGOFCLSWVVKG-UHFFFAOYSA-N
+}}
+
+'''Panadiplon''' ('''U-78875''') is an [[anxiolytic]] drug with a novel [[chemical structure]] that is not closely related to other drugs of this type. It has a similar pharmacological profile to the [[benzodiazepine]] family of drugs, but with mainly anxiolytic properties and relatively little [[sedative]] or [[amnestic]] effect, and so is classified as a [[nonbenzodiazepine]] anxiolytic.<ref>Tang AH, Franklin SR, Himes CS, Ho PM. Behavioral effects of U-78875, a quinoxalinone anxiolytic with potent benzodiazepine antagonist activity. J Pharmacol Exp Ther. 1991 Oct;259(1):248-54.</ref>
+
+Panadiplon acts as a high-affinity [[GABAA receptor|GABA<sub>A</sub>]] receptor [[partial agonist]],<ref>Ator NA, Griffiths RR. Drug discrimination analysis of partial agonists at the benzodiazepine site. I. Differential effects of U-78875 across training conditions in baboons and rats. J Pharmacol Exp Ther. 1999 Jun;289(3):1434-46.</ref><ref>Rowlett JK, Woolverton WL. Discriminative stimulus effects of panadiplon (U-78875), a partial agonist at the benzodiazepine site, in pentobarbital-trained rhesus monkeys. Drug Alcohol Depend. 2001 Feb 1;61(3):229-36.</ref> but despite showing a useful effects profile of a potent anxiolytic with little sedative effects, panadiplon was discontinued from clinical development for use in humans after showing evidence of liver damage in both animals and human trials.<ref>Ulrich RG, Bacon JA, Branstetter DG, Cramer CT, Funk GM, Hunt CE, Petrella DK, Sun EL. Induction of a hepatic toxic syndrome in the Dutch-belted rabbit by a quinoxalinone anxiolytic. Toxicology. 1995 Apr 12;98(1-3):187-98.</ref><ref>Ulrich RG, Bacon JA, Brass EP, Cramer CT, Petrella DK, Sun EL. Metabolic, idiosyncratic toxicity of drugs: overview of the hepatic toxicity induced by the anxiolytic, panadiplon. [[Chem Biol Interact]]. 2001 May 16;134(3):251-70.</ref> Panadiplon however continues to be used in animal research, mainly as a subtype-selective reference drug to compare other GABA<sub>A</sub> agonists against.<ref>Platt DM, Duggan A, Spealman RD, Cook JM, Li X, Yin W, Rowlett JK. Contribution of alpha 1GABAA and alpha 5GABAA receptor subtypes to the discriminative stimulus effects of ethanol in squirrel monkeys. J Pharmacol Exp Ther. 2005 May;313(2):658-67.</ref><ref>Dubinsky B, Vaidya AH, Rosenthal DI, Hochman C, Crooke JJ, DeLuca S, DeVine A, Cheo-Isaacs CT, Carter AR, Jordan AD, Reitz AB, Shank RP. 5-ethoxymethyl-7-fluoro-3-oxo-1,2,3,5-tetrahydrobenzo[4,5]imidazo[1,2a]pyridine-4-N-(2-fluorophenyl)carboxamide (RWJ-51204), a new nonbenzodiazepine anxiolytic. J Pharmacol Exp Ther. 2002 Nov;303(2):777-90.</ref>
+
+== References ==
+{{reflist}}
+
+{{Anxiolytics}}
+{{GABAAR PAMs}}
+
+[[Category:Sedatives]]
+[[Category:Anxiolytics]]
+[[Category:Hepatotoxins]]
+[[Category:Oxadiazoles]]
+[[Category:Lactams]]
+[[Category:Cyclopropanes]]
+[[Category:GABAA receptor positive allosteric modulators]]

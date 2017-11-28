@@ -1,0 +1,81 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 418877799
+| IUPAC_name = (''RS'')-1-[2-(Allyloxy)phenoxy]-3-(isopropylamino)propan-2-ol
+| image = Oxprenolol.svg
+| width = 200px
+| chirality = [[Racemic mixture]]
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|oxprenolol}}
+| pregnancy_AU = C
+| pregnancy_US =  
+| pregnancy_category =  
+| legal_status = Rx-only
+| routes_of_administration = oral
+<!--Pharmacokinetic data-->
+| bioavailability = 20-70%
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life = 1-2hours
+| excretion = [[Kidney|Renal]] <br />[[Mammary gland|Lactic]] (in lactiferous females)
+<!--Identifiers-->
+| IUPHAR_ligand = 7255
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 6452-71-7
+| ATC_prefix = C07
+| ATC_suffix = AA02
+| PubChem = 4631
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB01580
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4470
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 519MXN9YZR
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08318
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 546
+<!--Chemical data-->
+| C=15 | H=23 | N=1 | O=3
+| molecular_weight = 265.348
+| SMILES = O(c1ccccc1OC\C=C)CC(O)CNC(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C15H23NO3/c1-4-9-18-14-7-5-6-8-15(14)19-11-13(17)10-16-12(2)3/h4-8,12-13,16-17H,1,9-11H2,2-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = CEMAWMOMDPGJMB-UHFFFAOYSA-N
+}}
+
+'''Oxprenolol''' (brand names '''Trasacor''', '''Trasicor''', '''Coretal''', '''Laracor''', '''Slow-Pren''', '''Captol''', '''Corbeton''', '''Slow-Trasicor''', '''Tevacor''', '''Trasitensin''', '''Trasidex''') is a non-selective [[beta blocker]] with some intrinsic [[sympathomimetic amine|sympathomimetic]] activity. It is used for the treatment of [[angina pectoris]], abnormal [[heart]] rhythms and [[arterial hypertension|high blood pressure]].
+
+Oxprenolol is a [[lipophilic]] beta blocker which passes the [[blood–brain barrier]] more easily than water-soluble beta blockers.  As such, it is associated with a higher incidence of [[Central nervous system|CNS]]-related side effects than hydrophilic ligands such as [[atenolol]], [[sotalol]] and [[nadolol]].<ref>{{cite journal |author=McDevitt DG |title=Comparison of pharmacokinetic properties of beta-adrenoceptor blocking drugs |series=8 |journal=Eur. Heart J. |volume=Suppl M |issue= |pages=9–14 |year=1987 |pmid=2897304 |doi=10.1093/eurheartj/8.suppl_M.9}}</ref>
+
+Oxprenolol is a potent beta blocker and should not be administered to asthmatics under any circumstances due to their low beta levels as a result of depletion due to other asthma medication, and because it can cause irreversible, often fatal, airway failure and inflammation.<ref>{{cite journal | doi = 10.1136/thx.35.2.160 | journal = Thorax | year = 1980 | volume = 35 | pmc = 471246 | issue = 2 | pages = 160 | title = Severe asthma after inadvertent ingestion of oxprenolol | author = I P Williams and F J Millard | pmid = 7376124}}</ref>
+
+==Pharmacology==
+
+===Pharmacodynamics===
+Oxprenolol is a [[beta blocker]]. In addition, it has been found to act as an [[receptor antagonist|antagonist]] of the [[serotonin]] [[5-HT1A receptor|5-HT<sub>1A</sub>]] and [[5-HT1B receptor|5-HT<sub>1B</sub> receptor]]s with respective K<sub>i</sub> values of 94.2&nbsp;nM and 642&nbsp;nM in rat brain tissue.<ref name="pmid8093601">{{cite journal | vauthors = Langlois M, Brémont B, Rousselle D, Gaudy F | title = Structural analysis by the comparative molecular field analysis method of the affinity of beta-adrenoreceptor blocking agents for 5-HT1A and 5-HT1B receptors | journal = Eur. J. Pharmacol. | volume = 244 | issue = 1 | pages = 77–87 | year = 1993 | pmid = 8093601 | doi = | url = }}</ref>
+
+==Chemistry==
+
+===Stereochemistry===
+Oxprenolol is a chiral compound, the  beta blocker is used as a [[racemate]], e. g. a 1:1 mixture of (''R'')-(+)-oxprenolol and (''S'')-(–)-oxprenolol. Analytical methods  ([[HPLC]]) for the separation and quantification of (''R'')-(+)-oxprenolol and (''S'')-(–)-oxprenolol in urine and in pharmaceutical formulations have been described in the literature.<ref name=Abounassif>{{cite journal | doi = 10.1007/s00706-011-0605-4 | title = Separation and quantitation of oxprenolol in urine and pharmaceutical formulations by HPLC using a Chiralpak IC and UV detection | year = 2011 | last1 = Abounassif | first1 = Mohammed A. | last2 = Hefnawy | first2 = Mohammed M. | last3 = Mostafa | first3 = Gamal A. E. | journal = Monatshefte für Chemie - Chemical Monthly | volume = 143 | issue = 3 | pages = 365}}</ref>
+:[[File:(±)-Oxoprenolol Structural Formulae V.2.svg|thumb|left|(''R'')-(+)-Oxprenolol (top) and (''S'')-(–)-oxprenolol]]{{clear-left}}
+
+==References==
+{{Reflist|2}}
+
+
+{{Beta blockers}}
+{{Adrenergic receptor modulators}}
+{{Serotonin receptor modulators}}
+
+[[Category:5-HT1A antagonists]]
+[[Category:5-HT1B antagonists]]
+[[Category:Abandoned drugs]]
+[[Category:Alcohols]]
+[[Category:Allyl compounds]]
+[[Category:Beta blockers]]
+[[Category:Phenol ethers]]
+[[Category:Sympathomimetic amines]]

@@ -1,0 +1,72 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 443303349
+| IUPAC_name = 2-[(pyridin-3-yl)carbonyloxy]ethyl 2-(4-chlorophenoxy)-2-methylpropanoate
+| image = Etofibrate.svg
+| width = 300
+| image2 = Etofibrate 3D spacefill.png
+| alt2 = Space-filling model of the etofibrate molecule
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|etofibrate}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism = [[Hydrolysis|Hydrolyzed]] to clofibric acid and [[niacin]]
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 31637-97-5
+| ATC_prefix = C10
+| ATC_suffix = AB09
+| PubChem = 65777
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB08983 
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 59197
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 23TF67G79M
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07187
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 358150
+
+<!--Chemical data-->
+| C=18 | H=18 | Cl=1 | N=1 | O=5 
+| molecular_weight = 363.792 g/mol
+| smiles = O=C(OCCOC(=O)C(Oc1ccc(Cl)cc1)(C)C)c2cccnc2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C18H18ClNO5/c1-18(2,25-15-7-5-14(19)6-8-15)17(22)24-11-10-23-16(21)13-4-3-9-20-12-13/h3-9,12H,10-11H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = XXRVYAFBUDSLJX-UHFFFAOYSA-N
+}}
+
+'''Etofibrate''' is a [[fibrate]]. It is a combination of [[clofibrate]] and [[niacin]], linked together by an [[ester]] bond. In the body, clofibrate and niacin separate and are released gradually, in a manner similar to [[Sustained release|controlled-release]] formulations.<ref>{{cite journal |vauthors=Sposito AC, Mansur AP, Maranhão RC, Rodrigues-Sobrinho CR, Coelho OR, Ramires JA |title=Etofibrate but not controlled-release niacin decreases LDL cholesterol and lipoprotein (a) in type IIb dyslipidemic subjects |journal=Braz J Med Biol Res |volume=34 |issue=2 |pages=177–82 |year=2001 |pmid=11175492 |doi=10.1590/S0100-879X2001000200004}} [http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0100-879X2001000200004 Free full text]</ref>
+
+==References==
+{{Reflist|2}}
+
+{{Lipid modifying agents}}
+{{PPAR modulators}}
+
+[[Category:Fibrates]]
+[[Category:Prodrugs]]
+[[Category:Chloroarenes]]
+[[Category:Phenol ethers]]
+[[Category:Nicotinates]]
+
+
+{{cardiovascular-drug-stub}}

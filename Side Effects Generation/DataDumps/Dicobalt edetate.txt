@@ -1,0 +1,59 @@
+{{chembox
+| Verifiedfields = changed
+| verifiedrevid = 399896543
+| ImageFile=Dicobalt edetate.png
+| ImageSize=230
+| ImageAlt=Skeletal formula of dicobalt edetate
+| ImageFile1=Dicobalt edetate 3D ball.png
+| ImageSize1=250
+| ImageAlt1=Ball-and-stick model of the dicobalt edetate molecule
+| IUPACName=
+| OtherNames=Kelocyanor
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = UKC6GH80QR
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 64951
+| InChI = 1/C10H16N2O8.2Co/c13-7(14)3-11(4-8(15)16)1-2-12(5-9(17)18)6-10(19)20;;/h1-6H2,(H,13,14)(H,15,16)(H,17,18)(H,19,20);;/q;2*+2/p-4
+| InChIKey = TWAWHTJKASJPEK-XBHQNQODAQ
+| SMILES1 = [Co+2].[Co+2].[O-]C(=O)CN(CC([O-])=O)CCN(CC([O-])=O)CC([O-])=O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H16N2O8.2Co/c13-7(14)3-11(4-8(15)16)1-2-12(5-9(17)18)6-10(19)20;;/h1-6H2,(H,13,14)(H,15,16)(H,17,18)(H,19,20);;/q;2*+2/p-4
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = TWAWHTJKASJPEK-UHFFFAOYSA-J
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo=36499-65-7
+| PubChem=71942
+| SMILES=C(CN(CC(=O)[O-])CC(=O)[O-])N(CC(=O)[O-])CC(=O)[O-].[Co+2].[Co+2]
+  }}
+|Section2={{Chembox Properties
+| Formula=C<sub>10</sub>H<sub>12</sub>Co<sub>2</sub>N<sub>2</sub>O<sub>8</sub>.6H<sub>2</sub>O
+| MolarMass=406.08 g/mol<br>514.18 g/mol (hexahydrate)
+| Appearance=
+| Density=
+| MeltingPt=
+| BoilingPt=
+| Solubility=
+  }}
+|Section3={{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| AutoignitionPt =
+  }}
+}}
+'''Dicobalt edetate''' is the [[coordination compound]] with the approximate formula Co<sub>2</sub>([[EDTA]])(H<sub>2</sub>O)<sub>6</sub>.  
+
+Solutions of this solid have been used in Europe as an antidote to [[cyanide poisoning]].<ref name="pmid2866807">{{cite journal |author=Pickering WG |title=Cyanide toxicity and the hazards of dicobalt edetate |journal=Br Med J (Clin Res Ed) |volume=291 |issue=6509 |pages=1644 |date=December 1985 |pmid=2866807 |pmc=1418389 |doi= 10.1136/bmj.291.6509.1644-a|url=}}</ref>
+
+It is a derivative of the (non-natural) amino acid [[ethylenediaminetetraacetate]].
+
+==Structure==
+The compound is [[coordination polymer|polymeric]] in the crystalline form.  Half of the Co<sup>2+</sup> ions are bound to the EDTA<sup>2&minus;</sup> and the other Co<sup>2+</sup> ions are bound to four water ligands as well as [[carboxylate]] [[ligand]]s on the [Co(EDTA)]<sup>2&minus;</sup> entity.<ref>{{cite journal | last1 = E. F. K. Mccandlish | first1 = T. K. Michael | last2 = Rose | first2 = N. J. | year = 1978 | title = Comparison of the Structures and Aqueous Solutions of [(O-Phenylenediaminetetraacetato(2-)]Cobalt(II) and [Ethylenediaminetetraacetato(2-)]Cobalt(II) | journal = [[Inorg. Chem.]] | volume = 17 | pages = 1383–94 | doi = 10.1021/ic50184a001 | last3 = Neal | first3 = J. A. | last4 = Lingafelter | first4 = E. C. | last5 = Rose | first5 = N. J. | issue = 6}}</ref> In aqueous solution, depolymerization occurs to give [Co(EDTA)]<sup>2&minus;</sup> and [Co(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> ions, each of which is kinetically labile and has a high affinity for cyanide.  
+
+==Related compounds==
+Oxidation of  [Co(II)(EDTA)]<sup>2&minus;</sup> gives [Co(III)(EDTA)]<sup>&minus;</sup>, which is so kinetically inert that it can be resolved optically.<ref>{{cite journal | last1 = Dwyer | first1 = F. P. | last2 = Garvan | first2 = F. L.  | title = Resolution of the Ethylenediaminetetracetatocobaltate(III) Ion | journal = [[Inorg. Synth.]]| volume = VI | pages = 192–4 | date = 1960 | doi = 10.1002/9780470132371.ch61  | isbn = 978-0-470-13237-1}}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Cobalt compounds]]

@@ -1,0 +1,152 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 408558126
+| IUPAC_name = (''RS'')-1-(1''H''-indol-4-yloxy)-3-(isopropylamino)propan-2-ol
+| image = Pindolol.svg
+| alt = Skeletal formula of pindolol
+| width = 250px
+| image2 = Pindolol-3D-spacefill.png
+| alt2 = Space-filling model of the pindolol molecule
+| width2 = 225px
+| chirality = [[Racemic mixture]]
+<!--Clinical data-->
+| tradename = Visken, others<ref name="Drugs.com" />
+| Drugs.com = {{drugs.com|monograph|pindolol}}
+| MedlinePlus = a684032
+| pregnancy_AU = C
+| pregnancy_US = B
+| pregnancy_category = 
+| legal_status = Rx-only
+| routes_of_administration = [[Oral administration|By mouth]], [[intravenous therapy|intravenous]]
+<!--Pharmacokinetic data-->
+| bioavailability = 50% to 95%
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life = 3&ndash;4 hours
+| excretion = [[Kidney|Renal]]
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 13523-86-9
+| ATC_prefix = C07
+| ATC_suffix = AA03
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 8214
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C14H20N2O2/c1-10(2)16-8-11(17)9-18-14-5-3-4-13-12(14)6-7-15-13/h3-7,10-11,15-17H,8-9H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = JZQKKSLKJUAGIC-UHFFFAOYSA-N
+| PubChem = 4828
+| IUPHAR_ligand = 91
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB00960
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 4662
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = BJ4HF6IU1D
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00513
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 500
+<!--Chemical data-->
+| C=14 | H=20 | N=2 | O=2
+| molecular_weight = 248.321 g/mol
+| SMILES = CC(C)NCC(O)COc2cccc1[nH]ccc12
+}}
+
+'''Pindolol''', sold under the brand name '''Visken''' among others, is a [[beta blocker]] which is used in the treatment of [[hypertension]] and [[angina pectoris]].<ref name="Drugs.com">Drugs.com [http://www.drugs.com/international/pindolol.html International brand names for pindolol] Page accessed Sept 4, 2015</ref><ref name="Cochrane">{{cite journal | last1 = Wong | first1 = GW | last2 = Boyda | first2 = HN | last3 = Wright | first3 = JM | date = Nov 2014 | title = Blood pressure lowering efficacy of partial agonist beta blocker monotherapy for primary hypertension | url = | journal = Cochrane Database Syst Rev. | volume = 11 | issue = | page = CD007450 | doi = 10.1002/14651858.CD007450.pub2 | pmid = 25427719 }}</ref> It is also an [[receptor antagonist|antagonist]] of the [[serotonin]] [[5-HT1A receptor|5-HT<sub>1A</sub> receptor]], preferentially blocking [[inhibitory postsynaptic potential|inhibitory]] 5-HT<sub>1A</sub> [[autoreceptor]]s, and has been researched as an [[adjunct therapy|add-on therapy]] to [[selective serotonin reuptake inhibitor]]s (SSRIs) in the treatment of [[depression (mood)|depression]],<ref name="pmid9635544" /><ref name="pmid23757185" /> though with little or no effectiveness ultimately seen.<ref name="pmid25689398" />
+
+==Medical uses==
+Pindolol is used for [[hypertension]] in the [[United States]], [[Canada]], and [[Europe]], and also for [[angina pectoris]] outside the United States.<ref name="Cochrane" /> When used alone for hypertension, pindolol can significantly lower [[blood pressure]] and [[heart rate]], but the evidence base for its use is weak as the number of subjects in published studies is small.<ref name=Cochrane/> In some countries, pindolol is also used for [[arrhythmias]] and [[prophylaxis]] of acute [[stress (medicine)|stress]] reactions.{{Medical citation needed|date=September 2015}}
+
+==Contraindications==
+{{See also|Beta blocker#Contraindications|Propranolol#Contraindications}}
+
+Similar to propranolol with an extra contraindication for hyperthyroidism. In patients with thyrotoxicosis, possible deleterious effects from long-term use of pindolol have not been adequately appraised. Beta-blockade may mask the clinical signs of continuing hyperthyroidism or complications, and give a false impression of improvement. Therefore, abrupt withdrawal of pindolol may be followed by an exacerbation of the symptoms of hyperthyroidism, including thyroid storm.<ref>http://www.rxmed.com/b.main/b2.pharmaceutical/b2.1.monographs/CPS-%20Monographs/CPS-%20%28General%20Monographs-%20V%29/VISKEN.html</ref>
+
+Pindolol has modest [[beta-adrenergic agonist]] activity and is therefore used with caution in [[angina pectoris]].
+
+==Pharmacology==
+
+===Pharmacodynamics===
+{| class="wikitable floatleft" style="font-size:small;"
+|+ Pindolol<ref name="PDSP">{{cite web | title = PDSP K<sub>i</sub> Database | work = Psychoactive Drug Screening Program (PDSP) | author1 = Roth, BL | author2 = Driscol, J | publisher = University of North Carolina at Chapel Hill and the United States National Institute of Mental Health || format = HTML | accessdate = 14 August 2017 | url = https://pdsp.unc.edu/databases/pdsp.php?knowID=0&kiKey=&receptorDD=&receptor=&speciesDD=&species=&sourcesDD=&source=&hotLigandDD=&hotLigand=&testDDRadio=testDDRadio&testLigandDD=2212&testLigand=&referenceDD=&reference=&KiGreater=&KiLess=&kiAllRadio=all&doQuery=Submit+Query}}</ref>
+|-
+! Site !! K<sub>i</sub> (nM) !! Species !! Ref
+|-
+| '''[[5-HT1A receptor|5-HT<sub>1A</sub>]]''' || '''15–81''' || '''Human''' || <ref name="pmid2078271">{{cite journal | vauthors = Hamon M, Lanfumey L, el Mestikawy S, Boni C, Miquel MC, Bolaños F, Schechter L, Gozlan H | title = The main features of central 5-HT1 receptors | journal = Neuropsychopharmacology | volume = 3 | issue = 5-6 | pages = 349–60 | year = 1990 | pmid = 2078271 | doi = | url = }}</ref><ref name="pmid1565658">{{cite journal | vauthors = Weinshank RL, Zgombick JM, Macchi MJ, Branchek TA, Hartig PR | title = Human serotonin 1D receptor is encoded by a subfamily of two distinct genes: 5-HT1D alpha and 5-HT1D beta | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 89 | issue = 8 | pages = 3630–4 | year = 1992 | pmid = 1565658 | pmc = 48922 | doi = | url = }}</ref><ref name="pmid17804228">{{cite journal | vauthors = Krushinski JH, Schaus JM, Thompson DC, Calligaro DO, Nelson DL, Luecke SH, Wainscott DB, Wong DT | title = Indoloxypropanolamine analogues as 5-HT(1A) receptor antagonists | journal = Bioorg. Med. Chem. Lett. | volume = 17 | issue = 20 | pages = 5600–4 | year = 2007 | pmid = 17804228 | doi = 10.1016/j.bmcl.2007.07.086 | url = }}</ref>
+|-
+| '''[[5-HT1B receptor|5-HT<sub>1B</sub>]]''' || 4,100<br />'''34–151''' || Human<br />'''Rodent''' || <ref name="pmid1565658" /><br /><ref name="PDSP" /><ref name="pmid7984267">{{cite journal | vauthors = Boess FG, Martin IL | title = Molecular biology of 5-HT receptors | journal = Neuropharmacology | volume = 33 | issue = 3-4 | pages = 275–317 | year = 1994 | pmid = 7984267 | doi = | url = }}</ref>
+|-
+| [[5-HT1D receptor|5-HT<sub>1D</sub>]] || 4,900 || Human || <ref name="pmid1565658" />
+|-
+| [[5-HT1E receptor|5-HT<sub>1E</sub>]] || >10,000 || Human || <ref name="pmid1513320">{{cite journal | vauthors = Zgombick JM, Schechter LE, Macchi M, Hartig PR, Branchek TA, Weinshank RL | title = Human gene S31 encodes the pharmacologically defined serotonin 5-hydroxytryptamine1E receptor | journal = Mol. Pharmacol. | volume = 42 | issue = 2 | pages = 180–5 | year = 1992 | pmid = 1513320 | doi = | url = }}</ref>
+|-
+| [[5-HT1F receptor|5-HT<sub>1F</sub>]] || >10,000 || Human || <ref name="pmid8380639">{{cite journal | vauthors = Adham N, Kao HT, Schecter LE, Bard J, Olsen M, Urquhart D, Durkin M, Hartig PR, Weinshank RL, Branchek TA | title = Cloning of another human serotonin receptor (5-HT1F): a fifth 5-HT1 receptor subtype coupled to the inhibition of adenylate cyclase | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 90 | issue = 2 | pages = 408–12 | year = 1993 | pmid = 8380639 | pmc = 45671 | doi = | url = }}</ref>
+|-
+| [[5-HT2A receptor|5-HT<sub>2A</sub>]] || 9,333 || Human || <ref name="pmid15322733">{{cite journal | vauthors = Knight AR, Misra A, Quirk K, Benwell K, Revell D, Kennett G, Bickerdike M | title = Pharmacological characterisation of the agonist radioligand binding site of 5-HT(2A), 5-HT(2B) and 5-HT(2C) receptors | journal = Naunyn Schmiedebergs Arch. Pharmacol. | volume = 370 | issue = 2 | pages = 114–23 | year = 2004 | pmid = 15322733 | doi = 10.1007/s00210-004-0951-4 | url = }}</ref>
+|-
+| [[5-HT2B receptor|5-HT<sub>2B</sub>]] || 2,188 || Human || <ref name="pmid15322733" />
+|-
+| [[5-HT2C receptor|5-HT<sub>2C</sub>]] || >10,000 || Human || <ref name="pmid15322733" />
+|-
+| [[5-HT3 receptor|5-HT<sub>3</sub>]] || ≥6,610 || Multiple || <ref name="pmid9163561">{{cite journal | vauthors = Mos J, Van Hest A, Van Drimmelen M, Herremans AH, Olivier B | title = The putative 5-HT1A receptor antagonist DU125530 blocks the discriminative stimulus of the 5-HT1A receptor agonist flesinoxan in pigeons | journal = Eur. J. Pharmacol. | volume = 325 | issue = 2-3 | pages = 145–53 | year = 1997 | pmid = 9163561 | doi = | url = }}</ref><ref name="pmid3412489">{{cite journal | vauthors = Neijt HC, Karpf A, Schoeffter P, Engel G, Hoyer D | title = Characterisation of 5-HT3 recognition sites in membranes of NG 108-15 neuroblastoma-glioma cells with [3H]ICS 205-930 | journal = Naunyn Schmiedebergs Arch. Pharmacol. | volume = 337 | issue = 5 | pages = 493–9 | year = 1988 | pmid = 3412489 | doi = | url = }}</ref><ref name="pmid3352595">{{cite journal | vauthors = Hoyer D, Neijt HC | title = Identification of serotonin 5-HT3 recognition sites in membranes of N1E-115 neuroblastoma cells by radioligand binding | journal = Mol. Pharmacol. | volume = 33 | issue = 3 | pages = 303–9 | year = 1988 | pmid = 3352595 | doi = | url = }}</ref>
+|-
+| [[5-HT5B receptor|5-HT<sub>5B</sub>]] || >1,000 || Rat || <ref name="pmid8224165">{{cite journal | vauthors = Wisden W, Parker EM, Mahle CD, Grisel DA, Nowak HP, Yocca FD, Felder CC, Seeburg PH, Voigt MM | title = Cloning and characterization of the rat 5-HT5B receptor. Evidence that the 5-HT5B receptor couples to a G protein in mammalian cell membranes | journal = FEBS Lett. | volume = 333 | issue = 1-2 | pages = 25–31 | year = 1993 | pmid = 8224165 | doi = | url = }}</ref>
+|-
+| [[5-HT6 receptor|5-HT<sub>6</sub>]] || >10,000 ({{abbr|–|(–)-Pindolol}}) || Mouse || <ref name="pmid8394987">{{cite journal | vauthors = Plassat JL, Amlaiky N, Hen R | title = Molecular cloning of a mammalian serotonin receptor that activates adenylate cyclase | journal = Mol. Pharmacol. | volume = 44 | issue = 2 | pages = 229–36 | year = 1993 | pmid = 8394987 | doi = | url = }}</ref>
+|-
+| [[5-HT7 receptor|5-HT<sub>7</sub>]] || >10,000 || Human || <ref name="pmid8226867">{{cite journal | vauthors = Bard JA, Zgombick J, Adham N, Vaysse P, Branchek TA, Weinshank RL | title = Cloning of a novel human serotonin receptor (5-HT7) positively linked to adenylate cyclase | journal = J. Biol. Chem. | volume = 268 | issue = 31 | pages = 23422–6 | year = 1993 | pmid = 8226867 | doi = | url = }}</ref><ref name="pmid9298538">{{cite journal | vauthors = Jasper JR, Kosaka A, To ZP, Chang DJ, Eglen RM | title = Cloning, expression and pharmacology of a truncated splice variant of the human 5-HT7 receptor (h5-HT7b) | journal = Br. J. Pharmacol. | volume = 122 | issue = 1 | pages = 126–32 | year = 1997 | pmid = 9298538 | pmc = 1564895 | doi = 10.1038/sj.bjp.0701336 | url = }}</ref>
+|-
+| [[Alpha-1 adrenergic receptor|α<sub>1</sub>]] || 7,585 || Pigeon || <ref name="pmid9163561">{{cite journal | vauthors = Mos J, Van Hest A, Van Drimmelen M, Herremans AH, Olivier B | title = The putative 5-HT1A receptor antagonist DU125530 blocks the discriminative stimulus of the 5-HT1A receptor agonist flesinoxan in pigeons | journal = Eur. J. Pharmacol. | volume = 325 | issue = 2-3 | pages = 145–53 | year = 1997 | pmid = 9163561 | doi = | url = }}</ref>
+|-
+| [[Alpha-2 adrenergic receptor|α<sub>2</sub>]] || {{abbr|ND|No data}} || {{abbr|ND|No data}} || {{abbr|ND|No data}}
+|-
+| '''[[Beta-1 adrenergic receptor|β<sub>1</sub>]]''' || '''0.52–2.6''' || '''Human''' || <ref name="pmid17804228" /><ref name="pmid14730417">{{cite journal | vauthors = Hoffmann C, Leitz MR, Oberdorf-Maass S, Lohse MJ, Klotz KN | title = Comparative pharmacology of human beta-adrenergic receptor subtypes--characterization of stably transfected receptors in CHO cells | journal = Naunyn Schmiedebergs Arch. Pharmacol. | volume = 369 | issue = 2 | pages = 151–9 | year = 2004 | pmid = 14730417 | doi = 10.1007/s00210-003-0860-y | url = }}</ref>
+|-
+| '''[[Beta-2 adrenergic receptor|β<sub>2</sub>]]''' || '''0.40–4.8''' || '''Human''' || <ref name="pmid17804228" /><ref name="pmid14730417" />
+|-
+| '''[[Beta-3 adrenergic receptor|β<sub>3</sub>]]''' || '''44''' || '''Human''' || <ref name="pmid14730417" />
+|-
+| [[D2-like receptor|D<sub>2</sub>-like]] || >10,000 || Rat || <ref name="pmid11044891">{{cite journal | vauthors = Luedtke RR, Freeman RA, Boundy VA, Martin MW, Huang Y, Mach RH | title = Characterization of (125)I-IABN, a novel azabicyclononane benzamide selective for D2-like dopamine receptors | journal = Synapse | volume = 38 | issue = 4 | pages = 438–49 | year = 2000 | pmid = 11044891 | doi = 10.1002/1098-2396(20001215)38:4<438::AID-SYN9>3.0.CO;2-5 | url = }}</ref>
+|-
+| &nbsp;&nbsp;[[Dopamine D2 receptor|D<sub>2</sub>]] || >10,000 || Pigeon || <ref name="pmid9163561" />
+|-
+| &nbsp;&nbsp;[[Dopamine D3 receptor|D<sub>3</sub>]] || >10,000 || Pigeon || <ref name="pmid9163561" />
+|- class="sortbottom"
+| colspan="4" style="width: 1px;" | Values are K<sub>i</sub> (nM), unless otherwise noted. The smaller the value, the more strongly the drug binds to the site.
+|}
+
+Pindolol is a [[binding selectivity|non-selective]] [[beta blocker]] or [[β-adrenergic receptor]] [[receptor antagonist|antagonist]] with [[partial agonist]] activity and also possesses [[Beta blocker#Intrinsic sympathomimetic activity|intrinsic sympathomimetic activity]]. This means that pindolol, particularly in high doses, exerts effects like [[epinephrine]] (adrenaline) or [[isoprenaline]] (increased pulse rate, increased blood pressure, bronchodilation), but these effects are limited. Pindolol also shows [[membrane-stabilizing effect]]s like [[quinidine]], possibly accounting for its antiarrhythmic effects. It also acts as a [[serotonin]] [[5-HT1A receptor|5-HT<sub>1A</sub> receptor]] weak [[partial agonist]] ([[intrinsic activity]] = 20–25%) or functional [[receptor antagonist|antagonist]].<ref name="pmid16475955">{{cite journal | vauthors = Artigas F, Adell A, Celada P | title = Pindolol augmentation of antidepressant response | journal = Curr Drug Targets | volume = 7 | issue = 2 | pages = 139–47 | year = 2006 | pmid = 16475955 | doi = | url = }}</ref>
+
+===Pharmacokinetics===
+Pindolol is rapidly and well absorbed from the GI tract. It undergoes some first-pass-metabolization leading to an oral bioavailability of 50-95%. Patients with uremia may have a reduced bioavailability. Food does not alter the bioavailability, but may increase the resorption. Following an oral single dose of 20&nbsp;mg peak plasma concentrations are reached within 1-2 hours. The effect of pindolol on pulse rate (lowering) is evident after 3 hours. Despite the rather short halflife of 3-4 hours, hemodynamic effects persist for 24 hours after administration. Plasma halflives are increased to 3-11.5 hours in patients with renal impairment, to 7-15 hours in elderly patients, and from 2.5-30 hours in patients with liver cirrhosis. Approximately 2/3 of pindolol is metabolized in the liver giving hydroxylates, which are found in the urine as gluconurides and ethereal sulfates. The remaining 1/3 of pindolol is excreted in urine in unchanged form.
+
+==History==
+Pindolol was patented by [[Sandoz]] in 1966 and was launched in the US in 1977.<ref>"Discovery and Development of Major Drugs. Chapter 2 in Pharmaceutical Innovation: Revolutionizing Human Health. Volume 2 of Chemical Heritage Foundation series in innovation and entrepreneurship. Eds Ralph Landau, Basil Achilladelis, Alexander Scriabine. Chemical Heritage Foundation, 1999. {{ISBN|9780941901215}} [https://books.google.com/books?id=IH4lPs6S1bMC&pg=PA185 p 185]</ref>
+
+==Research==
+
+===Depression===
+Pindolol has been investigated as an [[adjunct therapy|add-on drug]] to [[antidepressant]] therapy with SSRIs like [[fluoxetine]] in the treatment of [[depression (mood)|depression]] since 1994.<ref name="pmid25689398" /> The rationale behind this strategy has its basis in the fact that pindolol is an antagonist of the serotonin 5-HT<sub>1A</sub> receptor.<ref name="pmid23757185">{{cite journal | vauthors = Celada P, Bortolozzi A, Artigas F | title = Serotonin 5-HT1A receptors as targets for agents to treat psychiatric disorders: rationale and current status of research | journal = CNS Drugs | volume = 27 | issue = 9 | pages = 703–16 | year = 2013 | pmid = 23757185 | doi = 10.1007/s40263-013-0071-0 | url = }}</ref> [[Presynaptic]] and [[somatodendritic]] 5-HT<sub>1A</sub> receptors act as [[inhibitory postsynaptic potential|inhibitory]] [[autoreceptor]]s, inhibit [[serotonin]] [[neurotransmitter release|release]], and are pro-depressive in their action.<ref name="pmid23757185" /> This is in contrast to postsynaptic 5-HT<sub>1A</sub> receptors, which mediate antidepressant effects.<ref name="pmid23757185" /> By blocking 5-HT<sub>1A</sub> autoreceptors at doses that are [[binding selectivity|selective]] for them over postsynaptic 5-HT<sub>1A</sub> receptors, pindolol may be able to disinhibit serotonin release and thereby improve the antidepressant effects of SSRIs.<ref name="pmid23757185" /> The results of augmentation therapy with pindolol have been encouraging in early studies of low quality.<ref name="pmid9635544">{{cite journal | vauthors = Blier P, Bergeron R | title = The use of pindolol to potentiate antidepressant medication | journal = J Clin Psychiatry | volume = 59 Suppl 5 | issue = | pages = 16–23; discussion 24–5 | year = 1998 | pmid = 9635544 | doi = | url = }}</ref> However, a 2015 [[systematic review]] and [[meta-analysis]] of five [[randomized controlled trial]]s found no overall significant benefit.<ref name="pmid25689398">{{cite journal | vauthors = Liu Y, Zhou X, Zhu D, Chen J, Qin B, Zhang Y, Wang X, Yang D, Meng H, Luo Q, Xie P | title = Is pindolol augmentation effective in depressed patients resistant to selective serotonin reuptake inhibitors? A systematic review and meta-analysis | journal = Hum Psychopharmacol | volume = 30 | issue = 3 | pages = 132–42 | year = 2015 | pmid = 25689398 | doi = 10.1002/hup.2465 | url = }}</ref> There were also no significant differences in [[tolerability]] or [[drug safety|safety]].<ref name="pmid25689398" /> Pindolol may be able to accelerate the onset of the antidepressant effects of SSRIs, however.<ref name="pmid23757185" />
+
+===Others===
+* Pindolol is a potent scavenger of [[nitric oxide]]. This effect is potentiated by [[sodium bicarbonate]]. Inhibition of nitric oxide synthesis has an anxiolytic effect in animals.<ref>{{cite journal | url = http://www.sciencedirect.com/science/article/pii/S0024320505004145 | doi=10.1016/j.lfs.2005.02.018 | volume=77 | title=Pindolol is a potent scavenger of reactive nitrogen species | journal=Life Sciences | pages=1983–1992 | pmid=15916777 | last1 = Fernandes | first1 = E | last2 = Gomes | first2 = A | last3 = Costa | first3 = D | last4 = Lima | first4 = JL}}</ref>
+* Augmentation therapy of [[premature ejaculation]]: According to a recent study, pindolol can be effectively added to a standard anti-premature-ejaculation therapy, which usually consists of daily doses of an SSRI antidepressant such as fluoxetine or paroxetine. Augmentation of pindolol results in substantial increase of ejaculatory latency, even in those who previously did not experience in an improvement with the SSRI monotherapy.<ref>{{cite journal | last1 = Safarinejad | first1 = MR | title = Once-daily high-dose pindolol for paroxetine-refractory premature ejaculation: a double-blind, placebo-controlled and randomized study. | journal = Journal of Clinical Psychopharmacology | volume = 28 | issue = 1 | pages = 39–44 | year = 2008 | pmid = 18204339 | doi = 10.1097/jcp.0b013e31816073a5}}</ref>
+
+==See also==
+* [[Bopindolol]]
+
+==References==
+{{Reflist|2}}
+
+
+{{Beta blockers}}
+{{Adrenergic receptor modulators}}
+{{Serotonin receptor modulators}}
+
+[[Category:5-HT1A antagonists]]
+[[Category:Antidepressants]]
+[[Category:Antihypertensive agents]]
+[[Category:Beta blockers]]
+[[Category:Ethers]]
+[[Category:Indoles]]
+[[Category:Secondary alcohols]]

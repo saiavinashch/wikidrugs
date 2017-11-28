@@ -1,0 +1,70 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 470473700
+| IUPAC_name = 4-amino-''N''-(2,6-dimethylpyrimidin-4-yl)<br>benzenesulfonamide
+| image = Sulfisomidine.svg
+| image2 = Sulfisomidine ball-and-stick.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism = Minor [[acetylation]]
+| elimination_half-life =  
+| excretion = [[Kidney|Renal]], 85%
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 515-64-0
+| ATC_prefix = J01
+| ATC_suffix = EB01
+| PubChem = 5343
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5150
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = W03L3ODK6E
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01526
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 32166
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 485696
+
+<!--Chemical data-->
+| C=12 | H=14 | N=4 | O=2 | S=1 
+| molecular_weight = 278.331 g/mol
+| smiles = O=S(=O)(Nc1nc(nc(c1)C)C)c2ccc(N)cc2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C12H14N4O2S/c1-8-7-12(15-9(2)14-8)16-19(17,18)11-5-3-10(13)4-6-11/h3-7H,13H2,1-2H3,(H,14,15,16)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YZMCKZRAOLZXAZ-UHFFFAOYSA-N
+}}
+'''Sulfisomidine''' ([[International Nonproprietary Name|INN]]), also known as '''sulphasomidine''' ([[British Approved Name|BAN]] until 2003),<ref>
+{{cite web|url= https://web.archive.org/web/20050827062201/medicines.mhra.gov.uk/inforesources/productinfo/banslist.pdf  |title=Changing substance names from BANs to rINNs. }}&nbsp;{{small|(34.5&nbsp;[[Kibibyte|KiB]])}}. [[United Kingdom]] [[Medicines and Healthcare products Regulatory Agency]] (December 12, 2003). Retrieved on 2007-08-26 through [[Archive.org]].</ref> '''sulfamethin''' and '''sulfaisodimidine''', is a [[sulfonamide (medicine)|sulfonamide]] [[antibacterial]]. It is closely related to [[sulfadimidine]].
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{cite journal |vauthors=Melander A, Bitzén PO, Olsson S |title=Therapeutic equivalence of sulfaisodimidine 2 g twice daily and 1 g four times daily in lower urinary tract infections |journal=Acta medica Scandinavica |volume=211 |issue=5 |pages=361–4 |year=1982 |pmid=7051761 |doi=10.1111/j.0954-6820.1982.tb01962.x}}
+
+{{Sulfonamides and trimethoprim}}
+
+[[Category:Sulfonamide antibiotics]]
+[[Category:Pyrimidines]]
+
+
+{{antibiotic-stub}}

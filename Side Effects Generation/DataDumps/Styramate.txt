@@ -1,0 +1,64 @@
+{{Drugbox
+| verifiedrevid = 447817592
+| IUPAC_name = (2-hydroxy-2-phenylethyl) carbamate
+| image = styramate.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 94-35-9
+| ATC_prefix = M03
+| ATC_suffix = BA04
+| PubChem = 7186
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = CBK7Y28SP3
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07274
+|  ChemSpiderID = 6918
+
+
+<!--Chemical data-->
+| C=9 | H=11 | N=1 | O=3 
+| molecular_weight = 181.189 g/mol
+| smiles = C1=CC=CC=C1C(COC(=O)N)O
+|  StdInChI = 1S/C9H11NO3/c10-9(12)13-6-8(11)7-4-2-1-3-5-7/h1-5,8,11H,6H2,(H2,10,12)
+|  StdInChIKey = OCSOHUROTFFTFO-UHFFFAOYSA-N
+}}
+
+'''Styramate''' is a [[muscle relaxant]] and [[anticonvulsant]] drug. At therapeutic doses, it does not produce significant [[sedative]] effects.
+
+==See also==
+* [[Carisbamate]]
+
+==External links==
+* {{cite journal |author1=S De Salva |author2=R Evans. | title = Anticonvulsive character of styramate and other depressant drugs | journal = [[Toxicology and Applied Pharmacology]] | volume = 2 | issue = 4 | pages = 397–402| year = 1960  | pmid = 13815010| doi = 10.1016/0041-008X(60)90006-5}}
+* {{cite journal |author1=B.W. Billow |author2=F.J. Martorella |author3=S.S. Paley. | title = Clinical experiences with styramate, a nonsedative skeletal muscle relaxant | journal = Int Rec Med | volume = 173 | issue =   | pages = 35–38| year = Jan 1960 | pmid = 13800722}}
+
+{{Muscle relaxants}}
+{{GABAAR PAMs}}
+
+[[Category:Carbamates]]
+[[Category:GABAA receptor positive allosteric modulators]]
+
+
+{{musculoskeletal-drug-stub}}

@@ -1,0 +1,97 @@
+{{Drugbox
+| verifiedrevid = 462252883
+| IUPAC_name = 1,4-dihydroxy-5,8-bis[2-(2-hydroxyethylamino)<br>ethylamino]-anthracene-9,10-dione
+| image = Mitoxantrone skeletal.svg
+| image2 = Mitoxantrone ball-and-stick.png
+<!--Clinical data-->
+| tradename = Novantrone
+| Drugs.com = {{drugs.com|monograph|mitoxantrone-hydrochloride}}
+| MedlinePlus = a608019
+| pregnancy_US = D
+| legal_status = Rx-only
+| routes_of_administration = Mainly [[Intravenous therapy|intravenous]]
+<!--Pharmacokinetic data-->
+| bioavailability = n/a
+| protein_bound = 78%
+| metabolism = [[Liver|Hepatic]] ([[CYP2E1]])
+| elimination_half-life = 75 hours
+| excretion = [[Renal]]
+<!--Identifiers-->
+| IUPHAR_ligand = 7242
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 65271-80-9
+| ATC_prefix = L01
+| ATC_suffix = DB07
+| PubChem = 4212
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01204
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4067
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = BZ114NVM5P
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08224
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 50729
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 58
+| PDB_ligand = MIX
+<!--Chemical data-->
+| C=22 | H=28 | N=4 | O=6
+| molecular_weight = 444.481 g/mol
+| SMILES = O=C2c1c(c(NCCNCCO)ccc1NCCNCCO)C(=O)c3c2c(O)ccc3O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H28N4O6/c27-11-9-23-5-7-25-13-1-2-14(26-8-6-24-10-12-28)18-17(13)21(31)19-15(29)3-4-16(30)20(19)22(18)32/h1-4,23-30H,5-12H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = KKZJGLLVHKMTCM-UHFFFAOYSA-N
+}}
+'''Mitoxantrone''' (INN, BAN, USAN; also known as '''Mitozantrone''' in Australia; trade name '''Novantrone''') is an [[anthracenedione]] [[antineoplastic]] agent.
+
+==Uses==
+Mitoxantrone is used to treat certain types of cancer, mostly [[metastasis|metastatic]] [[breast cancer]], [[acute myeloid leukemia]], and [[non-Hodgkin's lymphoma]]. It improves the survival rate of children suffering from [[acute lymphoblastic leukemia]] relapse.<ref name="Parker">{{cite journal |vauthors=Parker C, Waters R, Leighton C, Hancock J, Sutton R, Moorman AV, Ancliff P, Morgan M, Masurekar A, Goulden N, Green N, Révész T, Darbyshire P, Love S, Saha V |title=Effect of mitoxantrone on outcome of children with first relapse of acute lymphoblastic leukaemia (ALL R3): an open-label randomised trial |journal=Lancet |volume= 376|issue= 9757|pages= 2009–2017|year=2010 |pmid=21131038 |doi=10.1016/S0140-6736(10)62002-8 |pmc=3010035}}</ref>
+
+The combination of mitoxantrone and [[prednisone]] is approved as a second-line treatment for metastatic hormone-refractory [[prostate cancer]]. Until recently this combination was the first line of treatment; however, a combination of [[docetaxel]] and prednisone improves survival rates and lengthens the disease-free period.<ref>{{cite book |chapter=Cancer Chemotherapy |author=Katzung, Bertram G. |title=Basic and clinical pharmacology |publisher=McGraw-Hill Medical Publishing Division |location=New York |year=2006 |isbn=0-07-145153-6 |edition=10th |oclc=157011367}}</ref>
+ 
+Mitoxantrone is also used to treat [[multiple sclerosis]] (MS), most notably the [[Multiple sclerosis#Clinical course|subset of the disease]] known as secondary-progressive MS. Absent a cure mitoxantrone is effective in slowing the progression of secondary-progressive MS and extending the time between relapses in both relapsing-remitting MS and progressive-relapsing MS.<ref name="Fox">{{cite journal |author=Fox E |title=Management of worsening multiple sclerosis with mitoxantrone: a review |journal=Clin Ther |volume=28 |issue=4 |pages=461–74 |year=2006 |pmid=16750460 |doi=10.1016/j.clinthera.2006.04.013}}</ref>
+
+==Side effects==
+Mitoxantrone, as with other drugs in its class,  may cause [[adverse drug reaction|adverse reactions]] of varying severity, including [[nausea]], [[vomiting]], [[hair loss]], heart damage and [[immunosuppression]], possibly with delayed onset. [[Cardiomyopathy]] is a particularly concerning effect as it is irreversible; thus regular monitoring with [[echocardiogram]]s or [[MUGA scan]]s is recommended for patients.
+
+Because of the risk of cardiomyopathy, mitoxantrone carries a limit on the cumulative lifetime dose (based on body surface area) in MS patients.<ref name="FDA Postmarket Drug Safety">{{cite web|title=Mitoxantrone Hydrochloride (marketed as Novantrone and generics) – Healthcare Professional Sheet text version|url=http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm126445.htm|publisher=U.S. Food and Drug Administration|accessdate=19 September 2014|ref=fdapostmarket}}</ref>
+
+==Mechanism of action==
+[[File:4g0v mix.png|thumb|center|Human topoisomerase II beta in complex with DNA and mitoxantrone. PDB entry {{PDBe|4g0v}}.<ref>{{Cite journal 
+| last1 = Wu | first1 = C. -C. 
+| last2 = Li | first2 = Y. -C. 
+| last3 = Wang | first3 = Y. -R. 
+| last4 = Li | first4 = T. -K. 
+| last5 = Chan | first5 = N. -L. 
+| title = On the structural basis and design guidelines for type II topoisomerase-targeting anticancer drugs 
+| doi = 10.1093/nar/gkt828 
+| journal = Nucleic Acids Research 
+| volume = 41 
+| issue = 22 
+| pages = 10630–10640 
+| year = 2013 
+| pmid = 24038465 
+| pmc = 
+}}</ref> Detail showing mitoxantrone (spheres) intercalated with DNA.]]
+
+Mitoxantrone is a [[type II topoisomerase]] [[topoisomerase inhibitor|inhibitor]]; it disrupts [[DNA synthesis]] and [[DNA repair]] in both healthy cells and cancer cells by [[Intercalation (biochemistry)|intercalation]]<ref name="pmid">{{cite journal |vauthors=Mazerski J, Martelli S, Borowski E |title=The geometry of intercalation complex of antitumor mitoxantrone and ametantrone with DNA: molecular dynamics simulations |journal=Acta Biochim. Pol. |volume=45 |issue=1 |pages=1–11 |year=1998 |pmid= 9701490|doi= |url=}}</ref> between DNA bases.
+
+==See also==
+* [[Pixantrone]], a mitoxantrone [[analog (chemistry)|analogue]] under development
+* [[Losoxantrone]]
+
+==References==
+{{Reflist}}
+
+{{Chemotherapeutic agents}}
+
+[[Category:Topoisomerase inhibitors]]
+[[Category:IARC Group 2B carcinogens]]
+[[Category:Alcohols]]
+[[Category:Aromatic amines]]
+[[Category:Dihydroxyanthraquinones]]
+[[Category:Hydroquinones]]
+[[Category:DNA intercalaters]]

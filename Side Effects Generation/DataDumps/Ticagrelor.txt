@@ -1,0 +1,150 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 443228756
+| IUPAC_name = (1''S'',2''S'',3''R'',5''S'')-3-[7-[(1''R'',2''S'')-2-(3,4-Difluorophenyl)cyclopropylamino]-5-(propylthio)- 3''H''-[1,2,3]triazolo[4,5-''d'']pyrimidin-3-yl]-5-(2-hydroxyethoxy)cyclopentane-1,2-diol
+| image = Ticagrelor.svg
+| width = 200
+| image2 = Ticagrelor ball-and-stick animation.gif
+
+<!--Clinical data-->
+| tradename = Brilinta, Brilique, Possia
+| Drugs.com = {{drugs.com|monograph|Ticagrelor}}
+| MedlinePlus       = a611050
+| licence_EU = Brilique
+| licence_US = Ticagrelor
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = C
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = by mouth
+
+<!--Pharmacokinetic data-->
+| bioavailability = 36%
+| protein_bound = >99.7%
+| metabolism = [[Hepatic]] ([[CYP3A4]])
+| elimination_half-life = 7 hrs (ticagrelor), 8.5 hrs ([[active metabolite]] AR-C124910XX)
+| excretion = [[Biliary]]
+
+<!--Identifiers-->
+| IUPHAR_ligand = 1765
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 274693-27-5
+| ATC_prefix = B01
+| ATC_suffix = AC24
+| ATC_supplemental =  
+| PubChem = 9871419
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = GLH0314RVC
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D09017
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 398435
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=23 | H=28 | F=2 | N=6 | O=4 | S=1 
+| molecular_weight = 522.567 g/mol
+| smiles = CCCSC1=NC(=C2C(=N1)N(N=N2)[C@@H]3C[C@@H]([C@H]([C@H]3O)O)OCCO)N[C@@H]4C[C@H]4C5=CC(=C(C=C5)F)F
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C23H28F2N6O4S/c1-2-7-36-23-27-21(26-15-9-12(15)11-3-4-13(24)14(25)8-11)18-22(28-23)31(30-29-18)16-10-17(35-6-5-32)20(34)19(16)33/h3-4,8,12,15-17,19-20,32-34H,2,5-7,9-10H2,1H3,(H,26,27,28)/t12-,15+,16+,17-,19-,20+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = OEKWJQXRCDYSHL-FNOIDJSQSA-N
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 8047109
+| synonyms = AZD-6140
+}}
+'''Ticagrelor''' (trade name '''Brilinta''', '''Brilique''', and '''Possia''') is a [[platelet aggregation inhibitor]] produced by [[AstraZeneca]].
+
+Ticagrelor is an antagonist of the [[P2Y12|P2Y<sub>12</sub>]] receptor.<ref>{{cite journal|last=Jacobson|first=Kenneth A.|author2=Boeynaems, Jean-Marie |title=P2Y nucleotide receptors: promise of therapeutic applications|journal=Drug Discovery Today|date=July 2010|volume=15|issue=13–14|pages=570–578|doi=10.1016/j.drudis.2010.05.011|url=http://www.sciencedirect.com/science/article/pii/S1359644610001807|pmid=20594935|pmc=2920619}}</ref>
+
+The drug was approved for use in the [[European Union]] by the [[European Commission]] on December 3, 2010.<ref name="EPAR Brilique">{{cite web|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Public_assessment_report/human/001241/WC500100492.pdf|title=Assessment Report for Brilique|publisher=[[European Medicines Agency]]|date=January 2011}}</ref><ref>[http://www.ema.europa.eu/ema/index.jsp?curl=pages/medicines/human/medicines/002303/human_med_001399.jsp&murl=menus/medicines/medicines.jsp&mid=WC0b01ac058001d125 European Public Assessment Report Possia]</ref> The drug was approved by the US [[Food and Drug Administration]] on July 20, 2011.<ref>{{cite web|url=http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm263964.htm|title=FDA approves blood-thinning drug Brilinta to treat acute coronary syndromes|publisher=FDA|date=20 July 2011}}</ref>
+
+==Medical uses==
+Ticagrelor is used for the prevention of thrombotic events (for example [[stroke]] or [[heart attack]]) in people with [[acute coronary syndrome]] or myocardial infarction with [[ST elevation]]. The drug is combined with [[acetylsalicylic acid]] unless the latter is contraindicated.<ref name="AustriaCodex">{{cite book|title=Austria-Codex|editor=Haberfeld, H|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2010|edition=2010/2011|language=German}}</ref> There is no high quality evidence for the use of ticagrelor before [[percutaneous coronary intervention]] (PCI) in non-ST elevation acute coronary syndrome.<ref name=BMJP2Y12>{{cite journal|last1=Bellemain-Appaix|first1=A.|last2=Kerneis|first2=M.|last3=O'Connor|first3=S. A.|last4=Silvain|first4=J.|last5=Cucherat|first5=M.|last6=Beygui|first6=F.|last7=Barthelemy|first7=O.|last8=Collet|first8=J.-P.|last9=Jacq|first9=L.|last10=Bernasconi|first10=F.|last11=Montalescot|first11=G.|title=Reappraisal of thienopyridine pretreatment in patients with non-ST elevation acute coronary syndrome: a systematic review and meta-analysis|journal=BMJ|date=24 October 2014|volume=349|pages=g6269–g6269|doi=10.1136/bmj.g6269|pmid=25954988|pmc=4208629}}</ref>
+
+The FDA indication for ticagrelor is reduction of the rate of cardiovascular death, myocardial infarction (MI), and stroke in people with acute coronary syndrome or history of myocardial infarction.{{citation needed|date=November 2015}}
+
+AHA/ACC Guidelines (09/2014) state: "It is reasonable to choose ticagrelor over [[clopidogrel]] for P2Y12 inhibition treatment in patients with NSTE-ACS treated with early invasive strategy and/or coronary stenting".
+
+Ticagrelor was found to be comparable to acetylsalicylic acid in people with acute ischemic stroke or [[transient ischemic attack]].<ref>{{cite journal|last1=Johnston|first1=S. Claiborne|last2=Amarenco|first2=Pierre|last3=Albers|first3=Gregory W.|last4=Denison|first4=Hans|last5=Easton|first5=J. Donald|last6=Evans|first6=Scott R.|last7=Held|first7=Peter|last8=Jonasson|first8=Jenny|last9=Minematsu|first9=Kazuo|last10=Molina|first10=Carlos A.|last11=Wang|first11=Yongjun|last12=Wong|first12=K.S. Lawrence|title=Ticagrelor versus Aspirin in Acute Stroke or Transient Ischemic Attack|journal=New England Journal of Medicine|date=7 July 2016|volume=375|issue=1|pages=35–43|doi=10.1056/NEJMoa1603060}}</ref>
+
+==Contraindications==
+Contraindications for ticagrelor are: active pathological bleeding and a history of [[intracranial bleeding]], as well as reduced [[liver]] function and combination with drugs that strongly influence activity of the liver enzyme [[CYP3A4]], because the drug is metabolized via CYP3A4 and excreted via the liver.<ref name="AustriaCodex" />
+
+==Adverse effects==
+The most common side effects are [[shortness of breath]] (dyspnea, 14%)<ref>[http://www1.astrazeneca-us.com/pi/brilinta.pdf Brilinta: Highlights of prescribing information]</ref> and various types of bleeding, such as [[hematoma]], [[nosebleed]], [[gastrointestinal]], [[Subcutaneous tissue|subcutaneous]] or [[dermal]] bleeding. Ventricular pauses of 3 seconds occur in 5 percent of people in the first week of treatment. Ticagrelor should be administered with caution or avoided in patients with advanced sinoauricular disease.<ref>6</ref> Allergic skin reactions such as [[rash]] and [[itching]] have been observed in less than 1% of patients.<ref name="AustriaCodex" />
+
+==Interactions==
+Inhibitors of the liver enzyme CYP3A4, such as [[ketoconazole]] and possibly [[grapefruit juice]], increase [[blood plasma]] levels of ticagrelor and consequently can lead to bleeding and other adverse effects. Conversely, drugs that are metabolized by CYP3A4, for example [[simvastatin]], show increased plasma levels and more side effects if combined with ticagrelor. CYP3A4 inductors, for example [[rifampicin]] and possibly [[St. John's wort]], can reduce the effectiveness of ticagrelor. There is no evidence for interactions via [[CYP2C9]].
+
+The drug also inhibits [[P-glycoprotein]] (P-gp), leading to increased plasma levels of [[digoxin]], [[ciclosporin]] and other P-gp substrates. Levels of ticagrelor and AR-C124910XX (the active metabolite of ticagrelor formed by O-deethylation<ref>{{cite journal|last1=Teng|first1=R|last2=Oliver|first2=S|last3=Hayes|first3=MA|last4=Butler|first4=K|title=Absorption, distribution, metabolism, and excretion of ticagrelor in healthy subjects.|journal=Drug metabolism and disposition: the biological fate of chemicals|date=September 2010|volume=38|issue=9|pages=1514–21|pmid=20551239|doi=10.1124/dmd.110.032250}}</ref>) are not significantly influenced by P-gp inhibitors.<ref name="AustriaCodex" />
+
+In the US a boxed warning states that use of ticagrelor with aspirin doses exceeding 100&nbsp;mg/day decreases the effectiveness of the medication.<ref name="urlAstraZeneca: Ticagrelor (Brilinta) Gains FDA Approval ? CardioBrief">{{cite web | url = http://cardiobrief.org/2011/07/20/astrazeneca-ticagrelor-brilinta-gains-fda-approval/ | title = AstraZeneca: Ticagrelor (Brilinta) Gains FDA Approval ? | author = Husten L | date = July 20, 2011 | format = | work = CardioBrief | publisher = Blog at WordPress.com }}</ref>
+
+==Chemistry==
+Ticagrelor is a [[nucleoside]] analogue: the cyclopentane ring is similar to the [[sugar]] [[ribose]], and the nitrogen rich [[aromatic ring]] system resembles the [[nucleobase]] [[purine]], giving the molecule an overall similarity to [[adenosine]]. The substance has low solubility and low permeability under the [[Biopharmaceutics Classification System]].<ref name="EPAR Brilique" />
+{|
+|-
+|[[File:Ticagrelor.svg|thumb|x160px|Ticagrelor as a [[nucleoside]] analogue]]
+|[[File:Adenosin.svg|thumb|x160px|The nucleoside [[adenosine]] for comparison]]
+|}
+
+==Pharmacokinetics==
+Ticagrelor is absorbed quickly from the gut, the bioavailability being 36%, and reaches its peak concentration after about 1.5 hours. The main metabolite, AR-C124910XX, is formed quickly via CYP3A4 by de-hydroxyethylation at position 5 of the cyclopentane ring.<ref name="pmid20551239">{{cite journal |vauthors=Teng R, Oliver S, Hayes MA, Butler K | title = Absorption, distribution, metabolism, and excretion of ticagrelor in healthy subjects | journal = Drug Metab. Dispos. | volume = 38 | issue = 9 | pages = 1514–21 |date=September 2010 | pmid = 20551239 | doi = 10.1124/dmd.110.032250 }}</ref>  It peaks after about 2.5 hours. Both ticagrelor and AR-C124910XX are bound to plasma proteins (>99.7%), and both are pharmacologically active. Blood plasma concentrations are linearly dependent on the dose up to 1260&nbsp;mg (the sevenfold daily dose). The metabolite reaches 30–40% of ticagrelor's plasma concentrations. Drug and metabolite are mainly excreted via [[bile]] and [[feces]].
+
+Plasma concentrations of ticagrelor are slightly increased (12–23%) in elderly patients, women, patients of [[Asian ethnicity]], and patients with mild hepatic impairment. They are decreased in patients that described themselves as 'coloured' and those with severe renal impairment. These differences are considered clinically irrelevant. In [[Japanese people]], concentrations are 40% higher than in [[Caucasian race|Caucasians]], or 20% after body weight correction. The drug has not been tested in patients with severe hepatic impairment.<ref name="AustriaCodex" />
+
+== Mechanism of action ==
+Like the [[thienopyridine]]s [[prasugrel]], [[clopidogrel]] and [[ticlopidine]], ticagrelor blocks [[ADP receptor|adenosine diphosphate (ADP) receptor]]s of subtype [[P2Y12|P2Y<sub>12</sub>]]. In contrast to the other antiplatelet drugs, ticagrelor has a binding site different from ADP, making it an [[allosteric]] antagonist, and the blockage is reversible.<ref name="pmid22282698">{{cite journal |vauthors=Birkeland K, Parra D, Rosenstein R | title = Antiplatelet therapy in acute coronary syndromes: focus on ticagrelor | journal = J Blood Med | volume = 1 | issue = | pages = 197–219 | year = 2010 | pmid = 22282698 | pmc = 3262315 | doi = 10.2147/JBM.S9650 }}</ref> Moreover, the drug does not need [[hepatic]] activation, which might work better for patients with genetic variants regarding the enzyme [[CYP2C19]] (although it is not certain whether clopidogrel is significantly influenced by such variants).<ref>{{cite journal
+ | author = Spreitzer H
+ | date = February 4, 2008
+ | title = Neue Wirkstoffe - AZD6140
+ | journal = Österreichische Apothekerzeitung
+ | issue = 3/2008
+ | pages = 135
+ | language = German
+}}</ref><ref>{{cite journal
+ |vauthors=Owen RT, Serradell N, Bolos J | title = AZD6140
+ | journal = Drugs of the Future
+ | year = 2007
+ | volume = 32
+ | issue = 10
+ | pages = 845–853
+ | doi = 10.1358/dof.2007.032.10.1133832
+}}</ref><ref name="pmid21079055">{{MEDRS|date=October 2013}}  {{cite journal |vauthors=Tantry US, Bliden KP, Wei C, Storey RF, Armstrong M, Butler K, Gurbel PA | title = First analysis of the relation between CYP2C19 genotype and pharmacodynamics in patients treated with ticagrelor versus clopidogrel: the ONSET/OFFSET and RESPOND genotype studies | journal = Circ Cardiovasc Genet | volume = 3 | issue = 6 | pages = 556–66 |date=December 2010 | pmid = 21079055 | doi = 10.1161/CIRCGENETICS.110.958561 }}</ref>
+
+=== Comparison with clopidogrel ===
+The PLATO trial<ref name="pmid20079528">{{MEDRS|date=October 2013}} {{cite journal |vauthors=Cannon CP, Harrington RA, James S, Ardissino D, Becker RC, Emanuelsson H, Husted S, Katus H, Keltai M, Khurmi NS, Kontny F, Lewis BS, Steg PG, Storey RF, Wojdyla D, Wallentin L | title = Comparison of ticagrelor with clopidogrel in patients with a planned invasive strategy for acute coronary syndromes (PLATO): a randomised double-blind study | journal = Lancet | volume = 375 | issue = 9711 | pages = 283–93 |date=January 2010 | pmid = 20079528 | doi = 10.1016/S0140-6736(09)62191-7 }}</ref> found that ticagrelor had better [[mortality rate]]s than clopidogrel (9.8% vs. 11.7%, [[p-value|p]]<0.001) in treating patients with [[acute coronary syndrome]]. Patients given ticagrelor were less likely to die from vascular causes, heart attack, or stroke but had greater chances of non-lethal bleeding (16.1% vs. 14.6%, p=0.0084) and higher rate of major bleeding not related to coronary-artery bypass grafting (4.5% vs. 3.8%, p=0.03). While the patient group on ticagrelor had more instances of fatal intracranial bleeding, there were significantly fewer cases of fatal non-intracranial bleeding, leading to an overall neutral effect on fatal or life-threatening bleeding vs. clopidogrel (p=0.70). Rates of major bleeding were not different. Discontinuation of the study drug due to adverse events occurred more frequently with ticagrelor than with clopidogrel (in 7.4% of patients vs. 6.0%, p<0.001).<ref name="Wallentin">{{MEDRS|date=October 2013}}  {{cite journal |vauthors=Wallentin L, Becker RC, Budaj A, Cannon CP, Emanuelsson H, Held C, Horrow J, Husted S, James S, Katus H, Mahaffey KW, Scirica BM, Skene A, Steg PG, Storey RF, Harrington RA, Freij A, Thorsén M | title = Ticagrelor versus clopidogrel in patients with acute coronary syndromes | journal = N. Engl. J. Med. | volume = 361 | issue = 11 | pages = 1045–57 |date=September 2009 | pmid = 19717846 | doi = 10.1056/NEJMoa0904327 }}</ref>
+
+The PLATO trial showed a statistically insignificant trend toward worse outcomes with ticagrelor versus clopidogrel among US patients in the study – who comprised 1800 of the total 18,624 patients. The HR  actually reversed for the composite end point cardiovascular (death, MI, or stroke): 12.6% for patients given ticagrelor and 10.1% for patients given clopidogrel (HR = 1.27). Some believe the results could be due to differences in aspirin maintenance doses, which are higher in the United States.<ref name="pmid21468241">{{cite journal |vauthors=Lombo B, Díez JG | title = Ticagrelor: the evidence for its clinical potential as an oral antiplatelet treatment for the reduction of major adverse cardiac events in patients with acute coronary syndromes | journal = Core Evid | volume = 6 | issue = | pages = 31–42 | year = 2011 | pmid = 21468241 | pmc = 3065559 | doi = 10.2147/CE.S9510 }}</ref> Others state that the central adjudicating committees found an extra 45 MIs in the clopidogrel (comparator) arm but none in the ticagrelor arm, which improved the MI outcomes with ticagrelor. Without this adjudication the trials' primary efficacy outcomes should not be significant.<ref name="pmid22836596">{{cite journal |vauthors=Serebruany VL, Atar D | title = Viewpoint: Central adjudication of myocardial infarction in outcome-driven clinical trials--common patterns in TRITON, RECORD, and PLATO? | journal = Thromb. Haemost. | volume = 108 | issue = 3 | pages = 412–4 |date=September 2012 | pmid = 22836596 | doi = 10.1160/TH12-04-0251 }}</ref>
+
+Consistently with its reversible mode of action, ticagrelor is known to act faster and shorter than clopidogrel.<ref>{{cite web|url=http://www.theheart.org/article/1049933.do|title=Is there too much excitement for ticagrelor?|publisher=TheHeart.org|first=R|last=Miller|date=24 February 2010}}</ref> This means it has to be taken twice instead of once a day which is a disadvantage in respect of [[Compliance (medicine)|compliance]], but its effects are more quickly reversible which can be useful before [[surgery]] or if side effects occur.<ref name="AustriaCodex" /><ref name="ÖAZ">{{cite journal
+ | author = H. Spreitzer
+ | date = 17 January 2011
+ | title = Neue Wirkstoffe - Elinogrel
+ | journal = Österreichische Apothekerzeitung
+ | issue = 2/2011
+ | pages = 10
+ | language = German
+ }}</ref>
+
+== References ==
+{{reflist|35em}}
+
+{{Antithrombotics}}
+{{Purinergics}}
+{{AstraZeneca}}
+
+[[Category:ADP receptor inhibitors]]
+[[Category:Triazolopyrimidines]]
+[[Category:Fluoroarenes]]
+[[Category:Alcohols]]
+[[Category:AstraZeneca]]
+[[Category:Cyclopropanes]]

@@ -1,0 +1,121 @@
+{{distinguish|gliclazide|glipizide}}
+
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 461120828
+| IUPAC_name = 5-chloro-''N''-[2-[4-(cyclohexylcarbamoylsulfamoyl)<br />phenyl]ethyl]-2-methoxybenzamide
+| image = Glibenclamide.svg
+| width = 275
+| image2 = Glibenclamide-4YVP-ball-and-stick.png
+| USAN = Glyburide
+
+<!--Clinical data-->
+| tradename = see below
+| Drugs.com = {{drugs.com|international|glibenclamide}}
+| MedlinePlus = a684058
+| licence_US = Glyburide
+| pregnancy_AU = C
+| pregnancy_US = B
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| protein_bound = Extensive
+| metabolism = [[Liver|Hepatic]] [[hydroxylation]] ([[CYP2C9]]-mediated)
+| elimination_half-life = 10 hours
+| excretion = [[Kidney|Renal]] and biliary
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 10238-21-8
+| ATC_prefix = A10
+| ATC_suffix = BB01
+| PubChem = 3488
+| IUPHAR_ligand = 2414
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01016
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3368
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = SX6K58TVWC
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00336
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 5441
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 472
+
+<!--Chemical data-->
+| C=23 | H=28 | Cl=1 | N=3 | O=5 | S=1
+| molecular_weight = 494.004 g/mol
+| SMILES = O=C(NC1CCCCC1)NS(=O)(=O)c2ccc(cc2)CCNC(=O)c3cc(Cl)ccc3OC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C23H28ClN3O5S/c1-32-21-12-9-17(24)15-20(21)22(28)25-14-13-16-7-10-19(11-8-16)33(30,31)27-23(29)26-18-5-3-2-4-6-18/h7-12,15,18H,2-6,13-14H2,1H3,(H,25,28)(H2,26,27,29)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ZNNLBTZKUZBEKO-UHFFFAOYSA-N
+}}
+
+'''Glibenclamide''', also known as '''glyburide''', is an [[antidiabetic drug]] in a class of medications known as [[sulfonylurea]]s, closely related to [[Sulfonamide (medicine)|sulfonamide]] [[antibiotics]]. It was developed in 1966 in a cooperative study between [[Boehringer Mannheim]] (now part of [[Hoffmann–La Roche|Roche]]) and [[Hoechst AG|Hoechst]] (now part of [[Sanofi-Aventis]]).<ref name="pmid4999930">{{cite journal | author = Marble A | title = Glibenclamide, a new sulphonylurea: whither oral hypoglycaemic agents? | journal = Drugs | volume = 1 | issue = 2 | pages = 109–15 | year = 1971 | pmid = 4999930 | doi = 10.2165/00003495-197101020-00001 }}</ref>
+
+== Medical uses ==
+It is used in the treatment of [[type 2 diabetes]]. As of 2003, in the United States, it was the most popular sulfonylurea.<ref name="pmid12574174">{{cite journal | author = Riddle MC | title = Editorial: sulfonylureas differ in effects on ischemic preconditioning--is it time to retire glyburide? | journal = J. Clin. Endocrinol. Metab. | volume = 88 | issue = 2 | pages = 528–30 |date=February 2003 | pmid = 12574174 | doi = 10.1210/jc.2002-021971 }}</ref>
+
+It is not as good as either [[metformin]] or [[insulin]] in those who have [[gestational diabetes]].<ref>{{cite journal|last1=Balsells|first1=M|last2=García-Patterson|first2=A|last3=Solà|first3=I|last4=Roqué|first4=M|last5=Gich|first5=I|last6=Corcoy|first6=R|title=Glibenclamide, metformin, and insulin for the treatment of gestational diabetes: a systematic review and meta-analysis.|journal=BMJ (Clinical research ed.)|date=21 January 2015|volume=350|pages=h102|pmid=25609400|doi=10.1136/bmj.h102|pmc=4301599}}</ref>
+
+== Side effects and contraindications ==
+This drug is a major cause of drug-induced [[hypoglycemia]]. The risk is greater than with other [[sulfonylurea]]s.<ref>{{cite journal|last=Gangji|first=A. S.|author2=Cukierman, T. |author3=Gerstein, H. C. |author4=Goldsmith, C. H. |author5= Clase, C. M. |title=A Systematic Review and Meta-Analysis of Hypoglycemia and Cardiovascular Events: A comparison of glyburide with other secretagogues and with insulin|journal=Diabetes Care|date=1 February 2007|volume=30|issue=2|pages=389–394|doi=10.2337/dc06-1789 |pmid=17259518}}</ref>  Cholestatic [[jaundice]] is noted.
+
+Glibenclamide may be not recommended in those with G6PD deficiency, as it may cause acute haemolysis.<ref name="pmid8562390">{{cite journal |vauthors=Meloni G, Meloni T | title = Glyburide-induced acute haemolysis in a G6PD-deficient patient with NIDDM | journal = Br. J. Haematol. | volume = 92 | issue = 1 | pages = 159–60 |date=January 1996 | pmid = 8562390 | doi = 10.1046/j.1365-2141.1996.275810.x| url = }}</ref>
+
+== Mechanism of action ==
+The drug works by binding to and inhibiting the [[ATP-sensitive potassium channel]]s (K<sub>ATP</sub>) inhibitory regulatory subunit [[sulfonylurea receptor|sulfonylurea receptor 1]] (SUR1) <ref name="pmid17015627">{{cite journal |vauthors=Serrano-Martín X, Payares G, Mendoza-León A | title = Glibenclamide, a blocker of K+(ATP) channels, shows antileishmanial activity in experimental murine cutaneous leishmaniasis | journal = Antimicrob. Agents Chemother. | volume = 50 | issue = 12 | pages = 4214–6 |date=December 2006 | pmid = 17015627 | pmc = 1693980 | doi = 10.1128/AAC.00617-06 }}</ref> in [[pancreas|pancreatic]] [[beta cell]]s. This inhibition causes cell membrane [[depolarization]], opening [[voltage-dependent calcium channel]]s.  This results in an increase in intracellular [[calcium]] in the [[beta cell]] and subsequent stimulation of [[insulin]] release.
+
+After a cerebral ischemic insult, the [[blood–brain barrier]] is broken and glibenclamide can reach the central nervous system. Glibenclamide has been shown to bind more efficiently to the ischemic hemisphere.<ref name="pmid22387180">{{cite journal |vauthors=Ortega FJ, Gimeno-Bayon J, Espinosa-Parrilla JF, Carrasco JL, Batlle M, Pugliese M, Mahy N, Rodríguez MJ | title = ATP-dependent potassium channel blockade strengthens microglial neuroprotection after hypoxia-ischemia in rats | journal = Exp. Neurol. | volume = 235 | issue = 1 | pages = 282–96 |date=May 2012 | pmid = 22387180 | doi = 10.1016/j.expneurol.2012.02.010 }}</ref> Moreover, under ischemic conditions SUR1, the regulatory subunit of the K<sub>ATP-</sub> and the NC<sub>Ca-ATP</sub>-channels, is expressed in neurons, astrocytes, oligodendrocytes, endothelial cells<ref name="pmid22714048">{{cite journal |vauthors=Simard JM, Woo SK, Schwartzbauer GT, Gerzanich V | title = Sulfonylurea receptor 1 in central nervous system injury: a focused review | journal = J. Cereb. Blood Flow Metab. | volume = 32 | issue = 9 | pages = 1699–717 |date=September 2012 | pmid = 22714048 | pmc = 3434627 | doi = 10.1038/jcbfm.2012.91 }}</ref> and by reactive microglia.<ref name="pmid22387180"/>
+
+==Analogs==
+Additional glibenclamide [[structural analog]]s have been prepared by Ahmadi ''et'' al.<ref>{{Cite journal
+ | pmid = 24387708
+| year = 2014
+| author1 = Ahmadi
+| first1 = A
+| title = Synthesis and investigating hypoglycemic and hypolipidemic activities of some glibenclamide analogues in rats
+| journal = Mini reviews in medicinal chemistry
+| volume = 14
+| issue = 2
+| pages = 208–13
+| last2 = Khalili
+| first2 = M
+| last3 = Khatami
+| first3 = K
+| last4 = Farsadrooh
+| first4 = M
+| last5 = Nahri-Niknafs
+| first5 = B
+ | doi=10.2174/1570193x10666140103112311
+}}</ref>
+
+==Research==
+Glibenclamide improves outcome in animal stroke models by preventing brain swelling<ref name="pmid16550187">{{cite journal |vauthors=Simard JM, Chen M, Tarasov KV, Bhatta S, Ivanova S, Melnitchenko L, Tsymbalyuk N, West GA, Gerzanich V | title = Newly expressed SUR1-regulated NC(Ca-ATP) channel mediates cerebral edema after ischemic stroke | journal = Nat. Med. | volume = 12 | issue = 4 | pages = 433–40 |date=April 2006 | pmid = 16550187 | pmc = 2740734 | doi = 10.1038/nm1390 }}</ref>  and enhancing neuroprotection.<ref name="pmid17015627" />  A retrospective study showed, in type 2 diabetic patients already taking glyburide, NIH stroke scale scores were improved on discharge compared to diabetic patients not taking glyburide.<ref name="pmid17673715">{{cite journal |vauthors=Kunte H, Schmidt S, Eliasziw M, del Zoppo GJ, Simard JM, Masuhr F, Weih M, Dirnagl U | title = Sulfonylureas improve outcome in patients with type 2 diabetes and acute ischemic stroke | journal = Stroke | volume = 38 | issue = 9 | pages = 2526–30 |date=September 2007 | pmid = 17673715 | pmc = 2742413 | doi = 10.1161/STROKEAHA.107.482216 }}</ref>
+
+==Trade names==
+Glibenclamide is available as a [[Generic drug|generic]], is manufactured by many pharmaceutical companies and is sold in doses of 1.25, 2.5 and 5&nbsp;mg under many brand names including Gliben-J, Daonil, Diabeta, Euglucon, Gilemal, Glidanil, Glybovin, Glynase, Maninil, Micronase and Semi-Daonil. It is also available in a fixed-dose [[combination drug]] with [[metformin]] that is sold under various trade names, e.g. Bagomet Plus, Benimet, Glibomet, Gluconorm, Glucored, Glucovance, Metglib and many others.
+
+==See also==
+* [[Tolbutamide]]
+* [[Glipizide]]
+
+== References ==
+{{Reflist|32em}}
+
+{{Oral hypoglycemics}}
+{{Ion channel modulators}}
+{{Use dmy dates|date=July 2011}}
+
+[[Category:Disulfiram-like drugs]]
+[[Category:Potassium channel blockers]]
+[[Category:Benzamides]]
+[[Category:Chloroarenes]]
+[[Category:Phenol ethers]]
+[[Category:Sulfonylureas]]
+[[Category:World Health Organization essential medicines]]

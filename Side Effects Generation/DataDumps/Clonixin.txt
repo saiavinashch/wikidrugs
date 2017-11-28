@@ -1,0 +1,87 @@
+{{Chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 451725338
+| ImageFile = Clonixin.png
+| IUPACName = 2-(3-chloro-2-methylanilino)pyridine-3-carboxylic acid
+| OtherNames = Clonixic acid; CBA 93626<ref name="Clinical">{{cite journal|url=http://onlinelibrary.wiley.com/doi/10.1177/009127007101100508/abstract|title=Clonixin: A Clinical Evaluation of a New Oral Analgesic |accessdate=2015-05-21|doi=10.1177/009127007101100508}}</ref>
+|Section1={{Chembox Identifiers
+| Abbreviations = 
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo = 17737-65-4
+| PubChem = 28718
+| SMILES = O=C(O)C1=CC=CN=C1NC2=C(C)C(Cl)=CC=C2
+| MeSHName = 
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 26711
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1332971
+| InChI = 1/C13H11ClN2O2/c1-8-10(14)5-2-6-11(8)16-12-9(13(17)18)4-3-7-15-12/h2-7H,1H3,(H,15,16)(H,17,18)
+| InChIKey = CLOMYZFHNHFSIQ-UHFFFAOYAG
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C13H11ClN2O2/c1-8-10(14)5-2-6-11(8)16-12-9(13(17)18)4-3-7-15-12/h2-7H,1H3,(H,15,16)(H,17,18)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = CLOMYZFHNHFSIQ-UHFFFAOYSA-N
+| ChEBI_Ref = {{ebicite|changed|???}}
+| ChEBI = 76200
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03555
+ }}
+|Section2={{Chembox Properties
+| C=13 | H=11 | Cl=1 | N=2 | O=2
+| Appearance = 
+| Density = 
+| MeltingPt = 
+| MeltingPt_notes = 
+| BoilingPt = 
+| BoilingPt_notes = 
+| Solubility = 
+| SolubleOther = 
+| Solvent = 
+ }}
+|Section3={{Chembox Pharmacology
+| AdminRoutes = [[per os]]
+| Bioavail = 
+| Metabolism = Glucuronidation via UGT2B7
+| HalfLife = 
+| ProteinBound =
+| Excretion = 
+| Legal_status = 
+| Legal_US = Not sold in the U.S.
+ }}
+|Section4={{Chembox Hazards
+| RPhrases = 
+| SPhrases = 
+| LD50 = 
+ }}
+}}
+
+'''Clonixin''' is a [[nonsteroidal anti-inflammatory drug]] (NSAID). It also has [[analgesic]], [[antipyretic]], and [[Antiplatelet drug|platelet-inhibitory]] actions. It is used primarily in the treatment of chronic arthritic conditions and certain soft tissue disorders associated with pain and inflammation.
+
+==Synthesis==
+[[File:Clonixin synthesis.svg|thumb|center|700px|Clonixin synthesis: M. H. Sherlock, N. Sperber, {{Cite patent|BE|679271}}; eidem, {{US patent|3337570}} (1966, 1967 both to [[Schering]]).]]
+
+==[[Clonixeril]]==
+The glyceryl ester of clonixin, clonixeril, is also a NSAID. It was prepared by a somewhat roundabout method.
+[[File:Clonixeril synthesis.svg|thumb|center|700px|Clonixeril synthesis:<ref>M. H. Sherlock, {{Cite patent|ZA|6802185}} (1968); Chem. Abstr., 70: 96640c (1969).</ref><ref>{{Cite patent|CH|534129}} (1973); Chem. Abstr., 79: 18582g (1973).</ref>]]
+Clonixin was reacted with [[chloroacetonitrile]] and [[triethylamine]] to give '''2'''. Heating with [[potassium carbonate]] and [[glycerol actonide]] displaced the [[activating group]] to produce ester '''3''', which was deblocked in [[acetic acid]] to produce clonixeril ('''4''').
+
+==See also==
+*[[Flunixin]]
+*[[Clonixeril]]
+
+== References ==
+{{reflist}}
+
+{{Prostanoidergics}}
+
+[[Category:Nonsteroidal anti-inflammatory drugs]]
+[[Category:Chloroarenes]]
+[[Category:Pyridines]]
+[[Category:Anilines]]
+[[Category:Aromatic acids]]
+
+
+{{musculoskeletal-drug-stub}}

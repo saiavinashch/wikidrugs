@@ -1,0 +1,76 @@
+{{refimprove|date=March 2015}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 409575914
+| IUPAC_name = 1-β-<small>D</small>-arabinofuranosyl-5-[(''E'')-2-bromovinyl]pyrimidine-2,4(1''H'',3''H'')-dione
+| image = Sorivudine.svg
+| width = 200
+
+<!--Clinical data-->
+| tradename = Usevir, Brovavir
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| metabolism = Viral thymidine kinase
+| excretion = [[Kidney]]
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 77181-69-2
+| ATC_prefix = none
+| ATC_suffix = 
+| PubChem = 5282192
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = C7VOZ162LV
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01734
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 375035
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 4445384
+
+<!--Chemical data-->
+| C=11 | H=13 | Br=1 | N=2 | O=6 
+| molecular_weight = 349.14 g/mol
+| synonyms = <small>BV-araU, Bromovinyl araU, 5-Bromovinyl-araU, 5-[(''E'')-2-bromoethenyl]-1-[(2''R'',3''S'',4''S'',5''R'')-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidine-2,4-dione</small>
+|  smiles = c1c(c(=O)[nH]c(=O)n1[C@H]2[C@H]([C@@H]([C@H](O2)CO)O)O)/C=C/Br
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C11H13BrN2O6/c12-2-1-5-3-14(11(19)13-9(5)18)10-8(17)7(16)6(4-15)20-10/h1-3,6-8,10,15-17H,4H2,(H,13,18,19)/b2-1+/t6-,7-,8+,10-/m1/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = GCQYYIHYQMVWLT-HQNLTJAPSA-N
+
+}}
+'''Sorivudine''' ([[International Nonproprietary Name|INN]]), is a [[thymine analogue]] [[antiviral drug]], marketed under trade names such as '''Usevir''' ([[Nippon Shoji]], [[Eisai Co.|Eisai]]) and '''Brovavir''' ([[Bristol-Myers Squibb|BMS]]).
+
+==Pharmacology==
+===Feature===
+*First-line{{fact|date=February 2016}} treatment of herpes drug acyclovir was (Zovirax, Activir) from VZV strong activity of the virus.
+*Superior{{weasel word|date=February 2016}} gastrointestinal absorption, absorption from the gastrointestinal tract after the most degrading without being excreted as urine.
+
+===Mechanism of action===
+*Sorivudine is phosphorylated by thymidine kinase activity in the body and is absorbed into the virus's DNA instead of the correct nucleoside.  It is a competitive inhibitor of DNA polymerase, so the viral DNA cannot be replicated and the virus cannot grow.
+
+===Microbiology===
+Sorivudine is active against most species in the [[herpesvirus]] family.
+*[[Herpes simplex virus]] type I (HSV-1)
+*[[Varicella zoster virus]] (VZV)
+*[[Epstein-Barr virus]] (EBV)
+
+==Interactions==
+Sorivudine interacts strongly and in some cases lethally with [[fluorouracil]] (5-FU), its [[prodrug]]s and related substances. This is based on the [[metabolite]] bromovinyluracil (BVU), which irreversibly inhibits the enzyme [[dihydropyrimidine dehydrogenase]] (DPD) which is necessary for inactivating 5-FU. The closely related drug [[brivudine]] has the same interaction.<ref>{{cite journal|url=http://www.akdae.de/Arzneimittelsicherheit/Bekanntgaben/Archiv/2006/764-200607071.pdf|title=UAW – Aus Fehlern lernen - Potenziell tödlich verlaufende Wechselwirkung zwischen Brivudin (Zostex) und 5-Fluoropyrimidinen|journal=Deutsches Ärzteblatt|volume=103|issue=27|date=7 July 2006|language=de}}</ref>
+
+[[File:Bromovinyluracil skeletal.svg|thumb|left|Bromovinyluracil (BVU)]]
+
+==References==
+{{reflist}}
+
+{{Antivirals}}
+
+[[Category:Pyrimidinediones]]
+[[Category:Anti-herpes virus drugs]]
+[[Category:Arabinosides]]
+
+
+{{Antiinfective-drug-stub}}

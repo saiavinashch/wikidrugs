@@ -1,0 +1,64 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 408545472
+| IUPAC_name = (2''S'',5''R'',6''R'')-3,3-dimethyl-7-oxo-6-[(2-phenoxypropanoyl)amino]-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+| image = Phenethicillin.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|pheneticillin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 147-55-7
+| ATC_prefix = J01
+| ATC_suffix = CE05
+| PubChem           = 272833
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = EFA30X554H
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08350
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1614637
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 240055
+<!--Chemical data-->
+| C=17 | H=20 | N=2 | O=5 | S=1 
+| molecular_weight = 364.4161 g/mol
+| smiles            = CC(C(=O)N[C@H]1[C@@H]2N(C1=O)[C@H](C(S2)(C)C)C(=O)O)OC3=CC=CC=C3
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C17H20N2O5S/c1-9(24-10-7-5-4-6-8-10)13(20)18-11-14(21)19-12(16(22)23)17(2,3)25-15(11)19/h4-9,11-12,15H,1-3H3,(H,18,20)(H,22,23)/t9?,11-,12+,15-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = NONJJLVGHLVQQM-JHXYUMNGSA-N
+}}
+'''Pheneticillin''' (or '''phenethicillin''') is a [[penicillin]]. It is not approved by the FDA for use in the United States.
+
+==References==
+*{{cite book|title=Index Nominum: International Drug Directory|date=Jan 2000|publisher=Swiss Pharmaceutical Society|isbn=978-3887630751|page=816|url=https://books.google.co.uk/books?id=5GpcTQD_L2oC&pg=PA816&dq=Phenethicillin&hl=en&sa=X&ei=3og1VZ2sOMWgPfSGgaAB&ved=0CEwQ6AEwBjgK#v=onepage&q=Phenethicillin&f=false|accessdate=20 April 2015}}
+*{{cite book|last1=Dougherty|first1=Thomas|last2=Pucci|first2=Michael J.|title=Antibiotic Discovery and Development |url=https://books.google.co.uk/books?id=E6Dv5XsXU-IC&pg=PA86&dq=Phenethicillin&hl=en&sa=X&ei=3og1VZ2sOMWgPfSGgaAB&ved=0CEAQ6AEwBDgK#v=onepage&q=Phenethicillin&f=false |date=21 Dec 2011 |publisher=Springer|isbn=978-1461413998|page=86|edition=2012|accessdate=20 April 2015}}
+
+{{Cell wall disruptive antibiotics}}
+
+[[Category:Penicillins]]
+
+
+{{antibiotic-stub}}

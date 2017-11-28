@@ -1,0 +1,72 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 405810511
+| IUPAC_name = ''N''-(1-methyl-2-oxo-5-phenyl-3''H''-1,4-benzodiazepin-3-yl)-1''H''-indole-2-carboxamide
+| image = Devazepide.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = 
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 103420-77-5
+| ATC_prefix = none
+| ATC_suffix =  
+| IUPHAR_ligand = 878
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = JE6P7QY7NH
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02693
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 9506
+| PubChem = 443375
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 391607
+| smiles = O=C(c2cc1ccccc1n2)N[C@H]3/N=C(\c4ccccc4N(C3=O)C)c5ccccc5
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C25H20N4O2/c1-29-21-14-8-6-12-18(21)22(16-9-3-2-4-10-16)27-23(25(29)31)28-24(30)20-15-17-11-5-7-13-19(17)26-20/h2-15,23,26H,1H3,(H,28,30)/t23-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = NFHRQQKPEBFUJK-HSZRJFAPSA-N
+
+<!--Chemical data-->
+| C=25 | H=20 | N=4 | O=2 
+| molecular_weight = 408.452 g/mol
+}}
+
+'''Devazepide'''<ref>US Patent 4820834</ref> ('''L-364,718''', '''MK-329''') is [[benzodiazepine]] drug, but with quite different actions from most benzodiazepines, lacking affinity for [[GABA receptors|GABA<sub>A</sub>]] receptors and instead acting as an [[Cholecystokinin A receptor|CCK<sub>A</sub>]] [[Cholecystokinin antagonist|receptor antagonist.]]<ref>{{cite journal | last1 = Hill | first1 = DR | last2 = Woodruff | first2 = GN | date = Sep 1990 | title = Differentiation of central cholecystokinin receptor binding sites using the non-peptide antagonists MK-329 and L-365,260 | url = | journal = Brain Research | volume = 526 | issue = 2| pages = 276–83 | pmid = 2257485 | doi=10.1016/0006-8993(90)91232-6}}</ref> It increases appetite and accelerates gastric emptying,<ref>{{cite journal | last1 = Cooper | first1 = SJ | last2 = Dourish | first2 = CT | date = Dec 1990 | title = Multiple cholecystokinin (CCK) receptors and CCK-monoamine interactions are instrumental in the control of feeding | url = | journal = Physiology and Behaviour | volume = 48 | issue = 6| pages = 849–57 | pmid = 1982361 | doi=10.1016/0031-9384(90)90239-z}}</ref><ref>{{cite journal | pmid = 1728842 | volume=55 | title=CCK antagonists and CCK-monoamine interactions in the control of satiety | date=January 1992 | journal=Am. J. Clin. Nutr. | pages=291S–295S | last1 = Cooper | first1 = SJ | last2 = Dourish | first2 = CT | last3 = Clifton | first3 = PG}}</ref> and has been suggested as a potential treatment for a variety of gastrointestinal problems including [[dyspepsia]], [[gastroparesis]] and [[gastric reflux]].<ref>{{cite journal | last1 = Scarpignato | first1 = C | last2 = Varga | first2 = G | last3 = Corradi | first3 = C | year = 1993 | title = Effect of CCK and its antagonists on gastric emptying | url = | journal = Journal of Physiology Paris | volume = 87 | issue = 5| pages = 291–300 | pmid = 8298606 | doi=10.1016/0928-4257(93)90035-r}}</ref> It is also widely used in scientific research into the CCK<sub>A</sub> receptor.<ref>{{cite journal | last1 = Weller | first1 = A | date = Jul 2006 | title = The ontogeny of postingestive inhibitory stimuli: examining the role of CCK | url = | journal = [[Developmental Psychobiology (journal)|Developmental Psychobiology]] | volume = 48 | issue = 5| pages = 368–79 | doi = 10.1002/dev.20148 | pmid = 16770766 }}</ref><ref>{{cite journal | last1 = Savastano | first1 = DM | last2 = Covasa | first2 = M | date = Oct 2007 | title = Intestinal nutrients elicit satiation through concomitant activation of CCK(1) and 5-HT(3) receptors | url = | journal = Physiology and Behaviour | volume = 92 | issue = 3| pages = 434–42 | doi = 10.1016/j.physbeh.2007.04.017 | pmid = 17531277 }}</ref>
+
+==Synthesis==
+Devazepide is synthesised in a similar manner to other benzodiazepines.<ref>{{cite journal | doi = 10.1021/jm00120a002 | volume=31 | title=Methods for drug discovery: development of potent, selective, orally effective cholecystokinin antagonists | journal=Journal of Medicinal Chemistry | pages=2235–2246}}</ref><ref>{{Cite patent|EP|1492540}}</ref>
+
+==See also==
+*[[Benzodiazepine]]
+*[[Cholecystokinin antagonist]]
+
+==References==
+<references />
+
+{{Neuropeptide agonists and antagonists}}
+{{Benzodiazepines}}
+
+[[Category:Benzodiazepines]]
+[[Category:Cholecystokinin antagonists]]
+[[Category:Indoles]]

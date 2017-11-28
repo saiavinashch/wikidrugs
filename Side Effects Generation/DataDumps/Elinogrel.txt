@@ -1,0 +1,84 @@
+{{Drugbox
+| IUPAC_name = ''N''-[(5-Chlorothiophen-2-yl)sulfonyl]-''N′''-<nowiki/>{4-[6-fluoro-7-(methylamino)-2,4-dioxo-1,4-dihydroquinazolin-3(2''H'')-yl]phenyl}urea
+| image = Elinogrel skeletal.svg
+| width = 275
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Development terminated
+| routes_of_administration = [[Oral administration|By mouth]], [[Intravenous therapy|IV]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = Mainly unchanged, ~15% ''N''-demethylation<ref>{{Cite journal 
+| last1 = Siller-Matula | first1 = J. M. 
+| last2 = Krumphuber | first2 = J. 
+| last3 = Jilma | first3 = B. 
+| doi = 10.1111/j.1476-5381.2009.00555.x 
+| title = Pharmacokinetic, pharmacodynamic and clinical profile of novel antiplatelet drugs targeting vascular diseases 
+| journal = British Journal of Pharmacology 
+| volume = 159 
+| issue = 3 
+| pages = 502–517 
+| year = 2010 
+| pmid = 20050853 
+| pmc =2828016 
+}}</ref>
+| elimination_half-life = 
+| excretion = Urine, faeces
+
+<!--Identifiers-->
+| CAS_number = 936500-94-6
+| ATC_prefix = None
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem = 16066663
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 915Y8E749J
+| KEGG = D09607
+| synonyms = PRT-060128
+|  ChemSpiderID = 17226246
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=20 | H=15 | Cl=1 | F=1 | N=5 | O=5 | S=2 
+| molecular_weight = 523.945 g/mol
+| smiles = CNC1=C(C=C2C(=C1)NC(=O)N(C2=O)C3=CC=C(C=C3)NC(=O)NS(=O)(=O)C4=CC=C(S4)Cl)F
+| StdInChI = 1S/C20H15ClFN5O5S2/c1-23-15-9-14-12(8-13(15)22)18(28)27(20(30)25-14)11-4-2-10(3-5-11)24-19(29)26-34(31,32)17-7-6-16(21)33-17/h2-9,23H,1H3,(H,25,30)(H2,24,26,29)
+| StdInChIKey = LGSDFTPAICUONK-UHFFFAOYSA-N
+}}
+
+'''Elinogrel''' ([[International Nonproprietary Name|INN]],<ref name="INN">{{cite web | title = International Nonproprietary Names for Pharmaceutical Substances (INN). Recommended International Nonproprietary Names: List 63 | url = http://www.who.int/medicines/publications/druginformation/innlists/RL63.pdf | publisher = World Health Organization | accessdate = 1 December 2016 | pages = 50–1}}</ref> [[United States Adopted Name|USAN]]) was an experimental [[antiplatelet drug]] acting as a [[P2Y12|P2Y<sub>12</sub>]] inhibitor. Similarly to [[ticagrelor]] and in contrast to [[clopidogrel]], elinogrel was a reversible inhibitor that acted fast and short (for about 12 hours), and it was not a [[prodrug]] but pharmacologically active itself. The substance was used in form of its [[potassium]] salt, [[intravenous]]ly for acute treatment and [[Oral administration|orally]] for long-term treatment.<ref>{{cite journal|journal=Drugs Fut|title=Elinogrel potassium|last1=Gurbel|first1=P.A.|last2=Kereiakes|first2=D.|last3=Tantry|first3=U.S.|year=2010|volume=35|issue=11|page=885}}</ref> Development was terminated in 2012.
+
+== History ==
+The substance was originally developed by [[Portola Pharmaceuticals]], with Phase II [[clinical trial]]s conducted around 2008&ndash;2011.<ref>{{Cite journal 
+| last1 = Michelson | first1 = A. D. 
+| doi = 10.1182/asheducation-2011.1.62 
+| title = Advances in Antiplatelet Therapy 
+| journal = Hematology 
+| volume = 2011 
+| pages = 62–69 
+| year = 2011 
+| pmid = 22160013 
+| pmc = 
+}}</ref> In February 2009, [[Novartis]] bought worldwide rights to develop it further, intending to conduct Phase III studies and commercialise the drug.<ref>Insciences: [http://insciences.org/article.php?article_id=2259 Novartis gains worldwide rights to elinogrel, a Phase II anti-clotting compound with potential to reduce risk of heart attack]</ref> The development of the drug was terminated in January 2012 by Novartis.<ref>BioPortfolio: [http://www.bioportfolio.com/news/article/918579/Novartis-Drops-Elinogrel-Outright.html Novartis drops elinogrel outright]</ref>
+
+== References ==
+{{Reflist}}
+
+{{Antithrombotics}}
+{{Purinergics}}
+
+[[Category:Abandoned drugs]]
+[[Category:ADP receptor inhibitors]]
+
+{{blood-drug-stub}}

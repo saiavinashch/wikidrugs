@@ -1,0 +1,221 @@
+{{update|date=February 2017}}
+{{Drugbox
+| IUPAC_name = 3-[(3''R'',4''R'')-4-Methyl-3-[methyl(7''H''-pyrrolo[2,3-d]pyrimidin-4-yl)amino]piperidin-1-yl]-3-oxopropanenitrile
+| image = Tofacitinib.svg
+| width =
+
+<!--Clinical data-->
+| tradename = Xeljanz, Jakvinus
+| Drugs.com = {{Drugs.com|parent|Xeljanz}}
+| licence_US = Tofacitinib
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = C
+| pregnancy_category =
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Rx-only
+| legal_status = 
+| routes_of_administration = [[Oral administration|By mouth]] ([[Tablet (pharmacy)|tablets]])
+
+<!--Pharmacokinetic data-->
+| bioavailability = 74%
+| protein_bound = 40%
+| metabolism = Hepatic (via [[CYP3A4]] and [[CYP2C19]])
+| elimination_half-life = 3 hours
+| excretion = Urine
+
+<!--Identifiers-->
+| index_label =
+| index2_label =
+| IUPHAR_ligand = 5677
+| CAS_number = 477600-75-2 
+| ATC_prefix = L04
+| ATC_suffix = AA29
+| ATC_supplemental =
+| PubChem = 9926791
+| UNII = 87LA6FU830
+| KEGG = D09970
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 71200
+| ChEMBL = 221959
+| synonyms = CP-690550
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB08895
+| ChemSpiderID = 8102425
+
+<!--Chemical data-->
+| chemical_formula =
+| C=16 | H=20 | N=6 | O=1
+| molecular_weight = 312.369 g/mol
+| smiles = CC2CCN(C(=O)CC#N)CC2N(C)c3ncnc1nccc13
+| StdInChI = 1S/C16H20N6O/c1-11-5-8-22(14(23)3-6-17)9-13(11)21(2)16-12-4-7-18-15(12)19-10-20-16/h4,7,10-11,13H,3,5,8-9H2,1-2H3,(H,18,19,20)/t11-,13+/m1/s1
+| StdInChIKey = UJLAWZDWDVHWOW-YPMHNXCESA-N
+| StdInChI2 = 1S/C16H20N6O/c1-11-5-8-22(14(23)3-6-17)9-13(11)21(2)16-12-4-7-18-15(12)19-10-20-16/h4,7,10-11,13H,3,5,8-9H2,1-2H3,(H,18,19,20)/t11-,13+/m1/s1
+| StdInChIKey2 = UJLAWZDWDVHWOW-YPMHNXCESA-N
+}}
+
+'''Tofacitinib''' ([[international nonproprietary name|INN]]) is a [[pharmaceutical drug|drug]] of the [[janus kinase]] (JAK) inhibitor class, [[drug discovery|discovered]] and [[drug development|developed]] by the [[National Institutes of Health]] and [[Pfizer]].  Tofacitinib is marketed as '''Xeljanz''' and '''Jakvinus'''.
+
+It is currently approved for the treatment of [[rheumatoid arthritis]] (RA) in the United States and other countries.
+
+It has demonstrated effectiveness in the treatment of  [[psoriasis]] in Phase 3 studies. It is being studied for treatment of [[inflammatory bowel disease]],<ref>{{cite journal|last1=Vuitton|first1=Lucine|last2=Koch|first2=Stéphane|last3=Peyrin-Biroulet|first3=Laurent|title=Janus Kinase Inhibition with Tofacitinib: Changing the Face of Inflammatory Bowel Disease Treatment|journal=Current Drug Targets|date=31 October 2013|volume=14|issue=12|pages=1385–1391|doi=10.2174/13894501113149990160|pmid=23627915}}</ref><ref>{{cite journal|last1=Zand|first1=Martin S.|title=Tofacitinab in Renal Transplantation|journal=Transplantation Reviews|date=July 2013|volume=27|issue=3|pages=85–89|doi=10.1016/j.trre.2013.04.001|pmid=23849222|pmc=3713609}}</ref> and other immunological diseases, as well as for the prevention of [[organ transplant]] rejection.<ref name="KirkKnechtle2014">{{cite book|author1=Allan D. Kirk|author2=Stuart J. Knechtle|author3=Christian P. Larsen|author4=Joren C. Madsen|author5=Thomas C. Pearson|author6=Steven A. Webber|title=Textbook of Organ Transplantation Set|url=https://books.google.com/books?id=GzMWBAAAQBAJ&pg=PA245&lpg=PA245&focus=viewport#v=onepage&q=tofacitinib&f=false|date=21 July 2014|publisher=John Wiley & Sons|isbn=978-1-118-88962-6|pages=245–}}</ref><ref>{{cite journal|last1=Wojciechowski|first1=D|last2=Vincenti|first2=F|title=Tofacitinib in kidney transplantation.|journal=Expert Opinion on Investigational Drugs|date=September 2013|volume=22|issue=9|pages=1193–9|doi=10.1517/13543784.2013.811231|pmid=23841583}}</ref><ref>{{cite journal|last1=Myrvang|first1=H|title=Transplantation: Tofacitinib safe and effective in renal transplant recipients.|journal=Nature Reviews. Nephrology|date=26 June 2012|volume=8|issue=8|pages=432|doi=10.1038/nrneph.2012.120|pmid=22735765}}</ref><ref>{{cite journal|last1=Kalluri|first1=Hari Varun|title=Current state of renal transplant immunosuppression: Present and future|journal=World Journal of Transplantation|date=2012|volume=2|issue=4|pages=51–68|doi=10.5500/WJT.v2.i4.51|pmc=3782235|pmid=24175197}}</ref>
+
+==Approvals and indications==
+
+===Rheumatoid arthritis===
+In November 2012, the U.S. FDA approved tofacitinib "to treat adults with moderately to severely active rheumatoid arthritis who have had an inadequate response to, or who are intolerant of, methotrexate."<ref name=November2012/> It was later approved in Japan, Switzerland and others (but not the EU). It is marketed as Xeljanz in all regions except for Russia where it will be marketed as Jakvinus or Jaquinus.<ref name=Pf-app2013>[http://www.pfizer.com/news/press-release/press-release-detail/pfizer_provides_update_on_global_regulatory_approvals_and_launches_of_xeljanz_tofacitinib_citrate_for_the_treatment_of_rheumatoid_arthritis Pfizer Provides Update on Global Regulatory Approvals and Launches of XELJANZ® (tofacitinib citrate) for the Treatment of Rheumatoid Arthritis. July 2013]</ref>
+
+==Mechanism==
+It is an [[Janus kinase inhibitor|inhibitor]] of the enzyme [[janus kinase 1]] (JAK1) and janus kinase 3 (JAK 3), which means that it interferes with the [[JAK-STAT signaling pathway]], which transmits extracellular information into the [[cell nucleus]], influencing [[DNA transcription]].<ref>{{Cite journal 
+| title = Tasocitinib 
+| journal = Drugs in R&D 
+| volume = 10 
+| issue = 4 
+| pages = 271–284 
+| doi = 10.2165/11588080-000000000-00000 
+| year = 2010 
+| pmid = 21171673 
+| pmc = 3585773
+}}</ref>
+
+In a mouse model of established arthritis, tofacitinib rapidly improved disease by inhibiting the production of inflammatory mediators and suppressing [[STAT1]]-dependent genes in joint tissue. This efficacy in this disease model correlated with the inhibition of both [[JAK1]] and 3 signaling pathways, suggesting that tofacitinib may exert therapeutic benefit via pathways that are not exclusive to [[Janus kinase 3 inhibitor|inhibition of JAK3]].<ref>{{cite journal
+ | last1 = Ghoreschi | first1 = K.
+ | last2 = Jesson | first2 = M. I.
+ | last3 = Li | first3 = X.
+ | last4 = Lee | first4 = J. L.
+ | last5 = Ghosh | first5 = S.
+ | last6 = Alsup | first6 = J. W.
+ | last7 = Warner | first7 = J. D.
+ | last8 = Tanaka | first8 = M.
+ | last9 = Steward-Tharp | first9 = S. M.
+ | last10 = Gadina
+ | year = 2011 | first10 = M.
+ | last11 = Thomas | first11 = C. J.
+ | last12 = Minnerly | first12 = J. C.
+ | last13 = Storer | first13 = C. E.
+ | last14 = Labranche | first14 = T. P.
+ | last15 = Radi | first15 = Z. A.
+ | last16 = Dowty | first16 = M. E.
+ | last17 = Head | first17 = R. D.
+ | last18 = Meyer | first18 = D. M.
+ | last19 = Kishore | first19 = N.
+ | last20 = O'Shea | first20 = J. J.
+ | title = Modulation of Innate and Adaptive Immune Responses by Tofacitinib (CP-690,550)
+ | journal = J Immunol.
+ | volume = 186 | issue = 7 | pages = 4234–4243
+ | pmid = 21383241
+ | pmc = 3108067
+ | doi = 10.4049/jimmunol.1003668 
+}}</ref>
+
+==Research history==
+The potential significance of JAK3 inhibition was first discovered in the laboratory of [[John O'Shea (biologist)|John O'Shea]], an [[immunologist]] at the [[National Institute of Arthritis and Musculoskeletal and Skin Diseases]] of the [[National Institutes of Health]] (NIH).<ref name=NYTIMES>[https://www.nytimes.com/2013/03/19/business/questions-for-public-private-pact-that-led-to-xeljanz.html "Seeking Profit for Taxpayers in Potential of New Drug"], Jonathan Weisman, ''[[New York Times]]'', 18 March 2013 (subscription firewall)</ref> In 1994, Pfizer was approached by the NIH to form a public-private partnership in order to evaluate and bring to market experimental compounds based on this research.<ref name=NYTIMES/> Pfizer initially declined the partnership but agreed in 1996, after the elimination of an NIH policy dictating that the market price of a product resulting from such a partnership would need to be commensurate with the investment of public taxpayer revenue and the "health and safety needs of the public."<ref name=NYTIMES/> Pfizer worked with O'Shea's laboratory to define the structure and function of JAK3 and its receptors, and then handled the drug discovery, [[preclinical development]], and [[clinical development]] of tofacitinib in-house.<ref name=Garber>{{cite journal|title=Pfizer's first-in-class JAK inhibitor pricey for rheumatoid arthritis market|author=Ken Garber|journal=Nature Biotechnology|volume=31|pages=3–4|doi=10.1038/nbt0113-3|date=9 January 2013|pmid=23302910|issue=1}}</ref>
+
+The drug was coded as [[list of pharmaceutical compound number prefixes|CP]]-690,550<ref>{{Cite journal 
+| last1 = Kremer | first1 = J. M. 
+| last2 = Bloom | first2 = B. J. 
+| last3 = Breedveld | first3 = F. C. 
+| last4 = Coombs | first4 = J. H. 
+| last5 = Fletcher | first5 = M. P. 
+| last6 = Gruben | first6 = D. 
+| last7 = Krishnaswami | first7 = S. 
+| last8 = Burgos-Vargas | first8 = R. N. 
+| last9 = Wilkinson | first9 = B. 
+| last10 = Zerbini 
+| doi = 10.1002/art.24567 | first10 = C. A. F. 
+| last11 = Zwillich | first11 = S. H. 
+| title = The safety and efficacy of a JAK inhibitor in patients with active rheumatoid arthritis: Results of a double-blind, placebo-controlled phase IIa trial of three dosage levels of CP-690,550 versus placebo 
+| journal = Arthritis & Rheumatism 
+| volume = 60 
+| issue = 7 
+| pages = 1895–1905 
+| year = 2009 
+| pmid = 19565475 
+| pmc = 
+}}</ref> during development. Its original recommended [[International nonproprietary name|INN]] (rINN) was '''tasocitinib''',<ref name="FORBES">{{cite news|url=https://blogs.forbes.com/matthewherper/2011/03/02/why-pfizers-biggest-experimental-drug-got-a-name-change/|title= Why Pfizer’s Biggest Experimental Drug Got A Name Change|publisher=Forbes|date=2 March 2011|accessdate=3 March 2011|first=Matthew|last=Herper}}</ref> but that was overruled during the INN approval process as being inoptimally differentiable from other existing INNs, so the name ''tofacitinib'' was proposed and became the INN.
+
+In November 2012, the U.S. [[Food and Drug Administration]] (FDA) approved tofacitinib for treatment of rheumatoid arthritis.  Two [[rheumatologists]] interviewed by the magazine Nature Biotechnology complained that they were "shocked" and "disappointed" at the $2,055 a month wholesale price.<ref name=Garber/>
+
+A 2014 study showed that tofacitinib treatment was able to convert [[white fat]] tissues into more metabolically active [[brown fat]], suggesting it may have potential applications in the treatment of [[obesity]].<ref>Moisan A, et al. White-to-brown metabolic conversion of human adipocytes by JAK inhibition. ''Nature Cell Biology'', 8 December 2014. {{DOI|10.1038/ncb3075}}</ref>
+
+==Clinical trials==
+
+===Rheumatoid arthritis===
+
+[[Phase II clinical trial]]s tested the drug in rheumatoid arthritis patients that had not responded to [[DMARD]] therapy. In a tofacitinib monotherapy study, the [[ACR score for rheumatoid arthritis|ACR score]] improved by at least 20% (ACR-20) in 67% of patients versus 25% who received [[placebo]]; and a study that combined the drug with [[methotrexate]] achieved ACR-20 in 59% of patients versus 35% who received methotrexate alone.
+
+The most important side effects in Phase II studies were increased [[blood cholesterol]] levels (12 to 25&nbsp;mg/dl [[Low density lipoprotein|LDL]] and 8 to 10&nbsp;mg/dl [[High density lipoprotein|HDL]] at medium dosage levels) and [[neutropenia]].<ref name="EULAR">{{cite news|url=http://www.medpagetoday.com/MeetingCoverage/EULAR/14668|title=EULAR: JAK Inhibitor Effective in RA But Safety Worries Remain|publisher=MedPage Today|date=June 2009|accessdate=9 February 2011}}</ref> Phase III trials testing the drug in rheumatoid arthritis started in 2007 and are scheduled to run until January 2015.<ref>{{ClinicalTrialsGov|NCT00413699|Long-Term Effectiveness And Safety Of CP-690,550 For The Treatment Of Rheumatoid Arthritis}}</ref>
+
+In April 2011, four patients died after beginning clinical trials with tofacitinib. According to Pfizer, only one of the four deaths was related to tofacitinib.<ref>{{cite news|author=Matthew Herper|title=Pfizer’s Key Drug Walks A Tightrope|url=https://blogs.forbes.com/matthewherper/2011/04/22/pfizers-key-drug-walks-a-tightrope/ | work=Forbes}}</ref>
+
+By April 2011, three phase III trials for RA had reported positive results.<ref name=Apr2011>{{cite news |url=http://www.genengnews.com/gen-news-highlights/two-phase-iii-studies-confirm-benefits-of-pfizer-s-tofacitinib-against-active-ra/81245074/ |title=Two Phase III Studies Confirm Benefits of Pfizer’s Tofacitinib Against Active RA |date=28 Apr 2011}}</ref>
+
+In November 2012, the U.S. FDA approved tofacitinib "to treat adults with moderately to severely active rheumatoid arthritis who have had an inadequate response to, or who are intolerant of, methotrexate."<ref name=November2012>{{cite news | url=http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm327152.htm | title=FDA approves Xeljanz for rheumatoid arthritis | date=6 Nov 2012}}</ref> FDA approved only the 5&nbsp;mg twice-daily dose on the grounds that a higher dose was not considered to have an adequate risk-to-benefit ratio.<ref name=":0">{{Cite journal|last=Di Lernia|first=V.|last2=Bardazzi|first2=F.|date=2016-01-01|title=Profile of tofacitinib citrate and its potential in the treatment of moderate-to-severe chronic plaque psoriasis|journal=Drug Design, Development and Therapy|volume=10|pages=533–539|doi=10.2147/DDDT.S82599|issn=1177-8881|pmc=4743637|pmid=26889081}}</ref>
+
+=== Psoriasis ===
+Tofacitinib is a current investigational drug in psoriasis. Tofacitinib has demonstrated its effectiveness for plaque psoriasis in Phase 3 randomized, controlled trials in comparison to placebo and to [[etanercept]].<ref name=":0" /><ref name="OPT-pivotal">{{cite journal
+| title =Tofacitinib, an oral Janus kinase inhibitor, for the treatment of chronic plaque psoriasis: results from two, randomised, placebo-controlled, Phase 3 trials.
+| journal =Br J Dermatol. 
+| date = 7 July 2015
+| author =
+| authors =Papp KA, Menter MA, Abe M, et al. for the OPT Pivotal 1 and OPT Pivotal 2 Investigators.
+| volume =173
+| issue =
+| pages =949–61
+| url =
+| doi =10.1111/bjd.14018 
+| pmid = 26149717
+| pmc =
+}}</ref><ref name="OPT-compare">{{cite journal
+| title =Tofacitinib versus etanercept or placebo in moderate-to-severe chronic plaque psoriasis: a phase 3 randomised non-inferiority trial.
+| journal =Lancet 
+| date =Aug 8, 2015
+| author =
+| authors =Bachelez H, van de Kerkhof PC, Strohal R, et al. for the OPT Compare Investigators.
+| volume =386
+| issue =9993
+| pages =552–61. 
+| url =
+| doi =10.1016/S0140-6736(14)62113-9 
+| pmid =26051365 
+| pmc =
+}}</ref> In particular, a 10&nbsp;mg twice-daily dose of tofacitinib was shown to be noninferior to etanercept 50&nbsp;mg subcutaneously twice weekly.<ref name="OPT-compare" />
+
+===Ulcerative colitis===
+
+The phase 3 OCTAVE study of Tofacitinib in [[ulcerative colitis]] started in 2012 and completed in 2015.<ref name=NCT01465763>[https://clinicaltrials.gov/ct2/show/NCT01465763?term=A3921094&rank=1 A Multicentre, Randomized, Double-blind, Placebo-controlled, Parallel-group Study Of Oral Cp-690,550 As An Induction Therapy In Subjects With Moderate To Severe Ulcerative Colitis]</ref>
+
+===Alopecia areata===
+
+Based on preclinical studies in a mouse model of the disease,<ref>{{Cite journal|last=Xing|first=Luzhou|last2=Dai|first2=Zhenpeng|last3=Jabbari|first3=Ali|last4=Cerise|first4=Jane E.|last5=Higgins|first5=Claire A.|last6=Gong|first6=Weijuan|last7=de Jong|first7=Annemieke|last8=Harel|first8=Sivan|last9=DeStefano|first9=Gina M.|date=2014-09-01|title=Alopecia areata is driven by cytotoxic T lymphocytes and is reversed by JAK inhibition|journal=Nature Medicine|volume=20|issue=9|pages=1043–1049|doi=10.1038/nm.3645|issn=1546-170X|pmc=4362521|pmid=25129481}}</ref> tofacitinib has been investigated for the treatment of alopecia areata.  Early case reports<ref>{{Cite journal|last=Craiglow|first=Brittany G.|last2=King|first2=Brett A.|date=2014-12-01|title=Killing two birds with one stone: oral tofacitinib reverses alopecia universalis in a patient with plaque psoriasis|journal=The Journal of Investigative Dermatology|volume=134|issue=12|pages=2988–2990|doi=10.1038/jid.2014.260|issn=1523-1747|pmid=24940651}}</ref><ref>{{Cite journal|last=Jabbari|first=Ali|last2=Nguyen|first2=Nhan|last3=Cerise|first3=Jane E.|last4=Ulerio|first4=Grace|last5=de Jong|first5=Annemieke|last6=Clynes|first6=Raphael|last7=Christiano|first7=Angela M.|last8=Mackay-Wiggan|first8=Julian|date=2016-08-01|title=Treatment of an alopecia areata patient with tofacitinib results in regrowth of hair and changes in serum and skin biomarkers|journal=Experimental Dermatology|volume=25|issue=8|pages=642–643|doi=10.1111/exd.13060|issn=1600-0625|pmc=4963264|pmid=27119625}}</ref> suggested potential efficacy, as did a phase II open-label clinical trial,<ref>{{Cite journal|last=Kennedy Crispin|first=Milène|last2=Ko|first2=Justin M.|last3=Craiglow|first3=Brittany G.|last4=Li|first4=Shufeng|last5=Shankar|first5=Gautam|last6=Urban|first6=Jennifer R.|last7=Chen|first7=James C.|last8=Cerise|first8=Jane E.|last9=Jabbari|first9=Ali|date=2016-09-22|title=Safety and efficacy of the JAK inhibitor tofacitinib citrate in patients with alopecia areata|journal=JCI insight|volume=1|issue=15|pages=e89776|doi=10.1172/jci.insight.89776|pmc=5033755|pmid=27699252}}</ref> published in tandem with a phase II clinical trial showing the same for ruxolitinib.<ref>{{Cite journal|last=Mackay-Wiggan|first=Julian|last2=Jabbari|first2=Ali|last3=Nguyen|first3=Nhan|last4=Cerise|first4=Jane E.|last5=Clark|first5=Charlotte|last6=Ulerio|first6=Grace|last7=Furniss|first7=Megan|last8=Vaughan|first8=Roger|last9=Christiano|first9=Angela M.|date=2016-09-22|title=Oral ruxolitinib induces hair regrowth in patients with moderate-to-severe alopecia areata|journal=JCI insight|volume=1|issue=15|pages=e89790|doi=10.1172/jci.insight.89790|pmc=5033756|pmid=27699253}}</ref>
+
+=== Vitiligo ===
+In a June 2015 case report, a 53-year-old woman with [[vitiligo]] showed noticeable improvement after taking tofacitinib for five months.<ref>{{cite journal|title=Tofacitinib Citrate for the Treatment of Vitiligo: A Pathogenesis-Directed Therapy.|date=Oct 2015|pmid=26107994|doi=10.1001/jamadermatol.2015.1520|volume=151|journal=JAMA Dermatol|pages=1110–2}}</ref>
+
+===Atopic dermatitis===
+
+The results of using Tofacitinib in 6 patients with recalcitrant atopic dermatitis was published in the September 2015. All saw improvement in their atopic dermatitis without any adverse events.<ref>{{cite journal|authors=Levy LL, Urban J, King BA|year=2015 |title=Treatment of recalcitrant atopic dermatitis with the oral Janus kinase inhibitor tofacitinib citrate |journal=Journal of the American Academy of Dermatology |volume=73 |issue=3 |pages=395–399 |pmid=26194706 | doi=10.1016/j.jaad.2015.06.045}}</ref>
+
+===Ankylosing spondylitis===
+{{as of|2016}} it is undergoing a phase II trial for [[ankylosing spondylitis]].<ref>[http://www.medpagetoday.com/mastery-of-medicine/rheumatology-mastery-in-as/61383 AS: Is Tofacitinib the Next Big Thing? Nov 2016]</ref>
+
+==Safety and side effects==
+
+Tofacitinib was not approved by European regulatory agencies because of concerns over [[efficacy]] and safety.<ref name="Medical News Today">{{cite news|url=http://www.medicalnewstoday.com/articles/259752.php|title= Pfizer's Arthritis Drug Xeljanz (tofacitinib) Receives A Negative Opinion In Europe|publisher=Medical News Today|date=27 April 2013|accessdate=2 August 2013|first=Christian|last=Nordqvist}}</ref> Animal studies with tofacitinib conducted prior to human trials showed some [[carcinogenesis]], [[mutagenesis]], and impairment of [[fertility]].<ref name=phizer>{{cite news | url=http://labeling.pfizer.com/ShowLabeling.aspx?id=959 | title=XALEJANZ PRESCRIBING INFORMATION @ Labeling.Pfizer.com}}</ref>
+
+===Warnings and precautions===
+Tofacitinib is required by US FDA to have a [[boxed warning]] on its label about possible [[injury]] and [[death]] due to problems such as infections, [[Lymphoma]] and other [[malignancies]] which can arise from use of this drug.<ref name="November2012"/> Serious [[infection]]s leading to [[hospitalization]] or death, including [[tuberculosis]] and bacterial, invasive fungal, viral, and other [[opportunistic infections]], have occurred in patients receiving tofacitinib. [[Epstein Barr Virus]]-associated post-[[Organ transplantation|transplant]] [[lymphoproliferative disorder]] has been observed at an increased rate in [[renal transplant]] patients treated with tofacitinib while on immunosuppressive medications. Patients are warned to avoid use of tofacitinib citrate during an "active serious infection, including localized infections." Doctors are advised to use it with caution in patients that may be at increased risk of gastrointestinal perforations. Laboratory Monitoring is recommended due to potential changes in [[lymphocytes]], [[neutrophils]], [[hemoglobin]], [[liver enzymes]] and [[lipids]]. Tofacitinib claims to have no [[contraindications]], however doctors are advised to reduce the patient's dosage when combined with "potent inhibitors of [[Cytochrome P450 3A4]] (CYP3A4)," such as [[ketoconazole]]), or one or more combined [[medication]]s that result in both moderate inhibition of CYP3A4 and potent inhibition of [[CYP2C19]] such as [[fluconazole]]. Furthermore, [[immunization]]s with live [[vaccine]]s should be avoided by tofacitinib users.<ref name="phizer"/>
+
+===Adverse reactions===
+The most commonly reported [[adverse reaction]]s during the first three months in [[Clinical trial|controlled clinical trial]]s (occurring in greater than or equal to 2% of patients treated with tofacitinib citrate [[monotherapy]] or in combination with [[DMARDs]]) were [[upper respiratory tract infections]], [[headache]], [[diarrhea]], and [[nasopharyngitis]] (the "common cold").<ref name="phizer"/>
+
+==References==
+{{Reflist|35em}}
+
+{{Immunosuppressants}}
+{{Cytokine receptor modulators}}
+
+[[Category:Non-receptor tyrosine kinase inhibitors]]
+[[Category:Pyrrolopyrimidines]]
+[[Category:Immunosuppressants]]

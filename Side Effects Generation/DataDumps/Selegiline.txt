@@ -1,0 +1,223 @@
+{{Use mdy dates|date=March 2014}}
+{{Drugbox
+| verifiedrevid = 464388442
+| IUPAC_name = (''R'')-''N''-methyl-''N''-(1-pheny
+lpropan-2-yl)prop-1-yn-3-amine
+| image = Selegiline.svg
+| width = 225
+| image2 = Selegiline-3D-balls.png
+| width2 = 250
+
+<!--Clinical data-->
+| pronounce = {{IPAc-en|s|ə|ˈ|l|ɛ|dʒ|ᵻ|l|iː|n}} {{respell|sə|LEJ|i-leen}}
+| tradename = Pill form is generic and available under many brand names;<ref name=DrugNames/> [[transdermal patch]] is called Emsam
+| Drugs.com = {{drugs.com|monograph|selegiline-hydrochloride}}
+| MedlinePlus = a697046
+| pregnancy_AU = B2
+| pregnancy_US = C
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| licence_US = Selegiline
+| routes_of_administration = Oral, [[transdermal]], [[Cheek|buccal]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 4.4% (oral, fasted), 20% (oral, after food), 73% (patch)
+| protein_bound = ≥85–90%
+| metabolism = Extensive in [[liver]]
+| metabolites = ''N''-desmethylselegiline, [[Levoamphetamine|<small>L</small>-amphetamine]] and [[Levomethamphetamine|<small>L</small>-methamphetamine]]
+| elimination_half-life = 10 hours (oral), 18–25 hours (transdermal)
+| excretion = [[Urine]] (main route)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6639
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 14611-51-9
+| CAS_supplemental = <br/>{{CAS|14611-52-0}} <small>([[Hydrochloride|HCl]])</small>
+| ATC_prefix = N04
+| ATC_suffix = BD01
+| ATC_supplemental =  {{ATCvet|N06|AX90}}
+| PubChem = 26757
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01037
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 24930
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 2K1V7GP655
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03731
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 9086
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 972
+
+<!--Chemical data-->
+| C=13 | H=17 | N=1
+| molecular_weight = 187.281 g/mol
+| smiles = C#CCN([C@@H](Cc1ccccc1)C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C13H17N/c1-4-10-14(3)12(2)11-13-8-6-5-7-9-13/h1,5-9,12H,10-11H2,2-3H3/t12-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = MEZLKOACVSPNER-GFCCVEGCSA-N
+}}
+
+'''Selegiline''', also known as '''<small>L</small>-deprenyl''', is a [[substituted phenethylamine]]. At normal clinical doses, it is a selective irreversible [[MAOI#Mode of action|MAO-B inhibitor]]. In larger doses it loses its specificity and also inhibits MAO-A.
+It is available in pill form under many brand names<ref name=DrugNames>{{cite web|url=http://www.drugs.com/international/selegiline.html|work=Drugs.com |title=Selegiline|accessdate=Feb 7, 2016}}</ref> and is used to reduce symptoms in early-stage [[Parkinson's disease]]. A [[transdermal patch]] (brand name, '''Emsam''') is used to treat [[major depressive disorder|depression]].
+
+{{TOC limit|3}}
+
+==Medical uses==
+For all human uses and all forms, selegiline is [[pregnancy category]] C,<ref name=PillLabel/><ref name=PatchLabel/> meaning that caution is in order because studies in pregnant laboratory animals have shown an adverse effect on the fetus and there are no adequate and well-controlled studies in humans, but that the drug's potential benefits may nonetheless warrant use of the drug in some pregnant women.
+
+=== Parkinson's disease ===
+In its pill form, selegiline is used to treat symptoms of [[Parkinson's disease]].<ref name=PillLabel>[http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/019334s019s020lbl.pdf Selegiline oral label].  Updated Dec 31, 2008</ref> It can be used on its own or in a combination with another agent, most often [[L-DOPA|<small>L</small>-DOPA]].<ref name="pmid15279566">{{cite journal |vauthors=Riederer P, Lachenmayer L, Laux G |title=Clinical applications of MAO-inhibitors |journal=Curr. Med. Chem. |volume=11 |issue=15 |pages=2033–43 |date=August 2004 |pmid=15279566 |doi= 10.2174/0929867043364775|url=http://www.bentham-direct.org/pages/content.php?CMC/2004/00000011/00000015/0007C.SGM}}</ref>
+
+Selegiline delays the time point when the [[L-DOPA|<small>L</small>-DOPA]] (levodopa) treatment becomes necessary from about 11 months to about 18 months after diagnosis,<ref name="pmid14628191">{{cite journal |vauthors=Riederer P, Lachenmayer L |title=Selegiline's neuroprotective capacity revisited |journal=J Neural Transm |volume=110 |issue=11 |pages=1273–8 |date=November 2003 |pmid=14628191 |doi=10.1007/s00702-003-0083-x |url=}}</ref> which is beneficial despite not being definitive evidence of neuroprotection. The rationale for adding selegiline to levodopa is to decrease the required dose of levodopa and thus reduce the motor complications of levodopa therapy.<ref name="pmid15310558">{{cite journal |author=Ives NJ |title=Monoamine oxidase type B inhibitors in early Parkinson's disease: meta-analysis of 17 randomised trials involving 3525 patients |journal=BMJ |volume=329 |issue=7466 |pages=593 |date=September 2004 |pmid=15310558 |pmc=516655 |doi=10.1136/bmj.38184.606169.AE |url= |name-list-format=vanc|author2=Stowe RL |author3=Marro J |display-authors=3 |last4=Counsell |first4=C |last5=MacLeod |first5=A |last6=Clarke |first6=CE |last7=Gray |first7=R |last8=Wheatley |first8=K}}</ref>
+
+===Depression===
+Selegiline is also delivered via a [[transdermal patch]]; in this form it is used as a treatment for [[major depressive disorder]].<ref name=PatchLabel>[http://www.accessdata.fda.gov/drugsatfda_docs/label/2014/021336s005s010,021708s000lbl.pdf Emsam label] Last revised Sept 2014. [http://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.Set_Current_Drug&ApplNo=021708&DrugName=EMSAM&ActiveIngred=SELEGILINE&SponsorApplicant=SOMERSET&ProductMktStatus=1&goto=Search.Label_ApprovalHistory Index page at FDA]</ref><ref name=QuantRev2013>{{cite journal | author = Citrome L, Goldberg JF, Portland KB | date = Nov 2013 | title = Placing transdermal selegiline for major depressive disorder into clinical context: number needed to treat, number needed to harm, and likelihood to be helped or harmed | url = | journal = J Affect Disord | volume = 151 | issue = 2| pages = 409–17 | doi = 10.1016/j.jad.2013.06.027 | pmid = 23890583 }}</ref>
+
+A quantitative review published in 2015 found that for the pooled results of the pivotal trials, the [[number needed to treat]] (a sign of [[effect size]], so a low number is better) for the patch for symptom reduction was 11, and for remission, was 9.<ref name=QuantRev2013/>  The [[number needed to harm]] (inverse of the NNT, a high number here is better) ranged from 387 for sexual side effects to 7 for application site reaction.<ref name=QuantRev2013/> With regard to the likelihood to be helped or harmed (LHH), the analysis showed that the selegiline patch was 3.6 times as likely to lead to a remission vs. a discontinuation due to side effects;  the LHH for remission vs. incidence of insomnia was 2.1; the LHH for remission vs. discontinuation due to insomnia was 32.7.  The LHH for remission vs insomnia and sexual dysfunction were both very low.<ref name=QuantRev2013/>
+
+==Adverse effects==
+Side effects of the pill form include, in decreasing order of frequency, nausea, hallucinations, confusion, depression, loss of balance, insomnia, increased involuntary movements, agitation, arrhythmia, slow heart rate, delusions, hypertension, new or increased [[angina pectoris]], and [[syncope (medicine)|syncope]].<ref name=PillLabel/>
+
+The main side effects of the patch form for depression included application-site reactions, insomnia, diarrhea, and sore throat.<ref name=PatchLabel/>
+
+The selegiline transdermal patch for depression carries a [[Boxed warning|black box warning]] about the risk of suicide, especially for young people,<ref name=PatchLabel/> as do all antidepressants since 2007.<ref name="pmid17485726">{{cite journal |vauthors=Friedman RA, Leon AC | title = Expanding the black box – depression, antidepressants, and the risk of suicide | journal = N. Engl. J. Med. | volume = 356 | issue = 23 | pages = 2343–6 | year = 2007 | pmid = 17485726 | doi = 10.1056/NEJMp078015 }}</ref>
+
+==Interactions==
+Both forms of the drug carry strong warnings against combining selegiline with drugs that could produce [[serotonin syndrome]], which include [[SSRI]]s and the [[cough medicine]], [[dextromethorphan]].<ref name=PillLabel/><ref name=PatchLabel/><ref name="pmid9673855">{{cite journal |vauthors=Heinonen EH, Myllylä V |title=Safety of selegiline (deprenyl) in the treatment of Parkinson's disease |journal=Drug Saf |volume=19 |issue=1 |pages=11–22 |date=July 1998 |pmid=9673855 |doi=10.2165/00002018-199819010-00002}}</ref>  Selegiline in combination with the opioid analgesic [[pethidine]] is not recommended as it can lead to severe adverse effects.<ref name="pmid9673855"/> Several other synthetic opioids such as [[tramadol]] and [[methadone]], [[dextromethorphan]], and various [[triptan]]s are contraindicated due to potential for serotonin syndrome.<ref>{{Cite journal|last=Csoti|first=Ilona|last2=Storch|first2=Alexander|last3=Müller|first3=Walter|last4=Jost|first4=Wolfgang H.|date=2012|year=|title=Drug interactions with selegiline versus rasagiline|url=http://www.sciencedirect.com/science/article/pii/S2210533612000731|journal=Basal Ganglia|series=Monoamine oxidase B Inhibitors|volume=2|issue=4, Supplement|pages=S27–S31|doi=10.1016/j.baga.2012.06.003|via=}}</ref><ref>{{Cite journal|last=Gillman|first=P. K.|date=2005|year=|title=Monoamine oxidase inhibitors, opioid analgesics and serotonin toxicity|journal=British Journal of Anaesthesia|volume=95|issue=4|pages=434–441|doi=10.1093/bja/aei210|issn=0007-0912|pmid=16051647|via=}}</ref>
+
+Both forms of the drug carry warnings about [[Monoamine oxidase inhibitor#Hypertensive Crisis .26 Tyramine|food restrictions]], to avoid [[hypertensive crisis]] that are associated with MAO inhibitors.<ref name=PillLabel/><ref name=PatchLabel/>  The patch form of the drug was created in part to overcome the issues with food restrictions: the clinical trials did not include food restrictions, and no hypertensive crisis during the course of them. Additionally, in [[post-marketing surveillance]] from April 2006 to October 2010, only 13 self-reports of possible hypertensive events or hypertension were made out of 29,141 exposures to the drug, and none were accompanied by objective clinical data.<ref name=QuantRev2013/> The lowest dose of the patch method of delivery, 6&nbsp;mg/24 hours, does not require any dietary restrictions.<ref>{{Cite journal|last=Jessen|first=Lois|last2=Kovalick|first2=Lawrence J.|last3=Azzaro|first3=Albert J.|date=2017-04-22|title=The Selegiline Transdermal System (Emsam)|journal=Pharmacy and Therapeutics|volume=33|issue=4|pages=212–246|issn=1052-1372|pmc=2730099|pmid=19750165}}</ref> Higher doses of the patch and oral formulations, whether in combination with the older non-selective MAOIs or in combination with the [[Reversible inhibitor of monoamine oxidase A|reversible MAO-A inhibitor]] [[moclobemide]], require a low [[tyramine]] diet.<ref name="pmid9673855"/>
+
+==Pharmacology==
+
+===Protein binding===
+Selegiline is a selective inhibitor of MAO-B; MAO-B metabolizes [[dopamine]] and [[phenylethylamine]].<ref name="Katzung, Bertram G 2004. page 453"/>
+
+Selegiline also inhibits [[CYP2A6]] and can increase the effects of nicotine as a result.<ref>{{Cite journal
+| pmid = 18065502
+| year = 2008
+| author1 = Siu
+| first1 = E. C.
+| title = Selegiline is a mechanism-based inactivator of CYP2A6 inhibiting nicotine metabolism in humans and mice
+| journal = Journal of Pharmacology and Experimental Therapeutics
+| volume = 324
+| issue = 3
+| pages = 992–9
+| last2 = Tyndale
+| first2 = R. F.
+| doi = 10.1124/jpet.107.133900
+}}</ref>
+Selegiline appears to activate [[Sigma-1 receptor|σ<sub>1</sub> receptors]] with a relatively high affinity of approximately 400 nM.<ref>{{ cite book
+ | isbn = 978-0-12-376350-1
+| year = 1994
+| author1 = Itzhak
+| first1 = Yossef
+| title = Sigma Receptors
+| publisher = Academic press
+| pages = 84
+}}</ref><ref>{{cite book
+ | isbn = 978-0-7484-0063-8
+| year = 1993
+| author1 = Stone
+| first1 = T. W.
+| title =  Acetylcholine, Sigma Receptors, CCK and Eicosanoids, Neurotoxins
+| publisher = Taylor & Francis
+| pages = 124
+}}</ref>
+
+===Pharmacokinetics of the pill form===
+Selegiline has a low oral [[bioavailability]], which increases to moderate when ingested together with a high-fat meal, the molecule being fat soluble.<ref>{{cite journal |pages=1535–40 |doi=10.1023/A:1016035730754 |year=1996 |last1=Barrett |first1=Jeffrey S. |last2=Szego |first2=Peter |last3=Rohatagi |first3=Shashank |last4=Morales |first4=Richard J. |last5=Dewitt |first5=Kimberly E. |last6=Rajewski |first6=Gregory |last7=Ireland |first7=Joyce |journal=Pharmaceutical Research |volume=13 |issue=10 |pmid=8899847 |title=Absorption and presystemic metabolism of selegiline hydrochloride at different regions in the gastrointestinal tract in healthy males}}</ref>
+
+Selegiline's oral bioavailability is drastically increased in females taking [[Oral contraceptive pill|oral contraceptives]] (10- to 20-fold).<ref name="pmid10215747">{{cite journal |pages=249–54 |pmc=2014223 |doi=10.1046/j.1365-2125.1999.00891.x |title=Dose linearity study of selegiline pharmacokinetics after oral administration: Evidence for strong drug interaction with female sex steroids |year=2001 |last1=Laine |first1=Kari |last2=Anttila |first2=Markku |last3=Helminen |first3=Antti |last4=Karnani |first4=Hari |last5=Huupponen |first5=Risto |journal=British Journal of Clinical Pharmacology |volume=47 |issue=3 |pmid=10215747}}</ref> This could lead to loss of MAO-B selectivity, with inhibition of both MAO-A and MAO-B, which would make patients susceptible to the usual risks of unselective [[MAOI]]s such as [[tyramine]]-induced hypertensive crisis and [[serotonin toxicity]] when combined with [[serotonergics]] such as SSRIs.<ref name="pmid10215747"/>
+
+===Pharmacokinetics of the patch form===
+Following application of the patch to humans, 25% to 30% of the selegiline content on average is delivered systemically over 24 hours (range approximately 10% to 40%).  Transdermal dosing results in significantly higher exposure to selegiline with significantly lower exposure for all metabolites when compared to oral dosing, due to extensive first-pass metabolism for the pill form and low first-pass metabolism for the patch form.  The site of application is not a significant factor in how the drug is distributed.   In humans, selegiline does not accumulate in the skin nor is it metabolized in the skin.<ref name=PatchLabel/>
+
+When radiolabeled selegiline is given transdermally to laboratory animals, the drug is rapidly distributed to all body tissues and rapidly penetrates the [[blood–brain barrier]].<ref name=PatchLabel/>
+
+===Metabolites===
+
+==== Desmethylselegiline====
+''N''-Desmethylselegiline may have neuroprotective [[Apoptosis|antiapoptotic]] properties. A large multicenter study suggests a decrease in the disease progression of  Parkinsonism but may have reflected other symptomatic response.<ref name="Katzung, Bertram G 2004. page 453">Katzung, Bertram G.  Basic & Clinical Pharmacology.  9th Edition.  2004. page 453.  Lange Medical Books - McGraw Hill Publishers.</ref> Desmethylselegiline is metabolized by [[CYP2C19]].<ref>{{cite journal |doi=10.1034/j.1600-0773.2000.d01-38.x |title=Selegiline Metabolism and Cytochrome P450 Enzymes:In vitro Study in Human Liver Microsomes* |year=2000 |last1=Taavitsainen |first1=Paivi |last2=Anttila |first2=Markku |last3=Nyman |first3=Leena |last4=Karnani |first4=Hari |last5=Salonen |first5=Jarmo S. |last6=Pelkonen |first6=Olavi |journal=Pharmacology and Toxicology |volume=86 |issue=5 |pages=215–21 |pmid=10862503}}</ref>
+
+====Levoamphetamine and levomethamphetamine====
+Selegiline is partly [[Drug metabolism|metabolized]] to [[levomethamphetamine]] (<small>L</small>-methamphetamine), one of the two [[enantiomer]]s of [[methamphetamine]], ''[[in vivo]]''.<ref name="Pmid">{{cite journal |pmid=1658311 |year=1991 |last1=Engberg |first1=G |last2=Elebring |first2=T |last3=Nissbrandt |first3=H |title=Deprenyl (selegiline), a selective MAO-B inhibitor with active metabolites; effects on locomotor activity, dopaminergic neurotransmission and firing rate of nigral dopamine neurons |volume=259 |issue=2 |pages=841–7 |journal=The Journal of Pharmacology and Experimental Therapeutics}}</ref><ref name=Foye2012>{{cite book|editor1-last=Lemke|editor1-first=Thomas L.|editor2-last=Williams|editor2-first=David A|title=Foye's Principles of Medicinal Chemistry|date=2012|publisher=Lippincott Williams & Wilkins|isbn=1609133455|page=434}}</ref> While these metabolites may contribute to the drug's ability to [[reuptake inhibition|inhibit reuptake]] of the neurotransmitters dopamine and [[norepinephrine]], they have also been associated with [[orthostatic hypotension]] and [[hallucination]]s in some people.<ref name=Foye2012/><ref>{{Cite journal|title = Contrasting neuroprotective and neurotoxic actions of respective metabolites of anti-Parkinson drugs rasagiline and selegiline|journal = Neuroscience Letters|date = 2004-01-30|issn = 0304-3940|pmid = 14732458|pages = 169–172|volume = 355|issue = 3|first = Orit|last = Bar Am|first2 = Tamar|last2 = Amit|first3 = Moussa B. H.|last3 = Youdim|doi=10.1016/j.neulet.2003.10.067}}</ref><ref>{{Cite journal|title = Are metabolites of l-deprenyl (selegiline) useful or harmful? Indications from preclinical research|journal = Journal of Neural Transmission. Supplementum|date = 1996-01-01|issn = 0303-6995|pmid = 8988462|pages = 61–73|volume = 48|first = S.|last = Yasar|first2 = J. P.|last2 = Goldberg|first3 = S. R.|last3 = Goldberg}}</ref> A newer antiparkinson MAO-B inhibitor, [[rasagiline]], metabolizes into 1(''R'')-aminoindan which has no amphetamine-like characteristics.<ref>{{ cite journal |vauthors=Chen JJ, Swope DM | title = Clinical pharmacology of rasagiline: a novel, second-generation propargylamine for the treatment of Parkinson disease | journal = J Clin Pharmacol | year = 2005 | volume = 45 | issue = 8 | pages = 878–94 | pmid = 16027398 | doi = 10.1177/0091270005277935 | url = http://jcp.sagepub.com/cgi/pmidlookup?view=long&pmid=16027398 }}</ref>
+
+This metabolic pathway may cause persons taking selegiline to test positive for [[amphetamine]] or [[methamphetamine]] on drug screening tests.<ref>{{Cite journal|title = Methamphetamine and amphetamine derived from the metabolism of selegiline|journal = Journal of Forensic Sciences|date = 1995-11-01|issn = 0022-1198|pmid = 8522918|pages = 1100–1102|volume = 40|issue = 6|first = R. W.|last = Romberg|first2 = S. B.|last2 = Needleman|first3 = J. J.|last3 = Snyder|first4 = A.|last4 = Greedan}}</ref>
+
+==Chemistry==
+Selegiline belongs to a class of drugs called [[phenethylamines]]. Selegiline is an <small>L</small>-methamphetamine [[Derivative (chemistry)|derivative]] with a [[propargyl]] group attached to the nitrogen atom. This detail is borrowed from [[pargyline]], an older phenethylamine MAO-B inhibitor.<ref>{{Cite web|title = The History of Selegiline/(-)-Deprenyl the First Selective Inhibitor of B-Type Monoamine Oxidase and The First Synthetic Catecholaminergic Activity Enhancer Substance|url = http://inhn.org/archives/miklya-collection/the-history-of-selegiline-deprenyl-the-first-selective-inhibitor-of-b-type-monoamine-oxidase-and-the-first-synthetic-catecholaminergic-activity-enhancer-substance.html|website = International Network for the History of Neuropsychopharmacology|accessdate = 7 January 2016|language = en|first = Ildiko|last = Miklya|date = 13 March 2014}}</ref>
+
+Selegiline, ''N''-methyl-''N''-(2-propynyl)-2-methyl-1-phenylethyl-2-amine, is synthesized by the alkylation of (–)-[[methamphetamine]] using [[propargyl bromide]].<ref>J. Knoll, E. Sanfai, {{Cite patent|DE|1568277}} (1966).</ref><ref>J. Hermann Nee Voeroes, Z. Ecsery, G. Sabo, L. Arvai, L. Nagi, O. Orban, E. Sanfai, {{US patent| 4564706}} (1986)</ref><ref>B. Brunova, M. Ferenc, {{Cite patent|EP|344675}} (1989)</ref><ref>{{cite journal |doi=10.1021/jo00435a026 |title=2-Methyl-3-butyn-2-ol as an acetylene precursor in the Mannich reaction. A new synthesis of suicide inactivators of monoamine oxidase |year=1977 |last1=Fowler |first1=Joanna S. |journal=The Journal of Organic Chemistry |volume=42 |issue=15 |pages=2637–7 |pmid=874623}}</ref>
+[[File:Selegiline synthesis.svg|500px|center]]
+
+==History==
+Following the discovery that the [[tuberculosis]] (TB) drug [[iproniazid]] elevated the mood of people taking it for TB, and the subsequent discovery that the effect was likely due to inhibition of [[MAO]], many people and companies started trying to discover MAO inhibitors to use as antidepressants.  Selegiline was discovered by Z. Ecseri at the Hungarian drug company, Chinoin (part of [[Sanofi]] since 1993),<ref name=PL1993>Staff, The Pharma Letter. Sept 20, 1993 [http://www.thepharmaletter.com/article/sanofi-extends-holding-in-chinoin Sanofi Extends Holding in Chinoin]</ref> which they called E-250.<ref name=MagyarChapter>Kalman Magyar. The pharmacology of selegiline. Chapter 4 in Monoamine Oxidases and their Inhibitors.  Volume 100 of International Review of Neurobiology.  Eds Moussa Youdim, Peter Riederer. Academic Press, 2011.  {{ISBN|9780123864680}}</ref>{{rp|66–67}}  Chinoin received a patent on the drug in 1962 and the compound was first published in the scientific literature in English in 1965.<ref name=MagyarChapter/>{{rp|67}}<ref>{{cite journal | author = Knoll J, Ecseri Z, Kelemen K, Nievel J, Knoll B | date = May 1965 | title = Phenylisopropylmethylpropinylamine (E-250), a new spectrum psychic energizer | url = | journal = Arch Int Pharmacodyn Ther. | volume = 155 | issue = 1| pages = 154–64 | pmid = 4378644 }}</ref>  Work on the biology and effects of E-250 in animals and humans was conducted by a group led by József Knoll at [[Semmelweis University]] which was also in [[Budapest]].<ref name=MagyarChapter/>{{rp|67}}
+
+Deprenyl is a racemic compound, a mixture of two isomers called [[enantiomer]]s. Further work determined that the [[levorotatory]] enantiomer was a more potent MAO-inhibitor, which was published in 1967, and subsequent work was done with the single enantiomer <small>L</small>-deprenyl.<ref name=MagyarChapter/>{{rp|67}}<ref>{{cite journal | author = Magyar K, Vizi ES, Ecseri Z, Knoll J | year = 1967 | title = Comparative pharmacological analysis of the optical isomers of phenyl-isopropyl-methyl-propinylamine (E-250) | url = | journal = Acta Physiol Acad Sci Hung. | volume = 32 | issue = 4| pages = 377–87 | pmid = 5595908 }}</ref><ref name=healy>{{cite book |author=Healy, David |authorlink1=David Healy (psychiatrist)| title=The Psychopharmacologists, Vol. III: Interviews |publisher=Arnold|location=London|year=2000|pages=81–110|isbn=0-340-76110-5 |chapter=The psychopharmacology of life and death. Interview with Joseph Knoll.}}</ref>
+
+In 1971, Knoll showed that selegiline selectively inhibits the B-isoform of monoamine oxidase ([[MAO-B]]) and proposed that it is unlikely to cause the infamous "cheese effect" ([[hypertensive emergency|hypertensive crisis]] resulting from consuming [[foods containing tyramine]]) that occurs with non-selective MAO inhibitors. A few years later, two Parkinson's disease researchers based in Vienna, Peter Riederer and Walther Birkmayer, realized that selegiline could be useful in Parkinson's disease. One of their colleagues, Prof. [[Moussa B.H. Youdim]], visited Knoll in Budapest and took selegiline from him to Vienna. In 1975, Birkmayer's group published the first paper on the effect of selegiline in Parkinson's disease.<ref name=healy/><ref name="pmid1172524">{{cite journal |vauthors=Birkmayer W, Riederer P, Youdim MB, Linauer W |title=The potentiation of the anti akinetic effect after L-dopa treatment by an inhibitor of MAO-B, Deprenil |journal=J. Neural Transm. |volume=36|issue=3–4 |pages=303–26 |year=1975 |pmid=1172524 |doi= 10.1007/BF01253131|url=http://link.springer.de/link/service/journals/00702/bibs/5036003/50360303.htm}}</ref>
+
+The discovery that selegiline seemed to have a [[neuroprotection]] effect in Parkinson's disease led to widespread speculation in the 1970s that it could be useful as an [[anti-aging]] drug.<ref name=HG2002/>
+
+In 1987 Somerset Pharmaceuticals in New Jersey, which had acquired the US rights to develop selegiline, filed a [[new drug application]] (NDA) with the [[Food and Drug Administration|FDA]] to market the drug for PD in the US.<ref name=MylanHist>John T. Seaman, John T. Landry. Mylan: 50 Years of Unconventional Success : Making Quality Medicine Affordable and Accessible. UPNE, 2012. {{ISBN|9781611682700}}.  Page 50</ref>  While the NDA was under review, Somerset was acquired in a joint venture by two generic drug companies, [[Mylan]] and Bolan Pharmaceuticals.<ref name=MylanHist/>  Selegiline was approved for Parkinson's disease by the FDA in 1989.<ref name=MylanHist/>
+
+[[Image:Emsamred.jpg|thumb|190px|right|Emsam transdermal patch, 6mg/24hr dose]]
+In the 1990s, J. Alexander Bodkin at [[McLean Hospital]], an affiliate of [[Harvard Medical School]], began a collaboration with Somerset to develop delivery of selegiline via a [[transdermal]] patch in order to avoid the well known [[Monoamine oxidase inhibitor#Hypertensive Crisis .26 Tyramine|dietary restrictions of MAO inhibitors]].<ref name=HG2002>{{cite web |url=http://www.news.harvard.edu/gazette/2002/11.07/11-patch.html |title=Bodkin is Patching up Depression |author=William J. Cromie |work=Harvard University Gazette |date=2002-11-07 |accessdate=2007-09-08}}</ref><ref name=Frampton07>{{cite journal |last1=Frampton |first1=JE |last2=Plosker |first2=GL |year=2007 |title=Selegiline transdermal system: in the treatment of major depressive disorder |journal=Drugs |volume=67 |issue=2 |pages=257–67, discussion 266–7 |pmid=17284087 |doi=10.2165/00003495-200767020-00006}}</ref><ref>Mary Duffy for the New York Times. December 3, 2002  [https://www.nytimes.com/2002/12/03/health/patch-raises-new-hope-for-beating-depression.html Patch Raises New Hope For Beating Depression]</ref>  Somerset obtained FDA approval to market the patch in 2006.<ref name=Cascade01>{{cite journal | author = Cascade EF, Kalali AH, Preskorn SH | date = Jun 2007 | title = Emsam: the first year | journal = Psychiatry (Edgmont) | volume = 4 | issue = 6| pages = 19–21 | pmid = 20711332 | pmc=2921248}}</ref>
+
+==Research==
+A selegiline transdermal patch was  tested for its effectiveness in treating [[ADHD]].<ref>{{Cite journal|title = Selegiline in the treatment of attention deficit hyperactivity disorder in children: a double blind and randomized trial|journal = Progress in Neuro-Psychopharmacology & Biological Psychiatry|date = 1 August 2003|issn = 0278-5846|pmid = 12921918|pages = 841–845|volume = 27|issue = 5|doi = 10.1016/S0278-5846(03)00117-9|first = Shahin|last = Akhondzadeh|first2 = Reza|last2 = Tavakolian|first3 = Rozita|last3 = Davari-Ashtiani|first4 = Fariba|last4 = Arabgol|first5 = Homayoun|last5 = Amini}}</ref>
+
+Selegiline's effectiveness in helping people stop smoking [[tobacco]] or [[cannabis (drug)|cannabis]] has been studied.<ref>{{cite web
+| title =Effectiveness of Selegiline in Treating Marijuana Dependent Individuals
+| work =ClinicalTrials.gov
+| publisher =National Institute on Drug Abuse
+| date=March 2005
+| url =http://clinicaltrials.gov/show/NCT00218517
+| format =
+| doi =
+| accessdate = February 16, 2007 }}</ref><ref>{{cite web
+| title =Usefulness of Selegiline as an Aid to Quit Smoking
+| work =ClinicalTrials.gov
+| publisher =National Institute on Drug Abuse
+| date=July 2004
+| url =http://clinicaltrials.gov/show/NCT00129311
+| format =
+| doi =
+| accessdate = February 16, 2007 }}</ref>
+
+==Society and culture==
+Due to the structural similarity to amphetamine, selegiline has been classified as a [[controlled substance]] in [[Japan]] and thus can only be obtained with a [[Medical prescription|prescription]] or special government license. Amphetamine and methamphetamine are illegal in the country.
+
+In ''[[E for Ecstasy]]''<ref>Saunders, N., & Heron, L., (1993) ''E for Ecstasy'' (Paperback), N. Saunders, London. ({{ISBN|0950162884}}){{Page needed|date=January 2012}}</ref> (a book examining the uses of the street drug [[Methylenedioxymethamphetamine|ecstasy]] in the UK)  the writer, activist and ecstasy advocate [[Nicholas Saunders (activist)|Nicholas Saunders]] highlighted test results showing that certain consignments of the drug also contained selegiline. Consignments of ecstasy known as "Strawberry" contained what Saunders described as a "potentially dangerous combination of [[ketamine]], [[ephedrine]] and selegiline," as did a consignment of "Sitting Duck" Ecstasy tablets.<ref>See: [http://ecstasy.org/testing/pillstilJuly.html] for details online.</ref>
+
+In the US, selegiline is available by prescription but is not scheduled as a controlled substance.
+
+==Veterinary use==
+Selegiline (brand name '''Anipryl''') is also used (at extremely high dosages relative to humans) in [[veterinary medicine]] to treat the symptoms of [[Cushing's disease]] and cognitive dysfunction (Canine Cognitive Dysfunction)<ref>{{cite web|url=http://www.veterinarypartner.com/Content.plx?P=A&A=2549|title=Canine Cognitive Dysfunction|author=Lundgren, Becky|publisher=Veterinary Partner|accessdate=April 8, 2011}}</ref><ref>{{cite web|url=http://www.lbah.com/cds.htm|title=Cognitive Dysfunction Syndrome|publisher=Long Beach Animal Hospital|accessdate=April 8, 2011}}</ref> in [[dog]]s.<ref>http://www.petplace.com/drug-library/selegiline-hcl-anipryl/page1.aspx</ref><ref>{{cite web|url=http://www.drugs.com/vet/anipryl-tablets.html|title=Anipryl consumer information|publisher=Drugs.com Vet|accessdate=April 3, 2011}}</ref><ref>{{cite web|url=http://www.lloydinc.com/pdfs/Endocrinology/Vol14_issue3_2004.pdf |title=Selegiline Treatment of Canine Pituitary-Dependent Hyperadrenocorticism|vauthors=Braddock JA, Church DB, Robertson ID |year=2004|publisher=Australian Veterinary Journal|accessdate=April 8, 2011}} ([[PDF]])</ref>
+
+==See also==
+* [[D-Deprenyl|<small>D</small>-Deprenyl]]
+* [[Rasagiline]]
+* [[Tranylcypromine]]
+
+==References==
+{{Reflist|2}}
+
+{{Antiparkinson}}
+{{Antidepressants}}
+{{Monoamine metabolism modulators}}
+{{Monoamine releasing agents}}
+{{Sigma receptor modulators}}
+{{Phenethylamines}}
+
+[[Category:Alkynes]]
+[[Category:Antiparkinsonian agents]]
+[[Category:Enantiopure drugs]]
+[[Category:Monoamine oxidase inhibitors]]
+[[Category:Sigma receptor ligands]]
+[[Category:Substituted amphetamines]]

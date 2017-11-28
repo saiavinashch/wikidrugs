@@ -1,0 +1,85 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 462252043
+| IUPAC_name = (1''S'',7''S'',8''S'',8a''R'')-8-{2-[(2''R'',4''R'')-4-Hydroxy-6-oxotetrahydro-2''H''-pyran-2-yl]ethyl}-7-methyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl (2''S'')-2-methylbutanoate
+| image = Mevastatin.svg
+| width = 215
+
+<!--Clinical data-->
+| tradename =
+| pregnancy_category =
+| legal_status =
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 3031
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 73573-88-3
+| ATC_prefix = None
+| ATC_suffix =
+| ATC_supplemental =
+| PubChem = 64715
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB06693
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 58262
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 1UQM1K0W9X
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = C13963
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 34848
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 54440
+
+<!--Chemical data-->
+| C=23 | H=34 | O=5 
+| smiles = O=C(O[C@@H]1[C@H]3C(=C/CC1)\C=C/[C@@H]([C@@H]3CC[C@H]2OC(=O)C[C@H](O)C2)C)[C@@H](C)CC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C23H34O5/c1-4-14(2)23(26)28-20-7-5-6-16-9-8-15(3)19(22(16)20)11-10-18-12-17(24)13-21(25)27-18/h6,8-9,14-15,17-20,22,24H,4-5,7,10-13H2,1-3H3/t14-,15-,17+,18+,19-,20-,22-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = AJLFOPYRIVGYMJ-INTXDZFKSA-N
+|drug_name=|alt=|caption=|type=|MedlinePlus=|licence_EU=|pregnancy_AU=|pregnancy_US=|licence_US=}}
+
+'''Mevastatin''' ('''compactin''', '''ML-236B''') is a [[hypolipidemic agent]] that belongs to the [[statin]]s class.
+
+It was isolated from the mold ''[[Penicillium citrinum]]'' by [[Akira Endo (biochemist)|Akira Endo]] in the 1970s, and he identified it as a [[HMG-CoA reductase inhibitor]],<ref>{{cite journal|first=Akira|last=Endo|author2=Kuroda M. |author3=Tsujita Y. |title=ML-236A, ML-236B, and ML-236C, new inhibitors of cholesterogenesis produced by Penicillium citrinium|journal=Journal of Antibiotics (Tokyo)|date=December 1976|volume=29|issue=12|pages=1346–8|pmid=1010803|doi=10.7164/antibiotics.29.1346}}</ref> i.e., a statin. Mevastatin might be considered the first statin drug;<ref>{{cite web|url=http://www.world-of-fungi.org/Mostly_Medical/Mark_Gilson/Mark_Gilson.htm |title=The story of statins |deadurl=yes |archiveurl=https://web.archive.org/web/20081221221223/http://www.world-of-fungi.org/Mostly_Medical/Mark_Gilson/Mark_Gilson.htm |archivedate=December 21, 2008 }}</ref> clinical trials on mevastatin were performed in the late 1970s in Japan, but it was never marketed.<ref>{{cite journal|first= Akira|last= Endo|title= The origin of the statins |journal= Atheroscler. Suppl. |date=Oct 2004|volume= 5|issue= 3|pages= 125–30|pmid= 15531285|doi=10.1016/j.atherosclerosissup.2004.08.033 }}</ref> The first statin drug available to the general public was [[lovastatin]].
+
+Mevastatin has since been derivatized to the compound [[pravastatin]], which is a pharmaceutical used in the lowering of [[cholesterol]] and preventing [[cardiovascular disease]].
+
+''[[In vitro]]'', it has antiproliferative properties.<ref>{{cite journal | doi = 10.1093/carcin/22.7.1061| pmid = 11408350| title = HMG-CoA reductase inhibitor mevastatin enhances the growth inhibitory effect of butyrate in the colorectal carcinoma cell line Caco-2| journal = Carcinogenesis| volume = 22| issue = 7| pages = 1061–7| year = 2001| last1 = Wachtershauser| first1 = A.| last2 = Akoglu| first2 = B| last3 = Stein| first3 = J}}</ref>
+
+A British group isolated the same compound from ''Penicillium brevicompactum'', named it ''compactin'', and published their results in 1976.<ref>{{cite journal|last1=Brown|first1=Allan G.|last2=Smale|first2=Terry C.|last3=King|first3=Trevor J.|last4=Hasenkamp|first4=Rainer|last5=Thompson|first5=Ronald H.|title=Crystal and molecular structure of compactin, a new antifungal metabolite from ''Penicillium brevicompactum''.|journal=J. Chem. Soc., Perkin Trans. 1|date=1976|issue=11|pages=1165–1170|doi=10.1039/P19760001165|pmid=945291}}</ref> The British group mentions antifungal properties with no mention of HMG-CoA reductase inhibition.
+
+High doses inhibit growth and proliferation of [[melanoma]] cells.<ref>{{cite journal | doi = 10.1186/1471-2407-8-9| pmid = 18199328| pmc = 2253545| title = The 3-hydroxy-3-methylglutaryl-coenzyme a reductase inhibitors, simvastatin, lovastatin and mevastatin inhibit proliferation and invasion of melanoma cells| journal = BMC Cancer| volume = 8| pages = 9| year = 2008| last1 = Glynn| first1 = Sharon A| last2 = O'Sullivan| first2 = Dermot| last3 = Eustace| first3 = Alex J| last4 = Clynes| first4 = Martin| last5 = O'Donovan| first5 = Norma}}</ref>
+
+== Biosynthesis ==
+Biosynthesis of mevastatin is primarily accomplished via a type 1 [[Polyketide synthase|PKS pathway]] it proceeds in the PKS pathway as seen in figure 1 until it reaches a hexaketide state where it undergoes a [[Diels–Alder reaction|Diels-Alder]] cyclization. After cyclization it continues via the PKS pathway to a nonaketide after which it is released and undergoes oxidation and dehydration. It is presumed that the oxidations are preformed by a polypeptide that is similar to cytochrome p450 monooxygenase, which is encoded by ''mlc''C within the mevastatin gene. Lastly the biosynthesis is completed by the PKS facilitating the addition of a diketide sidechain and a methylation by [[S-adenosylmethionine synthetase enzyme|SAM]].<ref name=":0">{{Cite journal|last=Abe|first=Y.|last2=Suzuki|first2=T.|last3=Ono|first3=C.|last4=Iwamoto|first4=K.|last5=Hosobuchi|first5=M.|last6=Yoshikawa|first6=H.|date=2002-07-01|title=Molecular cloning and characterization of an ML-236B (compactin) biosynthetic gene cluster in Penicillium citrinum|url=https://link.springer.com/article/10.1007/s00438-002-0697-y|journal=Molecular Genetics and Genomics|language=en|volume=267|issue=5|pages=636–646|doi=10.1007/s00438-002-0697-y|issn=1617-4615}}</ref> Figure 1 shows mevastatin in its acid form but it can also be in the more commonly seen lactone form. This pathway was first observed in ''Penicillium cilrinum'' and was later discovered that another type of fungus, ''Penicillium brevicompaetum'' also produced mevastatin via a PKS pathway.
+
+=== Figure 1. Biosynthesis pathway ===
+[[File:Mevastatin Structure.svg|thumb|260px|[[Lactone]] and acid form of mevastatin]]
+[[File:Mevastatin Biosynthesis Corrected.svg|512x512px]]<ref name=":0" />
+
+== Pharmacology ==
+Sustained elevations of cholesterol in the blood increase the risk of cardiovascular disease. Mevastatin acts to lowers hepatic production of cholesterol by competitively inhibiting HMG-CoA reductase, the enzyme that catalyzes the rate-limiting step in the cholesterol biosynthesis pathway via the mevalonic acid pathway. When hepatic cholesterol levels are decreased it causes an increased uptake of low density lipoprotein (LDL) cholesterol and reduces cholesterol levels in the circulation.<ref>{{Cite web|url=https://pubchem.ncbi.nlm.nih.gov/compound/Mevastatin#section=Pharmacology-and-Biochemistry|title=Mevastatin {{!}} C23H34O5 - PubChem|last=Pubchem|website=pubchem.ncbi.nlm.nih.gov|access-date=2016-06-04}}</ref> It has also been shown that mevastatin upregulates [[Endothelial NOS|endothelial nitric oxide synthase]] (eNOS), which is essential for maintaining a healthy cardiovascular system.<ref>{{Cite journal|last=Amin-Hanjani|first=Sepideh|last2=Stagliano|first2=Nancy E.|last3=Yamada|first3=Masaru|last4=Huang|first4=Paul L.|last5=Liao|first5=James K.|last6=Moskowitz|first6=Michael A.|date=2001-04-01|title=Mevastatin, an HMG-CoA Reductase Inhibitor, Reduces Stroke Damage and Upregulates Endothelial Nitric Oxide Synthase in Mice|url=http://stroke.ahajournals.org/content/32/4/980|journal=Stroke|language=en|volume=32|issue=4|pages=980–986|doi=10.1161/01.STR.32.4.980|issn=0039-2499|pmid=11283400}}</ref>
+
+==See also==
+* [[Medicinal molds]]
+
+==References==
+{{Reflist}}
+
+{{Statins}}
+{{Xenobiotic-sensing receptor modulators}}
+
+[[Category:Statins]]
+[[Category:Tetrahydropyrans]]
+[[Category:Penicillium]]
+[[Category:2-Pyrones]]

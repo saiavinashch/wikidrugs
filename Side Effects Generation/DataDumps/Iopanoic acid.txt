@@ -1,0 +1,65 @@
+{{Drugbox
+| IUPAC_name = (''RS'')-2-[(3-Amino-2,4,6-triiodophenyl)methyl]butanoic acid
+| image = iopanoic acid.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|iopanoic_acid}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number = 96-83-3
+| ATC_prefix = V08
+| ATC_suffix = AC06
+| PubChem = 3735
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB08946
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = FE9794P71J
+| KEGG = D01014
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 867
+| ChemSpiderID      = 3604
+
+<!--Chemical data-->
+| C=11 | H=12 | I=3 | N=1 | O=2 
+| molecular_weight = 570.93 g/mol
+| smiles            = CCC(CC1=C(C(=C(C=C1I)I)N)I)C(=O)O
+| StdInChI          = 1S/C11H12I3NO2/c1-2-5(11(16)17)3-6-7(12)4-8(13)10(15)9(6)14/h4-5H,2-3,15H2,1H3,(H,16,17)
+| StdInChIKey       = OIRFJRBSRORBCM-UHFFFAOYSA-N
+| melting_point = 162-163
+
+}}
+
+'''Iopanoic acid''' is an [[iodine]]-containing [[radiocontrast|radiocontrast medium]] used in [[cholecystography]]. Both iopanoic acid and [[ipodate sodium]] are potent inhibitors of [[thyroid hormone]] release from [[thyroid gland]], as well as of peripheral conversion of [[thyroxine]] (T<sub>4</sub>) to [[triiodothyronine]] (T<sub>3</sub>). These compounds inhibit 5'deiodinase (5'DID-1 and 5'DID-2) enzymes, which catalyse T<sub>4</sub>-T<sub>3</sub> conversion in the thyroid cell, liver, kidney, skeletal muscle, heart, brain, pituitary. This accounts for the dramatic improvement in both subjective and objective symptoms of [[hyperthyroidism]], particularly when they are used as an adjunctive therapy with [[thioamide]]s ([[propylthiouracil]], [[carbimazole]]). They can be used in the treatment of patients with severe [[thyrotoxicosis]] (thyroid storm) and significant morbidity (e.g., [[myocardial infarction]], or stroke) for rapid control of elevated plasma triiodothyronine concentrations.  The use of iopanoic acid for treatment of thyrotoxicosis has been discontinued in the United States.
+
+In addition to inhibiting deiodinase enzymes, iopanoic acid is also a substrate of type 1 deiodinase. Iopanoic acid underwent monodeiodination in the presence of type 1 deiodinase in a microsomal mouse liver preparation.<ref>{{cite journal|last=Renko|first=K.|author2=Hoefig, C. S. |author3=Hiller, F. |author4=Schomburg, L. |author5= Kohrle, J. |title=Identification of Iopanoic Acid as Substrate of Type 1 Deiodinase by a Novel Nonradioactive Iodide-Release Assay|journal=Endocrinology|date=20 March 2012|volume=153|issue=5|pages=2506–2513|doi=10.1210/en.2011-1863 |pmid=22434082}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Contrast media}}
+{{Thyroid hormone receptor modulators}}
+
+[[Category:Radiocontrast agents]]
+[[Category:Iodoarenes]]
+[[Category:Carboxylic acids]]
+[[Category:Anilines]]
+
+
+{{pharmacology-stub}}

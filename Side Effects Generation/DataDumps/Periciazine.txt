@@ -1,0 +1,126 @@
+{{Drugbox
+| Verifiedfields = changed
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 3405M6FD73
+| verifiedrevid = 437139007
+| IUPAC_name = 10-[3-(4-hydroxypiperidin-1-yl)propyl]-10''H''-phenothiazine-2-carbonitrile
+| image = Periciazine.svg
+| width = 260
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 2622-26-6
+| CAS_supplemental  =
+| ATC_prefix = N05
+| ATC_suffix = AC01
+| ATC_supplemental  = 
+| PubChem = 4747
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 251940
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 31981
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB01608
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 4585
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01485
+| chemical_formula  =
+| C=21 | H=23 | N=3 | O=1 | S=1
+| molecular_weight  = 365.49 g/mol
+| smiles = C1CN(CCC1O)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C#N
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C21H23N3OS/c22-15-16-6-7-21-19(14-16)24(18-4-1-2-5-20(18)26-21)11-3-10-23-12-8-17(25)9-13-23/h1-2,4-7,14,17,25H,3,8-13H2
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = LUALIOATIOESLM-UHFFFAOYSA-N
+| bioavailability = 
+| protein_bound = 
+| metabolism = [[Hepatic]] (mostly via conjugation)<ref name = TGA/>
+| elimination_half-life = 12 h<ref name = TGA>{{cite web|title=NEULACTIL PRODUCT INFORMATION|work=TGA eBusiness Services|publisher=sanofi-aventis australia pty ltd|date=13 September 2011|accessdate=2 November 2013|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2010-PI-05922-3|format=PDF}}</ref>
+| excretion = [[Renal]]<ref name = TGA/>
+| pregnancy_AU = C
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category= 
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = Oral
+}}
+
+'''Periciazine''' ([[International Nonproprietary Name|INN]]), also known as '''pericyazine''' ([[British Approved Name|BAN]]) or '''propericiazine''', is a [[drug]] that belongs to the [[phenothiazine]] class of [[typical antipsychotic]]s.
+
+Pericyazine is not approved for sale in the [[United States]]. It is commonly sold in [[Canada]] and [[Russia]] under the tradename '''Neuleptil''' and in [[United Kingdom]] and [[Australia]] under the tradename '''Neulactil'''.<ref name = Martindale>{{cite book|title=Pericyazine|work=Martindale: The Complete Drug Reference|publisher=The Royal Pharmaceutical Society of Great Britain|date=23 September 2011|accessdate=2 November 2013|url=http://www.medicinescomplete.com/mc/martindale/current/7082-t.htm}}</ref>
+
+==Medical uses== 
+The primary uses of pericyazine include in the short-term treatment of severe [[anxiety]] or tension and in the maintenance treatment of [[psychotic disorder]]s such as [[schizophrenia]]. There is insufficient evidence to determine whether periciazine is more or less effective than other antipsychotics.<ref name = TGA/> A 2014 [[systematic review]] compared pericyazine with typical antipsychotics for schizophrenia:
+{| class="wikitable"
+|+ Pericyazine versus typical antipsychotic for schizophrenia<ref name=Mat2014>{{cite journal|last1=Matar| first1=H| last2=Almerie|first2=M| first3=S| last3=Makhoul|title=Pericyazine for schizophrenia|journal=Cochrane Database of Systematic Reviews|date=2014|volume=5|url=http://www.cochrane.org/CD007479/SCHIZ_pericyazine-for-the-treatment-of-schizophrenia|pages=CD007479.pub2 |DOI=10.1002/14651858.CD007479.pub2}}</ref>
+|-
+! Summary
+|-
+|On the basis of very low quality evidence it is not possible to determine the effects of pericyazine in comparison with antipsychotics such as [[Chlorpromazine|chlorpromazine]] or [[Trifluoperazine|trifluoperazine]] for the treatment of schizophrenia. There is some evidence, however, that pericyazine may be associated with a higher incidence of [[Extrapyramidal symptoms|extrapyramidal]] side effects than other antipsychotics.<ref name=Mat2014/>
+|-
+| style="padding:0;" |
+{| class="wikitable collapsible collapsed" style="width:100%;"
+|-
+! scope="col" style="text-align: left;"| Outcome
+! scope="col" style="text-align: left;"| Findings in words
+! scope="col" style="text-align: left;"| Findings in numbers
+! scope="col" style="text-align: left;"| Quality of evidence
+|-
+! colspan="4" style="text-align: left;"| Global state
+|-
+| Not improved<br>Follow-up: 6-12 weeks || Pericyazine may increase the risk of being 'not improved', but, at present it is not possible to be confident about the difference between people receiving pericyazine and those given chlorpromazine or trifluoperazine. Data supporting this finding are very limited.
+ || [[Relative risk|RR]] 1.24 (0.93 to 1.66) || [[The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach|Very low]]
+|-
+! colspan="4" style="text-align: left;"| [[Adverse event|Adverse events]]
+|-
+| Extrapyramidal side effect<br>Follow-up: 6-12 weeks || Pericyazine may reduce the chance of experiencing the movement disorder, compared with chlorpromazine or trifluoperazine, but, at present there is only very limited data supporting this finding.
+ || [[Relative risk|RR]] 0.59 (0.38 to 0.89) || [[The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach|Very low]]
+|-
+! colspan="4" style="text-align: left;"| Leaving the study early
+|-
+| For any reasons<br>Follow-up: 9-12 weeks || Pericyazine may reduce the chance of leaving the study early, but, at present it is not possible to be confident about the difference between the two treatments and data supporting this finding are very limited.
+ || [[Relative risk|RR]] 0.46 (0.11 to 1.9) || [[The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach|Very low]]
+|-
+! colspan="4" style="text-align: left;"| Missing outcomes
+|-
+| || No study reported any data on outcomes such as relapse, mental state, cost-effectiveness, and information relating to behavior||  || 
+|-
+|}
+|}
+
+Periciazine has also been studied in the treatment of [[opioid dependence]].<ref name="pmid10441864">{{cite journal |author=Sivolap IuP, Savchenkov VA |title=[The use of neuroleptics in treating opiate dependence] |language=Russian |journal=Zh Nevrol Psikhiatr Im S S Korsakova |volume=99 |issue=6 |pages=29–34 |year=1999 |pmid=10441864 |doi= |url=}}</ref>
+
+==Adverse effects==
+Pericyazine is a rather [[sedation|sedating]] and [[anticholinergic]] [[antipsychotic]], and despite being classed with the typical antipsychotics, its risk of [[extrapyramidal symptoms|extrapyramidal side effects]] is comparatively low.<ref name = eTG>{{cite web|title=Approximate relative frequency (not intensity) of common adverse effects of antipsychotics (Table 8.21) [NB1]|date=February 2013|accessdate=2 November 2013|url=http://etg.tg.com.au/conc/desktop/index.htm?id=75114e7800512079b341de7fb82c953c|work=eTherapeutic Guidelines complete|publisher=Therapeutic Guidelines Limited}}</ref> It has a relatively high risk of causing [[hyperprolactinaemia]] and a moderate risk of causing [[weight gain]] and [[orthostatic hypotension]].<ref name = eTG/>
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://emc.medicines.org.uk/emc/assets/c/html/displaydoc.asp?documentid=15171 Neulactil - Summary of Product Characteristics] from the electronic Medicines Compendium
+* [https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2010-PI-05922-3] from the [[Therapeutic Goods Administration]].
+* [http://webprod5.hc-sc.gc.ca/dpd-bdpp/item-iteme.do?pm-mp=00018707] from [[Health Canada]].
+
+{{Antipsychotics}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Acetylcholine receptor modulators}}
+{{Adrenergic receptor modulators}}
+{{Dopamine receptor modulators}}
+{{Histamine receptor modulators}}
+{{Serotonin receptor modulators}}
+}}
+{{Tricyclics}}
+
+[[Category:Typical antipsychotics]]
+[[Category:Phenothiazines]]
+[[Category:Piperidines]]
+[[Category:Nitriles]]
+[[Category:Alcohols]]
+
+
+{{nervous-system-drug-stub}}

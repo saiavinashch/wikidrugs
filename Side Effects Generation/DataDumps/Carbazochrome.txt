@@ -1,0 +1,74 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 443588889
+| IUPAC_name = [(3-Hydroxy-1-methyl-6-oxo-2,3-dihydroindol-5-ylidene)amino]urea
+| image = Carbazochrome.png
+| alt = Structural formula of carbazochrome
+| image2 = Carbazochrome 3D spacefill.png
+| alt2 = Space-filling model of the carbazochrome molecule
+
+<!--Clinical data-->
+| tradename =  Toxivenol
+| Drugs.com = {{drugs.com|international|carbazochrome}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = P/O, I/M 
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number = 69-81-8
+| ATC_prefix = B02
+| ATC_suffix = BX02
+| PubChem = 5360410
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB09012 
+| ChEMBL = 2051960
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 81F061RQS4
+|  ChemSpiderID = 4514501
+|  smiles = O=C(N)N/N=C1/C=C2\C(=C/C1=O)N(CC2O)C
+|  StdInChI = 1S/C10H12N4O3/c1-14-4-9(16)5-2-6(12-13-10(11)17)8(15)3-7(5)14/h2-3,9,16H,4H2,1H3,(H3,11,13,17)/b12-6-
+|  StdInChIKey = XSXCZNVKFKNLPR-SDQBBNPISA-N
+
+<!--Chemical data-->
+| C=10 | H=12 | N=4 | O=3 
+| molecular_weight = 236.23 g/mol
+}}
+'''Carbazochrome''' is an [[antihemorrhagic]], or hemostatic, agent that will cease blood flow by causing the aggregation and adhesion of platelets in the blood to form a platelet plug, ceasing blood flow from an open wound. It is hoped that this drug can be used in the future for preventing excessive blood flow during surgical operations and the treatment of hemorrhoids, but research on its effectiveness and the severity of possible side effects remains to be fairly inconclusive.
+
+With [[troxerutin]], it has been investigated for use in the treatment of [[hemorrhoids]].<ref name="pmid11922398">{{cite journal |vauthors=Basile M, Gidaro S, Pacella M, Biffignandi PM, Gidaro GS |title=Parenteral troxerutin and carbazochrome combination in the treatment of post-hemorrhoidectomy status: a randomized, double-blind, placebo-controlled, phase IV study |journal=Curr Med Res Opin |volume=17 |issue=4 |pages=256–61 |year=2001 |pmid=11922398 |doi= 10.1185/030079901753403144|url=}}</ref><ref name="pmid11409185">{{cite journal |vauthors=Squadrito F, Altavilla D, Oliaro Bosso S |title=Double-blind, randomized clinical trial of troxerutin-carbazochrome in patients with hemorrhoids |journal=Eur Rev Med Pharmacol Sci |volume=4 |issue=1-2 |pages=21–4 |year=2000 |pmid=11409185 |doi= |url=}}</ref>
+
+==Indications==
+Capillary and parenchymal [[hemorrhage]] (trauma, [[tonsillectomy]], during surgery), intestinal [[bleeding]], [[thrombocytopenic purpura]].
+
+==Mechanism of action==
+Carbazochrome, the [[semicarbazone]] of [[adrenochrome]], that interacts with α-[[adrenoreceptors]] on surface of [[platelets]], which are coupled to [[Gq protein]] and initiate [[Phospholipase C|PLC]] IP3/DAG pathway to increase intracellular free calcium concentration with these subsequent actions:
+*Activates [[PLA2]] and induce [[arachidonic acid pathway]] to synthese [[endoperoxides]] (TxA2, [[thromboxane A2]])
+*Calcium binds to [[calmodulin]] which then binds and activates [[myosin light-chain kinase]], that will enable the myosin crossbridge to bind to the actin filament and allow contraction to begin. This will change platelet’s shape and induce release of [[serotonin]], [[Adenosine triphosphate|ADP]], [[von Willebrand factor|vWF]] (Von Willebrand factor), [[Platelet-activating factor|PAF]] (Platelet-activating factor) to promote further aggregation and adhesion.
+
+==Vector==
+Because of its poor solubility in water it must be first thoroughly dissolved in alcohol, melted fat (butter), or vegetable oil (to aid in absorption) and then ingested.<ref>[http://www.erowid.org/chemicals/adrenochrome/adrenochrome_info1.shtml Gottlieb, Adam; ''Legal Highs: A Concise Encyclopedia of Legal Herbs and Chemicals with Psychoactive Properties'' (1973) 20th Century Alchemist]</ref>
+
+==References==
+{{reflist}}
+
+{{Antihemorrhagics}}
+
+[[Category:Semicarbazones]]
+[[Category:Indolines]]
+[[Category:Antihemorrhagics]]
+
+
+{{blood-drug-stub}}

@@ -1,0 +1,121 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 477494806
+| IUPAC_name = (''S'')-4,11-diethyl-3,4,12,14-tetrahydro-4-hydroxy-<br/>3,14-dioxo1''H''-pyrano[3’,4’:6,7]-indolizino[1,2-b]quinolin-<br/>9-yl-[1,4’bipiperidine]-1’-carboxylate
+| image = irinotecan.svg
+| width = 240
+| image2 = Irinotecan ball-and-stick.png
+<!--Clinical data-->
+| tradename = Camptosar (US), Campto (EU), Onivyde ([[liposomal]])
+| Drugs.com = {{drugs.com|monograph|irinotecan-hydrochloride}}
+| MedlinePlus = a608043
+| pregnancy_US = D
+| pregnancy_AU = D
+| legal_UK = POM
+| legal_US = ℞-only
+| routes_of_administration = [[Intravenous therapy|Intravenous]]
+<!--Pharmacokinetic data-->
+| bioavailability = NA
+| metabolism = [[Liver]] [[glucuronidation]]
+| elimination_half-life = 6 to 12 hours
+| excretion = [[Biliary]] and [[kidney]]
+<!--Identifiers-->
+| IUPHAR_ligand = 6823
+| CAS_number_Ref = {{cascite|changed|CAS}}
+| CAS_number =  97682-44-5
+| ATC_prefix = L01
+| ATC_suffix = XX19
+| PubChem = 60838
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00762
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 80630
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 54825
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 7673326042
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08086
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 481
+<!--Chemical data-->
+| C=33 | H=38 | N=4 | O=6
+| molecular_weight = 586.678 g/mol (irinotecan)<br/>623.139 g/mol (irinotecan [[hydrochloride]])<br/>677.185 g/mol (irinotecan hydrochloride trihydrate)
+| SMILES = O=C7OCC=6C(=O)N2C(\c1nc5c(c(c1C2)CC)cc(OC(=O)N4CCC(N3CCCCC3)CC4)cc5)=C/C=6[C@@]7(O)CC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C33H38N4O6/c1-3-22-23-16-21(43-32(40)36-14-10-20(11-15-36)35-12-6-5-7-13-35)8-9-27(23)34-29-24(22)18-37-28(29)17-26-25(30(37)38)19-42-31(39)33(26,41)4-2/h8-9,16-17,20,41H,3-7,10-15,18-19H2,1-2H3/t33-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = UWKQSNNFCGGAFS-XIFFEERXSA-N
+}}
+<!-- Definition and medical uses -->
+'''Irinotecan''', sold under the brand name '''Camptosar''' among others, is a medication used to treat [[colon cancer]] and [[small cell lung cancer]].<ref name=AHFS2016/> For colon cancer it is used either alone or with [[fluorouracil]].<ref name=AHFS2016/> For small cell lung cancer it is used with [[cisplatin]].<ref name=AHFS2016/> It is given by [[intravenous infusion|slow injection into a vein]].<ref name=AHFS2016/>
+
+<!-- Side effects and mechanism -->
+Common side effects include [[diarrhea]], [[vomiting]], [[bone marrow suppression]], hair loss, shortness of breath, and fever.<ref name=AHFS2016/> Other severe side effects include [[blood clots]], [[colitis|colon inflammation]], and [[allergic reactions]].<ref name=AHFS2016/> Those with two copies of the [[UGT1A1*28]] gene variant are at higher risk for side effects.<ref name=AHFS2016/> Use during pregnancy can result in harm to the baby.<ref name=AHFS2016/> Irinotecan is in [[topoisomerase inhibitor]] family of medication.<ref name=BNF69/>
+It works by blocking [[Type I topoisomerase|topoisomerase 1]] which results in [[DNA]] damage and [[cell death]].<ref name=AHFS2016/>
+
+<!-- History, society and culture -->
+Irinotecan was approved for medical use in the United States in 1996.<ref name=AHFS2016>{{cite web|title=Irinotecan Hydrochloride|url=https://www.drugs.com/monograph/irinotecan-hydrochloride.html|publisher=The American Society of Health-System Pharmacists|accessdate= 8 December 2016}}</ref> It is on the [[World Health Organization's List of Essential Medicines]], the most effective and safe medicines needed in a [[health system]].<ref name=WHO19th>{{cite web|title=WHO Model List of Essential Medicines (19th List)|url=http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|work=World Health Organization|accessdate=8 December 2016|date=April 2015}}</ref> In the United Kingdom it is available as a [[generic medication]] and costs the [[NHS]] about 114.00 pounds per 100&nbsp;mg.<ref name=BNF69>{{cite book|title=British national formulary : BNF 69|date=2015|publisher=British Medical Association|isbn=9780857111562|page=624|edition=69}}</ref> It is made from the natural compound [[camptothecin]].<ref name=AHFS2016/>
+
+==Medical uses==
+Its main use is in [[colon cancer]], in particular, in combination with other chemotherapy agents.  This includes the regimen [[FOLFIRI]], which consists of infusional [[5-fluorouracil]], [[leucovorin]], and irinotecan. The regimen XELIRI consists of [[capecitabine]] and irinotecan.<ref>{{cite journal|title=Capecitabine plus irinotecan versus 5-FU/leucovorin plus irinotecan in the treatment of colorectal cancer: a meta-analysis|journal=Clinical Colorectal Cancer|volume=13|issue=2|pages=110–8|pmid=24461997|year=2014|author1=Guo|first1=Y|last2=Shi|first2=M|last3=Shen|first3=X|last4=Yang|first4=C|last5=Yang|first5=L|last6=Zhang|first6=J|doi=10.1016/j.clcc.2013.12.004}}</ref><ref>{{cite journal|title=Study protocol of the Asian XELIRI ProjecT (AXEPT): a multinational, randomized, non-inferiority, phase III trial of second-line chemotherapy for metastatic colorectal cancer, comparing the efficacy and safety of XELIRI with or without bevacizumab versus FOLFIRI with or without bevacizumab|journal=Chinese Journal of Cancer|volume=35|issue=1|pages=102|pmid=28007025|pmc=5178089|year=2016|author1=Kotaka|first1=M|last2=Xu|first2=R|last3=Muro|first3=K|last4=Park|first4=Y. S.|last5=Morita|first5=S|last6=Iwasa|first6=S|last7=Uetake|first7=H|last8=Nishina|first8=T|last9=Nozawa|first9=H|last10=Matsumoto|first10=H|last11=Yamazaki|first11=K|last12=Han|first12=S. W.|last13=Wang|first13=W|last14=Ahn|first14=J. B.|last15=Deng|first15=Y|last16=Cho|first16=S. H.|last17=Ba|first17=Y|last18=Lee|first18=K. W.|last19=Zhang|first19=T|last20=Satoh|first20=T|last21=Buyse|first21=M. E.|last22=Ryoo|first22=B. Y.|last23=Shen|first23=L|last24=Sakamoto|first24=J|last25=Kim|first25=T. W.|doi=10.1186/s40880-016-0166-3}}</ref>
+
+==Side effects==
+The most significant adverse effects of irinotecan are severe diarrhea and extreme suppression of the immune system.<ref name="EMA">{{cite web|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/004125/WC500215029.pdf|title=Onivyde: EPAR – Product Information|publisher=[[European Medicines Agency]]|date=25 October 2016}}</ref>
+
+===Diarrhea===
+Irinotecan-associated diarrhea is severe and clinically significant, sometimes leading to severe dehydration requiring hospitalization or intensive care unit admission.  This side-effect is managed with the aggressive use of antidiarrheals such as [[loperamide]] or [[co-phenotrope]] with the first loose bowel movement.
+
+===Immunosuppression===
+The immune system is adversely impacted by irinotecan. This is reflected in dramatically lowered [[white blood cell]] counts in the blood, in particular the [[neutrophil]]s. The patient may experience a period of [[neutropenia]] (a clinically significant decrease of neutrophils in the blood) while the bone marrow increases white cell production to compensate.
+
+==Mechanism of action==
+
+Irinotecan is activated by hydrolysis to [[SN-38]], an inhibitor of topoisomerase I.  This is then inactivated by [[glucuronidation]] by uridine diphosphate glucuronosyltransferase 1A1 ([[UGT1A1]]).  The inhibition of topoisomerase I by the active metabolite SN-38 eventually leads to inhibition of both DNA replication and transcription.<ref name="EMA" />
+
+The molecular action of irinotecan occurs by trapping a subset of [[topoisomerase]]-1-DNA cleavage complexes, those with a guanine +1 in the DNA sequence.<ref name=Pommier>{{cite journal |vauthors=Pommier Y |title=Drugging topoisomerases: lessons and challenges |journal=ACS Chem. Biol. |volume=8 |issue=1 |pages=82–95 |year=2013 |pmid=23259582 |pmc=3549721 |doi=10.1021/cb300648v |url=}}</ref>  One irinotecan molecule stacks against the base pairs flanking the topoisomerase-induced cleavage site and poisons (inactivates) the [[topoisomerase]] 1 enzyme.<ref name=Pommier />
+
+=== Interactive pathway ===
+{{IrinotecanPathway_WP229}}
+
+==Pharmacogenomics==
+Irinotecan is converted by an enzyme into its active metabolite SN-38, which is in turn inactivated by the enzyme UGT1A1 by glucuronidation.
+
+===*28 variant patients===
+People with variants of the UGT1A1 called TA<sub>7</sub>, also known as the "*28 variant", express fewer UGT1A1 enzymes in their liver and often have [[Gilbert's syndrome]]. During chemotherapy, they effectively receive a larger than expected dose because their bodies are not able to clear irinotecan as fast as others. In studies this corresponds to higher incidences of severe neutropenia and diarrhea.<ref name="Innocenti2004">{{cite journal  |vauthors=Innocenti F, Undevia SD, Iyer L, etal |title=Genetic variants in the UDP-glucuronosyltransferase 1A1 gene predict the risk of severe neutropenia of irinotecan |journal=J. Clin. Oncol. |volume=22 |issue=8 |pages=1382–8 |date=April 2004 |pmid=15007088 |doi=10.1200/JCO.2004.07.173 |url=http://www.jco.org/cgi/pmidlookup?view=long&pmid=15007088}}</ref>
+
+In 2004, a clinical study was performed that both validated prospectively the association of the *28 variant with greater toxicity and the ability of genetic testing in predicting that toxicity before chemotherapy administration.<ref name="Innocenti2004"/>
+
+In 2005, the FDA made changes to the labeling of irinotecan to add [[pharmacogenomics]] recommendations, such that irinotecan recipients with a [[homozygous]] (both of the two gene copies) polymorphism in UGT1A1 gene, to be specific, the *28 variant, should be considered for reduced drug doses.<ref>{{cite web|title=Camptosar – irinotecan hydrochloride injection|date=April 2016|url=http://labeling.pfizer.com/ShowLabeling.aspx?id=533}}</ref> Irinotecan is one of the first widely used chemotherapy agents that is dosed according to the recipient's genotype.<ref name="ODwyer2006">{{cite journal |author=O'Dwyer PJ, Catalano RB |title=Uridine diphosphate glucuronosyltransferase (UGT) 1A1 and irinotecan: practical pharmacogenomics arrives in cancer therapy |journal=J. Clin. Oncol. |volume=24 |issue=28 |pages=4534–8 |date=October 2006 |pmid=17008691 |doi=10.1200/JCO.2006.07.3031 |url=http://www.jco.org/cgi/pmidlookup?view=long&pmid=17008691}}</ref>
+
+==Society and culture==
+
+===Approval===
+
+Irinotecan received accelerated approval from the [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]] (FDA) in 1996 and full approval in 1998.<ref>New York Times Article https://www.nytimes.com/1996/06/18/science/new-cancer-drug-approved.html</ref><ref>FDA Review Letter http://www.accessdata.fda.gov/drugsatfda_docs/appletter/1998/20571s8ltr.pdf</ref>
+
+===Liposome encapsulated ===
+A liposome encapsulated version of irinotecan sold as Onivyde, was approved by FDA in October 2015 to treat metastatic [[pancreatic cancer]].<ref>{{cite web|url=http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm468654.htm|title=FDA approves new treatment for advanced pancreatic cancer|author=News Release|publisher=FDA|date=22 October 2015}}</ref> It gained EU approval in October 2016.<ref>[http://labiotech.eu/shire-pancreatic-cancer-onivyde/ Shire’s leading Pancreatic Cancer drug is Back with a Bang. 2016]</ref>
+
+===Names===
+During development, it was known as CPT-11.
+
+== References ==
+{{reflist|32em}}
+
+==External links==
+*[http://www.pfizer.com/products/product-detail/camptosar Pfizer website]
+*[http://www.pharmgkb.org/do/serve?objId=PA2001&objCls=Pathway Irinotecan Pathway on PharmGKB]
+
+{{Chemotherapeutic agents}}
+
+[[Category:Prodrugs]]
+[[Category:Pfizer products]]
+[[Category:Topoisomerase inhibitors]]
+[[Category:Piperidines]]
+[[Category:Lactams]]
+[[Category:Lactones]]
+[[Category:Pyranoindolizinoquinolines]]
+[[Category:World Health Organization essential medicines]]
+[[Category:RTT]]

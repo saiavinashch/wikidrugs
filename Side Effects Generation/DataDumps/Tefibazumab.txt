@@ -1,0 +1,76 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470478505
+| image =  
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = zu/o
+| target = [[Clumping factor A]]
+<!-- Clinical data -->
+| tradename = Aurexis
+| pregnancy_AU =  
+| pregnancy_US =  
+| pregnancy_category =  
+| legal_AU =  
+| legal_CA =  
+| legal_UK =  
+| legal_US =  
+| legal_status =  
+| routes_of_administration =  
+<!-- Pharmacokinetic data -->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|changed|CAS}}
+| CAS_number = 521079-87-8
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = SBO7Q9G95R
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D06054
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+<!-- Chemical data -->
+| C=6548 | H=10122 | N=1730 | O=2034 | S=44
+| molecular_weight = 147.590 kg/mol
+}}
+
+'''Tefibazumab''' (named '''Aurexis''' but not approved) is a [[humanized monoclonal antibody]] for the treatment of severe infections with ''[[Staphylococcus aureus]]''. Possible indications include the treatment of ''S. aureus'' in a phase 2a patients with [[cystic fibrosis]]<ref>{{ClinicalTrialsGov|NCT00198289}}</ref> and of [[methicillin-resistant Staphylococcus aureus|methicillin-resistant ''S. aureus'']].<ref>{{Cite journal 
+| pmid = 18221183 
+| year = 2008 
+| author1 = Pan | first2 = S. | first3 = A. 
+| title = Registered and investigational drugs for the treatment of methicillin-resistant Staphylococcus aureus infection 
+| volume = 3 
+| issue = 1 
+| pages = 10–33 
+| journal = Recent Patents on Anti-infective Drug Discovery 
+| doi = 10.2174/157489108783413173 
+| last2 = Lorenzotti 
+| last3 = Zoncada
+}}</ref>
+
+It was developed by Inhibitex.<ref name="pmid17078388">{{cite journal |author=John JF |title=Drug evaluation: tefibazumab--a monoclonal antibody against staphylococcal infection |journal=Curr. Opin. Mol. Ther. |volume=8 |issue=5 |pages=455–60 |year=2006 |pmid=17078388 |doi=}}</ref>
+
+==See also==
+* [[MSCRAMM]] (microbial surface components recognizing adhesive matrix molecules)
+
+==References==
+{{reflist}}
+
+{{Monoclonals for infectious disease and toxins}}
+
+[[Category:Monoclonal antibodies]]
+[[Category:Experimental drugs]]
+
+
+{{antiinfective-drug-stub}}
+{{monoclonal-antibody-stub}}

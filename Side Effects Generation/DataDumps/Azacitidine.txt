@@ -1,0 +1,110 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 458783301
+| IUPAC_name = 4-Amino-1-β-<small>D</small>-ribofuranosyl-1,3,5-triazin-2(1''H'')-one
+| image = Azacitidine.svg
+
+<!--Clinical data-->
+| tradename = Vidaza, Azadine
+| Drugs.com = {{drugs.com|monograph|azacitidine}}
+| MedlinePlus = a607068
+| pregnancy_category = D (US), X (Aus)
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = [[subcutaneous injection|SubQ]], [[Intravenously|IV]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism = possible hepatic metabolism, mostly urinary excretion
+| elimination_half-life = 4 hr.<ref>Deglin, Judith, & Vallerand, April. (2009). Davis's drug guide for nurses. Philadelphia: F.A. Davis Company, pp. 204-206.</ref>
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6796
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 320-67-2
+| ATC_prefix = L01
+| ATC_suffix = BC07
+| PubChem = 9444
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00928
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 9072
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = M801H13NRU
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03021
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 2038
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1489
+
+<!--Chemical data-->
+| C=8 | H=12 | N=4 | O=5 
+| molecular_weight = 244.205 g/mol
+| smiles = O=C1/N=C(\N=C/N1[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CO)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C8H12N4O5/c9-7-10-2-12(8(16)11-7)6-5(15)4(14)3(1-13)17-6/h2-6,13-15H,1H2,(H2,9,11,16)/t3-,4-,5-,6-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = NMUSYJAQQFHJEW-KVTDHHQDSA-N
+| synonyms = 5-azacytidine, Azacytidine, 320-67-2; Ladakamycin, 4-Amino-1-beta-D-ribofuranosyl-s-triazin-2(1H)-one, U-18496
+}}
+
+'''Azacitidine''' ([[International Nonproprietary Name|INN]]; trade name '''Vidaza''') is a chemical [[analog (chemistry)|analog]] of [[cytidine]], a [[nucleoside]] in [[DNA]] and [[RNA]]. Azacitidine and its deoxy derivative, [[decitabine]] (also known as 5-aza-2′deoxycytidine), are used in the treatment of [[myelodysplastic syndrome]]. Both drugs were first synthesized in [[Czechoslovakia]] as potential [[chemotherapy|chemotherapeutic agent]]s for cancer.<ref>{{cite journal|author=Cihák A.|title=Biological effects of 5-azacytidine in eukaryotes|journal=Oncology|volume=30|issue=5|pages=405–422|year=1974|pmid=4142650|doi=10.1159/000224981}}</ref>
+
+==Uses==
+
+===Clinical===
+Azacitidine, marketed as Vidaza, is used mainly in the treatment of [[myelodysplastic syndrome]], for which it received approval by the U.S. [[Food and Drug Administration]] on May 19, 2004.<ref>[http://www.vidaza.com/ Vidaza web site].</ref><ref>{{cite web|title=Orange Book: Approved Drug Products with Therapeutic Equivalence Evaluations|url=http://www.accessdata.fda.gov/scripts/cder/ob/docs/obdetail.cfm?Appl_No=050794&TABLE1=OB_Rx|website=fda.gov|publisher=United States Food and Drug Administration|accessdate=20 May 2016}}</ref> In two [[randomized controlled trials]] comparing azacitidine to supportive treatment, 16% of subjects with myelodysplastic syndrome who were randomized to receive azacitidine had a complete or partial normalization of [[complete blood count|blood cell count]]s and [[bone marrow]] morphology, compared to none who received supportive care, and about two-thirds of patients who required [[blood transfusion]]s no longer needed them after receiving azacitidine.<ref>{{cite journal|last1=Kaminskas|first1=Edvardas|last2=Farrell|first2=Anne T.|last3=Wang|first3=Yong Cheng|last4=Sridhara|first4=Rageshwari|last5=Pazdur|first5=Richard|title=FDA Drug Approval Summary: Azacitidine (5-azacytidine, Vidaza) for Injectable Suspension|journal=The Oncologist|volume=10|issue=3|pages=176–182|year=2005|pmid=15793220|doi=10.1634/theoncologist.10-3-176}}</ref>
+
+It is also sometimes used for the treatment of [[acute myeloid leukemia]],<ref name=Estey2013/> as a [[hypomethylating agent]]; an oral version called CC-486 is being tested as an easier to administer treatment for AML. <ref>[http://www.bloodjournal.org/content/126/23/452/ CC-486 (Oral Azacitidine) Monotherapy in Patients with Acute Myeloid Leukemia (AML)]</ref>
+
+===Non-clinical===
+Azacitidine can be used ''[[in vitro]]'' to remove [[methyl]] groups from [[DNA]]. This may weaken the effects of gene silencing mechanisms that occur prior to methylation. Certain methylations are believed to secure DNA in a silenced state, and therefore demethylation may reduce the stability of silencing signals and confer relative gene activation.<ref>Whitelaw E. and Garrick D. (2005), ''The Epigenome, ''Chapter 7'','' ''In'': ''Mammalian Genomics'', Ed: Ruvinsky A. & Marshall Graves J.A., CABI Publishing, Wallingford, U.K., {{ISBN|0-85199-910-7}}.</ref>
+
+Azacitidine induces tumor regression on [[IDH1|isocitrate dehydrogenase-1]] mutant glioma xenografts in mice.<ref name="Borodovsky">{{cite journal|last1=Borodovsky|first1=Alexandra|title=5-azacytidine reduces methylation, promotes differentiation and induces tumor regression in a patient-derived IDH1 mutant glioma xenograft|journal=Oncotarget|date=October 2013|volume=4|issue=10|pages=1737–1747|doi=10.18632/oncotarget.1408|pmid=24077805|pmc=3858560|display-authors=etal}}</ref>
+
+In research, 5-azacitidine is commonly used for promoting cardiomyocyte differentiation of adult stem cells. However, it has been suggested that this drug has a compromised efficacy as a cardiac differentiation factor because it promotes the transdifferentiation of cardiac cells to skeletal myocytes.<ref>{{cite journal|last1=Kaur|first1=Keerat|last2=Yang|first2=Jinpu|last3=Eisenberg|first3=Carol|last4=Eisenberg|first4=Leonard|title=5-azacytidine promotes the transdifferentiation of cardiac cells to skeletal myocytes.|journal=Cellular Reprogramming|date=2014|volume=16|pmid=25090621|url=https://www.researchgate.net/profile/Leonard_Eisenberg/publication/264462290_5-Azacytidine_Promotes_the_Transdifferentiation_of_Cardiac_Cells_to_Skeletal_Myocytes/links/541aeb4d0cf203f155ae6244.pdf|doi=10.1089/cell.2014.0021|pages=324–30}}</ref>
+
+==Mechanism of action==
+Azacitidine is a chemical analogue of the nucleoside cytidine, which is present in DNA and [[RNA]]. It is thought to have antineoplastic activity via two mechanisms &ndash; at low doses, by inhibiting of DNA methyltransferase, causing hypomethylation of DNA,<ref name=Martens2010 /> and at high doses, by its direct cytotoxicity to abnormal hematopoietic cells in the bone marrow through its incorporation into DNA and RNA, resulting in cell death. Azacitidine is a ribonucleoside, so it is incorporated into RNA to a larger extent than into DNA. In contrast, decitabine (5-aza-2'-deoxycytidine) is a deoxyribonucleoside, so it can only incorporate into DNA. Azacitidine's incorporation into RNA leads to the dissembly of polyribosomes, defective methylation and acceptor function of transfer RNA, and inhibition of the production of proteins. Its incorporation into DNA leads to covalent binding with DNA methyltransferases, which prevents DNA synthesis and subsequent leads to cytotoxicity. It has been shown effective against [[human immunodeficiency virus]] ''in vitro''<ref>{{cite journal|year=2009|author1=Dapp|first1=Michael J.|last2=Clouser|first2=Christine L.|last3=Patterson|first3=Steven|last4=Mansky|first4=Louis M.|title=5-Azacytidine can induce lethal mutagenesis in human immunodeficiency virus type 1|journal=Journal of Virology|volume=83|issue=22|pages=11950–11958|pmid=19726509|pmc=2772699|doi=10.1128/JVI.01406-09}}</ref> and [[human T-lymphotropic virus]].<ref>[http://www.virologyj.com/content/9/1/1 Antiretroviral activity of 5-azacytidine during treatment of a HTLV-1 positive myelodysplastic syndrome with autoimmune manifestations]</ref>
+
+===Inhibition of methylation===
+After azanucleosides such as azacitidine have been metabolized to 5-aza-2′-deoxycytidine-triphosphate (aka, decitabine-triphosphate), they can be incorporated into DNA and azacytosine can be substituted for cytosine. Azacytosine-guanine dinucleotides are recognized as substrate by the DNA methyltransferases, which catalyze the methylation reaction by a nucleophilic attack. This results in a covalent bond between the carbon-6 atom of the cytosine ring and the enzyme. The bond is normally resolved by beta-elimination through the carbon-5 atom, but this latter reaction does not occur with azacytosine because its carbon-5 is substituted by nitrogen, leaving the enzyme remains covalently bound to DNA and blocking its DNA methyltransferase function. In addition, the covalent protein adduction also compromises the functionality of DNA and triggers DNA damage signaling, resulting in the degradation of trapped DNA methyltransferases. As a consequence, methylation marks become lost during DNA replication.<ref>{{cite journal|last1=Stresemann|first1=C.|last2=Lyko|first2=F.|year=2008|title=Modes of action of the DNA methyltransferase inhibitors azacytidine and decitabine|url= |journal=International Journal of Cancer|volume=123|issue=1|pages= 8–13|doi=10.1002/ijc.23607|pmid=18425818 }}</ref><ref>{{cite journal|last1=Navada|first1=Shyamala C.|last2=Steinmann|first2=Juliane|last3=Lübbert|first3=Michael|last4=Silverman|first4=Lewis R.|title=Clinical development of demethylating agents in hematology|journal=Journal of Clinical Investigation|date=January 2, 2014|volume=124|issue=1|pages=4–46|doi=10.1172/JCI69739|pmc=3871232|url=http://www.jci.org/articles/view/69739|accessdate=20 May 2016|pmid=24382388}}</ref>
+
+==Toxicity==
+Azacitidine causes [[anemia]] (low red blood cell counts), [[neutropenia]] (low white blood cell counts), and [[thrombocytopenia]] (low platelet counts), and patients should have frequent monitoring of their complete blood counts, at least prior to each dosing cycle. The dose may have to be adjusted based on nadir counts and hematologic response.<ref name=label>{{cite web|title=Prescribing Information - Azacitidine for Infection|url=http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/208216s000lbl.pdf|website=fda.gov|publisher=United States Food and Drug Administration|accessdate=20 May 2016}}</ref>
+
+It can also be hepatotoxic in patients with severe [[liver]] impairment, and patients with extensive liver tumors due to metastatic disease have developed progressive hepatic coma and death during azacitidine treatment, especially when their [[albumin]] levels are less than 30 g/L. It is contraindicated in patients with advanced malignant hepatic tumors.<ref name=label/>
+
+Renal toxicity, ranging from elevated serum [[creatinine]] to [[kidney]] failure and death, have been reported in patients treated with intravenous azacitidine in combination with other chemotherapeutic agents for conditions other than myelodysplastic syndrome. Renal tubular acidosis developed in five patients with [[chronic myelogenous leukemia]] (an unapproved use) treated with azacitidine and [[etoposide]], and patients with renal impairment may be at increased risk for renal toxicity. Azacitidine and its metabolites are primarily excreted by the kidneys, so patients with renal insufficiency should be closely monitored for other side effects, since their levels of azacitidine may progressively increase.<ref name=label/>
+
+Based on animal studies and its mechanism of action, azacitidine can cause severe fetal damage. Sexually active women of reproductive potential should use contraception during while receiving azacitidine and for one week after the last dose, and sexually active men with female partners of reproductive potential should use contraception during treatment and for three months following the last dose.<ref name=label/>
+
+Azacitidine can also nausea, vomiting, fevers, diarrhea, redness at its injection sites, constipation, bruising, petechiae, rigors, weakness, abnormally low potassium levels in the bloodstream, and many other side effects, some of which can be severe or even fatal.<ref name=label/>
+
+==See also==
+*[[DNA methylation]]
+
+== References ==
+{{reflist|35em|refs=
+
+<ref name=Estey2013>{{cite journal|author=Estey E.H.|title=Epigenetics in clinical practice: the examples of azacitidine and decitabine in myelodysplasia and acute myeloid leukemia|journal=Leukemia|volume=27|issue=9|pages= 1803–1812|date=September 2013|pmid=23757301|doi=10.1038/leu.2013.173 }}</ref>
+
+<ref name=Martens2010>{{cite book|name-list-format=vanc|title=Small molecules in oncology|year=2010|publisher=Springer|location=Heidelberg|isbn=978-3-642-01222-8|pages=159–170|url=https://link.springer.com/book/10.1007/978-3-642-01222-8|editor=Martens, U.M.|chapter=11 5-Azacytidine/Azacitidine|doi=10.1007/978-3-642-01222-8|volume=184|series=Recent Results in Cancer Research}}</ref>
+
+}}
+
+== External links ==
+* [https://web.archive.org/web/20070109043744/http://www.epigeneticstation.com/cell-treatment-5-aza-2-deoxycytidine/ 5-Aza-2'-Deoxycytidine information and protocols to study DNA methylation]
+
+{{Chemotherapeutic agents}}
+
+{{DEFAULTSORT:Azacytidine, 5-}}
+[[Category:Nucleosides]]
+[[Category:Triazines]]
+[[Category:Lactams]]
+[[Category:Orphan drugs]]
+[[Category:IARC Group 2A carcinogens]]
+[[Category:Pyrimidine antagonists]]
+[[Category:Suspected male-mediated teratogens]]

@@ -1,0 +1,65 @@
+{{distinguish|Vandetanib}}
+
+{{Drugbox
+| IUPAC_name = ''N''-(4-chlorophenyl)-4-(pyridin-4-ylmethyl)phthalazin- 1-amine
+| image = Vatalanib.svg
+| width = 180px
+
+<!--Clinical data-->
+| tradename = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = None assigned
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Investigational
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = High
+| protein_bound = 
+| metabolism = Extensive [[liver|hepatic]] metabolism (mostly [[CYP3A4]]-mediated)<ref name=Jost>{{cite journal  |vauthors=Jost LM, Gschwind HP, Jalava T, etal | title = Metabolism and disposition of vatalanib (PTK787/ZK-222584) in cancer patients | journal = Drug Metabolism and Disposition | volume = 34 | issue = 11 | pages = 1817–28 |date=November 2006 | pmid = 16882767 | doi = 10.1124/dmd.106.009944}}</ref>
+| elimination_half-life = 4.6 ± 1.1 h<ref name=Jost/>
+| excretion = Fecal and [[kidney|renal]]<ref name=Jost/>
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5705
+| CAS_number = 212141-54-3
+| ATC_prefix = none
+| ATC_suffix = 
+| PubChem = 151194
+| DrugBank = DB04879
+| ChEBI = 90620
+| ChEMBL = 101253
+| ChemSpiderID = 133257
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 5DX9U76296
+
+<!--Chemical data-->
+| C=20 | H=15 | Cl=1 | N=4
+| molecular_weight = 346.813 g·mol<sup>−1</sup>
+| smiles = Clc1ccc(cc1)Nc3nnc(c2c3cccc2)Cc4ccncc4
+}}
+'''Vatalanib''' ([[International Nonproprietary Name|INN]], codenamed '''PTK787''' or '''PTK/ZK''') is a [[small molecule]] [[protein kinase inhibitor]] that [[angiogenesis inhibitor|inhibits]] [[angiogenesis]]. It is being studied as a possible treatment for several types of [[cancer]], particularly cancer that is at an advanced stage or has not responded to [[chemotherapy]]. Vatalanib is orally active, that is, it is effective when taken by mouth.
+
+Vatalanib is being developed by [[Bayer Schering Pharma|Bayer Schering]] and [[Novartis]]. It inhibits all known [[VEGF receptors]], as well as [[platelet-derived growth factor receptor]]-beta and [[c-kit]], but is most selective for [[kinase insert domain receptor|VEGFR-2]].<ref name=Jost/><ref name=Mariani/><ref name=Wood>{{cite journal  |vauthors=Wood JM, Bold G, Buchdunger E, etal |title=PTK787/ZK 222584, a novel and potent inhibitor of vascular endothelial growth factor receptor tyrosine kinases, impairs vascular endothelial growth factor-induced responses and tumor growth after oral administration |journal=Cancer Research |volume=60 |issue=8 |pages=2178–89 |date=April 2000 |pmid=10786682 |url=http://cancerres.aacrjournals.org/cgi/pmidlookup?view=long&pmid=10786682}}</ref><ref name=Los>{{cite journal |vauthors =Los M, Roodhart JM, Voest EE |title=Target practice: lessons from phase III trials with bevacizumab and vatalanib in the treatment of advanced colorectal cancer |journal=The Oncologist |volume=12 |issue=4 |pages=443–50 |date=April 2007 |pmid=17470687 |doi=10.1634/theoncologist.12-4-443}}</ref>
+
+==Development==
+Vatalanib was [[drug discovery|discovered]] through [[high-throughput screening]].<ref name=Mariani>{{cite journal |author=Mariani SM |year=2004 |title=Antiangiogenesis Cocktails -- Stirred or Shaken?: Highlights of the 9th Annual Drug Discovery Technology World Congress; August 8-13, 2004; Boston, Massachusetts |journal=Medscape General Medicine |volume=6 |issue=4 |pages=21 |url=http://www.medscape.com/viewarticle/488203_print |pmid=15775848 |pmc=1480579}} Retrieved on October 29, 2008.</ref> It has been extensively investigated in [[clinical trial#Phase I|Phase I]], [[clinical trial#Phase II|II]] and [[clinical trial#Phase III|III]] [[clinical trial]]s.<ref name=Jost/><ref name=Los/> Two large, [[randomized controlled trial|randomized controlled]] Phase III trials have studied the effect of adding vatalanib to the [[FOLFOX]] [[chemotherapy regimen]] in people with [[metastasis|metastatic]] [[colorectal cancer]]: CONFIRM-1, whose participants had not yet received any treatment for their cancer; and CONFIRM-2, in which participants had received [[first-line treatment]] with [[irinotecan]] and [[pyrimidine analogue|fluoropyrimidine]]s. Vatalanib produced no [[statistical significance|significant]] improvement in overall survival (the [[clinical endpoint|primary endpoint]] of the studies), although it did significantly increase [[Progression Free Survival|progression-free survival]] in CONFIRM-2.<ref name=Los/> Both trials found that progression-free survival was improved in people with high levels of [[lactate dehydrogenase]], an [[enzyme]] used [[Lactate dehydrogenase#Tissue turnover|as a marker of tissue breakdown]]; the reasons for and implications of this difference are still unclear.<ref name=Los/><ref>{{cite journal |vauthors=Scott EN, Meinhardt G, Jacques C, Laurent D, Thomas AL |title=Vatalanib: the clinical development of a tyrosine kinase inhibitor of angiogenesis in solid tumours |journal=Expert Opin Investig Drugs |volume=16 |issue=3 |pages=367–79 |date=March 2007 |pmid=17302531 |doi=10.1517/13543784.16.3.367}}</ref>
+
+==Adverse effects==
+The [[adverse drug reaction|adverse effects]] of vatalanib appear similar to those of other VEGF inhibitors. In the CONFIRM trials, the most common side effects were [[hypertension|high blood pressure]], gastrointestinal upset ([[diarrhea]], [[nausea]], and [[vomiting]]), [[fatigue (medical)|fatigue]], and [[dizziness]].<ref name=Los/>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://clinicaltrials.gov/ct2/results?intr=%22Vatalanib%22 Ongoing and completed clinical trials of vatalanib] at ClinicalTrials.gov (U.S. [[National Institutes of Health]])
+{{Clear}}
+{{Chemotherapeutic agents}}
+
+[[Category:Angiogenesis inhibitors]]
+[[Category:Tyrosine kinase inhibitors]]
+[[Category:Experimental cancer drugs]]

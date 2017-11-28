@@ -1,0 +1,100 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 408194666
+| IUPAC_name = (5''S'',6''S'',8''R'')-6-Hydroxy-6-(hydroxymethyl)-5-methyl-7,8,14,15-tetrahydro-5''H''-16-oxa-4b,8a,14-triaza-5,8-methanodibenzo[b,h]cycloocta[jkl]cyclopenta[e]-as-indacen-13(6''H'')-one
+| image = Lestaurtinib.svg
+| width = 180 
+| image2 = Lestaurtinib ball-and-stick model.png
+
+<!--Clinical data-->
+| tradename = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = 
+| routes_of_administration = oral<ref name="a">{{cite journal  |vauthors=Shabbir M, Stuart R |title=Lestaurtinib, a multitargeted tyrosinse kinase inhibitor: from bench to bedside |journal=Expert Opinion on Investigational Drugs |volume=19 |issue=3 |pages=427–36 |year=2010 |url=https://www.researchgate.net/publication/41415797_Lestaurtinib_a_multitargeted_tyrosinse_kinase_inhibitor_From_bench_to_bedside}}</ref>
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = highly protein-bound, especially to α-1 acid glycoprotein<ref name="a" />
+| metabolism = liver P450 (CYP34A) enzyme system<ref name="a" />
+| elimination_half-life = 
+| excretion = 
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5672
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 111358-88-4
+| ATC_prefix = None
+| ATC_suffix = 
+| ATC_supplemental =
+| PubChem = 126565
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = DO989GC5D1
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D04696
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 603469
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 112457
+
+<!--Chemical data-->
+| chemical_formula =
+| C=26 | H=21 | N=3 | O=4 
+| molecular_weight = 439.462 g/mol
+| smiles = C[C@@]12[C@](C[C@@H](O1)n3c4ccccc4c5c3c6n2c7ccccc7c6c8c5C(=O)NC8)(CO)O
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C26H21N3O4/c1-25-26(32,12-30)10-18(33-25)28-16-8-4-2-6-13(16)20-21-15(11-27-24(21)31)19-14-7-3-5-9-17(14)29(25)23(19)22(20)28/h2-9,18,30,32H,10-12H2,1H3,(H,27,31)/t18-,25+,26+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = UIARLYUEJFELEN-LROUJFHJSA-N
+}}
+
+'''Lestaurtinib''' ([[International Nonproprietary Name|rINN]], codenamed '''CEP-701''') is a [[tyrosine kinase]] inhibitor structurally related to [[staurosporine]].  This semisynthetic derivative of the [[indolocarbazole]] [[K252a]] was investigated by [[Cephalon]] as a treatment for various types of cancer.<ref name="a" />  It is an inhibitor of the [[kinase]]s fms-like tyrosine kinase 3 ([[FLT3]]),<ref name="pmid16857985">{{cite journal  |vauthors=Knapper S, Burnett AK, Littlewood T, etal |title=A phase 2 trial of the FLT3 inhibitor lestaurtinib (CEP701) as first-line treatment for older patients with acute myeloid leukemia not considered fit for intensive chemotherapy |journal=Blood |volume=108 |issue=10 |pages=3262–70 |date=November 2006 |pmid=16857985 |doi=10.1182/blood-2006-04-015560 |url=http://www.bloodjournal.org/cgi/pmidlookup?view=long&pmid=16857985}}</ref> Janus kinase 2 ([[JAK2]]),<ref name="pmid17984313">{{cite journal  |vauthors=Hexner EO, Serdikoff C, Jan M, etal |title=Lestaurtinib (CEP701) is a JAK2 inhibitor that suppresses JAK2/STAT5 signaling and the proliferation of primary erythroid cells from patients with myeloproliferative disorders |journal=Blood |volume=111 |issue=12 |pages=5663–71 |date=June 2008 |pmid=17984313 |doi=10.1182/blood-2007-04-083402 |url=http://www.bloodjournal.org/cgi/pmidlookup?view=long&pmid=17984313 |pmc=2424161}}</ref> tropomyosin receptor kinase (''trk'') A ([[TrkA]]), [[TrkB]] and [[TrkC]].<ref>{{cite journal |author=Revill, P., Serradell, N., Bolos, J., Rosa, E.|title=Lestaurtinib |journal=Drugs of the Future |volume=32 |issue=3 |pages=215|year=2007|doi=10.1358/dof.2007.032.03.1084137}}</ref>
+
+==Uses==
+Lestaurtinib has undergone clinical trials for the treatment of various cancers, including pancreatic and prostate cancers, V617F JAK2 positive [[polycythemia vera]] and [[essential thrombocytosis]],<ref name="a" /> and refractory [[neuroblastoma]].<ref name="h">{{cite journal  |vauthors=Minturn JE, Villablanca J, Yanik GA, etal |title=Phase I trial of lestaurtinib for children with refractory neuroblastoma (NB): A New Approach to Neuroblastoma Therapy (NANT) Consortium study |journal=Journal of Clinical Oncology |volume=28 |issue=15 |pages=9532–9532 |date=May 2010}}</ref>  The most significant effort was invested in developing lestaurtinib for the treatment of [[acute myelogenous leukemia]] (AML).  24% of the adult AML-affected population exhibits FLT3 mutations, which are associated with an increased likelihood of relapse and mortality after treatment above the general AML population.  FLT3 mutations suppress apoptosis in mutated cells, but lestaurtinib has the potential to overcome this suppression by inhibiting FLT3 kinase activity.<ref name="a" />
+
+==Preclinical studies==
+Lestaurtinib was identified early on as a ''trk'' receptor tyrosine kinase (RTK) inhibitor, with a concentration inhibiting 50% of tyrosine kinase activity (IC50) of 25 nM.  ''In vivo'' trials demonstrated a 50–70% reduction in tumor burden for xenografted pancreatic and prostate cancers; however, subsequent clinical trials for pancreatic and prostate cancers did not achieve the endpoints specified.  In 2001, lestaurtinib was shown to have an IC50 of 2–3 nM with respect to FLT3 tyrosine kinase, with no significant effect on structurally similar tyrosine kinases at those concentrations.  Since leukemias typically develop multiple pathways of survival, lestaurtinib was studied in conjunction with traditional chemotherapy; it was determined that, whereas lestaurtinib treatment prior to chemotherapy produced antagonistic results, lestaurtinib treatment concurrent or subsequent to chemotherapy produced synergistic results.  Most recently, lestaurtinib’s potency as a JAK2 inhibitor was investigated.<ref name="a" />
+
+==Clinical trials==
+Lestaurtinib was filed as [[Investigational New Drug]] (IND) number 76431.<ref name="b">{{cite web|title=Lestaurtinib, Cytarabine, and Idarubicin in Treating Younger Patients With Relapsed or Refractory Acute Myeloid Leukemia|url=https://clinicaltrials.gov/ct2/show/NCT00469859?term=lestaurtinib&rank=4|website=ClinicalTrials.gov|publisher=U.S. National Institutes of Health|accessdate=20 November 2016}}</ref>
+
+Initial Phase I studies with lestaurtinib involved determination of pharmacokinetic parameters following a single dose in healthy volunteers.  Next, safety and tolerability were investigated in a Phase I trial involving 30 volunteers with advanced solid tumors or [[lymphoma]].  Although there were no notable tumor responses, a strong correlation was noted between dose and adverse events, with the primary adverse event reported being gastrointestinal reaction.  A Phase II study in 18 patients with pancreatic cancer was initiated for combination treatment with lestaurtinib and [[gemcitabine]], but efficacy of lestaurtinib was not observed.<ref name="a" />
+
+In 2004, a Phase I/II study involved 17 patients at 2 locations with relapsed, refractory poor-risk AML with FLT3 mutations; this study demonstrated effective FLT3 inhibition by lestaurtinib.  A multi-center Phase II study of 29 patients above the age of 60 was initiated for treatment with lestaurtinib alone; the results, reported in 2006, indicated that the primary endpoint of complete remission was not achieved in any participants.  Despite this failure, another multi-center Phase II trial involving 42 patients combined lestaurtinib with conventional chemotherapy; the results, reported in 2005, indicated that twice as many patients showed a clinical response when treated with lestaurtinib as compared to those not treated.<ref name="a" />  Consequently, a Phase III trial was initiated with 224 patients for lestaurtinib following chemotherapy; no significant difference in cancer remission was seen between patients treated with chemotherapy alone and with lestaurtinib and chemotherapy, according to results in a 2011 report.<ref name="d">{{cite journal|vauthors=Levis M, Ravandi F, Wang ES, etal|title=Results from a randomized trial of salvage chemotherapy followed by lestaurtinib for patients with FLT3 mutant AML in first relapse|journal=Blood|date=24 March 2011|volume=117|issue=12|pages=3294–301|doi=10.1182/blood-2010-08-301796}}</ref>
+
+Additional clinical trials have been initiated since this Phase III trial.  These include a multi-center Phase II trial involving 37 patients with V617F JAK2 positive polycythemia vera and essential thrombocytosis; results published in 2014 indicate that the trial did not achieve the endpoint of 15% reduction of V617F JAK2 allele burden in 15% of patients.<ref name="f">{{cite journal|vauthors=Hexner E, Roboz G, Hoffman R, etal|title=Open-label study of oral CEP-701 (lestaurtinib) in patients with polycythaemia vera or essential thrombocythaemia with JAK2-V617F mutation|journal=British Journal of Haematology|date=January 2014|volume=164|issue=1|pages=83-93}}</ref>  A Phase I study of 47 patients reported in 2010 that treatment of refractory neuroblastoma was well tolerated at the recommended doses,<ref name="h" /> and an additional Phase I study in children with refractory neuroblastoma was completed in 2011.<ref name="e">{{cite journal|vauthors=Minturn JE, Evans AE, Villablanca JG, etal|title=Phase I trial of lestaurtinib for children with refractory neuroblastoma: a new approaches to neuroblastoma therapy consortium study|journal=Cancer Chemotherapy and Pharmacology|date=October 2011|volume=68|issue=4|pages=1057–65}}</ref>  Phase I results were reported in 2015 for a lestaurtinib trial involving patients with V617F JAK2 positive [[myelofibrosis]].<ref name="g">{{cite journal|vauthors=Hexner EO, Mascarenhas J, Prchal J, etal|title=Phase I dose escalation study of lestaurtinib in patients with myelofibrosis|journal=Leukemia and Lymphoma|year=2015|volume=56|issue=9|pages=2543–51}}</ref>
+
+==Commercialization and intellectual property==
+Lestaurtinib was studied by Cephalon, an international pharmaceutical company based in Frazer, PA.<ref name="k">{{cite web|last1=Nicholson|first1=Chris|title=Teva to Buy Cephalon for $6.8 Billion|url=https://dealbook.nytimes.com/2011/05/02/teva-to-buy-cephalon-for-6-8-billion/?_r=1|website=DealBook|publisher=The New York Times|accessdate=20 November 2016}}</ref>  Founded in 1987, Cephalon had grown to a Fortune 1000 company by 2011, with 4000 employees and 170 products sold in 100 countries.<ref name="j">{{cite web|title=Teva to Acquire Cephalon in $6.8 Billion Transaction|url=http://www.tevapharm.com/news/teva_to_acquire_cephalon_in_6_8_billion_transaction_05_11.aspx|accessdate=20 November 2016}}</ref> 
+
+Lestaurtinib was mentioned as one of two oncology drugs being developed by Cephalon in a 2007 [[U.S. Securities and Exchange Commission]] (SEC) report.  According to this report, in addition to holding patent applications involving methods of treatment, formulations, and polymorphs of lestaurtinib, Cephalon held a composition of matter patent for lestaurtinib in the United States that would expire in 2008. In 2006, the U.S. FDA granted lestaurtinib [[orphan drug]] status for the treatment of AML, reflecting the significant need but minimal market for treatment of AML.<ref name="m">{{cite web|title=Cephalon 10-K 2007|url=http://www.wikinvest.com/stock/Cephalon_(CEPH)/Filing/10-K/2007/F2232229|website=wikinvest|publisher=Cephalon, Inc.|accessdate=20 November 2016}}</ref>  In the wake of preliminary failing results for the Phase III clinical trial involving Lestaurtinib, Cephalon founder and CEO Frank Baldino, Ph.D., issued the following statement in 2009:
+
+{{quote|We made a significant financial investment in this pioneering effort to develop lestaurtinib for this molecularly targeted patient population with a poor prognosis and few treatment options. Patients with life-threatening diseases need companies like Cephalon to make that investment and take that risk if we are to improve patient outcomes and the overall cost of healthcare.<ref name="l">{{cite web|title=Cephalon Provides Clinical Update on Lestaurtinib in Relapsed Acute Myelogenous Leukemia|url=http://www.prnewswire.com/news-releases/cephalon-provides-clinical-update-on-lestaurtinib-in-relapsed-acute-myelogenous-leukemia-61813787.html|website=PR Newswire: A CISION Company|publisher=Cephalon, Inc.|accessdate=20 November 2016}}</ref>}}
+
+In 2011, Cephalon was acquired by [[Teva Pharmaceutical Industries]] (NASDAQ: TEVA) for $6.8 billion in cash, making Cephalon a wholly owned subsidiary of Teva. This acquisition was in line with Teva’s vision to expand their branded and specialty drug offerings, more than doubling branded drug sales to a value of $7 billion.<ref name="k" /><ref name="j" />  In their 2011 annual SEC report, Teva did not include lestaurtinib in a listing of major oncology drugs in their pipeline.<ref name="o">{{cite web|title=Form 20-F (2011)|url=http://ir.tevapharm.com/phoenix.zhtml?c=73925&p=irol-sec|publisher=Teva Pharmaceutical Industries Ltd.|accessdate=20 November 2016}}</ref>
+
+A significant number of patents are related to lestaurtinib.  A Google patent search yields 1,278 patents involving lestaurtinib, 6 of which include lestaurtinib in the title and 8 of which are assigned to Cephalon.  2,017 patents involve CEP-701, none of which include CEP-701 in the title and 8 of which are assigned to Cephalon.  13,666 patents are related to FLT3 inhibitors, 7 of which include FLT3 inhibition in the title and 3 of which are assigned to Cephalon.<ref name="q">{{cite web|title=Google Patents|url=https://patents.google.com|publisher=Google|accessdate=20 November 2016}}</ref>  FLT3 inhibitors currently undergoing clinical trials for AML include [[sorafenib]], [[midostaurin]], and [[quizartinib]].<ref name="p">{{cite journal|vauthors=Kadia TM, Ravandi F, Cortes J, etal|title=New drugs in acute myeloid leukemia|journal=Annals of Oncology|date=22 January 2016|volume=27|issue=5|pages=770–8|doi=10.1093/annonc/mdw015}}</ref>
+
+==See also==
+* [[Janus kinase inhibitor]]
+
+==References==
+{{Reflist}}
+
+{{Extracellular chemotherapeutic agents}}
+{{Cytokine receptor modulators}}
+{{Growth factor receptor modulators}}
+
+[[Category:Indolocarbazoles]]
+[[Category:Lactams]]
+[[Category:Non-receptor tyrosine kinase inhibitors]]
+[[Category:Receptor tyrosine kinase inhibitors]]

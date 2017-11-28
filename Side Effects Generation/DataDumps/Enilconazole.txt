@@ -1,0 +1,95 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 414454456
+| ImageFile = Enilconazole.svg
+| ImageName = Chemical structure of enilconazole
+| PIN = 1-{2-(2,4-Dichlorophenyl)-2-[(prop-2-en-1-yl)oxy]ethyl}-1''H''-imidazole
+| OtherNames = 1-[2-(Allyloxy)-2-(2,4-dichlorophenyl)ethyl]-1''H''-imidazole<br />Imazalil<br />Chloramizole
+| Section1 = {{Chembox Identifiers
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 34116
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 6K0NOF3XQ6
+| InChI = 1/C14H14Cl2N2O/c1-2-7-19-14(9-18-6-5-17-10-18)12-4-3-11(15)8-13(12)16/h2-6,8,10,14H,1,7,9H2
+| InChIKey = PZBPKYOVPCNPJY-UHFFFAOYAI
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 356918
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C14H14Cl2N2O/c1-2-7-19-14(9-18-6-5-17-10-18)12-4-3-11(15)8-13(12)16/h2-6,8,10,14H,1,7,9H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = PZBPKYOVPCNPJY-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo = 35554-44-0 
+| PubChem = 37175
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03997
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 81927
+| SMILES = Clc1ccc(c(Cl)c1)C(OCC=C)Cn2ccnc2
+}}
+
+| Section2 = {{Chembox Properties
+| C=14 | H=14 | Cl=2 | N=2 | O=1
+| Appearance=Slightly yellow to brown solidified oil<ref name=extoxnet>{{cite web | title = Pesticide Information Profile: Imazalil | url = http://extoxnet.orst.edu/pips/imazalil.htm | publisher = Extension Toxicology Network}}</ref>
+| Density = 1.23 g/mL
+| MeltingPtC = 50
+| MeltingPt_ref = <ref name=extoxnet/>
+| BoilingPtC = 347
+| BoilingPt_ref = <ref name=GESTIS>{{GESTIS|ZVG=496439}}</ref>
+| Solubility = 1400 mg/L (20 °C)<ref name=extoxnet/>
+  }}
+
+| Section6 = {{Chembox Pharmacology
+| ATCvet = yes
+| ATCCode_prefix = D01
+| ATCCode_suffix = AC90
+}}
+
+| Section7 = {{Chembox Hazards
+| MainHazards =
+| FlashPtC = 181
+| FlashPt_ref = <ref name=GESTIS/>
+| AutoignitionPt =
+| LD50 = 227 mg/kg (oral rat)<br>4200 mg/kg (dermal, rabbit)<br>16 mg/l/4 h (inhalation, rat)<ref name=GESTIS/>
+  }}
+}}
+
+'''Enilconazole''' (synonyms '''imazalil''', '''chloramizole''') is a [[fungicide]] widely used in agriculture, particularly in the growing of [[citrus]] fruits.<ref name=Kaplan>{{cite journal |author1=Kaplan, H. J. |author2=Dave, B. A. | journal = Proceedings of the Florida State Horticultural Society | title = The current status of Imazalil:  a post harvest fungicide for citrus | year = 1979 | volume = 92 | pages = 37–43}}</ref> Trade names include '''Freshgard''', '''Fungaflor''', and '''Nuzone'''.
+
+Enilconazole is also used in [[veterinary medicine]] as a [[topical]] [[antimycotic]].<ref>[http://www.ema.europa.eu/pdfs/vet/mrls/049698en.pdf EMA Committee for Veterinary Products: Enilconazole]</ref>
+
+== History ==
+In 1983, enilconazole was first introduced by [[Janssen Pharmaceutica]] and it has since consistently been registered as an antifungal postharvest agent.<ref name=epafactsheet>{{Cite journal | title = R.E.D. Facts: Imazalil | url = http://archive.epa.gov/pesticides/reregistration/web/pdf/2325fact.pdf | publisher = Environmental Protection Agency | date = February 2005}}</ref>  Shortly after its introduction, enilconazole was used for seed treatment in 1984 and later used in chicken hatcheries in 1990.  Like any fungicide, it was used to protect crops from becoming diseased and unable to yield a profitable harvest.  Today, it continues to be utilized as an agricultural aid for its contribution to maintaining crop integrity and production output.
+
+== Use on crops==
+Enilconazole is found on a wide variety of fruits and vegetables, but it is primarily used on tubers for storage.<ref name=certis>{{cite web | url = http://www.certiseurope.com/our-products/imazalil.html | publisher = Certis Europe | title = Imazalil}}</ref>  Common fungi that are attracted to tubers are ''[[Fusarium]]'' spp, ''[[Phoma]]'' spp, and ''[[Helminthosporum solani]]'' which depreciate the crop quality.<ref name=certis/>  In 1984, when enilconazole was initially used for seed treatment, barley was a main target to mitigate crop loss due to disease.<ref name=certis/>
+
+In addition, the antifungal agent is commonly used on citrus fruits.<ref name=Kaplan/>
+
+== Hazards ==
+In 1999, based on studies in rodents, enilconazole was identified as "likely to be carcinogenic in humans" under The Environmental Protection Agency's Draft Guidelines for Carcinogenic Assessment.<ref name=epafactsheet/>  However, because pesticide residues are well below the concentrations associated with risk, the lifetime cancer risk estimate associated with citrus fruit contamination was valued as insignificant.<ref name=epafactsheet/>
+
+The EPA has established an equivalent toxicity level for human exposure at 6.1 x 10<sup>−2</sup> mg/kg/day.  This level placed it in Category I, II, and IV for oral, dermal, and inhalation toxicity.<ref name=epafactsheet/>  Category I is classified as highly irritating to the eyes, but not to the skin.  As for oral toxicity, when the fungicide is transferred via food into the body, it must be metabolized before it can do any damage.
+
+Under California's [[Proposition 65]], enilconazole is listed as "known to the State to cause cancer".<ref>[http://www.oehha.org/prop65.html Proposition 65], Office of Environmental Health Hazard Assessment</ref>
+
+The EPA determined there is no substantial risk to toxic levels when considering food and water exposure.  Enilconazole has a very minute degree of mobility, so its level of drinking water contamination is quite low.  The estimated environmental concentration (EEC) found the levels to be 0.072 [[parts per billion|ppb]] for surface water and 500 ppb for drinking water.<ref name=epafactsheet/>  These values are quite negligible, which is why the Agency does not see them as a concern.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.pesticideinfo.org/Detail_Chemical.jsp?Rec_Id=PC33040 Imazalil page] at Pesticides Database
+* [http://environmentalchemistry.com/yogi/chemicals/cn/Imazalil.html Imazalil page] at EnvironmentalChemistry.com
+* [http://www.inchem.org/documents/jmpr/jmpmono/v080pr17.gif Diagram showing metabolism of enilconazole]
+* [http://www.inchem.org/documents/jmpr/jmpmono/v080pr21.htm Pesticide Residues in Food]
+
+[[Category:Allyl compounds]]
+[[Category:Aromatase inhibitors]]
+[[Category:Chloroarenes]]
+[[Category:Ethers]]
+[[Category:Fungicides]]
+[[Category:Imidazole antifungals]]
+[[Category:Lanosterol 14α-demethylase inhibitors]]
+[[Category:Veterinary drugs]]

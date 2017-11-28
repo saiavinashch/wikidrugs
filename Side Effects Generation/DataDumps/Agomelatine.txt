@@ -1,0 +1,206 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 477316140
+| IUPAC_name = ''N''-[2-(7-methoxynaphthalen-1-yl)ethyl]acetamide
+| image = Agomelatine formula.svg
+| image2 = Agomelatine-3D-ball.png
+
+<!--Clinical data-->
+| tradename =  Melitor, Thymanax, Valdoxan
+| Drugs.com = {{drugs.com|international|agomelatine}}
+| licence_EU = Valdoxan
+| pregnancy_AU = B1
+| legal_AU = S4
+| legal_UK = POM
+| routes_of_administration = [[Oral administration|Oral]]
+
+<!--Pharmacokinetic data-->
+| protein_bound = 95%<ref name = PI/>
+| bioavailability = 1%<ref name=PI>{{cite web|title=VALDOXAN®   Product Information|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2010-PI-07273-3|work=TGA eBusiness Services|publisher=Servier Laboratories Pty Ltd|accessdate=2013-10-14|format=PDF|date=2013-09-23}}</ref>
+| metabolism = hepatic (90% [[CYP1A2]] and 10% [[CYP2C9]])<ref name = PI/>
+| elimination_half-life = 1–2 hours<ref name = PI/>
+| excretion =  [[Renal]] (80%, mostly as metabolites)<ref name = PI/>
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 138112-76-2
+| ATC_prefix = N06
+| ATC_suffix = AX22
+| PubChem = 82148
+| IUPHAR_ligand = 198
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB06594
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 74141
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 137R1N49AD
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02578
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 10878
+
+<!--Chemical data-->
+| C=15 | H=17 | N=1 | O=2
+| molecular_weight = 243.301 g/mol
+| SMILES = O=C(NCCc1c2c(ccc1)ccc(OC)c2)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C15H17NO2/c1-11(17)16-9-8-13-5-3-4-12-6-7-14(18-2)10-15(12)13/h3-7,10H,8-9H2,1-2H3,(H,16,17)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YJYPHIXNFHFHND-UHFFFAOYSA-N
+}}
+
+'''Agomelatine''' ({{abbrlink|INN|International Nonproprietary Name}}, {{abbrlink|BAN|British Approved Name}}; brand names '''Valdoxan''', '''Melitor''', '''Thymanax''') is an [[atypical antidepressant]] developed by the pharmaceutical company [[Servier]]. It is marketed for the treatment of [[major depressive disorder]], primarily for its relatively favorable side effect profile: it avoids the weight gain, sexual dysfunction, and severe [[Antidepressant discontinuation syndrome|withdrawal]] associated with the most commonly used classes of antidepressants ([[SSRI discontinuation syndrome|SSRIs]], [[SNRI]]s, [[tricyclic antidepressant|tricyclic]]s), while providing similar therapeutic benefit.<ref name="pmid24343836">{{cite journal | vauthors = Guaiana G, Gupta S, Chiodo D, Davies SJ, Haederle K, Koesters M | title = Agomelatine versus other antidepressive agents for major depression | journal = Cochrane Database Syst Rev | volume = | issue = 12 | pages = CD008851 | year = 2013 | pmid = 24343836 | doi = 10.1002/14651858.CD008851.pub2 | url = }}</ref><ref>{{Cite web | url = http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/000915/WC500046227.pdf | title = Product Information: Valdoxan, INN-agomelatine | date = 13 November 2013 | website = www.ema.europa.eu | publisher = European Medicines Agency | access-date = 27 February 2016}}</ref><ref name="pmid24647162">{{cite journal | vauthors = Taylor D, Sparshatt A, Varma S, Olofinjana O | title = Antidepressant efficacy of agomelatine: meta-analysis of published and unpublished studies | journal = BMJ | volume = 348 | issue = | pages = g1888 | year = 2014 | pmid = 24647162 | pmc = 3959623 | doi = | url = }}</ref>
+
+Due to its distinctive [[mechanism of action]], agomelatine is also studied for its effects on [[Circadian rhythm|sleep regulation]]. Studies report various improvements in general quality of sleep metrics, as well as specific therapeutic benefits in [[Circadian rhythm sleep disorder|circadian rhythm disorders]].<ref name="pmid24647162" /><ref name="pmid18753276" /><ref name="MNT2005" />
+
+==Medical uses==
+
+===Major depressive disorder===
+Agomelatine is indicated for the treatment of [[major depressive episodes]] in adults.<ref name="emea">{{cite web |url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/000915/WC500046227.pdf |title=Summary of Product Characteristics|format=PDF |work= |publisher=European Medicine Agency |pages= |accessdate=2013-10-14}}</ref> Ten placebo controlled trials have been performed to investigate the short term efficacy of agomelatine in major depressive disorder. At the end of treatment, significant efficacy was demonstrated in six of the ten short-term double-blind [[placebo-controlled studies]].<ref name ="emea" /> Two were considered "failed" trials, as comparators of established efficacy failed to differentiate from placebo. Efficacy was also observed in more severely depressed patients in all positive placebo-controlled studies.<ref name ="emea" /> The maintenance of antidepressant efficacy was demonstrated in a relapse prevention study.<ref name ="emea" /> A large meta-analysis of 20 trials with 7460 participants found agomelatine to be as effective as standard antidepressants.<ref>{{Cite journal | doi = 10.1136/bmj.g1888| title = Antidepressant efficacy of agomelatine: Meta-analysis of published and unpublished studies| journal = BMJ| volume = 348| pages = g1888| year = 2014| last1 = Taylor | first1 = D.| last2 = Sparshatt | first2 = A.| last3 = Varma | first3 = S.| last4 = Olofinjana | first4 = O. | pmid=24647162 | pmc=3959623}}</ref>
+
+Results of the [[meta-analysis]] of three positive, randomized, double-blind, placebo controlled studies in 357 patients treated with agomelatine and 360 patients treated with placebo show that agomelatine is effective in treating severe depression. Its antidepressant effect is greater for more severe depression. In patients with a greater [[Baseline (pharmacology)|baseline]] score (>30 on HAMD17 scale), the agomelatine-placebo difference was of 4.53 points.<ref name="pmid17690597">{{cite journal |author=  |last1= Montgomery |first1= SA |last2= Kasper |first2= S|title=Severe depression and antidepressants: focus on a pooled analysis of placebo-controlled studies on agomelatine. |journal=Int Clin Psychopharmacol. |volume=22 |issue=5 |pages=283–91 |date=September 2007 |pmid=17690597 |doi= 10.1097/YIC.0b013e3280c56b13|url=}}</ref> Controlled studies in humans have shown that agomelatine is at least as effective as the [[SSRI]] antidepressants [[paroxetine]], [[sertraline]], [[escitalopram]], and [[fluoxetine]] in the treatment of [[major depression]].<ref name="Kasper">{{cite journal |vauthors=Kasper S, Hajak G, Wulff K, Hoogendijk WJ, Montejo AL, Smeraldi E, Rybakowski JK, Quera-Salva MA, Wirz-Justice AM, Picarel-Blanchot F, Baylé FJ | title = Efficacy of the novel antidepressant agomelatine on the circadian rest-activity cycle and depressive and anxiety symptoms in patients with major depressive disorder: a randomized, double-blind comparison with sertraline | journal = J Clin Psychiatry | volume = 71 | issue = 2 | pages = 109–20 |date=February 2010 | pmid = 20193645 | doi = 10.4088/JCP.09m05347blu | url =  }}</ref><ref name = Pool>{{cite journal|last=Demyttenaere|first=K|author2=Corruble, E|author3= Hale, A|author4= Quera-Salva, MA|author5= Picarel-Blanchot, F|author6= Kasper, S|title=A pooled analysis of six month comparative efﬁcacy and tolerability in four randomized clinical trials: agomelatine versus escitalopram, ﬂuoxetine, and sertraline|journal=CNS Spectrums|date=June 2013|volume=18|issue=3|pages=163–170|doi=10.1017/S1092852913000060|pmid=23472671|url=http://onlinedigeditions.com/publication/repo23/22128/160477/d5f5e0428742250075a1ac02456939a179da3cd8.pdf#page=57}}</ref><ref>{{cite journal|last=Singh|first=SP|author2=Sing, V|author3= Kar, N|title=Eﬃcacy of agomelatine in major depressive disorder: meta-analysis and appraisal|journal=International Journal of Neuropsychopharmacology|date=April 2012|volume=15|issue=3|pages=417–428|doi=10.1017/S1461145711001301|pmid=21859514}}</ref>
+
+A small open-label study has suggested efficacy in the treatment of [[Atypical depression|atypical]] and [[melancholic depression]].<ref>{{cite journal|last=Avedisova|first=A|author2=Marachev, M|title=2639&nbsp;– The effectiveness of agomelatine (valdoxan) in the treatment of atypical depression|journal=European Psychiatry|year=2013|volume=28|issue=Suppl. 1|page=1|doi=10.1016/S0924-9338(13)77272-9|issn=0924-9338}}</ref> Well-designed clinical trials have demonstrated efficacy in the treatment of [[Mixed anxiety-depressive disorder|anxious depression]].<ref>{{cite journal|last=Heun|first=R|author2=Coral, RM|author3= Ahokas, A|author4= Nicolini, H|author5= Teixeira, JM |author6=Dehelean, P|title=1643&nbsp;– Efficacy of agomelatine in more anxious elderly depressed patients. A randomized, double-blind study vs placebo|journal=European Psychiatry|year=2013|volume=28|issue=Suppl. 1|page=1|doi=10.1016/S0924-9338(13)76634-3|issn=0924-9338}}</ref><ref>{{cite journal|last=Stein|first=DJ|author2=Picarel-Blanchot, F|author3= Kennedy, SH|title=Efficacy of the novel antidepressant agomelatine for anxiety symptoms in major depression|journal=Human Psychopharmacology: Clinical and Experimental|date=March 2013|volume=28|issue=2|pages=151–159|doi=10.1002/hup.2294|pmid=23532747}}</ref> Agomelatine’s onset of action has been reported to occur as early as the first week of treatment.<ref name="pmid18052566">{{cite journal |author=  |last1= Lemoine |first1= P |last2= Guilleminault |first2= C |last3= Alvarez |first3= E|title=Improvement in subjective sleep in major depressive disorder with a novel antidepressant, agomelatine: randomized, double-blind comparison with venlafaxine. |journal=J Clin Psychiatry |volume=68 |issue=11 |pages=1723–32 |date=November 2007 |pmid=18052566 |doi= 10.4088/JCP.v68n1112|url=}}</ref>
+
+However, the body of research on agomelatine has been substantially affected by [[publication bias]], prompting analyses which take into account both published and unpublished studies.<ref name="pmid24647162" /><ref name="pmid23999482">{{cite journal | vauthors = Koesters M, Guaiana G, Cipriani A, Becker T, Barbui C | title = Agomelatine efficacy and acceptability revisited: systematic review and meta-analysis of published and unpublished randomised trials | journal = Br J Psychiatry | volume = 203 | issue = 3 | pages = 179–87 | year = 2013 | pmid = 23999482 | doi = 10.1192/bjp.bp.112.120196 | url = }}</ref><ref name="pmid21830835">{{cite journal | vauthors = Howland RH | title = A benefit-risk assessment of agomelatine in the treatment of major depression | journal = Drug Saf | volume = 34 | issue = 9 | pages = 709–31 | year = 2011 | pmid = 21830835 | doi = 10.2165/11593960-000000000-00000 | url = }}</ref> These have confirmed that agomelatine is (statistically) approximately as effective as more commonly used antidepressants (''eg'' SSRIs), but some qualified this as "marginally clinically relevant",<ref name="pmid21830835" /> being only slightly above placebo.<ref name="pmid23999482" /><ref name="pmid21830835" /> According to 2013 review, agomelatine did not seem to provide a significant advantage in efficacy over other antidepressants for the acute-phase treatment of major depression.<ref>{{Cite book|url=http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD008851.pub2/abstract|title=Cochrane Database of Systematic Reviews|last=Guaiana|first=Giuseppe|last2=Gupta|first2=Sumeet|last3=Chiodo|first3=Debbie|last4=Davies|first4=Simon JC|last5=Haederle|first5=Katja|last6=Koesters|first6=Markus|date=2013-12-17|publisher=John Wiley & Sons, Ltd|isbn = |language=en|doi=10.1002/14651858.cd008851.pub2/full}}</ref>
+
+===Investigational===
+Additionally, possibly because of its action on melatonin receptors, agomelatine appears to improve sleep quality, with no reported daytime drowsiness.<ref name="MNT2005">{{cite news|url=http://www.medicalnewstoday.com/articles/22334.php|title=Valdoxan: A New Approach to The Treatment of Depression|date=2005-04-05|work=Medical News Today|publisher=MediLexicon International Ltd|accessdate=14 May 2009| archiveurl= https://web.archive.org/web/20090415070653/http://www.medicalnewstoday.com/articles/22334.php| archivedate= 15 April 2009 <!--DASHBot-->| deadurl= no}}</ref> Agomelatine has demonstrated [[anxiolytic]] properties in rodents.<ref name="Millan">{{cite journal |vauthors=Millan MJ, Brocco M, Gobert A, Dekeyne A | title = Anxiolytic properties of agomelatine, an antidepressant with melatoninergic and serotonergic properties: role of 5-HT2C receptor blockade | journal = Psychopharmacology | volume = 177 | issue = 4 | pages = 448–58 |date=February 2005 | pmid = 15289999 | doi = 10.1007/s00213-004-1962-z | url =  }}</ref> It has been found significantly more effective than placebo in the treatment of [[generalised anxiety disorder]].<ref name="pmid23755745">{{cite journal | vauthors = De Berardis D, Conti CM, Marini S, Ferri F, Iasevoli F, Valchera A, Fornaro M, Cavuto M, Srinivasan V, Perna G, Carano A, Piersanti M, Martinotti G, Di Giannantonio M | title = Is there a role for agomelatine in the treatment of anxiety disorders?A review of published data | journal = Int J Immunopathol Pharmacol | volume = 26 | issue = 2 | pages = 299–304 | year = 2013 | pmid = 23755745 | doi = 10.1177/039463201302600203 | url = }}</ref> There is tentative evidence to suggest the efficacy of agomelatine as either a monotherapy or adjunct in the treatment of [[obsessive-compulsive disorder]] (OCD).<ref>{{cite journal|last=Fornaro|first=M|title=Switching from serotonin reuptake inhibitors to agomelatine in patients with refractory obsessive-compulsive disorder: a 3 month follow-up case series|journal=Annals of General Psychiatry|date=February 2011|volume=10|issue=1|page=5|doi=10.1186/1744-859X-10-5|pmid=21356085|pmc=3058071}}</ref><ref>{{cite journal|last=De Berardis|first=D|author8=Moschetta, FS|author9= Di Giannantonio, M|title=Agomelatine augmentation of escitalopram therapy in treatment-resistant obsessive-compulsive disorder: a case report|journal=Case Reports in Psychiatry|year=2012|volume=2012|pages=1|doi=10.1155/2012/642752|pmid=23094178|url=http://downloads.hindawi.com/crim/psychiatry/2012/642752.pdf|pmc=3474211|id=642752}}</ref><ref>{{cite journal|last=De Berardis|first=D|author2=Serroni, N|author3=Campanella, D|author4=Olivieri, L|author5=Moschetta, FS|author6=Conti, CM|author7=Conti, P|author8= Di Giannantonio, M|title=A case of obsessive-compulsive disorder successfully treated with agomelatine monotherapy|journal=Journal of Clinical Psychopharmacology|date=April 2012|volume=32|issue=2|pages=289–290|doi=10.1097/JCP.0b013e318249298c|pmid=22388158}}</ref><ref>{{cite journal|last=Bhutada|first=P|author2=Dixit, P|author3= Thakur, K|author4= Deshmukh, P|author5= Kaulaskar, S|title=Effects of agomelatine in a murine model of obsessive–compulsive disorder: Interaction with meta-chlorophenylpiperazine, bicuculline, and diazepam|journal=The Kaohsiung Journal of Medical Sciences|date=July 2013|volume=29|issue=7|pages=362–367|doi=10.1016/j.kjms.2012.11.003|pmid=23768699}}</ref> A case report documenting the efficacy of agomelatine in the treatment of [[social anxiety disorder]] has been published.<ref>{{cite journal|last=Crippa|first=JA|author2=Hallak, JE|author3= Zuardi, AW|author4= Chagas, MH|author5= Quevedo, J|author6= Nardi, AE|title=Agomelatine in the treatment of social anxiety disorder|journal=Progress in Neuro-Psychopharmacology and Biological Psychiatry|date=October 2010|volume=34|issue=7|pages=1357–1358|doi=10.1016/j.pnpbp.2010.07.007|pmid=20637821}}</ref> An open-label study has found agomelatine to be efficacious in the treatment of [[seasonal affective disorder]].<ref>{{cite journal|last=Pjrek|first=E|author2=Winkler, D|author3= Konstantinidis, A|author4= Willeit, M|author5= Praschak-Rieder, N|author6= Kasper, S|title=Agomelatine in the treatment of seasonal affective disorder|journal=Psychopharmacology|date=March 2007|volume=190|issue=4|pages=575–579|doi=10.1007/s00213-006-0645-3|pmid=17171557}}</ref> Open-label studies have suggested efficacy of adjunctive agomelatine in [[Bipolar disorder|bipolar depression]].<ref>{{cite journal|last=Fornaro|first=M|author2=McCarthy, MJ|author3=De Berardis, D|author4=De Pasquale, C|author5=Tabaton, M|author6=Martino, M|author7=Colicchio, S|author8=Cattaneo, CI|author9=D'Angelo, E|author10= Fornaro, P|title=Adjunctive agomelatine therapy in the treatment of acute bipolar II depression: a preliminary open label study|journal=Neuropsychiatric Disease and Treatment|year=2013|volume=9|pages=243–251|doi=10.2147/NDT.S41557|pmid=23430979|url=http://www.dovepress.com/getfile.php?fileID=15223|pmc=3575211}}</ref><ref>{{cite journal|last=Calabrese|first=JR|author2=Guelfi, JD|author3= Perdrizet-Chevallier, C|title=Agomelatine adjunctive therapy for acute bipolar depression: preliminary open data|journal=Bipolar Disorders|date=September 2007|volume=9|issue=6|pages=628–635|doi=10.1111/j.1399-5618.2007.00507.x|pmid=17845278}}</ref> A study in mice found that it protected against [[pentylenetetrazole]]- and [[pilocarpine]]-induced seizures.<ref>{{cite journal|last=Aguiar|first=CC|author2=Almeida, AB|author3=Araújo, PV|author4=Vasconcelos, GS|author5=Chaves, EM|author6=do Vale, OC|author7=Macêdo, DS|author8=de Sousa, FC|author9=Viana, GS|author10= Vasconcelos, SM|title=Anticonvulsant effects of agomelatine in mice|journal=Epilepsy & Behavior|date=July 2012|volume=24|issue=3|pages=324–328|doi=10.1016/j.yebeh.2012.04.134|pmid=22658946}}</ref> A small placebo-controlled trial found some benefit of agomelatine in [[attention-deficit hyperactivity disorder]] (ADHD).<ref>{{cite journal|last=Niederhofer|first=H|title=Treating ADHD with Agomelatine|journal=Journal of Attention Disorders|date=May 2012|volume=16|issue=4|pages=346–348|doi=10.1177/1087054711417400|pmid=22491963}}</ref> A 2015 review suggested no recommendations of Agomelatine in support of, or against, its use to treat individuals with seasonal affective disorder.<ref>{{Cite book|url=http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD011271.pub2/abstract|title=Cochrane Database of Systematic Reviews|last=Kaminski-Hartenthaler|first=Angela|last2=Nussbaumer|first2=Barbara|last3=Forneris|first3=Catherine A|last4=Morgan|first4=Laura C|last5=Gaynes|first5=Bradley N|last6=Sonis|first6=Jeffrey H|last7=Greenblatt|first7=Amy|last8=Wipplinger|first8=Jörg|last9=Lux|first9=Linda J|date=2015-11-11|publisher=John Wiley & Sons, Ltd|isbn = |language=en|doi=10.1002/14651858.cd011271.pub2/full}}</ref>
+
+===Use in special populations===
+It is not recommended for use in [[children]] and [[adolescents]] below 18 years of age due to a lack of data on [[safety]] and [[efficacy]].<ref name ="emea" /> Only limited clinical data is available on the use of agomelatine in elderly patients ≥ 65 years old with major depressive episodes. Therefore, caution should be exercised when prescribing it to these patients.<ref name ="emea" />
+
+==Contraindications==
+Agomelatine is contraindicated in patients with kidney or [[hepatic impairment|liver impairment]].<ref name ="emea" /> According to information disclosed by Les Laboratoires Servier on October 10, 2012, guidelines for the follow-up of patients treated with Valdoxan have been modified in concert with the [[European Medicines Agency]]. As some patients may experience increased levels of liver enzymes in their blood during treatment with Valdoxan, doctors have to run laboratory tests to check that the liver is working properly at the initiation of the treatment and then periodically during treatment, and subsequently decided whether to pursue the treatment or not.<ref>http://www.servier.com/content/information-about-valdoxan-patients.</ref> No relevant modification in agomelatine pharmacokinetic parameters in patients with severe renal impairment has been observed. However, only limited clinical data on its use in depressed patients with severe or moderate [[renal impairment]] with major depressive episodes is available. Therefore, caution should be exercised when prescribing agomelatine to these patients.<ref name ="emea" />
+
+==Adverse effects==
+Agomelatine does not alter daytime [[vigilance (psychology)|vigilance]] and [[memory]] in healthy volunteers. In depressed patients, treatment with the drug increased [[Slow-wave sleep|slow wave]] sleep without modification of REM ([[Rapid eye movement sleep|Rapid Eye Movement]]) sleep amount or REM latency. Agomelatine also induced an advance of the time of sleep onset and of minimum heart rate. From the first week of treatment, onset of sleep and the quality of sleep were significantly improved without daytime clumsiness as assessed by patients.<ref name = PI/><ref name ="emea" />
+
+Agomelatine appears to cause fewer [[SSRI#Sexual dysfunction|sexual side effects]] and [[discontinuation]] effects than paroxetine.<ref name = PI/> It appears better tolerated than the [[Selective serotonin reuptake inhibitors|SSRIs]].<ref name = Pool />
+
+;Common (1-10% incidence) adverse effects include<ref name = PI/><ref name = emea/><ref name = AMH /><ref name=BNF>{{cite book|title=British National Formulary (BNF) 65|year=2013|publisher=Pharmaceutical Press|location=London, UK|isbn=978-0857110848|page=253|authors=Joint Formulary Committee and Royal Pharmaceutical Society of Great Britain}}</ref>
+
+{{Colbegin|2}}
+* Hyperhidrosis (excess sweating that is not proportionate to the ambient temperature)
+* Abdominal pain
+* Nausea
+* Vomiting
+* Diarrhea
+* Constipation
+* Back pain
+* Fatigue
+* Increased [[Alanine transaminase|ALAT]] and [[Aspartate transaminase|ASAT]] (liver enzymes)
+* Headache
+* Dizziness
+* Somnolence
+* Insomnia
+* Migraine
+* Anxiety
+{{Colend}}
+
+;Uncommon (0.1-1%) adverse effects include<ref name = PI/><ref name = emea/><ref name = AMH /><ref name = BNF />
+
+{{Colbegin|2}}
+* [[Paraesthesia]] (abnormal sensations [e.g. itching, burning, tingling, etc.] due to malfunctioning of the peripheral nerves)
+* Blurred vision
+* [[Eczema]]
+* [[Pruritus]] (itching)
+* [[Urticaria]]
+* [[Psychomotor agitation|Agitation]]
+* [[Irritability]]
+* [[Psychomotor agitation|Restlessness]]
+* Aggression
+* Nightmares
+* Abnormal dreams
+{{Colend}}
+
+;Rare (0.01-0.1%) adverse effects include<ref name = PI/><ref name = emea/><ref name = AMH /><ref name = BNF />
+''Note: mania and hypomania are often due to an underlying disease, namely bipolar disorder.''
+
+{{Colbegin|2}}
+* [[Mania]]
+* [[Hypomania]]
+* [[Suicidal ideation]]
+* Suicidal behaviour
+* [[Hallucinations]]
+* [[Steatohepatitis]]
+* Increased [[Gamma-glutamyl transpeptidase|GGT]] and/or [[alkaline phosphatase]]
+* [[Liver failure]]
+* [[Jaundice]]
+* Erythematous rash
+* Face oedema and angioedema
+* Weight gain or loss, which tends to be less significant than with [[Selective serotonin reuptake inhibitors|SSRIs]]<ref>{{cite journal|last=Kennedy|first=SH|author2=Rizvi, SJ|title=Agomelatine in the Treatment of Major Depressive Disorder Potential for Clinical Effectiveness|journal=CNS Drugs|date=June 2010|volume=24|issue=6|pages=479–499|doi=10.2165/11534420-000000000-00000|pmid=20192279}}</ref>
+{{Colend}}
+
+===Dependence and withdrawal===
+No dosage tapering is needed on treatment discontinuation.<ref name ="emea" /> Agomelatine has no [[abuse potential]] as measured in healthy volunteer studies.<ref name = PI/><ref name ="emea" />
+
+==Overdose==
+Agomelatine is expected to be relatively safe in overdose.<ref>{{cite book | isbn = 978-0-470-97948-8 | title = The Maudsley prescribing guidelines in psychiatry | last1 = Taylor | first1 = D |author2=Paton, C |author3=Shitij, K | year = 2012 | publisher = Wiley-Blackwell | location = West Sussex  | pages =  }}</ref>
+
+==Interactions==
+Agomelatine is a substrate of [[CYP1A2]], [[CYP2C9]] and [[CYP2C19]]. Inhibitors of these enzymes, e.g. the SSRI antidepressant [[fluvoxamine]], reduce its clearance and can therefore lead to an increase in agomelatine exposure.<ref name = PI/><ref name=AMH>{{cite book|title=Australian Medicines Handbook 2013|year=2013|publisher=The Australian Medicines Handbook Unit Trust|location=Adelaide|isbn=9780980579093}}</ref> There is also the potential for agomelatine to interact with [[Ethanol|alcohol]] to increase the risk of [[hepatotoxicity]].<ref name = PI/><ref name = AMH/>
+
+==Pharmacology==
+
+===Pharmacodynamics===
+Agomelatine is a [[melatonin receptor agonist]] ([[melatonin receptor 1A|MT<sub>1</sub>]] (K<sub>i</sub ≥ 0.1&nbsp;nM) and [[melatonin receptor 1B|MT<sub>2</sub>]] (K<sub>i</sub> = 0.12&nbsp;nM)) and a [[serotonin]] [[5-HT2C receptor|5-HT<sub>2C</sub>]] (K<sub>i</sub> = 631&nbsp;nM) [[receptor antagonist]].<ref>{{cite journal|last=Dridi|first=D|author2=Zouiten, A|author3= Mansour, HB|title=Depression: chronophysiology and chronotherapy|journal=Biological Rhythm Research|volume=45|date=June 2013|pages=1–15|doi=10.1080/09291016.2013.797657}}</ref> Binding studies indicate that it has no effect on [[monoamine neurotransmitter|monoamine]] [[reuptake|uptake]] and no [[affinity (pharmacology)|affinity]] for [[adrenergic receptor|adrenergic]], [[histamine receptor|histamine]], [[acetylcholine receptor|cholinergic]], [[dopamine receptor|dopamine]], and [[benzodiazepine receptor]]s, nor other [[serotonin receptor]]s.<ref name ="emea" />
+
+Agomelatine resynchronises [[circadian rhythm]]s in animal models of [[delayed sleep phase syndrome]].<ref name="pmid18753276">{{cite journal | vauthors = Le Strat Y, Gorwood P | title = Agomelatine, an innovative pharmacological response to unmet needs | journal = J. Psychopharmacol. (Oxford) | volume = 22 | issue = 7 Suppl | pages = 4–8 | year = 2008 | pmid = 18753276 | doi = 10.1177/0269881108092593 | url = }}</ref> By antagonizing 5-HT<sub>2C</sub> receptors, it disinhibits/increases [[noradrenaline]] and [[dopamine]] release specifically in the [[frontal cortex]]. Therefore, it is sometimes classified as a [[norepinephrine–dopamine disinhibitor]]. It has no influence on the extracellular levels of [[serotonin]]. Agomelatine has shown an antidepressant-like effect in [[animal models of depression]] (learned helplessness test, despair test, chronic mild stress) as well as in models with circadian rhythm desynchronisation and in models related to stress and anxiety. In humans, agomelatine has positive phase shifting properties; it induces a phase advance of sleep, body temperature decline and [[melatonin]] onset.<ref name ="emea" />
+
+==Chemistry==
+
+===Structure===
+[[File:Agomelatine-vs-melatonin-2D-skeletal.png|200px|thumb|right|[[Melatonin]] (top) vs. agomelatine (bottom)]]
+
+The [[chemical structure]] of agomelatine is very similar to that of melatonin. Where melatonin has an NH group, agomelatine has an HC=CH group. Thus melatonin contains an [[indole]] part, whereas agomelatine has a [[naphthalene]] [[bioisostere]] instead.<ref>{{ cite journal | journal = [[Acta Crystallographica|Acta Crystallogr. C]] | volume = 50 | year = 1994 | pages = 907–910 | title = ''N''-[2-(7-Methoxy-1-naphthyl)ethyl]acetamide, a potent melatonin analog |author1=B. Tinant |author2=J.-P. Declercq |author3=J. H. Poupaert |author4=S. Yous |author5=D. Lesieur | doi = 10.1107/S0108270193012922 | issue = 6 }}</ref>
+
+===Synthesis===
+Melatoninergic agonist and selective serotonin 5-HT2B and 5-HT2C receptor antagonist; metabolically stable analogue of [[melatonin]], [[q.v.]]
+[[File:Agomelatine-synthesis.svg|thumb|center|700px|Agomelatine-synthesis:;<ref>J. Andrieux et al., EP 447285; eidem, US 5225442 (1991, 1993 both to Adir).</ref> and structure-activity studies:<ref>{{cite journal|doi=10.1021/jm00086a018|pmid=1315395|title=Novel naphthalenic ligands with high affinity for the melatonin receptor|journal=Journal of Medicinal Chemistry|volume=35|issue=8|pages=1484|year=1992|last1=Yous|first1=S.|last2=Andrieux|first2=J.|last3=Howell|first3=H. E.|last4=Morgan|first4=P. J.|last5=Renard|first5=P.|last6=Pfeiffer|first6=B.|last7=Lesieur|first7=D.|last8=Guardiola-Lemaitre|first8=B.}}</ref><ref>{{cite journal|doi=10.1021/jm00046a006|pmid=7932550|title=Synthesis and Structure-Activity Relationships of Novel Naphthalenic and Bioisosteric Related Amidic Derivatives as Melatonin Receptor Ligands|journal=Journal of Medicinal Chemistry|volume=37|issue=20|pages=3231|year=1994|last1=Depreux|first1=Patrick|last2=Lesieur|first2=Daniel|last3=Mansour|first3=Hamid Ait|last4=Morgan|first4=Peter|last5=Howell|first5=H. Edward|last6=Renard|first6=Pierre|last7=Caignard|first7=Daniel-Henri|last8=Pfeiffer|first8=Bruno|last9=Delagrange|first9=Philippe}}</ref>]]
+
+==History==
+Agomelatine was discovered and developed by the [[Europe]]an [[pharmaceutical]] company [[Servier|Servier Laboratories Ltd]]. Servier continued to develop the drug and conduct [[Clinical trials#Phase III|phase III trials]] in the [[European Union]].
+
+In March 2005, Servier submitted agomelatine to the [[European Medicines Agency]] (EMA) under the trade names '''Valdoxan''' and '''Thymanax'''.<ref name="Q&A"/> On 27 July 2006, the [[CHMP|Committee for Medical Products for Human Use]] (CHMP) of the EMA recommended a refusal of the marketing authorisation. The major concern was that efficacy had not been sufficiently shown, while there were no special concerns about [[adverse effect|side effects]].<ref name= "Q&A">{{cite news|url=http://www.emea.europa.eu/humandocs/PDFs/EPAR/valdoxan/H-656-657-RQ&A-en.pdf|title=Questions and Answers on Recommendation for Refusal of Marketing Authorisation|date=18 November 2006|publisher=[[European Medicines Agency]]|accessdate=6 July 2009}}</ref> In September 2007, Servier submitted a new marketing application to the EMA.<ref name= "CHMP">{{cite news|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Public_assessment_report/human/000915/WC500046226.pdf|title=CHMP Assessment Report for Valdoxan|date=20 November 2008|publisher=European Medicines Agency|accessdate=6 July 2009}}</ref>
+
+In March 2006, [[Servier]] announced it had sold the rights to market agomelatine in the United States to [[Novartis]].<ref name="Bentham">{{cite news|url=http://www.servier.co.uk/news/news-details.asp?StoryID=76|title=  Servier and Novartis sign licensing agreement for agomelatine, a novel treatment for depression|last=Bentham|first=Clara|date=2006-03-29|publisher=Servier UK|accessdate=2009-05-15| archiveurl= https://web.archive.org/web/20090416210513/http://www.servier.co.uk/news/news-details.asp?StoryID=76| archivedate= 16 April 2009 <!--DASHBot-->| deadurl= no}}</ref> It was undergoing several phase III clinical trials in the US, and until October 2011 Novartis listed the drug as scheduled for submission to the FDA no earlier than 2012.<ref>{{cite web|url=http://clinicaltrials.gov/ct2/results?term=agomelatine|title=Clinical trials for agomelatine|work=[[ClinicalTrials.gov]]|publisher=[[National Institutes of Health]]|accessdate=6 July 2009}}</ref> However, the development for the US market was discontinued in October 2011, when the results from the last of those trials became available.<ref>[http://www.scripintelligence.com/home/Novartis-drops-future-blockbuster-agomelatine-322880 Novartis drops future blockbuster agomelatine.] Scrip Intelligence, Oct 25 2011 (retrieved Oct 30, 2011).</ref>
+
+It received [[European Medicines Agency|EMA]] approval for marketing in the European Union in February 2009<ref name = emea /> and [[Therapeutic Goods Administration|TGA]] approval for marketing in [[Australia]] in August 2010.<ref name = PI/>
+
+==Research==
+Agomelatine is under development by Servier for the treatment of [[generalized anxiety disorder]] and has reached [[Phases of clinical research#Phase III|phase III]] [[clinical trial]]s for this indication, but in August 2017, Servier communicated that development for this indication is currently suspended.<ref name="AdisInsight">http://adisinsight.springer.com/drugs/800004111</ref>
+
+==See also==
+* [[Discovery and development of melatonin receptor agonists]]
+* [[List of investigational anxiolytics]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://www.valdoxan.com Official product site]
+* [http://www.servier.com Manufacturer web site]
+* [http://groups.google.ca/group/agomelatine-psychonauts?hl=en Agomelatine Psychonauts Google Group]
+* [http://www.novartis.com/research/pharmaceutical-product.shtml Novartis pipeline]
+* [http://biopsychiatry.com/agomelatine-valdoxan.htm Antidepressant-like activity of S 20098 (agomelatine) in the forced swimming test in rodents: involvement of melatonin and serotonin receptors]
+* [http://jpet.aspetjournals.org/cgi/content/abstract/306/3/954 The Novel Melatonin Agonist Agomelatine (S20098) Is an Antagonist at 5-Hydroxytryptamine2C Receptors, Blockade of Which Enhances the Activity of Frontocortical Dopaminergic and Adrenergic Pathways]
+* [https://web.archive.org/web/20070927075658/http://www.epilepsy.com/newsfeed/pr_1130855423.html Agomelatine treatment has promising results in transgenic murine model]
+* [http://www.nelm.nhs.uk/en/Original-search/?query=agomelatine Clinical trial data in the United Kingdom] via the [[National Health Service|NHS]]' National electronic Library of Medicines (NeLM)
+* [http://clinicaltrials.gov/ct2/results?term=agomelatine Clinical trial data in the United States] via [[ClinicalTrials.gov]]
+* Genf interaction table- http://www.hug-ge.ch/sites/interhug/files/structures/pharmacologie_et_toxicologie_cliniques/carte_cytochromes_2016_final.pdf February 2017
+
+{{Antidepressants}}
+{{Hypnotics}}
+{{Insomnia pharmacotherapies}}
+{{Melatonin receptor modulators}}
+{{Serotonin receptor modulators}}
+
+[[Category:5-HT2C antagonists]]
+[[Category:Acetamides]]
+[[Category:Antidepressants]]
+[[Category:Laboratoires Servier]]
+[[Category:Melatonin receptor agonists]]
+[[Category:Naphthol ethers]]
+[[Category:Phenethylamines]]

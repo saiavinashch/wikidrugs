@@ -1,0 +1,114 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 477861289
+| image = Telavancin.png
+| width = 200px
+| IUPAC_name = (1''S'',2''R'',18''R'',19''R'',22''S'',25''R'',28''R'',40''S'')-22-(2-Amino-2-oxoethyl)-5,15-dichloro-48-<nowiki/>{[2-''O''-(3-<nowiki/>{[2-(decylamino)ethyl]amino}-2,3,6-trideoxy-3-methyl-α-<small>L</small>-lyxo-hexopyranosyl)-β-<small>D</small>-glucopyranosyl]oxy}-2,18,32,35,37-pentahydroxy-19-[(''N''-methyl-<small>D</small>-leucyl)amino]-20,23,26,42,44-pentaoxo-36-<nowiki/>{[(phosphonomethyl)amino]methyl}-7,13-dioxa-21,24,27,41,43-pentaazaoctacyclo[26.14.2.2<sup>3,6</sup>.2<sup>14,17</sup>.1<sup>8,12</sup>.1<sup>29,33</sup>.0<sup>10,25</sup>.0<sup>34,39</sup>]pentaconta-3,5,8(48),9,11,14,16,29(45),30,32,34,36,38,46,49-pentadecaene-40-carboxylic acid
+
+<!--Clinical data-->
+| tradename = Vibativ
+| Drugs.com = {{drugs.com|monograph|telavancin-hydrochloride}}
+| MedlinePlus = a610004
+| licence_US = Telavancin
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = C
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Rx-only
+| routes_of_administration = intravenous
+
+<!--Pharmacokinetic data-->
+| bioavailability = N/A
+| protein_bound     = 90%, mostly to [[albumin]]
+| metabolism        = 
+| elimination_half-life = 9 hours
+| excretion         = 76% in urine, <1% in feces
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 372151-71-8
+| ATC_prefix = J01
+| ATC_suffix = XA03
+| PubChem = 3081362
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 71229
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2338980
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = XK134822Z0
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 507870
+
+<!--Chemical data-->
+| C=80 | H=106 | Cl=2 | N=11 | O=27 | P=1 
+| molecular_weight = 1755.63 g/mol
+| smiles = CCCCCCCCCCNCCN[C@]1(C[C@@H](O[C@H]([C@H]1O)C)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=C4C=C5C=C3OC6=C(C=C(C=C6)[C@H]([C@H](C(=O)N[C@H](C(=O)N[C@H]5C(=O)N[C@@H]7C8=CC(=C(C=C8)O)C9=C(C(=C(C=C9[C@H](NC(=O)[C@H]([C@@H](C1=CC(=C(O4)C=C1)Cl)O)NC7=O)C(=O)O)O)CNCP(=O)(O)O)O)CC(=O)N)NC(=O)[C@@H](CC(C)C)NC)O)Cl)CO)O)O)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C80H106Cl2N11O27P/c1-7-8-9-10-11-12-13-14-21-85-22-23-87-80(5)32-57(115-37(4)71(80)103)119-70-68(102)67(101)55(34-94)118-79(70)120-69-53-28-41-29-54(69)117-52-20-17-40(27-46(52)82)65(99)63-77(109)91-61(78(110)111)43-30-50(96)44(33-86-35-121(112,113)114)66(100)58(43)42-25-38(15-18-49(42)95)59(74(106)93-63)90-75(107)60(41)89-73(105)48(31-56(83)97)88-76(108)62(92-72(104)47(84-6)24-36(2)3)64(98)39-16-19-51(116-53)45(81)26-39/h15-20,25-30,36-37,47-48,55,57,59-65,67-68,70-71,79,84-87,94-96,98-103H,7-14,21-24,31-35H2,1-6H3,(H2,83,97)(H,88,108)(H,89,105)(H,90,107)(H,91,109)(H,92,104)(H,93,106)(H,110,111)(H2,112,113,114)/t37-,47+,48-,55+,57-,59+,60+,61-,62+,63-,64+,65+,67+,68-,70+,71+,79-,80-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ONUMZHGUFYIKPM-MXNFEBESSA-N
+}}
+
+'''Telavancin''' (trade name '''Vibativ''') is a [[bactericidal]] [[lipoglycopeptide]] for use in [[Methicillin-resistant Staphylococcus aureus|MRSA]] or other [[Gram-positive]] infections. Telavancin is a semi-synthetic derivative of [[vancomycin]].<ref>Astellas, Inc. ''VIBATIV prescribing information'', 9/2009.</ref><ref name=HIG2005/>
+
+The FDA approved the drug in September 2009 for [[complicated skin and skin structure infection]]s (cSSSI),<ref name=TA-FDA/> and in June 2013 for [[Hospital-acquired pneumonia|hospital-acquired]] and ventilator-associated bacterial pneumonia caused by [[Staphylococcus aureus]].<ref>http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm358209.htm</ref>
+
+==History==
+On 19 October 2007, the [[United States|US]] [[Food and Drug Administration]] (FDA) issued an [[approvable letter]] for telavancin. Its developer, [[Theravance]], submitted a complete response to the letter, and the FDA has assigned a [[Prescription Drug User Fee Act]] (PDUFA) target date of 21 July 2008.<ref>{{Cite web|url=http://www.drugs.com/nda/telavancin_080306.html |title=Drugs.com, FDA Accepts for Review Response to Approvable Letter for Telavancin |accessdate=2008-03-08 |work= }}</ref>
+
+On 19 November 2008, an FDA antiinfective drug advisory committee concluded that they would recommend telavancin be approved by the FDA.
+
+The FDA approved the drug on 11 September 2009 for complicated skin and skin structure infections ([[cSSSI]]).<ref name=TA-FDA>{{cite press release
+  | title = Theravance and Astellas Announce FDA Approval of Vibativ (telavancin) for the Treatment of Complicated Skin and Skin Structure Infections
+  | publisher = Theravance, Inc. and Astellas Pharma US, Inc.
+  | date = 2009-09-11
+  | url = http://www.drugs.com/newdrugs/theravance-astellas-announce-fda-approval-vibativ-telavancin-complicated-skin-skin-structure-1629.html
+  | accessdate = 16 September 2009
+}}</ref>
+
+Theravance has also submitted telavancin to the FDA in a second indication, [[nosocomial pneumonia]], sometimes referred to as hospital-acquired pneumonia, or HAP. On 30 November 2012, an FDA advisory panel endorsed approval of a once-daily formulation of telavancin for nosocomial pneumonia when other alternatives are not suitable. However, telavancin did not win the advisory committee's recommendation as first-line therapy for this indication. The committee indicated that the trial data did not prove "substantial evidence" of telavancin's safety and efficacy in hospital-acquired pneumonia, including ventilator-associated pneumonia caused by Gram-positive organisms ''Staphylococcus aureus'' and ''Streptococcus pneumoniae''.<ref>[http://www.bizjournals.com/sanfrancisco/blog/biotech/2012/11/theravance-vibativ-pneumonia.html FDA advisory group gives mixed review of Theravance pneumonia treatment. 30 Nov 2012] American City Business Journals/San Francisco/BiotechSF blog</ref> On 21 June 2013 FDA gave approval for telavancin to treat patients with hospital-acquired pneumonia, but indicated it should be used only when alternative treatments are not suitable. FDA staff had indicated telavancin has a "substantially higher risk for death" for patients with kidney problems or diabetes compared to vancomycin.<ref>Leuty, Ron. [http://www.bizjournals.com/sanfrancisco/blog/biotech/2013/06/theravance-mrsa-vibativ-pneumonia.html Theravance gets FDA OK for antibiotic against pneumonia, with limits.] San Francisco Business Times. Jun 21, 2013.</ref>
+
+On March 11 2013, Clinigen Group plc and Theravance, Inc. announced that they have entered into an exclusive commercialization agreement in the European Union (EU) and certain other countries located in Europe for VIBATIV® (telavancin) for the treatment of nosocomial pneumonia (hospital-acquired), including ventilator-associated pneumonia, known or suspected to be caused by methicillin resistant Staphylococcus aureus (MRSA) when other alternatives are not suitable.<ref>{{Cite web|url=http://www.vibativ.eu/category/news |title=www.vibativ.eu, Clinigen and Theravance Announce Exclusive Commercialization Agreement in the EU for VIBATIV® (telavancin) |accessdate=2014-12-09 |work= }}</ref>
+
+==Mechanism of action==
+Like vancomycin, telavancin inhibits bacterial [[cell wall]] synthesis by binding to the <small>D</small>-[[Alanine|Ala]]-<small>D</small>-Ala terminus of the peptidoglycan in the growing cell wall (see [[Vancomycin#Pharmacology and chemistry|Pharmacology and chemistry of vancomycin]]). In addition, it disrupts bacterial [[Biological membrane|membranes]] by [[depolarization]].<ref name=HIG2005>{{Cite journal| url=http://aac.asm.org/cgi/content/full/49/3/1127| title=Telavancin, a Multifunctional Lipoglycopeptide, Disrupts both Cell Wall Synthesis and Cell Membrane Integrity in Methicillin-Resistant Staphylococcus aureus| journal=Antimicrobial Agents and Chemotherapy| pages=1127–1134| volume=49| issue=3| year=2005| doi=10.1128/AAC.49.3.1127-1134.2005| pmid=15728913| last1=Higgins| first1=DL| last2=Chang| first2=R| last3=Debabov| first3=DV| last4=Leung| first4=J| last5=Wu| first5=T| last6=Krause| first6=KM| last7=Sandvik| first7=E| last8=Hubbard| first8=JM| last9=Kaniga| first9=K| last10=Schmidt| first10=D. E.| last11=Gao| first11=Q.| last12=Cass| first12=R. T.| last13=Karr| first13=D. E.| last14=Benton| first14=B. M.| last15=Humphrey| first15=P. P.| pmc=549257| display-authors=8}}</ref><ref>{{Cite journal
+ | author = H. Spreitzer
+ | date = 2 February 2009
+ | title = Neue Wirkstoffe - Telavancin
+ | journal = Österreichische Apothekerzeitung
+ | issue = 3/2009
+ | language = German
+ }}</ref>
+
+==Adverse effects==
+Common but harmless adverse effects include nausea, vomiting, constipation, and headache.<ref name="Drugs.com">Telavancin hydrochloride {{drugs.com|monograph|telavancin-hydrochloride}}</ref>
+
+Telavancin has a higher rate of kidney failure than [[vancomycin]] in two clinical trials.<ref>{{cite journal
+| vauthors = Saravolatz LD, Stein GE, Johnson LB
+| title = Telavancin: a novel lipoglycopeptide
+| journal = Clinical Infectious Diseases
+| volume = 49
+| issue = 12
+| pages = 1908–1914
+| doi = 10.1086/648438
+| pmid = 19911938
+| year = 2009
+}}</ref> It showed [[teratogenic]] effects in animal studies.<ref name="Drugs.com" />
+
+==Interactions==
+Telavancin inhibits the liver enzymes [[CYP3A4]] and [[CYP3A5]]. No data regarding the clinical relevance are available.<ref name="Drugs.com" />
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.theravance.com Theravance, Inc.]
+* [http://www.vibativ.com/ Vibativ information]
+* [http://www.vibativ.eu Vibativ Europe]
+
+{{Cell wall disruptive antibiotics}}
+
+[[Category:Antibiotics]]
+[[Category:Halogen-containing natural products]]

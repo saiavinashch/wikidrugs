@@ -1,0 +1,82 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 462252550
+| IUPAC_name = 2-Methyl-6-oxo-1,6-dihydro-3,4'-bipyridine-5-carbonitrile
+| image = Milrinone.svg
+<!--Clinical data-->
+| tradename = 
+| Drugs.com = {{drugs.com|monograph|milrinone-lactate}}
+| MedlinePlus = a601020
+| pregnancy_US = C
+| legal_status = Rx-only
+| routes_of_administration = IV only
+<!--Pharmacokinetic data-->
+| bioavailability = 100% (as IV bolus, infusion)
+| protein_bound = 70 to 80%
+| metabolism = Hepatic (12%)
+| elimination_half-life = 2.3 hours (mean, in CHF)
+| excretion = Urine (85% as unchanged drug) within 24 hours
+<!--Identifiers-->
+| IUPHAR_ligand = 5225
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 78415-72-2
+| ATC_prefix = C01
+| ATC_suffix = CE02
+| ATC_supplemental = 
+| PubChem = 4197
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00235
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4052
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = JU9YAX04C7
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00417
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 50693
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 189
+<!--Chemical data-->
+| C=12 | H=9 | N=3 | O=1
+| molecular_weight = 211.219 g/mol
+| SMILES = c1cnccc1-c2c(C)[nH]c(=O)c(C#N)c2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C12H9N3O/c1-8-11(9-2-4-14-5-3-9)6-10(7-13)12(16)15-8/h2-6H,1H3,(H,15,16)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = PZRHRDRVRGEVNW-UHFFFAOYSA-N
+| density = 1.344
+| melting_point = 315
+| boiling_point = 449
+}}
+
+'''Milrinone''', commonly known  and marketed under the brand name '''Primacor''', is a medication used in patients who have [[heart failure]].   It is a [[phosphodiesterase 3 inhibitor]] that works to increase the heart's [[contractility]] and decrease pulmonary vascular resistance. Milrinone also works to [[vasodilation|vasodilate]] which helps alleviate increased pressures ([[afterload]]) on the heart, thus improving its pumping action.  While it has been used in people with heart failure for many years, recent studies suggest that milrinone may exhibit some negative [[adverse effect|side effects]] that have caused some debate about its [[clinical use|use clinically]].<ref>Packer, M. Calcium channel blockers in chronic heart failure: The risks of ‘ physiologically rational ’ therapy [Editorial] . C irculation 8 2,
+2254 – 2257.</ref><ref>Packer M, Carver J, Rodeheffer R, Ivanhoe R, DiBianco R, Zeldis S et al. Effect of Oral Milrinone on Mortality in Severe Chronic Heart Failure. The New England Journal of Medicine. 21 Nov 1991;325(21):1468-1475.</ref>
+
+Overall, milrinone supports [[ventricular function]]ing of the heart by decreasing the degradation of cAMP and thus increasing phosphorylation levels of many components in the heart that contribute to contractility and [[heart rate]]. Milrinone use following cardiac surgery has been under some debate because of the potential increase risk of postoperative atrial [[arrhythmia]]s.<ref>Fleming G, Murray K, Yu C, Byrne J, Greelish J, Petracek M et al. Milrinone Use Is Associated With Postoperative Atrial Fibrillation After Cardiac Surgery. The Journal of the American Heart Association. 29 Sept 2008;118:1619-1625.</ref>  However,  in the short term milrinone has been deemed beneficial to those experiencing heart failure and an effective therapy to maintain heart function following cardiac surgeries. There is no evidence of any long term beneficial effects on survival.<ref>British National Formulary. 66 ed. London: BMJ Group and Pharmaceutical Press; Sept 2013</ref> In critically ill patients with evidence of cardiac dysfunction there is limited good quality evidence to recommend its use.<ref>{{cite journal|last1=Koster|first1=Geert|last2=Bekema|first2=Hanneke J.|last3=Wetterslev|first3=Jørn|last4=Gluud|first4=Christian|last5=Keus|first5=Frederik|last6=van der Horst|first6=Iwan C. C.|title=Milrinone for cardiac dysfunction in critically ill adult patients: a systematic review of randomised clinical trials with meta-analysis and trial sequential analysis|journal=Intensive Care Medicine|date=22 July 2016|volume=42|issue=9|pages=1322–1335|doi=10.1007/s00134-016-4449-6|pmid=27448246|pmc=4992029}}</ref>
+
+==Contractility in the heart==
+People experiencing some forms of heart failure have a significant decrease in the contractile ability of muscle cells in the heart ([[cardiomyocyte]]s). This impaired contractility occurs through a number of mechanisms. Some of the main problems associated with decreased contractility in those with heart failure are issues arising from imbalances in the concentration of [[calcium]]. Calcium permits [[myosin]] and [[actin]] to interact which allows initiation of contraction within the cardiomyocytes. In those with heart failure there may be a decreased amount of calcium within the cardiomyocytes reducing the available calcium to initiate contraction. When contractility is decreased the amount of blood being pumped out of the heart into [[systemic circulation|circulation]] is decreased as well. This reduction in [[cardiac output]] can cause many systemic implications such as [[fatigue (medical)|fatigue]], [[syncope (medicine)|syncope]] and other issues associated with decreased blood flow to peripheral tissues.
+
+==Mechanism of action==
+Cyclic adenosine monophosphate (cAMP) causes increased activation of [[protein kinase A]] (PKA). PKA is an enzyme that [[phosphorylation|phosphorylates]] many elements of the contractile machinery within the heart cell. In the short term this leads to an increased force of contraction. [[Phosphodiesterase]]s are [[enzymes]] responsible for the breakdown of cAMP. Therefore, when phosphodiesterases lower the level of cAMP in the cell they also lower the active fraction of PKA within the cell and reduce the force of contraction.
+
+Milrinone is a phosphodiesterase-3 inhibitor. This drug inhibits the action of phosphodiesterase-3 and thus prevents degradation of cAMP. With increased cAMP levels there is an increase in the activation of PKA. This PKA will phosphorylate many components of the cardiomyocyte such as calcium channels and components of the [[myofilament]]s. Phosphorylation of [[calcium channel]]s permits an increase in calcium influx into the cell. This increase in calcium influx results in increased contractility. PKA also phosphorylates [[potassium]] channels promoting their action. Potassium channels are responsible for [[repolarization]] of the cardiomyocytes therefore increasing the rate at which cells can [[depolarization|depolarize]] and generate contraction. PKA also phosphorylates components on myofilaments allowing actin and myosin to interact more easily and thus increasing contractility and the inotropic state of the heart. Milrinone allows stimulation of cardiac function independently of β-adrenergic receptors which appear to be down-regulated in those with heart failure.
+
+==Adverse effects==
+In recent years many studies have been performed showing that milrinone use may present potential adverse side effects in heart failure patients.{{citation needed|date=September 2016}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://ajpheart.physiology.org/cgi/content/full/279/4/H1898 Mechanism of action]
+
+{{Phosphodiesterase inhibitors}}
+{{Cardiac stimulants excluding cardiac glycosides}}
+
+[[Category:Inotropic agents]]
+[[Category:Vasodilators]]
+[[Category:Nitriles]]
+[[Category:Pyridines]]
+[[Category:PDE3 inhibitors]]
+[[Category:2-Pyridones]]

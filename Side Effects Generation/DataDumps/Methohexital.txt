@@ -1,0 +1,86 @@
+{{Drugbox
+| verifiedrevid = 462249932
+| IUPAC_name = 5-hex-3-yn-2-yl-1- methyl-5-prop-2-enyl-1, 3-diazinane-2,4,6-trione
+| image = Methohexital.svg
+| alt = Skeletal formula
+| image2 = Methohexital-SbRh-from-xtal-2003.png
+| alt2 = Ball-and-stick model
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CDI|methohexital}}
+| pregnancy_category = B ([[United States|USA]])
+| legal_AU = S4
+| legal_US = Schedule IV
+| legal_status = 
+| routes_of_administration = Intravenous, rectal
+<!--Pharmacokinetic data-->
+| bioavailability = I.V. ~100%<br>Rectal ~17%
+| metabolism = [[Hepatic]]
+| elimination_half-life = 5.6 ± 2.7 minutes
+| excretion = ?
+<!--Identifiers-->
+| IUPHAR_ligand = 7233
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 151-83-7
+| ATC_prefix = N01
+| ATC_suffix = AF01
+| ATC_supplemental = {{ATC|N05|CA15}}
+| PubChem = 9034
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00474
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 8683
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = E5B8ND5IPE
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D04985
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 102216
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 7413
+<!--Chemical data-->
+| C=14 | H=18 | N=2 | O=3
+| molecular_weight = 262.304
+| smiles = O=C1N(C(=O)NC(=O)C1(C\C=C)C(C#CCC)C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C14H18N2O3/c1-5-7-8-10(3)14(9-6-2)11(17)15-13(19)16(4)12(14)18/h6,10H,2,5,9H2,1,3-4H3,(H,15,17,19)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = NZXKDOXHBHYTKP-UHFFFAOYSA-N
+}}
+'''Methohexital''' or '''methohexitone''' (marketed under the brand names '''Brevital''' and '''Brietal''') is a drug which is a [[barbiturate]] derivative. It is classified as short-acting, and has a rapid onset of action. It is similar in its effects to [[sodium thiopental]], a drug with which it competed in the market for [[anaesthetics]].
+
+==Pharmacology==
+Methohexital binds to a distinct site which is associated with Cl<sup>−</sup> [[ionophore]]s at GABA<sub>A</sub> receptors.<ref>Katzung, Bertram G., Basic and Clinical Pharmacology, 10th ed., p. 406-407</ref> This increases the length of time which the Cl<sup>−</sup> ionopores are open, thus causing an [[Inhibitory postsynaptic potential|inhibitory]] effect.
+
+Metabolism of methohexital is primarily hepatic (i.e., taking place in the liver) via demethylation and oxidation.{{citation needed|date=November 2008}} Side-chain oxidation is the primary means of metabolism involved in the termination of the drug's biological activity.
+
+Protein binding is approximately 73% for methohexital.{{citation needed|date=November 2008}}
+
+==Indications==
+Methohexital is primarily used to induce [[anesthesia]], and is generally provided as a sodium salt (i.e. methohexital sodium). It is only used in [[hospital]] or similar settings, under strict supervision.{{citation needed|date=November 2008}}  It has been commonly used to induce deep sedation or general anesthesia for surgery and dental procedures.  Unlike many other barbiturates, Methohexital actually lowers the seizure threshold, a property that make it particularly useful when anesthesia is provided for a [[electroconvulsive therapy]] (ECT). And rapid recovery rate with consciousness being gained within three to seven minutes after induction and full recovery within 30 minutes is a major advantage over other ECT barbiturates (Schulgasser and Borowitz 1963).
+
+==Synthesis==
+Methohexital, 5-allyl-1-methyl-5-(1-methyl-2-pentinyl barbituric acid, is synthesized in the classic manner of making barbituric acid derivatives, in particular by the reaction of malonic ester derivatives with derivatives of [[urea]]. 
+[[File:Methohexital synthesis.png|800px|center|thumb|Methohexital synthesis: W.J. Doran, {{US Patent|2872448}} (1959).]]
+The resulting allyl-(1-methyl-2-pentynyl) malonic ester is synthesized by subsequent alkylation of the malonic ester itself, beginning with 2-bromo-3-hexyne, which gives (1-methyl-2-pentynyl)malonic ester, and then by allylbromide. In the final step, reaction of the disubstituted malonic ester with N-methylurea gives desired methohexital.
+
+== References ==
+<references/><ref>{{cite journal|last1=SCHULGASSER|first1=H|last2=BOROWITZ|first2=A|title=Methohexital anaesthesia in electroconvulsive therapy|journal=South African Medical Journal|date=1963|volume=37|page=870}}</ref>
+
+==External links==
+{{Commonscat}}
+* [http://www.rxlist.com/cgi/generic3/methohexital.htm RxList.com - Methohexital]
+* [http://www.drugs.com/pdr/methohexital_sodium.html Drugs.com - Methohexital Sodium]
+* [http://druglib.com/druginfo/brevital/ DrugLib.com - Brevital (Methohexital Sodium) ]
+
+
+{{Anesthesia}}
+{{General anesthetics}}
+{{Hypnotics and sedatives}}
+{{GABAAR PAMs}}
+
+[[Category:Barbiturates]]
+[[Category:General anesthetics]]
+[[Category:Allyl compounds]]
+[[Category:Alkynes]]
+[[Category:GABAA receptor positive allosteric modulators]]

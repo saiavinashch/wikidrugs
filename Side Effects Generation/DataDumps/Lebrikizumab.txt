@@ -1,0 +1,101 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 458270514
+| image =  
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = zu
+| target = [[Interleukin 13|IL-13]]
+<!-- Clinical data -->
+| tradename = 
+| pregnancy_AU = 
+| pregnancy_US = 
+| pregnancy_category = 
+| legal_AU = 
+| legal_CA = 
+| legal_UK = 
+| legal_US = 
+| legal_status = Investigational
+| routes_of_administration = [[Subcutaneous injection]]
+<!-- Pharmacokinetic data -->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+<!-- Identifiers -->
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 953400-68-5
+| ATC_prefix = none
+| ATC_suffix = 
+| PubChemSubstance = 124490373
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = U9JLP7V031
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D09633
+| synonyms = MILR1444A, RG3637<br/>(formerly TNX-650)
+<!-- Chemical data -->
+| C=6434 | H=9972 | N=1700 | O=2034 | S=50
+| molecular_weight =  
+}}
+
+'''Lebrikizumab''' ([[International Nonproprietary Name|INN]]) is a [[humanized monoclonal antibody]] and an experimental [[immunosuppressive drug]] for the treatment of [[asthma]] that cannot be adequately controlled with inhalable [[glucocorticoid]]s. The drug was created by [[Tanox]] under the name ''TNX-650'', and a phase I [[clinical trial]] for refractory [[Hodgkin’s lymphoma]] had been performed when [[Genentech]] acquired Tanox in 2007.<ref>{{cite web |url=http://www.biospace.com/news_story.aspx?NewsEntityId=19463 |title=First Patient Dosed In Phase 1 Trial Of Tanox, Inc.'s TNX-650 - News, Search Jobs, Events |accessdate=8 July 2008 |format= |work=}}</ref><ref>{{cite web|url=http://www.cancer.gov/drugdictionary/?CdrID=539362|title=anti-IL-13 humanized monoclonal antibody TNX-650|work=NCI Drug Dictionary|publisher=[[National Cancer Institute]]|accessdate=10 December 2009}}</ref><ref>{{ClinicalTrialsGov|NCT00441818|Safety and Efficacy Study of TNX-650 to Treat Refractory Hodgkin's Lymphoma}}</ref> It has successfully completed a Phase II clinical trial for the treatment of asthma.<ref>{{ClinicalTrialsGov|NCT00930163|A Study of Lebrikizumab (MILR1444A) in Adult Patients With Asthma Who Are Inadequately Controlled on Inhaled Corticosteroids (MILLY)}}</ref><ref name="Kraft">{{Cite journal 
+| last1 = Kraft | first1 = M. 
+| title = Asthma Phenotypes and Interleukin-13 — Moving Closer to Personalized Medicine 
+| doi = 10.1056/NEJMe1108666 
+| journal = New England Journal of Medicine 
+| volume = 365 
+| issue = 12 
+| pages = 1141–1144 
+| year = 2011 
+| pmid = 21879891 
+| pmc = 
+}}</ref>
+
+==Mechanism of action==
+Lebrikizumab blocks [[interleukin 13]] (IL-13), a [[cytokine]] (cell-signalling protein) that is produced by [[Th2 cell]]s, a type of [[white blood cell]]s. IL-13 is thought to induce the expression of another signalling protein, [[periostin]], by [[epithelial cell]]s of the [[bronchi]]. Periostin in turn seems to partake in a number of asthma related problems, such as [[bronchial hyperresponsiveness]], inflammation, and activation and [[Cell proliferation|proliferation]] of airway [[fibroblast]]s, which are involved in airway remodelling.<ref name="Kraft" /><ref>{{cite web |url=http://www.prous.com/molecules/default.asp?ID=214 |title=Prous Science Molecule of the Month: Lebrikizumab |date=October 2011 |publisher=[[Thomson Reuters]]}}</ref>
+
+This theory is supported by the fact that patients with high periostin levels responded significantly better to lebrikizumab in the Phase II study: the [[FEV1|forced expiratory volume in 1 second]] (FEV1) was 8.2% higher than under placebo in this group (measured from the respective baselines), while low-periostin patients had 1.6% higher FEV1, and the average value for all patients was 5.5%. The FEV1 increase in low-periostin patients was not statistically significant.<ref name="Corren">{{Cite journal 
+| last1 = Corren | first1 = J. 
+| last2 = Lemanske | first2 = R. F. 
+| last3 = Hanania | first3 = N. A. 
+| last4 = Korenblat | first4 = P. E. 
+| last5 = Parsey | first5 = M. V. 
+| last6 = Arron | first6 = J. R. 
+| last7 = Harris | first7 = J. M. 
+| last8 = Scheerens | first8 = H. 
+| last9 = Wu | first9 = L. C. 
+| last10 = Su 
+| doi = 10.1056/NEJMoa1106469 | first10 = Z. 
+| last11 = Mosesova | first11 = S. 
+| last12 = Eisner | first12 = M. D. 
+| last13 = Bohen | first13 = S. P. 
+| last14 = Matthews | first14 = J. G. 
+| title = Lebrikizumab Treatment in Adults with Asthma 
+| journal = New England Journal of Medicine 
+| volume = 365 
+| issue = 12 
+| pages = 1088–1098 
+| year = 2011 
+| pmid = 21812663 
+| pmc = 
+}}</ref>
+
+==Side effects==
+In the study, musculoskeletal side effects were more common under lebrikizumab than under [[placebo]] (13.2% versus 5.4%). Other side effects were comparable in both groups: infections overall 48.1% versus 49.1%, upper airway infections 12.3% versus 14.3%, and severe side effects overall 3.8% (treatment) versus 5.3% (placebo).<ref name="Corren" />
+
+==References==
+{{Reflist|35em}}
+
+
+{{Monoclonals for immune system}}
+{{Immunosuppressants}}
+{{Interleukin receptor modulators}}
+
+[[Category:Monoclonal antibodies]]

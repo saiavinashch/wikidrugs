@@ -1,0 +1,79 @@
+{{Drugbox
+| verifiedrevid = 464383595
+| IUPAC_name = (''S'')-''N''-(2,6-dimethylphenyl)-<br />1-propylpiperidine-2-carboxamide
+| image = Ropivacaine.png
+| image2 = Ropivacaine ball-and-stick.png
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CDI|ropivacaine}}
+| pregnancy_AU = B1
+| legal_AU = S4
+| routes_of_administration = [[Parenteral]]
+<!--Pharmacokinetic data-->
+| bioavailability = 87%–98% (epidural)
+| metabolism = [[Liver|Hepatic]] ([[CYP1A2]]-mediated)
+| elimination_half-life = 1.6–6 hours (varies with administration route)
+| excretion = [[Kidney|Renal]] 86%
+<!--Identifiers-->
+| IUPHAR_ligand = 7602
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 84057-95-4
+| ATC_prefix = N01
+| ATC_suffix = BB09
+| PubChem = 175805
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00296
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 153165
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 7IO5LYA57N
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08490
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 8890
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1077896
+<!--Chemical data-->
+| C=17 | H=26 | N=2 | O=1
+| molecular_weight = 274.4 g/mol
+| smiles = O=C(Nc1c(cccc1C)C)[C@H]2N(CCC)CCCC2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H26N2O/c1-4-11-19-12-6-5-10-15(19)17(20)18-16-13(2)8-7-9-14(16)3/h7-9,15H,4-6,10-12H2,1-3H3,(H,18,20)/t15-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ZKMNUMMKYBVTFN-HNNXBMFYSA-N
+| melting_point = 144
+| melting_high = 146
+}}
+'''Ropivacaine''' ([[International Nonproprietary Name|rINN]]) {{IPAc-en|r|oʊ|ˈ|p|ɪ|v|ə|k|eɪ|n}} is a [[local anaesthetic]] drug belonging to the [[amino]] [[amide]] group. The name ropivacaine refers to both the [[racemate]] and the marketed ''S''-[[enantiomer]]. '''Ropivacaine hydrochloride''' is commonly marketed by [[AstraZeneca]] under the [[trade name]] '''Naropin'''.
+
+==History==
+Ropivacaine was developed after [[bupivacaine]] was noted to be associated with [[cardiac arrest]], particularly in pregnant women. Ropivacaine was found to have less cardiotoxicity than bupivacaine in animal models.
+
+==Clinical use==
+
+===Contraindications===
+Ropivacaine is contraindicated for [[intravenous regional anaesthesia]] (IVRA). However, new data suggested both ropivacaine (1.2-1.8&nbsp;mg/kg in 40ml) and levobupivacaine (40 ml of 0.125% solution) be used, because they have less cardiovascular and central nervous system toxicity than racemic bupivacaine.<ref>(Basic of Anesthesia, Robert Stoelting, page 289)</ref>
+
+===Adverse effects===
+[[Adverse drug reaction]]s (ADRs) are rare when it is administered correctly. Most ADRs relate to administration technique (resulting in systemic exposure) or pharmacological effects of anesthesia, however [[allergy|allergic]] reactions can rarely occur.
+
+Systemic exposure to excessive quantities of ropivacaine mainly result in [[central nervous system]] (CNS) and [[cardiovascular]] effects – CNS effects usually occur at lower [[blood plasma]] concentrations and additional cardiovascular effects present at higher concentrations, though cardiovascular collapse may also occur with low concentrations. CNS effects may include CNS excitation (nervousness, tingling around the mouth, [[tinnitus]], tremor, dizziness, blurred vision, [[seizure]]s followed by depression (drowsiness, loss of consciousness), [[respiratory depression]] and [[apnea]]). Cardiovascular effects include [[hypotension]], [[bradycardia]], [[arrhythmia]]s, and/or [[cardiac arrest]] – some of which may be due to [[Hypoxia (medical)|hypoxemia]] secondary to respiratory depression.<ref name="AMH2006">Rossi S, editor. [[Australian Medicines Handbook]] 2006. Adelaide: Australian Medicines Handbook; 2006. {{ISBN|0-9757919-2-3}}</ref>
+
+===Treatment of overdose===
+As for [[bupivacaine]], [[Intralipid|Celepid]], a commonly available intravenous lipid emulsion, can be effective in treating severe cardiotoxicity secondary to local anaesthetic overdose in animal experiments<ref name="Weinberg2003">{{cite journal | last1 = Weinberg | first1 = G | last2 = Ripper | first2 = R | last3 = Feinstein | first3 = DL | last4 = Hoffman | first4 = W | year = 2003 | title = Lipid emulsion infusion rescues dogs from bupivacaine-induced cardiac toxicity | url = | journal = Reg Anesth Pain Med | volume = 28 | issue = 3| pages = 198–202 | doi = 10.1053/rapm.2003.50041 | pmid = 12772136 }}</ref> and in humans in a process called [[Lipid rescue#Management|lipid rescue]].<ref name="Picard2006">{{cite journal | last1 = Picard | first1 = J | last2 = Meek | first2 = T | year = 2006 | title = Lipid emulsion to treat overdose of local anaesthetic: the gift of the glob | url = | journal = Anaesthesia | volume = 61 | issue = 2| pages = 107–9 | doi = 10.1111/j.1365-2044.2005.04494.x | pmid = 16430560 }}</ref><ref name="Rosenblatt2006">{{cite journal | last1 = Rosenblatt | first1 = MA | last2 = Abel | first2 = M | last3 = Fischer | first3 = GW | last4 = Itzkovich | first4 = CJ | last5 = Eisenkraft | first5 = JB | year = 2006 | title = Successful Use of a 20% lipid emulsion to resuscitate a patient after a presumed bupivacaine-related cardiac arrest | url = | journal = Anesthesiology | volume = 105 | issue = 1| pages = 217–8 | doi = 10.1097/00000542-200607000-00033 | pmid = 16810015 }}</ref><ref name="Litz2006">{{cite journal | last1 = Litz | first1 = RJ | last2 = Popp | first2 = M | last3 = Stehr | first3 = S N | last4 = Koch | first4 = T | year = 2006 | title = Successful resuscitation of a patient with ropivacaine-induced asystole after axillary plexus block using lipid infusion | url = | journal = Anaesthesia | volume = 61 | issue = | pages = 800–1 | doi=10.1111/j.1365-2044.2006.04740.x | pmid=16867094}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.euroanesthesia.org/education/rc_vienna/08rc2.HTM European Society of Anaesthesiologists: Use of ropivacaine in clinical practice]
+*[http://www.lipidrescue.org More on lipid rescue]
+
+{{Local anesthetics}}
+
+{{Authority control}}
+
+[[Category:Local anesthetics]]
+[[Category:Obstetrics]]
+[[Category:Piperidines]]
+[[Category:Anilides]]

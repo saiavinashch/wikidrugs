@@ -1,0 +1,75 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 460306553
+| IUPAC_name = (2''S'')-4-amino-''N''-[(1''R'',2''S'',3''R'',4''R'',5''S'')-5-amino-2-{[(2''S'',3''R'',4''S'',5''S'',6''R'')-4-amino-3,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy}-4-{[(2''R'',3''R'',6''S'')-3-amino-6-(aminomethyl)oxan-2-yl]oxy}-3-hydroxycyclohexyl]-2-hydroxybutanamide
+| image = Arbekacin.png
+
+<!--Clinical data-->
+| tradename = 
+| Drugs.com = {{drugs.com|international|arbekacin}}
+| pregnancy_AU = 
+| pregnancy_US = 
+| legal_UK = 
+| legal_US = 
+| legal_status = Rx-only
+| routes_of_administration = [[Intramuscular injection|Intramuscular]], [[Intravenous therapy|intravenous]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = minimal
+| elimination_half-life = 
+| excretion = [[Kidney|Renal]]
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 51025-85-5
+| ATC_prefix = J01
+| ATC_suffix = GB12
+| ATC_supplemental = 
+| PubChem = 11398765
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB06696
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = G7V6SLI20L
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07462
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 426926
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 9573665
+| smiles = O=C(N[C@H]3[C@H](O[C@H]1O[C@@H]([C@@H](O)[C@H](N)[C@H]1O)CO)[C@H](O)[C@H](O[C@H]2O[C@H](CN)CC[C@H]2N)[C@@H](N)C3)[C@@H](O)CCN
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H44N6O10/c23-4-3-12(30)20(34)28-11-5-10(26)18(37-21-9(25)2-1-8(6-24)35-21)17(33)19(11)38-22-16(32)14(27)15(31)13(7-29)36-22/h8-19,21-22,29-33H,1-7,23-27H2,(H,28,34)/t8-,9+,10-,11+,12-,13+,14-,15+,16+,17+,18+,19-,21+,22+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = MKKYBZZTJQGVCD-JLZDOWJMSA-N
+
+<!--Chemical data-->
+| C=22 | H=44 | N=6 | O=10 
+| molecular_weight = 552.62 g/mol
+}}
+
+'''Arbekacin''' ([[International Nonproprietary Name|INN]]) is a semisynthetic [[aminoglycoside]] [[antibiotic]]. It is primarily used for the treatment of infections caused by multi-resistant bacteria including [[methicillin-resistant Staphylococcus aureus|methicillin-resistant ''Staphylococcus aureus'']] (MRSA).<ref>{{cite journal |author=Inoue, M. |author2=M. Nonoyama |author3=R. Okamoto |author4=T. Ida |title=Antimicrobial activity of arbekacin, a new aminoglycoside antibiotic, against methicilin-resistant Staphylococcus aureus | journal=Drugs Exp Clin Res |year=1994 |volume=20 |issue =6 |pages=233–240| pmid = 7758395}}</ref><ref>{{cite journal |author=Cordeiro, J. C. R. |author2=Reis, A. O. |author3=Miranda, E. A. |author4=Sader, H. S. |others=The Arbekacin Study Group |title=In vitro antimicrobial activity of the aminoglycoside arbekacin tested against oxacillin-resistant Staphylococcus aureus isolated in Brazilian hospitals |journal=Brazilian J Infectious Diseases |year=2001 |volume=5 |issue=3 |pages=130–135 |pmid = 11506776 |doi=10.1590/s1413-86702001000300005}}</ref> Arbekacin was originally synthesized from [[dibekacin]] in 1973. It has been registered and marketed in Japan since 1990 under the trade name Habekacin.<ref>{{cite journal |author=Kobayashi, Y. |author2=Uchida, H. |author3=Kawakami, Y. | title = Arbekacin | journal = Intl J Antimicrobial Agents | year=1995 |volume=5 |issue=4 |pages=227–230 |pmid = 18611673 |doi=10.1016/0924-8579(95)00014-Y}}</ref> Arbekacin is no longer covered by patent and generic versions of the drug are also available under such trade names as Decontasin and Blubatosine.
+
+==Pharmacology==
+Arbekacin is approved for the treatment of [[pneumonia]] and [[sepsis]] caused by methicillin-resistant ''Staphylococcus aureus'' (MRSA).  Because of its synergistic effect with [[beta-lactams]], Arbekacin also holds promise as a treatment for multidrug-resistant [[Gram-negative bacteria]]l infections such as multidrug-resistant ''[[Pseudomonas aeruginosa]]'' and ''[[Acinetobacter baumannii]]''.<ref name="TM2014">{{vcite2 journal | vauthors = Matsumoto T | title = Arbekacin: another novel agent for treating infections due to methicillin-resistant ''Staphylococcus aureus'' and multidrug-resistant Gram-negative pathogens| journal = Clinical Pharmacology: Advances and Applications| volume = 6 | issue =| pages = 139–148| year = 2014 | pmid = 25298740| doi = 10.2147/CPAA.S44377 | pmc=4186621}}</ref>
+
+===Pharmacodynamics===
+Aminoglycosides such as Arbekacin work by binding to the bacterial 30S [[ribosome|ribosomal]] subunit, causing misreading of [[Transfer RNA|tRNA]] which consequently, leaves the bacterium unable to synthesize proteins vital to its growth. Energy is needed for aminoglycoside uptake into the bacterial cell. [[Obligate anaerobe|Anaerobes]] have less energy available for this uptake, so aminoglycosides are less active against anaerobes.
+
+===Mechanism of action===
+Aminoglycosides such as Arbekacin inhibit protein synthesis in susceptible bacteria by irreversibly binding to the bacterial [[30S|30S ribosomal subunit]]. Specifically, Arbekacin binds to four nucleotides of [[16S ribosomal RNA|16S rRNA]] and a single amino acid of protein S12. This interferes with the decoding site in the vicinity of nucleotide 1400 in the 16S rRNA component of the 30S subunit. This region interacts with the wobble base in the [[anticodon]] of [[Transfer RNA|tRNA]]. This leads to misreading of [[Messenger RNA|mRNA]], so incorrect amino acids are inserted into the polypeptide, leading to nonfunctional or toxic peptides and the breakup of [[polysomes]] into nonfunctional monosomes.
+
+===Absorption===
+Aminoglycosides are not well absorbed from the gastrointestinal tract, so they are typically administered [[wikt:parenteral|parenteral]]ly.
+
+===Toxicity===
+[[Ototoxicity]] and [[nephrotoxicity]] are the most serious [[adverse drug reaction|adverse]] effects of aminoglycoside therapy and are more likely to occur in patients with a history of renal impairment or who are receiving other ototoxic and/or nephrotoxic drugs. Normal duration of [[intramuscular injection|intramuscular]] or [[intravenous therapy|intravenous]] aminoglycoside therapy is 7–10 days, though longer treatment is sometimes necessary. Toxicity is more likely to occur when aminoglycoside treatment is continued for longer than 10 days.
+
+==References==
+{{Reflist}}
+
+{{AminoglycosideAntiBiotics}}
+
+[[Category:Aminoglycoside antibiotics]]

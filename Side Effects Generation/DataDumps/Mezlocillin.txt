@@ -1,0 +1,104 @@
+{{Drugbox
+| verifiedrevid = 462252118
+| IUPAC_name = (2''S'',5''R'',6''R'')-3,3-dimethyl-6-<nowiki>[[</nowiki>(2''R'')-2-[(3-methylsulfonyl-<br>2-oxo-imidazolidine-1-carbonyl)amino]-2-phenyl-acetyl]<br>amino]-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-<br>carboxylic acid
+| image = Mezlocillin.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|mezlocillin}}
+| pregnancy_category = B
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status =  
+| routes_of_administration = [[Intravenous therapy|Intravenous]], [[Intramuscular injection|intramuscular]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 16–59%
+| metabolism = [[Liver|Hepatic]] (20–30%)
+| elimination_half-life = 1.3–4.4 hours
+| excretion = [[Kidney|Renal]] (50%) and biliary
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 51481-65-3
+| ATC_prefix = J01
+| ATC_suffix = CA10
+| ATC_supplemental =  
+| PubChem = 656511
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00948
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 570894
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = OH2O403D1G
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05021
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 6919
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1731
+
+<!--Chemical data-->
+| C=21 | H=25 | N=5 | O=8 | S=2 
+| molecular_weight = 539.584 g/mol
+| smiles = O=C(O)[C@@H]3N4C(=O)[C@@H](NC(=O)[C@@H](c1ccccc1)NC(=O)N2C(=O)N(S(=O)(=O)C)CC2)[C@H]4SC3(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H25N5O8S2/c1-21(2)14(18(29)30)26-16(28)13(17(26)35-21)22-15(27)12(11-7-5-4-6-8-11)23-19(31)24-9-10-25(20(24)32)36(3,33)34/h4-8,12-14,17H,9-10H2,1-3H3,(H,22,27)(H,23,31)(H,29,30)/t12-,13-,14+,17-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YPBATNHYBCGSSN-VWPFQQQWSA-N
+}}
+'''Mezlocillin''' is a broad-spectrum [[penicillin]] [[antibiotic]]. It is active against both [[Gram-negative]] and some [[Gram-positive]] [[bacteria]]. Unlike most other extended spectrum penicillins, it is excreted by the liver, therefore it is useful for biliary tract infections, such as ascending cholangitis.
+
+==Mechanism of action==
+{{main|Beta-lactam antibiotic}}
+Like all other [[beta-lactam antibiotic]]s, mezlocillin inhibits the third and last stage of bacterial [[cell wall]] synthesis by binding to [[penicillin binding proteins]]. This ultimately leads to cell [[lysis]].
+
+==Susceptible organisms==
+
+===Gram-negative===
+{{Colbegin|2}}
+*''[[Bacteroides]]'' spp., including ''[[Bacteroides fragilis|B. fragilis]]''
+*''[[Enterobacter]]'' spp.
+*''[[Escherichia coli]]''
+*''[[Haemophilus influenzae]]''
+*''[[Klebsiella]]'' species
+*''[[Morganella morganii]]
+*''[[Neisseria gonorrhoeae]]''
+*''[[Proteus mirabilis]]''
+*''[[Proteus vulgaris]]''
+*''[[Providencia rettgeri]]''
+*''[[Pseudomonas]]'' spp., including ''[[Pseudomonas aeruginosa|P. aeruginosa]]''
+*''[[Serratia marcescens]]''
+
+===Gram-positive===
+*''[[Enterococcus faecalis]]''
+*''[[Peptococcus]]'' spp.''
+*''[[Peptostreptococcus]]'' spp.''
+{{colend}}
+
+==Synthesis==
+[[File:Mezlocillin synthesis.svg|thumb|center|500px|Mezlocillin synthesis:<ref>W. Schroeck, H. R. Furtwaengier, H. B. Koenig, and K. G.Metzer, German Offen. 2,318,955 (1973); Chem. Abstr., 82,31313b (1975).</ref><ref>H. B. Koenig, K. G. Metzer, H. A. Offe, and W. Schroeck, Eur. J_. Med. Chem., 17, 59 (1982).</ref>]]
+Mezlocillin can be made in a variety of ways including reaction of [[ampicillin]] with chlorocarbamate '''1''' in the presence of triethylamine. Chlorocarbamate '''1''' itself is made from [[ethylenediamine]] by reaction with phosgene to form the cyclic urea followed by monoamide formation with [[methanesulfonyl chloride]] and then reaction of the other nitrogen atom with phosgene and trimethylsilylchloride.
+
+The closely related analogue [[azlocillin]] is made in essentially the same manner as mezlocillin. but with omission of the methylation step.
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{DiseasesDB|30377}}
+* [http://www.wheelessonline.com/ortho/mezlocillin_mezlin Duke]
+* {{cite journal |vauthors=Kristof R, Clusmann H, Koehler W, Fink K, Schramm J | title = Treatment of accidental high dose intraventricular mezlocillin application by cerebrospinal fluid exchange. | journal = J Neurol Neurosurg Psychiatry | volume = 64 | issue = 3 | pages = 379–81 | year = 1998 | pmid = 9527154 | doi = 10.1136/jnnp.64.3.379 | pmc = 2170014}}
+* {{cite journal |vauthors=McCormick P, Greenslade L, Kibbler C, Chin J, Burroughs A, McIntyre N | title = A prospective randomized trial of ceftazidime versus netilmicin plus mezlocillin in the empirical therapy of presumed sepsis in cirrhotic patients. | journal = Hepatology | volume = 25 | issue = 4 | pages = 833–6 | year = 1997 | pmid = 9096584 | doi = 10.1002/hep.510250408}}
+* {{cite journal |vauthors=Rohde B, Werner U, Hickstein H, Ehmcke H, Drewelow B | title = Pharmacokinetics of mezlocillin and sulbactam under continuous veno-venous hemodialysis (CVVHD) in intensive care patients with acute renal failure. | journal = Eur J Clin Pharmacol | volume = 53 | issue = 2 | pages = 111–5 | year = 1997 | pmid = 9403281 | doi = 10.1007/s002280050347}}
+
+{{PenicillinAntiBiotics}}
+
+[[Category:Penicillins]]
+[[Category:Enantiopure drugs]]
+[[Category:Imidazolidinones]]
+
+
+{{antibiotic-stub}}

@@ -1,0 +1,78 @@
+{{chembox
+| Watchedfields = changed
+| verifiedrevid = 418297847
+|   Name = '''Thienamycin'''
+|   ImageFile = thienamycin.png
+|   ImageSize = 200px
+|   IUPACName = (''5R,6S'')-3-[(2-Aminoethyl)thio]-6-[(''1R'')-1-<wbr />hydroxyethyl]-7-oxo-1-azabicyclo[3.2.0]hept-<wbr />2-ene-2-carboxylic acid
+| Section1 = {{Chembox Identifiers
+|   ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 389922
+| PubChem = 441128
+| InChI = 1/C11H16N2O4S/c1-5(14)8-6-4-7(18-3-2-12)9(11(16)17)13(6)10(8)15/h5-6,8,14H,2-4,12H2,1H3,(H,16,17)/t5-,6-,8-/m1/s1
+| InChIKey = WKDDRNSBRWANNC-ATRFCDNQBH
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 278773
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C11H16N2O4S/c1-5(14)8-6-4-7(18-3-2-12)9(11(16)17)13(6)10(8)15/h5-6,8,14H,2-4,12H2,1H3,(H,16,17)/t5-,6-,8-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WKDDRNSBRWANNC-ATRFCDNQSA-N
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo = 59995-64-1
+|   SMILES = O=C(O)/C1=C(\SCCN)C[C@H]2N1C(=O)[C@@H]2[C@H](O)C
+}}
+| Section2 = {{Chembox Properties
+|   Formula = C<sub>11</sub>H<sub>16</sub>N<sub>2</sub>O<sub>4</sub>S
+|   MolarMass = 272.32 g/mol
+|   Density =
+|   MeltingPt =
+|   BoilingPt =
+  }}
+}}
+
+'''Thienamycin''' also known as '''Thienpenem''' is one of the most potent naturally produced antibiotics known thus far, was discovered in ''[[Streptomyces cattleya]]'' in 1976.  Thienamycin has excellent activity against both Gram-positive and Gram-negative bacteria and is resistant to bacterial [[beta-lactamase|β-lactamase]] [[enzyme]]s.
+Thienamycin is a [[zwitterion]] at pH 7.<ref>{{cite book |title=Classics in Total Synthesis |last1=Nicolaou |first1=K.C. |authorlink1=K. C. Nicolaou |last2=Sorensen |first2=Erik |year=1996 |publisher=VCH Publishers  |isbn=3-527-29231-4 |pages=255, 260}}</ref>
+
+==History==
+In 1976, fermentation broths obtained from the soil bacterium ''[[Streptomyces cattleya]]'' were found to be active in screens for inhibitors of peptidoglycan biosynthesis.<ref name="Abstracts">{{cite journal |author=Kahan, JS, Kahan, FM, Goegelman, R., Currie, SA, Jackson, M., Stapley, EO, Miller, TW, Miller, AK, Hendlin, D., Mochales, S., Hernandez, S., Woodruff, HB.|title=Abstracts XVI, Interscience Conference on Antimicrobial Agents and Chemotherapy, Chicago, Ill.|volume=227|year=1976}}</ref>  Initial attempts to isolate the active species proved difficult due to the chemical instability of that component.  After many attempts and extensive purification, the material was finally isolated in >90% purity, allowing for the structural elucidation of thienamycin in 1979 (Figure 1).<ref name="pmid761989">{{cite journal  |vauthors=Kahan JS, Kahan FM, Goegelman R, etal |title=Thienamycin, a new beta-lactam antibiotic. I. Discovery, taxonomy, isolation and physical properties |journal=J. Antibiot. |volume=32 |issue=1 |pages=1–12 |year=1979 |pmid=761989 |doi=10.7164/antibiotics.32.1
+  }}</ref>
+
+[[Image:numberedthienamycin+.png|200px|left|thumb|'''Figure 1.''' The Structure of thienamycin (with systematic numbering]]
+Thienamycin was the first among the naturally occurring class of [[carbapenem]] antibiotics to be discovered and isolated.  Carbapenems are similar in structure to their antibiotic “cousins” the [[penicillins]].  Like penicillins, carbapenems contain a [[β-lactam]] ring (cyclic amide) fused to a five-membered ring.  Carbapenems differ in structure from penicillins in that within the five-membered ring a sulfur is replaced by a carbon atom (C1) and an unsaturation is present between C2 and C3 in the five-membered ring.
+
+==Mechanism of action==
+''In vitro'', thienamycin employs a similar mode of action as penicillins through disrupting the cell wall synthesis (peptidoglycan biosynthesis) of various Gram-positive and Gram-negative bacteria (''[[Staphylococcus aureus]]'',''[[Staphylococcus epidermidis]]'', ''[[Pseudomonas aeruginosa]]'' to name a few).<ref name="pmid10221411">{{cite journal |vauthors=Bradley JS, Garau J, Lode H, Rolston KV, Wilson SE, Quinn JP |title=Carbapenems in clinical practice: a guide to their use in serious infection |journal=Int. J. Antimicrob. Agents |volume=11 |issue=2 |pages=93–100 |year=1999 |pmid=10221411 |doi=10.1016/S0924-8579(98)00094-6
+  }}</ref>   <!-- In a study carried out by Spratt ''et al.'', they found that, --> Although thienamycin binds to all of the [[penicillin-binding proteins]] (PBPs) in ''[[Escherichia coli]]'', it preferentially binds to PBP-1 and PBP-2, which are both associated with the elongation of the cell wall.<ref name="pmid334066">{{cite journal |vauthors=Spratt BG, Jobanputra V, Zimmermann W |title=Binding of Thienamycin and Clavulanic Acid to the Penicillin-Binding Proteins of Escherichia coli K-12 |journal=Antimicrob. Agents Chemother. |volume=12 |issue=3 |pages=406–9 |year=1977 |pmid=334066 |doi= 10.1128/aac.12.3.406|pmc=429926
+  }}</ref>
+
+Unlike penicillins, which are rendered ineffective through rapid hydrolysis by the β-lactamase enzyme present in some strains of bacteria, thienamycin remains antimicrobially active.  Thienamycin displayed high activity against bacteria that were resistant to other β-lactamase-stable compounds ([[cephalosporins]]), highlighting the superiority of thienamycin as an [[antibiotic]] among [[β-lactams]].<ref name="pmid6967870">{{cite journal |vauthors=Romagnoli MF, Fu KP, Neu HC |title=The antibacterial activity of thienamycin against multiresistant bacteria-comparison with beta-lactamase stable compounds |journal=J. Antimicrob. Chemother. |volume=6 |issue=5 |pages=601–6 |year=1980 |pmid=6967870 |doi=10.1093/jac/6.5.601
+  }}</ref>
+
+==Biosynthesis==
+
+The formation of thienamycin is thought to occur through a different pathway from classic β-lactams (penicillins, cephalosporins).  Production of classic β-lactams in both fungi and bacteria occur through two steps: First, the condensation of {{Smallcaps|l}}-[[cysteine]], {{Smallcaps|l}}-[[valine]], and {{Smallcaps|l}}-α-amino[[adipic acid]] by [[ACV synthetase]] (ACVS, a [[nonribsomal peptide synthetase]]) and then cyclization of this formed tripeptide by [[Isopenicillin N synthase|isopenicillin N synthetase]] (IPNS).
+
+The gene cluster (''thn'') for the biosynthesis of thienamycin of ''S. cattleya'' was identified and sequenced in 2003, lending insight into the biosynthetic mechanism for thienamycin formation.<ref name="pmid12725858">{{cite journal |vauthors=Núñez LE, Méndez C, Braña AF, Blanco G, Salas JA |title=The biosynthetic gene cluster for the beta-lactam carbapenem thienamycin in Streptomyces cattleya |journal=Chem. Biol. |volume=10 |issue=4 |pages=301–11 |year=2003 |pmid=12725858 |doi=10.1016/S1074-5521(03)00069-3
+  }}</ref> The biosynthesis is thought to share features with the biosynthesis of the simple [[carbapenem]]s, beginning with the condensation of [[malonyl-CoA]] with [[glutamate-5-semialdehyde]] to form the [[pyrroline]] ring. The β-lactam is then formed by a β-lactam synthetase, which makes use of [[Adenosine triphosphate|ATP]], providing a [[carbapenam]]. At some later point, oxidation to the [[carbapenem]] and ring inversions must occur.
+
+The hydroxyethyl side chain of thienamycin is thought to be a result of two separate methyl transfers from [[S-adenosyl methionine]].<ref name="http://pubs.acs.org/cgi-bin/archive.cgi/jacsat/1986/108/i17/pdf/ja00277a063.pdf">{{cite journal|author=Houck, DR, Kobayashi, K., Williamson, JM, Floss, HG|title=Stereochemistry of methylation in thienamycin biosynthesis: example of a methyl transfer from methionine with retention of configuration|journal=J. Am. Chem. Soc.|volume=108|pages=5365–5366|year=1986|doi=10.1021/ja00277a063|issue=17}}</ref> According to the proposed gene functions, ThnK, ThnL, and ThnP could catalyze these methyl-transfer steps. A β-lactam synthetase (ThnM) is thought to catalyze the formation of the β-lactam ring fused to the five-membered ring. How the cysteaminyl side-chain is incorporated is largely unknown, although ThnT, ThnR, and ThnH are involved in the processing of CoA to cysteamine for use in the pathway.<ref name="http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=18678912">{{cite journal|vauthors=Freeman MF, Moshos KA, Bodner MJ, Li R, Townsend CA |title=Four enzymes define the incorporation of coenzyme A in thienamycin biosynthesis|journal=Proc. Natl. Acad. Sci. USA|volume=105|pages=11128–33|year=2008|doi=10.1073/pnas.0804500105|pmid=18678912|issue=32|pmc=2516261}}</ref> Various oxidations complete the biosynthesis.
+
+==Total synthesis==
+[[Image:Totalsynthesisofthienamycin.png|thumb|300px|'''Figure 3.''' Total Synthesis of (+)-Thienamycin]]
+[[Image:Stereoselectivelactamformation4thienamycin.png|thumb|300px|'''Figure 4.''' Stereoselective Formation of the Lactam Ring]]
+Due to low titre and to difficulties in isolating and purifying thienamycin produced by fermentation, total synthesis is the preferred method for commercial production.  Numerous methods are available in the literature for the total synthesis of thienamycin.  One synthetic route<ref name="http://pubs.acs.org/cgi-bin/archive.cgi/joceah/1990/55/i10/pdf/jo00297a026.pdf">{{cite journal|author= Hanessian, S., Desilets, D., Bennani, YL.|title= A novel ring-closure strategy for the carbapenems: the total synthesis of (+)-thienamycin|journal=J. Org. Chem.|volume=55|issue=10|pages=3098–3103|year=1990|doi= 10.1021/jo00297a026}}</ref> is given in Figure 3.
+
+The starting β-lactam for the pathway given above can be synthesized using the following method (Figure 4):<ref name="pmid11132974">{{cite journal |vauthors=Tatsuta K, Takahashi M, Tanaka N, Chikauchi K |title=Novel synthesis of (+)-4-acetoxy-3-hydroxyethyl-2-azetidinone from carbohydrate. A formal total synthesis of (+)-thienamycin |journal=J. Antibiot. |volume=53 |issue=10 |pages=1231–4 |year=2000 |pmid=11132974 |doi=10.7164/antibiotics.53.1231
+  }}</ref>
+
+== Clinical use ==
+Thienamycin is extremely unstable and decomposes in aqueous solution. Consequently, it is impractical for the clinical treatment of bacterial infections, so stable derivatives were created for medicinal consumption.  One such derivative &mdash; [[imipenem]] &mdash; was formulated in 1985.  Imipenem, an ''N''-formimidoyl derivative of thienamycin, is rapidly metabolized by a renal [[dipeptidase]] enzyme found in the human body.  To prevent its rapid degradation, imipenem is normally coadministered with [[cilastatin]], an inhibitor of this enzyme.
+
+== References ==
+<references/>
+
+{{CephalosporinAntiBiotics}}
+
+[[Category:Carbapenem antibiotics]]
+[[Category:Thioethers]]
+[[Category:Total synthesis]]

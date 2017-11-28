@@ -1,0 +1,85 @@
+{{distinguish2| the [[Halfan culture]]}}
+{{Drugbox
+| verifiedrevid = 461766301
+| IUPAC_name = 3-(Dibutylamino)-1-[1,3-dichloro-6-(trifluoromethyl)-9-phenanthryl]-1-propanol
+| image = Halofantrine.svg
+
+<!--Clinical data-->
+| tradename = Halfan
+| Drugs.com = {{drugs.com|CDI|halofantrine}}
+| MedlinePlus = a603030
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| protein_bound = 60–70%
+| metabolism = [[Liver|Hepatic]] ([[CYP3A4]]-mediated)
+| elimination_half-life = 6–10 days
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 69756-53-2
+| ATC_prefix = P01
+| ATC_suffix = BX01
+| PubChem = 37393
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01218
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 34303
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = Q2OS4303HZ
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1107
+
+<!--Chemical data-->
+| C=26 | H=30 | Cl=2 | F=3 | N=1 | O=1
+| molecular_weight = 500.423 g/mol
+| smiles = FC(F)(F)c3ccc2c(cc1c(Cl)cc(Cl)cc1c2c3)C(O)CCN(CCCC)CCCC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C26H30Cl2F3NO/c1-3-5-10-32(11-6-4-2)12-9-25(33)23-16-22-21(14-18(27)15-24(22)28)20-13-17(26(29,30)31)7-8-19(20)23/h7-8,13-16,25,33H,3-6,9-12H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = FOHHNHSLJDZUGQ-UHFFFAOYSA-N
+}}
+
+'''Halofantrine''' is a drug used to treat [[malaria]]. Halofantrine's structure contains a substituted [[phenanthrene]], and is related to the [[antimalarial drug]]s [[quinine]] and [[lumefantrine]]. Marketed as '''Halfan''', halofantrine is never used to prevent malaria and its mode of action is unknown, although a crystallographic study showed that it binds to [[hematin]] ''in vitro'', suggesting a possible mechanism of action.<ref name="pmid18508124">{{cite journal |vauthors=de Villiers KA, Marques HM, Egan TJ |title=The crystal structure of halofantrine-ferriprotoporphyrin IX and the mechanism of action of arylmethanol antimalarials |journal=J. Inorg. Chem.|volume=102 |pages=1660–7 |year=2008 |pmid=18508124 | doi=10.1016/j.jinorgbio.2008.04.001 |issue=8}}</ref> Halofantrine has also been shown to bind to [[plasmpesin]], a [[haemoglobin]] degrading enzyme unique to the malarial parasites.<ref name="pmid19472268">{{cite journal |vauthors=Friedman R, Caflisch A |title=Discovery of plasmepsin inhibitors by fragment-based docking and consensus scoring |journal=ChemMedChem|volume=4 |pages=1317–26 |year=2009 |pmid=19472268|doi=10.1002/cmdc.200900078 |issue=8}}</ref>
+
+Halofantrine was developed at [[SRI International]] for the [[Walter Reed Army Institute of Research]] from 1965 to 1975 by a team led by medicinal chemist [[William Colwell]].<ref>{{cite book | last = Nielson | first = Donald | title = A Heritage of Innovation: SRI's First Half Century | publisher = SRI International | year = 2006 | isbn = 978-0974520810 | location = [[Menlo Park, California]] | pages = 10-3 - 10-5}}</ref>
+
+==Adverse reactions==
+Halofantrine can cause abdominal pain, [[diarrhoea]], vomiting, rash, headache, itching and elevated liver enzymes.
+
+It can be associated with [[cardiotoxicity]].<ref name="pmid10824631">{{cite journal |vauthors=Wesche DL, Schuster BG, Wang WX, Woosley RL |author4-link=Raymond L. Woosley |title=Mechanism of cardiotoxicity of halofantrine |journal=Clin. Pharmacol. Ther. |volume=67 |issue=5 |pages=521–9 |date=May 2000 |pmid=10824631 |doi=10.1067/mcp.2000.106127}}</ref> The most dangerous side effect is [[cardiac arrhythmia]]s: halofantrine causes significant [[QT prolongation]],<ref name="pmid15558243">{{cite journal |vauthors=Sánchez-Chapula JA, Navarro-Polanco RA, Sanguinetti MC |title=Block of wild-type and inactivation-deficient human ether-a-go-go-related gene K+ channels by halofantrine |journal=Naunyn Schmiedebergs Arch. Pharmacol. |volume=370 |issue=6 |pages=484–91 |year=2004 |pmid=15558243 |doi=10.1007/s00210-004-0995-5}}</ref> and this effect is seen even at standard doses.  The drug should therefore not be given to patients with cardiac conduction defects and should not be combined with [[mefloquine]]. A survey from 2009 suggests that the drug is safe when correctly administered.<ref name="pmid20003315">{{cite journal |vauthors=Bouchaud O, Imbert P, Touze JE, Dodoo AN, Danis M, Legros F |title=Fatal cardiotoxicity related to halofantrine: a review based on a worldwide safety data base |journal=Malaria J. |volume=8 |pages=289 |year=2009 |pmid=20003315 |doi=10.1186/1475-2875-8-289 |pmc=2801676}}</ref>
+
+==Other adverse reactions==
+Consumption of grapefruit combined with certain medications can cause [[Grapefruit#Drug interactions|serious side effects]], even death. Halofantrine combined with this fruit or grapefruit juice is dangerous. The mechanism of action is inhibition of [[CYP3A4]], which is necessary to metabolize the drug and eliminate it from the body.  Without CYP3A4, levels of the drug will become toxic in the body.
+
+==Pharmacology==
+The mechanism of action of halofantrine is unknown.  The absorption of halofantrine is erratic, but is increased when taken with fatty food. Because of fears of toxicity due to increased halofantrine blood levels, halofantrine should be taken on an empty stomach.
+
+Plasma levels peak at 16 hours and the half-life of the drug is about 4 days.
+
+==Uses==
+Halofantrine is only used to treat malaria. It is not used to prevent malaria ([[prophylaxis]]) because of the risk of toxicity and unreliable absorption.
+
+==Dosing==
+Adult dose: three doses of 500&nbsp;mg six hours apart. Halofantrine should be taken on an empty stomach.
+
+==Manufacturing information and availability==
+'''Halfan''' ([[GlaxoSmithKline]]) is available as 250&nbsp;mg tablets. A full course of treatment (6 tablets) costs [[United States dollar|US$]]1.40 in the developing world. Halofantrine is not available in the UK or U.S.
+
+==References==
+{{Reflist|2}}
+
+
+{{Antimalarials}}
+
+[[Category:Alcohols]]
+[[Category:Antimalarial agents]]
+[[Category:Chloroarenes]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Phenanthrenes]]
+[[Category:SRI International]]

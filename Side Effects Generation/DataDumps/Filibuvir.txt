@@ -1,0 +1,64 @@
+{{Drugbox
+| IUPAC_name =  (2''R'')-2-cyclopentyl-2-[2-(2,6-diethylpyridin-4-yl)ethyl]-5-[(5,7-dimethyl-[1,2,4]triazolo[1,5-a]pyrimidin-2-yl)methyl]-4-hydroxy-3''H''-pyran-6-one
+| image = Filibuvir.svg
+| width = 275
+| drug_name = 
+<!--Clinical data -->
+| legal_status = Development terminated
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data -->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers -->
+| CAS_number = 877130-28-4
+| CAS_supplemental = 
+| ATCvet = 
+| ATC_prefix = none
+| ATC_suffix =
+| ATC_supplemental =
+| PubChem = 54708673
+| IUPHAR_ligand =
+| DrugBank =
+| ChEBI_Ref = {{ebicite|correct|EBI}} 
+| ChEBI =
+| ChemSpiderID = 26286922
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 198J479Y2L
+| KEGG = D09616
+| ChEMBL = 490672
+| PDB_ligand = AG0
+| synonyms = PF-00868554
+
+<!--Chemical data -->
+| chemical_formula =
+| C=29 | H=37 | N=5 | O=3
+| molecular_weight = 503.636 g/mol
+| smiles = CCC1=CC(=CC(=N1)CC)CC[C@@]2(CC(=C(C(=O)O2)CC3=NN4C(=CC(=NC4=N3)C)C)O)C5CCCC5
+| StdInChI = 1S/C29H37N5O3/c1-5-22-14-20(15-23(6-2)31-22)11-12-29(21-9-7-8-10-21)17-25(35)24(27(36)37-29)16-26-32-28-30-18(3)13-19(4)34(28)33-26/h13-15,21,35H,5-12,16-17H2,1-4H3/t29-/m1/s1
+| StdInChIKey = SLVAPEZTBDBAPI-GDLZYMKVSA-N
+}}
+
+'''Filibuvir''' (also known as '''PF-00868554''', '''PF-868554''') was a non-nucleoside orally available<ref>{{cite web|title=Pfizer Halts Development of Hepatitis C Drug Filibuvir: Report|url=http://www.firstwordpharma.com/node/1063595#axzz3tTW1Jy65|website=FirstWorld Pharma|publisher=Doctor's Guide Publishing Limited|accessdate=5 December 2015}}</ref> [[NS5B]] inhibitor developed by [[Pfizer]] for the treatment of [[hepatitis C]]. It binds to the non-catalytic Thumb II allosteric pocket of NS5B viral polymerase and causes a decrease in viral RNA synthesis. It is a potent and selective inhibitor, with a mean [[IC50]] of 0.019 μM against genotype 1 polymerases.<ref>{{cite journal|last1=Shi|first1=S. T.|last2=Herlihy|first2=K. J.|last3=Graham|first3=J. P.|last4=Nonomiya|first4=J.|last5=Rahavendran|first5=S. V.|last6=Skor|first6=H.|last7=Irvine|first7=R.|last8=Binford|first8=S.|last9=Tatlock|first9=J.|last10=Li|first10=H.|last11=Gonzalez|first11=J.|last12=Linton|first12=A.|last13=Patick|first13=A. K.|last14=Lewis|first14=C.|title=Preclinical Characterization of PF-00868554, a Potent Nonnucleoside Inhibitor of the Hepatitis C Virus RNA-Dependent RNA Polymerase|journal=Antimicrobial Agents and Chemotherapy|date=23 March 2009|volume=53|issue=6|pages=2544–52|doi=10.1128/AAC.01599-08|pmid=19307358|pmc=2687230}}</ref> Several filibuvir-resistant mutations have been identified, M423 being the most common that occurred after filibuvir monotherapy.<ref>{{cite journal|last1=Jiao|first1=P|last2=Xue|first2=W|last3=Shen|first3=Y|last4=Jin|first4=N|last5=Liu|first5=H|title=Understanding the Drug Resistance Mechanism of Hepatitis C Virus NS5B to PF-00868554 due to Mutations of the 423 Site: a Computational study|journal=Molecular bioSystems|date=April 2014|volume=10|issue=4|pages=767–77|doi=10.1039/c3mb70498j|pmid=24452008}}</ref> It was intended to be taken twice-daily.<ref>{{cite journal|last1=Beaulieu|first1=PL|title=Filibuvir, a Non-nucleoside NS5B polymerase Inhibitor for the Potential Oral Treatment of Chronic HCV Infection|journal=IDrugs: the Investigational Drugs Journal|date=December 2010|volume=13|issue=12|pages=938–48|pmid=21154154}}</ref>
+
+Its investigation was discontinued on February 2013 due to strategic reasons.<ref>{{cite web|title=Pfizer Stops Developing Hepatitis C Drug|url=https://www.wsj.com/articles/SB10001424127887324128504578348370181890456|website=The Wall Street Journal|publisher=Dow Jones & Company, Inc.|accessdate=5 December 2015}}</ref><ref>{{cite journal|last1=Gentile|first1=Ivan|last2=Buonomo|first2=Antonio Riccardo|last3=Zappulo|first3=Emanuela|last4=Borgia|first4=Guglielmo|title=Discontinued Drugs in 2012–2013: Hepatitis C Virus Infection|journal=Expert Opinion on Investigational Drugs|date=February 2015|volume=24|issue=2|pages=239–51|doi=10.1517/13543784.2015.982274}}</ref>
+
+== References ==
+{{reflist}}
+
+{{RNA antivirals}}
+
+[[Category:Abandoned drugs]]
+[[Category:Anti-hepatitis C agents]]
+[[Category:Lactones]]
+[[Category:Triazoles]]
+[[Category:Pyridines]]
+[[Category:Pyrimidines]]
+[[Category:Cyclopentanes]]
+
+
+{{Antiinfective-drug-stub}}

@@ -1,0 +1,76 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 443663022
+| IUPAC_name = <small>L</small>-histidylglycyl-<small>L</small>-α-aspartylglycyl-<small>L</small>-seryl-<small>L</small>-phenylalanyl-<small>L</small>-seryl-<small>L</small>-α-aspartyl-<small>L</small>-α-glutamyl-<small>L</small>-methionyl-<small>L</small>-asparaginyl-<small>L</small>-threonyl-<small>L</small>-isoleucyl-<small>L</small>-leucyl-<small>L</small>-α-aspartyl-<small>L</small>-asparaginyl-<small>L</small>-leucyl-<small>L</small>-alanyl-<small>L</small>-alanyl-<small>L</small>-arginyl-<small>L</small>-α-aspartyl-<small>L</small>-phenylalanyl-<small>L</small>-isoleucyl-<small>L</small>-asparaginyl-<small>L</small>-tryptophyl-<small>L</small>-leucyl-<small>L</small>-isoleucyl-<small>L</small>-glutaminyl-<small>L</small>-threonyl-<small>L</small>-lysyl-<small>L</small>-isoleucyl-<small>L</small>-threonyl-<small>L</small>-aspartic acid
+| image = teduglutide.png
+
+<!--Clinical data-->
+| tradename = Gattex, Revestive
+| Drugs.com = {{Drugs.com|parent|gattex}}
+| pregnancy_AU = 
+| pregnancy_US = B
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = 
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = [[Subcutaneous injection]]
+| licence_EU        = 
+| licence_US        =
+
+<!--Pharmacokinetic data-->
+| bioavailability = 88%
+| protein_bound = 
+| metabolism = [[Proteolysis]]
+| elimination_half-life = 2 h
+| excretion = 
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7049
+| CAS_number = 197922-42-2
+| ATC_prefix = A16
+| ATC_suffix = AX08
+| PubChem = 16139605
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 72305
+| ChemSpiderID = 17296109
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D06053
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 
+| synonyms =
+
+<!--Chemical data-->
+| C=164 | H=252 | N=44 | O=55 |S=1 
+| molecular_weight = 3752.082 g/mol
+| smiles = CC[C@H](C)[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CC(N)=O)NC(=O)[C@@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CCCNC(N)=N)NC(=O)[C@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](CC(N)=O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CCC(O)=O)NC(=O)[C@H](CC(O)=O)NC(=O)[C@H](CO)NC(=O)[C@H](Cc1ccccc1)NC(=O)[C@H](CO)NC(=O)CNC(=O)[C@H](CC(O)=O)NC(=O)CNC(=O)[C@@H](N)Cc1cnc[nH]1)[C@@H](C)O)[C@@H](C)CC)[C@@H](C)CC)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CC(O)=O)C(O)=O 
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C164H252N44O55S/c1-21-77(11)126(156(255)187-95(44-46-114(167)214)141(240)206-130(83(17)211)160(259)186-93(42-33-34-49-165)140(239)202-129(80(14)24-4)159(258)208-131(84(18)212)161(260)200-111(163(262)263)66-125(230)231)203-151(250)100(54-76(9)10)189-145(244)103(57-88-67-175-92-41-32-31-40-90(88)92)192-147(246)105(60-116(169)216)199-157(256)127(78(12)22-2)204-152(251)102(56-87-38-29-26-30-39-87)190-149(248)109(64-123(226)227)195-137(236)94(43-35-50-174-164(171)172)183-134(233)82(16)179-133(232)81(15)180-142(241)98(52-74(5)6)188-146(245)104(59-115(168)215)194-150(249)110(65-124(228)229)196-143(242)99(53-75(7)8)198-158(257)128(79(13)23-3)205-162(261)132(85(19)213)207-153(252)106(61-117(170)217)193-139(238)97(48-51-264-20)185-138(237)96(45-47-120(220)221)184-148(247)108(63-122(224)225)197-155(254)113(72-210)201-144(243)101(55-86-36-27-25-28-37-86)191-154(253)112(71-209)182-119(219)70-177-136(235)107(62-121(222)223)181-118(218)69-176-135(234)91(166)58-89-68-173-73-178-89/h25-32,36-41,67-68,73-85,91,93-113,126-132,175,209-213H,21-24,33-35,42-66,69-72,165-166H2,1-20H3,(H2,167,214)(H2,168,215)(H2,169,216)(H2,170,217)(H,173,178)(H,176,234)(H,177,235)(H,179,232)(H,180,241)(H,181,218)(H,182,219)(H,183,233)(H,184,247)(H,185,237)(H,186,259)(H,187,255)(H,188,245)(H,189,244)(H,190,248)(H,191,253)(H,192,246)(H,193,238)(H,194,249)(H,195,236)(H,196,242)(H,197,254)(H,198,257)(H,199,256)(H,200,260)(H,201,243)(H,202,239)(H,203,250)(H,204,251)(H,205,261)(H,206,240)(H,207,252)(H,208,258)(H,220,221)(H,222,223)(H,224,225)(H,226,227)(H,228,229)(H,230,231)(H,262,263)(H4,171,172,174)/t77-,78-,79-,80-,81-,82-,83+,84+,85+,91-,93-,94-,95-,96-,97-,98-,99-,100-,101-,102-,103-,104-,105-,106-,107-,108-,109-,110-,111-,112-,113-,126-,127-,128-,129-,130-,131-,132-/m0/s1 
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = CILIXQOJUNDIDU-ASQIGDHWSA-N
+}}
+'''Teduglutide''' (brand names '''Gattex''' in the US and '''Revestive''' in Europe) is a 33-membered poly[[peptide]] and [[glucagon-like peptide-2]] (GLP-2) analog that is used for the treatment of [[short bowel syndrome]]. It works by promoting [[mucosa]]l growth and possibly restoring [[gastric emptying]] and secretion.<ref name="pmid22570676">{{cite journal | author = Jeppesen PB | title = Teduglutide, a novel glucagon-like peptide 2 analog, in the treatment of patients with short bowel syndrome | journal = Therap Adv Gastroenterol | volume = 5 | issue = 3 | pages = 159–71 |date=May 2012 | pmid = 22570676 | pmc = 3342570 | doi = 10.1177/1756283X11436318  }}</ref>  In Europe it has been granted [[orphan drug]] status and is marketed under the brand Revestive by [[Nycomed]]. It was approved by the United States under the name Gattex on 21 December 2012 and also is an orphan drug there.
+
+==Medical uses==
+Up to a certain point, the gut can adapt to partial [[Bowel resection|resection]]s that result in short bowel syndrome. Still, [[parenteral]] substitution of water, minerals and vitamins (depending on which part of the gut has been removed) is often necessary. Teduglutide may reduce or shorten the necessity of such infusions by improving the [[intestinal mucosa]] and possibly by other mechanisms.<ref name="Klement">{{cite journal| author = A. Klement| date = 5 January 2015| title = Das Kurzdarmsyndrom ist erstmals behandelbar: Revestive| journal = Österreichische Apothekerzeitung| issue = 1/2015| page = 20f| language = German}}</ref>
+
+==Adverse effects==
+Common adverse effects in clinical studies included abdominal discomfort (49% of patients), [[respiratory infection]]s (28%), nausea (27%) and vomiting (14%), local reactions at the injection site (21%), and headache (17%).<ref name="Klement" />
+
+==Chemistry and mechanism of action==
+Teduglutide differs from natural GLP-2 by a single [[amino acid]]: an [[alanine]] is replaced with a [[glycine]]. This blocks breaking down of the molecule by [[dipeptidyl peptidase]] and increases its half-life from seven minutes (GLP-2) to about two hours, while retaining its biological actions. These include maintenance of the intestinal mucosa, increasing intestinal blood flow, reducing [[gastrointestinal motility]] and [[gastrointestinal secretion|secretion]] of gastric acid.<ref name="Klement" />
+
+==References==
+{{reflist}}
+
+{{Other alimentary tract and metabolism products}}
+{{Peptidergics}}
+
+[[Category:Drugs acting on the gastrointestinal system and metabolism]]
+[[Category:Orphan drugs]]
+[[Category:Peptides]]

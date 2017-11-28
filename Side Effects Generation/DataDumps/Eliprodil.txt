@@ -1,0 +1,69 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 461093042
+| IUPAC_name = 1-(4-Chlorophenyl)-2-[4-[(4-fluorophenyl)methyl]piperidin-1-yl]ethanol
+| image = Eliprodil.svg
+| width = 250px
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- Schedule I -->
+| legal_UK = <!-- Class A -->
+| legal_US =
+| legal_status =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 119431-25-3
+| ATC_prefix = None
+| ATC_suffix =
+| PubChem = 60703
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 54708
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = YW62A6TW29
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 28564
+
+<!--Chemical data-->
+| C=20 | H=23 | Cl=1 | F=1 | N=1 | O=1 
+| molecular_weight = 347.854 g/mol
+| smiles = C1CN(CCC1CC2=CC=C(C=C2)F)CC(C3=CC=C(C=C3)Cl)O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C20H23ClFNO/c21-18-5-3-17(4-6-18)20(24)14-23-11-9-16(10-12-23)13-15-1-7-19(22)8-2-15/h1-8,16,20,24H,9-14H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GGUSQTSTQSHJAH-UHFFFAOYSA-N
+| synonyms =
+}}
+
+'''Eliprodil''' (codenamed '''SL-82.0715''') is a [[NMDA antagonist]] drug candidate that failed a Phase III clinical trial for the treatment of acute [[ischemic stroke]] in 1996, sponsored by Synthélabo Recherche.<ref>The Pharma Letter. 2 December 1996 [http://www.thepharmaletter.com/article/synthelabo-s-eliprodil-fails-in-stroke-trials Synthelabo's Eliprodil Fails In Stroke Trials]</ref><ref name=DeKeyser>DeKeyser J, Sulter G, & Luiten PG (1999) Clinical trials with neuroprotective drugs in acute ischaemic stroke: are we doing the right thing? Trends in neurosciences 22(12):535-540 {{PMID|10542428}}</ref><ref name=Lee>Lee JM, Zipfel GJ, & Choi DW (1999) The changing landscape of ischaemic brain injury mechanisms. Nature 399(6738 Suppl):A7-14 {{PMID|10392575}}</ref>
+
+[[NMDA receptors]] are a key component in mediating glutamate-induced [[excitotoxicity]], and it is believed that [[NMDA antagonists]] would be [[Neuroprotection|neuroprotective]] after a stroke or other [[traumatic brain injury]].<ref name=Ikonomidou>Ikonomidou C & Turski L (2002) Why did NMDA receptor antagonists fail clinical trials for stroke and traumatic brain injury? The Lancet. Neurology 1(6):383-386 {{PMID|12849400}}</ref> After a traumatic brain injury, neurons become deprived of glucose and oxygen. These neurons quickly lose ATP and become depolarized, which releases glutamate. The intracellular buildup of glutamate triggers the overstimulation of [[AMPA]] and NMDA receptors. This, in turn, causes an influx of Na<sup>+</sup> and Ca<sup>2+</sup>. Therefore, when NMDA receptors are activated, there is an increase in intracellular Ca<sup>2+</sup> concentration. High Ca<sup>2+</sup> causes fatal metabolic consequences, including neuronal cell death.<ref name=Lee/> 
+
+==References==
+{{Reflist}}
+
+{{Ionotropic glutamate receptor modulators}}
+{{Sigma receptor modulators}}
+
+[[Category:Abandoned drugs]]
+[[Category:Alcohols]]
+[[Category:Chloroarenes]]
+[[Category:NMDA receptor antagonists]]
+[[Category:Fluoroarenes]]
+[[Category:Piperidines]]
+
+{{nervous-system-drug-stub}}

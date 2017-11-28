@@ -1,0 +1,111 @@
+{{distinguish|morphine|morpholino}}
+{{chembox
+| Watchedfields = changed
+| verifiedrevid = 477503302
+| Reference = <ref>{{cite web | author=National Institute for Occupational Safety and Health | year=2000 | title=Morpholine | work=International Chemical Safety Cards | url=https://www.cdc.gov/niosh/ipcsneng/neng0302.html | accessdate=5 November 2005}}</ref>
+| Name = Morpholine
+| ImageFileL1 = Morpholine numbering.svg
+| ImageNameL1 = numbered skeletal formula of the morpholine molecule
+| ImageFileR1 = Morpholine-stereo-2D-skeletal.png
+| ImageNameR1 = perspective skeletal formula of the morpholine molecule
+| ImageFileL2 = Morpholine-from-xtal-3D-balls-B.png
+| ImageNameL2 = ball-and-stick model of the morpholine molecule
+| ImageFileR2 = Morpholine-from-xtal-3D-vdW-B.png
+| ImageNameR2 = space-filling model of the morpholine molecule
+| PIN = Morpholine <!-- Nomenclature of Organic Chemistry – IUPAC Recommendations and Preferred Names 2013 (Blue Book) -->
+| OtherNames = Diethylenimide oxide<br />1,4-Oxazinane<br />Tetrahydro-1,4-oxazine<br />Diethylene imidoxide<br />Diethylene oximide<br />Tetrahydro-p-oxazine
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 8B2ZCK305O
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 34856
+| ChemSpiderID = 13837537
+| SMILES = C1CNCCO1
+| InChI = 1/C4H9NO/c1-3-6-4-2-5-1/h5H,1-4H2
+| InChIKey = YNAVUWVOSKDBBP-UHFFFAOYAU
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C4H9NO/c1-3-6-4-2-5-1/h5H,1-4H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YNAVUWVOSKDBBP-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo = 110-91-8
+| RTECS = QD6475000
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 276518
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = C14452
+  }}
+|Section2={{Chembox Properties
+| C=4 | H=9 | N=1 | O=1 
+| Appearance = Colorless liquid
+| Odor = Weak ammonia-like or fish-like<ref name=PGCH/>
+| Density = 1.007 g/cm<sup>3</sup>
+| Solubility = miscible
+| MeltingPtC = −5
+| BoilingPtC = 129
+| pKa = 8.36<ref>{{cite journal | last = Hall | first = H. K. | journal = J. Am. Chem. Soc. | year = 1957 | volume = 79 | pages = 5441 | doi = 10.1021/ja01577a030 | issue = 20}}</ref> (of conjugate acid)
+| VaporPressure = 6 mmHg (20&nbsp;°C)<ref name=PGCH/>
+| MagSus = -55.0·10<sup>−6</sup> cm<sup>3</sup>/mol
+  }}
+|Section7={{Chembox Hazards
+| ExternalSDS = [http://hazard.com/msds/f2/bhx/bhxbx.html hazard.com]
+| MainHazards = Flammable, Corrosive
+| NFPA-H = 3
+| NFPA-F = 3
+| NFPA-R = 0
+| FlashPtC = 31
+| AutoignitionPtC = 275
+| RPhrases = {{R10}} {{R20/21/22}} {{R34}}
+| SPhrases = {{S1/2}} {{S23}} {{S36}} {{S45}}
+| PEL = TWA 20 ppm (70 mg/m<sup>3</sup>) [skin]<ref name=PGCH>{{PGCH|0437}}</ref>
+| ExploLimits = 1.4%–11.2%<ref name=PGCH/>
+| IDLH = 1400 ppm<ref name=PGCH/>
+| LC50 = 365 ppm (mouse, 2 hr)<ref name=IDLH>{{IDLH|110918|Morpholine}}</ref>
+| LD50 = 1220 mg/kg (mammal, oral)<br/>525 mg/kg (mouse, oral)<br/>1050 mg/kg (rat, oral)<ref name=IDLH/>
+| REL = TWA 20 ppm (70 mg/m<sup>3</sup>) ST 30 ppm (105 mg/m<sup>3</sup>) [skin]<ref name=PGCH/>
+  }}
+}}
+
+'''Morpholine''' is an [[Organic compound|organic]] [[chemical compound]] having the [[chemical formula]] [[oxygen|O]]([[carbon|C]][[hydrogen|H]]<sub>2</sub>CH<sub>2</sub>)<sub>2</sub>[[nitrogen|N]]H. This [[heterocycle]] features both [[amine]] and [[ether]] [[functional group]]s. Because of the amine, morpholine is a [[base (chemistry)|base]]; its [[conjugate acid]] is called morpholinium. For example, treating morpholine with [[hydrochloric acid]] makes the [[salt]] morpholinium chloride.
+
+==Production==
+Morpholine may be produced by the dehydration of [[diethanolamine]] with [[sulfuric acid]]:<ref name = weissermel>{{cite book | title = Industrial Organic Chemistry |first1=Klaus |last1=Weissermel |first2=Hans-Jürgen |last2=Arpe |first3=Charlet R. |last3=Lindley |first4=Stephen |last4=Hawkins | publisher = [[Wiley-VCH]] | year = 2003 | isbn = 3-527-30578-5 | pages = 159–161 | chapter = Chapter 7. Oxidation Products of Ethylene}}</ref>
+:[[File:Morpholine from DEA.png|400px]]
+
+==Uses==
+===Industrial applications===
+Morpholine is a common additive, in parts per million [[concentration]]s, for [[pH]] adjustment in both [[fossil fuel power plant|fossil fuel]] and [[nuclear power plant]] [[steam]] systems. Morpholine is used because its [[Volatility (chemistry)|volatility]] is about the same as [[water (molecule)|water]], so once it is added to the water, its concentration becomes distributed rather evenly in both the water and steam [[phase (matter)|phases]]. Its pH-adjusting qualities then become distributed throughout the steam plant to provide [[corrosion]] protection. Morpholine is often used in conjunction with low concentrations of [[hydrazine]] or [[ammonia]] to provide a comprehensive all-volatile treatment chemistry for corrosion protection for the steam systems of such plants. Morpholine decomposes reasonably slowly in the absence of [[oxygen]] at the high [[temperature]]s and [[pressure]]s in these steam systems.
+
+===Organic synthesis===
+Morpholine undergoes most [[chemical reaction]]s typical for other secondary [[amine]]s, though the presence of the ether oxygen withdraws electron density from the nitrogen, rendering it less nucleophilic (and less basic) than structurally similar secondary amines such as [[piperidine]]. For this reason, it forms a stable chloramine (CAS#23328-69-0).<ref>{{OrgSynth | last1= Lindsay Smith |first1=J. R. |last2=McKeer |first2=L. C. |last3=Taylor |first3=J. M. | title = 4-Chlorination of Electron-Rich Benzenoid Compounds: 2,4-Dichloromethoxybenzene | collvol = 8 | collvolpages = 167 | year = 1993 | prep = CV8P0167}}</ref>
+
+It is commonly used to generate [[enamine]]s.<ref>{{OrgSynth | authorlink = Ryoji Noyori|last1=Noyori |first1=R. |last2=Yokoyama |first2=K. |last3=Hayakawa |first3=Y. | title = Cyclopentenones from α,α′-Dibromoketones and Enamines: 2,5-Dimethyl-3-Phenyl-2-Cyclopenten-1-one | collvol = 6 | collvolpages = 520 | year = 1988 | prep = CV6P0520}}</ref>
+
+Morpholine is widely used in [[organic synthesis]]. For example, it is a building block in the preparation of the antibiotic [[linezolid]], the anticancer agent [[gefitinib]] (Iressa) and the analgesic [[dextromoramide]].
+
+In research and in industry, the low cost and [[Polarity (chemistry)|polarity]] of morpholine lead to its common use as a [[solvent]] for chemical reactions.
+
+=== Producers ===
+Most (as above) is widespread in Europe and the USA; accordingly, producers in Europe and the USA are able to cover the domestic and export markets.
+
+=== Agriculture ===
+==== As a fruit coating ====
+Morpholine is used as a chemical [[emulsifier]] in the process of waxing fruit. Naturally, fruits make waxes to protect against insects and fungal contamination, but this can be lost as the fruit is cleaned. A small amount of new wax is applied to replace it. Morpholine is used as an emulsifier and solubility aid for [[shellac]], which is used as a wax for fruit coating.<ref>{{cite journal |first1=Raymond G. |last1=McGuire |first2=Dimitrios A. |last2=Dimitroglou | url = http://www.informaworld.com/smpp/content~content=a713655919~db=all  | title = Evaluation of Shellac and Sucrose Ester Fruit Coating Formulations that Support Biological Control of Post-harvest Grapefruit Decay | journal = Bio-control Science and Technology | volume = 9 | issue = 1 | year = 1999 | pages = 53–65}}</ref> The [[European Union]] has forbidden the use of morpholine in fruit coating.<ref>{{cite web | url = http://www.salltd.co.uk/news_item.jsp?file=2010-09-29%20Morpholine%20residues%20detected%20in%20apples%20from%20Chile.html | title = Morpholine | publisher = Scientific Analysis Laboratories Ltd}}</ref><ref>{{cite web | url = http://www.nwhort.org/UKCountryAlert.html | title = Morpholine Issues in the United Kingdom | date = September 28, 2010 | publisher = Northwest Horticultural Council}}</ref>
+
+====As a component in fungicides====
+Morpholine derivatives used as agricultural fungicides in cereals are known as [[ergosterol biosynthesis inhibitor]]s.
+
+*[[Amorolfine]]
+*[[Fenpropimorph]]
+*[[Tridemorph]]
+
+==See also==
+* [[Morpholino]]
+
+==References==
+<references/>
+
+[[Category:Morpholines| ]]
+[[Category:Ether solvents]]
+[[Category:Amine solvents]]

@@ -1,0 +1,59 @@
+{{unreferenced|date=December 2014}}
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 436505734
+| IUPAC_name =  
+| image = Penimepicycline.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Oral, [[intramuscular injection|intramuscular]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 4599-60-4
+| ATC_prefix = J01
+| ATC_suffix = AA10
+| PubChem = 5464323
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 75258
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 16736440
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07233
+
+<!--Chemical data-->
+| C=45 | H=56 | N=6 | O=14 | S=1 
+| molecular_weight = 937.024 g/mol
+| smiles = O=C(O)[C@@H]2N3C(=O)[C@@H](NC(=O)COc1ccccc1)[C@H]3SC2(C)C.CN(C)[C@@H]2C(\O)=C(/C(=O)[C@@]3(O)C(/O)=C4/C(=O)c1c(O)cccc1[C@@](C)(O)C4C[C@@H]23)C(=O)NCN5CCN(CCO)CC5
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C29H38N4O9.C16H18N2O5S/c1-28(41)15-5-4-6-18(35)19(15)23(36)20-16(28)13-17-22(31(2)3)24(37)21(26(39)29(17,42)25(20)38)27(40)30-14-33-9-7-32(8-10-33)11-12-34;1-16(2)12(15(21)22)18-13(20)11(14(18)24-16)17-10(19)8-23-9-6-4-3-5-7-9/h4-6,16-17,22,34-35,37-38,41-42H,7-14H2,1-3H3,(H,30,40);3-7,11-12,14H,8H2,1-2H3,(H,17,19)(H,21,22)/t16?,17-,22-,28+,29-;11-,12+,14-/m01/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = MEGKRPMNPGTIIG-FPAXJKHWSA-N
+}}
+'''Penimepicycline''' ([[International Nonproprietary Name|INN]], also known as '''mepicycline penicillinate''') is an [[antibiotic]]. It is the [[phenoxymethylpenicillin]]ate salt of the [[tetracycline antibiotic]] [[pipacycline]].
+
+{{TetracyclineAntiBiotics}}
+
+[[Category:Penicillins]]
+[[Category:Combination antibiotics]]
+[[Category:Tetracycline antibiotics]]
+
+
+{{antibiotic-stub}}

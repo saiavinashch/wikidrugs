@@ -1,0 +1,95 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 406275524
+| IUPAC_name = (2''R'')-1,1,1-trifluoro-4-(5-fluoro-2,3-dihydro-1-benzofuran-7-yl)-4-methyl-2-<nowiki>[[</nowiki>(2-methylquinolin-5-yl)amino]methyl]pentan-2-ol
+| image = Mapracorat_skeletal.svg
+| width = 250
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Investigational
+| routes_of_administration = Topical ([[ointment]], [[eye drops]])
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 887375-26-0
+| ATC_prefix = none
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem = 24795088
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| KEGG = D10136
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 25104194
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 145V79YBVP
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=25 | H=26 | F=4 | N=2 | O=2 
+| molecular_weight = 462.479 g/mol
+| smiles = c14OCCc4cc(F)cc1C(C)(C)CC(O)(C(F)(F)F)CNc(cccc2n3)c2ccc3C
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C25H26F4N2O2/c1-15-7-8-18-20(5-4-6-21(18)31-15)30-14-24(32,25(27,28)29)13-23(2,3)19-12-17(26)11-16-9-10-33-22(16)19/h4-8,11-12,30,32H,9-10,13-14H2,1-3H3/t24-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = VJGFOYBQOIPQFY-XMMPIXPASA-N
+}}
+
+'''Mapracorat''' ([[International Nonproprietary Name|INN]], code names '''BOL-303242-X''', '''ZK-245186'''<ref name="pmid20824100">{{Cite journal 
+| last1 = Cavet | first1 = M. E. 
+| last2 = Harrington | first2 = K. L. 
+| last3 = Ward | first3 = K. W. 
+| last4 = Zhang | first4 = J. Z. 
+| title = Mapracorat, a novel selective glucocorticoid receptor agonist, inhibits hyperosmolar-induced cytokine release and MAPK pathways in human corneal epithelial cells 
+| journal = Molecular Vision 
+| volume = 16 
+| pages = 1791–1800 
+| year = 2010 
+| pmid = 20824100 
+| pmc = 2932489
+}}</ref>) is an [[anti-inflammatory drug]] belonging to the experimental class of [[selective glucocorticoid receptor agonist]]s (SEGRAs). It is in [[clinical trial]]s for the topical treatment of [[atopic dermatitis]],<ref name="NCT00944632">{{ClinicalTrialsGov|NCT00944632|Dose Escalation of Different Concentrations of ZK 245186 in Atopic Dermatitis}}</ref> inflammation following [[cataract surgery]],<ref name="NCT00905450">{{ClinicalTrialsGov|NCT00905450|Evaluation of BOL-303242-X Versus Vehicle for the Treatment of Inflammation Following Cataract Surgery}}</ref> and [[allergic conjunctivitis]].<ref>{{ClinicalTrialsGov|NCT01289431Mapracorat Ophthalmic Formulation in Subjects With Allergic Conjunctivitis}}</ref> Preliminary investigation for the treatment of [[keratoconjunctivitis sicca]] has been conducted in cellular models.<ref name="pmid20824100" />
+
+== Clinical trials==
+Phase II clinical trials with mapracorat started in summer 2009. One trial was a [[double blind]] dose finding study for an [[ointment]] against atopic dermatitis. It tested concentrations of 0.01%, 0.03% and 0.1% versus [[placebo]] over four weeks in around 64 patients. This trial was conducted by Intendis, a part of [[Bayer HealthCare Pharmaceuticals]] specialized on [[dermatology]], and completed in September or October 2010.<ref name="NCT00944632" /> The other trial, also with a double blind design, evaluated an [[Ophthalmology|ophthalmic]] [[Suspension (chemistry)|suspension]] for the treatment of inflammation following cataract surgery. Various concentrations and dosing schemes were tested versus placebo in about 550 patients. The study was conducted by [[Bausch & Lomb]] and completed in September 2010.<ref name="NCT00905450" /> Its successor study, a phase III trial, started in November 2010 and completed in August 2011.<ref name="NCT01230125">{{ClinicalTrialsGov|NCT01230125|Mapracorat Ophthalmic Suspension for the Treatment of Ocular Inflammation Following Cataract Surgery}}</ref>
+
+{{as of|2017|1}} no study results are available.
+
+==See also==
+* [[AZD-5423]]
+* [[Dagrocorat]]
+* [[Fosdagrocorat]]
+
+==References==
+{{Reflist|2}}
+
+{{Glucocorticoids and antiglucocorticoids}}
+{{Glucocorticoid receptor modulators}}
+
+[[Category:Anti-inflammatory agents]]
+[[Category:Benzofurans]]
+[[Category:Fluoroarenes]]
+[[Category:Immunosuppressants]]
+[[Category:Quinolines]]
+[[Category:Selective glucocorticoid receptor modulators]]
+[[Category:Trifluoromethyl compounds]]
+
+
+{{musculoskeletal-drug-stub}}
+{{antineoplastic-drug-stub}}
+{{dermatologic-drug-stub}}

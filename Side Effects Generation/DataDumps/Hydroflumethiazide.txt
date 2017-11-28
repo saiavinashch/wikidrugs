@@ -1,0 +1,70 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 443860727
+| IUPAC_name = 1,1-Dioxo-6-(trifluoromethyl)-3,4-dihydro-2''H''-1,2,4-benzothiadiazine-7-sulfonamide
+| image = Hydroflumethiazide.svg
+<!--Clinical data-->
+| tradename =
+| Drugs.com = {{drugs.com|CONS|hydroflumethiazide}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =
+| routes_of_administration =
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+<!--Identifiers-->
+| IUPHAR_ligand = 7197
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 135-09-1
+| ATC_prefix = C03
+| ATC_suffix = AA02
+| PubChem = 3647
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00774
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3521
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 501CFL162R
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00654
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1763
+<!--Chemical data-->
+| C=8 | H=8 | F=3 | N=3 | O=4 | S=2
+| molecular_weight = 331.29 g/mol
+| smiles = FC(F)(F)c2c(cc1c(NCNS1(=O)=O)c2)S(=O)(=O)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C8H8F3N3O4S2/c9-8(10,11)4-1-5-7(2-6(4)19(12,15)16)20(17,18)14-3-13-5/h1-2,13-14H,3H2,(H2,12,15,16)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = DMDGGSIALPNSEE-UHFFFAOYSA-N
+}}
+
+'''Hydroflumethiazide''' (or '''Saluron''') is a [[diuretic]].
+== Synthesis ==
+[[File:Hydroflumethiazide synthesis.svg|thumb|center|700px|Hydroflumethiazide synthesis:<ref>{{Cite journal | doi = 10.1021/ja01527a015| title = Synthesis of Trifluoromethylated Compounds Possessing Diuretic Activity1| journal = Journal of the American Chemical Society| volume = 81| issue = 18| pages = 4807| year = 1959| last1 = Holdrege | first1 = C. T. | last2 = Babel | first2 = R. B. | last3 = Cheney | first3 = L. C. }}</ref><ref>{{Cite journal | doi = 10.1021/ja01490a028| title = Synthesis of Potential Diuretic Agents. I. Derivatives of 7-Sulfamyl-3,4-dihydro-1,2,4-benzothiadiazine 1,1-Dioxide| journal = Journal of the American Chemical Society| volume = 82| issue = 5| pages = 1132| year = 1960| last1 = Close | first1 = W. J.| last2 = Swett | first2 = L. R. | last3 = Brady | first3 = L. E. | last4 = Short | first4 = J. H. | last5 = Vernsten | first5 = M. }}</ref><ref>{{Cite journal | doi = 10.1021/jo01076a028| title = Diuretics: 1,2,4-Benzothiadiazine-1,1-dioxides| journal = The Journal of Organic Chemistry| volume = 25| issue = 6| pages = 970| year = 1960| last1 = Novello | first1 = F. C. | last2 = Bell | first2 = S. C. | last3 = Abrams | first3 = E. L. A. | last4 = Ziegler | first4 = C. | last5 = Sprague | first5 = J. M. }}</ref> Numerous patents, e.g., Lund et al., {{US patent|3254076}} (1966 to [[LEO Pharma|Lövens Kemiske Fabrik]]).]]
+== See also ==
+*[[Bendroflumethiazide]]
+
+== References ==
+{{Reflist|2}}
+
+{{Symporter inhibitors}}
+{{Diuretics}}
+
+[[Category:Diuretics]]
+[[Category:Sulfonamides]]
+[[Category:Benzothiadiazines]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Carbonic anhydrase inhibitors]]
+
+
+{{cardiovascular-drug-stub}}

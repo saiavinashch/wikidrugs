@@ -1,0 +1,113 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 459588162
+| IUPAC_name = (5α)-17-(cyclopropylmethyl)-3,14-dihydroxy-17-methyl-4,5-epoxymorphinanium-17-ium-6-one
+| image = Methylnaltrexone.svg
+| width = 200
+
+<!--Clinical data-->
+| tradename =  Relistor
+| Drugs.com = {{drugs.com|monograph|methylnaltrexone-bromide}}
+| MedlinePlus = a608052
+| licence_EU = Relistor
+| licence_US = Methylnaltrexone
+| pregnancy_AU = B1
+| pregnancy_US = B
+| pregnancy_category =  
+| legal_AU = S4
+| legal_CA = Schedule VI
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = Oral, intravenous, subcutaneous
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 11-15.3%
+| metabolism = Hepatic
+| elimination_half-life = 8 hours
+| excretion = Urine (50%), faeces (50%)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7563
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 83387-25-1
+| ATC_prefix = A06
+| ATC_suffix = AH01
+| PubChem = 5361918
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank =DB06800  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4514884
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0RK7M7IABE
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1186579
+
+<!--Chemical data-->
+| C=21 | H=26 | N=1 | O=4 
+| molecular_weight = 356.44 g/mol
+| smiles = O=C6[C@@H]3Oc1c2c(ccc1O)C[C@@H]4[C@@](O)([C@@]23CC[N+]4(C)CC5CC5)CC6
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H25NO4/c1-22(11-12-2-3-12)9-8-20-17-13-4-5-14(23)18(17)26-19(20)15(24)6-7-21(20,25)16(22)10-13/h4-5,12,16,19,25H,2-3,6-11H2,1H3/p+1/t16-,19+,20+,21-,22?/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = JVLBPIPGETUEET-GAAHOAFPSA-O
+| synonyms = MNTX, naltrexone-methyl-bromide
+}}
+
+'''Methylnaltrexone''' ('''MNTX''', brand name '''Relistor'''), used in form of '''methylnaltrexone bromide''' ([[International Nonproprietary Name|INN]], [[United States Adopted Name|USAN]], [[British Approved Name|BAN]]), is one of the newer agents of peripherally acting [[Mu opioid receptor|μ-opioid]] [[Receptor antagonist|antagonists]] that act to reverse some of the side effects of [[opioid]] drugs such as [[constipation]] without affecting [[analgesia]] or precipitating [[Drug withdrawal|withdrawal]]s. Because MNTX is a [[quaternary ammonium cation]], it cannot cross the [[blood–brain barrier]], and so has antagonist effects throughout the body, counteracting effects such as [[itching]] and constipation, but without affecting opioid effects in the brain such as analgesia.<ref name="npsradar">{{cite web |url=http://www.nps.org.au/health_professionals/publications/nps_radar/2010/march_2010/methylnaltrexone |title=Methylnaltrexone injections (Relistor) for opioid-induced constipation in palliative care |author=National Prescribing Service |date=1 March 2010 |accessdate=12 March 2010}}</ref> However, since a significant fraction (up to 60%) of opioid analgesia can be mediated by opioid receptors on peripheral sensory neurons, particularly in inflammatory conditions such as arthritis, traumatic or surgical pain,<ref name="Stein C, Lang LJ (2009)">Stein C, Lang LJ (2009) Peripheral mechanisms of opioid analgesia. Curr Opin Pharmacol 9(1): 3-8. {{doi|10.1016/j.coph.2008.12.009}}.</ref> MNTX may increase pain under such circumstances.
+
+==Medical uses==
+Methylnaltrexone is approved for the treatment of [[opioid-induced constipation]] (OIC). It is generally only to be used when ordinary [[laxatives]] have failed.
+
+==Mechanism of action==
+Methylnaltrexone binds to the same receptors as opioid analgesics such as morphine, but it acts as an antagonist, blocking the effects of those analgesics, specifically the constipating effects on the gastrointestinal tract. Furthermore, as methylnaltrexone cannot cross the blood–brain barrier, it does not reverse the pain-killing properties of opioid agonists or cause withdrawal symptoms. Methylnaltrexone is unable to enter the brain primarily because it carries a positive charge on its nitrogen atom. This is the primary difference that makes methylnaltrexone behave differently from [[naltrexone]].<ref name="FDALabel">{{cite web |url=http://www.wyeth.com/content/showlabeling.asp?id=499 |title=Relistor Full Prescribing Information|accessdate=2009-05-09|format=|work=}}</ref>
+
+== History ==
+{{refimprove section|date=May 2010}}
+In 1978 a colleague presented Leon Goldberg with a clinical challenge. One of his patients, struggling with the pain of prostatic cancer that had metastasized to his bones, was now declining the morphine he required for analgesia because of constipation. Research on opioids which would target only the sub-types of receptors associated with pain relief and not with side effects had seen little success outside of in-vitro models. Considering drugs such as [[loperamide]], which acted on the opioid receptors in the gut without acting on the central nervous system, Goldberg proposed a targeted opioid receptor antagonist.
+
+Thousands of opioid-like molecules had been synthesized by pharmaceutical companies looking for the better analgesic - and many of those with no pain relieving properties had been shelved. Screening these compounds led to the examination of putative antagonists which when modified had properties that suggested they might not readily cross the blood–brain barrier based on their size and charge. One of these compounds, N-methyl-naltrexone (MNTX), was amongst a group of compounds synthesized by Boehringer Ingelheim.<ref>{{cite patent|country=US|number=3101339|status=patent|title=Quaternary salts of normorphine and its acylated derivatives|gdate=1963-08-20|fdate=1959-10-26|pridate=1958-10-30|inventor=Karl Zeile and Kurt Freter|invent1=Zeile, Karl|invent2=Freter, Kurt|assign1=C. H. Boehringer Sohn. About Karl Zeile: born 1905. ''Untersuchungen über häminhaltige Fermente'', habilitation treatise, [[Technische Hochschule]], Munich 1933; In 1933 also [[SS]]-Member; 1937 [[NSDAP]]-Member; ao. (i.e. extra-ordinary) Professor in Göttingen; 1938 Delegate of [[NS-Dozentenbund]]; 1942 Prof. [[Organic Chemistry]] and [[biochemistry]] at [[Reichsuniversität Straßburg]], and military research; after WW II deputy of Science-Dptm at Chemische Fabrik C. H. [[Boehringer Ingelheim]]}}</ref> The compound looked promising and passed initial screening in which rodents were given opioids along with charcoal meals to track GI transit, and were tested for analgesia.<ref>{{cite patent|country=US|number=4176186|status=patent|title=Quaternary derivatives of noroxymorphone which relieve intestinal immobility|gdate=1979-11-27|fdate=1978-07-28|inventor=Leon Goldberg, Herbert Merz and Klaus Stockhaus|invent1=Goldberg, Leon|invent2=Merz, Herbert|invent3=Stockhaus, Klaus|assign1=Boehringer Ingelheim}}</ref> In a 1982 paper by Russell et al., it was first reported that the GI effects of the opioids could be prevented without affecting centrally mediated analgesia in this model.<ref>{{cite journal|last=Russell|first=J|author2=Bass, P |author3=Goldberg, LI |author4=Schuster, CR |author5= Merz, H |title=Antagonism of gut, but not central effects of morphine with quaternary narcotic antagonists|journal=[[European Journal of Pharmacology]]|date=1982-03-12|volume=78|issue=3|pages=255–261|pmid=7200037|doi=10.1016/0014-2999(82)90026-7}}</ref> Subsequent preclinical studies also demonstrated this separation of central and peripherally mediated opioid effects for other smooth muscles of the GI tract and the cough reflex.<ref>{{cite journal|last=Yuan|first=CS|author2=Foss, JF |author3= Moss, J |title=Effects of methylnaltrexone on morphine-induced inhibition of contraction in isolated guinea-pig ileum and human intestine|journal=[[European Journal of Pharmacology]]|date=1995-03-24|volume=276|issue=1–2|pages=107–111|pmid=7781680|doi=10.1016/0014-2999(95)00018-G}}</ref><ref>{{cite journal|last=Foss|first=JF|author2=Orelind, E |author3= Goldberg, LI |title=Effects of methylnaltrexone on morphine-induced cough suppression in guinea pigs|journal=[[Life Sciences (journal)|Life Sciences]]|year=1996|volume=59|issue=15|pages=PL235–8|pmid=8845013|doi=10.1016/0024-3205(96)00451-1}}</ref> Interest also developed in the potential for MNTX to act at the chemoreceptor trigger zone and block the emetic effect of opioids. This blockade of opioid-induced emesis was demonstrated in a canine model.<ref>{{cite journal|last=Foss|first=JF|author2=Bass, AS |author3= Goldberg, LI |title=Dose-related antagonism of the emetic effect of morphine by methylnaltrexone in dogs|journal=[[Journal of Clinical Pharmacology]]|date=August 1993|volume=33|issue=8|pages=747–751|pmid=8408737|doi=10.1002/j.1552-4604.1993.tb05618.x}}</ref><ref>{{ cite patent
+|country=US|number=4719215|status=patent|title=Quaternary derivatives of noroxymorphone which relieve nausea and emesis|gdate=1988-01-12|fdate=1986-03-07|inventor=Leon I. Goldberg|invent1=Goldberg, Leon I|assign1=University of Chicago}}</ref> Goldberg died before he could see the core of this idea come into clinical practice.
+
+Research on methylnaltrexone continued in the Department of Anesthesiology and Critical Care at the University of Chicago through the 1990s. More recent investigations, however, discovered opioid receptors on peripheral sensory neurons.<ref name="Stein C, Schäfer M, Machelska H (2003)">Stein C, Schäfer M, Machelska H (2003) Attacking pain at its source: new perspectives on opioids. Nature Med;9(8):1003-1008. {{doi|10.1038/nm908}}.</ref> Since inflammatory pain is blunted by endogenous opioid peptides activating such peripheral opioid receptors,<ref name="Busch-Dienstfertig M, Stein C (2010)">Busch-Dienstfertig M, Stein C (2010) Opioid receptors and opioid peptide-producing leukocytes in inflammatory pain-basic and therapeutic aspects. Brain Behav Immun. 24(5):683-694. {{doi|10.1016/j.bbi.2009.10.013}}.</ref> MNTX may increase pain under such circumstances.
+
+In December 2005, [[Wyeth]] and Progenics entered into an exclusive, worldwide agreement for the joint development and commercialization of methylnaltrexone for the treatment of opioid-induced side effects, including constipation and post-operative [[ileus]] (POI), a prolonged dysfunction of the gastrointestinal tract following surgery. Under the terms of the agreement, the companies are collaborating on worldwide development. Wyeth received worldwide rights to commercialize methylnaltrexone, and Progenics retained an option to co-promote the product in the United States. Wyeth will pay Progenics royalties on worldwide sales and co-promotion fees within the United States.
+
+Methylnaltrexone is being developed in subcutaneous and oral forms to treat opioid induced constipation (OIC).
+
+The use of methylnaltrexone (Relistor) for more than 4 months has not been studied.<ref>{{cite web|url=http://www.wyeth.com/hcp/relistor/information-14 |title=Relistor Dosage and Administration |publisher=Wyeth |accessdate=2010-08-12}}</ref>
+
+==Society and culture==
+
+===Approval===
+On April 1, 2008, Progenics and Wyeth announced that Health Canada has approved methylnaltrexone for the treatment of opioid induced constipation.<ref>{{cite web |url=http://www.wyeth.com/news?nav=display&navTo=/wyeth_html/home/news/pressreleases/2008/1207054025120.html |title=Wyeth press release - Wyeth and Progenics Announce Relistor Receives Canadian Marketing Approval |accessdate=2008-04-01 |work= }}</ref>
+It was later approved by the US FDA on April 24, 2008.<ref>{{cite web |url=http://www.wyeth.com/news?nav=display&navTo=/wyeth_html/home/news/pressreleases/2008/1209080590441.html |title=Wyeth press release - Progenics and Wyeth Announce FDA has Approved Relistor |accessdate=2008-04-27 |work= }}</ref><ref>{{cite web |url=http://www.fda.gov/bbs/topics/NEWS/2008/NEW01826.html |title=FDA Approves Relistor for Opioid-Induced Constipation |accessdate=2009-05-09 |work= }}</ref>
+===Forms===
+As of 2010, methylnaltrexone is supplied as an injection in trays containing seven one dose vials containing 0.6 mL of solution. Each tray also contains seven {{convert|12|mm|in|adj=on|abbr=on}} 1 mL 27 gauge needles with retractable tips, and alcohol wipes for home use. A single vial can treat someone who weighs as much as {{convert|115|kg|lb}}.<ref name="FDALabel" />  For hospital use, vials are available separately.
+
+==See also==
+* [[Loperamide]] - an Mu-opioid receptor ''agonist'' that doesn't cross the BBB in significant amounts, and treats diarrhea (in contrast to methynaltrexone, a Mu-opioid receptor ''antagonist'' that doesn't cross the BBB, avoiding opiate withdrawal effects in patients, while treating constipation)
+* [[(+)-Naloxone]] - a non-opioid drug which also reduces some side effects of opioids without significantly affecting analgesia when used in small oral doses
+* [[6β-Naltrexol]] (6α-hydroxynaltrexone) - another naltrexone derivative that is also a peripherally selective opioid antagonist
+
+==References==
+{{Reflist|2}}
+
+* {{cite journal | author=Holzer P | title=Treatment of opioid-induced gut dysfunction | journal=Expert Opin Investig Drugs | year=2007 | pages=181–94 | volume=16 | issue=2 | pmid=17243938 | doi=10.1517/13543784.16.2.181}}
+* {{cite journal |author=Yuan CS and Foss JF | title=Oral Methylnaltrexone for Opioid-Induced Constipation | journal=JAMA | year=2000 | issue=11 | pages=1383–1384 | pmid=10989399 | doi=10.1001/jama.284.11.1383 |volume=284}}
+
+
+{{Laxatives}}
+{{Opioidergics}}
+
+[[Category:Alcohols]]
+[[Category:Cyclopropanes]]
+[[Category:Kappa antagonists]]
+[[Category:Ketones]]
+[[Category:Morphinans]]
+[[Category:Phenols]]
+[[Category:Opioid antagonists]]
+[[Category:Peripherally selective drugs]]
+[[Category:Quaternary ammonium compounds]]
+[[Category:Semisynthetic opioids]]

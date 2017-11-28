@@ -1,0 +1,77 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464392196
+| IUPAC_name = 7-[(4''S'')-4-Amino-6-azaspiro[2.4]heptan-6-yl]-8-chloro-6-fluoro-1-[(2''S'')-2-fluorocyclopropyl]-4-oxoquinoline-3-carboxylic acid
+| image = sitafloxacin.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 127254-12-0
+| ATC_prefix = J01
+| ATC_suffix = MA21
+| ATC_supplemental =  
+| PubChem = 461399
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 405945
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 3GJC60U4Q8
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 108821
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D02475
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=19 | H=18 | Cl=1 | F=2 | N=3 | O=3 
+| molecular_weight = 409.81
+| smiles = F[C@H]5C[C@H]5N2/C=C(/C(=O)O)C(=O)c1cc(F)c(c(Cl)c12)N4C[C@@H](N)C3(CC3)C4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H18ClF2N3O3/c20-14-15-8(17(26)9(18(27)28)5-25(15)12-4-10(12)21)3-11(22)16(14)24-6-13(23)19(7-24)1-2-19/h3,5,10,12-13H,1-2,4,6-7,23H2,(H,27,28)/t10-,12+,13+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = PNUZDKCDAWUEGK-CYZMBNFOSA-N
+}}
+
+'''Sitafloxacin''' ([[International Nonproprietary Name|INN]]; also called '''DU-6859a''') is a [[fluoroquinolone]] antibiotic<ref>{{Cite journal | last1 = Anderson | first1 = DL. | title = Sitafloxacin hydrate for bacterial infections. | journal = Drugs Today (Barc) | volume = 44 | issue = 7 | pages = 489–501 |date=Jul 2008 | doi = 10.1358/dot.2008.44.7.1219561 | PMID = 18806900 }}</ref> that shows promise in the treatment of [[Buruli ulcer]]. The molecule was identified by [[Daiichi Sankyo Co.]], which brought [[ofloxacin]] and [[levofloxacin]] to the market.  Sitafloxacin is currently marketed in [[Japan]] by Daiichi Sankyo under the tradename '''Gracevit'''.
+
+==See also==
+*[[Quinolone antibiotic|Quinolone]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{cite journal |author=Keating GM |title=Sitafloxacin: in bacterial infections |journal=Drugs |volume=71 |issue=6 |pages=731–44 |date=April 2011 |pmid=21504249 |doi=10.2165/11207380-000000000-00000}}
+
+==External links==
+* {{ja icon}} [https://www.daiichisankyo.co.jp/med/contents/di/grv/pi/pdf/pi_grv_0806.pdf Gracevit グレースビット] (PDF) Daiichi Sankyo Co. January 2008.
+
+{{QuinoloneAntiBiotics}}
+
+{{antibiotic-stub}}
+
+[[Category:Fluoroquinolone antibiotics]]
+[[Category:Chloroarenes]]
+[[Category:Cyclopropanes]]
+[[Category:Organofluorides]]

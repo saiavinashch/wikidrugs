@@ -1,0 +1,155 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 456683223
+| IUPAC_name = Adamantan-1-amine
+| image = Amantadine.svg
+| width = 125
+| image2 = Amantadine ball-and-stick model.png
+| width2 = 175
+
+<!--Clinical data-->
+| tradename = Symmetrel
+| Drugs.com = {{drugs.com|monograph|amantadine-hydrochloride}}
+| MedlinePlus = a682064
+| pregnancy_AU = B3
+| pregnancy_US = C
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 86–90%<ref name = TGA>{{cite web|title=SYMMETREL® (amantadine hydrochloride)|work=TGA eBusiness Services|publisher=NOVARTIS Pharmaceuticals Australia Pty Limited|date=29 June 2011|accessdate=24 February 2014|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2010-PI-04197-3|format=PDF}}</ref>
+| protein_bound = 67%<ref name = TGA/>
+| metabolism = Minimal (mostly to acetyl metabolites)<ref name = TGA/>
+| elimination_half-life = 10–31 hours<ref name = TGA/>
+| excretion = Urine<ref name = TGA/>
+
+<!--Identifiers-->
+| IUPHAR_ligand = 4128
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 768-94-5
+| ATC_prefix = N04
+| ATC_suffix = BB01
+| PubChem = 2130
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00915
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2045
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = BF4C9Z1J53
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07441
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 2618
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 660
+
+<!--Chemical data-->
+| C=10 | H=17 | N=1
+| molecular_weight = 151.249 g/mol
+| smiles = NC13CC2CC(CC(C1)C2)C3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H17N/c11-10-4-7-1-8(5-10)3-9(2-7)6-10/h7-9H,1-6,11H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = DKNWSYNQZKUICI-UHFFFAOYSA-N
+| synonyms = 1-Adamantylamine
+}}
+
+'''Amantadine''' (trade name '''Symmetrel''', by [[Endo Pharmaceuticals]]) is a [[pharmaceutical drug|drug]] that has U.S. [[Food and Drug Administration]] approval for use both as an [[antiviral drug|antiviral]] and an [[antiparkinsonian]] drug. It is the [[organic compound]] '''1-adamantylamine''' or '''1-aminoadamantane''', meaning it consists of an [[adamantane]] backbone that has an [[amino]] group substituted at one of the four [[methyne]] positions. [[Rimantadine]] is a closely related derivative of adamantane with similar biological properties.
+
+Apart from medical uses, this compound is useful as a building block in organic synthesis, allowing the insertion of an [[adamantyl group]].
+
+According to the U.S. [[Centers for Disease Control and Prevention]] (CDC) 100% of seasonal [[Influenza A virus subtype H3N2|H3N2]] and [[2009 flu pandemic|2009 pandemic flu]] samples tested showed resistance to adamantanes, and amantadine is no longer recommended for treatment of [[influenza]] in the United States. Additionally, its effectiveness as an antiparkinsonian drug is undetermined, with a 2003 [[Cochrane Review]] concluding that there was insufficient evidence in support of or against its efficacy and safety.<ref name="Cochrane report">{{cite journal | doi = 10.1002/14651858.CD003468 | title = Amantadine in Parkinson's disease | journal = Cochrane Database of Systematic Reviews | year = 2003 | last1 = Crosby | first1 = Niall J | last2 = Deane | first2 = Katherine | last3 = Clarke | first3 = Carl E | editor1-last = Clarke | editor1-first = Carl E}}</ref>
+
+==Medical uses==
+
+===Parkinson's disease===
+Amantadine is used to treat [[Parkinsons disease]], as well as [[parkinsonism]] syndromes.<ref name=USlabel>{{Cite news|url=https://www.drugs.com/pro/amantadine.html|title=Amantadine – FDA prescribing information,|work=Drugs.com|access-date=2017-08-28|language=en-US}}</ref> A 2003 Cochrane review concluded evidence was inadequate to support the use of amantadine for Parkinson's disease.<ref name="Cochrane report"/>
+
+An extended release formulation is used to treat [[dyskinesia]], a side effect of [[levodopa]] which is taken by people who have Parkinsons.<ref name=USlabelExtended>{{cite web|title=Amantadine extended release capsules|url=https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/208944lbl.pdf|publisher=FDA|date=August 2017}} For label updates, see [https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=208944 FDA index page for NDA 208944]</ref>
+
+===Influenza===
+Amantadine is no longer recommended for treatment of influenza A infection. For the 2008/2009 flu season, the CDC found that 100% of seasonal H3N2 and 2009 pandemic flu samples tested have shown resistance to adamantanes.<ref name="cdc weekly report">[https://www.cdc.gov/flu/weekly/weeklyarchives2008-2009/weekly35.htm CDC weekly influenza report – week 35], cdc.gov</ref> The CDC issued an alert to doctors to prescribe the [[neuraminidase inhibitor]]s [[oseltamivir]] and [[zanamivir]] instead of amantadine and rimantadine for treatment of flu.<ref>{{cite web |url= https://www.cdc.gov/flu/han011406.htm|title= CDC Recommends against the Use of Amantadine and Rimantadine for the Treatment or Prophylaxis of Influenza in the United States during the 2005–06 Influenza Season|accessdate=2008-05-20|date= 2006-01-14|work= CDC Health Alert|publisher=[[Centers for Disease Control and Prevention]]| archiveurl= https://web.archive.org/web/20080503092840/http://www.cdc.gov/flu/han011406.htm| archivedate= 3 May 2008| deadurl= no}}</ref><ref name="JIDResistance">{{cite journal |last =Deyde |first =Varough M. |author2=Xu, Xiyan|author3=Bright, Rick A.|author4=Shaw, Michael|author5=Smith, Catherine B.|author6=Zhang, Ye|author7=Shu, Yuelong|author8=Gubareva, Larisa V.|author9=Cox, Nancy J.|author10= Klimov, Alexander I. |title =Surveillance of Resistance to Adamantanes among Influenza A(H3N2) and A(H1N1) Viruses Isolated Worldwide |journal =Journal of Infectious Diseases |volume =196 |issue =2 |pages =249–257 |year = 2007 |doi =10.1086/518936 |pmid =17570112 }}</ref> A 2014 Cochrane review did not find benefit for the prevention or treatment of influenza A.<ref>{{cite journal|last1=Alves Galvão|first1=MG|last2=Rocha Crispino Santos|first2=MA|last3=Alves da Cunha|first3=AJ|title=Amantadine and rimantadine for influenza A in children and the elderly.|journal=The Cochrane database of systematic reviews|date=21 November 2014|volume=11|pages=CD002745|pmid=25415374|doi=10.1002/14651858.CD002745.pub4}}</ref>
+
+===Fatigue in multiple sclerosis===
+
+Amantadine also seems to have moderate effects on [[multiple sclerosis]] (MS) related fatigue.<ref>{{cite journal | pmid = 20815187 | volume=33 | issue=8 | title=Fatigue in multiple sclerosis: mechanisms, evaluation, and treatment. | date=Aug 2010 | journal=Sleep | pages=1061–7 | pmc=2910465 | last1 = Braley | first1 = TJ | last2 = Chervin | first2 = RD}}</ref>
+
+==Adverse effects==
+Amantadine has been associated with several [[central nervous system]] (CNS) side effects, likely due to amantadine's [[dopaminergic]] and [[adrenergic]] activity, and to a lesser extent, its activity as an [[anticholinergic]]. CNS side effects include nervousness, anxiety, agitation, insomnia, difficulty in concentrating, and exacerbations of pre-existing seizure disorders and psychiatric symptoms in patients with [[schizophrenia]] or Parkinson's disease. The usefulness of amantadine as an anti-parkinsonian drug is somewhat limited by the need to screen patients for a history of seizures and psychiatric symptoms.
+
+Rare cases of severe skin rashes, such as [[Stevens-Johnson syndrome]],<ref>{{cite journal| first1= KC |last1= Singhal |first2= SZ| last2= Rahman| title= Stevens Johnson Syndrome Induced by Amantadine| work=Rational Drug Bulletin| year=2002| volume= 12| number= 1| page= 6}}</ref> and of [[suicidal ideation]] have also been reported in patients treated with amantadine.<ref name="EndoPharmRXInfo">{{cite journal 
+| publisher =[[Endo Pharmaceuticals]]
+| title =Symmetrel (Amantadine) Prescribing Information
+| date =May 2003
+| url =http://www.symmetrel.com/PDF/symmetrel_pack_insert.pdf
+| format =PDF
+| accessdate =2007-08-02}}</ref><ref>{{cite journal| pmid= 3791133| year= 1986| last1= Cook| first1= PE| last2= Dermer| first2= SW| last3= McGurk| first3= T| title=Fatal overdose with amantadine|volume=31|issue=8|pages=757–8|journal=Canadian Journal of Psychiatry}}</ref>
+
+[[Livedo reticularis]] is a possible side effect of amantadine use for Parkinson's disease.<ref>{{cite journal | pmc = 1796527 | pmid=5580722 | volume=2 | issue=5762 | title=Livedo reticularis during amantadine treatment |date=June 1971 | pages=627–8 | last1= Vollum |first1= DI| last2= Parkes |first2= JD| last3= Doyle| first3= D | journal=Br Med J | doi = 10.1136/bmj.2.5762.627}}</ref>
+
+==Mechanism of action==
+{{primary sources|section|date=June 2014}}
+
+===Influenza===
+The mechanisms for amantadine's antiviral and antiparkinsonian effects are unrelated. The mechanism of amantadine's antiviral activity involves interference with the viral protein, [[M2 protein|M2]], a [[ion channel|proton channel]].<ref name="pmid7688826">{{cite journal |vauthors=Wang C, Takeuchi K, Pinto LH, Lamb RA |title=Ion channel activity of influenza A virus M2 protein: characterization of the amantadine block |journal=Journal of Virology |volume=67 |issue=9 |pages=5585–94 |year=1993 |pmid=7688826 |pmc=237962}}</ref><ref name="pmid18669647">{{cite journal |vauthors=Jing X, Ma C, Ohigashi Y |title=Functional studies indicate amantadine binds to the pore of the influenza A virus M2 proton-selective ion channel |journal=Proc. Natl. Acad. Sci. U.S.A. |volume=105 |issue=31 |pages=10967–72 |year=2008|pmid=18669647 |pmc=2492755 |doi=10.1073/pnas.0804958105|display-authors=etal}}</ref> After entry of the virus into cells via [[endocytosis]], it is localized in acidic vacuoles; the M2 channel functions in transporting protons with the gradient from the vacuolar space into the interior of the virion. Acidification of the interior results in disassociation of ribonucleoproteins, and the initiation of viral replication. Amantadine and [[rimantadine]] function in a mechanistically identical fashion in entering the barrel of the tetrameric M2 channel, and blocking pore function (i.e., proton translocation). Resistance to the drug class is a consequence of mutations to the pore-lining residues of the channel, leading to the inability of the sterically bulky adamantane ring that both amantadine and rimantadine share, in entering in their usual way, into the channel.{{citation needed|date=June 2014}}
+
+Influenza B strains possess a structurally distinct M2 channels with channel-facing side chains that fully obstruct the channel vis-a-vis binding of adamantine-class channel inhibitors, while still allowing proton flow and channel function to occur; this constriction in the channels is responsible for the ineffectiveness of this drug and rimantadine towards all circulating Influenza B strains.
+
+===Parkinson's disease===
+Amantadine is a weak [[NMDA receptor antagonist|antagonist of the NMDA-type glutamate receptor]], [[Dopamine releasing agent|increases dopamine release]], and [[Dopamine reuptake inhibitor|blocks dopamine reuptake]].<ref name="Austria-Codex">{{cite book|title=Austria-Codex|editor=Jasek, W|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2007|edition=62nd|isbn=978-3-85200-181-4|page=3962|language=German}}</ref> Amantadine probably does not inhibit MAO enzyme.<ref>{{cite journal| url= http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0773.1971.tb00646.x/abstract | title= Further Studies on the Mode of Action of Amantadine| first1= U. |last1= Strömberg |first2= T. H. |last2= Svensson| date= November 1971|pages= 161–171| website= wiley.com| publisher= ''Acta Pharmacologica et Toxicologica'', Nordic Pharmacological Society| volume= 30|number= 3–4| doi= 10.1111/j.1600-0773.1971.tb00646.x}}</ref> Moreover, the mechanism of its antiparkinsonian effect is poorly understood.{{citation needed|date=June 2014}} The drug has many effects in the brain, including release of [[dopamine]] and [[norepinephrine]] from nerve endings. It appears to be a weak [[NMDA receptor antagonist]]<ref name="Kornhuber1991">{{cite journal| last1=Kornhuber | first1= J| last2= Bormann | first2= J| last3= Hübers | first3= M| last4= Rusche | first4= K| last5= Riederer | first5= P |year=1991| title=Effects of the 1-amino-adamantanes at the MK-801-binding site of the NMDA-receptor-gated ion channel: a human postmortem brain study| journal= Eur. J. Pharmacol. Mol. Pharmacol. Sect.|volume= 206| pages=297–300 | doi=10.1016/0922-4106(91)90113-v}}</ref><ref name="pmid15800186">{{cite journal |last1= Blanpied |first1= TA|last2=  Clarke |first2= RJ|last3= Johnson |first3= JW |title=Amantadine inhibits NMDA receptors by accelerating channel closure during channel block |journal=Journal of Neuroscience |volume=25 |issue=13 |pages=3312–22 |year=2005 |pmid=15800186 |doi=10.1523/JNEUROSCI.4262-04.2005}}</ref> as well as an [[anticholinergic]], specifically a [[Nicotinic receptor|nicotinic]] [[CHRNA7|alpha-7]] antagonist like the similar pharmaceutical [[memantine]].
+
+In 2004, it was discovered that amantadine and memantine bind to and act as [[agonist]]s of the [[sigma-1 receptor|σ<sub>1</sub> receptor]] (K<sub>i</sub> = 7.44 µM and 2.60 µM, respectively), and that activation of the σ<sub>1</sub> receptor is involved in the dopaminergic effects of amantadine at therapeutically relevant concentrations.<ref name="PeetersRomieu2004">{{cite journal|last1=Peeters|first1=Magali|last2=Romieu|first2=Pascal|last3=Maurice|first3=Tangui|last4=Su|first4=Tsung-Ping|last5=Maloteaux|first5=Jean-Marie|last6=Hermans|first6=Emmanuel|title=Involvement of the sigma1 receptor in the modulation of dopaminergic transmission by amantadine|journal=European Journal of Neuroscience|volume=19|issue=8|year=2004|pages=2212–2220|issn=0953-816X|doi=10.1111/j.0953-816X.2004.03297.x|pmid=15090047}}</ref> These findings may also extend to the other adamantanes such as [[adapromine]], rimantadine, and [[bromantane]], and could explain the psychostimulant-like effects of this family of compounds.<ref name="PeetersRomieu2004" />
+
+==History==
+Amantadine was approved by the U.S. Food and Drug Administration in October 1966 as a [[prophylaxis|prophylactic]] agent against Asian influenza, and eventually received approval for the treatment of [[influenzavirus A]]<ref>{{cite book| first1= David A. |last1= Hounshell |first2= John |last2= Kenly Smith| url= https://books.google.com/books?id=6ld0K9VNpmIC |title= Science and Corporate Strategy: Du Pont R&D, 1902–1980| year= 1988| publisher= Cambridge University Press| page= 469}}</ref><ref>{{cite news| url= https://query.nytimes.com/gst/fullpage.html?sec=health&res=9C02E0D71F38F936A35753C1A964948260 |title= Sales of flu drug by du Pont unit a 'disappointment'| accessdate= May 19, 2008| date= October 5, 1982| work= [[The New York Times]]| location= Wilmington, Delaware}}</ref><ref>{{cite journal| doi=10.1126/science.386515|title=Panel urges wide use of antiviral drug| year= 1979| last1= Maugh| first1= T.| journal= Science| volume= 206| pages= 1058–60|pmid=386515|issue=4422}}</ref><ref>{{cite journal| doi= 10.1126/science.192.4235.130| title= Amantadine: an Alternative for Prevention of Influenza|year=1976|last1=Maugh|first1=T. H.|journal=Science|volume=192|pages=130–1| pmid= 17792438| issue= 4235}}</ref> in adults. In 1969, the drug was also discovered by accident upon trying to help reduce symptoms of Parkinson's disease, drug-induced [[extrapyramidal symptoms|extrapyramidal syndromes]], and [[akathisia]].
+
+In 2017, the [[Food and Drug Administration|U.S. Food and Drug Administration]] approved the use of amantadine in an extended release formulation developed by Adamas Pharma for the treatment of dyskinesia, an adverse effect of [[levodopa]], that people with Parkinson's experience.<ref name=FDA2017>{{Cite web|url=https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2017/208944orig1s000ltr.pdf|title=NDA 208944 Approval Letter|last=Bastings|first=Eric|website=|archive-url=|archive-date=|dead-url=|access-date=}}</ref>
+
+==Veterinary misuse==
+In 2005, Chinese poultry farmers were reported to have used amantadine to protect birds against [[avian influenza]].<ref name="WashPostBirdFlu">{{cite news
+| last =Sipress
+| first =Alan
+| title =Bird Flu Drug Rendered Useless
+| pages =A01
+| work=[[Washington Post]]
+| date =2005-06-18
+| url =https://www.washingtonpost.com/wp-dyn/content/article/2005/06/17/AR2005061701214.html
+| accessdate =2007-08-02}}</ref> In Western countries and according to international livestock regulations, amantadine is approved only for use in humans. Chickens in China have received an estimated 2.6 billion doses of amantadine.<ref name="WashPostBirdFlu"/> Avian flu ([[H5N1]]) strains in China and southeast Asia are now resistant to amantadine, although strains circulating elsewhere still seem to be sensitive. If amantadine-resistant strains of the virus spread, the drugs of choice in an avian flu outbreak will probably be restricted to the scarcer and costlier [[oseltamivir]] and [[zanamivir]], which work by a different mechanism and are less likely to trigger resistance.
+
+On September 23, 2015, the US Food and Drug Administration announced the recall of Dingo Chip Twists "Chicken in the Middle" dog treats because the product has the potential to be contaminated with amantadine.<ref name="LoC">{{cite web| url= http://www.accessdata.fda.gov/scripts/enforcement/enforce_rpt-Product-Tabs.cfm?action=select&recall_number=V-261-2015&w=09232015&lang=eng | website= FDA.gov| title= Enforcement Report – Week of September 23, 2015|publisher= US Food and Drug Administration, US Department of Health & Human Services}}</ref>
+
+==See also==
+* [[Tromantadine]]
+
+==References==
+{{reflist|30em}}
+
+{{Antiparkinson}}
+{{Influenza}}
+{{RNA antivirals}}
+{{Stimulants}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Ionotropic glutamate receptor modulators}}
+{{Monoamine reuptake inhibitors}}
+{{Nicotinic acetylcholine receptor modulators}}
+{{Sigma receptor modulators}}
+}}
+
+[[Category:Adamantanes]]
+[[Category:Amines]]
+[[Category:Anti-influenza agents]]
+[[Category:Anti-RNA virus drugs]]
+[[Category:Antiparkinsonian agents]]
+[[Category:Dopamine reuptake inhibitors]]
+[[Category:Nicotinic antagonists]]
+[[Category:NMDA receptor antagonists]]
+[[Category:Sigma agonists]]
+[[Category:Suspected embryotoxins]]
+[[Category:Suspected teratogens]]
+[[Category:Proton channel blockers]]

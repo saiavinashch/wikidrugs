@@ -1,0 +1,78 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 460036937
+| ImageFile = Cilengitide.svg
+| ImageSize = 300px
+| IUPACName = 2-[(2''S'',5''R'',8''S'',11''S'')-5-benzyl-11-{3-[(diaminomethylidene)amino]propyl}-7-methyl-3,6,9,12,15-pentaoxo-8-(propan-2-yl)-1,4,7,10,13-pentaazacyclopentadecan-2-yl]acetic acid
+| OtherNames = 
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 4EDF46E4GI
+| IUPHAR_ligand = 6597
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 154046
+| InChI = 1/C27H40N8O7/c1-15(2)22-25(41)33-17(10-7-11-30-27(28)29)23(39)31-14-20(36)32-18(13-21(37)38)24(40)34-19(26(42)35(22)3)12-16-8-5-4-6-9-16/h4-6,8-9,15,17-19,22H,7,10-14H2,1-3H3,(H,31,39)(H,32,36)(H,33,41)(H,34,40)(H,37,38)(H4,28,29,30)/t17-,18-,19+,22-/m0/s1
+| InChIKey = AMLYAMJWYAIXIA-VWNVYAMZBF
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C27H40N8O7/c1-15(2)22-25(41)33-17(10-7-11-30-27(28)29)23(39)31-14-20(36)32-18(13-21(37)38)24(40)34-19(26(42)35(22)3)12-16-8-5-4-6-9-16/h4-6,8-9,15,17-19,22H,7,10-14H2,1-3H3,(H,31,39)(H,32,36)(H,33,41)(H,34,40)(H,37,38)(H4,28,29,30)/t17-,18-,19+,22-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = AMLYAMJWYAIXIA-VWNVYAMZSA-N
+| CASNo_Ref = {{cascite|changed|??}}
+| CASNo = 188968-51-6
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 429876
+| PubChem = 176873
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03497
+| SMILES = O=C1N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@@H](C(=O)N(C)[C@H]1C(C)C)Cc2ccccc2)CC(=O)O)CCC/N=C(\N)N
+| MeSHName = Cilengitide
+  }}
+|Section2={{Chembox Properties
+| C=27 | H=40 | N=8 | O=7 
+| MolarMass = 588.656 g/mol
+| Appearance = 
+| Density = 1.417 g/mL
+| MeltingPt = 
+| BoilingPt = 
+  }}
+|Section3={{Chembox Hazards
+| MainHazards = 
+| FlashPt = 
+| AutoignitionPt = 
+  }}
+}}
+'''Cilengitide''' (EMD 121974) is a molecule designed and synthesized at the [[Technical University Munich]] in collaboration with [[Merck KGaA]] in [[Darmstadt]]. It is based on the cyclic [[peptide]] cyclo(-RGDfV-), which is selective for [[αv integrins|α<sub>v</sub> integrins]], which are important in [[angiogenesis]] (forming new blood vessels), and other aspects of tumor biology. Hence, it is under investigation for the treatment of [[glioblastoma]], where it may act by inhibiting angiogenesis, and influencing tumor invasion and proliferation.<ref>{{cite journal |vauthors=Burke P, DeNardo S, Miers L, Lamborn K, Matzku S, DeNardo G |title=Cilengitide targeting of α<sub>v</sub>β<sub>3</sub> integrin receptor synergizes with radioimmunotherapy to increase efficacy and apoptosis in breast cancer xenografts |journal=Cancer Res |volume=62 |issue=15 |pages=4263–72 |year=2002 |pmid=12154028}}</ref><ref>{{cite journal |author=Goodman Simon L. |author2=Hoelzemann Guenter |author3=Sulyok Gabor A. G. |author4=Kessler Horst |title=Nanomolar Small Molecule Inhibitors for α<sub>v</sub>β<sub>6</sub>, α<sub>v</sub>β<sub>5</sub>, and α<sub>v</sub>β<sub>3</sub> Integrins |journal=Journal of Medicinal Chemistry |volume=45 |issue=5 |pages=1045–51 |year=2002 |pmid=11855984 |doi=10.1021/jm0102598}}</ref>
+
+The [[European Medicines Agency]] has granted cilengitide [[orphan drug]] status.<ref>{{cite journal
+ | author = H. Spreitzer
+ | date = October 27, 2008
+ | title = Neue Wirkstoffe - Cilengitide
+ | journal = Österreichische Apothekerzeitung
+ | issue = 22/2008
+ | pages = 1136–7
+ | language = German
+ }}</ref>
+
+Cilengitide seems to function by inhibiting the [[Focal Adhesion Kinase|FAK]]/[[c-Src|src]]/[[AKT]] pathway and inducing apoptosis in endothelial cells.<ref name=Yamada2006>Yamada S, Bu XY, Khankaldyyan V, Gonzales-Gomez I, McComb JG, Laug WE: Effect of the angiogenesis inhibitor Cilengitide (EMD 121974) on glioblastoma growth in nude mice. ''Neurosurgery'' 2006, 59(6):1304-1312; discussion 1312. {{PMID|19114005}}</ref> Preclinical studies in mice of cilengitide were able to demonstrate efficacious tumor regression.<ref name=Yamada2006/>
+
+In a rat xenograft model, cilengitide was able to potentiate the cytotoxic effects of radiation when cilengitide was administered prior to radiation therapy.<ref name=Mikkelsen2009>Mikkelsen T, Brodie C, Finniss S, Berens ME, Rennert JL, Nelson K, Lemke N, Brown SL, Hahn D, Neuteboom B et al: Radiation sensitization of glioblastoma by cilengitide has unanticipated schedule-dependency. ''Int J Cancer'' 2009, 124(11):2719-2727. {{PMID|19199360}}</ref> When combined with radiation, inhibition of integrin expression by cilengitide synergistically improves the cytotoxic effects of ionizing radiation for glioblastoma.<ref name=Mikkelsen2009/>
+
+==Clinical trials==
+Phase II studies were able to demonstrate that cilengitide as a potential monotherapy in patients with recurrent glioblastoma <ref>Reardon DA, Fink KL, Mikkelsen T, Cloughesy TF, O'Neill A, Plotkin S, Glantz M, Ravin P, Raizer JJ, Rich KM et al: Randomized phase II study of cilengitide, an integrin-targeting arginine-glycine-aspartic acid peptide, in recurrent glioblastoma multiforme. ''J Clin Oncol'' 2008, 26(34):5610-5617.{{PMID|18981465}}</ref> 
+with high intratumor drug levels when 2000&nbsp;mg of cilengitide is given twice weekly.<ref>Gilbert MR, Kuhn J, Lamborn KR, Lieberman F, Wen PY, Mehta M, Cloughesy T, Lassman AB, Deangelis LM, Chang S et al: Cilengitide in patients with recurrent glioblastoma: the results of NABTC 03-02, a phase II trial with measures of treatment delivery. J Neurooncol 2012, 106(1):147-153. {{PMID|21739168}}</ref>
+
+Cilengitide is well tolerated, in combination with radiation and temozolomide, at a dose of 2000&nbsp;mg in patients with newly diagnosed glioblastoma, regardless of [[MGMT promoter]] status.<ref>Nabors LB, Mikkelsen T, Hegi ME, Ye X, Batchelor T, Lesser G, Peereboom D, Rosenfeld MR, Olsen J, Brem S et al: A safety run-in and randomized phase 2 study of cilengitide combined with chemoradiation for newly diagnosed glioblastoma (NABTT 0306). ''Cancer'' 2012, 118(22):5601-5607. {{PMID|22517399}}</ref> 
+In a phase I/IIa study, the addition of cilengitide to the standard of care for newly diagnosed glioblastoma (surgical resection followed by temozolomide and radiation therapy) improves progression-free survival and overall survival in patients with MGMT promoter methylation.<ref>Stupp R, Hegi ME, Neyns B, Goldbrunner R, Schlegel U, Clement PM, Grabenbauer GG, Ochsenbein AF, Simon M, Dietrich PY et al: Phase I/IIa study of cilengitide and temozolomide with concomitant radiotherapy followed by cilengitide and temozolomide maintenance therapy in patients with newly diagnosed glioblastoma. ''J Clin Oncol'' 2010, 28(16):2712-2718. {{PMID|20439646}}</ref>
+
+However, in a subsequent study, cilengitide does not seem to alter the pattern of glioblastoma progression,<ref>Eisele G, Wick A, Eisele AC, Clement PM, Tonn J, Tabatabai G, Ochsenbein A, Schlegel U, Neyns B, Krex D et al: Cilengitide treatment of newly diagnosed glioblastoma patients does not alter patterns of progression. J Neurooncol 2014, 117(1):141-145. {{PMID|24442484}}</ref> 
+and in an EORTC phase III randomized, controlled, multicenter clinical trial, consisting of over 500 patients in 23 countries, the addition of cilengitide to the standard of care did not improve overall survival in patients with newly diagnosed glioblastoma and methylated MGMT promoter status <ref>Merck Group. [http://news.merck.de/N/0/BE2FE07AD630830EC1257B1D001F007B/$File/CENTRIC-E.pdf "Phase III Trial of Cilengitide Did Not Meet Primary Endpoint in Patients With Newly Diagnosed Glioblastoma, Date accessed: 3/24/2014."]</ref> A phase II study, the CORE trial, is currently being conducted in patients with newly diagnosed glioblastoma and unmethylated MGMT promoter status.<ref>ASCO Meeting Library. [http://meetinglibrary.asco.org/content/112780-132] "Cilengitide combined with standard treatment for patients with newly diagnosed glioblastoma and methylated O6-methylguanine-DNA methyltransferase (MGMT) gene promoter: Key results of the multicenter, randomized, open-label, controlled, phase III CENTRIC study, Date accessed: 3/24/2014."</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:Macrocycles]]
+[[Category:Peptides]]
+[[Category:Orphan drugs]]
+[[Category:Experimental cancer drugs]]
+[[Category:Cancer treatments]]

@@ -1,0 +1,93 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 408923737
+| IUPAC_name = 5-chloro-2-hydroxy-3-(2-thienylcarbonyl)-1''H''-indole-1-carboxamide
+| image = tenidap.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number =  
+| ATC_prefix = M01
+| ATC_suffix = AX23
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 9K7CJ74ONH
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D06072
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1097558
+|  PubChem = 60712
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 54717
+
+
+<!--Chemical data-->
+| C=14 | H=9 | Cl=1 | N=2 | O=3 | S=1 
+| molecular_weight = 320.75086 g/mol
+|  smiles = c1cc(sc1)C(=O)c2c3cc(ccc3n(c2O)C(=O)N)Cl
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C14H9ClN2O3S/c15-7-3-4-9-8(6-7)11(13(19)17(9)14(16)20)12(18)10-2-1-5-21-10/h1-6,19H,(H2,16,20)
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = IZSFDUMVCVVWKW-UHFFFAOYSA-N
+}}
+
+'''Tenidap''' was a [[COX]]/[[5-LOX]] inhibitor and [[cytokine]]-modulating [[anti-inflammatory]] drug candidate<ref>{{Cite journal 
+| doi = 10.1093/rheumatology/34.6.554 
+| last1 = Wylie | first1 = G. 
+| last2 = Appelboom | first2 = T. 
+| last3 = Bolten | first3 = W. 
+| last4 = Breedveld | first4 = F. C. 
+| last5 = Feely | first5 = J. 
+| last6 = Leeming | first6 = M. R. 
+| last7 = Le Loët | first7 = X. 
+| last8 = Manthorpe | first8 = R. 
+| last9 = Marcolongo | first9 = R. 
+| last10 = Smolen | first10 = J. 
+| title = A comparative study of tenidap, a cytokine-modulating anti-rheumatic drug, and diclofenac in rheumatoid arthritis: A 24-week analysis of a 1-year clinical trial 
+| journal = British journal of rheumatology 
+| volume = 34 
+| issue = 6 
+| pages = 554–563 
+| year = 1995 
+| pmid = 7543348
+}}</ref> that was under development by Pfizer as a promising potential treatment for [[rheumatoid arthritis]],<ref>Staff, American Journal of Nursing. [http://journals.lww.com/ajnonline/fulltext/1996/01000/tenidap_offers_arthritis_therapy_minus_toxicity.41.aspx  Drug Watch: Tenidap Offers Arthritis Therapy Minus Toxicity] AJN 1996 96(1):58</ref>  but Pfizer halted development after marketing approval was rejected by the FDA in 1996<ref>Pfizer. Sept 27, 1996 [http://www.thefreelibrary.com/Pfizer+To+Halt+Plans+For+Commercialization+Of+Tenidap+For+Rheumatoid...-a018716065 Press release: Pfizer To Halt Plans For Commercialization Of Tenidap For Rheumatoid Arthritis]</ref> due to liver and kidney toxicity, which was attributed to metabolites of the drug with a [[thiophene]] moiety that caused oxidative damage.<ref>Hwang SH et al. Rationally designed multitarget agents against inflammation and pain. Curr Med Chem. 2013;20(13):1783-99. {{PMID|23410172}} [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4113248/ PMC 4113248]</ref>
+
+==References==
+{{reflist}}
+
+{{Anti-inflammatory and antirheumatic products}}
+{{Prostanoidergics}}
+
+[[Category:Indoles]]
+[[Category:Thiophenes]]
+[[Category:Ureas]]
+[[Category:Nonsteroidal anti-inflammatory drugs]]
+[[Category:Chloroarenes]]
+[[Category:Aromatic ketones]]
+[[Category:Phenols]]
+[[Category:Carboxamides]]
+[[Category:Abandoned drugs]]
+[[Category:Pfizer products]]
+
+{{musculoskeletal-drug-stub}}

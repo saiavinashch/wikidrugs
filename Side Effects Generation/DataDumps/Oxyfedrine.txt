@@ -1,0 +1,85 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 444397365
+| IUPAC_name = (''RS'')-3-[(2-Hydroxy-1-methyl-2-phenylethyl)amino]-1-(3-methoxyphenyl)propan-1-one
+| image = Oxyfedrine.svg
+| width = 275
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|oxyfedrine}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| index_label =
+| index2_label =
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 15687-41-9
+| ATC_prefix = C01
+| ATC_suffix = DX03
+| PubChem = 27454
+| DrugBank = 
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = DWL616XF1K
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08321
+| PubChem2 = 5489013
+| ChemSpiderID = 4590049
+
+<!--Chemical data-->
+| C=19 | H=23 | N=1 | O=3 
+| molecular_weight = 313.39 g/mol
+| smiles = C[C@@H]([C@@H](c1ccccc1)O)NCCC(=O)c2cccc(c2)OC
+| StdInChI = 1S/C19H23NO3/c1-14(19(22)15-7-4-3-5-8-15)20-12-11-18(21)16-9-6-10-17(13-16)23-2/h3-10,13-14,19-20,22H,11-12H2,1-2H3/t14-,19-/m0/s1
+| StdInChIKey = GDYUVHBMFVMBAF-LIRRHRJNSA-N
+}}
+
+'''Oxyfedrine''' is a [[vasodilator]] and a [[Beta-adrenergic agonist|β adrenoreceptor agonist]]. It was found to depress the tonicity of coronary vessels, improve myocardial metabolism (so that heart can sustain hypoxia better) and also exert a positive chronotropic and inotropic effects, thereby not precipitating [[angina pectoris]]. The latter property (positive chronotropic and inotropic effects) is particularly important, because other vasodilators used in angina may be counter productive causing coronary steal phenomenon. 
+
+Synergistic effects with [[antibiotic]]s have been suggested.<ref name="pmid15802815">{{cite journal 
+ | title = In vitro and in vivo synergism between tetracycline and the cardiovascular agent oxyfedrine HCl against common bacterial strains
+ | journal = Biol. Pharm. Bull.
+ | volume = 28 
+ | issue = 4 
+ | pages = 713–7
+ | date = April 2005
+ | pmid = 15802815
+ | doi = 10.1248/bpb.28.713
+ | url = https://www.jstage.jst.go.jp/article/bpb/28/4/28_4_713/_article
+ | first = Kaushiki
+ | last = Mazumdar
+ | first2 = Noton Kumar
+ | last2 = Dutta
+ | first3 = Kuppusamy Asok
+ | last3 = Kumar
+ | first4 = Sujata Ghosh
+ | last4 = Dastidar
+}}</ref>
+
+==References==
+{{reflist}}
+
+{{Adrenergic agonists}}
+{{Vasodilators used in cardiac diseases}}
+
+[[Category:Vasodilators]]
+[[Category:Phenethylamines]]
+[[Category:Phenol ethers]]
+[[Category:Aromatic ketones]]
+
+{{cardiovascular-drug-stub}}

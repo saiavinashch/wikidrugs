@@ -1,0 +1,85 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 444445698
+| IUPAC_name = (''RS'')-9-Fluoro-8-(4-hydroxy-piperidin-1-yl)-5-methyl-1-oxo-6,7-dihydro-1''H'',5''H''-pyrido[3,2,1-ij]quinoline-2-carboxylic acid
+| image = Nadifloxacin-2D-skeletal.png
+| width = 200px
+| chirality = [[Racemic mixture]]
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|nadifloxacin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = topical (epicutaneous)
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 124858-35-1
+| ATC_prefix = D10
+| ATC_suffix =  AF05
+| ATC_supplemental =  
+| PubChem = 4410
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 6CL9Y5YZEQ
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 4257
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=19 | H=21 | F=1 | N=2 | O=4 
+| molecular_weight = 360.379 g/mol
+| smiles            = CC1CCC2=C3N1C=C(C(=O)C3=CC(=C2N4CCC(CC4)O)F)C(=O)O
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C19H21FN2O4/c1-10-2-3-12-16-13(18(24)14(19(25)26)9-22(10)16)8-15(20)17(12)21-6-4-11(23)5-7-21/h8-11,23H,2-7H2,1H3,(H,25,26)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = JYJTVFIEFKZWCJ-UHFFFAOYSA-N
+}}
+
+'''Nadifloxacin''' ([[International Nonproprietary Name|INN]], brand names '''Acuatim''', '''Nadiflox''', '''Nadoxin''', '''Nadixa''', '''activon''') is a topical [[fluoroquinolone]] [[antibiotic]] for the treatment of [[acne vulgaris]].<ref>{{cite journal |vauthors=Murata K, Tokura Y |title=[Anti-microbial therapies for acne vulgaris: anti-inflammatory actions of anti-microbial drugs and their effectiveness] |language=Japanese |journal=[[J. UOEH]] |volume=29 |issue=1 |pages=63–71 |date=March 2007 |pmid=17380730 |doi= |url= }}</ref>  It is also used to treat bacterial skin infections.
+
+==Pharmacology==
+
+===Antibacterial spectrum===
+In vitro studies of nadifloxacin showed potent and broad-spectrum antibacterial activity against aerobic [[Gram-positive]], [[Gram-negative]] and [[anaerobic bacteria]], including ''[[Propionibacterium acnes]]'' and ''[[Staphylococcus epidermidis]]''. Nadifloxacin showed potent antibacterial activity against [[methicillin-resistant Staphylococcus aureus|methicillin-resistant ''Staphylococcus aureus'']] (MRSA), which was similar to potency against [[methicillin-sensitive Staphylococcus aureus|methicillin-sensitive ''Staphylococcus aureus'']] (MSSA). The drug was also active against new quinolone-resistant MRSA. Nadifloxacin does not show cross-resistance with other new quinolones.
+
+===Mechanism of action===
+Nadifloxacin [[enzyme inhibition|inhibits]] the enzyme [[DNA gyrase]] that is involved in bacterial DNA synthesis and replication, thus inhibiting the bacterial multiplication.
+Nadifloxacin in addition to determine a therapeutic antibacterial action, can have a sebostatic and anti-inflammatory action, thus contributing to the improvement of the clinical condition of the patient.<ref name="pmid15795123">{{cite journal |vauthors=Kuwahara K, Kitazawa T, Kitagaki H, Tsukamoto T, Kikuchi M |title=Nadifloxacin, an antiacne quinolone antimicrobial, inhibits the production of proinflammatory cytokines by human peripheral blood mononuclear cells and normal human keratinocytes |journal=J. Dermatol. Sci. |volume=38 |issue=1 |pages=47–55 | date=April  2005 |pmid=15795123 |doi=10.1016/j.jdermsci.2005.01.002 |url= }}</ref><ref name="pmid21342170">{{cite journal |vauthors=Jung JY, Kwon HH, Yeom KB, Yoon MY, Suh DH |title=Clinical and histological evaluation of 1% nadifloxacin cream in the treatment of acne vulgaris in Korean patients |journal=Int. J. Dermatol. |volume=50 |issue=3 |pages=350–7 | date=March  2011 |pmid=21342170 |doi=10.1111/j.1365-4632.2010.04701.x |url= }}</ref><ref name="pmid17380730">{{cite journal |vauthors=Murata K, Tokura Y |title=[Anti-microbial therapies for acne vulgaris: anti-inflammatory actions of anti-microbial drugs and their effectiveness] |language=Japanese |journal=J. UOEH |volume=29 |issue=1 |pages=63–71 | date=March  2007 |pmid=17380730 |doi= |url= }}</ref>
+
+===Pharmacokinetics===
+Following  a single topical application of 10&nbsp;g nadifloxacin 1% cream to normal human back skin, the highest plasma concentration was determined to be 107&nbsp;ng/mL with an elimination [[half-life]] of 19.4 hours. Approximately 0.09% of the administered dose was excreted in the urine over 48 hours post- dosing. The plasma concentration reached a steady state on Day 5 of repeated administration study when nadifloxacin 1% cream was applied at 5&nbsp;g twice daily to normal healthy individuals for a period of 7 days. The plasma concentration reached a peak of 4.1&nbsp;ng/ml at 8 hours post-final dosing with an elimination half-life of 23.2 hours. The urinary excretion rate reached 0.16% on Day 7.
+
+== Clinical use ==
+In some European countries, the drug has been approved  for the treatment of acne vulgaris.<ref name="pmid16436342">{{cite journal |vauthors=Plewig G, Holland KT, Nenoff P |title=Clinical and bacteriological evaluation of nadifloxacin 1% cream in patients with acne vulgaris: a double-blind, phase III comparison study versus erythromycin 2% cream |journal=Eur J Dermatol |volume=16 |issue=1 |pages=48–55 |year=2006 |pmid=16436342 |doi= |url=http://www.john-libbey-eurotext.fr/medline.md?issn=1167-1122&vol=16&iss=1&page=48 |accessdate=2014-09-28}}</ref> In a 2013 multicenter, randomized clinical study with a total of 184 Japanese patients with moderate to severe acne, [[adapalene]] 0.1% gel plus nadifloxacin 1% cream (combination therapy) showed a significant efficacy in decrement of inflammatory papulopustular lesions.<ref name="pmid23724808">{{cite journal |vauthors=Takigawa M, Tokura Y, Shimada S, Furukawa F, Noguchi N, Ito T |title=Clinical and bacteriological evaluation of adapalene 0.1% gel plus nadifloxacin 1% cream versus adapalene 0.1% gel in patients with acne vulgaris |journal=J. Dermatol. |volume=40 |issue=8 |pages=620–5 | date=August  2013 |pmid=23724808 |doi=10.1111/1346-8138.12189 |url= }}</ref>
+Despite this it should be noted that in patients with skin lesions, topical application of nadifloxacin can result in plasma concentrations of 1 to 3&nbsp;ng/ml. Consequently, some authors argued that it should not be used to treat relatively harmless diseases like acne vulgaris, risking the development of quinolone [[antibiotic resistance|resistances]].<ref>{{cite book|last=Steinhilber|author2=Schubert-Zsilavecz, Roth|title=Medizinische Chemie: Targets und Arzneistoffe|publisher=WVG Stuttgart|year=2004}}</ref>
+
+== Adverse effects ==
+During the treatment some patients may develop some adverse effects predominantly of the skin and subcutaneous tissue: burning and [[itching]] (in absolute the most common side effect), [[contact dermatitis]], [[dryness (medical)|dryness]] and skin irritation.<ref name="pmid25212256">{{cite journal |vauthors=Narayanan V, Motlekar S, Kadhe G, Bhagat S |title=Efficacy and Safety of Nadifloxacin for Bacterial Skin Infections: Results from Clinical and Post-Marketing Studies |journal=Dermatol Ther (Heidelb) |volume= 4|issue= |pages= 233–48| date=September  2014 |pmid=25212256 |doi=10.1007/s13555-014-0062-1 |pmc=4257952}}</ref>
+
+==See also==
+*[[Quinolones]]
+
+==References==
+{{Reflist}}
+
+{{Antibiotics and chemotherapeutics for dermatological use}}
+{{QuinoloneAntiBiotics}}
+
+[[Category:Fluoroquinolone antibiotics]]
+[[Category:Piperidines]]

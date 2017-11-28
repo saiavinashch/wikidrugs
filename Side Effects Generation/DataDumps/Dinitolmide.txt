@@ -1,0 +1,80 @@
+{{chembox
+| Verifiedfields = changed
+| verifiedrevid = 470638079
+| ImageFile=Zoalene.png
+| ImageSize=150px
+| PIN = 2-Methyl-3,5-dinitrobenzamide
+| OtherNames = 3,5-Dinitro-''o''-toluamide<br />Zoalene
+|Section1={{Chembox Identifiers
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2982
+| InChI = 1/C8H7N3O5/c1-4-6(8(9)12)2-5(10(13)14)3-7(4)11(15)16/h2-3H,1H3,(H2,9,12)
+| InChIKey = ZEFNOZRLAWVAQF-UHFFFAOYAL
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 472565
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C8H7N3O5/c1-4-6(8(9)12)2-5(10(13)14)3-7(4)11(15)16/h2-3H,1H3,(H2,9,12)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ZEFNOZRLAWVAQF-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|changed|??}}
+| CASNo=148-01-6
+| PubChem=3092
+| SMILES = O=[N+]([O-])c1cc(cc(C(=O)N)c1C)[N+]([O-])=O
+}}
+|Section2={{Chembox Properties
+| Formula=C<sub>8</sub>H<sub>7</sub>N<sub>3</sub>O<sub>5</sub>
+| MolarMass=225.16 g/mol
+| Appearance=
+| Density=
+| MeltingPtF=351
+| MeltingPt_notes =<ref name=PGCH/>
+| BoilingPt=
+| Solubility=
+  }}
+|Section6={{Chembox Pharmacology
+| ATCvet = yes
+| ATCCode_prefix = P51
+| ATCCode_suffix = AX12
+}}
+|Section7={{Chembox Hazards
+| MainHazards=
+| FlashPt=noncombustible
+| FlashPt_notes = <ref name=PGCH/>
+| AutoignitionPt =
+| PEL = none<ref name=PGCH>{{PGCH|0230}}</ref>
+| REL = TWA 5 mg/m<sup>3</sup><ref name=PGCH/> 
+| IDLH = N.D.<ref name=PGCH/>
+  }}
+}}
+
+'''Dinitolmide''' (or '''zoalene''') is a [[fodder]] additive for [[poultry]], used to prevent [[coccidiosis]] infections.<ref name="Gerhold">{{Cite journal 
+| doi = 10.1637/9572-101310-Reg.1 
+| last1 = Gerhold | first1 = R. W. 
+| last2 = Fuller | first2 = A. L. 
+| last3 = Lollis | first3 = L. 
+| last4 = Parr | first4 = C. 
+| last5 = McDougald | first5 = L. R. 
+| title = The Efficacy of Anticoccidial Products against ''Eimeria'' spp. in Northern Bobwhites 
+| journal = Avian Diseases 
+| volume = 55 
+| issue = 1 
+| pages = 59–64 
+| year = 2011 
+| pmid = 21500637
+}}</ref> It is sold under trade names such as '''Coccidine A''', '''Coccidot''', and '''Zoamix'''. 
+
+Dinitolmide is usually added to feed in doses of 125&nbsp;ppm (preventive) or 250&nbsp;ppm (curative). It is a broad-spectrum anticoccidial drug,<ref name="Gerhold" /> preventing seven main strains of ''[[Eimeria coccidium]]''. It leaves no residues in tissues.{{fact|date=December 2013}} It can be also used to prevent coccidiosis of domestic [[rabbit]]s.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://dailymed.nlm.nih.gov/dailymed/archives/fdaDrugInfo.cfm?archiveid=15274 Zoamix - DailyMed]
+* [https://www.cdc.gov/niosh/npg/npgd0230.html CDC - NIOSH Pocket Guide to Chemical Hazards]
+
+[[Category:Nitrobenzenes]]
+[[Category:Poultry farming]]
+[[Category:Benzamides]]
+
+
+{{antiinfective-drug-stub}}

@@ -1,0 +1,62 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 444777910
+| IUPAC_name = (2''S'')-2,6-diamino-''N''-<nowiki/>{[(2-benzoyl-4-chlorophenyl)methylcarbamoyl]methyl}hexanamide
+| image = Avizafone.svg
+| width = 240
+
+<!--Clinical data-->
+| tradename =  
+| legal_status =  
+| routes_of_administration = [[Intramuscular injection]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 65617-86-9
+| ATC_prefix = none
+| PubChem = 71968
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2103985
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 64974
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 65NK71K78P
+
+<!--Chemical data-->
+| C=22 | H=27 | Cl=1 | N=4 | O=3 
+| molecular_weight = 430.928 g/mol
+| smiles = Clc1cc(c(N(C(=O)CNC(=O)[C@@H](N)CCCCN)C)cc1)C(=O)c2ccccc2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H27ClN4O3/c1-27(20(28)14-26-22(30)18(25)9-5-6-12-24)19-11-10-16(23)13-17(19)21(29)15-7-3-2-4-8-15/h2-4,7-8,10-11,13,18H,5-6,9,12,14,24-25H2,1H3,(H,26,30)/t18-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = LTKOVYBBGBGKTA-SFHVURJKSA-N
+}}
+
+'''Avizafone'''<ref>GB Patent 1517164</ref> ('''Pro-Diazepam''') is a water-soluble [[prodrug]] of [[diazepam]]. It can be administered [[intramuscular]]ly.
+
+Avizafone is metabolised by enzymes in the blood to form the active drug diazepam. It is used mainly as an [[antidote]] to poisoning with [[organophosphate]] [[nerve agent]]s.<ref>Karlsson B, Lindgren B, Millquist E, Sandberg M, Sellstrom A. On the use of diazepam and pro-diazepam (2-benzoyl-4-chloro-N-methyl-N-lysylglycin anilide), as adjunct antidotes in the treatment of organophosphorus intoxication in the guinea-pig. ''Journal of Pharmacy and Pharmacology''. 1990 Apr;42(4):247-51.</ref><ref>Lallement G, Renault F, Baubichon D, Peoc'h M, Burckhart MF, Galonnier M, Clarencon D, Jourdil N. Compared efficacy of diazepam or avizafone to prevent soman-induced electroencephalographic disturbances and neuropathology in primates: relationship to plasmatic benzodiazepine pharmacokinetics. ''[[Archives of Toxicology]]''. 2000 Oct;74(8):480-6.</ref><ref>Taysse L, Calvet JH, Buee J, Christin D, Delamanche S, Breton P. Comparative efficacy of diazepam and avizafone against sarin-induced neuropathology and respiratory failure in guinea pigs: influence of atropine dose. ''Toxicology''. 2003 Jun 30;188(2-3):197-209.</ref>
+
+==See also==
+* [[Benzodiazepine]]
+* [[Rilmazafone]]
+
+==References==
+{{Reflist|2}}
+
+{{Benzodiazepines}}
+{{GABAAR PAMs}}
+
+[[Category:Antidotes]]
+[[Category:Benzodiazepines]]
+[[Category:Benzophenones]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:Prodrugs]]
+
+{{nervous-system-drug-stub}}

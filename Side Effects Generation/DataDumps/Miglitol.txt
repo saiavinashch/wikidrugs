@@ -1,0 +1,82 @@
+{{distinguish|Meglutol}}
+
+{{Drugbox
+| verifiedrevid = 462252373
+| IUPAC_name = (2''R'',3''R'',4''R'',5''S'')-1-(2-Hydroxyethyl)-2-(hydroxymethyl)<br>piperidine-3,4,5-triol
+| image = Miglitol structure.svg
+| width = 200
+| alt = Structural diagram of miglitol
+
+<!--Clinical data-->
+| tradename = Glyset
+| Drugs.com = {{drugs.com|monograph|miglitol}}
+| MedlinePlus = a601079
+| licence_US = Miglitol
+| pregnancy_AU = B3
+| pregnancy_US = B
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = [[Oral administration|By mouth]] ([[Tablet (pharmacy)|tablets]])
+
+<!--Pharmacokinetic data-->
+| bioavailability = Dose-dependent
+| protein_bound = Negligible (<4.0%)
+| metabolism = Nil
+| elimination_half-life = 2 hours
+| excretion = [[Kidney|Renal]] (95%)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 4842
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 72432-03-2
+| ATC_prefix = A10
+| ATC_suffix = BF02
+| ATC_supplemental =  
+| PubChem = 441314
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00491
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 390074
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0V5436JAQW
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00625
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1561
+
+<!--Chemical data-->
+| C=8 | H=17 | N=1 | O=5
+| molecular_weight = 207.224 g/mol
+| smiles = OCCN1[C@@H]([C@@H](O)[C@H](O)[C@@H](O)C1)CO
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C8H17NO5/c10-2-1-9-3-6(12)8(14)7(13)5(9)4-11/h5-8,10-14H,1-4H2/t5-,6+,7-,8-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IBAQFPQHRJAVAV-ULAWRXDQSA-N
+| density = 1.458
+| melting_point = 114
+}}
+
+'''Miglitol''' is an oral [[anti-diabetic drug]] that acts by inhibiting the ability of the patient to break down complex carbohydrates into glucose. It is primarily used in [[diabetes mellitus type 2]] for establishing greater [[Diabetes management#Glycemic control|glycemic control]] by preventing the digestion of [[carbohydrate]]s (such as [[disaccharide]]s, [[oligosaccharide]]s, and [[polysaccharide]]s) into [[monosaccharide]]s which can be absorbed by the body.<ref name="medline">{{cite web |url=http://www.nlm.nih.gov/medlineplus/druginfo/meds/a601079.html |title=Migliotl: MedlinePlus Drug Information |author=<!--Staff writer(s); no by-line.--> |date=1 September 2010 |work=MedlinePlus |publisher=National Institudes of Health |accessdate=13 April 2013}}</ref>
+
+Miglitol, and other structurally-related [[iminosugar]]s, inhibit [[glycoside hydrolase]] enzymes called [[alpha-glucosidase]]s.  Since miglitol works by preventing digestion of carbohydrates, it lowers the degree of [[postprandial]] [[hyperglycemia]]. It must be taken at the start of main meals to have maximal effect.<ref name="FDA">{{cite web |url=http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/020682s010lbl.pdf|title=Glyset (miglitol) tablets label - Accessdata FDA|author=<!--Staff writer(s); no by-line.--> |date=August 2012 |work=Drugs@FDA|publisher=U.S. Food and Drug Administration |accessdate=13 April 2013}}</ref> Its effect will depend on the amount of non-monosaccharide carbohydrates in a person's diet.
+
+In contrast to [[acarbose]] (another [[alpha-glucosidase]] inhibitor), miglitol is systemically absorbed; however, it is not metabolized and is excreted by the kidneys.
+
+==See also==
+* [[Alpha-glucosidase inhibitor]]
+* [[Miglustat]]
+
+==References==
+{{reflist}}
+
+{{Oral hypoglycemics}}
+
+[[Category:Alpha-glucosidase inhibitors]]
+[[Category:Iminosugars]]
+[[Category:Piperidines]]
+[[Category:Polyols]]
+
+{{gastrointestinal-drug-stub}}

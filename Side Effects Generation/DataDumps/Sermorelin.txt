@@ -1,0 +1,78 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 409589124
+| IUPAC_name = <small>L</small>-Tyrosyl-<small>L</small>-alanyl-<small>L</small>-α-aspartyl-<small>L</small>-alanyl-<small>L</small>-isoleucyl-<small>L</small>-phenylalanyl-<small>L</small>-threonyl-<small>L</small>-asparaginyl-<small>L</small>-seryl-<small>L</small>-tyrosyl-<small>L</small>-arginyl-<small>L</small>-lysyl-<small>L</small>-valyl-<small>L</small>-leucylglycyl-<small>L</small>-glutaminyl-<small>L</small>-leucyl-<small>L</small>-seryl-<small>L</small>-alanyl-<small>L</small>-arginyl-<small>L</small>-lysyl-<small>L</small>-leucyl-<small>L</small>-leucyl-<small>L</small>-glutaminyl-<small>L</small>-α-aspartyl-<small>L</small>-isoleucyl-<small>L</small>-methionyl-<small>L</small>-seryl-<small>L</small>-argininamide
+| image =
+
+<!--Clinical data-->
+| tradename = Geref, Gerel
+| Drugs.com = {{drugs.com|CONS|sermorelin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = C
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Discontinued
+| legal_status =  
+| routes_of_administration = Injection
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 86168-78-7
+| ATC_prefix = H01
+| ATC_suffix = AC04
+| ATC_supplemental =    {{ATC|V04|CD03}}
+| PubChem = 16132413
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB00010
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID =  17289071
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 89243S03TE
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08509
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201490
+| synonyms = GRF 1–29
+
+<!--Chemical data-->
+| C=149 | H=246 | N=44 | O=42 | S=1 
+| molecular_weight = 3357.882 g/mol
+| smiles = CC[C@H](C)[C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC2=CC=C(C=C2)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC(C)C)C(=O)NCC(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CO)C(=O)N[C@@H](C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCSC)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N)NC(=O)[C@H](C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](C)NC(=O)[C@H](CC3=CC=C(C=C3)O)N
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI=1S/C149H246N44O42S/c1-20-77(13)116(191-122(211)81(17)168-132(221)104(66-113(204)205)178-121(210)79(15)167-123(212)88(152)62-84-39-43-86(198)44-40-84)145(234)185-102(63-83-32-23-22-24-33-83)138(227)193-118(82(18)197)146(235)186-103(65-111(155)202)137(226)189-108(71-196)142(231)182-101(64-85-41-45-87(199)46-42-85)136(225)175-93(38-31-56-165-149(161)162)126(215)174-91(35-26-28-53-151)131(220)190-115(76(11)12)143(232)184-97(58-72(3)4)124(213)166-68-112(203)170-94(47-49-109(153)200)128(217)180-100(61-75(9)10)135(224)188-106(69-194)140(229)169-80(16)120(209)172-92(37-30-55-164-148(159)160)125(214)173-90(34-25-27-52-150)127(216)179-99(60-74(7)8)134(223)181-98(59-73(5)6)133(222)176-95(48-50-110(154)201)129(218)183-105(67-114(206)207)139(228)192-117(78(14)21-2)144(233)177-96(51-57-236-19)130(219)187-107(70-195)141(230)171-89(119(156)208)36-29-54-163-147(157)158/h22-24,32-33,39-46,72-82,88-108,115-118,194-199H,20-21,25-31,34-38,47-71,150-152H2,1-19H3,(H2,153,200)(H2,154,201)(H2,155,202)(H2,156,208)(H,166,213)(H,167,212)(H,168,221)(H,169,229)(H,170,203)(H,171,230)(H,172,209)(H,173,214)(H,174,215)(H,175,225)(H,176,222)(H,177,233)(H,178,210)(H,179,216)(H,180,217)(H,181,223)(H,182,231)(H,183,218)(H,184,232)(H,185,234)(H,186,235)(H,187,219)(H,188,224)(H,189,226)(H,190,220)(H,191,211)(H,192,228)(H,193,227)(H,204,205)(H,206,207)(H4,157,158,163)(H4,159,160,164)(H4,161,162,165)/t77-,78-,79-,80-,81-,82+,88-,89-,90-,91-,92-,93-,94-,95-,96-,97-,98-,99-,100-,101-,102-,103-,104-,105-,106-,107-,108-,115-,116-,117-,118-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = WGWPRVFKDLAUQJ-MITYVQBRSA-N
+}}
+
+'''Sermorelin''' ([[International Nonproprietary Name|INN]]) (brand names '''Geref''', '''Gerel'''), also known as '''GHRH (1-29)''', is a [[peptide]] [[structural analog|analogue]] of [[growth hormone-releasing hormone]] (GHRH) which is used as a [[diagnostic agent]] to assess [[growth hormone]] (GH) [[secretion]] for the purpose of diagnosing [[growth hormone deficiency]]. It is a 29-[[amino acid]] [[polypeptide]] representing the 1–29 fragment from [[endogenous]] human GHRH, thought to be the shortest fully functional fragment of GHRH.<ref name="pmid18031173">{{cite journal |vauthors=Prakash A, Goa KL |title=Sermorelin: a review of its use in the diagnosis and treatment of children with idiopathic growth hormone deficiency |journal=BioDrugs |volume=12 |issue=2 |pages=139–57 |date=August 1999 |pmid=18031173 |doi= 10.2165/00063030-199912020-00007|url= |issn=}}</ref><ref>Pharmacology (Rang, Dale, Ritter & Moore, {{ISBN|0-443-07145-4}}, 5th ed., Churchill Livingstone 2003).</ref>
+
+==See also==
+* [[CJC-1295]]
+* [[Modified GRF (1-29)]]
+* [[Tesamorelin]]
+
+==References==
+{{Reflist|2}}
+
+
+{{Diagnostic agents}}
+{{GH/IGF-1 axis signaling modulators}}
+
+[[Category:Growth hormone secretagogues]]
+[[Category:Growth hormone-releasing hormone receptor agonists]]
+[[Category:Hormonal agents]]
+[[Category:Peptides]]
+[[Category:World Anti-Doping Agency prohibited substances]]
+
+
+{{systemic-hormonal-drug-stub}}

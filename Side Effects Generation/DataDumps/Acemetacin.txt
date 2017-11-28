@@ -1,0 +1,114 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 477238069
+| IUPAC_name = 2-[2-[1-(4-Chlorobenzoyl)-5-methoxy-2-methylindol-3-yl]acetyl]oxyacetic acid
+| image = acemetacin.svg
+
+<!--Clinical data-->
+| tradename = Emflex, many others
+| Drugs.com = {{drugs.com|international|acemetacin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = POM
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = 
+| routes_of_administration = [[Mouth|Oral]]
+
+<!-- Pharmacokinetic data -->
+| bioavailability   = ~100%
+| protein_bound     = 80–90%
+| metabolism        = [[Hydrolysis]], [[glucuronidation]]
+| metabolites       = 
+| onset             = 
+| elimination_half-life= 4.5±2.8 (up to 16) hrs
+| duration_of_action= 
+| excretion         = 40% [[renal]], 50% [[biliary]]
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 53164-05-9
+| ATC_prefix = M01
+| ATC_suffix = AB11
+| PubChem = 1981
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 31162
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 1904
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 5V141XK28X
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01582
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 189171
+
+<!--Chemical data-->
+| C=21 | H=18 | Cl=1 | N=1 | O=6 
+| molecular_weight = 415.82372 g/mol
+| melting_point     = 150
+| melting_high      = 153
+| smiles = Clc1ccc(cc1)C(=O)n3c2ccc(OC)cc2c(c3C)CC(=O)OCC(=O)O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H18ClNO6/c1-12-16(10-20(26)29-11-19(24)25)17-9-15(28-2)7-8-18(17)23(12)21(27)13-3-5-14(22)6-4-13/h3-9H,10-11H2,1-2H3,(H,24,25)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = FSQKKOOTNAMONP-UHFFFAOYSA-N
+}}
+
+'''Acemetacin''' is a [[non-steroidal anti-inflammatory drug]] (NSAID) used for the treatment of [[osteoarthritis]], [[rheumatoid arthritis]], lower back pain, and relieving post-operative pain. It is manufactured by [[Merck KGaA]] under the tradename '''Emflex''', and is available in the UK and other countries as a prescription-only drug.<ref>{{drugs.com|international|acemetacin}}: Acemetacin.</ref>
+
+== Medical uses ==
+Acemetacin has proven effective in the treatment of osteoarthritis, rheumatoid arthritis, [[ankylosing spondylitis]], and other kinds of rheumathoid inflammation, as well as in post-operative and [[post-traumatic (disambiguation)|post-traumatic]] pain and attack of [[gout]].<ref name="AC" /><ref name="Dinnendahl" /> Application of a single dose of acemetacin for post-operative pain is not well supported by studies.<ref>{{cite journal|pmid=19588437|pmc=4170991|year=2009|author1=Moore|first1=R. A.|journal=The Cochrane database of systematic reviews|issue=3|pages=CD007589|last2=Derry|first2=S|last3=McQuay|first3=H. J.|doi=10.1002/14651858.CD007589.pub2|title=Single dose oral acemetacin for acute postoperative pain in adults}}</ref>
+
+== Contraindications ==
+Contraindications are basically the same as with other NSAIDs: [[hypersensitivity]] reactions to NSAIDs in the past (typically asthma or skin reactions), [[gastrointestinal]] or [[Human brain|cerebral]] bleeding, [[peptic ulcer]], [[haematopoietic]] disorders ([[anaemia]], [[leukopenia]]), and during the third trimester of pregnancy.<ref name="AC" /><ref name="Emflex">{{Drugs.com|UK|emflex-capsules-spc-13486}} on Emflex.</ref>
+
+== Adverse effects ==
+Common side effects (in about 1–10% of patients) include gastrointestinal problems typical of NSAIDs, such as [[nausea]], diarrhoea, stomach pain, and peptic ulcer; central nervous effects like headache and dizziness; and skin reactions. Gastrointestinal tolerability is better than that of the related drug [[indometacin]]. Severe allergic reactions and haematopoietic disorders occur in fewer than 0.01% of patients.<ref name="AC" /><ref name="Dinnendahl" />
+
+== Interactions ==
+The following interactions, typical of NSAIDs, have been described:<ref name="AC" /><ref name="Dinnendahl" />
+* other NSAIDs, [[corticosteroid]]s: increased frequency of side effects, especially peptic ulcers and gastrointestinal bleeding
+* [[diuretic]]s, [[ACE inhibitors]] and other antihypertensive drugs: reduced effectiveness of these drugs
+* with ACE inhibitors or [[ciclosporin]], increased risk of kidney function disorders
+* [[anticoagulant]]s such as [[warfarin]]: increased risk of bleeding
+* increased [[blood plasma]] concentrations of [[digoxin]] and [[methotrexate]]
+* decreased plasma concentrations of [[lithium (medication)|lithium]]
+
+== Pharmacology ==
+{{main article|Non-steroidal anti-inflammatory drug#Mechanism of action}}
+Acemetacin acts as an inhibitor of [[cyclooxygenase]] (COX), producing the anti-inflammatory and [[analgetic]] (pain relieving) effects. In the body, it is partly metabolized to indometacin, which also acts as a COX inhibitor. The same mechanism is responsible for the [[antipyretic]] and [[Antiplatelet drug|antiplatelet]] effects, which are however not clinically used, as well as for the typical NSAID adverse effects.<ref name="AC">{{cite book|title=Austria-Codex|editor=Haberfeld, H|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2015|language=German}}</ref><ref name="Dinnendahl">{{cite book|title=Arzneistoff-Profile|editor1=Dinnendahl, V |editor2=Fricke, U |publisher=Govi Pharmazeutischer Verlag|location=Eschborn, Germany|date=2003|edition=18|volume=1|isbn=978-3-7741-9846-3|language=German}}</ref>
+
+An advantage of acemetacin is that it reduces gastric damage as compared to indometacin, possibly because acemetacin has less effect on the increase of [[leukotriene B4]] synthesis and [[tumor necrosis factor]] (TNF) expression, leading to less induction of [[leukocyte]]-endothelial adherence.<ref>{{cite journal|pmid=17876306|pmc=2078220|year=2007|author1=Chávez-Piña|first1=A. E.|title=Mechanisms underlying the anti-inflammatory activity and gastric safety of acemetacin|journal=British Journal of Pharmacology|volume=152|issue=6|pages=930–8|last2=McKnight|first2=W|last3=Dicay|first3=M|last4=Castañeda-Hernández|first4=G|last5=Wallace|first5=J. L.|doi=10.1038/sj.bjp.0707451}}</ref><ref>{{cite journal|pmid=18695646|pmc=2597236|year=2008|author1=Chávez-Piña|first1=A. E.|title=Lack of effects of acemetacin on signalling pathways for leukocyte adherence may explain its gastrointestinal safety|journal=British Journal of Pharmacology|volume=155|issue=6|pages=857–64|last2=Vong|first2=L|last3=McKnight|first3=W|last4=Dicay|first4=M|last5=Zanardo|first5=R. C.|last6=Ortiz|first6=M. I.|last7=Castañeda-Hernández|first7=G|last8=Wallace|first8=J. L.|doi=10.1038/bjp.2008.316}}</ref>
+
+=== Pharmacokinetics ===
+[[File:Acemetacin metabolism.svg|thumb|right|Metabolism of acemetacin. Cleaving of the glycolic acid ester (green) activates the substance to indometacin, cleaving of the methoxy ether or the 4-chlorobenzoate (orange) inactivate it.]]
+
+The substance is quickly and almost completely absorbed from the gut. Highest blood plasma concentrations are reached after two hours. It is bound to [[plasma protein]]s to 80–90%. Concentrations in the [[synovial fluid]] and [[synovial membrane|membranes]], muscle and bone are higher than in the blood.<ref name="AC" />
+
+Apart from the active [[metabolite]] indometacin, a number of inactive metabolites are found after application of acemetacin: the O-desmethyl-, des-4-chlorobenzoyl-, and O-desmethyl-des-4-chlorobenzoyl derivatives of both indometacin and acemetacin, as well as all of these substances' [[glucuronide]]s (mediated at least partly by the enzyme [[UGT2B7]]<ref>{{cite web|publisher=MediQ.ch|title=Acemetacin |url=https://www.mediq.ch/substances/acemetacin|subscription=yes|access-date=16 September 2016}}</ref>). [[Elimination half-life]] is 4.5±2.8 hours (in some individuals up to 16 hours) under [[steady state]] conditions. 40% are eliminated via the kidney, and 50% via the faeces.<ref name="AC" /><ref name="Dinnendahl" />
+
+== Chemistry ==
+Acemetacin is the [[glycolic acid]] [[ester]] of indometacin. It is a fine, slightly yellowish, crystalline powder that melts at {{convert|150 to 153|C|F}}. It is [[Polymorphism (materials science)|polymorphic]], with four known anhydrous (water-free) and two [[monohydrate]] crystalline forms.<ref name="Dinnendahl" />
+
+== Society and culture ==
+=== Brand names ===
+Other brand names include ''Zadex'' (Hungary),  ''Rheutrop'' (Austria), ''Acemetadoc'', ''Acephlogont'', ''Azeat'', ''Rantudil'' (Germany, Hungary, Mexico, Portugal, Turkey), ''Gamespir'' (Greece), ''Oldan'', ''Reudol'' (Spain), ''Tilur'' (Switzerland), ''Ost-map'' (Egypt).
+
+== References ==
+{{reflist|35em}}
+
+{{Anti-inflammatory and antirheumatic products}}
+{{Analgesics}}
+{{Prostanoidergics}}
+
+[[Category:Methyl indoles]]
+[[Category:Acetic acids]]
+[[Category:Carboxamides]]
+[[Category:Phenol ethers]]
+[[Category:Chloroarenes]]
+[[Category:Prodrugs]]

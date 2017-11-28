@@ -1,0 +1,71 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470630727
+| IUPAC_name = 5-(1-methylbutyl)-5-vinylpyrimidine-2,4,6(1''H'',3''H'',5''H'')-trione
+| image = Vinylbital structure.svg
+| width = 150
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_category = 
+| legal_CA = Schedule IV
+| legal_US = Schedule IV
+| legal_DE = Anlage II
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life = 
+| excretion = [[Kidney|Renal]]
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 2430-49-1
+| ATC_prefix = N05
+| ATC_suffix = CA08
+| PubChem = 72135
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 65109
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 3W58ITX06Q
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07321
+
+<!--Chemical data-->
+| C=11 | H=16 | N=2 | O=3 
+| molecular_weight = 224.256 g/mol
+| smiles = O=C1NC(=O)NC(=O)C1(\C=C)C(C)CCC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C11H16N2O3/c1-4-6-7(3)11(5-2)8(14)12-10(16)13-9(11)15/h5,7H,2,4,6H2,1,3H3,(H2,12,13,14,15,16)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = KGKJZEKQJQQOTD-UHFFFAOYSA-N
+}}
+'''Vinylbital''', also known as '''butylvinal''', is a sedative hypnotic drug which is a [[barbiturate]] derivative.<ref>{{Cite journal 
+| last1 = Breimer | first1 = D. D. 
+| last2 = De Boer | first2 = A. G. 
+| title = Pharmacokinetics and relative bioavailability of vinylbital in man after oral and rectal administration 
+| journal = Arzneimittel-Forschung 
+| volume = 26 
+| issue = 3 
+| pages = 448–454 
+| year = 1976 
+| pmid = 989344
+}}</ref> It was developed by Aktieboleget Pharmacia in the 1950s.<ref>US Patent 2868790</ref>
+
+==References==
+{{Reflist}}
+
+
+{{Hypnotics and sedatives}}
+{{GABAAR PAMs}}
+
+[[Category:Barbiturates]]
+[[Category:Sedatives]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:Vinyl compounds]]
+
+
+{{sedative-stub}}

@@ -1,0 +1,71 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470611568
+| IUPAC_name = ''O''-2-Naphthyl methyl(3-methylphenyl)thiocarbamate
+| image = Tolnaftate.svg
+
+<!--Clinical data-->
+| tradename = Tinactin
+| Drugs.com = {{drugs.com|monograph|tolnaftate}}
+| MedlinePlus = a682617
+| pregnancy_category =
+| legal_status = OTC
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| metabolism =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 2398-96-1
+| ATC_prefix = D01
+| ATC_suffix = AE18
+| PubChem = 5510
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00525
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5309
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 06KB629TKV
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00381
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 9620
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 83668
+| synonyms = <small>2-Naphthyl ''N''-methyl-''N''-(3-tolyl)thionocarbamate</small><ref name="INN">{{cite web|title=International Non-Proprietary Names for Pharmaceutical Preparations. Recommended International Non-Proprietary names (Rec. I.N.N.): List 6|url=http://www.who.int/medicines/publications/druginformation/innlists/RL06.pdf|publisher=World Health Organization|accessdate=12 November 2016}}</ref>
+
+<!--Chemical data-->
+| C=19 | H=17 | N=1 | O=1 | S=1
+| molecular_weight = 307.41 g/mol
+| smiles = S=C(Oc2ccc1c(cccc1)c2)N(c3cc(ccc3)C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H17NOS/c1-14-6-5-9-17(12-14)20(2)19(22)21-18-11-10-15-7-3-4-8-16(15)13-18/h3-13H,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = FUSNMLFNXJSCDI-UHFFFAOYSA-N
+| melting_point = 110
+| melting_high = 111.5
+}}
+'''Tolnaftate''' ([[International nonproprietary name|INN]])<ref name="INN" /> is a synthetic [[thiocarbamate]] used as an [[Fungistatics|anti-fungal]] agent that may be sold  [[over-the-counter drug|without medical prescription]] in most jurisdictions. It is supplied as a cream, powder, spray, and [[liquid aerosol]]. Tolnaftate is used to treat fungal conditions such as [[jock itch]], [[athlete's foot]] and [[ringworm]].
+
+==Mechanism==
+Although the exact mechanism of action is not entirely known, it is believed to inhibit [[squalene epoxidase]],<ref name="pmid3524433">{{cite journal |vauthors=Ryder NS, Frank I, Dupont MC |title=Ergosterol biosynthesis inhibition by the thiocarbamate antifungal agents tolnaftate and tolciclate |journal=Antimicrob. Agents Chemother. |volume=29 |issue=5 |pages=858–60 |date=May 1986 |pmid=3524433 |pmc=284167 |doi= 10.1128/aac.29.5.858|url=http://aac.asm.org/cgi/pmidlookup?view=long&pmid=3524433}}</ref> an important enzyme in the biosynthetic pathway of [[ergosterol]] (a key component of the [[fungal membrane]]) in a similar way to [[allylamines]].<ref name="urlantifung">{{cite web |url=http://faculty.swosu.edu/scott.long/phcl/antifung.htm |title=antifung |work= |accessdate=2008-07-09}}</ref>
+
+==Uses==
+Tolnaftate has been found to be generally slightly less effective than [[azole]]s when used to treat [[tinea pedis]] (athlete's foot). It is, however, useful when dealing with [[ringworm]], especially when passed from pets to humans.<ref>Crawford F, Hart R, Bell-Syer S, Torgerson D, Young P, Russell I. Topical treatments for fungal infections of the skin and nails of the foot (Cochrane Review). In: The Cochrane Library, Issue 1, 2003. Oxford: Update Software.</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.nlm.nih.gov/medlineplus/druginfo/meds/a682617.html Medline's entry for tolnaftate]
+
+{{Antifungals}}
+{{Xenobiotic-sensing receptor modulators}}
+
+[[Category:Antifungals]]
+[[Category:Naphthol ethers]]
+[[Category:Thiocarbamates]]

@@ -1,0 +1,68 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| IUPAC_name = 10-bromo-11''b''-(2-fluorophenyl)-2,3,5,7-tetrahydro-[1,3]oxazolo[3,2-''d''][1,4]benzodiazepin-6-one
+| image = Haloxazolam structure.svg
+| width = 150
+| image2 = Haloxazolam3d.png
+
+<!--Clinical data-->
+| tradename = Somelin <small>([[Japan|JP]])</small>
+| Drugs.com = {{drugs.com|international|haloxazolam}}
+| pregnancy_category =
+| legal_CA = Schedule IV
+| legal_DE = Anlage III
+| legal_US = Schedule IV
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life =
+| excretion = [[Kidney|Renal]]
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 59128-97-1
+| ATC_prefix = none
+| PubChem = 3563
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01476
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3442
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2104461
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = M448L2V8XP verifiedrevid = 461766568
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D01758
+
+<!--Chemical data-->
+| C=17 | H=14 | Br=1 | F=1 | N=2 | O=2 
+| molecular_weight = 377.208 g/mol
+| smiles = Fc1ccccc1C42OCCN2CC(=O)Nc3c4cc(Br)cc3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H14BrFN2O2/c18-11-5-6-15-13(9-11)17(12-3-1-2-4-14(12)19)21(7-8-23-17)10-16(22)20-15/h1-6,9H,7-8,10H2,(H,20,22)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = XDKCGKQHVBOOHC-UHFFFAOYSA-N
+}}
+
+'''Haloxazolam''' (marketed in Japan under the brand name '''Somelin'''), is a drug which is a [[benzodiazepine]] derivative.<ref>{{cite journal |pmid=8832439 |year=1996 |last1=Tanaka |first1=E |last2=Terada |last3=Misawa |last4=Wakasugi |title=Simultaneous determination of twelve benzodiazepines in human serum using a new reversed-phase chromatographic column on a 2-microns porous microspherical silica gel |volume=682 |issue=1 |pages=173–8 |journal=Journal of Chromatography B |doi=10.1016/0378-4347(96)00121-1 |first2=M |first3=S |first4=C }}</ref><ref>{{cite web| url= http://www.non-benzodiazepines.org.uk/benzodiazepine-names.html| title=Benzodiazepine Names| accessdate=2009-04-05| publisher=non-benzodiazepines.org.uk}}</ref><ref>{{cite journal |pmid=10022210 |year=1999 |last1=Guan |first1=F |last2=Seno |last3=Ishii |last4=Watanabe |last5=Kumazawa |last6=Hattori |last7=Suzuki |title=Solid-phase microextraction and GC-ECD of benzophenones for detection of benzodiazepines in urine |volume=23 |issue=1 |pages=54–61 |journal=Journal of analytical toxicology |first2=H |first3=A |first4=K |first5=T |first6=H |first7=O |doi=10.1093/jat/23.1.54}}</ref> It has similar [[hypnotic]] properties as the benzodiazepine drugs [[triazolam]], [[temazepam]], and [[flunitrazepam]] and as such is indicated for the treatment [[insomnia]].<ref>{{cite journal |pmid=12519461 |year=2003 |last1=Tan |first1=X |last2=Uchida |last3=Matsuura |last4=Nishihara |last5=Kojima |title=Long-, intermediate- and short-acting benzodiazepine effects on human sleep EEG spectra |volume=57 |issue=1 |pages=97–104 |journal=Psychiatry and clinical neurosciences |doi=10.1046/j.1440-1819.2003.01085.x |first2=S |first3=M |first4=K |first5=T }}</ref> A study in cats comparing [[estazolam]] and haloxazolam found that haloxazolam only affects [[gamma motor neurons]], whereas estazolam affects both alpha and gamma motor neurons.<ref>{{cite journal |pmid=6139494 |year=1983 |last1=Sakai |first1=Y |title=Comparative study on the effects of haloxazolam and estazolam, new sleep inducing drugs, on the alpha- and gamma-motor systems. |volume=33 |issue=5 |pages=1017–25 |journal=Japanese journal of pharmacology |doi=10.1254/jjp.33.1017 }}</ref>
+
+==See also==
+*[[Benzodiazepine]]
+
+==References==
+{{reflist}}
+
+{{Benzodiazepines}}
+{{Hypnotics and sedatives}}
+{{GABAAR PAMs}}
+
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:Lactams]]
+[[Category:Organobromides]]
+[[Category:Fluoroarenes]]
+[[Category:Oxazolobenzodiazepines]]
+
+{{sedative-stub}}

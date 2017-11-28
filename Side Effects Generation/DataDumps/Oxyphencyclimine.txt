@@ -1,0 +1,73 @@
+{{multiple issues|
+{{context|date=April 2014}}
+{{refimprove|date=May 2015}}
+}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 408518305
+| IUPAC_name = (1-Methyl-1,4,5,6-tetrahydropyrimidin-2-yl)methyl 2-cyclohexyl-2-hydroxy-2-phenylacetate
+| image = Oxyphencyclimine.png
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|oxyphencyclimine}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+<!--Identifiers-->
+| IUPHAR_ligand = 7256
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 125-53-1
+| ATC_prefix = A03
+| ATC_suffix = AA01
+| PubChem = 4642
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 4481
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C20H28N2O3/c1-22-14-8-13-21-18(22)15-25-19(23)20(24,16-9-4-2-5-10-16)17-11-6-3-7-12-17/h2,4-5,9-10,17,24H,3,6-8,11-15H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = DUDKAZCAISNGQN-UHFFFAOYSA-N
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 4V44H1O8XI
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08325
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1200891
+<!--Chemical data-->
+| C=20 | H=28 | N=2 | O=3
+| molecular_weight = 344.45 g/mol
+}}
+
+'''Oxyphencyclimine''' is an [[antimuscarinic]].
+
+==Synthesis==
+Reaction of [[chloroacetonitrile]] ('''1''') with methanol and [[hydrogen chloride]] leads to the corresponding iminoether ([[Pinner reaction]]). Condensation of '''2''' with 3-methylaminopropylamine gives ('''3''') gives the corresponding [[tetrahydropyrimidine]] ('''4'''). Displacement of the halogen with the sodium salt '''5''' affords oxyphencyclimine ('''6''').
+
+[[File:Oxyphencyclimine synthesis.svg|thumb|center|500px|Oxyphencyclimine synthesis:<ref>{{Cite journal | doi = 10.1021/ja01518a051| title = Antispasmodics: Esters of Heterocyclic Alcohols| journal = Journal of the American Chemical Society| volume = 81| issue = 9| pages = 2214| year = 1959| last1 = Faust | first1 = J. A.| last2 = Mori | first2 = A.| last3 = Sahyun | first3 = M.}}</ref> {{Cite patent|GB|795758}} (1958 to [[Pfizer]]).]]
+
+==References==
+{{Reflist}}
+
+
+{{Drugs for functional gastrointestinal disorders}}
+{{Muscarinic acetylcholine receptor modulators}}
+
+[[Category:Muscarinic antagonists]]
+[[Category:Pyrimidines]]
+
+
+{{gastrointestinal-drug-stub}}

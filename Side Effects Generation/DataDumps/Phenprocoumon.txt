@@ -1,0 +1,69 @@
+{{Drugbox
+| verifiedrevid = 464200729
+| IUPAC_name = (''RS'')-4-hydroxy-3-(1-phenylpropyl)-2''H''-chromen-2-one
+| image = Phenprocoumon.svg
+<!--Clinical data-->
+| tradename = Marcoumar, Marcumar, Falithrom
+| Drugs.com = {{drugs.com|international|phenprocoumon}}
+| MedlinePlus = a699003
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status = Rx
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 99%
+| metabolism = hepatic to inactive metabolites
+| elimination_half-life = 5 to 6 days
+| excretion = 
+<!--Identifiers-->
+| IUPHAR_ligand = 6839
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 435-97-2
+| ATC_prefix = B01
+| ATC_suffix = AA04
+| ATC_supplemental =  
+| PubChem = 9908
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00946
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 10441592
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = Q08SIO485D
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05457
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 50438
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1465
+<!--Chemical data-->
+| C=18 | H=16 | O=3
+| molecular_weight = 280.318 g/mol
+| smiles = OC=1c3ccccc3OC(=O)C=1C(CC)c2ccccc2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C18H16O3/c1-2-13(12-8-4-3-5-9-12)16-17(19)14-10-6-7-11-15(14)21-18(16)20/h3-11,13,19H,2H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = DQDAYGNAKTZFIW-UHFFFAOYSA-N
+}}
+
+'''Phenprocoumon''' (marketed under the brand names '''Marcoumar''', '''Marcumar''' and '''Falithrom''') is a long-acting oral [[anticoagulant]] drug, a derivative of [[coumarin]]. It is a [[vitamin K antagonist]] that inhibits coagulation by blocking synthesis of [[coagulation factor]]s II, VII, IX and X. It is used for the [[prophylaxis]] and treatment of thromboembolic disorders ([[thrombosis]]/[[pulmonary embolism]]). It is the standard coumarin used in Germany.
+
+Phenprocoumon is a [[4-Hydroxycoumarins|4-hydroxycoumarin]] and inhibits [[vitamin K epoxide reductase]].<ref>[http://www.pharmgkb.org/drug/PA450921#tabview=tab2&subtab=31 Phenprocoumon] at PharmGKB</ref>
+==References==
+{{reflist}}
+
+==External links==
+* {{DiseasesDB|29943}}
+
+{{Antithrombotics}}
+{{coumarin}}
+
+[[Category:Vitamin K antagonists]]
+[[Category:Coumarin drugs]]
+
+
+{{blood-drug-stub}}

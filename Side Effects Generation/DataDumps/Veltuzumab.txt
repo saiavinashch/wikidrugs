@@ -1,0 +1,77 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470629538
+| image =
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = zu/o
+| target = [[CD20]]
+<!-- Clinical data -->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled -->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+<!-- Pharmacokinetic data -->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+<!-- Identifiers -->
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 728917-18-8
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = BPD4DGQ314
+<!-- Chemical data -->
+| C=6458 | H=9918 | N=1706 | O=2026 | S=46
+| molecular_weight = 145.3 kg/mol
+}}
+'''Veltuzumab''' is a [[monoclonal antibodies|monoclonal antibody]] (targeted at [[CD20]]) which is being investigated for the treatment of [[non-Hodgkin's lymphoma]].<ref>[http://www.ama-assn.org/ama1/pub/upload/mm/365/veltuzumab.pdf Statement On A Nonproprietary Name Adopted By The USAN Council - Veltuzumab], ''American Medical Association''.</ref><ref>{{Cite journal| first1 = E. A.| first2 = D. M.
+| last1 = Rossi
+| last4 = Stein| first3 = T. M.
+| last2 = Goldenberg| first4 = R.
+| last3 = Cardillo| first5 = C. -H.
+| last5 = Chang
+| title = CD20-targeted tetrameric interferon- , a novel and potent immunocytokine for the therapy of B-cell lymphomas
+| journal = Blood
+| year = 2009 
+| doi = 10.1182/blood-2009-06-228890
+| volume =  114
+| pages =  3864–71
+| pmid =  19710501
+| issue =  18
+| pmc =  2773491
+}}</ref> {{as of|2011|12}}, it is undergoing Phase I/II [[clinical trials]].<ref>{{ClinicalTrialsGov|NCT00546793|Ph I/II Study of Subcutaneously Administered Veltuzumab (hA20) in NHL and CLL}}</ref> When used with [[milatuzumab]] it showed activity.<ref name=Christian2015>{{cite journal | pmid = 25847298 | doi=10.1111/bjh.13354 | volume=169 | title=The combination of milatuzumab, a humanized anti-CD74 antibody, and veltuzumab, a humanized anti-CD20 antibody, demonstrates activity in patients with relapsed and refractory B-cell non-Hodgkin lymphoma | journal=Br J Haematol | pages=701–10 | last1 = Christian | first1 = BA | last2 = Poi | first2 = M | last3 = Jones | first3 = JA | last4 = Porcu | first4 = P | last5 = Maddocks | first5 = K | last6 = Flynn | first6 = JM | last7 = Benson | first7 = DM Jr | last8 = Phelps | first8 = MA | last9 = Wei | first9 = L | last10 = Byrd | first10 = JC | last11 = Wegener | first11 = WA | last12 = Goldenberg | first12 = DM | last13 = Baiocchi | first13 = RA | last14 = Blum | first14 = KA}}</ref>
+
+This drug was developed by [[Immunomedics]], Inc. and was originally known as IMMU-106.<ref name=ThAb>[https://books.google.co.uk/books?id=I9k8BAAAQBAJ&pg=PA791&lpg=PA791&dq=veltuzumab+IMMU&source=bl&ots=HFuN7oF1O_&sig=D5ln4Xe3vQFPPgSe-fMBkrjMeiM&hl=en&sa=X&ved=0CEwQ6AEwCWoVChMIu47SnPX7yAIVxkcPCh0ayAsi#v=onepage&q=veltuzumab%20IMMU&f=false Handbook of Therapeutic Antibodies. p791]</ref>
+
+In August 2015 the [[US FDA]] granted it [[orphan drug]] status for [[immune thrombocytopenia]] (ITP).<ref name=OD-ITP>[http://www.healio.com/hematology-oncology/hematology/news/online/%7B42042eb4-656d-4596-9853-896c755a2274%7D/fda-grants-orphan-drug-designation-to-veltuzumab-for-itp FDA grants orphan drug designation to veltuzumab for ITP]</ref> A phase II trial is planned to run for 5 years.<ref name=OD-ITP/>
+
+==See also==
+*[[CD20 antagonist]]
+
+== References ==
+<references/>
+
+{{Monoclonals for tumors}}
+
+[[Category:Monoclonal antibodies]]
+
+
+{{monoclonal-antibody-stub}}
+{{antineoplastic-drug-stub}}

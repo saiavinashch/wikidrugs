@@ -1,0 +1,143 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 477236809
+| IUPAC_name = {(1''S'',4''R'')-4-[2-amino-6-(cyclopropylamino)-9''H''-purin-9-yl]cyclopent-2-en-1-yl}methanol
+| image = Abacavir.svg
+| width = 200
+| image2 = Abacavir ball-and-stick model.png
+| caption = Chemical structure of abacavir
+
+<!--Clinical data-->
+|pronounce = {{IPAc-en|audio=en-abacavir.ogg|ʌ|.|b|æ|k|.|ʌ|.|v|ɪər}}
+| tradename = Ziagen, others<ref name=AHFS2015/>
+| Drugs.com = {{drugs.com|monograph|abacavir-sulfate}}
+| MedlinePlus = a699012
+| pregnancy_AU = B3
+| pregnancy_US = C
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = By mouth (solution or tablets)
+
+<!--Pharmacokinetic data-->
+| bioavailability = 83%
+| metabolism = [[Liver]]
+| elimination_half-life = 1.54 ± 0.63 h
+| excretion = [[Kidney]] (1.2% abacavir, 30% 5'-carboxylic acid metabolite, 36% 5'-glucuronide metabolite, 15% unidentified minor metabolites). Fecal (16%)
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 136470-78-5
+| ATC_prefix = J05
+| ATC_suffix = AF06
+| PubChem = 441300
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01048
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 390063
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = WR2TIP26VS
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07057
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 421707
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1380
+| NIAID_ChemDB = 028596
+
+<!--Chemical data-->
+| C=14 | H=18 | N=6 | O=1
+| molecular_weight = 286.332 g/mol
+| melting_point = 165
+| smiles = n3c1c(ncn1[C@H]2/C=C\[C@@H](CO)C2)c(nc3N)NC4CC4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C14H18N6O/c15-14-18-12(17-9-2-3-9)11-13(19-14)20(7-16-11)10-4-1-8(5-10)6-21/h1,4,7-10,21H,2-3,5-6H2,(H3,15,17,18,19)/t8-,10+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = MCGSCOLBFJQGHM-SCZZXKLOSA-N
+}}
+<!-- Definition and uses -->
+'''Abacavir''' ('''ABC''') is a [[medication]] used to prevent and treat [[HIV/AIDS]].<ref name=AHFS2015>{{cite web|title=Abacavir Sulfate|url=http://www.drugs.com/monograph/abacavir-sulfate.html|publisher=The American Society of Health-System Pharmacists|accessdate=31 July 2015|deadurl=no|archiveurl=https://web.archive.org/web/20131608003500/http://www.drugs.com/monograph/abacavir-sulfate.html|archivedate=8 September 2017|df=}}</ref><ref>{{Cite web|url=https://aidsinfo.nih.gov/guidelines/html/1/adult-and-adolescent-arv-guidelines/292/drug-name-abbreviations|title=Drug Name Abbreviations Adult and Adolescent ARV Guidelines|website=AIDSinfo|access-date=2016-11-08|deadurl=no|archiveurl=https://web.archive.org/web/20161109083720/https://aidsinfo.nih.gov/guidelines/html/1/adult-and-adolescent-arv-guidelines/292/drug-name-abbreviations|archivedate=2016-11-09|df=}}</ref> Similar to other [[Reverse-transcriptase inhibitor|nucleoside reverse transcriptase inhibitor]]s (NRTIs), abacavir is used together with other [[HIV medications]], and is not recommended by itself.<ref>{{Cite web|url=https://aidsinfo.nih.gov/guidelines/html/1/adult-and-adolescent-arv-guidelines/12/what-not-to-use|title=What Not to Use Adult and Adolescent ARV Guidelines|website=AIDSinfo|access-date=2016-11-08|deadurl=no|archiveurl=https://web.archive.org/web/20161109021833/https://aidsinfo.nih.gov/guidelines/html/1/adult-and-adolescent-arv-guidelines/12/what-not-to-use|archivedate=2016-11-09|df=}}</ref> It is taken by mouth as a tablet or solution and may be used in children over the age of three months.<ref name=AHFS2015/><ref name=Yu2008 />
+
+<!-- Side effects and mechanism -->
+Abacavir is generally well tolerated.<ref name=Yu2008/> Common side effects include vomiting, [[insomnia|trouble sleeping]], fever, and feeling tired.<ref name=AHFS2015/> More severe side effects include [[hypersensitivity]], [[liver damage]], and [[lactic acidosis]].<ref name=AHFS2015/> [[Genetic testing]] can indicate whether a person is at higher risk of developing hypersensitivity.<ref name=AHFS2015/> Symptoms of hypersensitivity include rash, vomiting, and shortness of breath.<ref name=Yu2008>{{cite journal|last1=Yuen|first1=GJ|last2=Weller|first2=S|last3=Pakes|first3=GE|title=A review of the pharmacokinetics of abacavir.|journal=Clinical pharmacokinetics|date=2008|volume=47|issue=6|pages=351–71|doi=10.2165/00003088-200847060-00001|pmid=18479171}}</ref> Abacavir is in the NRTI class of medications, which work by blocking [[reverse transcriptase]], an enzyme needed for [[HIV virus]] [[Viral replication|replication]].<ref name=Gov2016>{{Cite web|url=http://www.hiv.va.gov/patient/treat/NRTIs.asp|title=Nucleoside reverse transcriptase inhibitors (NRTIs or 'nukes') - HIV/AIDS|website=www.hiv.va.gov|access-date=2016-11-08|deadurl=no|archiveurl=https://web.archive.org/web/20161109083725/http://www.hiv.va.gov/patient/treat/NRTIs.asp|archivedate=2016-11-09|df=}}</ref> Within the NRTI class, abacavir is a [[carbocyclic nucleoside]].<ref name=AHFS2015/>
+
+<!-- History and culture -->
+Abacavir was patented in 1988 and approved for use in the United States in 1998.<ref>{{cite book|last1=Fischer|first1=Janos|last2=Ganellin|first2=C. Robin|title=Analogue-based Drug Discovery|date=2006|publisher=John Wiley & Sons|isbn=9783527607495|page=505|url=https://books.google.com/books?id=FjKfqkaKkAAC&pg=PA505|language=en|deadurl=no|archiveurl=https://web.archive.org/web/20170908213935/https://books.google.com/books?id=FjKfqkaKkAAC&pg=PA505|archivedate=2017-09-08|df=}}</ref><ref>{{cite book|last1=Kane|first1=Brigid M.|title=HIV/AIDS Treatment Drugs|date=2008|publisher=Infobase Publishing|isbn=9781438102078|page=56|url=https://books.google.com/books?id=RFNVvStUJlkC&pg=PA56|language=en|deadurl=no|archiveurl=https://web.archive.org/web/20170908213935/https://books.google.com/books?id=RFNVvStUJlkC&pg=PA56|archivedate=2017-09-08|df=}}</ref> It is on the [[World Health Organization's List of Essential Medicines]], the most effective and safe medicines needed in a [[health system]].<ref name=WHO19th>{{cite web|title=WHO Model List of Essential Medicines (19th List)|url=http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|work=World Health Organization|accessdate=8 December 2016|date=April 2015|deadurl=no|archiveurl=https://web.archive.org/web/20161213052708/http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|archivedate=13 December 2016|df=}}</ref> It is available as a [[generic medication]].<ref name=AHFS2015/> The wholesale cost in the [[developing world]] as of 2014 is between 0.36 and 0.83 USD per day.<ref>{{cite web|title=International Drug Price Indicator Guide|url=http://erc.msh.org/dmpguide/resultsdetail.cfm?language=english&code=ABA300T&s_year=2014&year=2014&str=300%20mg&desc=Abacavir&pack=new&frm=TAB-CAP&rte=PO&class_code2=06%2E4%2E2%2E1&supplement=&class_name=%2806%2E4%2E2%2E1%29Nucleoside%2FNucleotide%20reverse%20transcriptase%20inhibitors%3Cbr%3E|website=ERC|accessdate=20 November 2016}}</ref> As of 2016 the wholesale cost for a typical month of medication in the United States is 70.50 USD.<ref name=NAC2016>{{cite web|title=NADAC as of 2016-12-07 {{!}} Data.Medicaid.gov|url=https://data.medicaid.gov/Drug-Prices/NADAC-as-of-2016-12-07/ry9m-tx78|website=Centers for Medicare and Medicaid Services|accessdate=12 December 2016|deadurl=no|archiveurl=https://web.archive.org/web/20161221003023/https://data.medicaid.gov/Drug-Prices/NADAC-as-of-2016-12-07/ry9m-tx78|archivedate=21 December 2016|df=}}</ref> Commonly, abacavir is sold together with other HIV medications, such as [[abacavir/lamivudine/zidovudine]], [[abacavir/dolutegravir/lamivudine]], and [[abacavir/lamivudine]].<ref name=Yu2008 /><ref name=Gov2016 />
+
+== Medical uses ==
+[[Image:Abacavir (Ziagen) 300mg.jpg|thumb|Two Abacavir 300mg tablets]]
+Abacavir tablets and oral solution, in combination with other antiretroviral agents, are indicated for the treatment of HIV-1 infection.
+
+Abacavir should always be used in combination with other antiretroviral agents. Abacavir should not be added as a single agent when antiretroviral regimens are changed due to loss of virologic response.
+
+==Side effects==
+Common adverse reactions include nausea, headache, fatigue, vomiting, diarrhea, loss of appetite and trouble sleeping. Rare but serious side effects include hypersensitivity reaction or rash, elevated AST and ALT, depression, anxiety, fever/chills, URI, lactic acidosis, hypertriglyceridemia, and lipodystrophy.<ref>{{Cite web|url=https://online.epocrates.com/noFrame/showPage.do?method=drugs&MonographId=2043&ActiveSectionId=5|title=Abacavir Adverse Reactions|last=|first=|date=|website=Epocrates Online|archive-url=|archive-date=|dead-url=}}</ref>
+
+People with liver disease should be cautious about using abacavir because it can aggravate the condition. Signs of liver problems include nausea and vomiting, abdominal pain, dark-colored urine and yellowing of the skin or whites of the eyes. The use of [[nucleoside]] drugs such as abacavir can very rarely cause [[lactic acidosis]]. Signs of lactic acidosis include fast or irregular heartbeat, unusual muscle pain, fatigue, difficulty breathing and stomach pain with nausea and vomiting.<ref>{{Cite web|url=https://aidsinfo.nih.gov/drugs/257/abacavir/0/patient/|title=Abacavir {{!}} Dosage, Side Effects {{!}} AIDSinfo|website=AIDSinfo|access-date=2016-11-08|deadurl=no|archiveurl=https://web.archive.org/web/20170306063920/https://aidsinfo.nih.gov/drugs/257/abacavir/0/patient|archivedate=2017-03-06|df=}}</ref> Abacavir can also lead to immune reconstitution inflammatory syndrome, a change in body fat as well as an increased risk of heart attack.
+
+Resistance to abacavir has developed in laboratory versions of HIV which are also resistant to other HIV-specific antiretrovirals such as [[lamivudine]], [[didanosine]] and [[zalcitabine]]. HIV strains that are resistant to [[protease inhibitors]] are not likely to be resistant to abacavir.
+
+Abacavir is contraindicated for use in infants under 3 months of age.
+
+Little is known about the effects of Abacavir overdose. Overdose victims should be taken to a hospital emergency room for treatment.
+
+===Hypersensitivity syndrome===
+[[Hypersensitivity]] to abacavir is strongly associated with a specific allele at the [[human leukocyte antigen]] B [[Locus (genetics)|locus]] namely [[HLA-B57|HLA-B*5701]].<ref>{{cite journal | last=Mallal | first=S., Phillips, E., Carosi, G. | title=HLA-B*5701 screening for hypersensitivity to abacavir | journal=New England Journal of Medicine | year=2008 | volume=358 | issue=6 | pages=568–579 | doi=10.1056/nejmoa0706135 | pmid=18256392 | display-authors=et al.}}</ref><ref>{{cite journal | last=Rauch | first=A., Nolan, D., Martin, A. | title=Prospective genetic screening decreases the incidence of abacavir hypersensitivity reactions in the Western Australian HIV cohort study | journal=Clinical Infectious Diseases | year=2006 | volume=43 | issue=1 | pages=99–102 | doi=10.1086/504874 | pmid=16758424 | display-authors=et al.}}</ref> There is an association between the prevalence of HLA-B*5701 and ancestry. The prevalence of the [[allele]] is estimated to be 3.4 to 5.8 percent on average in populations of European ancestry, 17.6 percent in [[Indian American]]s, 3.0 percent in Hispanic Americans, and 1.2 percent in [[Chinese American]]s.<ref>{{cite journal | last=Heatherington | title=Genetic variations in HLA-B region and hypersensitivity reactions to abacavir | journal=Lancet | year=2002 | volume=359 | issue=9312 | pages=1121–1122 | doi=10.1016/s0140-6736(02)08158-8 | pmid=11943262 | display-authors=et al.}}</ref><ref>{{cite journal | last=Mallal | title=Association between presence of HLA*B5701, HLA-DR7, and HLA-DQ3 and hypersensitivity to HIV-1 reverse-transcriptase inhibitor abacavir | journal=Lancet | year=2002 | volume=359 | issue=9308 | pages=727–732 | doi=10.1016/s0140-6736(02)07873-x | pmid=11888582 | display-authors=et al.}}</ref>  There is significant variability in the prevalence of HLA-B*5701 among African populations. In [[African American]]s, the prevalence is estimated to be 1.0 percent on average, 0 percent in the [[Yoruba people|Yoruba]] from [[Nigeria]], 3.3 percent in the [[Luhya people|Luhya]] from [[Kenya]], and 13.6 percent in the [[Masai people|Masai]] from Kenya, although the average values are derived from highly variable frequencies within sample groups.<ref>{{cite journal | last=Rotimi | first=C. N. | author2=Jorde, L. B. | title=Ancestry and disease in the age of genomic medicine | journal=New England Journal of Medicine |year=2010 | volume=363 | issue=16 | pages=1551–1558 | doi=10.1056/nejmra0911564 | pmid=20942671}}</ref>
+
+Common symptoms of abacavir hypersensitivity syndrome include [[fever]], [[malaise]], [[nausea]], and [[diarrhea]]. Some patients may also develop a [[Rash|skin rash]].<ref>{{cite journal | last=Phillips | first=E., Mallal, S. | title=Successful translation of pharmacogenetics into the clinic | journal=Molecular Diagnosis & Therapy | year=2009 | volume=13 | pages=1–9 | doi=10.1007/bf03256308}}</ref> Symptoms of AHS typically manifest within six weeks of treatment using abacavir, although they may be confused with symptoms of [[HIV]], immune restoration disease, hypersensitivity syndromes associated with other drugs, or infection.<ref>{{cite journal | last=Phillips | first=E., Mallal S.| title=Drug hypersensitivity in HIV | journal=Current Opinion in Allergy and Clinical Immunology | year=2007 | volume=7 | issue=4 | pages=324–330 | doi=10.1097/aci.0b013e32825ea68a | pmid=17620824}}</ref> The U.S. [[Food and Drug Administration]] (FDA) released an alert concerning abacavir and abacavir-containing medications on July 24, 2008,<ref>{{Cite web|url=http://www.fda.gov/drugs/drugsafety/postmarketdrugsafetyinformationforpatientsandproviders/ucm123927.htm|title=Postmarket Drug Safety Information for Patients and Providers - Information for Healthcare Professionals: Abacavir (marketed as Ziagen) and Abacavir-Containing Medications|last=|first=|date=|website=Center for Drug Evaluation and Research at the US FDA|language=en|archive-url=https://web.archive.org/web/20131211024108/http://www.fda.gov/drugs/drugsafety/postmarketdrugsafetyinformationforpatientsandproviders/ucm123927.htm|archive-date=2013-12-11|dead-url=no|access-date=2013-11-29|df=}}</ref> and the FDA-approved drug label for abacavir recommends pre-therapy screening for the HLA-B*5701 allele and the use of alternative therapy in subjects with this allele.<ref>{{cite web |url=http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ca73b519-015a-436d-aa3c-af53492825a1 |title=Archived copy |accessdate=2014-07-31 |deadurl=no |archiveurl=https://web.archive.org/web/20140808105100/http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ca73b519-015a-436d-aa3c-af53492825a1 |archivedate=2014-08-08 |df= }}</ref> Additionally, both the Clinical Pharmacogenetics Implementation Consortium and the Dutch Pharmacogenetics Working Group recommend use of an alternative therapy in individuals with the HLA-B*5701 allele.<ref>{{cite journal | vauthors=Swen JJ, Nijenhuis M, de Boer A | title=Pharmacogenetics: from bench to byte--an update of guidelines | journal=Clin Pharmacol Ther. | volume=89 | issue=5 | pages=662–73 | date=May 2011 | pmid=21412232 | doi=10.1038/clpt.2011.34 | display-authors=et al.}}</ref><ref>{{cite journal | vauthors=Martin MA, Hoffman JM, Freimuth RR | title=Clinical Pharmacogenetics Implementation Consortium Guidelines for HLA-B Genotype and Abacavir Dosing: 2014 update | journal=Clin Pharmacol Ther. |volume=95 | issue=5 | pages=499–500 | date=May 2014 | pmid= 24561393 | pmc=3994233 | doi=10.1038/clpt.2014.38 | display-authors=etal}}</ref>
+
+[[File:Epikutanni-test.jpg|thumb|[[Patch test]]]]
+
+[[Patch test|Skin-patch testing]] may also be used to determine whether an individual will experience a hypersensitivity reaction to abacavir, although some patients susceptible to developing AHS may not react to the patch test.<ref>{{cite journal | last=Shear | first=N.H., Milpied, B., Bruynzeel, D. P. | title=A review of drug patch testing and implications for HIV clinicians | journal=AIDS | year=2008 | volume=22 | issue=9 | pages=999–1007 | doi=10.1097/qad.0b013e3282f7cb60|pmid=18520343 | display-authors=et al.}}</ref>
+
+The development of suspected hypersensitivity reactions to abacavir requires immediate and permanent discontinuation of abacavir therapy in all patients, including patients who do not possess the HLA-B*5701 allele. On March 1, 2011, the FDA informed the public about an ongoing safety review of abacavir and a possible increased risk of heart attack associated with the drug. A [[meta-analysis]] of 26 studies conducted by the FDA, however, did not find any association between abacavir use and heart attack <ref>{{Cite news|url=http://www.drugs.com/fda/abacavir-ongoing-safety-review-possible-increased-risk-heart-attack-12914.html|title=FDA Alert: Abacavir - Ongoing Safety Review: Possible Increased Risk of Heart Attack|last=|first=|date=|work=Drugs.com|access-date=2013-11-29|archive-url=https://web.archive.org/web/20131210144028/http://www.drugs.com/fda/abacavir-ongoing-safety-review-possible-increased-risk-heart-attack-12914.html|archive-date=2013-12-10|dead-url=no|language=en-US|df=}}</ref><ref>{{cite journal | vauthors=Ding X, Andraca-Carrera E, Cooper C | title=No association of abacavir use with myocardial infarction: findings of an FDA meta-analysis | journal=J Acquir Immune Defic Syndr. | volume=61 | issue=4 | pages=441–7 | date=December 2012 | pmid=22932321 | doi=10.1097/QAI.0b013e31826f993c | display-authors=et al.}}</ref>
+
+===Immunopathogenesis===
+The mechanism underlying abacavir hypersensitivity syndrome is related to the change in the HLA-B*5701 [[protein]] product. Abacavir binds with high specificity to the HLA-B*5701 protein, changing the shape and chemistry of the antigen-binding cleft. This results in a change in [[Immune tolerance|immunological tolerance]] and the subsequent activation of abacavir-specific [[cytotoxic T cell]]s, which produce a systemic reaction known as abacavir hypersensitivity syndrome.<ref>{{cite journal | last1 = Illing | first1 = PT | display-authors = etal   | year = 2012 | title = Immune self-reactivity triggered by drug-modified HLA-peptide repertoire| url = | journal = Nature| volume =  486| issue = | pages =  554–8| doi = 10.1038/nature11147 | pmid=22722860}}</ref>
+
+== Interaction ==
+Abacavir, and in general [[Reverse-transcriptase inhibitor|NRTIs]], do not undergo hepatic metabolism and therefore have very limited (to none) interaction with the CYP enzymes and drugs that effect these enzymes. That being said there are still few interactions that can affect the absorption or the availability of abacavir. Below are few of the common established drug and food interaction that can take place during abacavir co-administration:
+
+*[[Protease inhibitors]] such as [[tipranavir]] or [[ritonovir]] may decrease the serum concentration of abacavir through induction of glucuronidation. Abacavir is metabolized by both alcohol dehydrogenase and glucuronidation.<ref name=":3">Prescribing information. Ziagen (abacavir). Research Triangle Park, NC: GlaxoSmithKline, July 2002</ref><ref>{{cite journal | last1 = Vourvahis | first1 = M | last2 = Kashuba | first2 = AD | year = 2007 | title = Mechanisms of Pharmacokinetic and Pharmacodynamic Drug Interactions Associated with Ritonavir-Enhanced Tipranavir | url = | journal = Pharmacotherapy | volume = 27 | issue = | pages = 888–909 | pmid = 17542771 | doi=10.1592/phco.27.6.888}}</ref>
+*[[Ethanol]] may result in increased levels of abacavir through the inhibition of alcohol dehydrogenase. Abacavir is metabolized by both alcohol dehydrogenase and glucuronidation.<ref name=":3" /><ref>{{cite journal | last1 = McDowell | first1 = JA | last2 = Chittick | first2 = GE | last3 = Stevens | first3 = CP | display-authors = 3 | last4 = et al | year = 2000 | title = ", "Pharmacokinetic Interaction of Abacavir (1592U89) and Ethanol in Human Immunodeficiency Virus-Infected Adults | url = | journal = Antimicrob Agents Chemother | volume = 44 | issue = 6| pages = 1686–90 | doi=10.1128/aac.44.6.1686-1690.2000}}</ref>
+*[[Methadone]] may diminish the therapeutic effect of Abacavir. Abacavir may decrease the serum concentration of Methadone.<ref>{{cite journal | last1 = Berenguer | first1 = J | last2 = Perez-Elias | first2 = MJ | last3 = Bellon | first3 = JM | display-authors = 3 | last4 = et al | year = 2006 | title = Effectiveness and safety of abacavir, lamivudine, and zidovudine in antiretroviral therapy-naive HIV-infected patients: results from a large multicenter observational cohort | url = | journal = J Acquir Immune Defic Syndr | volume = 41 | issue = 2| pages = 154–159 | pmid = 16394846 | doi=10.1097/01.qai.0000194231.08207.8a}}</ref><ref>Dolophine(methadone) [prescribing information]. Columbus, OH: Roxane Laboratories, Inc.; March 2015.</ref>
+*[[Orlistat]] may decrease the serum concentration of Antiretroviral Agents. The mechanism of this interaction is not fully established but it is suspected that it is due to the decrease absorption of abacavirby orlistat.<ref>{{cite journal | last1 = Gervasoni | first1 = C | last2 = Cattaneo | first2 = D | last3 = Di Cristo | first3 = V | display-authors = 3 | last4 = et al | year = 2016 | title = Orlistat: weight lost at cost of HIV rebound | url = | journal = J Antimicrob Chemother | volume = 71 | issue = 6| pages = 1739–1741 | pmid = 26945709 | doi=10.1093/jac/dkw033}}</ref>
+*[[Cabozantinib]]: Drugs from the MPR2 inhibitor (Multidrug resistance-associated protein 2 inhibitors) family such as abacavir could increase the serum concentration of Cabozantinib.<ref>Cometriq (cabozantinib) [prescribing information]. South San Francisco, CA: Exelixis, Inc.; May 2016.</ref>
+
+== Mechanism of action ==
+Abacavir is a [[Nucleoside Reverse Transcriptase Inhibitor|nucleoside reverse transcriptase inhibitor]] that inhibits [[viral replication]]. It is a [[guanosine]] analogue that is phosphorylated to carbovir triphosphate (CBV-TP). CBV-TP competes with the viral molecules and is incorporated  into the viral [[DNA]]. Once CBV-TP is integrated into the viral DNA, [[transcription (genetics)|transcription]] and [[HIV reverse transcriptase]] is inhibited.<ref name=":2">Product Information: ZIAGEN(R) oral tablets, oral solution, abacavir sulfate oral tablets, oral solution. ViiV Healthcare (per Manufacturer), Research Triangle Park, NC, 2015.</ref>
+
+== Pharmacokinetics ==
+Abacavir is given orally and is rapidly absorbed with a high [[bioavailability]] of 83%. Solution and tablet have comparable  concentrations and bioavailability. Abacavir can be taken with or without food.
+
+Abacavir can cross the [[Blood–brain barrier|blood-brain barrier]]. Abacavir is metabolized primarily through the enzymes [[alcohol dehydrogenase]] and [[Glucuronosyltransferase|glucuronyl transferase]] to an inactive [[carboxylate]] and [[glucuronide]] metabolites. It has a [[Half-life|half life]] of approximately 1.5-2.0 hours. If a person has [[liver failure]], abacavir’s half life is increased by 58%.
+
+Abacavir is eliminated via excretion in the urine (83%) and feces (16%). It is unclear whether abacavir can be removed by [[hemodialysis]] or [[peritoneal dialysis]].<ref name=":2" />
+
+== History ==
+Abacavir was approved by the [[Food and Drug Administration]] (FDA) on December 18, 1998, and is thus the fifteenth approved antiretroviral drug in the United States. Its patent expired in the United States on 2009-12-26.
+
+Robert Vince and Susan Daluge in the '80s along with a visiting scientist from China, Mei Hua, developed the medication.<ref>{{cite web|title=Dr. Robert Vince - 2010 Inductee|url=http://www.minnesotainventors.org/inductees/robert-vince.html|website=Minnesota Inventors Hall of Fame|publisher=Minnesota Inventors Hall of Fame|accessdate=10 February 2016|deadurl=no|archiveurl=https://web.archive.org/web/20160215215827/http://www.minnesotainventors.org/inductees/robert-vince.html|archivedate=15 February 2016|df=}}</ref><ref>{{cite web|last1=Vince|first1=R.|url=http://drugdesign.umn.edu/bio/cdd-faculty-staff/robert-vince|website=University of Minnesota|publisher=University of Minnesota|deadurl=no|archiveurl=https://web.archive.org/web/20160217084119/http://drugdesign.umn.edu/bio/cdd-faculty-staff/robert-vince|archivedate=2016-02-17|df=}}</ref><ref name="pmid9145874">{{cite journal|date=May 1997|title=1592U89, a novel carbocyclic nucleoside analog with potent, selective anti-human immunodeficiency virus activity|url=|journal=Antimicrobial Agents and Chemotherapy|volume=41|issue=5|pages=1082–1093|doi=|pmc=163855|pmid=9145874|vauthors=Daluge SM, Good SS, Faletto MB, Miller WH, St Clair MH, Boone LR, Tisdale M, Parry NR, Reardon JE, Dornsife RE, Averett DR}}</ref>
+
+==Synthesis==
+[[File:Abacavir synthesis.png|thumb|700px|center|Abacavir synthesis:<ref>{{Cite journal | doi = 10.1021/jo960708p| pmid = 11667311| title = An Efficient Asymmetric Approach to Carbocyclic Nucleosides:  Asymmetric Synthesis of 1592U89, a Potent Inhibitor of HIV Reverse Transcriptase| journal = The Journal of Organic Chemistry| volume = 61| issue = 13| pages = 4192–4193| year = 1996| last1 = Crimmins | first1 = M. T. | last2 = King | first2 = B. W. }}</ref>]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://web.archive.org/web/20060502035258/http://us.gsk.com/products/assets/us_ziagen.pdf Full Prescribing Information]
+* [http://www.pharmgkb.org/pathway/PA166104634 Abacavir pathway on PharmGKB]
+* [http://www.pharmgkb.org/guideline/PA166104997 Abacavir dosing guidelines from the Clinical Pharmacogenetics Implementation Consortium (CPIC)]
+* [http://www.pharmgkb.org/guideline/PA166104991 Abacavir dosing guidelines from the Dutch Pharmacogenetics Working Group (DPWG)]
+
+{{HIVpharm}}
+{{GlaxoSmithKline}}
+
+[[Category:Acetaldehyde dehydrogenase inhibitors]]
+[[Category:Hepatotoxins]]
+[[Category:Nucleoside analog reverse transcriptase inhibitors]]
+[[Category:Purines]]
+[[Category:World Health Organization essential medicines]]
+[[Category:Cyclopropanes]]
+[[Category:RTT]]
+[[Category:Cyclopentenes]]

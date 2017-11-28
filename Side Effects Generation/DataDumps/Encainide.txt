@@ -1,0 +1,101 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 461093505
+| IUPAC_name = 4-Methoxy-''N''-[2-(1-methyl-2-piperidin-1-ylethyl)phenyl]benzamide
+| image = Encainide.svg
+
+<!--Clinical data-->
+| tradename = Enkaid
+| Drugs.com = {{drugs.com|CONS|encainide}}
+| MedlinePlus = a605040
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status = Withdrawn
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 66778-36-7
+| ATC_prefix = C01
+| ATC_suffix = BC08
+| ATC_supplemental =
+| PubChem = 48041
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB01228
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 315838
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 43697
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = SY3J0147NB
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07894
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 4788
+
+<!--Chemical data-->
+| C=22 | H=28 | N=2 | O=2
+| molecular_weight = 352.47 g/mol
+| smiles = CN1CCCCC1CCC2=CC=CC=C2NC(=O)C3=CC=C(C=C3)OC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H28N2O2/c1-24-16-6-5-8-19(24)13-10-17-7-3-4-9-21(17)23-22(25)18-11-14-20(26-2)15-12-18/h3-4,7,9,11-12,14-15,19H,5-6,8,10,13,16H2,1-2H3,(H,23,25)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = PJWPNDMDCLXCOM-UHFFFAOYSA-N
+}}
+
+'''Encainide''' (trade name '''Enkaid''') is a class Ic [[antiarrhythmic agent]]. It is no longer used because of its frequent [[proarrhythmic]] side effects.<ref>{{Cite journal
+| last1 = Echt | first1 = D. S.
+| last2 = Liebson | first2 = P. R.
+| last3 = Mitchell | first3 = L. B.
+| last4 = Peters | first4 = R. W.
+| last5 = Obias-Manno | first5 = D.
+| last6 = Barker | first6 = A. H.
+| last7 = Arensberg | first7 = D.
+| last8 = Baker | first8 = A.
+| last9 = Friedman | first9 = L.
+| last10 = Greene
+| doi = 10.1056/NEJM199103213241201 | first10 = H. L.
+| last11 = Huther | first11 = M. L.
+| last12 = Richardson | first12 = D. W.
+| title = Mortality and Morbidity in Patients Receiving Encainide, Flecainide, or Placebo
+| journal = New England Journal of Medicine
+| volume = 324
+| issue = 12
+| pages = 781–788
+| year = 1991
+| pmid = 1900101
+| pmc =
+}}</ref>
+
+==Synthesis==
+[[File:Encainide synthesis.png|thumb|700px|center|Encainide synthesis:<ref>S.J. Dykstra, J.L. Minelli, {{Cite patent|DE|2210154}} (1972).</ref><ref>S.J. Dykstra, J.L. Minelli, {{US Patent|3931195}} (1976).</ref><ref>{{cite journal | doi = 10.1021/jm00267a012 | pmid=4745503 | title=Lysergic acid and quinidine analogs. 2-(o-Acylaminophenethyl)piperidines | journal=Journal of Medicinal Chemistry | date=1973 | volume=16 | issue=9 | pages=1015–1020 | first=Stanley J. | last=Dykstra}}</ref>]]
+
+==See also==
+* [[Cardiac Arrhythmia Suppression Trial]]
+
+==References==
+{{reflist}}
+
+{{Sodium channel blockers}}
+{{Antiarrhythmic agents}}
+
+[[Category:Antiarrhythmic agents]]
+[[Category:Benzanilides]]
+[[Category:Phenol ethers]]
+[[Category:Piperidines]]
+[[Category:Sodium channel blockers]]
+[[Category:Withdrawn drugs]]
+
+{{cardiovascular-drug-stub}}

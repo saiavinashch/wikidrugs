@@ -1,0 +1,52 @@
+{{Drugbox
+| IUPAC_name = ''N'',''N''-dimethyl-2-(1-methyl-4,9-dihydro-3''H''-indeno[2,3-c]pyran-1-yl)ethanamine
+| image = Pirandamine.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_category =  
+| legal_status = Uncontrolled
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number = 57932-12-4
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 431429
+| ChemSpiderID = 381558
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = WC6V8L1Z13
+
+<!--Chemical data-->
+| C=17 | H=23 | N=1 | O=1 
+| molecular_weight = 257.37 g/mol
+| smiles            = CC1(C2=C(CCO1)C3=CC=CC=C3C2)CCN(C)C
+| StdInChI          = 1S/C17H23NO/c1-17(9-10-18(2)3)16-12-13-6-4-5-7-14(13)15(16)8-11-19-17/h4-7H,8-12H2,1-3H3
+| StdInChIKey       = AMJPIGOYWBNJLP-UHFFFAOYSA-N
+}}
+
+'''Pirandamine''' ('''AY-23,713''') is a [[tricyclic]] [[chemical derivative|derivative]] which acts as a [[selective serotonin reuptake inhibitor]] (SSRI).<ref name="pmid1085452">{{cite journal | vauthors = Pugsley T, Lippmann W | title = Effects of tandamine and pirandamine, new potential antidepressants, on the brain uptake of norepinephrine and 5-hydroxytryptamine and related activities | journal = Psychopharmacology | volume = 47 | issue = 1 | pages = 33–41 |date=May 1976 | pmid = 1085452 | doi = 10.1007/BF00428698| url = }}</ref><ref name="pmid1088377">{{cite journal | vauthors = Lippmann W, Pugsley TA | title = Pirandamine, a relatively selective 5-hydroxytryptamine uptake inhibitor | journal = Pharmacological Research Communications | volume = 8 | issue = 4 | pages = 387–405 |date=August 1976 | pmid = 1088377 | doi = 10.1016/0031-6989(76)90039-4| url = }}</ref><ref name="pmid853871">{{cite journal | vauthors = Lippmann W, Seethaler K | title = Effects of tandamine and pirandamine, selective blockers of biogenic amine uptake mechanisms, on gastric acid secretion and ulcer formation in the rat | journal = Life Sciences | volume = 20 | issue = 8 | pages = 1393–400 |date=April 1977 | pmid = 853871 | doi = 10.1016/0024-3205(77)90367-8| url = }}</ref> It was investigated in the 1970s as a potential [[antidepressant]] but clinical development was not commenced and it was never marketed.<ref name="pmid1085452" /> Pirandamine is [[chemical structure|structurally]] related to [[tandamine]], which, in contrast, is a selective [[norepinephrine reuptake inhibitor]].<ref name="pmid1085452" /><ref name="pmid853871" />
+
+==Synthesis==
+[[File:Pirandamine synthesis.svg|thumb|center|700px|Pirandamine synthesis:<ref>I. Jirkovsky, L. G. Humber and R. Noureldin,Eur. J. Med. Chem., 11, 571 (1976).</ref>]]
+Condensation of 1-[[indanone]] ('''1''') with [[ethyl bromoacetate]] and zinc affords [[Reformatsky reaction]] product '''2'''; then reduction with [[LiAlH4|LiAlH<sub>4</sub>]] gives diol '''3'''. Dehydration with [[H2SO4|H<sub>2</sub>SO<sub>4</sub>]] gives the indene ethanol '''4'''. Acid catalyzed condensation of '''4''' with ethyl acetoacetate then gives the fused tetrahydropyran derivative '''5''' (no doubt by a scheme quite analogous to [[prodolic acid]]). The ester is then saponified to the corresponding acid, which is then converted to the dimethylamide ('''6'''). Reduction with [[LiAlH4|LiAlH<sub>4</sub>]] completes the synthesis of the antidepressant agent pirandamine ('''7''').
+
+== See also ==
+* [[Tandamine]]
+*[[Prindamine]] (21489-22-5)<ref>http://www.chemicalbook.com/ProductChemicalPropertiesCB71179577_EN.htm</ref>
+
+== References ==
+{{Reflist|2}}
+
+{{Antidepressants}}
+{{Anxiolytics}}
+{{Monoamine reuptake inhibitors}}
+{{Tricyclics}}
+
+[[Category:Dihydropyrans]]

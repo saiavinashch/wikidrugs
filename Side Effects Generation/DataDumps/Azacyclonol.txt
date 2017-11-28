@@ -1,0 +1,51 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 458783562
+| IUPAC_name = Diphenyl(piperidin-4-yl)methanol
+| image = Azacyclonol.svg
+
+<!--Clinical data-->
+| tradename =
+| legal_status = Rx-only
+| routes_of_administration = [[Oral administration|Oral]]
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 115-46-8
+| CAS_supplemental = <br />{{CAS|1798-50-1}} ([[Hydrochloride|HCl]])
+| ATC_prefix = none
+| PubChem = 15723
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 14952
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 2MMR990PEM
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 127508
+| synonyms = MER-17; MDL-4829; Diphenylmethanolpiperidine
+
+<!--Chemical data-->
+| C=18 | H=21 | N=1 | O=1
+| molecular_weight = 267.37 g/mol
+| SMILES = OC(c1ccccc1)(c2ccccc2)C3CCNCC3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C18H21NO/c20-18(15-7-3-1-4-8-15,16-9-5-2-6-10-16)17-11-13-19-14-12-17/h1-10,17,19-20H,11-14H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ZMISODWVFHHWNR-UHFFFAOYSA-N
+}}
+
+'''Azacyclonol''' (trade names '''Ataractan''', '''Calmeran''', '''Frenoton''', '''Frenquel''', '''Psychosan'''), also known as '''γ-[[pipradrol]]''', is a [[drug]] which is an [[ataractive]]; an agent which diminishes [[hallucination]]s in [[psychotic]] individuals.<ref name="pmid13368052">{{Cite journal|vauthors=BRAUN DL, BROWN BB, FELDMAN RG | title = The pharmacologic activity of alpha-(4-piperidyl)-benzhydrol hydrochloride (azacyclonol hydrochloride); an ataractive agent | journal = The Journal of Pharmacology and Experimental Therapeutics | volume = 118 | issue = 2 | pages = 153–61 |date=October 1956 | pmid = 13368052 | doi = | url = http://jpet.aspetjournals.org/cgi/pmidlookup?view=long&pmid=13368052}}</ref><ref name="isbn3-88763-075-0">{{Cite book| author = Swiss Pharmaceutical Society | title = Index Nominum 2000: International Drug Directory (Book with CD-ROM) | publisher = Medpharm Scientific Publishers | location = Boca Raton | year = 2000 | pages = | isbn = 3-88763-075-0 | oclc = | doi = | url = https://books.google.com/books?id=5GpcTQD_L2oC&lpg=PA84&pg=PA84#v=onepage&q&f=false}}</ref> It has also been called a [[tranquilizer]] and [[antipsychotic]], though these definitions are not accurate as it does not actually possess such properties. Despite being a [[positional isomer]] of [[pipradrol]], it is not a [[psychostimulant]], and instead has mild [[depressant]] effects.<ref name="pmid13368052"/><ref name="pmid13944436">{{Cite journal| author = FARRANT J | title = Interactions between cocaine, tyramine and noradrenaline at the noradrenaline store | journal = [[British Journal of Pharmacology and Chemotherapy]] | volume = 20 | issue = 3| pages = 540–9 |date=June 1963 | pmid = 13944436 | pmc = 1703814 | doi = 10.1111/j.1476-5381.1963.tb01491.x| url = }}</ref>
+
+The drug was introduced in [[Europe]] in the mid-1950s for the treatment of [[schizophrenia]] likely because it was found to attenuate the subjective [[psychedelic drug|psychedelic]] effects of [[lysergic acid diethylamide|LSD]] and [[mescaline]] in humans.<ref name="pmid13368052"/><ref name="pmid13383414">{{Cite journal|vauthors=FORSTER W, HENDERSON AL | title = A clinical study of Frenquel (alpha (4-piperidyl) benzhydrol hydrochloride) in chronic schizophrenia | journal = Canadian Medical Association Journal | volume = 76 | issue = 2 | pages = 97–101 |date=January 1957 | pmid = 13383414 | pmc = 1823487 | doi = | url = }}</ref> However, due to poor and mixed clinical effectiveness<ref name="pmid13383414"/> it never gained widespread acceptance and was eventually discontinued.
+
+Azacyclonol is also known as '''diphenylmethanolpiperidine''' and is the [[parent structure]] of the [[antihistamine]]s [[fexofenadine]] and [[terfenadine]]. Terfenadine produces azacyclonol as a major [[active metabolite]].<ref name="pmid8738042">{{Cite journal| author = Martens J | title = Determination of the terfenadine metabolite azacyclonol in human serum using gas chromatography-mass spectrometry | journal = Journal of Chromatography B | volume = 678 | issue = 2 | pages = 349–53 |date=April 1996 | pmid = 8738042 | doi = 10.1016/0378-4347(95)00561-7| url = }}</ref>
+
+It is made by the organometallic addition of 4-bromopyridine to [[benzophenone]], followed by catalytic hydrogenation of the pyridine heteroaromatic ring system to the corresponding piperidine.<ref>Campen Jr Marcus G Van, Pogge Raymond C, Schumann Edward L; [[Marion Merrell Dow|Wm S Merrell Co]]; {{US patent|2804422}} (1957).</ref>
+
+==References==
+{{Reflist}}
+
+{{Antipsychotics}}
+
+[[Category:Antipsychotics]]
+[[Category:Piperidines]]
+[[Category:Tertiary alcohols]]

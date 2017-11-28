@@ -1,0 +1,69 @@
+{{redir|Propine|the hydrocarbon compound|propyne}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 460793250
+| IUPAC_name = [2-(2,2-Dimethylpropanoyloxy)-4-(1-hydroxy-2-methylamino-ethyl)-phenyl]  2,2-dimethylpropanoate
+| image = Dipivefrine.svg
+<!--Clinical data-->
+| tradename = Propine, Pivalephrine
+| Drugs.com = {{drugs.com|international|dipivefrine}}
+| MedlinePlus = a686005
+| pregnancy_US = B
+| legal_status = Rx-only
+| routes_of_administration = Eye drops
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life =  
+<!--Identifiers-->
+| IUPHAR_ligand = 7166
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 52365-63-6
+| ATC_prefix = S01
+| ATC_suffix = EA02
+| ATC_supplemental =  
+| PubChem = 3105
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00449
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2994
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 8Q1PVL543G
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02349
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 4646
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201262
+| synonyms = Dipivefrin
+<!--Chemical data-->
+| C=19 | H=29 | N=1 | O=5
+| molecular_weight = 351.437 g/mol
+| smiles = O=C(Oc1cc(ccc1OC(=O)C(C)(C)C)C(O)CNC)C(C)(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H29NO5/c1-18(2,3)16(22)24-14-9-8-12(13(21)11-20-7)10-15(14)25-17(23)19(4,5)6/h8-10,13,20-21H,11H2,1-7H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OCUJLLGVOUDECM-UHFFFAOYSA-N
+}}
+
+'''Dipivefrine''' ([[International nonproprietary name|INN]]) or '''dipivefrin''' ([[United States Adopted Name|USAN]]), trade name '''Propine''' among others, is a [[prodrug]] of [[epinephrine]], and is used to treat open-angle [[glaucoma]].<ref name=ess>{{cite book|title=Essentials of Medical Pharmacology|publisher=Jaypee Brothers Medical Publishers(P) Ltd.|isbn=81-8061-187-6|page=88|author=KD Tripari|edition=5}}</ref><ref name="Drugs.com">Dipivefrin {{Drugs.com|pro|dipivefrin}}.</ref> It is available{{fact|date=January 2017}} as a 0.1% ophthalmic solution. It is no longer available in the United States.<ref name="Zhang">{{cite journal | author=Zhang L, Weizer JS, Musch DC | title= Perioperative medications for preventing temporarily increased intraocular pressure after laser trabeculoplasty | journal= Cochrane Database Syst Rev | volume= | issue= 2 | pages= CD010746 | date= 2017 | pmid= 28231380 | doi= 10.1002/14651858.CD010746.pub2}}</ref>
+
+==Contraindications==
+Use in narrow-angle glaucoma may be dangerous because it could make the eye susceptible to an attack of angle closure,<ref name="Drugs.com"/> causing an increase in pressure and pain, and possibly loss of vision.
+
+==Side effects==
+The most common side effects of dipivefrine are burning, stinging and other irritations of the eye. Possible, but uncommon, side effects are those of epinephrine: [[tachycardia]] (fast heartbeat), [[hypertension]] (high blood pressure) and [[arrhythmia]]s (irregular heartbeat).<ref name="Drugs.com"/>
+
+==Pharmacology==
+Dipivefrine penetrates the [[cornea]] and is then hydrolysed to epinephrine by [[esterase]] enzymes. It increases outflow of the [[aqueous humour]] and also reduces its formation (mediated by its action on [[Alpha-1 adrenergic receptor|α<sub>1</sub>]] and [[Alpha-2 adrenergic receptor|α<sub>2</sub> receptors]]), thus reducing [[intraocular pressure|pressure inside the eye]]. It also increases the conductivity of [[Trabecular meshwork|trabecular]] filtering cells (a [[Beta-2 adrenergic receptor|β<sub>2</sub> receptor]] mediated action). It is preferred to epinephrine because it is longer acting, more consistent in its action and better tolerated.<ref name=ess/>
+
+==References==
+{{Reflist}}
+
+{{Opthalmologicals}}
+
+[[Category:Prodrugs]]
+[[Category:Pivalates]]
+[[Category:Catecholamines]]
+[[Category:Alcohols]]

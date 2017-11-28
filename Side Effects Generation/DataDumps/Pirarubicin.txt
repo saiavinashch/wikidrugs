@@ -1,0 +1,75 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 408701869
+| IUPAC_name = (3''S'')-3-glycoloyl-3,5,12-trihydroxy-10-methoxy-6,11-dioxo-1,2,3,4,6,11-hexahydrotetracen-1-yl 3-amino-2,3,6-trideoxy-4-''O''-[(2''R'')-tetrahydro-2''H''-pyran-2-yl]-α-<small>L</small>-''lyxo''-hexopyranoside
+| image = Pirarubicin.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|pirarubicin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 72496-41-4
+| ATC_prefix = L01
+| ATC_suffix = DB08
+| ATC_supplemental =  
+| PubChem = 3033521
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = D58G680W0G
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01885
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1398373
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 2298189
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=32 | H=37 | N=1 | O=12 
+| molecular_weight = 627.63 g/mol
+| smiles = C[C@H]1[C@H]([C@H](C[C@@H](O1)OC2C[C@@](CC3=C(C4=C(C(=C23)O)C(=O)C5=C(C4=O)C=CC=C5OC)O)(C(=O)CO)O)N)O[C@@H]6CCCCO6
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C32H37NO12/c1-14-31(45-21-8-3-4-9-42-21)17(33)10-22(43-14)44-19-12-32(40,20(35)13-34)11-16-24(19)30(39)26-25(28(16)37)27(36)15-6-5-7-18(41-2)23(15)29(26)38/h5-7,14,17,19,21-22,31,34,37,39-40H,3-4,8-13,33H2,1-2H3/t14-,17-,19?,21+,22-,31+,32-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = KMSKQZKKOZQFFG-YHKVCKOMSA-N
+| synonyms = <small>(9''S'')-7-[(2''R'',4''S'',5''S'',6''S'')-4-amino-6-methyl-5-[(2''R'')-oxan-2-yl]oxyoxan-2-yl]oxy-6,9,11-trihydroxy-9-(2-hydroxyacetyl)-4-methoxy-8,10-dihydro-7''H''-tetracene-5,12-dione</small>
+| melting_point     = 188
+| melting_high      = 192
+| melting_notes     = (decomposes)
+}}
+
+'''Pirarubicin''' ([[International Nonproprietary Name|INN]]) is an [[anthracycline]] drug.
+An analogue of the anthracycline antineoplastic antibiotic doxorubicin. Pirarubicin intercalates into DNA and interacts with topoisomerase II, thereby inhibiting DNA replication and repair and RNA and protein synthesis. This agent is less cardiotoxic than doxorubicin and exhibits activity against some doxorubicin-resistant cell lines. 
+
+{{Chemotherapeutic agents}}
+
+
+[[Category:Anthracyclines]]
+[[Category:Topoisomerase inhibitors]]
+[[Category:Tetrahydropyrans]]
+[[Category:Phenols]]
+[[Category:Phenol ethers]]
+[[Category:DNA intercalaters]]
+
+
+{{antineoplastic-drug-stub}}

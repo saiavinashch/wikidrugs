@@ -1,0 +1,70 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 458779888
+| ImageFile = Atevirdine structure.svg
+| ImageSize = 220px
+| IUPACName = [4-[3-(Ethylamino)pyridin-2-yl]piperazin-1-yl]-(5-methoxy-1''H''-indol-2-yl)methanone
+| OtherNames =
+
+| Section1 = {{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = N24015WC6D
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 54835
+| InChI = 1/C21H25N5O2/c1-3-22-18-5-4-8-23-20(18)25-9-11-26(12-10-25)21(27)19-14-15-13-16(28-2)6-7-17(15)24-19/h4-8,13-14,22,24H,3,9-12H2,1-2H3
+| InChIKey = UCPOMLWZWRTIAA-UHFFFAOYAK
+| CASNo_Ref = {{cascite|changed|??}}
+| CASNo = 136816-75-6
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H25N5O2/c1-3-22-18-5-4-8-23-20(18)25-9-11-26(12-10-25)21(27)19-14-15-13-16(28-2)6-7-17(15)24-19/h4-8,13-14,22,24H,3,9-12H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = UCPOMLWZWRTIAA-UHFFFAOYSA-N
+| PubChem = 60848
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 280527
+| SMILES = O=C(N2CCN(c1ncccc1NCC)CC2)c4cc3cc(OC)ccc3n4
+}}
+
+| Section2 = {{Chembox Properties
+| Formula = C<sub>21</sub>H<sub>25</sub>N<sub>5</sub>O<sub>2</sub>
+| MolarMass = 379.46 g/mol
+| Appearance =
+| Density =
+| MeltingPt =
+| BoilingPt =
+| Solubility =
+  }}
+
+|Section3 = {{Chembox Hazards
+| MainHazards =
+| FlashPt =
+| AutoignitionPt =
+  }}
+}}
+
+'''Ateviridine''' is [[non-nucleoside reverse transcriptase inhibitor]] that has been studied for the treatment of [[HIV]].<ref name="pmid10774589">{{cite journal |vauthors=Morse GD, Reichman RC, Fischl MA |title=Concentration-targeted phase I trials of atevirdine mesylate in patients with HIV infection: dosage requirements and pharmacokinetic studies. The ACTG 187 and 199 study teams |journal=Antiviral Res. |volume=45 |issue=1 |pages=47–58 |date=January 2000 |pmid=10774589 |doi= 10.1016/S0166-3542(99)00073-X|url=http://linkinghub.elsevier.com/retrieve/pii/S016635429900073X|display-authors=etal}}</ref>
+
+==Synthesis==
+[[File:Atevirdine synthesis.png|thumb|center|500px|Atevirdine synthesis:<ref>D. L. Romero, Drugs Future 19, 9 (1995).</ref><ref>D. L. Romero et al., {{Cite patent|WO|9109849}} (1991 to [[Upjohn]]).</ref> [[Structure-activity relationship|SAR]]:<ref>{{Cite journal | doi = 10.1021/jm00033a018| pmid = 7512142| title = Discovery, Synthesis, and Bioactivity of Bis(heteroaryl)piperazines. 1. A Novel Class of Non-Nucleoside HIV-1 Reverse Transcriptase Inhibitors| journal = Journal of Medicinal Chemistry| volume = 37| issue = 7| pages = 999| year = 1994| last1 = Romero | first1 = D. L. | last2 = Morge | first2 = R. A. | last3 = Biles | first3 = C. | last4 = Berrios-Pena | first4 = N. | last5 = May | first5 = P. D. | last6 = Palmer | first6 = J. R. | last7 = Johnson | first7 = P. D. | last8 = Smith | first8 = H. W. | last9 = Busso | first9 = M. | last10 = Et. Al.}}</ref>]]
+Preparation of the pyridylpiperazine moiety starts by aromatic displacement of chlorine from 2-Chloro-3-nitropyridine by piperazine to give '''3'''. The secondary amine is then protected as its BOC derivative by reaction with [[Di-tert-butyl dicarbonate]] ([[Boc anhydride]]) to give '''4'''. The nitro group is then reduced by [[catalytic hydrogenation]]. Reductive alkylation with acetaldehyde in the presence of [[lithium cyanoborohydride]] gives the corresponding N-ethyl derivative. The [[protecting group]] is then removed by reaction with [[Trifluoroacetic acid|TFA]]. Reaaction of the resulting amine with the imidazolide derivative of 5-Methoxy-3-indoleacetic acid affords the amide reverse transcriptase inhibitor, atevirdine.
+
+==See also==
+*[[Delavirdine]]
+
+==References==
+{{reflist}}
+
+{{Antiretroviral drug}}
+{{Piperazines}}
+
+[[Category:Abandoned drugs]]
+[[Category:Carboxamides]]
+[[Category:Indoles]]
+[[Category:Non-nucleoside reverse transcriptase inhibitors]]
+[[Category:Phenol ethers]]
+[[Category:Piperazines]]
+[[Category:Pyridines]]
+
+
+{{Antiinfective-agent-stub}}

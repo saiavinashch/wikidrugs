@@ -1,0 +1,42 @@
+{{Drugbox
+| IUPAC_name = [(2R,3S,4R,5R)-5-(4-amino-2-oxopyrimidin-1-yl)-2-azido-3,4-bis(2-methylpropanoyloxy)oxolan-2-yl]methyl 2-methylpropanoate
+| image = Balapiravir_structure.png
+<!--Clinical data-->
+| tradename =  
+| legal_US = Investigational new drug
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 690270-29-2
+| PubChem = 11691726
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| ChemSpiderID      = 9866453
+| ChEMBL = 550936
+| KEGG = D09582
+<!--Chemical data-->
+| C=21 | H=30 | N=6 | O=8
+| molecular_weight = 494.497
+| smiles            = O=c1nc(N)ccn1C2OC(N=[N+]=[N-])(COC(=O)C(C)C)C(OC(=O)C(C)C)C2OC(=O)C(C)C
+| StdInChI          = 1S/C21H30N6O8/c1-10(2)17(28)32-9-21(25-26-23)15(34-19(30)12(5)6)14(33-18(29)11(3)4)16(35-21)27-8-7-13(22)24-20(27)31/h7-8,10-12,14-16H,9H2,1-6H3,(H2,22,24,31)/t14-,15+,16-,21-/m1/s1
+| StdInChIKey       = VKXWOLCNTHXCLF-DXEZIKHYSA-N
+
+}}
+
+'''Balapiravir''' ('''R-1626''', '''Ro4588161''') is an experimental antiviral drug which acts as a [[Polymerase chain reaction inhibitors|polymerase inhibitor]]. There were efforts to develop it as a potential treatment for [[hepatitis C]], and it was subsequently also studied in [[Dengue fever]], but was not found to be useful. Lower doses failed to produce measurable reductions in viral load, while higher doses produced serious side effects such as [[lymphopenia]] which precluded further development of the drug.<ref>{{cite journal | title=A randomized, double-blind placebo controlled trial of balapiravir, a polymerase inhibitor, in adult dengue patients. | pmid=22807519 | doi=10.1093/infdis/jis470 | volume=207 | pmc=3610419 |vauthors=Nguyen NM, Tran CN, Phung LK, Duong KT, Huynh Hle A, Farrar J, Nguyen QT, Tran HT, Nguyen CV, Merson L, Hoang LT, Hibberd ML, Aw PP, Wilm A, Nagarajan N, Nguyen DT, Pham MP, Nguyen TT, Javanbakht H, Klumpp K, Hammond J, Petric R, Wolbers M, Nguyen CT, Simmons CP | journal=J Infect Dis | pages=1442-50}}</ref> Subsequent research found that excess [[cytokine]] production triggered by Dengue virus infection prevented the conversion of the balapiravir [[prodrug]] to its active form, thereby blocking the activity of the drug.<ref>{{cite journal |vauthors= Chen Y, etal | year = 2014 | title = Activation of Peripheral Blood Mononuclear Cells by Dengue Virus Infection Depotentiates Balapiravir | url = | journal = J. Virol | volume = 88 | issue = 3| pages = 1740–1747 | doi = 10.1128/JVI.02841-13 }}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Dengue fever]]
+[[Category:Antivirals]]
+[[Category:Pyrimidinediones]]
+[[Category:Isobutyrates]]
+[[Category:Azides]]
+
+{{Antiinfective-drug-stub}}

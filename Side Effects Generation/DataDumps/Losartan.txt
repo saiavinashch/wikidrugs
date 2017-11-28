@@ -1,0 +1,107 @@
+{{Drugbox
+| verifiedrevid = 458612349
+| pronounce   = {{IPAc-en|l|oʊ|ˈ|s|ɑr|t|ən}}
+| IUPAC_name = (2-butyl-4-chloro-1-{[2'-(1''H''-tetrazol-5-yl)biphenyl-4-yl]methyl}-1''H''-imidazol-5-yl)methanol
+| image = Losartan structure.svg
+| alt = Skeletal formula
+| width = 200
+| image2 = Losartan-3D-spacefill.png
+| alt2 = Space-filling model
+<!--Clinical data-->
+| tradename = Cozaar
+| Drugs.com = {{drugs.com|monograph|cozaar}}
+| MedlinePlus = a695008
+| licence_US = Losartan
+| pregnancy_AU = D
+| pregnancy_US = D
+| legal_status = Rx-only
+| routes_of_administration = By mouth
+| DailyMedID = 51286
+<!--Pharmacokinetic data-->
+| bioavailability = 25–35%
+| protein_bound = 99.7% (primarily [[albumin]])
+| metabolism = [[Hepatic]] ([[CYP2C9]], [[CYP3A4]])
+| elimination_half-life = 1.5–2 hours
+| excretion = [[Renal]] 13–25%, [[biliary]] 50–60%
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 114798-26-4
+| ATC_prefix = C09
+| ATC_suffix = CA01
+| PubChem = 3961
+| IUPHAR_ligand = 590
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00678
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3824
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = JMS50MPO89
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08146
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 6541
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 191
+<!--Chemical data-->
+| C=22 | H=23 | Cl=1 | N=6 | O=1
+| molecular_weight = 422.91 g/mol
+| smiles = Clc1nc(n(c1CO)Cc4ccc(c2ccccc2c3nnnn3)cc4)CCCC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H23ClN6O/c1-2-3-8-20-24-21(23)19(14-30)29(20)13-15-9-11-16(12-10-15)17-6-4-5-7-18(17)22-25-27-28-26-22/h4-7,9-12,30H,2-3,8,13-14H2,1H3,(H,25,26,27,28)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = PSIFNNKUMBGKDQ-UHFFFAOYSA-N
+}}
+'''Losartan''', sold under the trade name '''Cozaar''' among others, is an [[angiotensin II receptor antagonist]] drug used mainly to treat high blood pressure ([[hypertension]]). 
+
+<!-- History and culture -->
+It was the first angiotensin II antagonist to be marketed. It was initially marketed by [[Merck & Co. Inc.]] and is available in [[Generic drug|generic]] form. It is on the [[World Health Organization's List of Essential Medicines]], the most effective and safe medicines needed in a [[health system]].<ref name=WHO20th>{{cite web|title=WHO Model List of Essential Medicines (20th List)|url=http://www.who.int/medicines/publications/essentialmedicines/20th_EML2017.pdf?ua=1|work=World Health Organization|accessdate=29 June 2017|date=March 2017}}</ref>
+
+==Medical uses==
+
+As with all angiotensin II type 1 receptor (AT<sub>1</sub>) antagonists, losartan is indicated for the treatment of hypertension. It may also delay progression of [[diabetic nephropathy]] and is associated with a positive clinical outcome in that regard. It is a suitable pharmacological agent for the reduction of renal disease progression in patients with type 2 diabetes, hypertension, and microalbuminuria (>30&nbsp;mg/24 hours) or proteinuria (>900&nbsp;mg/24 hours).<ref name="pmid16761901">{{cite journal | vauthors = Boersma C, Atthobari J, Gansevoort RT, de Jong-Van den Berg LT, de Jong PE, de Zeeuw D, Annemans LJ, Postma MJ | title = Pharmacoeconomics of angiotensin II antagonists in type 2 diabetic patients with nephropathy: implications for decision making | journal = PharmacoEconomics | volume = 24 | issue = 6 | pages = 523–35 | year = 2006 | pmid = 16761901 | doi = 10.2165/00019053-200624060-00001}}</ref> 
+
+Although clinical evidence shows [[calcium channel blockers]] and [[thiazide diuretic|thiazide-type diuretics]] are preferred first-line treatments for most patients (due to both efficacy{{fact|date=April 2017}} and cost), an angiotensin II receptor antagonist such as losartan is recommended as first-line treatment in patients under the age of 55 who cannot tolerate an [[ACE inhibitor]].<ref>{{Cite web|url=https://www.nice.org.uk/guidance/cg127/chapter/1-Guidance#choosing-antihypertensive-drug-treatment-2|title=Hypertension in adults: diagnosis and management  {{!}} 1-guidance {{!}} Guidance and guidelines {{!}} NICE|website=www.nice.org.uk|language=en-GB|access-date=2017-04-08}}</ref> The LIFE study demonstrated losartan was significantly superior to [[atenolol]] in the primary prevention of adverse cardiovascular events (myocardial infarction or stroke), with a significant reduction in cardiovascular morbidity and mortality for a comparable reduction in blood pressure. A study hints that losartan has a beneficial effect on [[mitochondria]] by reversing age related dysfunction in maintaining normal blood pressure and cellular energy usage.<ref>{{cite web |url=http://www.hopkinsmedicine.org/news/media/releases/switch_in_cells_power_plant_declines_with_age_rejuvenated_by_drug |title=Switch in cell's 'power plant' declines with age; rejuvenated by drug |publisher=Johns Hopkins Medicine |date=August 16, 2011}}</ref><ref name="pmid21852574">{{cite journal | vauthors = Abadir PM, Foster DB, Crow M, Cooke CA, Rucker JJ, Jain A, Smith BJ, Burks TN, Cohn RD, Fedarko NS, Carey RM, O'Rourke B, Walston JD | title = Identification and characterization of a functional mitochondrial angiotensin system | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 108 | issue = 36 | pages = 14849–54 | year = 2011 | pmid = 21852574 | pmc = 3169127 | doi = 10.1073/pnas.1101507108 }}</ref> The maximal effects on blood pressure usually occur within 3–6 weeks of starting losartan.<ref>{{cite book | author = Abrams A | year = 2007 | title = 'Clinical Drug Therapy Rationales for Nursing Practice | page = 846 | publisher = Lippincott Williams & Wilkins | location = Philadelphia, Pa. | isbn = 0-7817-6263-4 }}</ref>
+
+Losartan is also available as [[hydrochlorothiazide/losartan]], a [[combination drug]] with a low-dose [[thiazide diuretic]] to achieve an additive antihypertensive effect.
+
+==Adverse effects==
+In January 2014, the FDA issued a black box warning that losartan can cause fetal toxicity, and should be discontinued as soon as pregnancy is detected.<ref name="fda">{{cite web|url=http://www.fda.gov/Safety/MedWatch/SafetyInformation/ucm169666.htm|title=Cozaar (losartan potassium) 25 mg, 50 mg, and 100 mg Tablets|work=fda.gov|accessdate=2015-07-21}}</ref> Using losartan while pregnant could result in fetal injury or death.<ref name="fda" />
+
+The most common side effects for losartan are upper respiratory infections or stuffy nose, dizziness, and back pain.<ref name=":0">{{Cite web|url=http://www.merck.com/product/usa/pi_circulars/c/cozaar/cozaar_ppi.pdf|title=Patient Information COZAAR®|last=|first=|date=December 2015|website=Merck.com|archive-url=|archive-date=|dead-url=|access-date=2017-04-08}}</ref> Type 2 diabetics with diabetic kidney disease may experience diarrhea, fatigue, low blood pressure, low blood glucose, elevated potassium, and chest pain.<ref name=":0" />
+
+More serious side effects include low blood pressure and allergic reaction.<ref name=":0" />
+
+Losartan should not be taken by people who are diabetic and taking [[aliskiren]].<ref>{{Cite web|url=https://www.accessdata.fda.gov/drugsatfda_docs/label/2014/020386s060lbl.pdf|title=COZAAR®|last=Merck & Co., Inc.|first=|date=January 2014|website=U. S. Food & Drug Administratoin|archive-url=|archive-date=|dead-url=|access-date=2017-04-08}}</ref>
+
+==Mechanism of action==
+Losartan is a selective, competitive [[angiotensin II receptor type 1]] (AT<sub>1</sub>) antagonist, reducing the end organ responses to angiotensin II. Losartan administration results in a decrease in total peripheral resistance (afterload) and cardiac venous return (preload). All of the physiological effects of angiotensin II, including release of [[aldosterone]], are antagonized in the presence of losartan. Reduction in blood pressure occurs independently of the status of the [[renin-angiotensin system]]. As a result of losartan dosing, plasma [[renin]] activity increases due to removal of the angiotensin II feedback.
+
+Losartan is a [[uricosuric]]. As a specific inhibitor of the urate transporter 1 ([[SLC22A12]], URAT1), losartan blocks the uptake of uric acid into cells, thus leaving more available in the bloodstream to be filtered and excreted by the kidneys.<ref>{{cite journal|authors=Hamada T, Ichida K, Hosoyamada M, Mizuta E, Yanagihara K, et al. |date=1 October 2008|title=Uricosuric action of losartan via the inhibition of urate transporter 1 (URAT 1) in hypertensive patients|publisher=American Journal of Hypertension|volume=21|issue=10|pages=1157–1162|doi=10.1038/ajh.2008.245}}</ref> Because losartan can cause [[hyperkalemia]], individuals should not use [[potassium]] supplements or salt substitutes containing potassium without appropriate monitoring by a physician.<ref>RxList. The Internet Drug Index. [http://www.rxlist.com/cozaar-drug/clinical-pharmacology.htm Clinical pharmacology of Cozaar]. Retrieved January 6, 2014.</ref>
+
+==Pharmacokinetics==
+Losartan is well absorbed following oral administration and undergoes significant first-pass metabolism to produce the 5-[[carboxylic acid]] metabolite, designated as [[EXP3174]]. About 14% of an oral dosage is converted to this metabolite, which is long-acting (6 to 8 hr) and a noncompetitive antagonist at the AT<sub>1</sub> receptor, contributing to the pharmacological effects of losartan. EXP3174 is 10-40 times more potent in blocking AT<sub>1</sub> receptors than losartan. Losartan's [[bioavailability]] is about 32%.
+
+Metabolism is primarily by [[cytochrome P450]] [[isoenzyme]]s [[CYP2C9]] and [[CYP3A4]]. Peak plasma concentrations of losartan and EXP3174 occur about one hour and three to four hours, respectively, after an oral dose. Both losartan and EXP3174 are more than 98% bound to plasma proteins. Losartan is excreted in the urine, and in the feces via bile, as unchanged drug and metabolites. About 4% of an oral dose is excreted unchanged in urine, and about 6% is excreted in urine as the active metabolite. The terminal elimination half lives of losartan and EXP3174 are about 1.5 to 2.5 hours and 3 to 9 hours, respectively.
+
+Losartan and other angiotensin-receptor antagonists exhibit fetal toxicity and should be avoided during pregnancy, particularly in the second and third trimesters.<ref name="pmid16029066">{{cite journal | vauthors = Sica DA, Gehr TW, Ghosh S | title = Clinical pharmacokinetics of losartan | journal = Clin Pharmacokinet | volume = 44 | issue = 8 | pages = 797–814 | year = 2005 | pmid = 16029066 | doi = 10.2165/00003088-200544080-00003 }}</ref>
+
+== See also ==
+*[[Discovery and development of angiotensin receptor blockers]]
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+* [http://www.merck.com/product/usa/pi_circulars/c/cozaar/cozaar_pi.pdf Cozaar prescribing information] [[Merck & Co.]]
+
+{{Merck&Co}}
+{{Angiotensin II receptor antagonists}}
+{{Angiotensin receptor modulators}}
+
+[[Category:Alcohols]]
+[[Category:Angiotensin II receptor antagonists]]
+[[Category:Imidazoles]]
+[[Category:Chloroarenes]]
+[[Category:Tetrazoles]]
+[[Category:Biphenyls]]
+[[Category:World Health Organization essential medicines]]

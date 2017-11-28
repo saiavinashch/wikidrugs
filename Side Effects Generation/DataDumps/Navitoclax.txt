@@ -1,0 +1,53 @@
+{{Chembox
+| ImageFile = Navitoclax.svg
+| ImageSize = 200px
+| IUPACName = 4-(4-{[2-(4-Chlorophenyl)-5,5-dimethyl-1-cyclohexen-1-yl]methyl}-1-piperazinyl)-''N''-[(4-{[(2''R'')-4-(4-morpholinyl)-1-(phenylsulfanyl)-2-butanyl]amino}-3-[(trifluoromethyl)sulfonyl]phenyl)sulfonyl]benzamide
+| OtherNames = ABT263; ABT-263
+|Section1={{Chembox Identifiers
+| CASNo = 923564-51-6
+| PubChem = 24978538
+| ChemSpiderID = 21864722
+| SMILES = CC1(CCC(=C(C1)CN2CCN(CC2)C3=CC=C(C=C3)C(=O)NS(=O)(=O)C4=CC(=C(C=C4)N[C@H](CCN5CCOCC5)CSC6=CC=CC=C6)S(=O)(=O)C(F)(F)F)C7=CC=C(C=C7)Cl)C
+| InChI = 1/C47H55ClF3N5O6S3/c1-46(2)20-18-42(34-8-12-37(48)13-9-34)36(31-46)32-55-22-24-56(25-23-55)39-14-10-35(11-15-39)45(57)53-65(60,61)41-16-17-43(44(30-41)64(58,59)47(49,50)51)52-38(19-21-54-26-28-62-29-27-54)33-63-40-6-4-3-5-7-40/h3-17,30,38,52H,18-29,31-33H2,1-2H3,(H,53,57)/t38-/m1/s1
+| InChIKey = JLYAXFNOILIKPP-KXQOOQHDBT
+| StdInChI = 1S/C47H55ClF3N5O6S3/c1-46(2)20-18-42(34-8-12-37(48)13-9-34)36(31-46)32-55-22-24-56(25-23-55)39-14-10-35(11-15-39)45(57)53-65(60,61)41-16-17-43(44(30-41)64(58,59)47(49,50)51)52-38(19-21-54-26-28-62-29-27-54)33-63-40-6-4-3-5-7-40/h3-17,30,38,52H,18-29,31-33H2,1-2H3,(H,53,57)/t38-/m1/s1
+| StdInChIKey = JLYAXFNOILIKPP-KXQOOQHDSA-N
+  }}
+|Section2={{Chembox Properties
+| C=47 | H=55 | Cl=1 | F=3 | N=5 | O=6 | S=3
+| Appearance = 
+| Density = 
+| MeltingPt = 
+| BoilingPt = 
+| Solubility =
+  }}
+|Section3={{Chembox Hazards
+| MainHazards = 
+| FlashPt = 
+| AutoignitionPt =
+  }}
+}}
+
+'''Navitoclax''' (previously '''ABT-263''') is an experimental [[oral administration|orally]] active anti-[[cancer]] [[drug]], which is similar in action to [[obatoclax]], except that unlike obatoclax, it does not have off-target effects.<ref>{{cite journal | last1 = Gandhi | first1 = L. | last2 = Camidge | first2 = D. R. | last3 = de Oliveira | first3 = M. R. | last4 = Bonomi | first4 = P. | last5 = Gandara | first5 = D. | last6 = Khaira | first6 = D. | last7 = Dive | first7 = C. | year = 2011 | title = Phase I study of Navitoclax (ABT-263), a novel Bcl-2 family inhibitor, in patients with small-cell lung cancer and other solid tumors | journal = Journal of clinical oncology | volume = 29 | issue = 7| pages = 909–916 | doi = 10.1200/JCO.2010.31.6208 | pmid=21282543 | pmc=4668282}}</ref><ref>Leverson, J. D., Phillips, D. C., Mitten, M. J., Boghaert, E. R., Diaz, D., Tahir, S. K., ... & Lowes, K. N. (2015). Exploiting selective BCL-2 family inhibitors to dissect cell survival dependencies and define improved strategies for cancer therapy. Science translational medicine, 7(279), 279ra40-279ra40. {{DOI|10.1126/scitranslmed.aaa4642}}</ref>
+
+== Mechanism of action ==
+
+Navitoclax [[enzyme inhibitor|inhibits]] not only [[Bcl-2 family|Bcl-2]], but also [[Bcl-xL|Bcl-X<sub>L</sub>]] and [[BCL2L2|Bcl-w]] proteins.<ref>[http://www.apexbt.com/abt-263-navitoclax.html The Bcl-2/Bcl-XL/Bcl-w Inhibitor, Navitoclax, Enhances the Activity of Chemotherapeutic Agents In Vitro and In Vivo]</ref> Because navitoclax inhibits Bcl-XL, it reduces platelet lifespan, causing [[thrombocytopenia]], and this makes it dose-limiting.
+
+== Effects against senescent cells ==
+In animal studies, navitoclax was found to be a [[senolytic]] agent, inducing [[apoptosis]] in [[cellular senescence|senescent]], but not non-senescent cells.<ref>{{cite journal|last1=Zhu|first1=Y|last2=Tchkonia|first2=T|last3=Fuhrmann-Stroissnigg|first3=H|last4=Dai|first4=HM|last5=Ling|first5=YY|last6=Stout|first6=MB|last7=Pirtskhalava|first7=T|last8=Giorgadze|first8=N|last9=Johnson|first9=KO|last10=Giles|first10=CB|last11=Wren|first11=JD|last12=Niedernhofer|first12=LJ|last13=Robbins|first13=PD|last14=Kirkland|first14=JL|title=Identification of a Novel Senolytic Agent, Navitoclax, Targeting the Bcl-2 Family of Anti-Apoptotic Factors|journal=Aging Cell|date=2015|doi=10.1111/acel.12445|pmid=26711051}}</ref> Oral administration of ABT263 to either sublethally irradiated or normally aged mice reduced senescent cells, including senescent bone marrow hematopoietic stem cells and senescent muscle stem cells. This depletion mitigated total-body irradiation-induced premature aging of the hematopoietic system and rejuvenated the aged hematopoietic stem cells and muscle stem cells in normally aged mice.<ref name="pmid26657143">{{cite journal | vauthors = Chang J, Wang Y, Shao L, Laberge RM, Demaria M, Campisi J, Janakiraman K, Sharpless NE, Ding S, Feng W, Luo Y, Wang X, Aykin-Burns N, Krager K, Ponnappan U, Hauer-Jensen M, Meng A, Zhou D | title = Clearance of senescent cells by ABT263 rejuvenates aged hematopoietic stem cells in mice | journal = Nature Medicine | volume = 22| issue = | pages = 78–83| year = 2015 | pmid = 26657143 | doi = 10.1038/nm.4010 | url = http://dx.doi.org/10.1038/nm.4010 | accessdate = 2015-12-23 | pmc=4762215}}</ref>
+
+==Clinical trials==
+ABT-263 was in clinical trials in 2009.<ref name=hauck2009>[http://mct.aacrjournals.org/content/8/4/883.full.html Alterations in the Noxa/Mcl-1 axis determine sensitivity of small cell lung cancer to the BH3 mimetic ABT-737. Hauck. 2009]</ref>
+In January 2017, Navitoclax was evaluated as a combination treatment against solid tumors together with [[trametinib]] in a clinical trial sponsored by the [[National Cancer Institute]].<ref name="TrametinibNavitoclaxTrial">{{cite web|last1=[[National Cancer Institute]] (sponsor)|last2=Corcoran|first2=Ryan|title=Trametinib and Navitoclax in Treating Patients With Advanced or Metastatic Solid Tumors|url=https://clinicaltrials.gov/ct2/show/NCT02079740|website=ClinicalTrials.gov|publisher=[[National Institutes of Health]]|accessdate=24 June 2017|quote=ClinicalTrials.gov Identifier: NCT02079740}}</ref>
+
+== References ==
+{{reflist}}
+
+[[Category:Experimental cancer drugs]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Sulfonamides]]
+[[Category:Morpholines]]
+[[Category:Chloroarenes]]
+[[Category:Piperazines]]
+[[Category:Cyclohexenes]]

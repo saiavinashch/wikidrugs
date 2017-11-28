@@ -1,0 +1,85 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 447429921
+| IUPAC_name = (2''S'',5''R'',6''S'')-6-[(Carboxy-3-thienylacetyl)amino]- 6-methoxy-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0] heptane-2-carboxylic acid,
+| image = Temocillin.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|temocillin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 66148-78-5
+| ATC_prefix = J01
+| ATC_suffix = CA17
+| PubChem = 171758
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 150149
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 03QB156W6I
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D06064
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 51817
+
+<!--Chemical data-->
+| C=16 | H=18 | N=2 | O=7 | S=2
+| molecular_weight = 414.453 g/mol
+| smiles = O=C(O)[C@@H]2N3C(=O)[C@@](OC)(NC(=O)C(c1ccsc1)C(=O)O)[C@H]3SC2(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H18N2O7S2/c1-15(2)9(12(22)23)18-13(24)16(25-3,14(18)27-15)17-10(19)8(11(20)21)7-4-5-26-6-7/h4-6,8-9,14H,1-3H3,(H,17,19)(H,20,21)(H,22,23)/t8?,9-,14+,16-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = BVCKFLJARNKCSS-DWPRYXJFSA-N
+}}
+
+'''Temocillin''' is a [[beta-lactamase|β-lactamase]]-resistant [[penicillin]]<ref name="pmid17550891">{{cite journal |vauthors=Andrews JM, Jevons G, Walker R, Ashby J, Fraise AP |title=Temocillin susceptibility by BSAC methodology |journal=[[J. Antimicrob. Chemother.]] |volume=60 |issue=1 |pages=185–7 |date=July 2007 |pmid=17550891 |doi=10.1093/jac/dkm179 |url=http://jac.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=17550891}}</ref><ref name="pmid7181470">{{cite journal |vauthors=Van Landuyt HW, Pyckavet M, Lambert A, Boelaert J |title=In vitro activity of temocillin (BRL 17421), a novel beta-lactam antibiotic |journal=Antimicrob. Agents Chemother. |volume=22 |issue=4 |pages=535–40 |date=October 1982 |pmid=7181470 |pmc=183789 |doi= 10.1128/aac.22.4.535|url=http://aac.asm.org/cgi/pmidlookup?view=long&pmid=7181470}}</ref> introduced by [[Beecham (pharmaceutical company)|Beecham]], marketed by Eumedica Pharmaceuticals as Negaban. It is used primarily for the treatment of multiple drug-resistant, [[Gram-negative]] bacteria.  It is a [[carboxypenicillin]].<ref name="pmid6348653">{{cite journal |vauthors=Chanal M, Sirot J, Cluzel M, Joly B, Glanddier Y |title=[In vitro study of the bacteriostatic and bactericidal activity of temocillin (BRL 17421)] |language=French |journal=Pathol. Biol. |volume=31 |issue=6 |pages=467–70 |date=June 1983 |pmid=6348653 |doi= |url=}}</ref>
+
+==Pharmacology==
+Temocillin is a β-lactamase-resistant penicillin.  It is not active against [[Gram-positive]] bacteria or bacteria with altered [[penicillin-binding protein]]s.
+
+It is normally active against ''[[Moraxella catarrhalis]]'', ''[[Brucella abortus]]'', ''[[Burkholderia cepacia]]'', ''[[Citrobacter]]'' species, ''[[Escherichia coli]]'', ''[[Haemophilus influenzae]]'', ''[[Klebsiella pneumoniae]]'', ''[[Pasteurella multocida]]'', ''[[Proteus mirabilis]]'', ''[[Salmonella typhimurium]]'', and ''[[Yersinia enterocolitica]]''.  It is also active against some ''[[Enterobacter]]'' species, ''[[Morganella morganii]]'', and ''[[Serratia]]'' species.  Temocillin has no useful activity against ''[[Acinetobacter]]'' species or ''[[Pseudomonas aeruginosa]]''.
+
+Its primary use is against [[Enterobacteriaceae]], and in particular against strains producing [[extended spectrum beta-lactamase|extended-spectrum β-lactamase]] or [[beta-lactamase#AmpC-type β-lactamases (Class C)|AmpC β-lactamase]].<ref>Livermore DM ''et al.'' (2006) Activity of temocillin vs. prevalent ESBL- and AmpC-producing Enterobacteriaceae from SE England. J Antimicrob Chemother. 2006 May;57(5):1012-4.</ref>
+
+==Dosage==
+The common dose is 2 g intravenously every 12 hours.  Theoretical reasons exist for giving temocillin as a continuous intravenous infusion in severe disease:<ref>De Jongh R ''et al.'' (2008) Continuous versus intermittent infusion of temocillin, a directed spectrum penicillin for intensive care patients with nosocomial pneumonia: stability, compatibility, population pharmacokinetic studies and breakpoint selection. J Antimicrob Chemother. 2008 Feb;61(2):382-8.</ref> a single loading dose of 2 g is given intravenously followed by a 4-g infusion over 24 hours.  Temocillin for intravenous injection is diluted in 20 ml of sterile water; it is diluted in less than 2.7 ml of sterile water when being prepared for intramuscular injection; the continuous infusion is diluted in 48 ml of sterile water for ease of administration (1 ml per half hour).  To reduce pain, the intramuscular injection may be made up using sterile 1% lignocaine instead of sterile water.
+
+Temocillin may be given to patients with impaired renal function.  No adjustment needs to be made to the dose in mild to moderate renal impairment ([[creatinine clearance]] greater than 30 ml/min).  <!-- The manufacturer does not recommend using reduced doses, instead they recommend increasing the duration between doses.  In severe renal impairment when CC is 10 to 30, the dose is 1 g in 24 hours; when less than 10, the dose is 1 g every 48 hours. -->  Temocillin is cleared by [[haemodialysis]], so in dialysis patients, the dose should be given after dialysis.
+
+No oral preparation of temocillin is licensed.
+
+==Adverse effects==
+The undesirable effects of temocillin are those of any β-lactam antibiotic.  In particular, it has been associated with angioedema and anaphylaxis in penicillin-allergic patients.  Animal studies have not shown any induction of ''[[Clostridium difficile colitis|Clostridium difficile]]'' infection.<ref>{{cite journal  |vauthors=Boon RJ, etal | title=Studies with temocillin in a hamster model of antibiotic-associated colitis| journal=Antimicrob Agents Chemother | year=1985 | volume=27 | issue=6 | pages=980–1 | url= | pmid=3875312 | pmc=180203 | doi=10.1128/aac.27.6.980}}</ref>  As with any other penicillin, convulsions can occur if very high doses are given.
+
+==Synthesis==
+[[File:Temocillin synthesis.png|thumb|center|700px|Temocillin synthesis:<ref>{{Cite journal | doi = 10.1039/P19790002455| title = Transformations using benzyl 6-isocyanopenicillanate| journal = Journal of the Chemical Society, Perkin Transactions 1| pages = 2455| year = 1979| last1 = Bentley | first1 = P. H. | last2 = Clayton | first2 = J. P. | last3 = Boles | first3 = M. O. | last4 = Girven | first4 = R. J. }}</ref>]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+*{{cite journal |vauthors=Livermore DM, Tulkens PM |title=Temocillin revived |journal=[[Journal of Antimicrobial Chemotherapy]] |volume=63 |issue=2 |pages=243–5 |date=February 2009 |pmid=19095679 |doi=10.1093/jac/dkn511}}
+
+{{Cell wall disruptive antibiotics}}
+
+[[Category:Penicillins]]
+[[Category:Thiophenes]]

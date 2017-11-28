@@ -1,0 +1,104 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 461936187
+| IUPAC_name = 3-(2-Methylpropyl)-3,5,8-triazatricyclo[7.4.0.0<sup>2,6</sup>]trideca-1(9),2(6),4,7,10,12-hexaen-7-amine
+| image = Imiquimod.svg
+| width = 180px
+<!--Clinical data-->
+| tradename = Aldara originally. Many brands available.<ref name=drugnames/>
+| Drugs.com = {{drugs.com|monograph|imiquimod}}
+| MedlinePlus = a698010
+| licence_EU = Aldara
+| licence_US = Imiquimod
+| pregnancy_AU = B1
+| pregnancy_US = C
+| pregnancy_category =
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status =
+| routes_of_administration = [[Topical]]
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life = 30 hours (topical dose), 2 hours (subcutaneous dose)
+<!--Identifiers-->
+| IUPHAR_ligand = 5003
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 99011-02-6
+| ATC_prefix = D06
+| ATC_suffix = BB10
+| PubChem = 57469
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00724
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 51809
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = P1QW714R7M
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02500
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 36704
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1282
+<!--Chemical data-->
+| C=14 | H=16 | N=4
+| molecular_weight = 240.304 g/mol
+| SMILES = n3c1ccccc1c2c(ncn2CC(C)C)c3N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C14H16N4/c1-9(2)7-18-8-16-12-13(18)10-5-3-4-6-11(10)17-14(12)15/h3-6,8-9H,7H2,1-2H3,(H2,15,17)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = DOUYETYNHWVLEO-UHFFFAOYSA-N
+| synonyms = 1-isobutyl-1''H''-imidazo[4,5-''c'']quinolin-4-amine
+}}
+'''Imiquimod''' ([[International Nonproprietary Name|INN]]) is a prescription medication that acts as an immune response modifier and is used to treat [[genital warts]], superficial [[basal cell carcinoma]], and [[actinic keratosis]]. Scientists at [[3M]]'s pharmaceuticals division discovered the drug and 3M obtained the first FDA approval in 1997 under the brand '''Aldara'''.  As of 2015 imiquimod is generic and is available worldwide under many brands.
+
+==Uses==
+Imiquimod is a patient-applied cream prescribed to treat [[genital warts]] and, secondary to surgery, for [[basal cell carcinoma]],<ref>'Imiquimod should be used for treatment of [superficial basal cell carcinoma] only when surgery is medically less appropriate ... .'  USA Food And Drug Administration, 'FDA Approval for Imiquimod', [http://www.cancer.gov/cancertopics/druginfo/fda-imiquimod], current at 2011-Jan-1, accessed 2012-Oct-19</ref><ref>American Cancer Society, Guide To Cancer Drugs, [http://www.cancer.org/treatment/treatmentsandsideeffects/guidetocancerdrugs/imiquimod-cream] (accessed 2014-Apr-28)</ref> as well as [[actinic keratosis]].<ref name=EMA/>
+
+==Side effects==
+Side effects include local inflammatory reactions, such as blisters, a burning sensation, skin redness, dry skin, itching, skin breakdown, skin crusting or scabbing, skin drainage, skin flaking or scaling, skin ulceration, sores, swelling, as well as systemic reactions, such as fever, "flu-like" symptoms, headache, and tiredness.<ref name=EMA/><ref>PDR Health [http://www.pdrhealth.com/drugs/aldara PDR: Aldara] Page accessed June 14, 2015</ref>
+
+People who have had an [[organ transplant]] and are taking immune-suppressing drugs should not use imiquimod.<ref name=EMA>European Medicines Agency.  First published Sept 14,2009, updated March 25, 2015. [http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/000179/WC500023122.pdf EMA Summary of Product Characteristics]  Linked from [http://www.ema.europa.eu/ema/index.jsp?curl=pages/medicines/human/medicines/000179/human_med_000635.jsp&mid=WC0b01ac058001d124 EMA Aldara information page]</ref>
+
+== Mechanism of action ==
+
+Imiquimod signals to the innate arm of the immune system through the [[TLR 7|toll-like receptor 7]] (TLR7), commonly involved in pathogen recognition.<ref name="pmid23463003">{{cite journal |doi=10.1038/ncomms2566 |pmid=23463003 |title=Aldara activates TLR7-independent immune defence |journal=Nature Communications |volume=4 |pages=1560 |year=2013 |last1=Walter |first1=Anne |last2=Schäfer |first2=Matthias |last3=Cecconi |first3=Virginia |last4=Matter |first4=Claudia |last5=Urosevic-Maiwald |first5=Mirjana |last6=Belloni |first6=Benedetta |last7=Schönewolf |first7=Nicola |last8=Dummer |first8=Reinhard |last9=Bloch |first9=Wilhelm |last10=Werner |first10=Sabine |last11=Beer |first11=Hans-Dietmar |last12=Knuth |first12=Alexander |last13=Van Den Broek |first13=Maries |bibcode=2013NatCo...4E1560W }}</ref><ref name="Evans">{{cite journal |doi=10.1038/ni758 |pmid=11812998 |title=Small anti-viral compounds activate immune cells via the TLR7 MyD88–dependent signaling pathway |journal=Nature Immunology |volume=3 |issue=2 |pages=196–200 |year=2002 |last1=Hemmi |first1=Hiroaki |last2=Kaisho |first2=Tsuneyasu |last3=Takeuchi |first3=Osamu |last4=Sato |first4=Shintaro |last5=Sanjo |first5=Hideki |last6=Hoshino |first6=Katsuaki |last7=Horiuchi |first7=Takao |last8=Tomizawa |first8=Hideyuki |last9=Takeda |first9=Kiyoshi |last10=Akira |first10=Shizuo }}</ref> Cells activated by imiquimod via TLR-7 secrete [[cytokines]] (primarily [[Interferon type I#IFN-.CE.B1|interferon-α]] (IFN-α), [[interleukin-6]] (IL-6), and [[Tumor necrosis factor-alpha|tumor necrosis factor-α]] (TNF-α)).<ref name="Sauder">{{cite journal |doi=10.1046/j.0366-077x.2003.05628.x |pmid=14616337 |title=Imiquimod: Modes of action |journal=British Journal of Dermatology |volume=149 |pages=5–8 |year=2003 |last1=Sauder |first1=D.N. }}</ref> There is evidence that imiquimod, when applied to skin, can lead to the activation of [[Langerhans cells]], which subsequently migrate to local lymph nodes to activate the [[adaptive immune system]].<ref name="Miller">{{cite journal |doi=10.1016/s0192-0561(98)00068-x |pmid=10411278 |title=Review Article Imiquimod applied topically: A novel immune response modifier and new class of drug |journal=International Journal of Immunopharmacology |volume=21 |issue=1 |pages=1–14 |year=1999 |last1=Miller |first1=R.L |last2=Gerster |first2=J.F |last3=Owens |first3=M.L |last4=Slade |first4=H.B |last5=Tomai |first5=M.a }}</ref> Other cell types activated by imiquimod include [[natural killer cells]], [[macrophages]] and [[B-lymphocytes]].<ref name="Miller" /> Overall imiquimod acts on several levels, which appear to synergistically underlie the profound antitumoral activity of the compound.<ref>{{cite journal |doi=10.1111/j.1365-2133.2007.08265.x |pmid=18067624 |title=Imiquimod: Mode of action |journal=British Journal of Dermatology |volume=157 |pages=8–13 |year=2007 |last1=Schön |first1=M.P |last2=Schön |first2=M }}</ref>
+
+== History ==
+Scientists at [[3M]]'s pharmaceutical division discovered imiquimod as part of a program to discover inhibitors of [[herpes virus]]{{dn|date=December 2016}} replication based on a known [[adenine]] derivative.<ref>Randall L. Halcomb. TLR-7 Agonists for the Treatment of Viral Hepatitis. Chapter 10 in Successful Strategies for the Discovery of Antiviral Drugs. Issue 32 of RSC drug discovery series.  Eds Manoj C. Desai and Nicholas A. Meanwell. Royal Society of Chemistry, 2013. {{ISBN|9781849736572}}</ref>{{rp|369–372}}  3M obtained the first FDA approval for it in 1997 as a treatment for external [[genital warts|genital and perianal warts]] under the brand, "Aldara".<ref>Centerwatch. [https://www.centerwatch.com/drug-information/fda-approved-drugs/drug/238/aldara-imiquimod Centerwatch:Aldara (imiquimod)] Page accessed June 14, 2015</ref>  In 2004 3M obtained FDA approval to market imiquimod as a treatment for superficial [[basal cell carcinoma]].<ref>National Cancer Institute. Updated: July 3, 2013 [http://www.cancer.gov/about-cancer/treatment/drugs/fda-imiquimod NCI: FDA Approval for Imiquimod]</ref>
+
+In 2006, 3M sold its pharmaceutical business in the Americas to [[Graceway Pharmaceuticals]], its European pharmaceutical business to [[Meda AB]], and its pharmaceutical business in other territories to two [[private equity]] firms.<ref>3M. November 9, 2006. [http://news.3m.com/press-release/company/3m-reaches-agreements-sell-its-pharmaceuticals-business Press release: 3M Reaches Agreements to Sell its Pharmaceuticals Business]</ref>
+
+Graceway declared bankruptcy in 2011 after the expiration of the patents on imiquimod, and its assets, including the rights to imiquimod branding and approvals in the Americas, were purchased by [[Medicis Pharmaceutical]].<ref>[http://www.bizjournals.com/phoenix/news/2011/11/29/medicis-buys-graceway-pharmaceuticals.html?page=all Jennifer A. Johnson for the Phoenix Business Journal Nov 29, 2011]</ref>
+
+As of 2015, imiquimod is generic and is available worldwide under many brands.<ref name=drugnames>Drugs.com [http://www.drugs.com/international/imiquimod.html Drugs.com international listings for imiquimod] Page accessed June 14, 2015</ref>
+
+==Research==
+One randomized, double-blind phase 3 clinical study found clearance of genital warts (an FDA-approved indication) improved from 9% with placebo to 24.9% with 3.75% imiquimod cream applied for up to eight weeks.<ref>{{cite web|url=https://clinicaltrials.gov/ct2/show/results/NCT00735462?sect=X01256#all|title=Phase 3 Study of Imiquimod Creams in the Treatment of External Genital Warts - Study Results - ClinicalTrials.gov|website=clinicaltrials.gov}}</ref>
+
+Imiquimod has been tested for treatment of [[molluscum contagiosum]]. Two large randomized controlled trials, however, found no evidence of effectiveness of imiquimod in treating children with molluscum contagiosum, and concerning adverse effects were also noted.<ref>{{cite web| archive-url=https://web-beta.archive.org/web/20131102194852/http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7fccca4e-fb8f-42b8-9555-8f78a5804ed3 |url=http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7fccca4e-fb8f-42b8-9555-8f78a5804ed3 |archive-date=2013-11-02 |title=Aldara (imiquimod) cream for topical use. Prescribing information.}}</ref>  These disprove earlier anecdotal claims and smaller, less reliable studies.<ref>{{EMedicine|article|910570|Molluscum Contagiosum|treatment}}</ref><ref>{{cite journal |pmid=15379366 |year=2004 |author1=Theos |first1=A. U. |title=Effectiveness of imiquimod cream 5% for treating childhood molluscum contagiosum in a double-blind, randomized pilot trial |journal=Cutis |volume=74 |issue=2 |pages=134–8, 141–2 |last2=Cummins |first2=R |last3=Silverberg |first3=N. B. |last4=Paller |first4=A. S. }}</ref><ref>{{cite journal |pmid=14616342 |year=2003 |author1=Bayerl |first1=C |title=Experience in treating molluscum contagiosum in children with imiquimod 5% cream |journal=The British Journal of Dermatology |volume=149 Suppl 66 |pages=25–9 |last2=Feller |first2=G |last3=Goerdt |first3=S }}</ref><ref>{{cite journal |doi=10.1111/j.1442-200X.2006.02229.x |pmid=16911087 |title=Topical treatment of molluscum contagiosum with imiquimod 5% cream in Turkish children |journal=Pediatrics International |volume=48 |issue=4 |pages=403–5 |year=2006 |last1=Arican |first1=Ozer }}</ref>
+
+Imiquimod has also been tested for treatment of [[vulvar intraepithelial neoplasia]],<ref name = "pmid18385498">{{cite journal |doi=10.1056/NEJMoa072685 |pmid=18385498 |title=Treatment of Vulvar Intraepithelial Neoplasia with Topical Imiquimod |journal=New England Journal of Medicine |volume=358 |issue=14 |pages=1465–73 |year=2008 |last1=Van Seters |first1=Manon |last2=Van Beurden |first2=Marc |last3=Ten Kate |first3=Fiebo J.W. |last4=Beckmann |first4=Ilse |last5=Ewing |first5=Patricia C. |last6=Eijkemans |first6=Marinus J.C. |last7=Kagie |first7=Marjolein J. |last8=Meijer |first8=Chris J.M. |last9=Aaronson |first9=Neil K. |last10=Kleinjan |first10=Alex |last11=Heijmans-Antonissen |first11=Claudia |last12=Zijlstra |first12=Freek J. |last13=Burger |first13=Matthé P.M. |last14=Helmerhorst |first14=Theo J.M. }}</ref> [[vaginal intraepithelial neoplasia]],<ref name="pmid17051086">{{cite journal |doi=10.1097/00128360-200310000-00011 |pmid=17051086 |title=Treatment of Vaginal Intraepithelial Neoplasia (Primarily Low Grade) with Imiquimod 5% Cream |journal=Journal of Lower Genital Tract Disease |volume=7 |issue=4 |pages=290–3 |year=2003 |last1=Buck |first1=Henry W. |last2=Guth |first2=Kathy J. }}</ref> [[common warts]] (a 2012 Cochrane review found no randomized controlled trials),<ref>{{cite journal |doi=10.1002/14651858.CD001781.pub3 |pmid=22972052 |title=Topical treatments for cutaneous warts |journal=Cochrane Database of Systematic Reviews |issue=9 |pages=CD001781 |year=2012 |last1=Kwok |first1=Chun Shing |last2=Gibbs |first2=Sam |last3=Bennett |first3=Cathy |last4=Holland |first4=Richard |last5=Abbott |first5=Rachel }}</ref> [[plantar wart]]s,<ref name="dpic">{{cite web|url=http://www.dpic.org/article/professional/imiquimod-non-genital-cutaneous-warts|title=Imiquimod for non-genital cutaneous warts|website=www.dpic.org}}</ref> warts in people with suppressed immune systems,<ref>{{cite web|url=http://www.medscape.com/viewarticle/498455_2|title=Medscape Log In|website=www.medscape.com}}</ref> flat warts on face and neck,<ref name="dpic" /> and warts under and around fingernails and toenails.<ref name="dpic" /> As of 2014, insufficient evidence exists to recommend treatment of warts (other than genital warts) with imiquimod, due to the small size of and lack of controls in existing studies.<ref>{{cite journal |doi=10.1007/s40257-014-0093-5 |pmid=25186654 |title=Imiquimod in the Treatment of Cutaneous Warts: An Evidence-Based Review |journal=American Journal of Clinical Dermatology |volume=15 |issue=5 |pages=387–99 |year=2014 |last1=Ahn |first1=Christine S. |last2=Huang |first2=William W. }}</ref><ref name="dpic" />
+
+== See also ==
+* [[Resiquimod]]
+* [[Gardiquimod]]
+* [[Eschar#Escharotic|Escharotic]]
+
+== References ==
+{{reflist|2}}
+
+==External links==
+* {{MedlinePlusDrugInfo|medmaster|a698010}}
+* {{DermNet|treatments/imiquimod}}
+* [http://www.npsradar.org.au/site.php?page=1&content=/npsradar/content/imiquimod.html NPS RADAR]
+
+{{Antibiotics and chemotherapeutics for dermatological use}}
+{{Antivirals}}
+
+[[Category:Antivirals]]
+[[Category:Antineoplastic drugs]]
+[[Category:Imidazoquinolines]]

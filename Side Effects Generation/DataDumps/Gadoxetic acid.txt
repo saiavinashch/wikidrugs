@@ -1,0 +1,71 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 407826164
+| IUPAC_name = 2-<nowiki>[[</nowiki>2-[bis(2-oxido-2-oxoethyl)amino]-3-(4-ethoxyphenyl)propyl]-[2-[bis(2-oxido-2-oxoethyl)amino]ethyl]amino]acetate; gadolinium(+3) cation
+| image = Gadoxetic acid.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|gadoxetic-acid}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 135326-11-3
+| ATC_prefix = V08
+| ATC_suffix = CA10
+| PubChem = 219084
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 3QJA87N40S
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08008
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201769
+|  ChemSpiderID = 189907
+
+
+<!--Chemical data-->
+| C=23 | H=30 | Gd=1 | N=3 | O=11 
+| molecular_weight = 681.75 g/mol
+|  smiles = CCOc1ccc(cc1)C[C@@H](CN(CCN(CC(=O)O)CC(=O)[O-])CC(=O)[O-])N(CC(=O)O)CC(=O)[O-].[Gd+3]
+|  StdInChI = 1S/C23H33N3O11.Gd/c1-2-37-18-5-3-16(4-6-18)9-17(26(14-22(33)34)15-23(35)36)10-24(11-19(27)28)7-8-25(12-20(29)30)13-21(31)32;/h3-6,17H,2,7-15H2,1H3,(H,27,28)(H,29,30)(H,31,32)(H,33,34)(H,35,36);/q;+3/p-3/t17-;/m0./s1
+|  StdInChIKey = PCZHWPSNPWAQNF-LMOVPXPDSA-K
+}}
+
+'''Gadoxetic acid''' is a [[gadolinium-based MRI contrast agent]]. Its salt, '''gadoxetate disodium''', is marketed as '''Primovist''' in Europe and '''Eovist''' in the United States by [[Bayer HealthCare Pharmaceuticals]].<ref name="bayer">{{cite web |url=http://imaging.bayerhealthcare.com/html/eovist/index.html |title=Eovist - Homepage |work= |accessdate=2009-03-22}}</ref>
+
+==See also==
+
+* [[Gadobenic acid]]
+* [[Gadopentetic acid]]
+
+==References==
+{{reflist}}
+
+{{Contrast media}}
+
+{{DEFAULTSORT:Gadoxetic Acid}}
+[[Category:MRI contrast agents]]
+[[Category:Gadolinium compounds]]
+[[Category:Phenol ethers]]
+
+
+{{pharmacology-stub}}

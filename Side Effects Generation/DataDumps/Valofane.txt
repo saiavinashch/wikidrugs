@@ -1,0 +1,69 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 470628187
+| IUPAC_name = 3-allyl-''N''-(aminocarbonyl)-5-methyl-2-oxotetrahydrofuran-3-carboxamide
+| image = Valofane.svg
+| width = 180
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 3258-51-3
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 71122
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2104479
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 64272
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = X71N6E5IPO
+
+<!--Chemical data-->
+| C=10 | H=14 | N=2 | O=4 
+| molecular_weight = 226.229 g/mol
+| smiles = O=C(N)NC(=O)C1(C(=O)OC(C)C1)C\C=C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H14N2O4/c1-3-4-10(7(13)12-9(11)15)5-6(2)16-8(10)14/h3,6H,1,4-5H2,2H3,(H3,11,12,13,15)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = LVJAHKSVOQLCEV-UHFFFAOYSA-N
+| synonyms = <small>''N''-carbamoyl-5-methyl-2-oxo-3-prop-2-enyloxolane-3-carboxamide</small>
+}}
+
+'''Valofane''' is a [[sedative]] drug structurally related to the [[barbiturate]]s<ref>Traversa U, Puppini P, Jacquot C, Vertua R. Effect of an atypical barbiturate, the 2-allophanyl-2-allyl-4-valerolactone (valofan), on exploratory behaviour and brain serotonin concentrations in mice. ''Journal de Pharmacologie''. 1985 Jul-Sep;16(3):279-90.</ref> and similar drugs such as [[primidone]]. It is metabolised once inside the body to form the barbiturate [[proxibarbital]] (proxibarbal) and is thus a [[prodrug]].<ref>Lambrey B, Compagnon PL, Jacquot C. Pharmacokinetics of 14C-2-allophanyl-2-allyl -gamma-valero-lactone: a prodrug of proxibarbal in rats. ''European Journal of Drug Metabolism and Pharmacokinetics''. 1981;6(3):161-9.</ref>
+
+== References ==
+<references />
+
+{{Sedatives}}
+{{GABAAR PAMs}}
+
+[[Category:Allyl compounds]]
+[[Category:Barbiturates]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:Prodrugs]]
+[[Category:Sedatives]]
+[[Category:Tetrahydrofurans]]
+[[Category:Lactones]]
+
+{{nervous-system-drug-stub}}

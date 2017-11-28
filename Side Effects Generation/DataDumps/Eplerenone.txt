@@ -1,0 +1,137 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 461094183
+| IUPAC_name = <small>methyl (4aS,4bR,5aR,6aS,7R,9aS,9bR,10R)-4a,6a-dimethyl-2,5'-dioxo-2,4,4',4a,5',5a,6,6a,8,9,9a,9b,10,11-tetradecahydro-3H,3'H-spiro[cyclopenta[7,8]phenanthro[4b,5-b]oxirene-7,2'-furan]-10-carboxylate</small>
+| image = Eplerenone.svg
+| width = 250
+
+<!--Clinical data-->
+| pronounce = {{IPAc-en|ɛ|p|ˈ|l|ɛr|ə|n|oʊ|n}}
+| tradename = Inspra
+| Drugs.com = {{drugs.com|monograph|eplerenone}}
+| MedlinePlus = a603004
+| pregnancy_AU = B3
+| pregnancy_US = B
+| legal_AU = Schedule 4
+| legal_US = Rx-only
+| routes_of_administration = Oral ([[Tablet (pharmacy)|tablets]])
+
+<!--Pharmacokinetic data-->
+| bioavailability = ~70%<ref name="LemkeWilliams2012">{{cite book|author1=Thomas L. Lemke|author2=David A. Williams|title=Foye's Principles of Medicinal Chemistry|url=https://books.google.com/books?id=Sd6ot9ul-bUC&pg=PA743|date=24 January 2012|publisher=Lippincott Williams & Wilkins|isbn=978-1-60913-345-0|pages=743–}}</ref>
+| protein_bound = ~50% (33–60%) (primarily to [[orosomucoid|α<sub>1</sub>-acid glycoprotein]])<ref name="LemkeWilliams2012" /><ref name="Sica2005">{{cite journal|last1=Sica|first1=Domenic A.|title=Pharmacokinetics and Pharmacodynamics of Mineralocorticoid Blocking Agents and their Effects on Potassium Homeostasis|journal=Heart Failure Reviews|volume=10|issue=1|year=2005|pages=23–29|issn=1382-4147|doi=10.1007/s10741-005-2345-1}}</ref>
+| metabolism = [[Liver]] ([[CYP3A4]])<ref name="LemkeWilliams2012" /><ref name="Sica2005" />
+| metabolites = {{abbr|6β-OH-EPL|6β-hydroxyeplerenone}}, {{abbr|6β,21-OH-EPL|6β,21-dihydroxyeplerenone}}, {{abbr|21-OH-EPL|21-hydroxyeplerenone}}, {{abbr|3α,6β-OH-EPL|3α,6β-dihydroxyeplerenone}}<ref name="LemkeWilliams2012" /> (All inactive)<ref name="LemkeWilliams2012" />
+| elimination_half-life = 4–6 hours<ref name="StruthersKrum2008">{{cite journal|last1=Struthers|first1=Allan|last2=Krum|first2=Henry|last3=Williams|first3=Gordon H.|title=A Comparison of the Aldosterone-blocking Agents Eplerenone and Spironolactone|journal=Clinical Cardiology|volume=31|issue=4|year=2008|pages=153–158|issn=0160-9289|doi=10.1002/clc.20324|pmid=18404673}}</ref>
+| excretion = [[Urine]] (67%), [[feces]] (32%)<ref name="FrishmanCheng-Lai2005">{{cite book|author1=William H. Frishman|author2=Angela Cheng-Lai|author3=James Nawarskas|title=Current Cardiovascular Drugs|url=https://books.google.com/books?id=y3R1Vd3NHqcC&pg=PA246|date=4 January 2005|publisher=Springer Science & Business Media|isbn=978-1-57340-221-7|pages=246–}}</ref>
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 107724-20-9
+| ATC_prefix = C03
+| ATC_suffix = DA04
+| PubChem = 5282131
+| IUPHAR_ligand = 2876
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00700
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 10203511
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 6995V82D0B
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01115
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 31547
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1095097
+
+<!--Chemical data-->
+| C=24 | H=30 | O=6
+| molecular_weight = 414.49
+| smiles = COC(=O)[C@@H]4C\C1=C\C(=O)CC[C@]1(C)[C@@]65O[C@@H]6C[C@@]3(C)[C@@H](CC[C@]23CCC(=O)O2)[C@H]45
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C24H30O6/c1-21-7-4-14(25)10-13(21)11-15(20(27)28-3)19-16-5-8-23(9-6-18(26)30-23)22(16,2)12-17-24(19,21)29-17/h10,15-17,19H,4-9,11-12H2,1-3H3/t15-,16+,17-,19+,21+,22+,23-,24-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = JUKPWJGBANNWMW-VWBFHTRKSA-N
+| synonyms = SC-66110; CGP-30083; 9-11α-Epoxymexrenone; <small>9,11α-Epoxy-7α-methoxycarbonyl-3-oxo-17α-pregn-4-ene-21,17-carbolactone</small>
+}}
+
+'''Eplerenone''' is a [[steroid]]al [[antimineralocorticoid]] of the [[spirolactone]] group that is used as an adjunct in the management of [[chronic heart failure]]. Classed as a [[selective aldosterone receptor antagonist]] (SARA),<ref name="DelyaniRocha2006">{{cite journal|last1=Delyani|first1=John A.|last2=Rocha|first2=Ricardo|last3=Cook|first3=Chyung S.|last4=Tolbert|first4=Dwain S.|last5=Levin|first5=Stuart|last6=Roniker|first6=Barbara|last7=Workman|first7=Diane L.|last8=Sing|first8=Yuen-lung L.|last9=Whelihan|first9=Brian|title=Eplerenone: A Selective Aldosterone Receptor Antagonist (SARA)|journal=Cardiovascular Drug Reviews|volume=19|issue=3|year=2006|pages=185–200|issn=08975957|doi=10.1111/j.1527-3466.2001.tb00064.x}}</ref> it is similar to the [[diuretic]] [[spironolactone]], though it is much more [[binding selectivity|selective]] for the [[mineralocorticoid receptor]] in comparison (i.e., does not possess any  [[antiandrogen]], [[progestogen]], [[glucocorticoid]], or [[estrogen]]ic effects), and is specifically marketed for reducing [[cardiovascular]] risk in patients following [[myocardial infarction]]. Eplerenone is a [[potassium-sparing diuretic]], meaning that it helps the body get rid of water but still keep potassium.
+
+Eplerenone was developed by [[Pharmacia Corporation]], which was acquired by [[Pfizer]] in 2002.<ref name=":1">{{Cite web|url=http://www.drugdevelopment-technology.com/projects/inspraeplerenonefort/|title=Inspra (Eplerenone)|website=Drug Development Technology|access-date=2016-04-19}}</ref> It was marketed by Pfizer under the trade name '''Inspra'''. The US [[Food and Drug Administration|Food and Drug Administration (FDA)]] approved the drug for sale in the United States in 2002.<ref name=":1" /> Eplerenone is currently approved for sale in the US, EU, Netherlands and Japan.<ref name=":1" /> Eplerenone costs an estimated $2.93 per day when treating [[Heart failure|congestive heart failure]] and $5.86 per day when treating [[hypertension]].<ref name="Craft" />
+
+==Medical uses==
+
+===Heart failure===
+Eplerenone is specifically indicated for the reduction of risk of [[cardiovascular]] death in people with [[heart failure]] and [[left ventricle|left ventricular]] dysfunction within 3–14 days of an acute [[myocardial infarction]], in combination with standard therapies and as treatment against hypertension. A variant of the [[spirolactone]] group, Eplerenone was developed to contradict the depletion of essential [[potassium]] and magnesium levels that are common amongst other mineralocorticoid receptor antagonists.<ref>{{Cite journal|last=Montalescot|first=Gilles|last2=Pitt|first2=Bertram|last3=Sa|first3=Esteban Lopez de|last4=Hamm|first4=Christian W.|last5=Flather|first5=Marcus|last6=Verheugt|first6=Freek|last7=Shi|first7=Harry|last8=Turgonyi|first8=Eva|last9=Orri|first9=Miguel|date=2014-09-07|title=Early eplerenone treatment in patients with acute ST-elevation myocardial infarction without heart failure: The Randomized Double-Blind Reminder Study|url=http://eurheartj.oxfordjournals.org/content/35/34/2295|journal=European Heart Journal|language=en|volume=35|issue=34|pages=2295–2302|doi=10.1093/eurheartj/ehu164|issn=0195-668X|pmid=24780614}}</ref> It is a more expensive alternative to [[spironolactone]].<ref>{{cite journal|last1=Chatterjee|first1=S|author2=Moeller, C; Shah, N; Bolorunduro, O; Lichstein, E; Moskovits, N; Mukherjee, D|title=Eplerenone is not superior to older and less expensive aldosterone antagonists.|journal=The American Journal of Medicine|date=August 2012|volume=125|issue=8|pages=817–25|pmid=22840667|doi=10.1016/j.amjmed.2011.12.018}}</ref>
+
+{| class="wikitable"
+|+<sub>RALES = Randomized Aldactone Evaluation Study, EPHESUS = Eplerenone Post-Acute Myocardial Infarction Heart Failure Efficacy and Survival Study</sub><ref name="StruthersKrum2008" />
+'''<sub>*Table derived from a study conducted by The Division of Medicine and Therapeutics at Ninewells Hospital and Medical School</sub>''' 
+!Parameter
+!RALES
+!EPHESUS
+|-
+|Drug:
+|Spironolactone
+|Eplerenone
+|-
+|Patients enrolled (n)
+|1663
+|6632
+|-
+|Population/Inclusion Criteria
+|NYHA Class III at the time of Enrollment
+|NYHA Class I-IV
+|-
+|Target Dose
+|50&nbsp;mg/d
+|50&nbsp;mg/d
+|-
+|Mean Dose Achieved
+|26&nbsp;mg/d
+|43.5&nbsp;mg/d
+|-
+|Mean duration of follow-up
+|24 mo
+|16 mo
+|-
+|Diuretic
+|100%
+|60%
+|}
+
+===Hypertension===
+Eplerenone can be used individually or in combination with other medications to treat [[hypertension]].<ref name="StruthersKrum2008" /> In an 8-week trial with 417 patients with mild to moderate hypertension, eplerenone decreased [[systolic]] and [[diastolic]] blood pressure in a dose-dependent manner.<ref name="ReferenceA">{{cite journal|last1=Brown|first1=N. J.|title=Eplerenone: Cardiovascular Protection|journal=Circulation|date=20 May 2003|volume=107|issue=19|pages=2512–2518|doi=10.1161/01.CIR.0000071081.35693.9A}}</ref> Eplerenone effectively reduces blood pressure compared to agents such as spironolactone, enalapril, losartan and amlodipine, but its effect on mortality is still generally unknown.<ref name="ReferenceA"/>
+
+===Central serous retinopathy===
+Eplerenone is being explored as a treatment for [[central serous retinopathy]].<ref name="Salehi">{{cite journal |author= Salehi M, Wenick AS, Law HA, Evans JR, Gehlbach P |title= Interventions for central serous chorioretinopathy: a network meta-analysis |journal=Cochrane Database Syst Rev |volume= |issue=12 |pages= CD011841 |date=2015 |pmid= 26691378 |doi= 10.1002/14651858.CD011841.pub2}}</ref> It is expected that as an antimineralocorticoid, eplerenone can inhibit over-activation of the mineralocorticoid receptor pathway in the [[choroid]]. Separate trials are underway to determine if there are beneficial effects of eplerenone for acute and chronic CSR.<ref name="Salehi" />
+
+==Adverse effects==
+Adverse effects of aldosterone occur in the heart and brain, due to changes in water retention and excretion of sodium and potassium.<ref name="StruthersKrum2008" /> Common [[adverse drug reaction]]s (ADRs) associated with the use of eplerenone include: [[hyperkalaemia]], [[hypotension]], dizziness, altered renal function, and increased creatinine concentration.<ref>Rossi S, editor.[[Australian Medicines Handbook]] 2006. Adelaide: Australian Medicines Handbook; 2006</ref> Eplerenone may have a lower incidence than spironolactone of sexual side effects such as [[feminization (biology)|feminization]], [[gynecomastia]], [[impotence]], low sex drive and reduction of size of male genitalia.<ref name="Craft">{{cite journal |last=Craft |first=Jennifer |pmc=1200656 |title=Eplerenone|publisher=Pub MedCentral |pmid=16200104 |volume=17|issue=2|date=April 2004|journal=Proc (Bayl Univ Med Cent); Eplerenone (Inspra), a new aldosterone antagonist for the treatment of systemic hypertension and heart failure|pages=217–20}}</ref> This is because other antimineralocorticoids have structural elements of the [[progesterone]] molecule, causing progestogenic and antiandrogenic outcomes.<ref name="StruthersKrum2008" /> When considering taking these medicines, it is important to note the variations in their ability to offset the nongenomic effects of aldosterone.<ref name="StruthersKrum2008" />
+
+===Contraindications===
+Eplerenone is contraindicated in patients with [[hyperkalaemia]], severe [[renal impairment]] (creatinine Cl less than 30 ml/min), or severe [[hepatic impairment]] ([[Child-Pugh score]] C). The manufacturer of eplerenone also contraindicates ( relative C.I. ) concomitant treatment with [[ketoconazole]], [[itraconazole]] or other [[potassium-sparing diuretic]]s (though the manufacturer still considers taking these drugs to be absolute C.I.) Potential benefits should be weighted against possible risks.
+
+===Drug interactions===
+Eplerenone is primarily metabolized by the [[Cytochrome P450 oxidase|cytochrome P450]] enzyme [[CYP3A4]]. Thus the potential exists for adverse drug interactions with other drugs that induce or inhibit CYP3A4. Specifically, the concomitant use of the CYP3A4 potent inhibitors [[ketoconazole]] and [[itraconazole]] is contraindicated. Other CYP3A4 inhibitors including [[erythromycin]], [[saquinavir]], and [[verapamil]] should be used with caution. Other drugs that increase [[potassium]] concentrations may increase the risk of hyperkalemia associated with eplerenone therapy, including salt substitutes,<ref>LoSalt [http://www.losalt.com/docs/lo_salt_web_advice.pdf Advisory Statement] (PDF)</ref> potassium supplements and other [[potassium-sparing diuretic]]s.
+
+==Pharmacology==
+Eplerenone is an [[antimineralocorticoid]], or an [[receptor antagonist|antagonist]] of the [[mineralocorticoid receptor]] (MR).<ref name="Delyani2000">{{cite journal|last1=Delyani|first1=John A|title=Mineralocorticoid receptor antagonists: The evolution of utility and pharmacology|journal=Kidney International|volume=57|issue=4|year=2000|pages=1408–1411|issn=0085-2538|doi=10.1046/j.1523-1755.2000.00983.x|pmid=10760075}}</ref> Eplerenone is also known chemically as 9,11α-epoxy-7α-methoxycarbonyl-3-oxo-17α-pregn-4-ene-21,17-carbolactone and "was derived from spironolactone by the introduction of a 9α,11α-epoxy bridge and by substitution of the 17α-thoacetyl group of spironolactone with a carbomethoxy group".<ref name="ReferenceA"/> The drug controls high blood pressure by binding the [[aldosterone]] hormone to the mineralocorticoid receptor (MR) in [[Epithelium|epithelial]] tissues, such as the kidney.<ref name="StruthersKrum2008" /> This helps to increase blood volume and regulate blood pressure.<ref name=":1" /> It has 10- to 20-fold lower [[affinity (pharmacology)|affinity]] for the MR relative to [[spironolactone]],<ref name="Delyani2000" /> and is less potent ''[[in vivo]]'' as an antimineralocorticoid.<ref name="StruthersKrum2008" /> However, in contrast to spironolactone, eplerenone has little affinity for the [[androgen receptor|androgen]], [[progesterone receptor|progesterone]], and [[glucocorticoid receptor]]s.<ref name="Delyani2000" /><ref name="StruthersKrum2008" /> It also has more consistently observed non-genomic antimineralocorticoid effects relative to spironolactone (see [[membrane mineralocorticoid receptor]]).<ref name="StruthersKrum2008" /> Eplerenone differs from spironolactone in its extensive metabolism, with a short half-life and inactive metabolites.<ref name="StruthersKrum2008" />
+
+==See also==
+* [[Finerenone]]
+* [[Mexrenone]]
+
+==References==
+{{Reflist|2}}
+
+{{Diuretics}}
+{{Mineralocorticoids and antimineralocorticoids}}
+{{Mineralocorticoid receptor modulators}}
+
+[[Category:Antimineralocorticoids]]
+[[Category:Epoxides]]
+[[Category:Lactones]]
+[[Category:Pfizer products]]
+[[Category:Pregnanes]]
+[[Category:Methyl esters]]

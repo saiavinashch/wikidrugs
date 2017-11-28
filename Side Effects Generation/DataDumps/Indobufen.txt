@@ -1,0 +1,69 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 447914993
+| IUPAC_name = 2-(4-(1-Oxoisoindolin-2-yl)phenyl)butanoic acid
+| image = Indobufen structure.svg
+| image2 = Indobufen ball-and-stick.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|indobufen}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 63610-08-2
+| ATC_prefix = B01
+| ATC_suffix = AC10
+| PubChem = 107641
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 6T9949G4LZ
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07141
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1765292
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 96823
+
+
+<!--Chemical data-->
+| C=18 | H=17 | N=1 | O=3 
+| molecular_weight = 295.333 g/mol
+| smiles            = O=C(O)C(c1ccc(cc1)N3C(=O)c2ccccc2C3)CC
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C18H17NO3/c1-2-15(18(21)22)12-7-9-14(10-8-12)19-11-13-5-3-4-6-16(13)17(19)20/h3-10,15H,2,11H2,1H3,(H,21,22)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = AYDXAULLCROVIT-UHFFFAOYSA-N
+}}
+'''Indobufen''' is a [[platelet aggregation inhibitor]].<ref>The Merck Index, 12th Edition. 4991</ref> It acts as a reversible [[Mechanism of action of aspirin|cyclooxygenase inhibitor]].<ref>{{cite journal|title=Indobufen inhibits tissue factor in human monocytes through a thromboxane-mediated mechanism|first1=Sonia|last1=Eligini|journal=Cardiovascular Research|volume=69|issue=1|year=2005|pages=218–226|url=http://cardiovascres.oxfordjournals.org/content/69/1/218.abstract|doi=10.1016/j.cardiores.2005.07.013|pmid=16154551|last2=Violi|first2=F|last3=Banfi|first3=C|last4=Barbieri|first4=SS|last5=Brambilla|first5=M|last6=Saliola|first6=M|last7=Tremoli|first7=E|last8=Colli|first8=S}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Antithrombotics}}
+
+[[Category:Antiplatelet drugs]]
+[[Category:Lactams]]
+[[Category:Isoindolines]]
+[[Category:Butyrates]]
+
+
+{{blood-drug-stub}}

@@ -1,0 +1,69 @@
+{{refimprove|date=November 2016}}
+
+{{Chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 405910037
+| Name = Nocodazole
+| ImageFile = Nocodazole structure.svg
+| IUPACName = Methyl [5-(2-thienylcarbonyl)-1''H''-benzimidazol-2-yl]carbamate
+
+| Section1 = {{Chembox Identifiers
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = SH1WY3R615
+| SMILES = O=C(C2=CC=CS2)C1=CC=C(N=C(NC(OC)=O)N3)C3=C1
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo = 31430-18-9
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 9514
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 34892
+| EINECS = 250-626-5
+| PubChem = 4122
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 3979
+| InChI = 1/C14H11N3O3S/c1-20-14(19)17-13-15-9-5-4-8(7-10(9)16-13)12(18)11-3-2-6-21-11/h2-7H,1H3,(H2,15,16,17,19)
+| InChIKey = KYRVNWMVYQXFEU-UHFFFAOYAF
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C14H11N3O3S/c1-20-14(19)17-13-15-9-5-4-8(7-10(9)16-13)12(18)11-3-2-6-21-11/h2-7H,1H3,(H2,15,16,17,19)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = KYRVNWMVYQXFEU-UHFFFAOYSA-N
+| RTECS = 
+| MeSHName = 
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = C13719
+ }}
+
+| Section2 = {{Chembox Properties
+| C = 14 | H = 11 | N = 3 | O = 3 | S = 1
+| Appearance = White with faint yellow cast powder
+| Solubility = Approximately 10 mg/mL in DMSO
+| MeltingPtC = 256
+ }}
+}}
+
+'''Nocodazole''' is an [[antineoplastic agent]] which exerts its effect in cells by interfering with the [[polymer]]ization of [[microtubule]]s. Microtubules are one type of fibre which constitutes the [[cytoskeleton]], and the dynamic microtubule network has several important roles in the cell, including vesicular transport, forming the [[mitotic spindle]] and in [[cytokinesis]]. Several drugs including [[vincristine]] and [[colcemid]] are similar to nocodazole in that they interfere with microtubule polymerization.
+
+Interestingly, nocodazole has been shown to decrease the oncogenic potential of cancer cells via another microtubules-independent mechanisms. Nocodazole stimulates the expression of LATS2 which potently inhibits the [[Wnt signaling pathway]] by abrogating the interaction between the Wnt-dependent transcriptional co-factors [[beta-catenin]] and [[BCL9]].<ref>{{Cite journal|title = LATS2 suppresses oncogenic Wnt signaling by disrupting β-catenin/BCL9 interaction|journal = Cell Reports|date = 2013-12-26|issn = 2211-1247|pmc = 3897473|pmid = 24360964|pages = 1650–1663|volume = 5|issue = 6|doi = 10.1016/j.celrep.2013.11.037|first = Jiong|last = Li|first2 = Xiaohong|last2 = Chen|first3 = Xiangming|last3 = Ding|first4 = Yingduan|last4 = Cheng|first5 = Bin|last5 = Zhao|first6 = Zhi-Chun|last6 = Lai|first7 = Khalid|last7 = Al Hezaimi|first8 = Razqallah|last8 = Hakem|first9 = Kun-Liang|last9 = Guan}}</ref>
+
+It is related to [[mebendazole]] by replacement of the left most benzene ring by [[thiophene]].
+
+==Use in cell biology research==
+As nocodazole affects the cytoskeleton, it is often used in [[cell biology]] experiments as a control: for example, some dominant negative [[Rho]] [[small GTPase]]s cause a similar effect as nocodazole, and constitutively activated mutants often reverse or negate the effect.
+
+Nocodazole is frequently used in cell biology laboratories to synchronize the [[cell cycle|cell division cycle]]. Cells treated with nocodazole arrest with a [[G2 phase|G2]]- or [[Mitosis|M]]-phase DNA content when analyzed by [[flow cytometry]]. Microscopy of nocodazole-treated cells shows that they do enter [[mitosis]] but cannot form [[metaphase]] [[mitotic spindle|spindles]] because microtubules (of which the spindles are made) cannot polymerise. The absence of microtubule attachment to [[kinetochore]]s activates the [[spindle checkpoint|spindle assembly checkpoint]], causing the cell to arrest in [[prometaphase]]. For cell synchronization experiments, nocodazole is usually used at a concentration of 40–100&nbsp;ng/mL of culture medium for a duration of 12–18 hours. Prolonged arrest of cells in mitosis due to nocodazole treatment typically results in cell death by [[apoptosis]].
+
+Another standard cell biological application of nocodazole is to induce the formation of Golgi ministacks in [[eukaryotic]] cells. The perinuclear structural organization of the [[Golgi apparatus]] in eukaryotes is dependent on microtubule trafficking, but disrupting the trafficking of Golgi elements from the endoplasmic reticulum treatment with nocodazole (33 ''μ''M for 3 hours) induces numerous Golgi elements to form adjacent to ER exit sites. These functional Golgi ministacks remain distributed about the cell, unable to track forward to form a perinuclear Golgi since nocodazole has depolymerized the microtubules.
+
+Also used with Mad2p protein as an anti-microtubule drug.
+
+==References==
+{{reflist}}
+
+{{chemotherapeutic agents}}
+
+[[Category:Benzimidazoles]]
+[[Category:Carbamates]]
+[[Category:Cell biology]]
+[[Category:Microtubule inhibitors]]
+[[Category:Thiophenes]]

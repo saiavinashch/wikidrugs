@@ -1,0 +1,61 @@
+{{chembox
+| Watchedfields = changed
+| verifiedrevid = 437194318
+| ImageFile = Cirazoline.svg
+| ImageSize = 180
+| IUPACName = 2-[(2-cyclopropylphenoxy)methyl]-4,5-dihydro-1''H''-imidazole
+| OtherNames =
+
+| Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = QK318GVY3Y
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2663
+| InChI = 1/C13H16N2O/c1-2-4-12(11(3-1)10-5-6-10)16-9-13-14-7-8-15-13/h1-4,10H,5-9H2,(H,14,15)
+| InChIKey = YAORIDZYZDUZCM-UHFFFAOYAV
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 13852
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C13H16N2O/c1-2-4-12(11(3-1)10-5-6-10)16-9-13-14-7-8-15-13/h1-4,10H,5-9H2,(H,14,15)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YAORIDZYZDUZCM-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo = 59939-16-1
+| PubChem = 2765
+| IUPHAR_ligand = 515
+| SMILES = O(c1c(cccc1)C2CC2)CC/3=N/CCN\3
+| MeSHName = Cirazoline
+  }}
+
+|Section2 = {{Chembox Properties
+| Formula = C<sub>13</sub>H<sub>16</sub>N<sub>2</sub>O
+| MolarMass = 216.279 g/mol
+| Appearance =
+| Density =
+| MeltingPt =
+| BoilingPt =
+| Solubility =
+  }}
+
+|Section3 = {{Chembox Hazards
+| MainHazards =
+| FlashPt =
+| AutoignitionPt =
+  }}
+}}
+
+'''Cirazoline''' is a full [[agonist]] at the [[Alpha-1A adrenergic receptor|α<sub>1A</sub> adrenergic receptor]], a [[partial agonist]] at both the [[Alpha-1B adrenergic receptor|α<sub>1B</sub>]] and [[Alpha-1D adrenergic receptor|α<sub>1D</sub>]] adrenergic receptors,<ref name="horie">{{cite journal|author1=Horie, K |author2=Obika, K |author3=Foglar, R. | title = Selectivity of the imidazoline α-adrenoceptor agonists (oxymetazoline and cirazoline) for human cloned α<sub>1</sub>-adrenoceptor subtypes | journal = British Journal of Pharmacology | year = 1995 | volume = 116 | issue = 1 | pages = 1611–8 | pmid = 8564227 | doi=10.1111/j.1476-5381.1995.tb16381.x | pmc=1908909}}</ref> and a nonselective [[antagonist]] to the [[Alpha-2 adrenergic receptor|α<sub>2</sub> adrenergic receptor]].<ref name="ruffolo">{{cite journal|author1=Ruffolo, R. R. Jr. |author2=Waddell, J. E. | title = Receptor interactions of imidazolines. IX. Cirazoline is an α<sub>1</sub> adrenergic agonist and an α<sub>2</sub> adrenergic antagonist | journal = Journal of Pharmacology and Experimental Therapeutics | year = 1982 | volume = 222 | issue = 1 | pages = 29–36 | pmid = 6123592 }}</ref> It is believed that this combination of properties could make cirazoline an effective [[Vasoconstriction|vasoconstricting]] agent.<ref name=ruffolo/>
+
+Cirazoline has also been shown to decrease food intake in rats, purportedly through activation of α<sub>1</sub> adrenoceptors in the [[paraventricular nucleus]] in the hypothalamus of the brain.<ref name="davies">{{cite journal |author1=Davies, B. T. |author2=Wellman, P. J. | year = 1992 | title = Effects on ingestive behavior in rats of the α<sub>1</sub>-adrenoceptor agonist cirazoline | journal = European Journal of Pharmacology | volume = 210 | issue = 1 | pages = 11–16 | doi = 10.1016/0014-2999(92)90645-K | pmid = 1350985 }}</ref>
+
+==References==
+{{reflist}}
+
+{{Adrenergic agonists}}
+
+[[Category:Cyclopropanes]]
+[[Category:Imidazolines]]
+[[Category:Phenol ethers]]
+
+
+{{biochem-stub}}

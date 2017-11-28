@@ -1,0 +1,84 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 391923978
+| IUPAC_name = 1-((2S,3S,5S,8R,9S,10S,13S,14S,16S,17R)-17-acetoxy-3-hydroxy-10,13-dimethyl-2-morpholinohexadecahydro-1H-cyclopenta[a]phenanthren-16-yl)-1-allylpyrrolidinium bromide
+| image = Rocuronium structure.png
+| width = 250
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|monograph|rocuronium_bromide}}
+| pregnancy_category =  
+| legal_UK = POM
+| routes_of_administration = [[Intravenous therapy|Intravenous]]
+<!--Pharmacokinetic data-->
+| bioavailability = NA
+| protein_bound = ~30%
+| metabolism = some de-[[acetyl]]ation
+| elimination_half-life = 66–80 minutes
+| excretion = Unchanged, in [[bile]] and [[urine]]
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 119302-91-9
+| ATC_prefix = M03
+| ATC_suffix = AC09
+| IUPHAR_ligand = 4003
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB00728
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = I65MW4OFHZ
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201244
+|  PubChem = 441351
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 390104
+
+
+<!--Chemical data-->
+| C=32 | H=53 | N=2 | O=4| Br=1
+| molecular_weight = 609.678 g/mol
+|  SMILES = CC(=O)O[C@H]1[C@H](C[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(C[C@@H]([C@H](C4)O)N5CCOCC5)C)C)[N+]6(CCCC6)CC=C.[Br-]
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C32H53N2O4.BrH/c1-5-14-34(15-6-7-16-34)28-20-26-24-9-8-23-19-29(36)27(33-12-17-37-18-13-33)21-32(23,4)25(24)10-11-31(26,3)30(28)38-22(2)35;/h5,23-30,36H,1,6-21H2,2-4H3;1H/q+1;/p-1/t23-,24+,25-,26-,27-,28-,29-,30-,31-,32-;/m0./s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = OYTJKRAYGYRUJK-FMCCZJBLSA-M
+| synonyms = <small>[3-hydroxy-10,13-dimethyl-2-morpholin-4-yl-16-(1-prop-2-enyl-2,3,4,5-tetrahydropyrrol-1-yl)-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1''H''-cyclopenta[''a'']phenanthren-17-yl] acetate</small>
+|drug_name=|alt=|caption=|type=|MedlinePlus=|legal_status=|licence_EU=|pregnancy_AU=|pregnancy_US=|licence_US=|legal_US=Rx-only}}
+
+'''Rocuronium bromide''' (brand names '''Zemuron''', '''Esmeron''') is an [[aminosteroid]] [[Neuromuscular-blocking drug#Non-depolarizing blocking agents|non-depolarizing]]  [[Neuromuscular-blocking drugs|neuromuscular blocker]] or [[muscle relaxant]] used in modern [[anaesthesia]] to facilitate [[endotracheal intubation]] by providing [[skeletal muscle]] relaxation, most commonly required for [[surgery]] or [[mechanical ventilation]]. It is used for both standard [[Tracheal intubation|endotracheal intubation]] and [[rapid sequence induction]] (RSI), although [[suxamethonium chloride]] is usually selected for RSI given its fast onset of action compared with rocuronium.<ref>{{cite journal|last1=Tran|first1=DT|last2=Newton|first2=EK|last3=Mount|first3=VA|last4=Lee|first4=JS|last5=Wells|first5=GA|last6=Perry|first6=JJ|title=Rocuronium versus succinylcholine for rapid sequence induction intubation.|journal=The Cochrane database of systematic reviews|date=29 October 2015|volume=10|pages=CD002788|pmid=26512948|doi=10.1002/14651858.CD002788.pub3}}</ref>
+
+==Pharmacology==
+
+=== Mechanism of action ===
+It was designed to be a weaker antagonist at the neuromuscular junction than [[pancuronium]]; hence its monoquaternary structure and its having an [[allyl]] group and a pyrrolidine group attached to the D ring quaternary nitrogen atom. Rocuronium has a rapid onset and intermediate duration of action.<ref name="pmid8652315">{{cite journal |author=Hunter JM |title=Rocuronium: the newest aminosteroid neuromuscular blocking drug |journal=British Journal of Anaesthesia |volume=76 |issue=4 |pages=481–3 |date=April 1996 |pmid=8652315 |doi= 10.1093/bja/76.4.481|url=http://bja.oxfordjournals.org/cgi/pmidlookup?view=long&pmid=8652315}}</ref> 
+
+There is considered to be a risk of allergic reaction to the drug in some patients (particularly those with [[asthma]]), but a similar incidence of allergic reactions has been observed by using other members of the same drug class (non-depolarizing neuromuscular blocking drugs).<ref name="pmid17115010">{{cite journal |vauthors=Burburan SM, Xisto DG, Rocco PR |title=Anaesthetic management in asthma |journal=Minerva Anestesiologica |volume=73 |issue=6 |pages=357–65 |date=June 2007 |pmid=17115010 |doi= |url=}}</ref>
+
+The γ-[[cyclodextrin]] derivative [[sugammadex]] (trade name Bridion) has been recently introduced as a novel agent to reverse the action of rocuronium.<ref name="pmid17312211">{{cite journal |author=Naguib M |title=Sugammadex: another milestone in clinical neuromuscular pharmacology |journal=Anesthesia and Analgesia |volume=104 |issue=3 |pages=575–81 |date=March 2007 |pmid=17312211 |doi=10.1213/01.ane.0000244594.63318.fc |url=http://www.anesthesia-analgesia.org/cgi/pmidlookup?view=long&pmid=17312211}}</ref> [[Sugammadex]] has been in use since 2009 in many European countries; however, it was turned down for approval twice by the US FDA due to concerns over allergic reactions and bleeding,<ref>{{cite web |last=McKee |first=Selina |title=FDA turns down Merck & Co's sugammadex again |date=September 24, 2013 |work=PharmaTimes |url=http://www.pharmatimes.com/article/13-09-24/FDA_turns_down_Merck_Co_s_sugammadex_again.aspx}}</ref> but finally approved the medication for use during surgical procedures in the United States on December 15, 2015.<ref>{{Cite web|url=http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm477512.htm|title=Press Announcements - FDA approves Bridion to reverse effects of neuromuscular blocking drugs used during surgery|website=www.fda.gov|language=en|access-date=2017-01-07}}</ref> [[Neostigmine]] can also be used as a reversal agent of rocuronium but is not as effective as sugammadex. Neostigmine is often still used due to its low cost compared with sugammadex.<ref>{{Cite journal|last=Carron|first=Michele|last2=Zarantonello|first2=Francesco|last3=Tellaroli|first3=Paola|last4=Ori|first4=Carlo|title=Efficacy and safety of sugammadex compared to neostigmine for reversal of neuromuscular blockade: a meta-analysis of randomized controlled trials|url=https://dx.doi.org/10.1016/j.jclinane.2016.06.018|journal=Journal of Clinical Anesthesia|volume=35|pages=1–12|doi=10.1016/j.jclinane.2016.06.018}}</ref>
+
+==History==
+It was introduced in 1994, and is marketed under the trade name of Zemuron in the [[United States]] and Esmeron in most other countries.
+
+== Executions ==
+
+On July 27, 2012, the U.S. state of [[Virginia]] replaced [[pancuronium bromide]], one of the three drugs used in [[execution]] by [[lethal injection]], with rocuronium.{{Citation needed|date=January 2017}}
+
+On 3 October 2016, the U.S. state of [[Ohio]] announced that it would resume executions on January 12, 2017, using a combination of [[midazolam]], rocuronium bromide, and [[potassium chloride]]. Prior to this, the last execution in Ohio was in January 2014.<ref>{{Cite news|url=http://www.bbc.co.uk/news/world-us-canada-37545854|title=Ohio to resume executions using a three-drug combination in January|date=2016-10-03|newspaper=BBC News|language=en-GB|access-date=2017-01-07}}</ref>
+
+On August 24, 2017, the U.S. state of [[Florida]] executed Mark James Asay using a combination of [[etomidate]], rocuronium bromide, and [[potassium acetate]].<ref>{{cite news|url=http://www.sun-sentinel.com/news/florida/fl-reg-florida-execution-asay-20170824-story.html|title=Florida executes convicted killer Mark Asay using new drug|author=Jason Dearon|publisher=Sun Sentinel}}</ref>
+
+== References ==
+{{Reflist|2}}
+
+{{Muscle relaxants}}
+{{Nicotinic acetylcholine receptor modulators}}
+
+[[Category:Muscle relaxants]]
+[[Category:Nicotinic antagonists]]
+[[Category:Quaternary ammonium compounds]]
+[[Category:Morpholines]]
+[[Category:Schering-Plough]]
+[[Category:Pyrrolidines]]
+[[Category:Acetate esters]]
+[[Category:Chemical substances for emergency medicine]]
+[[Category:Allyl compounds]]

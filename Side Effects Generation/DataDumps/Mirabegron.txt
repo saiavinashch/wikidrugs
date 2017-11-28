@@ -1,0 +1,110 @@
+{{Drugbox
+| drug_name = 
+| IUPAC_name = 2-(2-Amino-1,3-thiazol-4-yl)-''N''-[4-(2-<nowiki/>{[(2''R'')-2-hydroxy-2-phenylethyl]amino}ethyl)phenyl]acetamide
+| image = Mirabegron.svg
+| width = 300
+
+<!-- Clinical data -->
+| tradename = Myrbetriq <small>([[United States|US]])</small>, Betanis <small>([[Japan|JP]])</small>, Betmiga <small>([[European Union|EU]], [[Russia|RU]])</small>
+| licence_EU = Betmiga
+| licence_US = Mirabegron
+| Drugs.com = 
+| MedlinePlus = 
+| pregnancy_AU = B3
+| pregnancy_US = C
+| pregnancy_category =
+| legal_AU = S4
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status = ℞-only
+| routes_of_administration = Oral ([[Tablet (pharmacy)|tablets]])
+
+<!-- Pharmacokinetic data -->
+| bioavailability = 29–35%<ref name = MSR/>
+| protein_bound = 71%<ref name = MSR/>
+| metabolism = [[Hepatic]] via (direct) glucuronidation, amide hydrolysis, and minimal oxidative metabolism ''in vivo'' by [[CYP2D6]] and [[CYP3A4]]. Some involvement of butylcholinesterase<ref name = MSR/>
+| elimination_half-life = 50 hours<ref name = MSR/>
+| excretion = Urine (55%), faeces (34%)<ref name = MSR/>
+
+<!-- Identifiers -->
+| CAS_number = 223673-61-8
+| ATCvet = 
+| ATC_prefix = G04
+| ATC_suffix = BD12
+| PubChem = 9865528
+| ChemSpiderID = 8041219
+| DrugBank = 
+| synonyms = YM-178
+
+<!-- Chemical data -->
+| C=21 | H=24 | N=4 | O=2 | S=1
+| molecular_weight  = 396.506 g/mol
+|  smiles = O=C(Nc1ccc(cc1)CCNC[C@H](O)c2ccccc2)Cc3nc(sc3)N
+|  StdInChI = 1S/C21H24N4O2S/c22-21-25-18(14-28-21)12-20(27)24-17-8-6-15(7-9-17)10-11-23-13-19(26)16-4-2-1-3-5-16/h1-9,14,19,23,26H,10-13H2,(H2,22,25)(H,24,27)/t19-/m0/s1
+|  StdInChIKey = PBAPPPCECJKMCM-IBGZPJMESA-N
+}}
+
+'''Mirabegron''' (trade name '''Myrbetriq''' {{IPAc-en|m|ɪər|ˈ|b|ɛ|t|r|ɪ|k}} {{respell|meer|BET|rik}} in the US and '''Betmiga''' in Europe) is a drug for the treatment of [[overactive bladder]].<ref>{{cite journal | pmid = 22384458 | year = 2012 | last1 = Gras | first1 = J | title = Mirabegron for the treatment of overactive bladder | volume = 48 | issue = 1 | pages = 25–32 | doi = 10.1358/dot.2012.48.1.1738056 | journal = Drugs of today (Barcelona, Spain : 1998)}}</ref>  It was developed by [[Astellas Pharma]] and was approved in the United States in July 2012.<ref>{{cite journal | last1 = Sacco | first1 = E | last2 = Bientinesi | first2 = R | display-authors = etal   | date = Apr 2014 | title = Discovery history and clinical development of mirabegron for the treatment of overactive bladder and urinary incontinence | url = | journal = Expert Opin Drug Discov | volume = 9 | issue = 4| pages = 433–48 | doi = 10.1517/17460441.2014.892923 | pmid = 24559030 }}</ref>
+
+Mirabegron activates the [[Beta-3 adrenergic receptor|β<sub>3</sub> adrenergic receptor]] in the [[Detrusor urinae muscle|detrusor]] muscle in the [[bladder]], which leads to muscle relaxation and an increase in bladder capacity.<ref>{{cite news  |url=http://chembl.blogspot.co.uk/2012/07/new-drug-approvals-2012-pt-xiv.html | title=New Drug Approvals 2012 - Pt. XIV - Mirabegron (MyrbetriqTM) | date=5 July 2012 | publisher=[[ChEMBL]]  |accessdate=28 September 2012}}</ref>
+
+==Medical uses==
+Its primary use is in the treatment of overactive bladder.<ref name = MSR>{{cite web|title=mirabegron (Rx) - Myrbetriq|work=Medscape Reference|publisher=WebMD|accessdate=17 November 2013|url=http://reference.medscape.com/drug/myrbetriq-mirabegron-999757}}</ref><ref name = DM>{{cite web|title=MYRBETRIQ (mirabegron) tablet, film coated, extended release [Astellas Pharma US, Inc.]|work=DailyMed|publisher=Astellas Pharma US, Inc.|date=September 2012|accessdate=17 November 2013|url=http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba9e9e15-e666-4c56-9271-2e24739cfa2d}}</ref><ref name = EMC>{{cite web|title=Betmiga 25mg & 50mg prolonged-release tablets|work=electronic Medicines Compendium|publisher=Astellas Pharma Ltd|date=22 February 2013|accessdate=17 November 2013|url=http://www.medicines.org.uk/emc/medicine/27429/SPC/Betmiga+25mg+%26+50mg+prolonged-release+tablets/}}</ref>
+
+Mirabegron has also recently been shown to activate brown fat and increase metabolism. In a small study of 15 healthy, lean men, Mirabegron was shown to increase basal heart rate, metabolic rate and blood pressure which are signs of cardiovascular stimulation.<ref>{{cite journal|last1=Cypess|first1=Aaron|last2=Weiner|first2=Lauren|last3=Roberts-Toler|first3=Carla|last4=Elía|first4=Elisa|last5=Kessler|first5=Skyler|last6=Kahn|first6=Peter|last7=English|first7=Jeffrey|last8=Chatman|first8=Kelly|last9=Trauger|first9=Sunia|last10=Doria|first10=Alessandro|last11=Kolodny|first11=Gerald|title=Activation of Human Brown Adipose Tissue by a β3-Adrenergic Receptor Agonist|journal=Cell Metabolism|date=6 January 2015|volume=21|issue=1|pages=33–38|doi=10.1016/j.cmet.2014.12.009|pmid=25565203|ref=CELL|pmc=4298351}}</ref>
+
+Recently, mirabegron was shown to relax ''in vitro'' human and rabbit prostatic smooth muscle through activation of β<sub>3</sub> adrenoceptor.<ref>{{cite journal | last1 = Calmasini | first1 = F. B. | last2 = Candido | first2 = T. Z. | last3 = Alexandre | first3 = E. C. | last4 = D'Ancona | first4 = C. A. | last5 = Silva | first5 = D. | last6 = de Oliveira | first6 = M. A. | last7 = De Nucci | first7 = G. | last8 = Antunes | first8 = E. | last9 = Monica | first9 = F. Z. | year = 2015 | title = The beta-3 adrenoceptor agonist, mirabegron relaxes isolated prostate from human and rabbit: new therapeutic indication? | url = | journal = Prostate | volume = 75 | issue = 4| pages = 440–447 | doi=10.1002/pros.22930}}</ref> The same group also showed that mirabegron promotes smooth muscle relaxation by [[Alpha-1 adrenergic receptor|α<sub>1</sub> adrenergic receptor]] blockade.<ref>{{Cite journal|title = Mirabegron relaxes urethral smooth muscle by a dual mechanism involving β3-adrenoceptor activation and α1-adrenoceptor blockade|url = http://onlinelibrary.wiley.com/doi/10.1111/bph.13367/abstract|journal = British Journal of Pharmacology|date = 2015-10-01|issn = 1476-5381|pages = 415–428|doi = 10.1111/bph.13367|language = en|first = E C|last = Alexandre|first2 = L R|last2 = Kiguti|first3 = F B|last3 = Calmasini|first4 = F H|last4 = Silva|first5 = K P|last5 = da Silva|first6 = R|last6 = Ferreira|first7 = C A|last7 = Ribeiro|first8 = F Z|last8 = Mónica|first9 = A S|last9 = Pupo|volume=173}}</ref>
+
+==Adverse effects==
+'''<big>Adverse effects by incidence:</big>'''<ref name = MSR/><ref name = DM/><ref name = EMC/>
+
+'''Very common (>10% incidence) adverse effects include:'''
+* [[Hypertension|Elevated blood pressure]]
+
+'''Common (1–10% incidence) adverse effects include:'''
+* [[Xerostomia|Dry mouth]]
+* [[Nasopharyngitis]]
+* [[Urinary tract infection]] (UTI)
+* Headache
+* Influenza
+* Constipation
+* Dizziness
+* [[Arthralgia|Joint pain]]
+* [[Cystitis]]
+* Back pain
+* [[Upper respiratory tract infection]] (URTI)
+* [[Sinusitis]]
+* Diarrhea
+* [[Tachycardia|High heart rate]]
+* Fatigue
+* Abdominal pain
+* [[Neoplasm]]s (cancers)
+
+'''Rare (<1% incidence) adverse effects include:'''
+* Palpitations
+* Blurred vision
+* Glaucoma
+* [[Dyspepsia|Indigestion]]
+* [[Gastritis]]
+* [[Abdominal distension]]
+* [[Rhinitis]]
+* Elevations in liver enzymes ([[Gamma-glutamyl transpeptidase|GGTP]], [[Aspartate transaminase|AST]], [[Alanine transaminase|ALT]] and [[Lactate dehydrogenase|LDH]])
+* Renal and urinary disorders (e.g., [[nephrolithiasis]], bladder pain)
+* Reproductive system disorders (e.g., vulvovaginal pruritus, vaginal infection)
+* Skin and subcutaneous tissue disorders (e.g., urticaria, leukocytoclastic vasculitis, rash, pruritus, purpura, lip edema)
+* [[Stevens–Johnson syndrome]] associated with increased serum ALT, AST and bilirubin
+* [[Urinary retention]]
+
+==References==
+{{reflist}}
+
+==External links==
+* {{cite journal | doi = 10.1177/1756287212457114 | title = Mirabegron: A review of recent data and its prospects in the management of overactive bladder | year = 2012 | last1 = Sacco | first1 = E. | last2 = Bientinesi | first2 = R. | journal = Therapeutic Advances in Urology | volume = 4 | issue = 6 | pages = 315–24 | pmid = 23205058 | pmc = 3491758}}
+
+{{Urologicals}}
+{{Adrenergics}}
+
+[[Category:Beta3-adrenergic agonists]]
+[[Category:Thiazoles]]
+[[Category:Astellas Pharma]]

@@ -1,0 +1,64 @@
+{{Chembox
+| ImageFile = Nosiheptide.jpg
+| ImageSize = 200px
+| ImageAlt = 
+| IUPACName = 
+| OtherNames = 
+| Section1 = {{Chembox Identifiers
+| CASNo = 
+| PubChem = 
+| SMILES = C/C=C/1\c2nc(cs2)C(=O)N[C@H]3C[C@@H](C(=O)OCc4cccc5c4c(c([nH]5)C(=O)SC[C@@H](c6nc(cs6)-c7c(cc(c(n7)c8nc(cs8)C(=O)NC(=C)C(=O)N)O)-c9nc(cs9)C(=O)N[C@H](C(=O)N1)[C@H](C)O)NC(=O)c1csc3n1)C)O
+| ChemSpiderID = 32699560
+  }}
+| Section2 = {{Chembox Properties
+| C=51|H=43|N=13|O=12|S=6
+| Appearance = 
+| Density = 
+| MeltingPt = 
+| BoilingPt = 
+| Solubility = 
+  }}
+| Section3 = {{Chembox Hazards
+| MainHazards =
+| FlashPt =
+| AutoignitionPt =
+  }}
+}}
+
+'''Nosiheptide''' is a [[thiopeptide]] antibiotic produced by the bacterium ''[[Streptomyces actuosus]]''.<ref name=Bagley /><ref name=Yu /><ref name=Mocek />
+
+== Chemical Classification ==
+Nosiheptide is classified, along with several others, as an e series thiopeptide characterized by a nitrogen containing, 6-membered [[Heterocyclic compound|heterocycle]] in a 2,3,5,6 substituted fashion central to multiple [[azole]]s (or azolines) and [[Amino acid|dehydroamino acids]] along with a macrocyclic core. Nosiheptide is constructed solely of [[proteinogenic amino acid]]s and has [[Ribosome|ribosomal]] origin, making it a member of the [[ribosomally synthesized and post-translationally modified peptides|ribosomally synthesized and posttranslationally modified peptide]] family of natural products.<ref name=Bagley /><ref name=Yu /><ref name=Wang /><ref name=Benazet /> Thiopeptides such as nosiheptide have potent activity against various bacterial [[pathogen]]s, primarily [[Gram-positive bacteria|gram positive]], including [[methicillin-resistant Staphylococcus aureus]], penicillin-resistant Streptococcus pneumoniae, and [[Vancomycin Resistant Enterococci|vancomycin-resistant enterococci]].<ref name=Yu /><ref name=Dewick />
+
+== Composition ==
+Nosiheptide consists of 5 [[thiazole]] rings, a central tetrasubstituted pyridine moiety, and a bicyclic [[macrocycle]], which includes a modified amino acid (from [[tryptophan]]) external to the initial peptide translated from the gene encoding it.<ref name=Bagley /><ref name=Yu /><ref name=Mocek /><ref name=Wang /><ref name=Benazet /><ref name=Guo /> It is used as a feed additive in the growth of poultry and hogs to promote growth and general health, although it has not been applied in human medicines due to low water solubility and poor resorption from the [[Gastrointestinal Tract|gastrointestinal tract]].<ref name=Mocek /><ref name=Benazet /> Nosiheptide and other thiopeptide's [[mechanism of action]] stems from the tight binding on the 50S ribosomal subunit and inhibiting the activities of elongation factors, preventing [[protein]] synthesis.<ref name=Mocek /><ref name=Cundliffe />
+
+== Biosynthesis ==
+[[File:Precursor Peptide Nosiheptide.jpg|framed|right|Nosiheptide precursor peptide including 37 amino acid leader peptide and 13 amino acid structural peptide (shown).]]
+All moieties of the peptidyl backbone of nosiheptide were shown to originate exclusively from proteinogenic amino acids. The structural motifs include dehydroamino acids from the [[serine]] or [[threonine]] residues undergoing anti [[Elimination reaction|elimination]] of water, thiazoles from [[cysteine]] residues with cyclodehydration followed by deoxygenation, and the central hydroxypyridine produced by cyclization between two dehydroalanine acids with incorporation of an adjacent carbonyl group.<ref name=Yu />
+
+[[File:Thiazole formation1.jpg|framed|center|Thiazole formation.]]
+
+Nosiheptide biosynthesis begins with the translation of a 50 amino acid precursor peptide consisting of a 37 amino acid leader peptide fused to a 13 amino acid structural peptide (SCTTCECCCSCSS), matching the nosiheptide backbone aside from the C-terminal serine residue that is partially cleaved in [[Protein folding|maturation]] of the final product.<ref name=Yu /><ref name=Wang /><ref name=Guo /> Next, cyclizations occur between 5 of the cysteine residues in the structural sequence and the previous carbonyl on the adjacent amino acid to form thiazole rings after oxidation.<ref name=Wang /><ref name=Dewick /> Several amino acid residues then undergo elimination of water to produce dehydroamino acids, and the first macrocycle is constructed by cyclization of two of these dehydroamino acid residues. This cyclization includes a [[Diels-Alder Reaction|Diels-Alder type]] reaction, dehydration, and elimination of the leader peptide.<ref name=Bagley /><ref name=Wang /> An indolic acid moiety modified from L-tryptophan is then ligated to the unmodified cysteine residue through a [[thioester]] linkage. After methylation and oxidation of the indole, the second macrocycle is formed by reaction of the indole hydroxyl group with the free carboxyl group of the nearby [[Glutamic acid|glutamate]] residue. The now fused bicyclic peptide undergoes several oxidations and partial cleavage of the [[C-terminus|C-terminal]] dehydroalanine residue to give the mature nosiheptide.<ref name=Yu /><ref name=Yu2 />
+
+[[File:Amino acid dehydration.jpg|framed|left|Amino acid dehydration of residues in nosiheptide]][[File:Pyridine formation.jpg|framed|center|Nosiheptide intermediate diels-alder type cyclization and aromatization]]
+
+The [[Translation (biology)|translation]] and modification of the precursor peptide is undertaken by several [[enzyme]]s encoded in a localized [[gene]] cluster containing 14 structural genes and 1 regulatory gene.<ref name=Yu /> One of these genes encodes the peptide, and the others are responsible for the posttranslational modifications.
+
+== Total Synthesis ==
+The first total synthesis was published by Arndt ''et al.'' in 2016.<ref name=":0">{{Cite journal|last=Wojtas|first=K. Philip|last2=Riedrich|first2=Matthias|last3=Lu|first3=Jin-Yong|last4=Winter|first4=Philipp|last5=Winkler|first5=Thomas|last6=Walter|first6=Sophia|last7=Arndt|first7=Hans-Dieter|date=2016-06-01|title=Total Synthesis of Nosiheptide|url=http://onlinelibrary.wiley.com/doi/10.1002/anie.201603140/abstract|journal=Angewandte Chemie International Edition|language=en|pages=9772–9776|doi=10.1002/anie.201603140|issn=1521-3773|pmid=27345011|volume=55}}</ref> It was achieved through the assembly of a fully functionalized linear precursor followed by consecutive macrocyclizations. Key features are a critical macrothiolactonization and a mild deprotection strategy for the 3-hydroxypyridine core. The natural product was identical to isolated authentic material in terms of spectral data and antibiotic activity.<ref name=":0" />
+
+== References ==
+{{reflist|refs=
+<ref name=Yu>{{cite journal | last1 = Yu | first1 =  | display-authors = 1 | last2 = et al | year = 2009 | title = Nosiheptide Biosynthesis Featuring a Unique Indole Side Ring Formation on the Characteristic Thiopeptide Framework | url = | journal = ACS Chemical Biology | volume = 4 | issue = 10| pages = 855–864 | doi=10.1021/cb900133x}}</ref>
+<ref name=Bagley>{{cite journal | last1 = Bagley | first1 =  | display-authors = 1 | last2 = et al | year = 2005 | title = Thiopeptide Antibiotics | url = | journal = Chem. Rev. | volume = 105 | issue = | pages = 685–714 | doi=10.1021/cr0300441 | pmid=15700961}}</ref>
+<ref name=Benazet>{{cite journal | last1 = Benazet | first1 = F. | display-authors = 1 | last2 = et al | year = 1980 | title = Nosiheptide, a sulfur-containing peptide antibiotic isolated from Streptomyces actuosus 40037 | url = | journal = Experientia | volume = 36 | issue = | pages = 414–416 | doi=10.1007/bf01975121 | pmid=7379912}}</ref>
+<ref name=Mocek>{{cite journal | last1 = Mocek | first1 =  | display-authors = 1 | last2 = et al | year = 1993 | title = Biosynthesis of the Modified Peptide Antibiotic Nosiheptide in Streptomyces actuosus | url = | journal = Journal of the American Chemical Society | volume = 115 | issue = 17| pages = 7558–7568 | doi=10.1021/ja00070a001}}</ref>
+<ref name=Cundliffe>{{cite journal | last1 = Cundliffe | first1 = E. | last2 = Thompson | first2 = J. | year = 1981 | title =  | url = | journal = J. Gen. Microbiol. | volume = 126 | issue = | pages = 185–192 }}</ref>
+<ref name=Wang>{{cite journal | last1 = Wang | first1 = S. | last2 = Zhou | first2 = S. | last3 = Liu | first3 = W. | year = 2013 | title = Opportunities and challenges from current investigations into the biosynthetic logic of nosiheptide-represented thiopeptide antibiotics| url = | journal = Current Opinion in Chemical Biology | volume = 17 | issue = | pages = 626–634 | doi=10.1016/j.cbpa.2013.06.021}}</ref>
+<ref name=Guo>{{cite journal | last1 = Guo | first1 =  | display-authors = 1 | last2 = et al | year = 2014 | title = Insight into bicyclic thiopeptide biosynthesis benefited from development of a uniform approach for molecular engineering and production improvement| url = | journal = Chemical Science | volume = 5 | issue = | pages = 240–246 | doi=10.1039/c3sc52015c}}</ref>
+<ref name=Yu2>{{cite journal | last1 = Yu | first1 =  | display-authors = 1 | last2 = et al | year = 2010 | title = NosA Catalyzing Carboxyl-Terminal Amide Formation in Nosiheptide Maturation via an Enamine Dealkylation on the Serine-Extended Precursor Peptide | url = | journal = Journal of the American Chemical Society | volume = 132 | issue = | pages = 16324–16326 | doi=10.1021/ja106571g}}</ref>
+<ref name=Dewick>Paul M. Dewick, ''Medicinal Natural Products: A Biosynthetic Approach, 3rd Ed''., '''2009''', John Wiley & Sons, pg. 86 & 443</ref>
+}}
+
+[[Category:Thiopeptides]]

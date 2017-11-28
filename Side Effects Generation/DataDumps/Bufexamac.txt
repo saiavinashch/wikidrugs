@@ -1,0 +1,68 @@
+{{Drugbox
+| IUPAC_name = 2-(4-butoxyphenyl)-''N''-hydroxyacetamide
+| image = Bufexamac Structural Formula V.1.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|bufexamac}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = OTC
+| routes_of_administration = Topical, rectal
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion = Renal
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7498
+| CAS_number = 2438-72-4
+| ATC_prefix = M01
+| ATC_suffix = AB17
+| ATC_supplemental =  {{ATC|M02|AA09}}
+| PubChem = 2466
+| DrugBank =  
+| ChEMBL = 94394
+| ChemSpiderID = 2372
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 4T3C38J78L
+| KEGG = D01271
+
+<!--Chemical data-->
+| C=12 | H=17 | N=1 | O=3 
+| molecular_weight = 223.268 g/mol
+| smiles = ONC(=O)Cc1ccc(OCCCC)cc1
+| StdInChI=1S/C12H17NO3/c1-2-3-8-16-11-6-4-10(5-7-11)9-12(14)13-15/h4-7,15H,2-3,8-9H2,1H3,(H,13,14)
+| StdInChIKey = MXJWRABVEGLYDG-UHFFFAOYSA-N
+}}
+
+'''Bufexamac''' is a drug used as an [[anti-inflammatory]] agent on the skin, as well as [[rectal]]ly. Common brand names include '''Paraderm''' and '''Parfenac'''. It was withdrawn in Europe because of allergic reactions.
+
+==Indications==
+Ointments and lotions containing bufexamac are used for the treatment of subacute and chronic [[eczema]] of the skin, including [[atopic eczema]], as well as [[sunburn]] and other minor burns,{{citation needed|date=May 2010}} and [[itch]]ing. [[Suppositories]] containing bufexamac in combination with [[local anaesthetic]]s are used against [[haemorrhoid]]s.<ref name="Arzneistoff-Profile">{{cite book|title=Arzneistoff-Profile|editor1=Dinnendahl, V |editor2=Fricke, U |publisher=Govi Pharmazeutischer Verlag|location=Eschborn, Germany|year=2010|edition=23|volume=2|isbn=978-3-7741-9846-3|language=German}}</ref>
+
+==Pharmacology==
+Bufexamac is thought to act by inhibiting the enzyme [[cyclooxygenase]], which would make it a [[non-steroidal anti-inflammatory drug]]. Evidence on the mechanism of action is scarce.<ref>{{cite book|first1=Max|last1=Gloor|first2=Karl|last2=Thoma|first3=Joachim|last3=Fluhr|title=Dermatologische Externatherapie: Unter besonderer Berücksichtigung der Magistralrezeptur|language=German|publisher=Springer|year=2000|isbn=3-540-67174-9|page=349}}</ref>
+Furthermore, bufexamac was identified as a specific inhibitor of class IIB [[histone deacetylase]]s ([[HDAC6]] and [[HDAC10]]).<ref>{{cite journal|url=http://www.nature.com/nbt/journal/v29/n3/full/nbt.1759.html|title=Chemoproteomics profiling of HDAC inhibitors reveals selective targeting of HDAC complexes|journal=Nature Biotechnology|year=2011|doi=10.1038/nbt.1759|pmid=21258344|last1=Bantscheff|first1=Marcus|last2=Hopf|first2=Carsten|last3=Savitski|first3=Mikhail M|last4=Dittmann|first4=Antje|last5=Grandi|first5=Paola|last6=Michon|first6=Anne-Marie|last7=Schlegl|first7=Judith|last8=Abraham|first8=Yann|last9=Becher|first9=Isabelle|last10=Bergamini|first10=Giovanna|last11=Boesche|first11=Markus|last12=Delling|first12=Manja|last13=Dümpelfeld|first13=Birgit|last14=Eberhard|first14=Dirk|last15=Huthmacher|first15=Carola|last16=Mathieson|first16=Toby|last17=Poeckel|first17=Daniel|last18=Reader|first18=Valérie|last19=Strunk|first19=Katja|last20=Sweetman|first20=Gavain|last21=Kruse|first21=Ulrich|last22=Neubauer|first22=Gitte|last23=Ramsden|first23=Nigel G|last24=Drewes|first24=Gerard|volume=29|issue=3|pages=255–65}}</ref>
+
+==Side effects==
+Bufexamac can cause severe [[contact dermatitis]] which is often hard to distinguish from the initial condition.<ref>{{cite journal|url=http://www.akdae.de/Arzneimittelsicherheit/Bekanntgaben/Archiv/2000/20001124.html|title=Bufexamac: Ein Ekzemtherapeutikum, das selbst häufig allergische Kontaktekzeme hervorruft|language=German|journal=Deutsches Ärzteblatt|issue=47|year=2000}}</ref> As a consequence, the [[European Medicines Agency]] recommended to withdraw the marketing approval in April 2010.<ref>{{cite news|publisher=European Medicines Agency|title=European Medicines Agency recommends revocation of marketing authorisations for bufexamac |url=http://www.ema.europa.eu/pdfs/human/referral/bufexamac/24639510en.pdf|date=2010-04-22}}</ref>
+
+==References==
+{{reflist}}
+
+{{Anti-inflammatory and antirheumatic products}}
+{{Topical products for joint and muscular pain}}
+{{Prostanoidergics}}
+
+[[Category:Anti-inflammatory agents]]
+[[Category:Hydroxamic acids]]
+[[Category:Phenol ethers]]

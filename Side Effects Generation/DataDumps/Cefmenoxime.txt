@@ -1,0 +1,68 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 460023267
+| IUPAC_name = (6''R'',7''R'')-7-{[(2''E'')-2-(2-amino-1,3-thiazol-4-yl)-<br>2-methoxyimino-acetyl]amino}-3-[(1-methyltetrazol-<br>5-yl)sulfanylmethyl]-8-oxo-5-thia-1-azabicyclo[4.2.0]<br>oct-2-ene-2-carboxylic acid
+| image = Cefmenoxime.svg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|cefmenoxime}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status =  
+| routes_of_administration = Intramuscular, [[Intravenous therapy|intravenous]]
+<!--Pharmacokinetic data-->
+| bioavailability = 100% (given [[Intramuscular injection|IM]])
+| protein_bound = 50% to 70%
+| metabolism = Negligible
+| elimination_half-life = 1 hour
+| excretion = [[Kidney|Renal]], unchanged
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 65085-01-0
+| ATC_prefix = J01
+| ATC_suffix = DD05
+| ATC_supplemental =  
+| PubChem = 9570757
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00267
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 7845223
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = KBZ4844CXN
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07641
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 55490
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201224
+<!--Chemical data-->
+| C=16 | H=17 | N=9 | O=5 | S=3
+| molecular_weight = 511.562 g/mol
+| smiles = O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)C(=N\OC)/c3nc(sc3)N)CSc4nnnn4C)C(=O)O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H17N9O5S3/c1-24-16(20-22-23-24)33-4-6-3-31-13-9(12(27)25(13)10(6)14(28)29)19-11(26)8(21-30-2)7-5-32-15(17)18-7/h5,9,13H,3-4H2,1-2H3,(H2,17,18)(H,19,26)(H,28,29)/b21-8-/t9-,13-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = HJJDBAOLQAWBMH-YCRCPZNHSA-N
+}}
+'''Cefmenoxime''' is a third-generation [[cephalosporin]] [[antibiotic]].
+
+==External links==
+* {{DiseasesDB|30892}}
+* {{cite journal | vauthors = Yokota N, Koguchi M, Suzuki Y, Fukayama S, Ishihara R, Deguchi K, Oda S, Tanaka S, Nakane Y, Fukumoto T | title = Antibacterial activities of cefmenoxime against recent fresh clinical isolates from patients in sinusitis | journal = Jpn J Antibiot | volume = 48 | issue = 5 | pages = 602–9 | year = 1995 | pmid = 7637194}}
+* {{cite journal | vauthors = Paladino J, Fell R | title = Pharmacoeconomic analysis of cefmenoxime dual individualization in the treatment of nosocomial pneumonia. | journal = Ann Pharmacother | volume = 28 | issue = 3 | pages = 384–9 | year = 1994 | pmid = 8193431 | doi = 10.1177/106002809402800316 }}
+* {{cite journal | vauthors = Duncker G, Reich U, Krausse R | title = Cefmenoxime in corneal organ culture. | journal = Ophthalmologica | volume = 208 | issue = 5 | pages = 262–6 | year = 1994 | pmid = 7816419 | doi = 10.1159/000310505}}
+
+{{CephalosporinAntiBiotics}}
+
+[[Category:Acetaldehyde dehydrogenase inhibitors]]
+[[Category:Thiazoles]]
+[[Category:Tetrazoles]]
+[[Category:Cephalosporin antibiotics]]
+[[Category:Oximes]]
+
+
+{{antibiotic-stub}}

@@ -1,0 +1,73 @@
+{{Drugbox
+| Verifiedfields = 
+| Watchedfields = 
+| verifiedrevid = 
+| IUPAC_name = H-Asn-Ser-Tyr-Pro-Gly-Cys(1)-Pro-Ser-Ser-Tyr-Asp-Gly-Tyr-Cys(2)-Leu-Asn-Gly-Gly-Val-Cys(1)-Met-His-Ile-Glu-Ser-Leu-Asp-Ser-Tyr-Thr-Cys(2)-Asn-Cys(3)-Val-Ile-Gly-Tyr-Ser-Gly-Asp-Arg-Cys(3)-Gln-Thr-Arg-Asp-Leu-Arg-Trp-Trp-Glu-Leu-Arg-OH
+| image = 
+| width = 
+
+<!--Clinical data-->
+| tradename = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = 
+| legal_UK = 
+| legal_US = 
+| legal_status = 
+| routes_of_administration = 
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion =
+
+<!-- Identifiers -->
+| CAS_number_Ref = 
+| CAS_number = 54017-73-1
+| CAS_supplemental = 
+| class = 
+| ATC_prefix = 
+| ATC_suffix = 
+| ATC_supplemental = 
+| PubChem = 16129699
+| IUPHAR_ligand = 
+| DrugBank_Ref = 
+| DrugBank = 
+| ChemSpiderID_Ref = 
+| ChemSpiderID = 17286501
+| UNII = 7B6TM0214A
+| KEGG = 
+| ChEBI = 
+| ChEMBL = 
+
+<!--Chemical data-->
+| C=257 | H=375 | N=73 | O=83 | S=7
+| molecular_weight = 6039.675 g/mol
+| SMILES = CC[C@H](C)[C@H]1C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@H]2C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)NCC(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N3CCC[C@H]3C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)NCC(=O)N[C@H](C(=O)N2)CC4=CC=C(C=C4)O)CC(=O)O)CC5=CC=C(C=C5)O)CO)CO)NC(=O)CNC(=O)[C@@H]6CCCN6C(=O)[C@H](CC7=CC=C(C=C7)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC(=O)N)N)C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)CC8=CN=CN8)CCSC)C(C)C)CC(=O)N)CC(C)C)C(=O)N[C@@H](CC(=O)N)C(=O)N[C@H]9CSSC[C@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)CNC(=O)[C@@H](NC(=O)[C@@H](NC(=O)CNC(=O)[C@@H](NC(=O)[C@@H](NC9=O)C(C)C)[C@@H](C)CC)CC1=CC=C(C=C1)O)CO)CC(=O)O)CCCNC(=N)N)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)O)[C@@H](C)O)CC1=CC=C(C=C1)O)CO)CC(=O)O)CC(C)C)CO)CCC(=O)O
+| StdInChI_Ref = 
+| StdInChI = 1S/C257H375N73O83S7/c1-20-123(15)203-245(404)283-103-192(351)285-157(80-127-42-52-135(339)53-43-127)222(381)313-171(104-331)210(369)281-101-191(350)287-167(92-198(360)361)228(387)290-146(37-27-70-273-255(265)266)213(372)318-177(238(397)292-148(62-65-185(259)344)217(376)327-205(125(17)337)249(408)294-147(38-28-71-274-256(267)268)212(371)309-168(93-199(362)363)229(388)298-153(76-117(3)4)218(377)289-145(36-26-69-272-254(263)264)211(370)303-162(86-133-96-277-144-35-25-23-33-141(133)144)226(385)304-161(85-132-95-276-143-34-24-22-32-140(132)143)225(384)291-149(63-66-195(354)355)214(373)297-154(77-118(5)6)219(378)296-152(253(412)413)39-29-72-275-257(269)270)110-415-418-114-181(242(401)324-202(122(13)14)247(406)326-203)320-227(386)165(90-188(262)347)307-241(400)180-113-417-416-111-178-240(399)300-156(79-120(9)10)220(379)306-164(89-187(261)346)208(367)279-98-189(348)278-99-194(353)323-201(121(11)12)246(405)321-179(239(398)293-151(68-75-414-19)216(375)305-163(87-134-97-271-116-284-134)232(391)325-204(124(16)21-2)248(407)295-150(64-67-196(356)357)215(374)314-173(106-333)233(392)299-155(78-119(7)8)221(380)310-169(94-200(364)365)230(389)315-174(107-334)234(393)302-160(83-130-48-58-138(342)59-49-130)231(390)328-206(126(18)338)250(409)322-180)112-419-420-115-182(288-193(352)102-282-243(402)183-40-30-73-329(183)251(410)170(84-131-50-60-139(343)61-51-131)311-236(395)172(105-332)312-207(366)142(258)88-186(260)345)252(411)330-74-31-41-184(330)244(403)317-176(109-336)237(396)316-175(108-335)235(394)301-159(82-129-46-56-137(341)57-47-129)224(383)308-166(91-197(358)359)209(368)280-100-190(349)286-158(223(382)319-178)81-128-44-54-136(340)55-45-128/h22-25,32-35,42-61,95-97,116-126,142,145-184,201-206,276-277,331-343H,20-21,26-31,36-41,62-94,98-115,258H2,1-19H3,(H2,259,344)(H2,260,345)(H2,261,346)(H2,262,347)(H,271,284)(H,278,348)(H,279,367)(H,280,368)(H,281,369)(H,282,402)(H,283,404)(H,285,351)(H,286,349)(H,287,350)(H,288,352)(H,289,377)(H,290,387)(H,291,384)(H,292,397)(H,293,398)(H,294,408)(H,295,407)(H,296,378)(H,297,373)(H,298,388)(H,299,392)(H,300,399)(H,301,394)(H,302,393)(H,303,370)(H,304,385)(H,305,375)(H,306,379)(H,307,400)(H,308,383)(H,309,371)(H,310,380)(H,311,395)(H,312,366)(H,313,381)(H,314,374)(H,315,389)(H,316,396)(H,317,403)(H,318,372)(H,319,382)(H,320,386)(H,321,405)(H,322,409)(H,323,353)(H,324,401)(H,325,391)(H,326,406)(H,327,376)(H,328,390)(H,354,355)(H,356,357)(H,358,359)(H,360,361)(H,362,363)(H,364,365)(H,412,413)(H4,263,264,272)(H4,265,266,273)(H4,267,268,274)(H4,269,270,275)/t123-,124-,125+,126+,142-,145-,146-,147-,148-,149-,150-,151-,152-,153-,154-,155-,156-,157-,158-,159-,160-,161-,162-,163-,164-,165-,166-,167-,168-,169-,170-,171-,172-,173-,174-,175-,176-,177-,178-,179-,180-,181-,182-,183-,184-,201-,202-,203-,204-,205-,206-/m0/s1
+| StdInChIKey_Ref = 
+| StdInChIKey = WLGOTMXHWBRTJA-GACYYNSASA-N
+| synonyms = Recombinant murine epidermal growth factor; rmEGF
+}}
+
+'''Murodermin''' ([[International Nonproprietary Name|INN]]), also known as '''recombinant murine epidermal growth factor''' ('''rmEGF'''), is a [[recombinant protein|recombinant]] form of [[mouse]] [[epidermal growth factor]] (EGF) and an [[EGF receptor]] [[agonist]] which was never marketed.<ref name="MortonHall2012">{{cite book|author1=I.K. Morton|author2=Judith M. Hall|title=Concise Dictionary of Pharmacological Agents: Properties and Synonyms|url=https://books.google.com/books?id=tsjrCAAAQBAJ&pg=PA112|date=6 December 2012|publisher=Springer Science & Business Media|isbn=978-94-011-4439-1|pages=112–}}</ref><ref name="Thurlow2012">{{cite book|author=K.J. Thurlow|title=Chemical Nomenclature|url=https://books.google.com/books?id=0ODsCAAAQBAJ&pg=PA222|date=6 December 2012|publisher=Springer Science & Business Media|isbn=978-94-011-4958-7|pages=222–}}</ref>
+
+==See also==
+* [[Nepidermin]]
+
+==References==
+{{Reflist|2}}
+
+
+{{Growth factor receptor modulators}}
+
+[[Category:Growth factors]]
+[[Category:Recombinant proteins]]
+
+
+{{drug-stub}}

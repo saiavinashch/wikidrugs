@@ -1,0 +1,46 @@
+{{Drugbox
+| IUPAC_name               = 5-[2-(methylsulfanyl)ethyl]-5-(2-pentanyl)-2-thioxodihydro-4,6(1''H'',5''H'')-pyrimidinedione
+| image                    = Methitural.svg
+| CAS_number               = 467-43-6
+| CAS_supplemental         = <br />730-68-7 (no [[salt]])
+| ATC_prefix               = None
+| ATC_suffix               = 
+| PubChem                  = 3032307
+| ChEMBL = 2104624
+| ChemSpiderID             = 2297317
+| C = 12 | H = 20 | N = 2 | O = 2 | S = 2
+| molecular_weight         = 288.429 g/mol
+| smiles                   = O=C1NC(=S)NC(=O)C1(C(C)CCC)CCSC
+| StdInChI                 = 1S/C12H20N2O2S2/c1-4-5-8(2)12(6-7-18-3)9(15)13-11(17)14-10(12)16/h8H,4-7H2,1-3H3,(H2,13,14,15,16,17)
+| StdInChIKey              = KEMCRVSPPRNENL-UHFFFAOYSA-N
+| bioavailability          = 
+| protein_bound            = 
+| metabolism               = 
+| elimination_half-life    = 
+| excretion                = 
+| pregnancy_category       = 
+| legal_status             = 
+| routes_of_administration = 
+}}
+
+'''Methitural''' ([[International Nonproprietary Name|INN]]; '''Neraval''', '''Thiogenal'''), or '''methitural sodium''', also known as '''methioturiate''', is a [[barbiturate]] [[chemical derivative|derivative]] which was marketed in the 1950s in [[Europe]] (in [[Germany]] and [[Italy]]) as an ultra-short-acting [[intravenous]] [[anesthetic]].<ref name="Macdonald1997">{{cite book | author = F.. Macdonald | title = Dictionary of Pharmacological Agents | url = https://books.google.com/books?id=A0THacd46ZsC&pg=PA1300 | accessdate = 19 May 2012 | year = 1997 | publisher = CRC Press | isbn = 978-0-412-46630-4 | page = 1300}}</ref><ref name="pmid13396640">{{cite journal |vauthors=HOUDE J, HUDON F, JACQUES A | title = Neraval (methitural sodium) (sch. 3132) | journal = Canadian Anaesthetists' Society Journal | volume = 4 | issue = 1 | pages = 43–6 |date=January 1957 | pmid = 13396640 | doi = 10.1007/bf03009193| url = }}</ref><ref name="pmid13307393">{{cite journal |vauthors=IRWIN S, STAGG RD, DUNBAR E, GOVIER WM | title = Methitural, a new intravenous anesthetic: comparison with thiopental in the cat, dog and monkey | journal = The Journal of Pharmacology and Experimental Therapeutics | volume = 116 | issue = 3 | pages = 317–25 |date=March 1956 | pmid = 13307393 | doi = | url = http://jpet.aspetjournals.org/cgi/pmidlookup?view=long&pmid=13307393}}</ref>
+
+==Synthesis==
+[[File:Methitural synthesis.svg|thumb|center|500px|Methitural synthesis: Zima, Von Werder, {{US patent|2802827}} (1957 to E. Merck).]]
+A somewhat more complex side chain is incorporated by alkylation of the carbanion of the substituted [[cyanoacetate]] ('''1''') with 2-chloroethylmethyl sulfide ('''2'''). Condensation of the resulting cyanoester ('''3''') with thiourea followed by hydrolysis of the resulting imine affords methitural.
+
+== See also ==
+* [[Barbiturate]]
+
+== References ==
+{{Reflist}}
+
+{{Anesthetics}}
+{{GABAAR PAMs}}
+
+[[Category:General anesthetics]]
+[[Category:Barbiturates]]
+[[Category:GABAA receptor positive allosteric modulators]]
+
+
+{{sedative-stub}}

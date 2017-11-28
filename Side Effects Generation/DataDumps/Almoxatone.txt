@@ -1,0 +1,61 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 477318464
+| IUPAC_name = (5''R'')-3-{4-[(3-chlorobenzyl)oxy]phenyl}-5-[(methylamino)methyl]-1,3-oxazolidin-2-one
+| image = Almoxatone.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_category =  
+| legal_status = Uncontrolled
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 84145-89-1
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 172287
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 150582
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2104006
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 85V47MCE4Z
+
+<!--Chemical data-->
+| C=18 | H=19 | Cl=1 | N=2 | O=3 
+| molecular_weight = 346.81 g/mol
+| smiles = Clc1cccc(c1)COc3ccc(N2C(=O)O[C@H](CNC)C2)cc3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C18H19ClN2O3/c1-20-10-17-11-21(18(22)24-17)15-5-7-16(8-6-15)23-12-13-3-2-4-14(19)9-13/h2-9,17,20H,10-12H2,1H3/t17-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = KYXSTSXVEXKFJI-QGZVFWFLSA-N
+}}
+
+'''Almoxatone''' ('''MD-780,236''') is a [[binding selectivity|selective]] and [[Enzyme inhibitor#Reversible inhibitors|reversible]] [[enzyme inhibitor|inhibitor]] of [[monoamine oxidase B|MAO-B]].<ref name="pmid6847610">{{cite journal |vauthors=Tipton KF, Fowler CJ, McCrodden JM, Strolin Benedetti M | title = The enzyme-activated irreversible inhibition of type-B monoamine oxidase by 3-(4-[(3-chlorophenyl)methoxy]phenyl)-5-[(methylamino) methyl]-2-oxazolidinone methanesulphonate (compound MD 780236) and the enzyme-catalysed oxidation of this compound as competing reactions | journal = The Biochemical Journal | volume = 209 | issue = 1 | pages = 235–42 |date=January 1983 | pmid = 6847610 | pmc = 1154077 | doi = | url = }}</ref><ref name="pmid6132973">{{cite journal |vauthors=Dostert P, Strolin Benedetti M, Guffroy C | title = Different stereoselective inhibition of monoamine oxidase-B by the R- and S-enantiomers of MD 780236 | journal = The Journal of Pharmacy and Pharmacology | volume = 35 | issue = 3 | pages = 161–5 |date=March 1983 | pmid = 6132973 | doi = 10.1111/j.2042-7158.1983.tb04297.x| url = }}</ref> It was patented as an [[antidepressant]] and [[antiparkinsonian agent]] but was never marketed.<ref name="isbn0-412-46630-9">{{cite book | author = David J. Triggle | title = Dictionary of Pharmacological Agents | publisher = Chapman & Hall/CRC | location = Boca Raton | year = 1996 | pages = | isbn = 0-412-46630-9 | oclc = | doi = | url = https://books.google.com/books?id=Z_mfTTIApVEC&printsec=frontcover}}</ref>
+
+== See also ==
+* [[Monoamine oxidase inhibitor]]
+
+== References ==
+{{Reflist}}
+
+
+{{Antidepressants}}
+{{Antiparkinson}}
+{{Monoamine metabolism modulators}}
+
+[[Category:Amines]]
+[[Category:Antidepressants]]
+[[Category:Monoamine oxidase inhibitors]]
+[[Category:Oxazolidinones]]
+[[Category:Phenol ethers]]
+[[Category:Chloroarenes]]
+{{Amine-stub}}

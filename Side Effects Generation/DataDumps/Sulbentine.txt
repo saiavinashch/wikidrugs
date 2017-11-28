@@ -1,0 +1,77 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 448221865
+| IUPAC_name = 3,5-bis(phenylmethyl)-1,3,5-thiadiazinane-2-thione
+| image = dibenzthione.png
+
+<!--Clinical data-->
+| tradename =
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 350-12-9
+| ATC_prefix = D01
+| ATC_suffix = AE09
+| PubChem = 67686
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = D0NR12WK9J
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01335
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 61005
+
+
+
+<!--Chemical data-->
+| C=17 | H=18 | N=2 | S=2
+| molecular_weight = 314.47 g/mol
+|  smiles = c1ccc(cc1)CN2CN(C(=S)SC2)Cc3ccccc3
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C17H18N2S2/c20-17-19(12-16-9-5-2-6-10-16)13-18(14-21-17)11-15-7-3-1-4-8-15/h1-10H,11-14H2
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = QFVAWNPSRQWSDU-UHFFFAOYSA-N
+}}
+
+'''Sulbentine''' (or '''dibenzthione''') is an [[Antifungal medication|antifungal]].<ref>{{Cite journal 
+| last1 = Hänel | first1 = H. 
+| last2 = Raether | first2 = W. 
+| last3 = Dittmar | first3 = W. 
+| title = Evaluation of fungicidal action in vitro and in a skin model considering the influence of penetration kinetics of various standard antimycotics 
+| journal = Annals of the New York Academy of Sciences 
+| volume = 544 
+| pages = 329–337 
+| year = 1988 
+| pmid = 3214073
+ | doi=10.1111/j.1749-6632.1988.tb40417.x
+}}</ref>
+
+==References==
+{{reflist}}
+
+{{Antifungals}}
+
+[[Category:Antifungals]]
+[[Category:Sulfur heterocycles]]
+[[Category:Dithiocarbamates]]
+
+
+{{Dermatologic-drug-stub}}

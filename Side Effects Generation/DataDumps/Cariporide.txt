@@ -1,0 +1,102 @@
+{{Drugbox
+| IUPAC_name = ''N''-(Diaminomethylidene)-3-methanesulfonyl-4-(propan-2-yl)benzamide
+| image = Cariporide-chemdraw.png
+| width = 200px
+| alt =  
+| caption =
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number = 159138-80-4
+| ATCvet =  
+| ATC_prefix = none
+| ATC_suffix =   
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 7E3392891K
+| ChEMBL = 436559
+| synonyms = HOE642
+| PubChem = 151172
+| ChemSpiderID = 133240
+
+<!--Chemical data-->
+| C=12 | H=17 | N=3 | O=3 | S=1 
+| molecular_weight = 283.3 g/mol
+| smiles = O=S(=O)(c1cc(ccc1C(C)C)C(=O)/N=C(\N)N)C
+| StdInChI = 1S/C12H17N3O3S/c1-7(2)9-5-4-8(11(16)15-12(13)14)6-10(9)19(3,17)18/h4-7H,1-3H3,(H4,13,14,15,16)
+| StdInChIKey = IWXNYAIICFKCTM-UHFFFAOYSA-N
+}}
+
+'''Cariporide''' is a selective [[Na+/H+|Na<sup>+</sup>/H<sup>+</sup> exchange]] [[Enzyme inhibitor|inhibitor]]. Cariporide has been shown to actively suppress the [[cell death]] caused by [[oxidative stress]].<ref>{{cite journal | journal = Circulation | author = Yeshmina | year = 2003 | volume = 108 | issue = 18 | pages = 2275–81 | display-authors = 1 | doi = 10.1161/01.CIR.0000093277.20968.C7 | pmid = 14568900 | last2 = Akao | first2 = M | last3 = Jones | first3 = SP | last4 = Marbán | first4 = E | title = Cariporide (HOE642), a selective Na+-H+ exchange inhibitor, inhibits the mitochondrial death pathway}}</ref>
+
+Cariporide is a potent [[NHE1 inhibitor]] is may also be useful for treatment of cancer.<ref name="HarguindeyArranz2013">{{cite journal|last1=Harguindey|first1=Salvador|last2=Arranz|first2=Jose|last3=Polo Orozco|first3=Julian|last4=Rauch|first4=Cyril|last5=Fais|first5=Stefano|last6=Cardone|first6=Rosa|last7=Reshkin|first7=Stephan J|title=Cariporide and other new and powerful NHE1 inhibitors as potentially selective anticancer drugs – an integral molecular/biochemical/metabolic/clinical approach after one hundred years of cancer research|journal=Journal of Translational Medicine|volume=11|issue=1|year=2013|pages=282|issn=1479-5876|doi=10.1186/1479-5876-11-282}}</ref>
+
+== Mechanism of action ==
+Cariporide targets and inhibits the [[Na+/H+|Na<sup>+</sup>/H<sup>+</sup> exchanger (NHE)]] isoform 1, which is ubiquitously expressed and involved in pH regulation of the myocardium.<ref>Morris Karmazyn, M.S., Larry Fliegel, ''The Na+/H+ Exchanger: A Target for Cardiac Therapeutic Intervention.'' Current Drug Targets - Cardiovascular & Haematological Disorders, 2005.</ref> During myocardial [[ischemia]], NHE activation leads to an influx of Na<sup>+</sup> and, upon [[reperfusion]]{{dn|date=March 2017}}, reverses the Na<sup>+</sup>/Ca<sup>2+</sup> exchanger and results in an overload of intracellular Ca<sup>2+</sup>.<ref name=":0">Avkiran, M., ''Protection of the ischaemic myocardium by Na+/H+ exchange inhibitors: potential mechanisms of action.'' Basic Res Cardiol, 2001. '''96''': p. 306-311.</ref> By inhibiting the NHE1, cariporide limits the early influx of Na<sup>+</sup> and lends a cardioprotective effect upon ischemia/reperfusion.<ref name=":0" /> Additionally, cariporide slows the normalization of cellular pH following an H<sup>+</sup> efflux during reperfusion triggered by ischemia-induced acidosis.<ref name=":0" />
+
+It is hypothesized that cariporide may also serve as a highly selective target for anti-cancer therapy through the inhibition of NHE1 in tumor cells (see Continuing Research).<ref name="HarguindeyArranz2013" />
+
+== Clinical trials ==
+=== Phase I ===
+Following experimental research into NHE-activation and its effects on myocardial injury, cariporide was proposed for a Phase I trial to test whether inhibition of the NHE approves myocardial function in patients undergoing [[Percutaneous Transluminal Coronary Angioplasty|percutaneous transluminal coronary angioplasty]] (PCTA).<ref name=":1">Hans-Jürgen Rupprecht, J.v.D., Wolfram Terres, Karl Melchior Seyfarth, Gert Richardt, Heinz-Peter Schultheiß, Michael Buerke, Florence H. Sheehan, Helmut Drexler, ''Cardioprotective Effects of the Na+/H+ Exchange Inhibitor Cariporide in Patients With Acute Anterior Myocardial Infarction Undergoing Direct PTCA.'' Circulation, 2000. '''101''': p. 2902-2908.</ref> Results of this trial were published in 2000. A group of 100 individuals were placed in two trial groups. The first group was given a 40-mg intravaneous bolus dose of cariporide prior to reperfusion. A second group was given a placebo. 21 days post-injection, patients in the cariporide group showed a number of improvements over the placebo group. This trial proved NHE inhibition with cariporide may be an effective way to aid recovery post-PCTA.<ref name=":1" />
+
+=== Phase II/Phase III: GUARDIAN trial ===
+[[Acute coronary syndrome]], including heart attack or unstable angina, is the number one cause of death in America. The Guard During Ischemia Against Necrosis (GUARDIAN) trial was conducted to determine whether cariporide reduced the incidence of mortality and myocardial infarction in at-risk patients.<ref>Théroux, P., et al., ''Inhibition of the Sodium-Hydrogen Exchanger With Cariporide to Prevent Myocardial Infarction in High-Risk Ischemic Situations.'' Main Results of the GUARDIAN Trial, 2000. '''102'''(25): p. 3032-3038.</ref> It was the first large-scale trial to determine the efficacy and safety of cariporide. The trial began in May 1997 and patients were enrolled until April 1999.  A total of 382 investigative sites were chosen in 23 countries, totaling 11,590 patients. Patients were split between four study groups: placebo, 20, 80 or 120&nbsp;mg doses as 60-minute infusions three times daily.<ref name=":2">Chaitman, B.R., ''A Review of the GUARDIAN Trial Results: Clinical Implications and the Significance of Elevated Perioperative CK-MB on 6-Month Survival.'' Journal of Cardiac Surgery, 2003. '''18'''(s1): p. 13-20.</ref>
+
+The primary goals of the GUARDIAN trial were to assess (1) the rate of death or [[myocardial infarction]] at day 36 in the four trial groups and (2) the large-scale safety and side effects associated with cariporide. Results showed that 20- and 80-mg doses were statistically similar to the placebo group, while the 120-mg group showed a 10% relative risk reduction and similar mortality rates.<ref name=":3">Boyce, S.W., et al., ''Impact of sodium-hydrogen exchange inhibition by cariporide on death or myocardial infarction in high-risk CABG surgery patients: results of the CABG surgery cohort of the GUARDIAN study.'' The Journal of Thoracic and Cardiovascular Surgery. '''126'''(2): p. 420-427.</ref> While cariporide showed efficacy for certain sub-groups of patients at varying drug concentrations, overall the GUARDIAN trial showed that cariporide did not significantly reduce patient risk of myocardial infarction or mortality.<ref>Karmazyn, M., ''Pharmacology and clinical assessment of cariporide for the treatment coronary artery diseases.'' Expert Opinion on Investigational Drugs, 2000. '''9'''(5): p. 1099-1108.</ref>
+
+Despite this result, cariporide showed promise in the post-[[Coronary artery bypass surgery|coronary artery bypass grafting]] (CABG) sub-group of patients.<ref name=":3" /> Here, there was a 25% reduction in post-surgery mortality or MI, suggesting that high-doses and prolonged releases of cariporide may be efficacious for high-risk patients.<ref name=":2" />
+
+=== Phase III: EXPEDITION trial ===
+The Sodium-Proton Exchange Inhibition to Prevent Coronary Events in Acute Cardiac Conditions (EXPEDITION) trial was a Phase III trial to assess the efficacy and safety of cariporide in patients who have received a CABG surgery. 5,761 patients were accepted from July 2001 to July 2002 and were placed in two trial groups. The first group received a consecutive dosing regimen detailed in the table below:<ref>Gruberg, L. ''EXPEDITION: Sodium-Proton Exchange Inhibition to Prevent Coronary Events in Acute Cardiac Conditions Trial''. in ''American Heart Association Scientific Sessions 2003''. 2003.</ref>
+{| class="wikitable"
+|Pre-Op
+|180-mg, 1-hour
+|-
+|< 24h Post-Op
+|40&nbsp;mg/hr
+|-
+|> 24h Post-Op, < 48h Post-Op
+|20&nbsp;mg/hr
+|}
+The second group received a placebo. The results of the trial showed a statistically significant decline in mortality or myocardial infarction from 20.3% to 16.6%. However, when looked at individually, the rate of myocardial infarction declined from 18.9% to 14.4%, while mortality increased 0.7%. Due to the increase in mortality, cariporide did not pass clinical trials.<ref name=":4">Mentzer, R.M., Jr., et al., ''Sodium-hydrogen exchange inhibition by cariporide to reduce the risk of ischemic cardiac events in patients undergoing coronary artery bypass grafting: results of the EXPEDITION study.'' Ann Thorac Surg, 2008. '''85'''(4): p. 1261-70.</ref> However, these studies showed for the first time that inhibition of the NHE affords protection to the myocardium and research into decoupling its adverse effects on mortality from its protective effects is ongoing.<ref>Avkiran, M., A.R. Cook, and F. Cuello, ''Targeting Na+/H+ exchanger regulation for cardiac protection: a RSKy approach?'' Curr Opin Pharmacol, 2008. '''8'''(2): p. 133-40.</ref>
+
+== Dosing ==
+In all clinical trials, cariporide was given was an intravenous injection. Early clinical trials (see Phase I) showed significant improvements over a placebo at a 40-mg dose prior to arterial surgery.<ref name=":1" /> Both Phase III clinical trials for cariporide conclude that it is highly dose-dependent. While earlier trials showed that high doses of cariporide (120-mg, three times daily) may increase efficacy, the EXPEDITION trial found an increased rate of mortality associated with these higher doses.<ref name=":4" />
+
+== Side effects ==
+The largest clinical trial for cariporide found no significant adverse effects of cariporide on patients (see Phase III: GUARDIAN Trial).<ref name=":2" /> However, a later clinical trial found dose-dependent increases in mortality for patients using cariporide post-CABG (see Phase III: EXPEDITION Trial).<ref name=":4" />
+
+== Research ==
+Since the findings of the EXPEDITION trial in 2003, research into cariporide has slowed. The increased risk of mortality associated with high concentrations and the lack of efficacy at low concentration make it unlikely that cariporide will reach market as a cardioprotective agent during ischaemia and reperfusion.
+
+However, more recent research has been conducted into cariporide as an anti-cancer treatment. Through its inhibition of NHE1, cariporide may provide a mechanism for initiating internal acidification of cancer cells leading to apoptosis.<ref name="HarguindeyArranz2013" /> Cancer cells utilize NHE1 in a unique mechanism of providing high intercellular pH and low extracellular pH, preventing internal acidification and leading to an efflux of H<sup>+</sup> from tumor cells.<ref name="HarguindeyArranz2013" />
+
+==  Patents ==
+The first patent pertaining to cariporide use was submitted March 30, 1994 as an  antiarrhythmic agent and was granted on January 8, 1997.<ref>Hans-Jochen, Jung, Andreas Weichert, Heinz-Wener Kleeman, Englert Heinrich, Wolfgang Scholz, and Albus Udo. Benzoylguanidines, Process for Their Preparation and Their Use as Antiarrhythmic Agents. Patent EP0589336. 8 Jan. 1997. Print. https://worldwide.espacenet.com/publicationDetails/biblio?CC=EP&NR=0589336B1&KC=B1&FT=D&ND=&date=19970108&DB=&locale=</ref> Since then, multiple patents have been issued for the use, delivery, and investigation of cariporide. However, no drug has been approved and marketed with cariporide.
+
+== References ==
+{{reflist}}
+
+[[Category:Antiarrhythmic agents|*]]
+[[Category:Membrane transport modulators]]
+[[Category:Sulfones]]
+[[Category:Acylguanidines]]

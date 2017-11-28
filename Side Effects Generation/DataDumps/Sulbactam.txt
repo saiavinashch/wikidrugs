@@ -1,0 +1,86 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 470472739
+| IUPAC_name = (2''S'',5''R'')-3,3-Dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid 4,4-dioxide
+| image = Sulbactam.svg
+| width = 150px
+| image2 = Sulbactam ball-and-stick.png
+| width2 = 200px
+<!--Clinical data-->
+| tradename = 
+| Drugs.com = {{drugs.com|international|sulbactam}}
+| MedlinePlus = a693021
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_CA = <!--                             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = POM
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = 
+| routes_of_administration = Injection
+<!--Pharmacokinetic data-->
+| bioavailability = 1
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = Kidneys?
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 68373-14-8
+| ATC_prefix = J01
+| ATC_suffix = CG01
+| PubChem = 130313
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 115306
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = S4TF6I2330
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08533
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 9321
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 403
+<!--Chemical data-->
+| C=8 | H=11 | N=1 | O=5 | S=1
+| molecular_weight = 233.243 g/mol
+| smiles = O=S2(=O)C([C@@H](N1C(=O)C[C@H]12)C(=O)O)(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C8H11NO5S/c1-8(2)6(7(11)12)9-4(10)3-5(9)15(8,13)14/h5-6H,3H2,1-2H3,(H,11,12)/t5-,6+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = FKENQMMABCRJMK-RITPCOANSA-N
+}}
+
+'''Sulbactam''' is a [[β-lactamase inhibitor]]. This [[drug]] is given in combination with [[β-lactam antibiotic]]s to inhibit [[β-lactamase]], an [[enzyme]] produced by [[bacteria]] that destroys the [[antibiotic]]s. <ref name="pmid17630699">{{cite journal  |vauthors=Totir MA, Helfand MS, Carey MP, etal |title=Sulbactam forms only minimal amounts of irreversible acrylate-enzyme with SHV-1 beta-lactamase |journal=Biochemistry |volume=46 |issue=31 |pages=8980–7 |date=August 2007 |pmid=17630699 |pmc=2596720 |doi=10.1021/bi7006146 |url=}}</ref>
+
+==Mechanism==
+Sulbactam is an irreversible inhibitor of β-lactamase; it binds to the enzyme and does not allow it to degrade the antibiotic.
+
+==Uses==
+Sulbactam is able to inhibit the most common forms of β-lactamase but is not able to interact with the [[AmpC cephalosporinase]]. Thus, it confers little protection against bacteria such as ''[[Pseudomonas aeruginosa]]'', ''[[Citrobacter]]'', ''[[Enterobacter]]'', and ''[[Serratia]]'', which often express this gene. 
+
+In the [[United States]], sulbactam is combined to form [[ampicillin/sulbactam]].  It does possess some antibacterial activity when administered alone, but it is too weak to have any clinical importance.  Its use in the UK is restricted to hospitals.
+
+Recently, its use in treating ''[[Acinetobacter]]'' [[septicemia]] is receiving renewed interest.
+
+==See also==
+* [[Tazobactam]]
+* [[Clavulanic_acid|Clavulanate]]
+
+== References ==
+<references/>
+
+== Further reading ==
+*{{cite journal |author=Singh GS |title=Beta-lactams in the new millennium. Part-II: cephems, oxacephems, penams and sulbactam |journal=Mini Rev Med Chem |volume=4 |issue=1 |pages=93–109 |date=January 2004 |pmid=14754446 |doi= 10.2174/1389557043487547|url=http://www.eurekaselect.com/80621/article}}
+
+{{PenicillinAntiBiotics}}
+
+[[Category:Beta-lactamase inhibitors]]
+[[Category:Lactams]]
+[[Category:Sulfones]]
+[[Category:Carboxylic acids]]
+
+
+{{antibiotic-stub}}

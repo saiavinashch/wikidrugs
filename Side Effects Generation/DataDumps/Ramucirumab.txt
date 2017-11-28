@@ -1,0 +1,84 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464380023
+| image =
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = u
+| target = [[VEGFR2]] (KDR)
+<!-- Clinical data -->
+| tradename = Cyramza
+| Drugs.com = {{Drugs.com|parent|cyramza}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = C
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled -->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Rx-only
+| legal_status = 
+| routes_of_administration = [[Intravenous infusion]]
+<!-- Pharmacokinetic data -->
+| bioavailability = 
+| protein_bound = 
+| metabolism = Probably [[protease]]s
+| elimination_half-life = 14 days
+| excretion = 
+<!-- Identifiers -->
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 947687-13-0
+| ATC_prefix = L01
+| ATC_suffix = XC21
+| PubChem = 
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = D99YVK4L0X
+<!-- Chemical data -->
+| C=6374 | H=9864 | N=1692 | O=1996 | S=46
+| molecular_weight = 143.6 kg/mol
+}}
+'''Ramucirumab'''<ref>[http://www.ama-assn.org/ama1/pub/upload/mm/365/ramucirumab.pdf Statement On A Nonproprietary Name Adopted By The USAN Council - Ramucirumab], ''American Medical Association''.</ref> ('''LY3009806''', '''IMC-1121B''', trade name '''Cyramza'''<ref>[http://www.fiercebiotech.com/story/fda-oks-lillys-blockbuster-hopeful-ramucirumab-stomach-cancer/2014-04-21 FierceBiotech: FDA OKs Lilly's blockbuster hopeful ramucirumab for stomach cancer]</ref><ref>[http://cyramza.com Cyramza official website]</ref>) is a fully human [[monoclonal antibody]] (IgG1) developed for the treatment of solid tumors.
+This drug was developed by [[ImClone Systems]] Inc.  
+It was isolated from a native [[phage display library]] from [[Dyax]].
+
+==Approved uses==
+On 21 April 2014, the US [[Food and Drug Administration]] (FDA) approved ramucirumab, as a single agent or with [[paclitaxel]], for treatment of advanced [[stomach cancer|gastric]] or gastro-esophageal junction [[adenocarcinoma]] if the disease has progressed despite [[pyrimidine analog|fluoropyrimidine]]- or [[platinum-containing anti-cancer drug|platinum-containing chemotherapy]].<ref>[http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm394107.htm FDA.gov press release for ramucirumab approval, accessed April 22, 2014]</ref><ref>[http://hemonc.org/wiki/Gastric_cancer#Ramucirumab_.28Cyramza.29 Ramucirumab gastric cancer regimen & reference]</ref>
+
+On 12 December 2014, the FDA approved ramucirumab in combination with [[docetaxel]], for treatment of metastatic [[non-small-cell lung carcinoma]] (NSCLC) with disease progression on or after [[platinum-containing anti-cancer drug|platinum-containing chemotherapy]]. If the cancer has a sensitizing mutation of [[Epidermal growth factor receptor|EGFR]] or [[Anaplastic lymphoma kinase|ALK]] previous therapy should have included [[targeted therapy]] for the genomic tumor aberration.<ref>[http://www.fda.gov/drugs/informationondrugs/approveddrugs/ucm426735.htm]</ref>
+
+In Europe, the drug is approved since 21 January 2015 for gastric or gastro-esophageal junction cancer under the same conditions. Meanwhile, it has also been approved for NSCLC, as well as in combination with [[FOLFIRI]] for the treatment of metastatic [[colorectal cancer]] if the disease has progressed despite [[bevacizumab]], [[oxaliplatin]] and [[capecitabine]] (or sililar) therapy.<ref name="EPAR">{{cite web|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/002829/WC500180724.pdf|publisher=[[European Medicines Agency]]|title=Cyramza: EPAR – Product Information|date=21 January 2015}}</ref><ref>{{cite web|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Public_assessment_report/human/002829/WC500180726.pdf|publisher=European Medicines Agency|title=Cyramza: EPAR – Public assessment report|date=22 January 2015}}</ref>
+
+==Contraindications==
+Under the European approval, NSCLC therapy with ramucirumab is contraindicated when there is tumour [[cavitation (biology)|cavitation]], or if major vessels are involved.<ref name="EPAR" /><ref name="AC">{{cite book|title=Austria-Codex|editor=Haberfeld, H|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2017|at=Cyramza 10 mg/ml Konzentrat zur Herstellung einer Infusionslösung|language=German}}</ref>
+
+==Side effects==
+The most common adverse effects in a study investigating ramucirumab monotherapy were [[diarrhoea]] (14% of patients, as compared to 9% under [[placebo]]), [[hyponatraemia]] (low blood [[sodium]] levels; 6% versus 2%), headache (9% versus 3%), and high blood pressure (16% versus 8%).<ref name="Drugs.com">{{Drugs.com|pro|cyramza}} on Cyramza.</ref>
+
+==Interactions==
+In studies, no interactions were observed with paclitaxel, docetaxel or [[irinotecan]].<ref name="EPAR" /><ref name="Drugs.com" />
+
+==Pharmacology==
+===Mechanism of action===
+It is directed against the [[vascular endothelial growth factor receptor 2]] (VEGFR2). By binding to VEGFR2 it works as a [[receptor antagonist]] blocking the binding of [[vascular endothelial growth factor]] (VEGF) to VEGFR2.  VEGFR2 is known to mediate the majority of the downstream effects of VEGF in [[angiogenesis]].<ref>[http://hemonc.org/w/images/4/4f/Ramucirumab.pdf Ramucirumab (Cyramza) package insert]</ref>
+
+==Clinical trials==
+On September 26, 2013 the manufacturer [[Eli Lilly]] announced that its Phase III study for ramucirumab failed to hit its primary endpoint on [[progression-free survival]] among women with metastatic [[breast cancer]].<ref>{{ClinicalTrialsGov|NCT00703326|Phase III Study of Docetaxel + Ramucirumab or Placebo in Breast Cancer}}</ref><ref name=fierce>{{cite web|last=Fierce Biotech|title=In another stinging setback, Eli Lilly's ramucirumab fails PhIII breast cancer study|url=http://www.fiercebiotech.com/story/another-stinging-setback-eli-lillys-ramucirumab-fails-phiii-breast-cancer-s/2013-09-26|accessdate=27 September 2013}}</ref>
+
+In June 2014, a phase III trial of the drug reported it failed to improve [[overall survival]] in [[liver cancer]].<ref>http://www.genengnews.com/gen-news-highlights/lilly-s-cyramza-fails-phase-iii-trial-in-liver-cancer/81249964/</ref>
+
+In Feb 2016 it was reported that a phase II trial of adding ramucirumab to docetaxel improved progression-free survival (PFS) compared with docetaxel alone in locally advanced or metastatic [[urothelial carcinoma]].<ref>[http://www.cancernetwork.com/bladder-cancer/ramucirumab-added-docetaxel-extends-pfs-urothelial-carcinoma Ramucirumab Added to Docetaxel Extends PFS in Urothelial Carcinoma.Feb 2016]</ref> It is now in the ''RANGE'' phase III trial for this indication.<ref>[https://clinicaltrials.gov/ct2/show/NCT02426125 A Study of Ramucirumab (LY3009806) Plus Docetaxel in Participants With Urothelial Cancer (RANGE)]</ref>
+
+== References ==
+{{reflist|35em}}
+
+{{monoclonals for tumors}}
+{{Monoclonals for bone, musculoskeletal, circulatory, and neurologic systems}}
+{{Growth factor receptor modulators}}
+
+[[Category:Monoclonal antibodies]]
+[[Category:Angiogenesis inhibitors]]

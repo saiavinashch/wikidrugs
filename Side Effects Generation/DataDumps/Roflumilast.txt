@@ -1,0 +1,159 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464383196
+| IUPAC_name = 3-(Cyclopropylmethoxy)-''N''-(3,5-dichloropyridin-4-yl)-4-(difluoromethoxy)benzamide
+| image = Roflumilast structure.svg
+| width = 240
+| image2 = Roflumilast ball-and-stick model.png
+| width2 = 240
+
+<!--Clinical data-->
+| tradename = Daxas, Daliresp
+| Drugs.com = {{drugs.com|CDI|roflumilast}}
+| MedlinePlus = a611034
+| licence_EU = Daxas
+| licence_US = Roflumilast
+| pregnancy_AU = B3
+| pregnancy_US = C
+| pregnancy_category =  
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 79%<ref name = DM/><ref name = EMC/><ref name = EMA/><ref name = MSR/>
+| protein_bound = 99%<ref name = DM/><ref name = EMC/><ref name = EMA/><ref name = MSR/>
+| metabolism = [[Hepatic]] via [[CYP1A2]] & [[CYP3A4]]<ref name = DM/><ref name = EMC/><ref name = EMA/><ref name = MSR/>
+| elimination_half-life = 17 hours (30 hours [active metabolite])<ref name = DM/><ref name = EMC/><ref name = EMA/><ref name = MSR/>
+| excretion = Urine (70%)<ref name = DM/><ref name = EMC/><ref name = EMA/><ref name = MSR/>
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6962
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 162401-32-3
+| ATC_prefix = R03
+| ATC_suffix = DX07
+| PubChem = 449193
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 395793
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 47657
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0P6C6ZOP5U
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 193240
+
+<!--Chemical data-->
+| C=17 | H=14 | Cl=2 | F=2 | N=2 | O=3 
+| molecular_weight = 403.207 g/mol
+|  smiles = C1CC1COC2=C(C=CC(=C2)C(=O)NC3=C(C=NC=C3Cl)Cl)OC(F)F
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C17H14Cl2F2N2O3/c18-11-6-22-7-12(19)15(11)23-16(24)10-3-4-13(26-17(20)21)14(5-10)25-8-9-1-2-9/h3-7,9,17H,1-2,8H2,(H,22,23,24)
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = MNDBXUUTURYVHR-UHFFFAOYSA-N
+}}
+
+'''Roflumilast''' (trade names '''Daxas''', '''Daliresp''') is a drug that acts as a selective, long-acting [[Phosphodiesterase-4 inhibitor|inhibitor of the enzyme phosphodiesterase-4]] (PDE-4). It has [[anti-inflammatory]] effects and is used as an orally administered drug for the treatment of inflammatory conditions of the lungs such as [[chronic obstructive pulmonary disease]] (COPD).<ref name="pmid18044684">{{cite journal
+| last1 = Boswell-Smith | first1 = V
+| last2 = Spina | first2 = D
+| title = PDE4 inhibitors as potential therapeutic agents in the treatment of COPD-focus on roflumilast
+| journal = [[International Journal of Chronic Obstructive Pulmonary Disease]]
+| volume = 2
+| issue = 2
+| pages = 121–9
+| year = 2007
+| pmid = 18044684
+| pmc = 2695611
+| url = http://www.dovepress.com/getfile.php?fileID=971
+| issn = 1178-2005
+}}</ref><ref name="pmid18307529">{{cite journal
+| last1 = Herbert | first1 = C
+| last2 = Hettiaratchi | first2 = A
+| last3 = Webb | first3 = DC
+| last4 = Thomas | first4 = PS
+| last5 = Foster | first5 = PS
+| last6 = Kumar | first6 = RK
+| title = Suppression of cytokine expression by roflumilast and dexamethasone in a model of chronic asthma
+| journal = [[Clinical & Experimental Allergy]]
+| volume = 38
+| issue = 5
+| pages = 847–56
+|date=May 2008
+| pmid = 18307529
+| doi = 10.1111/j.1365-2222.2008.02950.x
+| issn = 1365-2222
+}}</ref><ref name="pmid18374614">{{cite journal
+| last1 = Hohlfeld | first1 = JM
+| last2 = Schoenfeld | first2 = K
+| last3 = Lavae-Mokhtari | first3 = M
+| last4 = Schaumann | first4 = F
+| last5 = Mueller | first5 = M
+| last6 = Bredenbroeker | first6 = D
+| last7 = Krug | first7 = N
+| last8 = Hermann | first8 = R
+| title = Roflumilast attenuates pulmonary inflammation upon segmental endotoxin challenge in healthy subjects: a randomized placebo-controlled trial
+| journal = [[Pulmonary Pharmacology & Therapeutics]]
+| volume = 21
+| issue = 4
+| pages = 616–23
+|date=August 2008
+| pmid = 18374614
+| doi = 10.1016/j.pupt.2008.02.002
+| issn = 1094-5539
+}}</ref><ref name="pmid18447606">{{cite journal
+| last1 = Field | first1 = SK
+| title = Roflumilast: an oral, once-daily selective PDE-4 inhibitor for the management of COPD and asthma
+| journal = [[Expert Opinion on Investigational Drugs]]
+| volume = 17
+| issue = 5
+| pages = 811–8
+|date=May 2008
+| pmid = 18447606
+| doi = 10.1517/13543784.17.5.811	
+| issn = 1354-3784
+}}</ref>
+
+In June 2010, Daxas was approved in the [[European Union|EU]] for severe COPD associated with chronic bronchitis.<ref>[http://www.genengnews.com/gen-news-highlights/nycomed-s-anti-inflammatory-gains-approval-in-eu-for-copd/81243622/ "Nycomed's Anti-Inflammatory Gains Approval in EU for COPD"]</ref> In March 2011, Daliresp gained FDA approval in the [[United States|US]] for reducing COPD exacerbations.<ref>{{cite press release
+| url = http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm244989.htm
+| title = FDA approves new drug to treat chronic obstructive pulmonary disease
+| date = March 1, 2011
+| publisher = [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]] (FDA)
+}}</ref>
+
+==Medical uses==
+Its primary clinical use is in the prevention of exacerbations (lung attacks) in severe COPD.<ref name = DM>{{cite web|title=DALIRESP (roflumilast) tablet [Forest Laboratories, Inc.]|work=DailyMed|publisher=Forest Laboratories, Inc.|date=August 2013|accessdate=18 November 2013|url=http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=95519b97-d0a6-4c9f-baf0-bc5da08296c7|format=PDF}}</ref><ref name = EMC>{{cite web|title=DAXAS 500 micrograms film-coated tablets|work=electronic Medicines Compendium|publisher=Takeda UK Ltd|date=9 September 2013|url=http://www.medicines.org.uk/emc/medicine/23416/SPC/DAXAS+500+micrograms+film-coated+tablets/|accessdate=18 November 2013}}</ref><ref name = EMA>{{cite web|title=Daliresp : EPAR - Product Information|work=European Medicines Agency|publisher=Takeda GmbH|date=26 September 2013|accessdate=18 November 2013|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/002398/WC500103078.pdf|format=PDF}}</ref><ref name = MSR>{{cite web|title=roflumilast (Rx) - Daliresp|work=Medscape Reference|publisher=WebMD|accessdate=18 November 2013|url=http://reference.medscape.com/drug/daliresp-roflumilast-999626}}</ref>
+
+==Adverse effects==
+
+Common (1–10% incidence) adverse effects include:<ref name = DM/><ref name = EMC/><ref name = EMA/><ref name = MSR/><ref name="pmid18660825">{{cite journal| last1 = Spina | first1 = D| title = PDE4 inhibitors: current status| journal = [[British Journal of Pharmacology]]| volume = 155| issue = 3| pages = 308–15|date=October 2008| pmid = 18660825| pmc = 2567892| doi = 10.1038/bjp.2008.307| issn = 1476-5381}}</ref>
+* Diarrhea
+* Weight loss
+* Nausea
+* Headache
+* Insomnia
+* Decreased appetite
+* Abdominal pain
+* Rhinitis
+* Sinusitis
+* Urinary tract infection
+* Depression
+
+==References==
+{{Reflist}}
+
+
+{{Drugs for obstructive airway diseases}}
+{{Phosphodiesterase inhibitors}}
+
+[[Category:Benzamides]]
+[[Category:Chloropyridines]]
+[[Category:Organofluorides]]
+[[Category:PDE4 inhibitors]]
+[[Category:Phenol ethers]]
+[[Category:Cyclopropanes]]

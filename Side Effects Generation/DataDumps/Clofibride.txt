@@ -1,0 +1,67 @@
+{{Missing information|everything|date=January 2017}}
+{{Drugbox
+| verifiedrevid = 447821444
+| IUPAC_name = 3-(dimethylcarbamoyl)propyl 2-(4-chlorophenoxy)-2-methylpropanoate
+| image = Clofibride.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism = [[Hydrolysis|Hydrolyzed]] to [[clofibric acid]]; [[liver|hepatic]] [[glucuronidation]]
+| elimination_half-life = 12 hours (clofibric acid)
+| excretion = [[Kidney|Renal]] (mostly) and fecal
+
+<!--Identifiers-->
+| CAS_number = 26717-47-5
+| ATC_prefix = C10
+| ATC_suffix = AB10
+| PubChem = 160134
+| ChEMBL = 1697831
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 140758
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0S9SLS3L93
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07188
+
+<!--Chemical data-->
+| C=16 | H=22 | Cl=1 | N=1 | O=4 
+| molecular_weight = 327.803 g/mol
+| smiles = Clc1ccc(OC(C(=O)OCCCC(=O)N(C)C)(C)C)cc1
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H22ClNO4/c1-16(2,22-13-9-7-12(17)8-10-13)15(20)21-11-5-6-14(19)18(3)4/h7-10H,5-6,11H2,1-4H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = CXQGFLBVUNUQIA-UHFFFAOYSA-N
+}}
+
+'''Clofibride''' is a [[fibrate]].
+
+==References==
+{{Reflist|2}}
+
+
+{{Lipid modifying agents}}
+{{PPAR modulators}}
+
+[[Category:Fibrates]]
+[[Category:Prodrugs]]
+[[Category:Chloroarenes]]
+[[Category:Phenol ethers]]
+[[Category:Carboxamides]]
+
+
+{{cardiovascular-drug-stub}}

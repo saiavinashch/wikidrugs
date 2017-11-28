@@ -1,0 +1,75 @@
+{{one source|date=August 2014}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 409083557
+| IUPAC_name = 7-(3-Aminopyrrolidin-1-yl)-1-(2,4-difluorophenyl)-6-fluoro-4-oxo-1,4-dihydro-1,8-naphthyridine-3-carboxylic acid
+| image = tosufloxacin.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|tosufloxacin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 100490-36-6
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 5517
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = GHJ553KQPS
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02317
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 77573
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 273348
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 5316
+
+
+<!--Chemical data-->
+| C=19 | H=15 | F=3 | N=4 | O=3 
+| molecular_weight = 404.34 g/mol
+| smiles = NC1CCN(C1)c1nc2n(cc(C(O)=O)c(=O)c2cc1F)-c1ccc(F)cc1F
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI =1S/C19H15F3N4O3/c20-9-1-2-15(13(21)5-9)26-8-12(19(28)29)16(27)11-6-14(22)18(24-17(11)26)25-4-3-10(23)7-25/h1-2,5-6,8,10H,3-4,7,23H2,(H,28,29)
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = WUWFMDMBOJLQIV-UHFFFAOYSA-N
+}}
+
+'''Tosufloxacin''' is a [[fluoroquinolone]] [[antibiotic]]. It has a controversial safety profile in relation to other fluoroquinolones. It is associated with severe thrombocytopenia and nephritis, and hepatotoxicity.<ref>{{Cite journal | last1 = Rubinstein | first1 = E. | title = History of quinolones and their side effects. | journal = Chemotherapy | volume = 47 Suppl 3 | issue =  | pages = 3–8; discussion 44–8 | month =  | year = 2001 | doi =  10.1159/000057838| pmid = 11549783 }}</ref> It is sold in [[Japan]] under the brand name '''Ozex'''.
+
+==See also==
+* [[Quinolones]]
+
+==References==
+{{reflist}}
+
+{{QuinoloneAntiBiotics}}
+
+[[Category:Fluoroquinolone antibiotics]]
+[[Category:Naphthyridines]]
+[[Category:Pyrrolidines]]
+[[Category:Carboxylic acids]]
+
+
+{{antibiotic-stub}}

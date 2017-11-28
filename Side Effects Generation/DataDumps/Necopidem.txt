@@ -1,0 +1,63 @@
+{{Drugbox
+| verifiedrevid = 447997301
+| IUPAC_name = ''N''-([2-(4-ethylphenyl)-6-methylimidazo[1,2-a]pyridin-3-yl]methyl)-''N'',3-dimethylbutanamide
+| image = Necopidem.svg
+| width = 222
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 103844-77-5
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 3047786
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2310104
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = G4N2F166MN
+
+<!--Chemical data-->
+| C=23 | H=29 | N=3 | O=1 
+| molecular_weight = 341.835 g/mol
+| smiles = O=C(N(C)Cc1c(nc2ccc(cn12)C)c3ccc(cc3)CC)CC(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C23H29N3O/c1-6-18-8-10-19(11-9-18)23-20(15-25(5)22(27)13-16(2)3)26-14-17(4)7-12-21(26)24-23/h7-12,14,16H,6,13,15H2,1-5H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YRMLUAGKHYADKJ-UHFFFAOYSA-N
+}}
+
+'''Necopidem''' is a drug in the [[imidazopyridine]] family, which is related to the better known drugs [[zolpidem]] and [[alpidem]]. It is therefore considered a [[nonbenzodiazepine]] and as such may have [[sedative]] and [[anxiolytic]] effects, given its structural similarity to other nonbenzodiazepine hypnotics.<ref>{{cite journal |title=Ethyl 8-(4-nitrophenyl)imidazo[1,2-''a'']pyridine-7-carboxylate |date=2010-12-01 |pmc=3011613 |journal=Acta Crystallographica Section E |volume=66 |number=12 |last1=Duan |first1=Gui-Yun |last2=Zhang |first2=Yu-Juan |last3=Hao |first3=Ben-Qian |pmid=21589555 |doi=10.1107/S1600536810047938 |pages=o3272}}</ref>
+
+==References==
+<references/>
+
+{{Hypnotics and sedatives}}
+{{GABAAR PAMs}}
+
+[[Category:Carboxamides]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:Imidazopyridines]]
+[[Category:Sedatives]]
+
+
+{{sedative-stub}}

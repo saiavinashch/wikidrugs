@@ -1,0 +1,75 @@
+{{Drugbox
+| verifiedrevid = 456687875
+| IUPAC_name = 2-(3-aminopropylamino)ethylsulfanyl<br>phosphonic acid
+| image = Amifostine.svg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|monograph|amifostine}}
+| pregnancy_US = C
+| legal_US = Rx-only
+| routes_of_administration = [[Intravenous therapy|Intravenous]]
+<!--Pharmacokinetic data-->
+| bioavailability = complete
+| protein_bound =  
+| metabolism =  
+| elimination_half-life = 8 minutes
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 20537-88-6
+| ATC_prefix = V03
+| ATC_suffix = AF05
+| PubChem = 2141
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01143
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2056
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = M487QF2F4V
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = C06819
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 2636
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1006
+<!--Chemical data-->
+| C=5 | H=15 | N=2 | O=3 | P=1 | S=1
+| molecular_weight = 214.224 g/mol
+| smiles = O=P(O)(O)SCCNCCCN
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C5H15N2O3PS/c6-2-1-3-7-4-5-12-11(8,9)10/h7H,1-6H2,(H2,8,9,10)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = JKOQGQFVAUAYPM-UHFFFAOYSA-N
+}}
+
+'''Amifostine''' ('''Ethiofos''') is a cytoprotective adjuvant used in cancer [[chemotherapy]] and [[radiotherapy]] involving [[DNA]]-binding chemotherapeutic agents. It is marketed by Clinigen Group under the trade name '''Ethyol'''.
+
+==Indications==
+Amifostine is used therapeutically to reduce the incidence of [[neutropenia]]-related fever and infection induced by DNA-binding chemotherapeutic agents including [[alkylating antineoplastic agent|alkylating agent]]s (e.g. [[cyclophosphamide]]) and platinum-containing agents (e.g. [[cisplatin]]). It is also used to decrease the cumulative [[nephrotoxicity]] associated with platinum-containing agents. Amifostine is also indicated to reduce the incidence of [[xerostomia]] in patients undergoing radiotherapy for head and neck cancer.
+
+Amifostine was originally indicated to reduce the cumulative renal toxicity from cisplatin in non-small cell [[lung cancer]].  However, while nephroprotection was observed, the probability that amifostine could protect tumors could not be excluded. Additional data have shown that amifostine-mediated tumor protection, in any clinical scenario, is unlikely.
+
+==Pharmacokinetics==
+[[File:WR-1065 skeletal.svg|thumb|left|WR-1065, 2-((aminopropyl)amino)ethanethiol, the [[active metabolite]] of amifostine]]
+Amifostine is an organic thiophosphate [[prodrug]] which is hydrolysed ''[[in vivo]]'' by [[alkaline phosphatase]] to the active cytoprotective [[thiol]] metabolite, WR-1065. The selective protection of non-malignant tissues is believed to be due to higher alkaline phosphatase activity, higher [[pH]], and vascular permeation of normal tissues.
+
+Amifostine can be administered intravenously or subcutaneously after reconstitution with [[saline (medicine)|normal saline]]. Infusions lasting less than 15 minutes decrease the risk of adverse effects. The patient should be well-hydrated prior to administration.
+
+== Mechanism of action ==
+
+Inside cells, amifostine detoxifies reactive metabolites of platinum and alkylating agents, as well as scavenges [[free radicals]].<ref name=theoncologist/><ref name="bccancer">{{cite web | url = http://www.bccancer.bc.ca/HPI/DrugDatabase/DrugIndexPro/amifostine.htm | title = Amifostine : BC Cancer Agency | date = 2006-03-01 | work = | publisher = British Columbia Cancer Agency | pages = | language = | archiveurl = | archivedate = | quote = | accessdate = 2011-01-01 }}</ref> Other possible effects include accelerated [[DNA repair]],<ref name="theoncologist">{{cite journal | vauthors = Kouvaris JR, Kouloulias VE, Vlahos LJ | title = Amifostine: the first selective-target and broad-spectrum radioprotector | journal = Oncologist | volume = 12 | issue = 6 | pages = 738–47 |date=June 2007 | pmid = 17602063 | doi = 10.1634/theoncologist.12-6-738 | url = | issn = }}</ref> induction of cellular hypoxia,<ref name=theoncologist/> inhibition of apoptosis,<ref name=bccancer/> alteration of gene expression<ref name=bccancer/> and modification of enzyme activity.<ref name=bccancer/> Amifostine is believed to radioprotect normal tissue via [[Warburg effect|Warburg]]-type effects.<ref>{{Cite journal|last=Koukourakis|first=Michael I.|last2=Giatromanolaki|first2=Alexandra|last3=Zois|first3=Christos E.|last4=Kalamida|first4=Dimitra|last5=Pouliliou|first5=Stamatia|last6=Karagounis|first6=Ilias V.|last7=Yeh|first7=Tzu-Lan|last8=Abboud|first8=Martine I.|last9=Claridge|first9=Timothy D. W.|date=2016-08-10|title=Normal tissue radioprotection by amifostine via Warburg-type effects|url=http://www.nature.com/articles/srep30986|journal=Scientific Reports|language=en|volume=6|doi=10.1038/srep30986|issn=2045-2322|pmc=4978965|pmid=27507219}}</ref>
+
+==Adverse effects==
+Common [[adverse drug reaction|side effect]]s of amifostine include [[hypocalcemia]], [[diarrhea]], [[nausea]], [[vomiting]], sneezing, somnolence, and [[hiccoughs]]. 
+Serious side effects include: hypotension (found in 62% of patients), [[erythema multiforme]], [[Stevens–Johnson syndrome]] and [[toxic epidermal necrolysis]], immune [[hypersensitivity]] syndrome, [[erythroderma]], [[anaphylaxis]], and loss of consciousness (rare).
+
+==Contraindications==
+Contraindications to receiving amifostine include [[hypersensitivity]] to amifostine and [[aminothiol]] compounds like WR-1065. Ethyol contains [[mannitol]].
+
+==References==
+{{reflist}}
+
+{{Detoxifying agents for antineoplastic treatment}}
+
+[[Category:Chemotherapeutic adjuvants]]
+[[Category:Prodrugs]]
+[[Category:Amines]]

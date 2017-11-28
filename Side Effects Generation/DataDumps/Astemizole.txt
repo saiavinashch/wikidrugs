@@ -1,0 +1,87 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 457285684
+| IUPAC_name = 1-[(4-fluorophenyl)methyl]-''N''-[1-[2-(4-methoxyphenyl)ethyl]-4-piperidyl]benzoimidazol-2-amine
+| image = Astemizole.svg
+| width = 250
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|MTM|astemizole}}
+| MedlinePlus = a600034
+| pregnancy_category = C ([[United States|USA]])
+| legal_status = Withdrawn
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound = ~96%
+| metabolism = [[Hepatic]] ([[CYP3A4]])<ref name="pmid11259984">{{cite journal |vauthors=Matsumoto S, Yamazoe Y |title=Involvement of multiple human cytochromes P450 in the liver microsomal metabolism of astemizole and a comparison with terfenadine |journal=British Journal of Clinical Pharmacology |volume=51 |issue=2 |pages=133–42 |date=February 2001 |pmid=11259984 |pmc=2014443 |doi= 10.1046/j.1365-2125.2001.01292.x|url=http://www.blackwell-synergy.com/openurl?genre=article&sid=nlm:pubmed&issn=0306-5251&date=2001&volume=51&issue=2&spage=133}}</ref>
+| elimination_half-life = 24 hours
+| excretion = [[Fecal]]
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 68844-77-9
+| ATC_prefix = R06
+| ATC_suffix = AX11
+| PubChem = 2247
+| IUPHAR_ligand = 2603
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00637
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2160
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 7HU6337315
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00234
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 2896
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 296419
+
+<!--Chemical data-->
+| C=28 | H=31 | F=1 | N=4 | O=1
+| molecular_weight = 458.571 g/mol
+| smiles = Fc1ccc(cc1)Cn2c5ccccc5nc2NC4CCN(CCc3ccc(OC)cc3)CC4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C28H31FN4O/c1-34-25-12-8-21(9-13-25)14-17-32-18-15-24(16-19-32)30-28-31-26-4-2-3-5-27(26)33(28)20-22-6-10-23(29)11-7-22/h2-13,24H,14-20H2,1H3,(H,30,31)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GXDALQBWZGODGZ-UHFFFAOYSA-N
+}}
+
+'''Astemizole''' (marketed under the brand name '''Hismanal''', developmental code R43512) was a second-generation [[antihistamine]] drug that has a long duration of action. Astemizole was discovered by [[Janssen Pharmaceutica]] in 1977. It has been withdrawn from the market in most countries because of rare but potentially fatal side effects ([[QTc]] interval prolongation and related [[arrhythmias]] due to [[hERG]] channel blockade).<ref name="pmid10376921">{{cite journal |vauthors=Zhou Z, Vorperian VR, Gong Q, Zhang S, January CT | title = Block of HERG potassium channels by the antihistamine astemizole and its metabolites desmethylastemizole and norastemizole | journal = J. Cardiovasc. Electrophysiol. | volume = 10 | issue = 6 | pages = 836–43 |date=June 1999 | pmid = 10376921 | doi =  10.1111/j.1540-8167.1999.tb00264.x}}</ref>
+
+==Pharmacology==
+Astemizole is a histamine [[H1-receptor antagonist]]. It has [[anticholinergic]] and [[antipruritic]] effects.
+
+Astemizole is rapidly absorbed from the gastrointestinal tract and competitively binds to histamine H<sub>1</sub> receptor sites in the gastrointestinal tract, uterus, blood vessels, and bronchial muscle. This suppresses the formation of [[edema]] and [[pruritus]] (caused by histamine).
+
+Despite some earlier reports that astemizole does not cross the [[blood–brain barrier]], several studies<ref>{{cite journal |pmc=2951486 |title=Selective Interaction of Lansoprazole and Astemizole with Tau Polymers: Potential New Clinical Use in Diagnosis of Alzheimer's Disease |accessdate=April 26, 2013 |journal=Journal of Alzheimer's Disease |publisher=IOS Press |issn=1875-8908 |volume=19 |issue=2 |year=2010 |pages=573–589 |doi=10.3233/JAD-2010-1262 |first1=Leonel E. |last1=Rojo |first2=Jans |last2=Alzate-Morales |first3=Iván N. |last3=Saavedra |first4=Peter |last4=Davies |first5=Ricardo B. |last5=Maccioni |pmid=20110603}}</ref><ref>{{cite journal |doi=10.1016/S0223-5234(03)00012-6 |title=High throughput artificial membrane permeability assay for blood–brain barrier |journal=European Journal of Medicinal Chemistry |volume=38 |issue=3 |date=7 March 2003 |pages=223–232 |first1=Li |last1=Di |first2=Edward H |last2=Kerns |first3=Kristi |last3=Fan |first4=Oliver J |last4=McConnell |first5=Guy T |last5=Carter }}</ref> have shown high permeability and high binding to protein folds associated with [[Alzheimer's disease|Alzheimer's]].
+
+Astemizole may also act on [[Histamine H3 receptor|histamine H<sub>3</sub> receptor]]s, thereby producing adverse effects.{{citation needed|date=December 2013}}
+
+Astemizole does also act as [[FIASMA]] (functional inhibitor of [[Sphingomyelin phosphodiesterase|acid sphingomyelinase]]).<ref name="pmid18504571">{{cite journal |vauthors=Kornhuber J, Muehlbacher M, Trapp S, Pechmann S, Friedl A, Reichel M, Mühle C, Terfloth L, Groemer T, Spitzer G, Liedl K, Gulbins E, Tripal P |title=Identification of novel functional inhibitors of acid sphingomyelinase|journal=PLoS ONE|volume=6|issue=8|pages=e23852|year=2011|doi=10.1371/journal.pone.0023852|pmid=21909365|pmc=3166082}}</ref>
+
+==Toxicity==
+Astemizole has an oral [[LD50|LD<sub>50</sub>]] of approximately 2052&nbsp;mg/kg (in mice).
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://publications.gc.ca/collections/Collection/H30-12-21-2001E.pdf Statement on Astemizole from Health Canada]
+
+{{Antihistamines}}
+{{Cholinergics}}
+{{Histaminergics}}
+
+[[Category:Amines]]
+[[Category:Belgian inventions]]
+[[Category:Benzimidazoles]]
+[[Category:Fluoroarenes]]
+[[Category:H1 receptor antagonists]]
+[[Category:Janssen Pharmaceutica]]
+[[Category:Phenol ethers]]
+[[Category:Piperidines]]
+[[Category:Withdrawn drugs]]

@@ -1,0 +1,69 @@
+{{Distinguish|Paramethadione}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 429748383
+| IUPAC_name = (6α,11β,16α)-6-fluoro-11,17,21-trihydroxy-16-methylpregna-1,4-diene-3,20-dione
+| image = Paramethasone.svg
+<!--Clinical data-->
+| tradename =
+| Drugs.com = {{drugs.com|international|paramethasone}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_UK = <!-- GSL         / P       / POM / CD -->
+| legal_US = <!-- OTC                   / Rx-only  -->
+| legal_status =
+| routes_of_administration =
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 53-33-8
+| ATC_prefix = H02
+| ATC_suffix = AB05
+| PubChem = 5875
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB01384
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5664
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = VFC6ZX3584
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1579
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = C07413
+<!--Chemical data-->
+| C=22 | H=29 | F=1 | O=5
+| molecular_weight = 392.461 g/mol
+| smiles = O=C\1\C=C/[C@]4(/C(=C/1)[C@@H](F)C[C@@H]2[C@@H]4[C@@H](O)C[C@@]3([C@@](O)(C(=O)CO)[C@@H](C[C@@H]23)C)C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H29FO5/c1-11-6-14-13-8-16(23)15-7-12(25)4-5-20(15,2)19(13)17(26)9-21(14,3)22(11,28)18(27)10-24/h4-5,7,11,13-14,16-17,19,24,26,28H,6,8-10H2,1-3H3/t11-,13+,14+,16+,17+,19-,20+,21+,22+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = MKPDWECBUAZOHP-AFYJWTTESA-N
+| synonyms = <small>(6''S'',8''S'',9''S'',10''R'',11''S'',13''S'',14''S'',16''R'',17''R'')-6-fluoro-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13,16-trimethyl-7,8,9,11,12,14,15,16-octahydro-6''H''-cyclopenta[''a'']phenanthren-3-one</small>
+}}
+
+'''Paramethasone''' is a [[fluorinated]] [[glucocorticoid]] with [[anti-inflammatory]] and [[immunosuppressant]] properties.<ref>Toxnet: [http://toxnet.nlm.nih.gov/cgi-bin/sis/search2/f?./temp/~jn3CBx:1 Paramethasone]</ref>
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+* {{cite journal|pmid=7613160|year=1995|author1=Wershil|first1=B. K.|title=Dexamethasone and cyclosporin a suppress mast cell-leukocyte cytokine cascades by multiple mechanisms|journal=International Archives of Allergy and Immunology|volume=107|issue=1–3|pages=323–4|last2=Furuta|first2=G. T.|last3=Lavigne|first3=J. A.|last4=Choudhury|first4=A. R.|last5=Wang|first5=Z. S.|last6=Galli|first6=S. J.|doi=10.1159/000237015}}
+* {{cite journal|pmid=10637434|year=1999|author1=Riccardi|first1=C|title=Glucocorticoid hormone-induced modulation of gene expression and regulation of T-cell death: Role of GITR and GILZ, two dexamethasone-induced genes|journal=Cell death and differentiation|volume=6|issue=12|pages=1182–9|last2=Cifone|first2=M. G.|last3=Migliorati|first3=G|doi=10.1038/sj.cdd.4400609}}
+* {{cite journal|pmid=10904533|year=1999|author1=Lavista Llanos|first1=S|title=Effect of dexamethasone on nitric oxide (NO.) production by cultured astrocytes|journal=Biocell|volume=23|issue=1|pages=29–35|last2=Roldán|first2=A}}
+
+{{Glucocorticoids}}
+{{Glucocorticoidics}}
+
+[[Category:Glucocorticoids]]
+[[Category:Organofluorides]]
+
+
+{{systemic-hormonal-drug-stub}}

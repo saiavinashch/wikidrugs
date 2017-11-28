@@ -1,0 +1,79 @@
+{{Drugbox
+| IUPAC_name = D-phenylalanyl-L-cysteinyl-L-tyrosyl-D-tryptophyl-L-lysyl-L-valyl-L-cysteinyl-L-tryptophanamide (2->7)-disulfide
+| synonyms = H-D-Phe-Cys(1)-Tyr-D-Trp-Lys-Val-Cys(1)-Trp-NH2<br/>Octastatin
+| image =  Vapreotide.svg
+| width =
+| alt =  
+| image2 =  
+| width2 =  
+| drug_name = 
+| caption =  
+<!--Clinical data-->
+| tradename = Sanvar
+| licence_EU = <!-- EMA requires brand name -->
+| licence_US = <!-- FDA may use generic name -->
+| DailyMedID = <!-- preference to licence_US -->
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| dependency_liability =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life = 30 minutes
+| excretion =  
+<!--Identifiers-->
+| CAS_number = 103222-11-3
+| CAS_supplemental =  
+| ATCvet =  
+| ATC_prefix = H01
+| ATC_suffix = CB04
+| ATC_supplemental =  
+| UNII = 2PK59M9GFF
+| PubChem = 23725064
+| PubChemSubstance = 46506923
+| IUPHAR_ligand =  
+| DrugBank = DB04894
+| ChemSpiderID = 64425
+| KEGG = D06281
+<!--Chemical data-->
+| C=57 | H=70 | N=12 | O=9 | S=2
+| molecular_weight = 1131.37 g/mol
+| SMILES = CC(C)[C@H]1C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N1)CCCCN)Cc2c[nH]c3c2cccc3)Cc4ccc(cc4)O)NC(=O)[C@@H](Cc5ccccc5)N)C(=O)N[C@@H](Cc6c[nH]c7c6cccc7)C(=O)N
+| StdInChI = 1S/C57H70N12O9S2/c1-32(2)49-57(78)68-48(55(76)64-44(50(60)71)26-35-28-61-41-16-8-6-14-38(35)41)31-80-79-30-47(67-51(72)40(59)24-33-12-4-3-5-13-33)56(77)65-45(25-34-19-21-37(70)22-20-34)53(74)66-46(27-36-29-62-42-17-9-7-15-39(36)42)54(75)63-43(52(73)69-49)18-10-11-23-58/h3-9,12-17,19-22,28-29,32,40,43-49,61-62,70H,10-11,18,23-27,30-31,58-59H2,1-2H3,(H2,60,71)(H,63,75)(H,64,76)(H,65,77)(H,66,74)(H,67,72)(H,68,78)(H,69,73)/t40-,43+,44+,45+,46-,47+,48+,49+/m1/s1
+| StdInChIKey = SWXOGPJRIDTIRL-DOUNNPEJSA-N
+| density = 1.4 
+| melting_point =  
+| melting_high =  
+| melting_notes =  
+| boiling_point = 1540.9 
+| boiling_notes =  
+| solubility =  
+| specific_rotation =  
+| sec_combustion =  
+}}
+
+'''Vapreotide''' ('''Sanvar''') is a synthetic [[somatostatin]] analog. It is used in the treatment of [[Cirrhosis|esophageal variceal bleeding]] in patients with cirrhotic [[liver disease]] and [[AIDS]]-related [[diarrhea]].<ref name="DrugBank">{{DrugBank|DB04894}}</ref>
+
+It is an 8 residue peptide with sequence H-D-Phe-Cys(1)-Tyr-D-Trp-Lys-Val-Cys(1)-Trp-NH2.
+
+==References==
+{{Reflist|2}}
+
+
+{{GH/IGF-1 axis signaling modulators}}
+
+[[Category:Antineoplastic drugs]]
+[[Category:Lactams]]
+[[Category:Peptides]]
+[[Category:Hormonal agents]]
+
+
+{{systemic-hormonal-drug-stub}}

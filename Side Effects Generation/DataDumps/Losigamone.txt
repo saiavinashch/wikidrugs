@@ -1,0 +1,77 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 447997368
+| IUPAC_name = (2R)-2-[(S)-(2-chlorophenyl)-hydroxymethyl]-3-methoxy-2H-furan-5-one
+| image = Losigamone skeletal.svg
+| alt = Skeletal formula of losigamone
+| image2 = Losigamone 3D ball.png
+| alt2 = Ball-and-stick model of the losigamone molecule
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Investigational
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number        = 112856-44-7
+| CAS_supplemental =  
+| ATC_prefix = none
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem = 6918049
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 84R8O3QM2G
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 5293266
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=12 | H=11 | Cl=1 | O=4 
+| molecular_weight = 254.666 g/mol
+| smiles = Clc1ccccc1C(O)C2OC(=O)C=C2OC
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C12H11ClO4/c1-16-9-6-10(14)17-12(9)11(15)7-4-2-3-5-8(7)13/h2-6,11-12,15H,1H3/t11-,12-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = ICDNYWJQGWNLFP-RYUDHWBXSA-N
+}}
+
+'''Losigamone''' ([[International Nonproprietary Name|INN]]) is an investigational [[pharmaceutical drug|drug]] for the treatment of [[epilepsy]]. It has been studied as an add-on treatment for [[partial seizure]]s.<ref name="Baulac" /> Phase III [[clinical trial]]s were conducted around the year 2000.<ref name="Willmore" />
+
+==Mechanism of action==
+The mechanism of action is not known. Data regarding the interaction of losigamone with [[GABA receptor]]s are inconsistent: it increases GABA-induced chloride influx in [[spinal cord]] neuron cultures, but has no significant influence on GABAergic inhibitory [[postsynaptic potential]]s in [[hippocampal]] slices.<ref name="Willmore" /> Interaction with [[Potassium channel|potassium]]<ref name="Willmore" /> and [[sodium channel]]s<ref name="Draguhn" /> has been proposed. Results from both [[in vitro]] and [[in vivo]] experiments confirm that the pharmacological activity profiles of the two losigamone [[enantiomer]]s are not identical and suggest further that excitatory amino acid-mediated processes are involved in the mode of action of (+)-losigamone (the compound shown in the image) whereas (&ndash;)-losigamone does not possess such properties.<ref name="Jones" />
+
+== References ==
+{{Reflist|refs=
+<ref name="Baulac">{{cite journal|date=2003|title=Efficacy and Safety of Losigamone in Partial Seizures: A Randomized Double-Blind Study|journal=Epilepsy Res|volume=55|pages=177–189|doi=10.1016/S0920-1211(03)00108-6|pmid=12972172|last1=Baulac|first1=M|last2=Klement|first2=S|last3=Losigamone Study|first3=Group|issue=3}}</ref>
+<ref name="Willmore">{{cite journal|date=December 2001|title=Losigamone. Dr Willmar Schwabe|journal=Curr Opin Investig Drugs|volume=2|issue=12|pages=1763–6|pmid=11892943|last1=Willmore|first1=LJ}}</ref>
+<ref name="Draguhn">{{cite journal|date=May 1997|title=Losigamone decreases spontaneous synaptic activity in cultured hippocampal neurons|journal=European Journal of Pharmacology|volume=325|issue=2–3|pages=245–251|doi=10.1016/S0014-2999(97)00121-0|pmid=9163572|last1=Draguhn|first1=A|last2=Jungclaus|first2=M|last3=Sokolowa|first3=S|last4=Heinemann|first4=U}}</ref>
+<ref name="Jones">{{cite journal|date=Nov 1999|title=The anticonvulsant effects of the enantiomers of losigamone |journal=British Journal of Pharmacology|volume=128|issue=6|pages=1223–8 |pmid=10578135|last1=Jones|first1=F|last2=Davies|first2=J|doi=10.1038/sj.bjp.0702919|pmc=1571758 }}</ref>
+}}
+
+[[Category:Abandoned drugs]]
+[[Category:Anticonvulsants]]
+[[Category:Chloroarenes]]
+[[Category:Drugs with unknown mechanisms of action]]
+[[Category:Alcohols]]
+[[Category:Furanones]]
+[[Category:Ethers]]
+
+
+{{anticonvulsant-stub}}

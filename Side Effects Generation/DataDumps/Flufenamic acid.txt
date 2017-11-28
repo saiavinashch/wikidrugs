@@ -1,0 +1,88 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 443821617
+| IUPAC_name = 2-<nowiki/>{[3-(Trifluoromethyl)phenyl]amino}benzoic acid
+| image = flufenamic acid.png
+| image2 = Flufenamic acid-3D-balls.png
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|flufenamic-acid}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = S4
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = oral, topical
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = extensively
+| metabolism = [[Hydroxylation]], [[glucuronidation]]
+| elimination_half-life = ~3 h
+| excretion = 50% urine, 36% feces
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 530-78-9
+| ATC_prefix = M01
+| ATC_suffix = AG03
+| PubChem = 3371
+| IUPHAR_ligand = 2447
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB02266
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3254
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 60GCX7Y6BH
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01581
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 42638
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 23588
+<!--Chemical data-->
+| C=14 | H=10 | F=3 | N=1 | O=2
+| molecular_weight = 281.22991 g/mol
+| smiles = FC(F)(F)c1cc(ccc1)Nc2ccccc2C(=O)O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C14H10F3NO2/c15-14(16,17)9-4-3-5-10(8-9)18-12-7-2-1-6-11(12)13(19)20/h1-8,18H,(H,19,20)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = LPEPZBJOKDYZAD-UHFFFAOYSA-N
+| melting_point = 124
+| melting_high = 125
+| melting_notes = resolidification and remelting at 134°C to 136°C
+| solubility = Practically insoluble in water; soluble in [[ethanol]], [[chloroform]] and [[diethyl ether]]
+}}
+
+'''Flufenamic acid''' is a member of the [[Nonsteroidal_anti-inflammatory_drug#Anthranilic_acid_derivatives_.28Fenamates.29|anthranilic acid derivatives]] (or fenamate) class of [[NSAID]] drugs<ref name=Whitehouse/>{{rp|718}}  Like other members of the class, it is a [[COX]] inhibitor and prevents formation of [[prostaglandins]].<ref name=LiverTox/> Flufenamic acid is known to bind to and reduce the activity of [[AKR1C3|prostaglandin F synthase]] and activate [[TRPC6]].<ref>{{cite web | title=Chemical–Gene Interaction Query: Flufenamic Acid (Homo sapiens) | url=http://ctdbase.org/query.go?type=ixn&chemqt=equals&chem=name%3AFlufenamic+Acid&actionDegreeTypes=increases&actionDegreeTypes=decreases&actionDegreeTypes=affects&actionTypes=activity&actionTypes=binding&geneqt=equals&gene=&pathwayqt=equals&pathway=&taxonqt=equals&taxon=TAXON%3A9606&goqt=equals&go=&sort=chemNmSort&perPage=500&action=Search|website=Comparative Toxicogenomics Database | publisher=North Carolina State University | accessdate=4 July 2015}}</ref> 
+
+It is not widely used in humans as it has a high rate (30-60%) of gastrointestinal side effects.<ref>Jeffrey K. Aronson. Meyler's Side Effects of Analgesics and Anti-inflammatory Drugs. Elsevier, 2009 {{ISBN|9780080932941}}</ref>{{rp|310}}  It is generally not available in the US.<ref name=LiverTox>NIH LiverTox Database [http://livertox.nih.gov/MefenamicAcid.htm Mefenamic Acid] Last updated June 23, 2015. Page accessed July 3, 2015. Quote: "(fenamates generally not available in the United States, such as tolfenamic acid and flufenamic acid)"</ref> It is available in some Asian and European countries as a generic.<ref>Drugs.com [http://www.drugs.com/international/flufenamic-acid.html Drugs.com international listings for flufenamic acid] Page accessed July 3, 2015</ref>
+
+Scientists led by Claude Winder from [[Parke-Davis]] invented flufenamic acid in 1963, along with fellow members of the class, [[mefenamic acid]] in 1961 and [[meclofenamate sodium]] in 1964.<ref name=Whitehouse>Whitehouse M. Drugs to Treat Inflammation: A Historical Overview. pp 707-729 in Frontiers in Medicinal Chemistry, Volume 4. Eds Rahman A, et al. Bentham Science Publishers, 2009 {{ISBN|9781608052073}}</ref>{{rp|718}}
+
+==References==
+{{Reflist|2}}
+
+
+{{Anti-inflammatory and antirheumatic products}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{GABAA receptor positive modulators}}
+{{Ion channel modulators}}
+{{Ionotropic glutamate receptor modulators}}
+{{Prostanoid signaling modulators}}
+{{Transient receptor potential channel modulators}}
+}}
+
+{{DEFAULTSORT:Flufenamic Acid}}
+
+[[Category:Anthranilic acids]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:NMDA receptor antagonists]]
+
+
+{{musculoskeletal-drug-stub}}

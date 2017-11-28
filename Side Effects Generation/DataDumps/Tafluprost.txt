@@ -1,0 +1,92 @@
+{{Drugbox
+| IUPAC_name = Isopropyl (5''Z'')-7-<nowiki/>{(1''R'',2''R'',3''R'',5''S'')-2-[(1''E'')-3,3-difluoro-4-phenoxybut-1-en-1-yl]-3,5-dihydroxycyclopentyl}hept-5-enoate
+| image = Tafluprost_structure.svg
+
+<!--Clinical data-->
+| tradename = Saflutan, Taflotan, Tapros, Zioptan
+| Drugs.com = {{drugs.com|MTM|tafluprost-ophthalmic}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = C
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = Topical ([[eye drop]]s)
+
+<!--Pharmacokinetic data-->
+| bioavailability   = 
+| protein_bound     = 
+| metabolism        = Activation by ester [[hydrolysis]], deactivation by [[beta oxidation]]
+| metabolites       = 
+| onset             = 2–4 hrs
+| elimination_half-life = 
+| duration_of_action = ≥ 24 hrs
+| excretion         = 
+
+<!--Identifiers-->
+| CAS_number = 209860-87-7
+| ATC_prefix = S01
+| ATC_suffix = EE05
+| ATC_supplemental =  
+| PubChem = 6433101
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 66899
+| DrugBank = DB08819
+| ChEMBL = 1963683
+| ChemSpiderID = 8044182
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 1O6WQ6T7G3
+| KEGG = D06274
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=25 | H=34 | F=2 | O=5 
+| molecular_weight = 452.531266 g/mol
+| smiles = CC(C)OC(=O)CCC\C=C/CC(C(O)CC1O)C1\C=C\C(F)(F)COc2ccccc2
+| StdInChI = 1S/C25H34F2O5/c1-18(2)32-24(30)13-9-4-3-8-12-20-21(23(29)16-22(20)28)14-15-25(26,27)17-31-19-10-6-5-7-11-19/h3,5-8,10-11,14-15,18,20-23,28-29H,4,9,12-13,16-17H2,1-2H3/b8-3-,15-14+/t20-,21-,22+,23-/m1/s1
+| StdInChIKey = WSNODXPBBALQOF-VEJSHDCNSA-N
+}}
+
+'''Tafluprost''' (trade names '''Taflotan''' by [[Santen Pharmaceutical]] and '''Zioptan''' by Merck in the US) is a [[prostaglandin analogue]]. It is used topically (as [[eye drop]]s) to control the progression of [[open-angle glaucoma]] and in the management of [[ocular hypertension]], alone or in combination with other medication. It reduces [[intraocular pressure]] by increasing the outflow of [[Aqueous humour|aqueous fluid]] from the eyes.<ref name="PPA" /><ref name="AC" />
+
+==Adverse effects==
+The most common side effect is [[conjunctival hyperemia]], which occurs in 4 to 20% of patients. Less common side effects include stinging of the eyes, headache, and [[respiratory infection]]s. Rare side effects are [[dyspnoea]] (breathing difficulties), worsening of [[asthma]], and [[macular oedema]].<ref name="PPA" /><ref name="AC" /><ref name="Dinnendahl" />
+
+==Interactions==
+[[Nonsteroidal anti-inflammatory drug]]s (NSAIDs) can either reduce or increase the effect of tafluprost.<ref name="PPA" /> [[Timolol]] eye drops, a common kind of glaucoma medication, does not negatively interact with this drug.<ref name="AC" />
+
+No interactions with systemic (for example, oral) drugs are expected because tafluprost does not reach relevant concentrations in the bloodstream.<ref name="AC" /><ref name="Dinnendahl" />
+
+==Pharmacology==
+===Mechanism of action===
+Tafluprost is a [[prodrug]] of the active substance, tafluprost acid, a [[structural analogue|structural]] and [[Functional analog (chemistry)|functional analogue]] of [[prostaglandin F2α|prostaglandin F<sub>2α</sub>]] (PGF<sub>2α</sub>). Tafluprost acid is a selective [[agonist]] at the [[prostaglandin F receptor]], increasing outflow of aqueous fluid from the eyes and thus lowering intraocular pressure.<ref name="AC" /><ref name="Dinnendahl" />
+
+Other PGF<sub>2α</sub> analogues with the same mechanism include [[latanoprost]] and [[travoprost]].<ref name="AC" />
+
+===Pharmacokinetics===
+Tafluprost, as a [[lipophilic]] [[ester]], easily penetrates the [[cornea]] and is then activated to the [[carboxylic acid]], tafluprost acid. Onset of action is 2 to 4 hours after application, the maximal effect is reached after 12 hours, and ocular pressure remains lowered for at least 24 hours.<ref name="AC" /><ref name="Dinnendahl" />
+
+Tafluprost acid is inactivated by [[beta oxidation]] to 1,2-dinortafluprost acid, 1,2,3,4-tetranortafluprost acid, and its [[lactone]], which are subsequently [[glucuronidated]] or [[hydroxylated]]. The [[cytochrome P450]] liver enzymes play no role in the metabolism.<ref name="Dinnendahl" />
+
+An analogous pathway (at least up to the tetranor-metabolites) has been found for latanoprost and travoprost.
+
+[[File:Tafluprost metabolism.svg|thumb|left|upright=3|'''Metabolism'''. From left to right: tafluprost, tafluprost acid (the [[active metabolite]]), 1,2-dinortafluprost acid, 1,2,3,4-tetranortafluprost acid, 1,2,3,4-tetranortafluprost acid lactone<ref name="Fukano09" /><ref name="Fukano11" />]]
+[[File:TAPCOM combination ophthalmic solution.jpg|thumb|A tafluprost/[[timolol]] combination ophthalmic solution]]
+{{clear left}}
+
+==References==
+{{Reflist|35em|refs=
+<ref name="PPA">Tafluprost {{drugs.com|PPA|tafluprost}}.</ref>
+<ref name="AC">{{cite book|title=Austria-Codex|editor=Haberfeld, H|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2015|language=German}}</ref>
+<ref name="Dinnendahl">{{cite book|title=Arzneistoff-Profile|editor1=Dinnendahl, V |editor2=Fricke, U |publisher=Govi Pharmazeutischer Verlag|location=Eschborn, Germany|date=2011|edition=25|volume=9|isbn=978-3-7741-9846-3|language=German}}</ref>
+<ref name="Fukano09">{{cite journal|pmid=19477946|year=2009|author1=Fukano|first1=Y|title=Disposition and metabolism of a novel prostanoid antiglaucoma medication, tafluprost, following ocular administration to rats|journal=Drug Metabolism and Disposition|volume=37|issue=8|pages=1622–34|last2=Kawazu|first2=K|doi=10.1124/dmd.108.024885}}</ref>
+<ref name="Fukano11">{{cite journal|pmid=21491995|year=2011|author1=Fukano|first1=Y|title=Metabolism and ocular tissue distribution of an antiglaucoma prostanoid, tafluprost, after ocular instillation to monkeys|journal=Journal of Ocular Pharmacology and Therapeutics|volume=27|issue=3|pages=251–9|last2=Kawazu|first2=K|last3=Akaishi|first3=T|last4=Bezwada|first4=P|last5=Pellinen|first5=P|doi=10.1089/jop.2010.0178}}</ref>
+}}
+
+{{Prostaglandins}}
+{{Antiglaucoma preparations and miotics}}
+{{Prostanoidergics}}
+
+[[Category:Prostaglandins]]

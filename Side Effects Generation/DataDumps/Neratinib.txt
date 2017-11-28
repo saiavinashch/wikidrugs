@@ -1,0 +1,85 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 462259601
+| IUPAC_name = (2''E'')-N-[4-<nowiki>[[</nowiki>3-Chloro-4-[(pyridin-2-yl)methoxy]phenyl]amino]-3-cyano-7-ethoxyquinolin-6-yl]-4-(dimethylamino)but-2-enamide
+| image = Neratinib skeletal.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5686
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 698387-09-6
+| CAS_supplemental =  
+| ATC_prefix = none
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem = 9915743
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 8091392
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = JJH94R3PWB
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08950
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 180022
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=30 | H=29 | Cl=1 | N=6 | O=3 
+| molecular_weight = 557.04 g/mol
+| smiles = O=C(/C=C/CN(C)C)Nc4cc1c(ncc(C#N)c1Nc3ccc(OCc2ncccc2)c(Cl)c3)cc4OCC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C30H29ClN6O3/c1-4-39-28-16-25-23(15-26(28)36-29(38)9-7-13-37(2)3)30(20(17-32)18-34-25)35-21-10-11-27(24(31)14-21)40-19-22-8-5-6-12-33-22/h5-12,14-16,18H,4,13,19H2,1-3H3,(H,34,35)(H,36,38)/b9-7+
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = JWNPDZNEKVCWMY-VQHVLOKHSA-N
+}}
+'''Neratinib''' ('''HKI-272''')<ref>{{cite web|title=Neratinib|url=http://adisinsight.springer.com/drugs/800021154|publisher=AdisInsight|accessdate=22 May 2017|language=en}}</ref> is a [[tyrosine kinase inhibitor]] anticancer drug.<ref name="urlDefinition of neratinib - National Cancer Institute Drug Dictionary">{{cite web |url=http://www.cancer.gov/Templates/drugdictionary.aspx?CdrID=453548 |title=Definition of neratinib - National Cancer Institute Drug Dictionary |format= |work= |accessdate=2008-12-01}}</ref><ref name="pmid15173008">{{cite journal  |vauthors=Rabindran SK, Discafani CM, Rosfjord EC, etal |title=Antitumor activity of HKI-272, an orally active, irreversible inhibitor of the HER-2 tyrosine kinase |journal=Cancer Res. |volume=64 |issue=11 |pages=3958–65 |date=June 2004 |pmid=15173008 |doi=10.1158/0008-5472.CAN-03-2868 |url=http://cancerres.aacrjournals.org/cgi/pmidlookup?view=long&pmid=15173008}}</ref>
+
+Like [[lapatinib]] and [[afatinib]], it is a dual inhibitor of the [[human epidermal growth factor receptor 2]] (Her2) and [[epidermal growth factor receptor]] (EGFR) kinases.<ref name="pmid17311002">{{cite journal  |vauthors=Minami Y, Shimamura T, Shah K, etal |title=The major lung cancer-derived mutants of ERBB2 are oncogenic and are associated with sensitivity to the irreversible EGFR/ERBB2 inhibitor HKI-272 |journal=Oncogene |volume=26 |issue=34 |pages=5023–7 |date=July 2007 |pmid=17311002 |doi=10.1038/sj.onc.1210292}}</ref> It inhibits them by covalently binding with a cysteine side chain in those proteins.<ref>{{cite journal|last1=Singh|first1=J|last2=Petter|first2=RC|last3=Baillie|first3=TA|last4=Whitty|first4=A|title=The resurgence of covalent drugs.|journal=Nature reviews. Drug discovery|date=April 2011|volume=10|issue=4|pages=307-17|doi=10.1038/nrd3410|pmid=21455239}}</ref>
+
+Neratinib has an IC<sub>50</sub> of 59 nM against HER2 and shows weak inhibition against KDR and Scr with IC<sub>50</sub> values of 0.8 µM and 1.4 µM, respectively. In BT474 cells, neratinib reduces HER2 autophosphorylation, and inhibited cyclin D1 expression while reduced proliferation has been observed A431 cells when treated with neratinib at concentrations of 3 or 5 nM.  In xenograft models with 3T3/neu tumors oral administration of neratinib at 10, 20, 40 or 80 mg/kg was able to inhibit tumor growth while in SK-OV-3 models doses of 5 and 60 mg/kg significantly inhibited tumor growth.<ref>https://www.medchemexpress.com/Neratinib.html</ref>
+
+== History==
+Neratinib was discovered and initially developed by [[Wyeth]]; [[Pfizer]] continued development up to Phase III in breast cancer, and sold it to Puma Biotechnology in 2011. 
+
+In September 2016 Puma submitted a [[new drug application]] to the US FDA for neratinib as a treatment for some people with HER-2 positive breast cancer.<ref>{{cite news|last1=Sagonowsky|first1=Eric|title=Cancer hopeful neratinib plagued by diarrhea, analysis shows, but Puma cites a solution|url=http://www.fiercepharma.com/pharma/puma-s-neratinib-comes-safety-risks-advera-report-says|work=FiercePharma|date=September 27, 2016|language=en}}</ref>
+
+In July 2017 it was approved by the [[US FDA]] for [[adjuvant treatment]] of adult patients with early stage [[HER2]]-overexpressed/amplified breast cancer, (after  adjuvant trastuzumab-based therapy).<ref name=FDA-01>[https://www.fda.gov/drugs/informationondrugs/approveddrugs/ucm567259.htm FDA approves neratinib for extended adjuvant treatment of early stage HER2-positive breast cancer. July 2017]</ref>
+
+==References==
+{{Reflist|2}}
+
+
+{{Extracellular chemotherapeutic agents}}
+{{Growth factor receptor modulators}}
+
+[[Category:Receptor tyrosine kinase inhibitors]]
+[[Category:Pyridines]]
+[[Category:Phenol ethers]]
+[[Category:Chloroarenes]]
+[[Category:Aromatic amines]]
+[[Category:Quinolines]]
+[[Category:Nitriles]]
+[[Category:Carboxamides]]
+[[Category:Alkene derivatives]]

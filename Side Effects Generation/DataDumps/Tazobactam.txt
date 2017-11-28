@@ -1,0 +1,78 @@
+{{distinguish|Teixobactin}}
+
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470478033
+| IUPAC_name = (2''S'',3''S'',5''R'')-3-Methyl-7-oxo-3-(1''H''-1,2,3-triazol-1-ylmethyl)-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid 4,4-dioxide
+| image = Tazobactam structure.svg
+| image2 = Tazobactam ball-and-stick.png
+
+<!--Clinical data-->
+| tradename =
+| Drugs.com = {{drugs.com|international|tazobactam}}
+| pregnancy_category = B
+| legal_status = ℞-only
+| routes_of_administration = Intravenous 
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 89786-04-9
+| ATC_prefix = J01
+| ATC_suffix = CG02
+| ATC_supplemental =  
+| PubChem = 123630
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01606
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 9421
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 110216
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = SE10G96M8W
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00660
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 404
+
+<!--Chemical data-->
+| C=10 | H=12 | N=4 | O=5 | S=1
+| molecular_weight = 300.289 g/mol
+| smiles = O=S2(=O)[C@]([C@@H](N1C(=O)C[C@H]12)C(=O)O)(Cn3nncc3)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H12N4O5S/c1-10(5-13-3-2-11-12-13)8(9(16)17)14-6(15)4-7(14)20(10,18)19/h2-3,7-8H,4-5H2,1H3,(H,16,17)/t7-,8+,10+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = LPQZKKCYTLCDGQ-WEDXCCLWSA-N
+}}
+
+'''Tazobactam''' is a [[pharmaceutical drug]] that [[enzyme inhibition|inhibits]] the action of bacterial [[beta-lactamase|β-lactamases]], especially those belonging to the SHV-1 and TEM groups. It is commonly used as its sodium [[salt (chemistry)|salt]], tazobactam sodium.
+
+Tazobactam is combined with the [[beta-lactam antibiotic|extended spectrum β-lactam]] [[antibiotic]] [[piperacillin]] in the drug [[piperacillin/tazobactam]], used in infections due ''[[Pseudomonas aeruginosa]]''. Tazobactam broadens the spectrum of piperacillin by making it effective against organisms that express [[β-lactamase]] and would normally degrade piperacillin.<ref>{{cite journal | vauthors = Yang Y, Rasmussen BA, Shlaes DM | title = Class A beta-lactamases—enzyme-inhibitor interactions and resistance | journal = Pharmacol Ther. | date = 1999 | volume = 83 | pages = 141–151 | doi = 10.1016/S0163-7258(99)00027-3}}</ref>
+
+Tazobactam is a heavily modified [[penicillin]] and a [[sulfone]].
+
+Tazobactam was patented in 1982 and came into medical use in 1992.<ref>{{cite book|last1=Fischer|first1=Janos|last2=Ganellin|first2=C. Robin|title=Analogue-based Drug Discovery|date=2006|publisher=John Wiley & Sons|isbn=9783527607495|page=490|url=https://books.google.ca/books?id=FjKfqkaKkAAC&pg=PA490|language=en}}</ref>
+
+==See also==
+* [[Ceftolozane]]
+* [[Sulbactam]]
+* [[Clavulanic_acid|Clavulanate]]
+
+==References==
+{{reflist}}
+
+{{PenicillinAntiBiotics}}
+
+[[Category:Beta-lactam antibiotics]]
+[[Category:Beta-lactamase inhibitors]]
+[[Category:Sulfones]]
+[[Category:Triazoles]]
+
+
+{{antibiotic-stub}}

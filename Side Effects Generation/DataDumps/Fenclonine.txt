@@ -1,0 +1,68 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 449580729
+| IUPAC_name = (''S'')-2-Amino-3-(4-chlorophenyl)propanoic acid
+| image = Fenclonine.svg
+| width = 150
+
+<!--Clinical data-->
+| tradename =
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only  / Schedule I, II, III, IV, V -->
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5240
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 7424-00-2
+| ATC_prefix = None
+| PubChem = 4652
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4491
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = R5J7E3L9SP
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D04143
+| synonyms = CP-10188; Fenclonina; Fencloninum; NSC-77370; Parachlorophenylalanine<ref>"Fenclonine" entry in Martindale – The Complete Drug Reference. Maintained in Martindale purely for archival purposes, and is no longer subject to revision and update. (Last reviewed: 2008-08-01; last modified: 2011-09-12). The Royal Pharmaceutical Society of Great Britain 2014</ref>
+
+<!--Chemical data-->
+| C=9 | H=10 | Cl=1 | N=1 | O=1
+| molecular_weight = 199.634 g/mol
+| solubility =
+| melting_point = 240
+| boiling_point = 339.5
+| density = 1.336
+| smiles = Clc1ccc(cc1)CC(C(=O)O)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C9H10ClNO2/c10-7-3-1-6(2-4-7)5-8(11)9(12)13/h1-4,8H,5,11H2,(H,12,13)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = NIGWMJHCCYYCSF-UHFFFAOYSA-N
+}}
+
+'''Fenclonine''', also known as '''''para''-chlorophenylalanine''' ('''PCPA'''), acts as a selective and irreversible inhibitor of [[tryptophan hydroxylase]], which is a rate-limiting enzyme in the biosynthesis of [[serotonin]].<ref name=Jouvet>Jouvet M Sleep and serotonin: an unfinished story. Neuropsychopharmacology. 1999 Aug;21(2 Suppl):24S-27S. {{PMID|10432485}}</ref>
+
+It has been used experimentally to treat [[carcinoid syndrome]], but the side effects, mostly hypersensitivity reactions and psychiatric disturbances, have prevented development for this use.<ref>Kvols LK. Metastatic carcinoid tumors and the carcinoid syndrome. A selective review of chemotherapy and hormonal therapy. (Am J Med. 1986 Dec 22;81(6B):49-55. {{PMID|2432781}}</ref>
+
+The effects of serotonin depletion from fenclonine are so drastic that serotonin cannot even be detected [[Histology|immunohistochemically]] within the first day after administration of a control dose. Tryptophan hydroxylase activity can be detected neither in cell bodies or nerve terminals. After one week 10% of control values (the baseline extrapolated for the study) had replenished in the raphe nucleus, and after two weeks from initial treatment as much was again detected in the hypothalamus region. Aromatic <small>L</small>-amino acid decarboxylase (AADC) levels were at no time affected.<ref>[http://www.ncbi.nlm.nih.gov/pubmed/8015380 Early induction of rat brain tryptophan hydroxylase (TPH) mRNA following parachlorophenylalanine (PCPA) treatment.] Brain Res Mol Brain Res. 1994 Mar;22(1-4):20-8. {{PMID|8015380}}</ref>
+
+It is used in scientific research in humans<ref>Ruhé HG, Mason NS, Schene AH. Mood is indirectly related to serotonin, norepinephrine and dopamine levels in humans: a meta-analysis of monoamine depletion studies. Mol Psychiatry. 2007 Apr;12(4):331-59. {{PMID|17389902}}</ref> and animals<ref name=Jouvet /> to investigate the effects of serotonin depletion.
+
+== See also ==
+* [[Metirosine|α-Methyl-''para''-tyrosine]] (AMPT, metirosine)
+* [[Para-Chloroamphetamine|''para''-Chloroamphetamine]] (PCA)
+* [[Telotristat ethyl]] (Xermelo)
+
+== References ==
+{{Reflist|30em}}
+
+{{Monoamine metabolism modulators}}
+{{Phenethylamines}}
+
+[[Category:Amino acid derivatives]]
+[[Category:Chloroarenes]]
+[[Category:Tryptophan hydroxylase inhibitors]]
+
+{{nervous-system-drug-stub}}

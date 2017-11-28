@@ -1,0 +1,62 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 464213580
+| IUPAC_name = (11β)-11,17,21-trihydroxy-16-methylenepregna-1,4-diene-3,20-dione
+| image = Prednylidene.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_UK = <!-- GSL         / P       / POM / CD -->
+| legal_US = <!-- OTC                   / Rx-only  -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 599-33-7
+| ATC_prefix = H02
+| ATC_suffix = AB11
+| PubChem = 20055008
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 16735979
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = IF8PQP966U
+
+<!--Chemical data-->
+| C=22 | H=28 | O=5 
+| molecular_weight = 372.455
+| smiles = OCC(=O)[C@@]2(O)C(=C)C[C@H]3[C@@H]4CC\C1=C\C(=O)\C=C/[C@]1(C)[C@H]4[C@@H](O)C[C@]23C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H28O5/c1-12-8-16-15-5-4-13-9-14(24)6-7-20(13,2)19(15)17(25)10-21(16,3)22(12,27)18(26)11-23/h6-7,9,15-17,19,23,25,27H,1,4-5,8,10-11H2,2-3H3/t15-,16-,17-,19+,20-,21-,22-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WSVOMANDJDYYEY-CWNVBEKCSA-N
+| synonyms = <small>(8''S'',9''S'',10''R'',11''S'',13''S'',14''S'',17''R'')-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-16-methylidene-6,7,8,9,11,12,14,15-octahydrocyclopenta[''a'']phenanthren-3-one</small>
+}}
+
+'''Prednylidene''' is a [[glucocorticoid]]<ref name="pmid10423179">{{cite journal |vauthors=Buttgereit F, Brand MD, Burmester GR |title=Equivalent doses and relative drug potencies for non-genomic glucocorticoid effects: a novel glucocorticoid hierarchy |journal=Biochem. Pharmacol. |volume=58 |issue=2 |pages=363–8 |date=July 1999 |pmid=10423179 |doi= 10.1016/S0006-2952(99)00090-8|url=http://linkinghub.elsevier.com/retrieve/pii/S0006-2952(99)00090-8}}</ref> for systemic use.
+
+Substitution at position 16 also leads to more potent corticosteroids. The additional steric bulk introduced by such substituents adjacent to the dihydroxyacetone side chain also protects that moiety against metabolic degradation.
+
+==References==
+{{Reflist}}
+
+{{Glucocorticoids}}
+{{Glucocorticoidics}}
+
+[[Category:Glucocorticoids]]
+
+
+{{systemic-hormonal-drug-stub}}

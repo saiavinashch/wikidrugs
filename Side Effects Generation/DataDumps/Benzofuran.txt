@@ -1,0 +1,87 @@
+{{about|the heterocyclic chemical compound|its purportedly recreational derivative drug, nicknamed "Benzo Fury"|6-APB}}
+{{Use dmy dates|date=June 2013}}
+{{chembox
+| Watchedfields = changed
+| verifiedrevid = 443666007
+|   Name = Benzofuran
+| PIN = 1-Benzofuran<ref name=iupac2013>{{cite book | title =  Nomenclature of Organic Chemistry : IUPAC Recommendations and Preferred Names 2013 (Blue Book) | publisher = [[Royal Society of Chemistry|The Royal Society of Chemistry]] | date = 2014 | location = Cambridge | page = 218 | doi = 10.1039/9781849733069-FP001 | isbn = 978-0-85404-182-4}}</ref>
+| OtherNames = Benzofuran<ref name=iupac2013 /><br />Coumarone<br />Benzo[''b'']furan
+|   ImageFile = Benzofuran 2D numbered.svg
+|   ImageSize = 160
+|   ImageAlt = Skeletal formula with numbering convention
+|   ImageFileL1 = Benzofuran-3D-balls.png
+|   ImageSizeL1 = 140
+|   ImageAltL1 = Ball-and-stick model
+|   ImageFileR1 = Benzofuran-3D-spacefill.png
+|   ImageSizeR1 = 120
+|   ImageAltR1 = Space-filling model
+| Section1 = {{Chembox Identifiers
+|   ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 8868
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 363614
+| PubChem = 9223
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = C14512
+| InChI = 1/C8H6O/c1-2-4-8-7(3-1)5-6-9-8/h1-6H
+| InChIKey = IANQTJSKSUMEQM-UHFFFAOYAU
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C8H6O/c1-2-4-8-7(3-1)5-6-9-8/h1-6H
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IANQTJSKSUMEQM-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo = 271-89-6
+|   UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = LK6946W774
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 35260
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB04179
+| SMILES = o2c1ccccc1cc2
+}}
+| Section2 = {{Chembox Properties
+|C=8|H=6|O=1
+|   MeltingPtC = −18 
+|   BoilingPtC = 173
+}}
+| Section4 = {{Chembox Hazards
+|  LD50 = 500 mg/kg (mice).<ref name=Ullmann/>
+}}
+}}
+
+'''Benzofuran''' is the [[heterocyclic compound]] consisting of fused [[benzene]] and [[furan]] rings. This colourless liquid is a component of [[coal tar]]. Benzofuran is the "parent" of many related compounds with more complex structures. For example, [[psoralen]] is a benzofuran derivative that occurs in several plants.
+
+==Production==
+Benzofuran is extracted from coal tar. It is also obtained by [[dehydrogenation]] of 2-ethyl[[phenol]].<ref name=Ullmann>{{ cite encyclopedia |author1=Collin, G. |author2=Höke, H. | title = Benzofurans | encyclopedia = Ullmann's Encyclopedia of Industrial Chemistry | year = 2007 | publisher = Wiley-VCH | location = Weinheim | doi = 10.1002/14356007.l03_l01 }}</ref>
+
+===Laboratory methods===
+Benzofurans can be prepared by various methods in the laboratory. Notable examples include:
+*''O''-alkylation of [[salicylaldehyde]] with chloroacetic acid followed by [[Dehydration reaction|dehydration]] (cyclication) of the resulting [[ether]] and decarboxylation.<ref>{{ OrgSynth | author = Burgstahler, A. W. |author2=Worden, L. R. | title = Coumarone | year = 1966 | volume = 46 | pages = 28 | collvol = 5 | collvolpages = 251 | prep = cv5p0251 | url = http://www.orgsyn.org/Content/pdfs/procedures/cv5p0251.pdf }}</ref>
+[[File:Benzofuran.png|500px]]
+
+*[[Perkin rearrangement]], where a [[coumarin]] is reacted with a [[hydroxide]]:<ref>{{ cite journal | author = Perkin, W. H. | authorlink = W. H. Perkin | title = XXIX. On some New Bromine Derivatives of Coumarin | journal = [[Journal of the Chemical Society]] | year = 1870 | volume = 23 | pages = 368–371 | doi = 10.1039/JS8702300368 }}</ref><ref>{{ cite journal | author = Perkin, W. H. | authorlink = W. H. Perkin | title = IV. On some New Derivatives of Coumarin | journal = [[Journal of the Chemical Society]] | year = 1871 | volume = 24 | pages = 37–55 | doi = 10.1039/JS8712400037 }}</ref><ref>{{ cite journal |author1=Bowden, K. |author2=Battah, S. | title = Reactions of Carbonyl Compounds in Basic Solutions. Part 32. The Perkin Rearrangement | journal = [[Journal of the Chemical Society, Perkin Transactions 2]] | year = 1998 | volume = 1998 | issue = 7 | pages = 1603–1606 | doi = 10.1039/a801538d }}</ref>
+:[[Image:Perkin rearrangement.svg|Perkin rearrangement|450px]]
+
+*[[Diels–Alder reaction]] of [[Nitroalkene|nitro vinyl]] [[furans]] with various [[dienophile]]s:<ref>{{cite journal|last=Kusurkar|first=R. S.|author2=Bhosale, D. K.|title=Novel Synthesis of Benzosubstituted Benzofurans Via Diels-Alder Reaction|journal=Synthetic Communications|date=1990|volume=20|issue=1|pages=101–109|doi=10.1080/00397919008054620|url=http://dx.doi.org/10.1080/00397919008054620|accessdate=11 February 2014}}</ref>
+:[[image:Benzofuran synthesis via a Diels-Alder reaction on vinyl furans.png|Diels–Alder reaction yielding a substituted benzofuran|450px]]
+
+*[[Isomerization|Cycloisomerization]] of [[alkyne]] [[Arene substitution pattern|ortho-substituted]] [[phenols]]:<ref>{{cite journal|author1=Fürstner, Alois  |author2=Davies, Paul |lastauthoramp=yes |title=Heterocycles by PtCl2-Catalyzed Intramolecular Carboalkoxylation or Carboamination of Alkynes|journal=Journal of the American Chemical Society|date=2005|volume=127|issue=43|pages=15024–15025|doi=10.1021/ja055659p|url=http://pubs.acs.org/doi/abs/10.1021/ja055659p|accessdate=11 February 2014}}</ref>
+:[[image:Benzofurans via Cycloisomerization of Alkynes.png|Benzofurans via Cycloisomerization|400px]]
+
+==Related compounds==
+* [[Substituted benzofuran]]s
+* [[Furan]], an analog without the fused [[benzene]] ring.
+* [[Indole]], an analog with a [[nitrogen]] instead of the [[oxygen]] [[atom]].
+* [[Benzothiophene]], an analog with a [[sulfur]] instead of the [[oxygen]] [[atom]].
+* [[Isobenzofuran]], the isomer with oxygen in the adjacent position.
+* [[Aurone]]
+* [[Thunberginol F]]
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+[[Category:Benzofurans| ]]
+[[Category:IARC Group 2B carcinogens]]
+[[Category:Simple aromatic rings]]

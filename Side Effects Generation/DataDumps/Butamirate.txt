@@ -1,0 +1,87 @@
+{{Drugbox
+| verifiedrevid = 447812394
+| IUPAC_name = 2-(2-diethylaminoethoxy)ethyl 2-phenylbutanoate
+| image = Butamirate.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|butamirate}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+
+<!--Pharmacokinetic data-->
+| protein_bound = 98%
+| elimination_half-life = 6 hours
+| excretion = 90% renal
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 18109-80-3
+| ATC_prefix = R05
+| ATC_suffix = DB13
+| PubChem = 28892
+| ChEMBL = 1332546
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 26873
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = M75MZG2236
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07594
+
+<!--Chemical data-->
+| C=18 | H=29 | N=1 | O=3 
+| molecular_weight = 307.428 g/mol
+| smiles = O=C(OCCOCCN(CC)CC)C(c1ccccc1)CC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C18H29NO3/c1-4-17(16-10-8-7-9-11-16)18(20)22-15-14-21-13-12-19(5-2)6-3/h7-11,17H,4-6,12-15H2,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = DDVUMDPCZWBYRA-UHFFFAOYSA-N
+}}
+'''Butamirate''' (or '''brospamin''') is a [[cough suppressant]].<ref>{{Cite journal 
+| last1 = Germouty | first1 = J. 
+| last2 = Weibel | first2 = M. A. 
+| title = Clinical comparison of butamirate citrate with a codeine-based antitussive agent 
+| journal = Revue medicale de la Suisse romande 
+| volume = 110 
+| issue = 11 
+| pages = 983–986 
+| year = 1990 
+| pmid = 1980027
+}}</ref>
+
+A study found it to bind to the cough center in the [[medulla oblongata]], more specifically the [[dextromethorphan]]-binding site in guinea pig brain with high affinity.<ref>{{Cite journal 
+| last1 = Klein | first1 = M. 
+| last2 = Musacchio | first2 = J. M. 
+| title = High affinity dextromethorphan binding sites in guinea pig brain. Effect of sigma ligands and other agents 
+| journal = The Journal of Pharmacology and Experimental Therapeutics 
+| volume = 251 
+| issue = 1 
+| pages = 207–215 
+| year = 1989 
+| pmid = 2477524
+}}</ref>
+
+As a 2-(2-diethylaminoethoxy)ethyl ester, it is chemically related to [[oxeladin]] and [[pentoxyverine]], which are in the same class. (Oxeladin has an additional ethyl group in its carboxylic acid, pentoxyverine has both ethyl groups of oxeladin replaced by one cyclopentyl in the same place.) 
+
+<gallery>
+File:Oxeladin.png|[[Oxeladin]]
+File:Pentoxyverine skeletal.svg|[[Pentoxyverine]]
+</gallery>
+
+==References==
+{{reflist}}
+
+{{Cough and cold preparations}}
+
+[[Category:Antitussives]]
+[[Category:Amines]]
+[[Category:Butyrates]]
+[[Category:Ethers]]
+
+
+{{respiratory-system-drug-stub}}

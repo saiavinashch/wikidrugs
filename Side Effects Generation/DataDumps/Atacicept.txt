@@ -1,0 +1,56 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 459589892
+| IUPAC_name = 
+| image = 
+<!-- Clinical data -->
+| tradename = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled -->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Investigational
+| routes_of_administration = 
+<!-- Pharmacokinetic data -->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 845264-92-8
+| ATC_prefix = none
+| ATC_suffix = 
+| ATC_supplemental = 
+| PubChem = 
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = K3D9A0ICQ3
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D09704
+| synonyms = 
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+<!-- Chemical data -->
+| chemical_formula = | C= | H= | N= | O=
+| molecular_weight = 71 kg/mol
+| smiles = 
+}}
+'''Atacicept''' is a [[recombinant fusion protein]] designed to inhibit [[B cell]]s, thereby suppressing [[autoimmune disease]]. The designer protein combines the binding site for two [[cytokine]]s that regulate maturation, function, and survival of B cells - [[B-lymphocyte stimulator]] (BLyS) and [[A proliferation-inducing ligand]] (APRIL), with the constant region of [[immunoglobin]].<ref>{{cite journal |pmid=21179612 |title=Atacicept: targeting B cells in multiple sclerosis |author=Hartung HP | doi=10.1177/1756285610371146 |volume=3 |issue=4 |pmc=3002656 |date=July 2010 |journal=Ther Adv Neurol Disord |pages=205–16|display-authors=etal}}</ref> Atacicept blocks activation of B cells by the tumor necrosis factor receptor superfamily member 13B (more commonly known as [[TACI]]), a transmembrane receptor protein found predominantly on the surface of B cells. Like the [[monoclonal antibody]] [[belimumab]], atacicept blocks the binding of BLyS, but it also blocks APRIL. Binding of these TACI ligands induces proliferation, activation, and longevity of B cells and thus their production of [[autoantibodies]].<ref>{{cite web|url=http://www.wellsphere.com/multiple-sclerosis-ms-article/merck-serono-and-zymogenetics-initiate-atacicept-phase-2-clinical-trial-in-relapsing-multiple-sclerosis/562995 |title=Merck Serono and ZymoGenetics Initiate Atacicept Phase 2 Clinical Trial in Relapsing Multiple Sclerosis |deadurl=yes |archiveurl=https://web.archive.org/web/20100823135133/http://www.wellsphere.com/multiple-sclerosis-ms-article/merck-serono-and-zymogenetics-initiate-atacicept-phase-2-clinical-trial-in-relapsing-multiple-sclerosis/562995 |archivedate=2010-08-23 |df= }}</ref> Atacicept is thought to selectively impair mature B cells and plasma cells with less impact on [[progenitor cell]]s and [[memory B cell]]s.<ref>{{cite web |url=http://jcp.sagepub.com/cgi/content/abstract/48/4/406 |title=Pharmacokinetics and Biological Activity of Atacicept in Patients With Rheumatoid Arthritis |author=Nestorov|display-authors=etal}}</ref> 
+
+Studies have looked at atacicept in animal models of autoimmune disease and in patients with systemic lupus erythematosus (SLE), rheumatoid arthritis (RA), and optic neuritis.<ref name="DOTF">{{cite web |url=http://journals.prous.com/journals/servlet/xmlxsl/pk_journals.xml_summary_pr?p_JournalId=2&p_RefId=1281855&p_IsPs=N |title=Drugs of the Future |author=Vasiliou, S}}</ref> A phase II/III trial for [[systemic lupus erythematosus]] is due to run from 2008 to 2012.<ref>{{cite web |url=http://clinicaltrials.gov/ct2/show/NCT00624338 |title=Atacicept Phase II/III in Generalized Systemic Lupus Erythematosus (April SLE) }}</ref> The subcutaneously injected protein failed a phase II trial for [[multiple sclerosis]].<ref>{{cite web |url=http://clinicaltrials.gov/ct2/show/NCT00642902 |title=Atacicept in Multiple Sclerosis, Phase II }}</ref> The trials of atacicept in people with MS were suspended when some people taking the drug in one trial had an unexpected increase in inflammatory activity. An independent data monitoring board for the MS study found "subjects receiving atacicept were having more relapses and new MRI lesions than those on the placebo."<ref>{{cite web|url=http://www.acceleratedcure.org:8080/node/3573 |title=More drug news - two oral drugs making progress, but atacicept trial stopped |deadurl=yes |archiveurl=https://web.archive.org/web/20101029022102/http://www.acceleratedcure.org:8080/node/3573 |archivedate=2010-10-29 |df= }}</ref>
+
+The drug is also being studied for treatment of B-cell malignancies, including [[multiple myeloma]], [[B-cell chronic lymphocytic leukemia]], and [[non-Hodgkin's lymphoma]].<ref name="DOTF" />
+
+Atacicept was developed by a Seattle-based biotech company, ZymoGenetics, which handed the product over to Merck Serono for further development.<ref>{{cite web |url=http://www.xconomy.com/boston/2008/09/03/zymogenetics-hands-over-atacicept-rights-to-partner-merck-kgaa/ |title= ZymoGenetics Hands Over Atacicept Rights to Partner, Merck KGaA. The Darmstadt, Germany-based Merck KGaA |author= Luke Timmerman}}</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Engineered proteins]]

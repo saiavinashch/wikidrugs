@@ -1,0 +1,59 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 464200713
+| IUPAC_name = 3-Phenylpropylcarbamate
+| image = Phenprobamate.svg
+| width = 200
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|phenprobamate}}
+
+<!--Pharmacokinetic data-->
+| elimination_half-life = 5 - 8 hours
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 673-31-4
+| ATC_prefix = M03
+| ATC_suffix = BA01
+| PubChem = 4770
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4606
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = UJZ473TPS0
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01824
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1079576
+
+<!--Chemical data-->
+| C=10 | H=13 | N=1 | O=2 
+| molecular_weight = 179.22
+| smiles = O=C(OCCCc1ccccc1)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H13NO2/c11-10(12)13-8-4-7-9-5-2-1-3-6-9/h1-3,5-6H,4,7-8H2,(H2,11,12)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = CAMYKONBWHRPDD-UHFFFAOYSA-N
+}}
+
+'''Phenprobamate''' (Gamaquil, Isotonil) is a centrally acting [[skeletal muscles|skeletal]] [[muscle relaxant]], with additional [[sedative]] and [[anticonvulsant]] effects. Overdose is similar to [[barbiturate]]s. Its [[mechanism of action]] is probably similar to [[meprobamate]]. Phenprobamate has been used in humans as an [[anxiolytic]], and is still sometimes used in [[general anesthesia]] and for treating muscle cramps and spasticity.  Phenprobamate is still used in some European countries, but it has generally been replaced by newer drugs. Phenprobamate is metabolized by oxidative degradation of the [[carbamate]] group and ortho-hydroxylation of the benzene ring, and is eliminated in urine by the kidneys.
+
+Doses range from 400 to 800 mg, up to 3 times a day.
+
+==References==
+{{No footnotes|date=June 2011}}
+* [http://ctdbase.org/detail.go?type=chem&acc=C008837 The Comparative Toxicogenomics Database: Phenprobamate]
+* [http://chembank.broad.harvard.edu/compounds/display.html?compound_id=2741&sets=bioactive&realm=bioactives&tab=formulations Chembank: Phenprobamate]
+* [http://ndt.oxfordjournals.org/cgi/content/full/17/5/941 Nephrology Dialysis Transplantation Volume 17, Number 5, Pp. 941. Letters: ''Haemoperfusion may be useful in phenprobamate and polypharmacy intoxication of paediatric patients.'']
+
+{{Muscle relaxants}}
+{{GABAAR PAMs}}
+
+[[Category:Muscle relaxants]]
+[[Category:Carbamates]]
+[[Category:GABAA receptor positive allosteric modulators]]
+
+
+{{musculoskeletal-drug-stub}}

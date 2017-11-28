@@ -1,0 +1,104 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 460041016
+9372
+| IUPAC_name = (2''R'',5''R'',''Z'')-3-(2-Hydroxyethylidene)-7-oxo-4-oxa-1-aza-bicyclo[3.2.0]heptane-2-carboxylic acid
+| image = Clavulanic acid.svg
+| width = 200
+| image2 = Clavulanic-acid-3D-balls.png
+
+<!--Clinical data-->
+| pronounce = {{IPAc-en|ˌ|k|l|æ|v|juː|ˈ|l|æ|n|ᵻ|k|_|ˈ|æ|s|ᵻ|d}}
+| tradename =  
+| Drugs.com = {{drugs.com|international|clavulanic-acid}}
+| pregnancy_US = B
+| pregnancy_AU = B1
+| legal_AU = Schedule 4
+| legal_status = rx only
+| routes_of_administration = by mouth, [[Intravenous therapy|IV]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = "well absorbed"
+| metabolism = hepatic (extensive)
+| elimination_half-life = 1 hour
+| excretion = [[renal]] (30–40%)
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 58001-44-8
+| ATC_prefix = J01
+| ATC_suffix = CR
+| ATC_supplemental = (combinations with [[penicillin]]s)
+| PubChem = 5280980
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00766
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4444466
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 23521W1S24
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07711
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 48947
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 777
+<!--Chemical data-->
+| C=8 | H=9 | N=1 | O=5
+| smiles = O=C2N1[C@H](C(/O[C@@H]1C2)=C/CO)C(=O)O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C8H9NO5/c10-2-1-4-7(8(12)13)9-5(11)3-6(9)14-4/h1,6-7,10H,2-3H2,(H,12,13)/b4-1-/t6-,7-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = HZZVJAQRINQKSD-PBFISZAISA-N
+}}
+'''Clavulanic acid''' ({{IPAc-en|ˌ|k|l|æ|v|j|ə|ˈ|l|æ|n|ɪ|k}}) is a [[β-lactam antibiotic|β-lactam drug]] that functions as a [[Suicide inhibition|mechanism-based]] [[β-lactamase inhibitor]].  While not effective by itself as an [[antibiotic]], when combined with [[penicillin]]-group antibiotics, it can overcome [[antibiotic resistance]] in [[bacteria]] that secrete [[Beta-lactamase|β-lactamase]], which otherwise inactivates most penicillins.
+
+In its most common form, the potassium salt '''potassium clavulanate''' is combined with:
+* [[amoxicillin]] ([[co-amoxiclav]], trade names Augmentin, Tyclav, Synulox ([[veterinary]]), and others)
+* [[ticarcillin]] ([[co-ticarclav]], trade name Timentin)
+
+Clavulanic acid is an example of a [[clavam]].
+
+Clavulanic acid was patented in 1974.<ref>{{cite book|last1=Fischer|first1=Janos|last2=Ganellin|first2=C. Robin|title=Analogue-based Drug Discovery|date=2006|publisher=John Wiley & Sons|isbn=9783527607495|page=490|url=https://books.google.ca/books?id=FjKfqkaKkAAC&pg=PA490|language=en}}</ref>
+
+==Uses==
+
+For the treatment of [[pyelonephritis]] during pregnancy, and for the treatment of pyelonephritis caused by gram-positive organisms, amoxicillin or amoxicillin-clavulanate potassium is preferred.
+
+==Sources==
+The name is derived from strains of ''[[Streptomyces clavuligerus]]'', which produces clavulanic acid.<ref name="pmid16251194">{{cite journal |vauthors=Arulanantham H, Kershaw NJ, Hewitson KS, Hughes CE, Thirkettle JE, Schofield CJ |title=ORF17 from the clavulanic acid biosynthesis gene cluster catalyzes the ATP-dependent formation of N-glycyl-clavaminic acid |journal=J. Biol. Chem. |volume=281 |issue=1 |pages=279–87 |date=January 2006 |pmid=16251194 |doi=10.1074/jbc.M507711200 |url=http://www.jbc.org/cgi/pmidlookup?view=long&pmid=16251194}}</ref><ref name="pmid14982786">{{cite journal |vauthors=Tahlan K, Park HU, Wong A, Beatty PH, Jensen SE |title=Two sets of paralogous genes encode the enzymes involved in the early stages of clavulanic acid and clavam metabolite biosynthesis in Streptomyces clavuligerus |journal=Antimicrob. Agents Chemother. |volume=48 |issue=3 |pages=930–9 |date=March 2004 |pmid=14982786 |pmc=353097 |doi= 10.1128/AAC.48.3.930-939.2004|url=http://aac.asm.org/cgi/pmidlookup?view=long&pmid=14982786}}</ref>
+
+==Biosynthesis==
+[[File:Clavualnic Acid Biosynthesis.png|thumbnail|left|The intermediates of the biosynthesis of Clavulanic Acid<ref name="ReferenceA">{{cite journal|last1=Townsend|first1=CA|title=New reactions in clavulanic acid biosynthesis.|journal=Current Opinion in Chemical Biology|date=Oct 2002|volume=6|issue=5|pages=583–9|pmid=12413541|doi=10.1016/S1367-5931(02)00392-7}}</ref>]]
+Clavulanic acid is [[biosynthesis|biosynthesized]] from the amino acid [[arginine]] and the sugar [[glyceraldehyde 3-phosphate]].  With the [[β-lactam]] like structure, clavulanic acid looks structurally similar to [[penicillin]], but the biosynthesis of this molecule involves a different pathway and set of enzymes.  Clavulanic acid is biosynthesized by the bacterium ''[[Streptomyces clavuligerus]]'', using [[glyceraldehyde-3-phosphate]] and [[arginine|<small>L</small>-arginine]] as the starting materials of the pathway.<ref name="ReferenceA"/><ref>{{cite journal|last1=Reading|first1=C.|last2=Cole|first2=M.|title=Clavulanic Acid: a Beta-Lactamase-Inhibiting Beta-Lactam from Streptomyces clavuligerus|journal=Antimicrobial Agents and Chemotherapy|date=1 May 1977|volume=11|issue=5|pages=852–857|doi=10.1128/AAC.11.5.852|pmid=879738|pmc=352086}}</ref>  Although all of the intermediates of the pathway are known, the exact mechanism of each enzymatic reaction is not fully understood.  The biosynthesis mainly involves 3 enzymes: [[clavaminate synthase]], β-lactam synthetase and [[N2-(2-carboxyethyl)arginine synthase|N<sup>2</sup>-(2-carboxyethyl)-L-arginine synthase]](CEA).<ref name="ReferenceA"/>
+[[Clavaminate synthase]] is a non-heme iron [[Alpha-ketoglutarate|α-keto-glutarate]] dependent [[oxygenase]] that is encoded by orf5 of the clavulanic acid [[gene cluster]].  The specific mechanism of how this enzyme works is not fully understood, but this enzyme regulates 3 steps in the overall synthesis of clavulanic acid.  All 3 steps occur in the same region of the catalytic iron center, yet do not occur in-sequence and affect different areas of the clavulanic acid structure.<ref>{{cite journal|last1=Busby|first1=RW|last2=Townsend|first2=CA|title=A single monomeric iron center in clavaminate synthase catalyzes three nonsuccessive oxidative transformations.|journal=Bioorganic & Medicinal Chemistry|date=Jul 1996|volume=4|issue=7|pages=1059–64|pmid=8831977|doi=10.1016/0968-0896(96)00088-0}}</ref>
+
+β-lactam synthetase is a 54.5 kDa protein that is encoded by orf3 of the clavulanic acid [[gene cluster]], and shows similarity to [[Asparagine synthase (glutamine-hydrolysing)|asparagine synthase]] – Class B enzymes.  The exact mechanism on how this enzyme works to synthesize the [[β-lactam]] is not proven, but is believed to occur in coordination with a CEA synthase and [[Adenosine triphosphate|ATP]].<ref>{{cite journal|last1=Bachmann|first1=BO|last2=Townsend|first2=CA|title=Kinetic mechanism of the beta-lactam synthetase of Streptomyces clavuligerus.|journal=Biochemistry|date=Sep 19, 2000|volume=39|issue=37|pages=11187–93|pmid=10985764|doi=10.1021/bi000709i}}</ref>
+[[File:Beta-lactam synthetase mechanism.png|thumbnail|left|Proposed mechanism of beta-lactam synthetase in the biosynthesis of clavulanic acid.<ref name="ReferenceA"/>]]
+CEA synthase is a 60.9 kDA protein and is the first gene found in the clavulanic acid biosynthesis [[gene cluster]], encoded by orf2 of the clavulanic acid [[gene cluster]]. The specific mechanism of how this enzyme works is still under investigation; however, it is known that this enzyme has the ability to couple together [[glyceraldehyde-3-phosphate]] with [[L-arginine]] in the presence of thiamine diphosphate (TDP or [[thiamine pyrophosphate]]), which is the first step of the clavulanic acid biosynthesis.<ref>{{cite journal|last1=Khaleeli|first1=Nusrat|last2=Li|first2=Rongfeng|last3=Townsend|first3=Craig A.|title=Origin of the β-Lactam Carbons in Clavulanic Acid from an Unusual Thiamine Pyrophosphate-Mediated Reaction|journal=Journal of the American Chemical Society|volume=121|issue=39|pages=9223–9224|doi=10.1021/ja9923134}}</ref>
+[[File:CEA synthase mechanism.png|thumbnail|center|Proposed mechanism of CEA synthetase in the biosynthesis of clavulanic acid.<ref name="ReferenceA"/>]]
+
+== History ==
+Clavulanic acid was discovered around 1974/75 by British scientists working at the drug company [[Beecham (pharmaceutical company)|Beecham]] from the bacteria Streptomyces clavuligerus.
+After several attempts, Beecham finally filed for [[US patent]] protection for the drug in 1981, and U.S. Patents 4,525,352, 4,529,720, and 4,560,552 were granted in 1985.
+
+Clavulanic acid has negligible intrinsic antimicrobial activity, despite sharing the β-lactam ring that is characteristic of [[β-lactam antibiotic]]s. However, the similarity in chemical structure allows the molecule to interact with the enzyme [[Beta-lactamase|β-lactamase]] secreted by certain bacteria to confer resistance to β-lactam antibiotics.
+
+Clavulanic acid is a [[suicide inhibitor]], covalently bonding to a [[serine]] residue in the [[active site]] of the β-lactamase. This restructures the clavulanic acid molecule, creating a much more reactive species that attacks another amino acid in the active site, permanently inactivating it, and thus inactivating the enzyme.
+
+This inhibition restores the antimicrobial activity of β-lactam antibiotics against lactamase-secreting resistant bacteria. Despite this, some bacterial strains that are resistant even to such combinations have emerged.
+
+== Adverse effects ==
+The use of clavulanic acid with penicillins has been associated with an increased incidence of [[cholestasis|cholestatic jaundice]] and acute [[hepatitis]] during therapy or shortly after. The associated jaundice is usually self-limiting and very rarely fatal.<ref>Joint Formulary Committee. [[British National Formulary]], 47th edition. London: British Medical Association and Royal Pharmaceutical Society of Great Britain; 2004.</ref><ref>{{cite web|url=http://livertox.nih.gov/AmoxicillinClavulanate.htm|title=Drug Record - Amoxicillin-Clavulanate|work=LiverTox - Clinical and Research Information on Drug-Induced Liver Injury|accessdate=April 24, 2013}}</ref>
+ 
+The [[United Kingdom|UK]] [[Committee on Safety of Medicines]] (CSM) recommends that treatments such as amoxicillin/clavulanic acid preparations be reserved for bacterial infections likely to be caused by amoxicillin-resistant β-lactamase-producing strains, and that treatment should not normally exceed 14 days.
+
+[[Allergy]] has been reported.<ref name="pmid19080805">{{cite journal |vauthors=Tortajada Girbés M, Ferrer Franco A, Gracia Antequera M, Clement Paredes A, García Muñoz E, Tallón Guerola M |title=Hypersensitivity to clavulanic acid in children |journal=Allergol Immunopathol (Madr) |volume=36 |issue=5 |pages=308–10 |year=2008 |pmid=19080805 |doi= 10.1016/S0301-0546(08)75228-5|url=http://www.elsevier.es/en/revistas/allergologia-et-immunopathologia-105/hypersensitivity-to-clavulanic-acid-in-children-13130586-research-letters-2008}}</ref>
+
+== References ==
+{{reflist|30em}}
+
+{{PenicillinAntiBiotics}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Clavulanic Acid}}
+[[Category:Beta-lactamase inhibitors]]

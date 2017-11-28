@@ -1,0 +1,160 @@
+{{other uses}}
+{{Chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464215484
+| ImageFile = L-Proline (At physiological pH).svg
+| ImageName = Physiological model of proline
+| ImageFile1 = Prolin - Proline.svg
+| ImageName1 = Structural formula of proline
+| ImageSize1 = 220px
+| IUPACName = Proline
+| SystematicName = Pyrrolidine-2-carboxylic acid<ref>https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=614&loc=ec_rcs</ref>
+|Section1={{Chembox Identifiers
+| CASNo = 609-36-9
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo1 = 344-25-2
+| CASNo1_Ref = {{cascite|correct|CAS}}
+| CASNo1_Comment = (''R'')
+| CASNo2 = 147-85-3
+| CASNo2_Ref = {{cascite|correct|CAS}}
+| CASNo2_Comment = (''S'')
+| PubChem = 614
+| PubChem1 = 8988
+| PubChem1_Comment = (''R'')
+| PubChem2 = 145742
+| PubChem2_Comment = (''S'')
+| ChemSpiderID = 594
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID1 = 8640
+| ChemSpiderID1_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID1_Comment = (''R'')
+| ChemSpiderID2 = 128566
+| ChemSpiderID2_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID2_Comment = (''S'')
+| UNII = DCS9E77JPQ
+| UNII_Ref = {{fdacite|correct|FDA}}
+| EINECS = 210-189-3
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB00172
+| KEGG = C16435
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| MeSHName = Proline
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 26271
+| ChEMBL = 72275
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| RTECS = TW3584000
+| Beilstein = 80812
+| Gmelin = 26927
+| SMILES = OC(=O)C1CCCN1
+| SMILES1 = C1CC(NC1)C(=O)O
+| StdInChI = 1S/C5H9NO2/c7-5(8)4-2-1-3-6-4/h4,6H,1-3H2,(H,7,8)
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| InChI = 1/C5H9NO2/c7-5(8)4-2-1-3-6-4/h4,6H,1-3H2,(H,7,8)
+| StdInChIKey = ONIBWKKTOPOVIA-UHFFFAOYSA-N
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+}}
+|Section2={{Chembox Properties
+| C = 5
+| H = 9
+| N = 1
+| O = 2
+| Appearance = Transparent crystals
+| MeltingPtC = 205 to 228
+| MeltingPt_notes = (decomposes)
+| LogP = -0.06
+| pKa=1.99 (carboxyl), 10.96 (amino)<ref>Nelson, D.L., Cox, M.M., Principles of Biochemistry. NY: W.H. Freeman and Company.</ref>
+| SolubleOther = 1.5g/100g ethanol 19 degC<ref>
+{{cite book|title=Food Chemistry |author1=H.-D. Belitz |author2=W. Grosch |author3=P. Schieberle |isbn=978-3-540-69933-0|page=15
+|url=https://books.google.com/books?id=xteiARU46SQC&pg=PA15&lpg=PA15&dq=proline&redir_esc=y#v=onepage&q=proline&f=false}}
+</ref>
+}}
+|Section3={{Chembox Hazards
+| SPhrases = {{S22}}, {{S24/25}}
+}}
+}}
+'''Proline''' (abbreviated as '''Pro''' or '''P'''; encoded by the [[codon]]s CCU, CCC, CCA, and CCG) is an [[Amino acid|α-amino acid]] that is used in the [[Protein biosynthesis|biosynthesis]] of proteins. It contains an α-amino group (which is in the protonated NH<sub>2</sub><sup>+</sup> form under biological conditions), an [[Carboxylic acid|α-carboxylic acid]] group (which is in the [[deprotonated]] −COO<sup>−</sup> form under biological conditions), and a side chain [[pyrrolidine]], classifying it as a [[Nonpolar bond|nonpolar]] (at physiological pH), [[Aliphatic compound|aliphatic]] [[amino acid]]. It is non-essential in humans, meaning the body can synthesize it from the non-essential amino acid <small>L</small>-[[glutamate]].
+
+Proline is the only proteinogenic amino acid with a secondary amine, in that the alpha-amino group is attached directly to the side chain, making the [[Alpha and beta carbon|α carbon]] a direct substituent of the [[side chain]].
+
+==History and etymology==
+Proline was first isolated in 1900 by [[Richard Willstätter]] who obtained the amino acid while studying N-methylproline. The year after [[Franz Joseph Emil Fischer|Emil Fischer]] published the synthesis of proline from phthalimide propylmalonic ester.<ref>{{cite web|title=Proline|url=http://www.aminoacidsguide.com/Pro.html}}</ref> The name proline comes from [[pyrrolidine]], one of its constituents.<ref>{{cite web |url=http://www.yourdictionary.com/proline |title=proline |work=American Heritage Dictionary of the English Language, 4th edition |accessdate=2015-12-06}}</ref>
+
+== Biosynthesis ==
+Proline is [[Biosynthesis|biosynthetically]] derived from the amino acid <small>L</small>-[[glutamate]].  [[Glutamate-5-semialdehyde]] is first formed by [[glutamate 5-kinase]] (ATP-dependent) and [[glutamate-5-semialdehyde dehydrogenase]] (which requires NADH or NADPH). This can then either spontaneously cyclize to form [[1-pyrroline-5-carboxylic acid]], which is reduced to proline by [[pyrroline-5-carboxylate reductase]] (using NADH or NADPH), or turned into [[ornithine]] by [[ornithine aminotransferase]], followed by cyclisation by [[ornithine cyclodeaminase]] to form proline.<ref>{{Lehninger3rd}}.</ref>
+
+[[File:Betain-Proline.png|thumb|left|260px|[[Zwitterion]]ic structure of both proline enantiomers: (''S'')-proline (left) and (''R'')-proline]]
+
+==Biological activity==
+<small>L</small>-Proline has been found to act as a weak [[agonist]] of the [[glycine receptor]] and of both [[NMDA receptor|NMDA]] and non-NMDA ([[AMPA receptor|AMPA]]/[[kainate receptor|kainate]]) [[ionotropic glutamate receptor]]s.<ref name="AcademicPress1995">{{cite book|title=Ion Channel Factsbook: Extracellular Ligand-Gated Channels|url=https://books.google.com/books?id=XqzdupxdZUgC&pg=PA126|date=16 November 1995|publisher=Academic Press|isbn=978-0-08-053519-7|pages=126–}}</ref><ref name="pmid1349155">{{cite journal | vauthors = Henzi V, Reichling DB, Helm SW, MacDermott AB | title = L-proline activates glutamate and glycine receptors in cultured rat dorsal horn neurons | journal = Mol. Pharmacol. | volume = 41 | issue = 4 | pages = 793–801 | year = 1992 | pmid = 1349155 | doi = | url = http://molpharm.aspetjournals.org/cgi/pmidlookup?view=long&pmid=1349155}}</ref><ref name="Arslan2014">{{cite book|author=Orhan E. Arslan|title=Neuroanatomical Basis of Clinical Neurology, Second Edition|url=https://books.google.com/books?id=UTv6AwAAQBAJ&pg=PA309|date=7 August 2014|publisher=CRC Press|isbn=978-1-4398-4833-3|pages=309–}}</ref> It has been proposed to be a potential [[endogenous]] [[excitotoxin]].<ref name="AcademicPress1995" /><ref name="pmid1349155" /><ref name="Arslan2014" /> In [[plants]], proline accumulation is a common physiological response to various stresses but is also part of the developmental program in generative tissues (e.g. [[pollen]]).<ref name="pmid18379856">{{cite journal | vauthors = Verbruggen N, Hermans C | title = Proline accumulation in plants: a review. | journal = Amino Acids | volume = 35 | issue = 4 | pages = 753–759 | year = 2008 | doi = 10.1007/s00726-008-0061-6 | pmid = 18379856}}</ref>
+
+==Properties in protein structure==
+The distinctive cyclic structure of proline's side chain gives proline an exceptional conformational rigidity compared to other amino acids.  It also affects the rate of peptide bond formation between proline and other amino acids.  When proline is bound as an amide in a peptide bond, its nitrogen is not bound to any hydrogen, meaning it cannot act as a [[hydrogen bond]] donor, but can be a hydrogen bond acceptor.
+
+Peptide bond formation with incoming Pro-tRNA<sup>Pro</sup> is considerably slower than with any other tRNAs, which is a general feature of N-alkylamino acids.<ref>{{citation | first1 = Michael Y | last1 = Pavlov | first2 = Richard E | last2 = Watts | first3 = Zhongping | last3 = Tan | first4 = Virginia W | last4 = Cornish | first5 = Måns | last5 = Ehrenberg | first6 = Anthony C | title = Slow peptide bond formation by proline and other N-alkylamino acids in translation | year = 2010 | journal = PNAS | volume = 106 | issue = 1 | pages = 50–54 | doi = 10.1073/pnas.0809211106 | pmid = 19104062 | last6 = Forster | pmc = 2629218}}.</ref>  Peptide bond formation is also slow between an incoming tRNA and a chain ending in proline; with the creation of proline-proline bonds slowest of all.<ref>{{Cite journal |last=Buskirk |first=Allen R. |last2=Green |first2=Rachel |title=Getting Past Polyproline Pauses | url=https://www.academia.edu/801925/Fish_Bone_Chemistry_and_Ultrastructure_Implications_for_Taphonomy_and_Stable_Isotope_Analysis |journal=[[Science (journal)|Science]] |year=2013 |volume=339 |issue=6115 |pages=38–39 |doi=10.1126/science.1233338 |pmid=23288527 |pmc=3955122}}</ref>
+
+The exceptional conformational rigidity of proline affects the [[secondary structure]] of proteins near a proline residue and may account for proline's higher prevalence in the proteins of [[thermophile|thermophilic]] organisms.  [[Protein secondary structure]] can be described in terms of the [[dihedral angle]]s [[Dihedral angle#Dihedral angles of biological molecules|φ, ψ and ω]] of the protein backbone.  The cyclic structure of proline's side chain locks the angle φ at approximately −65°.<ref>{{cite journal|last1=Morris|first1=Anne|title=Stereochemical quality of protein structure coordinates|journal=Proteins: Structure, Function, and Bioinformatics|date=1992|volume=12|pages=345–364|pmid=1579569|doi=10.1002/prot.340120407}}</ref>
+
+Proline acts as a structural disruptor in the middle of regular [[secondary structure]] elements such as [[alpha helix|alpha helices]] and [[beta sheet]]s; however, proline is commonly found as the first residue of an [[alpha helix]] and also in the edge strands of [[beta sheet]]s.  Proline is also commonly found in [[turn (biochemistry)|turns]] (another kind of secondary structure), and aids in the formation of beta turns.  This may account for the curious fact that proline is usually solvent-exposed, despite having a completely [[aliphatic]] side chain.
+
+Multiple prolines and/or [[hydroxyproline]]s in a row can create a [[polyproline helix]], the predominant [[secondary structure]] in [[collagen]]. The [[hydroxylation]] of proline by [[prolyl hydroxylase]] (or other additions of electron-withdrawing substituents such as [[fluorine]]) increases the conformational stability of [[collagen]] significantly.<ref name="SzpakJAS">{{Cite journal |last=Szpak |first=Paul |title=Fish bone chemistry and ultrastructure: implications for taphonomy and stable isotope analysis | url=http://uwo.academia.edu/PaulSzpak/Papers/827788/Fish_Bone_Chemistry_and_Ultrastructure_Implications_for_Taphonomy_and_Stable_Isotope_Analysis |journal=[[Journal of Archaeological Science (journal)|Journal of Archaeological Science]] |year=2011 |volume=38 |issue=12 |pages=3358–3372 |doi=10.1016/j.jas.2011.07.022 }}</ref>  Hence, the hydroxylation of proline is a critical biochemical process for maintaining the [[connective tissue]] of higher organisms.  Severe diseases such as [[scurvy]] can result from defects in this hydroxylation, e.g., mutations in the enzyme prolyl hydroxylase or lack of the necessary [[vitamin C|ascorbate (vitamin C)]] cofactor.
+
+==Cis-trans isomerization==
+[[Peptide bond]]s to proline, and to other ''N''-substituted amino acids (such as [[sarcosine]]), are able to populate both the ''[[Cis-trans isomerism|cis]]'' and ''[[trans isomer|trans]]'' isomers.  Most peptide bonds overwhelmingly adopt the ''trans'' isomer (typically 99.9% under unstrained conditions), chiefly because the amide hydrogen (''trans'' isomer) offers less steric repulsion to the preceding C<sub>α</sub> atom than does the following C<sub>α</sub> atom (''cis'' isomer).  By contrast, the ''cis'' and ''trans'' isomers of the X-Pro peptide bond (where X represents any amino acid) both experience steric clashes with the neighboring substitution and are nearly equal energetically.  Hence, the fraction of X-Pro peptide bonds in the ''cis'' isomer under unstrained conditions ranges from 10-40%; the fraction depends slightly on the preceding amino acid, with aromatic residues favoring the ''cis'' isomer slightly.
+
+From a kinetic standpoint, ''cis''-''trans'' proline [[isomer]]ization is a very slow process that can impede the progress of [[protein folding]] by trapping one or more proline residues crucial for folding in the non-native isomer, especially when the native protein requires the ''cis'' isomer.  This is because proline residues are exclusively synthesized in the [[ribosome]] as the ''trans'' isomer form.  All organisms possess [[prolyl isomerase]] [[enzyme]]s to catalyze this isomerization, and some [[bacteria]] have specialized prolyl isomerases associated with the ribosome.  However, not all prolines are essential for folding, and protein folding may proceed at a normal rate despite having non-native conformers of many X-Pro peptide bonds.
+
+==Uses==
+Proline and its derivatives are often used as asymmetric catalysts in [[proline organocatalysis]] reactions. The [[CBS reduction]] and proline catalysed [[aldol condensation]] are prominent examples.
+
+In brewing, proteins rich in proline combine with polyphenols to produce haze (turbidity).<ref>K.J. Siebert, "Haze and Foam",[http://www.nysaes.cornell.edu/fst/faculty/siebert/haze.html] Accessed July 12, 2010.</ref>
+
+<small>L</small>-Proline is an [[osmoprotectant]] and therefore is used in many pharmaceutical, biotechnological applications.
+
+The [[growth medium]] used in [[plant tissue culture]] may be supplemented with proline.  This can increase growth, perhaps because it helps the plant tolerate the stresses of tissue culture.<ref name="pazuki">{{cite journal |last=Pazuki |first=A |last2=Asghari |first2=J |last3=Sohani |first3=M |last4=Pessarakli |first4=M |last5=Aflaki |first5=F |lastauthoramp=yes |year=2015 |title= Effects of Some Organic Nitrogen Sources and Antibiotics on Callus Growth of Indica Rice Cultivars |url=  http://www.tandfonline.com/doi/pdf/10.1080/01904167.2014.983118 |format=PDF |journal= Journal of Plant Nutrition |volume=38 |issue=8 |pages=1231–1240 |doi=10.1080/01904167.2014.983118 |accessdate=June 4, 2016
+}}</ref>{{Better source|reason=Source is a primary study, claiming supplementation improves rice growth.  We want a review or book that shows proline supplementation is ''often'' used to culture a ''variety'' of plants.|date=June 2016}}  For proline's role in the stress response of plants, see {{slink||Biological activity}}.
+
+==Specialties==
+Proline is one of the two amino acids that do not follow along with the typical [[Ramachandran plot]], along with [[glycine]]. Due to the ring formation connected to the beta carbon, the ψ and φ angles about the peptide bond have fewer allowable degrees of rotation. As a result, it is often found in "turns" of proteins as its free entropy (ΔS) is not as comparatively large to other amino acids and thus in a folded form vs. unfolded form, the change in entropy is less. Furthermore, proline is rarely found in α and β structures as it would reduce the stability of such structures, because its side chain α-N can only form one hydrogen bond.
+
+Additionally, proline is the only amino acid that does not form a blue/purple colour when developed by spraying with [[ninhydrin]] for uses in [[chromatography]]. Proline, instead, produces an orange/yellow colour.
+
+==History==
+[[Richard Willstätter]] synthesized proline by the reaction of sodium salt of [[diethyl malonate]] with [[1,3-dibromopropane]] in 1900. In 1901, [[Hermann Emil Fischer]] isolated proline from casein and the decomposition products of γ-phthalimido-propylmalonic ester.<ref>{{Citation |author= R.H.A. Plimmer |editor= R.H.A. Plimmer & F.G. Hopkins |title= The chemical composition of the proteins |url= https://books.google.com/?id=7JM8AAAAIAAJ&pg=PA130 |accessdate= September 20, 2010 |edition= 2nd |series= Monographs on biochemistry |volume= Part I. Analysis |origyear= 1908 |year= 1912 |publisher= Longmans, Green and Co. |location= London|page= 130}}</ref>
+
+==Synthesis==
+[[Racemic]] proline can be synthesized from [[diethyl malonate]] and [[acrylonitrile]]:<ref>Vogel, ''Practical Organic Chemistry'' 5th edition</ref>
+:[[File:DL-Proline synth.png|500px]]{{clear left}}
+
+==See also==
+* [[Hyperprolinemia]]
+* [[Inborn error of metabolism]]
+* [[Prolidase deficiency]]
+* [[Prolinol]]
+
+==References==
+{{reflist|30em}}
+
+== Further reading ==
+* {{citation | last1 = Balbach | first1 = J. | last2 = Schmid | first2 = F. X. | year = 2000 | contribution = Proline isomerization and its catalysis in protein folding | title = Mechanisms of Protein Folding | edition = 2nd | editor-first = R. H. | editor-last = Pain | publisher = Oxford University Press | pages = 212–49 | isbn = 0-19-963788-1}}.
+* For a thorough scientific overview of disorders of proline and hydroxyproline metabolism, one can consult chapter 81 of OMMBID [[Charles Scriver]], Beaudet, A.L., Valle, D., Sly, W.S., Vogelstein, B., Childs, B., Kinzler, K.W. (Accessed 2007). [http://www.ommbid.com The Online Metabolic and Molecular Bases of Inherited Disease]. New York: McGraw-Hill. - Summaries of 255 chapters, full text through many universities. There is also the [http://books.mcgraw-hill.com/medical/ommbid/blog/ OMMBID blog].
+
+== External links ==
+* [http://gmd.mpimp-golm.mpg.de/Spectrums/421929e5-2ddf-45bc-a7a3-533eeee502a6.aspx Proline MS Spectrum]
+* [http://www.chem.qmul.ac.uk/iubmb/enzyme/reaction/AminoAcid/Pro.html Proline biosynthesis]
+* [http://www.biocarta.com/pathfiles/prolinePathway.asp Proline biosynthesis]
+
+{{Amino acids}}
+{{Amino acid metabolism intermediates}}
+{{Ionotropic glutamate receptor modulators}}
+{{Glycine receptor modulators}}
+
+[[Category:AMPA receptor agonists]]
+[[Category:Kainate receptor agonists]]
+[[Category:NMDA receptor agonists]]
+[[Category:Proteinogenic amino acids]]
+[[Category:Glucogenic amino acids]]
+[[Category:Glycine receptor agonists]]
+[[Category:Cyclic amino acids]]
+[[Category:Pyrrolidines]]

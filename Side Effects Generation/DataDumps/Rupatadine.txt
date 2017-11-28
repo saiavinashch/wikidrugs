@@ -1,0 +1,153 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464384578
+| IUPAC_name = 8-Chloro-6,11-dihydro-11-[1-[(5-methyl-3-pyridinyl)methyl]-4-piperidinylidene]-5''H''-benzo[5,6]cyclohepta[1,2-b]pyridine fumarate
+| image = Rupatadine.png
+
+<!--Clinical data-->
+| tradename = Rupafin, many others
+| Drugs.com = {{drugs.com|international|rupatadine}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = Prescription only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 98–99%
+| metabolism = [[Liver|Hepatic]], [[Cytochrome P450|CYP]]-mediated
+| elimination_half-life = 5.9 hours
+| excretion = 34.6% urine, 60.9% faeces
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 158876-82-5
+| CAS_supplemental = (free base)<br />{{CAS|182349-12-8}} ([[fumarate]])
+| ATC_prefix = R06
+| ATC_suffix = AX28
+| PubChem = 133017
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB11614
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 117388
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 2AE8M83G3E
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 91397
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D07407
+
+<!--Chemical data-->
+| C=26 | H=26 | Cl=1 | N=3 
+| molecular_weight = 415.958 g/mol
+| smiles = Clc1cc5c(cc1)\C(=C3/CCN(Cc2cncc(c2)C)CC3)c4ncccc4CC5
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C26H26ClN3/c1-18-13-19(16-28-15-18)17-30-11-8-20(9-12-30)25-24-7-6-23(27)14-22(24)5-4-21-3-2-10-29-26(21)25/h2-3,6-7,10,13-16H,4-5,8-9,11-12,17H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WUZYKBABMWJHDL-UHFFFAOYSA-N
+}}
+'''Rupatadine''' is a second generation [[antihistamine]] and [[Platelet-activating factor|PAF]] antagonist used to treat allergies. It was discovered and developed by J. [[Uriach y Cia]]<ref>Patents: {{Patent|EP|577957}}, {{Patent|US|5407941}}, {{Patent|US|5476856}}</ref> and is marketed as '''Rupafin''' and under several other trade names.
+
+== Medical uses ==
+Rupatadine fumarate has been approved for the treatment of [[allergic rhinitis]] and chronic urticaria in adults and children over 12 years. It is available as round, light salmon coloured tablets containing 10&nbsp;mg of rupatadine (as fumarate) to be administered orally, once a day.<ref>[https://www.drugs.com/uk/pdf/leaflet/841244.pdf?download=1 UK package leaflet for Rupafin].</ref>
+
+The efficacy of rupatadine as treatment for allergic rhinitis (AR) and [[chronic idiopathic urticaria]] (CIU) has been investigated in adults and adolescents (aged over 12 years) in several controlled studies, showing a rapid onset of action and a good safety profile even in prolonged treatment periods of a year.<ref name="picardo" /><ref>{{Cite journal 
+| last1 = Keam | first1 = S. J. 
+| last2 = Plosker | first2 = G. L. 
+| title = Rupatadine: A review of its use in the management of allergic disorders 
+| journal = Drugs 
+| volume = 67 
+| issue = 3 
+| pages = 457–474 
+| year = 2007 
+| pmid = 17335300
+ | doi=10.2165/00003495-200767030-00008
+}}</ref><ref>{{Cite journal 
+| last1 = Mullol | first1 = J. 
+| last2 = Bousquet | first2 = J. 
+| last3 = Bachert | first3 = C. 
+| last4 = Canonica | first4 = W. G. 
+| last5 = Gimenez-Arnau | first5 = A. 
+| last6 = Kowalski | first6 = M. L. 
+| last7 = Martí-Guadaño | first7 = E. 
+| last8 = Maurer | first8 = M. 
+| last9 = Picado | first9 = C. 
+| last10 = Scadding | first10 = G. 
+| last11 = Van Cauwenberge | first11 = P. 
+| title = Rupatadine in allergic rhinitis and chronic urticaria 
+| doi = 10.1111/j.1398-9995.2008.01640.x 
+| journal = Allergy 
+| volume = 63 
+| pages = 5–28 
+| year = 2008 
+| pmid = 18339040 
+| pmc = 
+}}</ref>
+
+== Side effects ==
+Rupatadine is a non-[[sedating]] antihistamine. However, as in other non sedating second-generation antihistamines, the most common side effects in controlled clinical studies were [[somnolence]], [[headache]]s and [[fatigue (medical)|fatigue]].
+
+== Pharmacology ==
+
+=== Mechanism of action ===
+Rupatadine is a second generation, non-sedating, long-acting histamine antagonist with selective peripheral H<sub>1</sub> receptor antagonist activity. It further blocks the receptors of the platelet-activating factor (PAF) according to in vitro and in vivo studies.<ref>{{Cite journal 
+| last1 = Merlos | first1 = M. 
+| last2 = Giral | first2 = M. 
+| last3 = Balsa | first3 = D. 
+| last4 = Ferrando | first4 = R. 
+| last5 = Queralt | first5 = M. 
+| last6 = Puigdemont | first6 = A. 
+| last7 = García-Rafanell | first7 = J. 
+| last8 = Forn | first8 = J. 
+| title = Rupatadine, a new potent, orally active dual antagonist of histamine and platelet-activating factor (PAF) 
+| journal = The Journal of Pharmacology and Experimental Therapeutics 
+| volume = 280 
+| issue = 1 
+| pages = 114–121 
+| year = 1997 
+| pmid = 8996188
+}}</ref>
+
+Rupatadine possesses anti-allergic properties such as the inhibition of the [[degranulation]] of [[mast cell]]s induced by immunological and non-immunological stimuli, and inhibition of the release of [[cytokine]]s, particularly of the [[tumor necrosis factors]] (TNF) in human mast cells and [[monocyte]]s.<ref name="picardo">{{Cite journal 
+| last1 = Picado | first1 = C. S. 
+| title = Rupatadine: Pharmacological profile and its use in the treatment of allergic disorders 
+| doi = 10.1517/14656566.7.14.1989 
+| journal = Expert Opinion on Pharmacotherapy 
+| volume = 7 
+| issue = 14 
+| pages = 1989–2001 
+| year = 2006 
+| pmid = 17020424 
+| pmc = 
+}}</ref>
+
+=== Pharmacokinetics ===
+Rupatadine has several [[active metabolite]]s such as [[desloratadine]], 3-hydroxydesloratadine,<ref>{{cite journal|title=Influence of food on the oral bioavailability of rupatadine tablets in healthy volunteers: a single-dose, randomized, open-label, two-way crossover study|journal=Clinical Therapeutics|volume=29|issue=5|pages=900–8|pmid=17697908|year=2007|author1=Solans|first1=A|last2=Carbó|first2=M. L.|last3=Peña|first3=J|last4=Nadal|first4=T|last5=Izquierdo|first5=I|last6=Merlos|first6=M|doi=10.1016/j.clinthera.2007.05.004}}</ref> 6-hydroxydesloratadine and 5-hydroxydesloratadine.{{citation needed|date=December 2016}}
+
+== History ==
+Rupatadine discovery, pre-clinical and clinical development was performed by J. Uriach y Cia, a Spanish pharmaceutical company. It was launched in 2003 in Spain under the brand name of Rupafin.  The registration of the product is approved in 23 countries from the EU, 8 Central American countries, Brazil, Argentina, Chile, Turkey and 14 African countries.
+
+== Society and culture ==
+=== Brand names ===
+Brand names include Rupafin, Alergoliber, Rinialer, Pafinur, Rupax, Urtimed and Ralif, among others.<ref>{{drugs.com|international|rupatadine}}: Rupatadine.</ref>
+
+== References ==
+{{Reflist|2}}
+
+{{Antihistamines}}
+{{Histaminergics}}
+{{PAF signaling}}
+{{Tricyclics}}
+
+[[Category:H1 receptor antagonists]]
+[[Category:Pyridines]]
+[[Category:Piperidines]]
+[[Category:Chloroarenes]]
+[[Category:Benzocycloheptapyridines]]
+[[Category:Peripherally selective drugs]]

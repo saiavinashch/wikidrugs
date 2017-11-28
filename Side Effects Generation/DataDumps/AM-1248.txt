@@ -1,0 +1,80 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 454835077
+| IUPAC_name = 1-[(N-methylpiperidin-2-yl)methyl]-3-(adamant-1-oyl)indole
+| image = AM-1248_structure.png
+| width = 150
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = Schedule II
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_NZ = Temporary Class 
+| legal_status =
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 335160-66-2 
+| ATC_prefix =  
+| ATC_suffix =  
+| PubChem = 10293794
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 8469262
+| UNII = 5EX9HEF4HK
+| UNII_Ref = {{fdacite|changed|FDA}}
+
+<!--Chemical data-->
+| C=26 | H=34 | N=2 | O=1 
+| molecular_weight = 390.561 g/mol
+| smiles = CN1CCCCC1Cn(c6)c2ccccc2c6C(=O)C5(C3)CC(CC3C4)CC4C5
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C26H34N2O/c1-27-9-5-4-6-21(27)16-28-17-23(22-7-2-3-8-24(22)28)25(29)26-13-18-10-19(14-26)12-20(11-18)15-26/h2-3,7-8,17-21H,4-6,9-16H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = JRECAXBHMULNJQ-UHFFFAOYSA-N
+}}
+
+'''AM-1248''' is a drug that acts as a moderately potent [[agonist]] for both the [[cannabinoid receptor]]s [[Cannabinoid receptor 1|CB<sub>1</sub>]] and [[Cannabinoid receptor 2|CB<sub>2</sub>]], but with some dispute between sources over its exact potency and selectivity.<!-- although note Ki values often cannot be compared directly between literature sources if the assay conditions are different --> Replacing the 3-(1-naphthoyl) group found in many indole derived cannabinoid ligands, with an [[adamantane|adamant]][[ketone|oyl]] group, generally confers significant CB<sub>2</sub> selectivity,<ref>{{Cite journal |last1= Frost |first1= J. M. |doi= 10.1021/jm901214q |title= Indol-3-ylcycloalkyl Ketones: Effects of N1 Substituted Indole Side Chain Variations on CB2 Cannabinoid Receptor Activity |journal= Journal of Medicinal Chemistry |volume= 53 |issue= 1 |pages= 295–315 |year= 2010 |pmid= 19921781 |display-authors=etal}}
+</ref> but reasonable CB<sub>1</sub> affinity and selectivity is retained when an N-methylpiperidin-2-ylmethyl substitution is used at the indole 1-position.<ref name="US 7820144">{{Ref patent2 |country= US |number= 7820144 |status= granted |title= Receptor selective cannabimimetic aminoalkylindoles |pubdate= 2007-01-05 |gdate= 2010-10-26 |inventor= Makriyannis A, Deng H }}</ref><ref name="WO 2001 28557 A1">{{Ref patent2 |country= WO |number= 200128557 |status= granted |title= Cannabimimetic indole derivatives |pubdate= 2001-04-26 |gdate= 2001-06-07 |pridate= 1999-10-18 |inventor= Makriyannis A, Deng H }}</ref> The related compound [[AB-001|1-pentyl-3-(1-adamantoyl)indole]] was identified as having been sold as a [[cannabinoid]] [[designer drug]] in Hungary in 2011, along with another synthetic cannabinoid [[AM-679 (cannabinoid)|AM-679]].<ref name="pmid21813254">{{cite journal |author=Jankovics P |title=Detection and identification of the new potential synthetic cannabinoids 1-pentyl-3-(2-iodobenzoyl)indole and 1-pentyl-3-(1-adamantoyl)indole in seized bulk powders in Hungary |journal=Forensic Science International |volume= 214|issue= 1-3|pages= 27–32|date=August 2011 |pmid=21813254 |doi=10.1016/j.forsciint.2011.07.011 |display-authors=etal}}</ref>
+
+==Legality==
+Sweden's public health agency suggested to classify AM-1248 as hazardous substance on June 1, 2015.<ref>{{cite web | url=http://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2015/juni/23-nya-amnen-kan-klassas-som-narkotika-eller-halsofarlig-vara | title=23 nya ämnen kan klassas som narkotika eller hälsofarlig vara | accessdate=29 June 2015}}</ref>
+
+As of October 2015 AM-1248 is a controlled substance in China.<ref>{{cite web | url=http://www.sfda.gov.cn/WS01/CL0056/130753.html | title=关于印发《非药用类麻醉药品和精神药品列管办法》的通知 | publisher=China Food and Drug Administration | date=27 September 2015 | language=Chinese | accessdate=1 October 2015}}</ref>
+
+==See also==
+* [[A-834,735]]
+* [[AB-001]]
+* [[AM-411]]
+* [[AM-1220]]
+* [[AM-2233]]
+* [[Cannabipiperidiethanone]]
+
+==References==
+<references/>
+
+{{Cannabinoids}}
+
+[[Category:Cannabinoids]]
+[[Category:AM cannabinoids]]
+[[Category:Aminoalkylindoles]]
+[[Category:Piperidines]]
+[[Category:Adamantanes]]
+[[Category:Designer drugs]]
+
+
+{{cannabinoid-stub}}

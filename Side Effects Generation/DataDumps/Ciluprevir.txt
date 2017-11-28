@@ -1,0 +1,59 @@
+{{Drugbox
+| IUPAC_name = (2''R'',6''S'',12''Z'',13a''S'',14a''R'',16a''S'')-6-[(Cyclopentyloxycarbonyl)amino]-2-({7-methoxy-2-[(propan-2-ylamino)-1,3-thiazol-4-yl]quinolin- 4-yl}oxy)-5,16-dioxo-1,2,3,6,7,8,9,10,11,13a,14,15,16,16a-tetradecahydrocyclopropa[''e'']pyrrolo[1,2-''a''][1,4]diazacyclopentadecine-14a(5''H'')-carboxylic acid
+| image = Ciluprevir.svg
+| width = 285
+| alt =
+| caption =
+
+<!--Clinical data-->
+| tradename =
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Development terminated
+| routes_of_administration = [[Oral administration|By mouth]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound = >99.1%<ref name = "Tan">{{cite book|editor1-last=Tan|editor1-first=Seng-Lai|editor2-last=He|editor2-first=Yupeng|title=Hepatitis C: Antiviral Drug Discovery and Development|date=2011|publisher=Caister Academic Press|location=Norfolk, UK|isbn=978-1-904455-78-3|page=199|accessdate=25 February 2017}}</ref>
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number = 300832-84-2
+| ATCvet =
+| ATC_prefix = None
+| ATC_suffix =   
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 75C8DU40T0
+| ChEMBL = 297884
+| PubChem = 9853710
+| ChemSpiderID = 8029420
+
+<!--Chemical data-->
+| C=40 | H=50 | N=6 | O=8 | S=1 
+| molecular_weight = 774.93 g/mol
+| smiles = O=C2N[C@]7(C(=O)O)C[C@H]7/C=C\CCCCC[C@H](NC(=O)OC1CCCC1)C(=O)N6[C@H]2C[C@@H](Oc3cc(nc4c3ccc(OC)c4)c5nc(sc5)NC(C)C)C6
+| StdInChI = 1S/C40H50N6O8S/c1-23(2)41-38-43-32(22-55-38)31-19-34(28-16-15-26(52-3)17-30(28)42-31)53-27-18-33-35(47)45-40(37(49)50)20-24(40)11-7-5-4-6-8-14-29(36(48)46(33)21-27)44-39(51)54-25-12-9-10-13-25/h7,11,15-17,19,22-25,27,29,33H,4-6,8-10,12-14,18,20-21H2,1-3H3,(H,41,43)(H,44,51)(H,45,47)(H,49,50)/b11-7-/t24-,27-,29+,33+,40-/m1/s1
+| StdInChIKey = PJZPDFUUXKKDNB-KNINVFKUSA-N
+}}
+
+'''Ciluprevir''' was a drug used experimentally in the treatment of [[hepatitis C]]. It is manufactured by [[Boehringer Ingelheim]] and developed under the research code of '''BILN 2061'''. It was the first-in-class [[NS3 (HCV)|NS3]]/[[NS4A|4A]] protease inhibitor to enter clinical development and tested in human.<ref>{{cite book | editor1-last = Tan | editor1-first = Seng-Lai | title = Hepatitis C Viruses: Genomes and Molecular Biology | date = 2006 | publisher = Horizon Bioscience | location = Norfolk (UK) | isbn = 978-1-904933-20-5 | url = https://www.ncbi.nlm.nih.gov/books/NBK1613/ | chapter = 6. HCV NS3-4A Serine Protease}}</ref> Ciluprevir is a potent competitive reversible inhibitor of NS3/4A protease from HCV genotype 1a (K<sub>i</sub> = 0.3 nM) and 1b (K<sub>i</sub> = 0.66 nM). It shows good selectivity for NS3 protease against representative serine and cysteine proteases, human leukocyte elastase and cathepsin B ([[IC50|IC<sub>50</sub>]] > 30 ''μ''M).<ref name = "Tan" />
+
+Its development was halted in phase Ib clinical trials because of toxicity in animals. However, ciluprevir scaffold was exploited to design new macrocyclic inhibitors such as [[simeprevir]] (TMC-435) and [[danoprevir]].<ref>{{cite journal | last1 = Chatel-Chaix | first1 = L | last2 = Baril | first2 = M | last3 = Lamarre | first3 = D | title = Hepatitis C Virus NS3/4A Protease Inhibitors: A Light at the End of the Tunnel | journal = Viruses | date = August 2010 | volume = 2 | issue = 8 | pages = 1752–65 | doi = 10.3390/v2081752 | pmid = 21994705 | accessdate = 25 February 2017 | pmc = 3185733}}</ref>
+
+==References==
+{{reflist}}
+
+{{RNA antivirals}}
+
+[[Category:Abandoned drugs]]
+[[Category:NS3/4A protease inhibitors]]
+
+{{antiinfective-drug-stub}}

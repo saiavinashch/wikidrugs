@@ -1,0 +1,59 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 461092781
+| image = 
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = o
+| target = [[EpCAM]] (17-1A)
+<!-- Clinical data -->
+| tradename = Panorex
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled -->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = 
+| routes_of_administration = 
+<!-- Pharmacokinetic data -->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+<!-- Identifiers -->
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 156586-89-9
+| ATC_prefix = L01
+| ATC_suffix = XC01
+| PubChem = 
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+<!-- Chemical data -->
+| chemical_formula = 
+| molecular_weight = 
+}}
+
+'''Edrecolomab''' (MAb17-1A, trade name '''Panorex''') is a mouse-derived [[monoclonal antibody]] targeting the cell-surface [[glycoprotein]] [[EpCAM]] (17-1A), which is expressed on [[epithelium|epithelial tissues]] and on various [[carcinoma]]s.
+
+Preliminary studies had shown promise of a possible use in patients with stage III [[colorectal carcinoma]] (with [[metastasis]] to the [[lymph nodes]]).<ref name="Lancet1994">Riethmüller G, Schneider-Gädicke E, Schlimok G ''et al.'' Randomised trial of monoclonal antibody for adjuvant therapy of resected Dukes' C colorectal carcinoma. German Cancer Aid 17-1A Study Group. ''Lancet''. 1994;'''343(8907)''':1177-83. {{PMID|7909866}}</ref><ref name="Proc2002">Fields AL, Keller AM, Schwartzberg L ''et al.'' Edrecolomab (17-1A antibody) in combination with 5-fluorouracil based chemotherapy in the adjuvant treatment of stage III colon cancer: results of a randomised North American phase III study (abstract). ''Proc Am Soc Clin Oncol''. 2002;'''21''':128a.</ref> However, when put to a phase III study (2,761 patients) it did not provide any benefit when compared to conventional [[chemotherapy|chemotherapeutic]] agents.<ref>Punt CJ, Nagy A, Douillard JY ''et al.'' Edrecolomab alone or in combination with [[fluorouracil]] and [[folinic acid]] in the adjuvant treatment of stage III colon cancer: a randomised study. ''Lancet''. 2002;'''360(9334)''':671-7. {{DOI|10.1016/S0140-6736(02)09836-7}} {{PMID|12241873}}</ref> No effect has been demonstrated for stage II (locally advanced cancer without spread to the lymph nodes) colon cancer.<ref name="stageII">Colacchio TA, Niedzwicki D, Compton C, ''et al.'' Phase III trial of adjuvant immunotherapy with MoAb 17-1A following resection for stage II adenocarcinoma of the colon (CALGB 9581). ''Proc Am Soc Clin Oncol''. 2004;'''23''':251a.</ref>
+
+Edrecolomab was well tolerated in these studies and as such research has now concentrated on whether it can be of any use in other forms of cancer.
+
+==References==
+{{reflist|2}}
+
+{{Extracellular chemotherapeutic agents}}
+{{Monoclonals for tumors}}
+
+[[Category:Monoclonal antibodies for tumors]]
+[[Category:Experimental drugs]]
+
+
+{{monoclonal-antibody-stub}}
+{{antineoplastic-drug-stub}}

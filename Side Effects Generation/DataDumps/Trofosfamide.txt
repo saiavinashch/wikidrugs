@@ -1,0 +1,76 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 409083684
+| IUPAC_name = ''N,N'',3-tris(2-chloroethyl)-1,3,2-oxazaphosphinan-2-amide 2-oxide
+| image = Trofosfamide.svg
+| alt = Skeletal formula of trofosfamide
+| width = 130
+| image2 = Trofosfamide-3D-balls.png
+| alt2 = Ball-and-stick model of the trofosfamide molecule
+| width2 = 150
+
+<!--Clinical data-->
+| tradename = Ixoten
+| Drugs.com = {{drugs.com|international|trofosfamide}}
+| pregnancy_AU = <!-- A, B1, B2, B3, C, D, X -->
+| pregnancy_US = <!-- A, B, C, D, X -->
+| pregnancy_category =
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_DE = Rx-only
+| legal_status =
+| routes_of_administration = [[Oral administration|By mouth]] (film-coated [[Tablet (pharmacy)|tablets]])
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 22089-22-1
+| ATC_prefix = L01
+| ATC_suffix = AA07
+| ATC_supplemental =  
+| PubChem = 65702
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = H64JRU6GJ0
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07252
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 462019
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 59129
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=9 | H=18 | Cl=3 | N=2 | O=2 | P=1 
+| molecular_weight = 323.58 g/mol
+| smiles = C1CN(P(=O)(OC1)N(CCCl)CCCl)CCCl
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C9H18Cl3N2O2P/c10-2-6-13-5-1-9-16-17(13,15)14(7-3-11)8-4-12/h1-9H2
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = UMKFEPPTGMDVMI-UHFFFAOYSA-N
+}}
+
+'''Trofosfamide''' ([[International Nonproprietary Name|INN]]) is a [[nitrogen mustard]] [[alkylating antineoplastic agent|alkylating agent]].
+
+It is sometimes abbreviated "TRO".<ref name="pmid19099202">{{cite journal  |vauthors=Jahnke K, Thiel E, Bechrakis NE, etal |title=Ifosfamide or trofosfamide in patients with intraocular lymphoma |journal=J. Neurooncol. |volume= 93|issue= 2|pages= 213–7|date=December 2008 |pmid=19099202 |doi=10.1007/s11060-008-9761-8}}</ref>
+
+==References==
+{{reflist}}
+
+{{Chemotherapeutic agents}}
+
+[[Category:Organochlorides]]
+[[Category:Oxazaphosphinans]]
+[[Category:Phosphorodiamidates]]
+[[Category:Nitrogen mustards]]
+
+{{antineoplastic-drug-stub}}

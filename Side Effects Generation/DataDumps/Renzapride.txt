@@ -1,0 +1,69 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464380859
+| IUPAC_name = 4-amino-''N''-[(4''S'',5''S'')-1-azabicyclo[3.3.1]nonan-4-yl]-5-chloro-2-methoxybenzamide
+| image = Renzapride.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 109872-41-5
+| ATC_prefix = none
+| PubChem = 3086547
+| IUPHAR_ligand = 244
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 16736758
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 9073C0W4E9
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 289753
+
+<!--Chemical data-->
+| C=16 | H=22 | Cl=1 | N=3 | O=2 
+| molecular_weight = 323.818 g/mol
+| smiles = Clc1cc(c(OC)cc1N)C(=O)N[C@@H]3CC[N@]2C[C@@H]3CCC2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H22ClN3O2/c1-22-15-8-13(18)12(17)7-11(15)16(21)19-14-4-6-20-5-2-3-10(14)9-20/h7-8,10,14H,2-6,9,18H2,1H3,(H,19,21)/t10-,14+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GZSKEXSLDPEFPT-IINYFYTJSA-N
+}}
+
+'''Renzapride''' is a [[gastroprokinetic agent]] and [[antiemetic]] which acts as a full [[5-HT4|5-HT<sub>4</sub>]] [[full agonist]] and [[5-HT3|5-HT<sub>3</sub>]] [[receptor antagonist|antagonist]].<ref name="pmid18095752">{{cite journal | vauthors = Meyers NL, Hickling RI | title = Pharmacology and metabolism of renzapride : a novel therapeutic agent for the potential treatment of irritable bowel syndrome. | journal = Drugs R D. | volume = 9 | issue = 1 | pages = 37–63 | year = 2008 | pmid = 18095752 }}</ref><ref>Camilleri M., McKinzie S., Fox J., Foxx-Orenstein A., Burton D., Thomforde G., Baxter K. and Zinsmeister A. R. (2004). "Effect of Renzapride on Transit in Constipation-Predominant Irritable Bowel Syndrome", ''Clin. Gastroent. and Hepatology''; '''2''':895-904</ref> It also functions as a [[5-HT2B receptor|5-HT<sub>2B</sub>]] antagonist and has some affinity for the [[5-HT2A|5-HT<sub>2A</sub>]] and [[5-HT2C|5-HT<sub>2C</sub>]] receptors.<ref name="pmid18095752" />
+
+Renzapride was being developed by Alizyme plc of the United Kingdom. In May 2016, [[EndoLogic]] LLC, a US based pharmaceutical and medical device company acquired the US and world wide patent rights to Renzapride. EndoLogic plans to develop Renzapride for the treatment of gastroparesis.
+
+[[Gastroparesis]] is a common condition affecting more than 20 million people in the US including 5 million diabetics. Currently, only one drug, [[metoclopramide]], dopamine D2 receptor antagonist, is FDA approved for the treatment of gastroparesis in the US.
+
+Patients treated with metoclopramide are at risk for serious side effects, some of which are permanent, such as [[tardive dyskinesia]], hence limiting the use of metoclopramide to no more than 12 weeks.
+
+== Clinical trials ==
+
+Renzapride was being investigated for the treatment of constipation-predominant [[irritable bowel syndrome]] (IBS-C). It is also potentially effective for [[irritable bowel syndrome]] with alternating stool pattern (IBS-A).  It is being developed by [[Alizyme]] [[Public limited company|plc]] of the United Kingdom.
+
+As of 23 April 2008, Alizyme ceased all development of renzapride, after a Phase III trial in the U.S. did not show enough efficacy over placebo to justify further development.<ref name=developmenthalted>{{cite press release |url=http://www.alizyme.com/alizyme/media/press/show.jsp?ref=128 |title=Results from Renzapride |date=23 April 2008 |publisher=Alizyme plc |accessdate=7 May 2009}}</ref>
+
+== References ==
+{{Reflist|2}}
+
+{{Antiemetics}}
+{{Propulsives}}
+{{Serotonergics}}
+
+[[Category:5-HT3 antagonists]]
+[[Category:Abandoned drugs]]
+[[Category:Anilines]]
+[[Category:Benzamides]]
+[[Category:Chloroarenes]]
+[[Category:Nitrogen heterocycles]]
+[[Category:Phenol ethers]]
+[[Category:Heterocyclic compounds (2 rings)]]

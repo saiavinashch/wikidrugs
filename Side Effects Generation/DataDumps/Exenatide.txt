@@ -1,0 +1,124 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 443485715
+| image = Exenatide sequence.svg
+
+<!--Clinical data-->
+| tradename = Byetta, Bydureon
+| pronounce = {{IPAc-en|audio=En-us-Exenatide.ogg|ɛ|g|z|'|ɛ|n|ə|t|aɪ|d}}
+| Drugs.com = {{drugs.com|monograph|exenatide}}
+| MedlinePlus = a605034
+| pregnancy_AU = C
+| pregnancy_US = C
+| pregnancy_category = 
+| legal_AU = S4
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = Rx-only
+| legal_status = Rx-only
+| routes_of_administration = subcutaneous injection
+
+<!--Pharmacokinetic data-->
+| bioavailability = N/A
+| protein_bound =  
+| metabolism = proteolysis
+| elimination_half-life = 2.4 h
+| excretion = renal/proteolysis
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 141732-76-5
+| ATC_prefix = A10
+| ATC_suffix = BJ01
+| IUPHAR_ligand = 1135
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01276
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 9P1872D4OL
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D04121
+|  PubChem = 16157882
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 17314184
+
+<!--Chemical data-->
+| C=184 | H=282 | N=50 | O=60 | S=1 
+| molecular_weight = 4186.6 g/mol
+|  smiles = [H]/N=C(\N)/NCCC[C@@H](C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](Cc1ccccc1)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc2c[nH]c3c2cccc3)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC(=O)N)C(=O)NCC(=O)NCC(=O)N4CCC[C@H]4C(=O)N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](C)C(=O)N5CCC[C@H]5C(=O)N6CCC[C@H]6C(=O)N7CCC[C@H]7C(=O)N[C@@H](CO)C(=O)N)NC(=O)[C@H](C(C)C)NC(=O)[C@H](C)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCSC)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CO)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](Cc8ccccc8)NC(=O)[C@H]([C@@H](C)O)NC(=O)CNC(=O)[C@H](CCC(=O)O)NC(=O)CNC(=O)[C@H](Cc9cnc[nH]9)N
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C184H282N50O60S/c1-16-94(10)147(178(289)213-114(52-58-144(257)258)163(274)218-121(73-101-77-195-105-39-24-23-38-103(101)105)168(279)215-116(68-90(2)3)165(276)205-107(41-26-28-61-186)158(269)219-122(75-134(189)243)154(265)198-79-135(244)196-83-139(248)231-63-30-43-129(231)175(286)225-127(87-238)174(285)223-125(85-236)155(266)200-80-136(245)202-96(12)181(292)233-65-32-45-131(233)183(294)234-66-33-46-132(234)182(293)232-64-31-44-130(232)176(287)222-124(84-235)150(190)261)229-170(281)119(71-99-34-19-17-20-35-99)217-166(277)117(69-91(4)5)214-159(270)108(42-29-62-194-184(191)192)212-177(288)146(93(8)9)228-151(262)95(11)203-156(267)111(49-55-141(251)252)208-161(272)112(50-56-142(253)254)209-162(273)113(51-57-143(255)256)210-164(275)115(59-67-295-15)211-160(271)110(47-53-133(188)242)207-157(268)106(40-25-27-60-185)206-172(283)126(86-237)224-167(278)118(70-92(6)7)216-169(280)123(76-145(259)260)220-173(284)128(88-239)226-180(291)149(98(14)241)230-171(282)120(72-100-36-21-18-22-37-100)221-179(290)148(97(13)240)227-138(247)82-199-153(264)109(48-54-140(249)250)204-137(246)81-197-152(263)104(187)74-102-78-193-89-201-102/h17-24,34-39,77-78,89-98,104,106-132,146-149,195,235-241H,16,25-33,40-76,79-88,185-187H2,1-15H3,(H2,188,242)(H2,189,243)(H2,190,261)(H,193,201)(H,196,244)(H,197,263)(H,198,265)(H,199,264)(H,200,266)(H,202,245)(H,203,267)(H,204,246)(H,205,276)(H,206,283)(H,207,268)(H,208,272)(H,209,273)(H,210,275)(H,211,271)(H,212,288)(H,213,289)(H,214,270)(H,215,279)(H,216,280)(H,217,277)(H,218,274)(H,219,269)(H,220,284)(H,221,290)(H,222,287)(H,223,285)(H,224,278)(H,225,286)(H,226,291)(H,227,247)(H,228,262)(H,229,281)(H,230,282)(H,249,250)(H,251,252)(H,253,254)(H,255,256)(H,257,258)(H,259,260)(H4,191,192,194)/t94-,95-,96-,97+,98+,104-,106-,107-,108-,109-,110-,111-,112-,113-,114-,115-,116-,117-,118-,119-,120-,121-,122-,123-,124-,125-,126-,127-,128-,129-,130-,131-,132-,146-,147-,148-,149-/m0/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = HTQBXNHDCUEHJF-XWLPCZSASA-N
+
+}}
+'''Exenatide''' (marketed as '''Byetta''', '''Bydureon''') is a [[glucagon-like peptide-1 agonist]] (GLP-1 agonist) medication, belonging to the group of [[incretin]] [[mimetics]], approved in April 2005 for the treatment of [[diabetes mellitus type 2]].  Exenatide in its Byetta form is administered as a [[subcutaneous injection]] (under the skin) of the abdomen, thigh, or arm, any time within the 60 minutes before the first and last meal of the day.<ref name="package insert">{{Citation
+ |author= 
+ |date=June 2008 
+ |title=US Package Insert &mdash; Draft 
+ |type=PDF 
+ |publisher=[[Eli Lilly and Company]] 
+ |url=http://pi.lilly.com/us/byetta-pi.pdf 
+ |accessdate=September 6, 2008 
+ |archiveurl=https://web.archive.org/web/20080820232725/http://pi.lilly.com/us/byetta-pi.pdf 
+ |archivedate=August 20, 2008 
+ |deadurl=yes 
+ |df= 
+}}</ref>  A once-weekly injection has been approved as of January 27, 2012 under the trademark Bydureon.<ref name="bydureon fda approved">{{cite news
+ |title=Diabetes Drug Injected Weekly Wins F.D.A. Approval |first=Andrew |last=Pollack |url=https://www.nytimes.com/2012/01/28/health/bydureon-a-diabetes-drug-from-amylin-wins-fda-approval.html |newspaper=[[The New York Times]] |publisher= |location= |isbn= |issn= |oclc= |pmid= |pmc= |bibcode= |doi= |id= |date=January 28, 2012 |page=B4 |accessdate=February 25, 2012 }}</ref> It is manufactured by [[Amylin Pharmaceuticals]] and commercialized by [[AstraZeneca]].
+
+== Medical use ==
+Exenatide is used to treat type 2 diabetes mellitus as an add-on to [[metformin]], a [[biguanide]], or a combination of metformin and a [[sulfonylurea]], or  [[thiazolidinediones]] such as [[pioglitazone]].{{mcn|date=October 2017}}
+
+As of 2017 it is unclear if they affect a person's risk of death.<ref>{{cite journal|last1=Liu|first1=J|last2=Li|first2=L|last3=Deng|first3=K|last4=Xu|first4=C|last5=Busse|first5=JW|last6=Vandvik|first6=PO|last7=Li|first7=S|last8=Guyatt|first8=GH|last9=Sun|first9=X|title=Incretin based treatments and mortality in patients with type 2 diabetes: systematic review and meta-analysis.|journal=BMJ (Clinical research ed.)|date=8 June 2017|volume=357|pages=j2499|pmid=28596247}}</ref>
+
+== Side effects ==
+The main [[Adverse drug reaction|side effect]]s of exenatide use are gastrointestinal in nature, including acid or sour stomach, belching, diarrhea, heartburn, indigestion, nausea, and vomiting; exenatide is therefore not meant for people with severe gastrointestinal disease. Other side effects include dizziness, headache, and feeling jittery.<ref name="drugs.com">[http://www.drugs.com/cons/byetta.html Drugs.com Accessed September 6, 2008].</ref> Drug interactions listed on the package insert include delayed or reduced concentrations of [[lovastatin]], [[paracetamol]] (acetaminophen), and [[digoxin]], although this has not been proven to alter the effectiveness of these other medications.   
+ 
+In response to [[post-marketing surveillance|postmarketing reports]] of [[acute pancreatitis]] in patients using exenatide, the [[United States Food and Drug Administration|FDA]] added a warning to the labeling of Byetta in 2007.<ref name="fda-1">[http://www.fda.gov/Medwatch/SAFETY/2007/safety07.htm#Byetta 2007 Safety Alerts for Drugs, Biologics, Medical Devices, and Dietary Supplements], from the [[U.S. Food and Drug Administration]]. Accessed August 28, 2008.</ref><ref name="FDA">{{cite web |url=http://www.fda.gov/Medwatch/SAFETY/2007/safety07.htm#Byetta |title=Byetta (exenatide) FDA warning |accessdate=2007-10-18 |work= }}</ref> In August 2008, four additional deaths from [[pancreatitis]] in users of exenatide were reported to the FDA; while no definite relationship had been established, the FDA was reportedly considering additional changes to the drug's labeling.<ref name="nyt-2008">[https://www.nytimes.com/2008/08/27/business/27drug.html Diabetes Drug Tied to New Deaths]. ''[[New York Times]]''. August 26, 2008; accessed August 28, 2008.</ref>  Examination of the medical records of the millions of patients part of the United Healthcare Insurance plans did not show any greater rate of pancreatitis among Byetta users than among diabetic patients on other medications.  However, diabetics do have a greater incidence of pancreatitis than do non-diabetics.
+
+It also may increase risk of sulfonylurea-induced [[hypoglycemia]].
+
+Additionally, the FDA has raised concerns over the lack of data to determine if the long-acting once-weekly version of exenatide (but not the twice-daily form of exenatide) may increase  [[thyroid cancer]] risk.  This concern comes out of observing a very small but nevertheless increased risk of thyroid cancer in rodents that was observed for another drug ([[liraglutide]]) that is in the same class as exenatide.  The data available for exenatide showed less of a risk towards thyroid cancer than liraglutide, but to better quantify the risk the FDA has required Amylin to conduct additional [[animal testing on rodents|rodent studies]] to better identify the thyroid issue.   The approved form of the once weekly exenatide [Bydureon] has a black box warning discussing the thyroid issue.    Eli Lilly has reported they have not seen a link in humans, but that it cannot be ruled out. Eli Lilly has stated the drug causes an increase in thyroid problems in rats given high doses.<ref>[http://www.pharmalot.com/2010/04/lillys-once-weekly-byetta-may-have-cancer-risk Lilly’s Once-Weekly Byetta May Have Cancer Risk // Pharmalot]. Pharmalot.com (2010-04-12). Retrieved on 2011-04-16.</ref>
+
+In March 2013, the FDA issued a Drug Safety Communication announcing investigations into incretin mimetics due to findings by academic researchers.<ref name='FDA, 2013'>{{cite web | url = http://www.fda.gov/Drugs/DrugSafety/ucm343187.htm | title = FDA investigating reports of possible increased risk of pancreatitis and pre-cancerous findings of the pancreas from incretin mimetic drugs for type 2 diabetes | accessdate = 2013-03-14 | date = March 3, 2013 | work = FDA | publisher = U.S. Food and Drug Administration}}</ref>  A few weeks later, the European Medicines Agency launched a similar investigation into GLP-1 agonists and DPP-4 inhibitors.<ref name='EMA, 2013'>{{cite web | url = http://www.ema.europa.eu/ema/index.jsp?curl=pages/news_and_events/news/2013/03/news_detail_001753.jsp&amp;,mid=WC0b01ac058004d5c1 | title = European Medicines Agency investigates findings on pancreatic risks with GLP-1-based therapies for type-2 diabetes | accessdate = 2013-03-26 | date = March 26, 2013 | work = EMA | publisher = European Medicines Agency Sciences Medicines Health}}</ref>
+
+==Mechanism of action - Pharmacology ==
+Exenatide binds to the intact human Glucagon-like peptide-1 receptor (GLP-1R) in a similar way to the human peptide [[glucagon-like peptide-1]] (GLP-1); exenatide bears a 50% amino acid homology to GLP-1 and it has a longer half-life ''in vivo''.<ref name="pmid28283573">{{cite journal |vauthors=Koole C, Reynolds CA, Mobarec JC, Hick C, Sexton PM, Sakmar TP |title = Genetically-Encoded Photocrosslinkers Determine the Biological Binding Site of Exendin-4 in the N-Terminal Domain of the Intact Human Glucagon-Like Peptide-1 Receptor (GLP-1R) |journal = Journal of Biological Chemistry |date=March 2017 |pmid = 28283573 |doi=10.1074/jbc.M117.779496 }}</ref>
+
+Exenatide is believed to facilitate glucose control in at least five ways:
+# Exenatide augments pancreas response<ref name="pmid19196887">{{cite journal |vauthors=Bunck MC, Diamant M, Cornér A, Eliasson B, Malloy JL, Shaginian RM, Deng W, Kendall DM, Taskinen MR, Smith U, Yki-Järvinen H, Heine RJ | title = One-year treatment with exenatide improves beta-cell function, compared with insulin glargine, in metformin-treated type 2 diabetic patients: a randomized, controlled trial. | journal = Diabetes Care | volume = 32 | issue = 5 | pages = 762–8 | year = 2009 | pmid = 19196887 | pmc = 2671094 | doi = 10.2337/dc08-1797 }}</ref> (i.e. increases insulin secretion) in response to eating meals; the result is the release of a higher, more appropriate amount of insulin that helps lower the rise in blood sugar from eating. Once blood sugar levels decrease closer to normal values, the pancreas response to produce insulin is reduced; other drugs (like injectable insulin) are effective at lowering blood sugar, but can "overshoot" their target and cause blood sugar to become ''too'' low, resulting in the dangerous condition of [[hypoglycemia]].
+# Exenatide also suppresses pancreatic release of [[glucagon]] in response to eating, which helps stop the liver from overproducing sugar when it is unneeded, which prevents [[hyperglycemia]] (high blood sugar levels).
+# Exenatide helps slow down [[gastric emptying]] and thus decreases the rate at which meal-derived glucose appears in the bloodstream.
+# Exenatide has a subtle yet prolonged effect to reduce appetite, promote [[satiety]] via [[hypothalamus|hypothalamic]] receptors (different receptors than for [[amylin]]). Most people using exenatide slowly lose weight, and generally the greatest weight loss is achieved by people who are the most overweight at the beginning of exenatide therapy. Clinical trials have demonstrated the weight reducing effect continues at the same rate through 2.25 years of continued use.  When separated into weight loss quartiles, the highest 25% experience substantial weight loss, and the lowest 25% experience no loss or small weight gain.
+# Exenatide reduces liver fat content. Fat accumulation in the liver or nonalcoholic fatty liver disease (NAFLD) is strongly related with several metabolic disorders, in particular low HDL cholesterol and high triglycerides, present in patients with type 2 diabetes. It became apparent that exenatide reduced liver fat in mice,<ref name="pmid16374859">{{cite journal |vauthors=Ding X, Saxena NK, Lin S, Gupta NA, Gupta N, Anania FA | title = Exendin-4, a glucagon-like protein-1 (GLP-1) receptor agonist, reverses hepatic steatosis in ob/ob mice. | journal = Hepatology | volume = 43 | issue = 1 | pages = 173–81 | year = 2006 | pmid = 16374859 | pmc = 2925424 | doi = 10.1002/hep.21006 }}</ref> rat<ref name="Ali ES 2016">{{cite journal |vauthors=Ali ES, Hua J, Wilson CH, Tallis GA, Zhou FH, Rychkov GY, Barritt GJ |title=The glucagon-like peptide-1 analogue exendin-4 reverses impaired intracellular Ca2+ signalling in steatotic hepatocytes |journal=BBA-Molecular Cell Research |doi=10.1016/j.bbamcr.2016.05.006 |pmid=27178543 |volume=1863 |year=2016 |pages=2135–46}}</ref> and more recently in man.<ref name="pmid16953843">{{cite journal |vauthors=Tushuizen ME, Bunck MC, Pouwels PJ, van Waesberghe JH, Diamant M, Heine RJ | title = Incretin mimetics as a novel therapeutic option for hepatic steatosis. | journal = Liver Int | volume = 26 | issue = 8 | pages = 1015–7 | year = 2006 | pmid = 16953843 | doi = 10.1111/j.1478-3231.2006.01315.x }}</ref>
+
+Recently it has been demonstrated that exenatide can reverse impaired calcium signalling in steatotic liver cells,<ref name="Ali ES 2016"/> which, in turn, might be associated with proper glucose control.
+
+==Chemistry==
+Exenatide is a synthetic version of exendin-4, a [[hormone]] found in the saliva of the [[Gila monster]] that was first isolated by [[John Eng MD]] in 1992 while working at the Veterans Administration Medical Center in the Bronx, New York. It is a 39-[[amino-acid]] [[peptide]], an insulin [[secretagogue]], with glucoregulatory effects. Exenatide was approved by the [[U.S. Food and Drug Administration|FDA]] on April 28, 2005 for patients whose diabetes was not well-controlled on other [[antidiabetic drug|oral medication]].<ref name="fda-approval">[http://www.fda.gov/cder/rdmt/InternetNDA05.htm CDER Drug and Biologic Approvals for Calendar Year 2005], from the [[U.S. Food and Drug Administration]]. Accessed August 28, 2008.</ref> The medication is injected subcutaneously twice per day using a filled pen-like device (Byetta), or on a weekly basis with either a pen-like device or conventional syringe (Bydureon). The abdomen is a common injection site, after the area is cleaned with an alcohol pad. A new pen must first be tested to see if the medicine is flowing.
+
+Commercially, exenatide is produced by direct chemical synthesis. Historically, exenatide was discovered as Exendin-4, a protein naturally secreted in the saliva and concentrated in the tail of the [[Gila monster]]. Exendin-4 shares extensive homology and function with mammalian GLP-1, but has a therapeutic advantage in its resistance to degradation by DPP-IV (which breaks down GLP-1 in mammals) therefore allowing for a longer pharmacological half life. The biochemical characteristics of Exendin-4 enabled consideration and development of exenatide as a diabetes mellitus treatment strategy. Given this history, exenatide is sometimes referred to as "lizard spit". Subsequent clinical testing led to the discovery of the also desirable glucagon and appetite-suppressant effects.
+
+==Society and culture==
+
+=== Lawsuit ===
+In August 2013, a federal judiciary panel approved the consolidation of 53 lawsuits against manufacturers of "GLP-1/DPP-4 products" before a judge in U.S. District Court in San Diego. Claims involving allegations of pancreatitis, pancreatic cancer and other side effects attributed to the use of Januvia, Janumet, Byetta and Victoza will continue to be eligible for review.  The order referenced the March 2013 FDA study announcement that included the drugs exenatide (Byetta, Bydureon), liraglutide (Victoza), sitagliptin (Januvia, Janumet, Janumet XR, Juvisync), [[saxagliptin]] (Onglyza, Kombiglyze XR), [[alogliptin]] (Nesina, Kazano, Oseni), and [[linagliptin]] (Tradjenta, Jentadueto).<ref name='USJP, 2013'>{{cite web | url = http://www.jpml.uscourts.gov/sites/jpml/files/MDL-2452-Initial_Transfer-07-13.pdf | title = IN RE: INCRETIN MIMETICS PRODUCTS LIABILITY LITIGATION | accessdate = 2013-08-26 | date = August 26, 2013 | work = USJP | publisher = United States Judicial Panel on Multidistric Litigation}}</ref>
+
+==References==
+{{reflist|35em}}
+
+==External links==
+*[http://www.fda.gov/medwatch/SAFETY/2008/Jun_PI/Byetta_10mcg_UserManual.pdf Instructions]
+*[http://www.byetta.com/ Byetta website]
+*[https://web.archive.org/web/20080820232725/http://pi.lilly.com/us/byetta-pi.pdf Byetta prescribing information (with clinical studies references)]
+*[https://www.nytimes.com/2006/03/02/business/02drug.html?ex=1227675600&en=a20f4f6973806013&ei=5035&partner=MARKETWATCH NY Times Article on Byetta]
+*{{MeshName|exenatide}}
+*[http://www.medscape.com/viewprogram/3418_pnt Conference, inc graphs of results with eventide ]
+
+{{Oral hypoglycemics and insulin analogs}}
+{{Peptidergics}}
+
+[[Category:Glucagon-like peptide-1 agonists]]
+[[Category:Anorectics]]
+[[Category:Eli Lilly and Company]]

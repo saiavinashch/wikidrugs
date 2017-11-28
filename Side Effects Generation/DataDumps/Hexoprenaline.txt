@@ -1,0 +1,95 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 444541801
+| IUPAC_name = (±)-4,4'-<nowiki/>{Hexane-1,6-diyl''bis''[imino(1-hydroxyethane-2,1-diyl)]}dibenzene-1,2-diol
+| image = Hexoprenaline.svg
+| width = 225px
+| chirality = [[Racemic mixture]]
+
+<!--Clinical data-->
+|pronounce={{IPAc-en|ˌ|h|ɛ|k|s|oʊ|ˈ|p|r|ɛ|n|ə|l|iː|n}} {{respell|HEKS|oh|PREN|ə|leen}}
+| tradename =  
+| Drugs.com = {{drugs.com|international|hexoprenaline}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = ℞-only
+| routes_of_administration = Oral ([[Tablet (pharmacy)|tablets]]), [[Intravenous therapy|IV]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 5–11% ([[Cmax (pharmacology)|T<sub>max</sub>]] = 2 hours)
+| protein_bound =  
+| metabolism = [[Catechol-O-methyl transferase|COMT]] (slow ''O''-methylation)
+| elimination_half-life = ~50 minutes (if taken orally)
+| excretion = Feces (~90%)<ref name="PI">{{cite web|title=Gynipral (hexoprenaline) Full Prescribing Information|url=http://grls.rosminzdrav.ru/Grls_View_v2.aspx?idReg=143837&t=|website=Russian State Register of Medicinal Products|publisher=Nycomed Austria GmbH. St. Peter-Straße 25, A-4020, Linz, Austria|accessdate=19 March 2016|language=Russian}}</ref>
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 3215-70-1
+| ATC_prefix = R03
+| ATC_suffix = AC06
+| ATC_supplemental = {{ATC|R03|CC05}}
+| PubChem = 3609
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB08957
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D08039
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = G9L6B3W684
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 3483
+
+<!--Chemical data-->
+| chemical_formula =  
+| C = 22 | H = 32 | N = 2 | O = 6 
+| molecular_weight = 420.499 g/mol
+| smiles = C1=CC(=C(C=C1C(CNCCCCCCNCC(C2=CC(=C(C=C2)O)O)O)O)O)O
+| synonyms = <small>4-[2-[6-<nowiki>[[</nowiki>2-(3,4-dihydroxyphenyl)-2-hydroxyethyl]amino]hexylamino]-1-hydroxyethyl]benzene-1,2-diol</small>
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C22H32N2O6/c25-17-7-5-15(11-19(17)27)21(29)13-23-9-3-1-2-4-10-24-14-22(30)16-6-8-18(26)20(28)12-16/h5-8,11-12,21-30H,1-4,9-10,13-14H2
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = OXLZNBCNGJWPRV-UHFFFAOYSA-N
+}}
+
+'''Hexoprenaline''' is a selective [[Beta2-adrenergic agonist|β<sub>2</sub> adrenergic receptor]] [[agonist]] used in the treatment of [[asthma]].<ref>{{cite journal|last1=Pinder|first1=RM|last2=Brogden|first2=RN|last3=Speight|first3=™|last4=Avery|first4=GS|title=Hexoprenaline|journal=Drugs|date=July 1977|volume=14|issue=1|pages=1–28|doi=10.2165/00003495-197714010-00001|pmid=195789}}<!--|accessdate=19 March 2016--></ref> Hexoprenaline is also used in some countries (such as [[Russia]] and [[Switzerland]]) as a [[tocolytic]] agent (i.e., labor suppressant), with the most common trade name being '''Gynipral'''.<ref name = "RLS">{{cite web|title=Gynipral (hexoprenaline) Tablets 0.5 mg, Solution for Intravenous Infusion 5 ''μ''g/mL (0.0005%)|url=http://www.rlsnet.ru/tn_index_id_1005.htm|website="RLS" (РЛС): Russian Register of Medical Products|language=Russian|accessdate=19 March 2016}}</ref> <ref name="Compendium">{{cite web|title=GYNIPRAL Inj Lös 10 mcg/2ml|url=https://compendium.ch/prod/gynipral-inj-los-10-mcg-2ml/de|website="Compendium": Swiss Register of Medical Products|language=German|accessdate=3 April 2017}}</ref> It is not approved by U.S. [[Food and Drug Administration|FDA]].
+
+==Contraindications==
+When used as a tocolytic, hexoprenaline is contraindicated in:
+* [[Hyperthyroidism]]
+* [[Cardiovascular disease]]s, e.g. cardiac [[arrhythmia]]s, [[tachycardia]], [[myocarditis]], [[Mitral insufficiency|mitral valve disease]] and [[aortic stenosis]]
+* [[Coronary artery disease|Ischemic heart disease]]
+* [[Hypertension]]
+* Angle-closure [[glaucoma]]
+* [[Placental abruption]], [[vaginal bleeding]] and inflammatory diseases of internal genitalia (such as [[endometritis]])
+* [[Shock (circulatory)|Shock]]
+* First trimester of [[pregnancy]]
+* [[Breastfeeding]]<ref name="PI" /><ref name = "RLS" />
+
+It should be used with caution in people with [[gestational diabetes]].
+
+==Drug-drug interactions==
+When concomitantly administered:
+* [[Beta blockers]] reduce or neutralize therapeutic effects of hexoprenaline
+* [[Xanthine|Methylxanthines]] ([[caffeine]], [[theobromine]], [[theophylline]]) increase its action
+* [[General anaesthetic]]s (e.g., [[halothane]]) and [[Adrenergic agonist|adrenergic receptor agonists]] may increase the risk of cardiovascular side effects, such as arrhythmia
+
+Hexoprenaline is contraindicated for use with [[Monoamine oxidase inhibitor|monoamine oxidase inhibitors (MAOIs)]], [[Tricyclic antidepressant|tricyclic antidepressant (TCAs)]], [[ergot]] alkaloids, and [[dihydrotachysterol]].<ref name = "RLS" />
+
+==References==
+<references/>
+
+{{Other gynecologicals}}
+{{Drugs for obstructive airway diseases}}
+{{Adrenergics}}
+
+[[Category:Antiasthmatic drugs]]
+[[Category:Beta-adrenergic agonists]]
+[[Category:Catecholamines]]
+[[Category:Tocolytics]]
+
+{{respiratory-system-drug-stub}}

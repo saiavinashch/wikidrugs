@@ -1,0 +1,65 @@
+{{Unreferenced|date=October 2009}}
+{{Drugbox
+| verifiedrevid = 399692611
+| IUPAC_name =  
+| image = Umirolimus.svg
+
+<!--Clinical data-->
+| tradename =  Biolimus, Biolimus A9, BA9
+| pregnancy_AU =  
+| pregnancy_US =  
+| pregnancy_category =  
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number = 851536-75-9
+| ATC_prefix =  
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem =  
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 24582455
+| KEGG = D09983
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=55 | H=87 | N=1 | O=14 
+| molecular_weight = 986.29
+| smiles = CCOCCO[C@@H]1CC[C@H](C[C@H]1OC)C[C@@H](C)[C@@H]2CC(=O)[C@@H](/C=C(/[C@H]([C@H](C(=O)[C@@H](C[C@@H](/C=C/C=C/C=C(/[C@H](C[C@@H]3CC[C@H]([C@@](O3)(C(=O)C(=O)N4CCCC[C@H]4C(=O)O2)O)C)OC)\C)C)C)OC)O)\C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C55H87NO14/c1-12-67-26-27-68-45-24-22-41(31-48(45)65-10)30-37(5)47-33-44(57)36(4)29-39(7)50(59)51(66-11)49(58)38(6)28-34(2)18-14-13-15-19-35(3)46(64-9)32-42-23-21-40(8)55(63,70-42)52(60)53(61)56-25-17-16-20-43(56)54(62)69-47/h13-15,18-19,29,34,36-38,40-43,45-48,50-51,59,63H,12,16-17,20-28,30-33H2,1-11H3/b15-13+,18-14+,35-19+,39-29+/t34-,36-,37-,38-,40-,41+,42+,43+,45-,46+,47+,48-,50-,51+,55-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YYSFXUWWPNHNAZ-PKJQJFMNSA-N
+| synonyms =  
+}}
+
+'''Umirolimus''' ([[International Nonproprietary Name|INN]]/[[United States Adopted Name|USAN]]),  is a macrocyclic lactone, a highly lipophilic derivative of [[sirolimus]], an [[immunosuppressant]].  This drug is proprietary to [[Biosensors International]], which uses it in its own drug-eluting stents, and licenses it to partners such as [[Terumo]]. 
+
+Umirolimus inhibits [[T cell]] and [[smooth muscle cell]] proliferation, and was designed for use in [[drug eluting stent]]s.  This analog has a chemical modification at position 40 of the [[rapamycin]] ring.  It has potent immunosuppressive properties that are similar to those of sirolimus, but the drug is more rapidly absorbed by the vessel wall, readily attaches and enters smooth muscle cell membranes causing cell cycle arrest at G0, and is comparable to sirolimus in terms of potency.
+
+==Physiological effects of Umirolimus==
+The key biologic event associated with the restenotic process is clearly the proliferation of smooth muscle cells in response to the expansion of a foreign body against the vessel wall. This proliferative response is initiated by the early expression of growth factors such as PDGF isoforms, bFGF, thrombin, which bind to cellular receptors. 
+
+However, the key to understanding the mechanism by which compounds like umirolimus inhibit cell proliferation is based on events which occur downstream of this growth factor binding. The signal transduction events which culminate in cell cycle arrest in the G1 phase are initiated as a result of ligand binding to an immunophilin known as FK binding protein-12. The FK designation was based on early studies conducted with tacrolimus, formerly known as FK-506, which binds this cytoplasmic protein with high affinity. 
+
+Subsequent investigations showed that rapamycin also binds to this intracellular target, forming an FKBP12–rapamycin complex which is not in itself inhibitory, but does have the capacity to block an integral protein kinase known as target of rapamycin (TOR). TOR was first discovered in yeast J.N. Heitman, N.R. Movva and M.N. Hall, Targets for cell cycle arrest by the immunosuppressant rapamycin in yeast, Science 253 (1991), pp.&nbsp;905–909. View Record in Scopus | Cited By in Scopus (434)and later identified in eukaryotic cells, where it was designated as mTOR, the mammalian target of rapamycin. The importance of mTOR is based on its ability to phosphorylate a number of key proteins, including those associated with protein synthesis (p70s6kinase) and initiation of translation (4E-BP1). 
+
+Of particular significance is the role that mTOR plays in the regulation of p27kip1, an inhibitor of cyclin-dependent kinases such as cdk2. The binding of agents like rapamycin and umirolimus to mTOR is thought to block mTOR's crucial role in these cellular events, resulting in arrest of the cell cycle, and ultimately, cell proliferation.
+
+==References==
+{{reflist}}
+
+{{Immunosuppressants}}
+
+[[Category:Immunosuppressants]]
+[[Category:Macrolides]]
+[[Category:Polyenes]]

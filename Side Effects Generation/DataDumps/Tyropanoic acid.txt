@@ -1,0 +1,66 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 386052594
+| ImageFile=Tyropanoate.png
+| ImageFile1 = Tyropanoic acid 3D ball.png
+| ImageSize1 = 250
+| ImageAlt1 = Ball-and-stick model of the tyropanoic acid molecule
+| IUPACName=2-[(3-butanamido-2,4,6-triiodophenyl)methyl]butanoic acid
+| OtherNames=2-<nowiki>[[</nowiki>2,4,6-triiodo-3-(1-oxobutylamino)phenyl]methyl]butanoic acid 
+|Section1={{Chembox Identifiers
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo=27293-82-9
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201261
+| PubChem=5611
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 5409
+|  EINECS = 248-389-8
+| SMILES=CCCC(=O)NC1=C(C=C(C(=C1I)CC(CC)C(=O)O)I)I
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C15H18I3NO3/c1-3-5-12(20)19-14-11(17)7-10(16)9(13(14)18)6-8(4-2)15(21)22/h7-8H,3-6H2,1-2H3,(H,19,20)(H,21,22)
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = YMOXVLQZFAUUKI-UHFFFAOYSA-N
+|  KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D01884
+|  MeSHName = D014441
+|  UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 4F05V145YR
+
+  }}
+|Section2={{Chembox Properties
+| Formula=C<sub>15</sub>H<sub>18</sub>I<sub>3</sub>NO<sub>3</sub>
+| MolarMass=641.02 g/mol
+| Appearance=
+| Density=
+| MeltingPt=
+| BoilingPt=
+| Solubility=
+  }}
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = V08
+| ATCCode_suffix = AC09
+}}
+|Section7={{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| AutoignitionPt =
+  }}
+}}
+
+'''Tyropanoic acid''' and its salt '''sodium tyropanoate''' are [[radiocontrast]] agents used in [[cholecystography]] ([[X-ray]] diagnosis of [[gallstone]]s).  Trade names include Bilopaque, Lumopaque, Tyropaque, and Bilopac.<ref>{{cite web|url=https://pubchem.ncbi.nlm.nih.gov/summary/summary.cgi?cid=5611|title=PubChem CID 5611}}</ref>  The molecule contains three heavy [[iodine]] atoms which obstruct X-rays in the same way as the calcium in bones to produce a visible image.  After injection it is rapidly excreted into the [[bile]].<ref>{{cite journal | doi = 10.1172/JCI109755 | pmid = 7364937 | pmc=371433 | volume=65 | issue=5 | title=Inhibition of hepatic binding of thyroxine by cholecystographic agents |date=May 1980 | journal=J. Clin. Invest. | pages=1032–40}}</ref>
+
+==References==
+<references />
+
+{{Contrast media}}
+
+[[Category:Iodoarenes]]
+[[Category:Carboxylic acids]]
+[[Category:Butyramides]]
+[[Category:Anilides]]
+
+
+{{pharmacology-stub}}
+{{organohalide-stub}}

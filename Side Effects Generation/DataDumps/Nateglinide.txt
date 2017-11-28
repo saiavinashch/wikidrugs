@@ -1,0 +1,100 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 462258838
+| IUPAC_name = (2''R'')-2-({[''trans''-4-(1-methylethyl)cyclohexyl]carbonyl}amino)-3-phenylpropanoic acid
+| image = Nateglinide.svg
+<!--Clinical data-->
+| tradename = Starlix
+| Drugs.com = {{drugs.com|monograph|nateglinide}}
+| MedlinePlus = a699057
+| licence_EU = Starlix
+| licence_US = Nateglinide
+| pregnancy_category =  
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 98%
+| metabolism =  
+| elimination_half-life = 1.5 hours
+<!--Identifiers-->
+| IUPHAR_ligand = 6833
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 105816-04-4
+| ATC_prefix = A10
+| ATC_suffix = BX03
+| ATC_supplemental =  
+| PubChem = 60026
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00731
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 10482084
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 41X3PWK4O2
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D01111
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 31897
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 286559
+<!--Chemical data-->
+| C=19 | H=27 | N=1 | O=3
+| molecular_weight = 317.423 g/mol
+| smiles = O=C(N[C@H](Cc1ccccc1)C(O)=O)[C@H]2CC[C@@H](CC2)C(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H27NO3/c1-13(2)15-8-10-16(11-9-15)18(21)20-17(19(22)23)12-14-6-4-3-5-7-14/h3-7,13,15-17H,8-12H2,1-2H3,(H,20,21)(H,22,23)/t15-,16-,17-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OELFLUMRDSZNSF-BRWVUGGUSA-N
+}}
+'''Nateglinide''' ([[International Nonproprietary Name|INN]], trade name '''Starlix''') is a [[drug]] for the treatment of [[type 2 diabetes]]. Nateglinide was developed by [[Ajinomoto]], a Japanese company and sold by the Swiss pharmaceutical company [[Novartis]].
+
+Nateglinide belongs to the [[meglitinide]] class of blood glucose-lowering drugs.
+
+==Pharmacology==
+Nateglinide lowers blood glucose by stimulating the release of [[insulin]] from the [[pancreas]]. It achieves this by closing [[Adenosine triphosphate|ATP]]-dependent [[potassium channels]] in the membrane of the [[beta cells|β cells]]. This depolarizes the [[beta cells|β cells]] and causes [[voltage-gated calcium channels]] to open. The resulting calcium influx induces fusion of insulin-containing vesicles with the cell membrane, and [[insulin]] secretion occurs.
+
+==Contraindications==
+Nateglinide is contraindicated in patients who:
+* have known [[hypersensitivity]] to the compound or any ingredient in the formulation.
+* are affected with type 1 (namely insulin-dependent) diabetes mellitus.
+* are in [[diabetic ketoacidosis]].
+
+==Comparisons with other drugs for type 2 diabetes==
+A study funded by [[Novo Nordisk]], the U.S. distributor for [[Repaglinide]], compared their product with Nateglinide in "A randomized, parallel-group, open-label, multicenter 16-week clinical trial".<ref>{{Citation
+| last = Rosenstock | first = Julio Rosenstock
+| last2 = Hassman | first2 = David R. 
+| last3 = Madder | first3 = Robert D. 
+| last4 = Brazinsky | first4 = Shari A. 
+| last5 = Farrell | first5 = James 
+| last6 = Khutoryansky | first6 = Naum 
+| last7 = Hale | first7 = Paula M. 
+| date = June 2004 
+| title = Repaglinide Versus Nateglinide Monotherapy:  A randomized, multicenter study 
+| journal = Diabetes Care 
+| volume = 27 
+| issue = 6
+| publisher = [[American Diabetes Association]] 
+| pages = 1265–1270
+| url = http://care.diabetesjournals.org/content/27/6/1265.full
+| accessdate = 2014-11-20 | doi=10.2337/diacare.27.6.1265}}</ref> They concluded that the two were similar, but "repaglinide monotherapy was significantly more effective than nateglinide monotherapy in reducing HbA1c and FPG values after 16 weeks of therapy."
+
+==Dosage==
+Nateglinide is delivered in 60&nbsp;mg & 120&nbsp;mg tablet form.
+==See also==
+*[[Repaglinide]]
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.starlix.com/index.jsp Starlix] - website of the manufacturer.
+*[http://www.starlix.com/info/about/howitworks.jsp How Nateglinide Works] - website of the manufacturer.
+
+{{Oral hypoglycemics}}
+{{Ion channel modulators}}
+
+[[Category:Potassium channel blockers]]
+[[Category:Meglitinides]]
+[[Category:Carboxamides]]

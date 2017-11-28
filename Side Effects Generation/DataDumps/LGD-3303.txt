@@ -1,0 +1,66 @@
+{{Drugbox
+| verifiedrevid = 414168979
+| IUPAC_name = 9-Chloro-2-ethyl-1-methyl-3-(2,2,2-trifluoroethyl)-3''H'',6''H'',7''H''-pyrrolo[3,2-''f'']quinolin-7-one
+| image = LGD-3303.svg
+| width = 250
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = [[Oral administration|Oral]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| index_label =
+| index2_label =
+| CAS_number = 917891-35-1
+| CAS_number2 = 1196133-39-7
+| ATC_prefix =  
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem = 25195253
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 7N4E1X2RJM
+| ChemSpiderID      = 35143239
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=16 | H=14 | Cl=1 | F=3 | N=2 | O=1 
+| molecular_weight = 342.743 g/mol
+| smiles = CCC1=C(C2=C(N1CC(F)(F)F)C=CC3=C2C(=CC(=O)N3)Cl)C
+| StdInChI = 1S/C16H14ClF3N2O/c1-3-11-8(2)14-12(22(11)7-16(18,19)20)5-4-10-15(14)9(17)6-13(23)21-10/h4-6H,3,7H2,1-2H3,(H,21,23)
+| StdInChIKey       = OMXGOGXEWUCLFI-UHFFFAOYSA-N
+}}
+
+'''LGD-3303''' is a drug which acts as a [[selective androgen receptor modulator]] (SARM), with good oral bioavailability. It is a selective agonist for the [[androgen receptor]], producing [[functional selectivity]] with effective dissociation of [[anabolic]] and [[androgen]]ic effects, acting as a partial agonist for androgenic effects, but a full agonist for anabolic effects.<ref>{{cite journal|first1=Eric G.|last1=Vajda|first2=Francisco J.|last2=López|first3=Peter|last3=Rix|first4=Robert|last4=Hill|title=Pharmacokinetics and Pharmacodynamics of LGD-3303 [9-Chloro-2-ethyl-1-methyl-3-(2,2,2-trifluoroethyl)-3''H''-pyrrolo-[3,2-''f'']quinolin-7(6''H'')-one], an Orally Available Nonsteroidal-Selective Androgen Receptor Modulator|url=http://jpet.aspetjournals.org/content/328/2/663.full|journal=Journal of Pharmacology and Experimental Therapeutics|date=1 February 2009|issn=1521-0103|pages=663–670|volume=328|issue=2|doi=10.1124/jpet.108.146811|pmid=19017848|first5=Yanling|last5=Chen|first6=Kyoung-Jin|last6=Lee|first7=Z.|last7=O'Brien|first8=William Y.|last8=Chang|first9=Martin D.|last9=Meglasson|first10=Yong-Hee|last10=Lee}}</ref> It has been investigated as a possible treatment for [[osteoporosis]], and was shown in animal studies to enhance the effectiveness of a [[bisphosphonate]] drug.<ref>{{cite journal|first1=Eric G|last1=Vajda|first2=Aimee|last2=Hogue|first3=Kimberly N|last3=Griffiths|first4=William Y|last4=Chang|title=Combination Treatment With a Selective Androgen Receptor Modulator q(SARM) and a Bisphosphonate Has Additive Effects in Osteopenic Female Rats|url=http://onlinelibrary.wiley.com/doi/10.1359/jbmr.081007/full|journal=Journal of Bone and Mineral Research|date=1 February 2009|issn=1523-4681|pages=231–240|volume=24|issue=2|doi=10.1359/jbmr.081007|pmid=18847323|first5=Kelven|last5=Burnett|first6=Yanling|last6=Chen|first7=Keith|last7=Marschke|first8=Dale E|last8=Mais|first9=Bijan|last9=Pedram|first10=Yixing|last10=Shen|first11=Arjan|last11=van Oeveren|first12=Lin|last12=Zhi|first13=Francisco J|last13=López|first14=Martin D|last14=Meglasson}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{Androgen receptor modulators}}
+
+[[Category:Hormonal agents]]
+[[Category:Indoles]]
+[[Category:Lactams]]
+[[Category:Organochlorides]]
+[[Category:Organofluorides]]
+[[Category:Selective androgen receptor modulators]]
+[[Category:Trifluoromethyl compounds]]
+
+
+{{genito-urinary-drug-stub}}

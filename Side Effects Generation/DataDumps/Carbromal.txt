@@ -1,0 +1,79 @@
+{{chembox
+| ImageFile = Carbromal.svg
+| ImageFile_Ref = {{chemboximage|correct|??}}
+| ImageName = Skeletal formula of carbromal
+| IUPACName = 2-Bromo-''N''-carbamoyl-2-ethylbutanamide
+|Section1={{Chembox Identifiers
+| CASNo = 77-65-6
+| CASNo_Ref = {{cascite|correct|??}}
+| PubChem = 6488
+| ChemSpiderID = 6243
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| UNII = 0Y299JY9V3
+| UNII_Ref = {{fdacite|correct|FDA}}
+| EINECS = 201-046-6
+| KEGG = D02619
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| MeSHName = carbromal
+| ChEMBL = 1697828
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| SMILES = CCC(Br)(CC)c(:[o]):[nH]:c(:[nH2]):[o]
+| SMILES1 = CCC(Br)(CC)C(=O)NC(N)=O
+| StdInChI = 1S/C7H13BrN2O2/c1-3-7(8,4-2)5(11)10-6(9)12/h3-4H2,1-2H3,(H3,9,10,11,12)
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OPNPQXLQERQBBV-UHFFFAOYSA-N
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+}}
+|Section2={{Chembox Properties
+| C=7 | H=13 | Br=1 | N=2 | O=2
+| Appearance = White crystals
+| Odor = Odourless
+| Density = 1.544 g/cm<sup>3</sup>
+| MeltingPtC = 119
+| Solubility = Soluble
+| SolubleOther = soluble in [[chloroform]], [[ether]], [[acetone]], [[benzene]]
+| LogP = 1.623
+| pKa = 10.69
+| pKb = 3.31
+}}
+|Section5={{Chembox Structure
+| CrystalStruct = rhombic
+}}
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = N05
+| ATCCode_suffix = CM04
+ }}
+|Section8={{Chembox Related
+| OtherFunction_label = ureas
+| OtherFunction = [[Bromisoval]]
+| OtherCompounds = {{unbulleted list|[[3-Ureidopropionic acid]]|[[beta-Ureidoisobutyric acid|''beta''-Ureidoisobutyric acid]]|[[Carbamoyl aspartic acid]]|[[n-Acetylaspartic acid|''N''-Acetylaspartic acid]]|[[Aceglutamide]]|[[n-Acetylglutamic acid|''N''-Acetylglutamic acid]]|[[Citrulline]]}}
+}}
+}}
+
+'''Carbromal''' is a [[hypnotic]]/[[sedative]] originally synthesized in 1909 by Bayer.<ref>{{cite patent|DE|225710}}</ref>
+
+==Synthesis==
+[[File:Carbromal synthesis.svg|center|700px|thumb|Carbromal synthesis: {{Cite patent|DE|225710}} (1910);<ref>Frdl. 10, 1160</ref><ref>Chem. Zentralbl. 1910, II, 1008.</ref> Patent literature:<ref>Slotta, Grundriss der modernen Arzneistoff-Synthese (Stuttgart, 1931)</ref><ref>H. P. Kaufmann, Arzneimittel-Synthese (Berlin, 1953).</ref>]]
+
+[[Diethylmalonic acid]] is decarboxylated to [[2-ethylvaleric acid]] then converted via a [[Hell-Volhard-Zelinsky reaction]] to α-bromo-α-ethylbutyryl bromide. Reaction with urea with affords carbromal ('''4''').
+
+==See also==
+* [[Acecarbromal]]
+* [[Bromisoval]]
+* [[Apronal]]
+
+==References==
+{{Reflist|2}}
+
+
+{{Hypnotics}}
+{{GABAAergics}}
+
+[[Category:Hypnotics]]
+[[Category:Sedatives]]
+[[Category:Ureas]]
+[[Category:Organobromides]]
+[[Category:GABAA receptor positive allosteric modulators]]
+
+
+{{sedative-stub}}

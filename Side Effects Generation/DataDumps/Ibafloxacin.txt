@@ -1,0 +1,72 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 444792426
+| IUPAC_name = 6,7-dihydro-5,8-dimethyl-9-fluoro-1-oxo-1H,5H-benzo(i,j)quinolizine-2-carboxylic acid
+| image = Ibafloxacin.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|ibafloxacin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 91618-36-9
+| ATCvet = yes
+| ATC_prefix = J01
+| ATC_suffix = MA96
+| ATC_supplemental =  
+| PubChem = 71186
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 53VPK9R0T5
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D04485
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 64324
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=15 | H=14 | F=1 | N=1 | O=3 
+| molecular_weight = 275.27 g/mol
+| smiles = Fc2cc1C(=O)/C(C(=O)O)=C\N3c1c(c2C)CCC3C
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C15H14FNO3/c1-7-3-4-9-8(2)12(16)5-10-13(9)17(7)6-11(14(10)18)15(19)20/h5-7H,3-4H2,1-2H3,(H,19,20)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = DXKRGNXUIRKXNR-UHFFFAOYSA-N
+}}
+
+'''Ibafloxacin''' ([[International Nonproprietary Name|INN]]) is a [[Fluoroquinolone]] [[antibiotic]] drug used in [[veterinary medicine]].<ref>{{Cite journal  | last1 = Horspool | first1 = LJ. | last2 = van Laar | first2 = P. | last3 = van den Bos | first3 = R. | last4 = Mawhinney | first4 = I. | title = Treatment of canine pyoderma with ibafloxacin and marbofloxacin--fluoroquinolones with different pharmacokinetic profiles. | journal = J Vet Pharmacol Ther | volume = 27 | issue = 3 | pages = 147–53 |date=Jun 2004 | doi = 10.1111/j.1365-2885.2004.00561.x | PMID = 15189300 }}</ref>
+
+==See also==
+*[[Fluoroquinolone]]
+
+==References==
+{{reflist}}
+
+{{QuinoloneAntiBiotics}}
+
+[[Category:Fluoroquinolone antibiotics]]
+[[Category:Nitrogen heterocycles]]
+[[Category:Heterocyclic compounds (3 rings)]]
+[[Category:Carboxylic acids]]
+
+
+{{antibiotic-stub}}

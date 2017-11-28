@@ -1,0 +1,82 @@
+{{Drugbox
+| verifiedrevid = 437199317
+| IUPAC_name = (1''R'',2''S'',3''S'',4''R'',6''S'')-4,6-diamino-3-{[3-deoxy-4-''C''-methyl-3-(methylamino)-β-<small>L</small>-arabinopyranosyl]oxy}-2-hydroxycyclohexyl 2-amino-2,3,4,6-tetradeoxy-6-(methylamino)-α-<small>D</small>-''erythro''-hexopyranoside
+| image = Micronomicin.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|micronomicin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = Eye drops, [[Intravenous therapy|IV]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number = 52093-21-7
+| ATC_prefix = S01
+| ATC_suffix = AA22
+| ATC_supplemental =  
+| PubChem = 107677
+| ChemSpiderID = 2301017
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = S9AZ0R40QV
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08219
+| synonyms = <small>(2''R'',3''R'',4''R'',5''R'')-2-[(1''S'',2''S'',4''S'',6''R'')-4,6-diamino-3-[(2''R'',3''R'',6''S'')-3-amino-6-(methylaminomethyl)oxan-2-yl]oxy-2-hydroxycyclohexyl]oxy-5-methyl-4-methylaminooxane-3,5-diol</small>
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=20 | H=41 | N=5 | O=7 
+| molecular_weight = 463.56 g/mol
+| smiles = C[C@@]1(CO[C@@H]([C@@H]([C@H]1NC)O)O[C@H]2[C@@H](C[C@@H](C([C@@H]2O)O[C@@H]3[C@@H](CC[C@H](O3)CNC)N)N)N)O
+| StdInChI=1S/C20H41N5O7/c1-20(28)8-29-19(14(27)17(20)25-3)32-16-12(23)6-11(22)15(13(16)26)31-18-10(21)5-4-9(30-18)7-24-2/h9-19,24-28H,4-8,21-23H2,1-3H3/t9-,10+,11-,12+,13-,14+,15+,16-,17+,18+,19+,20-/m0/s1
+| StdInChIKey = DNYGXMICFMACRA-XHEDQWPISA-N
+}}
+
+'''Micronomicin''' ([[International Nonproprietary Name|INN]]) is an [[aminoglycoside]] [[antibiotic]] for use on the eye.<ref>{{Cite journal 
+| doi = 10.7164/antibiotics.36.125 
+| last1 = Odakura | first1 = Y. 
+| last2 = Kase | first2 = H. 
+| last3 = Nakayama | first3 = K. 
+| title = Sagamicin and the related aminoglycosides: Fermentation and biosynthesis. III. Isolation and characterization of Micromonospora sagamiensis mutants blocked in gentamicin C1 pathway 
+| journal = The Journal of antibiotics 
+| volume = 36 
+| issue = 2 
+| pages = 125–130 
+| year = 1983 
+| pmid = 6833127
+}}</ref><ref>{{Cite journal 
+| last1 = Fukuda | first1 = M. 
+| last2 = Sasaki | first2 = K. 
+| title = Antibiotic ophthalmic solutions evaluated by pharmacokinetic parameters of maximum concentration in the aqueous 
+| journal = Nippon Ganka Gakkai zasshi 
+| volume = 106 
+| issue = 4 
+| pages = 195–200 
+| year = 2002 
+| pmid = 11979978
+}}</ref>
+
+==References==
+{{reflist}}
+
+{{AminoglycosideAntiBiotics}}
+
+[[Category:Aminoglycoside antibiotics]]
+
+
+{{antibiotic-stub}}

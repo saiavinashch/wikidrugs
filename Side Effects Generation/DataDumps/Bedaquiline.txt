@@ -1,0 +1,106 @@
+{{Drugbox
+| IUPAC_name        = (1''R'',2''S'')-1-(6-Bromo-2-methoxy-3-quinolyl)-4-dimethylamino-2-(1-naphthyl)-1-phenylbutan-2-ol
+| image             = Bedaquiline.svg
+| alt               = 
+| caption           =
+
+<!-- Clinical data -->
+| tradename         = Sirturo
+| Drugs.com         = {{drugs.com|monograph|bedaquiline-fumarate}}
+| MedlinePlus       = 
+| licence_US        = Bedaquiline
+| pregnancy_AU      = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US      = B
+| legal_status = Rx-only
+| routes_of_administration = by mouth
+
+<!-- Pharmacokinetic data -->
+| bioavailability   = 
+| protein_bound     = >99.9% <ref>{{cite web |title=Sirturo: Clinical Pharmacology |url=http://www.rxlist.com/sirturo-drug/clinical-pharmacology.htm |accessdate=28 April 2014 |deadurl=no |archiveurl=https://web.archive.org/web/20150228091528/http://www.rxlist.com/sirturo-drug/clinical-pharmacology.htm |archivedate=28 February 2015 |df= }}</ref>
+| metabolism        = Liver, by [[CYP3A4]]<ref name=IM />
+| elimination_half-life = 5.5 months <ref name=IM>{{cite web |title=Bedaquiline |url=http://www.imnotebook.com/content/bedaquiline |accessdate=28 April 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20130520135032/http://www.imnotebook.com/content/bedaquiline |archivedate=20 May 2013 |df= }}</ref>
+| excretion         = fecal<ref name = IM />
+
+<!-- Identifiers -->
+| CAS_number        = 843663-66-1
+| ATC_prefix        = J04
+| ATC_suffix        = AK05
+| PubChem           = 5388906
+| DrugBank          = 
+| ChemSpiderID      = 4534966
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 72292
+| ChEMBL = 376488
+| UNII              = 78846I289Y
+| KEGG = D09872
+| synonyms          = Bedaquiline fumarate,<ref name=AHFS2016/> TMC207,<ref name="Diacon2009">{{cite journal|vauthors=Diacon AH, Pym A, Grobusch M |title=The diarylquinoline TMC207 for multidrug-resistant tuberculosis.|journal=N Engl J Med|year=2009|volume=360|issue=23|pages=2397&ndash;405|doi=10.1056/NEJMoa0808427|pmid=19494215|display-authors=etal}}</ref> R207910, AIDS222089
+
+<!-- Chemical data -->
+| chemical_formula  = 
+| C=32 | H=31 | Br=1 | N=2 | O=2
+| molecular_weight  = 555.5 g/mol
+| smiles            = Brc1ccc2nc(OC)c(cc2c1)[C@@H](c3ccccc3)[C@](O)(c5c4ccccc4ccc5)CCN(C)C
+| StdInChI=1S/C32H31BrN2O2/c1-35(2)19-18-32(36,28-15-9-13-22-10-7-8-14-26(22)28)30(23-11-5-4-6-12-23)27-21-24-20-25(33)16-17-29(24)34-31(27)37-3/h4-17,20-21,30,36H,18-19H2,1-3H3/t30-,32-/m1/s1
+| StdInChIKey = QUIJNHUBAXPXFS-XLJNKUFUSA-N
+}}
+
+<!-- Definition and medical uses -->
+'''Bedaquiline''', sold under the brand name '''Sirturo''', is a medication used to treat active [[tuberculosis]].<ref name=AHFS2016>{{cite web|title=Bedaquiline Fumarate|url=https://www.drugs.com/monograph/bedaquiline-fumarate.html|publisher=The American Society of Health-System Pharmacists|accessdate=8 December 2016|deadurl=no|archiveurl=https://web.archive.org/web/20161220224150/https://www.drugs.com/monograph/bedaquiline-fumarate.html|archivedate=20 December 2016|df=}}</ref> It is specifically used to treat [[multi-drug-resistant tuberculosis|multidrug-resistant tuberculosis]] (MDR-TB) when other treatment cannot be used.<ref name=WHO2015Report/><ref name=AHFS2016/> It should be used along with at least three other [[medications for tuberculosis]].<ref name=WHO2015Report/><ref name=AHFS2016/> It is used by mouth.<ref name=WHO2015Report>{{cite book|title=The selection and use of essential medicines: Twentieth report of the WHO Expert Committee 2015 (including 19th WHO Model List of Essential Medicines and 5th WHO Model List of Essential Medicines for Children).|date=2015|publisher=World Health Organization|isbn=9789241209946|page=vii, 29|url=http://apps.who.int/iris/bitstream/10665/189763/1/9789241209946_eng.pdf?ua=1|accessdate=10 December 2016|deadurl=no|archiveurl=https://web.archive.org/web/20161220085929/http://apps.who.int/iris/bitstream/10665/189763/1/9789241209946_eng.pdf?ua=1|archivedate=20 December 2016|df=}}</ref>
+
+<!-- Side effects and mechanisms -->
+Common side effects include nausea, [[joint pains]], headaches, and chest pain.<ref name=AHFS2016/> Serious side effects include [[QT prolongation]], liver dysfunction, and an increased risk of death.<ref name=AHFS2016/> While harm during [[pregnancy]] has not been found, it has not been well studied in this population.<ref>{{cite web|title=Bedaquiline (Sirturo) Use During Pregnancy|url=https://www.drugs.com/pregnancy/bedaquiline.html|website=www.drugs.com|accessdate=10 December 2016|deadurl=no|archiveurl=https://web.archive.org/web/20161220224222/https://www.drugs.com/pregnancy/bedaquiline.html|archivedate=20 December 2016|df=}}</ref> It is in the [[diarylquinoline]] [[antimycobacterial]] class of medications.<ref name=AHFS2016/> It works by blocking the ability of ''[[M. tuberculosis]]'' to make [[adenosine 5'-triphosphate]] (ATP).<ref name=AHFS2016/>
+
+<!-- History and culture -->
+Bedaquiline was approved for medical use in the United States in 2012.<ref name=AHFS2016/> It is on the [[World Health Organization's List of Essential Medicines]], the most effective and safe medicines needed in a [[health system]].<ref name=WHO19th>{{cite web|title=WHO Model List of Essential Medicines (19th List)|url=http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|work=World Health Organization|accessdate=8 December 2016|date=April 2015|deadurl=no|archiveurl=https://web.archive.org/web/20161213052708/http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|archivedate=13 December 2016|df=}}</ref> The cost for six months is approximately $900 USD in low income countries, $3,000 USD in middle income countries, and $30,000 USD in high income countries.<ref name=WHO2015Report/>
+
+==Medical uses==
+Its use was formally approved (Dec 2012) by the U.S. [[Food and Drug Administration]] (FDA) for use in [[tuberculosis]] (TB) treatment, as part of a [[Fast track (FDA)|Fast-Track]] [[accelerated approval]], for use only in cases of [[multi-drug-resistant tuberculosis|multidrug-resistant tuberculosis]], and the more resistant [[extensively drug resistant tuberculosis]].<ref>{{Cite web |url=http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm333695.htm |title=Press Announcements - FDA approves first drug to treat multi-drug resistant tuberculosis |website=www.fda.gov |language=en  |date=Dec 2012 |deadurl=no |archiveurl=https://web.archive.org/web/20161219184517/http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm333695.htm |archivedate=2016-12-19 |df= }}</ref>
+
+{{as of|2013}} Both the [[World Health Organization]] (WHO) and US [[Centers for Disease Control and Prevention|Centers for Disease Control]] (CDC) have recommended (provisionally) that bedaquiline be reserved for patients with multidrug-resistant tuberculosis when an otherwise recommended regimen cannot be designed.<ref name=":3">{{Cite journal|last=Centers for Disease Control and Prevention|date=2013-10-25|title=Provisional CDC guidelines for the use and safety monitoring of bedaquiline fumarate (Sirturo) for the treatment of multidrug-resistant tuberculosis|journal=MMWR |volume=62|issue=RR-09|pages=1–12|issn=1545-8601|pmid=24157696}}</ref><ref>{{Cite book |url=https://www.ncbi.nlm.nih.gov/books/NBK154136/ |title=The use of bedaquiline in the treatment of multidrug-resistant tuberculosis : interim policy guidance. |last=WHO |year=2013 |deadurl=no |archiveurl=https://web.archive.org/web/20170910170334/https://www.ncbi.nlm.nih.gov/books/NBK154136/ |archivedate=2017-09-10 |df= }}</ref>
+
+===Clinical trials===
+Bedaquiline has been studied in [[Phases of clinical research|phase IIb]] studies for the treatment of multidrug-resistant tuberculosis while phase III studies are currently underway.<ref name=":0">{{Cite journal|last=Field|first=Stephen K.|date=2015-07-01|title=Bedaquiline for the treatment of multidrug-resistant tuberculosis: great promise or disappointment?|url=http://taj.sagepub.com/content/6/4/170|journal=Therapeutic Advances in Chronic Disease|language=en|volume=6|issue=4|pages=170–184|doi=10.1177/2040622315582325|issn=2040-6223|pmc=4480545|pmid=26137207|deadurl=no|archiveurl=https://web.archive.org/web/20151028071912/http://taj.sagepub.com/content/6/4/170|archivedate=2015-10-28|df=}}</ref> It has been shown to improve cure rates of smear-positive multidrug-resistant tuberculosis, though with some concern for increased rates of death (further detailed in the Adverse effects section).<ref name=":2" />
+
+Small studies have also examined its use as [[salvage therapy]] for [[Nontuberculous mycobacteria|non-tuberculous mycobacterial]] infections.<ref name=":0" />
+
+It is a component of the experimental BPaMZ combination treatment (bedaquiline + [[pretomanid]] + [[moxifloxacin]] + [[pyrazinamide]]).<ref name=TBA-BPaMZ>[https://www.tballiance.org/portfolio/regimen/bpamz BPaMZ @ TB Alliance] {{webarchive|url=https://web.archive.org/web/20170219100904/https://www.tballiance.org/portfolio/regimen/bpamz |date=2017-02-19 }}</ref><ref name=NS2017>[https://www.newscientist.com/article/2121354-two-new-drug-therapies-might-cure-every-form-of-tuberculosis/ Two new drug therapies might cure every form of tuberculosis. Feb 2017] {{webarchive|url=https://web.archive.org/web/20170220094956/https://www.newscientist.com/article/2121354-two-new-drug-therapies-might-cure-every-form-of-tuberculosis/ |date=2017-02-20 }}</ref>
+
+==Side effects==
+The most common side effects of bedaquiline in studies were nausea, joint and chest pain, and headache. The drug also has a [[boxed warning|black-box warning]] for increased risk of death and [[Cardiac dysrhythmia|arrhythmias]], as it may prolong the QT interval by blocking the [[hERG]] channel.<ref>Drugs.com: [http://www.drugs.com/sfx/sirturo-side-effects.html Sirturo Side Effects] {{webarchive|url=https://web.archive.org/web/20130923172727/http://www.drugs.com/sfx/sirturo-side-effects.html |date=2013-09-23 }}</ref> All patients on bedaquiline should have monitoring with a baseline and repeated [[EKG|ECGs]].<ref name="fdaprescribing" /> If a patient has a QTcF of > 500ms or a significant ventricular arrythmia, bedaquiline and other QT prolonging drugs should be stopped.
+
+There is considerable controversy over the approval for the drug, as one of the largest studies to date had more deaths in the group receiving bedaquiline that those receiving placebo.<ref name=":1">{{Cite journal|last=Cox|first=Edward|last2=Laessig|first2=Katherine|date=2014-08-21|title=FDA Approval of Bedaquiline — The Benefit–Risk Balance for Drug-Resistant Tuberculosis|url=http://dx.doi.org/10.1056/NEJMp1314385|journal=New England Journal of Medicine|volume=371|issue=8|pages=689–691|doi=10.1056/NEJMp1314385|issn=0028-4793|pmid=25140952}}</ref> 10 deaths occurred in the bedaquiline group out of 79, while 2 occurred in the placebo group, out of 81.<ref name=":2">{{Cite journal|last=Diacon|first=Andreas H.|last2=Pym|first2=Alexander|last3=Grobusch|first3=Martin P.|last4=de los Rios|first4=Jorge M.|last5=Gotuzzo|first5=Eduardo|last6=Vasilyeva|first6=Irina|last7=Leimane|first7=Vaira|last8=Andries|first8=Koen|last9=Bakare|first9=Nyasha|date=2014-08-21|title=Multidrug-Resistant Tuberculosis and Culture Conversion with Bedaquiline|url=http://dx.doi.org/10.1056/NEJMoa1313865|journal=New England Journal of Medicine|volume=371|issue=8|pages=723–732|doi=10.1056/NEJMoa1313865|issn=0028-4793|pmid=25140958}}</ref> Of the 10 deaths on bedaquiline, 1 was due to a motor vehicle accident, 5 were judged as due to progression of the underlying tuberculosis and 3 were well after the patient had stopped receiving bedaquiline.<ref name=":1" /> However there is still significant concern for the higher mortality in patients treated with bedaquiline, leading to the recommendation to limit its use to situations where a 4 drug regimen cannot otherwise be constructed, limit use with other medications that prolong the QT interval and the placement of a prominent [[Boxed warning|black box warning]].<ref name=":1" /><ref name=":0" />
+
+==Drug interactions==
+Bedaquiline should not be co-administered with other drugs that are strong inducers or inhibitors of [[CYP3A4]], the hepatic enzyme responsible for oxidative metabolism of the drug.<ref name="fdaprescribing">{{cite web|url=http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/204384s000lbl.pdf|title=Prescribing Information for Bedaquiline|accessdate=28 April 2014|deadurl=no|archiveurl=https://web.archive.org/web/20130824000016/http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/204384s000lbl.pdf|archivedate=24 August 2013|df=}}</ref> Co-administration with [[rifampin]], a strong CYP3A4 inducer, results in a 52% decrease in the [[Area under the curve (pharmacokinetics)|AUC]] of the drug. This reduces the exposure of the body to the drug and decreases the antibacterial effect. Co-administration with [[ketoconazole]], a strong CYP3A4 inhibitor, results in a 22% increase in the AUC, and potentially an increase in the rate of adverse effects experienced<ref name=fdaprescribing />
+
+Since bedaquiline can also prolong the QT interval, use of other QT prolonging drugs should be avoided.<ref name=":3" /> Other medications for tuberculosis that can prolong the QT interval include [[fluoroquinolones]] and [[clofazimine]].
+
+==Mode of action==
+Bedaquiline blocks the [[proton pump]] for [[ATP synthase]] of mycobacteria. ATP production is required for cellular energy production and its loss leads to cell death, even in dormant or nonreplicating mycobacteria.<ref name=":4" /> It is the first member of a new class of drugs called the [[diarylquinoline]]s.<ref name=":4">{{Cite journal|last=Worley|first=Marylee V.|last2=Estrada|first2=Sandy J.|date=2014-11-01|title=Bedaquiline: A Novel Antitubercular Agent for the Treatment of Multidrug-Resistant Tuberculosis|url=http://onlinelibrary.wiley.com/doi/10.1002/phar.1482/abstract|journal=Pharmacotherapy: The Journal of Human Pharmacology and Drug Therapy|language=en|volume=34|issue=11|pages=1187–1197|doi=10.1002/phar.1482|issn=1875-9114|deadurl=no|archiveurl=https://web.archive.org/web/20161220163412/http://onlinelibrary.wiley.com/doi/10.1002/phar.1482/abstract|archivedate=2016-12-20|df=}}</ref> Bedaquiline is bactericidal.<ref name=":4" />
+
+=== Resistance ===
+The specific part of ATP synthase affected by bedaquiline is subunit c which is encoded by the gene atpE. Mutations in atpE can lead to resistance. Mutations in drug [[Efflux (microbiology)|efflux pumps]] have also been linked to resistance.<ref>{{Cite journal|last=Andries|first=Koen|last2=Villellas|first2=Cristina|last3=Coeck|first3=Nele|last4=Thys|first4=Kim|last5=Gevers|first5=Tom|last6=Vranckx|first6=Luc|last7=Lounis|first7=Nacer|last8=Jong|first8=Bouke C. de|last9=Koul|first9=Anil|date=2014-07-10|title=Acquired Resistance of Mycobacterium tuberculosis to Bedaquiline|url=http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102135|journal=PLOS ONE|volume=9|issue=7|pages=e102135|doi=10.1371/journal.pone.0102135|issn=1932-6203|pmc=4092087|pmid=25010492|deadurl=no|archiveurl=https://web.archive.org/web/20170910170334/http://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0102135|archivedate=2017-09-10|df=}}</ref>
+
+==History==
+Bedaquiline was described for the first time in 2004 at the Interscience Conference on Antimicrobial Agents and Chemotherapy ([[American Society for Microbiology|ICAAC]]) meeting, after the drug had been in development for over seven years.<ref name="pmid17504204">{{cite journal|vauthors=Protopopova M, Bogatcheva E, Nikonenko B, Hundert S, Einck L, Nacy CA |title=In search of new cures for tuberculosis |journal=Med Chem |volume=3 |issue=3 |pages=301–16 |date=May 2007 |pmid=17504204 |doi=10.2174/157340607780620626 |url=http://www.sequella.com/docs/TB_Drugs_Review.pdf }}{{dead link|date=October 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> It was discovered by a team led by [[Koen Andries]] at [[Janssen Pharmaceutica]].<ref name="pmid17387738">{{cite journal |vauthors=de Jonge MR, Koymans LH, Guillemont JE, Koul A, Andries K | title = A computational model of the inhibition of Mycobacterium tuberculosis ATPase by a new drug candidate R207910 | journal = Proteins | volume = 67 | issue = 4 | pages = 971–80 |date=June 2007 | pmid = 17387738 | doi = 10.1002/prot.21376 | url =  }}</ref>
+
+Bedaquiline was approved for medical use in the United States in 2012.<ref name=AHFS2016/> 
+
+It is manufactured by [[Johnson & Johnson]] (J&J), who sought [[accelerated approval]] of the drug, a type of temporary approval for diseases lacking other viable treatment options.<ref name="wsj">{{cite web |title= J&J Tuberculosis Drug Gets Fast-Track Clearance |url= https://www.wsj.com/articles/SB10001424127887323320404578213421059138236 |date= December 31, 2012 |first1= Joseph |last1= Walker |first2= Nathalie |last2= Tadena |publisher= Wall Street Journal |accessdate= 2013-01-01 |deadurl= no |archiveurl= https://web.archive.org/web/20150923144004/http://www.wsj.com/articles/SB10001424127887323320404578213421059138236 |archivedate= September 23, 2015 |df=  }}</ref> By gaining approval for a drug that treats a neglected disease, J&J is now able to request expedited FDA review of a future drug.<ref name="bloom">{{cite web |title= J&J&J Sirturo Wins FDA Approval to Treat Drug-Resistant TB |url= https://www.bloomberg.com/news/2012-12-31/j-j-sirturo-wins-fda-approval-to-treat-drug-resistant-tb.html |date= December 31, 2012 |first= Anna |last= Edney |publisher= Bloomberg |accessdate= 2013-01-01 |deadurl= no |archiveurl= https://web.archive.org/web/20130104110903/http://www.bloomberg.com/news/2012-12-31/j-j-sirturo-wins-fda-approval-to-treat-drug-resistant-tb.html |archivedate= January 4, 2013 |df=  }}</ref>
+
+When it was approved by the FDA on the 28th December 2012, it was the first new medicine for TB in more than forty years.<ref>{{cite web|title=FDA Approves 1st New Tuberculosis Drug in 40 Years|url=http://abcnews.go.com/Health/wireStory/fda-approves-tuberculosis-40-years-18100650#.UOIPT-RQWe0|publisher=ABC News|accessdate=31 December 2012|deadurl=no|archiveurl=https://web.archive.org/web/20130104001025/http://abcnews.go.com/Health/wireStory/fda-approves-tuberculosis-40-years-18100650#.UOIPT-RQWe0|archivedate=4 January 2013|df=}}</ref><ref>{{cite web|title=F.D.A. Approves New Tuberculosis Drug|url=https://www.nytimes.com/2013/01/01/business/fda-approves-new-tuberculosis-drug.html?_r=0|publisher=New York Times|accessdate=31 December 2012|deadurl=no|archiveurl=https://web.archive.org/web/20130108021805/http://www.nytimes.com/2013/01/01/business/fda-approves-new-tuberculosis-drug.html?_r=0|archivedate=8 January 2013|df=}}</ref>
+
+==References==
+{{reflist|32em}}
+
+{{Antimycobacterials}}
+
+[[Category:Anti-tuberculosis drugs]]
+[[Category:Janssen Pharmaceutica]]
+[[Category:Bromoarenes]]
+[[Category:Quinolone antibiotics]]
+[[Category:Alcohols]]
+[[Category:Naphthalenes]]
+[[Category:World Health Organization essential medicines]]
+[[Category:RTT]]
+[[Category:ATP synthase inhibitors]]

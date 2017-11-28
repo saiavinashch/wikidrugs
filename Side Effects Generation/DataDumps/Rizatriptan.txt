@@ -1,0 +1,154 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 464382941
+| IUPAC_name = ''N'',''N''-dimethyl-2-[5-(1''H''-1,2,4-triazol-1-ylmethyl)-1''H''-indol-3-yl]ethanamine
+| image = Rizatriptan.svg
+<!--Clinical data-->
+| tradename = Maxalt
+| Drugs.com = {{drugs.com|monograph|maxalt}}
+| MedlinePlus = a601109
+| pregnancy_category = B1 <small>([[Australia|Au]])</small>, C <small>([[United States|U.S.]])</small>
+| legal_status = Rx-only
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability = 45%
+| protein_bound = 14%
+| metabolism = by [[monoamine oxidase]]
+| elimination_half-life = 2–3 hours
+| excretion = 82% [[urine]]; 12% [[faeces]]
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 145202-66-0
+| ATC_prefix = N02
+| ATC_suffix = CC04
+| ATC_supplemental =
+| PubChem = 5078
+| IUPHAR_ligand = 51
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00953
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4900
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = WR978S7QHH
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D00675
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 48273
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 905
+<!--Chemical data-->
+| C=15 | H=19 | N=5
+| molecular_weight = 269.345 g/mol
+| smiles = n1cncn1Cc2cc3c(cc2)ncc3CCN(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C15H19N5/c1-19(2)6-5-13-8-17-15-4-3-12(7-14(13)15)9-20-11-16-10-18-20/h3-4,7-8,10-11,17H,5-6,9H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ULFRLSNUDGIQQP-UHFFFAOYSA-N
+}}
+'''Rizatriptan''' (trade name '''Maxalt''') is a [[5-HT1 receptor|5-HT<sub>1</sub> receptor]] [[agonist]] of the [[triptan]] class of [[medication|drugs]] developed by [[Merck & Co.]] for the treatment of [[migraine]] [[headache]]s.<ref name="MedlinePlus">{{cite web|title=Rizatriptan|url=http://www.nlm.nih.gov/medlineplus/druginfo/meds/a601109.html|work=MedlinePlus|publisher=U.S. National Library of Medicine}}</ref> It is available in strengths of 5 and 10 mg as tablets and orally disintegrating tablets (Maxalt-MLT).
+
+Maxalt obtained approval by the United States [[Food and Drug Administration]] (FDA) on June 29, 1998. It is a second-generation triptan.
+
+Rizatriptan is available only by [[Medical prescription|prescription]] in [[Australia]], [[Finland]], the [[United States]], [[Canada]] and [[New Zealand]]. Similarly, it is classed as a POM (Prescription Only Medicine) in the [[United Kingdom]], [[Italy]] (as '''Rizaliv'''), [[France]], [[Israel]] (as '''Rizalt'''), [[Netherlands|The Netherlands]], [[Croatia]] and [[Spain]] (as ''Maxalt'').
+
+==Indications==
+Rizatriptan is FDA-approved to treat acute [[migraine]] attacks with or without [[aura (symptom)|aura]]. It does not prevent future migraine attacks.<ref name="MedlinePlus"/> Rizatriptan is also used off-label to treat [[cluster headache]]s.
+
+==Contraindications==
+* [[coronary artery disease]]
+* use of [[monoamine oxidase inhibitor]]s
+
+==Drug Interactions==
+* Monoamine oxidase inhibitors
+* [[Propranolol]]<ref name="Millson 2000">{{Cite journal
+ | pmid = 11249525
+| year = 2000
+| author1 = Millson
+| first1 = D
+| title = Migraine pharmacotherapy with oral triptans: a rational approach to clinical management.
+| journal = Expert Opin Pharmacother
+| volume = 1
+| issue = 3
+| pages = 391–404
+| last2 = Tepper
+| first2 = S
+ | doi= 10.1517/14656566.1.3.391
+}}</ref>
+
+==Adverse effects==
+{{col-begin}}{{col-break}}
+Severe:
+* [[serotonin syndrome]] when used with [[MAOI]]s
+* [[coronary artery]] [[vasospasm]]
+* transient [[myocardial ischemia]] {{nb10}}
+* [[myocardial infarction]]
+* ventricular [[tachycardia]]
+* ventricular [[fibrillation]]
+* [[hypertension|hypertensive crisis]]
+
+Atypical sensations:
+* [[paresthesia]]
+
+[[Cardiovascular]]:
+* [[palpitation]]s
+* [[Syncope (medicine)|syncope]]
+* [[hypertension]]
+* [[hypotension]]
+
+Ear, nose, and throat:
+* [[tinnitus]]
+* [[sinusitis]]
+* [[allergic]] [[rhinitis]]
+* [[upper respiratory tract]] [[inflammation]]
+{{col-break}}
+[[Gastrointestinal]]:
+* [[diarrhea]]
+
+Muscular:
+* [[myalgia]]
+
+Neurological:
+* [[phonophobia]]
+* [[photophobia]]
+
+Respiratory:
+* [[dyspnea]]
+
+Skin:
+* [[diaphoresis|sweating]]
+
+Miscellaneous:
+* [[hypersensitivity]]
+{{col-end}}
+
+==Mechanism of action==
+{{main|Serotonin receptor agonist}}
+Rizatriptan acts as an agonist at serotonin [[5-HT1B|5-HT<sub>1B</sub>]] and [[5-HT1D|5-HT<sub>1D</sub>]] receptors.<ref name="Wellington 2002">{{Cite journal
+ | pmid = 12093318
+| year = 2002
+| author1 = Wellington
+| first1 = K
+| title = Rizatriptan: An update of its use in the management of migraine
+| journal = Drugs
+| volume = 62
+| issue = 10
+| pages = 1539–74
+| last2 = Plosker
+| first2 = G. L.
+ | doi=10.2165/00003495-200262100-00007
+}}</ref> Like the other [[triptans]] [[sumatriptan]] and [[zolmitriptan]], rizatriptan induces [[vasoconstriction]]—possibly by inhibiting the release of [[calcitonin gene-related peptide]] from sensory neurons in the [[trigeminal nerve]].<ref name="Wellington 2002"/>
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.maxalt.com Maxalt] website by [[Merck & Co.]]
+
+{{Triptans}}
+{{Serotonergics}}
+{{Tryptamines}}
+{{Merck&Co}}
+
+[[Category:Merck]]
+[[Category:Triazoles]]
+[[Category:Triptans]]
+[[Category:5-HT1D agonists]]

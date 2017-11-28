@@ -1,0 +1,55 @@
+{{Drugbox
+| verifiedrevid = 455435138
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = xi/o
+| target = [[phosphatidylserine]]
+<!-- Clinical data -->
+| tradename = 
+| pregnancy_AU = 
+| pregnancy_US = 
+| pregnancy_category = 
+| legal_AU = 
+| legal_CA = 
+| legal_UK = 
+| legal_US = 
+| legal_status = 
+| routes_of_administration = infusion
+<!-- Pharmacokinetic data -->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 30 hrs
+| excretion =
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 648904-28-3
+| ATC_prefix = none
+| PubChem = 
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = Q16CT95N25
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = none
+<!-- Chemical data -->
+| C=6446 | H=9946 | N=1702 | O=2042 | S=42
+| molecular_weight = 145.3 kg/mol
+}}
+
+'''Bavituximab''' (PGN401) is a  human-mouse [[Chimera (protein)|chimeric]] [[monoclonal antibody]] against [[phosphatidylserine]], which is a component of cell membranes that is exposed when a cell is [[Malignant transformation|transformed]] into [[solid tumor]] cancer cell or dies,<ref name=Adis/><ref name=NDD2015>{{cite journal|last3=Freeman, G. J.|last2=Rennert P. D.|last1=Mahoney K. M.|title=Combination cancer immunotherapy and new immunomodulatory targets|url=|journal=Nature Reviews. Drug Discovery|volume=14|issue=8|pages=561-84|date=August 2015|pmid=26228759}}</ref> and when cells are infected with [[hepatitis C]].<ref name=2011HepRev/> The [[apoptosis|process of cell death]] is highly controlled and so there usually no immune response to phosphatidylserine but when bavituximab binds to it, the conjugate appears to stimulate an immune response in humans.<ref name=NDD2015/>
+
+Bavituximab was invented at University of Texas Southwestern Medical Center at Dallas; Peregrine exclusively licensed intellectual property related to bavituximab from the university, including US patent 6,300,308 invented by Alan J. Schroit and US Patents 6,406,693 and 6,312,694 invented in the laboratory Philip E. Thorpe.<ref>[https://www.sec.gov/Archives/edgar/data/704562/000101968715002732/peregrine_10k-043015.htm Peregrine's Annual Report for the fiscal year ended April 30, 2015]</ref>{{rp|6}}<ref name=PeregrineLicensePR>[http://ir.peregrineinc.com/releasedetail.cfm?ReleaseID=266159 Peregrine press release: Peregrine Pharmaceuticals Licenses Additional Intellectual Property for Its Anti-Phospholipid Therapy Platform Technology]. July 6, 2004</ref>  
+
+As of January 2016, bavituximab had been in a Phase III clinical trial for [[non-small cell lung cancer]], a Phase II/III trial for breast cancer, a Phase II trial for pancreatic cancer, a phase I/II trial for [[hepatocellular carcinoma]], and Phase I clinical trials in malignant melanoma and rectal cancer; its development had been discontinued for influenza and prostate cancer.<ref name=Adis>Staff, Adis Insight. [http://adisinsight.springer.com/drugs/800022616 Bavituximab profile] Last updated Jan 27 2016</ref> As of 2011 it had been in a Phase II trial for [[hepatitis C]]<ref name=2011HepRev>Ahn J, Flamm SL. Hepatitis C therapy: other players in the game. Clin Liver Dis. 2011 Aug;15(3):641-56. {{PMID|21867942}}</ref> but no results had been reported as of 2016.<ref name=Adis/>
+
+
+==References==
+{{reflist}}
+
+
+{{Monoclonals for tumors}}
+
+[[Category:Monoclonal antibodies for tumors]]
+[[Category:Experimental cancer drugs]]

@@ -1,0 +1,81 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 459984201
+| IUPAC_name = 4-amino-5-bromo-''N''-[2-(diethylamino)ethyl]-2-methoxybenzamide
+| image = Bromopride.svg
+| image2 = Bromopride-3D-balls.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|bromopride}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = Oral, [[intramuscular injection|IM]], [[intravenous therapy|IV]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 50 to 75% (oral)<br>78% ([[Intramuscular injection|intramuscular]])
+| protein_bound = 40%
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life = 4 to 5 hours
+| excretion = [[Kidney|Renal]], 10 to 14% unchanged
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 4093-35-0
+| ATC_prefix = A03
+| ATC_suffix = FA04
+| PubChem = 2446
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB09018
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2352
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 75473V2YZK
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07101
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 399510
+
+<!--Chemical data-->
+| C=14 | H=22 | Br=1 | N=3 | O=2 
+| molecular_weight = 344.248 g/mol
+| smiles = Brc1cc(c(OC)cc1N)C(=O)NCCN(CC)CC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C14H22BrN3O2/c1-4-18(5-2)7-6-17-14(19)10-8-11(15)12(16)9-13(10)20-3/h8-9H,4-7,16H2,1-3H3,(H,17,19)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GIYAQDDTCWHPPL-UHFFFAOYSA-N
+}}
+
+'''Bromopride''' ([[International Nonproprietary Name|INN]]) is a [[dopamine antagonist]] with [[prokinetic]] properties widely used as an [[antiemetic]], closely related to [[metoclopramide]]. It is not available in the [[United States]].
+
+Bromopride appears to be safe and effective for use in pregnancy.<ref>{{cite journal | author = Araújo JR | title = Evaluation of bromopride in nausea and vomiting of pregnancy | language = Portuguese | journal = J Bras Ginecol | year = 1981 | volume = 91 | issue = 4 | pages = 283–5}}</ref>
+
+==Indications==
+Bromopride is indicated in the treatment of [[nausea]] and [[vomiting]], including [[postoperative nausea and vomiting]] (PONV); [[gastroesophageal reflux disease]] (GERD/GORD); and as preparation for [[endoscopy]] and [[Upper GI series|radiographic studies of the gastrointestinal tract]]. The manufacturer also claims it is valuable in, among other indications, [[hiccups]] and gastrointestinal adverse effects of [[radiation therapy]].
+
+==Adverse effects==
+Bromopride is generally well tolerated; the most common [[adverse drug reaction|adverse effects]] of its use are [[somnolence]] and fatigue. Bromopride may rarely cause [[extrapyramidal symptoms]] and, as with metoclopramide, may increase [[prolactin]] levels.<ref>{{cite web | url = http://bulario.bvs.br/index.php?action=search.2004031716564761099966000112&mode=dir&letter=B | title = Bula do Profissional de Saúde: Bromoprida | date = April 11, 2006 | accessdate = 2007-07-23 | publisher = Brazilian National Health Surveillance Agency | work = Bulário Eletrônico da Anvisa | language = Portuguese | deadurl = yes | archiveurl = https://web.archive.org/web/20070928064543/http://bulario.bvs.br/index.php?action=search.2004031716564761099966000112&mode=dir&letter=B | archivedate = September 28, 2007 | df =  }}</ref>
+
+==Chemistry==
+Bromopride is a [[substituent|substituted]] [[benzamide]], closely related to [[metoclopramide]].<ref>{{cite journal |vauthors=Brodie RR, Chasseaud LF, Darragh A, Lambe RF, Rooney L, Taylor T |title=Pharmacokinetics and bioavailability of the anti-emetic agent bromopride |journal=Biopharm Drug Dispos |volume=7 |issue=3 |pages=215–22 |year=1986 |pmid=3730521 |doi=10.1002/bdd.2510070302}}</ref> It is identical to metoclopramide except for the presence of a [[bromine]] atom where metoclopramide has a [[chlorine]] substituent.
+
+==Availability==
+Bromopride is not available in the United States or the United Kingdom. It is marketed in [[Brazil]] by [[Sanofi-Synthélabo]] under the trade name ''Digesan'', by LIBBS under the name Plamet, and as a [[generic drug]].
+
+==References==
+{{Reflist}}
+
+{{Dopaminergics}}
+{{Propulsives}}
+
+[[Category:Antiemetics]]
+[[Category:Benzamides]]
+[[Category:Dopamine antagonists]]
+[[Category:Motility stimulants]]
+[[Category:Phenol ethers]]

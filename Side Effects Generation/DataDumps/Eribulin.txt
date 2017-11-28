@@ -1,0 +1,88 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 461094948
+| IUPAC_name = 2-(3-Amino-2-hydroxypropyl)hexacosahydro-3-methoxy- 26-methyl-20,27-bis(methylene)11,15-18,21-24,28-triepoxy- 7,9-ethano-12,15-methano-9''H'',15''H''-furo(3,2-i)furo(2',3'-5,6) pyrano(4,3-b)(1,4)dioxacyclopentacosin-5-(4''H'')-one
+| image = Eribulin.svg
+| width = 300
+
+<!--Clinical data-->
+| tradename = Halaven
+| Drugs.com = {{drugs.com|CDI|eribulin}}
+| MedlinePlus = a611007
+| licence_EU = <!-- EMEA requires brand name -->
+| licence_US = Eribulin
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = D
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = Intravenous
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 253128-41-5
+| ATC_prefix = L01
+| ATC_suffix = XX41
+| ATC_supplemental =  
+| PubChem = 17755248
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 21396142
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = LR24G6354G
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1237028
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=40 | H=59 | N=1 | O=11 
+| molecular_weight = 729.90 g/mol
+| smiles = O=C1C[C@@H]2[C@H]([C@H](O[C@H]2C[C@H]3O[C@H](C[C@H](C3=C)C)CC[C@H]4C(C[C@@H](O4)CC[C@]5(O6)C[C@@H]([C@@H]7O5)O[C@H]([C@H]7O[C@]8(CC9)[H])[C@@H]6[C@@]8([H])O[C@H]9C1)=C)C[C@@H](CN)O)OC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C41H61NO11/c1-20-12-26-7-9-29-21(2)13-25(46-29)6-5-11-41-18-34-37(52-41)38-39(51-34)40(53-41)36-30(50-38)10-8-27(48-36)14-23(43)15-28-32(17-31(47-26)22(20)3)49-33(35(28)45-4)16-24(44)19-42/h20,24-40,44H,2-3,5-19,42H2,1,4H3/t20-,24+,25+,26+,27-,28+,29+,30+,31-,32+,33-,34-,35-,36+,37+,38+,39-,40+,41+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IGHZKAIPGTYWLF-FAXVPLPQSA-N
+}}
+'''Eribulin''' is an [[anticancer drug]] marketed by [[Eisai Co.]] under the trade name '''Halaven'''. Eribulin is also known as E7389 and ER-086526, and also carries the US NCI designation NSC-707389. It is used to treat certain patients with breast cancer and liposarcoma.
+
+==Approvals and indications==
+
+===Breast cancer===
+The [[mesylate]] salt was approved by the [[U.S. Food and Drug Administration]] on November 15, 2010, to treat patients with [[metastatic breast cancer]] who have received at least two prior chemotherapy regimens for late-stage disease, including both [[anthracycline]]- and [[taxane]]-based [[chemotherapy|chemotherapies]].<ref>{{cite press release | title = FDA approves new treatment option for late-stage breast cancer | publisher = USFDA | date = 2010-11-15 | url = http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm233863.htm | accessdate = November 15, 2010}}</ref> It was approved by [[Health Canada]] on December 14, 2011, for treatment of patients with metastatic breast cancer who have previously received at least two chemotherapeutic regimens for the treatment of metastatic disease.<ref>[http://www.hc-sc.gc.ca/dhp-mps/prodpharma/sbd-smd/drug-med/nd_ad_2012_halaven_141946-eng.php Notice of Decision for HALAVEN]{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+===Liposarcoma===
+On January 28, 2016 the US FDA approved Halaven for the treatment of inoperable [[liposarcoma]] in patients who received prior chemotherapy that contained an [[anthracycline]] drug.<ref name=FDA-lipo2016>[http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm483714.htm FDA approves first drug to show survival benefit in liposarcoma. Jan 2016]</ref> A phase III trial reported: With Halaven the median [[overall survival]] for patients with liposarcoma was 15.6 months, compared to 8.4 months for patients treated with [[dacarbazine]].<ref name=FDA-lipo2016/>
+
+==Clinical trials==
+Eribulin is also being investigated by Eisai Co. for use in a variety of other solid tumors, including [[non-small cell lung cancer]], [[prostate cancer]] and [[sarcoma]].<ref>http://www.clinicaltrials.gov/ct2/results?term=eribulin+OR+E7389</ref>
+
+==Structure and mechanism==
+Eribulin is a fully synthetic [[macrocyclic]] [[ketone]] [[analog (chemistry)|analogue]] of the marine [[natural product]] [[halichondrin B]],<ref name="pmid11221827">{{cite journal | author = Towle MJ, Salvato KA, Budrow J, Wels BF, Kuznetsov G, Aalfs KK, Welsh S, Zheng W, Seletsky BM, Palme MH, Habgood GJ, Singer LA, Dipietro LV, Wang Y, Chen JJ, Quincy DA, Davis A, Yoshimatsu K, [[Kishi Y]], Yu MJ, Littlefield BA | title = In vitro and in vivo anticancer activities of synthetic macrocyclic ketone analogues of halichondrin B | journal = Cancer Res. | volume = 61 | issue = 3 | pages = 1013–21 |date=February 2001 | pmid = 11221827 | doi = | url =  }}</ref><ref name="isbn0-8493-1863-7">{{cite book | editor = Newman DJ, Kingston DGI, Cragg, GM | authorlink = | others = | title = Anticancer agents from natural products | edition = | language = | publisher = Taylor & Francis | location = Washington, DC | year = 2005 | chapter = Discovery of E7389, a fully synthetic macrocyclic ketone analogue of halichondrin B | author = Yu MJ, [[Kishi Y]], Littlefield BA | quote = | isbn = 0-8493-1863-7 | oclc = | doi = | url = | accessdate = }}</ref> the parent molecule being a potent naturally occurring [[mitotic inhibitor]] with a unique [[mechanism of action]] found in the ''[[Halichondria]]'' genus of [[demosponge|sponge]]s.<ref name="Hirata_1986">{{ cite journal |vauthors=Hirata Y, Uemura D | title=Halichondrins - antitumor polyether macrolides from a marine sponge | journal=Pure Appl. Chem. | year = 1986 | volume = 58 | issue = 5 | pages = 701–710 | doi = 10.1351/pac198658050701}}</ref><ref name="pmid1874739">{{cite journal |vauthors=Bai RL, Paull KD, Herald CL, Malspeis L, Pettit GR, Hamel E | title = Halichondrin B and homohalichondrin B, marine natural products binding in the vinca domain of tubulin. Discovery of tubulin-based mechanism of action by analysis of differential cytotoxicity data | journal = J. Biol. Chem. | volume = 266 | issue = 24 | pages = 15882–9 |date=August 1991 | pmid = 1874739 | doi = | url =  }}</ref>
+
+Eribulin is a mechanistically unique [[microtubule#Chemical effects on microtubule dynamics|inhibitor of microtubule dynamics]],<ref name="pmid16020666">{{cite journal |vauthors=Jordan MA, Kamath K, Manna T, Okouneva T, Miller HP, Davis C, Littlefield BA, Wilson L | title = The primary antimitotic mechanism of action of the synthetic halichondrin E7389 is suppression of microtubule growth | journal = Mol. Cancer Ther. | volume = 4 | issue = 7 | pages = 1086–95 |date=July 2005 | pmid = 16020666 | doi = 10.1158/1535-7163.MCT-04-0345 | url =  }}</ref><ref name="pmid18645010">{{cite journal |vauthors=Okouneva T, Azarenko O, Wilson L, Littlefield BA, Jordan MA | title = Inhibition of Centromere Dynamics by Eribulin (E7389) during Mitotic Metaphase | journal = Mol. Cancer Ther. | volume = 7 | issue = 7 | pages = 2003–11 |date=July 2008 | pmid = 18645010 | pmc = 2562299 | doi = 10.1158/1535-7163.MCT-08-0095 | url =  }}</ref> binding predominantly to a small number of high affinity sites at the plus ends of existing microtubules.<ref name="pmid20030375">{{cite journal |vauthors=Smith JA, Wilson L, Azarenko O, Zhu X, Lewis BM, Littlefield BA, Jordan MA | title = Eribulin Binds at Microtubule Ends to a Single Site on Tubulin to Suppress Dynamic Instability | journal = Biochemistry | volume = 49 | issue = 6 | pages = 1331–7 |date=February 2010 | pmid = 20030375 | pmc = 2846717 | doi = 10.1021/bi901810u | url =  }}</ref><ref>{{cite journal |last1=Wilson|first1=L |last2=Lopus|first2=M |last3=Miller|first3=HP |last4=Azarenko|first4=O |last5=Riffle|first5=S |last6=Smith|first6=JA |last7=Jordan|first7=MA |title=Effects of eribulin on microtubule binding and dynamic instability are strengthened in the absence of the βIII tubulin isotype |journal=Biochemistry |date=2015|volume=54|pages=6482–9|doi=10.1021/acs.biochem.5b00745|pmid=26435331}}</ref> 
+Eribulin has both cytotoxic and non-cytotoxic mechanisms of action.  Its cytotoxic effects are related to its antimitotic activities, wherein [[apoptosis]] of cancer cells is induced following prolonged and irreversible mitotic blockade.<ref name="pmid15313917">{{cite journal | author = Kuznetsov G, Towle MJ, Cheng H, Kawamura T, TenDyke K, Liu D, [[Kishi Y]], Yu MJ, Littlefield BA | title = Induction of morphological and biochemical apoptosis following prolonged mitotic blockage by halichondrin B macrocyclic ketone analog E7389 | journal = Cancer Res. | volume = 64 | issue = 16 | pages = 5760–6 |date=August 2004 | pmid = 15313917 | doi = 10.1158/0008-5472.CAN-04-1169 | url =  }}</ref><ref name="pmid21127197">{{cite journal |vauthors=Towle MJ, Salvato KA, Wels BF, Aalfs KK, Zheng W, Seletsky BM, Zhu X, Lewis BM, Kishi Y, Yu MJ, Littlefield BA | title = Eribulin induces irreversible mitotic blockade: implications of cell-based pharmacodynamics for in vivo efficacy under intermittent dosing conditions | journal = Cancer Res. | volume = 71 | issue = 2 | pages = 496–505 |date=January 2011 | pmid = 21127197 | doi = 10.1158/0008-5472.CAN-10-1874 | url =  }}</ref> In addition to its cytotoxic, antimitotic-based mechanisms, preclinical studies in human breast cancer models have shown that eribulin also exerts complex effects on the biology of surviving cancer cells and residual tumors that appear unrelated to its antimitotic effects. These non-mitotic mechanisms include vascular remodeling that leads to increased tumor perfusion and mitigation of tumor [[Tumor hypoxia|hypoxia]], phenotypic changes consistent with reversal of [[epithelial-mesenchymal transition]] (EMT), and decreased capacity for migration and invasion leading to reduced metastatic capacity as measured in a preclinical experimental metastasis model.<ref name="pmid25060424">{{cite journal | author = Funahashi Y, Okamoto K, Adachi Y, Semba T, Uesugi M, Ozawa Y, Tohyama O, Uehara T, Kimura T, Watanabe H, Asano M, Kawano S, Tizon X, McCracken PJ, Matsui J, Aoshima K, Nomoto K, Oda Y | title = Eribulin mesylate reduces tumor microenvironment abnormality by vascular remodeling in preclinical human breast cancer models | journal = Cancer Sci. | volume = 105 | issue = 10 | pages = 1334–42 |date=October 2014 | pmid = 25060424 | doi = 10.1111/cas.12488 | url =  }}</ref><ref name="pmid24569463">{{cite journal | author = Yoshida T, Ozawa Y, Kimura T, Sato Y, Kuznetsov G, Xu S, Uesugi M, Agoulnik S, Taylor N, Funahashi Y, Matsui J | title = Eribulin mesilate suppresses experimental metastasis of breast cancer cells by reversing phenotype from epithelial-mesenchymal transition (EMT) to mesenchymal-epithelial transition (MET) states | journal = Br. J. Cancer | volume = 110 | issue = 6 | pages = 1497-505 |date=March 2014 | pmid = 24569463 | doi = 10.1038/bjc.2014.80 | url =  }}</ref> In other studies, eribulin treatment of [[leiomyosarcoma]] and [[liposarcoma]] cells leads to increased expression of [[smooth muscle]] and [[adipocyte]] differentiation antigens, respectively.<ref name="pmid27069131">{{cite journal | author = Kawano S, Asano M, Adachi Y, Matsui J | title = Antimitotic and non-mitotic effects of eribulin mesilate in soft tissue sarcoma. | journal = Anticancer Res. | volume = 36 | issue = 4 | pages = 1553-61 |date=April 2016 | pmid = 27069131 | doi = | url =  }}</ref>
+
+A new synthetic route to the drug was published in 2009.<ref name="pmid19807076">{{cite journal | author = Kim DS, Dong CG, Kim JT, Guo H, Huang J, Tiseni PS, [[Kishi Y]] | title = New syntheses of E7389 C14-C35 and halichondrin C14-C38 building blocks: double-inversion approach | journal = J. Am. Chem. Soc. | volume = 131 | issue = 43 | pages = 15636–41 |date=November 2009 | pmid = 19807076 | doi = 10.1021/ja9058475 | url =  }}</ref>
+
+==References==
+{{reflist}}
+
+== External links ==
+
+{{Intracellular chemotherapeutic agents}}
+
+[[Category:Antineoplastic drugs]]
+[[Category:Macrocycles]]
+[[Category:Tetrahydropyrans]]
+[[Category:Tetrahydrofurans]]

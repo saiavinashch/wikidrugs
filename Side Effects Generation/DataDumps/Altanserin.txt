@@ -1,0 +1,561 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 438043109
+| IUPAC_name = 3-[2-[4-(4-fluorobenzoyl)piperidin-1-yl]ethyl]-2-sulfanylidene-1''H''-quinazolin-4-one
+| image = Altanserin.svg
+<!--Clinical data-->
+| tradename = 
+| pregnancy_category = 
+| legal_status = 
+| routes_of_administration = 
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 76330-71-7
+| ATC_prefix = none
+| ATC_suffix = 
+| PubChem = 3033677
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2298299
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 5015H744JQ
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 62919
+<!--Chemical data-->
+| C=22 | H=22 | F=1 | N=3 | O=2 | S=1
+| molecular_weight = 411.49 g/mol<ref name="ABX">ABX, [http://www.abx.de/chemicals/1810.pdf Altanserin], Radeberg, Germany.</ref>
+| SMILES = Fc1ccc(cc1)C(=O)C4CCN(CCN3C(=O)c2ccccc2NC3=S)CC4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H22FN3O2S/c23-17-7-5-15(6-8-17)20(27)16-9-11-25(12-10-16)13-14-26-21(28)18-3-1-2-4-19(18)24-22(26)29/h1-8,16H,9-14H2,(H,24,29)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SMYALUSCZJXWHG-UHFFFAOYSA-N
+}}
+
+'''Altanserin''' is a compound that [[Binding (molecular)|binds]] to the [[5-HT2A receptor|5-HT<sub>2A</sub> receptor]] (5-Hydroxytryptamine ([[serotonin]]) 2A receptor). Labeled with the [[isotope]] [[fluorine-18]] it is used as a [[radioligand]] in [[positron emission tomography]] (PET) studies of the [[brain]], i.e., studies of the 5-HT<sub>2A</sub> [[neuroreceptor]]s. Besides human [[neuroimaging]] studies altanserin has also been used in the study of [[rat]]s.<ref name="pmid1744713">{{cite journal | vauthors = Lemaire C, Cantineau R, Guillaume M, Plenevaux A, Christiaens L | title = Fluorine-18-altanserin: a radioligand for the study of serotonin receptors with PET: radiolabeling and in vivo biologic behavior in rats | journal = J. Nucl. Med. | volume = 32 | issue = 12 | pages = 2266–72 | year = 1991 | pmid = 1744713 | doi = | url = }}</ref><ref name="pmid9257335">{{cite journal | vauthors = Biver F, Lotstra F, Monclus M, Dethy S, Damhaut P, Wikler D, Luxen A, Goldman S | title = In vivo binding of [18F]altanserin to rat brain 5HT2 receptors: a film and electronic autoradiographic study | journal = Nucl. Med. Biol. | volume = 24 | issue = 4 | pages = 357–60 | year = 1997 | pmid = 9257335 | doi = 10.1016/s0969-8051(97)00054-1| url = }}</ref>
+
+An alternative for PET imaging the 5-HT<sub>2A</sub> receptor is the 
+&#91;[[Carbon-11|<sup>11</sup>C]]&#93;[[volinanserin]] (MDL-100,907) radioligand.
+<sup>18</sup>F-altanserin and [[tritium|<sup>3</sup>H]]-volinanserin have shown very comparable binding.<ref name="pmid16206185">{{cite journal | vauthors = Kristiansen H, Elfving B, Plenge P, Pinborg LH, Gillings N, Knudsen GM | title = Binding characteristics of the 5-HT2A receptor antagonists altanserin and MDL 100907 | journal = Synapse | volume = 58 | issue = 4 | pages = 249–57 | year = 2005 | pmid = 16206185 | doi = 10.1002/syn.20205 | url = }}</ref>
+Both altanserin and MDL 100,907 are 5-HT<sub>2A</sub> receptor [[Receptor antagonist|antagonist]]s.<ref name="pmid16206185"/>
+[<sup>18</sup>F]-[[setoperone]] can also be used in PET.
+
+An alternative [[SPECT]] radioligand is the [<sup>123</sup>I]-[[5-I-R91150]] receptor antagonist.<ref name="pmid12571204">{{cite journal | vauthors = Audenaert K, Van Laere K, Dumont F, Vervaet M, Goethals I, Slegers G, Mertens J, van Heeringen C, Dierckx RA | title = Decreased 5-HT2a receptor binding in patients with anorexia nervosa | journal = J. Nucl. Med. | volume = 44 | issue = 2 | pages = 163–9 | year = 2003 | pmid = 12571204 | doi = | url = }}</ref>
+
+A rapid chemical synthesis of fluorine-18 and [[deuterium|H-2]] dual-labeled altanserin has been described.<ref name="TanBaldwin1999">{{cite journal|last1=Tan|first1=Ping-Zhong|last2=Baldwin|first2=Ronald M.|last3=Fu|first3=Tao|last4=Charney|first4=Dennis S.|last5=Innis|first5=Robert B.|title=Rapid synthesis of F-18 and H-2 dual-labeled altanserin, a metabolically resistant PET ligand for 5-HT2a receptors|journal=Journal of Labelled Compounds and Radiopharmaceuticals|volume=42|issue=5|year=1999|pages=457–467|issn=0362-4803|doi=10.1002/(SICI)1099-1344(199905)42:5<457::AID-JLCR206>3.0.CO;2-0}}</ref>
+
+Other ligands for other parts of the serotonin system used in PET studies are, e.g., [[DASB]], [[ketanserin]], and [[WAY-100635]].
+
+== Human brain mapping studies with altanserin ==
+[[Image:ECAT-Exact-HR--PET-Scanner.jpg|thumb|left|200px|A [[PET scanner]]. Human experiments with fluorine-18 altanserin are performed in these types of brain scanners.]]
+{{As of|2007}} altanserin is probably not used in clinical routine.
+However, there have been performed several research-based [[neuroimaging]] studies with the compound in humans since the 1990s.<ref>{{Cite journal
+ |author1=Frangoise Biver |author2=Serge Goldman |author3=André Luxen |author4=Michel Monclus |author5=Manuel Forestini |author6=Julien Mendlewicz |author7=Françoise Lotstra | title = Multicompartmental study of fluorine-18 altanserin binding to brain 5HT2 receptors in humans using positron emission tomography
+ | journal = [[European Journal of Nuclear Medicine and Molecular Imaging]]
+ | volume = 21
+ | issue = 9
+ |date=September 1994
+ | doi = 10.1007/BF00238117
+ | pages = 937&ndash;946
+ | url = http://www.springerlink.com/content/j063h72754286373/
+}}</ref><ref>{{Cite journal
+ |vauthors=Sadzot B, Lemaire C, Maquet P, Salmon E, Plenevaux A, Degueldre C, Hermanne JP, Guillaume M, Cantineau R, Comar D | title = Serotonin 5HT2 receptor imaging in the human brain using positron emission tomography and a new radioligand, [18F]altanserin: results in young normal controls
+ | journal = [[Journal of Cerebral Blood Flow and Metabolism]]
+ |date=September 1995
+ | volume = 15
+ | issue = 5
+ | pages = 787&ndash;797
+ | pmid = 7673371
+ | doi =  10.1038/jcbfm.1995.99
+ | displayauthors = etal 
+ }}</ref> 
+Some of these studies have considered methodogical issues such as the [[reproducibility]] of the method<ref>{{Cite journal
+ | authors = Gwenn S. Smith, Julie C. Price, Brian J. Lopresti, Yiyun Huang, Norman Simpson, Daniel Holt, N. Scott Mason, Carolyn Cidis Meltzer, Robert A. Sweet, Thomas Nichols, Donald Sashin, Chester A. Mathis
+ | title = Test-retest variability of serotonin 5-HT<sub>2A</sub> receptor binding measured with positron emission tomography and [<sup>18</sup>F]altanserin in the human brain
+ | journal = [[Synapse (journal)|Synapse]]
+ | year = 1998
+ | volume = 30
+ | issue = 4
+ | pages = 380&ndash;392
+ | doi = 10.1002/(SICI)1098-2396(199812)30:4<380::AID-SYN5>3.0.CO;2-U
+ }}</ref><ref>{{Cite journal
+ |author1=Steven Haugbøl |author2=Lars H. Pinborg |author3=Haroon M. Arfan |author4=Vibe Frøkjær |author5=Jacob Madsen |author6=Tim B. Dyrby |author7=Claus Svarer |author8=Gitte M. Knudsen | title = Reproducibility of 5-HT<sub>2A</sub> receptor measurements and sample size estimations with [<sup>18</sup>F]altanserin PET using a bolus/infusion approach
+ | journal = [[European Journal of Nuclear Medicine and Molecular Imaging]]
+ | volume = 34
+ | issue = 6
+ |date=June 2007
+ | pages = 910&ndash;915
+ | doi = 10.1007/s00259-006-0296-y
+ | pmid = 17195073
+}}</ref>
+or whether to use constant infusion<ref>{{Cite journal
+ |author1=Christopher H. van Dyck |author2=Ping-Zhong Tan |author3=Ronald M. Baldwin |author4=Louis A. Amici |author5=Pradeep K. Garg |author6=Chin K. Ng |author7=Robert Soufer |author8=Dennis S. Charney |author9=Robert B. Innis | title = PET Quantification of 5-HT<sub>2A</sub> Receptors in the Human Brain: A Constant Infusion Paradigm with [<sup>18</sup>F]Altanserin
+ | journal = [[The Journal of Nuclear Medicine]]
+ | volume = 41
+ | issue = 2
+ | pages = 234&ndash;241 
+ | url = http://jnm.snmjournals.org/cgi/content/abstract/41/2/234
+ | pmid = 10688105
+ | date =  February 1, 2000 }}</ref> or bolus-infusion<ref>{{Cite journal
+ |author1=Lars H Pinborg |author2=Karen H Adams |author3=Claus Svarer |author4=Søren Holm |author5=Steen G Hasselbalch |author6=Steven Haugbøl |author7=Jacob Madsen |author8=Gitte M Knudsen | title = Quantification of 5-HT<sub>2A</sub> Receptors in the Human Brain Using &#91;<sup>18</sup>F&#93;Altanserin-PET and the Bolus/Infusion Approach
+ | journal = [[Journal of Cerebral Blood Flow & Metabolism]]
+ | year = 2003
+ | volume = 23
+ | pages = 985&ndash;996
+ | doi = 10.1097/01.WCB.0000074092.59115.23
+ | url = http://www.nature.com/jcbfm/journal/v23/n8/abs/9591447a.html
+ | pmid = 12902843
+ | issue = 8
+}}</ref> delivery of altanserin.
+Other studies have compared altanserin [[binding (molecular)|binding]] to subject variables such as [[ageing|age]], [[personality trait]] and [[neuropsychiatric disorder]].
+
+The altanserin PET scan shows high binding in [[neocortex]].
+The [[cerebellum]] is often regarded as a region with no specific 5-HT<sub>2A</sub> binding and the brain region is used as a reference in some studies, even though an [[autoradiography]] study has found nonnegligible levels of 5-HT<sub>2A</sub> binding in the human cerebellum,<ref>{{Cite journal
+ | authors = Sharon L. Eastwood, Philip W. J. Burnet, Rebecca Gittins, Kate Baker, Paul J. Harrison
+ | title = Expression of serotonin 5-HT<sub>2A</sub> receptors in the human cerebellum and alterations in schizophrenia
+ | journal = [[Synapse (journal)|Synapse]]
+ | volume = 42 
+ | issue = 2
+ | pages = 104&ndash;114
+ |date=November 2001
+ | doi = 10.1002/syn.1106
+ | pmid = 11574947
+ }}</ref>
+and another type of study have observed strong [[immunoreaction]] against 5-HT<sub>2A</sub> receptor protein in rat [[Purkinje cell]]s.<ref>{{Cite journal
+ | title = Serotonin2A receptor-like immunoreactivity in rat cerebellar Purkinje cells
+ | journal = [[Neuroscience Letters]]
+ |date=August 1998 
+ | volume = 252
+ | pages = 72&ndash;74
+ | pmid = 9756362
+ | doi = 10.1016/S0304-3940(98)00546-1
+ | issue = 1 
+| last2 = Shutoh
+ | last3 = Hamada
+ | last4 = Senzaki
+ | last5 = Hamaguchi-Hamada
+ | last6 = Ito
+ | last7 = Okado
+ | name-list-format=vanc
+ |author1 = Toru Maeshima|authorlink1 = Toru Maeshima}}</ref>
+
+In the table below is an overview of the results of altanserin binding seen in human PET-studies.
+A consistent finding across altanserin studies has been that the binding decreases with [[aging|age]].
+This is in line with ''[[in vitro]]'' studies of the 5-HT<sub>2A</sub> receptor,<ref>{{Cite journal
+ | title = Serotonin-2 binding sites in human frontal cortex and hippocampus. Selective loss of S-2A sites with age
+ | journal = [[Brain Research]]
+ |date=October 1984
+ | volume = 311
+ | issue = 1
+ | pages = 51&ndash;56
+ | pmid = 6488044
+ | doi = 10.1016/0006-8993(84)91397-0 
+| last2 = Morgan
+ | last3 = Winblad
+ | last4 = Finch
+ | name-list-format=vanc
+ |author1 = Jan O. Marcusson}}</ref> 
+as well as PET studies with other radioligands that binds to the receptor.<ref>{{Cite journal
+ | title = Effects of age on dopamine and serotonin receptors measured by positron tomography in the living human brain
+ | journal = [[Science (journal)|Science]]
+ |date=December 1984
+ | volume = 226
+ | issue = 4681
+ | pages = 1393&ndash;1396
+ | doi = 10.1126/science.6334363
+ | pmid = 6334363
+ | url = http://www.sciencemag.org/cgi/content/abstract/226/4681/1393
+| author2 = H. N. Wagner Jr
+ | displayauthors = 1
+ |author3 = R. F. Dannals| author4 = J. M. Links
+ | author5 = J. J. Frost
+ | author6 = H. T. Ravert
+ | author7 = A. A. Wilson
+ | author8 = A. E. Rosenbaum
+ | author9 = Albert Gjedde
+ | author10 = K. H. Douglass
+ |author1 = D. F. Wong| authorlink9 = Albert Gjedde
+ }}</ref>
+
+The result for recovered [[bulimia]]-type [[anorexia nervosa]]<ref name="pmid15054474">{{cite journal | vauthors = Bailer UF, Price JC, Meltzer CC, Mathis CA, Frank GK, Weissfeld L, McConaha CW, Henry SE, Brooks-Achenbach S, Barbarich NC, Kaye WH | title = Altered 5-HT(2A) receptor binding after recovery from bulimia-type anorexia nervosa: relationships to harm avoidance and drive for thinness | journal = Neuropsychopharmacology | volume = 29 | issue = 6 | pages = 1143–55 | year = 2004 | pmid = 15054474 | pmc = 4301578 | doi = 10.1038/sj.npp.1300430 | url = }}</ref>
+is in line with a SPECT study of anorexia nervosa patients, that found a decrease in frontal, occipital and parietal cortices.<ref name="pmid12571204" />
+The results of PET studies of the 5-HT<sub>2A</sub> in [[clinical depression|depression]] has been mixed.<ref name="pmid11063976">{{cite journal | vauthors = Fujita M, Charney DS, Innis RB | title = Imaging serotonergic neurotransmission in depression: hippocampal pathophysiology may mirror global brain alterations | journal = Biol. Psychiatry | volume = 48 | issue = 8 | pages = 801–12 | year = 2000 | pmid = 11063976 | doi = 10.1016/s0006-3223(00)00960-4| url = }}</ref>
+
+Altanserin binding has also been examine in [[twins]], where one study showed higher correlation between monozygotic twin pairs than between dizygotic twin pairs, giving evidence that the binding is "strongly genetically determined".<ref>{{Cite journal
+ | title = The 5-HT2A receptor binding pattern in the human brain is strongly genetically determined
+ | journal = [[NeuroImage]]
+ | volume = 40
+ | issue = 3
+ | pages = 1175–80
+ |date=April 2008
+ | doi = 10.1016/j.neuroimage.2007.09.019
+ | pmid = 18291676
+| last2 = Arfan
+ | last3 = Haugbol
+ | last4 = Kyvik
+ | last5 = Hjelmborg
+ | last6 = Svarer
+ | last7 = Frokjaer
+ | last8 = Paulson
+ | last9 = Holm
+ | last10 = Knudsen
+ | name-list-format=vanc
+ |author1 = Lars H. Pinborg|authorlink1 = Lars H. Pinborg}}</ref>
+
+{| class="wikitable" 
+|+ Altanserin neuroimaging studies
+|-
+! What !! Result !! Reference
+|-
+| [[Gender]]
+| Higher binding in men
+| <ref>{{Cite journal
+ |author1=Françoise Biver |author2=Françoise Lotstra |author3=Michel Monclus |author4=David Wikler |author5=Philippe Damhaut |author6=Julien Mendlewicz |author7=Serge Goldman | title = Sex difference in 5HT<sub>2</sub> receptor in the living human brain
+ | journal = [[Neuroscience Letters]]
+ | volume = 204
+ |date=February 1996
+ | pages = 25&ndash;28
+ | doi = 10.1016/0304-3940(96)12307-7
+ | pmid = 8929969
+ | issue = 1–2
+}}</ref> 
+|-
+| [[Body mass index]]
+| Correlation in cortex
+| <ref>{{Cite journal
+ | title = Brain serotonin 2A receptor binding: Relations to body mass index, tobacco and alcohol use
+ | author1 = D. Erritzoe
+ | author2 = V.G. Frokjaer
+ | author3 = S. Haugbol
+ | author4 = L. Marner
+ | author5 = C. Svarer
+ | author6 = K. Holst
+ | author7 = W.F.C. Baaré
+ | author8 = P.M. Rasmussen
+ | author9 = J. Madsen
+ | author10 = Gitte Moos Knudsen
+ | displayauthors=9
+ | journal = NeuroImage
+ | volume = 46
+ | issue = 1
+ |date=May 2009
+ | pages = 23–30
+ | doi = 10.1016/j.neuroimage.2009.01.050
+ | pmid = 19457377    
+| authorlink10 = Gitte Moos Knudsen
+ }}</ref>
+|-
+| [[Neuroticism]] ([[NEO PI-R]]) || Increase in frontolimbic region || <ref>{{Cite journal
+ | title = Frontolimbic Serotonin 2A Receptor Binding in Healthy Subjects Is Associated with Personality Risk Factors for Affective Disorder
+ | journal = [[Biological Psychiatry]]
+ | doi = 10.1016/j.biopsych.2007.07.009
+ | pmid = 17884017
+ | year = 2008
+ | volume = 63
+ | pages = 569–76
+ | issue = 6
+| last2 = Mortensen
+ | last3 = Nielsen
+ | last4 = Haugbol
+ | last5 = Pinborg
+ | last6 = Adams
+ | last7 = Svarer
+ | last8 = Hasselbalch
+ | last9 = Holm
+ | last10 = Paulson
+ | last11 = Knudsen
+ | name-list-format=vanc
+ | author1 = Vibe G. Frøkjær
+ }}</ref>
+|-
+| [[Tourette syndrome]] || Increase || <ref>{{Cite journal
+ | title = Cerebral 5-HT<sub>2A</sub> receptor binding is increased in patients with Tourette's syndrome
+ | journal = [[The International Journal of Neuropsychopharmacology]]
+ | doi =  10.1017/S1461145706006559
+ | year = 2008
+ | volume = 10
+ | pages = 245–52
+ | pmid = 16945163
+ | issue = 2
+| last2 = Pinborg
+ | last3 = Regeur
+ | first3 = Lisbeth
+ |first2 = Lars H.| last4 = Hansen
+ | first4 = Elsebet S.
+ | last5 = Bolwig
+ | first5 = Tom G.
+ | last6 = Nielsen
+ | first6 = Finn Å.
+ | last7 = Svarer
+ | first7 = Claus
+ | last8 = Skovgaard
+ | first8 = Lene T.
+ | last9 = Knudsen
+ | first9 = Gitte M.
+ | name-list-format=vanc
+ |author1 = Steven Haugbøl}}</ref>
+|-
+| [[Obsessive-compulsive disorder]] || Increase in [[caudate nucleus|caudate nuclei]] || <ref>{{Cite journal
+ | title = Patients with obsessive-compulsive disorder have increased 5-HT<sub>2A</sub> receptor binding in the caudate nuclei
+ | journal = [[International Journal of Neuropsychopharmacology]]
+ |date=September 2005
+ | volume = 8
+ | issue = 3
+ | pages = 391&ndash;401
+ | pmid = 15801987
+ | doi = 10.1017/S1461145705005055 
+| last2 = Hansen
+ | last3 = Pinborg
+ | last4 = Hasselbalch
+ | last5 = Svarer
+ | last6 = Holm
+ | last7 = Bolwig
+ | last8 = Knudsen
+ | name-list-format=vanc
+ |author1 = K. H. Adams}}</ref>
+|-
+| (Recovered) [[bulimia]]-type [[anorexia nervosa]]
+| Decrease in left [[subgenual cingulate]], left [[parietal cortex]] and right [[occipital cortex]]
+| <ref name="pmid15054474" />
+|-
+| [[Unipolar depression]]
+| Decrease in a region in right hemisphere (posterolateral [[orbitofrontal cortex]] and the anterior [[insular cortex]])
+| <ref>{{Cite journal
+ | authors = F. Biver, D. Wikler, F. Lotstra, P. Damhaut, S. Goldman, J. Mendlewicz
+ | title = Serotonin 5-HT2 receptor imaging in major depression: focal changes in orbito-insular cortex
+ | journal = [[British Journal of Psychiatry]]
+ |date=November 1997 
+ | volume = 171
+ | pages = 444&ndash;448
+ | pmid = 9463603
+ | doi = 10.1192/bjp.171.5.444
+ | issue = 5
+ }}</ref>
+|-
+| [[Major depressive disorder]]
+| Decrease in [[hippocampus]]
+| <ref>{{Cite journal
+ | title = Decreased hippocampal 5-HT2A receptor binding in major depressive disorder: in vivo measurement with [<sup>18</sup>F]altanserin positron emission tomography
+ | journal = [[Biological Psychiatry]]
+ | volume = 55
+ | issue = 3
+ |date=February 2004
+ | pages = 217&ndash;224
+ | doi = 10.1016/j.biopsych.2003.08.015
+| pmid=14744461
+| name-list-format=vanc
+ |author1 = Mark A. Mintun|author2 = Yvette I. Sheline| author3 = Stephen M. Moerlein
+ | author4 = Andrei G. Vlassenko
+ | author5 = Abraham Z. Snyder
+ | authorlink1 = Mark A. Mintun
+ | authorlink5 = Abraham Z. Snyder
+ }}</ref>
+|-
+| Older depressed patients
+| Decrease in [[hippocampus]]
+| <ref>{{Cite journal
+ | title =  Decreased hippocampal 5-HT<sub>2A</sub> receptor binding in older depressed patients using [<sup>18</sup>F]altanserin positron emission tomography
+ | journal = [[Neuropsychopharmacology (journal)|Neuropsychopharmacology]]
+ |date=December 2004
+ | volume = 29
+ | issue = 12
+ | pages = 2235&ndash;2241
+ | url = http://www.nature.com/npp/journal/v29/n12/abs/1300555a.html
+ | doi =  10.1038/sj.npp.1300555
+ | pmid = 15367923
+| last2 =  Mintun
+ | last3 =  Barch
+ | last4 =  Wilkins
+ | last5 =  Snyder
+ | last6 =  Moerlein
+ | name-list-format=vanc
+ |author1 = Yvette I. Sheline}}</ref>
+|-
+| [[Borderline personality disorder]] || Increase in [[hippocampus]]
+| <ref>{{Cite journal
+ | title = 5HT2A Receptor Binding is Increased in Borderline Personality Disorder
+ | authors = P. Soloff, J. Price, C. Meltzer, A. Fabio, G. Frank, W. Kaye
+ | journal = [[Biological Psychiatry]]
+ | volume = 62
+ | issue = 6
+ | pages = 580–587
+ | doi = 10.1016/j.biopsych.2006.10.022
+ | year = 2007
+ | pmid = 17448449
+ }}</ref>
+|-
+| [[Schizophrenia]]
+| No significant cortical difference, higher binding in [[caudate nucleus|caudate]]
+| <ref>{{Cite journal
+ | title = Cortical and Subcortical 5-HT<sub>2A</sub> Receptor Binding in Neuroleptic-Naive First-Episode Schizophrenic Patients
+ | journal = [[Neuropsychopharmacology (journal)|Neuropsychopharmacology]]
+ |date=February 2008
+ | doi = 10.1038/sj.npp.1301656
+ | pmid = 18288096
+ | volume = 33
+ | pages = 2435–41
+ | issue = 10
+| last2 = Rasmussen
+ | last3 = Kristiansen
+ | last4 = Frokjaer
+ | last5 = Haugbol
+ | last6 = Pinborg
+ | last7 = Baaré
+ | last8 = Svarer
+ | last9 = Madsen
+ | last10 = Lublin
+ | last11 = Knudsen
+ | last12 = Glenthoj
+ | name-list-format=vanc
+ |author1 = David Erritzoe}} Electronic publication ahead of print</ref>
+|-
+| [[At-risk mental state]]
+| Decrease
+| <ref>{{Cite journal
+ | title = 5-HT<sub>2A</sub> receptor density is decreased in the at-risk mental state
+ | journal = [[Psychopharmacology (journal)|Psychopharmacology]]
+ |date=January 2008
+ | volume = 195
+ | issue = 4
+ | pages = 579&ndash;590
+ | pmid = 17899021
+ | doi = 10.1007/s00213-007-0921-x
+| name-list-format=vanc
+ |author1 = René Hurlemann|author2 = Andreas Matusch| author3 = Kai-Uwe Kuhn
+ | author4 = Julia Berning
+ | author5 = David Elmenhorst
+ | author6 = Oliver Winz
+ | author7 = Heike Kolsch
+ | author8 = Karl Zilles
+ | author9 = Michael Wagner
+ | author10 = Wolfgang Maier Andreas Bauer
+ | authorlink8 = Karl Zilles
+ }}</ref> See also&nbsp;<ref>{{Cite journal
+ | title = Decreased prefrontal 5-HT2A receptor binding in subjects at enhanced risk for schizophrenia
+ | journal = [[Anatomy and Embryology]]
+ |date=December 2005
+ | volume = 210
+ | issue = 5–6
+ | pages = 519&ndash;523
+ | pmid = 16187138
+ | url = http://www.springerlink.com/content/p283r20161447148/
+ | doi = 10.1007/s00429-005-0036-2
+| name-list-format=vanc
+ |author1 = René Hurlemann|author2 = Christian Boy| author3 = Philipp T. Meyer
+ | author4 = Harald Scherk
+ | author5 = Michael Wagner
+ | author6 = Hans Herzog
+ | author7 = Heinz H. Coenen
+ | author8 = Kai Vogeley
+ | author9 = Peter Falkai
+ | author10 = Karl Zilles
+ | author11 = Wolfgang Maier Andreas Bauer
+ | authorlink10 = Karl Zilles
+ }}</ref>
+|-
+| [[Aging|Age]] || Decrease 
+| <ref>{{Cite journal
+ | authors = A. Rosier, P. Dupont, J. Peuskens, G. Bormans, R. Vandenberghe, M. Maes, T. de Groot, C. Schiepers, A. Verbruggen, L. Mortelmans
+ | title = Visualisation of loss of 5-HT2A receptors with age in healthy volunteers using [18F]altanserin and positron emission tomographic imaging
+ | journal = [[Psychiatry Research]]
+ |date=November 1996
+ | volume = 68
+ | issue = 1
+ | pages = 11&ndash;22
+ | pmid = 9027929
+ | doi = 10.1016/S0925-4927(96)02806-5
+ }}</ref>
+|-
+| [[Aging|Age]]
+| Decrease
+| <ref>{{Cite journal
+ | title = Reduced binding of [<sup>18</sup>F]altanserin to serotonin type 2A receptors in aging: persistence of effect after partial volume correction
+ | journal = [[Brain Research]]
+ | volume = 813
+ | issue = 1
+ |date=November 1998
+ | pages = 167&ndash;171
+ | doi = 10.1016/S0006-8993(98)00909-3
+| pmid=9824691
+| name-list-format=vanc
+ |author1 = Carolyn Cidis Meltzer|author2 = Gwenn Smith| author3 = Julie C. Price
+ | author4 = Charles F. Reynolds III
+ | author5 = Chester A. Mathis
+ | author6 = Phil Greer
+ | author7 = Brian Lopresti
+ | author8 = Mark A. Mintun
+ | author9 = Bruce G. Pollock
+ | author10 = Doron Ben-Eliezer
+ | author11 = Michael N. Cantwell
+ | author12 = Walter Kaye
+ | author13 = Steven T. DeKosky
+ | authorlink8 = Mark A. Mintun
+ | authorlink13 = Steven T. DeKosky
+ }}</ref>
+|-
+| [[Aging|Age]]
+| Decrease in [[cerebral cortex|cortical]] regions (except [[occipital cortex|occipital]]), increase in [[cerebellum]]
+| <ref>{{Cite journal
+ | title = A database of [<sup>18</sup>F]-altanserin binding to 5-HT<sub>2A</sub> receptors in normal volunteers: normative data and relationship to physiological and demographic variables
+ | journal = [[NeuroImage]]
+ |date=March 2004 
+ | volume = 21
+ | issue = 3
+ | pages = 1105&ndash;1113
+ | pmid = 15006678
+ | doi = 10.1016/j.neuroimage.2003.10.046
+| last2 = Pinborg
+ | last3 = Svarer
+ | last4 = Hasselbalch
+ | last5 = Holm
+ | last6 = Haugbøl
+ | last7 = Madsen
+ | last8 = Frøkjaer
+ | last9 = Martiny
+ | last10 = Paulson
+ | last11 = Knudsen
+ | name-list-format=vanc
+ |author1 = K. H. Adams}}</ref>
+|-
+| [[Mild cognitive impairment]]
+| Decrease
+| <ref>{{Cite journal | title= Reduced 5-HT<sub>2A</sub> receptor binding in patients with mild cognitive impairment| journal = [[Neurobiology of Aging]] | year =  2007 | pmid = 17544547 | doi= 10.1016/j.neurobiolaging.2007.04.011 | volume= 29 | pages= 1830–8 | issue= 12 | last2 = Madsen | last3 = Svarer | last4 = Pinborg | last5 = Holm | last6 = Paulson | last7 = Waldemar | last8 = Knudsen | name-list-format=vanc | author1= Hasselbalch SG}}</ref>
+|-
+| [[Alzheimer's disease]]
+| Decrease in [[amygdala|amygdalo]]-[[hippocampus|hippocampal]] complex and cortical regions, such as [[anterior cingulate]], [[lateral temporal cortex]], [[prefrontal cortex]] and [[sensorimotor cortex]]
+| <ref>{{Cite journal
+ | authors = Carolyn Cidis Meltzer, Julie C. Price, Chester A. Mathis, Phil J. Greer,  Michael N. Cantwell, Patricia R. Houck, Benoit H. Mulsant, Doron Ben-Eliezer, Brian Lopresti, Steven T. DeKosky, and Charles F. Reynolds, III
+ | title = PET Imaging of Serotonin Type 2A Receptors in Late-Life Neuropsychiatric Disorders
+ | journal = [[The American Journal of Psychiatry]]
+ | volume = 156
+ | pages = 1871&ndash;1878
+ |  url = http://ajp.psychiatryonline.org/cgi/content/abstract/156/12/1871
+ | pmid = 10588399
+ | issue = 12
+ | date =  December 1, 1999 }}</ref>
+|}
+
+==Synthesis==
+Condensation of ethyl anthranilates with isothiocyanates provides entry to a closely related compound in which the carbonyl at the 2 position is replaced by a [[Thioketone|thione]].
+[[File:Altanserin synthesis.svg|thumb|center|700px|Altanserin synthesis: {{US patent|4522945}}]]
+The sequence starts with the alkylation of pyrrolidine nitrogen in (1) with 2-bromoethylamine. Reaction of the primary amine in the product (2) with [[thiophosgene]] leads to the [[isothiocyanate]] derivative (3). Reaction of that reactive intermediate with methyl anthranilate (4) leads initially to the transient addition product (5). This then undergoes the customary internal ester exchange reaction to form the heterocyclic ring. There is thus obtained the serotonin antagonist ''altanserin'' (6).
+
+==References==
+{{Reflist|2}}
+
+{{Serotonin receptor modulators}}
+
+[[Category:5-HT2A antagonists]]
+[[Category:Fluoroarenes]]
+[[Category:Ketones]]
+[[Category:Lactams]]
+[[Category:PET radiotracers]]
+[[Category:Piperidines]]
+[[Category:Quinazolines]]
+[[Category:Thioureas]]

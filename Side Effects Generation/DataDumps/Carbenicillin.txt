@@ -1,0 +1,73 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 460017669
+| IUPAC_name = (2''S'',5''R'',6''R'')-6-{[carboxy(phenyl)acetyl]amino}-<br>3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]<br>heptane-2-carboxylic acid
+| image = Carbenicillin.svg
+<!--Clinical data-->
+| tradename = Geocillin
+| Drugs.com = {{drugs.com|monograph|geocillin}}
+| pregnancy_US = B
+| pregnancy_category = Passes into [[breast milk]]
+| legal_status= Rx-only
+| routes_of_administration = Oral, parenteral
+<!--Pharmacokinetic data-->
+| bioavailability = 30 to 40%
+| protein_bound = 30 to 60%
+| metabolism = Minimal
+| elimination_half-life = 1 hour
+| excretion = [[Kidney|Renal]] (30 to 40%)
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 4697-36-3
+| ATC_prefix = J01
+| ATC_suffix = CA03
+| ATC_supplemental =  
+| PubChem = 20824
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00578
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 19599
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = G42ZU72N5G
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 3393
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1214
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D07614
+<!--Chemical data-->
+| C=17 | H=18 | N=2 | O=6 | S=1
+| molecular_weight = 378.401 g/mol
+| smiles = O=C(O)[C@@H]2N3C(=O)[C@@H](NC(=O)C(c1ccccc1)C(=O)O)[C@H]3SC2(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H18N2O6S/c1-17(2)11(16(24)25)19-13(21)10(14(19)26-17)18-12(20)9(15(22)23)8-6-4-3-5-7-8/h3-7,9-11,14H,1-2H3,(H,18,20)(H,22,23)(H,24,25)/t9?,10-,11+,14-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = FPPNZSSZRUTDAP-UWFZAAFLSA-N
+}}
+'''Carbenicillin''' is a [[bactericidal]] [[antibiotic]] belonging to the [[carboxypenicillin]] subgroup of the [[penicillin]]s. It was discovered  by scientists at [[Beecham (pharmaceutical company)|Beecham]] and marketed as Pyopen. It has [[Gram-negative]] coverage which includes ''[[Pseudomonas aeruginosa]]'' but limited [[Gram-positive]] coverage. The carboxypenicillins are susceptible to degradation by [[beta-lactamase]] enzymes, although they are more resistant than [[ampicillin]] to degradation. Carbenicillin is also more stable at lower pH than ampicillin.
+
+== Pharmacology ==
+The antibiotic is highly soluble in water and is acid-labile. A typical lab working concentration is 50&nbsp;µg per ml.
+
+It is a semi-synthetic analogue of the naturally occurring benzyl-penicillin. Carbenicillin at high doses can cause bleeding. Use of carbenicillin can cause [[hypokalemia]] by promoting [[potassium]] loss at the [[distal convoluted tubule]] of the kidney.
+
+In [[molecular biology]], carbenicillin may be preferred as a selecting agent (see [[Plasmid stabilisation technology]]) because its breakdown results in byproducts with a lower toxicity than analogous antibiotics like [[ampicillin]]. Carbenicillin is more stable than ampicillin and results in fewer satellite colonies on selection plates.<!-- citation: <ref>{{cite web|last=Promega|title=Can carbenicillin be substituted for ampicillin when selecting for the pGEM® Vectors?|url=http://www.promega.com/resources/articles/pubhub/enotes/can-carbenicillin-be-substituted-for-ampicillin-when-selecting-for-the-pgem-vectors/|accessdate=23 August 2011}}</ref> --> However, in most situations this is not a significant problem so [[ampicillin]] is sometimes used due to its lower cost.
+
+==Spectrum of bacterial susceptibility and resistance==
+Carbenicillin has been shown to be effective against bacteria responsible for causing urinary tract infections including ''Pseudomonas aeruginosa, Escherichia coli'', and some ''Proteus'' species. The following represents carbenicillin susceptibility data for a few medically significant organisms. This is not representative of all species of bacteria susceptible to carbenicillin exposure.
+* ''Escherichia coli'' 1.56 μg/ml - 64 μg/ml
+* ''Proteus mirabilis'' 1.56 μg/ml - 3.13 μg/ml
+* ''Pseudomonas aeruginosa'' 3.13 μg/ml - >1024 μg/ml
+<ref>http://www.toku-e.com/Assets/MIC/Carbenicillin%20disodium%20USP.pdf</ref>
+
+==Additional reading==
+* {{cite journal |vauthors=Basker MJ, Comber KR, Sutherland R, Valler GH |title=Carfecillin: antibacterial activity in vitro and in vivo |journal=Chemotherapy |volume=23 |issue=6 |pages=424–35 |year=1977 |pmid=21771 |doi= 10.1159/000222012|url=}}
+* {{cite journal |vauthors=Pawełczyk E, Zajac M, Knitter B, Mikołajczak P |title=Kinetics of drug decomposition. Part 66. Kinetics of the hydrolysis of carphecillin in aqueous solution |journal=Polish journal of pharmacology and pharmacy |volume=33 |issue=3 |pages=373–86 |date=October 1981 |pmid=7322950 |doi= |url=}}
+
+==References==
+{{reflist|30em}}
+
+{{PenicillinAntiBiotics}}
+
+[[Category:Penicillins]]
+[[Category:Phenyl compounds]]

@@ -1,0 +1,99 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 458781657
+| IUPAC_name = Gold(+1) cation; 3,4,5-triacetyloxy-6- (acetyloxymethyl) oxane-2-thiolate; triethylphosphanium
+| image = Auranofin2DCSD.svg
+| image2 = Auranofin-from-xtal-3D-balls.png
+<!--Clinical data-->
+| tradename = Ridaura
+| Drugs.com = {{drugs.com|CDI|auranofin}}
+| MedlinePlus = a685038
+| pregnancy_AU = B3
+| pregnancy_US = C
+| pregnancy_category =  
+| legal_AU = S4
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = [[Oral administration|Oral]]
+<!--Pharmacokinetic data-->
+| bioavailability = 40%<ref name = kin>{{cite journal|last=Kean|first=WF|author2=Hart, L |author3=Buchanan, WW |title=Auranofin.|journal=British Journal of Rheumatology|date=May 1997|volume=36|issue=5|pages=560–72|doi=10.1093/rheumatology/36.5.560|pmid=9189058|url=http://rheumatology.oxfordjournals.org/content/36/5/560.full.pdf|format=PDF}}</ref><ref name = MSR>{{cite web|title=Ridaura (auranofin) dosing, indications, interactions, adverse effects, and more|work=Medscape Reference|publisher=WebMD|accessdate=13 March 2014|url=http://reference.medscape.com/drug/ridaura-auranofin-343186#showall}}</ref>
+| protein_bound =  60%<ref name = kin/><ref name = MSR/>
+| metabolism = Plasma membrane of the cell removes the acetyl groups of the glucose moiety. 
+| elimination_half-life =  21-31 hours<ref name = kin/><ref name = MSR/>
+| excretion = Urine (60%), faeces<ref name = kin/><ref name = MSR/>
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 34031-32-8
+| ATC_prefix = M01
+| ATC_suffix = CB03
+| ATC_supplemental =  
+| PubChem = 6333901
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 2922
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00995
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 21229878
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 3H04W2810V
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00237
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1366
+<!--Chemical data-->
+| C=20 | H=35
+| Au=1 | O=9
+| P=1 | S=1| charge = + 
+| molecular_weight = 679.493 g/mol
+| smiles = CC(=O)O[C@H]1O[C@@H](S[Au]P(CC)(CC)CC)[C@H](OC(C)=O)[C@@H](OC(C)=O)C1OC(C)=O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C13H18O9S.C6H15P.Au/c1-5(14)18-9-10(19-6(2)15)12(21-8(4)17)22-13(23)11(9)20-7(3)16;1-4-7(5-2)6-3;/h9-13,23H,1-4H3;4-6H2,1-3H3;/t9-,10?,11+,12-,13-;;/m0../s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = JCUNAWURTWIACY-YHEXQHTOSA-N
+}}
+
+'''Auranofin''' is a [[Gold salts|gold complex]] classified by the [[World Health Organization]] as an [[antirheumatic agent]].  It has the brand name '''Ridaura'''.
+
+==Use==
+Auranofin is used to treat [[rheumatoid arthritis]]. It improves arthritis symptoms including painful or tender and swollen joints and morning stiffness.<ref>{{MedlinePlusDrugInfo|medmaster|a685038}}</ref> Auranofin is a safer treatment compared to the more common injectable gold thiolates ([[gold sodium thiomalate]] and [[gold thioglucose]]), but [[meta-analysis]] of 66 clinical trials concluded that it is somewhat less effective.<ref>{{cite journal|last1=Felson|first1=David T.|last2=Anderson|first2=Jennifer J.|last3=Meenan|first3=Robert F.|title=The comparative efficacy and toxicity of second-line drugs in rheumatoid arthritis results of two metaanalyses|journal=Arthritis & Rheumatism|date=October 1990|volume=33|issue=10|pages=1449–1461|doi=10.1002/art.1780331001|url=http://onlinelibrary.wiley.com/doi/10.1002/art.1780331001/abstract}}</ref>
+
+==Research==
+
+===HIV infection===
+Auranofin is under investigation as a means of reducing the viral reservoir of [[HIV]] that lies latent in the body's [[T-cell]]s despite treatment with [[antiretroviral therapy]].<ref>
+[http://www.aidsmap.com/Gold-based-drug-shows-promise-in-clearing-HIV-reservoir-in-monkey-study/page/1771585/ Gold-based drug shows promise in clearing HIV reservoir in monkey study].  Keith Alcorn. AIDSmaps.com.  Accessed 23 April 2011.</ref>
+
+===Amebiasis===
+Auranofin has been identified in a high-throughput drug screen as 10 times more potent than [[metronidazole]] against ''[[Entamoeba histolytica]]'', the protozoan agent of human [[amebiasis]]. Assays of [[thioredoxin reductase]] and transcriptional profiling suggest that the effect of auranofin on the enzyme enhances the sensitivity of the trophozoites to reactive oxygen-mediated killing in mouse and hamster models; the results are marked reductions of the number of parasites, the inflammatory reaction to the infestation, and the damage to the liver.<ref>{{cite journal | doi = 10.1038/nm.2758 | pmid = 22610278 | title = A high-throughput drug screen for Entamoeba histolytica identifies a new lead and target | year = 2012 | last1 = Debnath | first1 = Anjan | last2 = Parsonage | first2 = Derek | last3 = Andrade | first3 = Rosa M | last4 = He | first4 = Chen | last5 = Cobo | first5 = Eduardo R | last6 = Hirata | first6 = Ken | last7 = Chen | first7 = Steven | last8 = García-Rivera | first8 = Guillermina | last9 = Orozco | first9 = Esther | last10 = Martínez | first10 = Máximo B | last11 = Gunatilleke | first11 = Shamila S | last12 = Barrios | first12 = Amy M | last13 = Arkin | first13 = Michelle R | last14 = Poole | first14 = Leslie B | last15 = McKerrow | first15 = James H | last16 = Reed | first16 = Sharon L | journal = Nature Medicine| volume = 18 | issue = 6 | pages = 956–60 | pmc=3411919}}</ref><ref>{{cite web | url = http://www.sciencedaily.com/releases/2012/05/120520133508.htm | title = Drug Found for Parasite That Is Major Cause of Death Worldwide | publisher = Science Daily}}</ref><ref>{{cite web | url = http://www.sciencedaily.com/releases/2012/05/120520133503.htm  | title = Arthritis Drug Effective Against Global Parasite, Study Suggests | publisher = Science Daily}}</ref>
+
+===Tuberculosis===
+In a cell-based screen, auranofin showed potent activity against replicating and non-replicating ''[[M. tuberculosis]]'' as well as other gram-positive bacteria.  Auranofin protected mice from an otherwise lethal infection with [[Methicillin-resistant Staphylococcus aureus|methicillin-resistant ''S. aureus'']] (MRSA).  The drug acts in a similar manner in bacteria as in parasites by inhibiting thioredoxin reductase (TrxR).  Studies in humans are needed to evaluate the potential of this drug to treat Gram-positive bacterial infections in humans.<ref>{{cite journal | doi = 10.1073/pnas.1504022112 | title = Auranofin exerts broad-spectrum bactericidal activities by targeting thio-redox homeostasis | year = 2015 | last1 = Harbut | first1 = Michael B | last2 = Vilcheze | first2 = Catherine | last3 = Luo | first3 = Xiaozhou | last4 = Hensler | first4 = Mary E | last5 = Guo | first5 = Hui | last6 = Yang | first6 = Baiyuan | last7 = Chatterjee | first7 = Arnab K | last8 = Nizet | first8 = Victor | last9 = Jacobs Jr. | first9 = William R | last10 = Schultz | first10 = Peter G | last11 = Wang | first11 = Feng | journal = PNAS | volume = 112| issue = 14 | pages=4453–4458}}</ref>
+
+===Ovarian cancer===
+Drug-screening reveals auranofin induces apoptosis in [[ovarian cancer]] cells ''[[in vitro]]''.<ref>{{cite journal | pmid = 25096914 | doi=10.3892/ijo.2014.2579 | volume=45 | issue=4 | title=Auranofin displays anticancer activity against ovarian cancer cells through FOXO3 activation independent of p53 | pmc=4151813 | journal=Int J Oncol | pages=1691–8 | last1 = Park | first1 = SH | last2 = Lee | first2 = JH | last3 = Berek | first3 = JS | last4 = Hu | first4 = MC| year=2014 }}</ref><ref>{{Cite journal | doi = 10.1016/j.mrfmmm.2015.11.002| title = BRCA1 deficiency increases the sensitivity of ovarian cancer cells to auranofin| journal = Mutation Research/Fundamental and Molecular Mechanisms of Mutagenesis| volume = 784-785| pages = 8| year = 2016| last1 = Oommen| first1 = Deepu| last2 = Yiannakis| first2 = Dennis| last3 = Jha| first3 = Awadhesh N.}}</ref>
+
+==References==
+{{reflist}}
+
+== Further reading ==
+{{refbegin}}
+* {{cite journal |vauthors=Jeon K, Byun M, Jue D | title = Gold compound auranofin inhibits IkappaB kinase (IKK) by modifying Cys-179 of IKKbeta subunit | journal = [[Experimental & Molecular Medicine]] | volume = 35 | issue = 2 | pages = 61–6 | year = 2003 | pmid = 12754408 | doi=10.1038/emm.2003.9}}
+* {{cite journal |vauthors=Kim I, Jin J, Lee I, Park S | title = Auranofin induces apoptosis and when combined with retinoic acid enhances differentiation of acute promyelocytic leukaemia cells ''in vitro'' | journal = Br J Pharmacol | volume = 142 | issue = 4 | pages = 749–55 | year = 2004 | pmid = 15159275 | doi = 10.1038/sj.bjp.0705708 | pmc = 1575039}}
+* {{cite journal |vauthors=Venardos K, Harrison G, Headrick J, Perkins A | title = Auranofin increases apoptosis and ischaemia-reperfusion injury in the rat isolated heart | journal = Clin Exp Pharmacol Physiol | volume = 31 | issue = 5–6 | pages = 289–94 | year = 2004| pmid = 15191400 | doi = 10.1111/j.1440-1681.2004.03993.x}}
+* {{cite journal |vauthors=Hafejee A, Winhoven S, Coulson I | title = Jessner's lymphocytic infiltrate responding to oral auranofin | journal = J Dermatolog Treat | volume = 15 | issue = 5 | pages = 331–2 | year = 2004 | pmid = 15370403 | doi = 10.1080/09546630410016924}}
+* {{cite journal |vauthors=Rigobello M, Folda A, Baldoin M, Scutari G, Bindoli A | title = Effect of auranofin on the mitochondrial generation of hydrogen peroxide. Role of thioredoxin reductase | journal = Free Radic Res | volume = 39 | issue = 7 | pages = 687–95 | year = 2005 | pmid = 16036347 | doi = 10.1080/10715760500135391}}
+* {{cite journal | vauthors = Suarez-Almazor ME, Spooner CH, Belseck E, Shea B | title = Auranofin versus placebo in rheumatoid arthritis | journal = Cochrane Database Syst Rev | volume = | issue = 2 | pages = CD002048 | year = 2000 | pmid = 10796461 | doi = 10.1002/14651858.CD002048 | url = | editor1-last = Suarez-Almazor | editor1-first = Maria E }}
+{{refend}}
+
+==External links==
+* {{MedlinePlusDrugInfo|medmaster|a685038}}
+
+{{Antirheumatic products}}
+{{Gold compounds}}
+
+[[Category:Gold compounds]]
+[[Category:Antirheumatic products]]
+[[Category:Acetate esters]]
+[[Category:Metal-containing drugs]]

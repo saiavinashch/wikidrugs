@@ -1,0 +1,87 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 462249027
+| IUPAC_name = 10-[2-(1-methylpiperidin-2-yl)ethyl]-2-methylsulfinylphenothiazine
+| image = Mesoridazine.svg
+
+<!--Clinical data-->
+| tradename =  Serentil
+| Drugs.com = {{drugs.com|CONS|mesoridazine}}
+| MedlinePlus = a682306
+| pregnancy_US = C
+| legal_status = Rx-only
+| routes_of_administration = Oral, intravenous
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 4%
+| metabolism = Hepatic/renal
+| elimination_half-life = 24 to 48 hours
+| excretion = Biliary and renal
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7227
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 5588-33-0
+| ATC_prefix = N05
+| ATC_suffix = AC03
+| ATC_supplemental =  
+| PubChem = 4078
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00933
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3936
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 5XE4NWM740
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02671
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 6780
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1088
+
+<!--Chemical data-->
+| C=21 | H=26 | N=2 | O=1 | S=2
+| molecular_weight = 386.576 g/mol
+| smiles = O=S(c2cc1N(c3c(Sc1cc2)cccc3)CCC4N(C)CCCC4)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H26N2OS2/c1-22-13-6-5-7-16(22)12-14-23-18-8-3-4-9-20(18)25-21-11-10-17(26(2)24)15-19(21)23/h3-4,8-11,15-16H,5-7,12-14H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SLVMESMUVMCQIY-UHFFFAOYSA-N
+| melting_point = 130
+| solubility = insoluble
+}}
+
+'''Mesoridazine''' '''(Serentil)''' is a [[piperidine]] [[neuroleptic]] drug belonging to the class of drugs called [[phenothiazine]]s, used in the treatment of [[schizophrenia]]. It is a metabolite of [[thioridazine]]. The drug's name is derived from the '''me'''thyl'''s'''ulf'''o'''xy and pipe'''rid'''ine functional groups in its chemical structure.
+
+It has central antiadrenergic, antidopaminergic, antiserotonergic and weak muscarinic anticholinergic effects.
+
+Serious side effects include [[akathisia]], [[tardive dyskinesia]] and the potentially fatal [[neuroleptic malignant syndrome]].
+
+Mesoridazine was withdrawn from the United States market in 2004 due to dangerous side effects, namely irregular heart beat and QT-prolongation of the electrocardiogram.<ref>[http://www.nlm.nih.gov/medlineplus/druginfo/medmaster/a682306.html]</ref>
+
+It currently appears to be unavailable worldwide. 
+
+== References ==
+{{Reflist|2}}
+
+{{Antipsychotics}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Adrenergic receptor modulators}}
+{{Dopamine receptor modulators}}
+{{Histamine receptor modulators}}
+{{Muscarinic acetylcholine receptor modulators}}
+{{Serotonin receptor modulators}}
+}}
+{{Tricyclics}}
+
+[[Category:Muscarinic antagonists]]
+[[Category:Phenothiazines]]
+[[Category:Piperidines]]
+[[Category:Sulfoxides]]
+[[Category:Typical antipsychotics]]
+
+{{nervous-system-drug-stub}}

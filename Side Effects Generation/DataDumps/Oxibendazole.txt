@@ -1,0 +1,74 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 447186723
+| IUPAC_name = Methyl ''N''-(6-propoxy-1''H''-benzimidazol-2-yl)carbamate
+| image = Oxibendazole.svg
+| width = 215
+
+<!--Clinical data-->
+| tradename =
+| Drugs.com = {{drugs.com|international|oxibendazole}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Veterinary use only
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 20559-55-1
+| ATCvet = yes
+| ATC_prefix = P52
+| ATC_suffix = AC07
+| ATC_supplemental =
+| PubChem = 4622
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 022N12KJ0X
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05293
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 4461
+
+<!--Chemical data-->
+| chemical_formula =
+| C=12 | H=15 | N=3 | O=3
+| molecular_weight = 249.26&nbsp;g&nbsp;mol&nbsp;<sup>&minus;1</sup>
+| smiles = CCCOC1=CC2=C(C=C1)N=C(N2)NC(=O)OC
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C12H15N3O3/c1-3-6-18-8-4-5-9-10(7-8)14-11(13-9)15-12(16)17-2/h4-5,7H,3,6H2,1-2H3,(H2,13,14,15,16)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = RAOCRURYZCVHMG-UHFFFAOYSA-N
+}}
+
+'''Oxibendazole''' is a [[benzimidazole]] drug that is used to protect against [[roundworm]]s, [[strongyle (worm)|strongyles]], [[Strongyloides stercoralis|threadworms]], [[pinworm]]s and [[lungworm]] infestations in horses and some domestic pets. It is usually white to yellowish in appearance, and may take the form of a powder or a tablet.
+
+==Synthesis==
+[[File:Oxibendazole synthesis.svg|thumb|upright=3|center|Oxibendazole synthesis:<ref>{{Cite patent|GB|1123317}} corresp to P. P. Actor, J. F. Pagano, {{US patent|3574845}} (1968, 1971 both to [[Smith, Kline & French]]).</ref>]]{{clear left}}
+4&#8209;Hydroxyacetamide ('''1''') is alkylated with [[1-bromopropane|''n''-propyl bromide]] in the presence of [[potassium hydroxide]] to give the [[ether]] ('''2'''). Nitration of this product with [[nitric acid|nitric]] and [[sulfuric acid]]s proceeds at the position [[Arene substitution pattern|''ortho'']] to the [[amide]] group ('''3'''), which is then reduced with [[tin(II) chloride|SnCl<sub>2</sub>]] to yield the [[phenylenediamine]] derivative ('''4'''). Reaction of that intermediate with [[thiourea|''S''-methyl isothiourea]] proceeds first by [[aromatization|aromatic cyclisation]] to the [[guanidine]] derivative followed by [[elimination reaction|elimination]] of [[methyl mercaptan]] to yield the 2-aminobenzimidazole system ('''5'''). Acylation with [[methyl chloroformate]] results in the formation of a [[carbamate|urethane]] on the amino group to produce oxibendazole ('''6''').
+
+==References==
+{{reflist}}
+
+{{Anthelmintics}}
+
+[[Category:Benzimidazoles]]
+[[Category:Carbamates]]
+[[Category:Phenol ethers]]
+[[Category:Veterinary drugs]]
+
+{{antiinfective-drug-stub}}
+{{veterinary-med-stub}}

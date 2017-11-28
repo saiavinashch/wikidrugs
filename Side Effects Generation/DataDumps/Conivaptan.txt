@@ -1,0 +1,77 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 443540616
+| IUPAC_name = ''N''-(4-((4,5-dihydro-2-methylimidazo[4,5-''d''][1]benzazepin- 6(1''H'')-yl)carbonyl)phenyl)- (1,1'-biphenyl)-2-carboxamide
+| image = Conivaptan structure.svg
+| alt = Skeletal formula of conivaptan
+| image2 = Conivaptan-3D-spacefill.png
+| alt2 = Space-filling model of conivaptan
+| width = 240
+<!--Clinical data-->
+| tradename = Vaprisol
+| Drugs.com = {{drugs.com|monograph|conivaptan-hydrochloride}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = C
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_UK = <!-- GSL         / P       / POM / CD -->
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = intravenous
+<!--Pharmacokinetic data-->
+| bioavailability = N/A
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 210101-16-9
+| ATC_prefix = C03
+| ATC_suffix = XA02
+| ATC_supplemental =
+| PubChem = 151171
+| IUPHAR_ligand = 2203
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00872
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 133239
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0NJ98Y462X
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D01236
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 681850
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1755
+<!--Chemical data-->
+| C=32 | H=26 | N=4 | O=2
+| molecular_weight = 498.583 g/mol
+| smiles = c1ccccc1-c2ccccc2C(=O)Nc3ccc(cc3)C(=O)N4c5ccccc5-c6[nH]c(C)nc6CC4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C32H26N4O2/c1-21-33-28-19-20-36(29-14-8-7-13-27(29)30(28)34-21)32(38)23-15-17-24(18-16-23)35-31(37)26-12-6-5-11-25(26)22-9-3-2-4-10-22/h2-18H,19-20H2,1H3,(H,33,34)(H,35,37)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IKENVDNFQMCRTR-UHFFFAOYSA-N
+}}
+
+'''Conivaptan''' (YM 087, brand name '''Vaprisol''') is a non-peptide inhibitor of [[antidiuretic hormone]] ([[vasopressin receptor antagonist]]). It was approved in 2004 for [[hyponatremia]] (low blood [[sodium]] levels) caused by [[syndrome of inappropriate antidiuretic hormone]] (SIADH), and there is some evidence it may be effective in [[heart failure]]. It is marketed by Cumberland Pharmaceuticals, Inc.
+
+Conivaptan inhibits two of the three subtypes of the [[vasopressin receptor]] ([[Arginine vasopressin receptor 1A|V1a]] and [[Arginine vasopressin receptor 2|V2]]). Effectively, it causes [[iatrogenic]] nephrogenic [[diabetes insipidus]].
+
+Conivaptan has not been approved by the FDA for the treatment of decompensated congestive heart failure. However, in theory, vasopressin receptor antagonism would be particularly useful in this setting, and an initial study shows that it has some promise.<ref>{{cite journal |vauthors=Udelson JE, Smith WB, Hendrix GH |title=Acute hemodynamic effects of conivaptan, a dual V(1A) and V(2) vasopressin receptor antagonist, in patients with advanced heart failure |journal=Circulation |volume=104 |issue=20 |pages=2417–23 |date=November 2001 |pmid=11705818 |doi= 10.1161/hc4501.099313|url=http://circ.ahajournals.org/cgi/pmidlookup?view=long&pmid=11705818|display-authors=etal}}</ref>
+
+==References==
+{{Reflist|2}}
+
+
+{{Diuretics}}
+{{Oxytocin and vasopressin receptor modulators}}
+
+[[Category:Hormonal agents]]
+[[Category:Diuretics]]
+[[Category:Vasopressin receptor antagonists]]
+
+
+{{systemic-hormonal-drug-stub}}
+{{cardiovascular-drug-stub}}

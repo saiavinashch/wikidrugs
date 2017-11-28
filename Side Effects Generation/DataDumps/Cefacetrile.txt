@@ -1,0 +1,77 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 447440132
+| IUPAC_name = (6''R'',7''R'')-3-(acetyloxymethyl)-7-[(2-cyanoacetyl)amino]-<br>8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-<br>carboxylic acid
+| image = Cefacetrile.svg
+<!--Clinical data-->
+| tradename = Celospor, Celtol, Cristacef
+| Drugs.com = {{drugs.com|international|cefacetrile}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B  / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = [[Intravenous therapy|Intravenous]], [[Intramuscular injection|intramuscular]], intra[[mammary]]
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 23 to 38%
+| metabolism = 
+| elimination_half-life = 1.2 hours
+| excretion = [[Kidney|Renal]] (72%)
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 10206-21-0
+| ATC_prefix = J01
+| ATC_suffix = DB10
+| ATC_supplemental = {{ATCvet|J51|DB10}}
+| PubChem = 91562
+| ChEMBL = 2104099
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01414
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 82675
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = FDM21QQ344
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07629
+<!--Chemical data-->
+| C=13 | H=13 | N=3 | O=6 | S=1
+| molecular_weight = 339.325 g/mol
+| smiles = O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)CC#N)COC(=O)C)C(=O)O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C13H13N3O6S/c1-6(17)22-4-7-5-23-12-9(15-8(18)2-3-14)11(19)16(12)10(7)13(20)21/h9,12H,2,4-5H2,1H3,(H,15,18)(H,20,21)/t9-,12-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = RRYMAQUWDLIUPV-BXKDBHETSA-N
+}}
+'''Cefacetrile''' ([[International Nonproprietary Name|INN]], also spelled cephacetrile) is a [[Broad-spectrum antibiotic|broad-spectrum]] first generation [[cephalosporin]] [[antibiotic]] effective in [[gram-positive]] and [[gram-negative]] bacterial infections. It is a [[bacteriostatic]] antibiotic.<ref>{{cite web|url=http://www.emea.europa.eu/docs/en_GB/document_library/Maximum_Residue_Limits_-_Report/2009/11/WC500011465.pdf|publisher=[[European Medicines Agency]], Committee for Veterinary Medicinal Products|title=Cefacetrile Summary Report|year=1998}}</ref><ref name="AC">{{cite book|title=Austria-Codex|editor=Haberfeld, H|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2007|edition=2007/2008|isbn=3-85200-183-8|language=German}}</ref> Cefacetrile is marketed under the trade names '''Celospor''', '''Celtol''', and '''Cristacef''',<ref>{{Cite journal 
+| last1 = Horiuchi | first1 = N. 
+| last2 = Oyakawa | first2 = Y. 
+| last3 = Oka | first3 = R. 
+| last4 = Fujiwara | first4 = T. 
+| title = Clinical evaluation of cephacetrile (Celtol) for respiratory infections (author's transl) 
+| journal = The Japanese journal of antibiotics 
+| volume = 33 
+| issue = 10 
+| pages = 1145–1155 
+| year = 1980 
+| pmid = 7206219
+}}</ref> and as '''Vetimast''' for the treatment of [[mammary]] infections in lactating cows.<ref name="AC" />
+==Synthesis==
+[[File:Cefacetrile synthesis.svg|thumb|center|500px|Cefacetrile synthesis: {{Cite patent|NL|6600586}} (1966 to [[Ciba-Geigy]]).]]
+It was made by reacting [[7-ACA]] (7-aminocephalosporanic acid) with cyanoacetyl chloride in the presence of [[tributylamine]].
+
+==References==
+{{Reflist}}
+
+{{CephalosporinAntiBiotics}}
+
+[[Category:Cephalosporin antibiotics]]
+[[Category:Carboxylate esters]]
+[[Category:Nitriles]]
+[[Category:Acetate esters]]
+[[Category:Amides]]
+
+{{Antibiotic-stub}}

@@ -1,0 +1,190 @@
+{{Infobox drug
+| drug_name = 
+| IUPAC_name        = 5-Methyl-1-(β-<small>D</small>-ribofuranosyl)-1,5-dihydro-1,4,5,6,8-pentaazaacenaphthylen-3-amine
+| image             = Triciribine.svg
+| alt               = 
+| caption           =
+<!-- Clinical data -->
+| pronounce         =
+| tradename         = 
+| Drugs.com         = 
+| MedlinePlus       = 
+| pregnancy_AU      = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_AU_comment = 
+| pregnancy_US      = <!-- A / B            / C / D / X / N -->
+| pregnancy_category= 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_AU_comment =
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_DE = <!-- Anlage I, II, III -->
+| legal_NZ = <!-- Class A, B, C -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_UN = <!-- N I, II, III, IV / P I, II, III, IV-->
+| legal_status      = <!-- Free text -->
+| routes_of_administration = 
+<!-- Pharmacokinetic data -->
+| bioavailability   = 
+| protein_bound     = 
+| metabolism        = 
+| metabolites       =
+| onset             = 
+| elimination_half-life = 
+| duration_of_action =
+| excretion         = 
+<!-- Identifiers -->
+| CAS_number        = 35943-35-2
+| ChemSpiderID = 58865
+| ATCvet            = 
+| ATC_prefix        = <!-- 'none' if uncategorised -->
+| ATC_suffix        = 
+| PubChem           = 
+| DrugBank          = 
+<!-- Chemical data -->
+| chemical_formula =
+| C=13 | H=16 | N=6 | O=4 
+| molecular_weight  = 320.12 g/mol
+| SMILES = CN1c2c3c(cn(c3ncn2)[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O)C(=N1)N
+| StdInChI=1S/C13H16N6O4/c1-18-11-7-5(10(14)17-18)2-19(12(7)16-4-15-11)13-9(22)8(21)6(3-20)23-13/h2,4,6,8-9,13,20-22H,3H2,1H3,(H2,14,17)/t6-,8-,9-,13-/m1/s1
+| StdInChIKey = HOGVTUZUJGHKPL-HTVVRFAVSA-N
+}}
+
+'''Triciribine''' is a cancer drug which was first synthesized in the 1970s and [[clinical trials|studied clinically]] in the 1980s and 1990s without success. Following the discovery in the early 2000s that the drug would be effective against tumours with hyperactivated [[Protein kinase B|Akt]], it is now again under consideration in a variety of cancers. As PTX-200, the drug is currently in two early stage clinical trials in breast cancer and ovarian cancer being conducted by the small molecule drug development company [[Prescient Therapeutics]].
+
+== Background ==
+
+Triciribine is a cell-permeable tricyclic [[nucleoside]] that inhibits the phosphorylation, activation, and signalling of all three family members of Akt - Akt-1, Akt-2 and Akt-3. These are [[serine]]/[[threonine]] protein [[kinase]]s in the [[phosphoinositide 3-kinase]] (PI3K) signalling pathway that play a critical role in the regulation of cell proliferation and survival. Following recruitment of Akt to the plasma membrane, phosphorylation at threonine 308 and serine 473 (Akt-1 numbering) by [[Phosphoinositide-dependent kinase-1|PDK-1]] or PDK-2 results in full activation of the enzyme. Triciribine does not inhibit PI3K or PDK1, the direct upstream activators of Akt, nor does it inhibit [[Protein kinase C|PKC]], [[Protein kinase A|PKA]], [[Extracellular signal-regulated kinases|ERK]]1/2, serum- and glucocorticoid-inducible kinase, p38, [[STAT3]], or JNK signalling pathways.<ref>{{cite journal
+ |author1=Yang L |author2=Dan HC |author3=Sun M |author4=Liu Q |author5=Sun XM |author6=Feldman RI |author7=Hamilton AD |author8=Polokoff M |author9=Nicosia SV |author10=Herlyn M |author11=Sebti SM |author12=Cheng JQ. |title=Akt/protein kinase B signaling inhibitor-2, a selective small molecule inhibitor of Akt signaling with antitumor activity in cancer cells overexpressing Akt.
+ |journal=Cancer Res. 
+ |volume=64
+ |issue=13
+ |pages=4394–9
+ |date=July 1, 2004
+ |doi= 10.1158/0008-5472.can-04-0343
+ |pmid=15231645
+}}</ref>
+
+== Early development, 1971-2004 ==
+
+Triciribine, first synthesized in 1971,<ref>{{cite journal
+ |vauthors=Schram KH, Townsend LB |title=The synthesis of 6-amino-4-methyl-8-(β-D-ribofuranosyl (4-H)pyrrolo-[4-3-2depyrimido(4, 5-C) pyridazine, a new tricyclic nucleoside
+ |journal=Tetrahedron Lett. 
+ |volume=12
+ |issue=49
+ |pages=4757–4760
+ |date=December 3, 1971
+ |pmid=
+ |doi= 10.1016/s0040-4039(01)87546-8
+ |url=http://www.sciencedirect.com/science/article/pii/S0040403901875468
+}}</ref> was found to have definite anti-cancer properties<ref>{{cite journal
+ |author1=Townsend LB |author2=Milne GH. |title=Synthesis, chemical reactivity, and chemotherapeutic activity of certain selenonucleosides and nucleosides related to the pyrrolo(2,3-d)pyrimidine nucleoside antibiotics.
+ |journal=Ann N Y Acad Sci 
+ |volume=255
+ |issue=
+ |pages=91–103
+ |date=August 8, 1975
+ |doi= 10.1111/j.1749-6632.1975.tb29216.x
+ |pmid=1059377
+}}</ref> and a phosphate ester of the drug went into clinical trials in the 1980s because it had improved solubility. The trials found the drug to be toxic with  limited efficacy. For example, a Phase I study in 1984 evaluating 33 advanced cancer patients using a five-day continuous infusion schedule found [[hyperglycemia]], [[hepatotoxicity]], and [[thrombocytopenia]] as common toxicities with only one patient's cancer improving.<ref>{{cite journal
+ |author1=Feun LG |author2=Savaraj N |author3=Bodey GP |author4=Lu K |author5=Yap BS |author6=Ajani JA |author7=Burgess MA |author8=Benjamin RS |author9=McKelvey E |author10=Krakoff I. |title=Phase I study of tricyclic nucleoside phosphate using a five-day continuous infusion schedule.
+ |journal=Cancer Res. 
+ |volume=44
+ |issue=8
+ |pages=3608–12
+ |date=August 1, 2004
+ |doi= 
+ |pmid=6744283
+}}</ref> A Phase II trial in 1993 found only two responders out of 21 cervical cancer patients.<ref>{{cite journal
+ |author=Feun LG1, Blessing JA, Barrett RJ, Hanjani P.
+ |title=A phase II trial of tricyclic nucleoside phosphate in patients with advanced squamous cell carcinoma of the cervix. A Gynecologic Oncology Group Study.
+ |journal=Am J Clin Oncol.
+ |volume=16
+ |issue=6
+ |pages=506–8
+ |date=December 1, 1993
+ |doi= 10.1097/00000421-199312000-00010
+ |pmid=8256767
+}}</ref> Triciribine was widely considered to be a failed cancer drug until its 'rehabilitation' in the early 2000s.
+
+== Development as an Akt inhibitor, 2004 -    ==
+
+In the early 2000s   [[Said Sebti]] at the [[H. Lee Moffitt Cancer Center & Research Institute]] in [[Tampa, Florida|Tampa, Fl]] and Jin Cheng at the [[University of South Florida]] established that Triciribine would be effective against tumours with hyperactivated AKT.<ref>{{cite journal
+ |author1=Yang L |author2=Dan HC |author3=Sun M |author4=Liu Q |author5=Sun XM |author6=Feldman RI |author7=Hamilton AD |author8=Polokoff M |author9=Nicosia SV |author10=Herlyn M |author11=Sebti SM |author12=Cheng JQ. |title=Akt/protein kinase B signaling inhibitor-2, a selective small molecule inhibitor of Akt signaling with antitumor activity in cancer cells overexpressing Akt.
+ |journal=Cancer Res. 
+ |volume=64
+ |issue=13
+ |pages=4394–9
+ |date=July 1, 2004
+ |doi= 10.1158/0008-5472.can-04-0343
+ |pmid=15231645
+}}</ref> By 2010 important parts of the mechanism of action for Triciribine had been elucidated, including its preventing AKT membrane translocation,<ref>{{cite journal
+ |author1=Kim D |author2=Sun M |author3=He L |author4=Zhou QH |author5=Chen J |author6=Sun XM |author7=Bepler G |author8=Sebti SM |author9=Cheng JQ. |title=A small molecule inhibits Akt through direct binding to Akt and preventing Akt membrane translocation.
+ |journal=J Biol Chem
+ |volume=285
+ |issue=11
+ |pages=8383–94
+ |date=March 12, 2010
+ |doi= 10.1074/jbc.M109.094060
+ |pmid=20068047 |pmc=2832988
+}}</ref> and specifically its binding to the PH domain of AKT, thereby blocking its recruitment to the membrane, leading to subsequent inhibition of AKT phosphorylation.<ref>{{cite journal
+ |author1=Berndt N |author2=Yang H |author3=Trinczek B |author4=Betzi S |author5=Zhang Z |author6=Wu B |author7=Lawrence NJ |author8=Pellecchia M |author9=Schönbrunn E |author10=Cheng JQ |author11=Sebti SM. |title=The Akt activation inhibitor TCN-P inhibits Akt phosphorylation by binding to the PH domain of Akt and blocking its recruitment to the plasma membrane.
+ |journal=Cell Death Differ. 
+ |volume=17
+ |issue=
+ |pages=1795–804
+ |date=November 1, 2010
+ |doi= 10.1038/cdd.2010.63
+ |pmid=20489726 |pmc=2952662
+}}</ref>
+
+* Pre-clinical work, 2004-2015. A number of pre-clinical studies confirmed the initial 2004 finding, including one showing synergy with tipifarnib<ref>{{cite journal
+ |author1=Balasis ME |author2=Forinash KD |author3=Chen YA |author4=Fulp WJ |author5=Coppola D |author6=Hamilton AD |author7=Cheng JQ |author8=Sebti SM. |title=Combination of farnesyltransferase and Akt inhibitors is synergistic in breast cancer cells and causes significant breast tumor regression in ErbB2 transgenic mice.
+ |journal=Clin Cancer Res.
+ |volume=17
+ |issue=9
+ |pages=2852–62
+ |date=May 1, 2011
+ |doi=10.1158/1078-0432.CCR-10-2544
+ |pmid=21536547 |pmc=3156694
+}}</ref> and one showing effectiveness in pancreatic cancer cells.<ref>{{cite journal
+ |author1=Kim R |author2=Yamauchi T |author3=Husain K |author4=Sebti S |author5=Malafa M. |title=Triciribine Phosphate Monohydrate, an AKT Inhibitor, Enhances Gemcitabine Activity in Pancreatic Cancer Cells
+ |journal=Anticancer Res. 
+ |volume=35
+ |issue=9
+ |pages=4599–604
+ |date=September 1, 2015
+ |doi= 
+ |pmid=26254348
+}}</ref>
+
+* Phase I in  solid tumors, 2011. This pharmacokinetic and pharmacodynamic study suggested that treatment with PTX-200 could inhibit phosphorylated AKT in tumours at doses that were tolerable.<ref>{{cite journal
+ |author1=Garrett CR |author2=Coppola D |author3=Wenham RM |author4=Cubitt CL |author5=Neuger AM |author6=Frost TJ |author7=Lush RM |author8=Sullivan DM |author9=Cheng JQ |author10=Sebti SM. |title=Phase I pharmacokinetic and pharmacodynamic study of triciribine phosphate monohydrate, a small-molecule inhibitor of AKT phosphorylation, in adult subjects with solid tumors containing activated AKT
+ |journal=Invest New Drugs. 
+ |volume=29
+ |issue=6
+ |pages=1381–9
+ |date=December 1, 2011
+ |doi=10.1007/s10637-010-9479-2
+ |pmid=20644979 |pmc=4612514
+}}</ref>
+
+* Phase I in advanced leukemia, 2013 (ClinicalTrials.gov identifier NCT00642031<ref>{{cite web|title=Triciribine Phosphate Monohydrate (TCN-PM, VD-0002) in Adult Patients With Advanced Hematologic Malignancies|url=https://clinicaltrials.gov/ct2/show/NCT00642031|website=Clinicaltrials.gov|publisher=U.S. National Institutes of Health|accessdate=7 December 2015|ref=NCT00642031}}</ref>). This study, conducted at the Lee Moffitt as well as the M.D. Anderson Cancer Center, tested Triciribine as a single agent. Of the 32 evaluable patients, 15 had progressive disease and 17 had stable disease following a single cycle of treatment. Of the patients with stable disease, 3 patients with AML achieved ≥50% bone marrow [[Myeloblast|blast]] reduction and a fourth patient with [[chronic myelomonocytic leukemia]] had marked [[spleen]] reduction and resolution of [[leukocytosis]].<ref>{{cite journal
+ |author1=Sampath D |author2=Malik A |author3=Plunkett W |author4=Nowak B |author5=Williams B |author6=Burton M |author7=Verstovsek S |author8=Faderl S |author9=Garcia-Manero G |author10=List AF |author11=Sebti S |author12=Kantarjian HM |author13=Ravandi F |author14=Lancet JE. |title=Phase I clinical, pharmacokinetic, and pharmacodynamic study of the Akt-inhibitor triciribine phosphate monohydrate in patients with advanced hematologic malignancies.
+ |journal=Leuk Res.
+ |volume=37
+ |issue=11
+ |pages=1461–7
+ |date=November 1, 2013
+ |doi=10.1016/j.leukres.2013.07.034
+ |pmid=23993427 |pmc=4205589
+}}</ref>
+
+== Current development ==
+
+As PTX-200, triciribine is currently in a  Phase Ib/II study in breast cancer<ref>[[ClinicalTrials.gov]] identifier NCT01697293: {{cite web|title=riciribine Phosphate, Paclitaxel, Doxorubicin Hydrochloride, and Cyclophosphamide in Treating Patients With Stage IIB-IV Breast Cancer|url=https://clinicaltrials.gov/ct2/show/NCT01697293|website=Clinicaltrials.gov|publisher=U.S. National Institutes of Health|accessdate=7 December 2015|ref=NCT01697293}}</ref>) and a Phase Ib trial in platinum resistant ovarian cancer.<ref>[[ClinicalTrials.gov]] identifier NCT01690468:  {{cite web|title=Triciribine and Carboplatin in Ovarian Cancer|url=https://clinicaltrials.gov/ct2/show/NCT01690468|website=Clinicaltrials.gov|publisher=U.S. National Institutes of Health|ref=NCT01690468}}</ref>
+
+== References ==
+{{Reflist|30em}}
+
+[[Category:Experimental cancer drugs]]
+[[Category:Nucleosides]]

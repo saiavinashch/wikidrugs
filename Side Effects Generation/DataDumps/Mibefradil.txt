@@ -1,0 +1,79 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 407797796
+| IUPAC_name = (1''S'',2''S'')-2-(2-((3-(1''H''-benzo[''d'']imidazol-2-yl)propyl) (methyl)amino)ethyl)-6-fluoro-1-isopropyl-1,2,3,4-tetrahydronaphthalen-2-yl 2-methoxyacetate
+| image = Mibefradil.svg
+| width = 275
+
+<!--Clinical data-->
+| tradename = Posicor
+| Drugs.com = {{drugs.com|CONS|mibefradil}}
+| MedlinePlus = a607007
+| pregnancy_category =
+| legal_status = Withdrawn from market
+| routes_of_administration = [[Oral administration|By mouth]] ([[Tablet (pharmacy)|tablets]])
+
+<!--Pharmacokinetic data-->
+| bioavailability = 70%
+| protein_bound = >99%
+| metabolism = [[Liver]]
+| elimination_half-life = 17–25 hours
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 2522
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 116644-53-2
+| ATC_prefix = C08
+| ATC_suffix = CX01
+| PubChem = 60662
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB01388
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 27B90X776A
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08217
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 45816
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 54673
+
+<!--Chemical data-->
+| C=29 | H=38 | F=1 | N=3 | O=3 
+| molecular_weight = 495.63 g/mol
+| smiles = CC(C)[C@H]1C2=C(CC[C@@]1(CCN(C)CCCC3=NC4=CC=CC=C4N3)OC(=O)COC)C=C(C=C2)F
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C29H38FN3O3/c1-20(2)28-23-12-11-22(30)18-21(23)13-14-29(28,36-27(34)19-35-4)15-17-33(3)16-7-10-26-31-24-8-5-6-9-25(24)32-26/h5-6,8-9,11-12,18,20,28H,7,10,13-17,19H2,1-4H3,(H,31,32)/t28-,29-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = HBNPJJILLOYFJU-VMPREFPWSA-N
+| melting_point = 128
+| melting_notes = (dihydrochloride salt)
+}}
+
+'''Mibefradil''' ('''Posicor''') is a drug for the treatment of [[hypertension]] and chronic [[angina pectoris]]. It belongs to a group known as [[calcium channel blockers]].
+
+The mechanism of action of mibefradil is characterized by the selective blockade of transient, low-voltage-activated (T-type) calcium channels over long-lasting, high-voltage-activated (L-type) calcium channels, which is probably responsible for many of its unique properties.
+
+It is nonselective.<ref name="pmid7565636">{{cite journal |vauthors=Bezprozvanny I, Tsien RW |title=Voltage-dependent blockade of diverse types of voltage-gated Ca2+ channels expressed in Xenopus oocytes by the Ca2+ channel antagonist mibefradil (Ro 40-5967) |journal=Mol. Pharmacol. |volume=48 |issue=3 |pages=540–9 |date=September 1995 |pmid=7565636 |doi= |url=http://molpharm.aspetjournals.org/cgi/pmidlookup?view=long&pmid=7565636}}</ref>
+
+On June 8, 1998, [[Hoffmann–La Roche|Roche]] announced the voluntary withdrawal of the drug from the market, one year after approval by the FDA, due to the potential for drug interactions, some of them deadly, which may occur when it is taken together with some other medications.<ref>Heart Drug Withdrawn as Evidence Shows It Could Be Lethal: https://www.nytimes.com/1998/06/09/us/heart-drug-withdrawn-as-evidence-shows-it-could-be-lethal.html</ref>
+
+==Synthesis==
+[[File:Mibefradil synthesis.png|thumb|600px|center|Mibefradil synthesis: {{Cite patent|YU|22988}} {{Cite patent|ZW|20087}}]]
+
+==References==
+{{Reflist}}
+
+{{Membrane transport modulators}}
+
+[[Category:Amines]]
+[[Category:Benzimidazoles]]
+[[Category:Calcium channel blockers]]
+[[Category:Ethers]]
+[[Category:Methyl esters]]
+[[Category:Fluoroarenes]]
+[[Category:Tetralins]]
+[[Category:Withdrawn drugs]]
+
+{{cardiovascular-drug-stub}}

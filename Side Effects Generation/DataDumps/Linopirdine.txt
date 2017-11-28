@@ -1,0 +1,107 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 462091934
+| IUPAC_name = 1-phenyl-3,3-bis(pyridin-4-ylmethyl)-1,3-dihydro-2''H''-indol-2-one
+| image = Linopirdine.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 105431-72-9
+| ATC_prefix = N06
+| ATC_suffix = BX09
+| PubChem = 3932
+| IUPHAR_ligand = 2599
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3795
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = I5TB3NZ94T
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D04741
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 319111
+
+<!--Chemical data-->
+| C=26 | H=21 | N=3 | O=1 
+| molecular_weight = 391.465 g/mol
+| smiles = O=C2N(c1ccccc1C2(Cc3ccncc3)Cc4ccncc4)c5ccccc5
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C26H21N3O/c30-25-26(18-20-10-14-27-15-11-20,19-21-12-16-28-17-13-21)23-8-4-5-9-24(23)29(25)22-6-2-1-3-7-22/h1-17H,18-19H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YEJCDKJIEMIWRQ-UHFFFAOYSA-N
+}}
+
+'''Linopirdine''' is a putative cognition-enhancing drug with a novel mechanism of action.  Linopirdine blocks the KCNQ2\3 heteromer M current with an IC50 of 2.4nM<ref name="pmid9694925">{{Cite journal 
+| last1 = Schnee | first1 = M. E. 
+| last2 = Brown | first2 = B. S. 
+| title = Selectivity of linopirdine (DuP 996), a neurotransmitter release enhancer, in blocking voltage-dependent and calcium-activated potassium currents in hippocampal neurons 
+| journal = The Journal of Pharmacology and Experimental Therapeutics 
+| volume = 286 
+| issue = 2 
+| pages = 709–717 
+| year = 1998 
+| pmid = 9694925
+}}</ref> disinhibiting acetylcholine release, and increasing hippocampal CA3-schaffer collateral mediated glutamate release onto CA1 pyramidal neurons.<ref name="pmid22674722">{{Cite journal 
+| last1 = Sun | first1 = J. 
+| last2 = Kapur | first2 = J. 
+| doi = 10.1113/jphysiol.2012.235820 
+| title = M-type potassium channels modulate Schaffer collateral-CA1 glutamatergic synaptic transmission 
+| journal = The Journal of Physiology 
+| volume = 590 
+| issue = 16 
+| pages = 3953–3964 
+| year = 2012 
+| pmid = 22674722 
+| pmc =3476642 
+}}</ref>  In a murine model linopirdine is able to nearly completely reverse the senescence-related decline in cortical c-FOS, an effect which is blocked by atropine and MK-801, suggesting Linopirdine can compensate for the age related decline in acetylcholine release.<ref name="pmid11378256">{{Cite journal 
+| last1 = Dent | first1 = G. W. 
+| last2 = Rule | first2 = B. L. 
+| last3 = Zhan | first3 = Y. 
+| last4 = Grzanna | first4 = R. 
+| title = The acetylcholine release enhancer linopirdine induces Fos in neocortex of aged rats 
+| journal = Neurobiology of Aging 
+| volume = 22 
+| issue = 3 
+| pages = 485–494 
+| year = 2001 
+| pmid = 11378256 | doi=10.1016/s0197-4580(00)00252-9
+}}</ref>  Linopirdine also blocks homomeric KCNQ1 and KCNQ4 voltage gated potassium channels which contribute to vascular tone with substantially less selectivity than KCNQ2/3.<ref name="pmid9694925"/>
+
+==Synthesis==
+The synthesis starts with a standard scheme for preparing indoxyls. Thus, acylation of [[diphenylamine]] with [[oxalyl chloride]] leads to the amide. The acid chloride then cyclizes into the ring on heating to afford ('''3'''). Reaction of that product with [[4-picoline]] under [[phase-transfer catalysis|phase-transfer]] conditions catalyzed by a quaternary salt affords the carbinol ('''4''') from addition of the transient anion on the methyl group of the [[picoline]] to the more [[electrophilic]] carbonyl group. The alcohol is then dehydrated by means of [[acetic anhydride]] and the resulting olefin hydrogenated to afford the [[indolone]] ('''5'''). The 3 position is now activated by the adjacent benzene ring on one side and the carbonyl group on the other. Alkylation with α-chloropicoline proceeds with hydroxide as the base to afford Linopirdine ('''6''').
+[[File:Linopirdine synthesis.svg|left|thumb|700px|Linopirdine synthesis:<ref>{{Cite journal | doi = 10.1080/00397919308011258| title = A Large Scale Preparation of the Cognitive Enhancer Linopirdine| journal = Synthetic Communications| volume = 23| issue = 11| pages = 1617–1625| year = 1993| last1 = Bryant | first1 = W. M. | last2 = Huhn | first2 = G. F. | last3 = Jensen | first3 = J. H. | last4 = Pierce | first4 = M. E. | last5 = Stammbach | first5 = C.}}</ref>]]
+{{clear}}
+==References==
+{{Reflist}}
+
+{{Nootropics}}
+{{Channel blockers}}
+
+[[Category:Pyridines]]
+[[Category:Nootropics]]
+[[Category:Indolines]]
+[[Category:Lactams]]
+[[Category:Potassium channel blockers]]
+
+
+{{nervous-system-drug-stub}}

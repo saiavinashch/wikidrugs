@@ -1,0 +1,71 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 470628046
+| IUPAC_name = (3''aS'',4''R'',5''S'',6''S'',8''R'',9''R'',9''aR'',10''R'')-6-ethenyl-<br>5-hydroxy-4,6,9,10-tetramethyl-1-oxodecahydro-<br>3''a'',9-propano-3''aH''-cyclopenta[8]annulen-8-yl-<br>[(''R'')-2-(2-amino-3-methylbutanoylamino)-1,1-dimethtylethyl<br>sulfanyl]acetate
+| image = Valnemulin.svg
+| width = 300
+
+<!--Clinical data-->
+| tradename = Econor
+| Drugs.com = {{drugs.com|international|valnemulin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Veterinary use only
+| routes_of_administration = oral (in-feed)
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 101312-92-9
+| ATCvet = yes
+| ATC_prefix = J01
+| ATC_suffix = XQ02
+| ATC_supplemental = 
+| PubChem = 127791
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 8026591
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 2AHC415BQG
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1688852
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=31 | H=52 | N=2 | O=5 | S=1 
+| molecular_weight = 564.81 g/mol
+| smiles = O=C(NCC(SCC(=O)O[C@@H]2C[C@@](\C=C)([C@@H](O)[C@@H]([C@]31[C@@H](C(=O)CC1)[C@@]2(C)[C@H](C)CC3)C)C)(C)C)[C@H](N)C(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C31H52N2O5S/c1-10-29(8)15-22(38-23(35)16-39-28(6,7)17-33-27(37)24(32)18(2)3)30(9)19(4)11-13-31(20(5)26(29)36)14-12-21(34)25(30)31/h10,18-20,22,24-26,36H,1,11-17,32H2,2-9H3,(H,33,37)/t19-,20+,22-,24-,25+,26+,29-,30+,31+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = LLYYNOVSVPBRGV-MVNKZKPCSA-N
+}}
+'''Valnemulin''' (trade name '''Econor''') is a [[pleuromutilin]] [[antibiotic]] used to treat [[swine]] [[dysentery]], [[ileitis]], [[colitis]] and [[pneumonia]]. It is also used for the prevention of [[intestinal]] infections of swine.<ref>[http://www.emea.europa.eu/vetdocs/PDFs/EPAR/econor/003199en6.pdf Econor: Product Profile]</ref> Valnemulin has been observed to induce a rapid reduction of clinical symptoms of ''[[Mycoplasma]] bovis'' infection, and eliminate ''M. bovis'' from the lungs of calves.<ref>{{Cite journal| first1 = L.| last1 = Stipkovits | first2 = P.| first3 = M.| first4 = R.| first5 = T.| first6 = L.| title = The efficacy of valnemulin (Econor) in the control of disease caused by experimental infection of calves with| journal = Research in Veterinary Science| volume = 78| pages = 207–215| year = 2005 | doi = 10.1016/j.rvsc.2004.09.005| pmid =  15766939| last2 =  Ripley| last3 =  Tenk| last4 =  Glávits| last5 =  Molnár| last6 =  Fodor| issue =  3}}</ref>
+
+==References==
+{{reflist}}
+
+{{Protein synthesis inhibitor antibiotics}}
+
+[[Category:Pleuromutilin antibiotics]]
+[[Category:Alcohols]]
+[[Category:Ketones]]
+[[Category:Isobutyrates]]
+[[Category:Thioethers]]
+[[Category:Carboxamides]]
+[[Category:Carboxylate esters]]
+
+
+{{antibiotic-stub}}

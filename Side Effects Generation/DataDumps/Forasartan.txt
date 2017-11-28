@@ -1,0 +1,85 @@
+{{Drugbox
+| drug_name = 
+| IUPAC_name        = 5-[(3,5-Dibutyl-1''H''-1,2,4-triazol-1-yl)methyl]-2-[2-(2''H''-tetrazol-5-yl)phenyl]pyridine
+| image             = Forasartan.svg
+| alt               = 
+| caption           =
+
+<!-- Clinical data -->
+| tradename         = 
+| Drugs.com         = 
+| MedlinePlus       = 
+| pregnancy_AU      = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US      = <!-- A / B            / C / D / X -->
+| pregnancy_category= Not assigned
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status      = Development halted, never marketed<ref name="Bräse">{{cite book |author1=Bräse, Stefan |author2=Banert, Klaus |title=Organic Azides: Syntheses and Applications |publisher=Wiley |location=New York |year=2010 |page=38 |isbn=0-470-51998-3}}</ref>
+| routes_of_administration = Oral
+
+<!-- Pharmacokinetic data -->
+| bioavailability   = 
+| protein_bound     = 
+| metabolism        = 
+| elimination_half-life = 1–2 hours
+| excretion         =
+
+<!-- Identifiers -->
+| CAS_number        = 145216-43-9
+| ATC_prefix        = C09
+| ATC_suffix        = CA
+| ATC_supplemental  = 
+| PubChem           = 132706
+| DrugBank          = DB01342
+| ChemSpiderID      = 117146
+| UNII              = 065F7WPT0B
+| KEGG              = D04243
+| ChEBI             = 239233
+| ChEMBL            = 315021
+| synonyms          = SC-52458
+
+<!-- Chemical data -->
+| C=23 |H=28 |N=8
+| molecular_weight  = 416.522 g·mol<sup>−1</sup>
+| smiles            = CCCCC1=NN(C(=N1)CCCC)CC2=CN=C(C=C2)C3=CC=CC=C3C4=NNN=N4
+| StdInChI          = 1S/C23H28N8/c1-3-5-11-21-25-22(12-6-4-2)31(28-21)16-17-13-14-20(24-15-17)18-9-7-8-10-19(18)23-26-29-30-27-23/h7-10,13-15H,3-6,11-12,16H2,1-2H3,(H,26,27,29,30)
+| StdInChI_comment  = 
+| StdInChIKey       = YONOBYIBNBCDSJ-UHFFFAOYSA-N
+}}
+
+'''Forasartan''', otherwise known as the compound SC-52458, is a nonpeptide [[angiotensin II receptor antagonist]] (ARB, AT<sub>1</sub> receptor blocker).<ref name=Drugbank1>{{cite journal|last=Knox|first=C|author2=Law V|title=a comprehensive resource for 'omics' research on drugs|journal=Nucleic Acids Res|year=2011|volume=39|series=DrugBank|pages=D1035-41|doi=10.1093/nar/gkq1126|pmid=21059682|pmc=3013709}}</ref><ref name=Drugbank2>{{cite journal|last=Wishart|first=DS|author2=Knox C|title=a knowledgebase for drugs, drug actions and drug targets|journal=Nucleic Acids Res|year=2008|volume=36|pages=D901-6|doi=10.1093/nar/gkm958|pmid=18048412|pmc=2238889}}</ref><ref name=Drugbank3>{{cite journal|last=Wishart|first=DS|author2=Knox C|title=a comprehensive resource for in silico drug discovery and exploration|journal=Nucleic Acids Res|year=2006|volume=34|pages=D668-72|doi=10.1093/nar/gkj067|pmid=16381955|pmc=1347430}}</ref><ref name=Olins1993>{{cite journal|last=Olins|first=GM|author2=Corpus VM|title=Pharmacology of SC-52458, an orally active, nonpeptide angiotensin AT1 receptor antagonist|journal=Journal of Cardiovascular Pharmacology|year=1993|volume=22|issue=4|pages=617–625|doi=10.1097/00005344-199310000-00016}}</ref>
+
+== Indications ==
+Forasartan is indicated for the treatment of [[hypertension]] <ref name="Hagmann1997" /> and, similar to other ARBs, it protects the kidneys from kidney blood vessel damage caused by increased kidney blood pressure by blocking [[renin-angiotensin system]] activation.<ref name=Naik2010>{{cite journal|last=Naik|first=P|author2=Murumkar P|title=Angiotensin II receptor type 1 (AT1) selective nonpeptidic antagonists—A perspective|journal=Bioorganic & Medicinal Chemistry|year=2010|volume=18|issue=24|pages=8418–8456|doi=10.1016/j.bmc.2010.10.043}}</ref>
+
+== Administration ==
+Forasartan is administered in the active oral form <ref name="Hagmann1997" />  which means that it must go through [[first pass metabolism]] in the liver. The dose administered ranges between 150&nbsp;mg-200&nbsp;mg daily.<ref name=Hagmann1997>{{cite journal|last=Hagmann|first=M|author2=Nussberger J|title=an Orally Active Angiotensin II-Receptor Antagonist: Inhibition of Blood Pressure Response to Angiotensin II Challenges and Pharmacokinetics in Normal Volunteers|journal=Journal of Cardiovascular Pharmacology|year=1997|volume=29|issue=4|pages=444–450|doi=10.1097/00005344-199704000-00003}}</ref> Increasing to more than 200&nbsp;mg daily does not offer significantly greater AT<sub>1</sub> receptor inhibition.<ref name="Hagmann1997"/> Forasartan is absorbed quickly in the GI, and within an hour it becomes significantly biologically active.<ref name="Hagmann1997"/> Peak plasma concentrations of the drug are reached within one hour.<ref name="Hagmann1997"/>
+
+== Contraindications ==
+Negative side effects of Forasartan are similar to other ARBs, and include [[hypotension]] and [[hyperkalemia]].<ref name=Venkata2008>{{cite journal|last=Venkata|first=S|author2=Ram MD|title=Angiotensin Receptor Blockers: Current Status and Future Prospects|journal=The American Journal of Medicine|year=2008|volume=121|issue=8|pages=656–663|doi=10.1016/j.amjmed.2008.02.038}}</ref> There are no [[drug interactions]] identified with forasartan.<ref name="Hagmann1997"/>
+
+== Pharmacology ==
+
+=== The angiotensin II receptor, type 1 ===
+Angiotensin II binds to AT<sub>1</sub> receptors, increases contraction of [[vascular smooth muscle]], and stimulates [[aldosterone]] resulting in sodium reabsorption and increase in [[blood volume]].<ref name=Higuchi2007>{{cite journal|last=Higuchi|first=S|author2=Ohtsu H|title=Angiotensin II signal transduction through the AT1 receptor: novel insights into mechanisms and pathophysiology|journal=Clinical Science|year=2007|volume=112|issue=8|pages=417–428|doi=10.1042/cs20060342|pmid=17346243}}</ref> [[Smooth muscle]] contraction occurs due to increased calcium influx through the [[L-type calcium channels]] in [[smooth muscle]] cells during the plateau component, increasing the intracellular calcium and membrane potential which sustain depolarization and contraction.<ref name=Usune1996>{{cite journal|last=Usune|first=S|author2=Furukawa T|title=Effects of SC-52458, a New Nonpeptide Angiotensin II Receptor Antagonist, on Increase in Cytoplasmic Ca 2+ Concentrations and Contraction Induced by Angiotensin II and K+-Depolarization in Guinea-Pig Taenia Coli|journal=General Pharmacology|year=1996|volume=27|issue=7|pages=1179–1185|doi=10.1016/s0306-3623(96)00058-4}}</ref>
+
+=== Effects ===
+Forasartan is a competitive and reversible ARB that competes with the angiotensin II binding site on AT<sub>1</sub> <ref name=Olins1995>{{cite journal|last=Olins|first=GM|author2=Chen ST|title=Elucidation of the Insurmountable Nature of an Angiotensin Receptor|journal=Molecular Pharmacology|year=1995|volume=47|issue=1|pages=115–120}}</ref> and relaxes [[vascular smooth muscle]],<ref name="Usune1996"/> resulting in decreased blood pressure. Forasartan has a high affinity for the AT<sub>1</sub> receptor ([[IC50]]=2.9 +/- 0.1nM).<ref name=Csajka2002>{{cite journal|last=Csajka|first=C|author2=Buclin T|title=Population Pharmacokinetic-Pharmacodynamic Modelling of Angiotensin Receptor Blockade in Healthy Volunteers|journal=Clinical Pharmacokinetics|year=2002|volume=41|issue=2|pages=137–152|doi=10.2165/00003088-200241020-00005}}</ref> In dogs, it was found to block the pressor response of Angiotensin II with maximal inhibition, 91%.<ref name="Usune1996"/> Forasartan administration selectively inhibits [[L-type calcium channels]] in the plateau component of the [[smooth muscle]] cells, favoring relaxation of the [[smooth muscle]].<ref name="Usune1996"/> Forasartan also decreases [[heart rate]] by inhibiting the positive [[chronotropic]] effect of high frequency preganglionic stimuli.<ref name=Kushiki2001>{{cite journal|last=Kushiki|first=K|author2=Yamada H|title=Upregulation of Immunoreactive Angiotensin II Release and Angiotensinogen mRNA Expression by High-Frequency Preganglionic Stimulation at the Canine Cardiac Sympathetic Ganglia|journal=Circulation Research|year=2001|volume=88|issue=1|pages=110–116|doi=10.1161/01.res.88.1.110}}</ref>
+
+== Scarce use  ==
+Even though experiments have been conducted on rabbits,<ref name="Hagmann1997" /> guinea pigs,<ref name="Usune1996"/> dogs <ref name=McMahon1997>{{cite journal|last=McMahon|first=EG|author2=Yang PC|title=Effects of SC-52458, an Angiotensin AT1 Receptor Antagonist, in the Dog|journal=American Journal of Hypertension|year=1997|volume=10|issue=6|pages=671–677}}</ref> and humans,<ref name="Hagmann1997"/><ref name="Kushiki2001"/> forasartan is not a popular drug of choice for hypertension due to its short duration of action; forasartan is less effective than [[losartan]].<ref name="Hagmann1997"/> Research demonstrates that forasartan is also significantly less potent than [[losartan]].<ref name="Hagmann1997"/>
+
+==See also==
+*[[Discovery and development of angiotensin receptor blockers]]
+
+== References ==
+{{reflist}}
+
+{{Angiotensin receptor modulators}}
+
+[[Category:Angiotensin II receptor antagonists]]
+[[Category:Tetrazoles]]
+[[Category:Triazoles]]
+[[Category:Pyridines]]

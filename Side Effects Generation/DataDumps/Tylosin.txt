@@ -1,0 +1,113 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 409090936
+| IUPAC_name = [(2''R'',3''R'',4''E'',6''E'',9''R'',11''R'',12''S'',13''S'',14''R'') -12- {[3,6-dideoxy-4-''O''-(2,6-dideoxy-3-''C''-methyl-α-<small>L</small>-''ribo''-hexopyranosyl) -3- (dimethylamino)-β-<small>D</small>-glucopyranosyl]oxy}-2-ethyl-14-hydroxy-5, 9,13-trimethyl-8, 16-dioxo-11-(2-oxoethyl)oxacyclohexadeca-4,6-dien-3-yl]methyl 6-deoxy-2,3-di-''O''-methyl-β-<small>D</small>-allopyranoside
+| image = Tylosin structure.png
+
+<!--Clinical data-->
+| tradename = Tylocine, Tylan 
+| Drugs.com = {{drugs.com|international|tylosin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 1401-69-0
+| ATCvet = yes
+| ATC_prefix = J01
+| ATC_suffix = FA90
+| ATC_supplemental =  {{ATCvet|J51|FA90}}
+| PubChem = 5280440
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = YEF4JXN031
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02490
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 17658
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 42743
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 4444097
+|  smiles = CC[C@@H]1[C@H](/C=C(/C=C/C(=O)[C@@H](C[C@@H]([C@@H]([C@H]([C@@H](CC(=O)O1)O)C)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)C)O[C@H]3C[C@@]([C@H]([C@@H](O3)C)O)(C)O)N(C)C)O)CC=O)C)\C)CO[C@H]4[C@@H]([C@@H]([C@@H]([C@H](O4)C)O)OC)OC
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C46H77NO17/c1-13-33-30(22-58-45-42(57-12)41(56-11)37(52)26(5)60-45)18-23(2)14-15-31(49)24(3)19-29(16-17-48)39(25(4)32(50)20-34(51)62-33)64-44-38(53)36(47(9)10)40(27(6)61-44)63-35-21-46(8,55)43(54)28(7)59-35/h14-15,17-18,24-30,32-33,35-45,50,52-55H,13,16,19-22H2,1-12H3/b15-14+,23-18+/t24-,25+,26-,27-,28+,29+,30-,32-,33-,35+,36-,37-,38-,39-,40-,41-,42-,43+,44+,45-,46-/m1/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = WBPYTXDJUQJLPQ-VMXQISHHSA-N
+
+<!--Chemical data-->
+| C=46 | H=77 | N=1 | O=17 
+| molecular_weight = 916.10 g/mol
+}}
+
+'''Tylosin''' is an [[antibiotic]] and a bacteriostatic feed additive used in veterinary medicine.  It has a broad spectrum of activity against [[Gram-positive]] organisms and a limited range of [[Gram-negative]] organisms.<ref name="Giguere">''[https://books.google.com/books?id=lxmyfSave4IC&pg=PA197&lpg=PA197&dq=tylosin&source=web&ots=elI6U5WFrh&sig=sbVvyWPPkpmM9Sl3SWUcyUviLMQ&hl=en&sa=X&oi=book_result&resnum=7&ct=result#PPA195,M1 Antimicrobial Therapy in Veterinary Medicine]'', by Steeve Giguere, P. M. Dowling, {{ISBN|978-0-8138-0656-3}}</ref>  It is found naturally as a fermentation product of ''[[Streptomyces fradiae]]''.<ref name="marvistavet">[http://www.marvistavet.com/html/body_tylosin.html Tylosin], marvistavet.com</ref> It is a [[macrolide]] antibiotic.
+
+Tylosin is used in veterinary medicine to treat bacterial infections in a wide range of species and has a high margin of safety.<ref name="Elanco">Tylan 200 Injectable - Product data sheet PA9063DENZP - Elanco Animal Health</ref> It has also been used as a growth promotant in some species, and as a treatment for colitis in companion animals.<ref name="marvistavet"/>
+
+== Mode of action ==
+
+Like other macrolides, tylosin has a [[bacteriostatic]] effect on susceptible organisms, caused by inhibition of protein synthesis through binding to the [[50S]] subunit of the bacterial [[ribosome]].
+
+== Spectrum of activity ==
+
+Tylosin has a wide spectrum of activity against Gram-positive bacteria including ''[[Staphylococcus]]'', ''[[Streptococcus]]'', ''[[Corynebacterium]]'', and ''[[Erysipelothrix]]''. It has a much narrower Gram-negative spectrum of activity, but has been shown to be active against ''[[Campylobacter coli]]'', and certain [[spirochaete]]s.<ref name="drugs.com">[http://www.drugs.com/vet/tylosin.html Tylosin], drugs.com</ref> It has also been shown to be extremely active against ''Mycoplasma'' species isolated from both mammalian and avian hosts.<ref name="Elanco"/><ref name="petplace">[http://www.petplace.com/drug-library/tylosin-tylan/page1.aspx Tylosin-Tylan], petplace.com</ref> The following represents MIC susceptibility data for a few medically significant pathogens:
+* ''Mycoplasma bovis'': 0.06 - 4 μg/ml
+* ''Staphylococcus aureus'': 0.5 - >128 μg/ml<ref>http://antibiotics.toku-e.com/antimicrobial_1177_5.html</ref>
+
+== Clinical use ==
+
+Tylosin has been used to treat a variety of different diseases throughout the world. Differing formulations and licensing conditions mean it may not be a recognized method of treatment for certain conditions in certain countries. In general, tylosin is licensed for the treatment of infections caused by organisms susceptible to the drug, but it has also been used as a treatment of [[colitis]] in small animals, as a growth promotant in food-producing animals, and as a way of reducing [[Epiphora (medicine)|epiphora]] (tear staining) around the eyes of white-faced dogs.<ref name="marvistavet"/> In these cases, the result is positive only when using the tylosin in the form of tartrate, a chelating porphyrin. No marketing authority exists for the use of other tylosin forms as a tear-stain remover, thus it is not legal to use it for such purposes; the exception is as a prescription-only medicine of last resort by veterinarians under the cascading rule (UK) or the extra-label use rule (US).
+
+Examples of bacterial infections that could potentially be treated with tylosin include respiratory infections, [[metritis]], and acute [[mastitis]] in cattle; mastitis in sheep and goats; [[enteritis]], [[pneumonia]], [[erysipelas]], and infectious [[arthritis]] in swine; and soft-tissue infections in small animals.<ref name="Giguere"/><ref name="marvistavet"/><ref name="drugs.com"/><ref name="petplace"/>
+While tylosin may be one appropriate therapeutic choice in theory for the conditions listed above, many other antibiotics may be preferable for treating a specific infection, and tylosin will not be the first choice.
+
+It is also used as a growth promoter for a variety of terrestrial and aquatic animals grown for human consumption.<ref>Hirsch R, Ternes T, Haberer K, Kratz KL (1999). Occurrence of antibiotics in the aquatic environment. ''The Science of the total environment'', 225:109-118.</ref>
+
+== Available forms ==
+
+Tylosin is available in injectable, intramammary, and oral formulations with different product ranges available in different countries.<ref name="Giguere"/>
+
+== Composition ==
+Tylosin is a mixture of four major components: tylosins A, B, C, and D. Tylosin A is considered the major component of tylosin (comprises about 90% of tylosin); however, tylosins B, C, and D contribute to the overall potency of tylosin.<ref>Loke, M. L., and F. Ingerslev. "Stability of Tylosin A in Manure Containing Test Systems Determined by High Performance Liquid Chromatography."</ref>
+
+== Precautions and contraindications ==
+
+Administration of tylosin should be avoided in animals with a known hypersensitivity to the product, or to other macrolides.<ref name="petplace"/>
+
+Oral administration can result in diarrhoea and gastrointestinal disturbance. This is particularly true of horses, such that it can be fatal.<ref>[http://www.americanlivestock.com/pc-1359-123-tylan-200-injectable.aspx Tylan], americanlivestock.com</ref>  Tylosin also has a foul taste that is difficult to disguise.
+
+The injectable formulations of tylosin can cause pain, inflammation, and itchiness around the injection site.
+
+Since tylosin has a relatively poor spectrum of activity against Gram-negative organisms, it may not be a sensible therapeutic choice in the treatment of infections caused by unknown, potentially unsusceptible organisms.
+
+== Drug interactions ==
+
+Tylosin may increase digitalis blood levels, thus its toxicity,<ref name="petplace"/> and may be antagonistic to [[chloramphenicol]] or [[lincosamide]]s.
+
+Colorimetric assays of serum ALT and AST may be falsely elevated by macrolide antibiotics.
+
+== References ==
+{{reflist}}
+
+
+
+{{Protein synthesis inhibitor antibiotics}}
+
+[[Category:Macrolide antibiotics]]
+[[Category:Veterinary drugs]]

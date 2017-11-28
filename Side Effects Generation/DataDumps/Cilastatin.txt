@@ -1,0 +1,68 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 460036539
+| IUPAC_name = (''Z'')-7-[(2''R'')-2-Amino-3-hydroxy-3-oxopropyl]sulfanyl-2-<nowiki/>{[(1''S'')-2,2-dimethylcyclopropanecarbonyl]amino}hept-2-enoic acid
+| image = Cilastatin.svg
+| width = 200px
+| image2 = Cilastatin ball-and-stick.png
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|cilastatin}}
+| MedlinePlus = a686013
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status =  
+| routes_of_administration =  IV
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| IUPHAR_ligand = 5166
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 82009-34-5
+| ATC_prefix = J01
+| ATC_suffix = DH51
+| ATC_supplemental = (combination with [[imipenem]]) 
+| PubChem = 5280454
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01597
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4940183
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 141A6AMN38
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07698
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 3697
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 766
+<!--Chemical data-->
+| C=16 | H=26 | N=2 | O=5 | S=1
+| molecular_weight = 358.454 g/mol
+| smiles = O=C(N\C(=C/CCCCSC[C@@H](C(=O)O)N)C(=O)O)[C@H]1CC1(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H26N2O5S/c1-16(2)8-10(16)13(19)18-12(15(22)23)6-4-3-5-7-24-9-11(17)14(20)21/h6,10-11H,3-5,7-9,17H2,1-2H3,(H,18,19)(H,20,21)(H,22,23)/b12-6-/t10-,11+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = DHSUYTOATWAVLW-WFVMDLQDSA-N
+}}
+
+'''Cilastatin''' is a chemical compound which inhibits the human [[enzyme]] [[dehydropeptidase]].<ref name="pmid7492120">{{cite journal |vauthors=Keynan S, Hooper NM, Felici A, Amicosante G, Turner AJ |title=The renal membrane dipeptidase (dehydropeptidase I) inhibitor, cilastatin, inhibits the bacterial metallo-beta-lactamase enzyme CphA |journal=Antimicrob. Agents Chemother. |volume=39 |issue=7 |pages=1629–31 |year=1995 |pmid=7492120 |doi= 10.1128/aac.39.7.1629|pmc=162797}}</ref>
+
+Dehydropeptidase is an enzyme found in the [[kidney]] and is responsible for degrading the [[antibiotic]] [[imipenem]]. Cilastatin can therefore be combined [[Intravenous therapy|intravenously]] with imipenem in order to protect it from dehydropeptidase and prolong its antibacterial effect.  Imipenem alone is an effective antibiotic and can be given without the cilastatin.  Cilastatin itself does not have antibiotic activity although it has been proved to be active against a zinc-dependent [[beta-lactamase]] that usually confer antibiotic resistance to certain bacteria; more precisely the [[carbapenem]] family of antibiotics. This property is due to the physico-chemical similarities between [[membrane dipeptidase]] (MDP), the compound it is usually set to target, and the bacterial metallo-beta-lactamase carried by the CphA gene<ref name="pmid7492120"/> Therefore, cilastatin is considered a [[beta-lactamase inhibitor]], not an antibiotic per se. But as with other combinations of an antibiotic with an [[enzyme inhibitor]], the combination allows the antibiotic to be more effective by changing the [[pharmacokinetics]] involved. Thus [[imipenem/cilastatin]], like [[amoxicillin/clavulanic acid]], is a commonly used combination product.
+
+==References==
+{{Reflist|2}}
+
+{{Leukotrienergics}}
+
+[[Category:Hydrolase inhibitors]]
+[[Category:Amino acid derivatives]]
+[[Category:Thioethers]]
+[[Category:Dicarboxylic acids]]

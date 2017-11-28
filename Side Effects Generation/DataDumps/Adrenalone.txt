@@ -1,0 +1,97 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 477243041
+| IUPAC_name = 1-(3,4-dihydroxyphenyl)-2-(methylamino)ethanone
+| image = Adrenalone.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = No data
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Topical
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism = [[Monoamine oxidase|MAO]], [[Catechol-O-methyl transferase|COMT]]
+| elimination_half-life =  
+| excretion = [[Renal]]
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 99-45-6
+| CAS_supplemental = <br />{{CAS|62-13-5}} ([[hydrochloride]])
+| ATC_prefix = A01
+| ATC_suffix = AD06
+| ATC_supplemental =  {{ATC|B02|BC05}}
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2103996
+| PubChem = 7436
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 7158
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = EGU41QL329
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02774
+
+<!--Chemical data-->
+| C=9 | H=11 | N=1 | O=3 
+| molecular_weight = 181.189 g/mol
+| smiles = O=C(c1cc(O)c(O)cc1)CNC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C9H11NO3/c1-10-5-9(13)6-2-3-7(11)8(12)4-6/h2-4,10-12H,5H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = PZMVOUYYNKPMSI-UHFFFAOYSA-N
+| melting_point     = 235
+| melting_high      = 236
+| melting_notes     = ([[Chemical decomposition|decomposes]])
+}}
+'''Adrenalone''' is an [[adrenergic agonist]] used as a topical [[vasoconstrictor]] and [[hemostatic]]. Formerly, it was also used to prolong the action of [[local anesthetic]]s. It is the [[ketone]] form of [[epinephrine]] (adrenaline). Contrary to epinephrine, adrenalone mainly acts on [[alpha-1 adrenergic receptor]]s, but has little affinity for beta receptors. The drug is largely obsolete, being superseded by other hemostatics such as [[thrombin]], [[fibrinogen]], and [[vasopressin analogue]]s.<ref name="Arzneistoff-Profile">
+{{cite book 
+| title        = Arzneistoff-Profile 
+| editor1-last = Dinnendahl | editor1-first = V.
+| editor2-last = Fricke     | editor2-first = U.
+| publisher    = Govi Pharmazeutischer Verlag 
+| location     = Eschborn, Germany 
+| date         = 2010 
+| edition      = 23 
+| volume       = 4 
+| isbn         = 978-3-7741-9846-3 
+| language     = German
+}}</ref>
+
+==Contraindications and interactions==
+Adrenalone does not stop bleeding from large blood vessels. It is not approved for systemic use. Combination with [[antithrombotic]]s is not useful because they contravene the action of adrenalone.<ref name="Arzneistoff-Profile" />
+
+==Side effects==
+Vasoconstriction by adrenalone may lead to local [[necrosis]].<ref name="Arzneistoff-Profile" />
+
+==Pregnancy and lactation==
+Adrenalone passes into breast milk, but adverse effects are unlikely because of its very low systemic resorption.<ref name="Arzneistoff-Profile" />
+
+==Chemical properties==
+Adrenalone is a derivative of epinephrine, having the alcohol function replaced with a ketone. As a consequence, it is not [[optically active]] any more.
+
+Solubility in water, [[ethanol]] and [[diethyl ether]] is low. The substance is typically used in form of the [[hydrochloride]], a white crystalline powder which tastes bitter and slightly acidic, and is soluble in water (1:8) and 94% ethanol (1:45). The melting point of the hydrochloride is {{convert|243|°C|°F}}.<ref name="Arzneistoff-Profile" />
+
+==Pharmacology==
+After local application, only traces of adrenalone are found in the blood, which is partly a consequence of the vasoconstriction caused by the drug via alpha-1 adrenergic receptors. In an (unspecified) pharmacological model, [[hypertensive]] (blood pressure increasing) action has been found to be about 0.5% that of epinephrine at equivalent plasma concentrations. Therefore, systemic effects are unlikely.
+
+Like epinephrine, adrenalone is metabolised by [[catechol-O-methyl transferase]] (COMT), yielding 3O-methyladrenalone, which in turn is N-demethylized by [[monoamine oxidase]] (MAO). Alternatively, it can first undergo metabolization by MAO and then by COMT; in both cases, the resulting 3O-methyl-N-demethyladrenalone is conjugated to [[sulfate]] or [[glucuronide]] and excreted by the kidney. No reduction to epinephrine has been observed ''in vivo''.<ref name="Arzneistoff-Profile" />
+
+==References==
+{{reflist}}
+
+{{Stomatological preparations}}
+{{Antihemorrhagics}}
+
+[[Category:Catecholamines]]
+[[Category:Aromatic ketones]]

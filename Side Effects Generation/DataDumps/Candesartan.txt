@@ -1,0 +1,88 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 460015915
+| IUPAC_name = 2-ethoxy-1-({4-[2-(2''H''-1,2,3,4-tetrazol-5-yl)phenyl]phenyl}methyl)-1''H''-1,3-benzodiazole-7-carboxylic acid
+| image = Candesartan.svg
+<!--Clinical data-->
+| tradename = Atacand
+| Drugs.com = {{drugs.com|monograph|atacand}}
+| MedlinePlus = a601033
+| pregnancy_AU = D
+| pregnancy_category =  
+| legal_status = Rx-only
+| routes_of_administration = oral
+<!--Pharmacokinetic data-->
+| bioavailability = 15% (candesartan cilexetil)
+| metabolism = Candesartan cilexetil: [[intestine|intestinal wall]]; candesartan: [[hepatic]] ([[CYP2C9]])
+| elimination_half-life = 9 hours
+| excretion = [[Renal]] 33%, [[feces|faecal]] 67%
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 139481-59-7
+| ATC_prefix = C09
+| ATC_suffix = CA06
+| PubChem = 2541
+| IUPHAR_ligand = 587
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00796
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2445
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = S8Q36MD2XX
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D00626
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 3347
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1016
+<!--Chemical data-->
+| C=24 | H=20 | N=6 | O=3
+| molecular_weight = 440.45 g/mol
+| smiles = O=C(O)c1cccc2nc(OCC)n(c12)Cc5ccc(c3ccccc3c4nnnn4)cc5
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C24H20N6O3/c1-2-33-24-25-20-9-5-8-19(23(31)32)21(20)30(24)14-15-10-12-16(13-11-15)17-6-3-4-7-18(17)22-26-28-29-27-22/h3-13H,2,14H2,1H3,(H,31,32)(H,26,27,28,29)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = HTQMVQVXFRQIKW-UHFFFAOYSA-N
+}}
+'''Candesartan''' ([[International Nonproprietary Name|rINN]]) {{IPAc-en|ˌ|k|æ|n|d|ᵻ|ˈ|s|ɑːr|t|ən}} is an [[angiotensin II receptor antagonist]] used mainly for the treatment of [[hypertension]]. The [[prodrug]] '''candesartan cilexetil''' is marketed by [[AstraZeneca]] and [[Takeda Pharmaceuticals]], commonly under the [[trade name]]s '''Diceran''','''Blopress''', '''Atacand''', '''Amias''', and '''Ratacand'''. It is available in [[Generic drug|generic]] form.<ref>[http://www.sandoz.com/cs/www.sandoz.com-v4/assets/media/shared/documents/Candesartan_PR.pdf sandoz.com]</ref>
+
+==Clinical use==
+{{main|Angiotensin II receptor antagonist}}
+
+As with other angiotensin II receptor antagonists, candesartan is indicated for the treatment of [[hypertension]]. Results from the CHARM study (early 2000s) demonstrated the [[morbidity]] and [[death|mortality]] reduction benefits of candesartan therapy in [[congestive heart failure]].<ref name="Pfeffer2003">{{cite journal | vauthors = Pfeffer M, Swedberg K, Granger C, Held P, McMurray J, Michelson E, Olofsson B, Ostergren J, Yusuf S, Pocock S | title = Effects of candesartan on mortality and morbidity in patients with chronic heart failure: the CHARM-Overall programme | journal = Lancet | volume = 362 | issue = 9386 | pages = 759–66 | year = 2003 | pmid = 13678868 | doi = 10.1016/S0140-6736(03)14282-1}}</ref> Thus, while [[ACE inhibitor]]s are still considered first-line therapy in heart failure, candesartan can be used in combination with an ACE to achieve improved mortality and morbidity vs. an ACE alone and additionally is an alternative in patients intolerant of ACE inhibitor therapy.
+
+===Prehypertension===
+In a four-year [[randomized controlled trial]], candesartan was compared to [[placebo]] to see whether it could prevent or postpone the development of full-blown hypertension in people with so-called [[prehypertension]]. During the first two years of the trial, half of participants were given candesartan, and the others received placebo; candesartan reduced the risk of developing hypertension by nearly two-thirds during this period. In the last two years of the study, all participants were switched to placebo. By the end of the study, candesartan had [[statistical significance|significantly]] reduced the risk of hypertension, by more than 15%. Serious [[Adverse drug reaction|side effects]] were actually more common among participants receiving placebo than in those given candesartan.<ref>{{cite journal |vauthors=Julius S, Nesbitt SD, Egan BM |title=Feasibility of treating prehypertension with an angiotensin-receptor blocker |journal=[[New England Journal of Medicine]] |volume=354 |issue=16 | pages = 1685&ndash;97 |date=July 2006 | pmid = 16537662 |doi=10.1056/NEJMoa060838|display-authors=etal}}</ref>
+
+===Combination with diuretic===
+Candesartan is also available in a combination formulation with a low dose of the [[thiazide diuretic]] [[hydrochlorothiazide]], to achieve an additive antihypertensive effect. Candesartan/hydrochlorothiazide combination preparations are marketed under various trade names including '''Atacand HCT''', '''Hytacand''', '''Blopress Plus''', Advantec and '''Ratacand Plus'''.
+
+[[Image:Candesartan cilexetil.png|thumb|Candesartan cilexetil|150px|left]]
+
+==Chemistry and pharmacology==
+Candesartan is marketed as the [[cyclohexane|cyclohexyl]] 1-[[Hydroxyl|hydroxy]][[ethyl group|ethyl]] [[carbonate]] (cilexetil) [[ester]], known as '''candesartan cilexetil'''. Candesartan cilexetil is metabolised completely by [[esterase]]s in the [[intestine|intestinal wall]] during absorption to the active candesartan moieity.
+
+The use of a prodrug form increases the [[bioavailability]] of candesartan. Despite this, absolute bioavailability is relatively poor at 15% (candesartan cilexetil tablets) to 40% (candesartan cilexetil solution). Its [[IC50|IC<sub>50</sub>]] is 15&nbsp;µg/kg.
+
+==Development history==
+The compound known as TCV-116 (candesartan) was studied by Japanese scientists using standard [[laboratory rat]]s. Animal studies were published showing the effectiveness of the compound in 1992-1993, with a pilot study on humans published in the summer of 1993.<ref>{{cite journal |last=Mizuno |first=K. |date=1992 |title=Hypotensive activity of TCV-116, a newly developed angiotensin II receptor antagonist, in spontaneously hypertensive rats. |url= |journal=Life Sci. |publisher= |volume=51 |issue=20 |pages=PL183-187 |pmid=1435062 |jstor=  |display-authors=etal |doi=10.1016/0024-3205(92)90627-2}}<!--|access-date=August 11, 2015--></ref><ref>{{cite journal |last=Ogihara |first=T. |date=Jul–Aug 1993 |title=Pilot study of a new angiotensin II receptor antagonist, TCV-116: effects of a single oral dose on blood pressure in patients with essential hypertension. |url= |journal=Clin Ther. |publisher= |volume=15 |issue= 4|pages= 684–91|pmid=8221818 |jstor=  |display-authors=etal}}<!--|access-date=August 11, 2015--></ref>
+
+==Research==
+In a study of 108 patients with early morning blood pressure more than 135/85&nbsp;[[mmHg]], Candesartan showed significantly early morning Blood Pressure decreased over [[amlodipine]], and also to ARBs, [[valsartan]], [[losartan]], [[telmisartan]], but not [[olmesartan]].<ref>{{cite web |url=http://www.tandfonline.com/doi/abs/10.3109/08037051.2013.757844 |title=Comparative effect of candesartan and amlodipine, and effect of switching from valsartan, losartan, telmisartan and olmesartan to candesartan, on early morning hypertension and heart rate |author1=Shinya Minatoguchi |author2=Takuma Aoyama |author3=Naoki Kawai |author4=Mitsunori Iwasa |author5=Masayuki Oda |author6=Keiji Kida |author7=Syojiro Kojima |author8=Naomi Goto |author9=Masahiro Goto |author10=Fusayoshi Sugishita |author11=Kuniyuki Takai |author12=Ryuhei Tanaka |author13=Keiji Hiei |author14=Taro Minagawa |author15=Noritaka Yamamoto |author16=Ikuo Watanabe |author17=Takao Yasue |author18=Hiroshi Kobayashi |accessdate=September 27, 2016}}</ref>
+
+== See also ==
+* [[Discovery and development of angiotensin receptor blockers]]
+
+==References==
+{{reflist}}
+
+{{Angiotensin II receptor antagonists}}
+{{Angiotensin receptor modulators}}
+
+[[Category:Angiotensin II receptor antagonists]]
+[[Category:Tetrazoles]]
+[[Category:Benzimidazoles]]
+[[Category:Ethers]]
+[[Category:Carboxylic acids]]
+[[Category:Biphenyls]]

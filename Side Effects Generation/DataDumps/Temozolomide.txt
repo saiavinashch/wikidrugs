@@ -1,0 +1,119 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 477861554
+| IUPAC_name = 4-methyl-5-oxo-2,3,4,6,8-pentazabicyclo[4.3.0]nona-2,7,9-triene-9-carboxamide
+| image = Temozolomide structure.svg
+| width = 160
+| image2 = Temozolomide-3D-spacefill.png
+| width2 = 160
+
+<!--Clinical data-->
+| tradename = Temodar, Temodal, Temcad
+| Drugs.com = {{drugs.com|monograph|temozolomide}}
+| MedlinePlus = a601250
+| licence_EU = Temodal
+| licence_US = Temozolomide
+| pregnancy_AU =  
+| pregnancy_US = D
+| legal_AU =  
+| legal_US = Rx-only
+| legal_status = ℞-only
+| routes_of_administration = Oral, intravenous
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 15%
+| metabolism = spontaneously hydrolyzed at physiologic pH to the active species, 3-methyl-(triazen-1-yl)imidazole-4-carboxamide (MTIC) and to temozolomide acid metabolite
+| elimination_half-life = 1.8 hours
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7301
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 85622-93-1
+| ATC_prefix = L01
+| ATC_suffix = AX03
+| ATC_supplemental =  
+| PubChem = 5394
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00853
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5201
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = YF1K15M17Y
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D06067
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 72564
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 810
+
+<!--Chemical data-->
+| C=6 | H=6 | N=6 | O=2
+| molecular_weight = 194.151 g/mol
+| smiles = O=C(c1ncn2C(=O)N(\N=N/c12)C)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C6H6N6O2/c1-11-6(14)12-2-8-3(4(7)13)5(12)9-10-11/h2H,1H3,(H2,7,13)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = BPEGJWRSRHCHSN-UHFFFAOYSA-N
+| melting_point = 212
+| melting_notes = (decomp.)
+}}
+
+'''Temozolomide''' ('''TMZ'''; brand names '''Temodar''' and '''Temodal''' and '''Temcad''') is an oral chemotherapy drug. It is an [[alkylating antineoplastic agent|alkylating agent]] used as a treatment of some brain cancers; as a second-line treatment for [[astrocytoma]] and a first-line treatment for [[glioblastoma multiforme]].<ref name=Label/><ref name=NICE>NICE [http://www.nice.org.uk/guidance/ta23 NICE technology appraisal guidance &#91;TA23&#93;: Guidance on the use of temozolomide for the treatment of recurrent malignant glioma (brain cancer)]  Published date: April 200</ref>
+
+==Indications==
+* Nitrosourea- and procarbazine-refractory [[anaplastic astrocytoma]]<ref name=Label>[http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021029s021,022277s005lbl.pdf Temodar label] Last updated Feb 2011</ref><ref name=NICE/>
+* Newly diagnosed [[glioblastoma multiforme]]<ref name=Label/>
+
+==Side-effects==
+The most common side effect is [[bone marrow suppression]]. The most common non-hematological adverse effects associated with temozolomide are nausea and vomiting, which are either self-limiting or readily controlled with standard [[antiemetic]] therapy. These latter effects are usually mild to moderate (grade 1 to 2). The incidence of severe nausea and vomiting is around 4% each. Patients who have pre-existing or a history of severe vomiting may require antiemetic therapy before initiating temozolomide treatment. Temozolomide should be administered in the fasting state, at least one hour before a meal. Antiemetic therapy may be administered before, or following, administration of temozolomide. Temozolomide is contraindicated in patients with hypersensitivity to its components or to [[dacarbazine]]. The use of temozolomide is not recommended in patients with severe [[myelosuppression]].
+
+Temozolomide is [[genotoxic]], [[teratogenic]] and fetotoxic and should not be used during pregnancy.
+Lactating women should discontinue nursing while receiving the drug because of the risk of secretion into breast milk.
+One study indicated that women that have taken temozolomide without concomitant [[fertility preservation]] measures achieve pregnancy to a lesser rate later in life, but the study was too small to show [[statistical significance]] in the hypothesis that temozolomide would confer a risk of [[female infertility]].<ref>{{cite journal | vauthors = Sitbon Sitruk L, Sanson M, Prades M, Lefebvre G, Schubert B, Poirot C | trans-title = Unknown gonadotoxicity chemotherapy and preservation of fertility: example of Temozolomide | title = Chimiothérapie à gonadotoxicité inconnue et préservation de la fertilité: Exemple du témozolomide | language = French | journal = Gynecologie, Obstetrique & Fertilite | volume = 38 | issue = 11 | pages = 660–2 | date = November 2010 | pmid = 21030284 | doi = 10.1016/j.gyobfe.2010.09.002 }}</ref>
+In male patients, temozolomide can have genotoxic effects. Men are advised not to father a child during or up to six months after treatment and to seek advice on cryoconservation of sperm prior to treatment, because of the possibility of irreversible infertility due to temozolomide therapy.
+
+Very rarely temozolomide can cause acute respiratory failure or liver damage.
+
+==Mechanism of action==
+The therapeutic benefit of temozolomide depends on its ability to [[alkylate]]/[[methylate]] DNA, which most often occurs at the N-7 or O-6 positions of [[guanine]] residues. This methylation damages the DNA and triggers the death of tumor cells. However, some tumor cells are able to repair this type of DNA damage, and therefore diminish the therapeutic efficacy of temozolomide, by expressing a protein ''O''<sup>6</sup>-alkylguanine DNA alkyltransferase (AGT) encoded in humans by the [[O-6-methylguanine-DNA methyltransferase|''O''-6-methylguanine-DNA methyltransferase]] (''MGMT'') gene.<ref>{{cite journal | vauthors = Jacinto FV, Esteller M | title = MGMT hypermethylation: a prognostic foe, a predictive friend | journal = DNA Repair | volume = 6 | issue = 8 | pages = 1155–60 | date = August 2007 | pmid = 17482895 | doi = 10.1016/j.dnarep.2007.03.013 }}</ref> In some tumors, [[epigenetic]] silencing of the ''MGMT'' gene prevents the synthesis of this enzyme, and as a consequence such tumors are more sensitive to killing by temozolomide.<ref>{{cite journal | vauthors = Hegi ME, Diserens AC, Gorlia T, Hamou MF, de Tribolet N, Weller M, Kros JM, Hainfellner JA, Mason W, Mariani L, Bromberg JE, Hau P, Mirimanoff RO, Cairncross JG, Janzer RC, Stupp R | title = MGMT gene silencing and benefit from temozolomide in glioblastoma | journal = The New England Journal of Medicine | volume = 352 | issue = 10 | pages = 997–1003 | date = March 2005 | pmid = 15758010 | doi = 10.1056/NEJMoa043331 }}</ref> Conversely, the presence of AGT protein in brain tumors predicts poor response to temozolomide and these patients receive little benefit from chemotherapy with temozolomide.<ref>{{cite journal | vauthors = Stupp R, Hegi ME, Mason WP, van den Bent MJ, Taphoorn MJ, Janzer RC, Ludwin SK, Allgeier A, Fisher B, Belanger K, Hau P, Brandes AA, Gijtenbeek J, Marosi C, Vecht CJ, Mokhtari K, Wesseling P, Villa S, Eisenhauer E, Gorlia T, Weller M, Lacombe D, Cairncross JG, Mirimanoff RO, ((European Organisation for Research Treatment of Cancer Brain Tumour Radiation Oncology Groups)), ((National Cancer Institute of Canada Clinical Trials Group))) | title = Effects of radiotherapy with concomitant and adjuvant temozolomide versus radiotherapy alone on survival in glioblastoma in a randomised phase III study: 5-year analysis of the EORTC-NCIC trial | journal = The Lancet. Oncology | volume = 10 | issue = 5 | pages = 459–66 | date = May 2009 | pmid = 19269895 | doi = 10.1016/S1470-2045(09)70025-7  }}</ref>
+
+==Chemical properties==
+Temozolomide is a [[prodrug]] and an imidazotetrazine derivative of the alkylating agent [[dacarbazine]].<ref name=Sansom/>
+
+==History==
+The agent was developed by [[Malcolm Stevens]] and his team at [[Aston University]] in [[Birmingham]].<ref name=Sansom>{{cite journal | first = Clare | last = Sansom | name-list-format = vanc | journal =  Chemistry World | date = July 2009 | pages = 48–51 | url = http://www.rsc.org/images/TEMOZOLOMIDE_ChemistryWorldJul09_tcm18-155909.pdf | title = Temozolomide – birth of a blockbuster }}</ref><ref>{{cite web | archive-url = http://web.archive.org/web/20120314043035/http://info.cancerresearchuk.org/cancerandresearch/progress/cancer_drugs/drug_discovery/temozolomide/ | archive-date = 14 March 2012 | dead-url = yes | url = http://info.cancerresearchuk.org/cancerandresearch/progress/cancer_drugs/drug_discovery/temozolomide/ | title = Malcolm Steven – interview | work = Cancer Research UK impact & achievements page}}</ref><ref name="pmid9189180">{{cite journal | vauthors = Newlands ES, Stevens MF, Wedge SR, Wheelhouse RT, Brock C | title = Temozolomide: a review of its discovery, chemical properties, pre-clinical development and clinical trials | journal = Cancer Treatment Reviews | volume = 23 | issue = 1 | pages = 35–61 | date = January 1997 | pmid = 9189180 | doi = 10.1016/S0305-7372(97)90019-0 }}</ref> It has been available in the US since August 1999, and in other countries since the early 2000s.<ref name=Sansom/>
+
+==Research==
+Laboratory studies and clinical trials have started investigating the possibility of increasing the anticancer potency of temozolomide by combining it with other pharmacologic agents. For example, clinical trials have indicated that the addition of [[chloroquine]] might be beneficial for the treatment of [[glioma]] patients.<ref>{{cite journal | vauthors = Gilbert MR | title = New treatments for malignant gliomas: careful evaluation and cautious optimism required | journal = Annals of Internal Medicine | volume = 144 | issue = 5 | pages = 371–3 | date = March 2006 | pmid = 16520480 | doi = 10.7326/0003-4819-144-5-200603070-00015 }}</ref> Laboratory studies found that temozolomide killed brain tumor cells more efficiently when [[epigallocatechin gallate]] ([[Epigallocatechin gallate|EGCG]]), a component of [[green tea]], was added; however, the efficacy of this effect has not yet been confirmed in [[brain-tumor]] patients.<ref>{{cite journal | vauthors = Pyrko P, Schönthal AH, Hofman FM, Chen TC, Lee AS | title = The unfolded protein response regulator GRP78/BiP as a novel target for increasing chemosensitivity in malignant gliomas | journal = Cancer Research | volume = 67 | issue = 20 | pages = 9809–16 | date = October 2007 | pmid = 17942911 | doi = 10.1158/0008-5472.CAN-07-0625 | url = http://cancerres.aacrjournals.org/cgi/pmidlookup?view=long&pmid=17942911 }}</ref> Preclinical studies reported in 2010 on investigations into the use of the novel [[oxygen diffusion-enhancing compound]] [[trans sodium crocetinate]] (TSC) when combined with temozolomide and radiation therapy<ref>{{cite journal | vauthors = Sheehan J, Cifarelli CP, Dassoulas K, Olson C, Rainey J, Han S | title = Trans-sodium crocetinate enhancing survival and glioma response on magnetic resonance imaging to radiation and temozolomide | journal = Journal of Neurosurgery | volume = 113 | issue = 2 | pages = 234–9 | date = August 2010 | pmid = 20001586 | doi = 10.3171/2009.11.JNS091314 }}</ref> and a clinical trial was underway {{as of | 2015 | August | lc = on}}.<ref>{{cite web | url = http://clinicaltrials.gov/ct2/show/NCT01465347?term=tsc&rank=4 | publisher = [[ClinicalTrials.gov]] | date = November 2011 | title = Safety and Efficacy Study of Trans Sodium Crocetinate (TSC) With Concomitant Radiation Therapy and Temozolomide in Newly Diagnosed Glioblastoma (GBM) | accessdate = 2016-02-01}}</ref>
+
+While the above-mentioned approaches have investigated whether the combination of temozolomide with other agents might improve therapeutic outcome, efforts have also started to study whether altering the temozolomide molecule itself can increase its activity. One such approach permanently fused [[perillyl alcohol]], a natural compound with demonstrated therapeutic activity in brain cancer patients,<ref>{{cite journal | vauthors = Da Fonseca CO, Teixeira RM, Silva JC, De Saldanha Da Gama Fischer J, Meirelles OC, Landeiro JA, Quirico-Santos T | title = Long-term outcome in patients with recurrent malignant glioma treated with Perillyl alcohol inhalation | journal = Anticancer Research | volume = 33 | issue = 12 | pages = 5625–31 | date = December 2013 | pmid = 24324108 }}</ref> to the temozolomide molecule. The resultant novel compound, called NEO212 or TMZ-POH, revealed anticancer activity that was significantly greater than that of either of its two parent molecules, temozolomide and perillyl alcohol. Although {{as of | 2016 | lc = on}}, NEO212 has not been tested in humans, it has shown superior cancer therapeutic activity in animal models of [[glioma]],<ref>{{cite journal | vauthors = Cho HY, Wang W, Jhaveri N, Lee DJ, Sharma N, Dubeau L, Schönthal AH, Hofman FM, Chen TC | title = NEO212, temozolomide conjugated to perillyl alcohol, is a novel drug for effective treatment of a broad range of temozolomide-resistant gliomas | journal = Molecular Cancer Therapeutics | volume = 13 | issue = 8 | pages = 2004–17 | date = August 2014 | pmid = 24994771 | doi = 10.1158/1535-7163.mct-13-0964 }}</ref> [[melanoma]],<ref>{{cite journal | vauthors = Chen TC, Cho HY, Wang W, Nguyen J, Jhaveri N, Rosenstein-Sisson R, Hofman FM, Schönthal AH | title = A novel temozolomide analog, NEO212, with enhanced activity against MGMT-positive melanoma in vitro and in vivo | journal = Cancer Letters | volume = 358 | issue = 2 | pages = 144–51 | date = March 2015 | pmid = 25524552 | doi = 10.1016/j.canlet.2014.12.021 }}</ref> and [[brain metastasis]] of [[triple-negative breast cancer]].<ref>{{cite journal | vauthors = Chen TC, Cho HY, Wang W, Barath M, Sharma N, Hofman FM, Schönthal AH | title = A novel temozolomide-perillyl alcohol conjugate exhibits superior activity against breast cancer cells in vitro and intracranial triple-negative tumor growth in vivo | journal = Molecular Cancer Therapeutics | volume = 13 | issue = 5 | pages = 1181–93 | date = May 2014 | pmid = 24623736 | doi = 10.1158/1535-7163.mct-13-0882 }}</ref>
+
+Because tumor cells that express the [[O-6-methylguanine-DNA methyltransferase|MGMT]] gene are more resistant to the effects of temozolomide, researchers investigated whether the inclusion of [[O6-benzylguanine|''O''<sup>6</sup>-benzylguanine]] (''O''<sup>6</sup>-BG), an AGT inhibitor, could overcome this resistance and improve the drug's therapeutic effectiveness. In the laboratory, this combination indeed showed increased temozolomide activity in tumor-cell culture [[in vitro]] and in animal models [[in vivo]].<ref>{{cite journal | vauthors = Ueno T, Ko SH, Grubbs E, Yoshimoto Y, Augustine C, Abdel-Wahab Z, Cheng TY, Abdel-Wahab OI, Pruitt SK, Friedman HS, Tyler DS | title = Modulation of chemotherapy resistance in regional therapy: a novel therapeutic approach to advanced extremity melanoma using intra-arterial temozolomide in combination with systemic O6-benzylguanine | journal = Molecular Cancer Therapeutics | volume = 5 | issue = 3 | pages = 732–8 | date = March 2006 | pmid = 16546988 | doi = 10.1158/1535-7163.MCT-05-0098 | url = http://mct.aacrjournals.org/cgi/pmidlookup?view=long&pmid=16546988 }}</ref> However, a recently{{Clarify timeframe}} completed phase-II clinical trial with brain-tumor patients yielded mixed outcomes; while there was some improved therapeutic activity when ''O''<sup>6</sup>-BG and temozolomide were given to patients with temozolomide-resistant [[anaplastic]] glioma, there seemed to be no significant restoration of temozolomide sensitivity in patients with temozolomide-resistant [[glioblastoma multiforme]].<ref>{{cite journal | vauthors = Quinn JA, Jiang SX, Reardon DA, Desjardins A, Vredenburgh JJ, Rich JN, Gururangan S, Friedman AH, Bigner DD, Sampson JH, McLendon RE, Herndon JE, Walker A, Friedman HS | title = Phase II trial of temozolomide plus o6-benzylguanine in adults with recurrent, temozolomide-resistant malignant glioma | journal = Journal of Clinical Oncology | volume = 27 | issue = 8 | pages = 1262–7 | date = March 2009 | pmid = 19204199 | pmc = 2667825 | doi = 10.1200/JCO.2008.18.8417 }}</ref>
+
+Some efforts focus on engineering [[hematopoietic stem cell]]s expressing the ''MGMT'' gene prior to transplanting them into brain-tumor patients. This would allow for the patients to receive stronger doses of temozolomide, since the patient's [[Haematopoiesis|hematopoietic]] cells would be resistant to the drug.<ref>{{cite web | url = http://labs.fhcrc.org/kiem/Hans-Peter_Kiem.html | title = Kiem Lab | publisher = Fred Hutchinson Cancer Research Center }}</ref>
+
+High doses of temozolomide in high-grade gliomas have low toxicity, but the results are comparable to the standard doses.<ref>
+{{cite journal | vauthors = Dall'oglio S, D'Amico A, Pioli F, Gabbani M, Pasini F, Passarin MG, Talacchi A, Turazzi S, Maluta S | title = Dose-intensity temozolomide after concurrent chemoradiotherapy in operated high-grade gliomas | journal = Journal of Neuro-Oncology | volume = 90 | issue = 3 | pages = 315–9 | date = December 2008 | pmid = 18688571 | doi = 10.1007/s11060-008-9663-9 | url = http://www.springerlink.com/content/c1m089581r66q274/ }}
+</ref>
+
+== References ==
+{{Reflist|33em}}
+
+== External links ==
+* [http://www.aan.com/press/index.cfm?fuseaction=release.view&release=509 Chemotherapy Drug Shrinks Brain Tumors] American Academy of Neurology, May 21, 2007
+* [http://www.cancerhelp.org.uk/about-cancer/treatment/cancer-drugs/temozolomide Information for people undergoing treatment with temozolomide] Cancer Research UK (CancerHelp UK)
+
+{{Chemotherapeutic agents}}
+
+[[Category:DNA replication inhibitors]]
+[[Category:Fetotoxicants]]
+[[Category:Prodrugs]]
+[[Category:Schering-Plough]]
+[[Category:Teratogens]]
+[[Category:Cancer treatments]]
+[[Category:1999]]
+[[Category:Lactams]]
+[[Category:Carboxamides]]
+[[Category:Imidazotetrazines]]

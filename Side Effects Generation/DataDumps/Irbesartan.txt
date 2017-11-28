@@ -1,0 +1,95 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 461747446
+| IUPAC_name = 2-butyl-3-({4-[2-(2''H''-1,2,3,4-tetrazol-5-yl)phenyl]phenyl}methyl)-1,3-diazaspiro[4.4]non-1-en-4-one
+| image = Irbesartan skeletal.svg
+<!--Clinical data-->
+| tradename = Avapro
+| Drugs.com = {{drugs.com|monograph|irbesartan}}
+| MedlinePlus = a698009
+| licence_EU = Aprovel
+| licence_US = Irbesartan
+| pregnancy_AU = D
+| pregnancy_US = 
+| pregnancy_category = 
+| legal_AU = S4
+| legal_CA = 
+| legal_UK = POM
+| legal_US = Rx only
+| legal_status = 
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability = 60–80%
+| protein_bound = ~90%
+| metabolism = [[Hepatic]] ([[CYP2C9]])
+| elimination_half-life = 11–15 hours
+| excretion = [[Renal]] 20%, [[feces|faecal]] 65%
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 138402-11-6
+| ATC_prefix = C09
+| ATC_suffix = CA04
+| PubChem = 3749
+| IUPHAR_ligand = 589
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01029
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3618
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = J0E2756Z7N
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00523
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 5959
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1513
+<!--Chemical data-->
+| C=25 | H=28 | N=6 | O=1
+| molecular_weight = 428.53 g/mol
+| smiles = O=C1N(\C(=N/C12CCCC2)CCCC)Cc5ccc(c3ccccc3c4nnnn4)cc5
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C25H28N6O/c1-2-3-10-22-26-25(15-6-7-16-25)24(32)31(22)17-18-11-13-19(14-12-18)20-8-4-5-9-21(20)23-27-29-30-28-23/h4-5,8-9,11-14H,2-3,6-7,10,15-17H2,1H3,(H,27,28,29,30)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YOSHYTLCDANDAN-UHFFFAOYSA-N
+}}
+'''Irbesartan''' ([[International Nonproprietary Name|INN]]) {{IPAc-en|ɜr|b|ə|ˈ|s|ɑr|t|ən}} is an angiotensin II receptor antagonist used mainly for the treatment of [[hypertension]]. It was developed by Sanofi Research (now part of [[Sanofi-Aventis]]). It is jointly marketed by Sanofi-Aventis and [[Bristol-Myers Squibb]] under the [[trade name]]s Aprovel, Karvea, and Avapro.
+
+==Clinical use==
+{{Main|Angiotensin II receptor antagonist}}
+
+===Indications===
+As with all angiotensin II receptor antagonists, irbesartan is indicated for the treatment of hypertension. It may also delay progression of diabetic nephropathy and is also indicated for the reduction of renal disease progression in patients with type 2 diabetes,<ref name="Lewis-2001">{{cite journal |vauthors=Lewis EJ, Hunsicker LG, Clarke WR, Berl T, Pohl MA, Lewis JB, Ritz E, Atkins RC, Rohde R, Raz I, (( Collaborative Study Group.)) | title=Renoprotective effect of the angiotensin-receptor antagonist irbesartan in patients with nephropathy due to type 2 diabetes | journal=N Engl J Med | year=2001 | volume=345 | issue=12 | pages=851–60 | pmid=11565517 | doi=10.1056/NEJMoa011303}}</ref> hypertension and microalbuminuria (>30&nbsp;mg/24 hours) or proteinuria (>900&nbsp;mg/24 hours).<ref name="Rossi2006">Rossi S, editor. [[Australian Medicines Handbook]] 2006. Adelaide: Australian Medicines Handbook; 2006. {{ISBN|0-9757919-2-3}}</ref>
+
+===Combination with diuretic===
+Irbesartan is also available in a combination formulation with a low-dose [[thiazide diuretic]], invariably [[hydrochlorothiazide]], to achieve an additive antihypertensive effect. Irbesartan/hydrochlorothiazide combination preparations are marketed under similar trade names to irbesartan preparations.
+
+=== Heart failure===
+I-PRESERVE, a large randomized trial following 4100+ men and women with heart failure and normal ejection fraction (>=45%) over 4+ years found no improvement in study outcomes or survival with irbesartan as compared to [[placebo]].<ref name="pmid19001508">{{cite journal
+| vauthors=Massie BM, Carson PE, McMurray JJ, Komajda M, McKelvie R, Zile MR, Anderson S, Donovan M, Iverson E, Staiger C, Ptaszynska A 
+| title = Irbesartan in patients with heart failure and preserved ejection fraction
+| journal = N. Engl. J. Med.
+| volume = 359
+| issue = 23
+| pages = 2456–67
+| date=December 2008
+| pmid = 19001508
+| doi = 10.1056/NEJMoa0805450
+}}</ref>
+
+==See also==
+* [[Angiotensin II receptor antagonist]]
+
+==References==
+{{reflist|30em}}
+
+{{Angiotensin II receptor antagonists}}
+{{Angiotensin receptor modulators}}
+
+[[Category:Angiotensin II receptor antagonists]]
+[[Category:Sanofi]]
+[[Category:Bristol-Myers Squibb]]
+[[Category:Tetrazoles]]
+[[Category:Biphenyls]]
+[[Category:Lactams]]
+[[Category:Spiro compounds]]
+[[Category:Nitrogen heterocycles]]

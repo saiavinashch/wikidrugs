@@ -1,0 +1,94 @@
+{{infobox protein 
+ | Name = [[MMP1|Matrix metallopeptidase 1 (interstitial collagenase)]] 
+ | caption = 
+ | image = 
+ | width = 
+ | HGNCid = 7155 
+ | Symbol = [[MMP1]] 
+ | AltSymbols = 
+ | EntrezGene = 4312 
+ | OMIM = 120353 
+ | RefSeq = NM_002421 
+ | UniProt = P03956 
+ | PDB = 
+ | ECnumber = 3.4.24.7 
+ | Chromosome = 11 
+ | Arm = q 
+ | Band = 21 
+ | LocusSupplementaryData = -q22
+}}
+{{infobox protein 
+ | Name = [[MMP8|Matrix metallopeptidase 8 (neutrophil collagenase)]] 
+ | caption = 
+ | image = 
+ | width = 
+ | HGNCid = 7175 
+ | Symbol = [[MMP8]] 
+ | AltSymbols = 
+ | EntrezGene = 4317 
+ | OMIM = 120355 
+ | RefSeq = NM_002424 
+ | UniProt = P22894 
+ | PDB = 
+ | ECnumber = 3.4.24.3 Chromosome = 11 
+ | Arm = q 
+ | Band = 21 
+ | LocusSupplementaryData = -q22
+}}
+{{Infobox protein family
+ | Name = Peptidase M9
+ | Symbol = Peptidase M9
+ | image = 
+ | width = 
+ | caption = 
+ | Pfam = PF01752
+ | Pfam_clan = CL0126 
+ | InterPro = IPR013510
+ | SMART = 
+ | PROSITE = 
+ | MEROPS = M9
+ | SCOP = 
+ | TCDB = 
+ | OPM family = 
+ | OPM protein = 
+ | CAZy = 
+ | CDD = 
+}}
+'''Collagenases''' are [[enzymes]] that break the [[peptide bonds]] in [[collagen]].  They assist in destroying extracellular structures in the pathogenesis of bacteria such as ''[[Clostridium]]''.  They are considered a [[virulence factor]], facilitating the spread of [[gas gangrene]].  They normally target the connective tissue in [[muscle cells]] and other body organs.<ref>{{cite book |author=Gerard J. Tortora |author2=Berdell R. Funke |author3=Cristine L. Case |title=Microbiology: an introduction |publisher=Pearson Benjamin Cummings |year=2007 |isbn=0-321-39603-0}}</ref>
+
+Collagen, a key component of the animal extracellular matrix, is made through [[Bond cleavage|cleavage]] of pro-collagen by collagenase once it has been secreted from the cell.  This stops large structures from forming inside the cell itself.
+
+In addition to being produced by some bacteria, collagenase can be made by the body as part of its normal immune response.  This production is induced by [[cytokine]]s, which stimulate cells such as [[fibroblasts]] and [[osteoblasts]], and can cause indirect tissue damage.{{Citation needed|date=November 2007}}
+
+==Therapeutic uses==
+Collagenases have been approved for medical uses for
+
+* treatment of [[Dupuytren's contracture]] and [[Peyronie's disease]] ([[Xiaflex]]).
+* [[wound healing]]<ref>{{cite journal | pmc = 1501117 | pmid=16921413 | volume=4 | title=Collagenase promotes the cellular responses to injury and wound healing in vivo | year=2005 | journal=J Burns Wounds | pages=e8 | vauthors=Riley KN, Herman IM}}</ref> (Santyl)
+
+===The MEROPS M9 family===
+This group of metallopeptidases constitutes the [[MEROPS]] peptidase family M9, subfamilies M9A and M9B (microbial collagenase, clan MA(E)). The [[protein folding|protein fold]] of the peptidase [[Domain (biology)|domain]] for members of this family resembles that of thermolysin, the type example for clan MA and the predicted [[active site]] [[Residue (chemistry)|residue]]s for members of this family and thermolysin occur in the motif HEXXH.<ref name="pmid7674922">{{cite journal | vauthors = Rawlings ND, Barrett AJ | title = Evolutionary families of metallopeptidases | journal = Meth. Enzymol. | volume = 248 | issue = | pages = 183–228 | year = 1995 | pmid = 7674922 | doi = 10.1016/0076-6879(95)48015-3| url = }}</ref>
+
+[[microbe|Microbial]] collagenases have been identified from [[Zinc dependent phospholipase C|bacteria]] of both the ''Vibrio'' and ''Clostridium'' genera. Collagenase is used during bacterial attack to degrade the [[collagen]] barrier of the host during invasion. ''[[Vibrio]]'' bacteria are sometimes used in hospitals to remove dead [[tissue (biology)|tissue]] from burns and [[peptic ulcer|ulcers]]. ''Clostridium histolyticum'' is a [[pathogen]] that causes gas gangrene; nevertheless, the isolated collagenase has been used to treat [[bed sores]]. Collagen [[Bond cleavage|cleavage]] occurs at an {{no wrap|Xaa+Got}} in ''Vibrio'' bacteria and at {{no wrap|Yaa+Gly}} bonds in ''Clostridium'' collagenases.
+
+Analysis of the [[primary structure]] of the [[gene]] [[product (chemistry)|product]] from ''Clostridium perfringens'' has revealed that the [[enzyme]] is produced with a stretch of 86 [[Residue (chemistry)|residues]] that contain a putative [[Signal peptide|signal sequence]].<ref name="pmid8282691">{{cite journal | vauthors = Matsushita O, Yoshihara K, Katayama S, Minami J, Okabe A | title = Purification and characterization of Clostridium perfringens 120-kilodalton collagenase and nucleotide sequence of the corresponding gene | journal = J. Bacteriol. | volume = 176 | issue = 1 | pages = 149–56 |date=January 1994  | pmid = 8282691 | pmc = 205026 | doi = | url = }}</ref> Within this stretch is found PLGP, an [[amino acid sequence]] typical of collagenase [[substrate (biochemistry)|substrates]]. This [[sequence (biology)|sequence]] may thus be implicated in self-processing of the collagenase.<ref name="pmid8282691"/>
+
+[[Metalloproteinase|Metalloproteases]] are the most diverse of the seven main types of [[protease]], with more than 50 families identified to date. In these enzymes, a [[divalent]] cation, usually zinc, activates the water molecule. The metal [[ion]] is held in place by [[Amino acid#Chemical properties|amino acid]] ligands, usually three in number. The known metal [[ligands]] are His, Glu, Asp, or Lys and at least one other [[Residue (chemistry)|residue]] is required for catalysis, which may play an electrophillic role. Of the known metalloproteases, around half contain an HEXXH motif, which has been shown in crystallographic studies to form part of the metal-binding site.<ref name="pmid7674922"/> The HEXXH [[protein motif|motif]] is relatively common, but can be more stringently defined for metalloproteases as 'abXHEbbHbc', where 'a' is most often [[valine]] or threonine and forms part of the S1' subsite in thermolysin and neprilysin, 'b' is an uncharged residue, and 'c' a [[hydrophobic]] [[Residue (chemistry)|residue]]. [[Proline]] is never found in this site, possibly because it would break the helical [[secondary structure|structure]] adopted by this [[sequence motif|motif]] in metalloproteases.<ref name="pmid7674922"/>
+
+==See also==
+* [[Matrix metalloproteinase]]
+* [[Gas gangrene]]
+
+==References==
+{{InterPro content|IPR013510}}
+{{Reflist|2}}
+
+==External links==
+* {{MeshName|Collagenases}}
+
+{{Metalloendopeptidases}}
+{{Enzymes}}
+{{Portal bar|Molecular and Cellular Biology|border=no}}
+
+[[Category:EC 3.4.24]]
+[[Category:Protein families]]

@@ -1,0 +1,53 @@
+{{Drugbox
+| verifiedrevid = 447614957
+| IUPAC_name = (1''S'',2''S'')-1-(2,5-dimethoxyphenyl)-2-<br>(''tert''-butylamino)propan-1-ol
+| image = Butaxamine.svg
+| width = 200
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only  -->
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 2922-20-5
+| ATC_prefix = None
+| PubChem = 21909
+| ChEMBL = 289093
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 20593
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0NM31M53PW
+
+<!--Chemical data-->
+| C=15 | H=25 | N=1 | O=3 
+| molecular_weight = 267.364 g/mol
+| smiles = Cl.O(c1ccc(OC)cc1C(O)C(NC(C)(C)C)C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C15H25NO3.ClH/c1-10(16-15(2,3)4)14(17)12-9-11(18-5)7-8-13(12)19-6;/h7-10,14,16-17H,1-6H3;1H
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = URPAECSKKQLCII-UHFFFAOYSA-N
+}}
+
+'''Butaxamine''' ([[International Nonproprietary Name|INN]], also known as '''butoxamine''') is a [[Beta-2 adrenergic receptor|β<sub>2</sub>-selective]] [[beta blocker]].<ref name="urlDefinition: butoxamine from Online Medical Dictionary">{{cite web |url=http://cancerweb.ncl.ac.uk/cgi-bin/omd?butoxamine |title=Definition: butoxamine from Online Medical Dictionary |format= |work= |accessdate=}}</ref><ref name="pmid15908513">{{cite journal |vauthors=Hillman KL, Doze VA, Porter JE |title=Functional characterization of the beta-adrenergic receptor subtypes expressed by CA1 pyramidal cells in the rat hippocampus |journal=J. Pharmacol. Exp. Ther. |volume=314 |issue=2 |pages=561–7 |date=August 2005 |pmid=15908513 |doi=10.1124/jpet.105.084947 |url=http://jpet.aspetjournals.org/cgi/pmidlookup?view=long&pmid=15908513}}</ref> Its primary use is in experimental situations in which blockade of [[Beta-2 adrenergic receptor|β<sub>2</sub> receptors]] is necessary to determine the [[Biological activity|activity]] of the drug (i.e. if the β<sub>2</sub> receptor is completely blocked, but the given effect is still present, the given effect is not a characteristic of the β<sub>2</sub> receptor). It has no clinical use. An alternative name is α-(1-[''tert''-butylamino]ethyl)-2,5-dimethoxybenzyl alcohol.
+
+==See also==
+* [[Bupropion]]
+* [[Methoxamine]]
+
+==References==
+{{reflist}}
+
+{{Beta blockers}}
+
+[[Category:Beta blockers]]
+[[Category:Phenol ethers]]
+[[Category:Alcohols]]
+[[Category:Tert-butyl compounds]]
+
+
+{{antihypertensive-stub}}

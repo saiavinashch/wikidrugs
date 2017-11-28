@@ -1,0 +1,67 @@
+{{Drugbox
+| IUPAC_name = 2-({4-chloro-6-[(2,3-dimethylphenyl)amino]pyrimidin-2-yl}sulfanyl)acetic acid
+| image = Pirinixic acid.svg
+| alt =
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 2666
+| CAS_number = 50892-23-4
+| ATCvet =  
+| ATC_prefix = <!-- 'none' if uncategorised -->
+| ATC_suffix =  
+| PubChem = 5694
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 86C4MRT55A
+| ChEMBL = 295416
+| ChemSpiderID      = 5492
+
+<!--Chemical data-->
+| C=14 | H=14 | Cl=1 | N=3 | O=2 | S=1
+| molecular_weight = 323.8 g/mol
+| smiles            = Cc1cccc(c1C)Nc2cc(nc(n2)SCC(=O)O)Cl
+| StdInChI          = 1S/C14H14ClN3O2S/c1-8-4-3-5-10(9(8)2)16-12-6-11(15)17-14(18-12)21-7-13(19)20/h3-6H,7H2,1-2H3,(H,19,20)(H,16,17,18)
+| StdInChIKey       = SZRPDCCEHVWOJX-UHFFFAOYSA-N
+}}
+
+'''Pirinixic acid''' is a [[peroxisome proliferator-activated receptor alpha]] (PPARα) [[PPAR agonist|agonist]] that is under experimental investigation for prevention of severe cardiac dysfunction, cardiomyopathy and heart failure as a result of lipid accumulation within cardiac myocytes.<ref>{{cite journal | last1 = Wölkart | first1 = G. | last2 = Schrammel | first2 = A. | last3 = Dörffe | first3 = K. | last4 = Kaemmerle | first4 = G. | last5 = Zechner | first5 = R. | last6 = Mayer | first6 = B. | title = Cardiac dysfunction in adipose triglyceride lipase deficiency: treatment with a PPARα agonist | journal = [[British Journal of Pharmacology]] | volume = 165 | issue = 2 | pages = 380–389 | year = 2012 | doi=10.1111/j.1476-5381.2011.01490.x}}</ref> Treatment is primarily aimed at individuals with an [[adipose triglyceride lipase]] (ATGL) enzyme deficiency or mutation<ref>{{cite journal | last1 = Wölkart | first1 = G. | last2 = Schrammel | first2 = A. | last3 = Dörffe | first3 = K. | last4 = Kaemmerle | first4 = G. | last5 = Zechner | first5 = R. | last6 = Mayer | first6 = B. | title = Cardiac dysfunction in adipose triglyceride lipase deficiency: treatment with a PPARα agonist | journal = British Journal of Pharmacology | volume = 165 | issue = 2 | pages = 380–389 | year = 2012 | doi=10.1111/j.1476-5381.2011.01490.x}}</ref>  because of the essential PPAR protein interactions with free fatty acid monomers derived from the ATGL catalyzed lipid oxidation reaction.<ref>{{cite journal | last1 = Wölkart | first1 = G. | last2 = Schrammel | first2 = A. | last3 = Dörffe | first3 = K. | last4 = Kaemmerle | first4 = G. | last5 = Zechner | first5 = R. | last6 = Mayer | first6 = B. | title = Cardiac dysfunction in adipose triglyceride lipase deficiency: treatment with a PPARα agonist | journal = British Journal of Pharmacology | volume = 165 | issue = 2 | pages = 380–389 | year = 2012 | doi=10.1111/j.1476-5381.2011.01490.x}}</ref> It was discovered as '''WY-14,643''' in 1974.<ref>{{cite journal | last1 = Santilli | first1 = A. A. | last2 = Scotese | first2 = A. C. | last3 = Tomarelli | first3 = R. M. | title = A potent antihypercholesterolemic agent: [4-chloro-6-(2,3-xylidino)-2-pyrimidinylthio]acetic acid (Wy-14643) | journal = Experientia | volume = 30 | issue = 10 | pages = 1110–1 | year = 1974 | pmid = 4435102 | doi = 10.1007/BF01923636}}</ref>
+
+==Adipose triglyceride lipase (ATGL)==
+
+Adipose triglyceride lipase (ATGL), an enzyme that catalyzes the rate limiting hydrolysis step of triglycerides<ref>{{cite journal | last1 = Zimmermann | first1 = R. | last2 = Strauss | first2 = J.G. | last3 = Haemmerle | first3 = G. | last4 = Schoiswohl | first4 = G. | last5 = Birner-Gruenberger | first5 = R. | last6 = Riederer | first6 = M. | title = Fat mobilization in adipose tissue is promoted by adipose triglyceride lipase. | journal = Science | volume = 306 | pages = 1383–1386 | year = 2004 | doi=10.1126/science.1100747 | pmid=15550674}}</ref>  in the triacylglycerol lipolysis cascade, is expressed predominantly in adipose tissue, but is also found in lesser amounts within cardiac and skeletal muscle.<ref>{{cite journal | last1 = Zimmermann | first1 = R. | last2 = Strauss | first2 = J.G. | last3 = Haemmerle | first3 = G. | last4 = Schoiswohl | first4 = G. | last5 = Birner-Gruenberger | first5 = R. | last6 = Riederer | first6 = M. | title = Fat mobilization in adipose tissue is promoted by adipose triglyceride lipase. | journal = Science | volume = 306 | pages = 1383–1386 | year = 2004 | doi=10.1126/science.1100747 | pmid=15550674}}</ref> Its function is to initiate the breakdown of intracellular triglycerides into fatty acid monomers.<ref>{{cite journal | last1 = Wölkart | first1 = G. | last2 = Schrammel | first2 = A. | last3 = Dörffe | first3 = K. | last4 = Kaemmerle | first4 = G. | last5 = Zechner | first5 = R. | last6 = Mayer | first6 = B. | title = Cardiac dysfunction in adipose triglyceride lipase deficiency: treatment with a PPARα agonist | journal = British Journal of Pharmacology | volume = 165 | issue = 2 | pages = 380–389 | year = 2012 | doi=10.1111/j.1476-5381.2011.01490.x}}</ref> Individuals deficient in the ATGL enzyme are at higher risk for cardiac dysfunction and premature death because of increased size and accumulation of lipid droplets within cardiac myocytes.<ref>{{cite journal | last1 = Haemmerle | first1 = G. | last2 = Lass | first2 = A. | last3 = Zimmermann | first3 = R. | last4 = Gorkiewicz | first4 = G. | last5 = Meyer | first5 = C. | last6 = Rozman | first6 = J. | title = Defective lipolysis and altered energy metabolism in mice lacking adipose triglyceride lipase. | journal = Science | volume = 312 | pages = 734–737 | year = 2006 | doi=10.1126/science.1123965 | pmid=16675698}}</ref>
+
+==Peroxisome proliferator activated receptors (PPARs)==
+
+PPARs are a family of ligand activated receptors which include PPARα, PPARδ and PPARγ subtypes that are expressed in varying amounts in nuclear membranes of in different tissues.<ref>{{cite journal | last1 = Braissant | first1 = O. | last2 = Foufelle | first2 = F. | last3 = Scotto | first3 = C. | last4 = Dauca | first4 = M. | last5 = Wahli | first5 = W. | title = Differential expression of peroxisome proliferator-activated receptors (PPARs):tissue distribution of PPAR-alpha, -beta, and -gamma in the adult rat. | journal = Endocrinology | volume = 137| issue = 1 | pages = 354–366 | year = 1996 | doi=10.1210/endo.137.1.8536636 | pmid=8536636}}</ref> PPAR activation occurs with free fatty acid binding, or fatty acid derivative ligands that have been broken down via the triacylglycerol lipolysis cascade.<ref>{{cite journal | last1 = Wölkart | first1 = G. | last2 = Schrammel | first2 = A. | last3 = Dörffe | first3 = K. | last4 = Kaemmerle | first4 = G. | last5 = Zechner | first5 = R. | last6 = Mayer | first6 = B. | title = Cardiac dysfunction in adipose triglyceride lipase deficiency: treatment with a PPARα agonist | journal = British Journal of Pharmacology | volume = 165 | issue = 2 | pages = 380–389 | year = 2012 | doi=10.1111/j.1476-5381.2011.01490.x}}</ref> Activated PPARs act as transcription factors to increase expression of specific genes within cells.<ref>{{cite journal | last1 = Djouadi | first1 = F. | last2 = Brandt | first2 = J. | last3 = Weinheimer | first3 = J. | last4 = Leone | first4 = T.C. | last5 = Gonzalez | first5 = J. | last6 = Kelly | first6 = D.P. | title = The role of peroxisome proliferator-activated receptor α (PPARα)in the control of cardiac lipid metabolism | journal = Prostaglandins, Leukotrienes and Essential Fatty Acids | volume = 60 | pages = 339–343 | year = 1999 | doi=10.1016/s0952-3278(99)80009-x}}</ref> PPARα, a PPAR subtype, controls the expression of genes involved in cardiac fatty acid utilization,<ref>{{cite journal | last1 = Djouadi | first1 = F. | last2 = Brandt | first2 = J. | last3 = Weinheimer | first3 = J. | last4 = Leone | first4 = T.C. | last5 = Gonzalez | first5 = J. | last6 = Kelly | first6 = D.P. | title = The role of peroxisome proliferator-activated receptor α (PPARα)in the control of cardiac lipid metabolism | journal = Prostaglandins, Leukotrienes and Essential Fatty Acids | volume = 60 | pages = 339–343 | year = 1999 | doi=10.1016/s0952-3278(99)80009-x}}</ref><ref>{{cite journal | last1 = Fruchard | first1 = J. | last2 = Duriez | first2 = P. | last3 = Steals | first3 = B. | title = Peroxisome Proliferator-Activated Receptor Alpha activators regulate genes governming lipoprotein metabolism, vascular inflammation and atherosclerosis | journal = Current Opinion in Lipidology | volume = 10 | issue = 3 | pages = 245–257 | year = 1999 | doi=10.1097/00041433-199906000-00007}}</ref>  and its activation, stimulates free fatty acid oxidation by increasing mitochondrial free fatty acid uptake and oxidation via two enzymes: carnitine palmitoyltransferase I (M-CPT I) and medium-chain acyl-CoA dehydrogenase (MCAD).<ref>{{cite journal | last1 = Djouadi | first1 = F. | last2 = Brandt | first2 = J. | last3 = Weinheimer | first3 = J. | last4 = Leone | first4 = T.C. | last5 = Gonzalez | first5 = J. | last6 = Kelly | first6 = D.P. | title = The role of peroxisome proliferator-activated receptor α (PPARα)in the control of cardiac lipid metabolism | journal = Prostaglandins, Leukotrienes and Essential Fatty Acids | volume = 60 | pages = 339–343 | year = 1999 | doi=10.1016/s0952-3278(99)80009-x}}</ref>
+
+==Pre-clinical trials==
+
+ATGL deficient mice administered pirinixic acid demonstrated reduced cardiac hypertrophy and improved cardiac function.<ref>{{cite journal | last1 = Wölkart | first1 = G. | last2 = Schrammel | first2 = A. | last3 = Dörffe | first3 = K. | last4 = Kaemmerle | first4 = G. | last5 = Zechner | first5 = R. | last6 = Mayer | first6 = B. | title = Cardiac dysfunction in adipose triglyceride lipase deficiency: treatment with a PPARα agonist | journal = British Journal of Pharmacology | volume = 165 | issue = 2 | pages = 380–389 | year = 2012 | doi=10.1111/j.1476-5381.2011.01490.x}}</ref> These data  demonstrate that genes induced by PPARα activation via free fatty acids from ATGL-dependent reactions are essential for the maintenance of normal cardiac function.<ref>{{cite journal | last1 = Wölkart | first1 = G. | last2 = Schrammel | first2 = A. | last3 = Dörffe | first3 = K. | last4 = Kaemmerle | first4 = G. | last5 = Zechner | first5 = R. | last6 = Mayer | first6 = B. | title = Cardiac dysfunction in adipose triglyceride lipase deficiency: treatment with a PPARα agonist | journal = British Journal of Pharmacology | volume = 165 | issue = 2 | pages = 380–389 | year = 2012 | doi=10.1111/j.1476-5381.2011.01490.x}}</ref> As PPARα activation triggers the expression of genes involved in lipid metabolism (M-CPTI I and MCAD),<ref>{{cite journal | last1 = Djouadi | first1 = F. | last2 = Brandt | first2 = J. | last3 = Weinheimer | first3 = J. | last4 = Leone | first4 = T.C. | last5 = Gonzalez | first5 = J. | last6 = Kelly | first6 = D.P. | title = The role of peroxisome proliferator-activated receptor α (PPARα)in the control of cardiac lipid metabolism | journal = Prostaglandins, Leukotrienes and Essential Fatty Acids | volume = 60 | pages = 339–343 | year = 1999 | doi=10.1016/s0952-3278(99)80009-x}}</ref> treating the mice with pirinixic acid may improve cardiac myocyte energy supply by increasing mitochondrial fatty acid β-oxidation to prevent severe cardiac dysfunction as a result of lipid accumulation .
+
+==References==
+{{Reflist|35em}}
+
+[[Category:Benzene derivatives]]
+[[Category:Pyrimidines]]
+[[Category:Chloroarenes]]
+[[Category:Acetic acids]]
+[[Category:Chloropyrimidines]]

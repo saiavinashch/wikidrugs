@@ -1,0 +1,152 @@
+{{Infobox_gene}}
+{{Infobox protein family
+| Symbol = IFN gamma
+| Name = Interferon gamma
+| image = PDB 1eku EBI.jpg
+| width = 
+| caption = Crystal structure of a biologically active single chain mutant of human interferon gamma
+| Pfam = PF00714
+| Pfam_clan = CL0053 
+| InterPro = IPR002069
+| SMART = 
+| PROSITE = 
+| MEROPS = 
+| SCOP = 1rfb
+| TCDB = 
+| OPM family = 
+| OPM protein = 
+| CAZy = 
+| CDD = 
+}}
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 458270952
+| IUPAC_name = Human interferon gamma-1b
+<!-- Clinical data -->
+| tradename =  Actimmune
+| Drugs.com = {{drugs.com|monograph|interferon-gamma}}
+| MedlinePlus = a601152
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|correct|CAS}}
+| CAS_number = 98059-61-1
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 21K6M2I7AG
+| ATC_prefix = L03
+| ATC_suffix = AB03
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB00033
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201564
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = none
+<!-- Chemical data -->
+| C=761 | H=1206 | N=214 | O=225 | S=6
+| molecular_weight = 17145.6 g/mol
+}}
+'''Interferon gamma''' ('''IFNγ''') is a [[protein dimer|dimer]]ized soluble [[cytokine]] that is the only member of the type II class of [[interferon]]s.<ref name="pmid6180322">{{cite journal |vauthors=Gray PW, Goeddel DV | title = Structure of the human immune interferon gene | journal = Nature | volume = 298 | issue = 5877 | pages = 859–63 | date = August 1982 | pmid = 6180322 | doi = 10.1038/298859a0 | url =  }}</ref> The existence of this interferon, which early in its history was known as immune interferon, was described by E. F. Wheelock as a product of human leukocytes stimulated with phytohemagglutinin, and by others as a product of antigen-stimulated lymphocytes<ref>Wheelock, EF, Interferon-like virus inhibitor induced in human leukocytes by phytohemagglutinin. ''Science'' 149, 310-311, 1965. It was also shown to be produced in human lymphocytes</ref><ref>{{cite journal |vauthors=Green JA, Cooperband SR, Kibrick S | title = Immune specific induction of interferon production in cultures of human blood lymphocytes | journal = Science | volume = 164 | issue = 3886 | pages = 1415–1417 | year = 1969 | pmid = 5783715 | doi = 10.1126/science.164.3886.1415 }}</ref> or tuberculin-sensitized mouse peritoneal lymphocytes<ref>{{cite journal |vauthors=Milstone LM, Waksman BH | title = Release of virus inhibitor from tuberculin-sensitized peritoneal cells stimulated by antigen | journal = J Immunol | volume = 105 | issue = 5 | pages = 1068–1071 | year = 1970 | pmid = 4321289 }}</ref> challenged with [[Mantoux test|PPD]]; the resulting supernatants were shown to inhibit growth of vesicular stomatitis virus.  Those reports also contained the basic observation underlying the now widely employed interferon gamma release assay used to test for tuberculosis.    In humans, the IFNγ protein is encoded by the ''IFNG'' [[gene]].<ref name="pmid6403645">{{cite journal |vauthors=Naylor SL, Sakaguchi AY, Shows TB, Law ML, Goeddel DV, Gray PW | title = Human immune interferon gene is located on chromosome 12 | journal = J. Exp. Med. | volume = 157 | issue = 3 | pages = 1020–7 | date = March 1983 | pmid = 6403645 | pmc = 2186972 | doi = 10.1084/jem.157..1020 | url =  }}</ref><ref name="entrez">{{cite web | title = Entrez Gene: IFNGR2 | url = https://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=3460 | accessdate = }}</ref>
+
+==Function==
+IFNγ, or type II interferon, is a cytokine that is critical for [[innate immunity|innate]] and [[adaptive immunity]] against viral, some bacterial and protozoal infections. IFNγ is an important activator of macrophages and inducer of Class II major histocompatibility complex (MHC) molecule expression. Aberrant IFNγ expression is associated with a number of autoinflammatory and [[autoimmune]] diseases. The importance of IFNγ in the immune system stems in part from its ability to inhibit viral replication directly, and most importantly from its immunostimulatory and immunomodulatory effects. IFNγ is produced predominantly by natural killer ([[natural killer cell|NK]]) and natural killer T ([[Natural Killer T cell|NKT]]) cells as part of the innate immune response, and by [[CD4]] Th1 and [[CD8]] cytotoxic T lymphocyte ([[Cytotoxic T cell|CTL]]) effector T cells once [[antigen]]-specific immunity develops.<ref name="entrez2">{{cite web | title = Entrez Gene: INFG | url = https://www.ncbi.nlm.nih.gov/sites/entrez?Db=gene&Cmd=ShowDetailView&TermToSearch=3458 | accessdate = }}</ref><ref name="pmid17981204">{{cite journal |vauthors=Schoenborn JR, Wilson CB | title = Regulation of interferon-gamma during innate and adaptive immune responses | journal = Adv. Immunol. | volume = 96 | issue =  | pages = 41–101 | year = 2007 | pmid = 17981204 | doi = 10.1016/S0065-2776(07)96002-2 | url =  }}</ref> IFNγ is also produced by non-cytotoxic innate lymphoid cells (ILC), a family of immune cells first discovered in the early 2010's.<ref>{{Cite journal|last=Artis|first=David|last2=Spits|first2=Hergen|date=2015-01-15|title=The biology of innate lymphoid cells|url=http://www.nature.com/nature/journal/v517/n7534/full/nature14189.html|journal=Nature|language=en|volume=517|issue=7534|pages=293–301|doi=10.1038/nature14189|issn=0028-0836}}</ref>
+
+==Structure==
+The IFNγ [[monomer]] consists of a core of six α-helices and an extended unfolded sequence in the C-terminal region.<ref name="pmid1902591">{{cite journal |vauthors=Ealick SE, Cook WJ, Vijay-Kumar S, Carson M, Nagabhushan TL, Trotta PP, Bugg CE | title = Three-dimensional structure of recombinant human interferon-gamma | journal = Science | volume = 252 | issue = 5006 | pages = 698–702 | date = May 1991 | pmid = 1902591 | doi = 10.1126/science.1902591 | url =  }}</ref><ref name="PDB_1FG9">{{PDB|1FG9}}; {{cite journal |vauthors=Thiel DJ, le Du MH, Walter RL, D'Arcy A, Chène C, Fountoulakis M, Garotta G, Winkler FK, Ealick SE | title = Observation of an unexpected third receptor molecule in the crystal structure of human interferon-gamma receptor complex | journal = Structure | volume = 8 | issue = 9 | pages = 927–36 |date=September 2000 | pmid = 10986460 | doi = 10.1016/S0969-2126(00)00184-2 | url =  }}</ref> This is shown in the structural models below. The α-helices in the core of the structure are numbered 1 to 6. 
+[[Image:IFN2.jpeg|350px|none|thumb|<span style="font-size:100%;">'''Figure 1.'''</span> Line and cartoon representation of an IFNγ monomer.<ref name="PDB_1FG9"/>]]
+
+The biologically active dimer is formed by anti-parallel inter-locking of the two monomers as shown below. In the cartoon model, one monomer is shown in red, the other in blue.
+[[Image:IFN3.jpeg|350px|thumb|none|<span style="font-size:100%;">'''Figure 2.'''</span> Line and cartoon representation of an IFNγ dimer.<ref name="PDB_1FG9"/>]]
+
+== Receptor binding ==
+[[Image:IFN with recep.jpeg|250px|thumb|left|<span style="font-size:100%;">'''Figure 3.'''</span> IFN dimer interacting with two [[IFNGR1]] receptor molecules.<ref name="PDB_1FG9"/>]]
+{{see also|Interferon-gamma receptor}}Cellular responses to IFNγ are activated through its interaction with a heterodimeric receptor consisting of [[Interferon gamma receptor 1]] (IFNGR1) and [[Interferon gamma receptor 2]] (IFNGR2). IFNγ binding to the receptor activates the [[JAK-STAT pathway]]. IFNγ also binds to the [[glycosaminoglycan]] [[heparan sulfate]] (HS) at the cell surface. However, in contrast to many other heparan sulfate binding proteins, where binding promotes biological activity, the binding of IFNγ to HS inhibits its biological activity.<ref name="pmid9556569">{{cite journal |vauthors=Sadir R, Forest E, Lortat-Jacob H | title = The heparan sulfate binding sequence of interferon-gamma increased the on rate of the interferon-gamma-interferon-gamma receptor complex formation | journal = J. Biol. Chem. | volume = 273 | issue = 18 | pages = 10919–10925 | date = May 1998 | pmid = 9556569 | doi = 10.1074/jbc.273.18.10919 | url =  }}</ref>
+
+The structural models shown in figures 1-3 for IFNγ<ref name="PDB_1FG9"/> are all shortened at their C-termini by 17 amino acids. Full length IFNγ is 143 amino acids long, the models are 126 amino acids long. Affinity for heparan sulfate resides solely within the deleted sequence of 17 amino acids.<ref name="pmid15270718">{{cite journal |vauthors=Vanhaverbeke C, Simorre JP, Sadir R, Gans P, Lortat-Jacob H | title = NMR characterization of the interaction between the C-terminal domain of interferon-gamma and heparin-derived oligosaccharides | journal = Biochem. J. | volume = 384 | issue = Pt 1 | pages = 93–9 | date = November 2004 | pmid = 15270718 | pmc = 1134092 | doi = 10.1042/BJ20040757 | url =  }}</ref> Within this sequence of 17 amino acids lie two clusters of basic amino acids termed D1 and D2, respectively. Heparan sulfate interacts with both of these clusters.<ref name="pmid1901275">{{cite journal |vauthors=Lortat-Jacob H, Grimaud JA | title = Interferon-gamma binds to heparan sulfate by a cluster of amino acids located in the C-terminal part of the molecule | journal = FEBS Lett. | volume = 280 | issue = 1 | pages = 152–154 | date = March 1991 | pmid = 1901275 | pmc =  | doi = 10.1016/0014-5793(91)80225-R | url =  }}</ref> In the absence of heparan sulfate the presence of the D1 sequence increases the rate at which IFNγ-receptor complexes form.<ref name="pmid9556569"/> Interactions between the D1 cluster of amino acids and the receptor may be the first step in complex formation. By binding to D1 HS may compete with the receptor and prevent active receptor complexes from forming.
+
+The biological significance of heparan sulfates interaction with IFNγ is unclear; however, binding of the D1 cluster to HS may protect it from [[proteolytic cleavage]].<ref name="pmid1901275"/>
+
+== Biological activity ==
+
+IFNγ is secreted by [[T helper cell]]s (specifically, T<sub>h</sub>1 cells), [[cytotoxic T cell]]s (T<sub>C</sub> cells), macrophages, mucosal epithelial cells and [[NK cells]]. IFNγ is the only Type II [[interferon]] and it is [[Serology|serologically]] distinct from Type I interferons; it is acid-labile, while the type I variants are acid-stable.
+
+IFNγ has antiviral, immunoregulatory, and anti-tumor properties.<ref name="pmid14525967">{{cite journal |vauthors=Schroder K, Hertzog PJ, Ravasi T, Hume DA | title = Interferon-gamma: an overview of signals, mechanisms and functions | journal = J. Leukoc. Biol. | volume = 75 | issue = 2 | pages = 163–89 | date = February 2004 | pmid = 14525967 | doi = 10.1189/jlb.0603252 | url =  }}</ref> It alters transcription in up to 30 genes producing a variety of physiological and cellular responses. Among the effects are:
+
+* Promotes [[NK cell]] activity
+* Increase antigen presentation and [[lysosome]] activity of [[macrophage]]s.
+* Activate inducible [[nitric oxide synthase]] (iNOS)
+* Induces the production of [[IgG2]]a and [[IgG3]] from activated plasma [[B cell]]s
+* Cause normal cells to increase expression of [[class I MHC]] molecules as well as [[class II MHC]] on antigen-presenting cells&mdash;to be specific, through induction of [[antigen processing]] genes, including subunits of the [[immunoproteasome]] (MECL1, LMP2, LMP7), as well as [[Transporter associated with antigen processing|TAP]] and [[ARTS-1|ERAAP]] in addition possibly to the direct upregulation of MHC heavy chains and B2-microglobulin itself
+* Promotes adhesion and binding required for [[leukocyte]] migration
+* Induces the expression of intrinsic defense factors&mdash;for example, with respect to [[retrovirus]]es, relevant genes include [[TRIM5alpha]], [[APOBEC]], and [[Tetherin]], representing directly antiviral effects
+
+IFNγ is the primary [[cytokine]] that defines T<sub>h</sub>1 cells: T<sub>h</sub>1 cells secrete IFNγ, which in turn causes more undifferentiated CD4<sup>+</sup> cells (Th0 cells) to differentiate into T<sub>h</sub>1 cells{{citation needed|date=July 2016}}, representing a [[positive feedback loop]]&mdash;while suppressing T<sub>h</sub>2 cell differentiation. (Equivalent defining cytokines for other cells include [[Interleukin 4|IL-4]] for T<sub>h</sub>2 cells and [[Interleukin 17|IL-17]] for [[T helper 17 cell|Th17 cells]].)
+
+[[NK cell]]s and [[CD8+ cytotoxic T cell]]s also produce IFNγ. IFNγ suppresses [[osteoclast]] formation by rapidly degrading the [[RANK]] adaptor protein [[TRAF6]] in the [[RANK]]-[[RANKL]] signaling pathway, which otherwise stimulates the production of [[NF-κB]].
+
+===Activity in granuloma formation===
+A [[granuloma]] is the body's way of dealing with a substance it cannot remove or sterilize. Infectious causes of granulomas (infections are typically the most common cause of granulomas) include [[tuberculosis]], [[leprosy]], [[histoplasmosis]], [[cryptococcosis]], [[coccidioidomycosis]], [[blastomycosis]], and [[cat scratch disease]]. Examples of non-infectious granulomatous diseases are [[sarcoidosis]], [[Crohn's disease]], [[berylliosis]], [[giant-cell arteritis]], [[granulomatosis with polyangiitis]], [[eosinophilic granulomatosis with polyangiitis]], pulmonary [[rheumatoid nodule]]s, and aspiration of food and other particulate material into the lung. The infectious pathophysiology of granulomas is discussed primarily here.
+
+The key association between IFNγ and granulomas is that IFNγ activates macrophages so that they become more powerful in killing intracellular organisms. Activation of macrophages by IFNγ from T<sub>h</sub>1 helper cells in [[mycobacteria]]l infections allows the macrophages to overcome the inhibition of [[phagolysosome]] maturation caused by mycobacteria (to stay alive inside macrophages).<ref>Citations needed</ref> The first steps in IFNγ-induced granuloma formation are activation of T<sub>h</sub>1 helper cells by macrophages releasing [[interleukin 1|IL-1]] and [[interleukin 12|IL-12]] in the presence of intracellular pathogens, and presentation of antigens from those pathogens. Next the T<sub>h</sub>1 helper cells aggregate around the macrophages and release IFNγ, which activates the macrophages. Further activation of macrophages causes a cycle of further killing of intracellular bacteria, and further presentation of antigens to T<sub>h</sub>1 helper cells with further release of IFNγ. Finally, macrophages surround the T<sub>h</sub>1 helper cells and become fibroblast-like cells walling off the infection.
+
+===Activity during pregnancy ===
+Uterine Natural Killer cells ([[natural killer cell|NK]]) secrete high levels of [[chemoattractant]]s, such as IFNγ. IFNγ dilates and thins the walls of maternal spiral arteries to enhance blood flow to the implantation site. This remodeling aids in the development of the placenta as it invades the uterus in its quest for nutrients. IFNγ knockout mice fail to initiate normal pregnancy-induced modification of [[decidual]] arteries. These models display abnormally low amounts of cells or [[necrosis]] of decidua.<ref name="pmid10899912">{{cite journal |vauthors=Ashkar AA, Di Santo JP, Croy BA | title = Interferon gamma contributes to initiation of uterine vascular modification, decidual integrity, and uterine natural killer cell maturation during normal murine pregnancy | journal = J. Exp. Med. | volume = 192 | issue = 2 | pages = 259–70 | date = July 2000 | pmid = 10899912 | pmc = 2193246 | doi = 10.1084/jem.192.2.259 }}</ref>
+
+== Production ==
+Recombinant human interferon gamma, as an expensive biopharmaceutical, has been expressed in different expression systems including prokaryotic, protozoan, fungal (yeasts), plant, insect and mammalian cells. Human interferon gamma is commonly expressed in ''[[Escherichia coli]]'', marketed as ACTIMMUNE®, however, the resulting product of the prokaryotic expression system is not glycosylated with a short half-life in the bloodstream after injection; the purification process from bacterial expression system is also very costly. Other expression systems like ''[[Pichia pastoris]]'' did not show satisfactory results in terms of yields. <ref>{{cite journal |vauthors=Razaghi A, Owens L, Heimann K, | title = Review of the recombinant human interferon gamma as an immunotherapeutic: Impacts of production platforms and glycosylation. | journal = Journal of Biotechnology | volume = 240 | pages = 48-60 | year = 2016 | doi = 10.1016/j.jbiotec.2016.10.022 }}</ref> <ref>{{cite journal |vauthors=Razaghi A, Owens L, Heimann K, | title = Is ''Pichia pastoris'' a realistic platform for industrial production of recombinant human interferon gamma?. | journal = Biologicals | year = 2016 | doi = 10.1016/j.biologicals.2016.09.015 }}</ref>
+
+== Therapeutic use ==
+
+Interferon-γ 1b is approved by the U.S. Food and Drug Administration to treat [[chronic granulomatous disease]]<ref name="pmid1372855">{{cite journal |vauthors=Todd PA, Goa KL | title = Interferon gamma-1b. A review of its pharmacology and therapeutic potential in chronic granulomatous disease | journal = Drugs | volume = 43 | issue = 1 | pages = 111–22 | date = January 1992 | pmid = 1372855 | doi = 10.2165/00003495-199243010-00008 | url =  | issn =  }}</ref> and [[osteopetrosis]].<ref name="pmid1320672">{{cite journal |vauthors=Key LL, Ries WL, Rodriguiz RM, Hatcher HC | title = Recombinant human interferon gamma therapy for osteopetrosis | journal = J. Pediatr. | volume = 121 | issue = 1 | pages = 119–24 | date = July 1992 | pmid = 1320672 | doi = 10.1016/S0022-3476(05)82557-0 | url =  }}</ref>
+
+It was not approved to treat idiopathic pulmonary fibrosis (IPF). In 2002, the manufacturer InterMune issued a press release saying that phase III data demonstrated survival benefit in IPF and reduced mortality by 70% in patients with mild to moderate disease. The U.S. Department of Justice charged that the release contained false and misleading statements. InterMune's chief executive, Scott Harkonen, was accused of manipulating the trial data, was convicted in 2009 of wire fraud, and was sentenced to fines and community service. Harkonen appealed his conviction to the U.S. Court of Appeals for the Ninth Circuit, and lost.<ref name=Silverman_2013>{{cite journal | author = Silverman E | title = The line between scientific uncertainty and promotion of snake oil | journal = BMJ | volume = 347 | pages = f5687–f5687 | date = September 2013 | pmid = 24055923 | doi = 10.1136/bmj.f5687 }}</ref>
+
+It is being studied at the [[Children’s Hospital of Philadelphia]] for the treatment of [[Friedreich's ataxia]].<ref name=FA>{{cite web| publisher=FARA | accessdate=4 October 2013 | title=Open-label pilot study of interferon gamma-1b (Actimmune™) for the treatment of Friedreich Ataxia |date=10 June 2013 |url= http://www.curefa.org/_pdf/IFNgammaStudy082113.pdf|}}</ref>
+
+Although not officially approved, Interferon-γ has also been shown to be effective in treating patients with moderate to severe [[atopic dermatitis]].<ref>{{cite journal |vauthors=Akhavan A, Rudikoff D | title = Atopic Dermatitis: Systemic Immunosuppressive Therapy | journal = Seminars in Cutaneous Medicine and Surgery | volume = 27 | issue = 2 | pages = 151–155 | date = 2008 | pmid = 18620137 | doi = 10.1016/j.sder.2008.04.004 | url = http://www.rheumatologynews.com/fileadmin/content_pdf/san/scms_pdf/vol27_i2_Systemic_Immunosuppressive_Therapy.pdf | accessdate = 16 October 2014 }}</ref><ref>{{cite journal |vauthors=Schneider LC, Baz Z, Zarcone C, Zurakowski D | title = Long-Term Therapy with Recombinant Interferon-Gamma (rIFN-γ) for Atopic Dermatitis | journal = Annals of Allergy, Asthma & Immunology | volume = 80 | issue = 3 | pages = 263–268 | date = 1998 | pmid = 9532976 | doi = 10.1016/S1081-1206(10)62968-7 | url = http://www.annallergy.org/article/S1081-1206(10)62968-7/abstract | accessdate = 16 October 2014 }}</ref>
+<ref>{{cite journal |vauthors=Hanifin JM, Schneider LC, Leung DY, Ellis CN, Jaffe HS, Izu AE, Bucalo LR, Hirabayashi SE, Tofte SJ, Cantu-Gonzales G | title = Recombinant interferon gamma therapy for atopic dermatitis. | journal = Journal of the American Academy of Dermatology | volume = 28 | issue = 2 Pt 1 | pages = 189–97 | year = 1993 | pmid = 8432915 | doi = 10.1016/0190-9622(93)70026-p }}</ref>
+
+It is manufactured by InterMune as ''Actimmune'' and costs around USD300 per vial.<ref>{{cite journal |vauthors=Razaghi A, Owens L, Heimann K, | title = Review of the recombinant human interferon gamma as an immunotherapeutic: Impacts of production platforms and glycosylation. | journal = Journal of Biotechnology | volume = 240 | pages = 48-60 | year = 2016 | doi = 10.1016/j.jbiotec.2016.10.022 }}</ref>
+
+== Potential use in immunotherapy==
+Interferon gamma is not approved yet for the treatment in any [[cancer immunotherapy]].However, improved survival was observed when Interferon gamma was administrated to patients with [[bladder carcinoma]] and [[melanoma]] cancers. The most promising result was achieved in patients with stage 2 and 3 of [[ovarian carcinoma]].The ''[[in vitro]]'' study of IFN-gamma in cancer cells is more extensive and results indicate anti-proliferative activity of IFN-gamma leading to the growth inhibition or cell death, generally induced by [[apoptosis]] but sometimes by [[autophagy]].<ref>{{cite journal |vauthors=Razaghi A, Owens L, Heimann K, | title = Review of the recombinant human interferon gamma as an immunotherapeutic: Impacts of production platforms and glycosylation. | journal = Journal of Biotechnology | volume = 240 | pages = 48-60 | year = 2016 | doi = 10.1016/j.jbiotec.2016.10.022 }}</ref>
+
+==Interactions==
+Interferon-γ has been shown to [[Protein-protein interaction|interact]] with [[Interferon gamma receptor 1]].<ref name="pmid10986460">{{cite journal |vauthors=Thiel DJ, le Du MH, Walter RL, D'Arcy A, Chène C, Fountoulakis M, Garotta G, Winkler FK, Ealick SE | title = Observation of an unexpected third receptor molecule in the crystal structure of human interferon-gamma receptor complex | journal = Structure | volume = 8 | issue = 9 | pages = 927–36 | date = September 2000 | pmid = 10986460 | doi = 10.1016/S0969-2126(00)00184-2 }}</ref><ref name="pmid7673114">{{cite journal |vauthors=Kotenko SV, Izotova LS, Pollack BP, Mariano TM, Donnelly RJ, Muthukumaran G, Cook JR, Garotta G, Silvennoinen O, Ihle JN | title = Interaction between the components of the interferon gamma receptor complex | journal = J. Biol. Chem. | volume = 270 | issue = 36 | pages = 20915–21 | date = September 1995 | pmid = 7673114 | doi = 10.1074/jbc.270.36.20915 }}</ref>
+
+===Diseases===
+Interferon-γ has been shown to be a crucial player in the immune response against some intracellular pathogens, including that of [[Chagas disease]].<ref>http://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0004583</ref>
+
+==Regulation==
+There is evidence that interferon-gamma expression is regulated by a [[Interferon gamma 5' UTR regulatory element|pseudoknotted element in its 5' UTR]].<ref>{{cite journal |vauthors=Ben-Asouli Y, Banai Y, Pel-Or Y, Shir A, Kaempfer R | title = Human interferon-gamma mRNA autoregulates its translation through a pseudoknot that activates the interferon-inducible protein kinase PKR | journal = Cell | volume = 108 | issue = 2 | pages = 221&ndash;232 | year = 2002 | pmid = 11832212 | doi = 10.1016/S0092-8674(02)00616-5 }}</ref> 
+There is also evidence that interferon-gamma is regulated either directly or indirectly by the [[microRNAs]]: miR-29.<ref name="pmid18061676">{{cite journal |vauthors=Asirvatham AJ, Gregorie CJ, Hu Z, Magner WJ, Tomasi TB | title = MicroRNA targets in immune genes and the Dicer/Argonaute and ARE machinery components. | journal = Mol Immunol | volume = 45 | issue = 7 | pages = 1995–2006 | year = 2008 | pmid = 18061676 | pmc = 2678893 | doi = 10.1016/j.molimm.2007.10.035 }}</ref>
+Furthermore, there is evidence that interferon-gamma expression is regulated via GAPDH in T-cells. This interaction takes place in the 3'UTR, where binding of GAPDH prevents the translation of the mRNA sequence.<ref name="pmid23746840">{{cite journal |vauthors=Chang CH, Curtis JD, Maggi LB, Faubert B, Villarino AV, O'Sullivan D, Huang SC, van der Windt GJ, Blagih J, Qiu J, Weber JD, Pearce EJ, Jones RG, Pearce EL | title = Posttranscriptional control of T cell effector function by aerobic glycolysis | journal = Cell | volume = 153 | issue = 6 | pages = 1239–51 | year = 2013 | pmid = 23746840 | pmc = 3804311 | doi = 10.1016/j.cell.2013.05.016 }}</ref>
+
+==References==
+{{Reflist|35em}}
+
+== Further reading ==
+{{refbegin|35em}}
+* {{cite book | author = Hall, Stephen K. | title = A commotion in the blood: life, death, and the immune system | edition = | language = | publisher = Henry Holt | location = New York | year = 1997 | origyear = | pages = | quote = | isbn = 0-8050-5841-9 | oclc = | doi = | url = | accessdate = }}
+*{{cite journal |vauthors=Ikeda H, Old LJ, Schreiber RD | title = The roles of IFN gamma in protection against tumor development and cancer immunoediting. | journal = Cytokine Growth Factor Rev. | volume = 13 | issue = 2 | pages = 95–109 | year = 2002 | pmid = 11900986 | doi = 10.1016/S1359-6101(01)00038-7 }}
+*{{cite journal |vauthors=Chesler DA, Reiss CS | title = The role of IFN-gamma in immune responses to viral infections of the central nervous system. | journal = Cytokine Growth Factor Rev. | volume = 13 | issue = 6 | pages = 441–54 | year = 2003 | pmid = 12401479 | doi = 10.1016/S1359-6101(02)00044-8 }}
+*{{cite journal |vauthors=Dessein A, Kouriba B, Eboumbou C, Dessein H, Argiro L, Marquet S, Elwali NE, Rodrigues V, Li Y, Doumbo O, Chevillard C | title = Interleukin-13 in the skin and interferon-gamma in the liver are key players in immune protection in human schistosomiasis. | journal = Immunol. Rev. | volume = 201 | issue =  | pages = 180–90 | year = 2005 | pmid = 15361241 | doi = 10.1111/j.0105-2896.2004.00195.x }}
+*{{cite journal |vauthors=Joseph AM, Kumar M, Mitra D | title = Nef: "necessary and enforcing factor" in HIV infection. | journal = Curr. HIV Res. | volume = 3 | issue = 1 | pages = 87–94 | year = 2005 | pmid = 15638726 | doi = 10.2174/1570162052773013 }}
+*{{cite journal | author = Copeland KF | title = Modulation of HIV-1 transcription by cytokines and chemokines. | journal = Mini reviews in medicinal chemistry | volume = 5 | issue = 12 | pages = 1093–101 | year = 2006 | pmid = 16375755 | doi = 10.2174/138955705774933383 }}
+*{{cite journal |vauthors=Chiba H, Kojima T, Osanai M, Sawada N | title = The significance of interferon-gamma-triggered internalization of tight-junction proteins in inflammatory bowel disease. | journal = Sci. STKE | volume = 2006 | issue = 316 | pages = pe1 | year = 2006 | pmid = 16391178 | doi = 10.1126/stke.3162006pe1 }}
+*{{cite journal |vauthors=Tellides G, Pober JS | title = Interferon-gamma axis in graft arteriosclerosis. | journal = Circ. Res. | volume = 100 | issue = 5 | pages = 622–32 | year = 2007 | pmid = 17363708 | doi = 10.1161/01.RES.0000258861.72279.29 }}
+{{refend}}
+
+{{PDB Gallery|geneid=3458}}
+{{Antivirals}}
+{{Immunostimulants}}
+{{Cytokines}}
+{{Cytokine receptor modulators}}
+{{Portal bar|Biology|Medicine}}
+{{NLM content}}
+
+[[Category:Antivirals]]
+[[Category:Cytokines]]
+[[Category:Immunostimulants]]

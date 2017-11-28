@@ -1,0 +1,81 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 407435549
+| IUPAC_name = 1-''N'',3-''N-bis''(1,3-dihydroxypropan-2-yl)-5-[(2''S'')-2-hydroxypropanamido]-2,4,6-triiodobenzene-1,3-dicarboxamide
+| image = Lopamidol.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|iopamidol}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = B
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = Intravascular
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 60166-93-0
+| ATC_prefix = V08
+| ATC_suffix = AB04
+| PubChem = 65492
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB08947 
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = JR13W81H44
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 31711
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01797
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1200932
+|  ChemSpiderID = 58940
+
+
+
+<!--Chemical data-->
+| C=17 | H=22 | I=3 | N=3 | O=8 
+| molecular_weight = 777.08 g/mol
+|  smiles = C[C@@H](C(=O)Nc1c(c(c(c(c1I)C(=O)NC(CO)CO)I)C(=O)NC(CO)CO)I)O
+|  StdInChI = 1S/C17H22I3N3O8/c1-6(28)15(29)23-14-12(19)9(16(30)21-7(2-24)3-25)11(18)10(13(14)20)17(31)22-8(4-26)5-27/h6-8,24-28H,2-5H2,1H3,(H,21,30)(H,22,31)(H,23,29)/t6-/m0/s1
+|  StdInChIKey = XQZXYNRDCRIARQ-LURJTMIESA-N
+}}
+
+'''Iopamidol''' ([[International Nonproprietary Name|INN]], tradenames Iopamiro, Isovue, Iopamiron, and Niopam) is a nonionic, low-osmolar iodinated [[radiocontrast|contrast agent]], developed by Bracco.
+
+It is available in various concentrations, from 200 to 370 mgI/mL.
+
+==Clinical uses==
+Iopamidol is primarily used in the following:<ref>{{cite web | url = http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=3359 | title = Iopamidol (Isovue) prescribing information (revised April 2004) | author = Bracco Diagnostic Inc. |date=April 2004 | accessdate = 2008-03-28 | publisher = U.S. [[National Library of Medicine]] | work = DailyMed}}</ref>
+* Angiography throughout the cardiovascular system, including cerebral and peripheral arteriography, coronary arteriography and ventriculography, pediatric angiocardiography, selective visceral arteriography and aortography, peripheral venography (phlebography)
+* Adult and pediatric intravenous excretory urography and intravenous adult and pediatric contrast enhancement of computed tomographic (CECT) head and body imaging
+
+Nursing Considerations:
+Early generations of IV contrast carried considerable nephrotoxicity, necessitating continual assessment of renal function. IV and PO fluids are encouraged post operation to facilitate excretion of contrast. There is a common myth in medicine and nursing that patients may be allergic to iodine in contrast, however, there is considerable evidence to the contrary. This is likely a carryover of confusion regarding contrast-reactions to early generations of IV contrast which were of sufficiently high osmolarity to induce degranulation of mast cells which manifests clinically as similar in appearance to anaphlylaxis due to massive release of histamine.  There is no need to assess patients for allergies to iodine or shellfish as allergy to iodine is physiologically impossible in a hemodynamically stable patient.  Allergy to iodine would immediately manifest as overwhelming anaphylaxis due to presence of iodine in triiodothyronine(T3) and thyroxine(T4). Shellfish allergies have been demonstrated to be due to proteins produced by the organisms, not due to iodine.
+
+== References==
+{{Reflist}}
+
+== External links ==
+* [http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=3359 Isovue (iopamidol)  Injection, Solution]
+
+[[Category:Radiocontrast agents]]
+[[Category:Iodoarenes]]
+[[Category:Benzamides]]
+[[Category:Acetanilides]]
+
+
+{{pharma-stub}}
+{{Contrast media}}

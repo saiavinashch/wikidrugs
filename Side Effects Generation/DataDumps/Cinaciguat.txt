@@ -1,0 +1,74 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 444574102
+| IUPAC_name = 4-({(4-carboxybutyl)[2-(2-<nowiki/>{[4-(2-phenylethyl)<br />phenyl]methoxy}phenyl)ethyl]amino}methyl)<br />benzoic acid
+| image = Cinaciguat_structure.svg
+
+<!--Clinical data-->
+| tradename = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = 
+| routes_of_administration = [[intravenous]] (?)
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5168
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 329773-35-5
+| CAS_supplemental = 
+| ATC_prefix = none
+| ATC_suffix = 
+| ATC_supplemental = 
+| PubChem = 9808022
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 59K0Y58UAD
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 7983781
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C36H39NO5/c38-35(39)12-6-7-24-37(26-30-19-21-33(22-20-30)36(40)41)25-23-32-10-4-5-11-34(32)42-27-31-17-15-29(16-18-31)14-13-28-8-2-1-3-9-28/h1-5,8-11,15-22H,6-7,12-14,23-27H2,(H,38,39)(H,40,41)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = WPYWMXNXEZFMAK-UHFFFAOYSA-N
+
+<!--Chemical data-->
+| chemical_formula = 
+| C=36 | H=39 | N=1 | O=5 
+| molecular_weight = 565.697 g/mol
+| smiles = c4ccccc4CCc3ccc(cc3)COc1ccccc1CCN(CCCCC(O)=O)Cc2ccc(C(=O)O)cc2
+}}
+
+'''Cinaciguat''' ('''BAY 58-2667''') is an experimental drug for the treatment of [[acute decompensated heart failure]].
+
+==Mechanism of action==
+Cinaciguat activates the [[soluble guanylate cyclase]] (sGC) which is a receptor for [[nitric oxide]]. This increases biosynthesis of [[cyclic GMP]], resulting in [[vasodilation]].<ref>Schubert-Zsilavecz, M, Wurglics, M, ''Neue Arzneimittel 2009''</ref>
+
+==See also==
+*[[Riociguat]], another drug stimulating sGC, but with a different mechanism
+* [[PDE5 inhibitor]]s act further downstream in the nitric oxide signalling pathway, reducing cyclic GMP degradation.
+
+== References ==
+{{Reflist}}
+
+
+{{Nitric oxide signaling}}
+
+[[Category:Vasodilators]]
+[[Category:Benzoic acids]]
+[[Category:Phenol ethers]]
+
+
+{{cardiovascular-drug-stub}}

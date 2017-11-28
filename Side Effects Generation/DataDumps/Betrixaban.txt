@@ -1,0 +1,90 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 461744356
+| IUPAC_name = ''N''-(5-chloropyridin-2-yl)-2-([4-(''N'',''N''-dimethylcarbamimidoyl)benzoyl]amino)-5-methoxybenzamide
+| image = Betrixaban.svg
+| width = 220
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Being evaluated in the global Phase 3 trial (APEX)
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 330942-05-7
+| ATC_prefix = none
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 512351
+| PubChem = 10275777
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 74RWP7W0J9
+|  ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 18981107
+|  StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C23H22ClN5O3/c1-29(2)21(25)14-4-6-15(7-5-14)22(30)27-19-10-9-17(32-3)12-18(19)23(31)28-20-11-8-16(24)13-26-20/h4-13,25H,1-3H3,(H,27,30)(H,26,28,31)
+|  StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = XHOLNRLADUSQLD-UHFFFAOYSA-N
+
+<!--Chemical data-->
+| C=23 | H=22 | Cl=1 | N=5 | O=3 
+| molecular_weight = 451.905 g/mol
+| smiles = CN(C)C(=N)C1=CC=C(C=C1)C(=O)NC2=C(C=C(C=C2)OC)C(=O)NC3=NC=C(C=C3)Cl
+}}
+
+'''Betrixaban''' ([[International Nonproprietary Name|INN]], codenamed '''PRT-054,021''') is an [[anticoagulant]] drug which acts as a [[direct factor Xa inhibitor]].<ref name="pmid19071881">{{cite journal |vauthors=Eriksson BI, Quinlan DJ, Weitz JI |title=Comparative pharmacodynamics and pharmacokinetics of oral direct thrombin and factor xa inhibitors in development |journal=Clinical Pharmacokinetics |volume=48 |issue=1 |pages=1–22 |year=2009 |pmid=19071881 |doi= 10.2165/0003088-200948010-00001|url=}}</ref> It is potent, orally active and highly selective for factor Xa, being selected from a group of similar compounds for its low [[hERG]] affinity.<ref name="pmid19297154">{{cite journal |vauthors=Zhang P, Huang W, Wang L, Bao L, Jia ZJ, Bauer SM, Goldman EA, Probst GD, Song Y, Su T, Fan J, Wu Y, Li W, Woolfrey J, Sinha U, Wong PW, Edwards ST, Arfsten AE, Clizbe LA, Kanter J, Pandey A, Park G, Hutchaleelaha A, Lambing JL, Hollenbach SJ, Scarborough RM, Zhu BY |title=Discovery of betrixaban (PRT054021), N-(5-chloropyridin-2-yl)-2-(4-(N,N-dimethylcarbamimidoyl)benzamido)-5-methoxybenzamide, a highly potent, selective, and orally efficacious factor Xa inhibitor |journal=Bioorganic & Medicinal Chemistry Letters |volume=19 |issue=8 |pages=2179–85 |date=April 2009 |pmid=19297154 |doi=10.1016/j.bmcl.2009.02.111 |url=}}</ref> Betrixaban has undergone human [[clinical trials]] for prevention of embolism after knee surgery,<ref name="pmid19132191">{{cite journal |vauthors=Turpie AG, Bauer KA, Davidson BL, Fisher WD, Gent M, Huo MH, Sinha U, Gretler DD |title=A randomized evaluation of betrixaban, an oral factor Xa inhibitor, for prevention of thromboembolic events after total knee replacement (EXPERT) |journal=Thrombosis and Haemostasis |volume=101 |issue=1 |pages=68–76 |date=January 2009 |pmid=19132191 |doi= 10.1160/th08-07-0460|url=}}</ref> and prevention of [[stroke]] following [[atrial fibrillation]],<ref>{{Cite journal 
+| last1 = Piccini | first1 = J. P. 
+| last2 = Lopes | first2 = R. D. 
+| last3 = Mahaffey | first3 = K. W. 
+| title = Oral factor Xa inhibitors for the prevention of stroke in atrial fibrillation 
+| journal = Current Opinion in Cardiology 
+| volume = 25 
+| issue = 4 
+| pages = 312–20 
+| year = 2010 
+| pmid = 20520539 
+| doi = 10.1097/HCO.0b013e32833a524f
+}}</ref> with promising results.<ref>{{Cite journal 
+| last1 = Sobieraj-Teague | first1 = M. 
+| last2 = O’donnell | first2 = M. 
+| last3 = Eikelboom | first3 = J. 
+| title = New Anticoagulants for Atrial Fibrillation 
+| journal = Seminars in Thrombosis and Hemostasis 
+| volume = 35 
+| pages = 515–24 
+| year = 2009 
+| doi = 10.1055/s-0029-1234147
+| pmid=19739042
+| issue=5
+}}</ref> Betrixaban is currently being studied in a human clinical trial for extended duration thromboprophylaxis to prevent venous thromboembolism in acute medically ill patients.<ref>{{Cite journal|title = The design and rationale for the Acute Medically Ill Venous Thromboembolism Prevention with Extended Duration Betrixaban (APEX) study|url = http://linkinghub.elsevier.com/retrieve/pii/S0002870313007862|journal = American Heart Journal|date = 2014-01-01|volume = 167|issue = 3|doi = 10.1016/j.ahj.2013.11.006|first = Alexander T.|last = Cohen|first2 = Robert|last2 = Harrington|first3 = Samuel Z.|last3 = Goldhaber|first4 = Russell|last4 = Hull|first5 = C. Michael|last5 = Gibson|first6 = Adrian F.|last6 = Hernandez|first7 = Michael M.|last7 = Kitt|first8 = Todd J.|last8 = Lorenz}}</ref> Joint development with Portola was discontinued in 2011 by Merck.<ref>{{cite web|last=Husten|first=Harry|title=Merck Abandons Development of Factor Xa Inhibitor Betrixaban|url=http://cardiobrief.org/2011/03/24/merck-abandons-development-of-factor-xa-inhibitor-betrixaban/|publisher=CardioBrief|accessdate=11 April 2014}}</ref> Betrixaban is now being developed by Portola Pharmaceuticals; the drug received FDA approval on June 23rd, 2017.<ref>{{citeweb|title=FDA approved betrixaban (BEVYXXA, Portola) for the prophylaxis of venous thromboembolism (VTE) in adult patients|url=https://www.fda.gov/Drugs/InformationOnDrugs/ApprovedDrugs/ucm564422.htm|accessdate=28 June 2017}}</ref>
+
+==See also==
+* [[Rivaroxaban]]
+* [[Apixaban]]
+
+==References==
+{{reflist}}
+
+{{Antithrombotics}}
+
+[[Category:Anticoagulants]]
+
+
+{{blood-drug-stub}}

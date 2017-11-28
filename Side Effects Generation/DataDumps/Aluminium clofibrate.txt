@@ -1,0 +1,69 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 456682500
+| IUPAC_name = Aluminium ''bis''(2-(4-chlorophenoxy)-2-methylpropanoate) hydroxide
+| image = Aluminium clofibrate.svg
+
+<!--Clinical data-->
+| tradename =  
+| MedlinePlus = a699047
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism = [[Hydrolysis|Hydrolyzed]] to [[clofibrate|clofibric acid]] and [[aluminium hydroxide]]
+| elimination_half-life =  
+| excretion = [[Kidney|Renal]]
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 24818-79-9
+| ATC_prefix = C10
+| ATC_suffix = AB03
+| PubChem = 6328223
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 11644433
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 56203T2K2X
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01208
+
+<!--Chemical data-->
+| C=20 | H=24 | Cl=2 | O=7 
+| molecular_weight = 474.287 g/mol
+| smiles = Clc2ccc(OC(C)(C)C(=O)O[Al](O)OC(=O)C(C)(C)Oc1ccc(Cl)cc1)cc2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/2C10H11ClO3.Al.H2O/c2*1-10(2,9(12)13)14-8-5-3-7(11)4-6-8;;/h2*3-6H,1-2H3,(H,12,13);;1H2/q;;+3;/p-3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = USWVMPGQVYZHCA-UHFFFAOYSA-K
+}}
+
+'''Aluminium clofibrate''' (or '''alfibrate''') is a [[fibrate]].
+
+==See also==
+* [[Clofibrate]]
+
+==References==
+{{Reflist|2}}
+
+
+{{Lipid modifying agents}}
+{{PPAR modulators}}
+
+[[Category:Fibrates]]
+[[Category:Chloroarenes]]
+[[Category:Phenol ethers]]
+[[Category:Aluminium compounds]]
+
+{{cardiovascular-drug-stub}}

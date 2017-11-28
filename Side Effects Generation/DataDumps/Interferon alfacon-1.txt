@@ -1,0 +1,79 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 458271293
+| IUPAC_name        = 
+| image             = 
+| width             = 
+| alt               = 
+<!-- Clinical data -->
+| tradename         =  
+| Drugs.com         =
+| MedlinePlus       =
+| licence_EU        = <!-- EMA requires brand name -->
+| licence_US        = <!-- FDA may use generic name -->
+| DailyMedID        = <!-- preference to licence_US -->
+| pregnancy_AU      = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US      = C
+| pregnancy_category= 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled -->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = Rx-only
+| legal_status      = 
+| dependency_liability = 
+| routes_of_administration = Parenteral
+<!-- Pharmacokinetic data -->
+| bioavailability   = 
+| protein_bound     = 
+| metabolism        = 
+| elimination_half-life = 
+| excretion         = 
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number        = 118390-30-0
+| CAS_supplemental  = 
+| ATCvet            = 
+| ATC_prefix        = L03
+| ATC_suffix        = AB09
+| ATC_supplemental  = 
+| PubChem           = 
+| PubChemSubstance  = 
+| IUPHAR_ligand     = 
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank          = DB00069
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII              =
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG              =
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI             =
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL            =
+<!-- Chemical data -->
+| C=860 | H=1353 | N=227 | O=255 | S=9
+| molecular_weight  = 19343 g/mol
+| smiles            = 
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI          =
+| StdInChI_comment  =
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey       =
+| synonyms          = 
+| density           = 
+}}
+
+'''Interferon alfacon-1''' is a recombinant synthetic [[Interferon type I|type I interferon]] used for the treatment of [[hairy cell leukemia]], [[melanoma|malignant melanoma]] and [[AIDS]]-related [[Kaposi's sarcoma]].<ref name="DrugBank">{{DrugBank|DB00069}}</ref>
+
+== References ==
+<references/>
+
+{{Immunostimulants}}
+{{Cytokine receptor modulators}}
+
+[[Category:Immunostimulants]]
+[[Category:Antivirals]]
+
+
+{{antineoplastic-drug-stub}}

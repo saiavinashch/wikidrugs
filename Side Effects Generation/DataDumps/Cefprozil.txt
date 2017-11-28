@@ -1,0 +1,79 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 460024534
+| IUPAC_name = 7-[2-amino-2-(4-hydroxyphenyl)-acetyl]amino-8-oxo-3-prop-1-enyl-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+| image = Cefprozil.svg
+<!--Clinical data-->
+| tradename = Cefzil
+| Drugs.com = {{drugs.com|monograph|cefprozil}}
+| MedlinePlus = a698022
+| licence_US = Cefprozil
+| pregnancy_US = B
+| legal_US = Rx-only
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability = 95%
+| protein_bound = 36%
+| elimination_half-life = 1.3 hours
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 92665-29-7
+| ATC_prefix = J01
+| ATC_suffix = DC10
+| PubChem = 9887643
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01150
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 8063315
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 1M698F4H4E
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 3506
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07651
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1742
+<!--Chemical data-->
+| C=18 | H=19 | N=3 | O=5 | S=1
+| molecular_weight = 389.427 g/mol
+| smiles = O=C2N1/C(=C(/C=C/C)CS[C@@H]1[C@@H]2NC(=O)[C@@H](c3ccc(O)cc3)N)C(=O)O.O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C18H19N3O5S.H2O/c1-2-3-10-8-27-17-13(16(24)21(17)14(10)18(25)26)20-15(23)12(19)9-4-6-11(22)7-5-9;/h2-7,12-13,17,22H,8,19H2,1H3,(H,20,23)(H,25,26);1H2/b3-2-;/t12-,13-,17-;/m1./s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ALYUMNAHLSSTOU-HERYOFLYSA-N
+}}
+'''Cefprozil''', sometimes spelled '''cefproxil''' and marketed under the trade name '''Cefzil, Cefproz.''' 
+
+'''Cefprozil''' is a second-generation [[cephalosporin]] type [[antibiotic]]. In Europe it is marketed using the trade names '''Procef''' and '''Cronocef'''.{{Citation needed|date=February 2011}}  It can be used to treat [[bronchitis]], ear infections, skin infections, and other bacterial infections.{{Citation needed|date=February 2011}} It comes as a tablet and as a liquid [[suspension (chemistry)|suspension]].
+
+Although there is a widely quoted cross-allergy risk of 10% between cephalosporins and penicillin, an article in the ''Journal of Family Practice''<ref>{{cite journal
+| last1 = Pichichero | first1 = ME
+| title = Cephalosporins can be prescribed safely for penicillin-allergic patients
+| journal = [[J Fam Pract]]
+| volume = 55
+| issue = 2
+| pages = 106–12
+| date=February 2006
+| pmid = 16451776
+| url = http://www.jfponline.com/pdf%2F5502%2F5502JFP%5FAppliedEvidence1%2Epdf
+}}</ref> has shown no increased risk for cross-allergy for cefprozil and several other second-generation or later cephalosporins.
+
+==Spectrum of bacterial susceptibility and resistance==
+Currently bacteria like ''[[Enterobacter aerogenes]]'', ''[[Morganella morganii]]'' and ''[[Pseudomonas aeruginosa]]'' are resistant to cefprozil, while ''[[Salmonella enterica]]'' serotype Agona and [[streptococci]] are susceptible to cefprozil. Some bacteria like ''[[Brucella abortus]]'', ''[[Moraxella catarrhalis]]'' and ''[[Streptococcus pneumoniae]]'' have developed resistance towards cefprozil in varying degrees. Detailed minimum inhibition concentration information is given by the Cefprozil Susceptibility and Resistance Data sheet.<ref>{{cite web|title=Cefprozil Susceptibility and Resistance Data|url=http://www.toku-e.com/Assets/MIC/Cefprozil.pdf|accessdate=23 July 2013}}</ref>
+
+==Synthesis==
+[[File:Cefprozil synthesis.svg|thumb|center|500px|Cefprozil synthesis:<ref>H. Hoshi et al., {{Cite patent|DE|3402642}}; eidem, {{US patent|4520022}} (1984, 1985 both to [[Bristol-Myers]]).</ref><ref>{{cite journal|pmid=3624077|year=1987|author1=Naito|first1=T|title=Synthesis and structure-activity relationships of a new oral cephalosporin, BMY-28100 and related compounds|journal=The Journal of antibiotics|volume=40|issue=7|pages=991–1005|last2=Hoshi|first2=H|last3=Aburaki|first3=S|last4=Abe|first4=Y|last5=Okumura|first5=J|last6=Tomatsu|first6=K|last7=Kawaguchi|first7=H|doi=10.7164/antibiotics.40.991}}</ref> Separation of isomers:<ref> M. A. Kaplan et al., {{US patent|4727070}} (1988 to [[Bristol-Myers]]).</ref>]]
+Displacement of the allylic chloride in intermediate ('''1''') with [[triphenylphosphine]] gives the phosphonium salt ('''2'''). This functionality is then converted to its [[ylide]]; condensation with [[acetaldehyde]] then leads to the [[vinyl group|vinyl]] derivative ('''3'''); deprotection then gives cefprozil.  Semisynthetic oral cephalosporin consisting of ~90:10 Z/E isomeric mixture.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.nlm.nih.gov/medlineplus/druginfo/medmaster/a698022.html Cefprozil] MedlinePlus Drug Information
+
+{{CephalosporinAntiBiotics}}
+
+[[Category:Cephalosporin antibiotics]]
+[[Category:Phenols]]
+
+{{antibiotic-stub}}

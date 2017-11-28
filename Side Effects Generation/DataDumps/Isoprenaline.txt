@@ -1,0 +1,103 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 477495291
+| INN           = Isoprenaline
+| USAN          = Isoproterenol
+| IUPAC_name    = (''RS'')-4-[1-hydroxy-2-(isopropylamino)ethyl]benzene-1,2-diol
+| image         = Isoprenaline.svg
+| width         = 225
+
+<!--Clinical data-->
+| tradename =  Many<ref name=brands/>
+| Drugs.com = 
+| MedlinePlus = a601236
+| pregnancy_AU = A
+| pregnancy_US = C
+| legal_status = Rx-only
+| routes_of_administration = Inhalation (80–120 ''μ''g)
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life = ~2 minutes
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 7683-59-2
+| ATC_prefix = C01
+| ATC_suffix = CA02
+| ATC_supplemental =  {{ATC|R03|AB02}}<br />{{ATC|R03|CB01}}
+| PubChem = 3779
+| IUPHAR_ligand = 536
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01064
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3647
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = L628TT009W
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08090
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 434
+
+<!--Chemical data-->
+| C=11 | H=17 | N=1 | O=3
+| molecular_weight = 211.258 g/mol
+| smiles = Oc1ccc(cc1O)C(O)CNC(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C11H17NO3/c1-7(2)12-6-11(15)8-3-4-9(13)10(14)5-8/h3-5,7,11-15H,6H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = JWZZKOKVBUJMES-UHFFFAOYSA-N
+}}
+
+'''Isoprenaline''', or '''isoproterenol''', is a [[medication]] used for the treatment of [[bradycardia]] (slow heart rate), [[heart block]], and rarely for [[asthma]]. In humans, it is a non-selective [[Beta-adrenergic agonist|β adrenoreceptor agonist]]  that is the isopropylamine analog of [[epinephrine]] (adrenaline).<ref name=USlabel2013>{{cite web|title=Label: Isoproterenol hydrochloride injection, solution|url=https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a58f95fa-18f9-4938-8e3f-f33244f68298|publisher=NIH DailyMed|accessdate=21 June 2017|date=September 10, 2013}}</ref>
+
+==Uses==
+It is used to treat [[heart block]] and episodes of [[Adams-Stokes syndrome]] that are not caused by ventricular tachycardia or fibrillation, in emergencies for [[cardiac arrest]] until electric shock can be administered, for bronchospasm occurring during anesthesia, and as an adjunct in the treatment of [[hypovolemic shock]], [[septic shock]], low cardiac output (hypoperfusion) states, congestive heart failure, and cardiogenic shock.<ref name=USlabel2013/>
+
+Historically, it was used to treat asthma via metered aerosol or nebulizing devices; it was also available in sublingual, oral, intravenous, and intramuscular formulations.<ref name=Mozayan2003book/> The U.S. National Asthma Education and Prevention Program Expert Panel recommends against its use as a nebulizer for acute bronchoconstriction; the use of any beta2-agonists including isoprenaline is not recommended in an asthmatic respiration crisis.<ref>{{cite web|last1=National Asthma Education and Prevention Program Expert Panel|title=Expert Panel Report 3: Guidelines for the Diagnosis and Management of Asthma|url=https://www.nhlbi.nih.gov/files/docs/guidelines/asthgdln.pdf|publisher=NIH National Heart, Lung, and Blood Institute|date=August 28, 2007}}</ref>
+
+==Contradindications==
+It should not be used in people with tachyarrhythmias, tachycardia or heart block caused by digitalis poisoning, ventricular arrhythmias which require inotropic therapy, or with [[angina]].<ref name=USlabel2013/>
+
+==Adverse effects==
+Adverse effects of isoprenaline include nervousness, headache, dizziness, nausea, visual blurring, tachycardia, palpitations, angina, Adams-Stokes attacks, pulmonary edema, hypertension, hypotension, ventricular arrhythmias, tachyarrhythmias, difficulty breathing, sweating, mild tremors, weakness, flushing, and pallor.<ref name=USlabel2013/>
+
+==Pharmacology==
+Isoprenaline is a [[Beta-1 adrenergic receptor|β<sub>1</sub>]] and [[Beta-2 adrenergic receptor|β<sub>2</sub>]] adrenoreceptor agonist and has almost no activity against [[alpha adrenergic receptor]]s.<ref name=Mozayan2003book/> Its agonist effects at [[TAAR1]] provide it with a pharmacodynamic effects that resemble those of the endogenous [[trace amine]]s, like [[tyramine]].<ref name="TAAR1 ligands and TA adrenergic receptor binding">{{cite journal | vauthors = Kleinau G, Pratzka J, Nürnberg D, Grüters A, Führer-Sakel D, Krude H, Köhrle J, Schöneberg T, Biebermann H | title = Differential modulation of Beta-adrenergic receptor signaling by trace amine-associated receptor 1 agonists | journal = PLoS ONE | volume = 6 | issue = 10 | pages = e27073 | date = October 2011 | pmid = 22073124 | pmc = 3205048 | doi = 10.1371/journal.pone.0027073 | quote = }}<br />"[http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3205048/table/pone-0027073-t001/ Table 1: EC<sub>50</sub> values of different agonists at hTAAR1, hADRB1 and hADRB2.]"</ref>
+
+The plasma half-life for isoprenaline is approximately two minutes.{{citation needed|date=June 2017}}
+
+Isoprenaline's effects on the [[cardiovascular system]] (non-selective) relate to its actions on cardiac β<sub>1</sub> receptors and β<sub>2</sub> receptors on smooth muscle within the [[tunica media]] of [[arteriole]]s. Isoprenaline has positive inotropic and chronotropic effects on the heart. β<sub>2</sub> adrenoceptor stimulation in arteriolar smooth muscle induces vasodilation. Its inotropic and chronotropic effects elevate [[Systole|systolic]] [[blood pressure]], while its vasodilatory effects tend to lower [[Diastole|diastolic]] blood pressure. The overall effect is to decrease [[mean arterial pressure]] due to the β<sub>2</sub> receptors' vasodilation.{{citation needed|date=June 2017}}
+
+The adverse effects of isoprenaline are also related to the drug's cardiovascular effects. Isoprenaline can produce [[tachycardia]] (an elevated [[heart rate]]), which predisposes people who take it to [[cardiac arrhythmia]]s.<ref name=Mozayan2003book/>
+
+The [[isopropylamine]] group in isoprenaline makes it selective for β receptors. The free [[catechol]] [[hydroxyl]] groups keep it susceptible to enzymatic metabolism.<ref>{{cite web|last1=Mehta|first1=Akul|title=Notes - Medicinal Chemistry of the Peripheral Nervous System - Adrenergics and Cholinergic|url=http://pharmaxchange.info/notes/medicinal_chemistry/adrenergics_cholinergics.html|publisher=Pharmaxchange|accessdate=21 June 2017|date=January 27, 2011}}</ref>
+
+==Chemistry==
+It is structurally related to [[epinephrine]].<ref name=USlabel2013/>
+
+==History==
+It was first approved in the US in 1947.<ref name=Mozayan2003book>{{cite book|last1=Mozayani|first1=Ashraf|last2=Raymon|first2=Lionel|title=Handbook of Drug Interactions: A Clinical and Forensic Guide|date=2003|publisher=Springer Science & Business Media|isbn=9781592596546|pages=541–542|url=https://books.google.com/books?id=dwMyBwAAQBAJ&pg=PA541|language=en}}</ref>
+Between 1963 and 1968 in England, Wales, Scotland, Ireland, Australia, and New Zealand there was an increase in deaths among people using isoprenaline to treat asthma.  This was attributed to overdose: the inhalers produced in that area were dispensing five times the dosage dispensed by inhalers produced in the US and Canada, where the deaths were not observed.<ref>{{cite journal |author1=Pierce, Neil  |author2=Hensley, Michael J. | year = 1998 | title = Epidemiologic Studies of Beta Agonists and Asthma Deaths | url = http://epirev.oxfordjournals.org/content/20/2/173.full.pdf | journal = Epidemiologic Studies | volume = 20 | issue = 2|pmid=9919437}}</ref><ref>{{cite journal|last1=Jalba|first1=MS|title=Three generations of ongoing controversies concerning the use of short acting beta-agonist therapy in asthma: a review.|journal=The Journal of asthma : official journal of the Association for the Care of Asthma|date=2008|volume=45|issue=1|pages=9–18|doi=10.1080/02770900701495512|pmid=18259990}}</ref>
+
+==Society and culture==
+===Brands===
+As of June 2017, isoprenaline was marketed under many brand names worldwide and as two different salts: Aleudrina, Asthpul, Iludrin, Isomenyl, Isoprenalin, Isoprenalina, Isoprenalina, Isoprenalina, Isoprenaline, Isoprenaline, Isoprénaline, Isoprénaline, Isoprenaline hydrochloride, Isoprenaline sulfate, Isoprenalinesulfaat, Isoprenalinsulfat, Isoprenalinum, Isopropydine, Isopropylnoradrenaline, Isoproterenol, Isoproterenol, Isoproterenol, Isoproterenol hydrochloride, Isoproterenol sulfate, Isuprel, Isuprel, Neo-Epinine, Neodrenal, Proternol, Saventrine, and Win 5162.<ref name=brands>{{cite web|title=Isoprenaline international brands|url=https://www.drugs.com/international/isoprenaline.html|publisher=Drugs.com|accessdate=21 June 2017}}</ref>  It was also marketed as a [[combination drug]] with [[cromoglicic acid]] as Frenal Compositum, in combination with [[pronase]] as Isopal P, and in combination with [[atropine]] as Stmerin D.<ref name=brands/>
+
+==References==
+{{reflist|30em}}
+
+{{Drugs for obstructive airway diseases}}
+{{Adrenergics}}
+{{Adrenergic and dopaminergic agents}}
+{{Stimulants}}
+{{TAAR ligands}}
+
+[[Category:Antiasthmatic drugs]]
+[[Category:Beta1-adrenergic agonists]]
+[[Category:Beta2-adrenergic agonists]]
+[[Category:Catecholamines]]
+[[Category:Inotropic agents]]
+[[Category:TAAR1 agonists]]

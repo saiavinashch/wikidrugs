@@ -1,0 +1,74 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 403967114
+| IUPAC_name = 1-[(2''S'',3''R'',4''S'',5''S'')-3-fluoro-4-hydroxy-5- (hydroxymethyl)oxolan-2-yl]-5-methylpyrimidine- 2,4-dione
+| image = Clevudine Formulae.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 69256-17-3
+| ATC_prefix = J05
+| ATC_suffix = AF12
+| ATC_supplemental = <ref>{{cite web|url=http://www.whocc.no/atcddd/new_atc_ddd.html#ATCDDD_FINAL |title=ATC/DDD Classification (FINAL): New ATC 5th level codes |date=August 27, 2008 |author=WHO International Working Group for Drug Statistics Methodology |publisher=WHO Collaborating Centre for Drug Statistics Methodology |accessdate=2008-09-05 |archiveurl=https://web.archive.org/web/20080506023243/http://www.whocc.no/atcddd/new_atc_ddd.html#ATCDDD_FINAL |archivedate=2008-05-06 |deadurl=yes |df= }}</ref>
+| PubChem = 73115
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = IN51MVP5F1
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03537
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 458875
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 65894
+|  smiles = O=C/1NC(=O)N(\C=C\1C)[C@H]2O[C@H]([C@H](O)[C@H]2F)CO
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C10H13FN2O5/c1-4-2-13(10(17)12-8(4)16)9-6(11)7(15)5(3-14)18-9/h2,5-7,9,14-15H,3H2,1H3,(H,12,16,17)/t5-,6+,7-,9-/m0/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = GBBJCSTXCAQSSJ-XQXXSGGOSA-N
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=10 | H=13 | F=1 | N=2 | O=5 
+| molecular_weight = 260.219 g/mol
+}}
+
+'''Clevudine''' ([[International Nonproprietary Name|INN]]) is an antiviral drug for the treatment of [[hepatitis B]] (HBV). It is already approved for HBV in [[South Korea]] and the [[Philippines]]. It is marketed by Bukwang Pharmaceuticals in South Korea under the tradenames '''Levovir''' and '''Revovir'''.
+
+Under license from Bukwang, [[Pharmasset]] was developing the drug, but its phase III clinical trial (international, multicenter, randomized, double-blind, 96-week QUASH studies) was terminated due to some [[myopathy]] cases in patients. Its approval in South Korea was revoked following these findings.{{citation needed|date=September 2014}} Researchers in South Korea are testing clevudine at lower doses in combination with [[adefovir]] for continued use.<ref name="pmid25101150 ">{{cite journal |vauthors=Tak WY, Yang JM, Kim BI, Baik SK, Cheon GJ, Byun KS, Kim DY, Yoo BC |title=A randomized, open-label study comparing low-dose clevudine plus adefovir combination therapy with clevudine monotherapy in naïve chronic hepatitis B patients. |journal=Hepatology International |volume=8 |issue=3 |pages=375–381 |date=May 2014 |pmid=25101150 |display-authors=etal |doi=10.1007/s12072-014-9537-5 |pmc=4116600}}</ref>
+
+It is a [[nucleoside analog]].<ref name="pmid16628625">{{cite journal |vauthors=Lee HS, Chung YH, Lee K |title=A 12-week clevudine therapy showed potent and durable antiviral activity in HBeAg-positive chronic hepatitis B |journal=Hepatology |volume=43 |issue=5 |pages=982–8 |date=May 2006 |pmid=16628625 |doi=10.1002/hep.21166|display-authors=etal}}</ref>
+
+==References==
+{{reflist}}
+
+{{Antivirals}}
+
+[[Category:Nucleoside analog reverse transcriptase inhibitors]]
+[[Category:Pyrimidinediones]]
+[[Category:Organofluorides]]
+[[Category:Arabinosides]]
+[[Category:Halohydrins]]
+
+
+{{antiinfective-drug-stub}}

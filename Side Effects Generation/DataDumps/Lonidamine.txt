@@ -1,0 +1,63 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 444558328
+| IUPAC_name = 1-(2,4-dichlorobenzyl)-1''H''-indazole-3-carboxylic acid
+| image = Lonidamine.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 50264-69-2
+| ATC_prefix = L01
+| ATC_suffix = XX07
+| PubChem = 39562
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = U78804BIDR
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07257
+| ChemSpiderID      = 36170
+
+<!--Chemical data-->
+| C=15 | H=10 | Cl=2 | N=2 | O=2 
+| molecular_weight = 321.158 g/mol
+| smiles            = C1=CC=C2C(=C1)C(=NN2CC3=C(C=C(C=C3)Cl)Cl)C(=O)O
+| StdInChI          = 1S/C15H10Cl2N2O2/c16-10-6-5-9(12(17)7-10)8-19-13-4-2-1-3-11(13)14(18-19)15(20)21/h1-7H,8H2,(H,20,21)
+| StdInChIKey       = WDRYRZXSPDWGEB-UHFFFAOYSA-N
+}}
+'''Lonidamine''' is a derivative of [[indazole-3-carboxylic acid]], which for a long time, has been known to inhibit aerobic [[glycolysis]] in cancer cells. It seems to enhance aerobic glycolysis in normal cells, but suppress glycolysis in cancer cells. This is most likely through the inhibition of the mitochondrially bound [[hexokinase]]. Later studies in [[Ehrlich ascites tumor]] cells showed that lonidamine inhibits both respiration and glycolysis leading to a decrease in cellular ATP.<ref name="pmid16892078">{{cite journal |vauthors=Pelicano H, Martin DS, Xu RH, Huang P |title=Glycolysis inhibition for anticancer treatment |journal=Oncogene |volume=25 |issue=34 |pages=4633–4646 |date=August 2006 |pmid=16892078 |doi= 10.1038/sj.onc.1209597|url=http://www.kosen21.org/upload_repository2/community/01230411451209597a.pdf}}</ref>
+
+Clinical trials of lonidamine in combination with other anticancer agents for a variety of cancers has begun.  This is due to its proven ability to inhibit energy metabolism in cancer cells, and to enhance the activity of anticancer agents.<ref name="pmid16892078" />
+
+Lonidamine has been used in the treatment of brain tumours in combination with radiotherapy and temozolomide.<ref name="pmid19001677"/> An in-vitro study showed that a combination of temozolomide and lonidamine at clinically achievable, low plasma concentrations, could inhibit tumour growth, and lonidamine could reduce the dose of temozolomide required for radiosensitization of brain tumours.<ref name="pmid19001677">{{cite journal |vauthors=Prabhakara S, Kalia VK |title=Optimizing radiotherapy of brain tumours by a combination of temozolomide & lonidamine |journal=Indian J. Med. Res. |volume=128 |issue=2 |pages=140–8 |date=August 2008 |pmid=19001677 |doi= |url=http://www.icmr.nic.in/ijmr/2008/august/0808.pdf}}</ref>
+
+A derivative of lonidamine, [[gamendazole]], is in testing as a possible male [[contraceptive pill]].<ref name=Tash>{{cite journal|last=Tash|first=Joseph|title=A Novel Potent Indazole Carboxylic Acid Derivative Blocks Spermatogenesis and Is Contraceptive in Rats after a Single Oral Dose|journal=Biology of Reproduction|date=July 2008|volume=78|issue=6|pages=1127–1138|doi=10.1095/biolreprod.106.057810|pmid=18218612}}</ref>
+
+==References==
+{{reflist}}
+{{Chemotherapeutic agents}}
+
+[[Category:Antineoplastic drugs]]
+[[Category:Indazoles]]
+
+
+{{antineoplastic-drug-stub}}

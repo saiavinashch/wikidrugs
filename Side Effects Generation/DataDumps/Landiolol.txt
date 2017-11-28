@@ -1,0 +1,83 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 444158636
+| IUPAC_name = [(4S)-2,2-dimethyl-1,3-dioxolan-4-yl]methyl 3-[4-[(2S)-2-hydroxy-3-[2-(morpholine-4-carbonylamino)ethylamino]propoxy]phenyl]propanoate
+| image = Landiolol.png
+| width = 300
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|landiolol}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = [[Intravenous therapy|IV]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 133242-30-5
+| ATC_prefix = C07
+| ATC_suffix = AB14
+| ATC_supplemental = 
+| PubChem = 114905
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 62NWQ924LH
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 102855
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D01847
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=25 | H=39 | N=3 | O=8 
+| molecular_weight = 509.59 g/mol
+| smiles = CC1(OCC(O1)COC(=O)CCC2=CC=C(C=C2)OCC(CNCCNC(=O)N3CCOCC3)O)C
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C25H39N3O8/c1-25(2)35-18-22(36-25)17-34-23(30)8-5-19-3-6-21(7-4-19)33-16-20(29)15-26-9-10-27-24(31)28-11-13-32-14-12-28/h3-4,6-7,20,22,26,29H,5,8-18H2,1-2H3,(H,27,31)/t20-,22+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = WMDSZGFJQKSLLH-RBBKRZOGSA-N
+}}
+
+'''Landiolol''' ([[International Nonproprietary Name|INN]]) is a drug which acts as a highly [[Cardioselective beta-blockers|cardioselective]], ultra short-acting [[beta blocker]]. It is used as an [[antiarrhythmic agent]].
+
+==Mode of action== 
+The drug acts as an ultra-short-acting β1-selective blocking agent. It is rapidly hydrolyzed to an inactive
+form by both [[carboxylesterase]] in the liver and [[pseudocholinesterase]]{{dn|date=May 2017}} in the plasma, resulting in an
+elimination half-life of about 4 minutes. <ref name=yamamoto> {{cite journal |last1= Yamamoto |first1=Natsuko ''et al.'' |last2= |first2= |date=2017 |title=Heart Rate Response to Intravenous Landiolol during Propofol Anesthesia |url=http://doi.org/10.11312/ccm.38.35 |journal=CIRCULATION CONTROL |volume=38 |issue=1 |pages=35-39 |doi=10.11312/ccm.38.35|issn=0389-1844 |access-date=May 10, 2017 }}</ref>
+
+==Preparation==
+The drug was developed by modifying the chemical structure of [[esmolol]] to produce a compound with a higher rate of cardioselectivity and a greater potency without increasing its duration of action. It is sold as landiolol hydrochloride. <ref name=yamamoto/>
+
+== References ==
+{{reflist}}
+*{{cite journal |author=Yoshiya I |title=[Landiolol hydrochloride, a new sympathetic beta blocker] |language=Japanese |journal=Masui |volume=47 Suppl |issue= |pages=S126–32 |date=December 1998 |pmid=9921175 |doi= |url=}}
+*{{cite journal |vauthors=Ogata J, Okamoto T, Minami K |title=Landiolol for the treatment of tachyarrhythmia associated with atrial fibrillation |journal=Can J Anaesth |volume=50 |issue=7 |pages=753 |year=2003 |pmid=12944459 |doi= 10.1007/BF03018726|url=}}
+
+{{Beta blockers}}
+
+[[Category:Beta blockers]]
+[[Category:Antiarrhythmic agents]]
+[[Category:Morpholines]]
+[[Category:Ureas]]
+[[Category:Alcohols]]
+[[Category:Phenol ethers]]
+[[Category:Carboxylate esters]]
+[[Category:Dioxolanes]]
+
+
+{{cardiovascular-drug-stub}}

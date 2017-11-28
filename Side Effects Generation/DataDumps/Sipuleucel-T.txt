@@ -1,0 +1,160 @@
+{{update|date=December 2015}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 423050273
+| image =  
+| width = 
+| alt = 
+| image2 = 
+| width2 = 
+| drug_name = 
+<!-- Vacine data -->
+| type = vaccine
+| target = [[Prostate cancer]]
+| vaccine_type = protein subunit
+<!-- Clinical data -->
+| tradename = Provenge
+| Drugs.com = {{drugs.com|pro|provenge}}
+| MedlinePlus = a611025
+| licence_EU = <!-- EMA requires brand name -->
+| licence_US = <!-- FDA may use generic name -->
+| DailyMedID = <!-- preference to licence_US -->
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = N/A (only approved in men)
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled -->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = Rx-only
+| dependency_liability = 
+| routes_of_administration = [[intravenous therapy|Intravenous]]
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 917381-47-6
+| CAS_supplemental = 
+| ATCvet = 
+| ATC_prefix = L03
+| ATC_suffix = AX17
+| ATC_supplemental = 
+| PubChemSubstance = 85151648
+| IUPHAR_ligand = 
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB06688
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 8Q622VDR18
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D06644
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1237024
+<!-- Chemical data -->
+}}
+
+'''Sipuleucel-T''' (APC8015, trade name '''Provenge'''),<ref name="Plosker_2011"/><ref name="US6210662"/> developed by [[Dendreon]] Corporation, is a cell-based [[cancer immunotherapy]] for [[prostate cancer]] (CaP). It is a personalized treatment that works by programming each patient's immune system to seek out cancer and attack it as if it were foreign.
+
+While referred to as a [[therapeutic vaccine]] rather than a preventive vaccine that prevents infectious disease, sipuleucel-T is instead an [[immunostimulant]].{{citation needed|date=April 2015}}
+
+On February 20, 2015, [[Valeant Pharmaceuticals]] received approval to purchase all Dendreon assets (including Provenge).
+
+The treatment cost $93,000 at FDA approval, rising to over $100,000 in 2014.<ref name="Begley">[https://www.reuters.com/article/2012/10/11/us-drugs-dendreon-provenge-idUSBRE89A15420121011 Exclusive: Questionable data propped up cancer drug Provenge], By Sharon Begley, Reuters, Oct 11, 2012</ref>
+
+== Treatment method ==
+
+A course of treatment consists of three basic steps:
+
+* The patient's white blood cells, primarily [[dendritic cell]]s, a type of [[antigen-presenting cells]] (APCs), are extracted in a [[leukapheresis]] procedure.
+* The blood product is sent to a production facility and incubated with a fusion protein (PA2024) consisting of two parts:
+** The [[antigen]] [[prostatic acid phosphatase]] (PAP), which is present in 95% of prostate cancer cells and
+** An immune signaling factor [[granulocyte-macrophage colony stimulating factor]] (GM-CSF) that helps the APCs to mature.
+*The activated blood product (APC8015) is returned from the production facility to the infusion center and reinfused into the patient.<ref name="Kantoff" /><ref name="Small" />
+
+A complete sipuleucel-T treatment includes three courses at two week intervals.<ref name="pmid16752945" />
+
+== Use ==
+Sipuleucel-T is used to treat people with [[metastatic]], asymptomatic, [[hormone-refractory prostate cancer]] (HRPC).  Other names for this stage are metastatic castrate-resistant (mCRPC) and androgen independent (AI) or (AIPC). This stage leads to mCRPC with lymph node involvement and distal (distant) tumors; this is the lethal stage of CaP. The [[prostate cancer staging]] designation is T4,N1,M1c.<ref name="Kantoff"/><ref name="Small"/><ref name="Longo"/>
+
+==Clinical trials==
+
+=== Completed ===
+Sipuleucel-T showed [[survival rate|overall survival]] (OS) benefit to patients in three double-blind randomized [[phase III clinical trials]], D9901,<ref name="Small"/> D9902a,<ref name="Higano"/><ref name = "ECCO"/> and IMPACT.<ref name="Kantoff"/>
+
+The IMPACT trial<ref name="Kantoff"/> served as the basis for FDA licensing. This trial enrolled 512 patients with asymptomatic or minimally symptomatic metastatic HRPC randomized in a 2:1 ratio. The median survival time for sipuleucel-T patients was 25.8 months comparing to 21.7 months for placebo-treated patients, an increase of 4.1 months.<ref>{{cite book|last1=Lacroix|first1=Marc|title=Targeted Therapies in Cancer|date=2014|publisher=Nova Sciences Publishers|location=Hauppauge, NY|isbn=978-1-63321-687-7|url=https://www.novapublishers.com/catalog/product_info.php?products_id=50994}}</ref>  31.7% of treated patients survived for 36 months vs. 23.0% in the control arm.<ref>{{cite journal|last1=Kantoff|first1=Philip|title=Sipuleucel-T Immunotherapy for Castration-Resistant Prostate Cancer|journal=The New England Journal of Medicine|date=July 29, 2010|url=http://www.nejm.org/doi/full/10.1056/NEJMoa1001294|doi=10.1056/NEJMoa1001294|pmid=20818862|volume=363|issue=5|pages=411–22}}</ref>  Overall survival was [[statistically significant]] (P=0.032). The longer survival without tumor shrinkage or change in progression is surprising. This may suggest the effect of an unmeasured variable.<ref name="Longo"/>  The trial was conducted pursuant to a [[FDA Special Protocol Assessment]] (SPA), a set of guidelines binding trial investigators to specific agreed-upon parameters with respect to trial design, procedures and endpoints; compliance ensured overall scientific integrity and accelerated FDA approval.{{citation needed|date=April 2015}}
+
+The D9901 trial<ref name="Small"/> enrolled 127 patients with asymptomatic metastatic HRPC randomized in a 2:1 ratio. The median survival time for patients treated with sipuleucel-T was 25.9 months comparing to 21.4 months for placebo-treated patients. Overall survival was [[statistically significant]] ([[P-value|P=0.01]]).
+
+The D9902a trial<ref name="Higano"/> was designed like the D9901 trial but enrolled 98 patients. The median survival time for patients treated with sipuleucel-T was 19.0 months comparing to 15.3 months for placebo-treated patients, but did not reach statistical significance.
+
+===In progress===
+As of August 2014, the PRO Treatment and Early Cancer Treatment (PROTECT) trial, a phase IIIB clinical trial started in 2001, was tracking subjects but no longer enrolling new subjects.<ref name="NCT00779402" /> Its purpose is to test efficacy for patients whose CaP is still controlled by either suppression of [[testosterone]] by hormone treatment or by [[surgical castration]]. Such patients have usually failed primary treatment of either surgical removal of the prostate, ([[EBRT]]), internal radiation, [[BNCT]] or ([[HIFU]]) for curative intent. Such failure is called biochemical failure and is defined as a PSA reading of 2.0&nbsp;ng/mL above nadir (the lowest reading taken post primary treatment).<ref name="Roach_2006" />
+
+As of August 2014, a clinical trial administering sipuleucel-T in conjunction with [[ipilimumab]] (Yervoy) was tracking subjects but no longer enrolling new subjects; the trial evaluates the clinical safety and anti-cancer effects (quantified in PSA, radiographic and T cell response) of the combination therapy in patients with advanced prostate cancer.<ref name="sip-T-ipi-trial" />
+
+{{update-section|date=December 2015}}
+
+==Side effects==
+Common side effects include: bladder pain; bloating or swelling of the face, arms, hands, lower legs, or feet; bloody or cloudy urine; body aches or pain; chest pain; chills; confusion; cough; diarrhea; difficult, burning, or painful urination; difficulty with breathing; difficulty with speaking up to inability to speak; double vision; sleeplessnes; and inability to move the arms, legs, or facial muscles.<ref name="MayoClinic1">{{cite web|url=http://www.mayoclinic.org/drugs-supplements/sipuleucel-t-intravenous-route/side-effects/drg-20074285|title=Sipuleucel-T (Intravenous Route) - Side Effects |publisher=Mayo Clinic|accessdate=22 April 2015}}</ref><ref name="FDA1">{{cite web|url=http://www.fda.gov/downloads/BiologicsBloodVaccines/CellularGeneTherapyProducts/ApprovedProducts/UCM210031.pdf|title=Package Insert and Patient Information - Provenge (PDF - 157KB)|publisher=[[U.S. Food and Drug Administration]] (FDA)|accessdate=22 April 2015}}</ref>
+
+== Regulatory approval and reimbursement ==
+
+Sipuleucel-T was approved by the U.S. [[Food and Drug Administration]] (FDA) on April 29, 2010, to treat asymptomatic or minimally symptomatic metastatic HRPC.<ref name="Reuters approved"/><ref name= "FDA approval letter"/>
+
+Shortly afterward, sipuleucel-T was added to the compendium of cancer treatments published by the [[National Comprehensive Cancer Network]] (NCCN) as a "category 1" (highest recommendation) treatment for HRPC. The NCCN Compendium is used by Medicare and major health care insurance providers to decide whether a treatment should be reimbursed.<ref name = "provenge-nccn"/><ref name="about-nccn"/>
+
+== References ==
+{{Reflist | colwidth=30em | refs =
+
+<ref name="Plosker_2011">{{cite journal | author = Plosker GL | title = Sipuleucel-T: in metastatic castration-resistant prostate cancer | journal = Drugs | volume = 71 | issue = 1 | pages = 101–8 |date=January 2011 | pmid = 21175243 | doi = 10.2165/11206840-000000000-00000 | url = }}</ref>
+
+<ref name="US6210662">{{US patent|6210662|Immunostimulatory composition}}</ref>
+
+<ref name="Kantoff">{{cite journal | author = Kantoff PW |author2=Higano CS |author3=Shore ND |author4=Berger ER |author5=Small EJ |author6=Penson DF |author7=Redfern CH |author8=Ferrari AC |author9=Dreicer R |author10=Sims RB |author11=Xu Y |author12=Frohlich MW |author13=Schellhammer PF | title = Sipuleucel-T immunotherapy for castration-resistant prostate cancer | journal = N. Engl. J. Med. | volume = 363 | issue = 5 | pages = 411–22 |date=July 2010 | pmid = 20818862 | doi = 10.1056/NEJMoa1001294 | url = http://www.nejm.org/doi/pdf/10.1056/NEJMoa1001294 | format = PDF }}</ref>
+
+<ref name="Small">{{cite journal |vauthors=Small EJ, Schellhammer PF, Higano CS, Redfern CH, Nemunaitis JJ, Valone FH, Verjee SS, Jones LA, Hershberg RM | title = Placebo-controlled phase III trial of immunologic therapy with sipuleucel-T (APC8015) in patients with metastatic, asymptomatic hormone refractory prostate cancer | journal = J. Clin. Oncol. | volume = 24 | issue = 19 | pages = 3089–94 |date=July 2006 | pmid = 16809734 | doi = 10.1200/JCO.2005.04.5252 | url = http://jco.ascopubs.org/content/24/19/3089.full.pdf }}</ref>
+
+<ref name="pmid16752945">{{cite journal | title = Sipuleucel-T: APC 8015, APC-8015, prostate cancer vaccine - Dendreon | journal = Drugs R D | volume = 7 | issue = 3 | pages = 197–201 | year = 2006 | pmid = 16752945 | doi = 10.2165/00126839-200607030-00006| url = }}</ref>
+
+<ref name="Longo">{{cite journal | author = Longo DL | title = New therapies for castration-resistant prostate cancer | journal = N. Engl. J. Med. | volume = 363 | issue = 5 | pages = 479–81 |date=July 2010 | pmid = 20818868 | doi = 10.1056/NEJMe1006300 | url = }}</ref>
+
+<ref name="Reuters approved">{{cite news | title=U.S. FDA OKs Dendreon's prostate cancer vaccine | author = Richwine L | agency = Reuters| date = 2010-04-29 | url = https://www.reuters.com/article/idUSN2919838820100429 | accessdate = 2010-04-30 }}</ref>
+
+<ref name= "FDA approval letter">{{cite web |url=http://www.fda.gov/BiologicsBloodVaccines/CellularGeneTherapyProducts/ApprovedProducts/ucm210215.htm | title=Approval Letter - Provenge | publisher=[[Food and Drug Administration]] | date=2010-04-29 }}</ref>
+
+<ref name="provenge-nccn">{{cite web | url = http://www.nccn.org/about/news/international_ebulletin/2010-07-26/guidelines_compendium.asp | title = NCCN Guidelines and NCCN Compendium Updated | format = | work = | publisher = | pages = | language = | archiveurl = | archivedate = | quote = | accessdate = 2011-01-08}}</ref>
+
+<ref name="about-nccn">{{cite web | url = http://www.nccn.org/professionals/drug_compendium/content/contents.asp | title = NCCN Drugs & Biologics Compendium | format = | work = | publisher = | pages = | language = | archiveurl = | archivedate = | quote = | accessdate = }}</ref>
+
+<ref name="Higano">{{cite conference |vauthors=Higano C, Burch P, Small E, Schellhammer P, Lemon R, Verjee S, Hershberg R | title = Immunotherapy (APC8015) for androgen independent prostate cancer (AIPC): final progression and survival data from a second Phase 3 trial | conference = 13th European Cancer Conference | location = Paris |date=October 2005 }}</ref>
+
+<ref name = "ECCO" >{{cite news | url = http://www.eurekalert.org/pub_releases/2005-11/foec-nto110205.php | author = Mason K | agency = ECCO-the European CanCer Organisation | date = 2005-11-02 | title = New treatment options for patients with prostate cancer}}</ref>
+
+<ref name="Roach_2006">{{cite journal | author = Roach M |author2=Hanks G |author3=Thames H |author4=Schellhammer P |author5=Shipley WU |author6=Sokol GH |author7= Sandler H  | title = Defining biochemical failure following radiotherapy with or without hormonal therapy in men with clinically localized prostate cancer: recommendations of the RTOG-ASTRO Phoenix Consensus Conference | journal = Int. J. Radiat. Oncol. Biol. Phys. | volume = 65 | issue = 4 | pages = 965–74 |date=July 2006 | pmid = 16798415 | doi = 10.1016/j.ijrobp.2006.04.029 | url = }}</ref>
+
+<ref name="NCT00779402">{{cite web | url = http://clinicaltrials.gov/ct2/show/NCT00779402 | title = NCT00779402: Provenge for the Treatment of Hormone Sensitive Prostate Cancer | format = | work = ClinicalTrials.gov | publisher = US National Institutes of Health | pages = | language = | archiveurl = | archivedate = | quote = | accessdate = }}</ref>
+
+<ref name="sip-T-ipi-trial">{{cite web | url=http://clinicaltrials.gov/ct2/show/NCT01832870?term=sipipi&rank=1 | title=Sipuleucel-T and ipilimumab clinical trials | work = ClinicalTrials.gov | publisher = US National Institutes of Health}}</ref>
+<!-- Unused citations
+<ref name="Huber">{{cite journal | url = http://jnci.oxfordjournals.org/content/104/4/273.full.pdf | author = Huber ML |author2=Haynes L |author3=Parker C |author4=Iversen P | title = Interdisciplinary critique of sipuleucel-T as immunotherapy in castration-resistant prostate cancer | journal = [[Journal of the National Cancer Institute|J. Natl. Cancer Inst.]] | volume = 104 | issue = 4 | pages = 273–9 |date=February 2012 | doi = 10.1093/jnci/djr514 | pmid = 22232132 | pmc = 3283534 }}</ref>
+
+<ref name="CancerImmunotherapyTrials">{{cite journal | url = http://jnci.oxfordjournals.org/content/102/18/1388.full.pdf | title = Improved endpoints for cancer immunotherapy trials | journal = [[Journal of the National Cancer Institute|J. Natl. Cancer Inst.]] |author1=Hoos A |author2=Eggermont AM |author3=Janetzki S |author4=et al. | volume = 102 | issue = 18 | pages = 1388–97 |date=September 2010 | pmid = 20826737 | pmc = 2943524 | doi = 10.1093/jnci/djq310 }}</ref>
+
+<ref name="CMS2010">{{cite web | title = Transcript of Center of Medicare and Medicaid Services Advisory Committee Meeting in November 2010 | url = https://www.cms.gov/faca/downloads/id56d.pdf}}</ref>
+
+<ref name="Sheik">{{cite conference | title = An analysis to quantify the overall survival benefit of sipuleucel-T accounting for the cross-over in the control arm of the IMPACT study| url = http://www.asco.org/ASCOv2/Meetings/Abstracts?&vmview=abst_detail_view&confID=116&abstractID=89651}}</ref>
+ -->
+}}
+
+== External links ==
+* {{Official website|http://www.provenge.com/}}
+* [http://www.fda.gov/BiologicsBloodVaccines/CellularGeneTherapyProducts/ApprovedProducts/ucm210012.htm "Provenge (sipuleucel-T)"]. FDA Vaccines, Blood & Biologics.
+* [http://www.fda.gov/downloads/BiologicsBloodVaccines/CellularGeneTherapyProducts/ApprovedProducts/UCM210031.pdf "Provenge Package Insert and Patient Information"]. FDA.
+* [http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8309b497-5d4e-4408-ac0c-2452c11c8a35 "Provenge"]. Daily Med.
+
+{{NCI-cancer-dict}}
+
+{{Immunostimulants}}
+
+[[Category:Cancer vaccines]]
+[[Category:Prostate cancer]]

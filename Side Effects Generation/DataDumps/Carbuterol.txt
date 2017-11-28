@@ -1,0 +1,68 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 443941802
+| IUPAC_name = (''RS'')-<nowiki/>{5-[2-(tert-butylamino)-1-hydroxyethyl]-2-hydroxyphenyl}urea
+| image = Carbuterol.svg
+| width = 230
+| chirality = [[Racemic mixture]]
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 34866-47-2
+| ATC_prefix = R03
+| ATC_suffix = CC10
+| ATC_supplemental = 
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2110780 
+| PubChem = 36976
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 33928
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0N12JR32MR
+
+<!--Chemical data-->
+| C=13 | H=21 | N=3 | O=3
+| molecular_weight = 267.324 g/mol
+| smiles = O=C(Nc1cc(ccc1O)C(O)CNC(C)(C)C)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C13H21N3O3/c1-13(2,3)15-7-11(18)8-4-5-10(17)9(6-8)16-12(14)19/h4-6,11,15,17-18H,7H2,1-3H3,(H3,14,16,19)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = KEMXXQOFIRIICG-UHFFFAOYSA-N
+}}
+'''Carbuterol''' ([[International Nonproprietary Name|INN]]; '''carbuterol hydrochloride''' [[United States Adopted Name|USAN]]) is a short-acting [[Beta2-adrenergic agonist|β<sub>2</sub> adrenoreceptor agonist]].<ref>{{cite journal|author1=J. R. Wardell, Jr.|author2=D. F. Colella|author3=A. Shetzline|author4=P. J. Fowler|title=Studies on carbuterol (SK&F 40383-A), a new selective bronchodilator agent|journal=JPET |date = April 1974 |volume = 189 |issue=1|pages = 167–184 |url=http://jpet.aspetjournals.org/content/189/1/167.short |pmid = 4823290 }}</ref><ref>Lunts, L. H. C.; Collin, D. T.; German Patent, 1970, {{Cite patent|DE|2032642}}.</ref>
+
+==Synthesis==
+[[File:Carbuterol synthesis.svg|thumb|center|700px|{{patent|DE|2032642}}]]
+
+== References ==
+{{Reflist}}
+
+{{Adrenergic agonists}}
+{{Asthma and copd rx}}
+
+[[Category:Beta2-adrenergic agonists]]
+[[Category:Phenethylamines]]
+[[Category:Ureas]]
+
+{{respiratory-system-drug-stub}}

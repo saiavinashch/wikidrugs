@@ -1,0 +1,116 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 451564721
+| IUPAC_name = 1,3-thiazol-5-ylmethyl [(2''R'',5''R'')-5-<nowiki/>{[(2''S'')-2-[(methyl{[2-(propan-2-yl)-1,3-thiazol-4-yl]methyl}carbamoyl)amino]-4-(morpholin-4-yl)butanoyl]amino}-1,6-diphenylhexan-2-yl]carbamate
+| image = Cobicistat structure.svg
+| width = 275
+| drug_name =
+
+<!--Clinical data-->
+| tradename = Tybost 
+| licence_EU = <!-- EMEA requires brand name -->
+| licence_US = <!-- FDA may use generic name -->
+| DailyMedID = <!-- preference to licence_US -->
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| dependency_liability =  
+| routes_of_administration =
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+<!--Identifiers-->
+| IUPHAR_ligand = 7535
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 1004316-88-4 <!-- {{cascite|correct|CAS}} -->
+| ATC_prefix = V03
+| ATC_suffix = AX03
+| ATC_supplemental = 
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2095208
+| PubChem = 25151504
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 72291
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 25084912
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = LW2E03M5PG
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D09881
+| synonyms =
+<!--Chemical data-->
+| C=40 | H=53 | N=7 | O=5 | S=2
+| molecular_weight = 776.023 g/mol
+| SMILES = CC(C)c1nc(cs1)CN(C)C(=O)NC(CCN2CCOCC2)C(=O)NC(CCC(Cc3ccccc3)NC(=O)OCc4cncs4)Cc5ccccc5
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C40H53N7O5S2/c1-29(2)38-43-34(27-53-38)25-46(3)39(49)45-36(16-17-47-18-20-51-21-19-47)37(48)42-32(22-30-10-6-4-7-11-30)14-15-33(23-31-12-8-5-9-13-31)44-40(50)52-26-35-24-41-28-54-35/h4-13,24,27-29,32-33,36H,14-23,25-26H2,1-3H3,(H,42,48)(H,44,50)(H,45,49)/t32-,33-,36+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ZCIGNRJZKPOIKD-CQXVEOKZSA-N
+| density =  
+| melting_notes =  
+| solubility =  
+| specific_rotation =  
+}}
+
+'''Cobicistat''', with trade name  '''Tybost''' (formerly '''GS-9350''') is a licensed drug for use in the treatment of [[human immunodeficiency virus]] infection ([[HIV/AIDS]]). Its major mechanism of action is through the inhibition of human [[CYP3A]] proteins.<ref>{{cite journal| pmid=20043009 | doi=10.1038/clpt.2009.228 | volume=87 | title=Pharmacokinetics and pharmacodynamics of GS-9350: a novel pharmacokinetic enhancer without anti-HIV activity | year=2010 | journal=Clin Pharmacol Ther | pages=322–9 | last1 = Mathias | first1 = AA | last2 = German | first2 = P | last3 = Murray | first3 = BP | last4 = Wei | first4 = L | last5 = Jain | first5 = A | last6 = West | first6 = S | last7 = Warren | first7 = D | last8 = Hui | first8 = J | last9 = Kearney | first9 = BP}}</ref>
+
+Like [[ritonavir]] (Norvir), cobicistat is of interest for its ability to inhibit liver enzymes that [[Metabolism|metabolize]] other medications used to treat HIV, notably [[elvitegravir]], an HIV [[integrase inhibitor]]. By combining cobicistat with elvitegravir, higher concentrations of the latter are achieved in the body with lower dosing, theoretically enhancing elvitegravir's viral suppression while diminishing its adverse side-effects. In contrast with ritonavir, the only other booster approved for use as a part of [[Management of HIV/AIDS|HAART]], cobicistat has no anti-HIV activity of its own.<ref name = "Highleyman">Highleyman, L.  [http://www.hivandhepatitis.com/2010_conference/icaac/docs/0914_a.html Elvitegravir "Quad" Single-tablet Regimen Shows Continued HIV Suppression at 48 Weeks]. HIV and Hepatitis.com</ref>
+
+Cobicistat is a component of two four-drug, fixed-dose combination HIV treatments. The first, [[elvitegravir/cobicistat/emtricitabine/tenofovir disoproxil]], is marketed as ''Stribild'' and was approved by the FDA in August 2012 for use in the United States.<ref name =  "Highleyman" /><ref>R Elion, J Gathe, B Rashbaum, and others. The Single-Tablet Regimen of Elvitegravir/Cobicistat/Emtricitabine/Tenofovir Disoproxil Fumarate (EVG/COBI/FTC/TDF; Quad) Maintains a High Rate of Virologic Suppression, and Cobicistat (COBI) is an Effective Pharmacoenhancer Through 48 Weeks. 50th Interscience Conference on Antimicrobial Agents and Chemotherapy (ICAAC 2010). Boston, September 12–15, 2010.</ref> The second, elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide, is marketed as ''Genvoya'' and was approved by the FDA in November 2015 for use in the United States. Both Stribild and Genvoya are owned by [[Gilead Sciences]].
+
+Additionally, in existence are a fixed-dose combination of cobicistat and [[Protease inhibitor (pharmacology)|protease inhibitor]] [[darunavir]] (darunavir/cobicistat; marketed as ''Prezcobix'' by Janssen Therapeutics), and a fixed-dose combination of cobicistat and protease inhibitor [[atazanavir]] (atazanavir/cobicistat; marketed as ''Evotaz'' by [[Bristol-Myers Squibb]]). Both Prezcobix and Evotaz were approved by the FDA in January 2015.
+
+Cobicistat is a potent inhibitor of [[cytochrome P450]] 3A enzymes, including the important [[CYP3A4]] subtype.  It also inhibits intestinal transport proteins, increasing the overall absorption of several HIV medications, including [[atazanavir]], [[darunavir]], and [[tenofovir alafenamide]].<ref>{{Cite journal 
+| last1 = Lepist | first1 = E. -I. 
+| last2 = Phan | first2 = T. K. 
+| last3 = Roy | first3 = A. 
+| last4 = Tong | first4 = L. 
+| last5 = MacLennan | first5 = K. 
+| last6 = Murray | first6 = B. 
+| last7 = Ray | first7 = A. S. 
+| doi = 10.1128/AAC.01089-12 
+| title = Cobicistat Boosts the Intestinal Absorption of Transport Substrates, Including HIV Protease Inhibitors and GS-7340, in Vitro 
+| journal = Antimicrobial Agents and Chemotherapy 
+| volume = 56 
+| issue = 10 
+| pages = 5409–5413 
+| year = 2012 
+| pmid = 22850510 
+| pmc =3457391 
+}}</ref>
+
+==Chemistry==
+
+Cobicistat is a drug analogue of [[ritonavir]], in which the [[valine]] moiety is exchanged for a [[Morpholine|2-morpholinoethyl]] group, and the backbone [[Hydroxy group|hydroxyl]] group is removed. These changes effectively eliminate the anti-HIV activity of ritonavir while preserving its inhibitory effects on the [[CYP3A|CYP3A isozyme]] family of proteins.<ref>{{cite journal|doi=10.1021/ml1000257 | volume=1 | issue=5 | title=Cobicistat (GS-9350): A Potent and Selective Inhibitor of Human CYP3A as a Novel Pharmacoenhancer | year=2010 | journal=ACS Medicinal Chemistry Letters | pages=209–213 | last1 = Xu | first1 = Lianhong | last2 = Liu | first2 = Hongtao | last3 = Murray | first3 = Bernard P. | last4 = Callebaut | first4 = Christian | last5 = Lee | first5 = Melody S. | last6 = Hong | first6 = Allen | last7 = Strickley | first7 = Robert G. | last8 = Tsai | first8 = Luong K. | last9 = Stray | first9 = Kirsten M. | last10 = Wang | first10 = Yujin | last11 = Rhodes | first11 = Gerry R. | last12 = Desai | first12 = Manoj C.}}</ref> Cobicistat is therefore able to increase plasma concentration of other coadministered anti-HIV drugs without the risk of causing cobicistat-resistant [[HIV drug resistance|mutations]] in the HIV virus.
+
+===Synthesis===
+
+Cobicistat may be synthesized from any number of commercially available starting materials. The synthesis shown below utilizes [[L-methionine]] and [[bromoacetic acid]] as starting materials.<ref>[https://patentscope.wipo.int/search/docservicepdf_pct/id00000034552647/PAMPH/WO2016128885.pdf WO 2016128885]</ref>
+
+[[File:Cobicistat WO 2016128885 page 4.png|Synthesis of Cobicistat (GS-9350) from page 4 of patent WO 2016128885, published August 18, 2016.]]
+
+==Discovery and development ==
+
+Cobicistat was developed through [[Structure activity relationship|structure-activity relationship]] studies using [[ritonavir]] and desoxyritonavir as lead compounds. These studies were conducted by scientists at [[Gilead Sciences]], and successfully optimized ritonavir into a potent CYP3A inhibitor lacking anti-HIV activity. Cobicistat shows potent, selective inhibition of the CYP3A isozyme family ([[IC50|IC<sub>50</sub>]] 0.15 μM) compared to some [[CYP1A]] and [[CYP2C]] isozymes.<ref>{{cite journal | pmid = 24412072 |doi=10.1016/j.bmcl.2013.12.057 | volume=24 | title=Structure-activity relationships of diamine inhibitors of cytochrome P450 (CYP) 3A as novel pharmacoenhancers. Part II: P2/P3 region and discovery of cobicistat (GS-9350) | journal=Bioorg Med Chem Lett | pages=995–9 | last1 = Xu | first1 = L | last2 = Liu | first2 = H | last3 = Hong | first3 = A | last4 = Vivian | first4 = R | last5 = Murray | first5 = BP | last6 = Callebaut | first6 = C | last7 = Choi | first7 = YC | last8 = Lee | first8 = MS | last9 = Chau | first9 = J | last10 = Tsai | first10 = LK | last11 = Stray | first11 = KM | last12 = Strickley | first12 = RG | last13 = Wang | first13 = J | last14 = Tong | first14 = L | last15 = Swaminathan | first15 = S | last16 = Rhodes | first16 = GR | last17 = Desai | first17 = MC | year=2014}}</ref> As cobicistat was discovered using structure-activity relationship studies, its CYP3A binding is still poorly understood; however, research on the protein-ligand interactions between [[CYP3A4]] and ritonavir analogues<ref>{{cite journal|doi=10.1021/bi4005396 | volume=52 | issue=26 | title=Dissecting Cytochrome P450 3A4–Ligand Interactions Using Ritonavir Analogues | year=2013 | journal=Biochemistry | pages=4474–4481 | last1 = Sevrioukova | first1 = Irina F. | last2 = Poulos | first2 = Thomas L.}}</ref> demonstrates that CYP 3A4 residues [[Isoleucine|Ile369]], [[Alanine|Ala370]], [[Methionine|Met371]], as well as [[Arginine|Arg105]] and [[Serine|Ser119]], play an important role in ritonavir analogue inhibition of CYP3A4.<ref>{{cite journal | pmid = 20937904 |doi=10.1073/pnas.1010693107 | volume=107 | title=Structure and mechanism of the complex between cytochrome P4503A4 and ritonavir | pmc=2973003 | journal=Proc Natl Acad Sci U S A | pages=18422–7 | last1 = Sevrioukova | first1 = IF | last2 = Poulos | first2 = TL | year=2010}}</ref><ref>[http://www.rcsb.org/pdb/explore/explore.do?structureId=3NXU PDB 3NXU]</ref>
+
+==References==
+{{Reflist|2}}
+
+{{Antiretroviral drug}}
+
+[[Category:Cytochrome P450 inhibitors]]
+[[Category:Thiazoles]]
+[[Category:Morpholines]]
+[[Category:Carbamates]]
+[[Category:Ureas]]

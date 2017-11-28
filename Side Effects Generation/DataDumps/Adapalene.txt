@@ -1,0 +1,98 @@
+{{Drugbox
+| verifiedrevid = 477242061
+| IUPAC_name = 6-[3-(1-adamantyl)-4-methoxy-phenyl] naphthalene-2-carboxylic acid
+| image = Adapalene structure.svg
+| width = 240px
+| image2 = Adapalene-3D-balls.png
+| width2 = 220px
+<!--Clinical data-->
+| tradename = Differin, Teva, Pimpal, Gallet, Adelene, Adeferin
+| Drugs.com = {{drugs.com|monograph|adapalene}}
+| MedlinePlus = a604001
+| licence_US = Adapalene
+| pregnancy_AU = D
+| pregnancy_US = C
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = OTC
+| legal_US_comment = / [[prescription drug|℞-only]]
+| routes_of_administration = [[Topical]]
+<!--Pharmacokinetic data-->
+| bioavailability = Very low
+| excretion = [[Bile duct|Biliary]]
+<!--Identifiers-->
+| IUPHAR_ligand = 5429
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 106685-40-9
+| ATC_prefix = D10
+| ATC_suffix = AD03
+| PubChem = 60164
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00210
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 54244
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 1L4806J2QF
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01112
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 31174
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1265
+<!--Chemical data-->
+| C=28 | H=28
+| O=3
+| molecular_weight = 412.52 g/mol
+| smiles = O=C(O)c2ccc1cc(ccc1c2)c3cc(c(OC)cc3)C46CC5CC(CC(C4)C5)C6
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C28H28O3/c1-31-26-7-6-23(21-2-3-22-12-24(27(29)30)5-4-20(22)11-21)13-25(26)28-14-17-8-18(15-28)10-19(9-17)16-28/h2-7,11-13,17-19H,8-10,14-16H2,1H3,(H,29,30)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = LZCDAPDGXCYOEH-UHFFFAOYSA-N
+}}
+
+'''Adapalene''' is a third-generation topical [[retinoid]] primarily used in the treatment of mild-moderate [[Acne vulgaris|acne]], and is also used [[off-label use|off-label]] to treat [[keratosis pilaris]] as well as other skin conditions.<ref>{{cite journal | author = Rolewski S | title = Clinical review: topical retinoids | journal = Dermatol Nurs | volume = 15 | issue = 5 | pages = 447–50, 459–65 | year = 2003 | pmid = 14619325 | url = http://www.medscape.com/viewarticle/464026}}</ref> It is effective against acne conditions where [[comedo]]nes are predominant.
+
+==Medical uses==
+It is used for the treatment of acne.<ref name=FDA2016>{{cite web|title=FDA approves Differin Gel 0.1% for over-the-counter use to treat acne|url=http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm510362.htm|accessdate=14 July 2016|date=July 8, 2016}}</ref>
+
+==Side effects==
+There is no evidence that the cream causes problems in the baby if used during pregnancy but this use has not been well studied.<ref name=FDA2016/>
+
+==Interactions==
+Adapalene has been shown to enhance the efficacy of topical [[clindamycin]], although adverse effects are also increased.<ref name="Wolf">{{cite journal |vauthors =Wolf JE, Kaplan D, Kraus SJ |title=Efficacy and tolerability of combined topical treatment of acne vulgaris with adapalene and clindamycin: a multicenter, randomized, investigator-blinded study |journal=J Am Acad Dermatol |volume=49 |issue=3 Suppl |pages=S211–7 |year=2003 |pmid=12963897|doi=10.1067/S0190-9622(03)01152-6|display-authors=etal}}</ref> Application of adapalene gel to the skin 3–5 minutes before application of clindamycin enhances penetration of clindamycin into the skin, which may enhance the overall efficacy of the treatment as compared to clindamycin alone.<ref name="Jain">{{cite journal |vauthors =Jain GK, Ahmed FJ |title=Adapalene pretreatment increases follicular penetration of clindamycin: in vitro and in vivo studies |journal=Indian J Dermatol Venereol Leprol |volume=73 |issue=5 |pages=326–9 |year=2007 |pmid=17921613 |doi=10.4103/0378-6323.34010}}</ref>
+
+== Pharmacology ==
+Unlike the retinoid [[tretinoin]] (Retin-A), adapalene has also been shown to retain its efficacy when applied at the same time as [[benzoyl peroxide]] due to its more stable chemical structure.<ref>{{cite journal |vauthors =Martin B, Meunier C, Montels D, Watts O |title=Chemical stability of adapalene and tretinoin when combined with benzoyl peroxide in presence and in absence of visible light and ultraviolet radiation |journal=Br J Dermatol |volume=139 Suppl 52 |issue= |pages=8–11 |date=October 1998|pmid=9990414 |doi= 10.1046/j.1365-2133.1998.1390s2008.x|url=}}</ref>
+
+=== Pharmacokinetics ===
+Absorption of adapalene through the skin is low. A study with six acne patients treated once daily for five days with two grams of adapalene cream applied to 1000&nbsp;cm² of skin found no quantifiable amounts, or less than 0.35&nbsp;ng/mL of the drug, in the patients' blood plasma.<ref name="productLabel">{{Cite web  | title = DIFFERIN® (adapalene) Cream, 0.1% Label | publisher = FDA | date = May 25, 2000  | url = http://www.accessdata.fda.gov/drugsatfda_docs/label/2000/20748lbl.pdf  | accessdate = 4 Oct 2011}}</ref>
+
+=== Pharmacodynamics ===
+Unlike [[tretinoin]], adapalene inhibits [[keratinocyte]] differentiation. This inhibition of keratinocyte differentiation and proliferation is responsible for adapalene’s comedolytic effect. It has both exfoliating and anti-inflammatory effects. In an in vivo study, adapalene’s ability to reduce comedo formation was demonstrated by a 50–60% reduction in comedo counts compared with vehicle.<ref>{{cite journal |vauthors =Czernielewski J, Michel S, Bouclier M, Baker M, Hensby C |title=Adapalene biochemistry and the evolution of a new topical retinoid for treatment of acne |journal=J Eur Acad Dermatol Venereol |volume=15 |issue=s3 |pages=5–12 |date=December 2001|pmid=11843234 |doi= 10.1046/j.0926-9959.2001.00006.x|url=http://onlinelibrary.wiley.com/doi/10.1046/j.0926-9959.2001.00006.x/full}}</ref>
+
+== History ==
+Adapalene is a research product of Galderma Laboratories, France.<ref name="GalermaPatent">{{cite patent
+| country= US | number= 4717720A | status= Patent | title= Benzonaphthalene derivatives and compositions | pubdate= 1988-01-05 | gdate         = 1988-01-05 | fdate= 1986-04-10 | pridate= 1985-04-11 | inventor= Shroot B, Eustache J, Bernardon J-M | invent1= | invent2=  | assign1= Galderma Research and Development SNC | assign2= | class         = | url= https://patents.google.com/patent/US4717720}}</ref> Adapalene was approved in 1996 by the [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]] (FDA) for use in the treatment of acne.<ref name="FDAapproval">{{Cite web  | title = FDA approval of DIFFERIN® (adapalene) Solution, 0.1% | publisher = FDA | date = May 31, 1996  | url = https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=020338  | accessdate = 29 May 2017}}</ref>
+
+==Available forms==
+[[File:AdapaleneTube.jpg|thumb|left|Tube of generic adapalene]]
+In the [[United States]], adapalene is available under the brand name Differin in three different preparations: 0.1% cream, 0.1% gel, and 0.3% gel.<ref>[http://www.differin.com/AboutDifferin/Default.aspx About Differin<!-- Bot generated title -->] {{webarchive |url=https://web.archive.org/web/20080509123038/http://www.differin.com/AboutDifferin/Default.aspx |date=May 9, 2008 }}</ref> The 0.1% gel is available as a generic made by [[Teva Pharmaceutical Industries|Teva]].<ref>{{Cite web|title=Teva Introduces Adapalene Gel, 0.1%|publisher=PharmQD | date = 4 June 2010  | url = http://www.pharmqd.com/pharmacy-news/teva-introduces-adapalene-gel-01  | accessdate = 30 Aug 2011}}</ref><ref>{{Cite web|last=Webber |first=Keith |title=FDA Approval Letter |publisher=Department of Health and Human Services |date=2 June 2010 |url=http://www.tevausa.com/assets/base/products/fda/Adap_090962.pdf |accessdate=30 August 2011 }}{{dead link|date=June 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> It is also available combined with [[benzoyl peroxide]] under the brand name [[Adapalene/benzoyl peroxide|Epiduo]].<ref name="EpiduoApprovalLetter">{{Cite web | title = EPIDUO® (adapalene and benzoyl peroxide) Gel 0.1%/2.5% Approval Letter | publisher = FDA | date = Dec 8, 2008  | url = https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2008/022320s000ltr.pdf  | accessdate = 29 May 2017}}</ref> In [[Europe]], only the 0.1% cream and 0.1% gel are available. Adapalene is currently marketed by Galderma under the trade names Differin in some countries, and Adaferin in [[India]].<ref>http://www.drugsupdate.com/brand/generic/Adapalene/7099/none/2</ref> It is mostly available in 0.1% w/w gel form.
+
+As of July 8, 2016, Galderma received approval from the U.S. Food and Drug Administration (FDA) for Differin Gel (adapalene gel 0.1%) as an over-the-counter (OTC) treatment for acne.<ref name=FDA2016/>
+
+==References==
+{{reflist|30em}}
+
+== External links ==
+* [http://www.drugbank.ca/drugs/DB00210 Adapalene General Information, Patient Information, Contraindications and Interactions]
+* [http://www.epiduo.com/Includes/PDF/BriefSummary.pdf Epiduo Prescribing Information]
+
+{{Acne agents}}
+{{Retinoid receptor modulators}}
+
+[[Category:Anti-acne preparations]]
+[[Category:Retinoids]]
+[[Category:Naphthoic acids]]
+[[Category:Adamantanes]]
+[[Category:Phenol ethers]]

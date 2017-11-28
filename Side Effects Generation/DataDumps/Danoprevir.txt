@@ -1,0 +1,67 @@
+{{Drugbox
+| IUPAC_name = (2''R'',6''S'',12''Z'',13a''S'',14a''R'',16a''S'')-6-[(''tert''-Butoxycarbonyl)amino]-14a-[''N''-(cyclopropanesulfonyl)carbamoyl]-5,16-dioxo- 1,2,3,5,6,7,8,9,10,11,13a,14,14a,15,16,16a-hexadecahydrocyclopropa[''e'']pyrrolo[1,2-''a''][1,4]diazacyclopentadecin-2-yl 4-fluoro-1,3-dihydro-2''H''-isoindole-2-carboxylate
+| image = Danoprevir.svg
+| width = 285
+
+<!--Clinical data-->
+| tradename =
+| Drugs.com =
+| licence_US =
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US =
+| pregnancy_category =
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US =
+| legal_status = Investigational
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number = 850876-88-9
+| ATC_prefix = None
+| ATC_suffix =
+| PubChem = 56841889
+| ChemSpiderID = 9460579
+| UNII = 911Z9PCQ5F
+| KEGG = D09884
+| ChEMBL = 2311191
+| NIAID_ChemDB = 488730
+| PDB_ligand = TSV
+| synonyms = ITMN-191, RG-7227
+
+<!--Chemical data-->
+| chemical_formula =
+| C = 35 | H = 46 | F = 1 | N=5 | O=9 | S=1
+| molecular_weight =
+| smiles = CC(C)(C)OC(=O)N[C@@H]1CCCCC\C=C/[C@@H]2C[C@]2(NC(=O)[C@@H]3C[C@H](CN3C1=O)OC(=O)N4Cc5cccc(F)c5C4)C(=O)NS(=O)(=O)C6CC6
+| StdInChI = 1S/C35H46FN5O9S/c1-34(2,3)50-32(45)37-27-13-8-6-4-5-7-11-22-17-35(22,31(44)39-51(47,48)24-14-15-24)38-29(42)28-16-23(19-41(28)30(27)43)49-33(46)40-18-21-10-9-12-26(36)25(21)20-40/h7,9-12,22-24,27-28H,4-6,8,13-20H2,1-3H3,(H,37,45)(H,38,42)(H,39,44)/b11-7-/t22-,23-,27-,28+,35-/m1/s1
+| StdInChIKey = ZVTDLPBHTSMEJZ-UPZRXNBOSA-N
+}}
+
+'''Danoprevir''' ([[International nonproprietary name|INN]])<ref name = "INN">{{cite web | title = International Nonproprietary Names for Pharmaceutical Substances (INN). Recommended International Nonproprietary Names: List 64 | url = http://www.who.int/medicines/publications/druginformation/innlists/RL64.pdf | publisher = World Health Organization | accessdate = 25 February 2017 | page = 265}}</ref> is an orally available<ref name = "Deutsch">{{cite journal | last1 = Deutsch | first1 = M | last2 = Papatheodoridis | first2 = GV | title = Danoprevir, a Small-Molecule NS3/4A Protease Inhibitor for the Potential Oral Treatment of HCV Infection | journal = Current Opinion in Investigational Drugs | date = August 2010 | volume = 11 | issue = 8 | pages = 951–63 | pmid = 20721837 | accessdate = 25 February 2017}}</ref> 15-membered macrocyclic peptidomimetic inhibitor of [[NS3 (HCV)|NS3]]/[[NS4A|4A]] [[Hepatitis C virus|HCV]] protease.<ref name = "Jiang">{{cite journal | last1 = Jiang|first1 = Y|last2 = Andrews|first2 = SW|last3 = Condroski|first3 = KR|last4 = Buckman|first4 = B|last5 = Serebryany|first5 = V|last6 = Wenglowsky|first6 = S|last7 = Kennedy|first7 = AL|last8 = Madduru|first8 = MR|last9 = Wang|first9 = B|last10 = Lyon|first10 = M|last11 = Doherty|first11 = GA|last12 = Woodard|first12 = BT|last13 = Lemieux|first13 = C|last14 = Geck Do|first14 = M|last15 = Zhang|first15 = H|last16 = Ballard|first16 = J|last17 = Vigers|first17 = G|last18 = Brandhuber|first18 = BJ|last19 = Stengel|first19 = P|last20 = Josey|first20 = JA|last21 = Beigelman|first21 = L|last22 = Blatt|first22 = L|last23 = Seiwert|first23 = SD|title = Discovery of Danoprevir (ITMN-191/R7227), a Highly Selective and Potent Inhibitor of Hepatitis C Virus (HCV) NS3/4A Protease|journal = Journal of Medicinal Chemistry|date = 13 March 2014|volume = 57|issue = 5|pages = 1753–69|doi = 10.1021/jm400164c|pmid = 23672640|accessdate = 25 February 2017}}</ref> It contains acylsulfonamide, fluoroisoindole and ''tert''-butyl carbamate moieties. Danoprevir is a clinical candidate based on its favorable potency profile against multiple HCV genotypes 1–6 and key mutants (GT1b, [[IC50|IC<sub>50</sub>]] = 0.2–0.4 nM; replicon GT1b, [[EC50|EC<sub>50</sub>]] = 1.6 nM).<ref>{{cite book | editor1-last = Levin | editor1-first = Jeremy | title = Macrocycles in Drug Discovery | date = 2015 | publisher = The Royal Society of Chemistry | isbn = 978-1-84973-701-2 | url = http://dx.doi.org/10.1039/9781782623113 | chapter = 7.4.1 Danoprevir (ITMN-191)}}</ref>
+
+==References==
+{{reflist}}
+
+==Further reading==
+{{cite journal | last1 = Seiwert | first1 = SD | last2 = Andrews | first2 = SW | last3 = Jiang | first3 = Y | last4 = Serebryany | first4 = V | last5 = Tan | first5 = H | last6 = Kossen | first6 = K | last7 = Rajagopalan | first7 = PT | last8 = Misialek | first8 = S | last9 = Stevens | first9 = SK | last10 = Stoycheva | first10 = A | last11 = Hong | first11 = J | last12 = Lim | first12 = SR | last13 = Qin | first13 = X | last14 = Rieger | first14 = R | last15 = Condroski | first15 = KR | last16 = Zhang | first16 = H | last17 = Do | first17 = MG | last18 = Lemieux | first18 = C | last19 = Hingorani | first19 = GP | last20 = Hartley | first20 = DP | last21 = Josey | first21 = JA | last22 = Pan | first22 = L | last23 = Beigelman | first23 = L | last24 = Blatt | first24 = LM | title = Preclinical Characteristics of the Hepatitis C Virus NS3/4A Protease Inhibitor ITMN-191 (R7227) | journal = Antimicrobial Agents and Chemotherapy | date = December 2008 | volume = 52 | issue = 12 | pages = 4432–41 | doi = 10.1128/AAC.00699-08 | pmid = 18824605 | accessdate = 25 February 2017 | pmc = 2592891}}
+
+{{RNA antivirals}}
+
+[[Category:Carbamates]]
+[[Category:Cyclopropanes]]
+[[Category:Macrocycles]]
+[[Category:NS3/4A protease inhibitors]]
+[[Category:Organofluorides]]
+[[Category:Pyrrolidines]]
+[[Category:Sulfonamides]]
+
+{{antiinfective-drug-stub}}

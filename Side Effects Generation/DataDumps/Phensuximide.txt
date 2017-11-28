@@ -1,0 +1,65 @@
+{{Drugbox
+| verifiedrevid = 464200749
+| IUPAC_name = 1-methyl-3-phenyl-pyrrolidine-2,5-dione
+| image = Phensuximide.svg
+| width = 140
+
+<!--Clinical data-->
+| tradename =
+| MedlinePlus = a682237
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status =
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound = 21%
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7612
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 86-34-0
+| ATC_prefix = N03
+| ATC_suffix = AD02
+| ATC_supplemental =
+| PubChem = 6839
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00832
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 6578
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 6WVL9C355G
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00508
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 797
+
+<!--Chemical data-->
+| C=11 | H=11 | N=1 | O=2
+| molecular_weight = 189.211 g/mol
+| smiles = O=C2N(C(=O)CC2c1ccccc1)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C11H11NO2/c1-12-10(13)7-9(11(12)14)8-5-3-2-4-6-8/h2-6,9H,7H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WLWFNJKHKGIJNW-UHFFFAOYSA-N
+}}
+
+'''Phensuximide''' is an [[anticonvulsant]] in the [[succinimide]] class.
+
+==External links==
+* {{DiseasesDB|31648}}
+* {{cite journal |vauthors=Rankin G, Cressey-Veneziano K, Wang R, Brown P | title = Urinary tract effects of phensuximide in the Sprague-Dawley and Fischer 344 rat. | journal = J Appl Toxicol | volume = 6 | issue = 5 | pages = 349–56 | year = 1986 | pmid = 3772011 | doi = 10.1002/jat.2550060509}}
+
+{{Anticonvulsants}}
+
+[[Category:Succinimides]]
+
+{{anticonvulsant-stub}}

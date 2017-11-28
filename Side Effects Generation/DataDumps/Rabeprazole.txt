@@ -1,0 +1,247 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 462080585
+| IUPAC_name = (''RS'')-2-([4-(3-methoxypropoxy)-3-methylpyridin-2-yl]methylsulfinyl)-1''H''-benzo[''d'']imidazole
+| image = rabeprazole.png
+| width = 240
+| image2 = rabeprazole3d.png
+| width2 = 240
+| chirality = [[Racemic mixture]]
+<!--Clinical data-->
+| pronounce = {{IPAc-en|ˌ|r|æ|.|ˈ|b|ɛ|p|.|r|æ|.|z|ɔː|l}}
+| tradename = AcipHex, others
+| Drugs.com = {{drugs.com|monograph|aciphex}}
+| MedlinePlus = a699060
+| licence_US = Rabeprazole
+| pregnancy_US = B
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = by mouth
+| class            = [[proton pump inhibitor]]<ref name="Langtry Review" />
+<!--Pharmacokinetic data-->
+| bioavailability = 52%<ref name="Dadabhai review">{{cite journal|last1=Dadabhai|first1=Alia|last2=Friedenberg|first2=Frank K|title=Rabeprazole: a pharmacologic and clinical review for acid-related disorders|journal=Expert Opinion on Drug Safety|date=17 January 2009|volume=8|issue=1|pages=119–126|doi=10.1517/14740330802622892}}</ref>
+| protein_bound     = 96.3%<ref name="Langtry Review">{{cite journal|last1=Langtry|first1=HD|last2=Markham|first2=A|title=Rabeprazole: a review of its use in acid-related gastrointestinal disorders.|journal=Drugs|date=October 1999|volume=58|issue=4|pages=725–42|pmid=10551440}}</ref>
+| metabolism = [[CYP2C19]] and [[CYP3A4]] in the liver<ref name="Langtry Review" />
+| metabolites       = thioether carboyxlic acid metabolite, thioether glucuronide metabolite, sulfone metabolite<ref name="Langtry Review" />
+| onset             = 
+| elimination_half-life = ~1 hour<ref name="Langtry Review" />
+| duration_of_action =
+| excretion = 90% via [[kidney]] as metabolites<ref name="PubChem">{{cite web|title=rabeprazole|url=https://pubchem.ncbi.nlm.nih.gov/compound/rabeprazole#section=ATC-Code|website=pubchem.ncbi.nlm.nih.gov|publisher=NCBI|accessdate=9 October 2017}}</ref>
+<!--Identifiers-->
+| IUPHAR_ligand = 7290
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 117976-89-3
+| ATC_prefix = A02
+| ATC_suffix = BC04
+| PubChem = 5029
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01129
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4853
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 32828355LL
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 8768
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1219
+| PDB_ligand = RZX
+<!--Chemical data-->
+| C=18 | H=21 | N=3 | O=3 | S=1
+| molecular_weight = 359.444 g/mol
+| smiles = n1c2ccccc2[nH]c1S(=O)Cc3nccc(c3C)OCCCOC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C18H21N3O3S/c1-13-16(19-9-8-17(13)24-11-5-10-23-2)12-25(22)18-20-14-6-3-4-7-15(14)21-18/h3-4,6-9H,5,10-12H2,1-2H3,(H,20,21)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YREYEVIYCVEVJK-UHFFFAOYSA-N
+}}
+
+'''Rabeprazole''' is an antiulcer drug of the [[proton pump inhibitor]] class. It is used to suppress gastric acid production for a number of medical uses. Its adverse effects tend to be mild, but can be serious. Rabeprazole can contribute to numerous [[drug interactions]], mediated both through its metabolic properties and its direct effect on acid in the [[stomach]].
+
+==Medical uses==
+[[Image:Aciphex-sample-bottle.jpg|thumb|right|Bottle of rabeprazole 20 mg tablets.]]
+Rabeprazole, like other [[proton pump inhibitors]] such as [[omeprazole]], is used for the purposes of gastric acid suppression. This effect is beneficial for the treatment and prevention of conditions in which gastric acid directly worsens symptoms (e.g. duodenal and gastric ulcers, gastroesophageal reflux disease ([[GERD]])). Acid suppression is also useful when gastric production of acid is increased, including hypersecretory (too much secretion) conditions like Zollinger-Ellison syndrome, multiple endocrine adenomas, and systemic mastocytosis. Rabeprazole is also useful alongside antibiotic therapy for the treatment of the pathogen ''[[Helicobacter pylori]]'', which otherwise thrives in acidic environments.<ref name="Dadabhai review" />
+
+Thus, rabeprazole is [[FDA]] approved for the treatment of symptomatic GERD in adolescents and adults, healing duodenal ulcers in adults, eradication of ''[[Helicobacter pylori]]'', and pathologic hypersecretory conditions.<ref name="Drugs.com Monograph">{{cite web|title=Rabeprazole - FDA prescribing information, side effects and uses|url=https://www.drugs.com/pro/rabeprazole.html|website=drugs.com|publisher=Drugs.com|accessdate=5 October 2017}}</ref>
+
+===Available forms===
+The only available formulation of rabeprazole is in 20&nbsp;mg, delayed-release tablets (pictured below).<ref name="Drugs.com Monograph" />
+
+===Specific populations===
+====Pediatrics====
+Rabeprazole's only pediatric indication is for the treatment of symptomatic GERD in adolescents (12 years-old and up).<ref name="Drugs.com Monograph" />
+
+====Pregnancy====
+Studies using animals models to investigate the likelihood for rabeprazole to cause harm to fetuses have not yet shown evidence of harm, though avoidance of rabeprazole during pregnancy (especially during the critical development period of the first trimester) is considered to be the safest possible route until human studies clarify the exact risk.<ref name="Dadabhai review" />
+
+====Lactation====
+It is expected that rabeprazole will be secreted into human breast milk, though the clinical impact of this is still unknown. In general, the safest possible route is to avoid using rabeprazole while breast feeding.<ref name="Dadabhai review" />
+
+====Geriatrics====
+Advanced age does not appear to clinically impact rabeprazole's metabolism.<ref name="Langtry Review" /> However, elevations in the maximum plasma concentration and the total drug exposure (area under the curve, AUC) have occurred.<ref name="Dadabhai review" />
+
+====Japanese ancestry====
+In a study on rabeprazole's [[pharmacokinetics]], the AUC was elevated by approximately 50-60% in individuals of [[Japanese people|Japanese]] ancestry.<ref name="Rabeprazole Drug Approval" /> See the [[Rabeprazole#Pharmacogenetics|pharmacogenetics section]] below for a pharmacogenetic explanation of these findings.
+
+====Renal or hepatic dysfunction====
+In people that have kidney or liver problems, these problems do not appear to affect rabeprazole's metabolism in a clinically meaningful way. This includes individuals on [[dialysis]] for kidney problems. Severe liver problems like [[cirrhosis]] of the liver do affect rabeprazole's elimination half-life, but not to the degree that dangerous accumulation of the drug in the plasma would be expected to occur.<ref name="Langtry Review" />
+
+==Contraindications==
+Rabeprazole is contraindicated in the following populations and situations:<ref name="Drugs.com Monograph" />
+*people with a known hypersensitivity to rabeprazole, substituted [[benzimidazoles]] (which are chemically similar to rabeprazole, like [[omeprazole]]), or any other component of the capsule formulation (e.g. certain dyes)
+*concurrent use of [[rilpivirine]], a medication used to treat [[HIV]] infection
+
+==Adverse effects==
+In general, rabeprazole is fairly well tolerated. The [[side effect]] profile is similar to that of [[omeprazole]]. However, the most common side effects include [[headache]] and [[diarrhea]]. Rare side effects include rashes, flu-like symptoms, and infections.<ref name="Langtry Review" /> Rare instances of rabeprazole-induced [[liver]] injury (hepatotoxicity) have been reported in the literature. Characteristic proton-pump inhibitor hepatoxicity usually occurs within the first 4 weeks of starting the medication.<ref name="Livertox Rabeprazole" />
+
+Acid suppression via rabeprazole can decrease the absorption of [[vitamin B12]] and [[magnesium]], leading to deficiency.<ref name="Drugs.com Monograph" />
+
+Very serious side effects have been reported in people taking rabeprazole, but it is unclear if these effects were due to rabeprazole or extenuating circumstances. These include [[Stevens-Johnson syndrome]], serious [[hematology|hematological]] abnormalities, coma, and death.<ref name="Dadabhai review" /> Theoretical side effects, common to other PPIs medications in the same class, include bone fractures due to [[osteoporosis]] and serious infections with ''[[Clostridium difficile (bacteria)|Clostridium difficile]]''.<ref name="Drugs.com Monograph" />
+
+==Overdose==
+No signs and symptoms have been reported in overdoses of rabeprazole up to 80&nbsp;mg, but case examples are limited.<ref name="NLM Toxnet Rabeprazole">{{cite web|title=Rabeprazole - National Library of Medicine HSDB Database|url=https://toxnet.nlm.nih.gov/cgi-bin/sis/search/a?dbs+hsdb:@term+@DOCNO+7321|website=toxnet.nlm.nih.gov|publisher=National Library of Medicine|accessdate=5 October 2017}}</ref> Notably, rabeprazole has been used in higher doses for the treatment of hypersecretory conditions (up to 120 mg daily). 
+
+Animal experiments with ultra-high doses of rabeprazole have demonstrated lethality through unknown mechanisms. The lethal overdose syndrome in animals is characterized by convulsion and coma.<ref name="Rabeprazole Drug Approval">{{cite web|title=Application Number 20-973/S-009|url=https://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/020973Orig1s009.pdf|publisher=Center for Drug Evaluation and Research|accessdate=13 October 2017}}</ref>
+
+==Interactions==
+===Drug-drug interactions===
+Rabeprazole does not interfere with the plasma concentration of drugs that are also metabolized by the same enzymes (i.e. CYP2C19) that it is metabolized by. Therefore, it is not expected to react with CYP2C19 substrates like [[theophylline]], [[warfarin]], [[diazepam]], and [[phenytoin]]. However, the acid-suppression effects of rabeprazole, like other PPIs, may interfere with the absorption of drugs that require acid, such as [[ketoconazole]] and [[digoxin]].<ref name="Dadabhai review" />
+
+Clinically serious drug-drug interactions may involve the acid-suppression effects of rabeprazole. For example, rabeprazole should not be used concomitantly with [[rilpivirine]], an anti-[[HIV]] therapy, which requires acid for absorption. Lowered plasma concentrations of rilpivirine could lead to progression of HIV infection. Other drugs that require acid for absorption include [[antifungal drugs]] like ketoconazole and [[itraconazole]], digoxin, [[iron]], [[mycophenolate]], and [[tyrosine kinase inhibitors]] like [[erlotinib]], [[dasatinib]], and [[nilotinib]].<ref name="Drugs.com Monograph" /> There is no clinically relevant drug interaction between rabeprazole and antacids.<ref name="Rabeprazole Drug Approval" />
+
+===Food-drug interactions===
+Food doesn't affect the amount of rabeprazole that enters the body, but it does delay its onset of effect by about 1.7 hours.<ref name="Langtry Review" />
+
+==Pharmacology==
+===Mechanism of action===
+Rabeprazole's mechanism of action first involves getting absorbed into the [[parietal cells]] of the [[stomach]], which are the cells that are responsible for secreting [[hydrochloric acid]]. At this point, rabeprazole is inactive. However, rabeprazole is then secreted into the [[Parietal cell#Canaliculus|secretory canaliculus]] of the parietal cells, which is the space from which acid secretion occurs. Here, acid secretion is mediated by the energy-dependent acid pumps, called [[Hydrogen potassium ATPase|hydrogen potassium adenosine triphosphatase]] (H<sup>+</sup>/K<sup>+</sup> ATPase) pumps. These [[enzymatic]] pumps have [[cysteine]] [[amino acid]] residues. After being activated by gastric acid, rabeprazole permanently binds the cysteine residues, forming [[covalent bonds|covalent]], [[disulfide bonds]]. This action fundamentally alters the configuration of the acid pump, thereby inhibiting its activity. Thus, acid can no longer be secreted into the gastric lumen, and the [[pH]] of the stomach increases (decrease in the concentration of hydrogen ions, [[Hydron (chemistry)|H<sup>+</sup>]]).<ref name="Dadabhai review" /> Due to the permanent inhibition of the individual proton pump that each molecule of rabeprazole has bound to, acid secretion is effectively suppressed until new proton pumps are produced by the parietal cells.<ref name="Livertox Rabeprazole">{{cite web|title=Rabeprazole|url=https://livertox.nih.gov/Rabeprazole.htm|website=livertox.nih.gov|publisher=U.S. National Library of Medicine|accessdate=13 October 2017}}</ref>
+
+A unique feature of rabeprazole's mechanism of action in inhibiting acid secretion involves its activation. The [[pKa]] (the pH at which 50% of the drug becomes positively charged) of rabeprazole is around 5.0, meaning that it doesn't take a lot of acid to activate it. While this theoretically translates into a faster onset of action for rabeprazole's acid-inhibiting effect, the clinical implications of this fact have yet to be elucidated.<ref name="Dadabhai review" />
+
+===Pharmacokinetics===
+Rabeprazole's bioavailability is approximately 52%, meaning that 52% of orally administered dose is expected to enter systemic circulation (the blood stream).<ref name="Dadabhai review" /> Once in the blood, rabeprazole is approximately 96.3% bound to plasma proteins.<ref name="Langtry Review" /> The biological [[half-life]] of rabeprazole in humans is approximately 1 hour.<ref name="Langtry Review" />
+
+Rabeprazole is extensively metabolized by the [[liver]].<ref name="Langtry Review" /> 90% of the drug is rendered into metabolites by the liver, which are then excreted by the [[kidneys]].<ref name="PubChem" /> The drug metabolizing enzymes primarily responsible for rabeprazole's metabolism are [[CYP2C19]] and [[CYP3A4]].<ref name="Langtry Review" /> Some of rabeprazole's metabolites include the following: a [[thioether]] [[carboxylic acid]] metabolite, a thioether [[glucuronide]] metabolite, and a [[sulfone]] metabolite.<ref name="Langtry Review" /> A diagram of rabeprazole's [[phase I metabolism]] is shown below.<ref name="Rabeprazole Drug Approval" /> 
+
+[[File:Metabolism of rabeprazole.jpg|thumb|center|800px|Phase I metabolism of rabeprazole,<ref name="Rabeprazole Drug Approval" /> drawn in ChemSketch.]]
+
+===Pharmacogenetics===
+The effect of rabeprazole may [[Pharmacogenomics#Predictive prescribing|vary based upon the genetics]] of the individual taking the medication. People may have differences in their capacity to metabolize rabeprazole to an inactive metabolite. This may be mediated through genetic differences in the gene that encodes for the metabolic enzyme [[CYP2C19]]. For example, people that are poor CYP2C19 metabolizers (i.e. their version of CYP2C19 is less effective than average) will have trouble metabolizing rabeprazole, allowing the active rabeprazole to stay in the body, where it can exert its effect, longer than intended. Conversely, extensive CYP2C19 metabolizers (i.e. the average metabolic capacity of CYP2C19) will extensively metabolize rabeprazole, as expected. The poor metabolizing CYP2C19 [[phenotype]] is found in roughly 3-5% of [[Caucasian race|Caucasian]] people, and in 17-20% of people of [[Asian people|Asian]] ancestry.<ref name="PharmGKB Label for Rab">{{cite web|title=Annotation of FDA Label for rabeprazole and CYP2C19|url=https://www.pharmgkb.org/label/PA166104848|website=pharmgkb.org|publisher=NIH/NIGMS|accessdate=9 October 2017}}</ref>
+
+==Chemistry==
+===Synthesis===
+[[File:Rabeprazole synthesis.svg|thumb|center|800px|Rabeprazole synthesis diagram.<ref name="Synth1">{{Cite journal | doi = 10.1002/jlcr.2580330908| title = Synthesis of 14C-labelled sodium pariprazole (E3810)| journal = Journal of Labelled Compounds and Radiopharmaceuticals| volume = 33| issue = 9| pages = 849| year = 1993| last1 = Tagami | first1 = K. | last2 = Chiku | first2 = S. | last3 = Sohda | first3 = S. }}</ref><ref name="Synth2">S. Souda et al., {{Cite patent|EP|268956}}; eidem, {{US patent|5045552}} (1988, 1991 both to [[Eisai]]).</ref>]]
+The above synthesis pathway begins with 2,3-dimethypyridine ''N''-oxide ('''1'''). Nitration of 2,3-dimethylpyridine ''N''-oxide affords the nitro derivative (the addition of [[NO2|NO<sub>2</sub>]]) ('''2''') The newly introduced nitro group is then displaced by the alkoxide from 3-methoxypropanol to yield the corresponding ether ('''3'''). Treatment with [[acetic anhydride]] results in the [[Polonovski reaction]]. Saponification followed by treatment with [[thionyl chloride]] then chlorinates the primary alcohol ('''5'''). Reaction with benzimidazole-2-thiol ('''6''') followed by oxidation of the resulting thioether to the [[sulfoxide]] yields the final product: rabeprazole ('''8''').<ref name="Synth1"/><ref name="Synth2"/>
+===Physiochemical properties===
+Rabeprazole is characterized as a white to yellowish-white solid in its pure form. It is soluble in a number of [[solvents]]. Rabeprazole is very soluble in water and [[methanol]], freely soluble in [[ethanol]], [[chloroform]], and [[ethyl acetate]], and is insoluble in [[ether]] and [[n-hexane]].<ref name="Rabeprazole Drug Approval" /> It is unstable under humid conditions.<ref name="Marelli Review 2012" />
+
+==History==
+Rabeprazole was first marketed in Europe in 1998.<ref name="Marelli Review 2012">{{cite journal|last1=Marelli|first1=Silvia|last2=Pace|first2=Fabio|title=Rabeprazole for the treatment of acid-related disorders|journal=Expert Review of Gastroenterology & Hepatology|date=10 January 2014|volume=6|issue=4|pages=423–435|doi=10.1586/egh.12.18|accessdate=17 October 2017}}</ref> In 1999, one year later, rabeprazole was approved for use in the [[USA]].<ref name="Aciphex Package Insert">{{cite web|title=ACIPHEX|publisher=Eisai Inc.|accessdate=17 October 2017}}</ref>
+
+==Society and culture==
+===Legal status===
+Rabeprazole is approved in the [[United States]]<ref name="FDA approval label for generic">{{cite web|title=Drugs@FDA|url=https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=076822|website=accessdata.fda.gov|publisher=US FDA|accessdate=9 October 2017}}</ref> and the [[United Kingdom]]<ref name="UK label for generic">{{cite web|title=Rabeprazole SPC|url=http://www.mhra.gov.uk/home/groups/spcpil/documents/spcpil/con1480053700073.pdf|publisher=MHRA|date=15 January 2013 }}</ref> for [[Prescription drug|prescription use only]].
+
+===Brand names===
+Rabeprazole has been sold in a number of brand names:<ref name=brands>{{cite web|title=Rabeprazole international brands|url=https://www.drugs.com/international/rabeprazole.html|publisher=Drugs.com|accessdate=25 September 2017}}</ref>
+
+{| class="wikitable mw-collapsible mw-collapsed" style="width:100%"
+|+ List of [[trade name]]s for rabeprazole<ref name=brands />
+|-
+! scope="col" | Alphabet
+! scope="col" | Brand Name
+|-
+|A||Acera, Acifix, Acilesol, AcipHex, Acistal, Akirab, Algibra, An Si Fei, Anslag, Antuc, Apt, Aurizol-R
+|-
+|-
+|B||Bacanero, Barole, Bauzole, Bepra, Bepraz, Berazol, Berizar, Beryx
+|-
+|C||Cyra
+|-
+|D||Dexicool, Dexpure, Dirab, Domol
+|-
+|E||Eurorapi
+|-
+|F||Finix, Fodren
+|-
+|G||Gastech, Gastrazole, Gastrodine, Gelbra
+|-
+|H||Happi, Helirab, Heptadin
+|-
+|I||Idizole
+|-
+|J||Jelgrad, Ji Nuo
+|-
+|K||
+|-
+|L||
+|-
+|M||Mergium, Monrab
+|-
+|N||Neutracaine, Newrabell, Noflux
+|-
+|O||Olrite, Ontime, Oppi-R
+|-
+|P||Paliell, Paramet, Paricel, Pariet, Pepcia, Pepraz, Ppbest, Praber, Prabex, Prabexol, Prabez, Promto, Puloros
+|-
+|Q||
+|-
+|R||R-Bit, R-Cid, R-PPI, R-Safe, R.P.Zole, Rabby, Rabe, Rabe-G, Rabeact-20, Rabec, Rabeca, Rabecell, Rabecis, Rabecole, Rabecom, Rabecon, Rabee, Rabefine, Rabegen, Rabekind, Rabelex, Rabelinz, Rabelis, Rabeloc, Rabeman, Rabemed, Rabeol, Rabeone, Rabep, Rabepazole, Rabephex, Rabeprazol, Rabeprazole, Rabeprazolo, Rabeprazolum, Rabesec, Rabestad, Rabetac, Rabetome, Rabetra, Rabetune, Rabeum, Rabex, Rabez, Rabez-FR, Rabezol, Rabezole, Rabibit, Rabicent, Rabicid, Rabicip, Rabifar, Rabifast, Rabilect, Rabip, Rabipot, Rabirol, Rabitab, Rabium, Rabiza, Rabizol, Rablet, Rablet-B, Rabon, Raboz, Rabroz, Rabyprex, Ragi, Ralic, Ramprozole, Raneks, Rap, Rapeed, Rapespes, Rapo, Rapoxol, Rasonix, Razid, Razit, Razo, Razodent, Razogard, Rebacip, Redura, Reorab, Reward, Rifcid, Rodesa, Rolant, Roll, Rowet, Rpraz, Rui Bo te, Rulcer
+|-
+|S||Setright, Staycool, Stom, Stomeck
+|-
+|T||
+|-
+|U||Ulceprazol, Ulcerostate
+|-
+|V||Value, Veloz
+|-
+|W||Wowrab
+|-
+|X||Xin Wei An
+|-
+|Y||Yu Tian Qing
+|-
+|Z||Zibepar, Zolpras, Zulbex
+|-
+|}
+
+{| class="wikitable mw-collapsible mw-collapsed" style="width:100%"
+|+ List of [[trade name]]s for rabeprazole-containing combination products<ref name=brands />
+|-
+! scope="col" | Generic Combination
+! scope="col" | Brand Name
+|-
+|rabeprazole, [[amoxicillin]], [[clarithromycin]] || Rabecure, Pylocure
+|-
+|rabeprazole,[[amoxicillin]], [[metronidazole]] || Rabefine
+|-
+|rabeprazole, [[diclofenac]] || Drab, Rabin-DFX, Rclonac, Safediclo, Samurai
+|-
+|rabeprazole, [[domperidone]] || Acera-D, Acistal-D, Adec-R, Algibra-D, Anslag-D, Antuc-DSR, Biorab-DSR, Catrab-DSR, Comvine, Cyclochek, Cyra-D, Dirab-D, Domol-R, Esoga-RD, Gasonil-D, Gastrazole-D, Happi-D, Helirab-D, Kurab-DSR, Lorab-DSR, Neutraflux, Nuloc-D, Olrite-DSR, Parisec-DSR, Pepchek, Pepcia-D, Peraz-D, Ppbest-D, Prazim-RD, Prorab-D, R-Bit-DM, R-Bit-DSR, R-Cid Plus, R-DSR, R-Safe DSR, Rabby-DSR, Rabecis-DSR, Rabecom-D, Rabecon-DSR, Rabee-D, Rabefine-DSR, Rabelex-D, Rabemac-DSR, Rabep-DSR, Rabephex-D, Rabetome-DM, Rabetome-DSR, Rabetune-D, Rabex-D, Rabez-D, Rabi-DSR, Rabibit-D, Rabicent-D, Rabicip-D, Rabifast-DSR, Rabilect-DSR, Rabipot-D, Rabiprime-DSR, Rablet-D, Rabon-D, Rabon-DSR, Rabroz-DSR, Rabter-SR, Raizol-DSR, Rap-D, Rapeed-D, Rapo-DSR, Raz-DSR, Rebilex-DSR, Redoxid, Redura-D, Redura-DSR, Reorab-D, Reorab-DSR, Reward-D, Reward-DSR, Rifcid-D, Rifcid-DSR, Rifkool-DSR, Robilink-D, Rolant-D, Roll-D, Rpraz-D, Rugbi-DM, Rulcer-DSR, Setright-DSR, Sharaz-D, Staycool-DXR, Stomeck-D SR, Ulgo-DSR, Xenorab-DSR, Zolorab-D, Zomitac-DSR, Zorab-D
+|-
+|rabeprazole, [[itopride]] || Acera-IT, Antuc-IT, Cool Rab-IT, Happi-IT, Itopraz, Itorab, Jeprab-ITO, Pepraz-I, Rabee-ISR, Rabemac-ITR, Rabetome-ISR, Rabez-IT, Rabibit-ISR, Rablet-I, Rablet-IT, Rebilex-ISR, Reorab-IT, Rex-ISR, Rulcer-IT, Veloz-IT, and Zorite
+|-
+|rabeprazole, [[lafutidine]] || Lafumac Plus
+|-
+|rabeprazole, [[levosulpiride]] || Happi-L, Lorab-L, Rabekind Plus, Rabicent-L, Rabifast-XL, Rabin-LXR, Rabinta-L, Rabitem-LS, Robiwel-L, Roll-LS, Wokride
+|-
+|rabeprazole, [[ondansetron]] || Ond-R, Rulcer-ON
+|-
+|rabeprazole, [[polaprezinc]] || Happi-XT, Rabez-Z
+|-
+|rabeprazole, [[sodium bicarbonate]] || Pepcia-FF, Raizol
+|}
+
+==References==
+{{Reflist}}
+
+{{Proton-Pump Inhibitors}}
+
+[[Category:Prodrugs]]
+[[Category:Proton pump inhibitors]]
+[[Category:Benzimidazoles]]
+[[Category:Sulfoxides]]
+[[Category:Pyridines]]
+[[Category:Phenol ethers]]
+[[Category:Ethers]]
+[[Category:Janssen Pharmaceutica]]

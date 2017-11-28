@@ -1,0 +1,77 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 472237258
+| IUPAC_name = 2-(5-butyl-2,4,6-trioxo-1,3-diazinan-5-yl)ethyl carbamate
+| image = Carbubarbital.png
+| width = 200
+
+<!--Clinical data-->
+| tradename = Nogexan
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 960-05-4
+| ATC_prefix = none
+| ATC_suffix = 
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2104020
+| PubChem = 13743
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 13148
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = SIW4YR11ST
+| synonyms = Carbubarbital
+
+<!--Chemical data-->
+| C=11 | H=17 | N=3 | O=5 
+| molecular_weight = 271.270 g/mol
+| smiles = CCCCC1(C(=O)NC(=O)NC1=O)CCOC(=O)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C11H17N3O5/c1-2-3-4-11(5-6-19-9(12)17)7(15)13-10(18)14-8(11)16/h2-6H2,1H3,(H2,12,17)(H2,13,14,15,16,18)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ZWGPHQZXAPWKOV-UHFFFAOYSA-N
+}}
+
+'''Carbubarb''' ('''Carbubarbital''', trade name '''Nogexan''') is a [[carbamate]]-substituted [[barbiturate]] derivative, which has [[sedative]] effects.<ref>
+{{ cite patent
+| country = US
+| number  = 4428887
+| invent1 = Tou, J. S.
+| invent2 = Schleppnik, A. A.
+| title   = Method of producing mono-substituted terminal diesters
+| status  = patent
+| gdate   = 1984-01-31
+| assign1 = Monsanto
+}}</ref>
+
+== References ==
+{{reflist}}
+
+{{Hypnotics and sedatives}}
+{{GABAAR PAMs}}
+
+[[Category:Barbiturates]]
+[[Category:Carbamates]]
+[[Category:GABAA receptor positive allosteric modulators]]
+
+
+{{sedative-stub}}

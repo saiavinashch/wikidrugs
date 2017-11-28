@@ -1,0 +1,84 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 408591350
+| IUPAC_name = ''N''-(4-methoxybenzyl)-''N<nowiki>'</nowiki>'',''N<nowiki>'</nowiki>''-dimethyl-''N''-pyridin-2-ylethane-1,2-diamine
+| image = Mepyramine.svg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|mepyramine}}
+| MedlinePlus = a606008
+| pregnancy_category =  
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 91-84-9
+| CAS_supplemental = <br/>{{CAS|59-33-6}} (maleate)
+| ATC_prefix = R06
+| ATC_suffix = AC01
+| ATC_supplemental =  {{ATC|D04|AA02}}
+| PubChem = 4992
+| IUPHAR_ligand = 1227
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB06691
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4818
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = HPE317O9TL
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08183
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 6762
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 511
+<!--Chemical data-->
+| C=17 | H=23 | N=3 | O=1
+| molecular_weight = 285.38 g/mol
+| smiles = O(c1ccc(cc1)CN(c2ncccc2)CCN(C)C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H23N3O/c1-19(2)12-13-20(17-6-4-5-11-18-17)14-15-7-9-16(21-3)10-8-15/h4-11H,12-14H2,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YECBIJXISLIIDS-UHFFFAOYSA-N
+| synonyms = <small>''N''-[2-(dimethylamino)ethyl]-''N''-[(4-methoxyphenyl)methyl]pyridin-2-amine</small>
+}}
+'''Mepyramine''', also known as '''pyrilamine''', is a [[Antihistamine#H1-receptor antagonists|first generation antihistamine]], targeting the [[Histamine H1 receptor|H<sub>1</sub> receptor]].<ref>{{cite journal | last1 = Parsons | first1 = Mike E. | last2 = Ganellin |first2 = C. Robin | title = Histamine and its receptors | journal = British Journal of Pharmacology | volume = 147 | pages = S127–S135 |date=January 2006 | pmid = 16402096 | doi = 10.1038/sj.bjp.0706440 | pmc = 1760721 | issue = S1}}</ref> However, it rapidly permeates the brain often causing [[drowsiness]]. It also has [[anticholinergic]] properties. It is used in over-the-counter combination products to treat the common cold and menstrual symptoms.<ref>[http://midol.com/menstrual_complete_caps.html#q1 Active Ingredients for Midol Complete]</ref> It is also the active ingredient of the topical antihistamine creams ''Anthisan'' and ''Neoantergan'', sold for the treatment of insect bites, stings, and nettle rash.
+==Synthesis==
+[[File:Pyrilamine synthesis.png|thumb|center|700px|Pyrilamine synthesis:<ref>R.J. Horclois, {{US Patent|2502151}} (1950).</ref><ref>{{Cite journal | last1 = Huttrer | first1 = C. P. | last2 = Djerassi | first2 = C. | last3 = Beears | first3 = W. L. | last4 = Mayer | first4 = R. L. | last5 = Scholz | first5 = C. R. | title = Heterocyclic amines with antithistaminic activity | journal = Journal of the American Chemical Society | volume = 68 | issue = 10 | pages = 1999–2002 | year = 1946 | doi = 10.1021/ja01214a037 | pmid =  
+21001124| pmc = }}</ref><ref>D. Bovet, R. Horclois, F. Walthert, C.R. Soc. Biol., 138, 99 (1944).</ref>]]
+
+==See also==
+* [[Chloropyramine]] (chloro instead of methoxy)
+
+== References ==
+{{Reflist}}
+
+{{Antipruritics}}
+{{Antihistamines}}
+{{Hallucinogens}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Histamine receptor modulators}}
+{{Monoamine reuptake inhibitors}}
+{{Muscarinic acetylcholine receptor modulators}}
+{{Sigma receptor modulators}}
+}}
+
+[[Category:Amines]]
+[[Category:Aromatic amines]]
+[[Category:H1 receptor antagonists]]
+[[Category:Muscarinic antagonists]]
+[[Category:Phenol ethers]]
+[[Category:Pyridines]]
+[[Category:Sigma receptor ligands]]
+
+
+{{respiratory-system-drug-stub}}
+{{dermatologic-drug-stub}}

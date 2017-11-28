@@ -1,0 +1,63 @@
+{{Chembox
+| ImageFile = Darexaban.svg
+| ImageSize = 200px
+| IUPACName = ''N''-(3-Hydroxy-2-<nowiki/>{[4-(4-methyl-1,4-diazepan-1-yl)benzoyl]amino}phenyl)-4-methoxybenzamide
+| OtherNames = YM150
+|Section1={{Chembox Identifiers
+| CASNo = 365462-23-3
+| CASNo_Ref = {{cascite|correct|}}
+| CASNo1 = 365462-24-4
+| CASNo1_Ref = {{cascite|correct|}}
+| CASNo1_Comment = ([[maleate]])
+| PubChem = 9912771
+| ChemSpiderID = 8088422
+| SMILES = O=C(c1ccc(OC)cc1)Nc2cccc(O)c2NC(=O)c4ccc(N3CCCN(C)CC3)cc4
+| InChI = 1/C27H30N4O4/c1-30-15-4-16-31(18-17-30)21-11-7-19(8-12-21)27(34)29-25-23(5-3-6-24(25)32)28-26(33)20-9-13-22(35-2)14-10-20/h3,5-14,32H,4,15-18H2,1-2H3,(H,28,33)(H,29,34)
+| InChIKey = IJNIQYINMSGIPS-UHFFFAOYAJ
+| StdInChI = 1S/C27H30N4O4/c1-30-15-4-16-31(18-17-30)21-11-7-19(8-12-21)27(34)29-25-23(5-3-6-24(25)32)28-26(33)20-9-13-22(35-2)14-10-20/h3,5-14,32H,4,15-18H2,1-2H3,(H,28,33)(H,29,34)
+| StdInChIKey = IJNIQYINMSGIPS-UHFFFAOYSA-N
+  }}
+|Section2={{Chembox Properties
+| C=27 | H=30 | N=4 | O=4
+| Appearance = 
+| Density = 
+| MeltingPt = 
+| BoilingPt = 
+| Solubility =
+  }}
+|Section3={{Chembox Hazards
+| MainHazards = 
+| FlashPt = 
+| AutoignitionPt =
+  }}
+}}
+
+'''Darexaban''' ('''YM150''') is a direct inhibitor of [[factor Xa]] created by [[Astellas Pharma]].<ref>Eriksson, B., et al. "A dose escalation study of YM150, an oral direct factor Xa inhibitor, in the prevention of venous thromboembolism in elective primary hip replacement surgery." Journal of Thrombosis and Haemostasis (2007): 1660-1665</ref> It is an experimental drug that acts as an [[anticoagulant]] and [[antithrombotic]] to prevent venous thromboembolism after a major orthopaedic surgery, stroke in patients with [[atrial fibrillation]]<ref name=Yoshiyuki>Yoshiyuki, I., et al. "Biochemical and pharmalogical profile of darexaban, an oral direct Xa inhibitor." European Journal of Pharmacology (2011): 49-55</ref> and possibly ischemic events in [[acute coronary syndrome]].<ref name=Toshifumi>Toshifumi, S., et al. "Identification of UDP-Glucuronosyltransferases Responsible for the Glucuronidation of Darexaban, an Oral Factor Xa Inhibitor, in Human Liver anD Intestine." The American Society for Pharmacology and Experimental Therapeutics (2011): 278-282</ref> It is used in form of the [[maleate]]. The development of darexaban was discontinued in September 2011.
+
+==Factor Xa==
+Factor Xa (FXa) is an essential blood coagulation factor<ref name=Yoshiyuki/> that is responsible for the initiation of the coagulation cascade. FXa cleaves [[prothrombin]] to its active form [[thrombin]], which then acts to convert soluble [[fibrinogen]] to insoluble [[fibrin]] and to activate [[platelet]]s. Stabilization of the platelet aggregation by fibrin mesh ultimately leads to clot formation.<ref name=Katsung>Katsung, B., S. Masters and A. Trevor. Basic and Clinical Pharmacology 11th Edition. United States of America: McGraw-Hill, 2009</ref>
+
+==Metabolism==
+Darexaban is rapidly absorbed and extensively metabolized in the liver to its active metabolite, darexaban [[glucuronide]] (YM-222714) during [[first pass metabolism]] via [[glucuronidation]].<ref>Turpie, A., et al. "Prevention of venous thromboembolism with an oral factor Xa inhibitor, YM150, after total hip arthoplasty. A dose finding study (ONYX-2)." Journal of Thrombosis and Haemostasis (2010): 714-721</ref> The metabolism of darexaban also occurs in the small intestine but to a much lesser extent.<ref name=Yoshiyuki/> Glucuronidation of darexaban occurs quickly, thus the half life of darexaban itself is short. However, the resultant darexaban glucuronide metabolite has a long half life of approximately 14–18 hours, reaching its maximum levels in the blood 1-1.5 hour post dose.<ref name=Yoshiyuki/> As a result, darexaban glucuronide is the main determinant of the antithrombotic effects.<ref name=Toshifumi/> Darexaban shows minimal interaction with food and is excreted through the kidneys (urine) and feces.<ref name=Steg>{{cite journal | pmid = 21878434 | year = 2011 | last1 = Steg | first1 = PG | last2 = Mehta | first2 = SR | last3 = Jukema | first3 = JW | last4 = Lip | first4 = GY | last5 = Gibson | first5 = CM | last6 = Kovar | first6 = F | last7 = Kala | first7 = P | last8 = Garcia-Hernandez | first8 = A | last9 = Renfurm | first9 = RW | last10 = Granger | first10 = CB | last11 = Ruby-1 | first11 = Investigators | title = RUBY-1: A randomized, double-blind, placebo-controlled trial of the safety and tolerability of the novel oral factor Xa inhibitor darexaban (YM150) following acute coronary syndrome | volume = 32 | issue = 20 | pages = 2541–54 | doi = 10.1093/eurheartj/ehr334 | pmc = 3295208 | journal = European Heart Journal }}</ref>
+
+==Mechanism of action==
+Darexaban and darexaban glucuronide selectively and competitively inhibit FXa, suppressing prothrombin activity at the sites of blood clot (thrombus) formation. This leads to a decrease in blood clot formation in a dose dependent manner.<ref name=Yoshiyuki/> Reducing blood clot formation will decrease blood flow blockages, thus possibly lowering the risk of [[myocardial infarction]], [[unstable angina]], [[venous thrombosis]], and ischemic stroke.<ref>Hirayama, F., et al. "Discovery of N-[2-Hydroxy-6-(4-methoxybenamido)phenyl]-4-(4-methyl-1,4-diazepan-1-yl)benzamide (Darexaban, YM150) as a Potent and Orally Available Factor Xa Inhibitor." Journal of Medicinal Chemistry (2011): 8051-8065</ref>
+
+==Clinical uses==
+
+===Atrial fibrillation===
+[[Atrial fibrillation]] is an abnormal heart rhythm that causes a reduction in the cardiac output and blood flow to the brain. It also promotes the formation of blood clots in the atria.<ref name=Katsung/> Atrial fibrillation is associated with an increased risk of embolic stroke due to the increased risk of blood clot development.<ref>Zhong, Y., et al. "Atrial Fibrillation as a Risk Factor for Stroke: A Retrospective Cohort Study of Hospitalized Medicare Beneficiaries." American Journal of Public Health (1998): 395-400</ref>  Oral anticoagulant drugs such as Darexaban decrease the incidence and severity of stroke in patients with atrial fibrillation by preventing the formation of blood clots.<ref name=Hylek>Hylek, E., et al. "Effect of intensity of oral anticoagulation on stroke severity and mortality in atrial fibrillation." The New England Journal of Medicine (2003): 1019-26</ref>
+
+==Contraindictions==
+The RUBY-1 phase II trial results show that oral administration of darexaban in combination with the standard dual antiplatelet therapy used for ACS patients caused a two- to four-fold increase in bleeding rates and no effect on ACS.<ref name=Steg/> Though there were no cases of fatal bleeding or intracranial haemorrhage, the results of this study questions the concept of adding an oral anticoagulant to standard of care dual antiplatelet therapy in order to prevent recurrent ischemic events after ACS. The development of darexaban was discontinued in September 2011.
+
+==References==
+{{reflist|2}}
+
+{{Antithrombotics}}
+
+[[Category:Anticoagulants]]
+[[Category:Benzamides]]
+[[Category:Diazepanes]]
+[[Category:Phenols]]
+[[Category:Astellas Pharma]]

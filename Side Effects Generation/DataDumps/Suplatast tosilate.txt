@@ -1,0 +1,71 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 423011448
+| IUPAC_name = (3-{[4-(3-ethoxy-2-hydroxypropoxy)phenyl]amino}-3-oxopropyl)(dimethyl)sulfonium 4-methylbenzenesulfonate
+| image = suplatast tosilate.png
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|suplatast-tosilate}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 94055-76-2
+| ATC_prefix = none
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem = 71773
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 115435
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = C9J89787U1
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01423
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 64811
+
+
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=23 | H=33 | N=1 | O=7 | S=2 
+| molecular_weight = 499.64 g/mol
+| smiles = CCOCC(COC1=CC=C(C=C1)NC(=O)CC[S+](C)C)O.CC1=CC=C(C=C1)S(=O)(=O)[O-]
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C16H25NO4S.C7H8O3S/c1-4-20-11-14(18)12-21-15-7-5-13(6-8-15)17-16(19)9-10-22(2)3;1-6-2-4-7(5-3-6)11(8,9)10/h5-8,14,18H,4,9-12H2,1-3H3;2-5H,1H3,(H,8,9,10)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = RYVJQEZJUFRANT-UHFFFAOYSA-N
+}}
+
+'''Suplatast tosilate''' ([[International Nonproprietary Name|INN]]) is a Th2 [[cytokine]] inhibitor<ref name="pmid11071181">{{cite journal  |vauthors=Tamaoki J, Kondo M, Sakai N, etal |title=Effect of suplatast tosilate, a Th2 cytokine inhibitor, on steroid-dependent asthma: a double-blind randomised study. Tokyo Joshi-Idai Asthma Research Group |journal=Lancet |volume=356 |issue=9226 |pages=273–8 | date=July  2000 |pmid=11071181 |doi=10.1016/S0140-6736(00)02501-0}}</ref> which is used as an antiallergic drug. It has been suggested and applied in the treatment of [[Kimura's disease]] a few times.<ref>{{cite journal |vauthors=Ueda T, Arai S, Amoh Y, Katsuoka K |title=Kimura's disease treated with suplatast tosilate and loratadine |journal=European Journal of Dermatology |volume=21 |issue=6 |pages=1020–1 |year=2011 |pmid=21914581 |doi=10.1684/ejd.2011.1539}}</ref><ref>{{cite journal  |vauthors=Tsukagoshi H, Nagashima M, Horie T, etal |title=Kimura's disease associated with bronchial asthma presenting eosinophilia and hyperimmunoglobulinemia E which were attenuated by suplatast tosilate (IPD-1151T) |journal=Internal Medicine |volume=37 |issue=12 |pages=1064–7 | date=December  1998 |pmid=9932643 |doi=10.2169/internalmedicine.37.1064}}</ref>
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{cite journal  |vauthors=Taniguchi H, Togawa M, Ohwada K, etal |title=Suplatast tosilate, a new type of antiallergic agent, prevents the expression of airway hyperresponsiveness in guinea pigs |journal=European Journal of Pharmacology |volume=318 |issue=2-3 |pages=447–54 | date=December  1996 |pmid=9016937 |doi=10.1016/S0014-2999(96)00810-2}}
+*{{cite journal |author=Sano Y |title=[Anti-inflammatory drugs for the treatment of bronchial hyperresponsiveness] |language=Japanese |journal=Nihon Kyōbu Shikkan Gakkai Zasshi |volume=34 Suppl |issue= |pages=48–53 | date=December  1996 |pmid=9216184}}
+
+[[Category:Sulfonium compounds]]
+[[Category:Anilides]]
+
+
+{{respiratory-system-drug-stub}}

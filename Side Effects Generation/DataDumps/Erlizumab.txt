@@ -1,0 +1,63 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 457120620
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = F(ab')2
+| source = zu/o
+| target = [[CD18]]
+<!-- Clinical data -->
+| tradename =  
+| pregnancy_AU =  
+| pregnancy_US =  
+| pregnancy_category =  
+| legal_AU =  
+| legal_CA =  
+| legal_UK =  
+| legal_US =  
+| legal_status =  
+| routes_of_administration =  
+<!-- Pharmacokinetic data -->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 211323-03-4
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D04045
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+<!-- Chemical data -->
+| chemical_formula =  
+| molecular_weight =  
+}}
+'''Erlizumab''', also known as '''rhuMAb''', is a [[Recombinant DNA|recombinant]] [[humanized monoclonal antibody]] that was an experimental [[immunosuppressive drug]]. Erlizumab was developed by [[Genentech]] under a partnership with [[Hoffmann–La Roche|Roche]] to treat [[heart attack]], [[stroke]], and [[traumatic shock]].<ref name="genentech announces">{{cite news |title=Genentech Announces Phase II Trial of Experimental Anti-CD18 Antibody Did Not Meet Its Primary Objectives |work=[[Business Wire]] |date=June 16, 2000 |accessdate=January 29, 2009 |url=http://findarticles.com/p/articles/mi_m0EIN/is_2000_June_16/ai_62759897}}</ref>
+
+== Mechanism of action ==
+
+The drug works by blocking a growth factor in blood vessels.<ref name="altman" /> Specifically, erlizumab targets [[CD18]] and an [[LFA-1]] integrin.<ref>{{cite journal |last=Hehlgans |first=Stephanie |author2=Michael Haasea |author3=Nils Cordes |date=January 2007 |title=Signalling via integrins: Implications for cell survival and anticancer strategies  |journal=Biochimica et Biophysica Acta (BBA) - Reviews on Cancer |volume=1775 |issue=1 |pages=163&ndash;80 |doi=10.1016/j.bbcan.2006.09.001 |pmid=17084981}}</ref> Erlizumab was meant to stop lymphocyte movement into inflamed tissue, thereby reducing tissue damage.<ref name="dove">{{cite journal |last=Dove |first=Alan |year=2000 |title=CD18 trials disappoint again  |journal=Nature Biotechnology |volume=18 |pages=817&ndash;8 |doi=10.1038/78412 |pmid=10932141 |issue=8}}</ref>
+
+== Clinical trials ==
+
+Genentech started [[clinical trial]]s on the drug in October 1996.<ref>{{cite web |title=Genentech Reports 1996 Third Quarter Results |work=[[Genentech]] |date=October 21, 1996 |accessdate=January 31, 2009 |url=http://www.gene.com/gene/news/press-releases/display.do?method=detail&id=4805}}</ref> During clinical trials, six patients suddenly started coughing up blood, and four of them later died.<ref name="altman">{{cite news |first=Lawrence |last=Altman |title=THE DOCTOR'S WORLD; In Search of Surprises as Cures for Cancer |work=[[The New York Times]] |page= |date=May 30, 2000 |accessdate=January 29, 2009 |url=https://query.nytimes.com/gst/fullpage.html?res=9E07E7DD163CF933A05756C0A9669C8B63}}</ref> In June 2000, preliminary phase II clinical trial results showed that erlizumab did not meet Genentech's goals.<ref name="genentech announces" /> Genentech's primary goal was for the drug to increase blood flow to the heart within 90 minutes of administering the medicine.<ref name="dove" />
+
+== Other anti-CD18 drugs ==
+
+Multiple companies have tried to develop anti-CD18 drugs, but none of them have been successful.<ref name="dove" /> Among them are [[Icos]]'s [[rovelizumab]] (LeukArrest), and two drugs developed by [[PDL BioPharma|Protein Design Labs]] and [[Centocor]].<ref name="dove" /> Although trials in humans have not gone well, the research of CD18 drugs in animals has been encouraging.<ref name="dove" /> It is thought that the experimental medicines are affecting the lymphocyte adhesion pathway in humans in unintended ways.<ref name="dove" /> One hypothesis is that the endothelial cell barrier function fails when blood supply is low for a prolonged time in humans.<ref name="barran">{{cite journal |last=Barran |first=Kenneth |author2=Michel Nguyen |author3=George R. McKendall |author4=Costas T. Lambrew |author5=Gary Dykstra |author6=Sebastian T. Palmeri |author7=Raymond J. Gibbons |author8=Steven Borzak |author9=Burton E. Sobel |author10=Steven G. Gourlay |author11=Amy Chen Rundle |author12=C. Michael Gibson |author13=Hal V. Barron |date=December 4, 2001 |title=Double-Blind, Randomized Trial of an Anti-CD18 Antibody in Conjunction With Recombinant Tissue Plasminogen Activator for Acute Myocardial Infarction |journal=[[Circulation (journal)|Circulation]] |volume=104 |issue=23 |pages=2778–83 |doi=10.1161/hc4801.100236 |pmid=11733394}}</ref> If this is true, the drug is not able to stop lymphocyte movement into inflamed tissue.<ref name="barran" />
+
+==References==
+{{reflist}}
+
+{{immunosuppressants}}
+{{Monoclonals for immune system}}
+
+[[Category:Monoclonal antibodies]]
+[[Category:Abandoned drugs]]

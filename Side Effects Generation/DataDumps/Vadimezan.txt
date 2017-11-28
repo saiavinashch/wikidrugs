@@ -1,0 +1,64 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 449543500
+| IUPAC_name = (5,6-Dimethyl-9-oxo-9''H''-xanthen-4-yl)-acetic acid
+| image = vadimezan.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 117570-53-3
+| ATC_prefix = none
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 75934
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0829J8133H
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 110486
+
+<!--Chemical data-->
+| C=17 | H=14 | O=4 
+| molecular_weight = 282.29 g/mol
+| smiles = CC1=C(OC(C(CC(O)=O)=CC=C3)=C3C2=O)C2=CC=C1C
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C17H14O4/c1-9-6-7-13-15(20)12-5-3-4-11(8-14(18)19)17(12)21-16(13)10(9)2/h3-7H,8H2,1-2H3,(H,18,19)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = XGOYIMQSIKSOBS-UHFFFAOYSA-N
+
+| synonyms = ASA404, DMXAA
+}}
+
+'''Vadimezan''' (also known as or '''ASA404'''<ref name=nzherald20090214>{{cite web |url=http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10556717 |title=New Zealand drug tested for breast-cancer fight |accessdate=2009-02-13 |last= |first= |date=14 February 2009 |work=New Zealand Herald |publisher= }}</ref> and '''DMXAA''') is a tumor-[[vascular disrupting agent]] (tumor-VDA) that attacks the blood supply of a [[cancer]]ous [[tumor]] to cause tumor regression.<ref>[http://www.medicalnewstoday.com/articles/103734.php ASA404, A Novel Cancer Agent, Begins Pivotal Trial To Explore New Approach In Treating Lung Cancer, The Leading Cause Of Cancer Death], ''Medical News Today'', 14 Apr 2008</ref>
+
+==Clinical trials==
+===Non-small cell lung cancer===
+Despite positive results at the preclinical stage, vadimezan failed in human clinical trials. Studies have demonstrated the reason for the inefficacy. Vadimezan was shown to target the [[Stimulator_of_interferon_genes|STING]] pathway,<ref>{{cite journal |doi=10.1074/jbc.M112.382986|pmid=23027866|pmc=3501038|title=5,6-Dimethylxanthenone-4-acetic Acid (DMXAA) Activates Stimulator of Interferon Gene (STING)-dependent Innate Immune Pathways and is Regulated by Mitochondrial Membrane Potential|journal=Journal of Biological Chemistry|volume=287|issue=47|pages=39776|year=2012|last1=Prantner|first1=D.|last2=Perkins|first2=D. J.|last3=Lai|first3=W.|last4=Williams|first4=M. S.|last5=Sharma|first5=S.|last6=Fitzgerald|first6=K. A.|last7=Vogel|first7=S. N.}}</ref> however, this effect is mouse specific; it has no effect on human STING.<ref>{{cite journal |doi=10.4049/jimmunol.1300097|pmid=23585680|pmc=3647383|title=Mouse, but not Human STING, Binds and Signals in Response to the Vascular Disrupting Agent 5,6-Dimethylxanthenone-4-Acetic Acid|journal=The Journal of Immunology|volume=190|issue=10|pages=5216|year=2013|last1=Conlon|first1=J.|last2=Burdette|first2=D. L.|last3=Sharma|first3=S.|last4=Bhat|first4=N.|last5=Thompson|first5=M.|last6=Jiang|first6=Z.|last7=Rathinam|first7=V. A. K.|last8=Monks|first8=B.|last9=Jin|first9=T.|last10=Xiao|first10=T. S.|last11=Vogel|first11=S. N.|last12=Vance|first12=R. E.|last13=Fitzgerald|first13=K. A.}}</ref> A single amino acid difference at position 162 (S162A) of the [[Cyclic guanosine monophosphate–adenosine monophosphate|cyclic-dinucleotide]]-binding site of STING makes mouse STING sensitive to the drug, whereas human STING remains insensitive.
+
+Vadimezan had been studied in combination with [[chemotherapy]] in at least two [[phases of clinical research|Phase II]] trials for advanced [[non-small cell lung cancer]] (NSCLC) and showed survival extensions of around 5 months when compared to [[chemotherapy]] alone (14.0 months compared to 8.8 months).<ref>{{cite journal |doi=10.1038/sj.bjc.6604808|pmid=19078952|pmc=2607218|title=Randomised phase II study of ASA404 combined with carboplatin and paclitaxel in previously untreated advanced non-small cell lung cancer|journal=British Journal of Cancer|volume=99|issue=12|pages=2006|year=2008|last1=McKeage|first1=M J|last2=von Pawel|first2=J|last3=Reck|first3=M|last4=Jameson|first4=M B|last5=Rosenthal|first5=M A|last6=Sullivan|first6=R|last7=Gibbs|first7=D|last8=Mainwaring|first8=P N|last9=Serke|first9=M|last10=Lafitte|first10=J-J|last11=Chouaid|first11=C|last12=Freitag|first12=L|last13=Quoix|first13=E}}</ref>
+<ref name=drugdevtech>[http://www.drugdevelopment-technology.com/projects/antisomas/ ASA404 Vascular Disrupting Agent for Solid Tumours], drugdevelopment-technology.com</ref>
+In April 2008, a [[Phase III]] trial started. In March 2010, the phase III trial of use as a first line therapy for NSCLC gave poor results.<ref name=AntisomaSharesPlummet>{{cite web|title=Antisoma’s Shares Plummet 70% as Cancer Candidate Bombs in Phase III NSCLC Trial|url=http://www.genengnews.com/gen-news-highlights/antisoma-39-s-shares-plummet-70-as-cancer-candidate-bombs-in-phase/78565237/|work=Genetic Engineering & Biotechnology News|publisher=GEN Publishing, Inc.|accessdate=20 August 2013}}</ref>  Interim results on another phase III trial as second-line therapy for NSCLC were completed in 2011. In November 2010, the second trial also gave poor interim results.<ref>{{cite news |url=http://www.genengnews.com/gen-news-highlights/antisoma-and-novartis-ditch-asa404-after-second-phase-iii-nsclc-trial-bombs/81244220/ |title=Antisoma and Novartis Ditch ASA404 After Second Phase III NSCLC Trial Bombs |date=11 Nov 2010 }}</ref>
+
+===Other cancers===
+Vadimezan has also been studied for the treatment of [[prostate cancer]]<ref name=drugdevtech/> and [[HER2]]-negative [[metastasis|metastatic]] [[breast cancer]].<ref name=nzherald20090214/><ref name=antisoma20090212>{{cite web |url=http://www.antisoma.com/asm/media/press/pr2009/2009-02-12/ |title=ASA404 to be developed in breast cancer |accessdate=2009-02-13 |last= |first= |date=12 February 2009 |work= |publisher=Antisoma }}</ref>
+
+==History==
+Vadimezan was discovered by Bruce Baguley and William Denny and their teams at the Auckland Cancer Society Research Centre at the [[University of Auckland]] in [[New Zealand]].<ref name=antisoma20090212/> It was licensed to Antisoma in 2001. [[Novartis]] acquired the worldwide rights for it in 2007 and it underwent [[drug development|development]] by Antisoma and Novartis.<ref name=drugdevtech/><ref name=antisoma20090212/>
+
+==References==
+{{Reflist}}
+
+{{Use dmy dates|date=November 2010}}
+[[Category:Antineoplastic drugs]]
+[[Category:Experimental cancer drugs]]
+[[Category:Abandoned drugs]]
+[[Category:Xanthones]]
+[[Category:Carboxylic acids]]

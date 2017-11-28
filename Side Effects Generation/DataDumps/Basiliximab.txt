@@ -1,0 +1,64 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 459525440
+| width = 220px
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = xi/o
+| target = [[CD25]]
+<!-- Clinical data -->
+| tradename = Simulect
+| Drugs.com = {{drugs.com|monograph|basiliximab}}
+| pregnancy_AU = D
+| pregnancy_US = B
+| pregnancy_category = 
+| legal_status = 
+| routes_of_administration =
+<!-- Pharmacokinetic data -->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 7.2 days
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 179045-86-4
+| ATC_prefix = L04
+| ATC_suffix = AC02
+| ATC_supplemental = 
+| PubChem = 
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00074
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 9927MT646M
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201439
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+<!-- Chemical data -->
+| C=6378 | H=9844 | N=1698 | O=1997 | S=48
+| molecular_weight = 143801.3 g/mol
+}}
+'''Basiliximab''' (trade name '''Simulect''') is a [[Chimera (genetics)|chimeric]] mouse-human monoclonal [[antibody]] to the α chain ([[CD25]]) of the [[Interleukin 2|IL-2]] [[IL-2 receptor|receptor]] of [[T cells]].  It is used to prevent [[Transplant rejection|rejection]] in [[organ transplant]]ation, especially in [[kidney]] transplants. It is a [[Novartis]] product and was approved by the [[Food and Drug Administration]] (FDA) in 1998.
+
+==Uses==
+Basiliximab is an [[immunosuppressant]] agent used to prevent immediate [[transplant rejection]] in people who are receiving kidney transplants, in combination with other agents.<ref name=Medline>MedlinePlus. Last Revised - June 15, 2012 [http://www.nlm.nih.gov/medlineplus/druginfo/meds/a612013.html Basiliximab Injection]</ref> It has been reported that some cases of [[lichen planus]] have been successfully treated with basiliximab as an alternative therapy to [[ciclosporin]]. No short-term side effects have been reported.<ref>A.D. Katsambas, T.M. Lotti European handbook of dermatological treatments 2nd edition, 2003, page 291, {{ISBN|3-540-00878-0}}</ref>
+
+==Mechanism of action==
+
+Basiliximab competes with IL-2 to bind to the alpha chain subunit of the IL2 receptor on the surface of the activated T lymphocytes and thus prevents the receptor from signaling.  This prevents T cells from replicating and also from activating B cells, which are responsible for the production of [[antibodies]], which would bind to the transplanted organ and stimulate an immune response against the transplant.<ref name=HardingerRev>Hardinger KL, Brennan DC, Klein CL.  Selection of induction therapy in kidney transplantation. Transpl Int. 2013 Jul;26(7):662-72. {{PMID|23279211}}</ref><ref name=label>[http://www.fda.gov/downloads/Drugs/DevelopmentApprovalProcess/HowDrugsareDevelopedandApproved/ApprovalApplications/TherapeuticBiologicApplications/ucm113375.pdf Basiliximab label]</ref>
+
+==Chemistry==
+It is a chimeric CD25 monoclonal antibody of the IgG1 isotype.<ref name=HardingerRev/><ref name=label/>
+
+==History==
+It is a [[Novartis]] product and was approved by the [[Food and Drug Administration]] (FDA) in 1998.<ref name=label/><ref>Waldman, Thomas A. (2003). [http://www.nature.com/cgi-taf/DynaPage.taf?file=/nm/journal/v9/n3/full/nm0303-269.html&filetype=pdf Immunotherapy: past, present and future]. ''Nature Medicine'' '''9''', 269-277.</ref>
+
+==References and notes==
+{{Reflist}}
+
+{{Immunosuppressants}}
+{{Monoclonals for immune system}}
+{{Interleukin receptor modulators}}
+
+[[Category:Immunosuppressants]]

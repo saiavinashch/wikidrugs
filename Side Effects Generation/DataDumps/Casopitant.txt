@@ -1,0 +1,80 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 447887505
+| IUPAC_name = (2''S'',4''S'')-4-(4-Acetyl-1-piperazinyl)-''N''-[(1''R'')-1-[3,5-bis(trifluoromethyl)phenyl]ethyl]-2-(4-fluoro-2-methylphenyl)-N-methyl-1-piperidinecarboxamide
+| image = Casopitant.svg
+| width = 275
+
+<!--Clinical data-->
+| tradename =
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US =
+| pregnancy_category =
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US =
+| legal_status =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number = 414910-27-3
+| CAS_supplemental =
+| ATC_prefix = A04
+| ATC_suffix = AD13
+| PubChem = 23725089
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| ChEMBL = 2107320
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 3B03KPM27L
+| ChemSpiderID = 25069049
+| KEGG = D06574
+
+<!--Chemical data-->
+| C=30 | H=35 | F=7 | N=4 | O=2
+| molecular_weight = 616.26 g/mol
+| smiles = CC1=C(C=CC(=C1)F)[C@@H]2C[C@H](CCN2C(=O)N(C)[C@H](C)C3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)N4CCN(CC4)C(=O)C
+| StdInChI = 1S/C30H35F7N4O2/c1-18-13-24(31)5-6-26(18)27-17-25(40-11-9-39(10-12-40)20(3)42)7-8-41(27)28(43)38(4)19(2)21-14-22(29(32,33)34)16-23(15-21)30(35,36)37/h5-6,13-16,19,25,27H,7-12,17H2,1-4H3/t19-,25-,27+/m1/s1
+| StdInChIKey = XGGTZCKQRWXCHW-JRLVAEJTSA-N
+| synonyms = <small>(2''R'',4''S'')-4-(4-Acetylpiperazin-1-yl)-''N''-{(1''R'')-1-[3,5-bis(trifluoromethyl)phenyl]ethyl}-2-(4-fluoro-2-methylphenyl)-''N''-methylpiperidine-1-carboxamide</small>
+}}
+
+'''Casopitant''' ([[International nonproprietary name|INN]],<ref>{{cite web | title = International Nonproprietary Names for Pharmaceutical Substances (INN). Recommended International Nonproprietary Names: List56 | url = http://www.who.int/medicines/publications/druginformation/innlists/RL56.pdf | publisher = World Health Organization | accessdate = 17 November 2016 | date = 2006}}</ref>{{rp|208}} tentative trade names '''Rezonic''' ([[United States|U.S.]]), '''Zunrisa''' ([[Europe]])) is an [[Tachykinin receptor 1|neurokinin 1 receptor]] (NK<sub>1</sub>R) [[Receptor antagonist|antagonist]] undergoing research for the treatment of [[chemotherapy-induced nausea and vomiting]] (CINV).<ref>{{cite journal |author=Lohr L |title=Chemotherapy-induced nausea and vomiting |journal=Cancer J |volume=14 |issue=2 |pages=85–93 |year=2008 |pmid=18391612 |doi=10.1097/PPO.0b013e31816a0f07 |url=}}</ref> It is currently under development by [[GlaxoSmithKline]] (GSK).
+
+In July 2008, the company filed a marketing authorisation application with the [[European Medicines Agency]]. The application was withdrawn in September 2009 because GSK decided that further safety assessment was necessary.<ref>{{cite web|url=http://www.emea.europa.eu/humandocs/PDFs/EPAR/zunrisa/63959809en.pdf |title=GlaxoSmithKline withdraws its marketing authorisation application for Zunrisa |date=13 October 2009 |publisher=EMEA |accessdate=21 December 2009 |location=London }}{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+== See also ==
+{{colbegin|2}}
+* [[NK1 receptor antagonist|NK<sub>1</sub> receptor antagonist]]
+* [[Aprepitant]]
+* [[Fosaprepitant]]
+* [[L-733,060]]
+* [[Maropitant]]
+* [[Vestipitant]]
+{{colend}}
+
+== References ==
+{{Reflist|2}}
+
+{{Antiemetics and antinauseants}}
+{{Antidepressants}}
+{{Anxiolytics}}
+{{Neurokinin receptor modulators}}
+
+[[Category:Abandoned drugs]]
+[[Category:Antiemetics]]
+[[Category:NK1 receptor antagonists]]
+[[Category:Acetamides]]
+[[Category:Piperazines]]
+[[Category:Piperidines]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Fluoroarenes]]
+
+{{gastrointestinal-drug-stub}}
+{{nervous-system-drug-stub}}

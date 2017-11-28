@@ -1,0 +1,63 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 460022500
+| IUPAC_name = (6''R'',7''R'')-3-[(acetyloxy)methyl]-7-{[(2''R'')-2-amino-2-phenylacetyl]amino}-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+| image = Cefaloglycin.svg
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 3577-01-3
+| ATC_prefix = none
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem = 19150
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00689
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 18069
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = HD2D469W6U
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01949
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 34613
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1200971
+<!--Chemical data-->
+| C=18 | H=19 | N=3 | O=6 | S=1
+| molecular_weight = 405.426 g/mol
+| smiles = O=C2N1/C(=C(\CS[C@@H]1[C@@H]2NC(=O)[C@@H](c3ccccc3)N)COC(=O)C)C(=O)O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C18H19N3O6S/c1-9(22)27-7-11-8-28-17-13(16(24)21(17)14(11)18(25)26)20-15(23)12(19)10-5-3-2-4-6-10/h2-6,12-13,17H,7-8,19H2,1H3,(H,20,23)(H,25,26)/t12-,13-,17-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = FUBBGQLTSCSAON-PBFPGSCMSA-N
+}}
+'''Cefaloglycin''' [[International Nonproprietary Name|INN]] (also spelled '''cephaloglycin''') is a first-generation [[cephalosporin]] [[antibiotic]].
+
+==External links==
+* {{cite journal |vauthors=Tune B, Hsu C | title = The renal mitochondrial toxicity of beta-lactam antibiotics: in vitro effects of cephaloglycin and imipenem. | journal = J Am Soc Nephrol | volume = 1 | issue = 5 | pages = 815–21 | year = 1990 | pmid = 2133431}}
+* {{cite journal |vauthors=Tune B, Fravert D, Hsu C | title = Oxidative and mitochondrial toxic effects of cephalosporin antibiotics in the kidney. A comparative study of cephaloridine and cephaloglycin. | journal = Biochem Pharmacol | volume = 38 | issue = 5 | pages = 795–802 | year = 1989 | pmid = 2930580 | doi = 10.1016/0006-2952(89)90233-5}}
+
+{{CephalosporinAntiBiotics}}
+
+[[Category:Cephalosporin antibiotics]]
+[[Category:Acetate esters]]
+[[Category:Enantiopure drugs]]
+
+
+{{antibiotic-stub}}

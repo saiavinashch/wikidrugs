@@ -1,0 +1,114 @@
+{{drugbox
+| Verifiedfields = changed
+| verifiedrevid = 461095141
+| IUPAC_name = (4''R'',5''S'',6''S'')-3-[(3''S'',5''S'')-5-[(3-carboxyphenyl)carbamoyl]<br>pyrrolidin-3-yl]sulfanyl-6-(1-hydroxyethyl)-4-methyl-7-<br>oxo-1-azabicyclo[3.2.0]hept-2-ene-2-carboxylic acid
+| image = Ertapenem Formula V.1.svg
+<!--Clinical data-->
+| tradename = Invanz
+| Drugs.com = {{drugs.com|monograph|invanz}}
+| pregnancy_AU = B3
+| pregnancy_US = B
+| legal_status = Rx-only
+| routes_of_administration = Intramuscular, [[intravenous therapy|intravenous]]
+<!--Pharmacokinetic data-->
+| bioavailability = 90% ([[intramuscular injection|intramuscular]])
+| protein_bound = Inversely proportional to concentration; 85 to 95%
+| metabolism = Minor [[hydrolysis]] of [[beta-lactam]] ring, [[cytochrome P450|CYP]] not involved
+| elimination_half-life = 4 hours
+| excretion = [[Kidney|Renal]] (80%) and fecal (10%)
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 153832-46-3
+| ATC_prefix = J01
+| ATC_suffix = DH03
+| PubChem = 150610
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00303
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 132758
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = G32F6EID2H
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D04049
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 404903
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1359
+<!--Chemical data-->
+| C=22 | H=25 | N=3 | O=7 | S=1
+| molecular_weight = 475.516 g/mol
+| smiles = O=C(O)c1cc(ccc1)NC(=O)[C@H]4NC[C@@H](S\C3=C(\N2C(=O)[C@H]([C@H](O)C)[C@H]2[C@H]3C)C(=O)O)C4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H25N3O7S/c1-9-16-15(10(2)26)20(28)25(16)17(22(31)32)18(9)33-13-7-14(23-8-13)19(27)24-12-5-3-4-11(6-12)21(29)30/h3-6,9-10,13-16,23,26H,7-8H2,1-2H3,(H,24,27)(H,29,30)(H,31,32)/t9-,10-,13+,14+,15-,16-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = JUZNIMUFDBIJCM-ANEDZVCMSA-N
+}}
+'''Ertapenem''' is a [[carbapenem]] [[antibiotic]] marketed by [[Merck & Co.|Merck]] as '''Invanz'''.  It is structurally very similar to [[meropenem]] in that it possesses a 1-β-methyl group.  Other members of the carbapenem group ([[imipenem]], [[doripenem]], and [[meropenem]]) are broadly active antibacterials that are used for infections caused by difficult to treat or multidrug-resistant bacteria (such as [[Extended spectrum beta-lactamase|ESBL]] expressing [[Klebsiella pneumonia]]).  They have very short serum half-lives and must be administered by intravenous infusion every 6 to 8 hours.  Ertapenem differs from other carbapenems in having a somewhat less broad spectrum of activity (not against [[Pseudomonas aeruginosa]]), and in that its extended serum half-life allows it to be administered once every 24 hours.<ref>{{cite journal |vauthors=Papp-Wallace KM, Endimiani A, Taracila MA, Bonomo RA |title=Carbapenems: past, present, and future |journal=Antimicrob. Agents Chemother. |volume=55 |issue=11 |pages=4943–60 | date=November  2011 |pmid=21859938 |pmc=3195018 |doi=10.1128/AAC.00296-11 |url=}}</ref>
+
+==Indications==
+Ertapenem has been designed to be effective against [[Gram-negative]] and Gram-positive [[bacteria]].  It is not active against [[Methicillin-resistant Staphylococcus aureus|MRSA]], [[ampicillin]]-resistant [[Enterococcus|enterococci]], ''[[Pseudomonas aeruginosa]]'', or ''[[Acinetobacter]]'' species.  Ertapenem also has clinically useful activity against [[anaerobic bacteria]].
+
+Ertapenem has been shown to be active against most isolates of the following micro-organisms ''in vitro'' and in clinical infections.
+
+'''Aerobic and facultative gram-positive microorganisms:
+'''
+Staphylococcus aureus (methicillin-susceptible isolates only),
+Streptococcus agalactiae,
+Streptococcus pneumoniae (penicillin-susceptible isolates only),
+Streptococcus pyogenes,
+
+Note: Methicillin-resistant staphylococci and Enterococcus spp. are resistant to ertapenem.
+
+'''Aerobic and facultative gram-negative microorganisms:'''
+
+Escherichia coli,
+Haemophilus influenzae,
+Klebsiella pneumoniae,
+Moraxella catarrhalis,
+Proteus mirabilis,
+
+'''Anaerobic microorganisms:'''
+
+Bacteroides fragilis,
+Bacteroides distasonis,
+Bacteroides ovatus,
+Bacteroides thetaiotaomicron,
+Bacteroides uniformis,
+Clostridium clostridioforme,
+Eubacterium lentum,
+Peptostreptococcus species,
+Porphyromonas asaccharolytica,
+Prevotella bivia,
+
+Ertapenem is marketed by Merck as a first-line treatment for community-acquired infections.  It should not be used as empirical treatment for hospital-acquired infections because of its lack of activity against ''Pseudomonas aeruginosa''.  In practice, it is reserved primarily for use against [[Extended spectrum beta-lactamase|Extended spectrum beta-lactamase (ESBL)]]-producing and high level [[Beta-lactamase#AmpC-type .CE.B2-lactamases .28Class C.29|AmpC]]-producing Gram-negative bacteria.
+
+==Dosage==
+Ertapenem is dosed as 1 g given by [[intravenous]] injection over 30 minutes, or 1 g diluted with 3.2 ml of 1% [[lidocaine]] given [[intramuscular]]ly.  There is no [[Wiktionary:oral|oral]] preparation of ertapenem available.  Ertapenem cannot be mixed with glucose.
+
+The marketing [[slogan]] for ertapenem is "The Power of One", because the dose is one [[gram]], once a day.
+
+==Pharmacokinetics==
+Unlike [[imipenem]] and [[meropenem]], ertapenem is highly protein-bound, which results in a longer [[half-life]] (4 hours).<ref>[http://www.merck.ca/assets/en/pdf/products/INVANZ-PM_E.pdf Product Monograph. Invanz: ertapenem for injection]</ref>
+
+Ertapenem is [[excretion|excreted]] primarily (80%) by the kidneys.  Metabolism by the liver is not clinically important and does not affect dosing.
+
+Patients on [[haemodialysis]] should be given ertapenem at least 6 hours before dialysis.  If it is given less than six hours before dialysis, the patient should be given an additional dose of 150&nbsp;mg IV after dialysis.  Ideally, patients on haemodialysis should be given ertapenem immediately following dialysis.
+
+===Resistance===
+Acquired resistance to ertapenem is usually mediated by up-regulation of efflux mechanisms and by the selection of porin-deficient mutants.  Organisms that produce a metallo-[[beta-lactamase|&beta;-lactamase]] are innately immune to ertapenem (as well as all [[carbapenem]]s).{{Citation needed|date=October 2007}}
+
+==Side-effects==
+There are a few [[Adverse drug reaction|adverse effect]]s of ertapenem like confusion and headache, which may worsen to convulsions and seizures.  The only absolute contra-indication is a previous [[anaphylaxis|anaphylactic reaction]] to ertapenem or other β-lactam antibiotic.  There are no studies done in pregnant women, so the manufacturers cannot comment on its safety in pregnancy. In 2006, Ertapenem became approved for pediatric use in certain infections. Ertapenem is not recommended for children under 3 months of age and children with [[meningitis]].
+
+As with many antibiotics, ''[[Clostridium difficile colitis|Clostridium difficile]]'' [[pseudomembranous colitis|colitis]] has been associated with its use.
+
+==References==
+{{reflist}}
+
+{{CephalosporinAntiBiotics}}
+{{Merck&Co}}
+
+[[Category:Carbapenem antibiotics]]
+[[Category:Benzoic acids]]
+[[Category:Anilides]]
+[[Category:Pyrrolidines]]

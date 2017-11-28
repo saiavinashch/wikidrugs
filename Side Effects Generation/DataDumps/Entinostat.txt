@@ -1,0 +1,75 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 444340516
+| ImageFile=Entinostat.svg
+| ImageSize=260
+| IUPACName=Pyridin-3-ylmethyl ''N''-<nowiki>[[</nowiki>4-[(2-aminophenyl)carbamoyl]phenyl]<wbr />methyl]carbamate
+| OtherNames=SNDX-275; MS-275
+
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 1ZNY4FKK9H
+| IUPHAR_ligand = 7007
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo=209783-80-2
+| PubChem=4261
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D09338
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 132082
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 27759
+| SMILES=C1=CC=C(C(=C1)N)NC(=O)C2=CC=C(C=C2)CNC(=O)OCC3=CN=CC=C3
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 4111
+| InChI = 1/C21H20N4O3/c22-18-5-1-2-6-19(18)25-20(26)17-9-7-15(8-10-17)13-24-21(27)28-14-16-4-3-11-23-12-16/h1-12H,13-14,22H2,(H,24,27)(H,25,26)
+| InChIKey = INVTYAOGFAGBOE-UHFFFAOYAU
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C21H20N4O3/c22-18-5-1-2-6-19(18)25-20(26)17-9-7-15(8-10-17)13-24-21(27)28-14-16-4-3-11-23-12-16/h1-12H,13-14,22H2,(H,24,27)(H,25,26)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = INVTYAOGFAGBOE-UHFFFAOYSA-N
+  }}
+
+|Section2={{Chembox Properties
+| Formula=C<sub>21</sub>H<sub>20</sub>N<sub>4</sub>O<sub>3</sub>
+| MolarMass=376.4085 g/mol
+| Appearance=
+| Density=
+| MeltingPt=
+| BoilingPt=
+| Solubility=
+  }}
+
+|Section3={{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| AutoignitionPt =
+  }}
+}}
+
+'''Entinostat''', also known as '''SNDX-275''' and '''MS-275''', is a [[benzamide]] [[histone deacetylase inhibitor]] undergoing clinical trials for treatment of various cancers.<ref>[http://www.asco.org/ASCOv2/Meetings/Abstracts?&vmview=abst_detail_view&confID=55&abstractID=31482 Phase I trial of 5-azacitidine (5AC) and SNDX-275 in advanced lung cancer (NSCLC)]</ref>
+
+Entinostat inhibits class I [[HDAC1]] and [[HDAC3]] with [[IC50|IC<sub>50</sub>]] of 0.51 μM and 1.7 μM, respectively.<ref>[http://www.freepatentsonline.com/y2009/0263353.html Novel Sulphonylpyrroles as Inhibitors of Hdac S Novel Sulphonylpyrroles]</ref>
+
+Syndax pharmaceuticals currently holds the rights to Entinostat and recently received $26.6 million in funds to advance treatments of resistant cancers using epigenetic tools.<ref>http://www.syndax.com/assets/130827%20Syndax%20Series%20B%20news%20release.pdf</ref>
+
+==Clinical trials==
+There is an ongoing phase II trial studying the effect of entinostat on [[Hodgkin's lymphoma]].<ref>[http://clinicaltrials.gov/ct2/show/NCT00866333 A Phase 2 Multi-Center Study of Entinostat (SNDX-275) in Patient With Relapsed or Refractory Hodgkin's Lymphoma]</ref>
+It is in other phase II trials for advanced [[breast cancer]] (in combination with [[aromatase inhibitor]]s)<ref>[http://clinicaltrials.gov/ct2/show/NCT00828854 A Phase 2, Multicenter Study of the Effect of the Addition of SNDX-275 to Continued Aromatase Inhibitor (AI) Therapy in Postmenopausal Women With ER+ Breast Cancer Whose Disease is Progressing]</ref> and for metastatic [[lung cancer]] (in combination with [[erlotinib]]).<ref>[http://clinicaltrials.gov/ct2/show/NCT00750698 A Phase 2 Exploratory Study of Erlotinib and SNDX-275 in Patients With Non-small Cell Lung Carcinoma Who Are Progressing on Erlotinib]</ref> As of September 2013, the Food and Drug Administration is working with the industry to design phase III clinical trials. They seek to evaluate the application of Entinostat for the reduction, or prevention of, treatment resistance to aromatase inhibitors in hormone receptor positive breast cancer.<ref>Breakthrough Designation Granted to Entinostat for Advanced Breast Cancer
+Silas Inman
+Published Online: Wednesday, September 11, 2013 http://www.onclive.com/web-exclusives/Breakthrough-Designation-Granted-to-Entinostat-for-Advanced-Breast-Cancer</ref> 
+
+==References==
+{{Reflist}}
+
+
+{{HDAC inhibitors}}
+
+[[Category:Benzamides]]
+[[Category:Carbamates]]
+[[Category:Histone deacetylase inhibitors]]
+[[Category:Pyridines]]
+
+
+{{antineoplastic-drug-stub}}

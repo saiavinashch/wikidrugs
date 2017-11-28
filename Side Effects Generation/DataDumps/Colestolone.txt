@@ -1,0 +1,72 @@
+{{Drugbox
+| Verifiedfields = 
+| Watchedfields = 
+| verifiedrevid = 
+| IUPAC_name = (3''S'',5''S'',10''S'',13''R'',17''R'')-3-Hydroxy-10,13-dimethyl-17-(6-methylheptan-2-yl)-1,2,3,4,5,6,7,9,11,12,16,17-dodecahydrocyclopenta[''a'']phenanthren-15-one
+| image = Colestolone.svg
+| width =
+
+<!--Clinical data-->
+| tradename = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = 
+| legal_UK = 
+| legal_US = 
+| legal_status = 
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion =
+
+<!-- Identifiers -->
+| CAS_number_Ref = 
+| CAS_number = 50673-97-7
+| CAS_supplemental = 
+| class = 
+| ATC_prefix = 
+| ATC_suffix = 
+| ATC_supplemental = 
+| PubChem = 39756
+| IUPHAR_ligand = 
+| DrugBank_Ref = 
+| DrugBank = 
+| ChemSpiderID_Ref = 
+| ChemSpiderID = 39756
+| UNII = 5P8396T5XF
+| KEGG = 
+| ChEBI = 
+| ChEMBL =
+
+<!--Chemical data-->
+| C=27 | H=44 | O=2
+| SMILES = CC(C)CCCC(C)[C@H]1CC(=O)C2=C3CC[C@H]4C[C@H](CC[C@@]4(C3CC[C@]12C)C)O
+| StdInChI_Ref = 
+| StdInChI = 1S/C27H44O2/c1-17(2)7-6-8-18(3)23-16-24(29)25-21-10-9-19-15-20(28)11-13-26(19,4)22(21)12-14-27(23,25)5/h17-20,22-23,28H,6-16H2,1-5H3/t18?,19-,20-,22?,23+,26-,27+/m0/s1
+| StdInChIKey_Ref = 
+| StdInChIKey = LINVVMHRTUSXHL-NDNSGUFDSA-N
+| synonyms = 5α-Cholest-8(14)-en-3β-ol-15-one; 3β-Hydroxy-5α-cholest-8(14)-en-15-one
+}}
+
+'''Colestolone''' ({{abbrlink|INN|International Nonproprietary Name}}, {{abbrlink|USAN|United States Adopted Name}}), also known as '''5α-cholest-8(14)-en-3β-ol-15-one''', is a [[potency (pharmacology)|potent]] [[enzyme inhibitor|inhibitor]] of [[sterol]] [[biosynthesis]] which is described as a [[hypocholesterolemic|hypocholesterolemic (lipid-lowering) agent]].<ref name="Elks2014">{{cite book|author=J. Elks|title=The Dictionary of Drugs: Chemical Data: Chemical Data, Structures and Bibliographies|url=https://books.google.com/books?id=0vXTBwAAQBAJ&pg=PA646|date=14 November 2014|publisher=Springer|isbn=978-1-4757-2085-3|pages=646–}}</ref><ref name="Lednicer2009">{{cite book|author=Daniel Lednicer|title=Strategies for Organic Drug Synthesis and Design|url=https://books.google.com/books?id=fEwl6Qev-mUC&pg=PA186|date=4 March 2009|publisher=John Wiley & Sons|isbn=978-0-470-39959-0|pages=186–}}</ref><ref name="US5112815">https://www.google.com/patents/US5112815</ref><ref name="pmid3346239">{{cite journal | vauthors = Schroepfer GJ, Chu AJ, Needleman DH, Izumi A, Nguyen PT, Wang KS, Little JM, Sherrill BC, Kisic A | title = Inhibitors of sterol synthesis. Metabolism of 5 alpha-cholest-8(14)-en-3 beta-ol-15-one after intravenous administration to bile duct-cannulated rats | journal = J. Biol. Chem. | volume = 263 | issue = 9 | pages = 4110–23 | year = 1988 | pmid = 3346239 | doi = | url = }}</ref><ref name="pmid6953447">{{cite journal | vauthors = Schroepfer GJ, Parish EJ, Kisic A, Jackson EM, Farley CM, Mott GE | title = 5 alpha-Cholest-8(14)-en-3 beta-ol-15-one, a potent inhibitor of sterol biosynthesis, lowers serum cholesterol and alters distributions of cholesterol in lipoproteins in baboons | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 79 | issue = 9 | pages = 3042–6 | year = 1982 | pmid = 6953447 | pmc = 346345 | doi = | url = }}</ref> It was first reported in 1977 and was studied until at least 1988, but was never introduced for medical use.<ref name="Elks2014" /><ref name="US5112815" /><ref name="pmid3346239" />
+
+Colestolone has been found to significantly reduce serum levels of [[cholesterol]] both in animals and in humans.<ref name="US5112815" /><ref name="pmid3346239" /><ref name="pmid6953447" /> It inhibits multiple relatively early-stage steps in cholesterol biosynthesis such as [[HMG-CoA reductase]]<ref name="DIANE">{{cite book|title=Pharmaceutical R&D costs, risks, and rewards.|url=https://books.google.com/books?id=Jh49Llr2x0AC&pg=PA25|publisher=DIANE Publishing|isbn=978-1-4289-2103-0|pages=25–}}</ref> and does not appear to affect any late-stage steps (after [[squalene]], specifically).<ref name="pmid6953447" /> Unlike late-stage cholesterol biosynthesis inhibitors like [[triparanol]] and [[azacosterol]], no accumulation of sterols has been observed in animals treated with colestolone, suggesting that it does not share the [[toxicity]] of late-stage cholesterol biosynthesis inhibitors.<ref name="pmid6953447" />
+
+In addition to its potent inhibition of cholesterol biosynthesis, it is notable that colestolone also happens to serve as a [[precursor (biochemistry)|precursor]] of cholesterol, and is efficiently [[biotransformation|converted]] into it in rat [[liver]] [[homogenate]]s and upon [[oral administration]] to rats.<ref name="pmid6953447" />
+
+==References==
+{{Reflist|30em}}
+
+[[Category:Abandoned drugs]]
+[[Category:Alcohols]]
+[[Category:Hypolipidemic agents]]
+[[Category:Ketones]]
+[[Category:Statins]]
+[[Category:Steroidogenesis inhibitors]]
+[[Category:Sterols]]

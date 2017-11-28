@@ -1,0 +1,127 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 458281479
+| IUPAC_name = Hydroxyurea
+| image = Hydroxyurea.svg
+| width = 140
+| alt = Structural formula
+| image2 = Hydroxyurea-3D-balls.png
+<!--Clinical data-->
+| tradename =  Droxia, Hydrea, others
+| USAN = Hydroxyurea
+| Drugs.com = {{drugs.com|international|hydroxycarbamide}}
+| MedlinePlus = a682004
+| licence_EU = Siklos
+| licence_US = Hydroxyurea
+| pregnancy_AU = D
+| pregnancy_US = D
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only 
+| routes_of_administration = by mouth
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism = [[liver]] (to CO2 and urea)
+| elimination_half-life = 2–4 hours
+| excretion = Renal and lungs
+<!--Identifiers-->
+| IUPHAR_ligand = 6822
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 127-07-1
+| ATC_prefix = L01
+| ATC_suffix = XX05
+| ATC_supplemental =  
+| PubChem = 3657
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01005
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3530
+| NIAID_ChemDB = 006310
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = X6Q56QN5QC
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00341
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 44423
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 467
+<!--Chemical data-->
+| C=1 | H=4 | N=2 | O=2
+| molecular_weight = 76.0547 g/mol
+| smiles = O=C(N)NO
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/CH4N2O2/c2-1(4)3-5/h5H,(H3,2,3,4)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = VSNHCAURESNICA-UHFFFAOYSA-N
+| melting_point = 133
+| melting_high = 136
+}}
+<!-- Definition and medical uses -->
+'''Hydroxycarbamide''', also known as '''hydroxyurea''', is a medication used in [[sickle-cell disease]], [[chronic myelogenous leukemia]], [[cervical cancer]], and [[polycythemia vera]].<ref name=AHFS2016/><ref name=UK2016>{{cite web|title=Hydrea 500 mg Hard Capsules – Summary of Product Characteristics (SPC) – (eMC)|url=https://www.medicines.org.uk/emc/medicine/19081|website=www.medicines.org.uk|accessdate=14 December 2016|deadurl=no|archiveurl=https://web.archive.org/web/20161220184353/https://www.medicines.org.uk/emc/medicine/19081|archivedate=20 December 2016|df=}}</ref> In sickle-cell disease it decreases the number of attacks.<ref name=AHFS2016/> It is taken by mouth.<ref name=AHFS2016/>
+
+<!-- Side effects and mechanism -->
+Common side effects include [[bone marrow suppression]], fevers, loss of appetite, [[psychiatric problems]], [[shortness of breath]], and [[headaches]].<ref name=AHFS2016/><ref name=UK2016/> There is also concern that it increases the risk of later [[cancer]]s.<ref name=AHFS2016/> Use during [[pregnancy]] is typically harmful to the baby.<ref name=AHFS2016/> Hydroxycarbamide is in the [[antineoplastic]] family of medications.<!-- <ref name=AHFS2016 --> It is believed to work by blocking the making of [[DNA]].<ref name=AHFS2016/>
+
+<!-- Society and culture -->
+Hydroxycarbamide was approved for medical use in the United States in 1967.<ref name=AHFS2016>{{cite web|title=Hydroxyurea|url=https://www.drugs.com/monograph/hydroxyurea.html|publisher=The American Society of Health-System Pharmacists|accessdate= 8 December 2016}}</ref> It is on the [[World Health Organization's List of Essential Medicines]], the most effective and safe medicines needed in a [[health system]].<ref name=WHO19th>{{cite web|title=WHO Model List of Essential Medicines (19th List)|url=http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|work=World Health Organization|accessdate=8 December 2016|date=April 2015|deadurl=no|archiveurl=https://web.archive.org/web/20161213052708/http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|archivedate=13 December 2016|df=}}</ref> Hydroxycarbamide is available as a [[generic medication]].<ref name=AHFS2016/> The wholesale cost in the [[developing world]] is about 0.35 to 0.47 USD per day.<ref name=ERC2014>{{cite web|title=Hydroxycarbamide|url=http://erc.msh.org/dmpguide/resultsdetail.cfm?language=english&code=HDC500T&s_year=2014&year=2014&str=500%20mg&desc=Hydroxycarbamide&pack=new&frm=TAB-CAP&rte=PO&class_code2=&supplement=&class_name=%2808%2E2%2E%29Cytotoxic%20and%20adjuvant%20medicines%3Cbr%3E%28%29%3Cbr%3E|website=International Drug Price Indicator Guide|accessdate=8 December 2016}}</ref> In the United States it costs less than 25 USD a month.<ref name=Ric2015>{{cite book|last1=Hamilton|first1=Richart|title=Tarascon Pocket Pharmacopoeia 2015 Deluxe Lab-Coat Edition|date=2015|publisher=Jones & Bartlett Learning|isbn=9781284057560|page=295}}</ref>
+
+==Medical uses==
+Hydroxycarbamide is used for the following indications:
+* [[Myeloproliferative disease]] (primarily [[polycythemia vera]] and [[essential thrombocytosis]]). It has been found to be superior to [[anagrelide]] for the control of ET.<ref name="pmid16000354">{{cite journal  |vauthors=Harrison CN, Campbell PJ, Buck G, etal |title=Hydroxyurea compared with anagrelide in high-risk essential thrombocythemia |journal=N. Engl. J. Med. |volume=353 |issue=1 |pages=33–45 |date=July 2005 |pmid=16000354 |doi=10.1056/NEJMoa043800 |url=http://content.nejm.org/cgi/pmidlookup?view=short&pmid=16000354&promo=ONFLNS19}}</ref>
+* [[Sickle-cell disease]]<ref name="pmid18458272">{{cite journal  |vauthors=Lanzkron S, Strouse JJ, Wilson R, etal |title=Systematic review: Hydroxyurea for the treatment of adults with sickle cell disease |journal=Ann. Intern. Med. |volume=148 |issue=12 |pages=939–55 |date=June 2008 |pmid=18458272 |doi= 10.7326/0003-4819-148-12-200806170-00221|url= |pmc=3256736}}</ref> (increases production of fetal hemoglobin that then reduces the tendency of sickle cells to sickle, as well as reducing white blood cells that contribute to the general inflammatory state in sickle cell patients.)
+* Second line treatment for [[psoriasis]]<ref name="pmid17642550">{{cite journal |vauthors=Sharma VK, Dutta B, Ramam M |title=Hydroxyurea as an alternative therapy for psoriasis |journal=Indian J Dermatol Venereol Leprol |volume=70 |issue=1 |pages=13–7 |year=2004 |pmid=17642550 |doi= |url=http://www.ijdvl.com/article.asp?issn=0378-6323;year=2004;volume=70;issue=1;spage=13;epage=17;aulast=Sharma |deadurl=no |archiveurl=https://web.archive.org/web/20090703155748/http://www.ijdvl.com/article.asp?issn=0378-6323%3Byear%3D2004%3Bvolume%3D70%3Bissue%3D1%3Bspage%3D13%3Bepage%3D17%3Baulast%3DSharma |archivedate=2009-07-03 |df= }}</ref> (slows down the rapid division of skin cells)
+* [[Psoriasis]]<ref name="Rustin2012">{{Cite journal|author=Rustin, MH| title = Long-term safety of biologics in the treatment of moderate-to-severe plaque psoriasis: review of current data | journal=Br J Dermatol | volume=167|issue=Suppl 3|pages=3–11|date=November 2012|pmid=23082810|doi=10.1111/j.1365-2133.2012.11208.x}}</ref>
+* [[Systemic mastocytosis]]<ref>{{Cite journal | last1 = Escribano | first1 = L. | last2 = Álvarez-Twose | first2 = I. N. | last3 = Sánchez-Muñoz | first3 = L. | last4 = Garcia-Montero | first4 = A. | last5 = Núñez | first5 = R. | last6 = Almeida | first6 = J. | last7 = Jara-Acevedo | first7 = M. | last8 = Teodósio | first8 = C. | last9 = García-Cosío | first9 = M. N. | last10 = Bellas | first10 = Carmen | last11 = Orfao | first11 = Alberto | doi = 10.1016/j.jaci.2009.05.003 | title = Prognosis in adult indolent systemic mastocytosis: A long-term study of the Spanish Network on Mastocytosis in a series of 145 patients | journal = Journal of Allergy and Clinical Immunology | volume = 124 | issue = 3 | pages = 514–521 | year = 2009 | pmid = 19541349 | pmc = | display-authors = 8 }}</ref>
+*[[Chronic myelogenous leukemia]] (largely replaced by [[imatinib]], but still in use for its cost-effectiveness)<ref>{{Cite journal | last1 = Dalziel | first1 = K. | last2 = Round | first2 = A. | last3 = Stein | first3 = K. | last4 = Garside | first4 = R. | last5 = Price | first5 = A. | title = Effectiveness and cost-effectiveness of imatinib for first-line treatment of chronic myeloid leukaemia in chronic phase: A systematic review and economic analysis | journal = Health technology assessment (Winchester, England) | volume = 8 | issue = 28 | pages = iii, ii1–120 | year = 2004 | pmid = 15245690}}</ref>
+
+==Side effects==
+Reported side-effects are: [[drowsiness]], [[nausea]], [[vomiting]] and [[diarrhea]], [[constipation]], [[mucositis]], [[anorexia (symptom)|anorexia]], [[stomatitis]], [[bone marrow toxicity]] (dose-limiting toxicity; may take 7–21 days to recover after the drug has been discontinued), [[alopecia]] (hair loss), skin changes, abnormal [[liver enzyme]]s, [[creatinine]] and [[blood urea nitrogen]].<ref name=Liebelt2007>{{Cite journal| doi = 10.1002/bdrb.20123| pmid = 17712860| year = 2007| last1 = Liebelt | first1 = E.| last2 = Balk | first2 = S.| last3 = Faber | first3 = W.| last4 = Fisher | first4 = J.| last5 = Hughes | first5 = C.| last6 = Lanzkron | first6 = S.| last7 = Lewis | first7 = K.| last8 = Marchetti | first8 = F.| last9 = Mehendale | first9 = H.| last10 = Rogers | first10 = J. M.| last11 = Shad | first11 = A. T.| last12 = Skalko | first12 = R. G.| last13 = Stanek | first13 = E. J.| title = NTP-CERHR expert panel report on the reproductive and developmental toxicity of hydroxyurea| volume = 80| issue = 4| pages = 259–366| journal = Birth defects research. Part B, Developmental and reproductive toxicology}}</ref>
+
+Due to its negative effect on the bone marrow, regular monitoring of the [[full blood count]] is vital, as well as early response to possible infections. In addition, [[renal function]], [[uric acid]] and [[electrolytes]], as well as [[liver enzyme]]s, are commonly checked.<ref name="gale">{{Cite book|last=Longe |first=Jacqueline L. |title=Gale Encyclopedia Of Cancer: A Guide To Cancer And Its Treatments |publisher=Thomson Gale |location=Detroit |year=2002 |pages=514–516 |isbn=978-1-4144-0362-5}}</ref> Moreover, because of this, severe [[anemia]] and [[neutropenia]] are contraindicated.
+
+Hydroxycarbamide has been used primarily for the treatment of myeloproliferative diseases, which has an inherent risk of transforming to [[acute myeloid leukemia]]. There has been a longstanding concern that hydroxycarbamide itself carries a leukemia risk, but large studies have shown that the risk is either absent or very small. Nevertheless, it has been a barrier for its wider use in patients with sickle-cell disease.<ref name=Platt2008/>
+
+==Mechanism of action==
+Hydroxycarbamide decreases the production of [[deoxyribonucleotide]]s<ref>{{DorlandsDict|four/000050608|hydroxyurea}}</ref> via inhibition of the enzyme [[ribonucleotide reductase]] by scavenging tyrosyl free radicals as they are involved in the reduction of nucleoside diphosphates (NDPs).<ref name=Platt2008>{{cite journal |author=Platt OS |title=Hydroxyurea for the treatment of sickle cell anemia |journal=N. Engl. J. Med. |volume=358 |issue=13 |pages=1362–9 |year=2008 |pmid=18367739 |doi=10.1056/NEJMct0708272}}</ref>
+
+In the treatment of [[sickle-cell disease]], hydroxycarbamide increases the concentration of [[fetal hemoglobin]]. The precise mechanism of action is not yet clear, but it appears that hydroxycarbamide increases [[nitric oxide]] levels, causing soluble [[guanylyl cyclase]] activation with a resultant rise in [[cyclic GMP]], and the activation of gamma globin gene expression and subsequent gamma chain synthesis necessary for [[fetal hemoglobin]] (HbF) production (which does not polymerize and deform red blood cells like the mutated HbS, responsible for sickle cell disease). Adult red cells containing more than 1% HbF are termed F cells. These cells are progeny of a small pool of immature committed erythroid precursors (BFU-e) that retain the ability to produce HbF. Hydroxyurea also suppresses the production of granulocytes in the bone marrow which has a mild immunosuppressive effect particularly at vascular sites where sickle cells have occluded blood flow.<ref name=Platt2008/><ref name="pmid12531879">{{cite journal |vauthors=Cokic VP, Smith RD, Beleslin-Cokic BB, etal |title=Hydroxyurea induces fetal hemoglobin by the nitric oxide-dependent activation of soluble guanylyl cyclase |journal=J Clin Invest |volume=111 |issue=2 |pages=231–9 |year=2003 |pmid=12531879 |doi=10.1172/JCI16672 |url=http://www.jci.org/articles/view/16672 |pmc=151872 |deadurl=no |archiveurl=https://web.archive.org/web/20090115015958/http://www.jci.org/articles/view/16672 |archivedate=2009-01-15 |df= }}</ref>
+
+==Names==
+Brand names include: Hydrea, Litalir, Droxia, and Siklos
+
+==Natural occurrence==
+Hydroxyurea has been reported as endogenous in human blood plasma at concentrations of approximately 30 to 200&nbsp;ng/ml.<ref>{{cite journal | doi = 10.1016/j.jchromb.2008.12.048 | title = Plasma hydroxyurea determined by gas chromatography-mass spectrometry | year = 2009 | last1 = Kettani | first1 = T | last2 = Gulbis | first2 = B | last3 = Ferster | first3 = A | last4 = Kumps | first4 = A | journal = Journal of Chromatography B | volume = 877 | issue = 4 | pages = 446–450 }}</ref>
+
+==Chemistry==
+Hydroxyurea has been prepared in many different ways since its initial synthesis in 1869.<ref name="Dresler and Stein et al 1869">{{cite journal| title=Ueber den Hydroxylharnstoff|author1=Dresler WFC|author2= Stein R|year=1869|journal=Justus Liebigs Ann Chemie 150:1317–22}}</ref> Medical chemists, Dresler and Stein created Hydroxyurea from hydroxylamine, hydrochloric acid and potassium cyanide as a technical exercise in organic chemistry, as part of a series of experiments generating derivatives of urea. Hydroxyurea lay dormant for more than fifty years until it was studied as part of an investigation into the toxicity of protein metabolites.<ref name=PMC3069221">{{cite journal|title=The rationale for using hydroxycarbamide in the treatment of sickle cell disease|author=Rees C. David|year=2011|volume=96|issue=4|pages=488–491|doi=10.3324/haematol.2011.041988|url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3069221/#b1-0960488|deadurl=no|archiveurl=https://web.archive.org/web/20170910182925/https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3069221/#b1-0960488|archivedate=2017-09-10|df=}}</ref> Due to its chemical properties hydroxyurea was explored as an antisickling agent in the treatment of hematological conditions.
+
+One common mechanism for synthesizing hydroxyurea is by the reaction of calcium cyanate with hydroxylamine nitrate in absolute ethanol and by the reaction of salt (i.e. sodium or potassium) cyanates and hydroxylamine hydrochloride in aqueous solution.<ref name = "Hydroxyurea synthesis">{{cite journal| title = Synthesis of Ureas| year = 1955| author = Graham P.J.| publisher = E.I. du Pont de Nemours & Co., Wilmington, DE | volume = US Patent No. 2,705,727 }}</ref> Hydroxyurea has also been prepared by converting a quaternary ammonium anion exchange resin from the chloride form to the cyanate form with sodium cyanate and reacting the resin in the cyanate form with hydroxylamine hydrochloride. This method of hydroxyurea synthesis patented by Hussain et al (2015) is shown in the diagram below.<ref name="Hussain et al 2016">{{cite journal|title=New Method for Synthesis of Hydroxyurea and Some of its Polymer Supported Derivatives As New Controlled Release Drugs|author= Hussain KA, Abid DS, Adam GA| DOI= 10.13140/RG.2.1.3607.2720|year=2016|journal=Journal of Basrah Research|volume=41|issue=1}}</ref>
+
+[[File:Hydroxyurea Synthesis.jpg|thumb|Illustrates the synthesis process of hydroxyurea used and published by Hussain et al 2016]]
+
+==Pharmacology==
+Hydroxyurea is a monohydroxyl-substituted urea (hydroxycarbamate) [[antimetabolite]]. Similar to other antimetabolite anti-cancer drugs, it acts by disrupting the DNA replication process of dividing cancer cells in the body. Hydroxyurea selectively inhibits [[ribonucleoside diphosphate reductase]], an enzyme required to convert ribonucleoside diphosphates into deoxyribonucleoside diphosphates, thereby preventing cells from leaving the G1/S phase of the cell cycle. This agent also exhibits radiosensitizing activity by maintaining cells in the radiation-sensitive G1 phase and interfering with DNA repair.<ref name=pubchem>{{cite website|title=Pharmacology and Biochemistry|journal=PubChem|url=https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyurea#section=Prescription-Drug-Products|deadurl=no|archiveurl=https://web.archive.org/web/20170518234727/https://pubchem.ncbi.nlm.nih.gov/compound/hydroxyurea#section=Prescription-Drug-Products|archivedate=2017-05-18|df=}}</ref>
+
+Biochemical research has explored its role as a [[DNA replication]] inhibitor<ref name="pmid14573610">{{cite journal |vauthors=Koç A, Wheeler LJ, Mathews CK, Merrill GF |title=Hydroxyurea arrests DNA replication by a mechanism that preserves basal dNTP pools |journal=J. Biol. Chem. |volume=279 |issue=1 |pages=223–30 |date=January 2004 |pmid=14573610 |doi=10.1074/jbc.M303952200 |url=http://www.jbc.org/cgi/pmidlookup?view=long&pmid=14573610}}</ref> which causes deoxyribonucleotide depletion and results in DNA double strand breaks near [[replication fork]]s (see [[DNA repair]]). Repair of DNA damaged by chemicals or irradiation is also inhibited by hydroxyurea, offering potential synergy between hydroxyurea and radiation or alkylating agents.<ref name=pmid1641648>{{cite journal|title="Mechanism of Action"|year=1992|author=Yarbro JW|journal=Seminars in Oncology|volume=19|issue=3|pages=1–10|url=https://www.ncbi.nlm.nih.gov/pubmed/1641648|deadurl=no|archiveurl=https://web.archive.org/web/20150424031000/http://www.ncbi.nlm.nih.gov/pubmed/1641648|archivedate=2015-04-24|df=}}</ref>
+
+Hydroxyurea has many pharmacological applications under the [[Medical Subject Headings (MeSH)]] classification system:<ref name="pubchem"/>
+
+* Antineoplastic Agents – Substances that inhibit or prevent the proliferation of neoplasms. 
+* Antisickling Agents – Agents used to prevent or reverse the pathological events leading to sickling of erythrocytes in sickle cell conditions. 
+* Nucleic Acid Synthesis Inhibitors – Compounds that inhibit cell production of DNA or RNA.
+* Enzyme Inhibitors – Compounds or agents that combine with an enzyme in such a manner as to prevent the normal substrate-enzyme combination and the catalytic reaction.
+* Cytochrome P-450 [[CYP2D6]] Inhibitors – Acts as an inhibitor to one of the most important enzymes involved in the metabolism of xenobiotics in the body, [[CYP2D6]] a member of the cytochrome P450 mixed oxidase system.
+
+==References==
+{{reflist|32em}}
+
+{{Chemotherapeutic agents}}
+{{HIVpharm}}
+
+[[Category:Ureas]]
+[[Category:Antineoplastic antimetabolites]]
+[[Category:IARC Group 3 carcinogens]]
+[[Category:World Health Organization essential medicines]]
+[[Category:RTT]]

@@ -1,0 +1,52 @@
+{{Drugbox
+| IUPAC_name = 1-<nowiki/>{[2-(pyrimidin-2-yl)octahydro-2''H''-pyrido[1,2-a]pyrazin-7-yl]methyl}pyrrolidine-2,5-dione
+| image = Sunepitron.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_category =  
+| legal_status = Uncontrolled
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number = 148408-65-5
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 9799246
+| ChemSpiderID = 7975011
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 2GT50C8U60
+| KEGG = D02569
+| ChEMBL = 380369
+
+<!--Chemical data-->
+| C=17 | H=23 | N=5 | O=2 
+| molecular_weight = 329.40 g/mol
+| smiles = O=C1N(C(=O)CC1)CC4CCC3N(CCN(c2ncccn2)C3)C4
+}}
+
+'''Sunepitron''' ('''CP-93,393''') is a combined [[5-HT1A receptor|5-HT<sub>1A</sub> receptor]] [[agonist]] and [[alpha-2 adrenergic receptor|α<sub>2</sub>-adrenergic receptor]] [[receptor antagonist|antagonist]].<ref name="pmid18438295">{{cite journal | author = Goodnick PJ | title = Psychopharmacology of depression in the next millennium | journal = CNS Spectrums | volume = 4 | issue = 7 | pages = 21–35 |date=July 1999 | pmid = 18438295 | doi = | url = }}</ref><ref name="isbn0-521-64615-4">{{cite book | author = Stahl, S. M. | title = Essential psychopharmacology: neuroscientific basis and practical application | publisher = Cambridge University Press | location = Cambridge, UK | year = 2000 | pages = | isbn = 0-521-64615-4 | oclc = | doi = | url = https://books.google.com/books?id=ICztBCFFRqEC&lpg=PA306&pg=PA265#v=onepage&q=&f=false}}</ref> It was previously under development by [[Pfizer]] for the treatment of [[major depression|depression]] and [[anxiety]].<ref name="isbn0-7373-0417-0">{{cite book |author1=Kaplan, Eliot F. |author2=Turkington, Carol | title = Making the antidepressant decision: how to choose the right treatment option for you and your loved ones | publisher = Contemporary Books | location = Chicago, Ill | year = 2001 | pages = | isbn = 0-7373-0417-0 | oclc = | doi = | url = https://books.google.com/books?id=qVtvcsUy2U8C&lpg=PA218&pg=PA218#v=onepage&q=&f=false}}</ref> It made it to [[Clinical trial#Phase III|phase III]] [[clinical trial]]s before being discontinued.<ref name="isbn0-521-64615-4"/><ref name="isbn0-7373-0417-0"/>
+
+==Synthesis==
+[[File:Sunepitron synthesis.svg|thumb|center|700px|Sunepitron synthesis: G.N. Bright, K.A. Desai, {{US Patent|5,122,525}} (1992).]]
+The synthesis starts by conversion of the pyridine dicarboxylic acid ('''1''') to its acid chloride; rxn with MeOH then affords the ester ('''2'''). [[Catalytic hydrogenation]] serves to reduce the pyridine ring to a piperidine of undefined stereochemistry ('''3'''). Alkylation of this intermediate with chloroacetonitrile affords ('''4'''). Treatment of that intermediate with [[Raney nickel]] reduces the cyano group to the corresponding primary amine; this product then undergoes an internal ester-amine interchange to yield the cyclized [[lactam]] ('''5'''). LAH serves to reduce the lactam to an amine; the ester on the other ring is reduced to a carbinol in the process, affording the aminoalcohol ('''7'''). The basic function is next alkylated with 2-chloropyrimidine ('''7'''). Rxn of the alcoholin ('''8''') with MsCl leads to the mesylate; that group is next displaced by [[sodium azide]] ('''9'''); the azide group is next reduced to the primary amine. Resolution of this product as its [[mandelate]] salt then yields ('''10''') as a single enantiomer. Rxn of that product with [[succinic anhydride]] converts the pendant amine to a succinimide, affording the anxiolytic agent '''sunepitron''' ('''1''').
+
+== See also ==
+* [[Lesopitron]]
+
+== References ==
+{{Reflist}}
+
+{{Antidepressants}}
+{{Anxiolytics}}
+{{Adrenergics}}
+{{Serotonergics}}
+
+[[Category:Pyrimidines]]
+[[Category:Succinimides]]

@@ -1,0 +1,258 @@
+{{Drugbox
+| verifiedrevid = 464405524
+| IUPAC_name = 4-[4-<nowiki>[[</nowiki>4-chloro-3-(trifluoromethyl)phenyl]carbamoylamino]<br>phenoxy]-''N''-methyl-pyridine-2-carboxamide
+| image = Sorafenib2DACS.svg
+| width = 300
+| image2 = Sorafenib3Dan.gif
+| width2 = 250
+
+<!--Clinical data-->
+| tradename = Nexavar
+| Drugs.com = {{drugs.com|monograph|nexavar}}
+| MedlinePlus = a607051
+| licence_EU = Nexavar
+| licence_US = Sorafenib
+| pregnancy_AU = D
+| pregnancy_US = D
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 38–49%
+| protein_bound = 99.5%
+| metabolism = [[Liver|Hepatic]] [[redox|oxidation]] and [[glucuronidation]] ([[CYP3A4]] & [[UGT1A9]]-mediated)
+| elimination_half-life = 25–48 hours
+| excretion = Faeces (77%) and urine (19%)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5711
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 284461-73-0
+| ATC_prefix = L01
+| ATC_suffix = XE05
+| PubChem = 216239
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00398
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 187440
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 9ZOQ3TZI87
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08524
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 50924
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1336
+| PDB_ligand = BAX
+
+<!--Chemical data-->
+| C=21 | H=16 | Cl=1 | F=3 | N=4 | O=3
+| molecular_weight = 464.825 g/mol
+| smiles = CNC(=O)c1cc(ccn1)Oc2ccc(cc2)NC(=O)Nc3ccc(c(c3)C(F)(F)F)Cl
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H16ClF3N4O3/c1-26-19(30)18-11-15(8-9-27-18)32-14-5-2-12(3-6-14)28-20(31)29-13-4-7-17(22)16(10-13)21(23,24)25/h2-11H,1H3,(H,26,30)(H2,28,29,31)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = MLDQJTXFUGDVEO-UHFFFAOYSA-N
+| synonyms = Nexavar<br>Sorafenib tosylate
+}}
+'''Sorafenib''' (co-developed and co-marketed by [[Bayer]] and [[Onyx Pharmaceuticals]] as '''Nexavar'''),<ref>{{cite press release|url=http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/2007/ucm109030.htm |title=FDA Approves Nexavar for Patients with Inoperable Liver Cancer |publisher=FDA |date=November 19, 2007 |accessdate=November 10, 2012}}</ref> is a [[kinase]] inhibitor drug approved for the treatment of primary kidney cancer (advanced [[renal cell carcinoma]]), advanced primary liver cancer ([[hepatocellular carcinoma]]), and radioactive iodine resistant advanced thyroid carcinoma.
+
+==Mechanism of action==
+Sorafenib is a [[tyrosine kinase inhibitor|small inhibitor]] of several [[protein kinase|tyrosine protein kinase]]s, such as [[VEGFR]], [[PDGFR]] and [[Raf kinase|Raf family kinase]]s (more avidly [[C-Raf]] than [[B-raf 1|B-Raf]]).<ref name="pmid18794803">{{cite journal | vauthors = Smalley KS, Xiao M, Villanueva J, Nguyen TK, Flaherty KT, Letrero R, Van Belle P, Elder DE, Wang Y, Nathanson KL, Herlyn M | title = CRAF inhibition induces apoptosis in melanoma cells with non-V600E BRAF mutations | journal = Oncogene | volume = 28 | issue = 1 | pages = 85–94 |date=January 2009 | pmid = 18794803 | pmc = 2898184 | doi = 10.1038/onc.2008.362 }}</ref><ref name="pmid18852116">{{cite journal | vauthors = Wilhelm SM, Adnane L, Newell P, Villanueva A, Llovet JM, Lynch M | title = Preclinical overview of sorafenib, a multikinase inhibitor that targets both Raf and VEGF and PDGF receptor tyrosine kinase signaling | journal = Mol. Cancer Ther. | volume = 7 | issue = 10 | pages = 3129–40 |date=October 2008 | pmid = 18852116 | doi = 10.1158/1535-7163.MCT-08-0013 }}</ref><ref name=Keeting2009/>
+
+(See [[BRAF (gene)#Sorafenib]] for details of drug structure interaction with B-Raf.)
+
+Sorafenib treatment induces [[autophagy]],<ref name=" pmid = 24213221">{{cite journal | author = Zhang Y | title = Screening of kinase inhibitors targeting BRAF for regulating autophagy based on kinase pathways. | journal = J Mol Med Rep | volume = 9 | issue = 1|date=Jan 2014 | pmid = 24213221 | url = http://www.spandidos-publications.com/mmr/9/1/83 | pages = 83–90 | doi=10.3892/mmr.2013.1781}}</ref> which may suppress tumor growth. However, autophagy can also cause drug resistance.<ref name=" pmid = 23145926 ">{{cite journal | author = Gauthier A | title = Role of sorafenib in the treatment of advanced hepatocellular carcinoma: An update.. | journal = Hepatol Res | volume = 43 | issue = 2 |date=Feb 2013 | pmid = 23145926 | pages = 147–154 | doi=10.1111/j.1872-034x.2012.01113.x | pmc=3574194}}</ref>
+
+==Medical uses==
+At the current time sorafenib is indicated as a treatment for advanced [[renal cell carcinoma]] (RCC), unresectable [[hepatocellular carcinoma]]s (HCC) and [[thyroid cancer]].<ref name = MSR>{{cite web|title=Nexavar (sorafenib) dosing, indications, interactions, adverse effects, and more|work=Medscape Reference|publisher=WebMD|accessdate=26 December 2013|url=http://reference.medscape.com/drug/nexavar-sorafenib-342260#showall}}</ref><ref name = DM>{{cite web|title=NEXAVAR (sorafenib) tablet, film coated [Bayer HealthCare Pharmaceuticals Inc.]|work=DailyMed|publisher=Bayer HealthCare Pharmaceuticals Inc.|date=November 2013|accessdate=26 December 2013|url=http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50667e4-5ebc-4968-a646-d605058dbef0}}</ref><ref name = EMC>{{cite web|title=Nexavar 200mg film-coated tablets - Summary of Product Characteristics (SPC) - (eMC)|work=electronic Medicines Compendium|publisher=Bayer plc|date=27 March 2013|accessdate=26 December 2013|url=http://www.medicines.org.uk/emc/medicine/18520/SPC/Nexavar+200mg+film-coated+tablets/}}</ref><ref name = TGA>{{cite web|title=PRODUCT INFORMATION NEXAVAR® (sorafenib tosylate)|work=TGA eBusiness Services|publisher=Bayer Australia Ltd|date=12 December 2012|accessdate=26 December 2013|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2010-PI-07403-3|format=PDF}}</ref>
+
+===Kidney cancer===
+Clinical trial results, published January 2007, showed that, compared with placebo, treatment with sorafenib prolongs [[progression-free survival]] in patients with advanced clear cell renal cell carcinoma in whom previous therapy has failed. The median progression-free survival was 5.5 months in the sorafenib group and 2.8 months in the placebo group ([[hazard ratio]] for disease progression in the sorafenib group, 0.44; 95% confidence interval [CI], 0.35 to 0.55; P<0.01).<ref name="pmid17215530">{{cite journal|author1 = Escudier, B|author2 = Eisen, T |author3 = Stadler, WM |author4 = Szczylik, C |author5 = Oudard, S |author6 = Siebels, M |author7 = Negrier, S |author8 =  Chevreau, C |author9 =  Solska, E |author10 =  Desai, AA |author11 =  Rolland, F |author12 =  Demkow, T |author13 =  Hutson, TE |author14 =  Gore, M |author15 =  Freeman, S |author16 =  Schwartz, B |author17 =  Shan, M |author18 =  Simantov, R |author19 =  Bukowski, RM | title = Sorafenib in advanced clear-cell renal-cell carcinoma | journal = New England Journal of Medicine | volume = 356 | issue = 2 | pages = 125–34 |date=January 2007 | pmid = 17215530 |doi = 10.1056/NEJMoa060655 }}</ref> 
+
+A few reports described patients with stage IV renal cell carcinomas, metastasized to the brain, that were successfully treated with a multimodal approach including neurosurgical, radiation, and sorafenib.<ref name="pmid19911072">{{cite journal | author1 = Walid, MS |author2 = Johnston, KW | title = Successful treatment of a brain-metastasized renal cell carcinoma | journal = German Medical Science | volume = 7 | issue =|pages = Doc28 | date = October 2009 | pmid = 19911072 | pmc = 2775194| doi = 10.3205/000087 |url=http://www.egms.de/static/pdf/journals/gms/2009-7/000087.pdf}}</ref> 
+
+In Australia this is one of two [[Therapeutic Goods Administration|TGA]]-labelled indications for sorafenib, although it is not listed on the [[Pharmaceutical Benefits Scheme]] for this indication.<ref name = TGA/><ref name = PBS/>
+
+===Liver cancer===
+At [[American Society of Clinical Oncology|ASCO]] 2007, results from the SHARP trial<ref name=Llovet2008>{{cite journal | author = Llovet| title = Sorafenib in Advanced Hepatocellular Carcinoma | journal = New England Journal of Medicine | volume = 359 | issue=4 | pages = 378–90 |year = 2008|url = http://www.nejm.org/doi/pdf/10.1056/NEJMoa0708857|format=PDF | doi=10.1056/NEJMoa0708857 | pmid=18650514|display-authors=etal}}</ref> were presented, which showed efficacy of sorafenib in [[hepatocellular carcinoma]]. The primary endpoint was median [[overall survival]], which showed a 44% improvement in patients who received sorafenib compared to placebo ([[hazard ratio]] 0.69; 95% CI, 0.55 to 0.87; p=0.0001). Both median survival and [[time to progression]] showed 3-month improvements. There was no difference in quality of life measures, possibly attributable to toxicity of sorafenib or symptoms related to underlying progression of liver disease. Of note, this trial only included patients with [[cirrhosis#Grading|Child-Pugh Class A (i.e. mildest) cirrhosis]].<ref name=Llovet2008/> Because of this trial Sorafenib obtained FDA approval for the treatment of advanced hepatocellular carcinoma in November 2007.<ref name=Keeting2009/>
+
+In a randomized, double-blind, phase II trial combining sorafenib with [[doxorubicin]], the median [[time to progression]] was not significantly delayed compared with doxorubicin alone in patients with advanced hepatocellular carcinoma. Median durations of overall survival and [[progression-free survival]] were significantly longer in patients receiving sorafenib plus doxorubicin than in those receiving doxorubicin alone.<ref name=Keeting2009>{{cite journal | vauthors = Keating GM, Santoro A | title = Sorafenib: a review of its use in advanced hepatocellular carcinoma | journal = Drugs | volume = 69 | issue = 2 | pages = 223–40 | year = 2009 | pmid = 19228077|doi = 10.2165/00003495-200969020-00006 }}</ref> 
+
+A prospective single-centre phase II study which included the patients with unresectable hepatocellular carcinoma (HCC)concluding that the combination of sorafenib and [[drug-eluting beads|DEB]]-[[Transcatheter arterial chemoembolization|TACE]] in patients with unresectable HCC is well tolerated and safe, with most toxicities related to sorafenib.<ref name="pmid21911714">{{cite journal | vauthors = Pawlik TM, Reyes DK, Cosgrove D, Kamel IR, Bhagat N, Geschwind JF | title = Phase II trial of sorafenib combined with concurrent transarterial chemoembolization with drug-eluting beads for hepatocellular carcinoma| journal = J. Clin. Oncol. | volume = 29 | issue = 30 | pages = 3960–7 |date=October 2011 | pmid = 21911714 | doi = 10.1200/JCO.2011.37.1021 }}</ref>
+
+In Australia this is the only indication for which sorafenib is listed on the [[Pharmaceutical Benefits Scheme|PBS]] and hence the only Government-subsidised indication for sorafenib.<ref name = PBS>{{cite web|title=Pharmaceutical Benefits Scheme (PBS) -SORAFENIB|work=Pharmaceutical Benefits Scheme|publisher=Australian Government Department of Health|accessdate=27 December 2013|url=http://www.pbs.gov.au/medicine/item/9380Q}}</ref> Along with renal cell carcinoma, hepatocellular carcinoma is one of the [[Therapeutic Goods Administration|TGA]]-labelled indications for sorafenib.<ref name = TGA/>
+
+===Thyroid cancer===
+On November 22, 2013, sorafenib was approved by the FDA for the treatment of locally recurrent or metastatic, progressive differentiated thyroid carcinoma (DTC) refractory to radioactive iodine treatment.<ref name=FDA-2013-11/>
+
+The Phase 3 DECISION trial showed significant improvement in progression-free survival but not in overall survival. However, as is known, the side effects were very frequent, specially hand and foot skin reaction.<ref>[http://www.medpagetoday.com/MeetingCoverage/ASCO/39545 ASCO: Sorafenib Halts Resistant Thyroid Cancer. June 2013]</ref>
+
+===Desmoid tumors===
+A phase 3 clinical trial is under way testing the effectiveness of Sorafenib to treat desmoid tumors (also known as '''[[aggressive fibromatosis]]'''), after positive results in the first two trial stages. Dosage is typically half of that applied for malignant cancers (400&nbsp;mg vs 800&nbsp;mg). NCI are sponsoring this trial.<ref>{{cite web|title=Sorafenib Tosylate in Treating Patients With Desmoid Tumors or Aggressive Fibromatosis|url=http://clinicaltrials.gov/show/NCT02066181|website=Clinicaltrials.gov}}</ref><ref>{{cite journal|last1=Gounder|first1=MM|last2=Lefkowitz|first2=RA|last3=Keohan|first3=ML|last4=D'Adamo|first4=DR|last5=Hameed|first5=M|last6=Antonescu|first6=CR|last7=Singer|first7=S|last8=Stout|first8=K|last9=Ahn|first9=L|last10=Maki|first10=RG|title=Activity of Sorafenib against desmoid tumor/deep fibromatosis.|journal=Clinical Cancer Research|date=15 June 2011|volume=17|issue=12|pages=4082–90|pmid=21447727|doi=10.1158/1078-0432.ccr-10-3322|pmc=3152981}}</ref>
+
+==Adverse effects==
+'''<big>Adverse effects by frequency</big>'''<br>
+''Note: Potentially serious side effects are in '''bold'''.''<br>
+'''Very common (>10% frequency)'''<br>
+{{colbegin|4}}
+* [[Lymphopenia]]
+* '''[[Hypophosphataemia]]'''<ref group = Note>Low blood [[phosphate]] levels</ref>
+* '''[[Haemorrhage]]'''<ref group = Note>Bleeding; including serious bleeds such as intracranial and intrapulmonary bleeds</ref>
+* [[Hypertension]]<ref group = Note>High blood pressure</ref>
+* Diarrhea
+* Rash
+* [[Alopecia]] (hair loss; occurs in roughly 30% of patients receiving sorafenib)
+* [[Hand-foot syndrome]]
+* [[Pruritus]] (itchiness)
+* [[Erythema]]
+* Increased [[amylase]]
+* Increased [[lipase]]
+* Fatigue
+* Pain<ref group = Note>Including abdominal pain, headache, tumour pain, etc.</ref>
+* Nausea
+* Vomiting<ref group = Note>Considered a low (~10-30%) risk chemotherapeutic agent for causing emesis)</ref><ref name = MSRCH>{{cite web|title=Chemotherapy-Induced Nausea and Vomiting Treatment & Management|work=Medscape Reference|publisher=WebMD|date=3 July 2012|accessdate=26 December 2013|url=http://emedicine.medscape.com/article/1355706-treatment#showall}}</ref>
+{{colend}}
+
+'''Common (1-10% frequency)'''<br>
+{{colbegin|4}} 
+* '''[[Leucopenia]]'''<ref group = Note>Low level of [[white blood cell]]s in the blood</ref>
+* '''[[Neutropenia|Neutropoenia]]'''<ref group = Note>Low level of [[neutrophils]] in the blood</ref>
+* '''[[Anaemia]]'''<ref group = Note>Low level of [[red blood cell]]s in the blood</ref>
+* '''[[Thrombocytopenia]]'''<ref group = Note>Low level of [[plasma cell]]s in the blood</ref>
+* [[Anorexia (symptom)|Anorexia]] (weight loss)
+* '''[[Hypocalcaemia]]'''<ref group = Note>Low blood [[calcium]]</ref>
+* '''[[Hypokalaemia]]'''<ref group = Note>Low blood [[potassium]]</ref>
+* '''Depression'''
+* Peripheral sensory neuropathy
+* [[Tinnitus]]<ref group = Note>Hearing ringing in the ears</ref>
+* '''[[Congestive heart failure]]'''
+* '''[[Myocardial infarction]]'''<ref group = Note>Heart attack</ref>
+* '''[[Myocardial ischaemia]]'''<ref group = Note>Lack of blood supply for the heart muscle</ref>
+* Hoarseness
+* Constipation
+* [[Stomatitis]]<ref group = Note>Mouth swelling, also dry mouth and [[glossodynia]]</ref>
+* [[Dyspepsia]]<ref group = Note>Indigestion</ref>
+* [[Dysphagia]]<ref group = Note>Not being able to swallow</ref>
+* Dry skin
+* [[Exfoliative dermatitis]]
+* Acne
+* Skin desquamation
+* [[Arthralgia]]<ref group = Note>Sore joints</ref>
+* [[Myalgia]]<ref group = Note>Muscle aches</ref>
+* '''[[Renal failure]]'''<ref group = Note>Kidney failure</ref>
+* [[Proteinuria]]<ref group = Note>Excreting protein [usually plasma proteins] in the urine. Not dangerous in itself but it is indicative kidney damage</ref>
+* [[Erectile dysfunction]]
+* [[Asthenia]] (weakness)
+* Fever
+* Influenza-like illness
+{{colend}}
+* Transient increase in transaminase
+
+'''Uncommon (0.1-1% frequency)'''<br>
+{{colbegin|3}}
+* [[Folliculitis]]
+* '''Infection'''
+* Hypersensitivity reactions<ref group = Note>Including skin reactions and [[urticaria]] (hives)</ref>
+* '''[[Hypothyroidism]]'''<ref group = Note>Underactive thyroid</ref>
+* '''[[Hyperthyroidism]]'''<ref group = Note>Overactive thyroid</ref>
+* '''[[Hyponatraemia]]'''<ref group = Note>Low blood sodium</ref>
+* '''Dehydration'''
+* '''Reversible posterior [[leukoencephalopathy]]'''
+* '''[[Hypertensive crisis]]'''
+* [[Rhinorrhoea]]<ref group = Note>Runny nose</ref>
+* '''Interstitial lung disease-like events'''<ref group = Note>[[Pneumonitis]], radiation pneumonitis, acute respiratory distress, etc.</ref>
+* [[Gastroesophageal reflux disease|Gastro-oesophageal reflux disease]] (GORD)
+* '''[[Pancreatitis]]'''<ref group = Note>Swelling of the [[pancreas]]</ref>
+* '''[[Gastritis]]'''<ref group = Note>Swelling of the [[stomach]]</ref>
+* '''Gastrointestinal perforations'''<ref group = Note>Formation of a hole in the [[gastrointestinal tract]], leading to potentially fatal bleeds</ref>
+* Increase in [[bilirubin]] leading, potentially, to [[jaundice]]<ref group = Note>Yellowing of the skin and eyes due to a failure of the liver to adequately cope with the amount of bilirubin produced by the day-to-day actions of the body</ref>
+* '''[[Cholecystitis]]'''<ref group = Note>Swelling of the [[gallbladder]]</ref>
+* '''[[Cholangitis]]'''<ref group = Note>Swelling of the [[bile duct]]</ref>
+* [[Eczema]]
+* '''[[Erythema multiforme]]'''<ref group = Note>A potentially fatal skin reaction</ref>
+* '''[[Keratoacanthoma]]'''<ref group = Note>A fairly benign form of skin cancer</ref>
+* '''[[Squamous cell carcinoma]]'''
+* [[Gynaecomastia]] (swelling of the breast tissue in men)
+* '''Transient increase in blood alkaline phosphatase'''
+* '''[[International normalized ratio|INR]] abnormal'''
+* '''[[Prothrombin]] level abnormal'''
+* '''bulbous skin reaction'''<ref>{{cite journal|last=Hagopian|first=Benjamin|title=Unusually Severe Bullous Skin Reaction to Sorafenib: A Case Report|journal=Journal of Medical Cases|date=August 2010|volume=1|issue=1|pages=1–3|doi=10.4021/jmc112e|url=http://www.journalmc.org/index.php/JMC/article/view/11/9|accessdate=11 February 2014}}</ref> 
+{{colend}}
+
+'''Rare (0.01-0.1% frequency)'''
+{{colbegin|4}}
+* '''[[QT interval]] prolongation'''<ref group = Note>A potentially fatal abnormality in the electrical activity of the heart</ref>
+* '''[[Angiooedema]]'''<ref group = Note>Swelling of the skin and mucous membranes</ref>
+* '''[[Anaphylactic reaction]]'''<ref group = Note>A potentially fatal allergic reaction</ref>
+* '''[[Hepatitis]]'''<ref group = Note>Swelling of the liver</ref>
+* Radiation recall dermatitis
+* '''[[Stevens-Johnson syndrome]]'''<ref group = Note>A potentially fatal skin reaction</ref>
+* '''[[Leucocytoclastic vasculitis]]'''
+* '''[[Toxic epidermal necrolysis]]'''<ref group = Note>A potentially fatal skin reaction</ref>
+* '''[[Nephrotic syndrome]]'''
+* '''[[Rhabdomyolysis]]'''<ref group = Note>The rapid breakdown of muscle tissue leading to the build-up of [[myoglobin]] in the blood and resulting in damage to the kidneys</ref>
+{{colend}}
+
+==History==
+
+===Renal cancer===
+Sorafenib was approved by the U.S. [[Food and Drug Administration]] (FDA) in December 2005,<ref name=FDAapproval1>[http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2005/021923ltr.pdf FDA Approval letter for use of sorafenib in advanced renal cancer]</ref> and received [[European Commission]] marketing authorization in July 2006,<ref name=EUapproval>[[European Commission]]&nbsp;– Enterprise and industry. [http://ec.europa.eu/enterprise/pharmaceuticals/register/h342.htm Nexavar]. Retrieved April 24, 2007.</ref> both for use in the treatment of advanced renal cancer.
+
+===Liver cancer===
+The European Commission granted marketing authorization to the drug for the treatment of patients with [[hepatocellular carcinoma]](HCC), the most common form of liver cancer, in October 2007,<ref name=Euapproval>{{cite press release |title=Nexavar® (Sorafenib) Approved for Hepatocellular Carcinoma in Europe|url=http://www.pslgroup.com/news/content.nsf/medicalnews/852571020057CCF685257384005A45B1?OpenDocument&id=&count=10 |publisher=Bayer HealthCare Pharmaceuticals and Onyx Pharmaceuticals |date=October 30, 2007|accessdate=November 10, 2012}}</ref> and FDA approval for this indication followed in November 2007.<ref name=FDAapproval2>[http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2007/021923s004,s005,s006,s007.pdf FDA Approval letter for use of sorafenib in inoperable hepatocellular carcinoma]</ref>
+
+In November 2009, the UK's [[National Institute of Clinical Excellence]] declined to approve the drug for use within the [[National Health Service|NHS]] in England, Wales and Northern Ireland, stating that its effectiveness (increasing survival in primary liver cancer by 6 months) did not justify its high price, at up to £3000 per patient per month.<ref name=bbc1>{{cite web|url=http://news.bbc.co.uk/1/hi/health/8367614.stm |publisher=BBC News |title=Liver drug 'too expensive' |date=November 19, 2009|accessdate=November 10, 2012}}</ref> In Scotland the drug had already been refused authorization by the [[Scottish Medicines Consortium]] for use within [[NHS Scotland]], for the same reason.<ref name=bbc1/>
+
+In March 2012, the Indian Patent Office granted a domestic company, [http://www.natcopharma.co.in/ Natco Pharma], a license to manufacture generic Sorafenib, bringing its price down by 97%. Bayer sells a month's supply, 120 tablets, of Nexavar for{{INRConvert|280000}}. Natco Pharma will sell 120 tablets for {{INRConvert|8800}}, while still paying a 6% royalty to Bayer. The royalty was later raised to 7% on appeal by Bayer.<ref>http://www.lawyerscollective.org/updates/supreme-court-says-no-to-bayer-upholds-compulsory-license-on-nexavar.html</ref><ref>http://www.ipindia.nic.in/ipoNew/compulsory_License_12032012.pdf</ref><ref>{{cite journal |doi=10.1038/483250a |title=Seven days: 9–15 March 2012 |year=2012 |journal=Nature |volume=483 |issue=7389 |pages=250–1}}</ref> Under [[Indian Patents Act|Indian Patents Act, 2005]] and the World Trade Organisation TRIPS Agreement, the government can issue a [[compulsory license]] when a drug is not available at an affordable price.<ref name="India Patents (Amendment) Act, 2005">{{cite web|title=India Patents (Amendment) Act, 2005|url=http://www.wipo.int/wipolex/en/text.jsp?file_id=128116|publisher=WIPO|accessdate=16 January 2013}}</ref>
+
+===Thyroid cancer===
+On November 22, 2013, sorafenib was approved by the FDA for the treatment of locally recurrent or metastatic, progressive differentiated thyroid carcinoma (DTC) refractory to radioactive iodine treatment.<ref name=FDA-2013-11>[http://www.cancer.gov/cancertopics/druginfo/fda-sorafenib-tosylate FDA Approval for Sorafenib Tosylate. Nov 2013]</ref>
+
+==Research==
+
+===Lung===
+In some kinds of lung cancer (with squamous-cell histology) sorafenib administered in addition to [[paclitaxel]] and [[carboplatin]] may be ''detrimental'' to patients.<ref>[http://www.medscape.com/viewarticle/573511 "Addition of Sorafenib May Be Detrimental in Some Lung Cancer Patients"]</ref>
+
+===Brain (recurrent glioblastoma)===
+There is a phase I/II study at the Mayo Clinic<ref name="Mayo">{{ClinicalTrialsGov|NCT00329719|Sorafenib and Temsirolimus in Treating Patients With Recurrent Glioblastoma}}</ref> of sorafenib and CCI-779 ([[temsirolimus]]) for recurrent [[glioblastoma]]. <!-- too much detail : that can be given without causing unacceptable side effects, to determine what effects sorafenib and CCI-779 have on a patient and the brain tumor, to compare patient's response to sorafenib and CCI-779 with laboratory studies of a patient's blood cells and tumor tissues, and to study if the combination will be able to slow the growth of a tumor.-->
+
+===Desmoid tumor (aggressive fibromatosis)===
+A study performed in 2011 showed that Sorafenib is active against [[aggressive fibromatosis]]. This study is being used as justification for using Sorafenib as an initial course of treatment in some patients with [[aggressive fibromatosis]].<ref>{{cite journal | pmc = 3152981 | pmid=21447727 | doi=10.1158/1078-0432.CCR-10-3322 | volume=17 | title=Activity of Sorafenib against desmoid tumor/deep fibromatosis. | date=Jun 2011 | journal=Clin Cancer Res | pages=4082–90 | last1 = Gounder | first1 = MM | last2 = Lefkowitz | first2 = RA | last3 = Keohan | first3 = ML | last4 = D'Adamo | first4 = DR | last5 = Hameed | first5 = M | last6 = Antonescu | first6 = CR | last7 = Singer | first7 = S | last8 = Stout | first8 = K | last9 = Ahn | first9 = L | last10 = Maki | first10 = RG}}</ref>
+
+==Nexavar controversy==
+
+In January 2014, Bayer's CEO stated that Nexavar was developed for "western patients who [could] afford it".  At the prevailing prices, a kidney cancer patient would pay $96,000 (£58,000) for a year's course of the Bayer-made drug. However, the cost of the Indian version of the [[generic drug]] would be around $2,800 (£1,700).<ref>{{cite news|title='We didn't make this medicine for Indians… we made it for western patients who can afford it'|url=http://www.dailymail.co.uk/news/article-2545360/Pharmaceutical-chief-tries-stop-India-replicating-cancer-treatment.html|newspaper=Daily Mail Reporter|date=24 Jan 2014}}</ref>
+
+==Notes==
+{{reflist|group = Note}}
+
+==References==
+{{reflist|colwidth=35em}}
+
+==External links==
+*[http://www.nexavar.com Nexavar.com]&nbsp;– Manufacturer's website
+*[http://www.univgraph.com/bayer/inserts/nexavar.pdf Prescribing Information]&nbsp;– includes data from the key studies justifying the use of sorafenib for the treatment of kidney cancer (particularly clear cell renal cell carcinoma, which is associated with the [[Von Hippel-Lindau tumor suppressor|von Hippel-Lindau gene]])
+*[http://www.fda.gov/cder/drug/InfoSheets/patient/sorafenibPIS.pdf Patient Information from FDA]
+*[http://www.cancer.gov/clinicaltrials/DFCI-05033 Sorafenib in Treating Patients With Soft Tissue Sarcomas]
+*[http://www.healthvalue.net/SorafenibSunitinibdifferences.html Sorafenib Sunitinib differences&nbsp;– diagram]
+*{{ClinicalTrialsGov|NCT00217399}}&nbsp;–  Sorafenib and Anastrozole in Treating Postmenopausal Women With Metastatic Breast Cancer
+*[http://www.moneycontrol.com/news/business/cipla-launches-nexavar-generic-at-110thbayer39s-price_450770.html Cipla launches Nexavar generic at 1/10 of Bayer's price]
+
+{{Extracellular chemotherapeutic agents}}
+{{Cytokine receptor modulators}}
+{{Growth factor receptor modulators}}
+
+[[Category:Orphan drugs]]
+[[Category:Receptor tyrosine kinase inhibitors]]
+[[Category:Chloroarenes]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Anilines]]
+[[Category:Ureas]]
+[[Category:Phenol ethers]]
+[[Category:Pyridines]]
+[[Category:Carboxamides]]
+[[Category:Cancer treatments]]

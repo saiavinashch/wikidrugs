@@ -1,0 +1,157 @@
+{{infobox protein
+| Name = [[SAG (gene)|S-antigen; retina and pineal gland (arrestin)]]
+| caption = Crystallographic structure of the bovine arrestin-S.<ref name="pmid10219246">{{PDB|1CF1}}; {{cite journal | vauthors = Hirsch JA, Schubert C, Gurevich VV, Sigler PB | title = The 2.8 A crystal structure of visual arrestin: a model for arrestin's regulation | journal = Cell | volume = 97 | issue = 2 | pages = 257–69 | date = April 1999 | pmid = 10219246 | doi = 10.1016/S0092-8674(00)80735-7 }}</ref>
+| image = 1CF1.png
+| width =
+| HGNCid = 10521
+| Symbol = [[SAG (gene)|SAG]]
+| AltSymbols = arrestin-1
+| EntrezGene = 6295
+| OMIM = 181031
+| RefSeq = NM_000541
+| UniProt = P10523
+| PDB =
+| ECnumber =
+| Chromosome = 2
+| Arm = q
+| Band = 37.1
+| LocusSupplementaryData =
+}}
+{{infobox protein
+| Name = [[arrestin beta 1]]
+| caption = 
+| image = 
+| width = 
+| HGNCid = 711
+| Symbol = [[arrestin beta 1|ARRB1]]
+| AltSymbols = ARR1, arrestin-2
+| EntrezGene = 408
+| OMIM = 107940
+| RefSeq = NM_004041
+| UniProt = P49407
+| PDB = 
+| ECnumber = 
+| Chromosome = 11
+| Arm = q
+| Band = 13
+| LocusSupplementaryData = 
+}}
+{{infobox protein
+| Name = [[arrestin beta 2]]
+| caption = 
+| image = 
+| width = 
+| HGNCid = 712
+| Symbol = [[arrestin beta 2|ARRB2]]
+| AltSymbols = ARR2, arrestin-3
+| EntrezGene = 409
+| OMIM = 107941
+| RefSeq = NM_004313
+| UniProt = P32121
+| PDB = 
+| ECnumber = 
+| Chromosome = 17
+| Arm = p
+| Band = 13
+| LocusSupplementaryData = 
+}}
+{{infobox protein
+| Name = [[ARR3|arrestin 3, retinal (X-arrestin)]]
+| caption =
+| image =
+| width =
+| HGNCid = 710
+| Symbol = [[ARR3]]
+| AltSymbols = ARRX, arrestin-4
+| EntrezGene = 407
+| OMIM = 301770
+| RefSeq = NM_004312
+| UniProt = P36575
+| PDB =
+| ECnumber =
+| Chromosome = X
+| Arm = q
+| Band =
+| LocusSupplementaryData =  }}
+
+'''Arrestins''' are a small family of [[protein]]s important for regulating [[signal transduction]] at [[G protein–coupled receptor|G protein-coupled receptors]].<ref name="Moore_2005">{{cite journal | vauthors = Moore CA, Milano SK, Benovic JL | title = Regulation of receptor trafficking by GRKs and arrestins | journal = Annual Review of Physiology | volume = 69 | issue =  | pages = 451–82 | year = 2007 | pmid = 17037978 | doi = 10.1146/annurev.physiol.69.022405.154712 }}</ref><ref name="pmid15845844">{{cite journal | vauthors = Lefkowitz RJ, Shenoy SK | title = Transduction of receptor signals by beta-arrestins | journal = Science | volume = 308 | issue = 5721 | pages = 512–7 | date = April 2005 | pmid = 15845844 | doi = 10.1126/science.1109237 }}</ref>
+Arrestins were first discovered as a part of a conserved two-step mechanism for regulating the activity of [[G protein-coupled receptor]]s (GPCRs) in the visual rhodopsin system by [[Hermann Kühn]] and co-workers<ref name="pmid3006038">{{cite journal | vauthors = Wilden U, Hall SW, Kühn H | title = Phosphodiesterase activation by photoexcited rhodopsin is quenched when rhodopsin is phosphorylated and binds the intrinsic 48-kDa protein of rod outer segments | journal = Proceedings of the National Academy of Sciences of the United States of America | volume = 83 | issue = 5 | pages = 1174–8 | date = March 1986 | pmid = 3006038 | pmc = 323037 | doi = 10.1073/pnas.83.5.1174 }}</ref> and in the β-adrenergic system by [[Martin J. Lohse]] and co-workers.<ref name="pmid2163110">{{cite journal | vauthors = Lohse MJ, Benovic JL, Codina J, Caron MG, Lefkowitz RJ | title = beta-Arrestin: a protein that regulates beta-adrenergic receptor function | journal = Science | volume = 248 | issue = 4962 | pages = 1547–50 | date = June 1990 | pmid = 2163110 | doi = 10.1126/science.2163110 }}</ref><ref name="pmid16460808">{{cite journal | vauthors = Gurevich VV, Gurevich EV | title = The structural basis of arrestin-mediated regulation of G-protein-coupled receptors | journal = Pharmacology & Therapeutics | volume = 110 | issue = 3 | pages = 465–502 | date = June 2006 | pmid = 16460808 | pmc = 2562282 | doi = 10.1016/j.pharmthera.2005.09.008 }}</ref>
+
+== Function ==
+
+In response to a stimulus, GPCRs activate heterotrimeric [[G protein]]s. In order to turn off this response, or adapt to a persistent stimulus, active receptors need to be desensitized. The first step is [[phosphorylation]] by a class of [[serine/threonine kinase]]s called [[G-protein coupled receptor kinases|G protein coupled receptor kinases]] (GRKs). GRK phosphorylation specifically prepares the activated receptor for arrestin binding. Arrestin binding to the receptor blocks further G protein-mediated signaling and targets receptors for internalization, and redirects signaling to alternative G protein-independent pathways, such as [[β-arrestin signaling]].<ref name="pmid28223524">{{cite journal | vauthors = Cahill TJ, Thomsen AR, Tarrasch JT, Plouffe B, Nguyen AH, Yang F, Huang LY, Kahsai AW, Bassoni DL, Gavino BJ, Lamerdin JE, Triest S, Shukla AK, Berger B, Little J, Antar A, Blanc A, Qu CX, Chen X, Kawakami K, Inoue A, Aoki J, Steyaert J, Sun JP, Bouvier M, Skiniotis G, Lefkowitz RJ | display-authors = 6  | title = Distinct conformations of GPCR-β-arrestin complexes mediate desensitization, signaling, and endocytosis | journal = Proceedings of the National Academy of Sciences of the United States of America | date = February 2017 | pmid = 28223524 | doi = 10.1073/pnas.1701529114 }}</ref><ref name="pmid27827372">{{cite journal | vauthors = Kumari P, Srivastava A, Banerjee R, Ghosh E, Gupta P, Ranjan R, Chen X, Gupta B, Gupta C, Jaiman D, Shukla AK | title = Functional competence of a partially engaged GPCR-β-arrestin complex | journal = Nature Communications | volume = 7 | pages = 13416 | date = November 2016 | pmid = 27827372 | pmc = 5105198 | doi = 10.1038/ncomms13416 }}</ref><ref name="pmid28228552">{{cite journal | vauthors = Kumari P, Srivastava A, Ghosh E, Ranjan R, Dogra S, Yadav PN, Shukla AK | title = Core engagement with β-arrestin is dispensable for agonist-induced vasopressin receptor endocytosis and ERK activation | journal = Molecular Biology of the Cell | volume = 28 | issue = 8 | pages = 1003-10 | date = April 2017 | pmid = 28228552 | pmc = 5391177 | doi = 10.1091/mbc.E16-12-0818 }}</ref>'''<ref name="pmid16460808">{{cite journal | vauthors = Gurevich VV, Gurevich EV | title = The structural basis of arrestin-mediated regulation of G-protein-coupled receptors | journal = Pharmacology & Therapeutics | volume = 110 | issue = 3 | pages = 465–502 | date = June 2006 | pmid = 16460808 | pmc = 2562282 | doi = 10.1016/j.pharmthera.2005.09.008 }}</ref>''' In addition to GPCRs, arrestins bind to other classes of cell surface receptors and a variety of other signaling proteins.<ref name="pmid15102497">{{cite journal | vauthors = Gurevich VV, Gurevich EV | title = The molecular acrobatics of arrestin activation | journal = Trends in Pharmacological Sciences | volume = 25 | issue = 2 | pages = 105–11 | date = February 2004 | pmid = 15102497 | doi = 10.1016/j.tips.2003.12.008 }}</ref>
+
+== Subtypes ==
+
+Mammals express four arrestin subtypes and each  arrestin subtype is known by multiple aliases. The systematic arrestin name (1-4) plus the most widely used aliases for each arrestin subtype are listed in '''bold''' below:
+
+* '''[[SAG (gene)|Arrestin-1]]''' was originally identified as the '''S-antigen''' (SAG) causing uveitis (autoimmune eye disease), then independently described as a 48 kDa protein that binds light-activated phosphorylated rhodopsin before it became clear that both are one and the same. It was later renamed visual arrestin, but when another cone-specific visual subtype was cloned the term rod arrestin was coined. This also turned out to be a misnomer: arrestin-1 expresses at comparable very high levels in both rod and cone [[photoreceptor cell]]s.
+* '''[[Arrestin beta 1|Arrestin-2]]''' was the first non-visual arrestin cloned. It was first named '''β-arrestin''' simply because between two [[G protein-coupled receptor|GPCRs]] available in purified form at the time, [[rhodopsin]] and [[beta-2 adrenergic receptor|β<sub>2</sub>-adrenergic receptor]], it showed preference for the latter.
+*  '''[[Arrestin beta 2|Arrestin-3]]'''. The second non-visual arrestin cloned was first termed '''β-arrestin-2''' (retroactively changing the name of β-arrestin into β-arrestin-1), even though by that time it was clear that non-visual arrestins interact with hundreds of different GPCRs, not just with β<sub>2</sub>-adrenergic receptor. Systematic names, arrestin-2 and arrestin-3, respectively, were proposed soon after that.
+* '''[[ARR3|Arrestin-4]]''' was cloned by two groups and termed cone arrestin, after photoreceptor type that expresses it, and X-arrestin, after the chromosome where its gene resides. In the [[HUGO Gene Nomenclature Committee|HUGO]] database its gene is called '''arrestin-3'''.
+
+Fish and other vertebrates appear to have only three arrestins: no equivalent of arrestin-2, which is the most abundant non-visual subtype in mammals, was cloned so far. The [[chordate|proto-chordate]] ''[[Ciona intestinalis|C. intestinalis]]'' (sea squirt) has only one arrestin, which serves as visual in its mobile larva with highly developed eyes, and becomes generic non-visual in the blind sessile adult. Conserved positions of multiple introns in its gene and those of our arrestin subtypes suggest that they all evolved from this ancestral arrestin.<ref name="pmid17020596">{{cite journal | vauthors = Gurevich EV, Gurevich VV | title = Arrestins: ubiquitous regulators of cellular signaling pathways | journal = Genome Biology | volume = 7 | issue = 9 | pages = 236 | year = 2006 | pmid = 17020596 | pmc = 1794542 | doi = 10.1186/gb-2006-7-9-236 }}</ref> Lower invertebrates, such as roundworm ''[[Caenorhabditis elegans|C. elegans]]'', also have only one arrestin. Insects have arr1 and arr2, originally termed “visual arrestins” because they are expressed in photoreceptors, and one non-visual subtype (kurtz in ''[[Drosophila]]''). Later arr1 and arr2 were found to play an important role in olfactory neurons and renamed “sensory”. Fungi have distant arrestin relatives involved in pH sensing.
+
+== Tissue distribution ==
+
+One or more arrestin is expressed in virtually every eukaryotic cell. In mammals, arrestin-1 and arrestin-4 are largely confined to photoreceptors, whereas arrestin-2 and arrestin-3 are ubiquitous. Neurons have the highest expression level of both non-visual subtypes. In neuronal precursors both are expressed at comparable levels, whereas in mature neurons arrestin-2 is present at 10-20 fold higher levels than arrestin-3.
+
+== Mechanism ==
+
+Arrestins block GPCR coupling to G proteins in two ways. First, arrestin binding to the cytoplasmic face of the receptor occludes the binding site for heterotrimeric G-protein, preventing its activation (desensitization).<ref>{{cite journal | vauthors = Kang Y, Zhou XE, Gao X, He Y, Liu W, Ishchenko A, Barty A, White TA, Yefanov O, Han GW, Xu Q, de Waal PW, Ke J, Tan MH, Zhang C, Moeller A, West GM, Pascal BD, Van Eps N, Caro LN, Vishnivetskiy SA, Lee RJ, Suino-Powell KM, Gu X, Pal K, Ma J, Zhi X, Boutet S, Williams GJ, Messerschmidt M, Gati C, Zatsepin NA, Wang D, James D, Basu S, Roy-Chowdhury S, Conrad CE, Coe J, Liu H, Lisova S, Kupitz C, Grotjohann I, Fromme R, Jiang Y, Tan M, Yang H, Li J, Wang M, Zheng Z, Li D, Howe N, Zhao Y, Standfuss J, Diederichs K, Dong Y, Potter CS, Carragher B, Caffrey M, Jiang H, Chapman HN, Spence JC, Fromme P, Weierstall U, Ernst OP, Katritch V, Gurevich VV, Griffin PR, Hubbell WL, Stevens RC, Cherezov V, Melcher K, Xu HE | display-authors = 6 | title = Crystal structure of rhodopsin bound to arrestin by femtosecond X-ray laser | journal = Nature | volume = 523 | issue = 7562 | pages = 561–7 | date = July 2015 | pmid = 26200343 | pmc = 4521999 | doi = 10.1038/nature14656 }}</ref> Second, arrestin links the receptor to elements of the internalization machinery, [[clathrin]] and clathrin adaptor [[AP2M1|AP2]], which promotes receptor internalization via coated pits and subsequent transport to internal compartments, called [[endosomes]]. Subsequently, the receptor could be either directed to degradation compartments ([[lysosome]]s) or recycled back to the plasma membrane where it can again signal. The strength of arrestin-receptor interaction plays a role in this choice: tighter complexes tend to increase the probability of receptor degradation (Class B), whereas more transient complexes favor recycling (Class A), although this “rule” is far from absolute.<ref name="Moore_2005" />
+
+== Structure ==
+
+Arrestins are elongated molecules, in which several intra-molecular interactions hold the relative orientation of the two domains. In unstimulated cell arrestins are localized in the cytoplasm in this basal “inactive” conformation. Active phosphorylated GPCRs recruit arrestin to the plasma membrane. Receptor binding induces a global conformational change that involves the movement of the two arrestin domains and the release of its [[C-terminus|C-terminal]] tail that contains clathrin and AP2 binding sites. Increased accessibility of these sites in receptor-bound arrestin targets the arrestin-receptor complex to the coated pit. Arrestins also bind [[microtubule]]s (part of the cellular “skeleton”), where they assume yet another conformation, different from both free and receptor-bound form. Microtubule-bound arrestins recruit certain proteins to the cytoskeleton, which affects their activity and/or redirects it to microtubule-associated proteins.
+
+Arrestins shuttle between [[cell nucleus]] and [[cytoplasm]]. Their nuclear functions are not fully understood, but it was shown that all four mammalian arrestin subtypes remove some of their partners, such as protein kinase [[MAPK10|JNK3]] or the [[ubiquitin ligase]] [[Mdm2]], from the nucleus. Arrestins also modify gene expression by enhancing transcription of certain genes.
+
+{|
+|-valign=top
+|{{Pfam_box
+| Symbol = Arrestin_N
+| Name = Arrestin (or S-antigen), N-terminal domain
+| image = PDB 1cf1 EBI.jpg
+| width =
+| caption = Structure of arrestin from bovine rod outer segments.<ref name="pmid10219246"/>
+| Pfam = PF00339
+| Pfam_clan = CL0135
+| InterPro =  IPR011021
+| SMART=
+| PROSITE = PDOC00267
+| SCOP = 1cf1
+| TCDB =
+| OPM family =
+| OPM protein =
+| PDB = {{PDB2|1ayr}} , {{PDB2|1cf1 }} , {{PDB2|1g4m}} , {{PDB2|1g4r}}  , {{PDB2|1jsy }} , {{PDB2|1zsh}} 
+}}
+|{{Pfam_box
+| Symbol = Arrestin_C
+| Name = Arrestin (or S-antigen), C-terminal domain
+| image = PDB 1g4m EBI.jpg
+| width =
+| caption = Structure of bovine beta-arrestin.<ref name="pmid11566136">{{cite journal | vauthors = Han M, Gurevich VV, Vishnivetskiy SA, Sigler PB, Schubert C | title = Crystal structure of beta-arrestin at 1.9 A: possible mechanism of receptor binding and membrane Translocation | journal = Structure | volume = 9 | issue = 9 | pages = 869–80 | date = September 2001 | pmid = 11566136 | doi = 10.1016/S0969-2126(01)00644-X }}</ref>
+| Pfam = PF02752
+| Pfam_clan = CL0135
+| InterPro = IPR011022
+| SMART=
+| PROSITE =
+| SCOP = 1cf1
+| TCDB =
+| OPM family =
+| OPM protein =
+| PDB =  {{PDB2|1ayr}} , {{PDB2|1cf1}} , {{PDB2|1g4m}} , {{PDB2|1g4r}} , {{PDB2|1jsy}} , {{PDB2|1suj}} , {{PDB2|1zsh}}
+}}
+|}
+
+== References ==
+
+{{Reflist|33em}}
+
+== External links ==
+* {{MeshName|Arrestin}}
+
+{{Membrane proteins}}
+{{Surface antigens}}
+
+[[Category:Peripheral membrane proteins]]

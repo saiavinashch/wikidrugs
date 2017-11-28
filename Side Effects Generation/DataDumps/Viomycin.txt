@@ -1,0 +1,81 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 470630841
+| IUPAC_name = (''S'')-3,6-Diamino-''N''-((3''S'',9''S'',12''S'',15''S'',''Z'')-((2''R'',4''S'')-6-amino-4-hydroxy-1,2,3,4-tetrahydropyridin-2-yl)-9,12-bis(hydroxymethyl)2,5,8,11,14-pentaoxo-6-(ureidomethylene)-1,4,7,10,13-pentaazacyclohexadecan-15-yl)hexanamide
+| image = viomycin.svg
+
+<!--Clinical data-->
+| tradename =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| routes_of_administration = [[Intramuscular]] injection
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 32988-50-4
+| ATC_prefix = none
+| PubChem = 3037981
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2301596
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = YVU35998K5
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 15782
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201221
+
+<!--Chemical data-->
+| C=25 | H=43 | N=13 | O=10 
+| molecular_weight = 685.691 g/mol
+| smiles = C1[C@@H](NC(=N[C@H]1O)N)[C@H]2C(=O)NC[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N/C(=C\NC(=O)N)/C(=O)N2)CO)CO)NC(=O)C[C@H](CCCN)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C25H43N13O10/c26-3-1-2-10(27)4-16(41)32-12-6-30-23(47)18(11-5-17(42)37-24(28)36-11)38-20(44)13(7-31-25(29)48)33-21(45)14(8-39)35-22(46)15(9-40)34-19(12)43/h7,10-12,14-15,17-18,39-40,42H,1-6,8-9,26-27H2,(H,30,47)(H,32,41)(H,33,45)(H,34,43)(H,35,46)(H,38,44)(H3,28,36,37)(H3,29,31,48)/b13-7-/t10-,11+,12-,14-,15-,17-,18-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GXFAIFRPOKBQRV-GHXCTMGLSA-N
+}}
+
+'''Viomycin''' is a member of the tuberactinomycin family,<ref>{{cite journal | author = B. W. Bycroft | journal = Chem. Commun. | year = 1972 | pages = 660 | doi = 10.1039/c39720000660 | title=The crystal structure of viomycin, a tuberculostatic antibiotic}}</ref><ref>{{cite journal | author = Noda | last2 = Take | first2 = T | last3 = Nagata | first3 = A | last4 = Wakamiya | first4 = T | last5 = Shiba | first5 = T | title = Chemical studies on tuberactinomycin. 3. The chemical structure of viomycin (tuberactinomycin B) | journal = J. Antibiot. | volume = 25 | issue = 7 | pages = 427–8 | year = 1972 | pmid = 4350196 | doi=10.7164/antibiotics.25.427|display-authors=etal}}</ref><ref>{{cite journal | author = T. Kitagawa| title = The total structure of viomycin by sequential analysis | journal = Chem. Pharm. Bull. | volume = 20 | issue = 10 | pages = 2215–25 | year = 1972 | pmid = 4346588 | doi=10.1248/cpb.20.2215|display-authors=etal}}</ref> a group of nonribosomal peptide [[antibiotics]] exhibiting anti-[[tuberculosis]] properties. The tuberactinomycin family is an essential component in the drug cocktail currently used to fight infections of  ''Mycobacterium tuberculosis''.  Viomycin was the first member of the tuberactinomycins to be isolated and identified<ref name=tuberactinomycin>{{cite journal |author1=Barkei, J. |author2=Kevany, B. |author3=Felnagle, E. |author4=Thomas, M. | journal=ChemBioChem. | year=2009 | volume=10 |  pages=366–76 | pmid=19105177 | title=Investigations into viomycin biosynthesis by using heterologous production in Streptomyces lividans. | issue=2 | doi=10.1002/cbic.200800646 | pmc=2765823 }}</ref>  and was used to treat TB until it was replaced by the less toxic, but structurally related compound, [[capreomycin]].  The tuberactinomycins target bacterial ribosomes, binding RNA and disrupting bacterial protein biosynthesis.  It is produced by the [[actinomycete]] ''[[Streptomyces puniceus]],'' that binds to [[RNA]] and inhibits [[prokaryote|prokaryotic]] [[protein]] synthesis and certain forms of RNA splicing.
+
+== Biosynthesis==
+The gene cluster for viomycin has been sequenced from ''Streptomyces sp.'' strain ATCC 11861,<ref name=strep_11861>{{cite journal | doi=10.1128/AAC.47.9.2823-2830.2003 |author1=Thomas, M. |author2=Chan, Y. |author3=Ozanick, S. | journal= Antimicrob. Agents Chemother.| year=2003 | volume=47 |  pages=2823–30 | pmid=12936980 | title=Deciphering tuberactinomycin biosynthesis: isolation, sequencing, and annotation of the viomycin biosynthetic gene cluster. | issue=9 | pmc=182626 }}</ref> ''[[Streptomyces vinaceus]]''<ref name=strep_v>{{cite journal | doi= 10.1016/S0378-1119(03)00617-6 |author1=Yin, X. |author2=O'Hare, T. |author3=Gould, S. |author4=Zabriskie, M. | journal= Gene| year=2003 | volume=312 |  pages=215–24 | pmid= 12909358 | title= Identification and cloning of genes encoding viomycin biosynthesis from Streptomyces vinaceus and evidence for involvement of a rare oxygenase. }}</ref> and from ''Streptomyces lividans'' 1326.<ref name="tuberactinomycin"/>  It consists of a central cyclic pentapeptide code assembled from [[nonribosomal peptide synthetase]] (NRPS).  The NRPS contains 4 proteins: VioA, VioF, VioI, and VioG.  These proteins condense and cyclize two molecules of <small>L</small>-2,3-diaminopropionate (<small>L</small>-Dap), two molecules of <small>L</small>-serine (<small>L</small>-Ser), and one molecule of (2''S'',3''R'')-capreomycidine (<small>L</small>-Cam).   After cyclizing these, VioJ catalyzes the α,β-desaturation of this preliminary structure. It is proposed that the viomycin gene cluster includes 36.3&nbsp;kb of contiguous [[DNA]] that encodes 20 [[open reading frame]]s (ORFs)<ref name="strep_11861"/> that are involved in the biosynthesis, regulation, and eventual activation viomycin.  In addition to these ORFs, the structure contains the resistance gene vph.  The following is a summary of the ORFs and their functions.
+
+{{colbegin||22em}}
+*'''VioA''': NRPS (A-PCP-C-A-PCP-C)
+*'''VioH''': Type II thioesterase
+*'''VioO''': NRPS (A-PCP)-β-lysine activation
+*'''VioB''': 2,3-diaminopropionate synthase
+*'''VioI''': NRPS (PCP-C)
+*'''VioP''': Lysine 2,3-aminomutase
+*'''VioC''': <small>L</small>-Arg hydroxylase
+*'''VIoJ''': 2,3-diaminopropionyl α,β-desaturase	
+*'''vph''': Viomycin phosphotransferase
+*'''VioD''': Capreomycidine synthase
+*'''VioK''': [[Ornithine cyclodeaminase]]
+*'''VioQ''': Capreomycidine hydroxylase
+*'''VioE''': Permease
+*'''VioL''': Carbamoyltransferase
+*'''VioR''': Transcriptional regulator
+*'''VioF''': NRPS (A-PCP-C)
+*'''VIoM''': NRPS (C)-β-lysine transferase
+*'''VIoS''': Viomycin-phosphate phosphatase
+*'''VioG''': NRPS (A-PCP-C/)
+*'''VioN''': MbtH homolog
+*'''VioT''': Transcriptional regulator
+{{colend}}
+
+=== Synthesis of the backbone ===
+The following is the proposed [[biosynthesis]] of viomycin using  NRPS-catalyzed peptide synthesis. There are five [[Protein domain|modules]] for cyclic pentapeptide biosynthesis, including one that lacks an [[adenylation]] domain (A).  It is therefore proposed that one of the other A domains functions twice.  Additionally, the NRPS subunits are not suspected to function in the order in which their [[genes]] are arranged, a characteristic of viomycin biosynthesis that is unlike typical NRPS-catalyzed peptide synthesis.<ref name="tuberactinomycin"/>  The NRPS components function in the order of VioA→VioI→VioF→VioG to account for the incorporation of β-ureidoalanine (β-Uda).  The first A domain of VioA creates an L-Dap-PCP intermediate on the first PCP domain.  Meanwhile, the second A domain of VioA loads L-Ser onto the second PCP domain, as well as the PCP of VioI.  The activation of β-Uda occurs via VioF, and VioG incorporates <small>L</small>-Cam. 
+
+[[File:viomycin biosynthesisIII.png|thumb|none|800px|'''Figure 1.''' Domain Organization of viomycin.]]
+
+=== Post-modification ===
+After α,β-desaturation via VioJ, three modifications to the preliminary cyclic structure occur.  Hydroxylation of C-6 in the structure occurs by VioQ, ''N''-acylation of α-amino group using β-lysine, VioO, and VioM, and carbamoylation of the β-amino group, producing β-ureidoalanine (β-Uda) by the carbamoyltransferase homologue VioL.
+
+[[Image:Post modificationsII.png|thumb|none|800px|'''Figure 2.''' Post-modification of Viomycin.]]
+
+== References ==
+{{reflist}}
+
+[[Category:Polypeptide antibiotics]]

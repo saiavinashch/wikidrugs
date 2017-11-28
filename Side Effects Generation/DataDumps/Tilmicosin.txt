@@ -1,0 +1,45 @@
+{{Chembox
+| ImageFile = TILMICOSIN2.png
+| ImageSize = 300px
+| IUPACName = [(2''R'',3''R'',4''E'',6''E'',9''R'',11''R'',12''S'',13''S'',14''R'')-12-{[3,6-Dideoxy-3-(dimethylamino)-β-<small>D</small>-glucopyranosyl]oxy}-11-{2-[(3''R'',5''S'')-3,5-dimethylpiperidin-1-yl]ethyl}-2-ethyl-14-hydroxy-5,9,13-trimethyl-8,16-dioxooxacyclohexadeca-4,6-dien-3-yl]methyl 6-deoxy-2,3-di-''O''-methyl-β-<small>D</small>-allopyranoside
+| OtherNames = Micotil; 20-Deoxy-20-(3,5-dimethylpiperidin-1-yl)-desmycosin<ref name=fao>[http://www.fao.org/docrep/W4601E/w4601e0e.htm Tilmicosin], [[United Nations Food and Agriculture Organization]]</ref>
+|Section1={{Chembox Identifiers
+| CASNo = 108050-54-0
+| CASNo_Ref = {{cascite|correct|}}
+| UNII = XL4103X2E3
+| PubChem = 16667713
+| ChemSpiderID = 4445656
+| ChEMBL = 206342
+| SMILES = O=C4\C=C\C(=C\[C@H](CO[C@@H]1O[C@H](C)[C@@H](O)[C@@H](OC)[C@H]1OC)[C@H](OC(=O)C[C@@H](O)[C@@H]([C@@H](O[C@@H]2O[C@@H]([C@@H](O)[C@H](N(C)C)[C@H]2O)C)[C@@H](CCN3C[C@H](C)C[C@H](C)C3)C[C@H]4C)C)CC)C
+| InChI = 1/C46H80N2O13/c1-13-36-33(24-57-46-44(56-12)43(55-11)40(53)31(8)59-46)19-25(2)14-15-34(49)28(5)20-32(16-17-48-22-26(3)18-27(4)23-48)42(29(6)35(50)21-37(51)60-36)61-45-41(54)38(47(9)10)39(52)30(7)58-45/h14-15,19,26-33,35-36,38-46,50,52-54H,13,16-18,20-24H2,1-12H3/b15-14+,25-19+/t26-,27+,28-,29+,30-,31-,32+,33-,35-,36-,38+,39-,40-,41-,42-,43-,44-,45+,46-/m1/s1
+| InChIKey = JTSDBFGMPLKDCD-XVFHVFLVBD
+| StdInChI = 1S/C46H80N2O13/c1-13-36-33(24-57-46-44(56-12)43(55-11)40(53)31(8)59-46)19-25(2)14-15-34(49)28(5)20-32(16-17-48-22-26(3)18-27(4)23-48)42(29(6)35(50)21-37(51)60-36)61-45-41(54)38(47(9)10)39(52)30(7)58-45/h14-15,19,26-33,35-36,38-46,50,52-54H,13,16-18,20-24H2,1-12H3/b15-14+,25-19+/t26-,27+,28-,29+,30-,31-,32+,33-,35-,36-,38+,39-,40-,41-,42-,43-,44-,45+,46-/m1/s1
+| StdInChIKey = JTSDBFGMPLKDCD-XVFHVFLVSA-N
+  }}
+|Section2={{Chembox Properties
+| C=46 | H=80 | N=2 | O=13
+| Appearance = 
+| Density = 
+| MeltingPt = 
+| BoilingPt = 
+| Solubility = 566 mg/mL<ref name=fao/>
+  }}
+|Section6={{Chembox Pharmacology
+| ATCvet = yes
+| ATCCode_prefix = J01
+| ATCCode_suffix = FA91
+}}
+|Section7={{Chembox Hazards
+| MainHazards = 
+| FlashPt = 
+| AutoignitionPt =
+  }}
+}}
+
+'''Tilmicosin''' is a [[macrolide antibiotic]].  It is used in veterinary medicine for the treatment of [[bovine respiratory disease]] and [[enzootic pneumonia]] caused by ''Mannheimia (Pasteurella) haemolytica'' in sheep.<ref>[http://www.fda.gov/downloads/AnimalVeterinary/Products/ApprovedAnimalDrugProducts/FOIADrugSummaries/ucm115928.pdf Micotil 300 New Animal Drug Application], [[United States Food and Drug Administration]]</ref> In humans, Tilmicosin causes fatal cardiotoxic effects at amounts greater than 1 milliliter when injected, something most commonly seen in veterinary personnel and farmers. <ref>[https://www.canada.ca/en/health-canada/services/drugs-health-products/veterinary-drugs/adverse-drug-reactions-adrs/micotil-tilmicosin.html Micotil (tilmicosin) - Adverse Drug Reactions - Veterinary Drugs], [[Health Products and Food Branch|Veterinary Drugs Directorate]]</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:Macrolide antibiotics]]
+[[Category:Veterinary drugs]]

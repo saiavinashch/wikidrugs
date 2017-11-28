@@ -1,0 +1,66 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 449584902
+| IUPAC_name = 2-[{1-[1-(4-Fluorobenzyl)-1''H''-benzimidazol-2-yl]piperidin-4-yl}(methyl)amino]pyrimidin-4(1''H'')-one
+| image = Mizolastine.svg
+
+<!--Clinical data-->
+| tradename =
+| Drugs.com = {{drugs.com|international|mizolastine}}
+| pregnancy_category =
+| legal_UK = POM
+| routes_of_administration = [[Oral administration|By mouth]] ([[Tablet (pharmacy)|tablets]])
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 108612-45-9
+| ATC_prefix = R06
+| ATC_suffix = AX25
+| PubChem = 65906
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 244O1F90NA
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01117
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 94454
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 59315
+
+<!--Chemical data-->
+| C=24 | H=25 | F=1 | N=6 | O=1 
+| molecular_weight = 432.493 g/mol
+| smiles = CN(C1CCN(CC1)C2=NC3=CC=CC=C3N2CC4=CC=C(C=C4)F)C5=NC=CC(=O)N5
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C24H25FN6O/c1-29(23-26-13-10-22(32)28-23)19-11-14-30(15-12-19)24-27-20-4-2-3-5-21(20)31(24)16-17-6-8-18(25)9-7-17/h2-10,13,19H,11-12,14-16H2,1H3,(H,26,28,32)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = PVLJETXTTWAYEW-UHFFFAOYSA-N
+}}
+
+'''Mizolastine''' ('''Mizollen''') is a once-daily, non-sedating [[Antihistamine#H1-antihistamines|antihistamine]]. It blocks [[H1 receptor|H<sub>1</sub> receptor]]s and is commonly fast-acting. It does not prevent the actual release of histamine from [[mast cell]]s, just prevents it binding to receptors. Side effects can include dry mouth and throat.<ref>{{Cite web
+| title = MIZOLASTINE: British National Formulary
+| accessdate = 2010-02-01
+| url = http://bnf.org/bnf/bnf/58/68614.htm
+}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{Antihistamines}}
+{{Histaminergics}}
+
+[[Category:Benzimidazoles]]
+[[Category:H1 receptor antagonists]]
+[[Category:Fluoroarenes]]
+[[Category:Peripherally selective drugs]]
+[[Category:Piperidines]]
+[[Category:Pyrimidones]]
+
+{{respiratory-system-drug-stub}}

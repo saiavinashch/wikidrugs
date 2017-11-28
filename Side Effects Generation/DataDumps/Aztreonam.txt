@@ -1,0 +1,92 @@
+{{Drugbox
+| verifiedrevid = 458976305
+| IUPAC_name = 2-<nowiki/>{[(1''Z'')-1-(2-Amino-1,3-thiazol-4-yl)-2-<nowiki/>{[(2''S'',3''S'')-2-methyl-4-oxo-1-sulfoazetidin-3-yl]amino}-2-oxoethylidene]amino}oxy-2-methylpropanoic acid
+| image = Aztreonam structure.svg
+| width = 150px
+<!-- Clinical data -->
+| tradename = Azactam
+| Drugs.com = {{drugs.com|monograph|aztreonam}}
+| pregnancy_AU = B1
+| pregnancy_US = B
+| legal_US = Rx
+| legal_UK = POM
+| routes_of_administration = [[Intravenous therapy|Intravenous]], [[Intramuscular injection|intramuscular]], [[inhalation]]
+<!-- Pharmacokinetic data -->
+| bioavailability = 100% ([[Intramuscular injection|IM]]) 0.1% (Oral in Rats) Unknown (Oral in humans)
+| protein_bound = 56%
+| metabolism = hepatic (minor %)
+| elimination_half-life = 1.7 hours
+| excretion = [[Kidney|Renal]]
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 78110-38-0
+| ATC_prefix = J01
+| ATC_suffix = DF01
+| ATC_supplemental = 
+| PubChem = 54116
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00355
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4674940
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = G2B4VE5GH8
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00240
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 161680
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 158
+<!-- Chemical data -->
+| C=13 | H=17 | N=5 | O=8 | S=2
+| molecular_weight = 435.433 g/mol
+| smiles = O=S(=O)(O)N2C(=O)[C@@H](NC(=O)C(=N\OC(C(=O)O)(C)C)/c1nc(sc1)N)[C@@H]2C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C13H17N5O8S2/c1-5-7(10(20)18(5)28(23,24)25)16-9(19)8(6-4-27-12(14)15-6)17-26-13(2,3)11(21)22/h4-5,7H,1-3H3,(H2,14,15)(H,16,19)(H,21,22)(H,23,24,25)/b17-8-/t5-,7-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = WZPBZJONDBGPKJ-VEHQQRBSSA-N
+}}
+'''Aztreonam''' (trade names '''Azactam''' injection, '''Cayston''' inhalation) is a [[monobactam]] [[antibiotic]] used primarily to treat infections caused by [[gram-negative bacteria]]. It is a synthetic drug based on a simpler monobactam isolated from ''[[Chromobacterium violaceum]]''. It is resistant to some [[beta-lactamase]]s, but is inactivated by [[Beta-lactamase#Extended-spectrum beta-lactamase (ESBL)|extended-spectrum beta-lactamases]].
+
+<!-- History and culture -->
+It was approved by the [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]] (FDA) in 1986. It is on the [[World Health Organization's List of Essential Medicines]], the most effective and safe medicines needed in a [[health system]].<ref name=WHO20th>{{cite web|title=WHO Model List of Essential Medicines (20th List)|url=http://www.who.int/medicines/publications/essentialmedicines/20th_EML2017.pdf?ua=1|work=World Health Organization|accessdate=29 June 2017|date=March 2017}}</ref>
+
+== Medical uses ==
+Nebulized forms of aztreonam are used to treat infections that are complications of [[cystic fibrosis]] and are approved for such use in Europe and the US; they and is used off-label for non-CF bronchiectasis, ventilator-associated pneumonia, chronic obstructive pulmonary disease, mycobacterial disease, and to treat infections in people who have received lung transplants.<ref>{{cite journal|last1=Quon|first1=BS|last2=Goss|first2=CH|last3=Ramsey|first3=BW|title=Inhaled antibiotics for lower airway infections.|journal=Annals of the American Thoracic Society|date=March 2014|volume=11|issue=3|pages=425-34|pmid=24673698|pmc=4028738}}</ref>
+
+Aztreonam has strong activity against susceptible [[Gram-negative bacteria]], including ''[[Pseudomonas aeruginosa]]''. It has no useful activity against Gram-positive bacteria or anaerobes. It is known to be effective against a wide range of bacteria including ''[[Citrobacter]]'', ''[[Enterobacter]]'', ''[[Escherichia coli|E. coli]]'', ''[[Haemophilus]]'', ''[[Klebsiella]]'', ''[[Proteus (bacterium)|Proteus]]'', and ''[[Serratia]]'' species.<ref name="Mosby">{{cite book | title=Mosby's Drug Consult 2006 | publisher= Mosby, Inc. | date= 2006 | edition= 16th}}</ref> The following represents MIC susceptibility data for a few medically significant microorganisms.
+* ''Staphylococcus aureus'' 8 - >128 μg/ml
+* ''Staphylococcus epidermidis'' 8 - 32 μg/ml
+* ''Streptococcus pyogenes'' 8 - ≥128 μg/ml
+<ref>http://www.toku-e.com/Assets/MIC/Aztreonam.pdf</ref>
+
+Synergism between aztreonam and [[arbekacin]] or [[tobramycin]] against ''P. aeruginosa'' has been suggested.<ref>{{cite journal |doi=10.1093/jac/30.6.871 |author=Kobayashi, Y. |author2=Uchida, H. |author3=Kawakami Y. |title=Synergy with aztreonam and arbekacin or tobramycin against Pseudomonas aeruginosa isolated from blood | journal=J Antimicrob Chemother |year=1992 |volume=30 |issue =6 |pages=871–872| pmid = 1289363}}</ref>
+
+=== Spectrum of bacterial susceptibility and resistance ===
+''Acinetobacter anitratus'', ''[[Escherichia coli]]'', ''[[Pseudomonas aeruginosa]]'', and ''[[Proteus mirabilis]]'' are generally susceptible to aztreonam, while some [[staphylococci]], ''[[Staphylococcus aureus]]'', ''Staphylococcus hemolyticus'' and ''[[Xanthomonas maltophilia]]'' are resistant to it. Furthermore, ''[[Aeromonas hydrophila]]'', ''Citrobacter diversus'', ''Enterobacter agglomerans'', ''[[Haemophilus]]'' spp. and ''[[Streptococcus pyogenes]]'' have developed resistance to aztreonam to varying degrees.<ref>{{cite web|title=Aztreonam spectrum of bacterial susceptibility and Resistance|url=http://www.toku-e.com/Upload/Products/PDS/20120618004526.pdf |accessdate=15 May 2012}}</ref>
+
+Aztreonam is often used in patients who are penicillin allergic or who cannot tolerate aminoglycosides.
+
+=== Administration ===
+Aztreonam is poorly absorbed when given orally, so it must be administered as an [[intravenous]] or [[intramuscular]] injection (trade name Azactam ), or [[nebulizer|inhaled]] (trade name Cayston) using an ultrasonic nebulizer. In the United States, the [[Food and Drug Administration (United States)|FDA]] approved the inhalation form on February 22, 2010, for the suppression of ''P. aeruginosa'' infections in patients with [[cystic fibrosis]].<ref name="BW1">{{cite news|date=February 22, 2010 |title=Gilead’s Inhaled Antibiotic for Lungs Wins Approval |url=http://www.businessweek.com/news/2010-02-22/gilead-s-inhaled-antibiotic-for-lungs-wins-approval-update1-.html |first=Catherine |last=Larkin |work=BusinessWeek |accessdate=2010-03-05 |deadurl=yes |archiveurl=https://web.archive.org/web/20100302011232/http://www.businessweek.com/news/2010-02-22/gilead-s-inhaled-antibiotic-for-lungs-wins-approval-update1-.html |archivedate=2010-03-02 |df= }}</ref> It received conditional approval for administration in Canada and the European Union in September 2009,<ref name="BW1" /> and has been fully approved in Australia.<ref>{{cite news|date=February 23, 2010 |title=FDA approves Gilead cystic fibrosis drug Cayston |url=http://www.businessweek.com/ap/financialnews/D9E237QG1.htm |work=BusinessWeek |accessdate=2010-03-05}}</ref>
+
+== Side effects ==
+Reported side effects include injection site reactions, [[rash]], and rarely [[toxic epidermal necrolysis]]. Gastrointestinal side effects generally include [[diarrhea]] and [[nausea]] and [[vomiting]]. There may be drug-induced [[eosinophilia]]. Because of the unfused beta-lactam ring unique to aztreonam, there is somewhat lower cross-reactivity between aztreonam and many other [[beta-lactam]] antibiotics, and it may be safe to administer aztreonam to many patients with hypersensitivity (allergies) to penicillins and nearly all [[cephalosporin]]s.<ref name="AHFS" /> However, like other beta lactams, there is a risk of very serious allergic reactions, including anaphylaxis.  The aztreonam label directs physicians to be aware of the possibility of these severe adverse reactions.   This is more likely if the patient is allergic to a certain cephalosporin known as [[ceftazidime]]. Azetreonam exhibits cross-reactivity with this cephalosporin due to a similar side chain.  Physicians should evaluate prior allergy history when prescribing this medicine.
+
+Special caution is warranted in patients who are allergic to ceftazidime and are subsequently placed on aztreonam therapy.
+
+== Mechanism of action ==
+Aztreonam is similar in action to [[penicillin]]. It inhibits [[mucopeptide]] synthesis in the bacterial cell wall, thereby blocking peptidoglycan crosslinking. It has a very high affinity for [[penicillin-binding protein]]-3 and mild affinity for penicillin-binding protein-1a. Aztreonam binds the penicillin-binding proteins of [[Gram-positive]] and [[Anaerobic organism|anaerobic]] bacteria very poorly and is largely ineffective against them.<ref name="AHFS">{{cite book | title= AHFS DRUG INFORMATION 2006 | publisher= American Society of Health-System Pharmacists | date= 2006 | edition= 2006 }}</ref> Aztreonam is bactericidal, but less so than some of the [[cephalosporins]].
+
+== References ==
+{{reflist}}
+
+==External links==
+* {{MedlinePlusDrugInfo|uspdi|202078}}
+
+{{CephalosporinAntiBiotics}}
+
+[[Category:Monobactam antibiotics]]
+[[Category:Enantiopure drugs]]
+[[Category:Thiazoles]]
+[[Category:Sulfamates]]
+[[Category:World Health Organization essential medicines]]

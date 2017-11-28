@@ -1,0 +1,90 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 458283639
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = u
+| target = [[PDGFRA|PDGF-R &alpha;]]
+<!-- Clinical data -->
+| tradename =  Lartruvo
+| Drugs.com = {{Drugs.com|monograph|lartruvo}}
+| pregnancy_AU =  
+| pregnancy_US =  
+| pregnancy_category =  
+| legal_AU = 
+| legal_CA = 
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status = 
+| routes_of_administration = [[Intravenous infusion]]
+<!-- Pharmacokinetic data -->
+| bioavailability = 
+| protein_bound = None
+| metabolism = [[Proteolytic enzyme]]s
+| elimination_half-life = 11 days
+| excretion = 
+<!-- Identifiers -->
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = None
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 1024603-93-7
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = TT6HN20MVF
+| ATC_prefix = None
+| ATC_suffix = 
+| PubChem = 
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D09939
+| synonyms = IMC-3G3, LY-3012207
+<!-- Chemical data -->
+| C=6554 | H=10076 | N=1736 | O=2048 | S=40
+| molecular_weight = 147.2 kg/mol
+}}
+'''Olaratumab''' (trade name '''Lartruvo''') is a [[monoclonal antibody]] developed by [[Eli Lilly and Company]] for the treatment of [[solid tumor]]s. It is directed against the [[platelet-derived growth factor receptor alpha]].<ref>[http://www.ama-assn.org/ama1/pub/upload/mm/365/olaratumab.pdf Statement on a Nonproprietary name adopted by the USAN Council: Olaratumab]</ref>
+
+== Medical uses ==
+Olaratumab is used in combination with [[doxorubicin]] for the treatment of adults with advanced [[soft-tissue sarcoma]] (STS) who cannot be cured by [[cancer surgery]] or [[radiation therapy]], and who have not been previously treated with doxorubicin.<ref name="EPAR">{{cite web|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/004216/WC500216869.pdf|title=EPAR – Product information for Lartruvo|date=23 November 2016|publisher=[[European Medicines Agency]]}}</ref><ref name="FDA" />
+
+In a [[randomised controlled trial]] with 133 STS patients, olaratumab plus doxorubicin improved the [[median]] of [[progression-free survival]] from 4.1 to 6.6 months as compared to doxorubicin alone ([[p-value|p]] = 0.0615, narrowly missing [[statistical significance]]), and overall survival from 14.7 to 26.5 months (p = 0.0003, highly significant).<ref name="EPAR" /><ref>{{cite journal|title=Olaratumab and doxorubicin versus doxorubicin alone for treatment of soft-tissue sarcoma: an open-label phase 1b and randomised phase 2 trial|journal=Lancet|volume=388|issue=10043|pages=488–97|pmid=27291997|doi=10.1016/S0140-6736(16)30587-6|year=2016|author1=Tap|first1=W. D.|last2=Jones|first2=R. L.|last3=Van Tine|first3=B. A.|last4=Chmielowski|first4=B|last5=Elias|first5=A. D.|last6=Adkins|first6=D|last7=Agulnik|first7=M|last8=Cooney|first8=M. M.|last9=Livingston|first9=M. B.|last10=Pennock|first10=G|last11=Hameed|first11=M. R.|last12=Shah|first12=G. D.|last13=Qin|first13=A|last14=Shahir|first14=A|last15=Cronier|first15=D. M.|last16=Ilaria Jr|first16=R|last17=Conti|first17=I|last18=Cosaert|first18=J|last19=Schwartz|first19=G. K.}}</ref>
+
+== Contraindications ==
+The drug has no contraindications apart from [[hypersensitivity]] reactions.<ref name="EPAR" />
+
+== Side effects ==
+In studies, the most serious side effects of the combination olaratumab/doxorubicin were [[neutropenia]] (low count of [[neutrophil]] white blood cells) with a severity of grade 3 or 4 in 55% of patients, and musculoskeletal pain grade 3 or 4 in 8% of patients. Common milder side effects were [[lymphopenia]], headache, diarrhoea, [[nausea]] and vomiting, [[mucositis]], and reactions at the infusion site;<ref name="EPAR" /> all typical effects of cancer therapies.
+
+== Interactions ==
+No [[pharmacokinetic]] interactions with doxorubicin were observed in studies. Being a monoclonal antibody, olaratumab is neither metabolised by [[cytochrome P450]] liver enzymes nor transported by [[transmembrane pump]]s, and is thus not expected to interact relevantly with other drugs.<ref name="EPAR" />
+
+== Pharmacology ==
+=== Mechanism of action ===
+Olaratumab inhibits growth of tumour cells by blocking subunit alpha of the [[platelet-derived growth factor receptor]], a type of [[tyrosine kinase]].<ref name="EPAR" />
+
+=== Pharmacokinetics ===
+After [[intravenous infusion]], olaratumab has a [[volume of distribution]] of 7.7 litres in steady state and a [[biological half-life]] of 11 days.<ref name="EPAR" />
+
+== History ==
+Olaratumab was originally developed by [[ImClone Systems]], which was acquired by [[Eli Lilly and Company|Eli Lilly]] in 2008.<ref>{{cite news|title=
+Imclone legacy drug gains green light for Lilly in soft tissue sarcoma|publisher=BioWorld|url=http://www.bioworld.com/content/imclone-legacy-drug-gains-green-light-lilly-soft-tissue-sarcoma-0}}</ref> A [[Phase I clinical trial]] was conducted in Japanese patients in September 2010,<ref>{{cite journal|title=Phase I study of olaratumab in Japanese patients with advanced solid tumors|journal=Cancer Science|volume=105|issue=7|pages=862–869|pmc=4317910|doi=10.1111/cas.12444|year=2014|author1=Doi|first1=T|last2=Ma|first2=Y|last3=Dontabhaktuni|first3=A|last4=Nippgen|first4=C|last5=Nippgen|first5=J|last6=Ohtsu|first6=A}}</ref> followed by a Phase II trial in 133 patients, starting in October 2010.<ref>{{ClinicalTrialsGov|NCT01185964|A Study of IMC-3G3 in Soft Tissue Sarcoma}}</ref>
+
+In February 2015, the [[European Medicines Agency]] assigned olaratumab [[orphan drug]] status for the treatment of soft-tissue sarcoma.<ref>{{cite web|url=http://www.ema.europa.eu/ema/index.jsp?curl=pages/medicines/human/orphans/2015/04/human_orphan_001537.jsp|publisher=[[European Medicines Agency]]|date=9 April 2015|title=Orphan Designation for olaratumab}}</ref> The [[European Commission]] granted a conditional marketing authorisation, based on the mentioned Phase II study, valid throughout the [[European Union]] on 9 November 2016.<ref>{{cite web|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Summary_for_the_public/human/004216/WC500216872.pdf|title=EPAR summary for the public for Lartruvo|date=23 November 2016|publisher=[[European Medicines Agency]]}}</ref>
+
+Considered a promising drug, the FDA granted olaratumab [[fast track (FDA)|fast track]] designation, [[breakthrough therapy]] designation and [[priority review (FDA)|priority review]] status.
+In October 2016, the US [[FDA]] issued an [[Accelerated approval (FDA)|accelerated approval]] notice for use of olaratumab with doxorubicin to treat adults with certain types of soft-tissue sarcoma, based on the same study.<ref name="FDA">{{cite web|title=FDA grants accelerated approval to new treatment for advanced soft tissue sarcoma|date=19 October 2016|publisher=[[US FDA]]|url=http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm525878.htm}}</ref><ref name="Shirley">{{cite journal|title=Olaratumab: First Global Approval|journal=Drugs|pmid=27995580|doi=10.1007/s40265-016-0680-2|year=2016|author1=Shirley|first1=M}}</ref>
+
+A Phase III trial started in September 2015 and is expected to complete in September 2020.<ref name="Shirley" /><ref>{{ClinicalTrialsGov|NCT02451943|A Study of Doxorubicin Plus Olaratumab (LY3012207) in Participants With Advanced or Metastatic Soft Tissue Sarcoma (ANNOUNCE)}}</ref>
+
+== References ==
+{{reflist|35em}}
+
+{{Monoclonals for tumors}}
+{{Growth factor receptor modulators}}
+{{Use dmy dates|date=April 2017}}
+
+[[Category:Monoclonal antibodies for tumors]]
+[[Category:Orphan drugs]]
+[[Category:Breakthrough therapy]]

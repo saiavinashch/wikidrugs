@@ -1,0 +1,88 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 413879150
+| IUPAC_name = (''RS'')-5-[2-(''tert''-butylamino)-1-hydroxyethyl]benzene-1,3-diyl&nbsp;bis(dimethylcarbamate)
+| image = Bambuterol.svg
+| width = 200
+| image2 = Bambuterol ball-and-stick model.png
+| chirality = [[Racemic mixture]]
+| caption = Bambuterol (top),<br />and (''R'')-bambuterol (bottom)
+
+<!--Clinical data-->
+| tradename =
+| Drugs.com = {{drugs.com|international|bambuterol}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category = Unknown
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = Oral ([[Tablet (pharmacy)|tablets]])
+
+<!--Pharmacokinetic data-->
+| bioavailability = 20%
+| protein_bound =
+| metabolism = Extensive [[Liver|hepatic]].<br>Further metabolized to [[terbutaline]] by plasma [[cholinesterase]]
+| elimination_half-life = 13 hours (bambuterol)<br>21 hours (terbutaline)
+| excretion = [[Kidney|Renal]]
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6601
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 81732-46-9
+| ATC_prefix = R03
+| ATC_suffix = CC12
+| PubChem = 54766
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB01408
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 49466
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = Y1850G1OVC
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07377
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 553827
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 521589
+
+<!--Chemical data-->
+| C=18 | H=29 | N=3 | O=5
+| molecular_weight = 367.44 g/mol
+| smiles = O=C(Oc1cc(cc(OC(=O)N(C)C)c1)C(O)CNC(C)(C)C)N(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C18H29N3O5/c1-18(2,3)19-11-15(22)12-8-13(25-16(23)20(4)5)10-14(9-12)26-17(24)21(6)7/h8-10,15,19,22H,11H2,1-7H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ANZXOIAKUNOVQU-UHFFFAOYSA-N
+}}
+
+'''Bambuterol''' ([[International Nonproprietary Name|INN]]) is a [[Long-acting beta-adrenoceptor agonist|long-acting β adrenoceptor agonist]] (LABA) used in the treatment of [[asthma]]; it also is a [[prodrug]] of [[terbutaline]]. Commercially, the [[AstraZeneca]] pharmaceutical company produces and markets bambuterol as '''Bambec''' and '''Oxeol'''.<ref name=Martindale>{{cite book |editor=Sweetman, Sean C. |chapter=Bronchodilators and Anti-asthma Drugs |title=[[Martindale: The complete drug reference]] |edition=36th |year=2009 |pages=1115–16 |publisher=Pharmaceutical Press |location=London|isbn=978-0-85369-840-1}}</ref>
+
+It is not available in the U.S.
+
+==Indications==
+As other LABAs, bambuterol is used in the long-term management of persistent [[asthma]].<ref name=Martindale/> It should not be used as a rescue medication for short-term relief of asthma symptoms.
+
+===Contraindications===
+Bambuterol is contraindicated in pregnancy and in people with seriously [[Liver failure|impaired liver function]]. It can be used by people with [[Renal failure|renal impairment]], but dose adjustments are necessary.<ref name=Martindale/>
+
+==Adverse effects==
+The adverse effect profile of bambuterol is similar to that of [[salbutamol]], and may include [[Fatigue (medical)|fatigue]], [[nausea]], [[palpitations]], [[headache]], [[dizziness]] and [[tremor]].<ref name=Martindale/>
+
+==Interactions==
+Concomitant administration of bambuterol with [[corticosteroid]]s, [[diuretic]]s, and [[xanthine]] derivatives (such as [[theophylline]]) increases the risk of [[hypokalemia]] (decreased levels of [[potassium]] in the blood).<ref name=Martindale2>Sweetman (2009), pp. 1132–33.</ref>
+
+Bambuterol acts as a [[cholinesterase inhibitor]], and can prolong the duration of action of [[suxamethonium]] (succinylcholine) and other drugs whose breakdown in the body depends on cholinesterase function.<ref name=Martindale/> Butyrylcholinesterase activity returns to normal approximately two weeks after bambuterol is stopped.<ref name="Sitar">{{cite journal |author=Sitar DS |title=Clinical pharmacokinetics of bambuterol |journal=Clin Pharmacokinet |volume=31 |issue=4 |pages=246–56 |date=October 1996 |pmid=8896942 |doi=10.2165/00003088-199631040-00002}}</ref> It can also enhance the effects of [[Neuromuscular-blocking drug#Non-depolarizing blocking agents|non-depolarizing]] [[Neuromuscular-blocking drug|neuromuscular blockers]], such as [[vecuronium bromide]].<ref name=Martindale2/>
+
+==References==
+{{Reflist}}
+
+{{Asthma and copd rx}}
+{{Adrenergic agonists}}
+
+[[Category:Beta2-adrenergic agonists]]
+[[Category:Carbamates]]
+[[Category:Phenethylamines]]
+[[Category:Prodrugs]]

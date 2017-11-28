@@ -1,0 +1,85 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 460028510
+| ImageFile = Chloralose structure.svg
+| ImageFile_Ref = {{Chemboximage|correct|CAS}}
+| ImageName = Stetreo structural formula of chloralose
+| IUPACName = (5ξ)-1,2-''O''-[2,2,2-Trichloroethylidene]-α-''xylo''-hexofuranose
+| SystematicName = <!-- 1-[6-Hydroxy-2-(trichloromethyl)-tetrahydro-2''H''-furo[2,3-d][1,3]dioxol-5-yl]ethane-1,2-diol -->
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 238BZ29MUE
+| CASNo = 15879-93-3
+| CASNo_Ref = {{cascite|changed|??}}
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2104181
+| PubChem = 7057995
+| PubChem1 = 40467114
+| PubChem1_Comment = <small>(2''R'',3a''R'',5''R'',6''R'')-6-hydroxy-2-methyl-furo-5-yl</small>
+| PubChem2 = 27525	
+| PubChem2_Comment = <small>(2''R'',5''R'',6''S'',6a''R'')-6-hydroxy-2-methyl-furo-5-yl</small>
+| PubChem3 = 16211632
+| PubChem3_Comment = <small>(1''R'')-dioxol, (2''R'',5''R'',6''S'',6a''R'')-6-hydroxy-2-methyl-furo-5-yl</small>
+| PubChem4 = 186624
+| PubChem4_Comment = <small>(1''R'')-dioxol, (3a''R'',5''R'',6''S'',6a''R'')-6-hydroxy-furo-5-yl</small>
+| PubChem5 = 2723807
+| PubChem5_Comment = <small>(2''R'',3a''R'',5''R'',6''S'',6a''R'')-6-hydroxy-2-methyl-furo-5-yl</small>
+| PubChemOther = 85991
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5414376
+| SMILES = C([C@H]([C@@H]1[C@@H]([C@@H]2[C@H](O1)O[C@@H](O2)C(Cl)(Cl)Cl)O)O)O
+| InChI = 1/C8H11Cl3O6/c9-8(10,11)7-16-5-3(14)4(2(13)1-12)15-6(5)17-7/h2-7,12-14H,1H2/t2-,3+,4-,5-,6-,7-/m1/s1
+| InChIKey = OJYGBLRPYBAHRT-IPQSZEQABF
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C8H11Cl3O6/c9-8(10,11)7-16-5-3(14)4(2(13)1-12)15-6(5)17-7/h2-7,12-14H,1H2/t2-,3+,4-,5-,6-,7-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OJYGBLRPYBAHRT-IPQSZEQASA-N
+| EINECS = 240-016-7
+| MeSHName = Chloralose
+| Beilstein = 85418
+| RTECS = FM9450000
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = C18707
+}}
+|Section2={{Chembox Properties
+| C=8 | H=11 | Cl=3 | O=6
+| MeltingPtC = 176 to 182}}
+|Section3={{Chembox Hazards
+| EUClass = {{Hazchem Xn}}
+| MainHazards = Harmful if swallowed<br />
+Harmful if inhaled
+| RPhrases = {{R20/22}}
+| SPhrases = {{S2}} {{S16}} {{S24/25}} {{S28}}
+}}
+|Section8={{Chembox Related
+| OtherCompounds = [[Chloral hydrate]]}}
+}}
+
+'''Chloralose''' is an [[avicide]], and a [[rodenticide]] used to kill mice in temperatures below 15&nbsp;°C.  It is also widely used in neuroscience and veterinary medicine as an [[anesthetic]] and [[sedative]].<ref>{{cite journal |author=Silverman J, Muir WW |title=A review of laboratory animal anesthesia with chloral hydrate and chloralose |journal=Lab Anim Sci. |volume=43 |issue=3 |pages=210–6 |date=Jun 1993 |pmid=8355479 }}</ref>
+
+Chemically, it is a [[chlorine|chlorinated]] [[acetal]] derivative of [[glucose]].
+
+It is listed in Annex I of [[Directive 67/548/EEC]] with the classification ''Harmful'' ('''Xn''')
+
+==References==
+{{reflist}}
+
+
+{{Hypnotics and sedatives}}
+{{Anesthetics}}
+{{Rodenticides}}
+{{GABAAR PAMs}}
+
+[[Category:Acetals]]
+[[Category:Polyols]]
+[[Category:Monosaccharide derivatives]]
+[[Category:Rodenticides]]
+[[Category:Avicides]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:Sedatives]]
+[[Category:General anesthetics]]
+[[Category:Organochlorides]]
+
+
+{{nervous-system-drug-stub}}

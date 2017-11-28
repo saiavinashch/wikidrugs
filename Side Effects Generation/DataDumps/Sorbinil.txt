@@ -1,0 +1,55 @@
+{{chembox
+| ImageFile = Sorbinil.svg
+| ImageSize = 150px
+| ImageAlt = Structural formula of sorbinil
+| ImageFile1 = Sorbinil 3D ball.png
+| ImageSize1 = 160
+| ImageAlt1 = Ball-and-stick model of the sorbinil molecule
+| IUPACName = (4''S'')-6-Fluoro-2,3-dihydro-2’''H'',5’''H''-spiro[chromene-4,4’-imidazolidine]-2’,5’-dione
+| OtherNames = (''S'')-6-Fluorospiro(chroman-4,4'-imidazolidine)-2',5'-dione; CP 45634
+
+| Section1 = {{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = G4186B906P
+| IUPHAR_ligand = 7415
+| CASNo = 68367-52-2
+| PubChem = 337359
+| KEGG = D05893
+| ChEMBL = 7681
+| ChemSpiderID = 298991
+| SMILES = Fc3ccc2OCC[C@@]1(C(=O)NC(=O)N1)c2c3
+| InChI = InChI=1S/C11H9FN2O3/c12-6-1-2-8-7(5-6)11(3-4-17-8)9(15)13-10(16)14-11/h1-2,5H,3-4H2,(H2,13,14,15,16)/t11-/m0/s1
+  }}
+
+| Section2 = {{Chembox Properties
+| Properties_ref = <ref>[http://www.sigmaaldrich.com/catalog/product/sigma/s7701?lang=en&region=US Sorbinil] at [[Sigma-Aldrich]]</ref>
+| C=11 | H=9 | F=1 | N=2 | O=3
+| Appearance = White to off-white powder
+| Density =
+| MeltingPt =
+| BoilingPt =
+| Solubility =
+  }}<ref name="INN">{{cite web|title=International Nonproprietary Names for Pharmaceutical Substances (INN). Recommended International Nonproprietary names (Rec. INN): List 25|url=http://www.who.int/medicines/publications/druginformation/innlists/RL25.pdf|publisher=World Health Organization|accessdate=11 November 2016|date=1985}}</ref>
+
+| Section3 = {{Chembox Hazards
+| MainHazards =
+| FlashPt =
+| AutoignitionPt =
+  }}
+}}
+
+'''Sorbinil''' ([[International nonproprietary name|INN]]) is an [[aldose reductase inhibitor]] being investigated for treatment of diabetic complications including [[neuropathy]] and [[retinopathy]].<ref>{{Cite journal | pmid = 21129963 | year = 2011 | last1 = MacCari | first1 = R | last2 = Del Corso | first2 = A | last3 = Giglio | first3 = M | last4 = Moschini | first4 = R | last5 = Mura | first5 = U | last6 = Ottanà | first6 = R | title = In vitro evaluation of 5-arylidene-2-thioxo-4-thiazolidinones active as aldose reductase inhibitors | volume = 21 | issue = 1 | pages = 200–3 | doi = 10.1016/j.bmcl.2010.11.041 | journal = Bioorganic & Medicinal Chemistry Letters}}</ref> [[Aldose reductase]] is an [[enzyme]] present in [[lens (anatomy)|lens]] and [[brain]] that gets rid of excess [[glucose]] by converting it to [[sorbitol]]. Sorbitol accumulation can lead to the development of [[cataracts]] in the lens and [[neuropathy]] in peripheral [[nerves]]. Sorbinil has been shown to inhibit aldose reductase in human [[Human brain|brain]]<ref>{{cite journal|last1=O'Brien MM|title=Inhibition of human brain aldose reductase and hexonate dehydrogenase by alrestatin and sorbinil|journal=J Neurochem|date=1982|volume=39|pages=810–4|pmid=6808090|display-authors=etal|doi=10.1111/j.1471-4159.1982.tb07964.x}}</ref> and [[placenta]]<ref name="Kin79">{{cite journal|last1=Kinoshita JH|title=Aldose reductase in diabetic complications of the eye|journal=Metabolism|date=1979|volume=28|issue=suppl 1|pages=462–9|pmid=45423|display-authors=etal|doi=10.1016/0026-0495(79)90057-x}}</ref> and calf<ref>{{cite journal|last1=Peterson MJ|title=CP45,634: A novel aldose reductase inhibitor that inhibits polyol pathway activity in diabetic and galactosemic rats.|journal=Metabolism|date=1979|volume=28|issue=Suppl 1|pages=456–61|pmid=122297|display-authors=etal|doi=10.1016/0026-0495(79)90056-8}}</ref> and rat lens.<ref name="Kin79" /> Sorbinil reduced [[sorbitol]] accummulation in rat lens and [[sciatic nerve]] of diabetic rats orally administered 0.25&nbsp;mg/kg sorbinil.<ref name="Kin79" />
+
+==References==
+{{reflist|2}}
+
+{{oral hypoglycemics}}
+
+[[Category:Aldose reductase inhibitors]]
+[[Category:Hydantoins]]
+[[Category:Fluoroarenes]]
+[[Category:Pfizer]]
+[[Category:Spiro compounds]]
+
+
+{{gastrointestinal-drug-stub}}

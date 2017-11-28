@@ -1,0 +1,138 @@
+{{For|the genus of moth|Iressa (moth)}}
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 459450723
+| IUPAC_name = ''N''-(3-chloro-4-fluoro-phenyl)-7-methoxy-<br />6-(3-morpholin-4-ylpropoxy)quinazolin-4-amine
+| image = Gefitinib structure.svg
+| image2 = Gefitinib ball-and-stick.png
+<!--Clinical data-->
+| tradename = Iressa
+| Drugs.com = {{drugs.com|monograph|gefitinib}}
+| MedlinePlus = a607002
+| pregnancy_AU = C
+| pregnancy_US = D
+| pregnancy_category =
+| legal_AU = S4
+| legal_CA = 
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status = 
+
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability = 59% (oral)
+| protein_bound = 90%
+| metabolism = Hepatic (mainly [[CYP3A4]])
+| elimination_half-life = 6–49 hours
+| excretion = Faecal
+<!--Identifiers-->
+| IUPHAR_ligand = 4941
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 184475-35-2
+| ATC_prefix = L01
+| ATC_suffix = XE02
+| PubChem = 123631
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00317
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 110217
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = S65743JHBS
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01977
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 49668
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 939
+<!--Chemical data-->
+| C=22 | H=24 | Cl=1 | F=1 | N=4 | O=3
+| molecular_weight = 446.902 g/mol
+| smiles = C1COCCN1CCCOc2c(OC)cc3ncnc(c3c2)Nc4cc(Cl)c(F)cc4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H24ClFN4O3/c1-29-20-13-19-16(12-21(20)31-8-2-5-28-6-9-30-10-7-28)22(26-14-25-19)27-15-3-4-18(24)17(23)11-15/h3-4,11-14H,2,5-10H2,1H3,(H,25,26,27)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = XGALLCVXEZPNRQ-UHFFFAOYSA-N
+}}
+'''Gefitinib''' ('''ZD1839''') ([[International Nonproprietary Name|INN]], {{IPAc-en|ɡ|ɛ|ˈ|f|ɪ|t|ᵻ|n|ɪ|b}}, trade name '''Iressa''')<ref>{{cite web|title=Gefitinib|url=http://adisinsight.springer.com/drugs/800007340|publisher=AdisInsight|accessdate=28 February 2017|language=en}}</ref> is a [[medication|drug]] used for certain breast, lung and other [[cancers]]. Gefitinib is an [[EGFR inhibitor]], like [[erlotinib]], which interrupts signaling through the [[epidermal growth factor receptor]] (EGFR) in target cells. Therefore, it is only effective in cancers with mutated and overactive [[Epidermal growth factor receptor|EGFR]].  It is marketed by [[AstraZeneca]] and [[Teva Pharmaceutical Industries|Teva]].
+
+== Mechanism of action ==
+Gefitinib is the first selective inhibitor of [[epidermal growth factor receptor]]'s (EGFR) [[tyrosine kinase]] domain. Thus gefitinib is an [[EGFR inhibitor]]. The target protein (EGFR) is a member of a family of receptors ([[ErbB]]) which includes Her1(EGFR), Her2(erb-B2), Her3(erb-B3) and Her4 (Erb-B4).
+EGFR is overexpressed in the cells of certain types of human [[carcinoma]]s - for example in lung and breast cancers. This leads to inappropriate activation of the [[anti-apoptotic Ras signalling cascade]], eventually leading to uncontrolled cell proliferation. Research on gefitinib-sensitive [[non-small cell lung cancer]]s has shown that a mutation in the EGFR tyrosine kinase domain is responsible for activating anti-apoptotic pathways.<ref name="Pao2004">{{cite journal
+ |vauthors=Pao W, Miller V, Zakowski M, etal | title = EGF receptor gene mutations are common in lung cancers from "never smokers" and are associated with sensitivity of tumors to gefitinib and erlotinib
+| journal = Proceedings of the National Academy of Sciences of the United States of America
+| volume = 101
+| issue = 36
+| pages = 13306–11
+| date=September 2004
+| pmid = 15329413
+| pmc = 516528
+| doi = 10.1073/pnas.0405220101
+| accessdate = 2009-07-02
+}}</ref><!--nogap
+--><ref name="Sordella2004">{{cite journal|date=August 2004|title=Gefitinib-sensitizing EGFR mutations in lung cancer activate anti-apoptotic pathways|journal=Science|volume=305|issue=5687|pages=1163–7|doi=10.1126/science.1101637|pmid=15284455|vauthors=Sordella R, Bell DW, Haber DA, Settleman J}}<!--| accessdate = 2009-07-02--></ref> These mutations tend to confer increased sensitivity to tyrosine kinase inhibitors such as gefitinib and erlotinib. Of the types of non-small cell lung cancer histologies, [[adenocarcinoma]] is the type that most often harbors these mutations. These mutations are more commonly seen in Asians, women, and non-smokers (who also tend to more often have adenocarcinoma).
+
+Gefitinib inhibits EGFR tyrosine kinase by binding to the [[adenosine triphosphate]] (ATP)-binding site of the enzyme.<ref>{{cite journal|last1=Lynch|first1=Thomas J.|last2=Bell|first2=Daphne W.|last3=Sordella|first3=Raffaella|last4=Gurubhagavatula|first4=Sarada|last5=Okimoto|first5=Ross A.|last6=Brannigan|first6=Brain W.|last7=Harris|first7=Patricia L.|last8=Haserlat|first8=Sara M.|last9=Supko|first9=Jeffrey G.|last10=Haluska|first10=Frank G.|last11=Louis|first11=David N.|last12=Christiani|first12=David C.|last13=Settleman|first13=Jeff|last14=Haber|first14=Daniel A|title=Activating Mutations in the Epidermal Growth Factor Receptor Underlying Responsiveness of Non-Small-Cell Lung Cancer to Gefitinib|journal=NEJM|date=May 20, 2004|volume=350|issue=21|pages=2129–39|doi=10.1056/nejmoa040938|pmid=15118073}}</ref> Thus the function of the EGFR tyrosine kinase in activating the [[anti-apoptotic Ras signalling cascade|anti-apoptotic Ras signal transduction cascade]] is inhibited, and malignant cells are inhibited.<ref>Takimoto CH, Calvo E. [http://www.cancernetwork.com/cancer-management-11/chapter03/article/10165/1402628 "Principles of Oncologic Pharmacotherapy"] in Pazdur R, Wagman LD, Camphausen KA, Hoskins WJ (Eds) [http://www.cancernetwork.com/cancer-management-11/ Cancer Management: A Multidisciplinary Approach]. 11 ed. 2008.</ref>
+
+==Clinical uses==
+Gefitinib is currently{{when|date=August 2015}} marketed in over 64 countries.
+
+Iressa was approved and marketed from July 2002 in Japan, making it the first country to import the drug.
+
+The FDA approved Gefitinib in May 2003 for [[non-small cell lung cancer]] (NSCLC).<ref name=Label2003>[http://www.accessdata.fda.gov/drugsatfda_docs/label/2003/021399lbl.pdf IRESSA (gefitinib) Tablets. 5-2-03]</ref>
+It was approved as monotherapy for the treatment of patients with locally advanced or 
+metastatic NSCLC after failure of both platinum-based and docetaxel 
+chemotherapies.<ref name=Label2003/> i.e. as a third-line therapy.
+
+In June 2005 the FDA withdrew approval for use in new patients due to lack of evidence that it extended life.<ref name=FDA-110473>{{cite web|url=http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/ucm110473.htm|title=Postmarket Drug Safety Information for Patients and Providers - Gefitinib (marketed as Iressa) Information|first=Center for Drug Evaluation and|last=Research|publisher=}}</ref>
+
+In Europe gefitinib is indicated since 2009 in advanced NSCLC in all [[Therapy#Lines of therapy|lines of treatment]] for patients harbouring EGFR mutations. 
+This label was granted after gefitinib demonstrated as a [[first line treatment]] to significantly improve [[progression-free survival]] vs. a platinum doublet regime in patients harbouring such mutations. IPASS has been the first of four phase III trials to have confirmed gefitinib superiority in this patient population.<ref name=Mok2014>{{cite journal | last1 = Mok | first1 = TS | last2 = Wu | first2 = YL | last3 = Thongprasert | first3 = S | display-authors = 3 | last4 = et al | year = 2009 | title = Gefitinib or carboplatin-paclitaxel in pulmonary adenocarcinoma | url = | journal = N Engl J Med | volume = 361 | issue = | pages = 947–957 | doi=10.1056/nejmoa0810699}}</ref><ref>{{cite journal | last1 = Sebastian | first1 = M | last2 = Schmittel | first2 = A | last3 = Reck | first3 = M | date = Mar 2014 | title = First-line treatment of EGFR-mutated nonsmall cell lung cancer: critical review on study methodology | url = | journal = European Respiratory Review | volume = 23 | issue = 131| pages = 92–105 | doi=10.1183/09059180.00008413}}</ref>
+
+In most of the other countries where gefitinib is currently marketed it is approved for patients with advanced NSCLC who had received at least one previous chemotherapy regime. However, applications to expand its label as a first line treatment in patients harbouring EGFR mutations is currently in process based on the latest scientific evidence.{{citation needed|date=November 2011}} As at August 2012 New Zealand has approved gefitinib as first line treatment for patients with EGFR mutation for naive locally advanced or metastatic, unresectable NSCLC.  This is publicly funded for an initial 4-month term and renewal if no progression.<ref>{{cite web | url=http://www.pharmac.govt.nz/2012/07/09/2012.07.10%20gefitinib%20funded.pdf | title=PHARMAC funds new targeted lung cancer drug | publisher=PHARMAC | date=July 10, 2012 | accessdate=January 22, 2017 | type=Media release}}</ref>
+
+In 2014 in the TRANSCOG study (Petty et al.), demonstrated gefitinib was effective in [[esophageal cancer]] patients whose tumours harboured additional copies of the EGFR gene.<ref>{{cite journal|url=http://meetinglibrary.asco.org/content/127239-144|title=Epidermal growth factor receptor copy number gain (EGFR CNG) and response to gefitinib in esophageal cancer (EC): Results of a biomarker analysis of a phase III trial of gefitinib versus placebo (TRANS-COG)|first1=Russell D.|last1=Petty|first2=Asa|last2=Dahle-Smith|first3=Zosia|last3=Miedzybrodzka|first4=Susan J.|last4=Dutton|first5=Graeme I.|last5=Murray|first6=David|last6=Stevenson|first7=Doreen|last7=Massie|first8=Aileen|last8=Osbourne|first9=Caroline|last9=Clark|first10=Wasat|last10=Mansoor|first11=Joyce|last11=Thompson|first12=Mark|last12=Harrison|first13=Anirban|last13=Chatterjee|first14=Stephen|last14=Falk|first15=Sean|last15=Elyan|first16=Angel|last16=Garcia-Alonso|first17=David Walter|last17=Fyfe|first18=Ian|last18=Chau|first19=Diane|last19=Collinson|first20=David|last20=Ferry|date=1 January 2014|publisher=|journal=J. Clin. Oncol.|volume=32:5s|issue=suppl; abstr 4016|via=ASCO Meeting Library}}</ref>
+
+On July 13, 2015, the FDA approved gefitinib as a first-line treatment for NSCLC.<ref name=FDA-454678>{{cite web|url=http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm454678.htm|title=Press Announcements - FDA approves targeted therapy for first-line treatment of patients with a type of metastatic lung cancer|publisher=}}</ref>
+
+==Experimental uses==
+
+In August 2013, the [[BBC]] reported that researchers in [[Edinburgh]] and [[Melbourne]] found, in a small-scale [[clinical trial|trial]] of 12 patients, that the effectiveness of [[Methotrexate]] for treating [[ectopic pregnancy]] was improved when Gefitinib was also administered.<ref>{{cite web|url=http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-24021956|title=Lung cancer drug 'could help treat ectopic pregnancy'|date=9 September 2013|publisher=|via=www.bbc.co.uk}}</ref>
+
+==Studies==
+IPASS (IRESSA Pan-Asia Study) was a randomized, large-scale, double-blinded study which compared gefitinib vs. carboplatin/ paclitaxel as a first line treatment in advanced NSCLC.<ref>{{cite journal | last1 = Mok | first1 = TS | display-authors = 1 | last2 = et al | year = 2009 | title = Gefitinib or carboplatin-paclitaxel in pulmonary adenocarcinoma | url = | journal = N Engl J Med | volume =  361| issue = | pages =  947–957| doi = 10.1056/NEJMoa0810699 }}</ref>
+IPASS studied 1,217 patients with confirmed adenocarcinoma histology who were former or never smokers. A pre-planned sub-group analyses showed that progression-free survival (PFS) was significantly longer for gefitinib than chemotherapy in patients with ''EGFR'' mutation positive tumours (HR 0.48, 95 per cent CI 0.36 to 0.64, p less than 0.0001), and significantly longer for chemotherapy than gefitinib in patients with ''EGFR'' mutation negative tumours (HR 2.85, 95 per cent CI 2.05 to 3.98, p less than 0.0001).
+This, in 2009, was the first time a targeted monotherapy has demonstrated significantly longer PFS than doublet chemotherapy.
+
+===EGFR diagnostic tests===
+Genzyme, QIAGEN, Argenomics S.A. & other companies make tests to detect ''EGFR'' mutations, designed to help predict which lung cancer patients may respond best to some therapies, including gefitinib and [[erlotinib]].
+
+The tests examine the genetics of tumors removed for biopsy for mutations that make them susceptible to treatment.
+
+The ''EGFR'' mutation test may also help AstraZeneca win regulatory approval for use of their drugs as initial therapies. Currently the TK inhibitors are approved for use only after other drugs fail.{{citation needed|date=November 2011}} In the case of gefitinib, the drug works only in about 10% of patients with advanced non-small cell lung cancer, the most common type of lung cancer.
+
+==Adverse effects==
+As gefitinib is a selective chemotherapeutic agent, its tolerability profile is better than previous [[cytotoxic]] agents. [[Adverse drug reaction]]s (ADRs) are acceptable for a potentially fatal disease.
+
+[[Acne vulgaris|Acne]]-like rash is reported very commonly. Other common adverse effects (≥1% of patients) include: [[diarrhoea]], nausea, [[vomiting]], [[anorexia (symptom)|anorexia]], [[stomatitis]], [[dehydration]], skin reactions, [[paronychia]], asymptomatic elevations of [[liver enzyme]]s, [[asthenia]], [[conjunctivitis]], [[blepharitis]].<ref name="AMH2004">Rossi S, editor. [[Australian Medicines Handbook]] 2004. Adelaide: Australian Medicines Handbook; 2004. {{ISBN|0-9578521-4-2}}.</ref>
+
+Infrequent adverse effects (0.1–1% of patients) include: [[interstitial lung disease]], [[cornea]]l erosion, aberrant eyelash and hair growth.<ref name="AMH2004" />
+
+==See also==
+* [[Erlotinib]], another EGFR tyrosine kinase inhibitor that has a similar mechanism of action to gefitinib.
+* [[Personalized medicine]]
+
+==References==
+{{Reflist}}
+
+{{Extracellular chemotherapeutic agents}}
+{{Growth factor receptor modulators}}
+{{AstraZeneca}}
+
+[[Category:Receptor tyrosine kinase inhibitors]]
+[[Category:Morpholines]]
+[[Category:Quinazolines]]
+[[Category:Chloroarenes]]
+[[Category:Fluoroarenes]]
+[[Category:Amines]]
+[[Category:Phenol ethers]]
+[[Category:AstraZeneca]]

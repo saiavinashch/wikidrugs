@@ -1,0 +1,69 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 462099595
+| IUPAC_name =  
+| image = Mangafodipir 3D sticks.png
+| image2 = mangafodipir.png
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|mangafodipir}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = Not to be used
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = [[Intravenous therapy|Intravenous infusion]]
+<!--Pharmacokinetic data-->
+| bioavailability = NA
+| protein_bound = 27% (manganese)<br>Negligible (DPDP)
+| metabolism =  
+| elimination_half-life = 20 minutes (manganese)<br>50 minutes (DPDP)
+| excretion = [[Kidney|Renal]] and fecal (manganese)<br>Renal (DPDP)
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 119797-12-5
+| ATC_prefix = V08
+| ATC_suffix = CA05
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = N02W67RKJS
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1628235
+|  PubChem = 6326901
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 4885577
+<!--Chemical data-->
+| C=22 | H=28 | Mn=1 | N=4 | O=14 | P=2
+| molecular_weight = 689.362 g/mol
+| smiles = [H+].[H+].[H+].[H+].[H+].[H+].Cc1c(c(c(cn1)COP(=O)([O-])[O-])CN(CCN(Cc2c(cnc(c2[O-])C)COP(=O)([O-])[O-])CC(=O)[O-])CC(=O)[O-])[O-].[Mn+2]
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C22H32N4O14P2.Mn/c1-13-21(31)17(15(5-23-13)11-39-41(33,34)35)7-25(9-19(27)28)3-4-26(10-20(29)30)8-18-16(12-40-42(36,37)38)6-24-14(2)22(18)32;/h5-6,31-32H,3-4,7-12H2,1-2H3,(H,27,28)(H,29,30)(H2,33,34,35)(H2,36,37,38);/q;+2/p-2
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = QDQFSBKXQQZVTB-UHFFFAOYSA-L
+}}
+'''Mangafodipir''' (sold under the brand name '''Teslascan''' as mangafodipir trisodium) is a [[contrast agent]] delivered [[intravenous]]ly to enhance contrast in [[magnetic resonance imaging]] (MRI) of the liver. It has two parts, [[paramagnetism|paramagnetic]] manganese (II) ions and the [[chelation|chelating]] agent  fodipir (dipyridoxyl diphosphate, DPDP). Normal liver tissue absorbs the manganese more than abnormal or cancerous tissue. The manganese shortens the [[Relaxation (NMR)|longitudinal relaxation]] time (T1), making the normal tissue appear brighter in MRIs. This enhanced contrast allows lesions to be more easily identified.
+
+Mangafodipir was withdrawn from the US market in 2003<ref>{{cite web|title=January 2005: Additions and Deletions to the Drug Product List|url=http://www.fda.gov/drugs/informationondrugs/ucm091413.htm|website=U.S Food and Drug Administration}}</ref> and the European market in 2012.<ref>{{cite web|title=Teslascan (mangafodipir): Withdrawal of the marketing authorisation in the European Union|url=http://www.ema.europa.eu/docs/en_GB/document_library/Public_statement/2012/08/WC500130495.pdf|website=European Medicines Agency}}</ref>
+
+Reactive oxygen species (ROS) and reactive nitrogen species (RNS) participate in pathological tissue damage. Mitochondrial manganese superoxide dismutase (MnSOD) normally keeps ROS and RNS in check. During development of mangafodipir as an MRI contrast agent, it was discovered that it possessed MnSOD mimetic activity. Mangafodipir has been tested as a chemotherapy adjunct in cancer patients and as an adjunct to percutaneous coronary intervention in patients with myocardial infarctions, with promising results.<ref name=":0">{{Cite journal|title = Calmangafodipir [Ca4Mn(DPDP)5], mangafodipir (MnDPDP) and MnPLED with special reference to their SOD mimetic and therapeutic properties.|last = Karlsson|first = Jan Olof G|date = April 2015|journal = Drug Discov Today |url=http://www.sciencedirect.com/science/article/pii/S1359644614004450|doi = 10.1016/j.drudis.2014.11.008|pmid = |access-date =|volume=20|pages=411–421}}</ref>  Whereas MRI contrast depends on release of Mn<sup>2+</sup>, the MnSOD mimetic activity depends on Mn<sup>2+</sup> that remains bound to DPDP.  [[Calmangafodipir]] [Ca<sub>4</sub>Mn(DPDP)<sub>5</sub>] (brand name ''PledOx''''')''' is stabilized with respect to Mn<sup>2+</sup> and has improved therapeutic activity.<ref name=":0" /> Calmangafodipir is being explored as a chemotherapy adjunct in cancer patients.
+
+== References ==
+{{reflist}}
+
+==External links==
+* [http://www.teslascan.com Teslascan.com]
+* [http://www.nlm.nih.gov/medlineplus/druginfo/uspdi/203456.html MedlinePlus data sheet]
+* [http://www.medsafe.govt.nz/Profs/Datasheet/t/Teslascaninj.htm Medsafe data sheet]
+
+{{Contrast media}}
+
+[[Category:Manganese compounds]]
+[[Category:MRI contrast agents]]
+
+
+{{drug-stub}}

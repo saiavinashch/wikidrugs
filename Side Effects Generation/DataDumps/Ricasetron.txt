@@ -1,0 +1,72 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 451220265
+| IUPAC_name = ''endo''-''N''-(8-Methyl-8-azabicyclo[3.2.1]oct-3yl)-2,3-dihydro-3,3-dimethyl-indole-1-carboxamide
+| image = Ricasetron.svg
+| width = 200
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA =  
+| legal_UK =  
+| legal_US =  
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 2302
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 117086-68-7
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 14850173
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2105377
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = R92JB88O88
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 16736765
+
+<!--Chemical data-->
+| C=19 | H=27 | N=3 | O=1 
+| molecular_weight = 313.436 g/mol
+| smiles            = CC1(CN(c2c1cccc2)C(=O)N[C@H]3C[C@H]4CC[C@@H](C3)N4C)C
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C19H27N3O/c1-19(2)12-22(17-7-5-4-6-16(17)19)18(23)20-13-10-14-8-9-15(11-13)21(14)3/h4-7,13-15H,8-12H2,1-3H3,(H,20,23)/t13-,14+,15-
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = ILXWRFDRNAKTDD-QDMKHBRRSA-N
+}}
+
+'''Ricasetron''' ('''BRL-46470''') is a drug which acts as a selective [[Antagonist (pharmacology)|antagonist]] at the [[serotonin]] [[5-HT3 receptor|5-HT<sub>3</sub>]] [[Receptor (biochemistry)|receptor]].<ref name="pmid8413836">{{cite journal |vauthors=Newberry NR, Watkins CJ, Sprosen TS, Blackburn TP, Grahame-Smith DG, Leslie RA |title=BRL 46470 potently antagonizes neural responses activated by 5-HT3 receptors |journal=Neuropharmacology |volume=32 |issue=8 |pages=729–35 |date=August 1993 |pmid=8413836 |doi= 10.1016/0028-3908(93)90180-B|url=}}</ref> It has [[antiemetic]] effects as with other 5-HT<sub>3</sub> antagonists,<ref name="pmid7932054">{{cite journal |vauthors=Bermudez J, Sanger GJ |title=Prolonged anti-emetic activity and 5-HT3-receptor antagonism by BRL 46470 in conscious ferrets |journal=The Journal of Pharmacy and Pharmacology |volume=46 |issue=6 |pages=520–1 |date=June 1994 |pmid=7932054 |doi= 10.1111/j.2042-7158.1994.tb03843.x|url=}}</ref> and also has [[anxiolytic]] effects significantly stronger than other related drugs,<ref name="pmid7831418">{{cite journal |vauthors=Blackburn TP, Baxter GS, Kennett GA, King FD, Piper DC, Sanger GJ, Thomas DR, Upton N, Wood MD |title=BRL 46470A: a highly potent, selective and long acting 5-HT3 receptor antagonist with anxiolytic-like properties |journal=Psychopharmacology |volume=110 |issue=3 |pages=257–64 |year=1993 |pmid=7831418 |doi= 10.1007/BF02251279|url=}}</ref> and with less side effects than [[benzodiazepine]] anxiolytics.<ref name="pmid8485019">{{cite journal |vauthors=Link CG, Leigh TJ, Dennison JK |title=The effects of BRL 46470A, a novel 5-HT3 receptor antagonist, and lorazepam on psychometric performance and the EEG |journal=British Journal of Clinical Pharmacology |volume=35 |issue=4 |pages=395–9 |date=April 1993 |pmid=8485019 |pmc=1381550 |doi= 10.1111/j.1365-2125.1993.tb04156.x|url=}}</ref><ref name="pmid8155281">{{cite journal |vauthors=de Souza Silva M, Guimarães FS, Graeff FG, Tomaz C |title=Absence of amnestic effect of an anxiolytic 5-HT3 antagonist (BRL 46470A) injected into basolateral amygdala, as opposed to diazepam |journal=Behavioural Brain Research |volume=59 |issue=1-2 |pages=141–5 |date=December 1993 |pmid=8155281 |doi= 10.1016/0166-4328(93)90160-R|url=}}</ref> However, it has never been developed for medical use.
+
+== See also ==
+*[[Zatosetron]]
+*[[Bemesetron]]
+*[[Tropanserin]]
+*[[Tropisetron]]
+*[[Granisetron]]
+
+== References ==
+{{reflist}}
+
+{{Serotonergics}}
+
+[[Category:5-HT3 antagonists]]
+[[Category:Tropanes]]
+[[Category:Ureas]]
+[[Category:Indoles]]
+
+
+{{nervous-system-drug-stub}}

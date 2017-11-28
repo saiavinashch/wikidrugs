@@ -1,0 +1,77 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 464197136
+| IUPAC_name = ''N'',''N''-diethyl-''N'''-(6-methoxyquinolin-8-yl)pentane-<br>1,4-diamine
+| image = Pamaquine.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4  / S8 -->
+| legal_CA = <!--                             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 491-92-9
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 10290
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 9868
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 99QVL5KPSU
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 472698
+
+<!--Chemical data-->
+| C=19 | H=29 | N=3 | O=1 
+| molecular_weight = 315.453 g/mol
+| smiles = O(c1cc(NC(C)CCCN(CC)CC)c2ncccc2c1)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H29N3O/c1-5-22(6-2)12-8-9-15(3)21-18-14-17(23-4)13-16-10-7-11-20-19(16)18/h7,10-11,13-15,21H,5-6,8-9,12H2,1-4H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = QTQWMSOQOSJFBV-UHFFFAOYSA-N
+}}
+'''Pamaquine''' is an [[8-aminoquinoline]] drug used for the treatment of [[malaria]].  It is closely related to [[primaquine]].
+
+==History==
+Pamaquine was the second synthetic antimalarial drug to be discovered (after [[methylene blue]]). It was synthesised by Schulemann, Schoenhoeffer and Wingler in 1924. In 1926, Roehl demonstrated that pamaquine was effective in treating malaria in birds, and introduced it into use in humans.<ref>{{cite journal|author=Roehl W|year=1926|title=Die Wirkung of Plasmochins auf die Vogelmalaria|journal=Arch Schiffs-Tropenhyg|volume=30|issue=Suppl 3|pages=311&ndash;318}}</ref>
+
+A large trial of pamaquine performed by the Royal Army Medical Corps and the Indian Medical Corps in 1929 showed for the first time that it was possible to prevent relapse of vivax malaria.<ref name="Manifold1931">{{cite journal|author=Manifold J|year=1931|title=Report on a trial of plasmoquine and quinine in the treatment of benign tertian malaria|journal=Journal of the Royal Army Medical Corps|volume=LVI|issue=5|pages=321&ndash;338,410&ndash;423.}}</ref> Prior to this, it was understood that patients with vivax malaria would suffer from relapses, but there was no treatment that could prevent the relapses from occurring.
+
+==Adverse effects==
+Like primaquine, pamaquine causes [[haemolytic anaemia]] in patients with [[G6PD deficiency]].  Patients should therefore always be screened for G6PD deficiency prior to being prescribed pamaquine.
+
+==Uses==
+Pamaquine is effective against the hypnozoites of the relapsing malarias (''[[Plasmodium vivax|P. vivax]]'' and ''[[Plasmodium ovale|P. ovale]]''); and unlike primaquine, it is also very effective against the erythrocytic stages of all four human malarias.  One small clinical trial of pamaquine as a causal [[prophylactic]] was disappointing<ref>{{cite journal | title=Short report: The activity of pamaquine, an 8-aminoquinoline drug, against sporozoite-induced infections of ''Plasmodium vivax'' (New Guinea strains) |author1=Sweeney AW |author2=Blackburn CRB |author3=KH Rieckmann. | journal=Am J Trop Med Hyg | volume=71 | issue=2 | date=1 August 2004| pages=187–189 | url=http://www.ajtmh.org/cgi/content/full/71/2/187 | pmid=15306708 }}</ref> (whereas primaquine is an extremely effective causal prophylactic).
+
+Pamaquine is more toxic and less efficacious than [[primaquine]]. Pamaquine is therefore no longer used and the only drug currently recommended by the [[World Health Organization]] is primaquine.<ref>{{cite book|author=World Health Organization|year=2010|title=Guidelines for the treatment of malaria|edition=2nd|pages=194|location=Geneva, Switzerland|publisher=WHO Press}}</ref>
+
+==Synonyms==
+*'''Plasmochin'''
+*'''Plasmoquine'''<ref name="Manifold1931"/>
+*'''Plasmaquine'''
+
+==References==
+<references/>
+
+{{Antimalarials}}
+
+[[Category:Antimalarial agents]]
+[[Category:Quinolines]]
+[[Category:Phenol ethers]]

@@ -1,0 +1,126 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 470628961
+| IUPAC_name = ''N''-(4-bromo-2-fluorophenyl)-6-methoxy-7-[(1-methylpiperidin-4-yl)methoxy]quinazolin-4-amine
+| image = Vandetanib2DACS.svg
+
+<!--Clinical data-->
+| tradename = Caprelsa
+| Drugs.com = {{drugs.com|parent|caprelsa}}
+| MedlinePlus = a611037
+| licence_US = Vandetanib
+| pregnancy_AU = D
+| pregnancy_US =  D
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound =  90–96%
+| metabolism = [[CYP3A4]], [[FMO1]], [[FMO3]]
+| elimination_half-life = 19 days (mean)<ref name=USlabel/>
+| excretion =  44% faeces, 25% urine
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5717
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 443913-73-3
+| ATC_prefix = L01
+| ATC_suffix = XE12
+| PubChem = 3081361
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB08764
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2338979
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = YO460OQ37K
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 49960
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 24828
+| synonyms = ZD6474
+| PDB_ligand = ZD6
+
+<!--Chemical data-->
+| C=22 | H=24 | Br=1 | F=1 | N=4 | O=2 
+| molecular_weight = 475.354 g/mol
+| smiles = CN1CCC(CC1)COc2cc3c(cc2OC)c(ncn3)Nc4ccc(cc4F)Br
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H24BrFN4O2/c1-28-7-5-14(6-8-28)12-30-21-11-19-16(10-20(21)29-2)22(26-13-25-19)27-18-4-3-15(23)9-17(18)24/h3-4,9-11,13-14H,5-8,12H2,1-2H3,(H,25,26,27)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = UHTHHESEBZOYNR-UHFFFAOYSA-N
+}}
+'''Vandetanib''' ([[International Nonproprietary Name|INN]], trade name '''Caprelsa''')<ref>{{cite web|title=Vandetanib|url=http://adisinsight.springer.com/drugs/800013126|publisher=AdisInsight|accessdate=27 February 2017|language=en}}</ref> is an [[anti-cancer drug]] that is used for the treatment of certain tumours of the [[thyroid gland]]. It acts as a [[kinase inhibitor]] of a number of cell receptors, mainly the [[vascular endothelial growth factor receptor]] (VEGFR), the [[epidermal growth factor receptor]] (EGFR), and the [[RET proto-oncogene|RET]]-tyrosine kinase.<ref>{{cite web|url=https://www.cancer.gov/publications/dictionaries/cancer-drug?CdrID=269177|title=Definition of vandetanib|publisher=[[National Cancer Institute]]|work=NCI Drug Dictionary}}</ref><ref name="Drugs.com" /> The drug was developed by [[AstraZeneca]]<ref name=USlabel/> and later on [[Sanofi]].{{fact|date=August 2017}}
+
+==Medical use==
+Vandetanib is used to treat [[medullary thyroid cancer]] in adults who are ineligible for surgery.<ref name=USlabel>{{cite web|title=US Label|url=http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/022405s010lbl.pdf|publisher=FDA|date=July 2016}} [http://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=022405 Index page at FDA website for NDA 022405]</ref><ref name=UKlabel>{{cite web|title=UK label|url=https://www.medicines.org.uk/emc/medicine/26040|website=www.medicines.org.uk|publisher=UK Electronic Medicines Compendium|accessdate=27 February 2017|language=en|date=16 December 2016}}</ref><ref name=Viola2016rev>{{cite journal|last1=Viola|first1=D, et al|title=Treatment of advanced thyroid cancer with targeted therapies: ten years of experience|journal=Endocrine-related cancer|date=April 2016|volume=23|issue=4|pages=R185–205|pmid=27207700|url=http://erc.endocrinology-journals.org/content/23/4/R185.long|doi=10.1530/ERC-15-0555}}</ref>
+
+People whose cancer develops a V804M mutation in [[RET proto-oncogene|RET]] stop responding to vandetanib.<ref name=Viola2016rev/>
+
+==Contraindications==
+In people with moderate and severe hepatic impairment, no dosage for vandetanib has been recommended, as its safety and efficacy has not been established yet.<ref name="pmid24643910">{{cite journal | vauthors = Khurana V, Minocha M, Pal D, Mitra AK | title = Role of OATP-1B1 and/or OATP-1B3 in hepatic disposition of tyrosine kinase inhibitors | journal = Drug Metabol Drug Interact. | volume = 0 | pages = 1–11 |date=March 2014 | pmid = 24643910 | pmc = 4407685 | doi = 10.1515/dmdi-2013-0062 }}</ref> Vandetanib is contraindicated in people with congenital [[long QT syndrome]].<ref name=USlabel/><ref name="Drugs.com">{{cite web|publisher=Drugs.com|url=http://www.drugs.com/monograph/vandetanib.html|title=Vandetanib Monograph|accessdate=29 August 2012}}</ref>
+
+==Adverse effects==
+Very common (present in greater than 10% of people) adverse effects include colds, bronchitis, upper respiratory tract infections, urinary tract infections, decreased appetite, [[Hypocalcaemia|low calcium absorption]], insomnia, [[depression (mood)|depressed mood]], Headache, [[paraesthesia|tingling sensations]], [[dysaesthesia|weird, painful sensations]], dizziness, blurred vision,  damage to the [[cornea]], [[long QT syndrome]], high blood pressure, stomach pain, diarrhea, nausea, vomiting, indigestion, [[photosensitivity reaction|sensitivity to sunlight]], rash, acne, dry and itchy skin, nail disorders, [[Proteinuria|protein in urine]], kidney stones, weakness, fatigue, pain, and edema.<ref name=UKlabel/>
+
+Common (present in between 1% and 10% of people) adverse effects include pneumonia, sepsis, influenza, cystitis, sinusitis, laryngitis, folliculitis, [[furuncle|boils]], fungal infection, [[pyelonephritis|kidney infections]], [[Hypothyroidism|low thyroid hormone levels]], [[hypokalaemia|low potassium]], [[hypercalcaemia|high calcium levels]], [[hyperglycemia]], dehydration, [[hyponatremia|low sodium levels]], anxiety, tremor, lethargy, loss of consciousness, balance disorders, [[dysgeusia|changes in sense of taste]], visual impairment, halo vision, [[photopsia|perceived light flashes]], glaucoma, [[conjunctivitis|pink eye]], dry eye, keratopathy, [[hypertensive crisis]], [[Transient ischemic attack|mini strokes]], nose bleeds, [[hemoptysis|coughing up blood]], defecating blood, colitis, dry mouth, [[stomatitis]], constipation, gastritis, [[gallstones]], [[Chemotherapy-induced acral erythema]], hair loss, painful urination, bloody urine, [[kidney failure]], frequent urination, urgent need to urinate, and fever.<ref name=UKlabel/>
+
+==Interactions==
+Vandetanib has been reported as a substrate for the [[OATP1B1]] and [[OATP1B3]] transporters. Interaction of vandetanib with OATP1B1 and OATP1B3 may alter its hepatic disposition and can lead to transporter mediated drug-drug interactions.<ref name="pmid24643910"/> Also, vandetanib is an inhibitor of OATP1B3 transporter but not for OATP1B1.<ref name="Khurana V_2014">{{cite journal | vauthors = Khurana V, Minocha M, Pal D, Mitra AK | title = Inhibition of OATP-1B1 and OATP-1B3 by tyrosine kinase inhibitors | journal = Drug Metabol Drug Interact. | volume = 0 | pages = 1–11 |date=May 2014 | pmid = 24807167 | pmc = 4407688 | doi = 10.1515/dmdi-2014-0014 }}</ref>
+
+Other drugs that [[long QT syndrome|prolong the QT interval]] can possibly add to this side effect of vandetanib. As the drug is partly metabolised via the liver enzyme [[CYP3A4]], strong [[CYP3A4#CYP3A4 ligands|inducers of this enzyme]] can decrease its blood plasma concentrations. CYP3A4 inhibitors do not significantly increase vandetanib concentrations, presumably because it is also metabolised by [[flavin containing monooxygenase 1]] (FMO1) and [[flavin containing monooxygenase 3|3]].<ref name=USlabel/><ref name="Drugs.com" />
+
+==Pharmacology==
+Vandetanib is an inhibitor of [[vascular endothelial growth factor receptor]]-2, [[epidermal growth factor receptor]], and [[RET proto-oncogene|RET tyrosine kinases]]. RET tyrosine kinases; it weakly inhibits VEGFR-3.<ref name=UKlabel/><ref>{{cite journal|last1=Carlomagno|first1=F|last2=Vitagliano|first2=D|last3=Guida|first3=T|last4=Ciardiello|first4=F|last5=Tortora|first5=G|last6=Vecchio|first6=G|last7=Ryan|first7=AJ|last8=Fontanini|first8=G|last9=Fusco|first9=A|last10=Santoro|first10=M|title=ZD6474, an orally available inhibitor of KDR tyrosine kinase activity, efficiently blocks oncogenic RET kinases.|journal=Cancer research|date=15 December 2002|volume=62|issue=24|pages=7284–90|pmid=12499271|url=http://cancerres.aacrjournals.org/content/62/24/7284.long}}</ref>
+
+[[File:Vandetanib metabolism.svg|thumb|upright=1.75|Metabolites of vandetanib (top left): ''N''-desmethylvandetanib (bottom left, via [[CYP3A4]]), vandetanib-''N''-oxide (bottom right, via [[FMO1]] and [[FMO3]]), both pharmacologically active, and a minor amount of a [[glucuronide]].<ref name="FDA"/>]]
+
+Vandetanib is well absorbed from the gut, reaches peak blood plasma concentrations 4 to 10 hours after application, and has a half-life of 19 days on average, per pharmacokinetic studies. It has to be taken for about three months to achieve a steady-state concentration. In the blood, it is almost completely (90–96%) bound to plasma proteins such as [[albumin]]. It is metabolised to ''N''-desmethylvandetanib via CYP3A4 and to vandetanib-''N''-oxide via FMO1 and 3. Both of these are [[active metabolite]]s. Vandetanib is excreted via the faeces (44%) and the urine (25%) in form of the unchanged drug and the metabolites.<ref name="Drugs.com" /><ref>{{Cite journal 
+| last1 = Martin | first1 = P. 
+| last2 = Oliver | first2 = S. 
+| last3 = Kennedy | first3 = S. J. 
+| last4 = Partridge | first4 = E. 
+| last5 = Hutchison | first5 = M. 
+| last6 = Clarke | first6 = D. 
+| last7 = Giles | first7 = P. 
+| doi = 10.1016/j.clinthera.2011.11.011 
+| title = Pharmacokinetics of Vandetanib: Three Phase I Studies in Healthy Subjects 
+| journal = Clinical Therapeutics 
+| volume = 34 
+| issue = 1 
+| pages = 221–237 
+| year = 2012 
+| pmid = 22206795 
+| pmc = 
+}}</ref><ref name="FDA">{{cite web|url=http://www.accessdata.fda.gov/drugsatfda_docs/nda/2011/022405Orig1s000ClinPharmR.pdf|title=Clinical Pharmacology Review: Vandetanib|publisher=US [[Food and Drug Administration]], Center for Drug Evaluation and Research|date=20 August 2010|accessdate=29 August 2012}}</ref>
+
+==History==
+Vandetanib was approved by the FDA in April 2011 for treatment of late-stage thyroid cancer.<ref>{{cite news|url=http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm250168.htm|title=FDA approves new treatment for rare form of thyroid cancer|accessdate=7 April 2011}}</ref>
+
+Vandetanib was first initially marketed without a trade name; it has been marketed under the trade name Caprelsa since August 2011.<ref>{{cite news|last1=Starkey|first1=Jonathan|title=AstraZeneca (finally) lands name for cancer drug|url=http://blogs.delawareonline.com/delawareinc/2011/08/02/astrazeneca-finally-lands-name-for-cancer-drug/?nclick_check=1|work=Delaware Inc.|date=August 2, 2011}}</ref>
+
+In 2015 Genzyme acquired the product from AstraZeneca.<ref>{{cite news|last1=Fourcade|first1=Marthe|title=Sanofi to Buy Caprelsa Drug from AstraZeneca for $300 Million|url=https://www.bloomberg.com/news/articles/2015-07-27/sanofi-to-buy-caprelsa-drug-from-astrazeneca-for-300-million|work=Bloomberg|date=27 July 2015}}</ref>
+
+==Research==
+AstraZeneca tested Vandetanib in clinical trials for [[non-small cell lung cancer]] and submitted an application for approval to the EMA but then withdrew the application in October 2009 after trials showed no benefit when the drug was administered alongside chemotherapy.<ref>{{cite web|url=http://www.ema.europa.eu/ema/index.jsp?curl=pages/medicines/human/medicines/001194/wapp/Initial_authorisation/human_wapp_000025.jsp&murl=menus/medicines/medicines.jsp&mid=WC0b01ac058001d128&jsenabled=true|title=Zactima|publisher=[[European Medicines Agency]]}}</ref> A clinical trial of vandetanib plus gemcitabine versus placebo plus gemcitabine in locally advanced or metastatic [[pancreatic carcinoma]] was negative in a prospective, randomised, double-blind, multicentre phase 2 trial.<ref>{{cite journal|title=Vandetanib plus gemcitabine versus placebo plus gemcitabine in locally advanced or metastatic pancreatic carcinoma (ViP): a prospective, randomised, double-blind, multicentre phase 2 trial|journal=The Lancet Oncology|volume=18|issue=4|pages=486|doi=10.1016/S1470-2045(17)30084-0|pmid=28259610|year=2017|last1=Middleton|first1=Gary|last2=Palmer|first2=Daniel H|last3=Greenhalf|first3=William|last4=Ghaneh|first4=Paula|last5=Jackson|first5=Richard|last6=Cox|first6=Trevor|last7=Evans|first7=Anthony|last8=Shaw|first8=Victoria E|last9=Wadsley|first9=Jonathan|last10=Valle|first10=Juan W|last11=Propper|first11=David|last12=Wasan|first12=Harpreet|last13=Falk|first13=Stephen|last14=Cunningham|first14=David|last15=Coxon|first15=Fareeda|last16=Ross|first16=Paul|last17=Madhusudan|first17=Srinivasan|last18=Wadd|first18=Nick|last19=Corrie|first19=Pippa|last20=Hickish|first20=Tamas|last21=Costello|first21=Eithne|last22=Campbell|first22=Fiona|last23=Rawcliffe|first23=Charlotte|last24=Neoptolemos|first24=John P}}</ref>
+
+==References==
+{{reflist}}
+
+{{Targeted cancer therapeutic agents}}
+{{Growth factor receptor modulators}}
+{{AstraZeneca}}
+
+[[Category:Angiogenesis inhibitors]]
+[[Category:Receptor tyrosine kinase inhibitors]]
+[[Category:Quinazolines]]
+[[Category:Amines]]
+[[Category:Organobromides]]
+[[Category:Fluoroarenes]]
+[[Category:Phenol ethers]]
+[[Category:Piperidines]]
+[[Category:AstraZeneca]]

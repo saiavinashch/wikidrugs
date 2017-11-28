@@ -1,0 +1,78 @@
+{{distinguish|5-aminoimidazole-4-carboxamide ribotide}}
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 477237572
+| IUPAC_name = 5-amino-1-[(2''R'',3''R'',4''S'',5''R'')-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-1''H''-imidazole-4-carboxamide
+| image = Acadesine structure.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5133
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 2627-69-2
+| ATC_prefix = C01
+| ATC_suffix = EB13
+| ATC_supplemental =  
+| PubChem = 17513
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 28498
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1551724
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 16560
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 53IEF47846
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02742
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=9 | H=14 | N=4 | O=5 
+| molecular_weight = 258.231 g/mol
+| smiles = O=C(c1ncn(c1N)[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CO)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C9H14N4O5/c10-7-4(8(11)17)12-2-13(7)9-6(16)5(15)3(1-14)18-9/h2-3,5-6,9,14-16H,1,10H2,(H2,11,17)/t3-,5-,6-,9-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = RTRQQBHATOEIAF-UUOKFMHZSA-N
+}}
+
+'''Acadesine''' ([[International Nonproprietary Name|INN]]), also known as '''5-aminoimidazole-4-carboxamide-1-β-<small>D</small>-ribofuranoside''', '''AICA-riboside''', and '''AICAR''', is an [[AMP-activated protein kinase]] activator<ref>{{cite journal| journal = Brain Research | volume = 1168 | pages = 1–10 | year = 2007 | pmid = 17706943 | pmc = 2000700 | doi = 10.1016/j.brainres.2007.06.087| title = A pharmacological activator of AMP-activated protein kinase (AMPK) induces astrocyte stellation| last1 = Favero| first1 = Carlita B.| last2 = Mandell| first2 = James W. }}</ref> which is used for the treatment of [[acute lymphoblastic leukemia]]<ref>{{cite journal | last1 = Cronstein | first1 = BN | last2 = Kamen | first2 = BA | title = 5-aminoimidazole-4-carboxamide-1-beta-4-ribofuranoside (AICA-riboside) as a targeting agent for therapy of patients with acute lymphoblastic leukemia: are we there and are there pitfalls? | journal = Journal of pediatric hematology/oncology : official journal of the American Society of Pediatric Hematology/Oncology | volume = 29 | issue = 12 | pages = 805–7 | year = 2007 | pmid = 18090925 | doi = 10.1097/MPH.0b013e31815bbb83 }}</ref> and may have applications in treating other disorders such as [[diabetes]].<ref>{{Cite journal | last1 = Cuthbertson | first1 = D. J. | last2 = Babraj | first2 = J. A. | last3 = Mustard | first3 = K. J. W. | last4 = Towler | first4 = M. C. | last5 = Green | first5 = K. A. | last6 = Wackerhage | first6 = H. | last7 = Leese | first7 = G. P. | last8 = Baar | first8 = K. | last9 = Thomason-Hughes | first9 = M. | last10 = Sutherland | first10 = C. | last11 = Hardie | first11 = D. G. | last12 = Rennie | first12 = M. J. | doi = 10.2337/db06-1716 | title = 5-Aminoimidazole-4-Carboxamide 1- -D-Ribofuranoside Acutely Stimulates Skeletal Muscle 2-Deoxyglucose Uptake in Healthy Men | journal = Diabetes | volume = 56 | issue = 8 | pages = 2078–2084 | year = 2007 | pmid =  17513706| pmc = }}</ref>
+
+Acadesine is an adenosine regulating agent developed by PeriCor Therapeutics and licensed to Schering-Plough in 2007 for phase III studies. The drug is a potential first-in-class agent for prevention of reperfusion injury in CABG surgery. Schering began patient enrollment in phase III studies in May 2009. The trial was terminated in late 2010 based on an interim futility analysis.<ref>https://www.reuters.com/article/pressRelease/idUS115105+11-May-2009+PRN20090511</ref><ref>https://www.sec.gov/Archives/edgar/data/310158/000095012310074336/y83714e10vq.htm#002</ref>
+
+==Chemistry==
+Reaction of 2-bromo tribenzoyl [[ribose]] with [[diaminomaleonitrile]] results in the displacement of the anomeric halogen by one of the amino groups and the formation of the aminosugar largely as the β-[[anomer]]. Treatment of this product with [[methyl orthoformate]] in the presence of a base leads to the replacement of the alkoxy groups in orthoformate by the adjacent amines, resulting in the formation of the [[imidazole]] ring. Reaction with alkoxide then interestingly converts the nitrile nearest the sugar to an iminoester; the [[benzoyl]] groups are cleaved in the process. [[Hofmann rearrangement]] in the presence of a [[bromine]] and a base converts the iminoester to the corresponding primary amine. Basic hydrolysis then converts the remaining [[nitrile]] to an [[amide]], affording acadesine.<ref>{{Cite journal|doi=10.1021/jo00206a004|title=Nucleosides from carbohydrate adducts of diaminomaleonitrile. A novel synthesis of 5-amino-1-(.beta.-D-ribofuranosyl)imidazole-4-carboxamide and 5-amino-1-(.beta.-D-ribopyranosyl)imidazole-4-carboxamide|year=1985|last1=Ferris|first1=James P.|last2=Devadas|first2=Balekadru|last3=Huang|first3=Chun Hsien|last4=Ren|first4=Wu Yen|journal=The Journal of Organic Chemistry|volume=50|pages=747|issue=6}}</ref>
+
+[[File:Acadesine.png|700px|center|thumb|Acadesine]]
+
+==Pharmacology and use in doping==
+Acadesine acts as an [[AMP-activated protein kinase]] agonist.<ref name="pmid7744080">{{cite journal |vauthors=Corton JM, Gillespie JG, Hawley SA, Hardie DG | title = 5-aminoimidazole-4-carboxamide ribonucleoside. A specific method for activating AMP-activated protein kinase in intact cells? | journal = Eur. J. Biochem. | volume = 229 | issue = 2 | pages = 558–65 |date=April 1995 | pmid = 7744080 | doi = 10.1111/j.1432-1033.1995.0558k.x | url =   }}</ref> It stimulates [[glucose uptake]] and increases the activity of [[p38 mitogen-activated protein kinases]] α and β in skeletal muscle tissue,<ref name="pmid12958172">{{cite journal |vauthors=Lemieux K, Konrad D, Klip A, Marette A | title = The AMP-activated protein kinase activator AICAR does not induce GLUT4 translocation to transverse tubules but stimulates glucose uptake and p38 mitogen-activated protein kinases alpha and beta in skeletal muscle | journal = FASEB J. | volume = 17 | issue = 12 | pages = 1658–65 |date=September 2003 | pmid = 12958172 | doi = 10.1096/fj.02-1125com | url =  }}</ref> as well as suppressing [[apoptosis]] by reducing production of reactive oxygen compounds inside the cell.<ref name="pmid18360094">{{cite journal |vauthors=Kim JE, Kim YW, Lee IK, Kim JY, Kang YJ, Park SY | title = AMP-activated protein kinase activation by 5-aminoimidazole-4-carboxamide-1-beta-D-ribofuranoside (AICAR) inhibits palmitate-induced endothelial cell apoptosis through reactive oxygen species suppression | journal = J. Pharmacol. Sci. | volume = 106 | issue = 3 | pages = 394–403 |date=March 2008 | pmid = 18360094 | doi = 10.1254/jphs.FP0071857 | url =  }}</ref>
+
+In 2008, researchers at the [[Salk Institute]] discovered that acadesine injected in mice significantly improved their performance in endurance-type exercise, apparently by converting fast-twitch muscle fibers to the more energy-efficient, fat-burning, slow-twitch type. They also looked at the administration of [[GW 501516]] (also called GW1516) in combination with acadesine. Given to mice that did not exercise, this combination activated 40% of the genes that were turned on when mice were given GW1516 and made to exercise. This result drew attention to the compound as a possible athletic endurance aid.<ref name="pmid18674809">{{cite journal |vauthors=Narkar VA, Downes M, Yu RT, Embler E, Wang YX, Banayo E, Mihaylova MM, Nelson MC, Zou Y, Juguilon H, Kang H, Shaw RJ, Evans RM | title = AMPK and PPARδ agonists are exercise mimetics | journal = Cell | volume = 134 | issue = 3 | pages = 405–15 |date=August 2008 | pmid = 18674809 | doi = 10.1016/j.cell.2008.06.051 | url = | pmc = 2706130  }}</ref> One of the lead researchers from this study has developed a urine test to detect it and has made the test available to the [[International Olympic Committee]], and the [[World Anti-Doping Agency]] (WADA) has added acadesine to the prohibited list from 2009 onwards.<ref>[http://www.wada-ama.org/rtecontent/document/2009_Prohibited_List_ENG_Final_20_Sept_08.pdf WADA 2009 Prohibited List] {{webarchive|url=https://web.archive.org/web/20090203030039/http://www.wada-ama.org/rtecontent/document/2009_Prohibited_List_ENG_Final_20_Sept_08.pdf |date=2009-02-03 }}</ref> The ''[[British Medical Journal]]'' reported in 2009 that WADA had found evidence that acadesine was used by cyclists in the [[2009 Tour de France]].<ref>{{Cite journal | last1 = Benkimoun | first1 = P. | doi = 10.1136/bmj.b4201 | title = Police find range of drugs after trawling bins used by Tour de France cyclists | journal = BMJ | volume = 339 | pages = b4201 | year = 2009 | pmid =  19825964| pmc = }}</ref>
+
+==References==
+{{reflist|30em}}
+
+[[Category:Imidazoles]]
+[[Category:Ribosides]]
+[[Category:Experimental drugs]]

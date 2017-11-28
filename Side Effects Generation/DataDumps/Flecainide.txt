@@ -1,0 +1,134 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 461100696
+| IUPAC_name = (''RS'')-''N''-(piperidin-2-ylmethyl)-2,5-bis(2,2,2-trifluoroethoxy)benzamide
+| image = Flecainide structure.svg
+| alt = Skeletal formula of flecainide
+| width = 180
+| chirality = [[Racemic mixture]]
+| image2 = Flecainide 3D ball.png
+| alt2 = Ball-and-stick model of the flecainide molecule
+| width2 = 185
+
+<!--Clinical data-->
+| tradename = Tambocor
+| Drugs.com = {{drugs.com|monograph|tambocor}}
+| MedlinePlus = a608040
+| pregnancy_category = C
+
+<!--Pharmacokinetic data-->
+| bioavailability = 95%
+| protein_bound = 40%
+| metabolism = [[CYP2D6]] (limited)
+| elimination_half-life = 20 hours (range 12–27 hours)
+| excretion = Renal
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 54143-55-4
+| ATC_prefix = C01
+| ATC_suffix = BC04
+| PubChem = 3356
+| IUPHAR_ligand = 2560
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01195
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3239
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = K94FTS1806
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07962
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 75984
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 652
+
+<!--Chemical data-->
+| C=17 | H=20 | F=6 | N=2 | O=3
+| molecular_weight = 414.343 g/mol
+| smiles = FC(F)(F)COc2cc(C(=O)NCC1NCCCC1)c(OCC(F)(F)F)cc2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H20F6N2O3/c18-16(19,20)9-27-12-4-5-14(28-10-17(21,22)23)13(7-12)15(26)25-8-11-3-1-2-6-24-11/h4-5,7,11,24H,1-3,6,8-10H2,(H,25,26)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = DJBNUMBKLMJRSA-UHFFFAOYSA-N
+}}
+
+'''Flecainide acetate''' ({{IPAc-en|f|l|ɛ|ˈ|k|eɪ|n|aɪ|d}} {{respell|flek|AY|nyde}}) is a class Ic [[antiarrhythmic agent]] used to prevent and treat [[cardiac arrhythmia|tachyarrhythmia]]s (abnormal fast rhythms of the [[heart]]).  It is used to treat a variety of cardiac arrhythmias including paroxysmal [[atrial fibrillation]] (episodic irregular heartbeat originating in the upper chamber of the [[heart]]), paroxysmal [[supraventricular tachycardia]] (episodic rapid but regular heartbeat originating in the atrium), and [[ventricular tachycardia]]{{citation needed|date=September 2014}} (rapid rhythms of the lower chambers of the heart).  Flecainide works by regulating the flow of [[sodium]] in the heart, causing prolongation of the [[cardiac action potential]].
+
+Flecainide is sold under the trade name '''Tambocor''' (manufactured by [[3M|3M pharmaceuticals]]).  Flecainide went off-[[patent]] on February 10, 2004. In addition to being marketed as '''Tambocor,''' it is also available in generic version and under the trade names '''Almarytm''', '''Apocard''', '''Ecrinal''', and '''Flécaine.'''
+
+==Medical uses==
+Flecainide is used in the treatment of many types of [[supraventricular tachycardia]]s, including [[AV nodal reentrant tachycardia|AV nodal re-entrant tachycardia]] (AVNRT) and  [[Wolff-Parkinson-White syndrome]] (WPW).  This is because of the action of flecainide on the [[electrical conduction system of the heart|His-Purkinje system]].
+
+It also has limited use in the treatment of certain forms of [[ventricular tachycardia]] (VT).  In particular, flecainide has been useful in the treatment of ventricular tachycardias that are not in the setting of an acute ischemic event.  It has use in the treatment of right ventricular outflow tract (RVOT) tachycardia<ref name = Gill>{{cite journal |vauthors=Gill J, Mehta D, Ward D, Camm A | title = Efficacy of flecainide, sotalol, and verapamil in the treatment of right ventricular tachycardia in patients without overt cardiac abnormality | journal = Br Heart J | volume = 68 | issue = 4 | pages = 392–7 | year = 1992 | pmid = 1449923 | doi = 10.1136/hrt.68.10.392 | pmc = 1025139}}</ref> and in the suppression of arrhythmias in [[arrhythmogenic right ventricular dysplasia]] (ARVD).<ref name = Sakurada>{{cite journal |vauthors=Sakurada H, Hiyoshi Y, Tejima T, Yanase O, Tokuyasu Y, Watanabe K, Motomiya T, Sugiura M, Hiraoka M | title = [Effects of oral flecainide treatment of refractory tachyarrhythmias] | journal = Kokyu to Junkan | volume = 38 | issue = 5 | pages = 471–6 | year = 1990 | pmid = 2115193}}</ref>  Studies (notably the [[Cardiac Arrhythmia Suppression Trial]]) have shown an increased mortality when flecainide is used to suppress ventricular [[Premature ventricular contraction|extrasystoles]] in the setting of acute myocardial infarction.<ref name = Echt>{{cite journal | doi = 10.1056/NEJM199103213241201 |vauthors=Echt D, Liebson P, Mitchell L, Peters R, Obias-Manno D, Barker A, Arensberg D, Baker A, Friedman L, Greene H | title = Mortality and morbidity in patients receiving encainide, flecainide, or placebo. The Cardiac Arrhythmia Suppression Trial | journal = N Engl J Med | volume = 324 | issue = 12 | pages = 781–8 | year = 1991 | pmid = 1900101}}</ref><ref name = Greenberg>{{cite journal |vauthors=Greenberg H, Dwyer E, Hochman J, Steinberg J, Echt D, Peters R | title = Interaction of ischaemia and encainide/flecainide treatment: a proposed mechanism for the increased mortality in CAST I | journal = Br Heart J | volume = 74 | issue = 6 | pages = 631–5 | year = 1995 | pmid = 8541168 | doi = 10.1136/hrt.74.6.631 | pmc = 484119}}</ref>
+
+In individuals suspected of having the [[Brugada syndrome]], the administration of flecainide may help reveal the [[electrocardiography|ECG]] findings that are characteristic of the disease process.  This may help make the diagnosis of the disease in equivocal cases.<ref name = Gasparini>{{cite journal |vauthors=Gasparini M, Priori S, Mantica M, Napolitano C, Galimberti P, Ceriotti C, Simonini S | title = Flecainide test in Brugada syndrome: a reproducible but risky tool | journal = Pacing Clin Electrophysiol | volume = 26 | issue = 1  Pt 2 | pages = 338–41 | year = 2003 | pmid = 12687841 | doi = 10.1046/j.1460-9592.2003.00045.x}}</ref>
+
+Flecainide has been introduced into the treatment of arrhythmias in the [[pediatric]] population.
+
+==Side effects==
+Results of a medical study known as the [[Cardiac Arrhythmia Suppression Trial|Cardiac Arrhythmia Suppression Trial (CAST)]] demonstrated that patients with structural heart disease (such as a history of MI (heart attack), or left ventricular dysfunction) and also patients with ventricular arrhythmias, should not take this drug. The results were so significant that the trial was stopped early and preliminary results were published.<ref name = CAST>{{cite journal | author = Cardiac Arrhythmia Suppression Trial (CAST) Investigators | title = Preliminary report: effect of encainide and flecainide on mortality in a randomized trial of arrhythmia suppression after myocardial infarction. | journal = N Engl J Med.  | volume = 321 | issue =  6| pages = 406–412 | year = 1989 | pmid = 2473403| doi =10.1056/NEJM198908103210629  }}</ref>
+
+The dose may need to be adjusted in certain clinical scenarios.  As with all other [[antiarrhythmic agent]]s, there is a risk of [[proarrhythmia]] associated with the use of flecainide.  This risk is probably increased when flecainide is co-administered with other class Ic antiarrhythmics, such as [[encainide]].  The risk of proarrhythmia may also be increased by [[hypokalemia]].<ref name = Ohki>{{cite journal |vauthors=Ohki R, Takahashi M, Mizuno O, Fujikawa H, Mitsuhashi T, Katsuki T, Ikeda U, Shimada K | title = Torsades de pointes ventricular tachycardia induced by mosapride and flecainide in the presence of hypokalemia | journal = Pacing Clin Electrophysiol | volume = 24 | issue = 1 | pages = 119–21 | year = 2001 | pmid = 11227957 | doi = 10.1046/j.1460-9592.2001.00119.x}}</ref>  The risk of proarrhythmia is not necessarily associated with the length of time an individual is taking flecainide, and cases of late proarrhythmia have been reported.<ref name = Morganroth>{{cite journal | author = Morganroth J | title = Early and late proarrhythmia from antiarrhythmic drug therapy | journal = Cardiovasc Drugs Ther | volume = 6 | issue = 1 | pages = 11–4 | year = 1992 | pmid = 1533532 | doi = 10.1007/BF00050910}}</ref>  Because of the role of both the liver and the kidneys in the elimination of flecainide, the dosing of flecainide may need to be adjusted in individuals who develop either liver failure or renal failure.
+
+Because of the negative inotropic effects of flecainide, it should be used with caution in individuals with depressed [[ejection fraction]], and may worsen [[congestive heart failure]] in these individuals. It should be avoided in people with ischaemic heart disease and the elderly.<ref name = Santinelli/>
+
+As with all class I [[antiarrhythmic agents]], Flecainide increases the capture thresholds of [[artificial pacemaker|pacemakers]].<ref name = Fornieles-Pérez>{{cite journal |vauthors=Fornieles-Pérez H, Montoya-García M, Levine P, Sanz O | title = Documentation of acute rise in ventricular capture thresholds associated with flecainide acetate | journal = Pacing Clin Electrophysiol | volume = 25 | issue = 5 | pages = 871–2 | year = 2002 | pmid = 12049386 | doi = 10.1046/j.1460-9592.2002.00871.x}}</ref>
+
+===Cardiac toxicity===
+Due to the narrow therapeutic index of flecainide, physicians should be alert for signs of toxicity before life-threatening arrhythmias occur like [[torsades de pointes]].  While the toxic effects of flecainide are closely related to the plasma levels of the drug,<ref name = Winkelmann>{{cite journal |vauthors=Winkelmann B, Leinberger H | title = Life-threatening flecainide toxicity. A pharmacodynamic approach | journal = Annals of Internal Medicine | volume = 106 | issue = 6 | pages = 807–14 | year = 1987 | pmid = 3107447 | doi=10.7326/0003-4819-106-6-807}}</ref> it is unfeasible to check the plasma concentration in an individual on a regular basis.
+
+Signs of flecainide toxicity include marked prolongation of the PR interval and widening of the QRS duration on the surface ECG.  There may be signs and symptoms attributable to overt [[congestive heart failure|heart failure]] secondary to sudden decreased myocardial contractility.
+
+====Treatment====
+Treatment of flecainide cardiac toxicity involves increasing the excretion of flecainide, blocking its effects in the heart, and (rarely) institution of cardiovascular support to avoid impending lethal arrhythmias.  Modalities that have had success include administration of a beta-sympathomimetic agent,<ref name = Winkelmann/> and administration of a sodium load<ref name = Winkelmann/>(often in the form of [[Tonicity#Hypertonicity|hypertonic]] [[sodium bicarbonate]]).  Placing the individual on cardiopulmonary bypass support may be necessary in order to temporarily remove the need for a beating heart and to increase blood flow to the liver.<ref name = Corkeron>{{cite journal |vauthors=Corkeron M, van Heerden P, Newman S, Dusci L | title = Extracorporeal circulatory support in near-fatal flecainide overdose | journal = Anaesth Intensive Care | volume = 27 | issue = 4 | pages = 405–8 | year = 1999 | pmid = 10470398}}</ref><ref name = Yasui>{{cite journal |vauthors=Yasui R, Culclasure T, Kaufman D, Freed C | title = Flecainide overdose: is cardiopulmonary support the treatment? | journal = Annals of Emergency Medicine | volume = 29 | issue = 5 | pages = 680–2 | year = 1997 | pmid = 9140253 | doi = 10.1016/S0196-0644(97)70257-9}}</ref>
+
+===Lung toxicity===
+Flecainide has a very high affinity for lung tissue <ref>{{cite journal |pmid=3125854 | volume=24 | issue=6 | title=Flecainide distribution in human tissues | pmc=1386410 |date=December 1987 | pages=820–2 |vauthors=Latini R, Cavalli A, Maggioni AP, Volpi A | doi=10.1111/j.1365-2125.1987.tb03252.x | journal=British Journal of Clinical Pharmacology}}</ref> and is associated with drug-induced [[interstitial lung disease]].<ref>{{cite journal |pmid=11563482 | volume=68 | issue=9 | title=Drug-induced lung disease |date=September 2001 | pages=782–5, 789–95 |vauthors=Ozkan M, Dweik RA, Ahmad M | doi=10.3949/ccjm.68.9.782 | journal=Cleve Clin J Med}}</ref><ref>{{cite journal | vauthors = Camus P, Fanton A, Bonniaud P, Camus C ''et al'' | year = 2004 | title = Interstitial lung disease induced by drugs and radiation | url = | journal = Respiration | volume = 71 | issue = 4| pages = 301–326 | doi = 10.1159/000079633 | pmid = 15316202 }}</ref><ref>{{cite journal | vauthors = Pesenti S, Lauque D, Daste G, Boulay V ''et al'' | year = 2002 | title = Diffuse Infiltrative Lung Disease Associated with Flecainide | url = | journal = Respiration | volume = 69 | issue = 2| pages = 182–185 | doi = 10.1159/000056325 | pmid = 11961436 }}</ref><ref>{{cite journal |pmid=11471279 | volume=30 | issue=21 | title=[Interstitial pneumopathy due to flecainide] | year=2001 | pages=1062 |vauthors=Haas M, Pérault MC, Bonnefoy P, Rodeau F, Caron F | journal=Presse Med}}</ref><ref>{{cite journal |pmid=10707759 | volume=55 | issue=1 | title=Flecainide-associated pneumonitis with acute respiratory failure in a patient with the LEOPARD syndrome |date=February 2000 | pages=45–7 |vauthors=Robain A, Perchet H, Fuhrman C | doi=10.2143/ac.55.1.2005718 | journal=Acta Cardiol}}</ref>
+
+==Mechanism of action==
+Flecainide works by blocking the [[Nav1.5]] [[sodium channel]] in the heart, slowing the upstroke of the [[cardiac action potential]].<ref name = Ramos>{{cite journal |vauthors=Ramos E, O'leary M | title = State-dependent trapping of flecainide in the cardiac sodium channel | journal = J Physiol | volume = 560 | issue = Pt 1 | pages = 37–49 | year = 2004 | pmid = 15272045 | doi = 10.1113/jphysiol.2004.065003 | pmc = 1665201}}</ref>  This thereby slows conduction of the electrical impulse within the heart, i.e. it "reduces excitability".  The greatest effect is on the [[electrical conduction system of the heart|His-Purkinje system]] and ventricular [[myocardium]].  The effect of flecainide on the ventricular myocardium causes decreased contractility of the muscle, which leads to a decrease in the ejection fraction.
+
+The effect of flecainide on the [[sodium channels]] of the heart increases as the heart rate increases; This is known as use-dependence and is why that flecainide is useful to break a [[tachyarrhythmia]].<ref name = Wang>{{cite journal |vauthors=Wang Z, Fermini B, Nattel S | title = Mechanism of flecainide's rate-dependent actions on action potential duration in canine atrial tissue | journal = J Pharmacol Exp Ther | volume = 267 | issue = 2 | pages = 575–81 | year = 1993 | pmid = 8246130}}</ref>
+
+Flecainide also inhibits [[ryanodine receptor 2]] (RyR2),<ref name="pmid25274603">{{cite journal |vauthors=Mehra D, Imtiaz MS, van Helden DF, Knollmann BC, Laver DR |title=Multiple modes of ryanodine receptor 2 inhibition by flecainide |journal=[[Molecular Pharmacology]] |volume=86 |issue=6 |pages=696–706 |year=2014 |pmid=25274603 |doi=10.1124/mol.114.094623 |url=http://molpharm.aspetjournals.org/cgi/pmidlookup?view=long&pmid=25274603 |issn= |pmc=4244595}}</ref> a major regulator of [[Sarcoplasmic reticulum|sarcoplasmic]] release of stored calcium ions. It can reduce [[calcium sparks]] and thus arrhythmogenic calcium waves in the heart.<ref name="pmid19835880">{{cite journal |vauthors=Hilliard FA, Steele DS, Laver D, Yang Z, Le Marchand SJ, Chopra N, Piston DW, Huke S, Knollmann BC |title=Flecainide inhibits arrhythmogenic Ca2+ waves by open state block of ryanodine receptor Ca2+ release channels and reduction of Ca2+ spark mass |journal=Journal of Molecular and Cellular Cardiology |volume=48 |issue=2 |pages=293–301 |year=2010 |pmid=19835880 |pmc=2813417 |doi=10.1016/j.yjmcc.2009.10.005 |url=http://linkinghub.elsevier.com/retrieve/pii/S0022-2828(09)00428-3 |issn=}}</ref> While Flecainide therapy has been shown to suppress ventricular arrhythmias in patients with [[catecholaminergic polymorphic ventricular tachycardia]] (CPVT) and mouse models of this disease, the relative contribution from the inhibition of sodium channels and of RyR2 in this effect on CPVT is unclear.<ref name="pmid25858058">{{cite journal |vauthors=Smith GL, MacQuaide N |title=The direct actions of flecainide on the human cardiac ryanodine receptor: keeping open the debate on the mechanism of action of local anesthetics in CPVT |journal=[[Circulation Research]] |volume=116 |issue=8 |pages=1284–6 |year=2015 |pmid=25858058 |doi=10.1161/CIRCRESAHA.115.306298 |url=http://circres.ahajournals.org/content/116/8/1284.extract}}</ref>
+
+==Metabolism and drug interactions==
+Flecainide has high [[bioavailability]] after an oral dose,<ref name = Smith>{{cite journal | author = Smith G | title = Flecainide: a new class Ic antidysrhythmic | journal = Drug Intell Clin Pharm | volume = 19 | issue = 10 | pages = 703–7 | year = 1985 | pmid = 3902429}}</ref> meaning that most of the drug that is ingested will enter the systemic blood stream.  Peak serum concentrations can be seen 1 to 6 hours after ingestion of an oral dose.  While the plasma [[half-life]] is about 20 hours, it is quite variable, and can range from 12 to 27 hours.<ref name = Padrini>{{cite journal | doi = 10.1038/clpt.1993.9 |vauthors=Padrini R, Piovan D, Busa M, al-Bunni M, Maiolino P, Ferrari M | title = Pharmacodynamic variability of flecainide assessed by QRS changes | journal = Clin Pharmacol Ther | volume = 53 | issue = 1 | pages = 59–64 | year = 1993 | pmid = 8422742}}</ref>  During oral loading with flecainide, a steady state equilibrium is typically achieved in 3 to 5 days.
+
+The majority of flecainide is eliminated by the [[kidney]]s, with the remainder metabolized by the [[CYP2D6|cytochrome P450 2D6 isoenzyme]] in the liver.<ref name = Haefeli>{{cite journal |vauthors=Haefeli W, Bargetzi M, Follath F, Meyer U | title = Potent inhibition of cytochrome P450IID6 (debrisoquin 4-hydroxylase) by flecainide in vitro and in vivo | journal = J Cardiovasc Pharmacol | volume = 15 | issue = 5 | pages = 776–9 | year = 1990 | pmid = 1692938 | doi = 10.1097/00005344-199005000-00013}}</ref>  Therefore, alterations in renal function or urine pH will greatly affect the elimination of flecainide, as more is eliminated by the kidney than by the hepatic route.
+
+Because of the dual elimination routes of flecainide and its tendency to decrease [[ejection fraction|myocardial contractility]],<ref name = Santinelli>{{cite journal |vauthors=Santinelli V, Arnese M, Oppo I, Matarazzi C, Maione S, Palma M, Giunta A | title = Effects of flecainide and propafenone on systolic performance in subjects with normal cardiac function | journal = Chest | volume = 103 | issue = 4 | pages = 1068–73 | year = 1993 | pmid = 8131440 | doi = 10.1378/chest.103.4.1068}}</ref> flecainide interacts with numerous pharmaceuticals and can potentiate the effects of other myocardial depressants and AV node blocking agents.  In addition, flecainide can decrease the metabolism or elimination of many (but not all) agents that use the [[cytochrome P450 oxidase|cytochrome P450]] enzyme system.
+
+A full list of drug interactions with flecainide can be obtained from the manufacturer.  Some important drug interactions with flecainide include:{{Citation needed|date=July 2011}}
+* [[Alcohol]] — may further depress normal heart function
+* [[Amiodarone]] — inhibits [[CYP2D6|cytochrome P450 2D6]] and may increase flecainide levels
+* [[Cimetidine]] — increases flecainide levels by 30% and half-life by 10%
+* [[Digoxin]] — may increase digoxin levels
+* [[Paroxetine]] — increased effect of both drugs
+* [[Propafenone]] — increased effect of both drugs and increased risk of toxicity
+* [[Quinidine]] — inhibits [[CYP2D6|cytochrome P450 2D6]] and may increase flecainide levels
+
+==Long-term effects==
+In the long-term, flecainide seems to be safe in patients with a healthy heart with no signs of [[left ventricular hypertrophy]], [[ischemic heart disease]] or [[heart failure]].<ref>{{cite journal | vauthors = Aliot E, Capucci A, Crijns HJ, Goette A, Tamargo J | year = 2011 | title = Twenty-five years in the making: flecainide is safe and effective for the management of atrial fibrillation | url = | journal = Eurospace | volume = 13 | issue = 2| pages = 161–173 | doi=10.1093/europace/euq382}}</ref>
+
+==Overdose==
+Flecainide intoxication is rare but serious due to the cardiogenic shock that it provokes. Its diagnosis can be difficult in the lack of contributing anamnestic elements. Clinical and paraclinical signs are not specific. Treatment is primarily symptomatic, which gives good results thanks to the hypertonic solution of sodium salts.Organ donation is possible in the case of braindead
+patients who suffered a flecainide intoxication.<ref>{{cite journal |last1=Abdelilah |first1=Ghannam '' et. al'' |last2= |first2= |date=2014 |title=Non-Accidental Flecainide Overdose, A Case Report |url=https://dx.doi.org/10.15342/ijms.v1i2.18 |journal=International Journal of Medicine and Surgery  |volume=1 |issue=1 |pages= 53|doi=10.15342/ijms.v1i2.18 |access-date=July 3, 2017}}</ref>
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [http://www.rxlist.com/cgi/generic2/flecainide.htm RxList: Tambocor (Flecainide)]
+
+{{Antiarrhythmic agents}}
+{{Ion channel modulators}}
+
+[[Category:Antiarrhythmic agents]]
+[[Category:Benzamides]]
+[[Category:Organofluorides]]
+[[Category:Phenol ethers]]
+[[Category:Piperidines]]
+[[Category:Sodium channel blockers]]
+[[Category:Trifluoromethyl compounds]]

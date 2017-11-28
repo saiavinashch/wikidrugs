@@ -1,0 +1,74 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 462260009
+| IUPAC_name = 2-[benzyl(methyl)amino]ethylmethyl-2,6-dimethyl-4-(3-nitrophenyl)-1,4-dihydropyridine-3,5-dicarboxylate
+| image = Nicardipine.svg
+<!--Clinical data-->
+| tradename = Cardene
+| Drugs.com = {{drugs.com|monograph|nicardipine}}
+| MedlinePlus = a695032
+| pregnancy_category =  
+| legal_status = Rx-only
+| routes_of_administration = Oral, intravenous
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = >95%
+| metabolism =  
+| elimination_half-life = 8.6 hours
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 55985-32-5
+| ATC_prefix = C08
+| ATC_suffix = CA04
+| ATC_supplemental =  
+| PubChem = 4474
+| IUPHAR_ligand = 2559
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00622
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4319
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = CZ5312222S
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08270
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1484
+<!--Chemical data-->
+| C=26 | H=29 | N=3 | O=6
+| molecular_weight = 479.525 g/mol
+| smiles = O=C(OCCN(Cc1ccccc1)C)\C2=C(\N/C(=C(/C(=O)OC)C2c3cccc([N+]([O-])=O)c3)C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C26H29N3O6/c1-17-22(25(30)34-4)24(20-11-8-12-21(15-20)29(32)33)23(18(2)27-17)26(31)35-14-13-28(3)16-19-9-6-5-7-10-19/h5-12,15,24,27H,13-14,16H2,1-4H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ZBBHBTPTTSWHBA-UHFFFAOYSA-N
+| melting_point = 136-138
+}}
+
+'''Nicardipine''' ('''Cardene''') is a [[medication]] used to treat [[hypertension|high blood pressure]] and [[Angina pectoris|angina]]. It belongs to the [[dihydropyridine]] class of [[calcium channel blocker]]s.
+
+Nicardipine is a dihydropyridine calcium-channel blocking agent used for the treatment of vascular disorders such as [[Angina pectoris#Stable angina|chronic stable angina]], [[hypertension]], and [[Raynaud's phenomenon]]. It is available in oral and intravenous formulations. Its mechanism of action and clinical effects closely resemble those of [[nifedipine]] and the other dihydropyridines ([[amlodipine]], [[felodipine]]), except that nicardipine is more selective for cerebral and coronary blood vessels. Nicardipine also has a longer half-life than nifedipine. Nicardipine was approved by the FDA in December 1988. The patent for both Cardene and Cardene SR expired in October 1995.<ref>[http://www.nlm.nih.gov/medlineplus/druginfo/meds/a695032.html Nicardipine at Medline PLus]</ref>
+
+It has been used in [[percutaneous coronary intervention]].<ref name="pmid17034064">{{cite journal  |vauthors=Huang RI, Patel P, Walinsky P, etal |title=Efficacy of intracoronary nicardipine in the treatment of no-reflow during percutaneous coronary intervention |journal=Catheter Cardiovasc Interv |volume=68 |issue=5 |pages=671–6 |date=November 2006 |pmid=17034064 |doi=10.1002/ccd.20885}}</ref>
+
+==References==
+{{Reflist|2}}
+
+
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Ion channel modulators}}
+{{GABA receptor modulators}}
+{{Glycine receptor modulators}}
+{{Xenobiotic-sensing receptor modulators}}
+}}
+
+[[Category:Calcium channel blockers]]
+[[Category:Dihydropyridines]]
+[[Category:Nitrobenzenes]]
+[[Category:Carboxylate esters]]
+[[Category:Amines]]
+[[Category:Glycine receptor agonists]]
+[[Category:Glycine receptor antagonists]]
+[[Category:GABAA receptor negative allosteric modulators]]

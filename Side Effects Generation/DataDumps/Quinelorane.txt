@@ -1,0 +1,61 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 408735858
+| IUPAC_name = (5aR,9aR)-6-propyl-5a,7,8,9,9a,10-hexahydro-5H-pyrido[2,3-g]quinazolin-2-amine
+| image = Quinelorane.png
+
+<!--Clinical data-->
+| tradename =  
+| licence_EU =  
+| pregnancy_category =  
+| legal_UK =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 954
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 97548-97-5
+| ATC_suffix =  
+| PubChem = 57242
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = Z0X4VT3Y1Q
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05677
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 155731
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 51604
+
+<!--Chemical data-->
+| C=14 | H=22 | N=4 
+| molecular_weight = 246.350 g/mol
+| smiles            = CCCN1CCC[C@H]2[C@H]1CC3=CN=C(N=C3C2)N
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C14H22N4/c1-2-5-18-6-3-4-10-7-12-11(8-13(10)18)9-16-14(15)17-12/h9-10,13H,2-8H2,1H3,(H2,15,16,17)/t10-,13-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = TUFADSGTJUOBEH-ZWNOBZJWSA-N
+
+}}
+
+'''Quinelorane''' is a drug which acts as a [[dopamine agonist]] for the [[Dopamine receptor D2|D<sub>2</sub>]]<ref name="pmid11923462">{{cite journal |vauthors=Caine SB, Negus SS, Mello NK, Patel S, Bristow L, Kulagowski J, Vallone D, Saiardi A, Borrelli E |title=Role of dopamine D2-like receptors in cocaine self-administration: studies with D2 receptor mutant mice and novel D2 receptor antagonists |journal=Journal of Neuroscience |volume=22 |issue=7 |pages=2977–88 |date=April 2002 |pmid=11923462 |url=}}</ref><ref name="pmid14563783">{{cite journal |vauthors=Gasior M, Paronis CA, Bergman J |title=Modification by dopaminergic drugs of choice behavior under concurrent schedules of intravenous saline and food delivery in monkeys |journal=The Journal of Pharmacology and Experimental Therapeutics |volume=308 |issue=1 |pages=249–59 |date=January 2004 |pmid=14563783 |doi=10.1124/jpet.103.052795 |url=}}</ref><ref name="pmid17681559">{{cite journal |vauthors=Brooks JM, Sarter M, Bruno JP |title=D2-like receptors in nucleus accumbens negatively modulate acetylcholine release in prefrontal cortex |journal=Neuropharmacology |volume=53 |issue=3 |pages=455–63 |date=September 2007 |pmid=17681559 |pmc=2000917 |doi=10.1016/j.neuropharm.2007.06.006 |url=}}</ref> and [[Dopamine receptor D3|D<sub>3</sub>]] receptor.
+
+==See also==
+* [[Quinpirole]]
+
+==References==
+{{reflist}}
+
+{{Dopaminergics}}
+
+[[Category:Dopamine agonists]]
+[[Category:Pyrimidines]]
+
+
+{{nervous-system-drug-stub}}

@@ -1,0 +1,65 @@
+{{unreferenced|date=November 2014}}
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 464391792
+| IUPAC_name = Propane-1,3-diyl bis[2-(4-chlorophenoxy)-2-methylpropanoate]
+| image = Simfibrate.svg
+
+<!--Clinical data-->
+| tradename =
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number =
+| ATC_prefix = C10
+| ATC_suffix = AB06
+| PubChem = 5217
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5028
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = L2R75RQX26
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01212
+
+<!--Chemical data-->
+| C=23 | H=26 | Cl=2 | O=6 
+| molecular_weight = 469.354 g/mol
+| smiles = Clc2ccc(OC(C(=O)OCCCOC(=O)C(Oc1ccc(Cl)cc1)(C)C)(C)C)cc2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C23H26Cl2O6/c1-22(2,30-18-10-6-16(24)7-11-18)20(26)28-14-5-15-29-21(27)23(3,4)31-19-12-8-17(25)9-13-19/h6-13H,5,14-15H2,1-4H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = JLRNKCZRCMIVKA-UHFFFAOYSA-N
+| synonyms = <small>3-<nowiki/>{[2-(4-chlorophenoxy)-2-methylpropanoyl]oxy}propyl 2-(4-chlorophenoxy)-2-methylpropanoate</small>
+}}
+
+'''Simfibrate''' is a [[fibrate]].
+
+==References==
+{{Reflist|2}}
+* https://pubchem.ncbi.nlm.nih.gov/compound/simfibrate#section=Top
+
+{{Lipid modifying agents}}
+{{PPAR modulators}}
+
+[[Category:Chloroarenes]]
+[[Category:Fibrates]]
+[[Category:Phenol ethers]]
+
+{{cardiovascular-drug-stub}}

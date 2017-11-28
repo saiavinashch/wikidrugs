@@ -1,0 +1,148 @@
+{{Distinguish2|tribavirin, which is [[ribavirin]]}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470477612
+| IUPAC_name = 1-[(2''R'',3''R'',4''S'',5''R'')- 3,4-dihydroxy-5- (hydroxymethyl)oxolan-2-yl]- 1,2,4-triazole-3-carboximidamide
+| image = Taribavirin.svg
+| width = 175
+| image2 = Taribavirin 3D spacefill.png
+| width2 = 215
+| alt2 = Ball-and-stick model of the taribavirin molecule
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_category = X
+| legal_status = In Phase III drug trials
+| routes_of_administration = Oral [[Capsule (pharmacy)|capsules]])
+
+<!--Pharmacokinetic data-->
+| bioavailability = 9%
+| metabolism = Metabolized to 5'phosphates, de-riboside, and deriboside carboxylic acid
+| elimination_half-life = 12 days - Multiple Dose; 120-170 hours - Single Dose
+| excretion = 10% fecal, remainder in urine (30% unchanged, remainder metabolites)
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 119567-79-2
+| ATC_prefix = J05
+| ATC_suffix = AB04
+| PubChem = 451448
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = none
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 397669
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = R3B1994K2E
+| NIAID_ChemDB = 000198
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D06651
+
+<!--Chemical data-->
+| C=8 | H=13 | N=5 | O=4
+| molecular_weight = 243.220 g/mol (279.681 g/mol for [[hydrochloride|HCl]] salt)
+| SMILES = n1c(nn(c1)[C@@H]2O[C@@H]([C@@H](O)[C@H]2O)CO)C(=[N@H])N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C8H13N5O4/c9-6(10)7-11-2-13(12-7)8-5(16)4(15)3(1-14)17-8/h2-5,8,14-16H,1H2,(H3,9,10)/t3-,4-,5-,8-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = NHKZSTHOYNWEEZ-AFCXAGJDSA-N
+| synonyms = 1-(β-<small>D</small>-Ribofuranosyl)-<br>1,2,4-triazole-3-carboximide
+}}
+
+'''Taribavirin''' ([[International Nonproprietary Name|rINN]]; also known as '''viramidine''', codenamed '''ICN 3142''') is an [[antiviral drug]] in [[clinical trial#Phase III|Phase III]] human trials, but not yet approved for pharmaceutical use. It is a [[prodrug]] of [[ribavirin]], active against a number of [[DNA]] and [[RNA]] [[virus]]es. Taribavirin has better liver-targeting than ribavirin, and has a shorter life in the body due to less penetration and storage in [[red blood cells]]. It is expected eventually to be the drug of choice for viral hepatitis syndromes in which ribavirin is active. These include [[hepatitis C]] and perhaps also [[hepatitis B]] and [[yellow fever]].
+
+==Uses==
+Taribavirin is as active against [[influenza]] as ribavirin in animal models, with slightly less toxicity, so it may also eventually replace ribavirin as an anti-influenza agent.
+
+==History==
+Taribavirin was first reported in 1973 by J.T.Witkowski et al.,<ref>{{cite journal | pmid = 4355593 | doi=10.1021/jm00266a014 | volume=16 | issue=8 | title=Synthesis and antiviral activity of 1,2,4-triazole-3-thiocarboxamide and 1,2,4-triazole-3-carboxamidine ribonucleosides |date=August 1973 | journal=J. Med. Chem. | pages=935–7}}</ref> then working at ICN Pharmaceuticals, in an attempt to find a more active derivative of ribavirin. Taribavirin is being developed by [[Valeant Pharmaceuticals International]]. Valeant is testing the drug as a treatment for chronic hepatitis C.
+
+==Pharmacology==
+Note on formulas: The carboxamidine group of this molecule is somewhat basic, and therefore this drug is also known and administered as the hydrochloride salt (with a corresponding .HCl chemical formula and different ChemID / PubChem number). At physiologic pH, the positive charge on the molecule from partial protonation of the carboximide group contributes to the relative slowness with which the drug crosses cell membranes (such as in red blood cells) until it has been metabolized into [[ribavirin]]. In the liver, however, the transformation from carboxamidine to carboxamide happens on first-pass metabolism and contributes to the higher levels of ribavirin found in liver cells and bile when viramidine is administered.
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{More footnotes|date=April 2009}}
+<!-- Please add new references in alphabetical order by last name of first author-->
+<div style="font-size:90%">
+# {{cite journal
+  | last = Barnard
+  | first = D
+  | authorlink = 
+  | title = Viramidine (Ribapharm)
+  | journal = Current Opinion in Investigational Drugs 
+  | volume = 3
+  | issue = 11
+  | pages = 1585–9
+  | publisher = 
+  | year = 2002
+  | doi = 
+  | id = 
+  | accessdate =
+  | pmid = 12476957 }}
+# {{cite journal
+  | last = Gish 
+  | first = Robert G.
+  |date=January 2006
+  | title = Treating HCV with ribavirin analogues and ribavirin-like molecules
+  | journal = [[Journal of Antimicrobial Chemotherapy]]
+  | volume = 57 
+  | issue = 1
+  | pages = 8–13
+  | pmid = 16293677
+  | doi = 10.1093/jac/dki405
+ }}
+# {{cite journal
+  | last = Lin
+  | first = Chin-Chung
+  | authorlink = |author2=Kenneth Luu |author3=David Lourenco |author4=Li-Tain Yeh
+  | title = Pharmacokinetics and Metabolism of 14CViramidine in Rats and Cynomolgus Monkeys
+  | journal = Antimicrob Agents Chemother
+  | volume = 47
+  | issue = 8
+  | pages = 1458–2463
+  | publisher = 
+  | year = 2003
+  | doi = 10.1128/aac.47.8.2458-2463.2003
+  | pmc=166067
+  | pmid=12878505}}
+# {{cite journal
+ | last = Sidwell
+ | first = RW 
+ |author2=Bailey KW |author3=Wong MH |author4=Barnard DL |author5=Smee DF
+  |date=October 2005 
+ | title = In vitro and in vivo influenza virus-inhibitory effects of viramidine
+ | journal = Antiviral Research
+ | volume = 68
+ | issue = 1
+ | pages = 8–13
+ | pmid = 16087250 
+ | doi = 10.1016/j.antiviral.2005.06.003
+ }}
+# {{cite journal
+  | last = Witkowski
+  | first = J. T.
+  | authorlink = |author2=Robins, R. K. |author3=Khare, G. P.
+  | title = Synthesis and antiviral activity of 1,2,4-triazole-3-thiocarboxamide and 1,2,4-triazole-3-carboxamidine ribonucleosides
+  | journal = Journal of Medicinal Chemistry
+  | volume = 16
+  | issue = 8
+  | pages = 935–7
+  | publisher = 
+  | year = 1973
+  | doi = 10.1021/jm00266a014
+  | id = 
+  | accessdate =
+  | pmid = 4355593 |display-authors=etal}}
+</div>
+
+{{DNA antivirals}}
+{{RNA antivirals}}
+
+[[Category:Anti-RNA virus drugs]]
+[[Category:Prodrugs]]
+[[Category:Triazoles]]
+[[Category:Amidines]]
+[[Category:Experimental drugs]]

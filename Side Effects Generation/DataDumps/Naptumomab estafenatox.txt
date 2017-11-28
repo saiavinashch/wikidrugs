@@ -1,0 +1,66 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 458269850
+| image =  
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = Fab
+| source = o
+| target = [[5T4]]
+<!-- Clinical data -->
+| tradename =  
+| pregnancy_AU =  
+| pregnancy_US =  
+| pregnancy_category =  
+| legal_AU =  
+| legal_CA =  
+| legal_UK =  
+| legal_US =  
+| legal_status =  
+| routes_of_administration =  
+<!-- Pharmacokinetic data -->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!-- Identifiers -->
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 676258-98-3
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 93T929W6LC
+<!-- Chemical data -->
+| C=3255 | H=5025 | N=855 | O=1050 | S=18
+| molecular_weight = 73.5 kg/mol
+}}
+'''Naptumomab estafenatox''' (ABR-217620) is a [[Pharmaceutical drug|drug]] being developed for the treatment of various types of [[cancer]] like [[non-small cell lung carcinoma]]<ref>{{cite journal|pmid=19636016|year=2009|last1=Borghaei|first1=H|last2=Alpaugh|first2=K|last3=Hedlund|first3=G|last4=Forsberg|first4=G|last5=Langer|first5=C|last6=Rogatko|first6=A|last7=Hawkins|first7=R|last8=Dueland|first8=S|last9=Lassen|first9=U|title=Phase I dose escalation, pharmacokinetic and pharmacodynamic study of naptumomab estafenatox alone in patients with advanced cancer and with docetaxel in patients with advanced non-small-cell lung cancer|volume=27|issue=25|pages=4116–23|doi=10.1200/JCO.2008.20.2515|pmc=2734423|journal=Journal of Clinical Oncology}}</ref> and [[renal cell carcinoma]].<ref>[http://www.clinicaltrials.gov/ct2/show/NCT00420888 ClinicalTrials.gov]</ref>
+
+[[File:Fab-superantigen-fusion protein.svg|thumb|left|Schematic image of naptumomab estafenatox.<br />
+'''V<sub>H</sub>''', '''V<sub>L</sub>''': variable (antigen binding) domains of antibody fragment<br />
+'''C<sub>H</sub>1''', '''C<sub>L</sub>''': constant domains of antibody fragment<br />
+'''SAg''': superantigen SEA/E-120]]
+
+==Mechanism of action==
+Chemically, it is a [[fusion protein]] consisting of the [[Fragment antigen-binding|antigen-binding fragment]] (Fab) of a [[monoclonal antibody]] with the [[superantigen]] ''staphylococcal enterotoxin A'' (SEA/E-120, "estafenatox").<ref>[http://whqlibdoc.who.int/druginfo/20_4_2006_INN96.pdf WHO Drug Information]</ref> The Fab binds to [[5T4]], an [[antigen]] expressed by various tumor cells, and the superantigen induces an immune response by activating [[T lymphocyte]]s.
+
+==See also==
+* [[Nacolomab tafenatox]], a drug with a similar chemical structure and mechanism
+
+==References==
+{{reflist}}
+
+{{Monoclonals for tumors}}
+
+[[Category:Monoclonal antibodies for tumors]]
+
+
+{{monoclonal-antibody-stub}}
+{{antineoplastic-drug-stub}}

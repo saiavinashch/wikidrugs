@@ -1,0 +1,88 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 461101531
+| IUPAC_name = (1''S'',2''S'',4''R'',8''S'',9''S'',11''S'',12''R'',13''S'',19''S'')-12,19-difluoro-11-hydroxy-8-(2-hydroxyacetyl)-6,6,9,13-tetramethyl-5,7-dioxapentacyclo[10.8.0.0<sup>2,9</sup>.0<sup>4,8</sup>.0<sup>13,18</sup>]icosa-14,17-dien-16-one
+| image = Fluocinolone acetonide.svg
+| image2 = Fluocinolone acetonide (Ball-n-Stick).png
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|fluocinolone-acetonide}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category = C
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status =  Prescription Only
+| routes_of_administration = Topical
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism = [[Liver|Hepatic]], [[CYP3A4]]-mediated
+| elimination_half-life = 1.3 to 1.7 hours
+| excretion =
+<!--Identifiers-->
+| IUPHAR_ligand = 7077
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 67-73-2
+| ATC_prefix = C05
+| ATC_suffix = AA10
+| ATC_supplemental =  {{ATC|D07|AC04}} {{ATC|S01|BA15}} {{ATC|S02|BA08}}
+| PubChem = 6215
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00591
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5980
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0CD5FD6S2M
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01825
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 31623
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 989
+<!--Chemical data-->
+| C=24 | H=30 | F=2 | O=6
+| molecular_weight = 452.488 g/mol
+| smiles = O=C\1\C=C5/[C@@](/C=C/1)(C)[C@]2(F)[C@H]([C@H]3[C@](C[C@@H]2O)([C@@]4(OC(O[C@@H]4C3)(C)C)C(=O)CO)C)C[C@@H]5F
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C24H30F2O6/c1-20(2)31-19-9-13-14-8-16(25)15-7-12(28)5-6-21(15,3)23(14,26)17(29)10-22(13,4)24(19,32-20)18(30)11-27/h5-7,13-14,16-17,19,27,29H,8-11H2,1-4H3/t13-,14-,16-,17-,19+,21-,22-,23-,24+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = FEBLZLNTKCEFIT-VSXGLTOVSA-N
+}}
+
+'''Fluocinolone [[acetonide]]''' is a [[corticosteroid]] primarily used in [[dermatology]] to reduce skin inflammation and relieve itching. It is a synthetic [[hydrocortisone]] derivative. The fluorine substitution at position 9 in the steroid nucleus greatly enhances its activity. It was first synthesized in 1959 in the Research Department of Syntex Laboratories S.A. Mexico City.<ref>J S Mills, A. Bowers, Carl Djerassi and H.J. Ringold, Steroids CXXXVII. Synthesis of a New Class of Potent Cortical Hormones.  6α,9α-Difluoro-16α-Hydroxyprednisolone and its Acetonide, Journal of the American Chemical Society, 80, 3399-3404 (1960)</ref> Preparations containing it were first marketed under the name Synalar. A typical dosage strength used in dermatology is 0.01–0.025%. One such cream is sold under the brand name '''Flucort-N''' and includes the antibiotic [[neomycin]].
+
+Fluocinolone acetonide was also found to strongly potentiate TGF-β-associated [[chondrogenesis]] of bone marrow mesenchymal stem/progenitor cells, by increasing the levels of collagen type II by more than 100 fold compared to the widely used dexamethasone.<ref>Hara ES, Ono M, Pham HT, Sonoyama W, Kubota S, Takigawa M, Matsumoto T, Young MF, Olsen BR, Kuboki T. Fluocinolone Acetonide is a Potent Synergistic Factor of TGF-β3-Associated Chondrogenesis of Bone Marrow-Derived Mesenchymal Stem Cells for Articular Surface Regeneration. J Bone Miner Res. 2015. http://onlinelibrary.wiley.com/doi/10.1002/jbmr.2502/abstract</ref>
+
+Fluocinolone acetonide intravitreal implants have been used to treat non-infectious [[uveitis]]. A systematic review could not determine whether fluocinolone acetonide implants are superior to standard of care treatment for uveitis.<ref name="Brady">{{cite journal |vauthors=Brady CJ, Villanti AC, Law HA, Rahimy E, Reddy R, Sieving PC, Garg SJ, Tang J |title= Corticosteroid implants for chronic non-infectious uveitis |journal=Cochrane Database Syst Rev|volume=2 |pages= CD010469 |date=2016 |pmid= 26866343
+ |doi= 10.1002/14651858.CD010469.pub2}}</ref>
+
+Flucinolone is a  group V (0.025%) or group VI (0.01%) [[Topical steroid#USA system|corticosteroid under US classification]].
+
+==See also==
+* [[Topical steroid]]
+* [[Fluocinonide]]
+* [[Ciprocinonide]]
+* [[Glucocorticoid]]
+
+==References==
+{{reflist|30em}}
+
+{{Glucocorticoids}}
+{{Vasoprotectives}}
+{{Otologicals}}
+{{Glucocorticoidics}}
+
+[[Category:Acetonides]]
+[[Category:Corticosteroid cyclic ketals]]
+[[Category:Corticosteroids]]
+[[Category:Diketones]]
+[[Category:Diols]]
+[[Category:Fluoroarenes]]
+[[Category:Glucocorticoids]]
+[[Category:Otologicals]]
+
+
+{{cardiovascular-drug-stub}}
+{{dermatologic-drug-stub}}

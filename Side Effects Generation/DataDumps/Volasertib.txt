@@ -1,0 +1,257 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470631432
+| IUPAC_name = ''N''-((1''S'',4''S'')-4-(4-(cyclopropylmethyl)piperazin-1-yl)cyclohexyl)-4-(((''R'')-7-ethyl-8-isopropyl-5-methyl-6-oxo-5,6,7,8-tetrahydropteridin-2-yl)amino)-3-methoxybenzamide
+| image = Volasertib.svg
+| alt =  
+| drug_name = 
+| caption =  
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Oral and Intravenous
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| IUPHAR_ligand = 7947
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 755038-65-4
+| ATCvet =  
+| ATC_prefix = <!-- 'none' if uncategorised -->
+| ATC_suffix =  
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 26327706
+| smiles = CC[C@H]1N(c2nc(ncc2N(C1=O)C)Nc3c(cc(cc3)C(=O)N[C@H]4CC[C@@H](CC4)N5CCN(CC5)CC6CC6)OC)C(C)C
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C34H50N8O3/c1-6-28-33(44)39(4)29-20-35-34(38-31(29)42(28)22(2)3)37-27-14-9-24(19-30(27)45-5)32(43)36-25-10-12-26(13-11-25)41-17-15-40(16-18-41)21-23-7-8-23/h9,14,19-20,22-23,25-26,28H,6-8,10-13,15-18,21H2,1-5H3,(H,36,43)(H,35,37,38)/t25-,26-,28-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = SXNJFOWDRLKDSF-STROYTFGSA-N
+| PubChem =  
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1233528
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 6EM57086EA
+| KEGG = D10182
+| KEGG_Ref = {{keggcite|changed|kegg}}
+<!--Chemical data-->
+| chemical_formula =
+| C=34 | H=50 | N=8 | O=3| charge =   
+| molecular_weight = 618.81 g/mol
+}}
+
+'''Volasertib''' (also known as BI 6727) is an experimental small molecule inhibitor of the [[PLK1]] (polo-like kinase 1) protein being developed by [[Boehringer Ingelheim]] for use as an [[anti-cancer agent]]. Volasertib is the second in a novel class of drugs called [[dihydropteridinone]] derivatives.<ref name="one">{{Cite journal
+| issn = 1549-490X
+| volume = 14
+| issue = 6
+| pages = 559–70
+| last = Schoffski
+| first = P.
+| title = Polo-like kinase (PLK) inhibitors in preclinical and early clinical development in oncology
+| journal = Oncologist
+| year = 2009
+| doi=10.1634/theoncologist.2009-0010
+}}</ref>
+
+Volasertib was awarded [[breakthrough drug]] status in September 2013<ref>https://www.boehringer-ingelheim.com/press-release/volasertib-fda-breakthrough-therapy-designation</ref> and [[orphan drug status]] for acute myeloid leukemia in April 2014.<ref name="adisinsight.springer.com">http://adisinsight.springer.com/drugs/800026979</ref>
+
+==Mechanism of action==
+Volasertib is a novel small-molecule targeted therapy that blocks cell division by competitively binding to the [[Adenosine triphosphate|ATP]]-binding pocket of the PLK1 protein. PLK1 proteins are found in the nuclei of all dividing cells and control multiple stages of the cell cycle and cell division.<ref name="four">{{Cite journal
+| issn = 1471-0072
+| volume = 5
+| issue = 6
+| pages = 429–40
+| last = Barr
+| first = F. A.
+| author2=H. H. Sillje |author3=E. A. Nigg
+| title = Polo-like kinases and the orchestration of cell division
+| journal = Nat Rev Mol Cell Biol
+| year = 2004
+| doi=10.1038/nrm1401
+}}
+</ref>
+<ref name="three">
+{{Cite journal
+| issn = 1078-0432
+| volume = 12
+| issue = 17
+| pages = 5182–9
+| last = Garland
+| first = L. L.
+| author2=C. Taylor |author3=D. L. Pilkington |author4=J. L. Cohen |author5=D. D. Von Hoff
+| title = A phase I pharmacokinetic study of HMN-214, a novel oral stilbene derivative with polo-like kinase-1-interacting properties, in patients with advanced solid tumors
+| journal = Clin Cancer Res
+| year = 2006
+| doi=10.1158/1078-0432.ccr-06-0214
+}}
+</ref>
+<ref name="two">{{cite journal|last1=Santamaria|first1=A.|last2=Neef|first2=R.|last3=Eberspacher|first3=U.|last4=Eis|first4=K.|last5=Husemann|first5=M.|last6=Mumberg|first6=D.|last7=Prechtl|first7=S.|last8=Schulze|first8=V.|last9=Siemeister|first9=G.|last10=Wortmann|first10=L.|last11=Barr|first11=F. A.|last12=Nigg|first12=E. A.|title=Use of the Novel Plk1 Inhibitor ZK-Thiazolidinone to Elucidate Functions of Plk1 in Early and Late Stages of Mitosis|journal=Molecular Biology of the Cell|volume=18|issue=10|year=2007|pages=4024–4036|issn=1059-1524|doi=10.1091/mbc.E07-05-0517|pmid=17671160|pmc=1995727}}</ref> The levels of the PLK1 protein are tightly controlled and are raised in normal cells that are dividing. Raised levels of the PLK1 protein are also found in many cancers including; breast, non-small cell lung, colorectal, prostate, pancreatic, papillary thyroid, ovarian, head and neck and Non-Hodgkin’s Lymphoma.<ref name="three"/>
+<ref name="two"/>
+<ref name="eight">{{Cite journal
+| volume = 2
+| pages = 125–134
+| last = Fisher
+| first = R.A.H.
+| author2=D.K. Ferris
+| title = The functions of Polo-like kinases and their relevance to human disease.
+| journal = Curr Med Chem
+| year = 2002
+| doi=10.2174/1568013023358906
+}}
+</ref>
+<ref name="seven">
+{{Cite journal
+| issn = 0027-8424
+| volume = 91
+| issue = 5
+| pages = 1736–40
+| last = Holtrich
+| first = U.
+| author2=G. Wolf |author3=A. Brauninger |author4=T. Karn |author5=B. Bohme |author6=H. Rubsamen-Waigmann |author7=K. Strebhardt
+| title = Induction and down-regulation of PLK, a human serine/threonine kinase expressed in proliferating cells and tumors
+| journal = Proc Natl Acad Sci U S A
+| year = 1994
+| pmc = 43238
+| pmid = 8127874
+| doi=10.1073/pnas.91.5.1736
+}}
+</ref>
+<ref name="six">{{cite journal|last1=Steegmaier|first1=Martin|last2=Hoffmann|first2=Matthias|last3=Baum|first3=Anke|last4=Lénárt|first4=Péter|last5=Petronczki|first5=Mark|last6=Krššák|first6=Martin|last7=Gürtler|first7=Ulrich|last8=Garin-Chesa|first8=Pilar|last9=Lieb|first9=Simone|last10=Quant|first10=Jens|last11=Grauert|first11=Matthias|last12=Adolf|first12=Günther R.|last13=Kraut|first13=Norbert|last14=Peters|first14=Jan-Michael|last15=Rettig|first15=Wolfgang J.|title=BI 2536, a Potent and Selective Inhibitor of Polo-like Kinase 1, Inhibits Tumor Growth In Vivo|journal=Current Biology|volume=17|issue=4|year=2007|pages=316–322|issn=0960-9822|doi=10.1016/j.cub.2006.12.037| pmid=17291758}}</ref>
+<ref name="five">
+{{Cite journal
+| issn = 0950-9232
+| volume = 24
+| issue = 2
+| pages = 260–6
+| last = Winkles
+| first = J. A.
+| author2=G. F. Alberts
+| title = Differential regulation of polo-like kinase 1, 2, 3, and 4 gene expression in mammalian cells and tissues
+| journal = Oncogene
+| year = 2005
+| doi = 10.1038/sj.onc.1208219
+| pmid = 15640841
+}}</ref> Raised levels of PLK1 increase the probability of improper segregation of chromosomes which is a critical stage in the development of many cancers. Raised levels of PLK1 have been associated with a poorer prognosis and overall survival in some cancers<ref name="two" /><ref name="ten">{{Cite journal
+| issn = 0950-9232
+| volume = 24
+| issue = 2
+| pages = 267–76
+| last = Eckerdt
+| first = F.
+| author2=J. Yuan |author3=K. Strebhardt
+| title = Polo-like kinases and oncogenesis
+| journal = Oncogene
+| year = 2005
+| pmid = 15640842
+| doi = 10.1038/sj.onc.1208273
+}}
+</ref>
+<ref name="nine">
+{{Cite journal
+| issn = 1347-9032
+| volume = 97
+| issue = 4
+| pages = 271–6
+| last = Weichert
+| first = W.
+| author2=A. Ullrich |author3=M. Schmidt |author4=V. Gekeler |author5=A. Noske |author6=S. Niesporek |author7=A. C. Buckendahl |author8=M. Dietel |author9=C. Denkert
+| title = Expression patterns of polo-like kinase 1 in human gastric cancer
+| journal = Cancer Sci
+| year = 2006
+| doi=10.1111/j.1349-7006.2006.00170.x
+}}</ref> In addition to its role in cell division, there is evidence that PLK1 also interacts with components of other pathways involved in cancer development including the K-Ras oncogene and the retinoblastoma and p53 tumour suppressors<ref name="eleven">{{Cite journal
+| issn = 0027-8424
+| volume = 100
+| issue = 10
+| pages = 5789–94
+| last = Liu
+| first = X.
+| author2=R. L. Erikson
+| title = Polo-like kinase (Plk)1 depletion induces apoptosis in cancer cells
+| journal = Proc Natl Acad Sci U S A
+| year = 2003
+| doi = 10.1073/pnas.1031523100
+| pmc = 156279
+| pmid=12732729
+}}</ref>  These observations have led to PLK1 being recognised as an important target in the treatment of cancer.
+
+Volasertib can be taken either orally or via intravenous infusion, once circulating in the blood stream it is distributed throughout the body, crosses the cell membrane and enters the nucleus of cells where it binds to its target; PLK1. Volasertib inhibits PLK1 preventing its roles in the cell-cycle and cell division which leads to cell arrest and programmed cell death.<ref name="four" />  Volasertib binds to and inhibits PLK1 at nanomolar doses however, it has also been shown to inhibit other PLK family members; PLK2 and PLK3 at higher; micromolar doses. The roles of PLK2 and PLK3 are less well understood; however they are known to be active during the cell cycle and cell division.<ref name="twelve">{{Cite journal
+| issn = 1535-7163
+| volume = 6
+| issue = 7
+| pages = 1920–31
+| last = Schmit
+| first = T. L.
+| author2=N. Ahmad
+| title = Regulation of mitosis via mitotic kinases: new opportunities for cancer management
+| journal = Mol Cancer Ther
+| year = 2007
+| doi=10.1158/1535-7163.mct-06-0781
+}}</ref>
+
+Volasertib inhibits PLK1 in both cancer and normal cells; however it only causes irreversible inhibition and cell death in cancer cells, because inhibition of PLK1 in cancer cells arrests the cell cycle at a different point to normal, non-cancer cells. In cancer cells PLK1 inhibition results in G2/M cell cycle arrest followed by programmed cell death, however, in normal cells inhibition of PLK1 only causes temporary, reversible G1 and G2 arrest without programmed cell death.<ref name="thirteen">{{Cite journal
+| issn = 1078-0432
+| volume = 15
+| issue = 9
+| pages = 3094–102
+| last = Rudolph
+| first = D.
+| author2=M. Steegmaier |author3=M. Hoffmann |author4=M. Grauert |author5=A. Baum |author6=J. Quant |author7=C. Haslinger |author8=P. Garin-Chesa |author9=G. R. Adolf
+| title = BI 6727, a Polo-like kinase inhibitor with improved pharmacokinetic profile and broad antitumor activity
+| journal = Clin Cancer Res
+| year = 2009
+| doi=10.1158/1078-0432.ccr-08-2445
+}}</ref> This specificity for cancer cells improves the efficacy of the drug and minimizes the drug related toxicity.
+
+==Adverse effects==
+One of the undesirable effects of small-molecule drugs is that they can lack specificity for their target; hence bind to similar targets in other unrelated proteins, which can result in undesirable drug-related side effects. However, pre-clinical studies have shown volasertib binds in a highly selective manner to the kinase domain of the PLK family, without binding to other proteins with a kinase domain. Clinical studies have shown that at the maximum tolerated dose, side effects of volasertib include; [[anaemia]] (22%), [[thrombocytopenia]], [[neutropenia]] and [[febrile neutropenia]].<ref name="fifteen">{{Cite conference
+| volume = 28
+| authors = T. Gil, P. Schöffski, A. Awada, H. Dumez, S. Bartholomeus, J. Selleslach, M. Taton, H. Fritsch, P. Glomb, G. M. Munzert; Institut Jules Bordet, Brussels, Belgium; Department of General Medical Oncology, University Hospitals Leuven, Leuven, Belgium; Boehringer Ingelheim Belgium, Brussels, Belgium; Boehringer Ingelheim GmbH & Co. KG, Biberach, Germany
+| title = Final analysis of a phase I single dose-escalation study of the novel polo-like kinase 1 inhibitor BI 6727 in patients with advanced solid tumors
+| booktitle = J Clin Oncol
+| date = 2010
+| url=http://www.asco.org/ascov2/Meetings/Abstracts?&vmview=abst_detail_view&confID=74&abstractID=52463
+}}</ref> Common side effects as seen with other antimitotic agents such as [[vinca alkaloid]]s and [[taxane]]s which include neuropathy, have not been observed with volasertib.
+
+==Studies==
+Preclinical studies on volasertib have demonstrated that it is highly effective at binding to and blocking PLK1 function and causing programmed cell death in colon and non-small cell lung cancer cells both ''in vitro'' and ''in vivo''. Volasertib can also cause cell death in cancer cells that have are no longer sensitive to existing anti-mitotic drugs such as vinca alkaloids and taxanes.<ref name="thirteen" /> This suggests that volasertib may be effective when used as a second line treatment in patients who have developed resistance to vinca alkaloid and taxane chemotherapeutics.
+
+A first in man trial of volasertib in 65 patients with solid cancers reported that the drug is safe to administer to patients and is stable in the bloodstream. This study also reported favourable anti-cancer activity of the drug; three patients achieved a partial response, 48% of patients achieved stable disease and 6 patients achieved progression free survival of greater than 6 months.<ref name="fifteen" /> A further phase 1 trial of volasertib in combination with [[cytarabine]] in patients with relapsed / refractory [[acute myeloid leukemia]] reported that 5 of 28 patients underwent a complete response, 2 achieved a partial response and a further 6 patients no worsening of their disease.<ref name="sixteen">{{Cite conference
+| publisher = American Society of Haematology
+| last = Bug
+| first = G.
+| author2=R. F. Schlenk |author3=C. Müller-Tidow |author4=M. Lübbert |author5=A. Krämer |author6=F. Fleischer |author7=T. Taube |author8=O. G. Ottmann |author9=H. Doehner
+| title = Phase I/II Study of BI 6727 (volasertib), An Intravenous Polo-Like Kinase-1 (Plk1) Inhibitor, In Patients with Acute Myeloid Leukemia (AML): Results of the Dose Finding for BI 6727 In Combination with Low-Dose Cytarabine
+| booktitle = 52nd ASH Annual Meeting and Exposition
+| location = Orange County Convention Centre, Florida
+| date = 2010
+}}</ref>
+
+===Clinical trials===
+Volasertib is currently undergoing investigation in phase I and II trials and has yet to be licensed by the FDA. Volasertib may be effective in several malignancies evidenced by the fact that its target PLK1 is overexpressed in up to 80% of malignancies, where it has been associated with a poorer treatment outcome and reduced overall survival.<ref name="one" /><ref name="two" /><ref name="ten" /> Further phase 1 and 2 trials are active, investigating the effects of Volasertib both as a single agent and in combination with other agents in solid tumors and hematological malignancies including; ovarian cancer, urothelial cancer and [[acute myeloid leukaemia]], lymphomas, myelodysplastic syndromes, and non-small call lung cancer.<ref name="fourteen">{{Cite web
+| title = Clinical Trials.gov Search of: Volasertib
+| last = ClinicalTrials.gov
+|url=https://clinicaltrials.gov/ct2/results?term=Volasertib&Search=Search
+| year = 2011
+}}</ref><ref name="adisinsight.springer.com"/>
+
+{{as of|January 2017}} it is in one phase III trial (for AML in over 65s), due to complete in February 2017.<ref>[https://clinicaltrials.gov/ct2/show/NCT01721876 Volasertib in Combination With Low-dose Cytarabine in Patients Aged 65 Years and Above With Previously Untreated Acute Myeloid Leukemia, Who Are Ineligible for Intensive Remission Induction Therapy (POLO-AML-2)]</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:Experimental cancer drugs]]
+[[Category:Protein kinase inhibitors]]

@@ -1,0 +1,67 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 457138752
+| IUPAC_name = 4-[(1''R'')-1-hydroxy-2-<nowiki/>{[4-(4-hydroxyphenyl)butyl]amino}ethyl]benzene-1,2-diol
+| image = Arbutamine.svg
+| width = 250
+
+<!--Clinical data-->
+| tradename =
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 128470-16-6
+| ATC_prefix = C01
+| ATC_suffix = CA22
+| PubChem = 60789
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01102
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 54785
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = B07L15YAEV
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 50580
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201251
+
+<!--Chemical data-->
+| C=18 | H=23 | N=1 | O=4
+| molecular_weight = 317.38 g/mol
+| smiles = Oc1ccc(cc1O)[C@@H](O)CNCCCCc2ccc(O)cc2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C18H23NO4/c20-15-7-4-13(5-8-15)3-1-2-10-19-12-18(23)14-6-9-16(21)17(22)11-14/h4-9,11,18-23H,1-3,10,12H2/t18-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IIRWWTKISYTTBL-SFHVURJKSA-N
+}}
+
+'''Arbutamine''' is a [[cardiac stimulant]]. It stimulates β [[adrenergic receptor]]s.<ref name="pmid8723169">{{cite journal|last1=Abou-Mohamed|first1=Gamal|last2=Nagarajan|first2=Ravi|last3=Ibrahim|first3=Tarek M.|last4=Caldwell|first4=Robert W.|title=Characterization of the Adrenergic Activity of Arbutamine, a Novel Agent for Pharmacological Stress Testing|journal=Cardiovascular Drugs and Therapy|date=March 1996|volume=10|issue=1|pages=39–47|doi=10.1007/BF00051129|pmid=8723169}}<!--|accessdate=6 March 2016--></ref>
+
+==References==
+{{reflist}}
+
+{{Adrenergic agonists}}
+{{Cardiac stimulants excluding cardiac glycosides}}
+
+[[Category:Beta-adrenergic agonists]]
+[[Category:Catecholamines]]
+[[Category:Cardiac stimulants]]
+
+{{cardiovascular-drug-stub}}

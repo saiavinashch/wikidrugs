@@ -1,0 +1,98 @@
+{{Infobox drug
+| IUPAC_name = (3''R'',4''R'')-3-(5,6-Dihydro-4''H''-pyrrolo[3,2,1-ij]quinolin-1-yl)-4-(1''H''-indol-3-yl)-2,5-pyrrolidinedione
+| image = Tivantinib structure.svg
+| image2 = Tivantinib ball-and-stick model.png
+| alt = 
+| caption =
+
+<!-- Clinical data -->
+| tradename = 
+| Drugs.com = 
+| MedlinePlus = 
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Investigational
+| routes_of_administration = Oral
+
+<!-- Pharmacokinetic data -->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| onset = 
+| elimination_half-life = 
+| excretion =
+
+<!-- Identifiers -->
+| CAS_number = 905854-02-6
+| ATCvet = 
+| ATC_prefix = none
+| ATC_suffix = 
+| PubChem = 11494412
+| ChEMBL = 2103882
+| DrugBank = 
+| ChemSpiderID = 9669218
+| KEGG = D10173
+| synonyms = ARQ197; ARQ-197
+
+<!-- Chemical data -->
+| C=23|H=19|N=3|O=2
+| molecular_weight = 369.42 g/mol
+| smiles = C1CC2=C3C(=CC=C2)C(=CN3C1)[C@H]4[C@@H](C(=O)NC4=O)C5=CNC6=CC=CC=C65
+| StdInChI = 1S/C23H19N3O2/c27-22-19(16-11-24-18-9-2-1-7-14(16)18)20(23(28)25-22)17-12-26-10-4-6-13-5-3-8-15(17)21(13)26/h1-3,5,7-9,11-12,19-20,24H,4,6,10H2, (H,25,27,28)/t19-,20-/m0/s1
+| StdInChIKey = UCEQXRCJXIVODC-PMACEKPBSA-N
+}}
+
+'''Tivantinib''' ('''ARQ197'''; by [[Arqule]], Inc.) is an experimental small molecule anti-cancer drug. It is a [[bisindolylmaleimide]] that binds to the dephosphorylated [[MET kinase]] ''[[in vitro]]''. (MET is a [[growth factor receptor]].) Tivantinib is being tested clinically as a highly selective [[MET inhibitor]].<ref name="wsj">{{cite web|url=https://online.wsj.com/article/PR-CO-20140204-906777.html|title=ArQule Announces Commencement of Phase 3 Clinical Trial with Tivantinib in Hepatocellular Carcinoma by Partner Kyowa Hakko Kirin in Japan - WSJ.com|publisher=online.wsj.com|accessdate=2014-02-09}}</ref> However, the mechanism of action of tivantinib is still unclear.{{citation needed|date=January 2015}}
+
+Tivantinib displays cytotoxic activity via molecular mechanisms that are independent from its ability to bind MET, notably tubulin binding, which likely underlies tivantinib cytotoxicity.<ref>{{Cite journal
+ | pmid = 23532890
+| year = 2013
+| author1 = Basilico
+| first1 = C
+| title = Tivantinib (ARQ197) displays cytotoxic activity that is independent of its ability to bind MET
+| journal = Clinical Cancer Research
+| volume = 19
+| issue = 9
+| pages = 2381–92
+| last2 = Pennacchietti
+| first2 = S
+| last3 = Vigna
+| first3 = E
+| last4 = Chiriaco
+| first4 = C
+| last5 = Arena
+| first5 = S
+| last6 = Bardelli
+| first6 = A
+| last7 = Valdembri
+| first7 = D
+| last8 = Serini
+| first8 = G
+| last9 = Michieli
+| first9 = P
+| doi = 10.1158/1078-0432.CCR-12-3459
+}}</ref>
+
+Possible applications include [[non-small-cell lung carcinoma]], [[hepatocellular carcinoma]], and [[oesophageal cancer]].<ref name="Spreitzer">{{cite journal| author = H. Spreitzer| date = 24 November 2014| title = Neue Wirkstoffe – Tivantinib| journal = Österreichische Apothekerzeitung| issue = 24/2014| page = 30| language = German}}</ref>
+
+In 2017, it was announced that a phase III clinical trial for advanced [[hepatocellular carcinoma]] had failed to meet the primary endpoint.<ref>[http://www.genengnews.com/gen-news-highlights/arqule-daiichi-sankyo-say-cancer-candidate-tivantinib-fails-phase-iii-trial/81253902 ArQule, Daiichi Sankyo Say Cancer Candidate Tivantinib Fails Phase III Trial. Feb 2017]</ref><Ref>https://www.arqule.com/pipeline/tivantinib-arq-197/</ref>
+
+==References==
+{{reflist}}
+
+==See also==
+* [[Template:Intracellular chemotherapeutic agents]]   <!--  {{Intracellular chemotherapeutic agents}}  -->
+* [[Template:Growth factor receptor modulators]]      <!--   {{Growth factor receptor modulators}}  -->
+
+[[Category:Bisindolylmaleimides]]
+[[Category:Experimental cancer drugs]]
+[[Category:Protein kinase inhibitors]]
+[[Category:Succinimides]]
+
+
+{{antineoplastic-drug-stub}}

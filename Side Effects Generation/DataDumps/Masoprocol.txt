@@ -1,0 +1,71 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 462100402
+| IUPAC_name = 4-[(2''R'',3''S'')-4-(3,4-dihydroxyphenyl)-2,3-dimethylbutyl]benzene-1,2-diol
+| image = Masoprocol.svg
+<!--Clinical data-->
+| tradename = Actinex
+| Drugs.com = {{drugs.com|CONS|masoprocol}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = B
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status =  
+| routes_of_administration = [[Topical]]
+<!--Pharmacokinetic data-->
+| bioavailability = Very low
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 500-38-9
+| ATC_prefix = L01
+| ATC_suffix = XX10
+| ATC_supplemental =  
+| PubChem = 71398
+| IUPHAR_ligand = 4265
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00179
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 64490
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 7BO8G1BYQU
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 73468
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 313972
+<!--Chemical data-->
+| C=18 | H=22 | O=4
+| molecular_weight = 302.365 g/mol
+| smiles = Oc1ccc(cc1O)C[C@H](C)[C@H](C)Cc2ccc(O)c(O)c2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C18H22O4/c1-11(7-13-3-5-15(19)17(21)9-13)12(2)8-14-4-6-16(20)18(22)10-14/h3-6,9-12,19-22H,7-8H2,1-2H3/t11-,12+
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = HCZKYJDFEPMADG-TXEJJXNPSA-N
+}}
+'''Masoprocol''' is an [[antineoplastic]] drug used to treat skin growths caused by sun exposure. A form of [[nordihydroguaiaretic acid]] that is taken by mouth is being studied in the treatment of prostate cancer. 
+
+Also called nordihydroguaiaretic acid, NDGA, and actinex.
+
+==Mechanism==
+Nordihydroguaiaretic acid is an antioxidant, and it may block certain enzymes needed for tumor growth. 
+
+It is a [[lipoxygenase inhibitor]].<ref>{{cite journal | pmid = 10950827 | volume=279 | issue=3 | title=Masoprocol decreases rat lipolytic activity by decreasing the phosphorylation of HSL |date=September 2000 | journal=Am. J. Physiol. Endocrinol. Metab. | pages=E593–600}}</ref>
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.nlm.nih.gov/medlineplus/druginfo/medmaster/a601075.html  MedlinePlus Drug Information]
+* [http://www.cancer.gov/dictionary?CdrID=523330 Actinex] entry in the public domain NCI Cancer Dictionary
+
+
+{{Chemotherapeutic agents}}
+[[Category:Antineoplastic drugs]]
+[[Category:Catechols]]
+
+
+{{antineoplastic-drug-stub}}

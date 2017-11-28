@@ -1,0 +1,62 @@
+{{Drugbox
+| verifiedrevid = 464207677
+| IUPAC_name = 3-bromo-1-[4-(3-bromopropanoyl) piperazin-1-yl]-propan-1-one
+| image = Pipobroman.svg
+<!--Clinical data-->
+| tradename = Vercite, Vercyte
+| Drugs.com = {{drugs.com|international|pipobroman}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| IUPHAR_ligand = 7271
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 54-91-1
+| ATC_prefix = L01
+| ATC_suffix = AX02
+| ATC_supplemental =  
+| PubChem = 4842
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00236
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4676
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 6Q99RDT97R
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00467
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1585
+<!--Chemical data-->
+| C=10 | H=16 | Br=2 | N=2 | O=2
+| molecular_weight = 356.054 g/mol
+| smiles = O=C(N1CCN(C(=O)CCBr)CC1)CCBr
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H16Br2N2O2/c11-3-1-9(15)13-5-7-14(8-6-13)10(16)2-4-12/h1-8H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = NJBFOOCLYDNZJN-UHFFFAOYSA-N
+}}
+'''Pipobroman''' (trade names '''Vercite''', '''Vercyte''') is an anti-cancer drug that probably acts as an [[alkylating antineoplastic agent|alkylating agent]].<ref>{{Cite journal | last1 = Passamonti | first1 = F. | last2 = Lazzarino  | first2 = M. | title = Treatment of Polycythemia Vera and Essential Thrombocythemia: The Role of Pipobroman | journal = Leukemia & Lymphoma | volume = 44 | issue = 9 | pages = 1483–1488 | year = 2003 | doi = 10.3109/10428190309178768 | pmid = 14565648 | pmc = }}</ref> It is marketed by [[Abbott Laboratories]].<ref>Drugs.com: [http://www.drugs.com/international/pipobroman.html Pipobroman]</ref>
+
+==References==
+{{reflist}}
+
+{{Chemotherapeutic agents}}
+
+[[Category:Alkylating antineoplastic agents]]
+[[Category:Organobromides]]
+[[Category:Carboxamides]]
+[[Category:Piperazines]]
+
+
+{{antineoplastic-drug-stub}}

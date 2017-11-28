@@ -1,0 +1,84 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 408764754
+| IUPAC_name = 3-Ethyl-2-methyl-5-(morpholin-4-ylmethyl)-<br />1,5,6,7-tetrahydro-4''H''-indol-4-one
+| image = Molindone.svg
+| width = 225px
+
+<!--Clinical data-->
+| pronounce = {{IPAc-en|m|oʊ|ˈ|l|ɪ|n|d|oʊ|n}} {{respell|moe|LIN|dohn}}
+| tradename = Moban
+| Drugs.com = {{drugs.com|CDI|molindone}}
+| MedlinePlus = a682238
+| pregnancy_category = C
+| legal_US = Rx-only
+| routes_of_administration = [[Oral administration|By mouth]] ([[Tablet (pharmacy)|tablets]])
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life = 1.5 hours
+| excretion = Minor, [[kidney|renal]] and fecal
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 7416-34-4
+| ATC_prefix = N05
+| ATC_suffix = AE02
+| PubChem = 23897
+| IUPHAR_ligand = 207
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB01618
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 22342
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = RT3Y3QMF8N
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08226
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 460
+
+<!--Chemical data-->
+| C=16 | H=24 | N=2 | O=2
+| molecular_weight = 276.374 g/mol
+| smiles = O=C2c1c(c(nc1CCC2CN3CCOCC3)C)CC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H24N2O2/c1-3-13-11(2)17-14-5-4-12(16(19)15(13)14)10-18-6-8-20-9-7-18/h12,17H,3-10H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = KLPWJLBORRMFGK-UHFFFAOYSA-N
+}}
+
+'''Molindone''', sold under the brand name '''Moban''', is an [[antipsychotic]] which is used in the [[United States]] in the treatment of [[schizophrenia]].<ref>{{cite web | title = molindone | publisher = F.A. Davis Company | url = http://www.drugguide.com/monograph_library/psychotropic_drugs/molindone.htm}}</ref><ref name="Drugs.com">https://www.drugs.com/international/molindone.html</ref> It works by blocking the effects of [[dopamine]] in the brain, leading to diminished psychoses. It is rapidly absorbed when taken orally.
+
+It is sometimes described as a [[typical antipsychotic]],<ref name="pmid19028375">{{cite journal |vauthors=Aparasu RR, Jano E, Johnson ML, Chen H |title=Hospitalization risk associated with typical and atypical antipsychotic use in community-dwelling elderly patients |journal=Am J Geriatr Pharmacother |volume=6 |issue=4 |pages=198–204 |date=October 2008 |pmid=19028375 |doi=10.1016/j.amjopharm.2008.10.003 |url=http://linkinghub.elsevier.com/retrieve/pii/S1543-5946(08)00055-X}}</ref> and sometimes described as an [[atypical antipsychotic]].<ref name="pmid17253473">{{cite journal |author=Bagnall A, Fenton M, Kleijnen J, Lewis R |title=Molindone for schizophrenia and severe mental illness |journal=Cochrane Database Syst Rev |volume= |issue=1 |pages=CD002083 |year=2007 |pmid=17253473 |doi=10.1002/14651858.CD002083.pub2 |editor1-last=Bagnall |editor1-first=Anne-Marie}}</ref>
+
+Molindone was discontinued by its previous supplier, Endo Pharmaceuticals, on January 13, 2010.<ref name="FDA">http://www.fda.gov/Drugs/DrugSafety/DrugShortages/ucm050794.htm</ref> It is currently available in the U.S. from CorePharma under Abbreviated New Drug Application approved March 23, 2015.
+
+==Adverse effects==
+{{Main|Typical antipsychotic}}
+
+The side effect profile of molindone is similar to that of other typical antipsychotics. Unlike most antipsychotics, however, molindone use is associated with weight loss.<ref name="pmid17253473"/><ref>{{cite journal |author=Allison DB |title=Antipsychotic-induced weight gain: a comprehensive research synthesis |journal=[[American Journal of Psychiatry|Am J Psychiatry]] |volume=156 |issue=11 |pages=1686–96 |year=1999 |pmid=10553730 |doi= |name-list-format=vanc|author2=Mentore JL |author3=Heo M |display-authors=3 |last4=Chandler |first4=LP |last5=Cappelleri |first5=JC |last6=Infante |first6=MC |last7=Weiden |first7=PJ}} [http://ajp.psychiatryonline.org/doi/abs/10.1176/ajp.156.11.1686 Free full text]</ref>
+
+==Chemistry==
+
+===Synthesis===
+[[File:Molindone synthesis.svg|thumb|center|555px|Molindone synthesis: SCHOEN KARL, J PACHTER IRWIN; {{Cite patent|BE|670798}} (1965 to Endo Lab).]]
+
+Condensation of oximinoketone '''2''' (from [[nitrosation]] of 3-pentanone), with [[cyclohexane-1,3-dione]] ('''1''') in the presence of zinc and acetic acid leads directly to the partly reduced indole derivative '''6'''. The transformation may be rationalized by assuming as the first step,  reduction of '''2''' to the corresponding α-aminoketone. [[Conjugate addition]] of the amine to '''1''' followed by elimination of hydroxide (as water) would give ene-aminoketone '''3'''. This enamine may be assumed to be in [[Tautomer|tautomeric equilibrium]] with imine '''4'''. [[Aldol condensation]] of the side chain carbonyl group with the doubly activated ring [[Methylene bridge|methylene group]] would then result in cyclization to pyrrole '''5'''; simple tautomeric transformation would then give the observed product. [[Mannich reaction]] of '''6''' with formaldehyde and morpholine gives the tranquilizer molindone ('''7''').
+
+==See also==
+* [[Losindole]]
+* [[Piquindone]]
+
+==References==
+{{Reflist|2}}
+
+{{Antipsychotics}}
+{{Dopamine receptor modulators}}
+
+[[Category:Antipsychotics]]
+[[Category:Indoles]]
+[[Category:Ketones]]
+[[Category:Morpholines]]

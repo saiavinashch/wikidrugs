@@ -1,0 +1,78 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 462266871
+| IUPAC_name = 1-{3-[4-(diphenylmethyl)piperazin-1-yl]propyl}-1,3-dihydro-2''H''-benzimidazol-2-one
+| image = Oxatomide.png
+| width = 250px
+
+<!--Clinical data-->
+| tradename = Tinset, others
+| Drugs.com = {{drugs.com|international|oxatomide}}
+| pregnancy_category = 
+| legal_status = Rx-only
+| routes_of_administration = [[Oral administration|By mouth]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 60607-34-3
+| ATC_prefix = R06
+| ATC_suffix = AE06
+| PubChem = 4615
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4454
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = J31IL9Z2EE
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01773
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 13828
+| synonyms = KW-4354; McN-JR 35443; R-35443
+
+<!--Chemical data-->
+| C=27 | H=30 | N=4 | O=1 
+| molecular_weight = 426.553 g/mol
+| SMILES = O=C2Nc1ccccc1N2CCCN5CCN(C(c3ccccc3)c4ccccc4)CC5
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C27H30N4O/c32-27-28-24-14-7-8-15-25(24)31(27)17-9-16-29-18-20-30(21-19-29)26(22-10-3-1-4-11-22)23-12-5-2-6-13-23/h1-8,10-15,26H,9,16-21H2,(H,28,32)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = BAINIUMDFURPJM-UHFFFAOYSA-N
+}}
+
+'''Oxatomide''', sold under the brand name '''Tinset''' among others, is a [[first-generation antihistamine]] of the [[diphenylmethylpiperazine]] family which is marketed in [[Europe]], [[Japan]], and a number of other countries.<ref name="Elks2014">{{cite book|author=J. Elks|title=The Dictionary of Drugs: Chemical Data: Chemical Data, Structures and Bibliographies|url=https://books.google.com/books?id=0vXTBwAAQBAJ&pg=PA912|date=14 November 2014|publisher=Springer|isbn=978-1-4757-2085-3|pages=912–}}</ref><ref name="pmid6138301">{{cite journal |vauthors=Ohmori K, Ishii H, Nito M, Shuto K, Nakamizo N | title = [Pharmacological studies on oxatomide (KW-4354). (7) Antagonistic effects on chemical mediators] | language = Japanese | journal = Nippon Yakurigaku Zasshi. Folia Pharmacologica Japonica | volume = 81 | issue = 5 | pages = 399–409 |date=May 1983 | pmid = 6138301 | doi = 10.1254/fpj.81.399| url = }}</ref><ref name="IndexNominum2000">{{cite book|title=Index Nominum 2000: International Drug Directory|url=https://books.google.com/books?id=5GpcTQD_L2oC&pg=PA768|year=2000|publisher=Taylor & Francis|isbn=978-3-88763-075-1|pages=768–}}</ref><ref name="Drugs.com">https://www.drugs.com/international/oxatomide.html</ref> It was discovered at [[Janssen Pharmaceutica]] in 1975.<ref name="Schwartz1989">{{cite book|author=Harry Schwartz|title=Breakthrough: the discovery of modern medicines at Janssen|url=https://books.google.com/books?id=hwhtAAAAMAAJ|date=August 1989|publisher=Skyline Pub. Group|isbn=978-1-56019-100-1|page=149}}</ref> Oxatomide lacks any [[anticholinergic]] effects.<ref name="pmid6138301"/> In addition to its [[H1 receptor|H<sub>1</sub> receptor]] [[receptor antagonist|antagonism]], it also possesses [[antiserotonergic]] activity similarly to [[hydroxyzine]].<ref name="pmid6138301"/>
+
+==Chemistry==
+
+===Synthesis===
+[[File:Oxatomide synthesis.svg|thumb|center|500px|Oxatomide synthesis:<ref>J. Vandenberk et al., {{Cite patent|DE|2714437}}; eidem, {{US patent|4250176}} (1977, 1981 both to [[Janssen Pharmaceutica|Janssen]]).</ref>]]
+
+Reaction of [[:de:Benzimidazolon|2-Benzimidazolinone]] with [[isopropenyl acetate]] leads to the singly protected imidazolone derivative ('''2'''). Alkylation of this with 3-chloro-1-bromopropane affords the functionalized derivative ('''3'''). Alkylation of the monobenzhydryl derivative of piperazine ('''4''') with '''3''' gives oxatomide ('''5'''), after hydrolytic removal of the protecting group.
+
+==References==
+{{Reflist|2}}
+
+{{Antihistamines}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Histamine receptor modulators}}
+{{Serotonin receptor modulators}}
+{{Xenobiotic-sensing receptor modulators}}
+}}
+
+[[Category:Benzimidazoles]]
+[[Category:Belgian inventions]]
+[[Category:H1 receptor antagonists]]
+[[Category:Janssen Pharmaceutica]]
+[[Category:Lactams]]
+[[Category:Piperazines]]
+[[Category:Ureas]]
+
+
+{{Respiratory-system-drug-stub}}

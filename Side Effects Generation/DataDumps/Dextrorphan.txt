@@ -1,0 +1,137 @@
+{{Distinguish|Dextromethorphan|Dextrallorphan}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 408496712
+| IUPAC_name = (+)-17-methyl-9a,13a,14a-morphinan-3-ol
+| image = Dextrorphan.svg
+| image2 = Dextrorphane 3d.gif
+
+<!--Clinical data-->
+| tradename = 
+| legal_US = Unscheduled
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 125-73-5
+| ATC_prefix = None
+| PubChem = 5360697
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 04B7QNO9WS
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 341216
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 10489895
+| synonyms = DXO
+
+<!--Chemical data-->
+| C=17 | H=23 | N=1 | O=1
+| molecular_weight = 257.371 g/mol
+| SMILES = OC1=CC2=C(C[C@@H]3N(CC[C@@]42CCCC[C@H]34)C)C=C1
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C17H23NO/c1-18-9-8-17-7-3-2-4-14(17)16(18)10-12-5-6-13(19)11-15(12)17/h5-6,11,14,16,19H,2-4,7-10H2,1H3/t14-,16+,17+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = JAQUASYNZVUNQP-PVAVHDDUSA-N
+}}
+
+'''Dextrorphan''' ('''DXO''') is a [[psychoactive drug]] of the [[morphinan]] class which acts as an [[antitussive]] or [[cough suppressant]] and [[dissociative drug|dissociative]] [[hallucinogen]]. It is the [[dextrorotatory]]-[[stereoisomer]] of [[racemorphan]], the [[Levorotation|levo]]-half being [[levorphanol]]. Dextrorphan is produced by O-demethylation of [[dextromethorphan]] by [[CYP2D6]]. Dextrorphan is an [[NMDA receptor antagonist|NMDA antagonist]] and contributes to the psychoactive effects of dextromethorphan.<ref>{{cite journal | last1 = Zawertailo | first1 = L. A. | last2 = Kaplan | first2 = H. L. | last3 = Busto | first3 = U. E. | last4 = Tyndale | first4 = R. F. | last5 = Sellers | first5 = E. M. | title = Psychotropic Effects of Dextromethorphan are Altered by the CYP2D6 Polymorphism: A Pilot Study | pmid = 9690700 | journal = Journal of Clinical Psychopharmacology | volume = 18 | issue = 4 |date=Aug 1998 | pages = 332–337 | doi = 10.1097/00004714-199808000-00014 }}</ref>
+
+==Pharmacology==
+
+===Pharmacodynamics===
+{| class="wikitable floatleft" style="font-size:small;"
+|+ Dextrorphan<ref name="PDSP">{{cite web | title = PDSP K<sub>i</sub> Database | work = Psychoactive Drug Screening Program (PDSP) | author1 = Roth, BL | author2 = Driscol, J | publisher = University of North Carolina at Chapel Hill and the United States National Institute of Mental Health || format = HTML | accessdate = 14 August 2017 | url = https://pdsp.unc.edu/databases/pdsp.php?knowID=0&kiKey=&receptorDD=&receptor=&speciesDD=&species=&sourcesDD=&source=&hotLigandDD=&hotLigand=&testLigandDD=&testFreeRadio=testFreeRadio&testLigand=dextrorphan&referenceDD=&reference=&KiGreater=&KiLess=&kiAllRadio=all&doQuery=Submit+Query}}</ref><ref name="pmid26826604">{{cite journal | vauthors = Nguyen L, Thomas KL, Lucke-Wold BP, Cavendish JZ, Crowe MS, Matsumoto RR | title = Dextromethorphan: An update on its utility for neurological and neuropsychiatric disorders | journal = Pharmacol. Ther. | volume = 159 | issue = | pages = 1–22 | year = 2016 | pmid = 26826604 | doi = 10.1016/j.pharmthera.2016.01.016 | url = }}</ref><ref name="pmid17689532">{{cite journal | vauthors = Werling LL, Keller A, Frank JG, Nuwayhid SJ | title = A comparison of the binding profiles of dextromethorphan, memantine, fluoxetine and amitriptyline: treatment of involuntary emotional expression disorder | journal = Exp. Neurol. | volume = 207 | issue = 2 | pages = 248–57 | year = 2007 | pmid = 17689532 | doi = 10.1016/j.expneurol.2007.06.013 | url = }}</ref><ref name="pmid27139517">{{cite journal | vauthors = Taylor CP, Traynelis SF, Siffert J, Pope LE, Matsumoto RR | title = Pharmacology of dextromethorphan: Relevance to dextromethorphan/quinidine (Nuedexta®) clinical use | journal = Pharmacol. Ther. | volume = 164 | issue = | pages = 170–82 | year = 2016 | pmid = 27139517 | doi = 10.1016/j.pharmthera.2016.04.010 | url = }}</ref>
+|-
+! Site !! K<sub>i</sub> (nM) !! Species !! Ref
+|-
+| '''[[NMDA receptor|{{abbr|NMDAR|N-Methyl-D-aspartate receptor}}<br />(MK-801)]]''' || '''486–906''' || '''Rat''' || <ref name="pmid26826604" />
+|-
+| '''[[Sigma-1 receptor|σ<sub>1</sub>]]''' || '''118–481''' || '''Rat''' || <ref name="pmid26826604" />
+|-
+| [[Sigma-2 receptor|σ<sub>2</sub>]] || 11,325–15,582 || Rat || <ref name="pmid26826604" />
+|-
+| '''{{abbrlink|MOR|μ-Opioid receptor}}''' || '''420'''<br />'''>1,000''' || '''Rat'''<br />'''Human''' || <ref name="pmid26826604" /><ref name="pmid7815359">{{cite journal | vauthors = Raynor K, Kong H, Mestek A, Bye LS, Tian M, Liu J, Yu L, Reisine T | title = Characterization of the cloned human mu opioid receptor | journal = J. Pharmacol. Exp. Ther. | volume = 272 | issue = 1 | pages = 423–8 | year = 1995 | pmid = 7815359 | doi = | url = }}</ref>
+|-
+| {{abbrlink|DOR|δ-Opioid receptor}} || 34,700 || Rat || <ref name="pmid26826604" />
+|-
+| {{abbrlink|KOR|κ-Opioid receptor}} || 5,950 || Rat || <ref name="pmid26826604" />
+|-
+| '''{{abbrlink|SERT|Serotonin transporter}}''' || '''401–484''' || '''Rat''' || <ref name="pmid26826604" />
+|-
+| '''{{abbrlink|NET|Norepinephrine transporter}}''' || '''≥340''' || '''Rat''' || <ref name="pmid26826604" />
+|-
+| {{abbrlink|DAT|Dopamine transporter}} || >1,000 || Rat || <ref name="pmid26826604" />
+|-
+| [[5-HT1A receptor|5-HT<sub>1A</sub>]] || >1,000 || Rat || <ref name="pmid26826604" />
+|-
+| '''[[5-HT1B receptor|5-HT<sub>1B</sub>]]<sub>/</sub>[[5-HT1D receptor|<sub>1D</sub>]]''' || '''54% at 1&nbsp;μM''' || '''Rat''' || <ref name="pmid26826604" />
+|-
+| [[5-HT2A receptor|5-HT<sub>2A</sub>]] || >1,000 || Rat || <ref name="pmid26826604" />
+|-
+| [[Alpha-1 adrenergic receptor|α<sub>1</sub>]] ||>1,000 || Rat || <ref name="pmid26826604" />
+|-
+| [[Alpha-2 adrenergic receptor|α<sub>2</sub>]] || >1,000 || Rat || <ref name="pmid26826604" />
+|-
+| [[Beta-adrenergic receptor|β]] || 35% at 1&nbsp;μM || Rat || <ref name="pmid26826604" />
+|-
+| [[D2 receptor|D<sub>2</sub>]] || >1,000 || Rat || <ref name="pmid26826604" />
+|-
+| '''[[H1 receptor|H<sub>1</sub>]]''' || '''95% at 1&nbsp;μM''' || '''Rat''' || <ref name="pmid26826604" />
+|-
+| '''{{abbrlink|mAChRs|Muscarinic acetylcholine receptors}}''' || '''100% at 1&nbsp;μM''' || '''Rat''' || <ref name="pmid26826604" />
+|-
+| '''{{abbrlink|nAChRs|Nicotinic acetylcholine receptors}}''' || '''1,300–29,600'''<br />'''(IC<sub>50</sub>)''' || '''Rat''' || <ref name="pmid26826604" />
+|-
+| {{abbrlink|VDSCs|Voltage-dependent sodium channels}} || {{abbr|ND|No data}} || {{abbr|ND|No data}} || {{abbr|ND|No data}}
+|- class="sortbottom"
+| colspan="4" style="width: 1px;" | Values are K<sub>i</sub> (nM), unless otherwise noted. The smaller the value, the more strongly the drug binds to the site.
+|}
+
+The pharmacology of dextrorphan is similar to that of [[dextromethorphan]] (DXM). However, dextrorphan is much more potent as an NMDA receptor antagonist as well much less active as a [[serotonin reuptake inhibitor]], but retains DXM's activity as a [[norepinephrine reuptake inhibitor]].<ref>{{ cite journal | url = http://jpet.aspetjournals.org/content/309/2/515.full.pdf | format = pdf | title = Comparison of the Effects of Dextromethorphan, Dextrorphan, and Levorphanol on the Hypothalamo-Pituitary-Adrenal Axis |author1=Pechnick, R. N. |author2=Poland, R. E. | year = 2004 | volume = 309 | issue = 2 | pages = 515–522 | journal = Journal of Pharmacology and Experimental Therapeutics | doi = 10.1124/jpet.103.060038 | pmid = 14742749 }}</ref>
+
+===Pharmacokinetics===
+Dextrorphan has a notably longer [[elimination half-life]] than its parent compound, and therefore has a tendency to accumulate in the blood after repeated administration of normally dosed dextromethorphan formulations.{{citation needed|date=November 2016}}
+
+==Society and culture==
+
+===Legal status===
+Dextrorphan was formerly a [[Controlled Substances Act#Schedule I controlled substances|Schedule I]] [[controlled substance]] in the [[United States]], but was unscheduled on October 1, 1976.<ref name="urlDextrorphan Legality">{{cite web | url = http://www.deadiversion.usdoj.gov/schedules/orangebook/orangebook.pdf | title = Lists of: Scheduling Actions Controlled Substances Regulated Chemicals | author = DEA | accessdate = 2010-09-24}}</ref>
+
+==Research==
+Dextrorphan was under development for the treatment of [[stroke]], and reached [[Phases of clinical research#Phase II|phase II]] [[clinical trial]]s for this indication, but development was discontinued.<ref name="AdisInsight">http://adisinsight.springer.com/drugs/800009336</ref>
+
+{{Clear}}
+
+==References==
+{{Reflist|2}}
+
+{{Antitussives}}
+{{Navboxes
+| title = [[Recreational drug use|Recreational uses]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Drug use}}
+{{Hallucinogens}}
+}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Ionotropic glutamate receptor modulators}}
+{{Monoamine reuptake inhibitors}}
+{{Nicotinic acetylcholine receptor modulators}}
+{{Opioid receptor modulators}}
+{{Sigma receptor modulators}}
+}}
+
+[[Category:Antitussives]]
+[[Category:Dissociative drugs]]
+[[Category:Enantiopure drugs]]
+[[Category:Euphoriants]]
+[[Category:Morphinans]]
+[[Category:Mu-opioid agonists]]
+[[Category:Nicotinic antagonists]]
+[[Category:NMDA receptor antagonists]]
+[[Category:Phenols]]
+[[Category:Serotonin-norepinephrine reuptake inhibitors]]
+[[Category:Sigma agonists]]

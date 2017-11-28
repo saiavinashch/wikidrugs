@@ -1,0 +1,65 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 450847044
+| IUPAC_name = (2''S'',4''R'')-4-(phosphonomethyl)piperidine-2-carboxylic acid
+| image = Selfotel.png
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 39664
+| width = 280
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- Schedule I -->
+| legal_UK = <!-- Class A -->
+| legal_US =  
+| legal_status = Legal
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 4155
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 110347-85-8
+| ATC_prefix =  
+| ATC_suffix =  
+| PubChem = 68736
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 4VGJ4A41L2
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02410
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 61982
+
+<!--Chemical data-->
+| C=7 | H=14 | N=1 | O=5 | P=1 
+| molecular_weight = 223.164 g/mol
+| smiles = C1CN[C@@H](C[C@@H]1CP(=O)(O)O)C(=O)O
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C7H14NO5P/c9-7(10)6-3-5(1-2-8-6)4-14(11,12)13/h5-6,8H,1-4H2,(H,9,10)(H2,11,12,13)/t5-,6+/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = LPMRCCNDNGONCD-RITPCOANSA-N
+
+| synonyms = Selfotel
+}}
+'''Selfotel''' ('''CGS-19755''') is a drug which acts as a competitive [[NMDA antagonist]], directly competing with [[glutamate]] for binding to the receptor.<ref>Lehmann J, Hutchison AJ, McPherson SE, Mondadori C, Schmutz M, Sinton CM, Tsai C, Murphy DE, Steel DJ, Williams M, et al. CGS 19755, a selective and competitive N-methyl-D-aspartate-type excitatory amino acid receptor antagonist. ''Journal of Pharmacology and Experimental Therapeutics''. 1988 Jul;246(1):65-75. {{PMID|2899170}}</ref> Initial studies showed it to have [[anticonvulsant]], [[anxiolytic]], [[analgesic]] and [[neuroprotective]] effects,<ref>Bennett DA, Lehmann J, Bernard PS, Liebman JM, Williams M, Wood PL, Boast CA, Hutchison AJ. CGS 19755: a novel competitive N-methyl-D-aspartate (NMDA) receptor antagonist with anticonvulsant, anxiolytic and anti-ischemic properties. ''Progress in Clinical and Biological Research''. 1990;361:519-24. {{PMID|1981269}}</ref><ref>France CP, Winger GD, Woods JH. Analgesic, anesthetic, and respiratory effects of the competitive N-methyl-D-aspartate (NMDA) antagonist CGS 19755 in rhesus monkeys. ''Brain Research''. 1990 Sep 3;526(2):355-8. {{PMID|2257491}}</ref> and it was originally researched for the treatment of [[stroke]],<ref>Grotta J, Clark W, Coull B, Pettigrew LC, Mackay B, Goldstein LB, Meissner I, Murphy D, LaRue L. Safety and tolerability of the glutamate antagonist CGS 19755 (Selfotel) in patients with acute ischemic stroke. Results of a phase IIa randomized trial. ''Stroke''. 1995 Apr;26(4):602-5. {{PMID|7709405}}</ref> but subsequent animal and human studies showed [[phencyclidine]]-like effects,<ref>Bennett DA, Bernard PS, Amrick CL, Wilson DE, Liebman JM, Hutchison AJ. Behavioral pharmacological profile of CGS 19755, a competitive antagonist at N-methyl-D-aspartate receptors. ''Journal of Pharmacology and Experimental Therapeutics''. 1989 Aug;250(2):454-60. {{PMID|2547931}}</ref><ref>Koek W, Woods JH, Colpaert FC. N-methyl-D-aspartate antagonism and phencyclidine-like activity: a drug discrimination analysis. ''Journal of Pharmacology and Experimental Therapeutics''. 1990 Jun;253(3):1017-25. {{PMID|2193142}}</ref><ref>Lu Y, France CP, Woods JH. Tolerance to the cataleptic effect of the N-methyl-D-aspartate (NMDA) receptor antagonists in pigeons: cross-tolerance between PCP-like compounds and competitive NMDA antagonists. ''Journal of Pharmacology and Experimental Therapeutics''. 1992 Nov;263(2):499-504. {{PMID|1432686}}</ref><ref>Baron SP, Woods JH. Competitive and uncompetitive N-methyl-D-aspartate antagonist discriminations in pigeons: CGS 19755 and phencyclidine. ''Psychopharmacology''. 1995 Mar;118(1):42-51. {{PMID|7597121}}</ref> as well as limited efficacy and evidence for possible [[neurotoxicity]] under some conditions,<ref>Morris GF, Bullock R, Marshall SB, Marmarou A, Maas A, Marshall LF. Failure of the competitive N-methyl-D-aspartate antagonist Selfotel (CGS 19755) in the treatment of severe head injury: results of two phase III clinical trials. The Selfotel Investigators. ''Journal of Neurosurgery''. 1999 Nov;91(5):737-43. {{PMID|10541229}}</ref><ref>Davis SM, Lees KR, Albers GW, Diener HC, Markabi S, Karlsson G, Norris J. Selfotel in acute ischemic stroke : possible neurotoxic effects of an NMDA antagonist. ''Stroke''. 2000 Feb;31(2):347-54. {{PMID|10657404}}</ref><ref>Dawson DA, Wadsworth G, Palmer AM. A comparative assessment of the efficacy and side-effect liability of neuroprotective compounds in experimental stroke. ''Brain Research''. 2001 Feb 23;892(2):344-50. {{PMID|11172782}}</ref> and so clinical development was ultimately discontinued.<ref>Ikonomidou C, Turski L. Why did NMDA receptor antagonists fail clinical trials for stroke and traumatic brain injury? ''Lancet Neurology''. 2002 Oct;1(6):383-6. {{PMID|12849400}}</ref><ref>Farin A, Marshall LF. Lessons from epidemiologic studies in clinical trials of traumatic brain injury. ''Acta Neurochirurgica. Supplement''. 2004;89:101-7. {{PMID|15335108}}</ref>
+
+==References==
+{{reflist}}
+
+{{Hallucinogens}}
+{{Ionotropic glutamate receptor modulators}}
+
+[[Category:Carboxylic acids]]
+[[Category:NMDA receptor antagonists]]
+[[Category:Phosphonic acids]]
+[[Category:Piperidines]]

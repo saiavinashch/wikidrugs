@@ -1,0 +1,119 @@
+{{Drugbox
+| drug_name = 
+| IUPAC_name = (2''R'',3a''R'',10''Z'',11a''S'',12a''R'',14a''R'')-''N''-(Cyclopropylsulfonyl)-2-{[2-(4-isopropyl-1,3-thiazol-2-yl)-7-methoxy-8-methyl-4-quinolinyl]oxy}-5-methyl-4,14-dioxo-2,3,3a,4,5,6,7,8,9,11a,12,13,14,14a-tetradecahydrocyclopenta[''c'']cyclopropa[''g''][1,6]diazacyclotetradecine-12a(1''H'')-carboxamide
+| image = Simeprevir.svg
+| width = 200
+| alt = 
+| caption =
+
+<!-- Clinical data -->
+| pronounce = {{IPAc-en|s|ɪ|ˈ|m|ɛ|p|r|ə|v|ɪər}} {{respell|sim|EH|prə-veer}}
+| tradename = Olysio, Sovriad, Galexos, others
+| Drugs.com = {{Drugs.com|monograph|simeprevir}}
+| MedlinePlus = a614013
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = C
+| pregnancy_US_comment = and X<ref name=AHFS2016/>
+| pregnancy_category = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = Rx-only
+| legal_status = ℞-only
+| routes_of_administration = By mouth ([[Capsule (pharmacy)|capsules]])
+
+<!-- Pharmacokinetic data -->
+| bioavailability = 62% (under fed conditions)
+| protein_bound = >99.9%
+| metabolism = [[Liver|Hepatic]] ([[CYP3A]], [[CYP2C8]], [[CYP2C19]])
+| elimination_half-life = 10–13 hours (HCV-uninfected subjects), 41 hours (HCV-infected subjects)
+| excretion = Feces (91%), urine (<1%)
+
+<!-- Identifiers -->
+| CAS_number = 923604-59-5
+| ATCvet = 
+| ATC_prefix = J05
+| ATC_suffix = AE14
+| PubChem = 56928193
+| IUPHAR_ligand = 7367
+| DrugBank = DB06290
+| ChemSpiderID = 23331536
+| UNII = 9WS5RD66HZ
+| KEGG = D10081
+| ChEBI = 
+| ChEMBL = 501849
+| NIAID_ChemDB = 489101
+| synonyms = TMC435; TMC435350
+
+<!-- Chemical data -->
+| C=38 | H=47 | N=5 | O=7 | S=2
+| molecular_weight = 749.94 g/mol
+| smiles = Cc1c(ccc2c1nc(cc2O[C@@H]3C[C@@H]4[C@@H](C3)C(=O)N(CCCC/C=C\[C@@H]5C[C@]5(NC4=O)C(=O)NS(=O)(=O)C6CC6)C)c7nc(cs7)C(C)C)OC
+| StdInChI = 1S/C38H47N5O7S2/c1-21(2)30-20-51-35(40-30)29-18-32(26-13-14-31(49-5)22(3)33(26)39-29)50-24-16-27-28(17-24)36(45)43(4)15-9-7-6-8-10-23-19-38(23,41-34(27)44)37(46)42-52(47,48)25-11-12-25/h8,10,13-14,18,20-21,23-25,27-28H,6-7,9,11-12,15-17,19H2,1-5H3,(H,41,44)(H,42,46)/b10-8-/t23-,24-,27-,28-,38-/m1/s1
+| StdInChIKey = JTZZSQYMACOLNN-VDWJNHBNSA-N
+}}
+<!-- Definition and medical uses -->
+'''Simeprevir''', sold under the trade names '''Olysio''' among others, is a medication used in combination with other medications for the treatment of [[hepatitis C]].<ref name=AHFS2016/> It is specifically used for hepatitis C genotype 1 and 4.<ref name=AHFS2016/> Medications it is used with include [[sofosbuvir]] or [[ribavirin]] and [[peginterferon-alfa]].<ref name=AHFS2016/> Cure rates are in 80s to 90s percent.<ref>{{cite web|title=Initial treatment of HCV infection|url=http://www.hcvguidelines.org/full-report/initial-treatment-hcv-infection|website=www.hcvguidelines.org|accessdate=1 December 2016|date=October 2016|deadurl=no|archiveurl=https://web.archive.org/web/20161207161304/http://www.hcvguidelines.org/full-report/initial-treatment-hcv-infection|archivedate=7 December 2016|df=}}</ref><ref>{{cite journal|last1=Majumdar|first1=A|last2=Kitson|first2=MT|last3=Roberts|first3=SK|title=Systematic review: current concepts and challenges for the direct-acting antiviral era in hepatitis C cirrhosis.|journal=Alimentary pharmacology & therapeutics|date=June 2016|volume=43|issue=12|pages=1276–92|pmid=27087015}}</ref><ref>{{cite journal|last1=Brochot|first1=E|last2=Helle|first2=F|last3=François|first3=C|last4=Castelain|first4=S|last5=Capron|first5=D|last6=Nguyen-Khac|first6=E|last7=Duverlie|first7=G|title=Which therapeutic option for hepatitis C virus genotype 1?|journal=Scandinavian journal of gastroenterology|date=April 2015|volume=50|issue=4|pages=470–8|pmid=25396710}}</ref> It may be used in those who also have [[HIV/AIDS]].<ref name=AHFS2016/> It is taken by mouth once daily for typically 12 weeks.<ref name=AHFS2016/>
+
+<!-- Side effects and mechanisms -->
+Common side effects include feeling tired, headache, rash, itchiness, and sensitivity to sunlight.<ref name=AHFS2016/> In those with previous [[hepatitis B]] infection, active disease may recur.<ref name=AHFS2016/> It is not recommended in those with significant liver problems.<ref name=AHFS2016/> During pregnancy when used with ribavirin it may cause harm to the baby while when used with sofosbuvir its safety is unclear.<ref name=AHFS2016>{{cite web|title=Simeprevir|url=https://www.drugs.com/monograph/simeprevir.html|publisher=The American Society of Health-System Pharmacists|accessdate=Nov 30, 2016|deadurl=no|archiveurl=https://web.archive.org/web/20161201144617/https://www.drugs.com/monograph/simeprevir.html|archivedate=2016-12-01|df=}}</ref><ref name=Ric2015/> Simeprevir is a [[HCV protease inhibitor]].<ref name=AHFS2016/>
+
+<!-- History and culture -->
+Simeprevir was as developed by [[Medivir AB]] and [[Janssen Pharmaceutica]].<ref>{{cite book|last1=Grubbs|first1=Robert H.|last2=O'Leary|first2=Daniel J.|title=Handbook of Metathesis, Volume 2: Applications in Organic Synthesis|date=2015|publisher=John Wiley & Sons|isbn=9783527694020|page=699|url=https://books.google.com/books?id=y1q-BgAAQBAJ&pg=PA699|language=en|deadurl=no|archiveurl=https://web.archive.org/web/20161202034447/https://books.google.com/books?id=y1q-BgAAQBAJ&pg=PA699|archivedate=2016-12-02|df=}}</ref> It was approved for medical use in the United States in 2013.<ref name=Cle2013>{{Cite journal|last=DUGUM|first=M.|last2=O'SHEA|first2=R.|title=Hepatitis C virus: Here comes all-oral treatment|url=http://www.ccjm.org/cgi/doi/10.3949/ccjm.81a.13155|journal=Cleveland Clinic Journal of Medicine|volume=81|issue=3|pages=159–172|doi=10.3949/ccjm.81a.13155|pmid=24591471}}</ref> Simeprevir is on the [[World Health Organization's List of Essential Medicines]], the most effective and safe medicines needed in a [[health system]].<ref name=WHO19th>{{cite web|title=WHO Model List of Essential Medicines (19th List)|url=http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|work=World Health Organization|accessdate=8 December 2016|date=April 2015|deadurl=no|archiveurl=https://web.archive.org/web/20161213052708/http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|archivedate=13 December 2016|df=}}</ref> It is not available as a [[generic medication]] as of 2015.<ref name=Ric2015>{{cite book|last1=Hamilton|first1=Richart|title=Tarascon Pocket Pharmacopoeia 2015 Deluxe Lab-Coat Edition|date=2015|publisher=Jones & Bartlett Learning|isbn=9781284057560|page=80}}</ref> In the United Kingdom a course of treatment with ribavirin and peginterferon-alfa cost about 29,700 pounds in 2015.<ref>{{cite news|title=Janssen will cover cost of unsuccessful hepatitis C treatment|url=http://www.pmlive.com/pharma_news/janssen_will_cover_cost_of_unsuccessful_hep_c_treatment_631903|accessdate=1 December 2016|agency=PMLive|date=16 January 2015|deadurl=no|archiveurl=https://web.archive.org/web/20161202024223/http://www.pmlive.com/pharma_news/janssen_will_cover_cost_of_unsuccessful_hep_c_treatment_631903|archivedate=2 December 2016|df=}}</ref> In the United States a course of treatment with sofosbuvir was more than 171,000 USD in 2015 with the simeprevir component costing 66,360 USD.<ref>{{cite web|last1=Smith|first1=Michael|title=HCV Drugs Costly but Cure Might Not Be|url=http://www.medpagetoday.com/meetingcoverage/croi/50243|website=MedPageToday|accessdate=1 December 2016|date=28 February 2015|deadurl=no|archiveurl=https://web.archive.org/web/20161201211211/http://www.medpagetoday.com/meetingcoverage/croi/50243|archivedate=1 December 2016|df=}}</ref>
+
+==Medical use==
+Simeprevir is indicated treating chronic hepatic C (CHC) infection as a part of a triple antiviral treatment regimen consisting of two other drugs: peginterferon-alfa (PEG-IFN) and ribavirin (RBV).<ref name= PI>{{cite web|url=https://www.olysio.com/shared/product/olysio/prescribing-information.pd|title=OLYSIO (simeprevir) capsules, for oral use FULL PRESCRIBING INFORMATION|date= September 2014| accessdate= 24 October 2014}}</ref> It is primarily effective in treating Hepatitis C virus (HCV) genotype 1 infected subjects with compensated liver disease, including cirrhosis.<ref name= PI/> There are currently no studies that show Simeprevir’s effectiveness as a single therapy for HCV.<ref name= PI/> Simeprevir is generally used for HCV genotype 1 infected subjects, but off-label medical use has been indicated for type 4 genotype as well.<ref>{{cite web|url=http://www.hcvguidelines.org/full-report/unique-patient-populations|title=Recommendations for Testing, Managing, and Treating Hepatitis C|date=2014|accessdate=24 October 2014|deadurl=no|archiveurl=https://web.archive.org/web/20141016200633/http://www.hcvguidelines.org/full-report/unique-patient-populations|archivedate=16 October 2014|df=}}</ref>
+
+===Dosing===
+Simeprevir is dosed along with peg-IFN and RBV as triple therapy.<ref name = PI/> Appropriate dosing of Simeprevir is dependent upon the patient’s liver function, kidney function, [[viral load]], and HCV genotype.<ref name = PI/>  This medication is not recommended for people with moderate or severe liver impairment and people with end-stage kidney disease since Simprevir was not studied for use in these patient populations.<ref name = PI/> Simeprevir might be discontinued depending on their viral load.<ref name = PI/> For instance, if the patient’s viral load is detectable (>25 units/mL) during the 4th week of their treatment regimen, it is considered an inadequate treatment and simeprevir must be discontinued.<ref name = PI/>
+
+==Contraindications==
+Any contraindications that apply to peg-IFN and RBV apply to simeprevir since they must be used in combination during treatment of CHC. For example, people with sickle cell anemia are contraindicated to RBV therapy and are therefore contraindicated to simeprevir and peg-IFN combination therapy.<ref name=RBVPI>{{cite web|url=http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021511s023lbl.pdf|title=Highlights of Prescribing Information Copegus|date=August 2011|accessdate=24 October 2014|deadurl=no|archiveurl=https://web.archive.org/web/20141103185016/http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021511s023lbl.pdf|archivedate=3 November 2014|df=}}</ref> Pregnant women and men whose female partners are pregnant are contraindicated for simeprevir since peg-IFN and RBV are known to cause birth defects.<ref name= PI/><ref name= RBVPI/><ref name=PEGIFNPI>{{cite web|url=http://www.merck.com/product/usa/pi_circulars/p/pegintron/pegintron_pi.pdf|title=Highlights of Prescribing Information PEGINTRON|date=July 2014|accessdate=24 October 2014|deadurl=no|archiveurl=https://web.archive.org/web/20141103173620/http://www.merck.com/product/usa/pi_circulars/p/pegintron/pegintron_pi.pdf|archivedate=3 November 2014|df=}}</ref>
+
+===Pregnancy===
+Simeprevir is avoided in pregnant women or women planning to be pregnant because it going to be taken with RBV and Peg-IFN, which have both shown to cause fetal problems in animal studies.<ref name= PI/><ref name= RBVPI/><ref name= PEGIFNPI/> RBV has been shown to cause birth defects and fetal deaths in animal studies.<ref name=RBVPI/> Peg-IFN has been shown to cause abortions in animal studies.<ref name= PEGIFNPI/> People must have a negative pregnancy test prior to starting therapy, use at least two effective birth control methods during treatment, and undergo monthly pregnancy tests.<ref name= PI/> If pregnant women are exposed to any medication regimen containing ribavirin, they are encouraged to report this through the ribavirin pregnancy registry.<ref name= RBVPI/>
+
+==Adverse effects==
+Severe itching (22%), sensitivity to sunlight (5%), and rash (25%) are some of the common adverse effects of simeprevir.<ref name=":0">{{cite web| url = http://www.fda.gov/downloads/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/AntiviralDrugsAdvisoryCommittee/UCM371623.pdf| title = FDA ANTIVIRAL DRUGS ADVISORY COMMITTEE MEETING| date = October 2013| accessdate = 24 October 2014| deadurl = no| archiveurl = https://web.archive.org/web/20141226031931/http://www.fda.gov/downloads/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/AntiviralDrugsAdvisoryCommittee/UCM371623.pdf| archivedate = 26 December 2014| df = }}</ref> Other side effects may include nausea, [[myalgia|muscle pain]], difficulty breathing and increased [[bilirubin]].<ref>{{Cite web|url=http://reference.medscape.com/drug/olysio-simeprevir-999875#4|title=Olysio (simeprevir) dosing, indications, interactions, adverse effects, and more|website=reference.medscape.com|access-date=2016-11-10|deadurl=no|archiveurl=https://web.archive.org/web/20161110105941/http://reference.medscape.com/drug/olysio-simeprevir-999875#4|archivedate=2016-11-10|df=}}</ref> It may reactivate hepatitis B in those who have been previously infected.<ref>{{cite web|title=Direct-Acting Antivirals for Hepatitis C: Drug Safety Communication - Risk of Hepatitis B Reactivating|url=http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm523690.htm|website=FDA|accessdate=6 October 2016|date=4 October 2016|deadurl=no|archiveurl=https://web.archive.org/web/20161006160327/http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm523690.htm|archivedate=6 October 2016|df=}}</ref>
+
+=== Combination treatment ===
+In March 2015, [[Gilead Sciences]] e-mailed warnings to health care providers about nine people that began taking its hepatitis C drugs [[ledipasvir/sofosbuvir]] or [[sofosbuvir]] along with [[amiodarone]], [[daclatasvir]], or simeprevir developed abnormally slow heartbeats and one died of [[cardiac arrest]]. Three required a [[pacemaker]] to be inserted. Gilead said the combinations aren't recommended and product labels will be updated.<ref>West, Stephen. [https://www.bloomberg.com/news/articles/2015-03-21/gilead-warns-after-hepatitis-patient-on-heart-drug-dies "Gilead Warns After Hepatitis Patient on Heart Drug Dies"] {{webarchive|url=https://web.archive.org/web/20170322104145/https://www.bloomberg.com/news/articles/2015-03-21/gilead-warns-after-hepatitis-patient-on-heart-drug-dies |date=2017-03-22 }}. Published 21 March 2015.</ref>
+
+==Mechanism of action==
+Simeprevir is a [[hepatitis C virus]] [[protease inhibitor (pharmacology)|protease inhibitor]].<ref>{{cite journal | pmid = 19171797 | year = 2009 | last1 = Lin | first1 = TI | last2 = Lenz | first2 = O | last3 = Fanning | first3 = G | last4 = Verbinnen | first4 = T | last5 = Delouvroy | first5 = F | last6 = Scholliers | first6 = A | last7 = Vermeiren | first7 = K | last8 = Rosenquist | first8 = A | last9 = Edlund | first9 = M | title = In vitro activity and preclinical profile of TMC435350, a potent hepatitis C virus protease inhibitor | volume = 53 | issue = 4 | pages = 1377–85 | doi = 10.1128/AAC.01058-08 | pmc = 2663092 | journal = Antimicrobial Agents and Chemotherapy | last10 = Samuelsson | first10 = B. | last11 = Vrang | first11 = L. | last12 = De Kock | first12 = H. | last13 = Wigerinck | first13 = P. | last14 = Raboisson | first14 = P. | last15 = Simmen | first15 = K.}}</ref>
+
+Simeprevir is a NS3/4A protease inhibitor, thus preventing viral maturation through inhibition of protein synthesis. Simeprevir is administered as one capsule once daily with pegylated interferon and ribavirin for the treatment of genotype 1 or genotype 4 chronic hepatitis C in adult people with compensated liver disease (including cirrhosis), with or without HIV-1 co-infection, who are treatment naive or who have failed previous interferon therapy.<ref>{{cite journal | doi = 10.1016/j.jhep.2011.02.023 | title = EASL Clinical Practice Guidelines: Management of hepatitis C virus infection | year = 2011 | journal = Journal of Hepatology | volume = 55 | issue = 2 | pages = 245–64 | pmid = 21371579 | author1 = European Association for the Study of the Liver}}</ref><ref>{{cite journal | author = Zein NN | title = Clinical Significance of Hepatitis C Virus Genotypes | journal = Clin. Microbiol. Rev. | year =  2000 | volume = 13 | issue = 2 | pages = 223–235 | doi = 10.1128/CMR.13.2.223-235.2000 | pmid = 10755999 | pmc = 100152}}</ref> Genotype 1 is the most prevalent form of hepatitis C virus (HCV) worldwide.
+
+==Pharmacokinetics==
+Simeprevir is orally bioavailable. Its absorption increases when taken with food, and is therefore advised to be taken with food.<ref name= PI/> The liver's CYP3A4 enzymes mainly break down simeprevir, but CYP2C8 and CYP2C19 enzymes can also play a role.<ref name= PI/> Its half-life in the plasma is 41 hours in people with HCV.<ref name= PI/> Its peak effect happens 4 to 6 hours after taking the medication.<ref name= PI/> It is primarily excreted into the feces (91%).<ref name= PI/>
+
+==Pharmacogenomics==
+According to simeprevir's prescriber information, its efficacy in combination with peginterferon alfa and ribavirin is "substantially reduced in people with HCV genotype 1a with an NS3 Q80K polymorphism at baseline compared to people infected with HCV genotype 1a without Q80K polymorphism."<ref name= PI/> People with Q80K polymorphism are not advised to take simeprevir.<ref name= PI/>
+
+==Drug interactions==
+Simeprevir is a [[CYP3A4]] substrate so its plasma concentration will significantly increase if taken with medications that are strong CYP3A4 inhibitors (i.e. [[erythromycin]], [[ritonavir]]) and will significantly decrease if taken with strong CYP3A4 inducers (i.e. [[efavirenz]], [[rifampin]], [[Hypericum perforatum|Saint John's wort]]).<ref name= PI/>
+Simeprevir also inhibits intestinal (but not liver) CYP3A. For instance, [[midazolam]], an anticonvulsant, gets metabolized by intestinal CYP3As and taking it with simeprevir can lead to increased midazolam levels that can be toxic.<ref name= PI/>
+Simeprevir also inhibits OATP1B1/3 and P-glycoprotein (P-gp) transporters, which are normally transporters that pump out drug out of the plasma.<ref name=PI/><ref>{{cite journal | pmid = 24867984 | year = 2014 | last1 = Furihata | first1 = T | last2 = Matsumoto | first2 = S | last3 = Fu | first3 = Z | last4 = Tsubota | first4 = A | last5 = Sun | first5 = Y | last6 = Matsumoto | first6 = S | last7 = Kobayashi | first7 = K | last8 = Chiba | first8 = K | title = Different interaction profiles of direct-acting anti-hepatitis C virus agents with human organic anion transporting polypeptides | volume = 58 | issue = 8 | pages = 4555–64 | doi = 10.1128/AAC.02724-14 | pmc = 4135986 | journal = Antimicrobial Agents and Chemotherapy}}</ref> Thus, taking simeprevir with medications that are substrates for these transporters can lead to increased plasma concentrations of these medications. For example, [[calcium channel blocker]]s (i.e. [[diltiazem]], [[amlodipine]]) are P-gp substrates and can lead to increased concentrations of these drugs when taken with simeprevir.<ref name = PI/> Taking [[ciclosporin]], a substrate for OATP1B1/3, with simeprevir resulted in significant increase in ciclosporin concentration and are therefore not recommended to be taken together.<ref name = PI/>
+
+==Approval== 
+In the United States, it is approved by the [[Food and Drug Administration]] for use in combination with [[peginterferon-alfa]] and [[ribavirin]] for hepatitis C.<ref>{{cite web | url = http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm376449.htm | title = FDA approves new treatment for hepatitis C virus | publisher = [[Food and Drug Administration]] | date = Nov 22, 2013 | deadurl = no | archiveurl = https://web.archive.org/web/20131216225831/http://www.fda.gov/newsevents/newsroom/pressannouncements/ucm376449.htm | archivedate = 2013-12-16 | df =  }}</ref> Simeprevir has been approved in Japan for the treatment of chronic hepatitis C infection, genotype 1.<ref>{{cite web | url = https://online.wsj.com/article/PR-CO-20130927-900120.html | title = Medivir: Simeprevir has been approved in Japan for the treatment of genotype 1 chronic hepatitis C infection | date = September 27, 2013 | publisher = The Wall Street Journal | deadurl = no | archiveurl = https://web.archive.org/web/20131124041922/http://online.wsj.com/article/PR-CO-20130927-900120.html | archivedate = November 24, 2013 | df =  }}</ref>
+
+==Clinical study==
+Simeprevir has been tested in combination regimens with [[pegylated interferon alfa-2a]] and [[ribavirin]],<ref>{{cite web | url = http://www.hivandhepatitis.com/hepatitis-c/hepatitis-c-topics/hcv-treatment/3926-phase-3-studies-show-simeprevir-plus-interferonribavirin-cures-most-patients-in-24-weeks | title = Phase 3 Studies Show Simeprevir plus Interferon/Ribavirin Cures Most Patients in 24 Weeks | publisher = hivandhepatitis.com | date = December 27, 2012 | deadurl = no | archiveurl = https://web.archive.org/web/20130313075333/http://www.hivandhepatitis.com/hepatitis-c/hepatitis-c-topics/hcv-treatment/3926-phase-3-studies-show-simeprevir-plus-interferonribavirin-cures-most-patients-in-24-weeks | archivedate = March 13, 2013 | df =  }}</ref> and in interferon-free regimens with other direct-acting antiviral agents including [[daclatasvir]]<ref>[http://www.medivir.se/v4/en/ir_media/pressrelease.cfm?year=2012&releaseid=659101 Medivir announces TMC435 in an expanded clinical collaboration]. Medivir. 18 April 2012.</ref> and [[sofosbuvir]].<ref>[http://www.medivir.se/v4/en/ir_media/pressrelease.cfm Results from a phase IIa study evaluating Simeprevir and Sofosbuvir in prior null responder Hepatitis C patients have been presented at CROI. 6 March 2013.] {{webarchive|url=https://web.archive.org/web/20121016051257/http://www.medivir.se/v4/en/ir_media/pressrelease.cfm |date=16 October 2012 }}</ref>
+
+Results from three phase 3 randomized, double-blind, placebo controlled clinical trials (C208, C216, and HPC3007) in people with chronic HCV GT1 were favourable and resulted in FDA supporting the approval of simeprevir for Hepatitis C genotype 1.<ref name=":0" /> Interestingly, members of the FDA commented following a presentation by Johnson & Johnson (24 October 2013) that post-marketing studies in racial and ethnic minorities, people co-infected with HIV, and other underrepresented populations is needed.
+
+==References==
+{{Reflist}}
+
+{{RNA antivirals |state=expanded}}
+
+[[Category:Cyclopropanes]]
+[[Category:Macrocycles]]
+[[Category:NS3/4A protease inhibitors]]
+[[Category:Quinolines]]
+[[Category:RTT]]
+[[Category:Sulfonamides]]
+[[Category:Thiazoles]]
+[[Category:World Health Organization essential medicines]]
+[[Category:Cyclopentanes]]

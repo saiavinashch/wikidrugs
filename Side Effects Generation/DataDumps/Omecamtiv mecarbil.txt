@@ -1,0 +1,63 @@
+{{Drugbox
+| drug_name = 
+| IUPAC_name        = Methyl 4-[(2-fluoro-3-<nowiki/>{[''N''-(6-methylpyridin-3-yl)carbamoyl]amino}phenyl)methyl]piperazine-1-carboxylate
+| image             = Omecamtiv mecarbil.svg
+| alt               = 
+| caption           =
+
+<!-- Clinical data -->
+| tradename         = 
+| Drugs.com         = 
+| MedlinePlus       = 
+| pregnancy_AU      = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US      = <!-- A / B            / C / D / X -->
+| pregnancy_category= 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status      = Investigational
+| routes_of_administration = [[Intravenous therapy|Intravenous infusion]]
+
+<!-- Pharmacokinetic data -->
+| bioavailability   = 
+| protein_bound     = 
+| metabolism        = 
+| elimination_half-life = 
+| excretion         =
+
+<!-- Identifiers -->
+| CAS_number        = 873697-71-3
+| ATCvet            = 
+| ATC_prefix        = None
+| ATC_suffix        = 
+| PubChem           = 11689883
+| ChemSpiderID      = 9864610
+| DrugBank          = 
+| synonyms          = CK-1827452
+| KEGG = D09648
+
+<!-- Chemical data -->
+| C = 20 | H = 24 | F = 1 | N = 5 | O = 3
+| molecular_weight  = 401.43 g/mol
+| smiles = O=C(Nc1ccc(nc1)C)Nc2c(F)c(ccc2)CN3CCN(C(=O)OC)CC3
+| StdInChI = 1S/C20H24FN5O3/c1-14-6-7-16(12-22-14)23-19(27)24-17-5-3-4-15(18(17)21)13-25-8-10-26(11-9-25)20(28)29-2/h3-7,12H,8-11,13H2,1-2H3,(H2,23,24,27)
+| StdInChIKey = RFUBTTPMWSKEIW-UHFFFAOYSA-N
+}}
+'''Omecamtiv mecarbil''' ([[International Nonproprietary Name|INN]]), previously referred to as '''CK-1827452''', is a cardiac-specific [[myosin]] activator.  It is being studied for a potential role in the treatment of left ventricular [[Heart failure#Systolic dysfunction|systolic heart failure]].<ref name=Teerlink2009>{{cite journal|last1=Teerlink|first1=JR|title=A novel approach to improve cardiac performance: cardiac myosin activators|journal=Heart Fail Rev|volume=14|issue=4|year=2009|pages=289–298|issn=1382-4147|doi=10.1007/s10741-009-9135-0}}</ref>
+
+Systolic heart failure involves a loss of effective [[actin]]-myosin cross bridges in the [[myocyte]]s (heart muscle cells) of the left ventricle, which leads to a decreased ability of the heart to move blood through the body.  This causes peripheral edema (blood pooling), which the [[sympathetic nervous system]] tries to correct<ref name=DykeKoelling>{{Cite book | authors = Dyke D, Koelling T | chapter = Heart failure due to left ventricular systolic dysfunction | editors = Eagle KA, Baliga RR | title = Practical Cardiology | year = 2008 | publisher = Lippincott Williams & Wilkins | location = Philadelphia | isbn = 978-0-7817-7294-5 | pages = 246–285 }}</ref> by overstimulating the cardiac myocytes, leading to left [[ventricular hypertrophy]], another characteristic of [[chronic heart failure]].
+
+Current [[inotropic drug|inotropic]] therapies work by increasing the force of cardiac contraction, such as through calcium conduction or modulating [[adrenoreceptor]]s.  But these are limited by adverse events, including [[arrhythmia]]s related to increased myocardical oxygen consumption, desensitization of [[adrenergic receptor]]s, and altering intracellular [[calcium]] levels.<ref name=Shen2010>{{Cite journal |vauthors=Shen YT, Malik FI, Zhao X, Depre C, Dhar SK, Abarzúa P, Morgans DJ, Vatner SF | title = Improvement of cardiac function by a cardiac myosin activator in conscious dogs with systolic heart failure | journal = Circ Heart Fail | volume = 3 | issue = 4 | pages = 522–7 |date=Jul 2010 | doi = 10.1161/CIRCHEARTFAILURE.109.930321 | PMID = 20498236 }}</ref>  Inotropes are also thought to be associated with worse prognosis.<ref name=Nieminen>{{Cite journal | author = Nieminen, M| title = Pharmacological options for acute heart failure syndromes: current treatments and unmet needs | journal = Eur Heart J | pages =  B20-4 |date=March 2005 | doi = 10.1093/eurheartj/sui009 }}</ref> Therefore, the novel mechanism of omecamtiv mecarbil may offer a useful new option for heart failure.
+
+==Mechanism of action==
+Cardiac myocytes contract through a cross-bridge cycle between the [[myofilament]]s, actin and myosin.  [[Chemical energy]] in the form of ATP is converted into [[mechanical energy]] which allows myosin to strongly bind to actin and produce a power stroke resulting in [[sarcomere]] shortening/contraction.<ref name=Bers2002>{{Cite journal | last1 = Bers | first1 = DM | title = Cardiac excitation-contraction coupling | journal = Nature | volume = 415 | issue = 6868 | pages = 198–205 |date=Jan 2002 | doi = 10.1038/415198a | PMID = 11805843 }}</ref> Omecamtiv mecarbil specifically targets and activates myocardial [[ATPase]] and improves energy utilization.  This enhances effective myosin cross-bridge formation and duration, while the velocity of contraction remains the same.<ref name=Malik>{{cite journal | authors=Malik F, Teerlink J, Escandon R, Clake C, Wolff A |year=2006 |title=The Selective Cardiac Myosin Activator, CK-1827452, a Calcium-Independent Inotrope, Increases Left Ventricular Systolic Function by Increasing Ejection Time Rather than the Velocity of Contraction |journal=Circulation |volume=114 |issue=18 Suppl |page=441 |url=http://circ.ahajournals.org/cgi/content/meeting_abstract/114/18_MeetingAbstracts/II_441-a}}</ref> It also increases the rate of [[phosphate]] release from myosin, thereby accelerating the rate-determining step of the cross-bridge cycle, which is the transition of the actin-myosin complex from the weakly bound to the strongly bound state.<ref name=Teerlink2009/>  The overall result of omecamtiv mecarbil is an increase in left ventricular systolic ejection time, sarcomere shortening and stroke volume, while the systolic pressure remains the same.<ref name=Malik/>  This causes a decrease in [[heart rate]] while myocardial oxygen consumption is unaffected. The increased cardiac output is independent of intracellular calcium and cAMP levels.<ref name=Shen2010/><ref name=Teerlink2009b>{{Cite journal |vauthors=Teerlink JR, Metra M, Zacà V, Sabbah HN, Cotter G, Gheorghiade M, Cas LD | title = Agents with inotropic properties for the management of acute heart failure syndromes. Traditional agents and beyond | journal = Heart Fail Rev | volume = 14 | issue = 4 | pages = 243–53 |date=Dec 2009 | doi = 10.1007/s10741-009-9153-y | PMID = 19876734 | pmc=2772951}}</ref>  Thus omecamtiv mecarbil improves systolic function by increasing the systolic ejection duration/stroke volume, without consuming more ATP energy, [[oxygen]] or altering intracellular calcium levels causing an overall improvement in cardiac efficiency.<ref name=Malik/>
+
+==Clinical trials==
+Experimental studies on rats and dogs, proved the efficacy and mechanism of action of omecamtiv mecarbil.<ref name=Shen2010/>  Current clinical studies on humans have shown there is a direct linear relationship between dose and systolic ejection time.<ref name=Teerlink2009/><ref name=Teerlink2011>{{Cite journal  |vauthors=Teerlink JR, Clarke CP, Saikali KG, Lee JH, Chen MM, Escandon RD, Elliott L, Bee R, Habibzadeh MR, Goldman JH, Schiller NB, Malik FI, Wolff AA | title = Dose-dependent augmentation of cardiac systolic function with the selective cardiac myosin activator, omecamtiv mecarbil: a first-in-man study. | journal = Lancet | volume = 378 | issue = 9792 | pages = 667–75 |date=Aug 2011 | doi = 10.1016/S0140-6736(11)61219-1 | PMID = 21856480 }}</ref><ref name=Cleland>{{Cite journal |vauthors=Cleland JG, Teerlink JR, Senior R, Nifontov EM, Mc Murray JJ, Lang CC, Tsyrlin VA, Greenberg BH, Mayet J, Francis DP, Shaburishvili T, Monaghan M, Saltzberg M, Neyses L, Wasserman SM, Lee JH, Saikali KG, Clarke CP, Goldman JH, Wolff AA, Malik FI | title = The effects of the cardiac myosin activator, omecamtiv mecarbil, on cardiac function in systolic heart failure: a double-blind, placebo-controlled, crossover, dose-ranging phase 2 trial | journal = Lancet | volume = 378 | issue = 9792 | pages = 676–83 |date=Aug 2011 | doi = 10.1016/S0140-6736(11)61126-4 | PMID = 21856481 }}</ref>  The dose-dependent effects persisted throughout the entire trial, suggesting that [[desensitization (medicine)|desensitization]] does not occur.  The maximum tolerated dose was observed to be an infusion of 0.5&nbsp;mg/kg/h.  Adverse effects, such as ischemia, were only seen at doses beyond this level, due to extreme lengthening of systolic ejection time.<ref name=Teerlink2009/>  Thus due to the unique cardiac myosin activation mechanism, omecamtiv mecarbil could safely improve cardiac function within tolerated doses. Omecamtiv mecarbil effectively relieves symptoms and enhances the quality of life of systolic heart failure patients. It drastically improves cardiac performance in the short term; however, the hopeful long-term effects of reduced [[mortality rate|mortality]] have yet to be studied.<ref name=Teerlink2009/><ref name=DykeKoelling/>
+
+== References ==
+<!--- See [[Wikipedia:Footnotes]] on how to create references using <ref></ref> tags which will then appear here automatically -->
+{{Reflist}}
+
+[[Category:Drugs acting on the cardiovascular system]]

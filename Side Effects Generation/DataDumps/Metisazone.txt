@@ -1,0 +1,72 @@
+{{chembox
+| Verifiedfields = changed
+| verifiedrevid = 384087307
+| ImageFile = Methisazone.png
+| ImageSize = 180
+| ImageAlt = Skeletal formula of methisazone
+| ImageFile1 = Methisazone-3D-spacefill.png
+| ImageSize1 = 170
+| ImageAlt1 = Space-filling model of the methisazone molecule
+| IUPACName=[(1-Methyl-2-oxoindol-3-ylidene)amino]thiourea
+| OtherNames=Metisazone
+|Section1={{Chembox Identifiers
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo=1910-68-5
+| PubChem=6861563
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1512080
+| EINECS = 217-616-2
+| MeSHName = D008720
+| ChEBI = 
+| KEGG = D02496
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = K3QML4J07E
+| SMILES=CN1C2=CC=CC=C2C(=NNC(=S)N)C1=O
+| InChI = 1/C10H10N4OS/c1-14-7-5-3-2-4-6(7)8(9(14)15)12-13-10(11)16/h2-5H,1H3,(H3,11,13,16)/b12-8-
+| InChIKey = DLGSOJOOYHWROO-WQLSENKSBL
+| StdInChI = 1S/C10H10N4OS/c1-14-7-5-3-2-4-6(7)8(9(14)15)12-13-10(11)16/h2-5H,1H3,(H3,11,13,16)/b12-8-
+| StdInChIKey = DLGSOJOOYHWROO-WQLSENKSSA-N
+| ChemSpiderID = 5259074
+  }}
+|Section2={{Chembox Properties
+| Formula=C<sub>10</sub>H<sub>10</sub>N<sub>4</sub>OS
+| MolarMass=234.28 g/mol
+| Appearance=
+| Density=
+| MeltingPt=
+| BoilingPt=
+| Solubility=
+  }}
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = J05
+| ATCCode_suffix = AA01
+}}
+|Section7={{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| AutoignitionPt =
+  }}
+}}
+
+'''Methisazone''' ([[United States Adopted Name|USAN]]) or '''metisazone''' ([[International Nonproprietary Name|INN]]) is an [[antiviral drug]] that works by inhibiting [[mRNA]] and [[protein synthesis]], especially in pox viruses. It has been used in the past to treat [[smallpox]].<ref>[http://medical.merriam-webster.com/medical/methisazone Methisazone], Merriam-Webster's Medical Dictionary</ref>
+
+Methisazone has been described as being used in prophylaxis since at least 1965.<ref name="pmid4159212 ">{{Cite journal|pmid=4159212|journal=Lancet|date=13 Nov 1965|volume=2|issue=7420|pages=976–8|title=Methisazone in prevention of variola minor among contacts|last=do Valle|first=LA|last2=de Melo|first2=PR|last3=de Gomes|first3=LF|last4=Proença|first4=LM|doi=10.1016/s0140-6736(65)92840-0}}</ref><ref name="pmid15578369">{{Cite journal |vauthors=Weiss MM, Weiss PD, Mathisen G, Guze P |title=Rethinking smallpox |journal=Clin. Infect. Dis. |volume=39 |issue=11 |pages=1668–73 |date=December 2004|pmid=15578369 |doi=10.1086/425745 |url=http://www.journals.uchicago.edu/cgi-bin/resolve?CID34015}}</ref>
+
+==Synthesis==
+[[File:Methisazone synthesis.svg|thumb|left|700px|Methisazone synthesis: Bauer, Sadler, [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1481969/ Br. J. Pharmacol. 15, 101 (1960)]; {{Cite patent|GB|975357}} (1964 to [[Wellcome Foundation]]).]]
+
+When [[isatin]] is treated with NaH and MeI, the acidic hydrogen is alkylated to product '''2'''. Then, reaction of the ketone carbonyl with [[thiosemicarbazine]] ('''3''') leads to methisazone ('''4''').
+
+==References==
+{{Reflist}}
+
+{{DNA antivirals}}
+
+[[Category:Antivirals]]
+[[Category:Thioureas]]
+[[Category:Indolines]]
+[[Category:Lactams]]
+[[Category:Thiosemicarbazone]]
+
+
+{{antiinfective-drug-stub}}

@@ -1,0 +1,67 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 406008902
+| IUPAC_name = ''N''-ethyl-''N'',''N''-dimethyl-4,4-diphenylbutan-2-aminium
+| image = Emepronium.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 3614-30-0
+| ATC_prefix = G04
+| ATC_suffix = BD01
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = WZM699L2TL
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07224
+|  PubChem = 71820
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 64844
+
+
+
+<!--Chemical data-->
+| C=20 | H=28 | N=1 | Br=1
+| molecular_weight = 362.347 g/mol
+|  smiles = CC[N+](C)(C)C(C)CC(c1ccccc1)c2ccccc2.[Br-]
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C20H28N.BrH/c1-5-21(3,4)17(2)16-20(18-12-8-6-9-13-18)19-14-10-7-11-15-19;/h6-15,17,20H,5,16H2,1-4H3;1H/q+1;/p-1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = UVKFSMBPRQBNCH-UHFFFAOYSA-M
+}}
+
+'''Emepronium''' (as '''emepronium bromide''') is an [[anticholinergic]] drug used in [[urology]] as an [[antispasmodic]].
+It can cause ulceration of esophagus, so it should be taken in orthostatic position with sufficient amounts of liquids.<ref>{{cite journal|pmid=3431840|year=1987|last1=Puhakka|first1=HJ|title=Esophageal ulceration due to oral medications|volume=49|issue=6|pages=321–6|journal=ORL; journal for oto-rhino-laryngology and its related specialties}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Urologicals}}
+{{Muscarinic acetylcholine receptor modulators}}
+
+[[Category:Muscarinic antagonists]]
+[[Category:Quaternary ammonium compounds]]
+
+
+{{genito-urinary-drug-stub}}

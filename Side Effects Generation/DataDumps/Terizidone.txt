@@ -1,0 +1,66 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470602455
+| IUPAC_name = 4,4'-<nowiki/>{1,4-Phenylenebis[(''E'')methylylidene<br />(''E'')azanylylidene]}bis(1,2-oxazolidin-3-one)
+| image = Terizidone.svg
+| width = 275
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|terizidone}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  C
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 25683-71-0
+| ATC_prefix = J04
+| ATC_suffix = AK03
+| PubChem = 65720
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 59144
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 1199LEX5N8
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07247
+
+<!--Chemical data-->
+| C=14 | H=14 | N=4 | O=4 
+| molecular_weight = 302.286 g/mol
+| smiles = O=C3NOCC3/N=C/c2ccc(/C=N/C1C(=O)NOC1)cc2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C14H14N4O4/c19-13-11(7-21-17-13)15-5-9-1-2-10(4-3-9)6-16-12-8-22-18-14(12)20/h1-6,11-12H,7-8H2,(H,17,19)(H,18,20)/b15-5+,16-6+
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ODKYYBOHSVLGNU-IAGONARPSA-N
+| synonyms = <small>4-[({4-[''N''-(3-oxo-1,2-oxazolidin-4-yl)carboximidoyl]phenyl}methylidene)amino]-1,2-oxazolidin-3-one</small>
+}}
+
+'''Terizidone''' is a drug used in the treatment of [[tuberculosis]].<ref>{{cite journal | pmid = 1922892 | volume=82 | issue=7-8 | title=[Tolerability to terizidone (TZ) in the treatment of pulmonary tuberculosis in dialyzed patients] | year=1991 | journal=Minerva Med. | pages=477–81}}</ref> Terizidone is used mainly used in [[multi-drug-resistant tuberculosis]] (MDR-TB) in conjunction with other second-line drugs. It is a derivate of [[cycloserine]] and it is bacteriostatic.<ref>{{Cite book|title = South African Medicines Formulary|last = Rossiter|first = Dawn|publisher = Health and Medical Publishing Group of the South African Medical Association|year = 2012|isbn = 978-1-875098-28-6|location = Cape Town, South Africa|pages = 323-325}}</ref>
+
+==References==
+{{reflist}}
+
+{{Antimycobacterials}}
+
+[[Category:Imines]]
+[[Category:Isoxazolidinones]]
+[[Category:Anti-tuberculosis drugs]]
+
+{{antiinfective-drug-stub}}

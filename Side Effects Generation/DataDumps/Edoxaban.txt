@@ -1,0 +1,113 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 415900881
+| IUPAC_name = ''N'''-(5-chloropyridin-2-yl)-''N''-[(1''S'',2''R'',4''S'')-4-(dimethylcarbamoyl)-2-[(5-methyl-6,7-dihydro-4''H''-[1,3]thiazolo[5,4-c]pyridine-2-carbonyl)amino]cyclohexyl]oxamide
+| image = Edoxaban.svg
+| width = 275
+
+<!--Clinical data-->
+| tradename = Savaysa,  Lixiana
+| Drugs.com = [http://www.drugs.com/cdi/edoxaban.html Monograph]
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = C
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = Rx-only
+| legal_status = 
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 62%; T<sub>max</sub> 1–2 hours
+| protein_bound = 55%
+| metabolism =  Minimal [[hepatic]]
+| elimination_half-life = 10–14 hours
+| excretion =  50% [[renal]]; <50% [[bile]]
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7575
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 480449-70-5
+| ATC_prefix = B01
+| ATC_suffix = AF03
+| PubChem = 10280735
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB09075
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = NDU3J18APO
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D09710
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 85973
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 8456212
+
+<!--Chemical data-->
+| C=24 | H=30 | Cl=1 | N=7 | O=4 | S=1 
+| molecular_weight = 548.056 g/mol
+| smiles = CN1CCC2=C(C1)SC(=N2)C(=O)N[C@@H]3C[C@H](CC[C@@H]3NC(=O)C(=O)NC4=NC=C(C=C4)Cl)C(=O)N(C)C
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C24H30ClN7O4S/c1-31(2)24(36)13-4-6-15(27-20(33)21(34)30-19-7-5-14(25)11-26-19)17(10-13)28-22(35)23-29-16-8-9-32(3)12-18(16)37-23/h5,7,11,13,15,17H,4,6,8-10,12H2,1-3H3,(H,27,33)(H,28,35)(H,26,30,34)/t13-,15-,17+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = HGVDHZBSSITLCT-JLJPHGGASA-N
+}}
+'''Edoxaban''' ('''DU-176b''', trade names '''Savaysa''', '''Lixiana''') is an oral [[anticoagulant]] drug which acts as a [[direct factor Xa inhibitor]]. It was developed by [[Daiichi Sankyo]] and approved in July 2011 in Japan for prevention of venous thromboembolisms (VTE) following lower-limb orthopedic surgery.<ref name="url_Daiichi_Sankyo_Europe_GmbH">{{cite web|url=http://www.daiichi-sankyo.eu/media/press-news-in-english/news-detail/article/first-market-approval-in-japan-for-lixianaR-edoxaban.html |title=First market approval in Japan for LIXIANA (Edoxaban) |date=2011-04-22 |work=Press Release |publisher=Daiichi Sankyo Europe GmbH |deadurl=yes |archiveurl=https://web.archive.org/web/20131106002948/http://www.daiichi-sankyo.eu/media/press-news-in-english/news-detail/article/first-market-approval-in-japan-for-lixianaR-edoxaban.html |archivedate=2013-11-06 |df= }}</ref> It was also approved by the [[FDA]] in January 2015 for the prevention of stroke and non–central-nervous-system systemic [[embolism]].<ref>{{cite web | url=http://www.medscape.com/viewarticle/837837 | title=FDA Approves Edoxaban for Stroke Prevention in AF and DVT/PE Prevention | work=Medscape | date=9 January 2015 | accessdate=10 January 2015 | author=O'Riordan, Michael}}</ref>
+
+== Medical uses ==
+US [[FDA]]-labeled [[Indication (medicine)|indications]]:
+:Treatment of [[deep vein thrombosis]] (DVT) and [[pulmonary embolism]] (PE) following 5 to 10 days of initial therapy with a parenteral anticoagulant.
+:To reduce the risk of [[stroke]] and systemic [[embolism]] (SE) in patients with nonvalvular [[atrial fibrillation]] (NVAF)
+
+== Contraindications ==
+Edoxaban is contraindicated in nonvalvular atrial fibrillation (NVAF) patients with a [[creatinine clearance]] (CrCl) greater<!--sic--> than 95 mL/minute because of an increased risk of [[ischemic stroke]] compared to [[warfarin]].<ref>http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/206316lbl.pdf</ref>
+
+It is also contraindicated in patients with active pathological bleeding.<ref name=PI />
+
+== Warnings ==
+
+Spinal or epidural [[hematomas]] resulting in long-term or permanent [[paralysis]] may occur with neuraxial [[anesthesia]] (epidural or spinal anesthesia) or spinal/epidural puncture; the risk is increased by the use of indwelling [[epidural]] [[catheters]], concomitant administration of other drugs that affect [[hemostasis]] (e.g., NSAIDs, platelet inhibitors, other anticoagulants), in patients with a history of traumatic or repeated epidural or spinal punctures, a history of spinal deformity or surgery, or if optimal timing between the administration of edoxaban and neuraxial procedures is not known.<ref name=lexicomp />
+
+== Adverse effects ==
+
+''More common''
+*bloody nose
+*heavy non-menstrual vaginal bleeding
+*pale skin
+*troubled breathing with exertion
+*unusual bleeding or bruising
+*unusual tiredness or weakness
+''Less common''
+*bloody or black, tarry stools
+*vomiting of blood or material that looks like coffee grounds
+*rash
+''Rare''
+*confusion
+*cough
+*difficulty with speaking
+*double vision
+*fever
+*headache, sudden, severe
+*inability to move the arms, legs, or facial muscles
+*inability to speak
+*nausea and vomiting
+*slow speech<ref>http://www.drugs.com/cons/edoxaban.html</ref>
+
+== Mechanism of action ==
+Edoxaban inhibits free [[factor Xa]] and [[prothrombinase]] activity and inhibits thrombin-induced platelet aggregation. Inhibition of factor Xa in the [[coagulation cascade]] reduces thrombin generation and thrombus formation.<ref name="lexicomp">lexicomp.com</ref><ref name="PI">Savaysa (edoxaban) [prescribing information]. Parsippany, NJ: Daiichi Sankyo; January 2015.</ref>
+
+=== Factor Xa ===
+
+Factor Xa (FXa) is an essential blood coagulation factor<ref>Yoshiyuki, I., et al. "Biochemical and pharmalogical profile of darexaban, an oral direct Xa inhibitor." European Journal of Pharmacology (2011): 49-55</ref> that is responsible for the initiation of the coagulation cascade. FXa cleaves [[prothrombin]] to its active form [[thrombin]], which then acts to convert soluble [[fibrinogen]] to insoluble [[fibrin]] and to activate [[platelet]]s. Stabilization of the platelet aggregation by fibrin mesh ultimately leads to clot formation.<ref name=Katsung>Katsung, B., S. Masters and A. Trevor. Basic and Clinical Pharmacology 11th Edition. United States of America: McGraw-Hill, 2009</ref>
+
+== Related medications ==
+A number of [[anticoagulants]] inhibit the activity of Factor Xa. Unfractionated [[heparin]] (UFH), [[low molecular weight heparin]] (LMWH), and [[fondaparinux]] inhibit the activity of factor Xa indirectly by binding to circulating [[antithrombin]] (AT III). These agents must be injected. [[Warfarin]], [[phenprocoumon]], and [[acenocoumarol]] are orally active [[vitamin K antagonist]]s (VKA) which decrease [[hepatic]] synthesis of a number of coagulation factors, including Factor X. In recent years, a new series of oral, direct acting inhibitors of Factor Xa have entered clinical development. These include [[rivaroxaban]], [[apixaban]], [[betrixaban]], LY517717, [[darexaban]] (YM150), and edoxaban (DU-176b).<ref>{{cite journal |author=Turpie AG |title=New oral anticoagulants in atrial fibrillation |journal=European Heart Journal |volume=29 |issue=2 |pages=155–65 | date=January  2008 |pmid=18096568 |doi=10.1093/eurheartj/ehm575}}</ref>
+
+==References==
+{{reflist}}
+
+{{Antithrombotics}}
+
+[[Category:Anticoagulants]]
+[[Category:Chloroarenes]]

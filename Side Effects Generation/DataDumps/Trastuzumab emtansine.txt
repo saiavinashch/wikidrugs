@@ -1,0 +1,101 @@
+{{distinguish|Trastuzumab}}
+
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 470612501
+| IUPAC_name =  
+| image = Trastuzumab emtansine.svg
+| width = 300
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = zu/o
+<!-- Clinical data -->
+| tradename = Kadcyla, Kadccyla
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = D
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled -->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Rx-only
+| routes_of_administration = [[Intravenous infusion]]
+<!-- Pharmacokinetic data -->
+| bioavailability = N/A
+| protein_bound = 93% (in vitro)
+| metabolism = Hepatic ([[CYP3A4]]/[[CYP3A5|3A5]]-mediated)
+| elimination_half-life = 4 days
+| excretion =
+<!-- Identifiers -->
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 1018448-65-1
+| ATC_prefix = L01
+| ATC_suffix = XC14
+| ATC_supplemental =  
+| PubChem =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = SE2KH7T06F
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D09980
+| synonyms =
+<!-- Chemical data -->
+| chemical_formula = C<sub>6448</sub>H<sub>9948</sub>N<sub>1720</sub>O<sub>2012</sub>S<sub>44</sub>·(C<sub>47</sub>H<sub>62</sub>ClN<sub>4</sub>O<sub>13</sub>S)<sub>n</sub>
+| molecular_weight = 148.5 kg/mol
+| smiles =  
+}}
+'''Trastuzumab emtansine'''<ref>{{cite journal |pmid=20521224 |title=Trastuzumab emtansine, an antibody-drug conjugate for the treatment of HER2+ metastatic breast cancer | volume=12 | issue=3 |date=June 2010 |journal=Curr. Opin. Mol. Ther. |pages=350–60 |author=Niculescu-Duvaz I}}</ref><ref>{{cite web|url=http://www.ama-assn.org/resources/doc/usan/trastuzumab-emtansine.pdf |title=Statement On A Nonproprietary Name Adopted By The Usan Council: Trastuzumab Emtansine |author=USAN Council |year=2009|publisher=[[American Medical Association]] |accessdate=2013-02-22}}</ref> also known as '''ado-trastuzumab emtansine''' and sold under the trade name '''Kadcyla''', is an [[antibody-drug conjugate]] consisting of the [[monoclonal antibody]] [[trastuzumab]] (Herceptin) linked to the [[cytotoxicity|cytotoxic]] agent [[mertansine|emtansine (DM1)]].<ref name=LoRusso2011>{{cite journal |vauthors=LoRusso PM, Weiss D, Guardino E, Girish S, Sliwkowski MX |title=Trastuzumab emtansine: a unique antibody-drug conjugate in development for human epidermal growth factor receptor 2-positive cancer |journal=Clin. Cancer Res. |volume=17 |issue=20 |pages=6437–47 |date=October 2011 |pmid=22003071 |doi=10.1158/1078-0432.CCR-11-0762}}</ref><ref name=Poon2010>{{cite conference |url=http://www.toxicology.org/isot/rc/NorCal/docs/2010Spring/2010_6SafetyAntibodyDrugConjugates.pdf|title=Safety Assessment of Antibody Drug Conjugates |last=Poon |first=Kirsten Achilles |date=2010-05-06 |conference=''Drug Development: From Small Molecules to Biologics''. NorCal Society of Toxicology 2010 Spring Meeting |accessdate=2013-02-23}}</ref><ref name="NCI">{{cite web |url=http://www.cancer.gov/drugdictionary/?CdrID=564399 |title=Trastuzumab emtansine |publisher=NCI Drug Dictionary |accessdate=2013-02-23}}</ref><ref>{{cite press release|url=http://www.news-medical.net/news/20100827/FDA-denies-accelerated-approval-of-Genentechs-trastuzumab-DM1-%28T-DM1%29-BLA-for-metastatic-breast-cancer.aspx |title=FDA denies accelerated approval of Genentech's trastuzumab-DM1 (T-DM1) BLA for metastatic breast cancer |date=2010-08-27  |publisher=Genentech |accessdate=2013-02-23}}</ref> Trastuzumab alone stops growth of cancer cells by binding to the [[HER2/neu]] receptor, whereas DM1 enters cells and destroys them by binding to [[tubulin]].<ref name="NEJM-Teicher">{{cite journal |vauthors=Teicher BA, Doroshow JH |title=The promise of antibody-drug conjugates |journal=N. Engl. J. Med. |volume=367 |issue=19 |pages=1847–8 |date=November 2012 |pmid=23134386 |doi=10.1056/NEJMe1211736}}</ref> Trastuzumab binding to Her2 prevents homodimerization or heterodimerization (Her2/Her3) of the receptor, ultimately inhibiting the activation of MAPK and PI3K/Akt cellular signalling pathways. Because the monoclonal antibody targets HER2, and HER2 is only over-expressed in cancer cells, the conjugate delivers the toxin specifically to tumor cells.<ref name="NEJM-Verma"/> The conjugate is abbreviated '''T-DM1'''.
+
+In the EMILIA clinical trial of women with advanced [[HER2 positive]] [[breast cancer]] who were already resistant to trastuzumab alone, it improved median [[overall survival]] by 5.8 months (30.9 months vs. 25.1 months) compared to the combination of [[lapatinib]] and [[capecitabine]].<ref name="NEJM-Verma"/> Based on that trial, the U.S. [[Food and Drug Administration]] (FDA) approved marketing on February 22, 2013.<ref>{{cite press release|url=http://www.roche.com/med-cor-2012-08-27 | title=New data from Phase III EMILIA study showed Roche's trastuzumab emtansine (T-DM1) significantly improved survival of people with HER2-positive metastatic breast cancer |publisher=[[Hoffmann-La Roche]] |date=2012-08-27 |accessdate=2013-02-23}}</ref><ref name="NYT">{{cite news |url=https://www.nytimes.com/2013/02/23/business/fda-approves-breast-cancer-drug.html|title=F.D.A. Approves a New Drug for Advanced Breast Cancer |author=Pollack A |date=2013-02-22 |accessdate=2013-02-22 |work=[[The New York Times]]}}</ref><ref>{{cite press release|url=http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm340704.htm |title=FDA approves new treatment for late stage breast cancer |publisher=U.S. [[Food and Drug Administration]] |date=2013-02-22|accessdate=2013-02-22}}</ref>
+
+Trastuzumab emtansine was developed by [[Genentech]], a subsidiary group of [[Hoffmann-La Roche|Roche]], and is manufactured by [[Lonza Group|Lonza]].<ref>{{cite news |last=Franklin|first=Joshua|date=24 Jul 2014|title=Lonza profit boosted by drug production outsourcing|url=https://www.reuters.com/article/2014/07/24/lonza-group-results-idUSL6N0PZ11U20140724|newspaper=[[Reuters]]|accessdate=28 Jul 2014}}</ref> The planned cost is expected to be $9,800 a month, or $94,000 for a typical course of treatment.<ref name="NYT"/>
+
+==Medical use==
+In the United States, ado-trastuzumab emtansine was approved specifically for treatment of HER2-positive [[metastatic breast cancer]] (mBC) in patients who have been treated previously with trastuzumab and a [[taxane]] ([[paclitaxel]] or [[docetaxel]]), and who have already been treated for mBC or developed tumor [[wikt:recurrence|recurrence]] within six months of [[adjuvant therapy]].<ref name="PI">{{cite web|url= http://www.gene.com/download/pdf/kadcyla_prescribing.pdf |publisher= Genentech| |title=Full Prescribing Information for Kadcyla| access-date= 2012-02-23}}</ref>
+
+Approval was based on the EMILIA study, a phase III [[clinical trial]] that compared trastuzumab emtansine versus [[capecitabine]] (Xeloda) plus [[lapatinib]] (Tykerb) in 991 people with unresectable, locally advanced or metastatic HER2-positive breast cancer who had previously been treated with trastuzumab and taxane [[chemotherapy]]. This trial showed improved [[progression-free survival]] in patients treated with trastuzumab emtansine (median 9.6 vs. 6.4 months), along with improved [[overall survival]] (median 30.9 vs. 25.1 months) and safety.<ref name="NEJM-Verma">{{cite journal  |last1= Verma |first1= S| last2= Miles| first2= D| last3= Gianni |first3= L| collaboration= &nbsp;|title= Trastuzumab emtansine for HER2-positive advanced breast cancer |journal=N. Engl. J. Med. |volume=367|issue=19 |pages=1783–91 |date=November 2012 |pmid=23020162 |doi= 10.1056/NEJMoa1209124 |pmc=5125250}}</ref>
+
+===Clinical trials===
+
+Since 2013 there have been some more clinical trials:
+
+* First line treatment for metastatic breast cancer: the MARIANNE study<ref>{{ClinicalTrialsGov|NCT01120184|A Study of Trastuzumab Emtansine (T-DM1) Plus Pertuzumab/Pertuzumab Placebo Versus Trastuzumab (Herceptin) Plus a Taxane in Patients With Metastatic Breast Cancer (MARIANNE)}}. Retrieved 2013-02-23.</ref> compares taxane ([[docetaxel]] or [[paclitaxel]]) plus trastuzumab vs T-DM1 vs T-DM1 plus [[pertuzumab]] as first-line treatment for people with HER2 positive unresectable locally advanced or metastatic breast cancer; On December 19, 2014, Roche reported the results of the MARIANNE study. Neither Kadcyla-containing treatment significantly improved progression-free survival compared to Herceptin and chemotherapy.<ref>{{citation |url=http://www.roche.com/med-cor-2014-12-19-e.pdf |title=Roche provides update on Phase III MARIANNE study in people with previously untreated advanced HER2-positive breast cancer |year=2014 |accessdate=2015-01-16}}</ref>
+*a phase III trial for HER2+ [[gastric cancer]] compares T-DM1 to physician's choice of taxane (docetaxel or paclitaxel).<ref>{{ClinicalTrialsGov|NCT01641939|A Study of Trastuzumab Emtansine Versus Taxane in Patients With Advanced Gastric Cancer}}. Retrieved 2013-02-23.</ref>  On October 22, 2015, Roche and co-developer [[ImmunoGen]] disclosed that Kadcyla had failed to meets its primary endpoint in the Phase II/III GATSBY trial investigating the second line treatment of [[HER2]]-positive advanced gastric cancer.<ref>{{cite web| url= http://www.genengnews.com/gen-news-highlights/roche-s-kadcyla-fails-phase-ii-iii-trial-for-gastric-cancer/81251888/| title= Roche's Kadcyla Fails Phase II/III Trial for Gastric Cancer| date=  October 22, 2015| work= Genetic Engineering & Biotechnology News| access-date= May 26, 2017}}</ref>
+*the TH3RESA study is comparing T-DM1 vs treatment of physician's choice for people with HER2 positive metastatic breast cancer previously treated with trastuzumab and lapatinib.<ref>{{ClinicalTrialsGov|NCT01419197|A Study of Trastuzumab Emtansine in Comparison With Treatment of Physician's Choice in Patients With HER2-Positive Breast Cancer Who Have Received at Least Two Prior Regimens of HER2-Directed Therapy (TH3RESA)}}. Retrieved 2013-02-23.</ref> Interim results for TH3RESA suggest a doubling of [[progression-free survival]] from 3 months to 6 months.<ref name=TIR2013>[http://www.medscape.com/viewarticle/812119_2 TDM-1 Heavy Hitter in Heavily Treated Breast Cancer. Oct 2013]</ref>
+
+==Adverse effects==
+During clinical trials, the most common [[adverse effect]]s of trastuzumab emtansine were fatigue, nausea, musculoskeletal pain, [[thrombocytopenia]] (low [[platelet]] counts), headache, [[elevated transaminases|increased liver enzyme levels]], and constipation.<ref name="PI"/>
+
+Severe adverse events identified during the EMILIA trial included [[hepatotoxicity]] (liver damage), including rare cases of [[liver failure]], [[hepatic encephalopathy]], and [[nodular regenerative hyperplasia]]; heart damage (dysfunction of the [[left ventricle]]); [[interstitial lung disease]], including [[acute interstitial pneumonitis]]; thrombocytopenia; and [[peripheral neuropathy]].<ref name="PI"/> Overall, trastuzumab emtansine was better tolerated than the control treatment, a combination of [[lapatinib]] (Tykerb) and [[capecitabine]] (Xeloda), with 43% of patients in the trastuzumab emtansine group experiencing severe toxic effects, versus 59% of those who received lapatinib/capecitabine; furthermore, fewer patients had to stop treatment due to adverse effects than with lapatinib or capecitabine.<ref name="PI"/> [[Anemia]], low platelet counts, and peripheral neuropathy were more common among patients who received trastuzumab emtansine, whereas heart damage and gastrointestinal effects, such as vomiting, diarrhea, and [[stomatitis]], were more common with lapatinib/capecitabine.<ref name="PI"/>
+
+In the United States, Kadcyla carries [[black box warning]]s for liver toxicity, heart damage (reduction in left ventricular [[ejection fraction]]), and [[developmental toxicity|fetal harm]] if given to pregnant women.<ref name="PI"/>
+
+==UK pricing issues==
+In the UK, Kadcyla was not recommended for use by the [[National Health Service]] by advisory body [[NICE]], reportedly because an acceptable pricing agreement could not be reached with [[Hoffmann-La Roche|Roche]].<ref>{{cite web|last1=Triggle|first1=Nick|title=NHS says no to new breast cancer drug Kadcyla|url=http://www.bbc.co.uk/news/health-28688311|publisher=BBC Health News|date=8 August 2014|accessdate=2014-08-08}}</ref> Originally it cost £5,900 a month.<ref name=Gn2015>[https://www.theguardian.com/society/2015/nov/04/breast-cancer-drug-kadcyla-to-remain-on-nhs-after-manufacturer-lowers-price Breast cancer drug Kadcyla to remain on NHS after manufacturer lowers price. Nov 2015]</ref> and NICE estimated it cost £166,000 per [[QALY]]<ref name=N-8-2014>[https://www.nice.org.uk/news/article/pressure-grows-on-roche-to-lower-breast-cancer-drug-price Pressure grows on Roche to lower breast cancer drug price. Aug 2014]</ref> (well over the usual maximum). It has been funded by the English NHS [[Cancer Drugs Fund]] but in January 2015 it was proposed to remove it from the approved list.<ref>{{cite news|title=David Cameron’s flagship Cancer Drugs Fund ‘is a waste of NHS cash’|url=https://www.theguardian.com/politics/2015/jan/10/cancer-drugs-fund-waste-of-nhs-cash-david-cameron|accessdate=11 January 2015|publisher=Guardian|date=10 January 2015}}</ref> After a secret discount was agreed by Roche the Cancer Drugs Fund will continue to fund it.<ref name=Gn2015/>
+
+In June 2017 the NHS Confederation and NHS Chief Executive Simon Stevens announced that the NHS would be offering Kadcyla to a limited number of women after striking a deal with Roche on the price. <ref>{{Cite news|url=https://nursingnotes.co.uk/nhs-u-turn-sees-breast-cancer-drug-kadcyla-approved-for-use/|title=NHS U-turn sees breast cancer drug Kadcyla approved for use|date=2017-06-16|work=NursingNotes|access-date=2017-06-16|language=en-GB}}</ref>
+
+==Nomenclature==
+In the United States, Kadcyla was approved with the generic name "ado-trastuzumab emtansine", rather than the original [[United States Adopted Name]] (USAN) issued in 2009, "trastuzumab emtansine". The "ado-" prefix was added at the request of the FDA to help prevent [[medication error|dispensing errors]].<ref>{{cite techreport |url=http://www.accessdata.fda.gov/drugsatfda_docs/nda/2013/125427Orig1s000Sumr.pdf |title=Summary Review for Regulatory Action |vauthors=Kim TE, Pazdur R |publisher=U.S. Food and Drug Administration |page=8 |year=2013 |accessdate=2013-02-22}}</ref> During [[preclinical development]] and clinical trials, the drug was also known as trastuzumab-DM1 or trastuzumab-MCC-DM1 (after the codename for [[emtansine]]), both abbreviated T-DM1, and by the codename PRO132365.<ref name="NCI"/>
+
+==Chemical properties==
+[[File:Emtansine mab structure coloured.svg|thumb|400px|Schematic representation of trastuzumab emtansine. The [[maytansine]] skeleton is shown in black at left. The [[thioether]] group that makes [[mertansine]] is shown in red. The linker group that makes [[emtansine]] is shown in blue at right, bound to the [[amino]] group (HN–) of a [[lysine]] residue in the trastuzumab molecule (–mab).]]
+
+Trastuzumab emtansine is an [[antibody-drug conjugate]] (ADC), a combination between a [[monoclonal antibody]] and a [[small molecule|small-molecule drug]]. Each molecule of trastuzumab emtansine consists of a single trastuzumab molecule with several molecules of DM1, a [[cytotoxic]] [[maytansinoid]], attached.<ref name="Girish">{{cite journal  |vauthors=Girish S, Gupta M, Wang B, etal |title=Clinical pharmacology of trastuzumab emtansine (T-DM1): an antibody-drug conjugate in development for the treatment of HER2-positive cancer |journal=Cancer Chemother. Pharmacol. |volume=69 |issue=5 |pages=1229–40 |date=May 2012 |pmid=22271209 |pmc=3337408 |doi=10.1007/s00280-011-1817-3}}</ref> SMCC, or succinimidyl ''trans''-4-(maleimidylmethyl)cyclohexane-1-carboxylate, is a ''heterobifunctional crosslinker'', a type of [[chemical reagent]] that contains two reactive [[functional group]]s, a [[succinimide]] [[ester]] and a [[maleimide]]. The succinimide group of SMCC reacts with the free [[amino]] group of a [[lysine]] residue in the trastuzumab molecule{{Failed verification|date=September 2015|Per WHO (see image source), there is no (additional) succinimide in the linker.}} and the maleimide moiety of SMCC links to the free sulfhydryl group of DM1, forming a [[covalent bond]] between the antibody and the DM1. Each trastuzumab molecule may be linked to zero to eight DM1 molecules (3.5 on average).<ref name="Girish"/><ref name="LewisPhillips">{{cite journal  |vauthors=Lewis Phillips GD, Li G, Dugger DL, etal |title=Targeting HER2-positive breast cancer with trastuzumab-DM1, an antibody-cytotoxic drug conjugate |journal=Cancer Res. |volume=68 |issue=22 |pages=9280–90 |date=November 2008 |pmid=19010901 |doi=10.1158/0008-5472.CAN-08-1776}}</ref> DM1 binds at plus ends of cellular [[microtubules]] and thereby inhibits [[cell division]] in the target tumor cells.<ref>{{cite journal|last1=Lopus|first1=Manu|title=Antibody-DM1 conjugates as cancer therapeutics|journal=Cancer Letters|date=2011|volume=307|pages=113–118|doi=10.1016/j.canlet.2011.03.017|pmid=21481526|pmc=3105156}}</ref>
+
+==References==
+{{reflist|30em}}
+
+==External links==
+* [http://www.kadcyla.com/ Official U.S. website for Kadcycla]
+
+{{Extracellular chemotherapeutic agents}}
+{{Growth factor receptor modulators}}
+
+{{DEFAULTSORT:Trastuzumab Emtansine}}
+[[Category:Antibody-drug conjugates]]
+[[Category:Monoclonal antibodies for tumors]]

@@ -1,0 +1,58 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 477317415
+| IUPAC_name = ''N''-(2,6-dichlorophenyl)-''N''-(prop-2-en-1-yl)-4,5-dihydro-1''H''-imidazol-2-amine
+| image = Alinidine.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_category =  
+| legal_status = Uncontrolled
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 33178-86-8
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 36354
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 33429
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = E7IDJ8DS1D
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 278581
+
+<!--Chemical data-->
+| C=12 | H=13 | Cl=2 | N=3 
+| molecular_weight = 270.16 g/mol
+| smiles = Clc2cccc(Cl)c2N(/C1=N/CCN1)C\C=C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C12H13Cl2N3/c1-2-8-17(12-15-6-7-16-12)11-9(13)4-3-5-10(11)14/h2-5H,1,6-8H2,(H,15,16)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OXTYVEUAQHPPMV-UHFFFAOYSA-N
+}}
+
+'''Alinidine''' ('''ST567''') is a negative [[chronotrope]] that was developed in the 1970s and 1980s. It causes [[bradycardia]] by inhibiting the pacemaker current by altering the maximal channel conductance and alter the voltage threshold.<ref>Snyders DJ, Van Bogaert P-P: Alinidine modifies the pacemaker current in sheep Purkinje fibers. Pflugers Arch 1987, 410:83-91</ref> The development of alinidine was halted because it was not sufficiently specific for its target. It also has a blocking effect on [[calcium channel]]s and [[potassium channel]]s. It also causes elongation of re-polarisation after an [[action potential]].<ref>Current Opinion in Pharmacology 2007, 7:208–213</ref>
+
+Alinidine did not improve outcomes among patients with acute [[myocardial infarction]] in a [[randomized controlled trial]].<ref name="pmid8335810">{{cite journal|vauthors=Van de Werf F, Janssens L, Brzostek T, Mortelmans L, Wackers FJ, Willems GM | title=Short-term effects of early intravenous treatment with a beta-adrenergic blocking agent or a specific bradycardiac agent in patients with acute myocardial infarction receiving thrombolytic therapy. | journal=J Am Coll Cardiol | year= 1993 | volume= 22 | issue= 2 | pages= 407–16 | pmid=8335810 
+| url=https://www.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&tool=clinical.uthscsa.edu/cite&retmode=ref&cmd=prlinks&id=8335810 | doi=10.1016/0735-1097(93)90044-2|display-authors=etal}}</ref>
+
+== References ==
+{{Reflist}}
+
+{{Antihypertensives}}
+{{Calcium channel blockers}}
+{{Potassium channel blockers}}
+
+[[Category:Antiarrhythmic agents]]
+[[Category:Chloroarenes]]
+[[Category:Anilines]]
+[[Category:Imidazolines]]
+[[Category:Allyl compounds]]

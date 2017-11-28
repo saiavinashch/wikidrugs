@@ -1,0 +1,68 @@
+{{Drugbox
+| verifiedrevid = 443740995
+| IUPAC_name = (1-ethynylcyclohexyl)carbamate
+| image = Ethinamate.svg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|ethinamate}}
+| pregnancy_category =  
+| legal_CA = Schedule IV
+| legal_DE = Anlage II
+| legal_status = Rx-only
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life =  
+<!--Identifiers-->
+| IUPHAR_ligand = 7325
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 126-52-3
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 3284
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01031
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3169
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = IAN371PP48
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00703
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 4884
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1576
+<!--Chemical data-->
+| C=9 | H=13 | N=1 | O=2
+| molecular_weight = 167.205 g/mol
+| smiles = O=C(OC1(C#C)CCCCC1)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C9H13NO2/c1-2-9(12-8(10)11)6-4-3-5-7-9/h1H,3-7H2,(H2,10,11)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GXRZIMHKGDIBEW-UHFFFAOYSA-N
+}}
+
+'''Ethinamate''' ('''Valamin''', '''Valmid''') is a short-acting [[carbamate]]-derivative [[sedative-hypnotic]] [[medication]] used to treat [[insomnia]].  Regular use leads to [[drug tolerance]], and it is usually not effective for more than 7 days.  Prolonged use can lead to [[Chemical dependency|dependency]].
+
+Ethinamate has been replaced by other medicines (particularly [[benzodiazepine]]s), and it is not available in the [[Netherlands]], the [[United States]] or [[Canada]].
+
+==Chemistry==
+Ethinamate (1-ethynylcyclohexanone carbamate) is synthesized by combining [[acetylene]] with [[cyclohexanone]] and then transforming the resulting [[methanol]] into a [[carbamate]] by the subsequent reaction with [[phosgene]], and later with [[ammonia]]. Some lithium metal or similar is used to make the acetylene react with the cyclohexanone in the first step.<ref>H. Pfeiffer, K. Junkman, {{US Patent|2816910}} (1957)</ref><ref>H. Emde, W. Grimme, {{Cite patent|DE|1021843}} (1953)</ref>
+:[[File:Ethinamate synthesis.png|500px]]
+
+== References ==
+{{Reflist}}
+
+
+{{Hypnotics}}
+{{GABAAR PAMs}}
+
+[[Category:Hypnotics]]
+[[Category:Sedatives]]
+[[Category:Carbamates]]
+[[Category:Alkynes]]
+[[Category:GABAA receptor positive allosteric modulators]]
+
+
+{{sedative-stub}}

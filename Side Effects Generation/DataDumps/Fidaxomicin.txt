@@ -1,0 +1,81 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 416459611
+| IUPAC_name = 3-(((6-Deoxy-4-''O''-(3,5-dichloro-2-ethyl-4,6-dihydroxybenzoyl)-2-''O''-methyl-β-<small>D</small>-mannopyranosyl)oxy)-methyl)-12(''R'')-[(6-deoxy-5-''C''-methyl-4-''O''-(2-methyl-1-oxopropyl)-β-<small>D</small>-lyxo-hexopyranosyl)oxy]-11(''S'')-ethyl-8(''S'')-hydroxy-18(''S'')-(1(''R'')-hydroxyethyl)-9,13,15-trimethyloxacyclooctadeca-3,5,9,13,15-pentaene-2-one
+| image = Fidaxomicin.svg
+| alt =
+<!--Clinical data-->
+| tradename = Dificid, Dificlir
+| licence_US = Fidaxomicin
+| pregnancy_AU = B1
+| pregnancy_US = B
+| pregnancy_category = 
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status = 
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability = Minimal systemic absorption<ref name = TGA>{{cite web|title=DIFICID|work=TGA eBusiness Services|publisher=Specialised Therapeutics Australia Pty Ltd|date=23 April 2013|accessdate=31 March 2014|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2013-PI-01580-1|format=PDF}}</ref>
+| protein_bound =  
+| metabolism =  
+| elimination_half-life = 11.7 ± 4.80 hours<ref name = TGA/>
+| excretion = Urine (<1%), faeces (92%)<ref name = TGA/>
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 873857-62-6
+| ATCvet = 
+| ATC_prefix = A07
+| ATC_suffix = AA12
+| PubChem = 10034073
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 68590
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 8209640
+| smiles = CC[C@H]1/C=C(/[C@H](C/C=C/C=C(/C(=O)O[C@@H](C/C=C(/C=C(/[C@@H]1O[C@H]2[C@H]([C@H]([C@@H](C(O2)(C)C)OC(=O)C(C)C)O)O)\C)\C)[C@@H](C)O)\CO[C@H]3[C@H]([C@H]([C@@H]([C@H](O3)C)OC(=O)C4=C(C(=C(C(=C4O)Cl)O)Cl)CC)O)OC)O)\C
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C52H74Cl2O18/c1-13-30-22-26(6)33(56)18-16-15-17-31(23-66-51-45(65-12)42(61)44(29(9)67-51)69-49(64)35-32(14-2)36(53)39(58)37(54)38(35)57)48(63)68-34(28(8)55)20-19-25(5)21-27(7)43(30)70-50-41(60)40(59)46(52(10,11)72-50)71-47(62)24(3)4/h15-17,19,21-22,24,28-30,33-34,40-46,50-51,55-61H,13-14,18,20,23H2,1-12H3/b16-15+,25-19+,26-22+,27-21+,31-17+/t28-,29-,30+,33+,34+,40-,41+,42+,43+,44-,45+,46+,50-,51-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = ZVGNESXIJDCBKN-UUEYKCAUSA-N
+
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = Z5N076G8YQ
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D09394
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1255800
+<!--Chemical data-->
+| C=52 | H=74 | Cl=2 | O=18
+| molecular_weight = 1058.04 g/mol
+| synonyms = Clostomicin B1, lipiarmicin, lipiarmycin, lipiarmycin A3, OPT 80, PAR 01, PAR 101, tiacumicin B
+}}
+
+'''Fidaxomicin''' (trade names '''Dificid''', '''Dificlir''', and previously OPT-80 and PAR-101) is the first in a new class of narrow spectrum [[Macrocycle|macrocyclic]] [[antibiotic]] drugs.<ref>{{cite journal |doi=10.1358/dof.2006.031.06.1000709 |title=Tiacumicin B |year=2006 |last1=Revill |first1=P. |last2=Serradell |first2=N. |last3=Bolós |first3=J. |journal=Drugs of the Future |volume=31 |issue=6 |pages=494}}</ref> It is a fermentation product obtained from the actinomycete ''[[Dactylosporangium]] aurantiacum subspecies hamdenesis''.<ref name=PrescribingInfo>{{cite web |publisher=Optimer Pharmaceuticals |url=http://www.dificid.com/upload/dificid.pdf |title=Dificid, Full Prescribing Information |year=2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20110626044732/http://www.dificid.com/upload/dificid.pdf |archivedate=2011-06-26 |df= }}</ref><ref>{{cite journal |doi=10.2165/11537730-000000000-00000 |title=Fidaxomicin |year=2012 |journal=Drugs in R&D |volume=10 |pages=37}}</ref>  
+Fidaxomicin is non-systemic, meaning it is minimally absorbed into the bloodstream, it is [[bactericidal]], and it has demonstrated selective eradication of [[pathogenic]] ''[[Clostridium difficile (bacteria)|Clostridium difficile]]'' with minimal disruption to the multiple species of [[bacteria]] that make up the normal, healthy [[intestinal flora]]. The maintenance of normal physiological conditions in the colon can reduce the probability of ''Clostridium difficile'' infection recurrence.<ref>{{cite journal |doi=10.1128/AAC.01443-07 |title=OPT-80 Eliminates Clostridium difficile and is Sparing of Bacteroides Species during Treatment of C. Difficile Infection |year=2008 |last1=Louie |first1=T. J. |last2=Emery |first2=J. |last3=Krulicki |first3=W. |last4=Byrne |first4=B. |last5=Mah |first5=M. |journal=Antimicrobial Agents and Chemotherapy |volume=53 |pages=261–3 |pmid=18955523 |issue=1 |pmc=2612159}}</ref>
+<ref>{{cite journal |doi=10.1016/j.jinf.2009.03.010 |title=Recurrent Clostridium difficile infection: A review of risk factors, treatments, and outcomes |year=2009 |last1=Johnson |first1=Stuart |journal=Journal of Infection |volume=58 |issue=6 |pages=403–10 |pmid=19394704}}</ref>
+
+It is marketed by Cubist Pharmaceuticals after acquisition of its originating company Optimer Pharmaceuticals.  The target use is for treatment of ''Clostridium difficile'' infection.
+
+Fidaxomicin is available in a 200&nbsp;mg tablet that is administered every 12 hours for a recommended duration of 10 days. Total duration of therapy should be determined by the patient's clinical status. It is currently one of the most expensive antibiotics approved for use. A standard course costs upwards of £1350.<ref>http://www.medicinescomplete.com/mc/bnf/current/PHP18388-dificlir.htm#PHP18388-dificlir</ref>
+
+==Mechanism==
+Fidaxomicin binds to and prevents movement of the "switch regions" of bacterial RNA polymerase. Switch motion is important for opening and closing of the DNA:RNA clamp, a process that occurs throughout RNA transcription but especially during opening of double stranded DNA during transcription initiation.<ref>{{cite journal |doi=10.1016/j.mib.2011.07.030 |title=New target for inhibition of bacterial RNA polymerase: 'switch region' |year=2011 |last1=Srivastava |first1=Aashish |last2=Talaue |first2=Meliza |last3=Liu |first3=Shuang |last4=Degen |first4=David |last5=Ebright |first5=Richard Y |last6=Sineva |first6=Elena |last7=Chakraborty |first7=Anirban |last8=Druzhinin |first8=Sergey Y |last9=Chatterjee |first9=Sujoy |last10=Mukhopadhyay |first10=Jayanta |last11=Ebright |first11=Yon W |last12=Zozula |first12=Alex |last13=Shen |first13=Juan |last14=Sengupta |first14=Sonali |last15=Niedfeldt |first15=Rui Rong |last16=Xin |first16=Cai |last17=Kaneko |first17=Takushi |last18=Irschik |first18=Herbert |last19=Jansen |first19=Rolf |last20=Donadio |first20=Stefano |last21=Connell |first21=Nancy |last22=[[Richard H. Ebright|Ebright]] |first22=Richard H |journal=Current Opinion in Microbiology |volume=14 |issue=5 |pages=532–43 |pmid=21862392 |pmc=3196380}}</ref> It has minimal systemic absorption and a narrow spectrum of activity; it is active against [[Gram positive]] bacteria especially [[clostridia]].  The minimal inhibitory concentration (MIC) range for ''C. difficile'' (ATCC 700057) is 0.03–0.25 μg/mL.<ref name=PrescribingInfo/>
+
+==Clinical trials==
+Good results were reported by the company in 2009 from a North American [[phase III]] trial comparing it with oral [[vancomycin]] for the treatment of ''[[Clostridium difficile colitis|Clostridium difficile]]'' infection (CDI)<ref>{{cite press release |title=Optimer's North American phase 3 Fidaxomicin study results presented at the 49th ICAAC |publisher=Optimer Pharmaceuticals |date=September 16, 2009 |url=http://www.news-medical.net/news/20090916/Optimers-North-American-phase-3-Fidaxomicin-study-results-presented-at-the-49th-ICAAC.aspx |accessdate=May 7, 2013}}</ref><ref>{{cite press release |title=Optimer Pharmaceuticals Presents Results From Fidaxomicin Phase 3 Study for the Treatment |publisher=Optimer Pharmaceuticals |date=May 17, 2009 |url=https://www.reuters.com/article/2009/05/17/idUS33839+17-May-2009+PRN20090517 |accessdate=May 7, 2013}}</ref>  The study met its primary endpoint of clinical cure, showing that fidaxomicin was non-inferior to oral vancomycin (92.1% vs. 89.8%). In addition, the study met its secondary endpoint of recurrence: 13.3% of the subjects had a recurrence with fidaxomicin vs. 24.0% with oral [[vancomycin]]. The study also met its exploratory endpoint of global cure (77.7% for fidaxomicin vs. 67.1% for vancomycin).<ref>{{cite conference |vauthors=Golan Y, Mullane KM, Miller MA |title=Low recurrence rate among patients with ''C. difficile'' infection treated with fidaxomicin |conference=49th interscience conference on antimicrobial agents and chemotherapy |location=San Francisco |date=September 12–15, 2009}}</ref> ''Clinical cure'' was defined as patients requiring no further CDI therapy two days after completion of study medication. ''Global cure'' was defined as patients who were cured at the end of therapy and did not have a recurrence in the next four weeks.<ref>{{cite conference |vauthors=Gorbach S, Weiss K, Sears P |title=Safety of fidaxomicin versus vancomycin in treatment of ''Clostridium difficile'' infection |conference=49th interscience conference on antimicrobial agents and chemotherapy |location=San Francisco |date=September 12–15, 2009|display-authors=etal}}</ref>
+
+Fidaxomicin was shown to be as good as the current standard-of-care, vancomycin, for treating CDI in a Phase III trial published in February 2011.<ref>{{cite journal |doi=10.1056/NEJMoa0910812 |title=Fidaxomicin versus vancomycin for Clostridium difficile infection |year=2011 |last1=Louie |first1=Thomas J. |last2=Miller |first2=Mark A. |last3=Mullane |first3=Kathleen M. |last4=Weiss |first4=Karl |last5=Lentnek |first5=Arnold |last6=Golan |first6=Yoav |last7=Gorbach |first7=Sherwood |last8=Sears |first8=Pamela |last9=Shue |first9=Youe-Kong |last10=Opt-80-003 Clinical Study |first10=Group |journal=New England Journal of Medicine |volume=364 |issue=5 |pages=422–31 |pmid=21288078}}</ref> The authors also reported significantly fewer recurrences of infection, a frequent problem with ''C. difficile'', and similar drug side effects.
+
+==Approvals and indications==
+For the treatment of  [[CDAD|''Clostridium difficile''-associated diarrhea]] (CDAD), the drug won an FDA advisory panel's unanimous approval on April 5, 2011<ref>{{cite news |url=https://www.bloomberg.com/news/2011-04-05/optimer-wins-fda-advisory-panel-s-backing-for-fidaxomicin-1-.html |title=Optimer wins FDA panel's backing for antibiotic fidaxomicin |publisher=Bloomberg |date=Apr 5, 2011 |first=Molly |last=Peterson}}</ref> and full FDA approval on May 27, 2011.<ref>{{cite news |url=http://www.medicalnewstoday.com/articles/226796.php |title=Dificid (fidaxomicin) approved for Clostridium difficile-associated diarrhea |date=27 May 2011 |work=Medical News Today |first=Christian |last=Nordqvist}}</ref>
+
+==References==
+{{reflist}}
+
+{{Antidiarrheals, intestinal anti-inflammatory/anti-infective agents}}
+
+[[Category:Macrolide antibiotics]]

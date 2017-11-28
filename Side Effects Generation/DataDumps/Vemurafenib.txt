@@ -1,0 +1,115 @@
+{{Drugbox
+| IUPAC_name = ''N''-(3-{[5-(4-Chlorophenyl)-1''H''-pyrrolo[2,3-b]pyridin-3-yl]carbonyl}-2,4-difluorophenyl)propane-1-sulfonamide
+| verifiedrevid = 432742697
+| image = Vemurafenib structure.svg
+| image2 = Vemurafenib ball-and-stick model.png
+| width = 230
+
+<!--Clinical data-->
+| pronounce = {{IPAc-en|ˌ|v|ɛ|m|ə|ˈ|r|æ|f|ə|n|ɪ|b}} {{respell|VEM|ə|RAF|ə-nib}}
+| tradename = Zelboraf
+| Drugs.com = {{Drugs.com|monograph|vemurafenib}}
+| MedlinePlus = a612009
+| licence_EU = Zelboraf
+| licence_US = Vemurafenib
+| pregnancy_AU = D
+| pregnancy_US = D
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = [[Oral administration|By mouth]] ([[Tablet (pharmacy)|tablets]])
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5893
+| DrugBank = DB08881
+| CAS_number = 918504-65-1
+| ATC_prefix = L01
+| ATC_suffix = XE15
+| PubChem = 42611257
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 24747352
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D09996
+| ChEMBL = 1229517
+| UNII = 207SMY3FQT
+| synonyms = PLX4032, RG7204, RO5185426
+| PDB_ligand = 032
+
+<!--Chemical data-->
+| C=23 | H=18 | Cl=1 | F=2 | N=3 | O=3 | S=1 
+| molecular_weight = 489.92 g/mol
+| smiles = CCCS(=O)(=O)Nc1ccc(F)c(c1F)C(=O)c2c[nH]c3c2cc(cn3)c4ccc(Cl)cc4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C23H18ClF2N3O3S/c1-2-9-33(31,32)29-19-8-7-18(25)20(21(19)26)22(30)17-12-28-23-16(17)10-14(11-27-23)13-3-5-15(24)6-4-13/h3-8,10-12,29H,2,9H2,1H3,(H,27,28)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GPXBXXGIAQBQNI-UHFFFAOYSA-N
+}}
+
+{{Infobox drug mechanism
+| Name = vemurafenib
+| Image = 3OG7.png
+| Alt = 
+| Caption = [[X-ray crystallography#Biological macromolecular crystallography|Crystallographic structure]] of B-Raf (rainbow colored, [[N-terminus]] = blue, [[C-terminus]] = red) complexed with vemurafenib (spheres, carbon = white, oxygen = red, nitrogen = blue, chlorine = green, fluorine = cyan, sulfur = yellow).<ref name="pmid20823850"/>
+| Use = [[melanoma]]
+| Biological_target = [[BRAF (gene)|BRAF]]
+| ATC_prefix = L01
+| ATC_suffix = XE15
+| MOA_text = [[protein kinase inhibitor]]
+| PDB_ligand = 032
+| PDB_complex = 3og7
+}}
+
+'''Vemurafenib''' ([[International Nonproprietary Name|INN]], marketed as '''Zelboraf''') is a [[BRAF (gene)|B-Raf]] [[enzyme inhibitor]] developed by [[Plexxikon]] (now part of Daiichi-Sankyo) and [[Genentech]] for the treatment of late-stage [[melanoma]].<ref name="pmid20823850">{{PDB|3OG7}}; {{cite journal  |vauthors=Bollag G, Hirth P, Tsai J, Zhang J, Ibrahim PN, Cho H, Spevak W, Zhang C, Zhang Y, Habets G, etal | title = Clinical efficacy of a RAF inhibitor needs broad target blockade in BRAF-mutant melanoma | journal = Nature | volume = 467| issue = 7315| pages = 596–599|date=September 2010 | pmid = 20823850 | doi = 10.1038/nature09454 | pmc = 2948082 }}</ref> The name "vemurafenib" comes from [[V600E|'''V'''600'''E''']] '''mu'''tated B'''RAF''' '''in'''h'''ib'''ition.
+
+==Approvals==
+Vemurafenib received [[FDA]] approval for the treatment of late-stage melanoma on August 17, 2011,<ref>{{cite press release |url=http://www.gene.com/gene/news/press-releases/display.do?method=detail&id=13567 |title=FDA Approves Zelboraf (Vemurafenib) and Companion Diagnostic for BRAF Mutation-Positive Metastatic Melanoma, a Deadly Form of Skin Cancer |publisher=Genentech |accessdate=2011-08-17}}</ref> making it the first drug designed using [[fragment-based lead discovery]] to gain regulatory approval.<ref name="pmid23060265">{{cite journal |vauthors=Bollag G, Tsai J, Zhang J, Zhang C, Ibrahim P, Nolop K, Hirth P | title = Vemurafenib: the first drug approved for BRAF-mutant cancer | journal = Nat Rev Drug Discov | volume = 11 | issue = 11 | pages = 873–86 |date=November 2012 | pmid = 23060265 | doi = 10.1038/nrd3847 }}</ref>
+
+Vemurafenib later received [[Health Canada]] approval on February 15, 2012.<ref>[http://www.hc-sc.gc.ca/dhp-mps/prodpharma/sbd-smd/drug-med/nd_ad_2012_zelboraf_148693-eng.php Notice of Decision for ZELBORAF]</ref>
+
+On February 20, 2012, the [[European Commission]] approved vemurafenib as a monotherapy for the treatment of adult patients with BRAF [[V600E]] [[mutation]] positive unresectable or [[metastatic melanoma]], the most aggressive form of skin cancer.<ref>{{cite web | title = First Personalized Cancer Medicine Allows Patients with Deadly Form of Metastatic Melanoma to Live Significantly Longer | url = http://oncozine.com/profiles/blogs/first-personalized-cancer-medicine-allows-patients-deadly-form-of | author = Hofland P | work = Onco'Zine | publisher =  The International Cancer Network | date = February 20, 2012 }}</ref>
+
+== Mechanism of action ==
+Vemurafenib causes [[apoptosis|programmed cell death]] in [[melanoma]] cell lines.<ref name="pmid18458053">{{cite journal |vauthors=Sala E, Mologni L, Truffa S, Gaetano C, Bollag GE, Gambacorti-Passerini C | title = BRAF silencing by short hairpin RNA or chemical blockade by PLX4032 leads to different responses in melanoma and thyroid carcinoma cells | journal = Mol. Cancer Res. | volume = 6 | issue = 5 | pages = 751–9 |date=May 2008 | pmid = 18458053 | doi = 10.1158/1541-7786.MCR-07-2001 | url =  }}</ref> Vemurafenib interrupts the [[BRAF (gene)|B-Raf/MEK step]] on the [[MAPK/ERK pathway|B-Raf/MEK/ERK pathway]] − if the B-Raf has the common V600E mutation.
+
+Vemurafenib only works in melanoma patients whose cancer has a V600E BRAF mutation (that is, at [[amino acid]] position number 600 on the B-Raf protein, the normal [[valine]] is replaced by [[glutamic acid]]).<ref>{{cite journal |vauthors=Maverakis E, Cornelius LA, Bowen GM, Phan T, Patel FB, Fitzmaurice S, He Y, Burrall B, Duong C, Kloxin AM, Sultani H, Wilken R, Martinez SR, Patel F | title = Metastatic melanoma - a review of current and future treatment options | journal = Acta Derm Venereol | volume = 95 | issue = 5 | pages = 516–524 | year = 2015 | pmid = 25520039 | doi = 10.2340/00015555-2035}}</ref> About 60% of melanomas have this mutation. It also has efficacy against the rarer BRAF V600K mutation. Melanoma cells without these mutations are not inhibited by vemurafenib; the drug paradoxically stimulates normal BRAF and may promote tumor growth in such cases.<ref name="pmid20130576">{{cite journal |vauthors=Hatzivassiliou G, Song K, Yen I, Brandhuber BJ, Anderson DJ, Alvarado R, Ludlam MJ, Stokoe D, Gloor SL, Vigers G, Morales T, Aliagas I, Liu B, Sideris S, Hoeflich KP, Jaiswal BS, Seshagiri S, Koeppen H, Belvin M, Friedman LS, Malek S | title = RAF inhibitors prime wild-type RAF to activate the MAPK pathway and enhance growth | journal = Nature | volume = 464| issue = 7287| pages = 431–5|date=February 2010 | pmid = 20130576 | doi = 10.1038/nature08833 | url =  }}</ref><ref name="pmid20149136">{{cite journal |vauthors=Halaban R, Zhang W, Bacchiocchi A, Cheng E, Parisi F, Ariyan S, Krauthammer M, McCusker JP, Kluger Y, Sznol M | title = PLX4032, a Selective BRAF(V600E) Kinase Inhibitor, Activates the ERK Pathway and Enhances Cell Migration and Proliferation of BRAF(WT) Melanoma Cells | journal = Pigment Cell Melanoma Res | volume = 23| issue = 2| pages = 190–200|date=February 2010 | pmid = 20149136 | doi = 10.1111/j.1755-148X.2010.00685.x | url = | pmc = 2848976 }}</ref>
+
+===Resistance===
+Three mechanisms of resistance to vemurafenib (covering 40% of cases) have been discovered:
+* Cancer cells begin to overexpress cell surface protein [[PDGFRB]], creating an alternative survival pathway.
+* A second [[oncogene]] called [[Neuroblastoma RAS viral oncogene homolog|NRAS]] mutates, reactivating the normal BRAF survival pathway.<ref name="pmid21107323">{{cite journal |vauthors=Nazarian R, Shi H, Wang Q, Kong X, Koya RC, Lee H, Chen Z, Lee MK, Attar N, Sazegar H, Chodon T, Nelson SF, McArthur G, Sosman JA, Ribas A, Lo RS | title = Melanomas acquire resistance to B-RAF(V600E) inhibition by RTK or N-RAS upregulation | journal = Nature | volume = 468| issue = 7326| pages = 973–977|date=November 2010 | pmid = 21107323 | doi = 10.1038/nature09626 | laysummary = http://www.genengnews.com/gen-news-highlights/researchers-uncover-drug-resistance-mechanisms-in-braf-melanoma/81244289/ | laysource = Genetic Engineering & Biotechnology News | pmc = 3143360 }}</ref>
+* [[Stromal cell]] secretion of [[hepatocyte growth factor]] (HGF).<ref name="pmid22763439">{{cite journal |vauthors=Straussman R, Morikawa T, Shee K, Barzily-Rokni M, Qian ZR, Du J, Davis A, Mongare MM, Gould J, Frederick DT, Cooper ZA, Chapman PB, Solit DB, Ribas A, Lo RS, Flaherty KT, Ogino S, Wargo JA, Golub TR | title = Tumour micro-environment elicits innate resistance to RAF inhibitors through HGF secretion | journal = Nature | volume = 487 | issue = 7408 | pages = 500–4 |date=July 2012 | pmid = 22763439 | doi = 10.1038/nature11183 | pmc=3711467}}</ref><ref name="pmid22763448">{{cite journal |vauthors=Wilson TR, Fridlyand J, Yan Y, Penuel E, Burton L, Chan E, Peng J, Lin E, Wang Y, Sosman J, Ribas A, Li J, Moffat J, Sutherlin DP, Koeppen H, Merchant M, Neve R, Settleman J | title = Widespread potential for growth-factor-driven resistance to anticancer kinase inhibitors. | journal = Nature | volume = 487 | issue = 7408 | pages = 505–9 |date=July 2012 | pmid = 22763448 | doi = 10.1038/nature11249 | pmc=3724525}}</ref>
+
+== Clinical trials ==
+In a [[Phases of clinical research|phase I clinical study]], vemurafenib (then known as PLX4032) was able to reduce numbers of cancer cells in over half of a group of 16 patients with advanced melanoma. The treated group had a median increased survival time of 6 months over the control group.<ref>{{cite news | url = http://news.bbc.co.uk/2/hi/health/8076743.stm | title=Drug hope for advanced melanoma | publisher=BBC News | accessdate=2009-06-07 | date=2009-06-02}}</ref><ref name="urlTarget Cancer - A Roller Coaster Chase for a Cure - Series - NYTimes.com">{{cite news | url = https://www.nytimes.com/2010/02/22/health/research/22trial.html | title = A Roller Coaster Chase for a Cure | author = Harmon, Amy | date = 2010-02-21 | work = [[The New York Times]] }}</ref><ref name="pmid20019269">{{cite journal | author = Garber K | title = Melanoma drug vindicates targeted approach | journal = Science | volume = 326 | issue = 5960 | pages = 1619 |date=December 2009 | pmid = 20019269 | doi = 10.1126/science.326.5960.1619 | url =  }}</ref><ref name="urlPhase I study of PLX4032: Proof of concept for V600E BRAF mutation as a therapeutic target in human cancer. - ASCO">{{cite web | url = http://www.asco.org/ASCOv2/Meetings/Abstracts?&vmview=abst_detail_view&confID=65&abstractID=34909 | title = Phase I study of PLX4032: Proof of concept for V600E BRAF mutation as a therapeutic target in human cancer | author = Flaherty K | work = 2009 ASCO Annual Meeting Abstract, J Clin Oncol 27:15s, 2009 (suppl; abstr 9000) | publisher = }}</ref>
+
+A second phase I study, in patients with a V600E mutation in B-Raf, ~80% showed partial to complete regression. The regression lasted from 2 to 18 months.<ref name="pmid20818844">{{cite journal |vauthors=Flaherty KT, Puzanov I, Kim KB, Ribas A, McArthur GA, Sosman JA, O'Dwyer PJ, Lee RJ, Grippo JF, Nolop K, Chapman PB | title = Inhibition of mutated, activated BRAF in metastatic melanoma | journal = N. Engl. J. Med. | volume = 363 | issue = 9 | pages = 809–19 |date=August 2010 | pmid = 20818844 | doi = 10.1056/NEJMoa1002011 | laysummary = http://pipeline.corante.com/archives/2010/09/09/plx4032_the_good_news_and_the_bad_news.php | laysource = Corante: In the Pipeline }}</ref>
+
+In early 2010 a [[Clinical trial#Phase I|Phase I]] trial<ref name="P1ST">{{cite web | url = http://clinicaltrials.gov/ct2/show/NCT00405587 | title = Safety Study of PLX4032 in Patients With Solid Tumors | publisher = ClinicalTrials.gov  }}</ref> for solid tumors (including  [[colorectal cancer]]), and a [[Clinical trial#Phase II|phase II]] study (for metastatic melanoma) were ongoing.<ref name="P2MM">{{cite web | url = http://clinicaltrials.gov/ct2/show/NCT00949702 | title = A Study of RO5185426 in Previously Treated Patients With Metastatic Melanoma | date = 2010-02-15 | publisher = ClinicalTrials.gov }}</ref>
+
+A phase III trial (vs [[dacarbazine]]) in patients with previously untreated metastatic melanoma showed an improved rates of overall and progression-free survival.<ref name="PLX4032_phase_3_trial">{{cite press release | url = http://www.plexxikon.com/view.cfm/74/Press-Releases | title = Plexxikon Announces First Patient Dosed in Phase 3 Trial of PLX4032 (RG7204) for Metastatic Melanoma | date = 2010-01-08 | publisher = Plexxikon  }}</ref>
+
+In June 2011, positive results were reported from the phase III BRIM3 BRAF-mutation melanoma study.<ref name=BRIM3-1>{{cite news |url=http://www.genengnews.com/gen-news-highlights/plexxikon-and-roche-report-positive-data-from-phase-iii-braf-mutation-melanoma-study/81245246/ |title=Plexxikon and Roche Report Positive Data from Phase III BRAF Mutation Melanoma Study |date=6 June 2011 }}</ref> The BRIM3 trial reported good updated results in 2012.<ref name=ASCO2012>{{cite web |url=http://www.chemotherapyadvisor.com/vemurafenib-improves-overall-survival-in-patients-with-metastatic-melanoma/article/244197/# |title=Vemurafenib Improves Overall Survival in Patients with Metastatic Melanoma }}</ref>
+
+Further trials are planned including a trial of vemurafenib co-administered with GDC-0973 ([[cobimetinib]]), a [[MEK inhibitor|MEK-inhibitor]].<ref name=BRIM3-1/> After good results in 2014 the combination was submitted to the EC and FDA for marketing approval.<ref>[http://www.exelixis.com/pipeline/GDC_0973_xl518 Cobimetinib at exelixis.com]</ref>
+
+In January 2015 trial results compared vemurafenib with the combination of [[dabrafenib]] and [[trametinib]] for metastatic melanoma.<ref>{{cite web |url=http://www.oncotherapynetwork.com/melanoma/mek-braf-inhibitor-combo-reduces-death-melanoma |title=MEK/BRAF Inhibitor Combo Reduces Death by One-Third in Melanoma |year=2015 }}</ref>
+
+===Side effects===
+At the maximum tolerated dose (MTD) of 960&nbsp;mg twice a day 31% of patients get skin lesions that may need surgical removal.<ref name="pmid20823850"/> The BRIM-2 trial investigated 132 patients; the most common adverse events were [[arthralgia]] in 58% of patients, skin rash in 52%, and photosensitivity in 52%. In order to better manage side effects some form of dose modification was necessary in 45% of patients. The median daily dose was 1750&nbsp;mg, 91% of the MTD.<ref>{{cite journal | title=BRIM-2 Upholds Benefits Emerging with Vemurafenib in Melanoma |journal=Oncology & Biotech News |volume=5 |issue=7 |date=July 2011 |url=http://www.onclive.com/publications/obtn/2011/july-2011/BRIM-2-Upholds-Benefits-Emerging-with-Vemurafenib-in-Melanoma }}</ref>
+
+A trial combining vemurafenib and ipilimumab was stopped in April 2013 because of signs of [[Hepatotoxicity|liver toxicity]].<ref>{{Cite news|url=https://www.economist.com/news/science-and-technology/21592599-researchers-and-drug-companies-are-ganging-up-new-push-against|title=Getting close and personal|date=January 4, 2014|newspaper=The Economist|issn=0013-0613|access-date=2016-04-15}}</ref>
+{{Clear}}
+
+== References ==
+{{Reflist|30em}}
+
+{{Extracellular chemotherapeutic agents}}
+
+[[Category:Antineoplastic and immunomodulating drugs]]
+[[Category:B-Raf inhibitor]]
+[[Category:Chloroarenes]]
+[[Category:Fluoroarenes]]
+[[Category:Sulfonamides]]
+[[Category:Tyrosine kinase inhibitors]]
+[[Category:Cancer treatments]]

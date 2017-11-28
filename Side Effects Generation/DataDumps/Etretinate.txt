@@ -1,0 +1,95 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 461098208
+| IUPAC_name = Ethyl (2''E'',4''E'',6''E'',8''E'')-9-(4-methoxy-2,3,6-trimethylphenyl)-3,7-dimethyl-2,4,6,8-nonatetraenoate
+| image = Etretinate.svg
+| width = 300
+| alt = Skeletal formula of etretinate
+| image2 = Etretinate 3D spacefill.png
+| alt2 = Space-filling model of the etretinate molecule
+| width2 = 280
+
+<!--Clinical data-->
+| tradename = Tigason, formerly Tegison
+| Drugs.com = {{drugs.com|MMX|etretinate}}
+| MedlinePlus = a601010
+| pregnancy_US = X
+| legal_US_comment = Withdrawn
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = >99%
+| metabolism = 
+| metabolites = Free acid, ''Z''-form, chain shortening
+| elimination_half-life = 120 days
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7599
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 54350-48-0
+| ATC_prefix = D05
+| ATC_suffix = BB01
+| ATC_supplemental =  
+| PubChem = 5282375
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00926
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4445538
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 65M2UDR9AG
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00316
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 4913
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 464
+
+<!--Chemical data-->
+| C=23 | H=30 | O=3 
+| molecular_weight = 354.483 g/mol
+| smiles = O=C(OCC)\C=C(\C=C\C=C(\C=C\c1c(cc(OC)c(c1C)C)C)C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C23H30O3/c1-8-26-23(24)14-17(3)11-9-10-16(2)12-13-21-18(4)15-22(25-7)20(6)19(21)5/h9-15H,8H2,1-7H3/b11-9+,13-12+,16-10+,17-14+
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = HQMNCQVAMBCHCO-DJRRULDNSA-N
+}}
+'''Etretinate''' (trade name '''Tegison''') is a [[medication]] developed by [[Hoffmann–La Roche]] that was approved by the FDA in 1986 to treat severe [[psoriasis]]. It is a second-generation [[retinoid]].<ref name="Mutschler">{{Cite book|last1=Mutschler|first1=Ernst|last2=Schäfer-Korting|first2=Monika|title=Arzneimittelwirkungen|language=German|location=Stuttgart|publisher=Wissenschaftliche Verlagsgesellschaft|year=2001|edition=8|page=728f|isbn=3-8047-1763-2}}</ref> It was subsequently removed from the [[Canada|Canadian]] market in 1996 and the [[United States]] market in 1998 due to the high risk of birth defects. It remains on the market in Japan as '''Tigason'''.
+
+==Pharmacology==
+Etretinate is a highly [[lipophilic]], [[aromatic]] retinoid. It is stored and released from [[adipose tissue]], so its effects can continue long after dosage stops. It is detectable in the plasma for up to three years following therapy. Etretinate has a low [[therapeutic index]] and a long [[elimination half-life]] (''t''<sub>1/2</sub>) of 120 days,<ref name="Mutschler" /> which make dosing difficult.
+
+Etretinate has been replaced by [[acitretin]], the free acid (without the [[ethyl group|ethyl]] ester). While acitretin is less lipophilic and has a half-life of only 50 hours, it is partly metabolized to etretinate in the body,<ref name="Mutschler" /> so that it is still a long-acting [[teratogen]] and pregnancy is prohibited for two years after therapy.<ref name="Austria-Codex">{{cite book|title=Austria-Codex|editor=Jasek, W|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2007|edition=62nd|isbn=978-3-85200-181-4|page=5669|language=German}}</ref>
+
+==Precautions==
+*Etretinate is a [[teratogen]], and may cause [[birth defect]]s long after use. Therefore, birth control is advised during therapy, and for at least three years after therapy has stopped.<ref name="MMX" />
+*Etretinate should be avoided in [[children]], as it may interfere with [[bone growth]].<ref name="MMX" />
+*If a patient has ever taken etretinate, he or she is not eligible to [[blood donation|donate blood]] in the United States or the United Kingdom, due to the risk of birth defects.<ref>[http://www.transfusionguidelines.org.uk/index.aspx?Publication=WB&Section=5&PageID=3630&AZLetter=E UK Blood Transfusion and Tissue Transplantation Services]</ref> In Japan, people may not donate blood for two years after ceasing to use the medication.<ref name=JapaneseDrugs/>
+
+==Side effects==
+Side effects are those typical of [[hypervitaminosis A]], most commonly<ref name="MMX" />
+* bone or joint pain, stiffness; in long-term treatment [[diffuse idiopathic skeletal hyperostosis]]
+* muscular or [[abdominal]] cramps
+* dry, burning, itching eyelids
+* unusual bruising
+
+==History==
+The drug was approved by the FDA in 1986 to treat severe [[psoriasis]]. It was subsequently removed from the [[Canada|Canadian]] market in 1996 and the [[United States]] market in 1998 due to the high risk of birth defects.<ref name="MMX">{{drugs.com|MMX|etretinate}} for etretinate</ref><ref name="Qureshi-2011">{{cite journal|last=Qureshi|first=ZP|author2=Seoane-Vazquez, E |author3=Rodriguez-Monguio, R |author4=Stevenson, KB |author5= Szeinbach, SL |title=Market withdrawal of new molecular entities approved in the United States from 1980 to 2009.|journal=Pharmacoepidemiology and drug safety|date=July 2011|volume=20|issue=7|pages=772–7|pmid=21574210|doi=10.1002/pds.2155}}</ref><ref name=Fung-2001>{{cite journal|last=Fung|first=M.|author2=Thornton, A. |author3=Mybeck, K. |author4=Wu, J. H.-h. |author5=Hornbuckle, K. |author6= Muniz, E. |title=Evaluation of the Characteristics of Safety Withdrawal of Prescription Drugs from Worldwide Pharmaceutical Markets-1960 to 1999|journal=Therapeutic Innovation & Regulatory Science|date=1 January 2001|volume=35|issue=1|pages=293–317|doi=10.1177/009286150103500134}}</ref>
+
+In Japan, the drug remains on market branded ''Tigason''.<ref name=JapaneseDrugs>Drug information sheet: [http://rad-ar.or.jp/siori/english/kekka.cgi?n=1052 Tigason]</ref>
+
+==See also==
+* [[Isotretinoin]]
+* [[List of withdrawn drugs]]
+
+==References==
+{{Reflist|2}}
+
+{{Antipsoriatics}}
+{{Retinoid receptor modulators}}
+
+[[Category:Retinoids]]
+[[Category:Withdrawn drugs]]
+[[Category:Ethyl esters]]
+[[Category:Phenol ethers]]

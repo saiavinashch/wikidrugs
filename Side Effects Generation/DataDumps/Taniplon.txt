@@ -1,0 +1,63 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 451563956
+| IUPAC_name = 3-(5-methoxy-6,7,8,9-tetrahydroimidazo[1,2-a]quinazolin-2-yl)-5-methyl-1,2,4-oxadiazole
+| image = Taniplon_structure.png
+| width = 200
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 106073-01-2
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 3086516
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = OKS0I0BBLP
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 2343126
+
+<!--Chemical data-->
+| C=14 | H=15 | N=5 | O=2 
+| molecular_weight = 285.301 g/mol
+| smiles = CC1=NC(C2=CN3C(N=C(OC)C4=C3CCCC4)=N2)=NO1
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C14H15N5O2/c1-8-15-12(18-21-8)10-7-19-11-6-4-3-5-9(11)13(20-2)17-14(19)16-10/h7H,3-6H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = OYKONKGGKFFMDV-UHFFFAOYSA-N
+}}
+'''Taniplon''' is a [[nonbenzodiazepine]] [[anxiolytic]] drug from the [[:Category:Imidazoquinazolines|imidazoquinazoline]] family of drugs.
+
+Taniplon binds strongly to benzodiazepine sites on the [[GABAA receptor|GABA<sub>A</sub>]] [[Receptor (biochemistry)|receptor]] and has similar [[anxiolytic]] effects in animals, but with less [[sedative]] or [[muscle relaxant]] action.<ref name="pmid1648620">{{cite journal |vauthors=Tully WR, Gardner CR, Gillespie RJ, Westwood R |title=2-(oxadiazolyl)- and 2-(thiazolyl)imidazo[1,2-a]pyrimidines as agonists and inverse agonists at benzodiazepine receptors |journal=Journal of Medicinal Chemistry |volume=34 |issue=7 |pages=2060–7 |date=July 1991 |pmid=1648620 |doi= 10.1021/jm00111a021|url=}}</ref>
+
+==References==
+<references/>
+
+{{Anxiolytics}}
+{{GABAAR PAMs}}
+
+[[Category:Sedatives]]
+[[Category:Imidazoquinazolines]]
+[[Category:Oxadiazoles]]
+[[Category:GABAA receptor positive allosteric modulators]]

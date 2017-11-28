@@ -1,0 +1,81 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 461113624
+| IUPAC_name = (2''S'',4''S'')-4-cyclohexyl-1-[2-[hydroxy(4-phenylbutyl)phosphoryl]acetyl]pyrrolidine-2-carboxylic acid
+| image = Fosinopril structure.svg
+| width = 240
+
+<!--Clinical data-->
+| tradename = Monopril
+| Drugs.com = {{drugs.com|monograph|monopril}}
+| MedlinePlus = a692020
+| pregnancy_AU = D
+| pregnancy_US = C
+| pregnancy_category =  
+| legal_status = Rx-only
+| routes_of_administration = oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = ~36%
+| protein_bound = 87% (fosinoprilat)
+| metabolism = [[hepatic]], [[Gastrointestinal tract|GIT]] mucosa (to fosinoprilat)
+| elimination_half-life = 12 hours (fosinoprilat)
+| excretion = [[renal]]
+<!--Identifiers-->
+| IUPHAR_ligand = 6456
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 98048-97-6
+| ATC_prefix = C09
+| ATC_suffix = AA09
+| ATC_supplemental =  
+| PubChem = 55891
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00492
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 10482016
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = R43D2573WO
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07992
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 3039598
+
+<!--Chemical data-->
+| C=30 | H=46 | N=1 | O=7 | P=1
+| molecular_weight = 563.663 g/mol
+| smiles = O=C(CP(=O)(CCCCc1ccccc1)OC(OC(=O)CC)C(C)C)N2C[C@@H](C[C@H]2C(O)=O)C3CCCCC3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C30H46NO7P/c1-4-28(33)37-30(22(2)3)38-39(36,18-12-11-15-23-13-7-5-8-14-23)21-27(32)31-20-25(19-26(31)29(34)35)24-16-9-6-10-17-24/h5,7-8,13-14,22,24-26,30H,4,6,9-12,15-21H2,1-3H3,(H,34,35)/t25-,26+,30?,39-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = BIDNLKIUORFRQP-YYTCENNOSA-N
+}}
+
+'''Fosinopril''' is an [[ACE inhibitor|angiotensin converting enzyme (ACE) inhibitor]]<ref name="pmid18458262">{{cite journal |vauthors=Pilote L, Abrahamowicz M, Eisenberg M, Humphries K, Behlouli H, Tu JV |title=Effect of different angiotensin-converting-enzyme inhibitors on mortality among elderly patients with congestive heart failure |journal=CMAJ |volume=178 |issue=10 |pages=1303–11 |date=May 2008 |pmid=18458262 |pmc=2335176 |doi=10.1503/cmaj.060068 |url=http://www.cmaj.ca/cgi/pmidlookup?view=long&pmid=18458262}}</ref> used for the treatment of [[hypertension]] and some types of chronic [[heart failure]]. Fosinopril is the only phosphinate-containing ACE inhibitor marketed, by [[Bristol-Myers Squibb]] under the trade name Monopril.
+
+[[File:Fosinoprilat.svg|thumb|left|Fosinoprilat, the active metabolite of fosinopril]]
+
+==Fosinoprilat and fosinopril==
+Fosinoprilat proved to have the same problem as enalaprilat and the other carboxylate-containing ACE inhibitors (namely poor oral [[bioavailability]]). Addition of a hydrophobic side-chain modulated the ionisation characteristics of the molecule, making it more bioavailable. Fosinopril is administered as a [[prodrug]] and is converted ''in vivo'' to the active form fosinoprilat.
+
+==Congestive heart failure and angiotensin II==
+In [[Heart Failure|congestive heart failure]], the ability of the heart to pump enough blood to satisfy the physiological needs of the body is reduced.<ref name="ref1">Guyton, Arthur C., Hall, John E. (2006). Textbook of Medical Physiology (11th ed.). Philadelphia: Elsevier Saunders. {{ISBN|0-7216-0240-1}}</ref> This condition has a variety of causes, including damaged heart valves, [[myocardial infarction]], hypertension, [[Beriberi|vitamin B<sub>1</sub> deficiency]], and genetic mutations. When subsequent blood flow to the kidneys is reduced, the kidneys respond by increasing the secretion of [[renin]] from the [[juxtaglomerular apparatus]]. Renin converts the inactive [[Angiotensin#Angiotensinogen|angiotensinogen]] into [[Angiotensin#Angiotensin I|angiotensin I]], which is converted to [[Angiotensin#Angiotensin II|angiotensin II]] (AII) by [[Angiotensin-converting enzyme|angiotensin converting enzyme]] (ACE).  AII can have negative effects on the cardiovascular system after events such as heart failure and myocardial infarction. AII causes arterial [[vasoconstriction]] and hypertension, resulting in an increase in [[afterload]], increasing the resistance against which the heart works.<ref name="ref2">Katzung, Bertram G.; Masters, Susan B.; Trevor, Anthony J. (2009). ''Basic and Clinical Pharmacology''. 11th ed. New York: McGraw-Hill. {{ISBN|978-0-07-160405-5}}</ref> Additionally, chronic increase in production of AII is associated with structural changes to the [[myocardium]]<ref name="ref3">Yamagishi H., Kim S., Nishikimi T., Takeuchi K., Takeda T. (1993). Contribution of cardiac renin-angiotensin system to ventricular remodelling in myocardial-infarcted rats. Journal of Molecular and Cellular Cardiology, 25(11):1369-80.</ref> which reduces the functionality of the heart.<ref name="ref2"/>
+
+==Effects of fosinopril on treating heart failure==
+Fosinopril is de-esterified by the liver or gastrointestinal mucosa and is converted to its active form, fosinoprilat.<ref name="ref4">Duchin K.L., Waclawski A.P., Tu J.I., Manning J., Frantz M., Willard D.A. (1991). Pharmacokinetics, Safety, and Pharmacologic Effects of Fosinopril Sodium, an Angiotensin-Converting Enzyme Inhibitor in Healthy Subjects. Journal of Clinical Pharmacology, 31(1):58-64.</ref> Fosinoprilat [[Competitive inhibition|competitively binds]] to ACE, preventing ACE from binding to and converting angiotensin I to angiotensin II. Inhibiting the production of AII lowers [[Total peripheral resistance|peripheral vascular resistance]], decreases afterload, and decreases blood pressure,<ref name="ref2"/> thus helping to alleviate the negative effects of AII on cardiac performance. In heart failure patients, fosinopril increases exercise tolerance and lowers the frequency of events associated with worsening heart failure, such as [[dyspnea]], the need for supplemental [[diuretic]]s, fatigue, and hospitalizations.<ref name="ref5">Erhardt L., MacLean A., Ilgenfritz J., Gelperin K., Blumenthal M. (1995). Fosinopril attenuates clinical deterioration and improves exercise tolerance in patients with heart failure. Fosinopril Efficacy/Safety Trial (FEST) Study Group. European Heart Journal,16(12):1892-9.</ref> In a study examining the effects of fosinopril on [[insulin-like growth factor 1]] (IGF-1) and [[Insulin-like growth factor-binding protein|IGF binding protein]] serum concentrations in high cardiovascular risk patients, a six-month treatment of fosinopril was associated with an elevation in IGF-1.<ref name="ref6">Giovannini S., Cesari M., Marzetti E., Leeuwenburgh C., Maggio M., Pahor M. (2010). Effects of ACE-inhibition on IGF-1 and IGFBP-3 concentrations in older adults with high cardiovascular risk profile. Journal of Nutrition Health and Aging,14(6):457-60.</ref> Since a decline in IGF-1 is associated with an increased risk of [[ischemic heart disease]], fosinopril may reduce ischemic risk.
+
+==Benefits==
+Unlike other ACE inhibitors that are primarily excreted by the kidneys, fosinopril is eliminated from the body by both [[renal]] and [[hepatic]] pathways.<ref name="ref7">Zannad F., Chati Z., Guest M., Plat F. (1998). Differential effects of fosinopril and enalapril in patients with mild to moderate chronic heart failure. Fosinopril in Heart Failure Study Investigators. American Heart Journal, 136(4 Pt 1):672-80.</ref> This characteristic of fosinopril makes the drug a safer choice than other ACE inhibitors for heart failure patients with impaired kidney function resulting from poor [[perfusion]]<ref name="ref8">Greenbaum R., Zucchelli P., Caspi A., Nouriel H., Paz R., Sclarovsky S., O'Grady P.,  Yee K.F., Liao W.C., Mangold B. (2000). Comparison of the pharmacokinetics of fosinoprilat with enalaprilat and lisinopril in patients with congestive heart failure and chronic renal insufficiency. British Journal of Clinical Pharmacology, 49(1):23-31.</ref> as fosinopril can still be eliminated by the liver, preventing accumulation of the drug in the body.<ref name="ref7"/>
+
+==References==
+{{reflist}}
+
+{{ACE inhibitors}}
+{{Angiotensin receptor modulators}}
+
+[[Category:ACE inhibitors]]
+[[Category:Carboxamides]]
+[[Category:Enantiopure drugs]]
+[[Category:Phosphinates]]
+[[Category:Prodrugs]]
+[[Category:Pyrrolidines]]

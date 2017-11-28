@@ -1,0 +1,101 @@
+{{Drugbox
+| verifiedrevid = 461936702
+| IUPAC_name = ''N''-(4-<nowiki/>{4-[ethyl(heptyl)amino]-1-hydroxybutyl}phenyl)methanesulfonamide
+| image = Ibutilide.svg
+| width = 250
+
+<!--Clinical data-->
+| tradename = Corvert
+| Drugs.com = {{drugs.com|monograph|corvert}}
+| MedlinePlus = a601248
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category = C
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status =  
+| routes_of_administration = Intravenous
+
+<!--Pharmacokinetic data-->
+| bioavailability = N/A
+| protein_bound = 40%
+| metabolism = Hepatic oxidation
+| elimination_half-life = 6 hours (2-12 hours)
+| excretion = [[Kidney|Renal]] (82%), fecal
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7200
+| CAS_number_Ref = {{cascite|correct|CAS}}
+| CAS_number = 122647-31-8
+| ATC_prefix = C01
+| ATC_suffix = BD05
+| ATC_supplemental =  
+| PubChem = 60753
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00308
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 54755
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 2436VX1U9B
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00648
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 533
+
+<!--Chemical data-->
+| C=20 | H=36 | N=2 | O=3 | S=1 
+| molecular_weight = 384.578 g/mol
+| smiles = O=S(=O)(Nc1ccc(cc1)C(O)CCCN(CC)CCCCCCC)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C20H36N2O3S/c1-4-6-7-8-9-16-22(5-2)17-10-11-20(23)18-12-14-19(15-13-18)21-26(3,24)25/h12-15,20-21,23H,4-11,16-17H2,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ALOBUEHUHMBRLE-UHFFFAOYSA-N
+}}
+'''Ibutilide''' is a Class III [[antiarrhythmic]] agent that is indicated for acute cardioconversion of [[atrial fibrillation]] and [[atrial flutter]] of a recent onset to sinus rhythm. It exerts its antiarrhythmic effect by induction of slow inward sodium current, which prolongs action potential and [[refractory period (physiology)]] of myocardial cells. Because of its Class III antiarrhythmic activity, there should not be concomitant administration of Class Ia and Class III agents.
+
+Ibutilide is marketed as '''Corvert''' by [[Pfizer]]. Administration resulted in successful heart rhythm control in 31-44% of patients within 90 minutes, with sustained polymorphic [[ventricular tachycardia]] in 0.9-2.5% of patients. It appears to show better results in atrial flutter as compared to atrial fibrillation.<ref name="RythmControl">{{cite journal | last1 = Kowey | first1 = PR | last2 = Stoenescu | first2 = ML | title = Selection of drugs in pursuit of a rhythm control strategy | journal = Progress in cardiovascular diseases | volume = 48 | issue = 2 | pages = 139–45 | year = 2005 | pmid = 16253653 | doi = 10.1016/j.pcad.2005.06.009 }}</ref>
+
+== Mechanism of action ==
+Unlike most other Class III antiarrhythmic drugs, ibutilide does not produce its prolongation of action potential via blockade of cardiac delayed rectifier of potassium current{{Citation needed|date=May 2015}}, nor does it have a sodium-blocking, antiadrenergic, and calcium blocking activity that other Class III agents possess. Thus it is often referred as a “pure” Class III antiarrhythmic drug.{{Citation needed|date=May 2015}}
+
+Ibutilide, like other class III antiarrhythmic drugs, blocks delayed rectified potassium current.<ref>{{cite journal|last1=Murray|first1=K. T.|title=Ibutilide|journal=Circulation|date=10 February 1998|volume=97|issue=5|pages=493–497|doi=10.1161/01.CIR.97.5.493}}</ref>
+
+It does have action on the slow sodium channel and promotes the influx of sodium through these slow channels.
+
+Although potassium current seems to play a role, their interactions are complex and not well understood.<ref name=Howard>Howard, P.A., Ibutilide: An antiarrhythmic agent for the treatment of atrial fibrillation or flutter. Annals of Pharmacotherapy, 1999. 33(1): p. 38-47. {{PMID|9972384}}</ref> Ibutilide’s unique mechanism works by an activation of a specific inward sodium current, thus producing its therapeutic response in which a prolonged [[action potential]] increases myocytes’ cardiac refractoriness in case of atrial fibrillation and flutter.
+
+== Pharmacokinetics ==
+
+===Absorption===
+Ibutilide is intravenously administered. It has a high first-pass metabolism, which results in a poor [[bioavailability]] when taken orally. Individual pharmacokinetic properties are highly viable during the clinical trial.<ref name=Howard/><ref name=PI>Pharmacia-Upjohn, Corvert (ibutilide fumarate) injection package insert. July 2002: Kalamazoo, MI.</ref>
+
+===Distribution===
+Ibutilide has a relatively large volume of distribution among individual subjects, which is about 11L/kg. Approximately 40% of the drug is bound with plasma albumin of healthy volunteers in a trial. This is also approximately close to patients with atrial fibrillation and flutter.<ref name=PI/>
+
+===Metabolism===
+Ibutilide has a high systemic plasma [[Clearance (medicine)|clearance]] that closes to the hepatic blood flow  (29mL/min/kg). Its metabolic pathway is via liver’s cytochrome P450 system by isoenzymes other than [[CYP3A4]] and [[CYP2D6]] by which the heptyl side chain of ibutilide is oxidized.<ref name=Howard/><ref name=PI/> With eight metabolites are detected in the urine, however, only one is an active metabolite that shares the similar electrophysiologic property of the Class III antiarrhythmic agents.<ref name=Howard/><ref name=PI/><ref>Kelly C. Rogers, P., and Douglas A. Wolfe MD, Ibutilide: A class III rapidly acting antidysrhythmic for atrial fibrillation or atrial flutter. Journal of Emergency Medicine  January 2001. Volume 20( Issue 1): p. 67-71.</ref> The plasma concentration of this metabolite is only less than 10% of ibutilide.<ref name=PI/>
+
+===Excretion===
+After administration of ibutilide, it is quickly excreted by renal pathway with a half-life of approximately 6 hours. Approximately 82% of a 0.01&nbsp;mg/kg dose is excreted in the urine during the trial. Among those, around 7% is excreted as unchanged drug. The reminder of the drug is excreted in feces (about 19%).<ref name=Howard/>
+
+==Adverse effects and contraindications==
+Like other antiarrhythmics, ibutilide can lead to [[arrhythmia|abnormal heart rhythms]] due to its ability to prolong the [[QT interval]], which can lead to the potentially fatal abnormal heart rhythm known as [[torsades de pointes]]. Consequently, the drug is contraindicated in patients that are likely to develop abnormal heart rhythms; this includes persons that have had [[polymorphic ventricular tachycardia]] in the past, have a long QT interval, [[sick sinus syndrome]], or a recent [[myocardial infarction]], among others.<ref name="Austria-Codex">{{cite book|title=Austria-Codex|editor=Jasek, W|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2007|edition=2007/2008|volume=1|pages=1768–71|isbn=978-3-85200-181-4|language=German}}</ref>
+
+== Patient Information ==
+This medication will be given intravenously for your heart disease. You will have continuously ECG monitoring during the infusion and 4 hours after your infusion. Some of the minor side effects are headache and irregular heartbeat. If you experience chest pain and respiratory difficulties, you should report to your doctors immediately.<ref>Lexi-Comp, Lexi-Drugs Online : Ibutilide.</ref>
+
+==See also==
+*[[Sematilide]]
+*[[Risotilide]]
+
+== References ==
+{{reflist|30em}}
+
+{{Potassium channel blockers}}
+{{Antiarrhythmic agents}}
+
+[[Category:Antiarrhythmic agents]]
+[[Category:Sulfonamides]]
+[[Category:Alcohols]]
+[[Category:Potassium channel blockers]]

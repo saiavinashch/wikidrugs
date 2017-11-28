@@ -1,0 +1,72 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 464215284
+| IUPAC_name = 4-[(4-Chlorophenyl)-(5-fluoro-2-hydroxy-phenyl)-methylidene]aminobutanamide
+| image = Progabide structure.svg
+<!--Clinical data-->
+| tradename =  
+| pregnancy_category =  
+| legal_status = Prescription only
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability = 60%
+| protein_bound = 95%
+| metabolism = [[Hepatic]]
+| elimination_half-life = 4 hours
+| excretion = [[Renal]]
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 62666-20-0
+| ATC_prefix = N03
+| ATC_suffix = AG05
+| ATC_supplemental =  
+| PubChem = 5361323
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00837
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 10442693
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 38C836J57Z
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 287631
+<!--Chemical data-->
+| C=17 | H=16 | Cl=1 | F=1 | N=2 | O=2
+| molecular_weight = 334.772 g/mol
+| smiles = Clc1ccc(cc1)/C(=N\CCCC(N)=O)c2cc(F)ccc2O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H16ClFN2O2/c18-12-5-3-11(4-6-12)17(21-9-1-2-16(20)23)14-10-13(19)7-8-15(14)22/h3-8,10,22H,1-2,9H2,(H2,20,23)/b21-17+
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IBALRBWGSVJPAP-HEHNFIMWSA-N
+}}
+
+'''Progabide''' ([[International Nonproprietary Name|INN]]) (trade name '''Gabrene''', [[Sanofi-Aventis]]) is an [[analog (chemistry)|analogue]] and [[prodrug]] of [[γ-aminobutyric acid]] (GABA) used in the treatment of [[epilepsy]]. Via conversion into GABA, progabide behaves as an [[agonist]] of the [[GABAA receptor|GABA<sub>A</sub>]], [[GABA B receptor|GABA<sub>B</sub>]], and [[GABAA-rho receptor|GABA<sub>A</sub>-ρ receptor]]s.
+
+==Uses==
+Progabide is approved in [[France]] for either monotherapy or adjunctive use in the treatment of epilepsy&mdash;specifically, generalized tonic-clonic, myoclonic, partial, and [[Lennox-Gastaut syndrome]] seizures&mdash;in both children and adults.
+
+Progabide has been investigated for many diseases besides epilepsy, including [[Parkinson's disease]], [[schizophrenia]], [[clinical depression]], [[anxiety disorder]] and [[spasticity]] with various levels of success.
+
+In 1987, Bartolini and colleagues reported progabide's actions on dopamine to be contradictory, decreasing dopamine release, dopamine receptor density and postsynaptic receptor responsivity to dopamine while reducing striatal cholinergic activity so as to increase dopaminergic effects.<ref name="Bartholini_et_al_1987">Bartholini G, Scatton B, Zivkovic B, Lloyd KG. "GABA receptor agonists and extrapyramidal motor function: therapeutic implications for Parkinson's disease." ''Advances in Neurology.'' 1987;45:79-83. {{PMID|3030072}}</ref> Bartholini and colleagues concluded that it was this that caused Parkinson's patients in human clinical trials to either see an improvement in their Parkinson's with a worsening of L-dopa dyskinesia or an improvement in dyskinesia but with sometimes aggravated Parkinson's symptoms.<ref name="Bartholini_et_al_1987"/> The cholinergic effect takes only a single injection to achieve in rats; when given with [[haloperidol]], the development of tolerance to haloperidol's [[catalepsy|cataleptic]] effects did not develop.<ref name=Bartholini_et_al_1980>{{cite journal | author = Bartholini G. |author2=Scatton B |author3=Zivkovic B.  | year = 1980 | title = Effect of the new gamma-aminobutyric acid agonist SL 76 002 on striatal acetylcholine: relation to neuroleptic-induced extrapyramidal alterations | journal = Advances in Biochemical Psychopharmacology | volume = 24 | pages = 207–13 | pmid = 6105775}}</ref> It was hoped that this would be effective for [[tardive dyskinesia]]. However, Soares, Rathbone and Deeks wrote in the 2004 issue of ''The Cochrane Database of Systematic Reviews'' that "Any possible benefits are likely to be outweighed by the adverse effects associated with their [GABAergic agents'] use."<ref name=bust_for_TD>{{cite journal | first = K | last = Soares |author2=Rathbone J |author3=Deeks J.  | date = 18 October 2004 | title = Gamma-aminobutyric acid agonists for neuroleptic-induced tardive dyskinesia | journal = The Cochrane Database of Systematic Reviews | issue = 4 | doi = 10.1002/14651858.CD000203.pub2 | url = http://www.mrw.interscience.wiley.com/cochrane/clsysrev/articles/CD000203/frame.html | pmid = 15494993 | pages = CD000203 | editor1-last = Soares-Weiser | editor1-first = Karla}}</ref>
+
+In addition to being tested for antipsychotic-induced tardive dyskinesia, progabide was itself tested as an antipsychotic; as early as 1979, it was obvious that it was ineffective for [[psychosis]].<ref name=Bartholini_1979>{{cite journal | first = G. | last = Bartholini | year = 1979 | title = [Potential therapeutic activity of GABA-mimetic drugs in neuropsychiatry] | journal = Schweizer Archiv für Neurologie, Neurochirurgie und Psychiatrie = Archives suisses de neurologie, neurochirurgie et de psychiatrie | volume = 125 | issue = 2 | pages = 265–9 | pmid = 45343 }} (French)</ref> While progabide may have been devoid of antipsychotic effects, it did have the effect in schizoaffective and hebephrenic patients of improving environmental responsiveness and social interactions.<ref name=Lloyd_et_al_1983>{{cite journal | author = Lloyd KG |author2=Morselli PL |author3=Depoortere H |author4=Fournier V |author5=Zivkovic B |author6=Scatton B |author7=Broekkamp C |author8=Worms P |author9=Bartholini G.   |date=June 1983 | title = The potential use of GABA agonists in psychiatric disorders: evidence from studies with progabide in animal models and clinical trials | journal = Pharmacology, Biochemistry, and Behavior | volume = 18 | issue = 6 | pages = 957–66 | pmid = 6351106 | doi = 10.1016/S0091-3057(83)80021-5}}</ref>
+
+==Synthesis==
+[[File:Progabide synthesis.png|thumb|center|800px|Progabide synthesis: C Berthier, J. P. Allaigre, and J. Debois, French Demande, {{Cite patent|FR|2553763}} (1985).]]
+
+==See also==
+* [[Progabide acid]] (SL-75102), an [[active metabolite]] of progabide
+* [[Tolgabide]]
+
+==References==
+{{Reflist|2}}
+
+{{Anticonvulsants}}
+{{GABAergics}}
+
+[[Category:Anticonvulsants]]
+[[Category:Chloroarenes]]
+[[Category:GABAA receptor agonists]]
+[[Category:GABAA-rho receptor agonists]]
+[[Category:GABAB receptor agonists]]
+[[Category:Fluoroarenes]]
+[[Category:Phenols]]

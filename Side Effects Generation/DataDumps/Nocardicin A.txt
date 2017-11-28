@@ -1,0 +1,44 @@
+{{chembox
+| verifiedrevid = 442120120
+| ImageFile=Nocardicin A.png
+| ImageSize=200px
+| IUPACName=(2''R'')-2-Amino-4-[4-[''N''-hydroxy-C-<nowiki>[[</nowiki>(3''S'')-1- [(1''R'')-2-hydroxy-1-(4-hydroxyphenyl)-2- oxoethyl]-2-oxoazetidin-3- yl]carbamoyl]carbonimidoyl]phenoxy]butanoic acid
+| OtherNames=
+|Section1={{Chembox Identifiers
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4925179
+| InChI1 = 1/C23H24N4O9/c24-16(22(31)32)9-10-36-15-7-3-12(4-8-15)18(26-35)20(29)25-17-11-27(21(17)30)19(23(33)34)13-1-5-14(28)6-2-13/h1-8,16-17,19,28,35H,9-11,24H2,(H,25,29)(H,31,32)(H,33,34)/b26-18+/t16-,17+,19-/m1/s1
+| InChIKey1 = CTNZOGJNVIFEBA-TWTPMLPMBJ
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C23H24N4O9/c24-16(22(31)32)9-10-36-15-7-3-12(4-8-15)18(26-35)20(29)25-17-11-27(21(17)30)19(23(33)34)13-1-5-14(28)6-2-13/h1-8,16-17,19,28,35H,9-11,24H2,(H,25,29)(H,31,32)(H,33,34)/b26-18+/t16-,17+,19-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = CTNZOGJNVIFEBA-TWTPMLPMSA-N
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo=39391-39-4
+| PubChem=6419429
+| SMILES = O=C(O)[C@@H](c1ccc(O)cc1)N3C(=O)[C@@H](NC(=O)\C(=N\O)c2ccc(OCC[C@H](C(=O)O)N)cc2)C3
+}}
+|Section2={{Chembox Properties
+| Formula=C<sub>23</sub>H<sub>24</sub>N<sub>4</sub>O<sub>9</sub>
+| MolarMass=500.46 g/mol
+| Appearance=
+| Density=
+| MeltingPt=
+| BoilingPt=
+| Solubility=
+  }}
+|Section3={{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| AutoignitionPt =
+  }}
+}}
+
+'''Nocardicin A''' is a [[Beta-lactam antibiotic|β-lactam antibiotic]] included in the [[monobactam]] subclass.  It is secreted by the bacterium ''[[Nocardia]] uniformis'' subsp. ''tsuyamenensis'' as a metabolic product catalyzed by the [[enzyme]] [[nocardicin-A epimerase]].
+
+{{CephalosporinAntiBiotics}}
+
+[[Category:Monobactam antibiotics]]
+[[Category:Amino acid derivatives]]
+
+{{antibiotic-stub}}

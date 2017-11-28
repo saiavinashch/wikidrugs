@@ -1,0 +1,100 @@
+{{Refimprove|date=December 2009}}
+
+{{Drugbox
+| verifiedrevid = 457129255
+| IUPAC_name = (3''S'')-oxolan-3-yl ''N''-[(2''S'',3''R'')-3-hydroxy-4-[''N''-(2-methylpropyl)(4-aminobenzene)sulfonamido]-1-phenylbutan-2-yl]carbamate
+| image = Amprenavir structure.svg
+
+<!--Clinical data-->
+| tradename = Agenerase
+| Drugs.com = {{drugs.com|monograph|amprenavir}}
+| MedlinePlus = a699051
+| licence_EU = Agenerase
+| licence_US = Amprenavir
+| pregnancy_US = C
+| pregnancy_category =  
+| legal_status = ℞-only
+| routes_of_administration = Oral ([[Capsule (pharmacy)|capsules]])
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 90%
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life = 7.1–10.6 hours
+| excretion = <3% renal
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 161814-49-9
+| ATC_prefix = J05
+| ATC_suffix = AE05
+| ATC_supplemental =  
+| PubChem = 65016
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00701
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 58532
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 5S0W860XNR
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00894
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 40050
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 116
+| NIAID_ChemDB = 006080
+
+<!--Chemical data-->
+| C=25 | H=35
+| N=3 | O=6
+| S=1
+| molecular_weight = 505.628 g/mol
+| smiles = O=C(O[C@H]1CCOC1)N[C@@H](Cc2ccccc2)[C@H](O)CN(CC(C)C)S(=O)(=O)c3ccc(N)cc3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C25H35N3O6S/c1-18(2)15-28(35(31,32)22-10-8-20(26)9-11-22)16-24(29)23(14-19-6-4-3-5-7-19)27-25(30)34-21-12-13-33-17-21/h3-11,18,21,23-24,29H,12-17,26H2,1-2H3,(H,27,30)/t21-,23-,24+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YMARZQAQMVYCKC-OEMFJLHTSA-N
+}}
+
+'''Amprenavir''' (original brand name '''Agenerase''', [[GlaxoSmithKline]]) is a [[protease inhibitor (pharmacology)|protease inhibitor]] used to treat [[HIV]] infection. It was approved by the [[Food and Drug Administration]] on April 15, 1999, for twice-a-day dosing instead of needing to be taken every eight hours. The convenient dosing came at a price, as the dose required is 1,200&nbsp;mg, delivered in 8 (eight) very large 150 mg gel capsules or 24 (twenty-four) 50 mg gel capsules twice daily.<ref name = "PI">{{cite web|title=Agenerase (amprenavir) Capsules. Full Prescribing Information. Section Dosage and Administration|url=http://www.accessdata.fda.gov/drugsatfda_docs/label/2002/21007s11,21039s10lbl.pdf|website=US Food and Drug Administration|publisher=GlaxoSmithKline and Vertex Pharmaceuticals Inc.|accessdate=29 November 2015}}</ref>
+
+Production of amprenavir was discontinued by the manufacturer on December 31, 2004; a [[prodrug]] version ([[fosamprenavir]]), is available.
+
+==Background==
+Research aimed at development of [[renin inhibitors]] as potential [[antihypertensive agents]] had led to the discovery of compounds that blocked the action of this peptide cleaving enzyme. The amino acid sequence cleaved by [[renin]] was found to be fortuitously the same as that required to produce the HIV peptide coat. Structure–activity studies on renin inhibitors proved to be of great value for developing [[HIV protease inhibitors]]. Incorporation of an [[amino alcohol]] moiety proved crucial to inhibitory activity for many of these agents. This unit is closely related to the one found in the [[statine]], an unusual amino acid that forms part of the [[pepstatin]], a fermentation product that inhibits protease enzymes.
+
+[[File:3nu3 478.png|thumb|left|[[HIV-1 protease]] dimer with amprenavir (sticks) bound in the active site. PDB entry {{PDBe|3nu3}}<ref>{{Cite journal 
+| last1 = Shen | first1 = C. H. 
+| last2 = Wang | first2 = Y. F. 
+| last3 = Kovalevsky | first3 = A. Y. 
+| last4 = Harrison | first4 = R. W. 
+| last5 = Weber | first5 = I. T. 
+| title = Amprenavir complexes with HIV-1 protease and its drug-resistant mutants altering hydrophobic clusters 
+| doi = 10.1111/j.1742-4658.2010.07771.x 
+| journal = FEBS Journal 
+| volume = 277 
+| issue = 18 
+| pages = 3699–3714 
+| year = 2010 
+| pmid = 20695887 
+| pmc =2975871 
+}}</ref>]]
+
+==See also==
+* [[Fosamprenavir]], a prodrug of amprenavir with improved pharmacokinetic parameters and dosing regimen
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.ebi.ac.uk/pdbe-srv/PDBeXplore/ligand/?ligand=478 Amprenavir bound to proteins] in the [[Protein Data Bank|PDB]]
+
+{{HIVpharm}}
+
+[[Category:Abandoned drugs]]
+[[Category:Carbamates]]
+[[Category:HIV protease inhibitors]]
+[[Category:Sulfonamides]]
+[[Category:Tetrahydrofurans]]
+
+{{Antimicrobial-stub}}

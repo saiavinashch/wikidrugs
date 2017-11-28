@@ -1,0 +1,97 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 458621431
+| image = 
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = zu/o
+| target = [[CD25]]
+<!-- Clinical data -->
+| tradename = Zinbryta (multiple sclerosis)<br/>Zenapax (acute transplant rejection, discontinued in 2009)
+| Drugs.com = {{drugs.com|parent|zinbryta}}
+| pregnancy_AU = B3
+| pregnancy_US = C
+| legal_AU = S4
+| legal_US = Rx-only
+| legal_status = Rx-only
+| routes_of_administration = [[Subcutaneous injection]] (MS)<br/>[[Intravenous]] (transplant rejection, discontinued)
+<!-- Pharmacokinetic data -->
+| bioavailability = 90%
+| protein_bound = 
+| metabolism = [[Protease]]s
+| elimination_half-life = 21 days (11–38 days)
+<!-- Identifiers -->
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 152923-56-3
+| ATC_prefix = L04
+| ATC_suffix = AC01
+| ATC_supplemental = 
+| PubChem = 
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00111
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = CUJ2MVI71Y
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201605
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D03639
+<!-- Chemical data -->
+| C=6332 | H=9808 | N=1678 | O=1989 | S=42
+| molecular_weight = 142,612.1 g/mol
+}}
+'''Daclizumab''' (trade name '''Zinbryta''', by [[Biogen]]) is a therapeutic humanized [[monoclonal antibody]] used for the treatment of adults with relapsing forms of [[multiple sclerosis]] (MS). Daclizumab works by binding to [[CD25]], the alpha subunit of the [[IL-2 receptor]] of [[T-cells]].
+
+It was formerly marketed under the trade name '''Zenapax''' to prevent acute [[Transplant rejection|rejection]] in people with [[kidney]] transplants along with cyclosporine and corticosteroids but marketing of the drug for that purpose was discontinued in 2009 due to lack of market demand.
+
+==Medical uses==
+Daclizumab is used to treat adults with relapsing forms of [[multiple sclerosis]].<ref name=BLAapproval>FDA [http://www.accessdata.fda.gov/drugsatfda_docs/appletter/2016/761029Orig1s000ltr.pdf BLA Approval letter] May 27, 2016</ref>  It is administered subcutaneously.<ref name=2015rev>Lycke J. Monoclonal antibody therapies for the treatment of relapsing-remitting multiple sclerosis: differentiating mechanisms and clinical outcomes. Ther Adv Neurol Disord. 2015 Nov;8(6):274-93. Review. {{PMID|26600872}} [http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4643868/ PMC 4643868]</ref>
+
+In clinical trials it showed 45% decrease in annualized relapse rate, a 41% reduction in the proportion of patients who relapsed, and a 54% reduction in the number of new lesions.<ref name=2015rev/>
+
+===Discontinued use===
+Daclizumab was approved and used to prevent acute rejection of kidney transplant, along with cyclosporine and corticosteroids.<ref name=RejectionLabel>[http://www.accessdata.fda.gov/drugsatfda_docs/label/2005/103749s5059lbl.pdf Rejection label] Supplement label update September 2005</ref>  For that indication, side effects with a frequency of at least 10% included sleeplessness, [[tremor]], headache, [[arterial hypertension]], [[dyspnoea]], gastrointestinal side effects and [[oedema]]. In rare cases, the drug could cause severe [[anaphylaxis]].<ref name="EPAR">{{cite web|url=http://www.emea.europa.eu/docs/en_GB/document_library/EPAR_-_Summary_for_the_public/human/000198/WC500057570.pdf|title=EPAR for Zenapax|publisher=European Medicines Agency|year=2007}}</ref>
+
+==Contraindications==
+In the US, daclizumab is contraindicated in people with liver impairment, including significantly elevated liver enzymes ([[Alanine transaminase|ALT]], [[Aspartate transaminase|AST]]) and [[autoimmune hepatitis]].<ref>{{Drugs.com|pro|zinbryta}} for Zinbryta.</ref> The [[European Medicines Agency]] (EMA) originally approved the drug without any contraindications apart from known [[hypersensitivity]],<ref name="AC" /> but required Biogen to implement a hepatic risk management guide for physicians.<ref>{{cite web|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/003862/WC500210598.pdf|title=Zinbryta Summary of Product Characteristics|publisher=European Medicines Agency|year=2016}}</ref> In July 2017, the EMA has issued a provisional contraindication for patients with pre-existing liver disease or liver impairment.<ref>{{cite web|url=http://www.ema.europa.eu/docs/en_GB/document_library/Referrals_document/Zinbryta_20/Under_evaluation/WC500230924.pdf|title=Zinbryta Article-20 referral - Summary of provisional measures|publisher=European Medicines Agency|date=20 July 2017}}</ref>
+
+==Adverse effects==
+In clinical trials for MS, there were no treatment-related deaths or increased risk of cancer; side effects that occurred more frequently with daclizumab versus interferon included infections (65% versus 57%), skin rashes (37% versus 19%) and liver complications  (approximately 18% versus 12%).<ref name=2015rev/>
+
+==Interactions==
+As an antibody, daclizumab is expected to have a very low potential for [[pharmacokinetic]] interactions with other drugs.<ref name="AC">{{cite book|title=Austria-Codex|editor=Haberfeld, H|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2016|language=German}}</ref>
+
+==Pharmacology==
+===Mechanism of action===
+Daclizumab blocks IL-2 receptors containing the alpha subunit (CD25), which include the high-affinity receptors. Medium-affinity receptors, on the other hand, consist of two beta subunits ([[CD122]]) and are not affected by daclizumab. While the exact mechanism is unknown, the net effect is a reduction of T-cell responses and expansion of [[CD56]]<sup>bright</sup> [[natural killer cell]]s.<ref name="AC" />
+
+===Pharmacokinetics===
+After [[subcutaneous injection]] of a single dose, daclizumab has a [[bioavailability]] of about 90% and reaches highest [[blood plasma]] levels after 5 to 7 days. Given every four weeks, steady state concentrations are found after the fourth dose. It is expected that daclizumab, like other antibodies, is degraded by [[protease]]s to peptides and finally amino acids, and that it does not interact with [[cytochrome P450]] liver enzymes.<ref name="AC" />
+
+The [[biological half-life]] is 21 days. Patients who developed antibodies against daclizumab eliminated it 19% faster.<ref name="AC" />
+
+==History==
+Daclizumab was created by scientists at [[PDL BioPharma]] (called "Protein Design Labs" at that time) by [[humanized monoclonal antibody|humanizing]] the mouse mAb called anti-Tac, which targets [[CD25]], the IL-2 receptor α chain; it blocks the interaction of [[Interleukin 2|IL-2]] with the IL-2 receptor and prevents activation of [[T cells]].<ref>{{Cite journal | last1 = Tsurushita | first1 = N.| last2 = Hinton | first2 = P. R. | last3 = Kumar | first3 = S. | doi = 10.1016/j.ymeth.2005.01.007 | title = Design of humanized antibodies: From anti-Tac to Zenapax | journal = Methods | volume = 36 | issue = 1 | pages = 69–83 | year = 2005 | pmid = 15848076}}</ref> Anti-Tac had been discovered by Thomas A. Waldmann, M.D., chief of the Metabolism Branch at the [[National Cancer Institute]] and his team, and they had conducted animal studies and a small clinical trial of anti-Tac in people with T-cell leukemia, with promising results, but people quickly developed their own antibodies rejecting the mouse protein; Waldman, and his colleagues then approached Protein Design Labs to humanize the antibody.<ref name=JNCI>Marwick C. [http://jnci.oxfordjournals.org/content/93/1/13.long Scientists recall progress and promise of translational research]. J Natl Cancer Inst. 2001 Jan 3;93(1):13-5. {{PMID|1113683}}.</ref>  PDL and the NIH scientists then approached [[Hoffmann-La Roche|Roche]], a leader in transplant medicine development, to get the drug developed and approved, as PDL didn't have the resources to actually bring the product to market.<ref name=JNCI/>
+
+In December 1997 daclizumab was approved by the FDA for use in preventing acute rejection of kidney transplants, in combination with ciclosporin and corticosteroids; it was the first humanized antibody approved anywhere in the world.<ref>Lawrence M. Fisher for The New York Times. December 12, 1997 [https://www.nytimes.com/1997/12/12/us/genetically-engineered-drug-approved-for-kidney-transplants.html Genetically Engineered Drug Approved for Kidney Transplants]</ref><ref name=PLfirst>Staff, The Pharma Letter. December 17, 1997. [http://www.thepharmaletter.com/article/roche-s-zenapax-gets-first-approval-for-transplants Roche's Zenapax Gets First Approval For Transplants]</ref>  At launch, the average wholesale price for the drug was estimated to be $6,800 for five doses and it was estimated that annual sales would be between $100 million and $250 million within five years of the launch and it was thought that the drug's use would be expanded for use in other organ transplants.<ref name=PLfirst/>  It was approved in Europe in 1999.<ref>Roche. March 04, 1999 [http://www.evaluategroup.com/Universal/View.aspx?type=Story&id=7568 Roche Press Release:  Zenapax (daclizumab), The First Humanized Monoclonal Antibody To Prevent Organ Rejection, Approved In The European Union]</ref>
+
+PDL began clinical trials of daclizumab on its own, and in September 2004 after the drug had shown promise in a Phase II trial, PDL and Roche agreed to expand their relationship to include codevelopment of daclizumab for asthma and other respiratory conditions.<ref>Candace Hoffmann for First Word Pharma. September 16, 2004  [http://www.firstwordpharma.com/node/217798?tsid=17#axzz4AHJfVHyr Roche in new deal to co-development asthma drug]</ref>  In August 2005, PDL and [[Biogen Idec]] agreed to collaborate to develop daclizumab in indications outside the fields of organ rejection and respiratory disease.<ref>Thiel KA. A very firm handshake: biotech's growing negotiating power. Nat Biotechnol. 2005 Oct;23(10):1221-6. {{PMID|16211058}}</ref>   In November 2005 Roche and PDL agreed to try to develop a formulation of daclizumab that would be useful as a [[subcutaneous injection]] for longterm maintenance in organ transplant.<ref>Staff, PharmaTimes. November 1, 2005 [http://www.pharmatimes.com/news/roche_inks_new_deal_for_transplant_drug_997651 Roche inks new deal for transplant drug]</ref>  The next year Roche and PDL announced that the collaboration for all indications was ending,<ref>PharmaTimes  November 23, 2006 [http://www.pharmatimes.com/news/roche_ducks_out_of_transplant_drug_alliance_995643 Roche ducks out of transplant drug alliance]</ref> and in 2009 it announced that it was discontinuing Zenapax worldwide "in view of available alternative treatments and the diminishing market demand" and "not due to any safety issue."<ref>[http://www.ema.europa.eu/humandocs/PDFs/EPAR/Zenapax/68376508en.pdf EMEA: Withdrawal of the marketing authorisation in the European Union]</ref><ref>Roche via the FDA [http://www.fda.gov/downloads/Drugs/DrugSafety/DrugShortages/UCM194907.pdf Letter to  Healthcare Professionals] September 2009</ref>
+
+in 2008 PDL spun out its active development programs into a company called Facet Biotech and development of daclizumab for multiple sclerosis and the partnership with Biogen was included in that spinout.<ref>John Carroll for FierceBiotech. 2009 [http://www.fiercebiotech.com/special-report/emerging-drug-developer-facet-biotech Emerging Drug Developer: Facet Biotech]</ref><ref name=2008sec>[https://www.sec.gov/Archives/edgar/data/882104/000110465908078237/a08-30875_18k.htm PDL BioPharma, Inc. Form 8-K] December 17, 2008</ref>  In 2009 Biogen attempted a hostile buy out of Facet for $350M;<ref>Luke Timmerman for Xconomy. September 4, 2009 [http://www.xconomy.com/boston/2009/09/04/biogen-idec-makes-hostile-350m-takeover-bid-for-facet-biotech/ Biogen Idec Makes Hostile $350M Takeover Bid for Facet Biotech]</ref> Facet rejected that offer and was purchased by [[Abbvie]] for $450 million in cash the next year.<ref>Staff, New York Times Dealbook.  March 9, 2010. [https://dealbook.nytimes.com/2010/03/09/abbott-to-buy-facet-biotech-for-67-premium/ Abbott to Buy Facet Biotech for 67% Premium]</ref>  In May 2016 the FDA approved daclizumab for the treatment of relapsing multiple sclerosis in adults in 2016 under the trade name Zinbryta, with requirements for postmarketing studies and to submit a formal Risk Evaluation and Mitigation Strategy.<ref name=BLAapproval/><ref>[http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm504000.htm  FDA News Release: FDA approves Zinbryta to treat multiple sclerosis] May 27, 2016</ref>
+
+==Research==
+Daclizumab has been studied in a small clinical trial of people with  [[birdshot chorioretinopathy]].<ref name="pmid18268208">{{cite journal |author=Sobrin L |author2=Huang JJ |author3=Christen W |author4=Kafkala C |author5=Choopong P |author6=Foster CS |title=Daclizumab for treatment of birdshot chorioretinopathy |journal=Arch Ophthalmol. |volume=126 |issue=2 |pages=186–191 |year=2008 |pmid=18268208 |doi=10.1001/archophthalmol.2007.49}}</ref>
+
+==References==
+{{Reflist|2}}
+
+{{Immunosuppressants}}
+{{Monoclonals for immune system}}
+{{Interleukin receptor modulators}}
+
+[[Category:Monoclonal antibodies]]
+[[Category:Immunosuppressants]]
+[[Category:Requests for audio pronunciation (English)]]

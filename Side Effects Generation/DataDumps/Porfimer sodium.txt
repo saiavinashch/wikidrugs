@@ -1,0 +1,80 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464210732
+| IUPAC_name =  
+| image = Porfimer Sodium.png
+| width = 300
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CDI|porfimer_sodium}}
+| licence_EU = Photobarr
+| licence_US = Photofrin
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = C
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = Rx-only
+| routes_of_administration = [[Intravenous therapy|Intravenous]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = NA
+| protein_bound = ~90%
+| metabolism =  
+| elimination_half-life = 21.5 days (mean)
+| excretion = Fecal
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 97067-70-4
+| CAS_supplemental = {{CAS|87806-31-3}}
+| ATC_prefix = L01
+| ATC_suffix = XD01
+| ATC_supplemental =  
+| PubChem = 57166
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB00707
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 10482283
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = Y3834SIK5F
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201707
+
+<!--Chemical data-->
+| C=68 | H=74 | N=8 | O=11
+| chemical_formula_comment = (for n=0) 
+| molecular_weight = 1179.36 g/mol (for n=0)
+| smiles = [Na+].OC(=O)CC\C2=C(/C)c1cc%10nc(cc4nc(cc3nc(cc2n1)c(CCC(O)=O)c3C)/C(=C4/C)C(C)OC(C)c9c5nc(cc8nc(cc7nc(cc6nc(c5)C(\C)=C6\C(C)O)c(C)c7CCC(O)=O)C(\CCC(O)=O)=C8\C)c9C)c(C(C)O)c%10C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C68H74N8O11.Na/c1-29-41(13-17-61(79)80)53-28-56-44(16-20-64(85)86)32(4)48(72-56)24-59-68(36(8)52(76-59)25-58-65(37(9)77)33(5)49(73-58)21-45(29)69-53)40(12)87-39(11)67-35(7)50-22-46-30(2)42(14-18-62(81)82)54(70-46)27-55-43(15-19-63(83)84)31(3)47(71-55)23-57-66(38(10)78)34(6)51(74-57)26-60(67)75-50;/h21-28,37-40,71-73,75,77-78H,13-20H2,1-12H3,(H,79,80)(H,81,82)(H,83,84)(H,85,86);/q;+1/b45-21-,46-22-,47-23-,48-24-,49-21-,50-22-,51-26-,52-25-,53-28-,54-27-,55-27-,56-28-,57-23-,58-25-,59-24-,60-26-;
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = CGQHMICGJYKFFJ-ZLJVSRBASA-N
+}}
+'''Porfimer sodium''', sold as '''Photofrin''', is a [[photosensitizer]] used in [[photodynamic therapy]] and [[radiation therapy]] and for [[palliative care|palliative treatment]] of obstructing endobronchial [[non-small cell lung carcinoma]] and obstructing [[esophageal cancer]].
+
+Porfimer is a mixture of [[oligomers]] formed by ether and ester linkages of up to eight [[porphyrin]] units.<ref>{{cite web |url=http://www.accessdata.fda.gov/drugsatfda_docs/label/2008/020451s019lbl.pdf |title=Porfimer injection Prescribing information}}</ref>  In practice, a red light source emitting at 630&nbsp;nm is used to excite the Porfimer oligomers.<ref name=LC>{{cite journal |url=http://journals.lww.com/jto/Fulltext/2006/06000/Photodynamic_Therapy__PDT__for_Lung_Cancers.18.aspx |title=Photodynamic Therapy (PDT) for Lung Cancers |year=2006 }}</ref>
+
+Porfimer is [[Haematoporphyrin]] Derivative (HpD) (See [[Photodynamic therapy#20th century development of PDT|PDT]]).
+
+==Approvals and indications==
+It was approved in Canada in 1993 for the treatment of [[bladder cancer]].<ref name=LC/>
+It was approved in Japan in 1994 (for early stage lung cancer?).<ref name=LC/>
+It was approved by the [[U.S. Food and Drug Administration|U.S. FDA]] in December 1995 for [[esophageal cancer]], and in 1998, it was approved for the treatment of early [[non-small cell lung cancer]].<ref name=LC/>
+
+In August 2003 the FDA approved its use for [[Barrett's esophagus]].<ref>{{cite web |url=http://www.accessdata.fda.gov/psn/printer-full.cfm?id=24 |title=FDA Patient Safety News: Show #20, October 2003 |date=October 2003 |accessdate=2009-08-17}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.epgonline.org/viewdrug.cfm/letter/P/language/LG0001/drugId/DR003068/drugName/PHOTOFRIN Photofrin ]
+*[http://www.photofrin.com/ Photofrin marketing info ]
+*[http://www.rxlist.com/cgi/generic/photofrin_ad.htm Side effects of PDT with Photofrin]
+*[http://www.quasar.ualberta.ca/edse456/apt/vignettes/photofrin.htm History of Photofrin]
+
+{{Chemotherapeutic agents}}
+
+[[Category:Photosensitizing agents]]
+[[Category:Porphyrins]]

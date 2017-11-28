@@ -1,0 +1,60 @@
+{{Drugbox
+| verifiedrevid = 448018743
+| IUPAC_name = (2S,5R,6R)-3,3-dimethyl-7-oxo-6-[ [3-oxo-3-(phenoxy)-2-phenylpropanoyl]amino]-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid
+| image = Carfecillin.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number = 27025-49-6
+| ATC_prefix = G01
+| ATC_suffix = AA08
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 3414
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C23H22N2O6S/c1-23(2)17(21(28)29)25-19(27)16(20(25)32-23)24-18(26)15(13-9-5-3-6-10-13)22(30)31-14-11-7-4-8-12-14/h3-12,15-17,20H,1-2H3,(H,24,26)(H,28,29)/t15?,16-,17+,20-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = NZDASSHFKWDBBU-KVMCETHSSA-N
+| PubChem = 33672
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 31054
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 9UU4XDB74X
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1095283
+
+<!--Chemical data-->
+| C=23 | H=22 | N=2 | O=6 | S=1 
+| molecular_weight = 454.49558 g/mol
+| smiles = O=C(O)[C@@H]3N4C(=O)[C@@H](NC(=O)C(c1ccccc1)C(=O)Oc2ccccc2)[C@H]4SC3(C)C
+}}
+
+'''Carfecillin''' is a [[beta-lactam]] [[antibiotic]].  It is a [[phenyl]] derivative of [[carbenicillin]], acting as a [[prodrug]].
+
+{{Gynecological anti-infectives and antiseptics}}
+
+[[Category:Penicillins]]
+[[Category:Prodrugs]]
+
+
+{{antibiotic-stub}}
+{{genito-urinary-drug-stub}}

@@ -1,0 +1,117 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 460784423
+| Name = Dieldrin
+| ImageFile1 = Dieldrin-3D-balls.png
+| ImageFile2 = Dieldrin.svg
+| ImageName = Dieldrin
+| IUPACName = (1a''R'',2''R'',2a''S'',3''S'',6''R'',6a''R'',7''S'',7a''S'')-3,4,5,6,9,9-hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-2,7:3,6-dimethanonaphtho[2,3-''b'']oxirene
+| OtherNames = Dieldrin, HEOD
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = I0246D2ZS0
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 10292746
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 481118
+| InChI = 1/C12H8Cl6O/c13-8-9(14)11(16)5-3-1-2(6-7(3)19-6)4(5)10(8,15)12(11,17)18/h2-7H,1H2/t2-,3+,4+,5-,6-,7+,10+,11-
+| InChIKey = DFBKLUNHFCTMDC-PICURKEMBL
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C12H8Cl6O/c13-8-9(14)11(16)5-3-1-2(6-7(3)19-6)4(5)10(8,15)12(11,17)18/h2-7H,1H2/t2-,3+,4+,5-,6-,7+,10+,11-
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = DFBKLUNHFCTMDC-PICURKEMSA-N
+| CASNo = 60-57-1
+| CASNo_Ref = {{cascite|correct|CAS}}
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = C13718
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 34696
+| SMILES = ClC5(Cl)[C@]3(Cl)C(\Cl)=C(\Cl)[C@@]5(Cl)[C@H]4[C@H]1C[C@H]([C@@H]2O[C@H]12)[C@@H]34
+| PubChem = 969491
+}}
+|Section2={{Chembox Properties
+| C=12 | H=8 | Cl=6 | O=1
+| MolarMass = 380.91 g/mol
+| Density = 1.75 g/cm<sup>3</sup>
+| MeltingPtC = 176 to 177
+| MeltingPt_notes = 
+| BoilingPtC = 385
+| Appearance = colorless to light tan crystals
+| Solubility = 0.02%<ref name=PGCH/>
+  }}
+|Section7={{Chembox Hazards
+| PEL = TWA 0.25 mg/m<sup>3</sup> [skin]<ref name=PGCH>{{PGCH|0206}}</ref>
+| IDLH = Ca [50 mg/m<sup>3</sup>]<ref name=PGCH/>
+| REL = Ca TWA 0.25 mg/m<sup>3</sup> [skin]<ref name=PGCH/>
+| MainHazards = potential [[carcinogen]]<ref name=PGCH/>
+| LD50 = 45 mg/kg (oral, rabbit)<br/>49 mg/kg (oral, guinea pig)<br/>38 mg/kg (oral, mouse)<br/>65 mg/kg (oral, dog)<br/>38 mg/kg (oral, rat)<ref name=IDLH>{{IDLH|60571|Dieldrin}}</ref>
+| FlashPt = noncombustible
+| FlashPt_notes = <ref name=PGCH/>
+| LC50 = 80 mg/m<sup>3</sup> (cat, 4 hr)<br/>13 mg/m<sup>3</sup> (rat, 4 hr)<ref name=IDLH/>
+}} }}
+
+'''Dieldrin''' is an [[organochloride]] originally produced in 1948 by J. Hyman & Co, Denver, as an [[insecticide]]. Dieldrin is closely related to [[aldrin]], which reacts further to form dieldrin. Aldrin is not toxic to insects; it is oxidized in the insect to form dieldrin which is the active compound. Both dieldrin and aldrin are named after the [[Diels-Alder reaction]] which is used to form aldrin from a mixture of norbornadiene and [[hexachlorocyclopentadiene]].
+
+Originally developed in the 1940s as an alternative to [[DDT]], dieldrin proved to be a highly effective insecticide and was very widely used during the 1950s to early 1970s. [[Endrin]] is a [[stereoisomer]] of dieldrin.
+
+However, it is an extremely [[persistent organic pollutant]]; it does not easily [[biodegradation|break down]]. Furthermore, it tends to [[biomagnify]] as it is passed along the [[food chain]].  Long-term exposure has proven toxic to a very wide range of animals including humans, far greater than to the original insect targets. For this reason it is now [[ban (law)|banned]] in most of the world.
+
+It has been linked to health problems such as [[Parkinson's]], [[breast cancer]], and immune, reproductive, and nervous system damage. It is also an [[endocrine disruptor]], acting as an [[estrogen]] and [[antiandrogen]], and can adversely affect testicular descent in the [[fetus]] if a pregnant woman is exposed to it.<ref name="Raun AndersenVinggaard2002">{{cite journal|last1=Raun Andersen|first1=Helle|last2=Vinggaard|first2=Anne Marie|last3=Høj Rasmussen|first3=Thomas|last4=Gjermandsen|first4=Irene Marianne|last5=Cecilie Bonefeld-Jørgensen|first5=Eva|title=Effects of Currently Used Pesticides in Assays for Estrogenicity, Androgenicity, and Aromatase Activity in Vitro|journal=Toxicology and Applied Pharmacology|volume=179|issue=1|year=2002|pages=1–12|issn=0041-008X|doi=10.1006/taap.2001.9347}}</ref>
+
+==Synthesis==
+Dieldrin can be formed from the synthesis of hexachloro-1,3-cyclopentadiene with [[norbornadiene]] in a [[Diels-Alder reaction]], followed by epoxidation of the norbornene ring.<ref name="Tedder">{{cite book |first=A. H. | last=Jubb |year=1975
+| title =Basic Organic Chemistry, Part 5 Industrial products | publisher=Wiley
+| location =London | isbn=0-471-85014-4}}</ref>
+
+[[Image:DieldrinSynthesis.png|thumbnail|left|480px|Synthesis of Dieldrin via a [[Diels-Alder reaction]]]]{{clear|left}}
+
+==Legislation and history==
+The chemicals dieldrin and aldrin were widely applied in agricultural areas throughout the world. Both are toxic and bioaccumulative. Aldrin does break down to dieldrin in living systems, but dieldrin is known to resist bacterial and chemical breakdown processes in the environment.
+
+Aldrin was used to control soil pests (namely termites) on corn and potato crops. Dieldrin was an insecticide used on fruit, soil, and seed. It persists in the soil with a half-life of five years at temperate latitudes. Both aldrin and dieldrin may be volatilized from sediment and redistributed by air currents, contaminating areas far from their sources. They have been measured in Arctic wildlife, suggesting long range transport from southern agricultural regions.<ref>(Orris et al. 2000)</ref>
+
+Both aldrin and dieldrin have been banned in most developed countries, but aldrin is still used as a termiticide in Malaysia, Thailand, Venezuela and parts of Africa. In Canada, their sale was restricted in the mid-1970s, with the last registered use of the compounds in Canada being withdrawn in 1984.<ref>[http://www.ecoinfo.org/env_ind/region/toxin_descript/toxin_description_e.cfm Toxin Description]</ref>
+
+IPCS quotes the World Health Organization as stating dieldrin is prohibited for use in agriculture in, among others, Brazil, Ecuador, Finland, the German Democratic Republic, Singapore, Sweden, Yugoslavia, and the USSR.  The European Community legislation prohibits the marketing of phytopharmaceutical products containing dieldrin. In Argentina, Canada, Chile, the Federal Republic of Germany, Hungary, and the USA, its use is prohibited, with some exceptions.  The use of dieldrin is restricted in India, Mauritius, Togo, and the United Kingdom. Its use in industry is prohibited in Switzerland and its manufacture and use in Japan is under government control.  In Finland, the only accepted use for dieldrin is as a termiticide in one glue mixture for exported plywood.  India requires registration and licences for all importation, manufacture, sale, or storage.
+
+==Australia==
+Organochlorines and other chemicals were originally developed in the 1930s for use as insecticides and pesticides. DDT became famous worldwide in 1939 after its use in overcoming a typhus infestation in Naples. The use of organochlorines increased during the 1950s and peaked in the 1970s. Their use in Australia was dramatically lowered between the mid 1970s and the early 1980s. The first restrictions on the use of dieldrin and related chemicals in Australia were introduced in 1961-2, with registration required for their use on produce animals, such as cattle and chickens. This coincided with increasing concerns worldwide about the long-term effects of persistent pesticides. The publication of ''[[Silent Spring]]'' (an account of the environmental and health effects of pesticides) by [[Rachel Carson]] in 1962 was a key driving force in raising this concern. The phase-out process was driven by government bans and deregistration, in turn promoted by changing public perceptions that food containing residues of these chemicals was less acceptable and possibly hazardous to health.
+
+Throughout this time, continuous pressure was maintained by relevant committees, for example the Technical Committee on Agricultural Chemicals (TCAC), to reduce approved organochlorine use. By 1981, the use of dieldrin worldwide was limited to sugarcane and bananas, and these uses were deregistered by 1985. In 1987, a nationwide recall system was put into place, and in December of that year, the government prohibited all imports of these chemicals into Australia without express ministerial approval. In 1994, the National Registration Authority for Agricultural and Veterinary Chemicals published a use of organochlorines in termite control, recommending the phase-out of organochlorines used in termite control upon development of viable alternatives. The same year, the Agriculture and Resource Management Council of Australia and New Zealand decided to phase out remaining organochlorine uses by 30 June 1995, with the exception of the Northern Territory. In November 1997, the use of all organochlorines other than mirex was phased out in Australia. Remaining stocks of mirex are to be used only for contained baits for termites in plantations of young trees in the Northern Territory until stocks run out, which is expected in the near future.
+
+The recognition of negative impacts on health has stimulated the implementation of multiple legislative policies in regards to the use and disposal of organochlorine pesticides. For example, the Environment Protection (Marine) Policy 1994 became operational in May 1995 in South Australia. It dictated the acceptable concentration of toxicants such as dieldrin in marine waters and the manner in which these levels must be tested and tried.
+
+Momentum against organochlorine and similar molecules continued to grow internationally, leading, to negotiations which matured as the Stockholm Convention on the use of persistent organic pollutants (POPs). POPs are defined as hazardous and environmentally persistent substances which can be transported between countries by the earth's oceans and atmosphere.
+
+Most POPs (including dieldrin) bioaccumulate in the fatty tissues of humans and other animals. The Stockholm Convention banned 12 POPs, nicknamed "the dirty dozen". These include: aldicarb, [[toxaphene]], chlordane and heptachlor, chlordimeform, chlorobenzilate, DBCP, DDT, "'''drins'''" (aldrin, dieldrin and endrin), EDB, HCH and lindane, paraquat, parathion and methyl parathion, pentachlorophenol, and 2,4,5-T. This took force on 17 May 2004. Australia ratified the Convention only three days later and became a party to it in August that year.
+
+Well before this, Australia had been well advanced in meeting the measures agreed upon under the Convention. Production, import and use of aldrin, [[chlordane]], DDT, dieldrin, [[hexachlorobenzene]] (HCB), [[heptachlor]], endrin, and [[toxaphene]] are not permitted in Australia. Production and importation of [[polychlorinated biphenyl]]s (PCBs) are not permitted in Australia, with the phase-out of existing PCBs being managed under the National Strategy for the Management of Scheduled Waste. This strategy also addresses how Australia will manage HCB waste and organochlorine pesticides.
+
+Legislation in Australia on the import, use and disposal of dieldrin and other organochlorines has been extensive and covers mainly environmental and potential health impacts on the population.
+
+==References==
+{{reflist}}
+* S. Kegley, B. Hill, S. Orme, PAN Pesticide Database, Pesticide Action Network, North America (San Francisco, CA. 2007), http://www.pesticideinfo.org
+
+==External links==
+* [https://www.usatoday.com/news/health/2006-09-17-parkinsons_x.htm Dieldrin linked to earlier onset of Parkinson's disease]
+* [http://www.dea.org.au/UserFiles/File/pdf_documents/dieldrin_CB_Nov_10_2008.pdf Dieldrin and Breast Cancer: a Literature Review,  Australian National University / Doctors for the Environment Australia]
+* Mandocdoc, M. and David, C.P. 2008. Dieldrin Contamination of the Groundwater in a Former US Military Base (Clark Air Base, Philippines). CLEAN Air, Soil, Water Journal 36 (10–11), 870-874.
+* [http://www.inchem.org/documents/hsg/hsg/hsg021.htm#PartNumber:7 International Programme on Chemical Safety]
+* [https://www.cdc.gov/niosh/npg/npgd0206.html CDC - NIOSH Pocket Guide to Chemical Hazards]
+
+{{Insecticides}}
+{{GABAergics}}
+{{Androgenics}}
+{{Estrogenics}}
+
+[[Category:Antiandrogens]]
+[[Category:Neurotoxins]]
+[[Category:Organochloride insecticides]]
+[[Category:Endocrine disruptors]]
+[[Category:Epoxides]]
+[[Category:Persistent organic pollutants under the Stockholm Convention]]
+[[Category:Persistent organic pollutants under the Convention on Long-Range Transboundary Air Pollution]]
+[[Category:GABAA receptor negative allosteric modulators]]
+[[Category:Xenoestrogens]]

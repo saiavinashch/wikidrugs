@@ -1,0 +1,110 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464388926
+| IUPAC_name = (2''S'')-2-[(4''R'')-4-(2,2-Difluoroethenyl)-2-oxo-pyrrolidin-1-yl]butanamide<ref name=Malykh /> 
+| image = Seletracetam.svg
+| width = 140
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_category =  
+| legal_US = Unscheduled
+| routes_of_administration = Oral<ref name=Malykh /><ref name="Bennett" />
+
+<!--Pharmacokinetic data-->
+| bioavailability = >90%<ref name=Malykh /><ref name="Bennett" /> 
+| metabolism =  
+| elimination_half-life = 8 hours<ref name=Malykh /><ref name="Bennett" /> 
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 357336-74-4
+| ATC_prefix = none
+| PubChem = 9856063
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 8031763
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = RFR2CH3QZK
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05817
+
+<!--Chemical data-->
+| C=10 | H=14 | F=2 | N=2 | O=1 
+| molecular_weight = 232.227
+| smiles = F\C(F)=C/[C@H]1CC(=O)N([C@H](C(=O)N)CC)C1
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C10H14F2N2O2/c1-2-7(10(13)16)14-5-6(3-8(11)12)4-9(14)15/h3,6-7H,2,4-5H2,1H3,(H2,13,16)/t6-,7-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ANWPENAPCIFDSZ-BQBZGAKWSA-N
+}}
+'''Seletracetam''' (UCB 44212) is a [[2-pyrrolidone|pyrrolidone]]-derived<ref name="Bennett" /> [[drug]] of the [[racetam]] family that is structurally related to [[levetiracetam]] (trade name Keppra).<ref name="Bennett" /><ref name=Pollard /> It was under development by UCB Pharmaceuticals as a more potent and effective [[anticonvulsant]] drug to replace [[levetiracetam]] but its production has been halted.<ref name=Malykh />
+
+There are two main mechanisms of action for seletracetam. The first is its high-affinity [[stereospecificity|stereospecific]] binding to synaptic vesicle glycoprotein 2A ([[SV2A]]).<ref name="Bennett" /><ref name=Pollard>{{cite journal|last=Pollard|first=JR|author2=Kulig, K |title=Seletracetam, a small molecule SV2A modulator for the treatment of epilepsy|journal=Current Opinion in Investigational Drugs|date=January 2008|volume=9|issue=1|pages=101–7|pmid=18183537}}</ref> Seletracetam has shown potent seizure suppression in models of acquired and genetic epilepsy,<ref name=Pollard /> and has been well tolerated by various animal models.<ref name=Pollard /> The second is its binding to [[N-type calcium channel]]s and preventing influx of [[calcium in biology|Ca<sup>2+</sup>]] during high-voltage activation that is typical of [[epilepsy]].<ref name=Martella /><ref name=Pisani2004 /><ref name=Custer/>
+
+While similar in structure to [[nootropic]] drugs, it is not expected to have cognitive enhancing properties.<ref name=Matagne /> Seletracetam was in Phase II [[clinical trials]] under the supervision of the U.S. [[Food and Drug Administration]] (FDA) but its production is on hold.<ref name=Pollard />
+
+==Synthesis==
+Seletracetam's molecular structure contains elements common to other [[anticonvulsants]], including [[levetiracetam]] and [[brivaracetam]], such as a nitrogen heterocyclic system.<ref>{{cite journal|last=Wong|first=MG|author2=Defina, JA |author3=Andrews, PR |title=Conformational analysis of clinically active anticonvulsant drugs|journal=Journal of Medicinal Chemistry|date=April 1986|volume=29|issue=4|pages=562–72|pmid=3959032|doi=10.1021/jm00154a022}}</ref><ref>{{cite journal|last=Bruno-Blanch|first=L|author2=Gálvez, J |author3=García-Domenech, R |title=Topological virtual screening: a way to find new anticonvulsant drugs from chemical diversity|journal=Bioorganic & Medicinal Chemistry Letters|date=Aug 18, 2003|volume=13|issue=16|pages=2749–54|pmid=12873507|doi=10.1016/S0960-894X(03)00535-3}}</ref> Like [[brivaracetam]], seletracetam is a derivative of [[levetiracetam]].
+
+Structure and activity relationship studies have concluded that the most potent anticonvulsant activity was at the [[imide]] nitrogen atom and that this activity was further enhanced by nearby [[electronegative]] [[functional group]]s such as the di-fluoro group on seletracetam.<ref>{{cite journal|last=Kamiński|first=K|author2=Rzepka, S |author3=Obniska, J |title=Synthesis and anticonvulsant activity of new 1-[2-oxo-2-(4-phenylpiperazin-1-yl)ethyl]pyrrolidine-2,5-diones|journal=Bioorganic & Medicinal Chemistry Letters|date=Oct 1, 2011|volume=21|issue=19|pages=5800–3|pmid=21875804|doi=10.1016/j.bmcl.2011.07.118}}</ref>
+
+==Administration==
+Seletracetam is an orally administered drug, after which it is quickly and efficiently absorbed.<ref name = "Bennett">{{cite journal|last=Bennett|first=B|author2=Matagne, A |author3=Michel, P |author4=Leonard, M |author5=Cornet, M |author6=Meeus, MA |author7= Toublanc, N |title=Seletracetam (UCB 44212)|journal=Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics|date=January 2007|volume=4|issue=1|pages=117–22|pmid=17199025|doi=10.1016/j.nurt.2006.11.014}}</ref> The typical dosage is 0.03–10&nbsp;mg/kg per day (up to 0.6g per day).<ref name=Malykh>{{cite journal|last=Malykh|first=AG|author2=Sadaie, MR |title=Piracetam and piracetam-like drugs: from basic science to novel clinical applications to CNS disorders|journal=Drugs|date=Feb 12, 2010|volume=70|issue=3|pages=287–312|pmid=20166767|doi=10.2165/11319230-000000000-00000}}</ref>
+
+==Mechanism of action==
+Seletracetam's anti-epileptic effects are due to its high affinity binding to synaptic vesicle glycoprotein 2A ([[SV2A]])<ref name=Malykh /><ref name="Bennett" /><ref name=Pollard />—part of a [[calcium in biology|calcium ion]] regulator. The [[SV2A]] protein assists with the coordination of synaptic vesicle exocytosis,<ref name=Bialer /><ref name=Crowder>{{cite journal|last=Crowder|first=KM|author2=Gunther, JM |author3=Jones, TA |author4=Hale, BD |author5=Zhang, HZ |author6=Peterson, MR |author7=Scheller, RH |author8=Chavkin, C |author9= Bajjalieh, SM  |title=Abnormal neurotransmission in mice lacking synaptic vesicle protein 2A (SV2A)|journal=Proceedings of the National Academy of Sciences of the United States of America|date=Dec 21, 1999|volume=96|issue=26 |pages=15268–73|pmid=10611374 |doi=10.1073/pnas.96.26.15268|pmc=24809}}</ref> which induces [[neurotransmitter]] release in the presence of an influx in [[calcium in biology|Ca<sup>2+</sup>]]. A correlation has been drawn between the binding affinity of seletracetam (and its analogues) to [[SV2A]] and the degree of seizure prevention in animal models.<ref name=Matagne>{{cite journal|last=Matagne|first=A|author2=Margineanu, DG |author3=Potschka, H |author4=Löscher, W |author5=Michel, P |author6=Kenda, B |author7= Klitgaard, H |title=Profile of the new pyrrolidone derivative seletracetam (ucb 44212) in animal models of epilepsy|journal=European Journal of Pharmacology|date=Jul 1, 2009|volume=614 |issue=1–3|pages=30–7|pmid=19383493 |doi=10.1016/j.ejphar.2009.04.024}}</ref><ref name=Bialer /><ref name=Lynch />
+
+In addition, studies of ion currents have shown that seletracetam significantly decreases the amount of high-voltage derived [[calcium in biology|Ca<sup>2+</sup>]] currents<ref name=Martella>{{cite journal|last=Martella|first=G|author2=Bonsi, P |author3=Sciamanna, G |author4=Platania, P |author5=Madeo, G |author6=Tassone, A |author7=Cuomo, D |author8= Pisani, A |title=Seletracetam (ucb 44212) inhibits high-voltage-activated [[calcium in biology|Ca<sup>2+</sup>]] currents and intracellular [[calcium in biology|Ca<sup>2+</sup>]] increase in rat cortical neurons in vitro|journal=Epilepsia|date=April 2009|volume=50|issue=4|pages=702–10 |pmid=19055493 |doi=10.1111/j.1528-1167.2008.01915.x}}</ref> which have been implicated in causing the high intracellular [[calcium in biology|Ca<sup>2+</sup>]] influx during [[epileptic]] activity.<ref name=Pisani2004>{{cite journal|vauthors=Pisani A, Bonsi P, Martella G, De Persis C, Costa C, Pisani F, Bernardi G, Calabresi P |title=Intracellular calcium increase in epileptiform activity: modulation by levetiracetam and lamotrigine|journal=Epilepsia|date=July 2004| volume=45|issue=7|pages=719–28|pmid=15230693| doi=10.1111/j.0013-9580.2004.02204.x}}</ref> It is thought that seletracetam binds to [[N-type calcium channel|N-type Ca<sup>2+</sup> channels]] and inhibits their ability to allow calcium ions to enter the cell,<ref name=Martella /><ref name=Pisani2004 /> although the drug does not bind to [[T-type calcium channel|T-type channels]] that mediate low-voltage activated Ca<sup>2+</sup> currents.<ref name="Bennett" /><ref name=Luszcki /> Seletracetam thereby decreases cellular excitation, but it does not seem to affect voltage-gated [[sodium|Na<sup>+</sup>]] or [[potassium|K<sup>+</sup>]] currents.<ref name=Martella /> Selectracetam has been demonstrated to not significantly affect currents gated by [[NMDA]], [[AMPA]], [[GABA]], [[glycine]], or [[kainic acid]].<ref name=Rigo>{{cite journal|last=Rigo|first=J.M.|author2=L. Nguyen |author3=G. Hans |author4=S. Belachew |author5=G. Moonen |author6=A. Matagne |author7=H. Klitgaard | title=Seletracetam (ucb 44212): effect on inhibitory and excitatory neurotransmission| journal=Epilepsia| year=2005| volume=46|issue=Suppl. 8|pages=110|doi=10.1111/j.1528-1167.2005.460801_14.x}}</ref>
+
+The dual effect of seletracetam is an overall decrease in the amount of [[calcium in biology|Ca<sup>2+</sup>]] influx in the cell during an [[action potential]] due to binding at [[N-type calcium channel|N-type channels]], which prevents over-excitation of the [[neuron]], as well as a decrease in [[neurotransmitter]] release as a product of cellular excitation due to the interaction of the drug with [[SV2A]], which reduces the spread of excitation to nearby cells.<ref name=Custer>{{cite journal|last=Custer|first=KL|author2=Austin, NS |author3=Sullivan, JM |author4= Bajjalieh, SM |title=Synaptic vesicle protein 2 enhances release probability at quiescent synapses|journal=The Journal of Neuroscience 	|date=Jan 25, 2006|volume=26|issue=4|pages=1303–13|pmid=16436618|doi=10.1523/JNEUROSCI.2699-05.2006}}</ref>
+
+Compared to [[levetiracetam]], which binds at the same site,<ref name=Bialer>{{cite journal |last=Bialer|first=M |author2=Johannessen, SI |author3=Kupferberg, HJ |author4=Levy, RH |author5=Perucca, E |author6= Tomson, T  |title=Progress report on new antiepileptic drugs: a summary of the Eighth Eilat Conference (EILAT VIII)|journal=Epilepsy research|date=January 2007 |volume=73 |issue=1 |pages=1–52 |pmid=17158031 |doi=10.1016/j.eplepsyres.2006.10.008}}</ref> seletracetam binds to [[SV2A]] with ten times higher affinity.<ref name=Matagne /><ref name=Lynch>{{cite journal|last=Lynch|first=BA|author2=Lambeng, N |author3=Nocka, K |author4=Kensel-Hammes, P |author5=Bajjalieh, SM |author6=Matagne, A |author7= Fuks, B |title=The synaptic vesicle protein SV2A is the binding site for the antiepileptic drug levetiracetam |journal=Proceedings of the National Academy of Sciences of the United States of America|date=Jun 29, 2004|volume=101 |issue=26 |pages=9861–6 |pmid=15210974|doi=10.1073/pnas.0308208101|pmc=470764}}</ref>
+
+The nature of why the seletracetam molecule binds so specifically to SV2A and how SV2A affects exocytosis is unclear.<ref>{{cite journal|last=Pollard|first=John R|author2=French, Jacqueline |title=Antiepileptic drugs in development |journal=The Lancet Neurology |date=1 December 2006|volume=5 |issue=12 |pages=1064–1067 |doi=10.1016/S1474-4422(06)70627-5}}</ref>
+
+==Pharmacodynamics and pharmacokinetics==
+The oral [[bioavailability]] of seletracetam is >90%<ref name="Bennett" /> and its [[biological half-life|half-life]] is approximately 8 hours.<ref name=Malykh /><ref name="Bennett" /> 25% of ingested seletracetam is metabolized and excreted unchanged and about 53% is excreted in the form of an inactive [[carboxylic acid]] metabolite.<ref name=Bialer /><ref name=Luszcki /> The main metabolic mechanism is the hydrolysis of an [[acetamide]] to a [[carboxylic acid]].<ref name=Luszcki /><ref name=Strolin>{{cite journal|last=Strolin Benedetti|first=M|author2=Whomsley, R |author3=Nicolas, JM |author4=Young, C |author5= Baltes, E |title=Pharmacokinetics and metabolism of 14C-levetiracetam, a new antiepileptic agent, in healthy volunteers |journal=European journal of clinical pharmacology |date=November 2003 |volume=59|issue=8–9 |pages=621–30 |pmid=14530892 |doi=10.1007/s00228-003-0655-6}}</ref>
+
+Seletracetam exhibits [[order of reaction|first-order]] mono-compartmental [[pharmacokinetics]], in which there is a simple linear relationship between the amount of drug that was administered, the time that has passed, and the amount of drug subsequently remaining in the body.<ref name="Bennett" /> This contrasts the nonlinear pharmacokinetics typical of previously available [[anticonvulsants]] such as [[phenobarbital]], phenytolin, [[valproate]] and [[carbamazepine]].<ref name="Bennett" /> The benefit of linear kinetics is that the steady-state concentration of the drug is directly and reliably related to the dose of the drug that is administered; this allows for simple and reliable dose adjustments.
+
+==''In vitro'' studies==
+''In vitro'' studies performed in rodent hippocampal slices found that seletracetam causes a complete reversal of the increases in activity of [[population spike]] [[amplitude]] in epilepsy models.<ref name =Matagne/> These reductions in ''in vitro'' epilepsy symptoms were present at [[extracellular fluid|extracellular]]  concentrations of 3.2 µM.<ref name =Matagne/> This is approximately 10% of the most effective concentration of [[levetiracetam]] in similar tests.<ref>{{cite journal|last=Margineanu|first=DG|author2=Klitgaard, H |title=Inhibition of neuronal hypersynchrony in vitro differentiates levetiracetam from classical antiepileptic drugs|journal=Pharmacological research : the official journal of the Italian Pharmacological Society|date=October 2000|volume=42|issue=4|pages=281–5|pmid=10987984|doi=10.1006/phrs.2000.0689}}</ref>
+
+==Animal studies==
+Seletracetam has been tested on various [[animal models]] for epilepsy, with mixed results.
+
+Unlike drugs that act on [[voltage-gated sodium channel]]s,<ref name="pmid16621450">{{cite journal |author=Rogawski MA |title=Diverse mechanisms of antiepileptic drugs in the development pipeline |journal=Epilepsy Res. |volume=69 |issue=3 |pages=273–94 |date=June 2006 |pmid=16621450 |pmc=1562526 |doi=10.1016/j.eplepsyres.2006.02.004}}</ref> seletracetam was demonstrated to have no significant effect on the maximal electroshock seizure test results in mice.<ref name =Matagne/> It similarly had no relieving effects in mice of the other most common acute seizure model, the [[pentylenetetrazol]] convulsion-induction model.<ref name="Bennett" /><ref name =Matagne/><ref name=Luszcki />
+
+Seletracetam did, however, show promising results in acquired and genetic epilepsy models.<ref name="Bennett" /><ref name =Matagne/> In the mouse model of corneal kindling, which exhibits the anticonvulsant capability of generalized motor seizures, doses as low as 0.07&nbsp;mg/kg [[intraperitoneal injection]] (i.p.), and [[Effective dose (pharmacology)|ED<sub>50</sub>]] of 0.31&nbsp;mg/kg i.p. were effective.<ref name =Matagne/> Occurrence of audiogenic seizures—those induced by white noise—in mice were also significantly reduced by an [[Effective dose (pharmacology)|ED<sub>50</sub>]] of 0.17&nbsp;mg/kg i.p., which suggests that selectracetam reduces convulsions caused by [[clonic seizures]].<ref name =Matagne/>
+
+In hippocampal [[kindling model]] rats, seizure severity was significantly reduced by seletracetam oral doses of 0.23&nbsp;mg/kg. This provides further evidence of the potential benefits of selectracetam on generalized motor seizures.<ref name =Matagne/> Seletracetam also performed well as a method to reduce the suppression of spontaneous spike-and-wave discharges that are often associated with [[absence epilepsy]] activity.<ref name=Hughes>{{cite journal|last=Hughes|first=JR|author2=Cortés Mdel, C|title=Absence seizures: a review of recent reports with new concepts|journal=Epilepsy & behavior : E&B|date=August 2009|volume=15|issue=4|pages=404–12|pmid=19632158|doi=10.1016/j.yebeh.2009.06.007}}</ref> This was demonstrated by its effect on Strasbourg genetic absence epilepsy rats (GAERS).<ref>{{cite journal|last=Marescaux|first=C|author2=Vergnes, M |author3=Depaulis, A |title=Genetic absence epilepsy in rats from Strasbourg--a review|journal=Journal of neural transmission. Supplementum|year=1992 |volume=35 |pages=37–69|pmid=1512594|doi=10.1007/978-3-7091-9206-1_4}}</ref> This model had an [[Effective dose (pharmacology)|ED<sub>50</sub>]] of 0.15&nbsp;mg/kg i.p.<ref name =Matagne/>
+
+Rodents were found to have negligible behavioral deficits as a result of seletracetam administration, as measured by performance on a [[rotarod]] task.<ref name=Matagne/><ref>{{cite journal|last=Stefan|first=H|author2=Steinhoff, BJ |title=Emerging drugs for epilepsy and other treatment options|journal=European Journal of Neurology|date=October 2007|volume=14|issue=10|pages=1154–61 |pmid=17880570 |doi=10.1111/j.1468-1331.2007.01706.x}}</ref>
+
+==Adverse effects and tolerance==
+Unlike currently prescribed [[anticonvulsants]] such as phenytoin, [[valproate]], and [[phenobarbital]], seletracetam shows few [[central nervous system]] (CNS) side effects and is predicted to have low levels of drug-drug interactions due to its low binding (<10%) to plasma proteins.<ref name="Bennett" /><ref name = "Brodie">{{cite journal|last=Brodie|first=MJ|title=Do we need any more new antiepileptic drugs?|journal=Epilepsy research|date=May 2001|volume=45|issue=1–3|pages=3–6|pmid=11461782|doi=10.1016/S0920-1211(01)00203-0}}</ref>  There have been, however, no formal studies conducted on drug-drug interactions with seletracetam.<ref name=Bialer />
+
+Other than [[SV2A]] and the high-voltage-activated Ca<sup>2+</sup> channels, seletracetam does not significantly bind to other CNS receptors, ion channels, or uptake mechanisms.<ref name=Bialer /> Seletracetam has, however, shown a slight selectivity for glycine receptors.<ref name=Bialer /><ref name=Luszcki>{{cite journal|last=Luszczki|first=JJ|title=Third-generation antiepileptic drugs: mechanisms of action, pharmacokinetics and interactions|journal=Pharmacological reports : PR|date=Mar–Apr 2009|volume=61 |issue=2 |pages=197–216 |pmid=19443931 |doi=10.1016/s1734-1140(09)70024-6}}</ref><ref name=Bialer2004>{{cite journal|last=Bialer|first=M|author2=Johannessen, SI |author3=Kupferberg, HJ |author4=Levy, RH |author5=Perucca, E |author6= Tomson, T |title=Progress report on new antiepileptic drugs: a summary of the Seventh Eilat Conference (EILAT VII)|journal=Epilepsy research|date=Sep–Oct 2004|volume=61|issue=1–3|pages=1–48|pmid=15570674|doi=10.1016/j.eplepsyres.2004.07.010}}</ref> This drug neither inhibits nor unnecessarily induces the action of any major human metabolizing enzymes, which further reduces adverse effects.<ref name=Brodie />
+
+Early data from phase I trials were optimistic, and found seletracetam to be well tolerated by human volunteers.<ref>{{cite journal|last=Leese|first=P.T. |author2=D.R. Goldwater |author3=R. Hulhoven |author4=E. Salas |author5=N. Toublanc |author6=D. Chen |author7=M.L. Sargentini-Maier |author8=A. Stockis|title=Seletracetam (UCB 44212): Single and Multiple Rising Dose Safety, Tolerability and Pharmacokinetics in Healthy Subjects|journal=American Epilepsy Society Abstracts|year=2006|pages=2.131|url=http://www.aesnet.org/go/publications/aes-abstracts/abstract-search/mode/display/st/leese/sy/2006/sb/All/id/6570}}</ref>
+
+In phase II trials side effects were limited to the CNS in origin, were of mild to moderate severity, and most were resolved within 24 hours<ref name="Bennett" /> and with no medical intervention.<ref name=Bialer /> The most frequently reported adverse effects of seletracetam were dizziness, feeling drunk, euphoria, nausea, and [[somnolence]].<ref name=Bialer />
+
+Seletracetam was well tolerated by healthy individuals after single oral doses ranging from 2 to 600&nbsp;mg, as well as after b.i.d. (twice daily) doses of 200&nbsp;mg.<ref name=Bialer /> [[Toxicology]] studies have shown that this drug has low acute oral toxicity and no significant negative effects on the CNS, cardiac, or respiratory systems.<ref name=Bialer /> High doses of 2000&nbsp;mg/kg per day (in mice and rats) and greater than 600&nbsp;mg/kg per day (in dogs) were poorly tolerated.<ref name=Bialer />
+
+==FDA approval status==
+Phase II [[clinical trials]] of seletracetam were ongoing but in July 2007 the company stated that the drug's development has been put on hold.<ref name=Pollard /> Although the conducted Phase II trials showed success, it was less than expected given the performance of seletracetam in animal models.<ref name=Malykh /> There have been no known Phase IIb or Phase III [[clinical trials|trials]].<ref name=Pollard />
+As of 2010, development of seletracetam has been further halted in favor of the development of [[brivaracetam]], a newer variation of the drug.<ref name=Malykh />
+
+==References==
+{{Reflist|33em}}
+
+{{Racetams}}
+
+[[Category:Racetams]]
+[[Category:Organofluorides]]
+[[Category:Alkene derivatives]]
+[[Category:Butyramides]]

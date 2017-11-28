@@ -1,0 +1,64 @@
+{{Drugbox
+| IUPAC_name = (3''R'',4''S'')-3-hydroxy-2,2-dimethyl-4-(2-oxopyrrolidin-1-yl)chroman-6-carbonitrile
+| image = Cromakalim.svg
+| alt = Structural formula of cromakalim
+| width = 180
+| image2 = Cromakalim 3D ball.png
+| alt2 = Ball-and-stick model of the cromakalim molecule
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|CAS}}
+| CAS_number = 94470-67-4
+| ATC_prefix = none
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem = 71191
+| DrugBank =  
+| ChemSpiderID = 64327
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0G4X367WA3
+| ChEMBL = 11684
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=16 | H=18 | N=2 | O=3 
+| molecular_weight = 286.32 g/mol
+| smiles = O=C3N([C@H]1c2c(OC([C@@H]1O)(C)C)ccc(C#N)c2)CCC3
+}}
+
+'''Cromakalim''' ([[International Nonproprietary Name|INN]]) is a [[potassium channel]]-opening [[vasodilator]].  The active [[isomer]] is '''levcromakalim'''. It acts on [[Adenosine triphosphate|ATP]]-sensitive potassium channels and so causes membrane [[Hyperpolarization (biology)|hyperpolarization]]. It can be used to treat hypertension as it will relax vascular smooth muscle to lower blood pressure. Hyperpolarisation of smooth muscle cell membranes pulls their membrane potential away from the threshold, so making it more difficult to excite them and thereby cause contraction.
+==Synthesis==
+[[File:Levcromakalim synthesis.svg|thumb|center|700px|Levcromakalim synthesis:<ref>Anon., ''Drugs Future'' '''11''', 175 (1986).</ref><ref>{{Cite journal |doi=10.1021/jm00161a011|pmid=3783581|title=Synthesis and antihypertensive activity of 4-(cyclic amido)-2H-1-benzopyrans|journal=Journal of Medicinal Chemistry|volume=29|issue=11|pages=2194–201|year=1986|last1=Ashwood|first1=Valerie A.|last2=Buckingham|first2=Robin E.|last3=Cassidy|first3=Frederick|last4=Evans|first4=John M.|last5=Faruk|first5=Erol A.|last6=Hamilton|first6=Thomas C.|last7=Nash|first7=David J.|last8=Stemp|first8=Geoffrey|last9=Willcocks|first9=Kenneth}}</ref> racemate:<ref>J. M. Evans et al., {{Cite patent|EP|76075}}; eidem, {{US patent|4446113}} (1983, 1984 both to Beecham).</ref> of isomers:<ref>E. Faruk, {{Cite patent|EP|120428}} (1984 to Beecham).</ref>]]
+Reaction of [[4-cyanophenol]]<ref>{{US patent|3444236}}</ref> (4-Hydroxybenzonitrile) with 2-hydroxy-2-methyl-3-butyne under [[Phase-transfer catalyst|PTC]] probably proceeds to initial formation of a propargyl carbocation. The course of the reaction can be envisaged by assuming that this then attacks the aromatic ring; the resulting allylic cation can then capture the adjacent phenol oxygen and thus form the observed product ('''3'''). Treatment of that product with aqueous [[N-Bromosuccinimide|NBS]] leads to the addition of the elements of [[hypobromous acid]] and formation of the [[bromohydrin]] ('''4''') as a mixture of the ''trans'' enantiomers. This cyclizes to the epoxide '''5''' in the presence of sodium hydroxide ('''5'''). Ring opening of the oxirane with ammonia gives a mixture of the ''trans'' amino alcohols ('''6'''). These are probably resolved at this stage and the 3''S'',4''R''-enantiomer used in the next stage. That isomer is next acylated with [[4-Chlorobutyryl chloride]]<ref>{{cite web|url=http://en.cnki.com.cn/Article_en/CJFDTOTAL-HNHG200603007.htm|title=Synthesis of 4-Chlorobutyryl Chloride|work=cnki.com.cn}}</ref> to give the chloroamide ('''7'''). The anion from reaction of the amide with [[sodium hydride]] then displaces the chlorine on the end of the chain to form the pyrrolidine ring. There is thus obtained levcromakalim ('''8''').
+
+==References==
+{{reflist|30em}}
+
+{{Channel openers}}
+
+[[Category:Vasodilators]]
+[[Category:Nitriles]]
+[[Category:Pyrrolidones]]
+[[Category:Chromanes]]
+[[Category:Potassium channel openers]]
+
+{{cardiovascular-drug-stub}}

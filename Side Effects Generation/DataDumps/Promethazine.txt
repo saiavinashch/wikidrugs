@@ -1,0 +1,182 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 462079943
+| IUPAC_name = (''RS'')-''N,N''-dimethyl-1-(10''H''-phenothiazin-10-yl)propan-2-amine
+| image = Promethazine.svg
+| width = 180
+| image2 = Promethazine ball-and-stick model.png
+| width2 = 175 <!-- image is quite low res, so don't over enlarge -->
+| chirality = [[Racemic mixture]]
+<!--Clinical data-->
+| tradename = Many<ref name=brands/>
+| Drugs.com = {{drugs.com|monograph|promethazine-hydrochloride}}
+| MedlinePlus = a682284
+| pregnancy_AU = C
+| pregnancy_US = C
+| pregnancy_category = 
+| legal_AU = S3
+| legal_UK = P
+| legal_UK_comment = (POM when injection)
+| legal_US = Rx-only
+| legal_CA = OTC
+| legal_status = South Africa: S5 IV S2 Oral
+| routes_of_administration = Oral, [[suppository|rectal]], [[intravenous therapy|IV]], [[intramuscular injection|IM]], [[topical]]
+<!--Pharmacokinetic data-->
+| bioavailability = 88% absorbed but after first-pass metabolism reduced to 25% absolute bioavailability<ref name="pmid10965395">{{cite journal |vauthors=Strenkoski-Nix LC, Ermer J, DeCleene S, Cevallos W, Mayer PR | title = Pharmacokinetics of promethazine hydrochloride after administration of rectal suppositories and oral syrup to healthy subjects | journal = American Journal of Health-System Pharmacy | volume = 57 | issue = 16 | pages = 1499–505 |date=August 2000 | pmid = 10965395 | doi = | url = http://www.ajhp.org/cgi/pmidlookup?view=long&pmid=10965395}}</ref>
+| protein_bound = 93%
+| metabolism = [[Liver|Hepatic]] [[glucuronidation]] and [[sulfoxide|sulfoxidation]]
+| elimination_half-life = 16–19 hours<ref name="pmid10965395" /><ref name="pmid2866055">{{cite journal |vauthors=Paton DM, Webster DR | title = Clinical pharmacokinetics of H1-receptor antagonists (the antihistamines) | journal = Clinical Pharmacokinetics | volume = 10 | issue = 6 | pages = 477–97 | year = 1985 | pmid = 2866055 | doi = 10.2165/00003088-198510060-00002| url = http://content.wkhealth.com/linkback/openurl?issn=0312-5963&volume=10&issue=6&spage=477}}</ref>
+| excretion = [[Kidney|Renal]] and [[Bile|biliary]]
+<!--Identifiers-->
+| IUPHAR_ligand = 7282
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 60-87-7
+| CAS_supplemental = <br/>{{CAS|58-33-3}} (hydrochloride) <!-- Also CAS verified -->
+| ATC_prefix = D04
+| ATC_suffix = AA10
+| ATC_supplemental =  {{ATC|R06|AD02}}
+| PubChem = 4927
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01069
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4758
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = FF28EJQ494
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00494
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 8461
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 643
+<!--Chemical data-->
+| C=17 | H=20 | N=2 | S=1
+| molecular_weight = 284.42 g/mol
+| SMILES = S2c1ccccc1N(c3c2cccc3)CC(N(C)C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H20N2S/c1-13(18(2)3)12-19-14-8-4-6-10-16(14)20-17-11-7-5-9-15(17)19/h4-11,13H,12H2,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = PWWVAXIEGOYWEE-UHFFFAOYSA-N
+|drug_name=|alt=|caption=|type=|licence_EU=|licence_US=}}
+
+'''Promethazine''' is a [[neuroleptic]] medication and [[first-generation antihistamine|first-generation]] [[antihistamine]] of the [[phenothiazine]] family. The drug has strong [[sedative]] and weak [[antipsychotic]] effects. It also reduces [[motion sickness]] and has [[antiemetic]] (via its action on the [[dopamine receptor D2|dopamine receptor D<sub>2</sub>]]) and [[anticholinergic]] properties. In some countries it is prescribed for [[insomnia]] when [[benzodiazepines]] are [[contraindicated]]. It is available in many countries under many brand names.<ref name="rxlisttabone">[http://www.rxlist.com/cgi/generic/prometh-tab.htm RxList: Promethazine]</ref> Promethazine was developed in the mid 1940s when a team of scientists from [[Rhône-Poulenc]] laboratories were able to synthesize it from [[phenothiazine]] and a [[diamine]] [[side chain]] of [[diphenhydramine]].<ref>{{cite book |last=Li |first=Jie Jack |authorlink= |title=Laughing Gas, Viagra, and Lipitor: The Human Stories behind the Drugs We Use |url=https://books.google.com/books?id=Z-4AQEqbE-MC&pg=PT146 |accessdate=July 9, 2016 |year=2006 |publisher=Oxford University Press |location=United Kingdom |isbn=9780199885282 |page=146}}
+</ref>
+
+== Medical uses ==
+* As a [[sedative]]<ref name="rxlisttabind">[http://www.rxlist.com/cgi/generic/prometh-tab_ids.htm RxList Indications for Promethazine]</ref>
+* For [[Surgery|preoperative]] [[sedation]] and to counteract [[narcotic|postnarcotic]] [[nausea]]<ref name=rxlisttabind />
+* To reduce nervousness, restlessness and agitation caused by psychiatric conditions (used for this purpose mainly in Europe)
+* As [[antiallergic]] medication to combat [[hay fever]] ([[allergic]] [[rhinitis]]), etc., or to treat [[allergic reaction]]s, alone or in combination with [[Mouth|oral]] [[decongestant]]s such as [[pseudoephedrine]]<ref name=rxlisttabind />
+* As an adjunct [[therapy|treatment]] for [[anaphylaxis|anaphylactoid]] [[Medical condition|conditions]] ([[Intramuscular injection|IM]]/[[Intravenous therapy|IV]] [[Route of administration|route]] preferred)<ref name=rxlisttabind />
+* Together with [[codeine]] or [[dextromethorphan]] against [[cough]]
+* As a [[motion sickness]] or [[seasickness]] remedy when used with [[ephedrine]] or [[pseudoephedrine]]<ref name=rxlisttabind />
+* To combat moderate to severe [[morning sickness]] and [[hyperemesis gravidarum]]: In the [[UK]], promethazine is [[drug]] of first choice, being preferred as an older drug with which there is a greater experience of use in [[pregnancy]] (second in line being  [[metoclopramide]] or [[prochlorperazine]]).<ref name="BNF">{{cite book | author=British National Formulary | title=BNF | edition=45 |date=March 2001 | chapter=4.6 Drugs used in nausea and Vertigo - Vomiting of pregnancy}}.</ref>
+* Previously, it was used as an [[antipsychotic]],<ref name="Can Ana Soc J">{{cite web|url=http://www.cja-jca.org/cgi/reprint/6/4/375.pdf |accessdate=October 30, 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20110718172715/http://www.cja-jca.org/cgi/reprint/6/4/375.pdf |archivedate=July 18, 2011 }}</ref> although it is generally not administered for this purpose now; promethazine has only approximately 1/10 of the antipsychotic strength of [[chlorpromazine]].
+* Treatment for [[migraines]]; however, other similar medications, like [[Compazine]], have been shown to have a more favorable treatment profile,<ref>{{Cite journal|title = Prochlorperazine vs. promethazine for headache treatment in the emergency department: a randomized controlled trial|date = Oct 2008|pmid=18534808|doi=10.1016/j.jemermed.2007.09.047|volume=35|issue = 3|journal=J Emerg Med|pages=247–53|vauthors=Callan JE, Kostic MA, Bachrach EA, Rieg TS}}</ref> and are used almost exclusively over promethazine.
+
+== Side effects ==
+Some documented [[Adverse effect (medicine)|side effects]] include:
+
+* [[Tardive dyskinesia]] (effects due to dopamine D2 receptor antagonism) 
+* Confusion in the elderly
+* Drowsiness, dizziness, fatigue, more rarely [[Vertigo (medical)|vertigo]]
+* Dry mouth
+* [[Hypoventilation|Respiratory depression]] in patients under age of two and in those with severely compromised pulmonary function
+* Constipation
+* Chest discomfort/pressure (typically in cases when patient is already taking medication for high blood pressure)
+* [[Akathisia]] <ref>[http://www.cordingleyneurology.com/restless.html Cordingley Neurology]</ref>
+* [[Paresthesia]]
+* Short temper/irritability
+
+Extremely rare side effects include:
+
+* [[Seizures]]
+* [[Neuroleptic malignant syndrome]]
+* [[Euphoria]] (very rare, except with high IV doses and/or coadministration with opioids/CNS depressants)
+
+Because of potential for more severe side effects, this drug is on the list to avoid in the elderly.<ref>NCQA’s HEDIS Measure: [http://www.ncqa.org/Portals/0/Newsroom/SOHC/Drugs_Avoided_Elderly.pdf Use of High Risk Medications in the Elderly]</ref>  In many countries (including the US and UK), promethazine is contraindicated in children less than two years of age, and strongly cautioned against in children between two and six, due to problems with respiratory depression and sleep apnea.<ref>{{cite journal |vauthors=Starke P, Weaver J, Chowdhury B | year = 2005 | title = Boxed warning added to promethazine labeling for pediatric use | url = | journal = N. Engl. J. Med. | volume = 352 | issue = 5| page = 2653 | doi=10.1056/nejm200506233522522}}</ref>
+
+Promethazine is listed as one of the drugs of highest anticholinergic activity in a study of anticholinergenic burden, including long-term cognitive impairment.<ref>{{Cite journal|last=Salahudeen MJ|last2=Duffull SB|last3=Nishtala PS|date=2015-03-25|title=Anticholinergic burden quantified by anticholinergic risk scales and adverse outcomes in older people: a systematic review|url=http://bmcgeriatr.biomedcentral.com/articles/10.1186/s12877-015-0029-9|journal=BMC Geriatrics|volume=15|issue=31|pages=31|pmc=4377853|pmid=25879993|display-authors=etal|doi=10.1186/s12877-015-0029-9}}</ref>
+
+== Pharmacology ==
+Promethazine, a phenothiazine derivative, is structurally different from the [[neuroleptic]] phenothiazines, with similar but different effects.<ref name="pmid10965395"/> It acts primarily as a strong [[receptor antagonist|antagonist]] of the [[H1 receptor|H<sub>1</sub> receptor]] ([[antihistamine]]) and a moderate [[muscarinic acetylcholine|mACh receptor]] antagonist ([[anticholinergic]]),<ref name="pmid10965395"/> and also has weak to moderate [[affinity (pharmacology)|affinity]] for the [[5-HT2A receptor|5-HT<sub>2A</sub>]],<ref name="pmid8584617">{{cite journal |vauthors=Fiorella D, Rabin RA, Winter JC | title = The role of the 5-HT2A and 5-HT2C receptors in the stimulus effects of hallucinogenic drugs. I: Antagonist correlation analysis | journal = Psychopharmacology | volume = 121 | issue = 3 | pages = 347–56 |date=October 1995 | pmid = 8584617 | doi = 10.1007/bf02246074| url = }}</ref> [[5-HT2C receptor|5-HT<sub>2C</sub>]],<ref name="pmid8584617" /> [[D2 receptor|D<sub>2</sub>]],<ref name="pmid2932631">{{cite journal  |vauthors=Seeman P, Watanabe M, Grigoriadis D, etal | title = Dopamine D2 receptor binding sites for agonists. A tetrahedral model | journal = Molecular Pharmacology | volume = 28 | issue = 5 | pages = 391–9 |date=November 1985 | pmid = 2932631 | doi = | url = http://molpharm.aspetjournals.org/cgi/pmidlookup?view=long&pmid=2932631}}</ref><ref name="pmid847477">{{cite journal |vauthors=Burt DR, Creese I, Snyder SH | title = Antischizophrenic drugs: chronic treatment elevates dopamine receptor binding in brain | journal = Science | volume = 196 | issue = 4287 | pages = 326–8 |date=April 1977 | pmid = 847477 | doi = 10.1126/science.847477| url = http://www.sciencemag.org/cgi/pmidlookup?view=long&pmid=847477}}</ref> and [[alpha-1 adrenergic receptor|α<sub>1</sub>-adrenergic receptor]]s,<ref name="JagadishPrasad2010">{{cite book | author = Jagadish Prasad, P. | title = Conceptual Pharmacology | url = https://books.google.com/books?id=s0e_FlM8LKYC&pg=PA295 | accessdate = 27 November 2011 | year = 2010 | publisher = Universities Press | isbn = 978-81-7371-679-9 | pages = 295, 303, 598}}</ref> where it acts as an antagonist at all sites, as well.
+
+Another notable use of promethazine is as a [[local anesthetic]], by blockade of [[sodium channel]]s.<ref name="JagadishPrasad2010" />
+
+=== Chemistry ===
+Solid promethazine [[hydrochloride]] is a white to faint-yellow,  practically odorless, crystalline powder. Slow oxidation may occur upon prolonged exposure to air, usually causing blue discoloration. Its hydrochloride salt is freely soluble in water and somewhat soluble in alcohol. Promethazine is a [[chirality (chemistry)|chiral]] compound, occurring as a mixture of [[enantiomers]].<ref name="rxlistone">{{cite web|url=http://www.rxlist.com/cgi/generic/phenergan.htm |title=RxList: Promethazine Description|date=2007-06-21}}</ref>
+
+==History==
+Promethazine was first synthesized by a group at [[Rhone-Poulenc]] (which later became part of [[Sanofi]]) led by Paul Charpentier in the early 1940s.<ref>{{cite journal|last1=Ban|first1=TA|title=The role of serendipity in drug discovery.|journal=Dialogues in clinical neuroscience|date=2006|volume=8|issue=3|pages=335–44|pmid=17117615|pmc=3181823}}</ref>  The team was seeking to improve on [[diphenhydramine]]; the same line on medical chemistry led to the creation of [[chlorpromazine]].<ref>{{cite web|title=Paul Charpentier, Henri-Marie Laborit, Simone Courvoisier, Jean Delay, and Pierre Deniker|url=https://www.chemheritage.org/historical-profile/paul-charpentier-henri-marie-laborit-simone-courvoisier-jean-delay-and-pierre|publisher=Chemical Heritage Foundation|accessdate=17 July 2017|language=en|date=August 6, 2015}}</ref>
+
+==Society and culture==
+As of July 2017 it was marketed under many brand names worldwide: Allersoothe, Antiallersin, Anvomin, Atosil, Avomine, Closin N, Codopalm, Diphergan, Farganesse, Fenazil, Fenergan, Fenezal, Frinova, Hiberna, Histabil, Histaloc, Histantil, Histazin, Histazine, Histerzin, Lenazine, Lergigan, Nufapreg, Otosil, Pamergan, Pharmaniaga, Phenadoz, Phenerex, Phenergan, Phénergan, Pipolphen, Polfergan, Proazamine, Progene, Prohist, Promet, Prometal, Prometazin, Prometazina, Promethazin, Prométhazine, Promethazinum, Promethegan, Promezin, Proneurin, Prothazin, Prothiazine, Prozin, Pyrethia, Quitazine, Reactifargan, Receptozine, Romergan, Sominex, Sylomet, Xepagan, Zinmet, and Zoralix.<ref name=brands>{{cite web|title=Promethazine international brands|url=https://www.drugs.com/international/promethazine.html|publisher=Drugs.com|accessdate=17 July 2017}}</ref>
+
+It is also marketed in many [[combination drug]] formulations:
+* with [[carbocisteine]] as Actithiol Antihistaminico, Mucoease, Mucoprom, Mucotal Prometazine, and Rhinathiol;
+*with [[paracetamol]] as Algotropyl, Calmkid, Fevril, Phen Plus, and Velpro-P;
+*with [[paracetamol]] and [[dextromethorphan]] as Choligrip na noc, Coldrex Nočná Liečba, Fedril Night Cold and Flu, Night Nurse, and Tachinotte;
+*with [[paracetamol]], [[phenylephrine]], and [[salicylamide]] as Flukit;
+*with [[dextromethorphan]] as Axcel Dextrozine and Hosedyl DM;
+*with [[dextromethorphan]] and [[ephedrine]] as Methorsedyl;
+*with [[dextromethorphan]] and [[pseudoephedrine]] as Sedilix-DM;
+*with [[dextromethorphan]] and [[phenylephedrine]] as Sedilix-RX;
+*with [[pholcodine]] as Codo-Q Junior and Tixylix;
+*with [[pholcodine]] and [[ephedrine]] as Phensedyl Dry Cough Linctus;
+*with [[pholcodine]] and [[phenylephedrine]] as Russedyl Compound Linctus;
+*with [[pholcodine]] and [[phenylpropanolamine]] as Tripe 'P';
+*with [[codeine]] as Kefei and Procodin;
+*with [[codeine]] and [[ephedrine]] as Dhasedyl, Fendyl, and P.E.C. ;
+*with [[ephedrine]]  and [[dextromethorphan]] as Dhasedyl DM;
+*with [[glutamic acid]] as Psico-Soma, and Psicosoma;
+*with [[noscapine]] as Tussisedal; and
+*with [[chlorpromazine]] as Vegetamin.<ref name=brands/>
+
+=== Product liability lawsuit ===
+{{Main article|Wyeth v. Levine}}
+
+In 2009, the [[US Supreme Court]] ruled on a [[product liability]] case involving promethazine.  Diana Levine, a woman suffering from a migraine, was administered [[Wyeth]]'s Phenergan via [[IV push]].  The drug was injected improperly, resulting in [[gangrene]] and subsequent amputation of her right forearm below the elbow.  A state jury awarded her $6 million in [[punitive damages]].
+
+The case was appealed to the Supreme Court on grounds of [[federal preemption]] and [[substantive due process]].<ref name=Liptak>{{cite news |last=Liptak |first=Adam |url=https://www.nytimes.com/2008/09/19/us/19scotus.html?n=Top/Reference/Times%20Topics/Organizations/S/Supreme%20Court&_r=1&adxnnl=1&oref=slogin&adxnnlx=1225505895-T2aivHeTdvJTT7b+uEsK1Q |title=Drug Label, Maimed Patient and Crucial Test for Justices |publisher=The New York Times |date=2001-09-18 |accessdate=2008-10-31}}</ref>  The Supreme Court upheld the lower courts' rulings, stating that "Wyeth could have unilaterally added a stronger warning about IV-push administration" without acting in opposition to federal law.<ref name="NYTimes">{{cite news |last=Stout |first=David |url=https://www.nytimes.com/2009/03/05/washington/05scotus.html |title=Drug Approval Is Not a Shield From Lawsuits, Justices Rule |publisher=The New York Times |date=2009-03-04 |accessdate=2009-03-04}}</ref> In effect, this means drug manufacturers can be held liable for injuries if warnings of potential adverse effects, approved by the [[US Food and Drug Administration]] (FDA), are deemed insufficient by state courts.
+
+On September 9, 2009, the FDA required a [[boxed warning]] be put on promethazine for injection, stating the contraindication for subcutaneous administration. The preferred administrative route is intramuscular, which reduces risk of surrounding muscle and tissue damage.<ref>{{cite web|url=http://www.fda.gov/Drugs/DrugSafety/PostmarketDrugSafetyInformationforPatientsandProviders/DrugSafetyInformationforHeathcareProfessionals/ucm182169.htm|title=Information for Healthcare Professionals: Intravenous Promethazine and Severe Tissue Injury, Including Gangrene|date=2013-08-15}}</ref>
+
+== See also==
+* [[Purple drank]] (a recreational drug concoction containing promethazine)
+
+== References ==
+{{Reflist|2}}
+
+== External links ==
+* {{cite web |title=Promethazine |url=http://www.nlm.nih.gov/medlineplus/druginfo/medmaster/a682284.html |publisher=U.S. National Library of Medicine and National Institutes of Health}}
+
+{{Navboxes
+| title = [[Medicine|Medical uses]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Antiemetics}}
+{{Antipruritics}}
+{{Hypnotics}}
+{{Antihistamines}}
+}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Adrenergic receptor modulators}}
+{{Dopamine receptor modulators}}
+{{Histamine receptor modulators}}
+{{Ion channel modulators}}
+{{Muscarinic acetylcholine receptor modulators}}
+{{Serotonin receptor modulators}}
+{{Sigma receptor modulators}}
+}}
+{{Tricyclics}}
+
+[[Category:Antiemetics]]
+[[Category:Antimigraine drugs]]
+[[Category:H1 receptor antagonists]]
+[[Category:Hypnotics]]
+[[Category:Muscarinic antagonists]]
+[[Category:Phenothiazines]]
+[[Category:Sodium channel blockers]]
+[[Category:Sigma receptor ligands]]

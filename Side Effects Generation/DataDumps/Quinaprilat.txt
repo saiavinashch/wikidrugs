@@ -1,0 +1,75 @@
+{{Drugbox
+| IUPAC_name = (3''S'')-2-[(2''S'')-2-<nowiki>[[</nowiki>(1''S'')-1-carboxy-3-phenylpropyl]amino]propanoyl]-3,4-dihydro-1''H''-isoquinoline-3-carboxylic acid
+| image = Quinaprilat structure.svg
+| width = 222
+| alt =  
+| image2 =  
+| width2 =  
+| drug_name = 
+<!--Clinical data-->
+| tradename =  
+| licence_EU = <!-- EMA requires brand name -->
+| licence_US = <!-- FDA may use generic name -->
+| DailyMedID = <!-- preference to licence_US -->
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| dependency_liability =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| CAS_number = 82768-85-2
+| CAS_supplemental =  
+| ATCvet =  
+| ATC_prefix = None
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem =  
+| PubChemSubstance =  
+| IUPHAR_ligand = 6352
+| DrugBank =  
+| ChemSpiderID = 97106
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 34SSX5LDE5
+| ChEMBL = 1733
+| synonyms = CI-928
+<!--Chemical data-->
+| chemical_formula =
+| C=23 | H=26 | N=2 | O=5
+| molecular_weight = 410.46294
+| SMILES = C[C@@H](C(=O)N1CC2=CC=CC=C2C[C@H]1C(=O)O)N[C@@H](CCC3=CC=CC=C3)C(=O)O
+| StdInChI = 1S/C23H26N2O5/c1-15(24-19(22(27)28)12-11-16-7-3-2-4-8-16)21(26)25-14-18-10-6-5-9-17(18)13-20(25)23(29)30/h2-10,15,19-20,24H,11-14H2,1H3,(H,27,28)(H,29,30)/t15-,19-,20-/m0/s1
+| StdInChIKey = FLSLEGPOVLMJMN-YSSFQJQWSA-N
+| density =  
+| melting_point =  
+| melting_high =  
+| melting_notes =  
+| boiling_point =  
+| boiling_notes =  
+| solubility =  
+| specific_rotation =  
+| sec_combustion =  
+}}
+
+'''Quinaprilat''' is the active [[metabolite]] of [[quinapril]].<ref>{{cite journal | last1 = Ferry|first1= J J|last2= Horvath|first2= A M|last3= Sedman|first3= A J|last4= Latts|first4= J R|last5= Colburn|first5= W A | title = Influence of food on the pharmacokinetics of quinapril and its active diacid metabolite, CI-928 | journal = Journal of clinical pharmacology  | year = 1987 | volume = 27 | issue = 5 | pages = 397–399 | doi=10.1002/j.1552-4604.1987.tb03037.x}}</ref>
+
+==References==
+{{reflist}}
+
+{{ACE inhibitors}}
+{{Angiotensin receptor modulators}}
+
+[[Category:ACE inhibitors]]
+[[Category:Carboxamides]]
+[[Category:Pfizer]]
+[[Category:Tetrahydroisoquinolines]]

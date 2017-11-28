@@ -1,0 +1,107 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 456077928
+| IUPAC_name = 2-Ethoxy-1-{[2'-(5-oxo-2,5-dihydro-1,2,4-oxadiazol-3-yl)-4-biphenylyl]methyl}-1''H''-benzimidazole-7-carboxylic acid
+| image = Azilsartan.svg
+<!-- Clinical data -->
+| tradename = Edarbi,Zilance
+| Drugs.com = {{drugs.com|CDI|azilsartan}}
+| MedlinePlus = a611028
+| licence_US = Azilsartan
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = 
+| pregnancy_category = C (1st trimester) <br /> D (2nd/3rd trimester) (US)
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled -->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status = 
+| routes_of_administration = Oral
+<!-- Pharmacokinetic data -->
+| bioavailability = 60%
+| protein_bound = 
+| metabolism = [[CYP2C9]]
+| elimination_half-life = 11&nbsp;hrs
+| excretion = 55% faeces, 42% urine
+<!-- Identifiers -->
+| IUPHAR_ligand = 6901
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 147403-03-0
+| ATC_prefix = C09
+| ATC_suffix = CA09
+| ATC_supplemental =
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 68850
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 57242
+| PubChem = 9825285
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = F9NUX55P23
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 8001032
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D08864
+| synonyms = TAK-536
+<!-- Chemical data -->
+| chemical_formula =
+| C=25 | H= 20 | N= 4 | O= 5
+| molecular_weight = 456.46 g/mol
+| smiles = CCOC1=NC2=CC=CC(=C2N1CC3=CC=C(C=C3)C4=CC=CC=C4C5=NOC(=O)N5)C(=O)O
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = InChI=1S/C25H20N4O5/c1-2-33-24-26-20-9-5-8-19(23(30)31)21(20)29(24)14-15-10-12-16(13-11-15)17-6-3-4-7-18(17)22-27-25(32)34-28-22/h3-13H,2,14H2,1H3,(H,30,31)(H,27,28,32)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = KGSXMPPBFPAXLY-UHFFFAOYSA-N
+}}
+
+'''Azilsartan''' ([[International Nonproprietary Name|INN]]) is an [[angiotensin II receptor antagonist]] used in the treatment of [[hypertension]], developed by [[Takeda Pharmaceutical Company|Takeda]]. It is marketed in tablet form under the trade name '''Edarbi''' as the [[prodrug]] '''azilsartan medoxomil''' (INN).
+
+==Medical uses==
+Azilsartan is used for the treatment of [[essential hypertension]] in adults.<ref name="AC" />
+
+==Contraindications==
+Azilsartan must not be used with [[aliskiren]], a renin inhibitor, in patients with diabetes as this increases the risk of serious adverse effects. Like other antihypertensive drugs acting on the [[renin–angiotensin system]], it is contraindicated during the second and third trimesters of pregnancy.<ref name="AC">{{cite book|title=Austria-Codex|at=Edarbi-Tabletten|editor=Haberfeld, H|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2015|language=German}}</ref><ref name="Dinnendahl" />
+
+==Adverse effects==
+Common side effects include [[dizziness]], [[diarrhoea]] and eleveted levels of the enzyme [[creatine kinase]]. More serious reactions such as [[angioedema]] are rare.<ref name="AC" /><ref name="Dinnendahl" />
+
+==Interactions==
+No relevant drug interactions have been found in studies. Based on experiences with other drugs acting on the renin–angiotensin system, it is theorized that azilsartan could increase the toxicity of [[lithium (medication)|lithium]] and of other drugs increasing [[potassium]] levels, such as [[potassium sparing diuretic]]s.<ref name="AC" /><ref name="Dinnendahl" />
+
+==Pharmacology==
+
+===Mechanism of action===
+{{main article|Angiotensin II receptor antagonist}}
+Azilsartan medoxomil lowers blood pressure by blocking the action of [[angiotensin II]] at the [[AT1 receptor|AT<sub>1</sub> receptor]], a hormone that contracts blood vessels and reduces water excretion through the kidneys.<ref name="AC" />
+
+===Pharmacokinetics===
+Azilsartan medoxomil is quickly absorbed from the gut, independently of food intake. Maximal [[blood plasma]] concentrations are reached after one to three hours. The liver enzyme [[CYP2C9]] is involved in the formation of the two main [[metabolites]], which are pharmacologically inactive; they are the ''[[Oxygen|O]]''-de[[ethyl group|ethylation]] and [[decarboxylation]] products of azilsartan. [[Elimination half life]] is about 11 hours. 55% are excreted via the faeces, and 42% via the urine, of which 15% are present as azilsartan and the rest in form of the metabolites.<ref name="Dinnendahl">{{cite journal|title=Arzneistoff-Profile|editor1=Dinnendahl, V |editor2=Fricke, U |publisher=Govi Pharmazeutischer Verlag|location=Eschborn, Germany|date=2012|edition=26|volume=2|isbn=978-3-7741-9846-3|language=German}}</ref>
+
+==Chemistry==
+[[File:Azilsartan medoxomil.svg|thumb|left|Azilsartan medoxomil, the [[prodrug]]]]
+The drug formulation contains the [[potassium]] salt of azilsartan medoxomil (codenamed TAK-491), an [[ester]] of azilsartan's [[carboxyl group]] with the [[alcohol]] (5-methyl-2-oxo-1,3-dioxol-4-yl)methanol.<ref name="Dinnendahl" /> This ester is more [[lipophilic]] than azilsartan itself.
+{{clear left}}
+
+==History==
+On 25 February 2011, the [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]] approved azilsartan medoxomil for the treatment of high blood pressure in adults.<ref>{{cite press release |url=http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm244722.htm |title=FDA approves Edarbi to treat high blood pressure | publisher = U.S. Food and Drug Administration | date = February 25, 2011 |accessdate=2011-03-01}}</ref> On March 8, 2012, [[Health Canada]] approved the drug for mild to moderate essential hypertension.<ref>[http://www.hc-sc.gc.ca/dhp-mps/prodpharma/sbd-smd/drug-med/nd_ad_2012_edarbi_145305-eng.php Notice of Decision for Edarbi]{{dead link|date=October 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> In India it was approved in early 2017.{{citation needed|date=February 2017}}
+
+===Brand names===
+
+In India it is available under the brand name of Aztric (Intas240600) and also other brands like, Azarbi, Myotan, Altoran, Zilokem, Zolahart, Azilday, Zilsar, Zilarbi, Nexsart, Azilcad, Eddzaar, Azildac, Azutan, Ziltax, Zilsar, Zarbil, Macarbi, Azilpack, Azearly, Tenarbi, Ilsar, Alwiz,  Zilpres, Jbsartan, Arbozil Aziltrend, Aziltence
+
+{{citation needed|date=September 2017}}
+
+==References==
+{{Reflist}}
+
+{{Agents acting on the renin-angiotensin system}}
+{{Angiotensin receptor modulators}}
+
+[[Category:Angiotensin II receptor antagonists]]
+[[Category:Benzimidazoles]]
+[[Category:Carbamates]]
+[[Category:Ethers]]
+[[Category:Oxadiazoles]]
+[[Category:Biphenyls]]

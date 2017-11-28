@@ -1,0 +1,101 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464404831
+| image =
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = zu
+| target = [[Beta amyloid]]
+<!-- Clinical data -->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled -->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Investigational
+| routes_of_administration =
+<!-- Pharmacokinetic data -->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 955085-14-0
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 5D6PWO0333
+| KEGG = D10058
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+<!-- Chemical data -->
+| C=6396 | H=9922 | N=1712 | O=1996 | S=42
+| molecular_weight = 144.1 kg/mol
+}}
+
+'''Solanezumab''' (proposed [[International Nonproprietary Name|INN]], LY2062430<ref name=":0">{{Cite journal|title=Safety and biomarker effects of solanezumab in patients with Alzheimer’s disease|journal=Alzheimer’s & Dementia|volume=8}}</ref>) is a [[monoclonal antibodies|monoclonal antibody]] being investigated by [[Eli Lilly and Company|Eli Lilly]] as a [[neuroprotection|neuroprotector]]<ref>[http://www.who.int/entity/medicines/publications/druginformation/innlists/PL100prepubli.pdf International Nonproprietary Names for Pharmaceutical Substances (INN, prepublication copy)], ''World Health Organization''.</ref> for patients with [[Alzheimer's disease]].<ref>{{ClinicalTrialsGov|NCT00749216|Solanezumab Safety Study in Japanese Patients With Alzheimer's Disease}}</ref><ref>{{ClinicalTrialsGov|NCT00905372|Effect of LY2062430 on the Progression of Alzheimer's Disease (EXPEDITION)}}</ref> The drug originally attracted extensive media coverage proclaiming it a breakthrough, but it has failed to show promise in Phase III trials.<ref>{{cite journal |vauthors=McCartney M |title=Margaret McCartney: The "breakthrough" drug that's not been shown to help in Alzheimer's disease |journal=BMJ |volume=351 |issue= |pages=h4064 |year=2015 |pmid=26208710 |doi=10.1136/bmj.h4064 |url=}}</ref>
+
+== Medical uses ==
+Solanezumab was safely used in combination with approved Alzheimer’s disease treatment, such as [[acetylcholinesterase inhibitor]]s or [[memantine]], in the clinical trials.<ref name=":0" /><ref name=":4" /><ref name=":5" />
+
+Aside from Alzheimer’s disease, there are other amyloid beta related diseases, in which solanezumab could be used, e.g., [[Down syndrome]] or [[cerebral amyloid angiopathy]].<ref name=":2" /> However, this has not been studied so far.
+
+== Adverse effects ==
+No safety concerns were detected in any of the studies.<ref name=":0" /><ref name=":4" /><ref name=":5" /><ref name=":6" /> A few patients suffered from mild infusion reactions that resolved on their own.<ref name=":0" /><ref name=":4" /> The measured laboratory values and vital signs, showed no changes.<ref name=":4" /> Other adverse events that occurred, e.g., [[headache]] or [[hematoma]], where not considered as related to treatment.<ref name=":0" /><ref name=":4" />
+
+Other anti-amyloid beta antibodies caused [[amyloid-related imaging abnormalities]],<ref name=":0" /> which is not the case for solanezumab.<ref name=":0" /><ref name=":4" /><ref name=":5" />
+
+==Pharmacology==
+=== Mechanism of action ===
+Solanezumab binds the [[Beta amyloid|amyloid-β]] [[peptides]] that aggregate and form plaques in the brain that are an early pathological feature of Alzheimer's disease.<ref>{{cite journal |doi=10.1016/S1474-4422(13)70044-9 |pmid=23477989 |title=Amyloid β deposition, neurodegeneration, and cognitive decline in sporadic Alzheimer's disease: A prospective cohort study |journal=The Lancet Neurology |volume=12 |issue=4 |pages=357–67 |year=2013 |last1=Villemagne |first1=Victor L |last2=Burnham |first2=Samantha |last3=Bourgeat |first3=Pierrick |last4=Brown |first4=Belinda |last5=Ellis |first5=Kathryn A |last6=Salvado |first6=Olivier |last7=Szoeke |first7=Cassandra |last8=MacAulay |first8=S Lance |last9=Martins |first9=Ralph |last10=Maruff |first10=Paul |last11=Ames |first11=David |last12=Rowe |first12=Christopher C |last13=Masters |first13=Colin L |author14=Australian Imaging Biomarkers Lifestyle (AIBL) Research Group }}</ref> Solanezumab binds the central [[epitope]] of monomeric [[Beta amyloid|amyloid-β]], [[Amino acid abbreviations|KLVFFAD]], (PDB ID 4XXD<ref>{{cite journal |doi=10.1038/srep09649 |pmid=25880481 |title=Molecular basis for mid-region amyloid-β capture by leading Alzheimer's disease immunotherapies |journal=Scientific Reports |volume=5 |pages=9649 |year=2015 | url = http://www.nature.com/srep/2015/150409/srep09649/full/srep09649.html |last1=Crespi |first1=Gabriela A. N. |last2=Hermans |first2=Stefan J. |last3=Parker |first3=Michael W. |last4=Miles |first4=Luke A. |pmc=4549621}}</ref>) with picomolar [[Affinity (pharmacology)|affinity]].<ref>{{cite journal |doi=10.1007/s00401-014-1290-2 |pmid=24803227 |title=Do current therapeutic anti-Aβ antibodies for Alzheimer's disease engage the target? |journal=Acta Neuropathologica |volume=127 |issue=6 |pages=803–10 |year=2014 |last1=Watt |first1=Andrew D. |last2=Crespi |first2=Gabriela A. N. |last3=Down |first3=Russell A. |last4=Ascher |first4=David B. |last5=Gunn |first5=Adam |last6=Perez |first6=Keyla A. |last7=McLean |first7=Catriona A. |last8=Villemagne |first8=Victor L. |last9=Parker |first9=Michael W. |last10=Barnham |first10=Kevin J. |last11=Miles |first11=Luke A. }}</ref> This epitope is known as the nucleation site for Aβ oligomerization, and it is these oligomers of Aβ that are thought to be toxic to neurons.
+
+Solanezumab is thought to act as an “amyloid beta sink”<ref name=":3" /> that is “facilitating flux of amyloid beta from a central to peripheral compartment”.<ref name=":3" /> This increases the peripheral elimination of both amyloid beta and the antibody. Amyloid beta plaques mostly consist of amyloid beta42. Solanezumab binds free amyloid beta which causes amyloid beta42 to solubilize to reestablish the equilibrium in the cerebrospinal fluid.<ref name=":0" />
+
+== Manufacturing ==
+Solanezumab is expressed in common host cells, such as ''[[Escherichia coli|E. coli]]'', ''[[Salmonella]]'', ''[[Saccharomyces]]'' or mammalian tissue cells. The produced antibodies are extracted and purified according to the standard procedures of the art.<ref name=":2" />
+
+== Society and culture ==
+=== Commercial aspects ===
+Solanezumab is developed and investigated by [[Eli Lilly and Company]], Indianapolis, IN.<ref name=":1">{{Cite web|url=https://www.lilly.com/_assets/pdf/integrated-report.pdf|title=Lilly Integrated report 2015|last=|first=|date=2016-11-10|website=lilly.com|publisher=Eli Lilly|access-date=2016-11-10}}</ref> It is covered under the [[patent]] US 7,195,761 B2, which was filed in 2002 by Eli Lilly, Indianapolis, IN, and [[Washington University in St. Louis|Washington University]], St. Louis, MO.<ref name=":2">{{Cite web|url=https://www.google.com/patents/US7195761|title=Patent US7195761|last=|first=|date=2016-11-10|website=|publisher=|access-date=2016-11-10}}</ref>
+
+In 2011, TPG-Axon Capital funded part of the phase 3 trials. It will receive an estimated $70 million of based on sales milestones after the launch of the product.<ref>{{Cite web|url=http://files.shareholder.com/downloads/LLY/3183010514x0x882148/56D78424-8D60-470D-BE5D-975D890947A4/English.PDF|title=Eli Lilly Annual Report 2015|last=|first=|date=2016-11-10|website=|publisher=Eli Lilly|access-date=2016-11-10}}</ref>
+
+== Preclinical trials ==
+The first evidence that antibodies binding the central [[amyloid beta]] domain are effective in the treatment of Alzheimer’s disease was found in transgenic mice, which express the human amyloid beta precursor protein. Treatment with a murine analog of solanezumab (m266) lead to an increase in [[Blood plasma|plasma]] amyloid beta, which was all bound to m266. Additionally, the amount of both free amyloid beta in the brain and amyloid beta in plaques was significantly decreased.<ref name=":3">{{Cite journal|title=Peripheral anti-Ab antibody alters CNS and plasma Ab clearance and decreases brain Ab burden in a mouse model of Alzheimer’s disease|journal=PNAS|volume=98|doi= 10.1073/pnas.151261398|pages=8850–8855}}</ref>
+
+Due to those results, it is postulated that m266 binds free amyloid beta in the plasma and, therefore, changes the amyloid beta equilibrium between plasma and brain.<ref name=":3" />
+
+== Clinical trials ==
+
+=== Phase 1 ===
+In a single-dose, placebo-controlled study (H8A-LC-LZAH) in 19 patients with mild-to-moderate Alzheimer’s disease, solanezumab was well tolerated over the whole dose range.  There were no severe [[adverse drug reaction]]s. All patients showed dose-dependent amyloid beta responses, but no change in [[cognition]]. This negative outcome was expected after only a single dose.<ref name=":4">{{Cite journal|title=Safety and Changes in Plasma and Cerebrospinal Fluid Amyloid A After a Single Administration of an Amyloid A Monoclonal Antibody in Subjects With Alzheimer Disease|journal=[[Clin Neuropharm]]|volume=33|issue=2|DOI=10.1097/WNF.0b013e3181cb577a|pages=67–73}}</ref>
+
+=== Phase 2 ===
+52 patients with mild-to-moderate Alzheimer’s disease underwent a parallel group, double-blind, randomized, placebo controlled phase 2 trial. They received weekly infusions of either saline or antibody for 12 weeks. The placebo group received only saline, whereas the antibody groups received four different concentrations of solanezumab infusions or saline. They were dosed with either 100&nbsp;mg every 4 weeks, 100&nbsp;mg weekly, 400&nbsp;mg every 4 weeks or 400&nbsp;mg weekly.<ref name=":0" />
+
+Plasma amyloid beta levels increased dose dependently over the course of treatment. In the cerebrospinal fluid amyloid beta40 increased, whereas amyloid beta42 increased. This could be due to a change in equilibrium between plasma, [[cerebrospinal fluid]] and amyloid beta plaques. However, there were no significant changes in cognition and memory.<ref name=":0" />
+
+=== Phase 3 ===
+Solanezumab was tested in two phase 3 clinical trials, EXPEDITION 1 and 2 (NCT00905372 and NCT00904683). Both were randomized, double-blind and placebo-controlled. Patients with mild-to-moderate Alzheimer’s disease received either placebo or 400&nbsp;mg solanezumab infusions every 4 weeks over 18 months.<ref name=":5">{{Cite journal|title=Phase 3 Trials of Solanezumab for Mild-to-Moderate Alzheimer’s Disease|journal=The New England Journal of Medicine|volume=370}}</ref>
+
+A total of 1012 patients participated in EXPEDITION 1, EXPEDITION 2 enrolled another 1040 patients. Both studies were not able to show a difference in cognition and memory between the treated and the placebo group.<ref name=":5" /> However, a subgroup analysis of only patients with mild Alzheimer’s disease showed less worsening of cognition in patients receiving solanezumab compared to placebo, which means the progression of the disease was slowed down. There was no effect on disease progression in patients with moderate symptoms.<ref name=":6">{{Cite journal|title=Phase 3 solanezumab trials: Secondary outcomes in mild Alzheimer’s disease patients|journal=Alzheimer’s & Dementia|volume=12}}</ref>
+
+Since the first two EXPEDITION trials show a positive effect in patients with mild Alzheimer’s disease, Lilly launched another phase 3 trial, EXPEDITION 3 (NCT01900665). Patients with mild Alzheimer’s disease received 400&nbsp;mg solanezumab every 4 weeks for 80 weeks. Afterwards they can continue treatment for a total of 208 weeks, if wanted.<ref name=":7">{{Cite web|url=https://clinicaltrials.gov/ct2/show/record/NCT01900665|title=Progress of Mild Alzheimer's Disease in Participants on Solanezumab Versus Placebo - Tabular View - ClinicalTrials.gov|website=clinicaltrials.gov|access-date=2016-11-11}}</ref> This trial failed to show positive results,<ref>{{cite web|title=Lilly Announces Top-Line Results of Solanezumab Phase 3 Clinical Trial|url=https://investor.lilly.com/releasedetail.cfm?ReleaseID=1000871|website=Eli Lilly|publisher=Eli Lilly|accessdate=23 November 2016}}</ref> despite the high expectations. The trial will be finalized in 2020.<ref name=":7" />
+
+==References==
+{{reflist|30em}}
+{{Monoclonals for bone, musculoskeletal, circulatory, and neurologic systems}}
+
+[[Category:Monoclonal antibodies]]
+[[Category:Treatment of Alzheimer's disease]]

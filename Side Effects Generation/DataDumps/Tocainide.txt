@@ -1,0 +1,77 @@
+{{Drugbox
+| verifiedrevid = 470611261
+| IUPAC_name = ''N''-(2,6-dimethylphenyl)alaninamide
+| image = Tocainide.svg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|tocainide}}
+| MedlinePlus = a601248
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status =  
+| routes_of_administration =
+<!--Pharmacokinetic data-->
+| bioavailability = 0.9-1 (oral)
+| protein_bound = 10-20%
+| metabolism = glucuronidation (primary)
+| elimination_half-life = 9-14 R, 13-20 S
+| excretion = 30-50% urine (unchanged)
+<!--Identifiers-->
+| IUPHAR_ligand = 7309
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 41708-72-9
+| ATC_prefix = C01
+| ATC_suffix = BB03
+| ATC_supplemental =  
+| PubChem = 38945
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01056
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 35632
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 27DXO59SAN
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D06172
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 9611
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1762
+<!--Chemical data-->
+| C=11 | H=16 | N=2 | O=1
+| molecular_weight = 192.258 g/mol
+| smiles = O=C(Nc1c(cccc1C)C)C(N)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C11H16N2O/c1-7-5-4-6-8(2)10(7)13-11(14)9(3)12/h4-6,9H,12H2,1-3H3,(H,13,14)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = BUJAGSGYPOAWEI-UHFFFAOYSA-N
+}}
+'''Tocainide''' (Tonocard) is a class Ib [[antiarrhythmic agent]]. It is no longer sold in the United States.
+
+==Pharmacokinetics==
+
+Tocainide is a [[lidocaine]] analog, that does not have significant 1st pass metabolism.  It is found in two [[enantiomer]]s.  The R isomer is 4x as potent as the S.  Oral bioavailability is 0.9-1.0. In the blood tocainide is 10-20% protein bound. The Volume of distribution is 2.5-3.5 L/kg.  30-50% is excreted unchanged in the urine.  The more active R-isomer is cleared faster in anephric patients or those with severe renal dysfunction.  The main metabolite is the glucuronidated tocainide carbamic acid.  The glucuronosyl transferase is apparently induced by rifampin.  Weak inhibition of Cyp1A2 leads to a mild theophylline interaction. (Not verbatim)
+
+==Synthesis==
+[[File:Tocainide synthesis.png|thumb|center|700px|Tocainide synthesis:<ref>R.N. Boyes, E.W. Byrnes, {{Cite patent|DE|2235745}} (1972).</ref><ref>Astra Pharmaceutical Products Inc., {{Cite patent|GB|1461602}} (1974).</ref><ref>R.N. Boyes, B.R. Duce, E.M. Smith, E.W. Byrnes, {{Cite patent|DE2400540}} (1974).</ref><ref>{{cite journal | doi = 10.1021/jm00196a005 | title=New antiarrhythmic agents. 1. Primary .alpha.-amino anilides | journal=Journal of Medicinal Chemistry | date=1979 | volume=22 | issue=10 | pages=1171–1176 | first=Eugene W. | last=Byrnes}}</ref>]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{MedlinePlusDrugInfo|medmaster|a685030}}
+
+Burton ME. Applied Pharmacokinetics & Pharmacodynamics: Principles of Therapeutic Drug Monitoring. 4th ed. Philadelphia: Lippincott Williams & Wilkins; 2006.
+
+{{Sodium channel blockers}}
+{{Antiarrhythmic agents}}
+
+[[Category:Antiarrhythmic agents]]
+[[Category:Sodium channel blockers]]
+[[Category:Anilides]]
+
+
+{{cardiovascular-drug-stub}}

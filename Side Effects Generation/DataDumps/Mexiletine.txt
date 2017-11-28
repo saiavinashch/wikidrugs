@@ -1,0 +1,87 @@
+{{Drugbox
+| verifiedrevid = 462252080
+| IUPAC_name = (''RS'')-1-(2,6-dimethylphenoxy)propan-2-amine<br />OR<br />2-(2-aminopropoxy)-1,3-dimethylbenzene
+| image = Mexiletine.svg
+| width = 200px
+| chirality = [[Racemic mixture]]
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|monograph|mexiletine-hydrochloride}}
+| MedlinePlus = a607064
+| pregnancy_AU = B1
+| pregnancy_US = C
+| legal_UK = POM
+| routes_of_administration = Oral, [[Intravenous therapy|IV]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 90%
+| protein_bound = 50-60%
+| metabolism = [[Liver|Hepatic]] ([[CYP2D6]] and [[CYP1A2|1A2]]- mediated)
+| elimination_half-life = 10-12 hours
+| excretion = [[Kidney|Renal]] (10%)
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|CAS}}
+| CAS_number = 31828-71-4
+| ATC_prefix = C01
+| ATC_suffix = BB02
+| PubChem = 4178
+| IUPHAR_ligand = 2629
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00379
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4034
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 1U511HHV4Z
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08215
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 6916
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 558
+
+<!--Chemical data-->
+| C=11 | H=17 | N=1 | O=1 
+| molecular_weight = 179.259 g/mol
+| smiles = O(c1c(cccc1C)C)CC(N)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C11H17NO/c1-8-5-4-6-9(2)11(8)13-7-10(3)12/h4-6,10H,7,12H2,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = VLPIATFUUWWMKC-UHFFFAOYSA-N
+}}
+
+'''Mexiletine''' ([[International Nonproprietary Name|INN]]) (sold under the trade name '''Mexitil''') is a non-selective [[voltage-gated sodium channel]] [[sodium channel blocker|blocker]] which belongs to the [[Class IB anti-arrhythmic]] group of medicines.<ref name="CanaveroBonicalzi2011">{{cite book|author1=Sergio Canavero|author2=Vincenzo Bonicalzi|title=Central Pain Syndrome: Pathophysiology, Diagnosis and Management|url=https://books.google.com/books?id=GMzES57AGnoC&pg=PA286|date=13 October 2011|publisher=Cambridge University Press|isbn=978-1-107-01021-5|pages=286–}}</ref> It is used to treat [[arrhythmia]]s within the [[heart]], or seriously irregular heartbeats. It slows conduction in the heart and makes the heart tissue less sensitive. Dizziness, heartburn, nausea, nervousness, trembling, unsteadiness are common side effects. It is available in injection and capsule form.
+
+Class IB [[antiarrhythmic]]s decrease action potential frequency by lengthening the repolarization phase.  This is achieved by blocking sodium channels.<ref>[http://www.rxlist.com/cgi/generic/mexiletine_cp.htm Mexiletine], RxList.com</ref>
+
+This drug is now no longer freely available as a licensed product in either the US or the UK. It can be imported to the UK as an unlicensed, 'named-patient' drug.
+
+Mexiletine may also be of use in patients experiencing refractory [[pain]]<ref>{{cite book | author = Sweetman S (ed.) | title = [[Martindale: The complete drug reference]] | edition = 33rd | location = London | publisher = Pharmaceutical Press | year = 2002 | isbn = 0-85369-499-0}}</ref> and is also effective for treating muscle stiffness resulting from [[myotonic dystrophy]] ([[Steinert's disease]]) or nondystrophic myotonias such as [[myotonia congenita]] ([[Thomsen disease]]).
+
+==Synthesis==
+[[File:Mexiletine synthesis.png|thumb|center|700px|Mexiletine synthesis:<ref>H. Koppe, W. Kummer, {{US patent|3954872}} (1976).</ref>]]
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+* {{cite book |veditors=Peck T, Hill S, Williams M | title = Pharmacology for Anaesthesia and Intensive Care | edition = 2nd | publisher = [[Cambridge University Press]] | year = 2004 | isbn = 0-521-68794-2}}
+
+==External links==
+* [http://www.nlm.nih.gov/medlineplus/druginfo/medmaster/a607064.html MedlinePlus Drug Information: Mexiletine]
+
+
+{{Antiarrhythmic agents}}
+{{Analgesics}}
+{{Neuropathic pain and fibromyalgia pharmacotherapies}}
+{{Channel blockers}}
+
+[[Category:Analgesics]]
+[[Category:Antiarrhythmic agents]]
+[[Category:Local anesthetics]]
+[[Category:Phenol ethers]]
+[[Category:Sodium channel blockers]]
+
+
+{{cardiovascular-drug-stub}}
+{{analgesic-stub}}

@@ -1,0 +1,93 @@
+{{Infobox protein family
+| Symbol = N/A
+| Name = 
+| image = Gramicidin A.gif
+| width = 
+| caption = 
+| Pfam = 
+| Pfam_clan =  
+| InterPro = 
+| SMART = 
+| PROSITE = 
+| MEROPS = 
+| SCOP = 
+| TCDB = 1.D.1
+| OPM family = 69
+| OPM protein = 1grm
+| CAZy = 
+| CDD = 
+}}
+
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 461123422
+| image =
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 1405-97-6
+| ATC_prefix = R02
+| ATC_suffix = AB30
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB00027
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3076403
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 5IE62321P4
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D04369
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 557217
+<!--Chemical data-->
+| C=99 | H=140
+| N=20 | O=17
+| molecular_weight = 1882.3 g/mol
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C60H92N12O10/c1-35(2)31-43-53(75)67-45(33-39-19-11-9-12-20-39)59(81)71-29-17-25-47(71)55(77)70-50(38(7)8)58(80)64-42(24-16-28-62)52(74)66-44(32-36(3)4)54(76)68-46(34-40-21-13-10-14-22-40)60(82)72-30-18-26-48(72)56(78)69-49(37(5)6)57(79)63-41(23-15-27-61)51(73)65-43/h9-14,19-22,35-38,41-50H,15-18,23-34,61-62H2,1-8H3,(H,63,79)(H,64,80)(H,65,73)(H,66,74)(H,67,75)(H,68,76)(H,69,78)(H,70,77)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IUAYMJGZBVDSGL-UHFFFAOYSA-N
+| synonyms = Bacillus brevis gramicidin D
+}}
+
+'''Gramicidin''' is a heterogeneous mixture of three antibiotic compounds, '''gramicidins A''', '''B''' and '''C''', making up 80%, 6%, and 14%, respectively,<ref>{{cite journal|last1=Bourinbaiar|first1=A.S.|last2=Coleman|first2=C.F.|title=The effect of gramicidin, a topical contraceptive and antimicrobial agent with anti-HIV activity, against herpes simplex viruses type 1 and 2 in vitro|journal=Archives of Virology|date=November 1997|volume=142|issue=11|pages=2225–2235|pmid=9672588|doi=10.1007/s007050050237}}</ref> all of which are obtained from the soil bacterial species ''[[Bacillus brevis]]'' and called collectively '''gramicidin D'''. Gramicidin D contains [[Peptide|linear pentadecapeptides]], that is chains made up of 15 [[amino acids]].<ref>Biopolymers (Peptide Science), vol. 51, pp. 129–144 (1999): http://www3.interscience.wiley.com/cgi-bin/abstract/62500357/ABSTRACT {{Cite journal | doi=10.1002/(SICI)1097-0282(1999)51:2<129::AID-BIP3>3.0.CO;2-Y | title=Gramicidin D conformation, dynamics and membrane ion transport | year=1999 | author=Burkhart, Brian M. | journal=Biopolymers | volume=51 | pages=129–44 | pmid=10397797 | last2=Gassman | first2=R.M. | last3=Langs | first3=D.A. | last4=Pangborn | first4=W.A. | last5=Duax | first5=W.L. | last6=Pletnev | first6=V. | issue=2 | postscript=<!--None-->}}</ref>  This is in contrast to [[gramicidin S]], which is a cyclic peptide chain.
+
+<!-- History -->
+Gramicidin was discovered in the United States in 1939.<ref>{{cite book|last1=Levy|first1=Stuart B.|title=The antibiotic paradox: how the misuse of antibiotics destroys their curative powers|date=2002|publisher=Perseus Publ.|location=Cambridge, Mass.|isbn=9780738204406|page=51|edition=2|url=https://books.google.ca/books?id=srvT8e_k7KcC&pg=PA51}}</ref>
+
+==Medical uses==
+Gramicidin is active against [[Gram-positive]] bacteria, except for the Gram-positive [[bacilli]], and against select [[Gram-negative]] organisms, such as ''[[Neisseria]]'' [[bacteria]].  Its therapeutic use is limited to topical application, as it induces [[hemolysis]] in lower concentrations than bacteria cell death, so it cannot be administered internally. Since the exterior [[squamous epithelium|epidermis]] is composed of dead cells, applying it to the surface of the skin will not cause harm.
+
+It is used primarily as a topical antibiotic and is one of the three constituents of consumer antibiotic [[polysporin]] ophthalmic solution.
+
+==History==
+In 1939, the French microbiologist [[René Dubos]] isolated the substance tyrothricin and later showed it was composed of two substances, gramicidin (20%) and [[tyrocidine]] (80%). These were the first antibiotics to be manufactured commercially.
+
+==Composition and structure==
+Gramicidin is a polypeptide with alternating L- and D-amino acids, sharing the general formula: 
+formyl-L-'''X'''-Gly-L-Ala-D-Leu-L-Ala-D-Val-L-Val-D-Val-L-Trp-D-Leu-L-'''Y'''-D-Leu-L-Trp-D-Leu-L-Trp-ethanolamine
+
+X and Y depend upon the gramicidin molecule. There exist [[valine]] and [[isoleucine]] variants of all three gramicidin species, and 'X' can be either. Y determines which is which; as Y gramicidin A contains [[tryptophan]], B [[phenylalanine]], and C [[tyrosine]]. Also note the alternating [[stereochemistry|stereochemical]] configurations (in the form of D and L) of the amino acids; this is vital to the formation of the [[beta helix|β-helix]].
+
+The chain assembles inside of the hydrophobic interior of the cellular [[lipid bilayer]] to form a β-helix. The helix itself is not long enough to span the membrane, but it [[protein dimer|dimerizes]] to form the elongated channel needed to span the whole membrane.
+
+The structure of the gramicidin head-to-head dimer in [[micelles]] and lipid bilayers was determined by solution and solid-state NMR.<ref>{{cite journal|last=Ketchem|first=Randal R.|author2=Hu, Weidong |author3=Cross, Timothy A. |title=High-Resolution Conformation of Gramicidin A in a Lipid Bilayer by Solid-State NMR|journal=Science|year=1993|volume=261|issue=5127|pages=1457–1460|url=http://www.sciencemag.org/content/261/5127/1457.abstract|doi=10.1126/science.7690158|pmid=7690158}}</ref> The structure was first proposed by D. W. Urry in 1971.<ref>{{cite journal |author=Urry DW |title=The Gramicidin A Transmembrane Channel: A Proposed π(L,D) Helix|journal=Proceedings of the National Academy of Sciences of the United States of America|volume=68|issue=3|pages=672–676|year=1971|pmid=5276779|doi=10.1073/pnas.68.3.672|pmc=389014}}</ref> In organic solvents and crystals, this peptide forms different types of non-native double helices.
+[[File:Structure of Gramicidins A B C.png|thumb|left|750px|Structures of gramicidins A, B and C]]
+{{clear}}
+
+==Pharmacological effect==
+Gramicidin's [[Bactericide|bactericidal]] activity is a result of increasing the permeability of the bacterial cell membrane, allowing [[inorganic]] [[Monovalent ion|monovalent]] [[cations]] (e.g. Na<sup>+</sup>) to travel through unrestricted and thereby destroying the ion gradient between the [[cytoplasm]] and the [[extracellular]] environment.<ref name="Alvarez-LeefmansDelpire2009">{{cite book|author1=Francisco J. Alvarez-Leefmans|author2=Eric Delpire|title=Physiology and Pathology of Chloride Transporters and Channels in the Nervous System: From Molecules to Diseases|url=https://books.google.com/books?id=-h0ZcnZwLzcC&pg=PA142|accessdate=3 December 2010|date=10 August 2009|publisher=Academic Press|isbn=978-0-12-374373-2|pages=142–146}}</ref>
+
+That gramicidin D functions as a channel was demonstrated by Hladky and Haydon, who investigated the unitary conductance of the channel. In general, gramicidin channels are completely selective for monovalent cations and the single-channel conductances for the alkali cations are ranked in the same order as the aqueous mobilities of these ions. Divalent cations like {{chem|Ca|2+}} block the channel by binding near its mouth so  it is essentially impermeable to divalent cations and also excludes anions. {{chem|Cl|-}} in particular is excluded from the channel because its [[hydration shell]] is thermodynamically stronger than that of most monovalent cations. The channel is permeable to most monovalent cations, which move through the channel in single file. The channel is filled with about six water molecules, almost all of which must be displaced when an ion is transported. Thus, ions moving through the gramicidin pore carry along a single file of water molecules. Such a flux of ion and water molecules is known as [[co-transport|flux coupling]]. In the presence of a second type of permeable ion, the two ions couple their flux, as well. Like [[valinomycin]] and [[nonactin]], the gramicidin channel is selective for potassium over sodium, but only slightly so. It has a permeability ratio of 2.9. Though it is impermeable to anions, conditions exist under which some anion permeation may be observed. Its ability to bind and transport cations is due to the presence of cation-binding sites, one strong and the other weak, in the channel.
+
+==References==
+{{reflist}}
+
+{{Throat preparations}}
+{{Cell wall disruptive antibiotics}}
+{{Membrane proteins}}
+{{Non-ribosomally synthesized channels}}
+
+[[Category:Polypeptide antibiotics]]
+[[Category:Integral membrane proteins]]
+[[Category:Antimicrobial peptides]]
+[[Category:Formamides]]

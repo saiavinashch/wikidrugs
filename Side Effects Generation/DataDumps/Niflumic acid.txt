@@ -1,0 +1,81 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 457481224
+| IUPAC_name = 2-<nowiki/>{[3-(trifluoromethyl)phenyl]amino}nicotinic acid
+| image = Niflumic acid.png
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|niflumic-acid}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life = 2.5 hr<ref>{{cite web | title = Half life | url = http://www.drugbank.ca/drugs/DB04552 | work = Drug Bank | accessdate = 15 July 2011 }}</ref>
+| excretion =  
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 4394-00-7
+| ATC_prefix = M01
+| ATC_suffix = AX02
+| ATC_supplemental = {{ATC|M02|AA17}}
+| IUPHAR_ligand = 2439
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 63323
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 4U5MP5IUD8
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08275
+| PubChem = 4488
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 4333
+| smiles = C1=CC(=CC(=C1)NC2=C(C=CC=N2)C(=O)O)C(F)(F)F
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C13H9F3N2O2/c14-13(15,16)8-3-1-4-9(7-8)18-11-10(12(19)20)5-2-6-17-11/h1-7H,(H,17,18)(H,19,20)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = JZFPYUNJRRFVQU-UHFFFAOYSA-N
+<!--Chemical data-->
+| C=13 | H=9 | F=3 | N=2 | O=2
+| molecular_weight = 282.21797 g/mol
+| melting_point = 204
+}}
+
+'''Niflumic acid''' is a drug used for joint and muscular pain. It is categorized as an inhibitor of [[cyclooxygenase-2]]. In experimental biology, it has been employed to inhibit [[chloride channel]]s.<ref>{{cite journal|last=Knauf|first=Philip A.|author2=Mann, Nancy A |title=Use of niflumic acid to determine the nature of the asymmetry of the human erythrocyte anion exchange system|journal=J. Gen. Physiol.|year=1984|volume=83|pages=703–725|pmid=6736917|doi=10.1085/jgp.83.5.703|pmc=2215658}}</ref> It has also been reported to act on GABA-A<ref>Sinkkonen ST et al. (2003): ''Receptor subtype-dependent positive and negative modulation of GABA(A) receptor function by niflumic acid, a nonsteroidal anti-inflammatory drug'', ''Mol Pharmacol'', p. 753-63. {{PMID|12920213}}</ref> and NMDA channels<ref>{{cite journal|last=Lerma J.|first=Martin d.R.|journal=Mol. Pharmacol.|year=1992|volume=41|pages=217–222|pmid=1371581|issue=2|title=Chloride transport blockers prevent N-methyl-D-aspartate receptor-channel complex activation}}</ref> and to block T-type calcium channels.<ref>Balderas E et al. (2012): ''Niflumic acid blocks native and recombinant T-type channels'', ''J Cell Physiol'', p. 2542-55. {{PMID|21898399}}</ref>
+
+==References==
+{{Reflist|2}}
+
+
+{{Anti-inflammatory and antirheumatic products}}
+{{Topical products for joint and muscular pain}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{GABAA receptor positive modulators}}
+{{Ion channel modulators}}
+{{Ionotropic glutamate receptor modulators}}
+{{Prostanoid signaling modulators}}
+}}
+
+[[Category:Pyridines]]
+[[Category:Anilines]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Calcium channel blockers]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:NMDA receptor antagonists]]
+[[Category:Aromatic acids]]
+
+
+{{musculoskeletal-drug-stub}}

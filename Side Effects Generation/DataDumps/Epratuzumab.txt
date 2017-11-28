@@ -1,0 +1,73 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 457119498
+| image = 
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = zu/o
+| target = [[CD22]]
+<!-- Clinical data -->
+| tradename = LymphoCide
+| pregnancy_AU = 
+| pregnancy_US = 
+| pregnancy_category = 
+| legal_AU = 
+| legal_CA = 
+| legal_UK = 
+| legal_US = 
+| legal_status = Investigational
+| routes_of_administration = 
+<!-- Pharmacokinetic data -->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 205923-57-5
+| ATC_prefix = none
+| ATC_suffix = 
+| PubChemSubstance = 47206001
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB04958
+| IUPHAR_ligand = 8088
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 3062P60MH9
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D04036
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+<!-- Chemical data -->
+| chemical_formula = 
+| molecular_weight = 
+}}
+
+'''Epratuzumab''' (planned trade name '''LymphoCide''') is a [[humanized monoclonal antibody]].  Potential uses may be found in [[oncology]] and in treatment of [[inflammation|inflammatory]] [[autoimmune disorder]]s, such as [[systemic lupus erythematosus]] (SLE).<ref>[http://clincancerres.aacrjournals.org/cgi/content/full/9/10/3982S Epratuzumab, a humanized monoclonal antibody targeting CD22: characterization of in vitro properties] Clinical Cancer Research Vol. 9,  September 1, 2003 ''free full text''</ref><ref>[http://clincancerres.aacrjournals.org/cgi/content/full/11/14/5215 Dose-Fractionated Radioimmunotherapy in Non-Hodgkin's Lymphoma Using DOTA-Conjugated, 90Y-Radiolabeled, Humanized Anti-CD22 Monoclonal Antibody, Epratuzumab] Clinical Cancer Research Vol. 11, July 15, 2005 ''free full text''</ref>
+
+==Clinical trials==
+A clinical trial for relapsed adult [[acute lymphoblastic leukemia]] (ALL) has reported initial results.<ref name=IMMU-Epra/>
+
+Results have been published for a phase II trial in untreated [[follicular lymphoma]].<ref name=IMMU-Epra/>
+
+Early results from a phase II trial for [[Diffuse large B-cell lymphoma]] (DLBCL) were encouraging.<ref name=IMMU-Epra/><ref name=Micallef2011>{{cite journal |url=http://www.bloodjournal.org/content/bloodjournal/118/15/4053.full.pdf |author= Micallef |title=Epratuzumab with rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone chemotherapy in patients with previously untreated diffuse large B-cell lymphoma. |journal=Blood |volume=118 |issue=15 |pages=4053–61 |doi=10.1182/blood-2011-02-336990 |year=2011|display-authors=etal}}</ref>
+
+The manufacturers in August 2009 announced success in early trials against SLE,<ref>Reuters: [https://www.reuters.com/article/pressRelease/idUS59586+27-Aug-2009+GNW20090827 UCB and Immunomedics Announce Positive Results for Epratuzumab Phase IIb Study in Systemic Lupus Erythematosus (SLE)]</ref> and started two [[Phase III clinical trial]]s.
+<br>July 2015 : Both phase III trials (EMBODY1/2) for SLE failed to meet their primary endpoint.<ref name=SA201507>[http://seekingalpha.com/news/2662465-epratuzumab-flunks-two-phase-3-studies-immunomedics-plummets-42-percent-premarket Epratuzumab flunks two Phase 3 studies; Immunomedics plummets 42% premarket. July 28 2015]</ref>
+
+==Mechanism of action==
+Epratuzumab binds to the glycoprotein [[CD22]] of mature and malignant [[B-cells]].
+
+Elevated CD22 and other B-cell receptor (BCR) proteins are associated with SLE. "Epratuzumab's mechanism of action transfers these BCR proteins to [[T helper cell|helper cells called effector cell]]s which reduces B-cell destruction and epratuzumab's impact on the body's immune system"<ref name=SA201507/> via a process called [[trogocytosis]].<ref name=IMMU-Epra>[http://www.immunomedics.com/epratuzumab-demo.shtml Epratuzumab]</ref> (Other SLE therapies destroy B-cells which compromises the immune system.)
+
+==References==
+{{reflist}}
+
+{{Monoclonals for immune system}}
+
+[[Category:Monoclonal antibodies for tumors]]
+
+
+{{monoclonal-antibody-stub}}
+{{antineoplastic-drug-stub}}

@@ -1,0 +1,242 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 464389408
+| IUPAC_name = 1-[2-[4-[5-chloro-1-(4-fluorophenyl)-indol-3-yl]-1-piperidyl]ethyl]imidazolidin-2-one
+| image = Sertindole.svg
+| width = 250
+| image2 = Sertindole ball-and-stick model.png
+
+<!--Clinical data-->
+| Drugs.com = {{drugs.com|international|sertindole}}
+| legal_status = Approved for marketing in approximately 20 countries
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 75%<ref name = Rev>{{cite journal|title=Drug safety and efficacy evaluation of sertindole for schizophrenia|journal=Expert Opinion on Drug Safety|date=November 2012|volume=11|issue=6|pages=1047–1062|doi=10.1517/14740338.2012.726984|pmid=22992213|author1=Karamatskos, E |author2=Lambert, M |author3=Mulert, C |author4=Naber, D }}</ref>
+| protein_bound = 99.5%<ref name = Rev/>
+| metabolism = [[Hepatic]] (mostly via [[CYP2D6]] and [[CYP3A4]])<ref name = TGA/><ref name = Rev2>{{cite journal|title=Sertindole in the Management of Schizophrenia|journal=Journal of Central Nervous System Disease|author1=Juruena, MF |author2=de Sena, EP |author3=de Oliveira, IR |date=May 2011|volume=3|pages=75–85|doi=10.4137/JCNSD.S5729|pmid=23861640|pmc=3663609|url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3663609/pdf/jcnsd-3-2011-075.pdf}}</ref>
+| elimination_half-life = 3 days<ref name = TGA/>
+| excretion = [[Faeces|Faecal]] (the majority), [[Renal]] (4% metabolites; 1% unchanged)<ref name = TGA/>
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 106516-24-9
+| ATC_prefix = N05
+| ATC_suffix = AE03
+| PubChem = 60149
+| IUPHAR_ligand = 98
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB06144
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 54229
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = GVV4Z879SP
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00561
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 9122
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 12713
+
+<!--Chemical data-->
+| C=24 | H=26 | Cl=1 | F=1 | N=4 | O=1
+| molecular_weight = 440.941 g/mol
+| smiles = Fc1ccc(cc1)n3c2ccc(Cl)cc2c(c3)C5CCN(CCN4C(=O)NCC4)CC5
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C24H26ClFN4O/c25-18-1-6-23-21(15-18)22(16-30(23)20-4-2-19(26)3-5-20)17-7-10-28(11-8-17)13-14-29-12-9-27-24(29)31/h1-6,15-17H,7-14H2,(H,27,31)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = GZKLJWGUPQBVJQ-UHFFFAOYSA-N
+| legal_AU=S4
+| pregnancy_AU=C}}
+
+'''Sertindole''' (brand names: '''Serdolect''' and '''Serlect''') is an [[antipsychotic]] medication. Sertindole was developed by the Danish pharmaceutical company [[Lundbeck]] and marketed under license by [[Abbott Labs]]. Like other [[atypical antipsychotic]]s, it has activity at [[dopamine]] and [[serotonin]] receptors in the brain. It is used in the treatment of [[schizophrenia]]. It is classified chemically as a [[phenylindole]] derivative.
+
+Sertindole is not approved for use in the United States and was discontinued in Australia in January 2014.
+
+==Medical Uses==
+Sertindole appears effective as an antipsychotic in schizophrenia.<ref>{{cite journal|last=Lewis|first=R|author2=Bagnall, AM |author3=Leitner, M |title=Sertindole for schizophrenia.|journal=Cochrane database of systematic reviews (Online)|date=Jul 20, 2005|issue=3|pages=CD001715|pmid=16034864|doi=10.1002/14651858.CD001715.pub2}}</ref> In a 2013 study in a comparison of 15 antipsychotic drugs in effectivity in treating schizophrenic symptoms, sertindole was found to be slightly less effective than [[haloperidol]], [[quetiapine]], and [[aripiprazole]], as effective as [[ziprasidone]], approximately as effective as [[chlorpromazine]] and [[asenapine]], and slightly more effective than [[lurasidone]] and [[iloperidone]].<ref name=Lancet>{{cite journal |last1=Leucht |first1=Stefan |last2=Cipriani |first2=Andrea |last3=Spineli |first3=Loukia |last4=Mavridis |first4=Dimitris |last5=Örey |first5=Deniz |last6=Richter |first6=Franziska |last7=Samara |first7=Myrto |last8=Barbui |first8=Corrado |last9=Engel |first9=Rolf R |last10=Geddes |first10=John R |last11=Kissling |first11=Werner |last12=Stapf |first12=Marko Paul |last13=Lässig |first13=Bettina |last14=Salanti |first14=Georgia |last15=Davis |first15=John M |title=Comparative efficacy and tolerability of 15 antipsychotic drugs in schizophrenia: a multiple-treatments meta-analysis |journal=The Lancet |volume=382 |issue=9896 |pages=951–62 |year=2013 |pmid=23810019 |doi=10.1016/S0140-6736(13)60733-3 }}</ref>
+==Adverse effects==
+
+'''Very common (>10% incidence) adverse effects include:'''<ref name = "TGA">{{cite web|title=PRODUCT INFORMATION SERDOLECT® TABLETS|work=TGA eBusiness Services|publisher=Lundbeck Australia Pty Ltd|date=16 January 2013|accessdate=27 October 2013|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2010-PI-07697-3|format=PDF}}</ref>
+* Headache
+* Ejaculation failure
+* Insomnia
+* Dizziness
+
+'''Common (1–10% incidence) adverse effects include:'''<ref name = "TGA" />
+* Urine that tests positive for red and/or white blood cells
+* Sedation (causes less sedation than most antipsychotic drugs according to a recent meta-analysis of the efficacy and tolerability of 15 antipsychotic drugs. Causes only slightly [and non-significantly] more sedation than [[amisulpride]] and [[paliperidone]])<ref name=Lancet/><ref name="Maudsley">{{cite book | isbn = 978-0-470-97948-8 | title = The Maudsley prescribing guidelines in psychiatry | last1 = Taylor | first1 = D |author2=Paton, C; Shitij, K | year = 2012 | publisher = Wiley-Blackwell | location = West Sussex  | pages =  }}</ref>
+* Ejaculation disorder
+* Erectile dysfunction
+* Orthostatic hypotension<ref name = "Maudsley" />
+* Weight gain (which it seems to possess a similar propensity for causing as [[quetiapine]])<ref name=Lancet/>
+
+'''Uncommon (0.1–1% incidence) adverse effects include:'''<ref name = "TGA" />
+{{Colbegin|3}}
+* Substernal chest pain
+* Face oedema
+* [[Influenza-like illness]]
+* Neck rigidity
+* Pallor
+* Peripheral vascular disorder
+* [[Syncope (medicine)|syncope]]
+* [[Torsades de pointes]]
+* Vasodilation
+* [[Suicide]] attempt
+* [[Amnesia]]
+* [[Anxiety]]
+* Ataxia
+* Confusion
+* Incoordination
+* Libido decreased 
+* Libido increased
+* Miosis
+* Nystagmus
+* Personality disorder
+* Psychosis
+* Reflexes decreased
+* Reflexes increased
+* Stupor
+* Suicidal tendency
+* Urinary retention
+* Vertigo
+* Diabetes mellitus
+* Abnormal stools
+* Gastritis
+* Gingivitis
+* Glossitis
+* Increased appetite
+* Mouth ulceration
+* Rectal disorder
+* Rectal haemorrhage
+* Stomatitis
+* Tongue disorder
+* Ulcerative stomatitis
+* Anaemia
+* Ecchymosis
+* Hypochromic anaemia
+* Leukopenia
+* Hyperglycaemia
+* Hyperlipemia
+* Oedema
+* Bone pain
+* Myasthenia
+* Twitching
+* Bronchitis
+* Hyperventilation
+* Pneumonia
+* Sinusitis
+* Furunculosis
+* Herpes simplex
+* Nail disorder
+* Psoriasis
+* Pustular Rash
+* Skin discolouration
+* Skin hypertrophy
+* Skin ulcer
+* Abnormal vision
+* Keratoconjunctivitis
+* Lacrimation disorder
+* Otitis externa
+* Pupillary disorder
+* Taste perversion
+* Anorgasmia
+* Penis disorder (gs)
+* Urinary urgency
+* [[Hyperprolactinaemia]] (which it seems to cause with a higher propensity than most other atypical antipsychotics do)<ref name=Lancet/>
+* Seizures
+* [[Galactorrhoea]]
+{{Colend}}
+
+'''Rare (<0.1% incidence) adverse effects include:'''<ref name = "TGA" />
+* [[Neuroleptic malignant syndrome]]
+* [[Tardive dyskinesia]]
+
+'''Unknown frequency adverse events include:'''<ref name = "TGA" />
+* Extrapyramidal side effects (EPSE; e.g. dystonia, akathisia, muscle rigidity, parkinsonism, etc. These adverse effects are probably uncommon/rare according to a recent meta-analysis of the efficacy and tolerability of 15 antipsychotic drugs which found it had the 2nd lowest effect size for causing EPSE)<ref name=Lancet/>
+* Venous thromboembolism
+* QT interval prolongation (probably common; in a recent meta-analysis of the efficacy and tolerability of 15 antipsychotic drugs it was found to be the most prone to causing QT interval prolongation)<ref name=Lancet/>
+
+==Pharmacology==
+{| class="wikitable"
+|-
+! Biologic protein !! Binding affinity (K<sub>i</sub>[nM])<ref>{{cite web | title = PDSP K<sub>i</sub> Database | work = Psychoactive Drug Screening Program (PDSP) |author1=Roth, BL |author2=Driscol, J | url = http://pdsp.med.unc.edu/pdsp.php | publisher = University of North Carolina at Chapel Hill and the United States National Institute of Mental Health | accessdate = 27 October 2013 | date = 12 January 2011}}</ref> !! Notes
+|-
+| [[5-HT1A receptor|5-HT<sub>1A</sub>]] || 280 || 
+|-
+| [[5-HT1B receptor|5-HT<sub>1B</sub>]] || 60 || 
+|-
+| [[5-HT1D receptor|5-HT<sub>1D</sub>]] || 96 || 
+|-
+| [[5-HT1E receptor|5-HT<sub>1E</sub>]] || 430 || 
+|-
+| [[5-HT1F receptor|5-HT<sub>1F</sub>]] || 360 || 
+|-
+| [[5-HT2A receptor|5-HT<sub>2A</sub>]] || 0.39 || The receptor believed to mediate the ''atypicality'' of atypical antipsychotics.<ref name="GG">{{cite book | isbn = 978-0-07-162442-8 | title = [[Goodman and Gilman's The Pharmacological Basis of Therapeutics]] | edition = 12th |author1=Brunton, L |author2=Chabner, B |author3=Knollman, B | year = 2010 | publisher = McGraw-Hill Professional | location = New York }}</ref>
+|-
+| [[5-HT2C receptor|5-HT<sub>2C</sub>]] || 0.9 || Likely responsible for its propensity for causing weight gain.<ref name = GG/>
+|-
+| [[5-HT6 receptor|5-HT<sub>6</sub>]] || 5.4 || 
+|-
+| [[5-HT7 receptor|5-HT<sub>7</sub>]] || 28 || 
+|-
+| [[Alpha-1A adrenergic receptor|α<sub>1A</sub>]] || 1.8 || Likely responsible for the orthostatic hypotension seen in patients on sertindole.<ref name = GG/>
+|-
+| [[Alpha-2A adrenergic receptor|α<sub>2A</sub>]] || 640 || 
+|-
+| [[Alpha-2B adrenergic receptor|α<sub>2B</sub>]] || 450 || 
+|-
+| [[Alpha-2C adrenergic receptor|α<sub>2C</sub>]] || 450 || 
+|-
+| [[Beta-1 adrenergic receptor|β<sub>1</sub>]] || 5000 || 
+|-
+| [[Beta-2 adrenergic receptor|β<sub>2</sub>]] || 5000 || 
+|-
+| [[Muscarinic acetylcholine receptor M1|M<sub>1</sub>]] || >10000 || <ref name = GG/>
+|-
+| [[Muscarinic acetylcholine receptor M3|M<sub>3</sub>]] || 2692 || 
+|-
+| [[Dopamine D2 receptor|D<sub>2</sub>]] || 2.35 || Believed to be responsible for the drug's efficacy against positive symptoms.<ref name = GG/>
+|-
+| [[Dopamine D3 receptor|D<sub>3</sub>]] || 2.30 ||
+|-
+| [[Dopamine D4 receptor|D<sub>4</sub>]] || 4.92 || 
+|-
+| [[hERG]] || 3 ||
+|-
+| [[Histamine H1 receptor|H<sub>1</sub>]] || 130 || 
+|-
+| [[NK1 receptor|NK<sub>1</sub>]] || 1000 || 
+|}
+
+Sertindole is metabolized in the body to dehydrosertindole.<ref>http://www.trc-canada.com/detail.php?CatNum=D230095&CAS=173294-84-3&Chemical_Name=Dehydrosertindole&Mol_Formula=C24H24ClFN4O&Synonym=1-%5B2-%5B4-%5B5-Chloro-1-(4-fluorophenyl)-1H-indol-3-yl%5D-1-piperidinyl%5Dethyl%5D-1,3-dihydro-2H-Imidazol-2-one;%20Lu%2028-092</ref>
+
+==Safety and status==
+
+===USA===
+[[Abbott Labs]] first applied for U.S. [[Food and Drug Administration]] (FDA) approval for sertindole in 1996,<ref>[http://www.thepharmaletter.com/file/57165/zenecas-seroquel-nears-market-approval.html Zeneca's Seroquel Nears Market Approval] - The Pharma Letter, 16 July 1997</ref> but withdrew this application in 1998 following concerns over the increased risk of sudden death from [[Long QT syndrome|QTc prolongation]].<ref name="pharma1">[http://www.thepharmaletter.com/file/65187/abbott-labs-withdraws-sertindole-nda.html Abbott Labs Withdraws Sertindole NDA Sertindole] - The Pharma Letter, 12 Jan 1998</ref> In a trial of 2000 patients on taking sertindole, 27 patients died unexpectedly, including 13 sudden deaths.<ref name="who1">{{cite web |url=http://apps.who.int/medicinedocs/en/d/Js2256e/1.12.html#Js2256e.1.12 |title=WHO Pharmaceuticals Newsletter 1998, No. 03&04: Regulatory actions: Sertindole - approval application withdrawn |format= |work= |accessdate=}}</ref>  Lundbeck cites the results of the Sertindole Cohort Prospective (SCoP) study of 10,000 patients to support its claim that although sertindole does increase the QTc interval, this is not associated with increased rates of cardiac arrhythmias, and that patients on sertindole had the same overall mortality rate as those on [[risperidone]].<ref>[http://sweden.lundbeck.com/investor/releases/ReleaseDetails/Release_1304142_EN.asp FDA Advisory Committee provides opinion on Serdolect for the treatment of schizophrenia] - Lundbeck press release, 8 Apr 2009</ref> Nevertheless, in April 2009 an FDA advisory panel voted 13-0 that sertindole was effective in the treatment of schizophrenia but 12-1 that it had not been shown to be acceptably safe.<ref>[http://www.fda.gov/downloads/AdvisoryCommittees/CommitteesMeetingMaterials/Drugs/PsychopharmacologicDrugsAdvisoryCommittee/UCM198218.pdf Food and Drug Administration; Minutes of the Psychphamacological Drugs Advisory Committee, 7 Apr 2009]</ref> {{Asof|October 2010}}, the drug has not been approved by the FDA for use in the USA.<ref>[http://www.serdolect.com]</ref>
+
+===Europe===
+In Europe, sertindole was approved and marketed in 19 countries from 1996,<ref name="who1"/> but its marketing authorization was suspended by the [[European Medicines Agency]] in 1998<ref>[http://www.nelm.nhs.uk/en/NeLM-Area/News/483119/483386/483398/ EU CHMP recommends lifting ban on atypical antipsychotic Serdolect (sertindole)] - National electronic Library for Medicines, NHS</ref> and the drug was withdrawn from the market. In 2002, based on new data, the EMA's [[CHMP]] suggested that Sertindole could be reintroduced for restricted use in clinical trials, with strong safeguards including extensive contraindications and warnings for patients at risk of cardiac dysrhythmias, a recommended reduction in maximum dose from 24&nbsp;mg to 20&nbsp;mg in all but exceptional cases, and extensive ECG monitoring requirement before and during treatment.<ref>[http://www.ema.europa.eu/docs/en_GB/document_library/Referrals_document/Sertindole_36/WC500011855.pdf COMMITTEE FOR PROPRIETARY MEDICINAL PRODUCTS OPINION FOLLOWING AN ARTICLE 36 REFERRAL: SERTINDOLE] - European Medicines Agency, 13 Sep 2002</ref><ref>[http://www.mhra.gov.uk/Safetyinformation/Safetywarningsalertsandrecalls/Safetywarningsandmessagesformedicines/CON019523 Restricted re-introduction of the atypical antipsychotic sertindole (Serdolect)] - [[Medicines and Healthcare products Regulatory Agency|MHRA]], 2002</ref>
+
+==References==
+{{reflist|30em}}
+
+{{Antipsychotics}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Adrenergic receptor modulators}}
+{{Dopamine receptor modulators}}
+{{Serotonin receptor modulators}}
+}}
+
+[[Category:Atypical antipsychotics]]
+[[Category:Chloroarenes]]
+[[Category:Imidazolidinones]]
+[[Category:Indoles]]
+[[Category:Fluoroarenes]]
+[[Category:Piperidines]]
+[[Category:Ureas]]
+[[Category:Withdrawn drugs]]

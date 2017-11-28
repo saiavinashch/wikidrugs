@@ -1,0 +1,72 @@
+{{chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 407386127
+| ImageFile=Guanadrel.png
+| ImageSize=
+| IUPACName=2-(1,4-Dioxaspiro[4.5]decan-2-ylmethyl)guanidine
+| OtherNames=
+|Section1={{Chembox Identifiers
+| IUPHAR_ligand = 7193
+| CASNo_Ref = {{cascite|correct|CAS}}
+| CASNo = 40580-59-4
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII =  765C9332T4 
+| PubChem=38521
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 5555
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08029
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1037
+| SMILES=C1CCC2(CC1)OCC(O2)CN=C(N)N
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 35305
+| InChI = 1/C10H19N3O2/c11-9(12)13-6-8-7-14-10(15-8)4-2-1-3-5-10/h8H,1-7H2,(H4,11,12,13)
+| InChIKey = HPBNRIOWIXYZFK-UHFFFAOYAB
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C10H19N3O2/c11-9(12)13-6-8-7-14-10(15-8)4-2-1-3-5-10/h8H,1-7H2,(H4,11,12,13)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = HPBNRIOWIXYZFK-UHFFFAOYSA-N
+| RTECS = 
+| MeSHName = C004945
+
+  }}
+|Section2={{Chembox Properties
+| C=10 | H=19 | N=3 | O=2 
+| Appearance=
+| Density=
+| MeltingPt=
+| BoilingPt=
+| Solubility=
+  }}
+|Section3={{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| AutoignitionPt =
+  }}
+}}
+'''Guanadrel''' is an [[antihypertensive agent]].<ref name="pmid4031111">{{cite journal  |vauthors=Oren A, Rotmensch HH, Vlasses PH, etal |title=A dose-titration trial of guanadrel as step-two therapy in essential hypertension |journal=J Clin Pharmacol |volume=25 |issue=5 |pages=343–6 |year=1985 |pmid=4031111 |doi= 10.1002/j.1552-4604.1985.tb02852.x|url=http://jcp.sagepub.com/cgi/pmidlookup?view=long&pmid=4031111}}</ref> It is used in the form of its [[sulfate]].
+
+==Mechanism of action==
+Guanadrel is a postganglionic adrenergic blocking agent. Uptake of guanadrel and storage in sympathetic neurons occurs via the [[norepinephrine]] pump; guanadrel slowly displaces norepinephrine from its storage in nerve endings and thereby blocks the release of norepinephrine normally produced by nerve stimulation. The reduction in neurotransmitter release in response to [[sympathetic nerve]] stimulation, as a result of [[catecholamine]] depletion, leads to reduced arteriolar [[vasoconstriction]], especially the reflex increase in sympathetic tone that occurs with a change in position.  Guanadrel is rapidly and well absorbed from gastrointestinal tract.<ref>[http://www.pharmgkb.org/do/serve?objId=PA449821&objCls=Drug#tabview=tab1 Guanadrel], from Pharmacogenetics Knowledge Base</ref>
+
+In 1981 the [[JAMA (journal)|JAMA]] reported guanadrel as an effective step II or step III treatment of hypertension.<ref name="245/16/1639">{{cite journal |author=M. I. Dunn and J. L. Dunlap |title=Guanadrel. A new antihypertensive drug |journal=JAMA |volume=245 |issue=16 |year=1981 |url=http://jama.ama-assn.org/cgi/content/abstract/245/16/1639 |pmid=7206175 |doi=10.1001/jama.1981.03310410017019 |pages=1639–42}}</ref>
+
+==Chemistry==
+Guanadrel can be synthesized when [[cyclohexanone]] undergoes ketalization by 3-chloro-1,2-propanediol, forming 2-chloromethyl-1,4-dioxyspiro[4,5]decane, which is further reacted with sodium phthalimide.<ref>W.R. Hardie, J.E. Aaron, {{Cite patent|FR|1522153}} (1968)</ref><ref>W.R. Hardie, J.E. Aaron, S. Afr. Pat. 67 06.328 (1968)</ref><ref>J.E. Aaron, W.R. Hardie, {{US Patent|3547951}} (1970)</ref> After alkaline hydrazinolysis, the resulting phthalimide derivative is transformed into 2-aminomethyl-1,4-dioxyspiro[4,5]decane, which is reacted with S-methylthiourea, giving the desired guanadrel.
+
+:[[File:Guanadrel synthesis.png|800px|left|thumb|Guanadrel synthesis]]{{clear left}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.mayoclinic.com/health/drug-information/DR600737 webpage on guanadrel], from [[Mayo Clinic]]
+
+{{Antihypertensives}}
+{{Monoamine reuptake inhibitors}}
+
+[[Category:Ketals]]
+[[Category:Guanidines]]
+[[Category:Antihypertensive agents]]

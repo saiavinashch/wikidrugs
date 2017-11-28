@@ -1,0 +1,124 @@
+{{distinguish|vinblastine}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 461759697
+| IUPAC_name = (3a''R'',3a1''R'',4''R'',5''S'',5a''R'',10b''R'')-Methyl 4-acetoxy-3a-ethyl-9-((5''S'',7''S'',9''S'')-5-ethyl-5-hydroxy-9-(methoxycarbonyl)-2,4,5,6,7,8,9,10-octahydro-1''H''-3,7-methano[1]azacycloundecino[5,4-''b'']indol-9-yl)-6-formyl-5-hydroxy-8-methoxy-3a,3a1,4,5,5a,6,11,12-octahydro-1''H''-indolizino[8,1-cd]carbazole-5-carboxylate
+| image = Vincristine.svg
+| width = 240
+| image2 = Vincristine3DanBS.gif
+| width2 = 200
+
+<!--Clinical data-->
+| pronounce = {{IPAc-en|audio=En-us-Vincristine.ogg|ˈ|v|ɪ|n|ˈ|k|r|ɪ|s|t|iː|n|}}<ref name=DictionaryVincristine>{{cite web|title=Vincristine|url=http://dictionary.reference.com/browse/Vincristine|website=Dictionary.com|publisher=Random House, Inc|accessdate=9 November 2014|deadurl=no|archiveurl=https://web.archive.org/web/20141109210217/http://dictionary.reference.com/browse/Vincristine|archivedate=9 November 2014|df=}}</ref>
+| tradename = Oncovin, Vincasar, others<ref>{{cite web|title=NCI Drug Dictionary|url=http://www.cancer.gov/publications/dictionaries/cancer-drug?CdrID=42251|website=NCI|accessdate=28 November 2015|deadurl=no|archiveurl=https://web.archive.org/web/20151208154505/http://www.cancer.gov/publications/dictionaries/cancer-drug?CdrID=42251|archivedate=8 December 2015|df=}}</ref>
+| Drugs.com = {{drugs.com|monograph|vincristine-sulfate}}
+| MedlinePlus = a682822
+| pregnancy_AU = D
+| pregnancy_US = D
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration =  [[Intravenous therapy|intravenous]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = n/a (not reliably absorbed by the [[Gastrointestinal tract|GI tract]])<ref name = MD/> 
+| protein_bound = ~44%<ref name=MSR>{{cite web|title=Oncovin, Vincasar PFS (vincristine) dosing, indications, interactions, adverse effects, and more|work=Medscape Reference|publisher=WebMD|accessdate=16 April 2014|url=http://reference.medscape.com/drug/oncovin-vincasar-pfs-vincristine-342097#showall|deadurl=no|archiveurl=https://web.archive.org/web/20140416181543/http://reference.medscape.com/drug/oncovin-vincasar-pfs-vincristine-342097#showall|archivedate=16 April 2014|df=}}</ref>
+| metabolism = Liver, mostly via [[CYP3A4]] and [[CYP3A5]]<ref name = MD/> 
+| elimination_half-life = 19 to 155 hours (mean: 85 hours)<ref name = MD/>
+| excretion = Faeces (70–80%), urine (10–20%)<ref name = MD>{{cite web|title=Vincristine|work=Martindale: The Complete Drug Reference|publisher=Pharmaceutical Press|date=13 December 2013|accessdate=15 April 2014|editor=Brayfield, A|url=http://www.medicinescomplete.com/mc/martindale/current/1879-p.htm}}</ref>
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6785
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 57-22-7
+| ATC_prefix = L01
+| ATC_suffix = CA02
+| ATC_supplemental =  
+| PubChem = 5978
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00541
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5758
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 5J49Q6B70F
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08679
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 28445
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 303560
+
+<!--Chemical data-->
+| C=46 | H=56 | N=4 | O=10 
+| molecular_weight = 824.958 g/mol
+| smiles = O=C(OC)[C@]4(c2c(c1ccccc1n2)CCN3C[C@](O)(CC)C[C@@H](C3)C4)c5c(OC)cc6c(c5)[C@@]89[C@@H](N6C=O)[C@@](O)(C(=O)OC)[C@H](OC(=O)C)[C@@]7(/C=C\CN([C@@H]78)CC9)CC
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C46H56N4O10/c1-7-42(55)22-28-23-45(40(53)58-5,36-30(14-18-48(24-28)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OGWKCGZFUXNPDA-XQKSVPLYSA-N
+}}
+<!-- Definition and medical uses -->
+'''Vincristine''', also known as '''leurocristine''' and marketed under the [[brandname]] '''Oncovin''' among others, is a [[chemotherapy]] medication used to treat a number of types of [[cancer]].<ref name=AHFS2015>{{cite web|title=Vincristine Sulfate|url=http://www.drugs.com/monograph/vincristine-sulfate.html|publisher=The American Society of Health-System Pharmacists|accessdate=Jan 2, 2015|deadurl=no|archiveurl=https://web.archive.org/web/20150102141205/http://www.drugs.com/monograph/vincristine-sulfate.html|archivedate=2015-01-02|df=}}</ref> This includes [[acute lymphocytic leukemia]], [[acute myeloid leukemia]], [[Hodgkin's disease]], [[neuroblastoma]], and [[small cell lung cancer]] among others.<ref name=AHFS2015/> It is given intravenously.<ref name=AHFS2015/>
+
+<!-- Side effects and mechanism -->
+Most people experience some side effects from vincristine treatment.<ref name=AHFS2015/> Commonly it causes a change in sensation, hair loss, constipation, difficulty walking, and headaches.<ref name=AHFS2015/> Serious side effects may include [[neuropathic pain]], lung damage, or [[leukopenia|low blood white cells]].<ref name=AHFS2015/> It will likely cause harm to the baby if given during [[pregnancy]].<ref name=AHFS2015/> It works by [[mitotic inhibitor|stopping cells from dividing properly]].<ref name=AHFS2015/>
+
+<!-- History, society and culture -->
+Vincristine was first isolated in 1961.<ref name=Rav2011>{{cite book|last1=Ravina|first1=Enrique|title=The evolution of drug discovery : from traditional medicines to modern drugs|date=2011|publisher=Wiley-VCH|location=Weinheim|isbn=9783527326693|pages=157–159|edition=1. Aufl.|url=https://books.google.ca/books?id=iDNy0XxGqT8C&pg=PA157|deadurl=no|archiveurl=https://web.archive.org/web/20170801200844/https://books.google.ca/books?id=iDNy0XxGqT8C&pg=PA157|archivedate=2017-08-01|df=}}</ref> It is on the [[World Health Organization's List of Essential Medicines]], the most effective and safe medicines needed in a [[health system]].<ref name=WHO19th>{{cite web|title=WHO Model List of Essential Medicines (19th List)|url=http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|work=World Health Organization|accessdate=8 December 2016|date=April 2015|deadurl=no|archiveurl=https://web.archive.org/web/20161213052708/http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|archivedate=13 December 2016|df=}}</ref> The wholesale cost in the [[developing world]] is between  1.80 and 42.60 USD per dose.<ref>{{cite web|title=Vincristine|url=http://erc.msh.org/dmpguide/resultsdetail.cfm?language=english&code=VINC1A&s_year=2014&year=2014&str=1%20mg&desc=Vincristine&pack=new&frm=VIAL&rte=INJ&class_code2=08%2E2%2E&supplement=&class_name=%2808%2E2%2E%29Cytotoxic%20and%20adjuvant%20medicines%3Cbr%3E|website=International Drug Price Indicator Guide|accessdate=28 November 2015}}</ref> It is a [[vinca alkaloid]] that can be obtained from the Madagascar periwinkle ''[[Catharanthus roseus]]''.<ref name=Rav2011/>
+
+==Medical uses==
+Vincristine is delivered via [[intravenous]] [[route of administration|infusion]] for use in various types of [[chemotherapy regimens]].<ref name = MD/> Its main uses are in non-Hodgkin's [[lymphoma]] as part of the chemotherapy regimen [[CHOP]], [[Hodgkin's lymphoma]] as part of MOPP, COPP, BEACOPP, or the less popular [[Stanford V]] chemotherapy regimen in [[acute lymphoblastic leukemia]] (ALL), and in treatment for [[nephroblastoma]].<ref name = MD/> It is also used to induce remission in ALL with [[dexamethasone]] and L-[[Asparaginase]], and in combination with [[prednisone]] to treat childhood leukemia.<ref name = MD/>  Vincristine is occasionally used as an [[immunosuppressant]], for example,  in treating [[thrombotic thrombocytopenic purpura]] (TTP) or chronic [[idiopathic thrombocytopenic purpura]] (ITP).<ref name = MD/>
+
+==Side effects==
+The main side effects of vincristine are [[chemotherapy-induced peripheral neuropathy]], [[hyponatremia]], [[constipation]], and [[alopecia|hair loss]].
+
+Chemotherapy-induced peripheral neuropathy can be severe, and may be a reason to reduce or avoid using vincristine. The symptoms of this are progressive and enduring tingling numbness, pain and hypersensitivity to cold, beginning in the hands and feet and sometimes affecting the arms and legs.<ref name=NCI>{{vcite journal | author = del Pino BM | date = Feb 23, 2010 | journal = NCI Cancer Bulletin | volume = 7 | issue = 4 | page = 6 | title = Chemotherapy-induced Peripheral Neuropathy | url = http://www.cancer.gov/aboutnci/ncicancerbulletin/archive/2010/022310/page6 | deadurl = yes | archiveurl = https://web.archive.org/web/20111211105234/http://www.cancer.gov/aboutnci/ncicancerbulletin/archive/2010/022310/page6 | archivedate = 2011-12-11 | df =  }}</ref> One of the first symptoms of peripheral neuropathy is [[foot drop]]: A person with a family history of foot drop and/or [[Charcot-Marie-Tooth disease]] (CMT) should avoid the taking of vincristine.<ref>{{ cite journal |author1=Graf, W. D. |author2=Chance, P. F. |author3=Lensch, M. W. |author4=Eng, L. J. |author5=Lipe, H. P. |author6=Bird, T. D. | title = Severe Vincristine Neuropathy in Charcot-Marie-Tooth Disease Type 1A | journal = Cancer | volume = 77 | issue = 7 | pages = 1356–1362 | year = 1996 | pmid = 8608515 | doi = 10.1002/(SICI)1097-0142(19960401)77:7<1356::AID-CNCR20>3.0.CO;2-# }}</ref>
+
+Accidental injection of vinca alkaloids into the spinal canal ([[intrathecal]] administration) is highly dangerous, with a mortality rate approaching 100 percent.  The medical literature documents cases of ascending [[paralysis]] due to massive [[encephalopathy]] and spinal nerve [[demyelination]], accompanied by intractable pain, almost uniformly leading to death.  Several patients have survived after aggressive and immediate intervention.   Rescue treatments consist of washout of the [[cerebrospinal fluid]] and administration of protective medications.<ref>{{ cite journal |author1=Qweider, M. |author2=Gilsbach, J. M. |author3=Rohde, V. | title = Inadvertent Intrathecal Vincristine Administration: A Neurosurgical Emergency. Case Report | journal = Journal of Neurosurgery: Spine | volume = 6 | issue = 3 | pages = 280–283 | year = 2007 | pmid = 17355029 | doi = 10.3171/spi.2007.6.3.280 }}</ref>
+Children may do better following this injury.  One child, who was aggressively treated at the time of the injection, recovered almost completely with only mild neurological deficits.<ref>{{cite journal |author1=Zaragosa, M. |author2=Ritchey, M. |author3=Walter, A. | title = Neurological Consequences of Accidental Intrathecal Vincristine: A Case Report. | journal = Medial and Pediatric Oncology | volume = 24 | pages = 61–62 | year = 1995 | pmid = 7968797 | doi=10.1002/mpo.2950240114}}</ref>
+A significant series of inadvertent intrathecal vincristine administration occurred in [[China]] in 2007 when batches of [[cytarabine]] and [[methotrexate]] (both often used intrathecally) manufactured by the company Shanghai Hualian were found to be contaminated with vincristine.<ref>{{ cite news | url = https://www.nytimes.com/2008/01/31/world/asia/31pharma.html?_r=1&ref=health | title = Tainted Drugs Tied to Maker of Abortion Pill | author = [[Jake Hooker (journalist)|Jake Hooker]] and [[Walt Bogdanich]] | newspaper = New York Times | date = January 31, 2008 | deadurl = no | archiveurl = https://web.archive.org/web/20170326140321/http://www.nytimes.com/2008/01/31/world/asia/31pharma.html?_r=1&ref=health | archivedate = March 26, 2017 | df =  }}</ref>
+
+The overuse of vincristine may also lead to [[drug resistance]] by overexpression of the [[p-glycoprotein]] pump (Pgp). There is an attempt to overcome resistance by the addition of derivatives and substituents to the vincristine molecule.<ref>{{cite journal|last1=Sears, J.; Boger, D.|title=Total Synthesis of Vinblastine, Related Natural Products, and Key Analogues and Development of Inspired Methodology Suitable for the Systematic Study of Their Structure-Function Properties|journal=Accounts of Chemical Research|date=2015|volume=48|pages=653–662|doi=10.1021/ar500400w}}</ref>
+
+==Mechanism of action==
+Vincristine works partly by binding to the [[tubulin]] protein, stopping the cell from separating its [[chromosome]]s during the [[metaphase]]; the cell then undergoes [[apoptosis]].<ref>{{cite journal|last1=Jordan|first1=MA|title=Mechanism of action of antitumor drugs that interact with microtubules and tubulin.|journal=Current medicinal chemistry. Anti-cancer agents|date=January 2002|volume=2|issue=1|pages=1–17|pmid=12678749|doi=10.2174/1568011023354290}}</ref> 
+The vincristine molecule inhibits [[leukocyte]] production and maturation.<ref>{{cite journal|last1=Silverman, J.; Deitcher, S.|title=Marqibo (R) (vincristine sulfate liposome injection) improves the pharmacokinetics and pharmacodynamics of vincristine|journal=Cancer Chemotherapy and Pharmacology|date=2013|volume=71|pages=555–564|doi=10.1007/s00280-012-2042-4}}</ref>
+
+==Pharmacology==
+Vincristine is created through the semi-synthesis coupling of indole alkaloids [[vindoline]] and [[catharanthine]] in the vinca plant.<ref>{{ cite web | url = http://pharmaxchange.info/press/2012/01/pharmacognosy-of-vinca-alkaloids-periwinkle/ | title = Pharmacognosy of Vinca Alkaloids | deadurl = no | archiveurl = https://web.archive.org/web/20120106234053/http://pharmaxchange.info/press/2012/01/pharmacognosy-of-vinca-alkaloids-periwinkle/ | archivedate = 2012-01-06 | df =  }}</ref> It can also now be synthesized through a stereocontrolled total synthesis technique which retains the correct stereochemistry at C18' and C2'. The absolute stereochemistry at these carbons is responsible for vincristine's anticancer activity.<ref>{{cite journal|last1=Kuboyama, T.; Yokoshima, S.; Tokuyama, H.; Fukuyama, T.|title=Stereocontrolled total synthesis of (+)-vincristine|journal=Proceedings of the National Academy of Sciences of the United States of America|date=2004|volume=101|pages=11966–11970|doi=10.1073/pnas.0401323101}}</ref>
+
+The [[liposome]] encapsulation of vincristine enhances the efficacy of the vincristine drug while simultaneously decreasing the [[neurotoxicity]] associated with it. Liposome encapsulation increases vincristine's plasma concentration and circulation lifetime in the body, and allows the drug to enter cells more easily.<ref>{{cite journal|last1=Waterhouse, D.; Madden, T.; Cullis, P.; Bally, M.; Mayer, L.; Webb, M.|title=Preparation, Characterization, and Biological Analysis of Liposomal Formulations of Vincristine|journal=Methods in Enzymology|date=2005|volume=391|pages=40–57}}</ref>
+
+==History==
+Having been used as a folk remedy for centuries, studies in the 1950s revealed that the rosy periwinkle ''[[Catharanthus roseus]]'' contained 70 alkaloids, many of which are biologically active. While initial studies for its use in [[diabetes mellitus]] were disappointing, the discovery that it caused [[myelosuppression]] (decreased activity of the bone marrow) led to its study in mice with [[leukemia]], whose lifespan was prolonged by the use of a vinca preparation. Treatment of the ground plant with Skelly-B defatting agent and an acid benzene extract led to a fraction termed "fraction A".  This fraction was further treated with [[aluminium oxide]], [[chromatography]], [[Chloroform|trichloromethane]], benz-dichloromethane, and separation by pH to yield vincristine.<ref>{{ cite journal |author1=Johnson, I. S. |author2=Armstrong, J. G. |author3=Gorman, M. |author4=Burnett, J. P. | title = The Vinca Alkaloids: A New Class of Oncolytic Agents | journal = Cancer Research | volume = 23 | issue = 8 Part 1 | pages = 1390–1427 | year = 1963 | pmid = 14070392 | url = http://cancerres.aacrjournals.org/content/23/8_Part_1/1390.full.pdf | format = pdf }}</ref>
+
+Vincristine was approved by the [[United States]] [[Food and Drug Administration]] (FDA) in July 1963 as Oncovin.  The drug was initially discovered by a team led by Dr. J.G. Armstrong, then marketed by [[Eli Lilly and Company]].  Eli Lilly required lots of leaves of the periwinkle plant. They needed one ton of dried leaves to produce one ounce of vincristine. Periwinkle was grown on a ranch in Texas to produce vincristine for some time. <ref>{{cite web|title=Eli Lilly engineers developed a life-saving drug from the leaves of the periwinkle plant. – Treating Diabetes|url=https://tacomed.com/chapter-12-recombinant-dna-production-of-insulin/eli-lilly-engineers-developed-a-life-saving-drug-from-the-leaves-of-the-periwinkle-plant/|website=Treating Diabetes|accessdate=18 June 2017|deadurl=no|archiveurl=https://web.archive.org/web/20170908170135/https://tacomed.com/chapter-12-recombinant-dna-production-of-insulin/eli-lilly-engineers-developed-a-life-saving-drug-from-the-leaves-of-the-periwinkle-plant/|archivedate=8 September 2017|df=}}</ref>
+
+== Suppliers ==
+Three generic drug makers supply vincristine in the United States – APP, Mayne, and Sicor ([[Teva Pharmaceutical Industries|Teva]]).
+
+==Research ==
+
+In 2012 the FDA approved a liposomal formulation of vincristine branded as Marqibo.<ref>[http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm315027.htm FDA press release Aug 9, 2012] {{webarchive|url=https://web.archive.org/web/20141109042728/http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm315027.htm |date=2014-11-09 }}</ref><ref>{{cite web|title=Marqibo label|url=https://www.accessdata.fda.gov/drugsatfda_docs/label/2012/202497s000lbl.pdf|publisher=FDA|date=July 2012|deadurl=no|archiveurl=https://web.archive.org/web/20170216191424/http://www.accessdata.fda.gov/drugsatfda_docs/label/2012/202497s000lbl.pdf|archivedate=2017-02-16|df=}}</ref>
+A nano-particle bound version of vincristine was under development as of 2014.<ref>[http://seekingalpha.com/article/2658685-bind-therapeutics-bind-ceo-scott-minick-on-q3-2014-results-earnings-call-transcript?part=single Bind Therapeutics conference call of Nov 6, 2014] {{webarchive|url=https://web.archive.org/web/20160303230202/http://seekingalpha.com/article/2658685-bind-therapeutics-bind-ceo-scott-minick-on-q3-2014-results-earnings-call-transcript?part=single |date=2016-03-03 }}</ref>
+
+== References ==
+{{Reflist|32em}}
+
+== External links ==
+* [http://www.macmillan.org.uk/Cancerinformation/Cancertreatment/Treatmenttypes/Chemotherapy/Individualdrugs/Vincristine.aspx Vincristine chemotherapy]
+* [http://www.chm.bris.ac.uk/webprojects2002/jjones/Content/vincristine.htm Vincristine and vinblastine]
+* [http://biotech.icmb.utexas.edu/botany/perihist.html Description and Natural History of the Periwinkle]
+* [http://www.organic-chemistry.org/Highlights/2006/05June.shtm The Boger Route to (−)-Vindoline]
+* [http://druginfo.nlm.nih.gov/drugportal/dpdirect.jsp?name=Vincristine U.S. National Library of Medicine: Drug Information Portal – Vincristine]
+{{Chemotherapeutic agents}}
+
+[[Category:Vinca alkaloids]]
+[[Category:Commercialization of traditional medicines]]
+[[Category:Eli Lilly and Company]]
+[[Category:Mitotic inhibitors]]
+[[Category:Acetate esters]]
+[[Category:RTT]]
+[[Category:World Health Organization essential medicines]]

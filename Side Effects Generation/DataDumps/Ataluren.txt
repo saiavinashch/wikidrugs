@@ -1,0 +1,103 @@
+{{Chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 461940308
+| ImageFile = Ataluren.svg
+| ImageFile2 = Ataluren ball-and-stick model.png
+| ImageSize =
+| IUPACName = 3-[5-(2-Fluorophenyl)-1,2,4-oxadiazol-3-yl]benzoic acid
+| OtherNames = PTC124
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = K16AME9I3V
+| IUPHAR_ligand = 7341
+| CASNo_Ref = {{cascite|changed}}
+| CASNo = 775304-57-9
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 256997
+| PubChem = 11219835
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D09323
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 9394889
+| SMILES = Fc3ccccc3c1nc(no1)c2cc(ccc2)C(=O)O
+| InChI = 1/C15H9FN2O3/c16-12-7-2-1-6-11(12)14-17-13(18-21-14)9-4-3-5-10(8-9)15(19)20/h1-8H,(H,19,20)
+| InChIKey = OOUGLTULBSNHNF-UHFFFAOYAJ
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C15H9FN2O3/c16-12-7-2-1-6-11(12)14-17-13(18-21-14)9-4-3-5-10(8-9)15(19)20/h1-8H,(H,19,20)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OOUGLTULBSNHNF-UHFFFAOYSA-N
+ }}
+|Section2={{Chembox Properties
+| Formula = C<sub>15</sub>H<sub>9</sub>FN<sub>2</sub>O<sub>3</sub>
+| MolarMass = 284.24 g/mol
+| Appearance =
+| Density =
+| MeltingPt =
+| BoilingPt =
+| Solubility =
+ }}
+|Section3={{Chembox Hazards
+| MainHazards =
+| FlashPt =
+| AutoignitionPt =
+ }}
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = M09
+| ATCCode_suffix = AX03
+ }}
+}}
+
+'''Ataluren''', formerly known as '''PTC124''', is a pharmaceutical drug for the treatment of [[Duchenne muscular dystrophy]].  It was designed by [[PTC Therapeutics]] and is sold under the trade name '''Translarna''' in the European Union.
+
+==Medical use==
+Ataluren is used in Europe to treat people with Duchenne muscular dystrophy who have a [[nonsense mutation]] in the [[dystrophin]] gene, can walk, and are more than 5 years old.<ref name=UKlabel>{{cite web|title=Translarna - Summary of Product Characteristics|url=https://www.medicines.org.uk/emc/medicine/33294|publisher=UK Electronic Medicines Compendium|accessdate=18 June 2017|language=en|date=24 April 2017}}</ref>
+
+==Contraindications==
+People who are pregnant or breast feeding should not take ataluren.<ref name=UKlabel/>
+
+==Adverse effects==
+More than 10% of people taking ataluren in clinical trials experienced vomiting; more than 5% experienced diarrhea, nausea, headache, upper abdominal pain, and flatulence; between 1% and 5% of people experienced decreased appetite and weight loss, [[hypertriglyceridaemia|high levels of triglycerides]], high blood pressure, cough, nosebleeds, abdominal discomfort, constipation, rashes, pain in their arms, legs, and chest muscles, blood in their urine, urinary incontinence, and fever.<ref name=UKlabel/>
+
+==Interactions==
+[[Aminoglycosides]] should not be given to someone taking ataluren, as they interfere with its mechanism of action.  Caution should be used with drugs that induce [[UGT1A9]], or that are substrates of [[OAT1]], [[OAT3]], or [[OATP1B3]].<ref name=UKlabel/>
+
+==Pharmacology==
+The [[biological target]] of ataluren is not known, and its mechanism of action is uncertain.<ref>{{cite journal|last1=Karijolich|first1=J|last2=Yu|first2=YT|title=Therapeutic suppression of premature termination codons: mechanisms and clinical considerations (review).|journal=International journal of molecular medicine|date=August 2014|volume=34|issue=2|pages=355-62|pmid=24939317|pmc=4094583}}</ref><ref name=Pace/><ref name=Roberts/><ref>{{cite news|last1=Devitt|first1=Liz|title=Researchers question ‘read-through’ mechanism of muscular dystrophy drug ataluren : Spoonful of Medicine|url=http://blogs.nature.com/spoonful/2013/06/researchers-question-read-through-mechanism-of-muscular-dystrophy-drug-ataluren.html|work=Nature Medicine: Spoonful of Medicine|date=25 June 2013}}</ref><ref name=NIH2009/><ref>{{cite journal|last1=Schmitz|first1=A|last2=Famulok|first2=M|title=Chemical biology: ignore the nonsense.|journal=Nature|date=3 May 2007|volume=447|issue=7140|pages=42-3|doi=10.1038/nature05715|pmid=17450128}}</ref>
+
+Ataluren is thought to make [[ribosome]]s less sensitive to premature [[stop codon]]s (referred to as "read-through") by promoting insertion of certain near-cognate [[Transfer RNA|tRNA]] at the site of [[nonsense mutation|nonsense codons]] with no apparent effects on downstream [[Transcription (genetics)|transcription]], [[Messenger RNA|mRNA]] processing, stability of the mRNA or the resultant protein, thereby making a functional protein similar to the non-mutated endogenous product.<ref name=Roy_2016>{{ cite journal | vauthors = Roy B, Friesen, WJ, Tomizawa Y, Leszyk JD, Zhuo J, Johnson B, Dakka J, Trotta CR, Xue X, Mutyam V, Keeling KM, Mobley JA, Rowe SM, Bedwell DM, Welch EM, Jacobson A | title = Ataluren stimulates ribosomal selection of near-cognate tRNAs to promote nonsense suppression | journal = Proceedings of the National Academy of Sciences of the United States of America | date = October 2016 | doi = 10.1073/pnas.1605336113 | volume=113 | pages=12508–12513 | pmid=27702906 | pmc=5098639}}</ref>  It seems to work particularly well for the stop codon 'UGA'.<ref name=Pace/><ref name=Welch_2007/>
+
+Studies have demonstrated that ataluren treatment increases expression of full-length dystrophin protein in human and mouse primary muscle cells containing the premature stop codon mutation for Duchenne muscular dystrophy and rescues striated muscle function.<ref name=Welch_2007/> Studies in mice with the premature stop codon mutation for cystic fibrosis demonstrated increased CFTR protein production and function.<ref>{{cite journal | vauthors = Du M, Liu X, Welch EM, Hirawat S, Peltz SW, Bedwell DM | title = PTC124 is an orally bioavailable compound that promotes suppression of the human CFTR-G542X nonsense allele in a CF mouse model | journal = Proceedings of the National Academy of Sciences of the United States of America | volume = 105 | issue = 6 | pages = 2064–9 | date = February 2008 | pmid = 18272502 | doi = 10.1073/pnas.0711795105 | pmc=2538881}}</ref> Extending on this work, a mechanistic study with yeast and human cells has elucidated the details of ataluren-mediated nonstandard codon-anticodon base pairings which result in specific amino acid substitutions at specific codon positions in the CFTR protein.<ref name="Roy_2016" /> 
+
+The European Medicines Agency review on the approval of ataluren concluded that "the non-clinical data available were considered sufficient to support the proposed mechanism of action and to alleviate earlier concerns on the selectivity of ataluren for premature stop codons." <ref>{{cite journal | vauthors = Haas M, Vlcek V, Balabanov P, Salmonson T, Bakchine S, Markey G, Weise M, Schlosser-Weber G, Brohmann H, Yerro CP, Mendizabal MR, Stoyanova-Beninska V, Hillege HL | title = European Medicines Agency review of ataluren for the treatment of ambulant patients aged 5 years and older with Duchenne muscular dystrophy resulting from a nonsense mutation in the dystrophin gene | journal = Neuromuscular Disorders | volume = 25 | issue = 1 | pages = 5–13 | date = January 2015 | pmid = 25497400 | doi = 10.1016/j.nmd.2014.11.011 }}</ref>
+
+==Chemistry==
+Ataluren is an [[oxadiazole]]; its chemical name is 3-[5-(2-Fluorophenyl)-1,2,4-oxadiazol-3-yl] benzoic acid.<ref name=Pace/>
+
+==History==
+Ataluren was discovered by scientists at PTC Therapeutics in a collaboration with [[Lee Sweeney]]'s lab at the University of Pennsylvania, which was initially funded in part by Parent Project Muscular Dystrophy.<ref>{{cite news|title=Press release: PTC Therapeutics Announces $15.4 Million NIH Research Grant for Duchenne Muscular Dystrophy {{!}} Evaluate|url=http://www.evaluategroup.com/Universal/View.aspx?type=Story&id=132834|work=PTC, University of Pennsylvania, and the NIH via Evaluate Group|date=July 10, 2007}}</ref>  The team used  [[phenotypic screening]] of a [[chemical library]] to identify compounds that increased the amount of protein expressed by mutated genes, and then optimized one of the hits in the screen to create this drug.<ref name=NIH2009>{{cite news|title=Press Release: Questions Raised About Process Used to Identify Experimental Drug for Genetic Disease|url=https://www.dddmag.com/news/2009/02/questions-raised-about-process-used-identify-experimental-drug-genetic-disease|work=NIH via Drug Discovery & Development|date=3 February 2009}}</ref><ref name=Roberts>{{cite journal|last1=Roberts|first1=Roland G.|title=A Read-Through Drug Put through Its Paces|journal=PLoS Biology|date=25 June 2013|volume=11|issue=6|pages=e1001458|doi=10.1371/journal.pbio.1001458}}</ref><ref name=Welch_2007>{{cite journal|last1=Welch|first1=EM|last2=Barton|first2=ER|last3=Zhuo|first3=J|last4=Tomizawa|first4=Y|last5=Friesen|first5=WJ|last6=Trifillis|first6=P|last7=Paushkin|first7=S|last8=Patel|first8=M|last9=Trotta|first9=CR|last10=Hwang|first10=S|last11=Wilde|first11=RG|last12=Karp|first12=G|last13=Takasugi|first13=J|last14=Chen|first14=G|last15=Jones|first15=S|last16=Ren|first16=H|last17=Moon|first17=YC|last18=Corson|first18=D|last19=Turpoff|first19=AA|last20=Campbell|first20=JA|last21=Conn|first21=MM|last22=Khan|first22=A|last23=Almstead|first23=NG|last24=Hedrick|first24=J|last25=Mollin|first25=A|last26=Risher|first26=N|last27=Weetall|first27=M|last28=Yeh|first28=S|last29=Branstrom|first29=AA|last30=Colacino|first30=JM|last31=Babiak|first31=J|last32=Ju|first32=WD|last33=Hirawat|first33=S|last34=Northcutt|first34=VJ|last35=Miller|first35=LL|last36=Spatrick|first36=P|last37=He|first37=F|last38=Kawana|first38=M|last39=Feng|first39=H|last40=Jacobson|first40=A|last41=Peltz|first41=SW|last42=Sweeney|first42=HL|title=PTC124 targets genetic disorders caused by nonsense mutations.|journal=Nature|date=3 May 2007|volume=447|issue=7140|pages=87-91|doi=10.1038/nature05756|pmid=17450125}}</ref>  As with the results of many cell-based screens, the [[biological target]] of ataluren is not known.<ref name=Pace>{{cite book|last1=Pace|first1=Andrea|last2=Buscemi|first2=Silvestre|last3=Piccionello|first3=Antonio Palumbo|last4=Pibiri|first4=Ivana|editor1-last=Scriven|editor1-first=Eric F.V.|editor2-last=Ramsden|editor2-first=Christopher A.|title=Advances in Heterocyclic Chemistry|date=2015|publisher=Academic Press|isbn=9780128028742|page=127|url=https://books.google.com/books?id=hViZBQAAQBAJ&pg=PA127|language=en|chapter=3. Recent Advances in the Chemistry of  1,2,4-Oxadiazoles}}</ref>
+
+Phase I clinical trials started in 2004.<ref>{{cite web|title=Press Release: PTC Therapeutics Initiates Clinical Trials of PTC124 for Cystic Fibrosis and Duchenne Muscular Dystrophy|url=https://www.ptcommunity.com/news/2004-07-14-000000/ptc-therapeutics-initiates-clinical-trials-ptc124-cystic-fibrosis-and|publisher=PTC Therapeutics, Inc via P&T Community|language=en|date=July 13, 2004}}</ref>
+
+In 2010, PTC Therapeutics released preliminary results of its phase 2b clinical trial for Duchenne muscular dystrophy, with participants not showing a significant improvement in the six minute walk distance after the 48 weeks of the trial.<ref>{{cite web|url=http://ptct.client.shareholder.com/releasedetail.cfm?ReleaseID=448803 |title=PTC Therapeutics and Genzyme Corporation announce preliminary results from the phase 2b clinical trial of ataluren for nonsense mutation Duchenne/Becker muscular dystrophy (NASDAQ:PTCT) |publisher=Ptct.client.shareholder.com |date= |accessdate=2013-11-28}}</ref> This failure resulted in the termination of a $100 million deal with [[Genzyme]] to pursue the drug.
+
+In May 2014 ataluren received a positive opinion from the Committee for Medicinal Products for Human Use (CHMP) of the European Medicines Agency (EMA)<ref>http://www.marketwatch.com/story/ptc-therapeutics-receives-positive-opinion-from-chmp-for-translarna-ataluren-2014-05-23</ref> and received market authorization from the European Commission to treat people with nonsense mutation Duchenne muscular dystrophy in August 2014; a confirmatory phase III clinical trial was required.<ref name="market"/> By December it was on the market in Germany, France, Italy, Denmark, Spain and a number of other European countries.<ref name="market">{{cite web|url=http://www.marketwatch.com/story/ptc-therapeutics-announces-launch-of-translarnatm-ataluren-in-germany-2014-12-03| website= marketwatch.com| title=PTC Therapeutics Announces Launch of Translarna™ (ataluren) in Germany| date= 3 Dec 2014| accessdate= 27 Dec 2014}}</ref>
+
+In February 2016, FDA declined to accept PTC Therapeutics [[new drug application]] for ataluren, which was based on a clinical trial in which ataluren missed its primary endpoint; PTC  appealed and the FDA declined again in October 2016.<ref>{{cite news|last1=Pagliarulo|first1=Ned|title=FDA snubs PTC appeal for Duchenne drug|url=http://www.biopharmadive.com/news/fda-snubs-ptc-appeal-for-duchenne-drug/428417/|work=BioPharma Dive|date=October 17, 2016}}</ref>
+
+In July 2016, NHS England agreed a Managed Access Agreement (MAA) for Translarna providing reimbursed patient access to Translarna in England via a five-year MAA.  This followed a positive recommendation from the National Institute for Health and Care Excellence (NICE) in April 2016, subject to PTC and NHS England finalizing the terms of the MAA.  NICE issued its final guidance later in July with implementation of the MAA for patients following within two months.<ref>http://www.england.nhs.uk/2016/07/drug-treatment/</ref>
+
+In March 2017 PTC terminated development of ataluren for cystic fibrosis due to lack of efficacy in the Phase III trials.<ref>{{cite news|title=Drug Company Ends Ataluren Program for CF Nonsense Mutations|url=https://www.cff.org/News/News-Archive/2017/Drug-Company-Ends-Ataluren-Program-for-CF-Nonsense-Mutations/|work=Cystic Fibrosis Foundation|date=March 3, 2017|language=en}}</ref><ref>{{cite journal|last1=DeFrancesco|first1=Laura|title=Drug pipeline: 1Q17|journal=Nature Biotechnology|date=9 May 2017|volume=35|issue=5|pages=400–400|doi=10.1038/nbt.3874}}</ref><ref>{{cite journal|last1=Aslam|first1=AA|last2=Higgins|first2=C|last3=Sinha|first3=IP|last4=Southern|first4=KW|title=Ataluren and similar compounds (specific therapies for premature termination codon class I mutations) for cystic fibrosis.|journal=The Cochrane database of systematic reviews|date=19 January 2017|volume=1|pages=CD012040|doi=10.1002/14651858.CD012040.pub2|pmid=28102546}}</ref>
+
+== See also ==
+* [[Biostrophin]] and [[rimeporide]], other drugs against Duchenne muscular dystrophy
+* [[Ivacaftor]] and [[lumacaftor]], other drugs against cystic fibrosis in development by Vertex Pharmaceuticals
+
+== References ==
+{{reflist|35em}}
+
+
+
+[[Category:Benzoic acids]]
+[[Category:Cystic fibrosis]]
+[[Category:Oxadiazoles]]

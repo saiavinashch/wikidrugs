@@ -1,0 +1,77 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 443270530
+| IUPAC_name = 3-hydroxy-1,2-dimethylpyridin-4(1''H'')-one
+| image = Deferiprone.svg
+| width = 120
+
+<!--Clinical data-->
+| tradename = Ferriprox
+| Drugs.com = {{drugs.com|international|deferiprone}}
+| licence_EU = Ferriprox
+| licence_US        = Deferiprone
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = D
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism = [[Glucuronidation]]
+| elimination_half-life = 2 to 3 hours
+| excretion = [[Kidney|Renal]] (75 to 90% in 24 hours)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7456
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 30652-11-0
+| ATC_prefix = V03
+| ATC_suffix = AC02
+| PubChem = 2972
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 68554
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2866
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 2BTY8KH53L
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07416
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 70927
+
+<!--Chemical data-->
+| C=7 | H=9 | N=1 | O=2 
+| molecular_weight = 139.152 g/mol
+| smiles = O=C\1C(\O)=C(/N(/C=C/1)C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C7H9NO2/c1-5-7(10)6(9)3-4-8(5)2/h3-4,10H,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = TZXKOCQBRNJULO-UHFFFAOYSA-N
+}}
+'''Deferiprone''' (tradenames include '''Ferriprox''') is a [[drug]] that [[chelate]]s [[iron]] and is used to treat iron overload in [[thalassaemia major]].<ref name=savulescu>{{cite journal |doi=10.1136/bmj.328.7436.358 |pmid=14962851 |pmc=341373 |title=Thalassaemia major: The murky story of deferiprone |journal=BMJ |volume=328 |issue=7436 |pages=358–9 |year=2004 |last1=Savulescu |first1=J }}</ref>  It was first approved for use in treating [[thalassaemia]] major in 1994<ref>Staff, Cipla. [http://www.cipla.com/Home/About-Us/History.aspx Cipla's History]</ref> and had been licensed for use in [[Europe]] and [[Asia]] for many years while awaiting approval in [[Canada]] and the [[United States]].<ref name=savulescu/> On October 14, 2011, it was approved for use in the US under the [[FDA]]’s [[Accelerated approval (FDA)|accelerated approval program]].<ref>FDA NEWS RELEASE: FDA Approves Ferripox (deferiprone) to Treat Patients with Excess Iron in the Body, Oct. 14, 2011 http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm275814.htm</ref> 
+
+==Controversy==
+Deferiprone was at the center of a protracted struggle between [[Nancy Olivieri]], a Canadian [[haematologist]] and [[researcher]], and the [[Hospital for Sick Children]] and the [[pharmaceutical company]] [[Apotex]], that started in 1996 and delayed approval of the drug in North America.<ref>{{cite journal |doi=10.1136/jme.2003.006577 |pmid=14872065 |pmc=1757126 |title=Introduction to the Olivieri symposium |journal=Journal of Medical Ethics |volume=30 |issue=1 |pages=1–7 |year=2004 |last1=Viens |first1=A M |last2=Savulescu |first2=J }}</ref> Olivieri's data suggested deferiprone leads to progressive [[hepatic fibrosis]].<ref>{{cite journal |doi=10.1182/blood-2002-10-3173 |pmid=12788794 |title=Deferiprone and hepatic fibrosis |journal=Blood |volume=101 |issue=12 |pages=5089–90; author reply 5090–1 |year=2003 |last1=Brittenham |first1=G. M |last2=Nathan |first2=D. G |last3=Olivieri |first3=N. F |last4=Porter |first4=J. B |last5=Pippard |first5=M |last6=Vichinsky |first6=E. P |last7=Weatherall |first7=D. J }}</ref><ref>{{cite journal |doi=10.1182/blood-2002-01-0306 |pmid=12176871 |title=Lack of progressive hepatic fibrosis during long-term therapy with deferiprone in subjects with transfusion-dependent beta-thalassemia |journal=Blood |volume=100 |issue=5 |pages=1566–9 |year=2002 |last1=Wanless |first1=I. R |last2=Sweeney |first2=G |last3=Dhillon |first3=A. P |last4=Guido |first4=M |last5=Piga |first5=A |last6=Galanello |first6=R |last7=Gamberini |first7=M. R |last8=Schwartz |first8=E |last9=Cohen |first9=A. R }}</ref>
+
+==See also==
+*[[Deferoxamine]]
+*[[Deferasirox]]
+
+==References==
+<references/>
+
+{{Chelating agents}}
+
+[[Category:Chelating agents]]
+[[Category:Chelating agents used as drugs]]
+[[Category:Antidotes]]
+[[Category:4-Pyridones]]

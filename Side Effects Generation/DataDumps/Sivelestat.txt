@@ -1,0 +1,76 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464392270
+| IUPAC_name = ''N''-<nowiki/>{2-[({4-[(2,2-dimethylpropanoyl)oxy]phenyl}sulfonyl)amino]benzoyl}glycine
+| image = Sivelestat.svg
+
+<!--Clinical data-->
+| tradename =
+| Drugs.com = {{drugs.com|international|sivelestat}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Not approved
+| legal_status = Rx-only
+| routes_of_administration = [[Intravenous therapy|IV]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6441
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 127373-66-4
+| ATC_prefix = None
+| ATC_suffix =
+| ATC_supplemental =
+| PubChem = 107706
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = DWI62G0P59
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03788
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 96875
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 76688
+
+<!--Chemical data-->
+| chemical_formula =
+| C=20 | H=22 | N=2 | O=7 | S=1 
+| molecular_weight = 434.46 g/mol
+| smiles = CC(C)(C)C(=O)OC1=CC=C(C=C1)S(=O)(=O)NC2=CC=CC=C2C(=O)NCC(=O)O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C20H22N2O7S/c1-20(2,3)19(26)29-13-8-10-14(11-9-13)30(27,28)22-16-7-5-4-6-15(16)18(25)21-12-17(23)24/h4-11,22H,12H2,1-3H3,(H,21,25)(H,23,24)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = BTGNGJJLZOIYID-UHFFFAOYSA-N
+}}
+
+'''Sivelestat''' ([[International Nonproprietary Name|INN]], research name '''ONO 5046''', marketed as '''Elaspol''') is an inhibitor of human [[neutrophil elastase]].<ref name="pmid2049103">{{cite journal |vauthors=Kawabata K, Suzuki M, Sugitani M, Imaki K, Toda M, Miyamoto T |title=ONO-5046, a novel inhibitor of human neutrophil elastase |journal=Biochem. Biophys. Res. Commun. |volume=177 |issue=2 |pages=814–20 |date=June 1991 |pmid=2049103 |doi= 10.1016/0006-291X(91)91862-7|url=http://linkinghub.elsevier.com/retrieve/pii/0006-291X(91)91862-7}}</ref>
+
+It is used in the treatment of acute [[respiratory failure]]<ref name="pmid18592991">{{cite journal |author=Imokawa S |title=[Acute respiratory failure due to pneumocystis pneumonia successfully treated with combined use of sivelestat sodium hydrate] |language=Japanese |journal=Nihon Kokyuki Gakkai Zasshi |volume=46 |issue=6 |pages=461–5 |date=June 2008 |pmid=18592991 |doi= |url= |name-list-format=vanc|author2=Mori K |author3=Harada M |display-authors=3 |last4=Sagisaka |first4=S |last5=Sano |first5=T |last6=Uchiyama |first6=H |last7=Yasuda |first7=K |last8=Ukita |first8=T |last9=Fujisawa |first9=T}}</ref> and preliminary studies show it may also improve neuropathic pain.<ref>{{Cite journal|title = Repurposing a leukocyte elastase inhibitor for neuropathic pain|url = http://www.nature.com/nm/journal/v21/n5/full/nm.3861.html|journal = Nature Medicine|date = May 2015|issn = 1078-8956|pages = 429–430|volume = 21|issue = 5|doi = 10.1038/nm.3861|first = Andy D.|last = Weyer|first2 = Cheryl L.|last2 = Stucky|pmid=25951529}}</ref>
+
+==Synthesis==
+Sivelestat is synthesised as follows:<ref>K. Imaki, Y. Arai, T. Okegawa, {{US Patent|5,017,610}} (1991).</ref>
+
+[[File:Sivelestat scheme.png|490px]]
+
+==References==
+{{Reflist}}
+
+[[Category:Benzamides]]
+[[Category:Hydrolase inhibitors]]
+[[Category:Sulfonamides]]
+[[Category:Pivalates]]
+
+
+{{respiratory-system-drug-stub}}

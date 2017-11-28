@@ -1,0 +1,67 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 459514592
+| IUPAC_name = (''E'')-5-([4-(2-carboxyethylcarbamoyl)phenyl]diazenyl)-2-hydroxybenzoic acid
+| image = Balsalazide structure.svg
+| width = 270
+<!--Clinical data-->
+| tradename = Colazal, Giazo
+| Drugs.com = {{drugs.com|monograph|colazal}}
+| MedlinePlus = a699052
+| pregnancy_US = B
+| pregnancy_category =  
+| legal_UK = POM
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability = <1%
+| protein_bound = ≥99%
+| metabolism =  
+| elimination_half-life = 12hr
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 80573-04-2
+| ATC_prefix = A07
+| ATC_suffix = EC04
+| ATC_supplemental =  
+| PubChem = 5362070
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01014
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 10662422
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = P80AL8J7ZP
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 267413
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201346
+<!--Chemical data-->
+| C=17 | H=15
+| N=3 | O=6
+| molecular_weight = 357.318 g/mol
+| smiles = O=C(O)c1cc(ccc1O)/N=N/c2ccc(cc2)C(=O)NCCC(O)=O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H15N3O6/c21-14-6-5-12(9-13(14)17(25)26)20-19-11-3-1-10(2-4-11)16(24)18-8-7-15(22)23/h1-6,9,21H,7-8H2,(H,18,24)(H,22,23)(H,25,26)/b20-19+
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IPOKCKJONYRRHP-FMQUCBEESA-N
+}}
+'''Balsalazide''' is an anti-inflammatory drug used in the treatment of [[inflammatory bowel disease]]. It is sold under the brand names '''Giazo''', '''Colazal''' in the US and '''Colazide''' in the UK. It is also sold in generic form in the US by several generic manufacturers.
+
+It is usually administered as the disodium salt. Balsalazide releases [[mesalazine]], also known as 5-aminosalicylic acid, or 5-ASA,<ref>{{Cite journal | pmid = 11709512 | year = 2001 | last1 = Kruis | first1 = W. | last2 = Schreiber | last3 = Theuer | first3 = D. | last4 = Brandes | first4 = J. W. | last5 = Schütz | first5 = E. | last6 = Howaldt | first6 = S. | last7 = Krakamp | first7 = B. | last8 = Hämling | first8 = J. | last9 = Mönnikes | first9 = H. | last10 = Koop | first10 = I. | last11 = Stolte | first11 = M. | last12 = Pallant | first12 = D. | last13 = Ewald | first13 = U. | title = Low dose balsalazide (1.5 g twice daily) and mesalazine (0.5 g three times daily) maintained remission of ulcerative colitis but high dose balsalazide (3.0 g twice daily) was superior in preventing relapses | volume = 49 | issue = 6 | pages = 783–789 | journal = Gut | doi = 10.1136/gut.49.6.783| pmc = 1728533 | first2 = I.}}</ref> in the large intestine. Its advantage over that drug in the treatment of [[ulcerative colitis]] is believed to be the delivery of the active agent past the small intestine to the large intestine, the active site of ulcerative colitis.
+
+==Synthesis==
+[[File:Balsalazide synthesis.png|thumb|center|600px|Balsalazide synthesis: Biorex Laboratories, {{Cite patent|GB|2080796}} (1986).]]
+#Starting material is 4-amino[[hippuric acid]], obtained by coupling [[para-aminobenzoic acid]] and [[glycine]]. 
+#That product is then treated with [[nitrous acid]] to give the [[diazonium salt]]. 
+#Reaction of this species with [[salicylic acid]] proceeds at the position para to the phenol to give balsalazide.
+
+==References==
+{{reflist}}
+
+{{Antidiarrheals, intestinal anti-inflammatory/anti-infective agents}}
+
+[[Category:Gastroenterology]]
+[[Category:Azo compounds]]
+[[Category:Salicylic acids]]
+[[Category:Benzamides]]
+[[Category:Anilines]]
+[[Category:Propionic acids]]

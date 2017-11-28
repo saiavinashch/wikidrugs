@@ -1,0 +1,72 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 447993535
+| IUPAC_name = 3-(1,3-dimethyl-4-propylpiperidin-4-yl)phenol
+| image = Picenadol.svg
+| width = 160
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- Schedule I -->
+| legal_UK = <!-- Class A -->
+| legal_US = <!-- Schedule I -->
+| legal_status =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 79201-85-7
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 53077
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 47943
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = TV3535QWTJ
+
+<!--Chemical data-->
+| C=16 | H=25 | N=1 | O=1 
+| molecular_weight = 247.38 g/mol
+| smiles = OC1=CC=CC([C@@]2(CCN(C[C@@H]2C)C)CCC)=C1
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H25NO/c1-4-8-16(9-10-17(3)12-13(16)2)14-6-5-7-15(18)11-14/h5-7,11,13,18H,4,8-10,12H2,1-3H3/t13-,16-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = RTOHPIRUUAKHOZ-BBRMVZONSA-N
+| synonyms =  
+}}
+
+'''Picenadol''' ('''LY-97435''') is a 4-[[phenyl]][[piperidine]] derivative that is an [[opioid]] [[analgesic]] drug developed by Eli Lilly in the 1970s.<ref>US Patent 4081450 - 1,3,4-Trisubstituted-4-arylpiperidines and their preparation</ref> 
+
+Picenadol is an effective analgesic with similar efficacy to [[pethidine]] (meperidine). It has been investigated for some applications such as [[obstetrics]]<ref>Sherline DM. Picenadol (LY 150720) compared with meperidine and placebo for relief of post-cesarean section pain: a randomized double-blind study. ''American Journal of Obstetrics and Gynecology''. 1983 Oct 15;147(4):404-6.</ref> and [[dentistry]],<ref>Goldstein DJ, Brunelle RL, George RE, Cooper SA, Desjardins PJ, Gaston GW, Jeffers GE, Gallegos LT, Reynolds DC. Picenadol in a large multicenter dental pain study. ''Pharmacotherapy''. 1994 Jan-Feb;14(1):54-9.</ref> but never commercialised.
+
+It is unusual in that one [[enantiomer]] is a pure [[Mu opioid receptor|μ-opioid]] [[agonist]], while the other is an [[Receptor antagonist|antagonist]].<ref>Leander JD, Zimmerman DM. Effects of picenadol and its agonist and antagonist isomers on schedule-controlled behavior. ''Journal of Pharmacology and Experimental Therapeutics''. 1983 Dec;227(3):671-5.</ref> The (3R,4R) isomer is the agonist, while (3S,4S) is antagonist.<ref>Froimowitz M, Cody V. Absolute configurations and conformations of the opioid agonist and antagonist enantiomers of picenadol. ''Chirality''. 1995;7(7):518-25.</ref> This means that the racemic mix of the two enantiomers is a mixed agonist-antagonist, with relatively low [[Drug abuse|abuse potential]], and little of the [[Kappa opioid receptor|κ-opioid]] activity that tends to cause problems with other opioid mixed agonist-antagonists such as [[pentazocine]].<ref>Zimmerman DM, Smits SE, Hynes MD, Cantrell BE, Leander JD, Mendelsohn LG, Nickander R. Picenadol. ''Drug and Alcohol Dependence''. 1985 Feb;14(3-4):381-401.</ref>
+==Synthesis==
+[[File:Picenadol synthesis1.svg|thumb|center|500px|Picenadol synthesis 1: {{US patent|4499274}}]]
+[[File:Picenadol synthesis 2.svg|thumb|center|500px|Picenadol synthesis 2:<ref>{{Cite journal | doi = 10.1016/S0040-4039(00)97857-2| title = A concise, stereoselective synthesis of picenadol| journal = Tetrahedron Letters| volume = 31| issue = 38| pages = 5401| year = 1990| last1 = Martinelli | first1 = M. J. | last2 = Peterson | first2 = B. C. }}</ref>]]
+==See also==
+*[[Ketobemidone]]
+== References ==
+{{Reflist|2}}
+
+
+{{Opioidergics}}
+
+[[Category:Synthetic opioids]]
+[[Category:Piperidines]]
+[[Category:Phenols]]
+[[Category:Mu-opioid agonists]]
+
+
+{{analgesic-stub}}

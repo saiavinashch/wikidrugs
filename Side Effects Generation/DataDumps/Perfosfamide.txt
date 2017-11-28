@@ -1,0 +1,84 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 457654634
+| IUPAC_name = (2''S'',4''S'')-''N'',''N''-Bis(2-chloroethyl)-4-hydroperoxy-2-oxo-1,3,2λ<sup>5</sup>-oxazaphosphinan-2-amine
+| image = 4-hydroperoxycyclophosphamide.svg
+| width = 125
+| alt =  
+| drug_name =
+
+<!-- Clinical data -->
+| tradename =
+| DailyMedID = <!-- preference to licence_US -->
+| legal_status =
+| dependency_liability = 
+| routes_of_administration = Extracorporal treatment of cellular masses; [[Intravenous therapy|intravenously]]
+
+<!-- Pharmacokinetic data -->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|correct}}
+| CAS_number = 39800-16-3
+| CAS_supplemental =  
+| ATCvet =  
+| ATC_prefix = L01
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem = 38347 
+| PubChemSubstance =
+| IUPHAR_ligand =
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 35147
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 61511
+| ChEBI = 196991
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| synonyms = Perfosfamide 
+
+<!-- Chemical data -->
+| C=7 | H=15 | Cl=2 | N=2 | O=4 | P=1
+| molecular_weight = 293.084762 g/mol
+| smiles = C1COP(=O)(NC1OO)N(CCCl)CCCl
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C7H15Cl2N2O4P/c8-2-4-11(5-3-9)16(13)10-7(15-12)1-6-14-16/h7,12H,1-6H2,(H,10,13)/t7-,16-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = VPAWVRUHMJVRHU-GYKQLYQFSA-N
+| density =  
+| melting_point =  
+| melting_high =  
+| melting_notes =  
+| boiling_point =  
+| boiling_notes =  
+| solubility =  
+| specific_rotation =  
+| sec_combustion =  
+}}
+
+'''Perfosfamide''', or '''4-hydroperoxycyclophosphamide''' (trade name '''Pergamid''') was an experimental drug candidate for blood cancers that was rejected by the FDA in 1993 and never reached the market.
+
+==Intended use==
+Perfosfamide was used experimentally by oncologists in the 1980s for use in [[bone marrow transplant]] procedures for treatment of blood cancers. It was added to the tissue after it had been taken from the donor but before the tissue was administered to the patient to "purge" [[lymphocyte]]s in order to prevent [[GVHD|Graft Versus Host Disease]], which results from donor lymphocytes attacking normal host cells and tissues, and to "purge" a patient's own (autologous) collected [[hematopoietic stem cells]] of any [[malignant cell]]s it may still contain at the time of harvesting.<ref>Sládek NE. Aldehyde dehydrogenase-mediated cellular relative insensitivity to the oxazaphosphorines. Curr Pharm Des. 1999 Aug;5(8):607-25. Review. {{PMID|10469894}} </ref><ref>O Michael Colvin.  Pharmacologic Purging of Bone Marrow.  Chapter 20 in Thomas' Hematopoietic Cell Transplantation, Volume 457.  Eds. Thomas E.D. et al. John Wiley & Sons, 2004 {{ISBN|9781405112567}}</ref>{{rp|255}}  
+
+In 1989 Nova Pharmaceutical took over development of the compound and in 1992, it submitted a [[new drug application]] to the FDA for using perfosamide to purge malignant cells in transplants for the treatment of [[acute myeloid leukemia]].  In the ensuing year, it merged with Scios to become Scios Nova. In March 1993, the FDA's Oncology Drugs Advisory Committee rejected the application because all the data was from the experimental uses, and no [[randomized clinical trial]] had been conducted.<ref>Jeffrey L. Fox. Scios Nova may purge Pergamid after FDA setback. Nature Biotechology.  April 1993 11(4):439 doi 10.1038/nbt0493-439</ref> At the review meeting, Scios Nova also announced that it would not fund further development of the drug candidate.<ref>The Pink Sheet. 8 March 1993  [https://www.pharmamedtechbi.com/publications/the-pink-sheet/55/010/scios-novas-pergamid-no-further-trials-will-be-funded Scios Nova’s Pergamid: No Further Trials Will Be Funded]</ref>
+
+==Chemistry==
+Perfosfamide is an oxazaphosphorine compound, similar to [[mafosfamide]] and [[cyclophosphamide]]. Like those compounds it, is metabolized to [[4-hydroxycyclophosphamide]], which eventually gives rise to the two directly cytotoxic metabolites — [[phosphoramide mustard]] and [[acrolein]].<ref> Ludeman SM. The chemistry of the metabolites of cyclophosphamide. Curr Pharm Des. 1999 Aug;5(8):627-43. {{PMID|10469895}}</ref>
+
+==References==
+{{reflist}}
+
+{{Chemotherapeutic agents}}
+
+[[Category:Abandoned drugs]]
+[[Category:Organochlorides]]
+[[Category:IARC Group 1 carcinogens]]
+[[Category:Oxazaphosphinans]]
+[[Category:Nitrogen mustards]]
+[[Category:Phosphorodiamidates]]

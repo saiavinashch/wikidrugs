@@ -1,0 +1,105 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 448213947
+| IUPAC_name = Thiazolidine-2,4-dicarboxylic acid
+| image = Tidiacic.png
+| alt = Skeletal formula
+| image2 = Tidiacic-3D-balls.png
+| alt2 = Ball-and-stick model
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 30097-06-4
+| ATC_prefix =  
+| ATC_suffix =  
+| PubChem = 72150
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = F39KSS6R80
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 65123
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=5 | H=7 | N=1 | O=4 | S=1 
+| molecular_weight = 177.18 g/mol
+| smiles = C1C(NC(S1)C(=O)O)C(=O)O
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C5H7NO4S/c7-4(8)2-1-11-3(6-2)5(9)10/h2-3,6H,1H2,(H,7,8)(H,9,10)
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = DAXBISKSIDBYEU-UHFFFAOYSA-N
+
+}}
+{{Drugbox
+| drug_name         = Tidiacic arginine
+| IUPAC_name        = 
+| image             = 
+| alt               = 
+| caption           = 
+
+<!--Combo data-->
+| type = combo
+| component1 = Tidiacic
+| class1 = [[hepatoprotective]]
+| component2 = Arginine
+| class2 = [[amino acid]]
+
+<!--Clinical data-->
+| tradename = Tiadilon
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+
+<!--Identifiers-->
+| CAS_number = 30986-62-0
+| ATC_prefix = A05
+| ATC_suffix = BA07
+| ChemSpiderID = 142008
+
+<!--Chemical data-->
+}}
+
+'''Tidiacic''' is a [[hepatoprotective]] drug.  It is a component of '''tidiacic arginine'''.
+
+Tidiacic arginine (trade name '''Tiadilon''') is a 1:1 combination of the [[amino acid]] [[arginine]] and tidiacic (thiazolidine-2,4-dicarboxylic acid), which acts as a sulfur donor.
+
+In France, its indications and use have been described as "identical to those of [[silibinin|silymarin]]".<ref>{{Cite book|last=Laure |first=Patrick |author2=Caroline Bislinger  |title=Les médicaments détournés |chapter=Les produits détournés: A05. Médicaments hépatobiliaires |language=French |page=169 |year=2003 |publisher=Elsevier Masson |isbn=978-2-294-00859-7 |url=https://books.google.com/books?id=tpxDRkxilvAC&pg=PA169}} Retrieved on January 6, 2009 through [[Google Book Search]].</ref>
+
+==References==
+<references/>
+
+==Further reading==
+*{{Cite journal|author=Rizzo S |title=Clinical trial with arginine tidiacicate in symptomatic chronic persistent hepatitis |journal=Int J Clin Pharmacol Res |volume=6 |issue=3 |pages=225–30 |year=1986 |pmid=3527997}}
+
+{{Bile and liver therapy}}
+
+{{pharma-stub}}
+
+{{Gastrointestinal-drug-stub}}
+[[Category:Drugs acting on the gastrointestinal system and metabolism]]
+[[Category:Combination drugs]]
+[[Category:Dicarboxylic acids]]
+[[Category:Thiazolidines]]

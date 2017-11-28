@@ -1,0 +1,64 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 443977985
+| IUPAC_name = 3,6-diamino-''N''-[(3''R'',6''Z'')-3-(2-amino-3,4,5,6-tetrahydropyrimidin-4-yl)-6-[(carbamoylamino)methylidene]-9,12-bis(hydroxymethyl)-2,5,8,11,14-pentaoxo-1,4,7,10,13-pentazacyclohexadec-15-yl]-4-hydroxyhexanamide
+| image = Enviomycin.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|enviomycin}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = IM
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 33103-22-9
+| ATC_prefix = none
+| ATC_suffix =  
+| ATC_supplemental =  
+| PubChem = 3032903
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB08993
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = XU299C23A2
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07897
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 2146142
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 16736480
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C25H43N13O10/c26-3-1-16(41)10(27)5-17(42)33-12-6-31-23(47)18(11-2-4-30-24(28)37-11)38-20(44)13(7-32-25(29)48)34-21(45)14(8-39)36-22(46)15(9-40)35-19(12)43/h7,10-12,14-16,18,39-41H,1-6,8-9,26-27H2,(H,31,47)(H,33,42)(H,34,45)(H,35,43)(H,36,46)(H,38,44)(H3,28,30,37)(H3,29,32,48)/b13-7-/t10-,11-,12+,14+,15+,16-,18+/m1/s1
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = HPWIIERXAFODPP-GHBBWTPBSA-N
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=25 | H=43 | N=13 | O=10 
+| molecular_weight = 685.69 g/mol
+| smiles = C1CN=C(NC1C2C(=O)NCC(C(=O)NC(C(=O)NC(C(=O)NC(=CNC(=O)N)C(=O)N2)CO)CO)NC(=O)CC(C(CCN)O)N)N
+}}
+
+'''Enviomycin''' ([[International Nonproprietary Name|INN]], also called '''tuberactinomycin N''') is an [[antibiotic]] drug, isolated from ''[[Streptomyces griseoverticillatus]]'' var. ''tuberacticus''.<ref>[http://www.google.com/patents?id=FWMvAAAAEBAJ&dq=3892732 Jinnosuke Abe et al. Antibiotic Tuberactinomycin-N and process for production thereof. US patent 3892732]</ref> It is used in the treatment of [[tuberculosis]].<ref>{{cite journal | last1 = Selvakumar | first1 = N | last2 = Kumar | first2 = V | last3 = Acharyulu | first3 = GS | last4 = Rehman | first4 = F | last5 = Paramasivan | first5 = CN | last6 = Prabhakar | first6 = R | title = Susceptibility of south Indian strains of Mycobacterium tuberculosis to tuberactinomycin | journal = The Indian journal of medical research | volume = 95 | pages = 101–4 | year = 1992 | pmid = 1506058 }}</ref> 
+
+==References==
+<references/>
+
+[[Category:Polypeptide antibiotics]]
+
+
+{{antiinfective-drug-stub}}

@@ -1,0 +1,122 @@
+{{Drugbox
+| verifiedrevid = 464382551
+| IUPAC_name = 6-(trifluoromethoxy)benzothiazol-2-amine
+| image = Riluzole2DACS.svg
+| width = 200
+| image2 = Riluzole ball-and-stick model.png
+| width2 = 200
+<!--Clinical data-->
+| tradename = Rilutek, Teglutik
+| Drugs.com = {{drugs.com|monograph|riluzole}}
+| MedlinePlus = a696013
+| licence_US = Riluzole
+| pregnancy_AU = B3
+| pregnancy_US = C
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx Only
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability = 60±18%<ref name = TGA>{{cite web|title=PRODUCT INFORMATION RILUTEK® (riluzole) Tablets|work=TGA eBusiness Services|publisher=sanofi-aventis australia pty ltd|date=6 January 2009|accessdate=18 February 2014|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2010-PI-05951-3|format=PDF}}</ref>
+
+| protein_bound = 97%<ref name = TGA/>
+| metabolism = [[Hepatic]] ([[CYP1A2]])<ref name = TGA/>
+| elimination_half-life = 9-15 hours<ref name = TGA/> 
+| excretion = Urine (90%)<ref name = TGA/>
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 1744-22-5
+| ATC_prefix = N07
+| ATC_suffix = XX02
+| ATC_supplemental =  
+| PubChem = 5070
+| IUPHAR_ligand = 2326
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00740
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4892
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 7LJ087RS6F
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00775
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 744
+<!--Chemical data-->
+| C=8 | H=5 | F=3 | N=2 | O=1 | S=1
+| molecular_weight = 234.199 g/mol
+| smiles = FC(F)(F)Oc1ccc2nc(sc2c1)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C8H5F3N2OS/c9-8(10,11)14-4-1-2-5-6(3-4)15-7(12)13-5/h1-3H,(H2,12,13)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = FTALBRSUTCGOEG-UHFFFAOYSA-N
+}}
+<!-- FAIR USE of Riluzole.jpg: see image description page at http://en.wikipedia.org/wiki/Image:Riluzole.jpg for rationale -->
+'''Riluzole''' (marketed as Rilutek and Teglutik) is a [[medication|drug]] used to treat [[amyotrophic lateral sclerosis]]. Riluzole delays the onset of [[ventilator]]-dependence or [[tracheostomy]] in selected [[patient]]s and may increase survival by approximately two to three months.<ref name="Coch">{{cite journal|last=Miller|first=RG|author2=Mitchell, JD |author3=Moore, DH |title=Riluzole for amyotrophic lateral sclerosis (ALS)/motor neuron disease (MND)|journal=The Cochrane Database of Systematic Reviews|date=14 March 2012|volume=3|issue=3|pages=CD001447|doi=10.1002/14651858.CD001447.pub3|pmid=22419278|url=http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD001447.pub3/pdf|format=PDF}}</ref>
+
+Riluzole is available in a tablet and liquid form. The liquid formulation may be more suitable for patients with swallowing difficulties.
+
+==Medical use==
+
+=== Amyotrophic lateral sclerosis ===
+
+There has been some evidence to show that higher doses might produce more significant improvements in ALS patients but at almost £6 (US$10) per tablet it is at risk of being prohibitively expensive given the modest benefit to patients. One study in the Netherlands found that riluzole is metabolized differently by males and females, and its levels in [[Blood plasma|plasma]] are decreased in patients who smoke [[cigarettes]] or take [[omeprazole]].<ref>{{cite journal|last1=van Kan|first1=HJ|last2=Groeneveld|first2=GJ|last3=Kalmijn|first3=S|last4=Spieksma|first4=M|last5=van den Berg|first5=LH|last6=Guchelaar|first6=HJ|title=Association between CYP1A2 activity and riluzole clearance in patients with amyotrophic lateral sclerosis.|journal=[[British Journal of Clinical Pharmacology]]|date=March 2005|volume=59|issue=3|pages=310–3|pmid=15752377|pmc=1884790 |doi=10.1111/j.1365-2125.2004.02233.x|url=http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1884790/pdf/bcp0059-0310.pdf|format=PDF}}</ref> A [[Cochrane Library]] review states a 9% gain in the probability of surviving one year.<ref name = Coch/>
+
+===Psychiatric use===
+A number of recent [[Case study|case studies]] have indicated that riluzole may have clinical use in mood and [[anxiety disorder]]s.<ref>{{cite journal | pmc = 2958461 | pmid=20807069 | doi=10.1089/cap.2010.0009 | volume=20 | issue=4 | title=Review of the use of the glutamate antagonist riluzole in psychiatric disorders and a description of recent use in childhood obsessive-compulsive disorder | journal=J Child Adolesc Psychopharmacol | pages=309–15 | last1 = Grant | first1 = P | last2 = Song | first2 = JY | last3 = Swedo | first3 = SE| year=2010 }}</ref> It has been shown to have [[antidepressant]] properties in the treatment of refractory [[clinical depression|depression]]<ref>{{cite journal|last=Zarate CA|first=Jr|author2=Payne, JL |author3=Quiroz, J |author4=Sporn, J |author5=Denicoff, KK |author6=Luckenbaugh, D |author7=Charney, DS |author8= Manji, HK |title=An open-label trial of riluzole in patients with treatment-resistant major depression.|journal=The American Journal of Psychiatry|date=January 2004|volume=161|issue=1|pages=171–4|pmid=14702270|doi=10.1176/appi.ajp.161.1.171}}</ref>
+and act as an anxiolytic in [[obsessive-compulsive disorder]]<ref>{{cite journal|last=Coric|first=V |author2=Taskiran, S |author3=Pittenger, C |author4=Wasylink, S |author5=Mathalon, DH |author6=Valentine, G |author7=Saksa, J |author8=Wu, YT |author9=Gueorguieva, R |author10=Sanacora, G |author11=Malison, RT |author12=Krystal, JH|title=Riluzole augmentation in treatment-resistant obsessive-compulsive disorder: an open-label trial.|journal=Biological Psychiatry|date=1 September 2005|volume=58|issue=5|pages=424–8|pmid=15993857|doi=10.1016/j.biopsych.2005.04.043}}</ref> and in [[generalized anxiety disorder]].<ref>{{cite journal|last=Mathew|first=SJ|author2=Amiel, JM |author3=Coplan, JD |author4=Fitterling, HA |author5=Sackeim, HA |author6= Gorman, JM |title=Open-label trial of riluzole in generalized anxiety disorder.|journal=The American Journal of Psychiatry|date=December 2005|volume=162|issue=12|pages=2379–81|pmid=16330605|doi=10.1176/appi.ajp.162.12.2379}}</ref>
+
+===Research===
+A clinical study on mice has shown riluzole to compensate for harmful [[glutamate]] levels and promote dendritic spine clustering in hippocampal circuits implicated in memory and emotion. Therefore, the drug may act as an effective treatment for [[Memory loss|age-related memory loss]] and other forms of [[cognitive decline]].<ref>{{cite journal|url = http://www.pnas.org/content/111/52/18733.abstract |title= Glutamatergic regulation prevents hippocampal-dependent age-related cognitive decline through dendritic spine clustering |accessdate = 18 January 2015|website = [[Proceedings of the National Academy of Sciences of the United States of America]]|doi=10.1073/pnas.1421285111|volume=111|issue = 52|pages=18733–18738|year = 2014|last1 = Pereira|first1 = Ana C.|last2 = Lambert|first2 = Hilary K.|last3 = Grossman|first3 = Yael S.|last4 = Dumitriu|first4 = Dani|last5 = Waldman|first5 = Rachel|last6 = Jannetty|first6 = Sophia K.|last7 = Calakos|first7 = Katina|last8 = Janssen|first8 = William G.|last9 = McEwen|first9 = Bruce S.|last10 = Morrison|first10 = John H.|bibcode = 2014PNAS..11118733P}}</ref> The effect of riluzole on glutamate dysfunction in humans with [[Alzheimer's disease]] is unknown; however, a clinical trial is taking place to investigate this.<ref>{{cite web|title=Glutamatergic Dysfunction in Cognitive Aging: Riluzole in Mild Alzheimers Disease|url=http://clinicalstudies.rucares.org/protocol.php?id=387&cat=53|website=rucares.org|accessdate=12 March 2015}}</ref>
+
+Riluzole was also studied as a treatment for [[spinal muscular atrophy]];<ref>{{cite web|url=https://clinicaltrials.gov/ct2/show/NCT00774423 |title=Study to Evaluate the Efficacy of Riluzole in Children and Young Adults With Spinal Muscular Atrophy (SMA) |publisher=ClinicalTrials.gov |date= |accessdate=2016-05-20}}</ref> however, efficacy was not observed.
+
+A reformulation of riluzole that originated at [[Yale University]] and is known by the code name BHV-0223<ref>{{cite web|url=http://adisinsight.springer.com/drugs/800043098 |title=BHV 0223 - AdisInsight |publisher=Adisinsight.springer.com |date= |accessdate=2016-05-20}}</ref> is under development for the treatment of [[generalized anxiety disorder]] and [[mood disorder]]s now by [[Biohaven Pharmaceuticals]].<ref name="Harris2015">{{cite journal|last1=Harris|first1=Elaine|title=Industry update: the latest developments in therapeutic delivery|journal=Therapeutic Delivery|volume=6|issue=6|year=2015|pages=647–652|issn=2041-5990|doi=10.4155/tde.15.44}}</ref>
+
+A [[prodrug]] of riluzole, [[trigriluzole]], is under investigation for [[spinocerebellar ataxia]].<ref>{{Cite news | url = https://finance.yahoo.com/news/biohaven-receives-fda-investigational-drug-070000275.html | publisher = Yahoo News | title = Biohaven Receives FDA Investigational New Drug Application (IND) Approval for BHV-4157 | date = July 5, 2016}}</ref><ref>{{cite web | url = http://www.fc-cdci.com/PressReleases/FC-4157_7.5.16.html | date = July 5, 2016 | publisher = Fox Chase Chemical Diversity Center | title = The Fox Chase Chemical Diversity Center Announces that the FDA has Completed its Review of FC-4157 (also known as BHV-4157) Investigational New Drug Application (IND) Filed on May 31, 2016 by Biohaven Pharmaceutical Holding Company Ltd }}</ref>
+
+==Adverse effects==
+* Very common (>10% frequency):<ref name="MSR">{{cite web|title=Rilutek (riluzole) dosing, indications, interactions, adverse effects, and more|work=Medscape Reference|publisher=WebMD|accessdate=18 February 2014|url=http://reference.medscape.com/drug/rilutek-riluzole-343067#showall}}</ref> [[nausea]]; [[Asthenia|weakness]]; decreased [[lung function]]
+* Common (1-10% frequency):<ref name="AMH">{{cite book | editor = Rossi, S | isbn = 978-0-9805790-9-3 | title = Australian Medicines Handbook | place = Adelaide | publisher = The Australian Medicines Handbook Unit Trust | year = 2013 | edition = 2013 }}</ref> headache; dizziness; drowsiness; vomiting; abdominal pain; increased [[aminotransferase]]s
+* Uncommon (0.1-1% frequency):<ref name = AMH/> [[pancreatitis]]; [[interstitial lung disease]]
+* Rare (<0.1% frequency):<ref name = AMH/> [[neutropenia]]; allergic reaction (including [[angiooedema]], anaphylactoid reaction)
+
+===Overdose===
+Symptoms of overdose include: neurological and psychiatric symptoms, acute toxic encephalopathy with stupor, coma and [[methemoglobinemia]].<ref name = TGA/> Severe methemoglobinemia may be rapidly reversible after treatment with methylene blue.<ref name = TGA/>
+
+==Contraindications==
+Contraindications for riluzole include: known prior hypersensitivity to riluzole or any of the excipients inside the preparations, liver disease, pregnancy or lactation.<ref name = TGA/>
+
+===Interactions===
+[[CYP1A2]] substrates, inhibitors and inducers would probably interact with riluzole, due its dependency on this cytochrome for metabolism.<ref name = TGA/>
+
+==Mechanism of action==
+Riluzole preferentially blocks [[Tetrodotoxin|TTX]]-sensitive [[sodium channel]]s, which are associated with damaged [[neuron]]s.<ref>{{cite journal|last=Song|first=JH|author2=Huang, CS |author3=Nagata, K |author4=Yeh, JZ |author5= Narahashi, T |title=Differential action of riluzole on tetrodotoxin-sensitive and tetrodotoxin-resistant sodium channels.|journal=The Journal of Pharmacology and Experimental Therapeutics|date=August 1997|volume=282|issue=2|pages=707–14|pmid=9262334|url=http://jpet.aspetjournals.org/content/282/2/707.full.pdf|format=PDF}}</ref><ref>{{cite journal|last=Bellingham|first=MC|title=A review of the neural mechanisms of action and clinical efficiency of riluzole in treating amyotrophic lateral sclerosis: what have we learned in the last decade?|journal=CNS Neuroscience & Therapeutics|date=February 2011|volume=17|issue=1|pages=4–31|doi=10.1111/j.1755-5949.2009.00116.x|pmid=20236142}}</ref> Riluzole has also been reported to directly inhibit the [[kainate receptor|kainate]] and [[NMDA receptor]]s.<ref name="pmid7685290">{{cite journal |vauthors=Debono MW, Le Guern J, Canton T, Doble A, Pradier L | title = Inhibition by riluzole of electrophysiological responses mediated by rat kainate and NMDA receptors expressed in Xenopus oocytes | journal = Eur. J. Pharmacol. | volume = 235 | issue = 2–3 | pages = 283–9 |date=April 1993  | pmid = 7685290 | doi = 10.1016/0014-2999(93)90147-a| url = }}</ref> However, the action of riluzole on [[glutamate receptor]]s has been controversial, as no binding of the drug to any known sites has been shown for them.<ref>{{cite journal|last=Wokke|first=J|title=Riluzole.|journal=Lancet|date=21 September 1996|volume=348|issue=9030|pages=795–9|pmid=8813989|doi=10.1016/S0140-6736(96)03181-9}}</ref><ref name="pmid9750003">{{cite journal |vauthors=Kretschmer BD, Kratzer U, Schmidt WJ | title = Riluzole, a glutamate release inhibitor, and motor behavior | journal = Naunyn Schmiedebergs Arch. Pharmacol. | volume = 358 | issue = 2 | pages = 181–90 |date=August 1998  | pmid = 9750003 | doi = 10.1007/pl00005241| url = }}</ref> In addition, as its antiglutamatergic action is still detectable in the presence of sodium channel blockers, it is also uncertain whether or not it acts via this way. Rather, its ability to stimulate glutamate uptake seems to mediate many of its effects.<ref>{{cite journal |author1=Azbill, RD |author2=Mu, X |author3=Springer, JE |title=Riluzole increases high-affinity glutamate uptake in rat spinal cord synaptosomes |journal=Brain Res. |volume=871 |issue=2 |pages=175–80 |date=July 2000|pmid=10899284 |url=http://linkinghub.elsevier.com/retrieve/pii/S0006-8993(00)02430-6 |doi=10.1016/S0006-8993(00)02430-6}}</ref><ref>{{cite journal |author1=Dunlop, J |author2=Beal McIlvain, H |author3=She, Y |author4=Howland, DS |title=Impaired spinal cord glutamate transport capacity and reduced sensitivity to riluzole in a transgenic superoxide dismutase mutant rat model of amyotrophic lateral sclerosis |journal=J Neurosci. |volume=23 |issue=5 |pages=1688–96 |date=1 March 2003|pmid=12629173 |url=http://www.jneurosci.org/cgi/pmidlookup?view=long&pmid=12629173 }}</ref> In addition to its role in accelerating glutamate clearance from the synapse, riluzole may also prevent glutamate release from presynaptic terminals.<ref>{{cite journal|last=Wang|first=S.-J|title=Mechanisms underlying the riluzole inhibition of glutamate release from rat cerebral cortex nerve terminals (synaptosomes)|journal=Neuroscience|date=January 2004|volume=125|issue=1|pages=191–201|doi=10.1016/j.neuroscience.2004.01.019|pmid=15051158}}</ref> These effects combined could significantly reduce glutamate signaling and cause indirect antagonism without acting at glutamate receptors themselves.
+
+==Synthesis==
+
+Riluzole can be prepared beginning with the reaction of 4-(trifluoromethoxy)aniline with [[potassium thiocyanate]] followed by reaction with bromine.<ref>L. M. Yagupol'skii, L. Z. Gandel'sman, Zh. Obshch. Khim. 33, 2301 (1963), C.A. 60, 692a (1964).</ref><ref>J. Mizoule, {{Cite patent|EP|50551}}; idem, {{US patent|4370338}} (1982, 1983 both to Pharmindustrie).</ref><ref>{{US patent|4826860}}</ref> Displacement of bromine atom by sulfur forms the [[thiazole]] ring to afford riluzole.
+
+:[[File:Riluzole synthesis.png|thumb|left|500px|Riluzole synthesis]]{{clear-left}}
+
+==See also==
+* [[List of investigational antidepressants]]
+* [[List of investigational anxiolytics]]
+
+==References==
+{{Reflist|2}}
+
+==External links==
+* [[National Institute for Health and Clinical Excellence]] (NICE) guidelines for prescription of riluzole in the UK [http://www.nice.org.uk/page.aspx?o=14491]
+* Manufacturer's website [http://www.rilutek.com]
+
+{{Other nervous system drugs}}
+{{GABA metabolism and transport modulators}}
+{{Glycine receptor modulators}}
+{{Ion channel modulators}}
+
+[[Category:Benzothiazoles]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Drugs with unknown mechanisms of action]]
+[[Category:GABA reuptake inhibitors]]
+[[Category:Glycine receptor antagonists]]

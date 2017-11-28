@@ -1,0 +1,65 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 477318521
+| IUPAC_name = ''N''-[(2''R'')-3,4-dihydro-2''H''-chromen-2-ylmethyl]-''N'''-(1,4,5,6-tetrahydropyrimidin-2-yl)propane-1,3-diamine
+| image = Alniditan.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_category =  
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 155428-00-5
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 66004
+| IUPHAR_ligand = 120
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 59396
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = B57Z82EOGE
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02826
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 88240
+
+<!--Chemical data-->
+| C=17 | H=26 | N=4 | O=1 
+| molecular_weight = 302.41 g/mol
+| smiles = C1CNC(=NC1)NCCCNCC2CCC3=CC=CC=C3O2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H26N4O/c1-2-6-16-14(5-1)7-8-15(22-16)13-18-9-3-10-19-17-20-11-4-12-21-17/h1-2,5-6,15,18H,3-4,7-13H2,(H2,19,20,21)/t15-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = QVSXOXCYXPQXMF-OAHLLOKOSA-N
+}}
+
+'''Alniditan''' is a [[5-HT1D receptor|5-HT<sub>1D</sub> receptor]] [[agonist]] with [[migraine]]-preventative effects.<ref name="pmid8967979">{{cite journal |vauthors=Leysen JE, Gommeren W, Heylen L |title=Alniditan, a new 5-hydroxytryptamine1D agonist and migraine-abortive agent: ligand-binding properties of human 5-hydroxytryptamine1D alpha, human 5-hydroxytryptamine1D beta, and calf 5-hydroxytryptamine1D receptors investigated with [3H]5-hydroxytryptamine and [3H]alniditan |journal=Mol. Pharmacol. |volume=50 |issue=6 |pages=1567–80 |date=December 1996 |pmid=8967979 |doi= |url=|display-authors=etal}}</ref>
+
+==Synthesis==
+The sizeable number of serotonergic drugs for treating migraines all incorporate the indole nucleus found in serotonin itself. It is
+thus of interest that a compound based on a [[benzopyran]] manifests much the same activity.
+[[File:Alniditan synthesis.svg|thumb|center|700px|Alniditan synthesis:<ref>{{Cite journal | doi = 10.1016/0960-894X(95)00473-7 | title = The discovery of a series of new non-indole 5HT1D agonists | year = 1995 | last1 = Lommen | first1 = G. | last2 = De Bruyn | first2 = Marcel | last3 = Schroven | first3 = Marc | last4 = Verschueren | first4 = Wim | last5 = Janssens | first5 = Walter | last6 = Verrelst | first6 = Jan | last7 = Leysen | first7 = Josée | journal = Bioorganic & Medicinal Chemistry Letters | volume = 5 | issue = 22 | pages = 2649–2654 }}</ref>]]
+Alkylation of [[phenol]] with 2-bromobutyrolactone ('''2''') leads to the ether ('''3'''). Oxidation of that product with [[chromium trioxide]] then leads to the substituted [[succinic anhydride]] ('''4'''). Treatment of anhydride with [[polyphosphoric acid]] leads to
+the [[acylation]] of the aromatic ring and the formation of the [[benzopyranone]] ring ('''5'''). The [[ketonyl]] group is then selectively reduced by any of several methods, as, for example, conversion to a [[dithiolane]] followed by [[Mozingo reduction]] to '''6'''. The [[carboxylic acid]] is next reduced to the corresponding [[aldehyde]] ('''7''') by successive conversion to an [[acid chloride]] followed by [[hydrogenation]] in the presence of [[thiophene]]. A second [[hydrogenation]] in the presence of [[benzylamine]] leads to the [[reductive amination]] product ('''8'''). [[Michael addition]] of the amino group in '''8''' to [[acrylonitrile]] leads to a [[1,4-addition]] and the formation of ('''9'''). Reduction of the [[nitrile]] affords the [[diamine]] ('''10'''). Reaction of this last diamine with [[tetrahydropyrimidine chloride]] ('''11'''), itself formed by treatment of [[trimethylene urea]] with [[phosphorus oxychloride]], leads to the displacement of halogen by the terminal, and thus more accessible, amino group in ('''10'''). There is thus formed the serotonergic agent alniditan ('''12''').
+
+== References ==
+{{Reflist}}
+
+{{Antimigraine}}
+{{Serotonergics}}
+
+[[Category:Antimigraine drugs]]
+[[Category:Chromenes]]
+[[Category:5-HT1D agonists]]
+
+
+{{nervous-system-drug-stub}}

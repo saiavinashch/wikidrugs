@@ -1,0 +1,78 @@
+{{Drugbox
+| verifiedrevid = 470606662
+| IUPAC_name = 2-(ethylthio)-10-[3-(4-methylpiperazin-1-yl)propyl]-10''H''-phenothiazine
+| image = Thiethylperazine.svg
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|CONS|thiethylperazine}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status =  
+| routes_of_administration =  
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 60%
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+<!--Identifiers-->
+| IUPHAR_ligand = 7306
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 1420-55-9
+| ATC_prefix = R06
+| ATC_suffix = AD03
+| ATC_supplemental =  
+| PubChem = 5440
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00372
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5245
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 8ETK1WAF6R
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02354
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 9544
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1378
+<!--Chemical data-->
+| C=22 | H=29 | N=3 | S=2
+| molecular_weight = 399.618 g/mol
+| smiles = S(c2cc1N(c3c(Sc1cc2)cccc3)CCCN4CCN(C)CC4)CC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C22H29N3S2/c1-3-26-18-9-10-22-20(17-18)25(19-7-4-5-8-21(19)27-22)12-6-11-24-15-13-23(2)14-16-24/h4-5,7-10,17H,3,6,11-16H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = XCTYLCDETUVOIP-UHFFFAOYSA-N
+}}
+
+'''Thiethylperazine''' ('''Torecan''') is an [[antiemetic]] of the [[phenothiazine]] class. Though it was never licensed or used as an [[antipsychotic]], it may have such effects.
+
+Thiethylperazine activates the transport protein [[ABCC1]] that clears [[beta-amyloid]] from brains of mice.<ref>
+{{cite web |
+url=http://www.sciencedaily.com/releases/2011/09/110901134628.htm
+| author=Science Daily
+| title=Alzheimer Disease: Transport Protein ABCC1 Plays Key Role in Clearing Beta-Amyloid from Brains of Mice. |
+date=September 1, 2011 |
+accessdate=September 1, 2011
+}}</ref>
+
+==References==
+{{reflist}}
+
+{{Antiemetics}}
+{{Antihistamines}}
+{{Dopamine receptor modulators}}
+{{Tricyclics}}
+
+[[Category:Antiemetics]]
+[[Category:Piperazines]]
+[[Category:Phenothiazines]]
+[[Category:Thioethers]]
+
+{{gastrointestinal-drug-stub}}
+{{respiratory-system-drug-stub}}
+{{nervous-system-drug-stub}}

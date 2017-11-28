@@ -1,0 +1,83 @@
+{{Drugbox
+| verifiedrevid =
+| IUPAC_name = [4-<nowiki>[[[</nowiki>2-[2-Fluoro-4-(trifluoromethyl)phenyl]-4-methyl-1,3-thiazol-5-yl]methyl]sulfanyl]-2-methylphenoxy]-2-methylpropanoic acid<ref>
+{{USPTO Patent|patnum=7105551|url=http://www.google.com/patents/US7105551.pdf}}{{cite web|title = 96 dpi image of original patent USPTO 7105551|url=http://www.google.com/patents/US7105551.pdf|accessdate = 2 Apr 2013 }}</ref>
+| image = Sodelglitazar skeletal.svg
+| width = 275
+
+<!--Clinical data-->
+| tradename =
+| MedlinePlus = 
+| pregnancy_category = N/A
+| legal_status = Investigational
+| routes_of_administration = 
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion =
+
+<!--Identifiers-->
+| CAS_number = 447406-78-2
+| ATC_prefix = None
+| ATC_suffix = 
+| PubChem = 9805950
+| IUPHAR_ligand = 
+| DrugBank =
+| UNII = 6G973E04VI
+| KEGG = D06647
+| ChEMBL = 2104984
+| ChemSpiderID = 7981710
+
+<!--Chemical data-->
+| C=23 | H=21 | F=4 | N=1 | O=3 | S=2
+| molecular_weight = 
+| smiles = CC1=C(C=CC(=C1)SCC2=C(N=C(S2)C3=C(C=C(C=C3)C(F)(F)F)F)C)OC(C)(C)C(=O)O
+| StdInChI = 1S/C23H21F4NO3S2/c1-12-9-15(6-8-18(12)31-22(3,4)21(29)30)32-11-19-13(2)28-20(33-19)16-7-5-14(10-17(16)24)23(25,26)27/h5-10H,11H2,1-4H3,(H,29,30)
+| StdInChIKey = ZUGQWAYOWCBWGM-UHFFFAOYSA-N
+}}
+
+'''Sodelglitazar''', formerly known as '''GW 677954''', is a thiazole [[Peroxisome proliferator-activated receptor delta|PPARδ]] [[receptor agonist]] developed by [[GlaxoSmithKline]].<ref>{{Cite journal 
+| doi = 10.2174/092986611796378701 
+| last1 = Liu | first1 = X. Y. 
+| last2 = Wang | first2 = R. L. 
+| last3 = Xu | first3 = W. R. 
+| last4 = Tang | first4 = L. D. 
+| last5 = Wang | first5 = S. Q. 
+| last6 = Chou | first6 = K. C. 
+| title = Docking and molecular dynamics simulations of peroxisome proliferator activated receptors interacting with pan agonist sodelglitazar 
+| journal = Protein and peptide letters 
+| volume = 18 
+| issue = 10 
+| pages = 1021–1027 
+| year = 2011 
+| pmid = 21592078
+}}</ref> While it is primarily active at the PPARδ receptor, it is considered a pan agonist with activity at PPARα and PPARγ receptors.<ref>{{cite book|author=Eckhard Ottow, Hilmar Weinmann|title=Nuclear Receptors as Drug Targets|url=https://books.google.com/books?id=iATfLbPgRugC&pg=PA380|accessdate=2 April 2013|year=2008|publisher=Wiley|isbn=978-3-527-31872-8|pages=380–}}</ref>
+
+==Safety==
+Phase 2 studies were terminated prior to completion due to safety findings in [[animal testing on rodents|rodent studies]].<ref>{{cite web|url= http://download.gsk-clinicalstudyregister.com/files/20459.pdf|title= A randomised, double-blind, parallel group, placebo-controlled, multicentre study to evaluate the safety, tolerability and efficacy of oral GW677954 capsules 2.5mg, 5mg, 10mg and 20mg a day for 24 weeks in overweight dyslipidaemic subjects  |publisher=GlaxoSmithKline|date=2013-09-01}}</ref>
+
+==See also==
+* [[Elafibranor]]
+* [[GW0742]]
+* [[GW501516]]
+* [[MBX-8025]]
+* [[Peroxisome proliferator-activated receptor]]
+
+==References==
+{{Reflist|2}}
+
+
+{{PPAR modulators}}
+
+[[Category:PPAR agonists]]
+[[Category:Experimental drugs]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Fluoroarenes]]
+[[Category:Thiazoles]]
+[[Category:Carboxylic acids]]
+
+
+{{pharmacology-stub}}

@@ -1,0 +1,92 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 470472993
+| IUPAC_name = 4-Amino-''N''-(3-methoxypyrazinyl)benzenesulfonamide
+| image = Sulfalene2DCSD.svg
+| width =  
+| alt =  
+| image2 =  
+| width2 =  
+| drug_name = 
+| caption =  
+<!--Clinical data-->
+| tradename = Eadazine, Kelfizina, Kelfizine W, Longum
+| Drugs.com = {{drugs.com|international|sulfametopyrazine}}
+| licence_EU = <!-- EMA requires brand name -->
+| licence_US = <!-- FDA may use generic name -->
+| DailyMedID = <!-- preference to licence_US -->
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| dependency_liability =  
+| routes_of_administration = Oral<ref name="MIMS">{{cite web | url = http://www.cimsasia.com/USA/drug/info/sulfalene/?q=Sulphonamides&type=full | title = Sulfalene | work = MIMS Drug Information System | accessdate = 26 August 2011}}</ref>
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 60 to 80%<ref name="MIMS"/>
+| metabolism =  
+| elimination_half-life = 60 to 65 hours<ref name="MIMS"/>
+| excretion = [[Urine|Urinary]]<ref name="MIMS"/>
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 152-47-6
+| CAS_supplemental =  
+| ATCvet =  
+| ATC_prefix = J01
+| ATC_suffix = ED02
+| ATC_supplemental = {{ATCvet|J01|EQ19}}
+| PubChem = 9047
+| PubChemSubstance =  
+| IUPHAR_ligand =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00664
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 8695
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = T6BL4ZC15G
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01216
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+<!--Chemical data-->
+| C=11 | H=12 | N=4 | O=3 | S=1
+| molecular_weight = 280.304 g/mol
+| SMILES = O=S(=O)(Nc1nccnc1OC)c2ccc(N)cc2
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C11H12N4O3S/c1-18-11-10(13-6-7-14-11)15-19(16,17)9-4-2-8(12)3-5-9/h2-7H,12H2,1H3,(H,13,15)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = KXRZBTAEDBELFD-UHFFFAOYSA-N
+| synonyms = Sulfametopyrazine
+| density =  
+| melting_point =  
+| melting_high =  
+| melting_notes =  
+| boiling_point =  
+| boiling_notes =  
+| solubility =  
+| specific_rotation =  
+| sec_combustion =  
+}}
+
+'''Sulfalene''' ([[International Nonproprietary Name|INN]], [[United States Adopted Name|USAN]]) or '''sulfametopyrazine''' ([[British Approved Name|BAN]]) is a long-acting [[sulfonamide (medicine)|sulfonamide]] [[antibacterial]] used for the treatment of [[chronic bronchitis]], [[urinary tract infection]]s and [[malaria]].<ref name="DrugBank">{{DrugBank|DB00664}}</ref><ref name = MD/> As of 2014 there were only two countries in which it is currently still marketed: [[Thailand]] and [[Ireland]].<ref name = MD>{{cite web|title=Sulfametopyrazine|work=Martindale: The Complete Drug Reference|publisher=Pharmaceutical Press|date=9 May 2013|accessdate=28 March 2014|editor=Brayfield, A|url=http://www.medicinescomplete.com/mc/martindale/current/4920-k.htm}}</ref> 
+
+It was discovered by researchers at [[Farmitalia]] and first published in 1960 and was marketed as Kelfizina.<ref>Baruffa G. Clinical trials in Plasmodium falciparum malaria with a long-acting sulphonamide. Trans R Soc Trop Med Hyg. 1966;60(2):222-4. {{PMID|5332105}} </ref><ref>Per prior citation, the first publication: Camerino B, Palamidessi G (1960) Derivati della parazina II. Sulfonamdopir (in Italian). Gazz Chim Ital 90:1802–1815</ref>
+==See also==
+*[[Sulfadoxine]]
+== References ==
+<references/>
+
+{{Sulfonamides and trimethoprim}}
+
+[[Category:Pyrimidines]]
+[[Category:Sulfonamide antibiotics]]
+[[Category:Antimalarial agents]]
+[[Category:Phenol ethers]]
+
+{{antibiotic-stub}}

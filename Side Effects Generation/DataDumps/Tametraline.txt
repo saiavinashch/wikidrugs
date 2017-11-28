@@ -1,0 +1,225 @@
+{{Unclear citation style|date=February 2014}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 448234115
+| IUPAC_name = (1''R'',4''S'')-''N''-methyl-4-phenyl-1,2,3,4-tetrahydronaphthalen-1-amine
+| image = Tametraline.svg
+| width = 175
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 52760-47-1
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 104180
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 440C8K5Y5K
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 143316
+
+<!--Chemical data-->
+| C=17 | H=19 | N=1 
+| molecular_weight = 237.339 g/mol
+| smiles = CN[C@H](CC1)C(C=CC=C2)=C2[C@H]1C3=CC=CC=C3
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C17H19N/c1-18-17-12-11-14(13-7-3-2-4-8-13)15-9-5-6-10-16(15)17/h2-10,14,17-18H,11-12H2,1H3/t14-,17+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = NVXPZMLRGBVYQV-WMLDXEAASA-N
+}}
+
+'''Tametraline''' ('''CP-24,441''') is the parent of a series of chemical compounds investigated at [[Pfizer]] that eventually led to the development of [[sertraline]] ('''CP-51,974-1''').<ref>{{cite journal | last1 = Koe | first1 = BK | last2 = Weissman | first2 = A | last3 = Welch | first3 = WM | last4 = Browne | first4 = RG | title = Sertraline, 1''S'',4''S''-''N''-Methyl-4-(3,4-Dichlorophenyl)-1,2,3,4-Tetrahydro-1-Naphthylamine, a New Uptake Inhibitor with Selectivity for Serotonin | journal = The Journal of Pharmacology and Experimental Therapeutics | date = September 1983 | volume = 226 | issue = 3 | pages = 686–700 | pmid = 6310078 | url = http://biochem.uvm.edu/courses/files/381_fall_2006_sertraline.pdf | accessdate = 10 August 2016}}</ref>
+
+Sertraline has been called "3,4-dichloro-tametraline". This is correct but it is an oversimplification in the sense that sertraline is the ''S'',''S''-isomer whereas tametraline is the 1''R'',4''S''-stereoisomer.
+
+1''R''-Methylamino-4''S''-phenyl-[[tetralin]] is a potent inhibitor of norepinephrine uptake in rat brain synaptosomes,<ref>{{cite journal | last1 = Koe | first1 = BK | title = Molecular Geometry of Inhibitors of the Uptake of Catecholamines and Serotonin in Synaptosomal Preparations of Rat Brain | journal = The Journal of Pharmacology and Experimental Therapeutics | date = December 1976 | volume = 199 | issue = 3 | pages = 649–61 | pmid = 994022 }}</ref> reverses [[reserpine]] induced hypothermia in mice, and blocks uptake of [[Tritium|<sup>3</sup>H]] into rat heart.<ref>{{cite journal | last1 = Sarges | first1 = R | last2 = Koe | first2 = BK | last3 = Weissman | first3 = A | last4 = Schaefer | first4 = JP | title = Blockade of Heart <sup>3</sup>H-Norepinephrine Up-take by 4-Phenyl-1-Aminotetralines: Implications for the Active Conformation of Imipramine-Like Drugs | journal = The Journal of Pharmacology and Experimental Therapeutics | date = December 1974 | volume = 191 | issue = 3 | pages = 393–402 | pmid = 4427286 }}</ref>
+
+Tametraline is a [[norepinephrine-dopamine reuptake inhibitor]].<ref name=Welch>{{cite journal | last1 = Welch | first1 = WM | last2 = Kraska | first2 = AR | last3 = Sarges | first3 = R | last4 = Koe | first4 = BK | title = Nontricyclic Antidepressant Agents Derived from ''cis''- and ''trans''-1-Amino-4-aryltetralins | journal = Journal of Medicinal Chemistry | date = November 1984 | volume = 27 | issue = 11 | pages = 1508–15 | doi = 10.1021/jm00377a021 | pmid = 6492080 }}</ref>
+
+[[Indatraline]] is an indanamine homolog of tetralin-based tametraline, although in the case of indatraline the product is pm-dichlorinated.
+
+==Chemistry==
+Two routes have been previously described,<ref name=Reinhard>{{cite journal | last1 = Sarges | first1 = RA | title = Synthesis of Phenyl-Substituted 1-Aminotetralines | journal = The Journal of Organic Chemistry | date = May 1975 | volume = 40 | issue = 9 | pages = 1216–24 | doi = 10.1021/jo00897a008 }}</ref> one for [[aryl]] moieties containing electron withdrawing groups, and one for electron donating groups:
+
+[[File:Tametraline Analogs Synthesis.png|800px|thumb|center|Preparation of Tametraline: {{US Patent|4045488}} Reinhard Sarges; [[Pfizer Inc.]] ]]{{clear}}
+
+{{Cite journal| first1 = R. .| title = Synthesis of phenyl-substituted 1-aminotetralines| journal = The Journal of Organic Chemistry| last1 = Sarges| volume = 40| issue = 9| pages = 1216–1224| year = 1975 | doi = 10.1021/jo00897a008}}
+
+"As expected, [[Friedel-Crafts]] [[cyclization]] of the diarylbutyric acid derivatives # to the most reactive ring was observed with little or none of the alternative isomer being detected."
+
+[[File:Tametraline synthesis.png|800px|thumb|center]]{{clear}}
+
+"The [[Potassium permanganate|KMnO<sub>4</sub>]] [[oxidation]] of the 1-aryl-tetralins # was observed to give 4-hydroxy-4-aryltetralones # instead of the expected tetralone # previously reported.<ref name=Reinhard/> As a result of this finding, direct oxidation of [[Grignard reaction]] product # was attempted and found to be a more efficient route."
+
+See also: {{US Patent|4045488}} (and refs therein: {{DOI|10.1021/ja01193a020}} {{DOI|10.1021/ja01183a058}} {{DOI|10.1021/ja01157a130}} {{DOI|10.1021/ja01635a052}})
+
+===''cis''-/''trans''-Ratio===
+In the case of 3,4-dichloro product, approximately 50:50 ''cis''-/''trans''- ratio was achieved, according to the reference.<ref name=Welch/>
+
+===CAN radical induced dimerization of styrene===
+"A facile one-pot synthesis of 1-amino-4-aryl-tetralin derivatives by the [[Ceric ammonium nitrate|CAN]]-induced (see also: [http://www.organic-chemistry.org/chemicals/oxidations/ceriumammoniumnitrate-can.shtm CAN]) [[cyclodimerization]] of various [[styrene]]s in [[acetonitrile]] and [[acrylonitrile]] is described."
+[http://pubs.acs.org/doi/suppl/10.1021/ol0257934/suppl_file/ol0257934_s1.pdf]
+[http://www.organic-chemistry.org/abstracts/literature/609.shtm] {{DOI|10.1021/ol0257934}}
+
+[[File:Tam. Mech.png|500px|thumb|center|one-pot synthesis of 1-amino-4-aryl-tetralin derivatives by the [[Ceric ammonium nitrate|CAN]]-induced [[cyclodimerization]] of various [[styrene]]s in [[acetonitrile]] and [[acrylonitrile]]]]
+
+==Structure-activity relationship==
+Certain aromatic substitutients have a potentiating effect (e.g., ''p''-Br), whereas others negate the compound's intrinsic activity.
+
+It is not right to think of the dimethyl analogs as a "[[prodrug]]" to the monomethylated drugs (cf. [[indatraline]], "31,345"), but it is correct that it is a "[[wikt:latentiated|latentiated]]" form of the drug. This word is from the [[salsalate]] page. This was the reason why [[sertraline]] was made only as monomethylated because apparently according to the orders the 1° amine is inactive therefore the drug would have a shorter duration of activity.
+
+===Enantiopurified ''trans''- and ''cis''-aminotetraline derivatives===
+[[File:31,345 structure.svg|thumb|left|200px|'''"31,345"''' structure:<ref>{{cite journal | last1 = Peng | first1 = XQ | last2 = Xi | first2 = ZX | last3 = Li | first3 = X | last4 = Spiller | first4 = K|last5 = Li | first5 = J | last6 = Chun | first6 = L | last7 = Wu | first7 = KM | last8 = Froimowitz | first8 = M | last9 = Gardner | first9 = EL | title = Is Slow-Onset Long-Acting Monoamine Transport Blockade to Cocaine as Methadone is to Heroin? Implication for Anti-Addiction Medications | journal = Neuropsychopharmacology | date = December  2010 | volume = 35 | issue = 13 | pages = 2564–78 | doi = 10.1038/npp.2010.133 | pmid = 20827272 | pmc = 2978747}}</ref>]]
+{| class="wikitable"
+| colspan="8" | Enantiopurified 4-aryl-aminotetralins [[IC50|IC<sub>50</sub>]] (''μ''M)
+|-
+|Stereo||'''X''' || '''Y''' || {{Abbr|NE|Norepinephrine}}
+||{{Abbr|DA|Dopamine}} ||{{Abbr|5-HT|Serotonin}}
+|-
+|''RS''||{{color|red|'''H'''}} ||{{color|red|'''H'''}} ||0.018||0.15||0.84
+|-
+|''SR''||H||H||0.37||1.40||14.00
+|-
+|''RS''||Cl||H||0.019||0.052||0.084
+|-
+|''SR''||Cl||H||0.46||1.40||3.50
+|-
+|''RS''||{{color|lime|'''Cl'''}}||{{color|lime|'''Cl'''}}||0.01||0.044||0.039
+|-
+|''SR''||Cl||Cl||0.044||0.27||0.47
+|-
+|''SS''||Cl||Cl||1.20||1.30||0.06
+|-
+|''RR''||Cl||Cl||0.30||0.32||0.46
+|}
+
+Interestingly, (±)-sertraline is not entirely [[Serotonin transporter|SERT]] selective until it has been resolved into the ''S'',''S''-enantiomer.
+
+In terms of the ''trans-'' isomers there is relatively marked separation in the activity between the ''R'',''S''- and ''S'',''R''-enantiomers. This stands in contrast to what has been observed in the homologous indamine class where both of the ''trans-'' enantiomers possessed significant [[Triple reuptake inhibitor|TRI]] activity at all three of the monoamine transporters.
+
+===Racemic ''cis-'' and ''trans''-aminotetraline derivatives===
+{{col-begin|width=auto}}
+{{col-break}}
+{| class="wikitable"
+| colspan=8 | Racemic ''trans'' 4-aryl-aminotetralins IC<sub>50</sub> (μM)
+|-
+|R<sub>1</sub>||R<sub>2</sub>||'''X''' || '''Y''' || NE||DA ||5-HT
+|-
+|H||CH<sub>3</sub>||{{color|red|'''H'''}} ||{{color|red|'''H'''}} ||0.04||0.21||1.48
+|-
+|H||CH<sub>3</sub>||F||H||0.03||0.22||0.58
+|-
+|H||CH<sub>3</sub>||Cl||H||0.03||0.10||0.12
+|-
+|H||CH<sub>3</sub>||Br||H||0.03||0.08||0.09
+|-
+|H||CH<sub>3</sub>||CF<sub>3</sub>||H||0.69||4.4||0.43
+|-
+|H||CH<sub>3</sub>||H||CF<sub>3</sub>||0.26||2.60||0.39
+|-
+|H||CH<sub>3</sub>||OCH<sub>3</sub>||H||0.15||0.40||0.38
+|-
+|H||CH<sub>3</sub>||Cl||Cl||0.02||0.06||0.05
+|-
+|CH<sub>3</sub>||CH<sub>3</sub>||H||H||0.14||0.84||0.46
+|-
+|CH<sub>3</sub>||CH<sub>3</sub>||Cl||H||0.13||0.38||0.12
+|-
+|CH<sub>3</sub>||CH<sub>3</sub>||Cl||Cl||0.04||0.17||0.04
+|}
+{{col-break|gap=1em}}
+{| class="wikitable"
+| colspan=7 | Racemic ''cis'' 4-aryl-aminotetralins IC<sub>50</sub> (μM)
+|-
+|R<sub>1</sub>||R<sub>2</sub>||'''X'''||'''Y'''||5-HT||DA||NE
+|-
+|H||CH<sub>3</sub>||H||H||3.50||5.10||1.86
+|-
+|H||CH<sub>3</sub>||F||H||1.70||4.70||2.30
+|-
+|H||CH<sub>3</sub>||Cl||H||0.26||1.38||1.41
+|-
+|H||CH<sub>3</sub>||Br||H||0.19||1.60||1.40
+|-
+|H||CH<sub>3</sub>||CF<sub>3</sub>||H||0.82||7.80||9.80
+|-
+|H||CH<sub>3</sub>||H||CF<sub>3</sub>||0.25||2.54||2.55
+|-
+|H||CH<sub>3</sub>||OCH<sub>3</sub>||H||0.70||4.20||3.00
+|-
+|H||CH<sub>3</sub>||Cl||Cl||0.07||0.52||0.72
+|-
+|CH<sub>3</sub>||CH<sub>3</sub>||H||H||1.6||10.0||0.31
+|-
+|CH<sub>3</sub>||CH<sub>3</sub>||Cl||H||0.24||5.60||1.16
+|-
+|CH<sub>3</sub>||CH<sub>3</sub>||Cl||Cl||0.07||2.00||0.40
+|-
+|H||H||Cl||Cl||0.40||1.25||0.25
+|}
+{{col-end}}
+
+The primary amines are claimed to completely lack any affinity for the transporters.
+
+==See also==
+{| class="wikitable" align="left"
+|-
+! [[Dimefadane]]<ref>{{Cite journal | doi = 10.1039/JR9560002928| title = 570. Compounds of potential pharmacological interest. Part IV. Aryl and alkyl derivatives of 1-aminoindane| journal = Journal of the Chemical Society (Resumed)| pages = 2928| year = 1956| last1 = Barltrop | first1 = J. A.| last2 = Acheson | first2 = R. M.| last3 = Philpott | first3 = P. G.| last4 = MacPhee | first4 = K. E.| last5 = Hunt | first5 = J. S.}}</ref> !! [[Indriline]]<ref>A. Kandel and P, M. Lish, {{Cite patent|BE|667739}} (1966).</ref><ref>eidem {{US patent|3360435}}</ref>
+|-
+| [[File:Dimefadane.svg|175px]] || [[File:Indriline.svg|175px]]
+|}
+{{clear left}}
+* CP-24,441 (1''R'',4''S''-''N''-methyl-4-phenyl-1,2,3,4-tetrahydro-1-naphthylamine)
+* CP-39,332 (''N''-methyl-4-phenyl-1,2,3,4-tetrahydro-2-naphthylamine)
+* [[Cyproheptadine]] [4-(5''H''-dibenz-[a,d]cyclohepten-5-ylidine)-1-methylpiperidine]
+* [[Dasotraline]]
+* [[Desmethylsertraline]]
+* [[EXP-561]] (1-amino-4-phenylbicyclo[2.2.2]octane)
+* [[JNJ-7925476]]
+* [[Lometraline]]
+* [[Nefopam]]
+* [[Sertraline]]
+
+Sepracor has tried to patent the ''trans-'' dichloro analog {{US patent|7105699}}.
+
+==External links==
+*http://www.healyprozac.com/Book/Introduction.doc 
+*http://www.zoominfo.com/people/Koe_Ken_594418650.aspx 
+ 
+<small>During his 40 years at Pfizer, Koe authored more than 100 articles and papers.
+...
+Koe learned to review previous studies and to build on findings that had failed to lead to successful products. In his early work with serotonin, for example, he studied the chemical tametraline, which proved ineffective as an anti-depressant.
+
+Tests showed the chemical functioned more as a stimulant, a use Pfizer was not interested in pursuing. Although his research had failed to yield the desired result, Koe was convinced that the development of a viable anti-depressant was within reach.</small>
+
+==References==
+{{Reflist}}
+
+{{Stimulants}}
+{{Monoamine reuptake inhibitors}}
+
+[[Category:Amines]]
+[[Category:Norepinephrine-dopamine reuptake inhibitors]]
+[[Category:Pfizer]]
+[[Category:Stimulants]]
+[[Category:Tetralins]]

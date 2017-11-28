@@ -1,0 +1,70 @@
+{{Drugbox
+| IUPAC_name = (9''S'',10''R'',11''R'',13''R'')-2,3,10,11,12,13-Hexahydro-10-methoxy-9-methyl-11-(methylamino)-9,13-epoxy-1''H'',9''H''-diindolo[1,2,3-gh:3',2',1'-lm]pyrrolo[3,4-j][1,7]benzodiamzonine-1-one
+| image = Midostaurin skeletal.svg
+| width = 180px
+| image2 = Midostaurin molecule ball.png
+| width2 = 220
+| alt2 = Ball-and-stick model of the midostaurin molecule
+
+<!--Clinical data-->
+| tradename = Rydapt
+| Drugs.com = {{Drugs.com|parent|rydapt}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = Rx-only
+| legal_status = 
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5702
+| CAS_number = 120685-11-2
+| ATC_prefix = L01
+| ATC_suffix = XE39
+| PubChem = 9829523
+| DrugBank = DB06595
+| ChEMBL = 608533
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = ID912S5VON
+| synonyms = PKC412, 4'-''N''-benzoylstaurosporine
+| ChemSpiderID = 8005258
+| KEGG = D05029
+
+<!--Chemical data-->
+| C=35 | H=30 | N=4 | O=4 
+| molecular_weight = 570.637 g/mol
+| smiles = C[C@@]12[C@@H]([C@@H](C[C@@H](O1)N3C4=CC=CC=C4C5=C6C(=C7C8=CC=CC=C8N2C7=C53)CNC6=O)N(C)C(=O)C9=CC=CC=C9)OC
+| StdInChI = 1S/C35H30N4O4/c1-35-32(42-3)25(37(2)34(41)19-11-5-4-6-12-19)17-26(43-35)38-23-15-9-7-13-20(23)28-29-22(18-36-33(29)40)27-21-14-8-10-16-24(21)39(35)31(27)30(28)38/h4-16,25-26,32H,17-18H2,1-3H3,(H,36,40)/t25-,26-,32-,35+/m1/s1
+| StdInChIKey = BMGQWWVMWDBQGC-IIFHNQTCSA-N
+}}
+
+'''Midostaurin''' (sold under the name '''Rydapt''') is a multi-targeted [[protein kinase inhibitor]] that has been investigated for the treatment of [[acute myeloid leukemia]] (AML), [[myelodysplastic syndrome]] (MDS) and advanced [[systemic mastocytosis]]. It is a semi-synthetic derivative of [[staurosporine]], an [[alkaloid]] from the bacterium ''[[Streptomyces]]'''' staurosporeus.''
+
+== AML and MDS ==
+Midostaurin was found to be active against oncogenic [[CD135]] (FMS-like tyrosine kinase 3 receptor, FLT3), in preclinical studies.<ref>{{cite journal |doi=10.1016/S1535-6108(02)00069-7 |pmid=12124173 |title=Inhibition of mutant FLT3 receptors in leukemia cells by the small molecule tyrosine kinase inhibitor PKC412 |journal=Cancer Cell |volume=1 |issue=5 |pages=433–43 |year=2002 |last1=Weisberg |first1=Ellen |last2=Boulton |first2=Christina |last3=Kelly |first3=Louise M |last4=Manley |first4=Paul |last5=Fabbro |first5=Doriano |last6=Meyer |first6=Thomas |last7=Gilliland |first7=D.Gary |last8=Griffin |first8=James D }}</ref> Clinical trials have primarily focused on relapsed/[[Refractory disease|refractory]] AML and MDS and have included single agent and combination agent studies. After successful Phase II [[clinical trial]]s, midostaurin was found to significantly prolong survival of FLT3-mutated AML patients when combined with conventional [[induction therapy|induction]] and consolidation therapies in a randomized Phase III clinical trial.<ref>{{cite conference |last1=Stone |first1=Richard M. |last2=Mandrekar |first2=Sumithra |last3=Sanford |first3=Ben L |last4=Geyer |first4=Susan |last5=Bloomfield |first5=Clara D. |last6=Dohner |first6=Konstanze |last7=Thiede |first7=Christian |last8=Marcucci |first8=Guido |last9=Lo-Coco |first9=Francesco |last10=Klisovic |first10=Rebecca B. |last11=Wei |first11=Andrew |last12=Sierra |first12=Jorge |last13=Sanz |first13=Miguel A.; et al |title=The multi-kinase inhibitor midostaurin (M) prolongs survival compared with placebo (P) in combination with daunorubicin (D)/cytarabine (C) induction (ind), high-dose C consolidation (consol), and as maintenance (maint) therapy in newly diagnosed acute myeloid leukemia (AML) patients (pts) age 18–60 with FLT3 mutations (muts): An international prospective randomized (rand) P-controlled double-blind trial (CALGB 10603/RATIFY [Alliance]) |conference=American Society of Hematology (ASH) 57th Annual Meeting |date=December 2015 |location=Orlando |url=https://ash.confex.com/ash/2015/webprogramscheduler/Paper80269.html }}</ref> On April 28, 2017, midostaurin was approved by the FDA for the treatment of adult patients with newly diagnosed AML who are positive for oncogenic FLT3, in combination with chemotherapy.<ref>{{Cite web|url=https://www.fda.gov/newsevents/newsroom/pressannouncements/ucm555778.htm|title=Press Announcements - FDA approves new combination treatment for acute myeloid leukemia|last=Commissioner|first=Office of the|website=www.fda.gov|language=en|access-date=2017-05-04}}</ref> The drug is approved for use with a companion diagnostic, the LeukoStrat CDx FLT3 Mutation Assay, which is used to detect the FLT3 mutation in patients with AML.
+
+== Systemic mastocytosis ==
+Over 95% of patients with adult onset systemic [[mastocytosis]] and approximately 40% of children with [[cutaneous]] mastocytosis are positive for the D816V [[c-Kit]] activating mutation, which renders c-Kit resistant to currently available tyrosine kinase inhibitors. Midostaurin is an investigational treatment in patients with advanced forms of systemic mastocytosis and D816V c-Kit mutation with a subset of patients achieving clinical response. In an [[open-label study]] of patients with mastocytosis-related organ damage (89 eligible patients meeting inclusion for the primary efficacy population), midostaurin showed efficacy in patients with advanced systemic mastocytosis, including the highly fatal variant [[mast cell leukemia]].<ref>{{cite journal |doi=10.1056/nejmoa1513098 |pmid=27355533 |title=Efficacy and Safety of Midostaurin in Advanced Systemic Mastocytosis |journal=New England Journal of Medicine |volume=374 |issue=26 |pages=2530–41 |year=2016 |last1=Gotlib |first1=Jason |last2=Kluin-Nelemans |first2=Hanneke C. |last3=George |first3=Tracy I. |last4=Akin |first4=Cem |last5=Sotlar |first5=Karl |last6=Hermine |first6=Olivier |last7=Awan |first7=Farrukh T. |last8=Hexner |first8=Elizabeth |last9=Mauro |first9=Michael J. |last10=Sternberg |first10=David W. |last11=Villeneuve |first11=Matthieu |last12=Huntsman Labed |first12=Alice |last13=Stanek |first13=Eric J. |last14=Hartmann |first14=Karin |last15=Horny |first15=Hans-Peter |last16=Valent |first16=Peter |last17=Reiter |first17=Andreas }}</ref>
+
+== Side effects ==
+Common side effects include immune system related problems (fever, [[febrile neutropenia]]), [[blood clotting]] problems (bruising, nosebleed), and unspecific symptoms such as diarhhoea, [[nausea]] and headache. [[Upper respiratory tract infection]]s can be dangerous.<ref>[[Drugs.com]]: {{Drugs.com|parent|rydapt}} overview.</ref>
+
+==References==
+{{Reflist}}
+
+{{Cytokine receptor modulators}}
+
+[[Category:Protein kinase inhibitors]]
+[[Category:Alkaloids]]
+[[Category:Lactams]]
+[[Category:Indolocarbazoles]]

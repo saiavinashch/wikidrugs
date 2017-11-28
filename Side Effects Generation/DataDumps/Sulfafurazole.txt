@@ -1,0 +1,76 @@
+{{ref improve|date=August 2014}}
+{{confused|sulfadiazine}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 408901459
+| IUPAC_name = 4-Amino-''N''-(3,4-dimethyl-1,2-oxazol-5-yl)benzenesulfonamide
+| image = Sulfafurazole.svg
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|international|sulfafurazole}}
+| MedlinePlus = a601049
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category = To be avoided within two months of term
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion = Excreted unchanged in urine
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 127-69-5
+| ATC_prefix = J01
+| ATC_suffix = EB05
+| ATC_supplemental =  {{ATC|S01|AB02}} {{ATCvet|J01|EQ05}}
+| PubChem = 5344
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB00263
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 740T4C525W
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00450
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 453
+|  ChemSpiderID = 5151
+
+
+<!--Chemical data-->
+| C=11 | H=13 | N=3 | O=3 | S=1 
+| molecular_weight = 267.30 g/mol
+| smiles = CC1=C(ON=C1C)NS(=O)(=O)C2=CC=C(C=C2)N
+|  StdInChI = 1S/C11H13N3O3S/c1-7-8(2)13-17-11(7)14-18(15,16)10-5-3-9(12)4-6-10/h3-6,14H,12H2,1-2H3
+|  StdInChIKey = NHUHCSRWZMLRLA-UHFFFAOYSA-N
+| melting_point     = 194
+}}
+
+'''Sulfafurazole''' ([[International Nonproprietary Name|INN]], also known as '''sulfisoxazole''') is a [[sulfonamide (medicine)|sulfonamide]] [[antibacterial]] with an [[oxazole]] substituent. It has antibiotic activity against a wide range of [[Gram-negative bacteria|Gram-negative]] and [[Gram-positive bacteria|Gram-positive]] organisms.  It is sometimes given in combination with [[erythromycin]] (see [[erythromycin/Sulfafurazole]]) or [[phenazopyridine]]. It is used locally in a 4% solution or ointment.
+
+==See also==
+*[[Sulfamethoxazole]]
+*[[Sulfapyridine]]
+
+==External links==
+* {{MeshName|Sulfisoxazole}}
+* {{MedlinePlusDrugInfo|medmaster|a601049}}
+* {{MedlinePlusDrugInfo|medmaster|a601115}}
+* {{DiseasesDB|30455}}
+
+{{Sulfonamides and trimethoprim}}
+{{Xenobiotic-sensing receptor modulators}}
+
+[[Category:Sulfonamide antibiotics]]
+[[Category:Isoxazoles]]
+
+{{antibiotic-stub}}

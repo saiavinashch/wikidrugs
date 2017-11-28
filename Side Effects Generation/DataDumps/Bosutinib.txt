@@ -1,0 +1,183 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 477373749
+| IUPAC_name = 4-[(2,4-dichloro-5-methoxyphenyl)amino]-6-methoxy-7-[3-(4-methylpiperazin-1-yl)propoxy]quinoline-3-carbonitrile
+| image = Bosutinib2DACS.svg
+| width = 270px
+| image2 = Bosutinib3Dan2.gif
+| width2 = 240px
+
+<!--Clinical data-->
+| tradename = Bosulif
+| licence_EU = Bosulif
+| licence_US = Bosutinib
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = D
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = POM
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 94–96%
+| metabolism = By [[CYP3A4]], to inactive metabolites
+| elimination_half-life = 22.5±1.7 hours
+| excretion = Foecal (91.3%) and renal (3%)
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5710
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 380843-75-4
+| ATC_prefix = L01
+| ATC_suffix = XE14
+| ATC_supplemental =  
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 39112
+| PubChem = 5328940
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 5018V4AEZ0
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 288441
+|  ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4486102
+| KEGG = D03252
+|  smiles = Clc1c(OC)cc(c(Cl)c1)Nc4c(C#N)cnc3cc(OCCCN2CCN(CC2)C)c(OC)cc34
+|  StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C26H29Cl2N5O3/c1-32-6-8-33(9-7-32)5-4-10-36-25-13-21-18(11-24(25)35-3)26(17(15-29)16-30-21)31-22-14-23(34-2)20(28)12-19(22)27/h11-14,16H,4-10H2,1-3H3,(H,30,31)
+|  StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = UBPYILGKFZZVDX-UHFFFAOYSA-N
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=26 | H=29 | Cl=2 | N=5 | O=3 
+| molecular_weight = 530.446 g/mol
+}}
+
+'''Bosutinib''' ([[International Nonproprietary Name|rINN]]/[[United States Adopted Name|USAN]]; codenamed SKI-606, marketed under the trade name '''Bosulif''') is a [[tyrosine kinase inhibitor]] undergoing research for use in the treatment of cancer.<ref>{{cite journal | last1 = Puttini | first1 = M | last2 = Coluccia | first2 = AM | last3 = Boschelli | first3 = F | last4 = Cleris | first4 = L | last5 = Marchesi | first5 = E | last6 = Donella-Deana | first6 = A | last7 = Ahmed | first7 = S | last8 = Redaelli | first8 = S | last9 = Piazza | first9 = R | last10 = Magistroni | first10 = V | last11 = Andreoni | first11 = F | last12 = Scapozza | first12 = L | last13 = Formelli | first13 = F | last14 = Gambacorti-Passerini | first14 = C | date = Dec 2006 | title = In vitro and in vivo activity of SKI-606, a novel Src-Abl inhibitor, against imatinib-resistant Bcr-Abl+ neoplastic cells | url = | journal = Cancer Res. | volume = 66 | issue = 23| pages = 11314–22 | doi=10.1158/0008-5472.can-06-1199 | pmid=17114238}}</ref><ref name="pmid18483306">{{cite journal|vauthors=Vultur A, Buettner R, Kowolik C |title=SKI-606 (bosutinib), a novel Src kinase inhibitor, suppresses migration and invasion of human breast cancer cells |journal=Mol. Cancer Ther. |volume=7 |issue=5|pages=1185–94 |date=May 2008 |pmid=18483306|doi=10.1158/1535-7163.MCT-08-0126 |url=http://mct.aacrjournals.org/cgi/pmidlookup?view=long&pmid=18483306 |pmc=2794837|display-authors=etal}}</ref> 
+Originally synthesized by [[Wyeth]], it is being developed by [[Pfizer]].
+
+==Medical uses==
+
+Bosutinib received US [[Food and Drug Administration|FDA]] and EU [[European Medicines Agency]] approval on September 4, 2012 and 27 March 2013 respectively for the treatment of adult patients with [[Philadelphia chromosome]]-positive (Ph+) [[chronic myelogenous leukemia]] (CML) with resistance, or intolerance to prior therapy.<ref>{{cite journal|author1=Cortes, JE |author2=Kantarjian, HM |author3=Brümmendorf, TH |author4=Kim, DW |author5=Turkina, AG |author6=Shen, ZX |author7=Pasquini, R |author8=Khoury, HJ |author9=Arkin, S |author10=Volkert, A |author11=Besson, N |author12=Abbas, R |author13=Wang, J |author14=Leip, E |author15=Gambacorti-Passerini, C |title=Safety and efficacy of bosutinib (SKI-606) in chronic phase Philadelphia chromosome-positive chronic myeloid leukemia patients with resistance or intolerance to imatinib|journal=Blood|date=October 2011|volume=118|issue=17|pages=4567–76|doi=10.1182/blood-2011-05-355594|pmid=21865346|url=http://bloodjournal.hematologylibrary.org/content/118/17/4567.full.pdf|format=PDF |pmc=4916618}}</ref><ref>{{cite journal|author1=Cortes, JE |author2=Kim, DW |author3=Kantarjian, HM |author4=Brümmendorf, TH |author5=Dyagil, I |author6=Griskevicus, L |author7=Malhotra, H |author8=Powell, C |author9=Gogat, K |author10=Countouriotis, AM |author11=Gambacorti-Passerini, C |title=Bosutinib Versus Imatinib in Newly Diagnosed Chronic-Phase Chronic Myeloid Leukemia: Results From the BELA Trial|journal=Journal of Clinical Oncology|date=October 2012|volume=30|issue=28|pages=3486–3492|url=http://jco.ascopubs.org/content/30/28/3486.full.pdf|format=PDF|doi=10.1200/JCO.2011.38.7522|pmid=22949154 |pmc=4979199}}</ref><ref>{{cite news |url=http://www.empr.com/bosulif-approved-for-previously-treated-philadelphia-chromosome-positive-chronic-myelogenous-leukemia/article/257548/ |title=Bosulif Approved for Previously Treated Philadelphia Chromosome-Positive Chronic Myelogenous Leukemia|date=5 Sep 2012 }}</ref><ref>{{cite web|title=Bosulif : EPAR - Product Information|work=European Medicines Agency|publisher=Pfitzer Ltd|date=9 April 2013|accessdate=3 January 2014|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/002373/WC500141721.pdf|format=PDF}}</ref>
+
+==Adverse effects==
+
+'''<big>Adverse effects by incidence:</big>'''<ref name = EMC>{{cite web|title=Bosulif 100mg and 500mg Tablets - Summary of Product Characteristics (SPC)|work=electronic Medicines Compendium|publisher=Pfitzer Limited|date=7 June 2013|accessdate=3 January 2014|url=http://www.medicines.org.uk/emc/medicine/27795/SPC/Bosulif+100mg+and+500mg+Tablets/}}</ref><br>
+'''Very common (>10% frequency):'''
+{{colbegin|4}}
+* Diarrhoea (~82%)
+* Nausea
+* [[Myelosuppression]]<ref group = Note>Including thrombocytopaenia, anaemia, neutropaenia and leucopaenia.</ref>
+* Vomiting (~37%)
+* Abdominal pain
+* Raised [[alanine aminotransferase|ALT]]
+* Raised [[aspartate aminotransferase|AST]]
+* Rash
+* Arthralgia (joint pain)
+* Fever
+* Oedema
+* Fatigue
+* Cough
+* Headache
+* Reduced appetite
+* Respiratory tract infection<ref group = Note>Including: pneumonia, bronchitis and influenza</ref>
+{{colend}}
+
+'''Common (1-10% frequency):'''
+{{colbegin|3}}
+* Drug hypersensitivity
+* Dehydration
+* [[Hyperkalaemia]] (high blood potassium)
+* [[Hypophosphataemia]] (low blood phosphate)
+* Dizziness
+* [[Dysgeusia]] (distorted sense of taste)
+* Pericardial effusion
+* Pleural effusion
+* [[QT interval]] prolongation
+* Shortness of breath
+* [[Gastritis]] (stomach swelling)
+* Hepatotoxicity (liver dysfunction/damage)
+* Abnormal [[liver function tests|LFTs]]
+* Elevated blood bilirubin levels
+* [[Gamma-glutamyltransferase|GGT]] increased
+* Acne
+* Itchiness
+* Hives
+* Myalgia (muscle aches)
+* Back pain
+* Kidney failure
+* Chest pain
+* Pain
+* Muscle weakness
+* Increased [[lipase]]
+* Increased blood [[creatinine]]
+* Increased blood [[amylase]] level
+* Elevated blood [[creatine phosphokinase]]
+{{colend}}
+
+'''Uncommon (0.1-1% frequency):'''
+{{colbegin|4}}
+* [[Agranulocytosis]]
+* [[Anaphylactic reaction]]s
+* [[Tinnitus]] (ringing in the ears)
+* [[Pericarditis]]
+* Respiratory failure
+* Acute pulmonary oedema
+* [[Pulmonary hypertension]]
+* Acute [[pancreatitis]]
+* Gastrointestinal haemorrhage
+* Liver injury
+* [[Erythema multiforme]]
+* [[Erythroderma]]
+* Drug eruption
+* Acute kidney failure
+* Renal impairment
+{{colend}}
+
+===Contraindications===
+
+Bosutinib has two known absolute contraindications, which are: known hypersensitivity to bosutinib and liver impairment.<ref name =EMC/><ref name = DM>{{cite web|title=BOSULIF (bosutinib monohydrate) tablet, film coated [Pfizer Laboratories Div Pfizer Inc]|work=DailyMed|publisher=Pfitzer Inc|date=September 2013|accessdate=3 January 2014|url=http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=adc84ad5-a04d-4fee-9ba8-91f7abd928e3}}</ref>
+
+===Interactions===
+
+Bosutinib is both a substrate and an inhibitor of [[P-glycoprotein]] (P-gp) and [[CYP3A4]].<ref name = MSR/> Hence P-gp and CYP3A4 inhibitors may increase plasma levels of bosutinib.<ref name = MSR>{{cite web|title=Bosulif (bosutinib) dosing, indications, interactions, adverse effects, and more|work=Medscape Reference|publisher=WebMD|accessdate=3 January 2014|url=http://reference.medscape.com/drug/bosulif-bosutinib-999770#showall}}</ref> Likewise CYP3A4 inducers may reduce plasma concentrations of bosutinib.<ref name = MSR/> It may also alter the metabolism and uptake (into the GIT by means of its P-gp inhibitory effects) of other drugs that are substrates for P-gp and CYP3A4.<ref name = MSR/>
+
+===Carcinogenicity and mutagenicity===
+Animal studies using up to three-times the clinical exposure (in terms of AUC) to bosutinib have failed to demonstrate any carcinogenic effects.<ref name = DM/> Mutagenic and clastogenic effects were not detected ''in vitro''.<ref name = DM/>
+
+==Mechanism of action==
+It is an ATP-competitive [[Bcr-Abl tyrosine-kinase inhibitor]] with an additional inhibitory effect on [[Src family kinase|SRc family kinases]] (including Src, Lyn and Hck).<ref name = MSR/><ref>{{cite journal|title=Phase I study of bosutinib, a src/abl tyrosine kinase inhibitor, administered to patients with advanced solid tumors|journal=Clinical Cancer Research|date=February 2012|author1=Daud, AI |author2=Krishnamurthi, SS |author3=Saleh, MN |author4=Gitlitz, BJ |author5=Borad, MJ |author6=Gold, PJ |author7=Chiorean, EG |author8=Springett, GM |author9=Abbas, R |author10=Agarwal, S |author11=Bardy-Bouxin, N |author12=Hsyu, PH |author13=Leip, E |author14=Turnbull, K |author15=Zacharchuk, C |author16=Messersmith, WA |doi=10.1158/1078-0432.CCR-11-2378|pmid=22179664|url=http://clincancerres.aacrjournals.org/content/18/4/1092.full.pdf|format=PDF|volume=18|issue=4|pages=1092–100}}</ref> Bosutinib inhibited 16 of 18 imatinib-resistant forms of Bcr-Abl expressed in murine myeloid cell lines, but did not inhibit T315I and V299L mutant cells.<ref name =MSR/>
+
+==Quality issues==
+
+Some commercial stocks of bosutinib (from sources other than the Pfizer material used for clinical trials) have recently been found to have the incorrect chemical structure, calling the biological results obtained with them into doubt.<ref>[http://blogs.sciencemag.org/pipeline/archives/2012/05/14/bosutinib_dont_believe_the_label Derek Lowe, In The Pipeline (blog), "Bosutinib: Don't Believe the Label!"]</ref>
+
+==Notes==
+{{reflist|group = Note}}
+
+==See also==
+*[[Discovery and development of Bcr-Abl tyrosine kinase inhibitors]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* http://www.eurekalert.org/pub_releases/2007-12/uotm-epi120707.php
+* http://professional.cancerconsultants.com/oncology_main_news.aspx?id=39941
+
+{{Extracellular chemotherapeutic agents}}
+
+[[Category:Non-receptor tyrosine kinase inhibitors]]
+[[Category:Piperazines]]
+[[Category:Phenol ethers]]
+[[Category:Quinolines]]
+[[Category:Nitriles]]
+[[Category:Anilines]]
+[[Category:Chloroarenes]]

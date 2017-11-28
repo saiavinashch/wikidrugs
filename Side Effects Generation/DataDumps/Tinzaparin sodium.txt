@@ -1,0 +1,88 @@
+{{Use dmy dates|date=July 2015}}
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 409349221
+| IUPAC_name =
+| image = Tinzaparin.svg
+| caption = n = 1 to 25, R = H or SO<sub>3</sub>Na, R<sup>1</sup> = H, SO<sub>3</sub>Na or COCH<sub>3</sub>, R<sup>2</sup> = H and R<sup>3</sup> = COONa or R<sup>2</sup> = COONa and R<sup>3</sup> = H
+
+<!--Clinical data-->
+| tradename =innohep(R)
+| Drugs.com = {{drugs.com|monograph|tinzaparin_sodium}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!--             / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =
+| routes_of_administration = subcutaneous (once daily)
+
+<!--Pharmacokinetic data-->
+| bioavailability = 90% for Anti-Xa activity, 67% for Anti-IIa activity)<ref>Cheer S.M. et al. Drugs 2004; 64 (13): 1479–1502''</ref>
+| protein_bound =
+| metabolism = minor metabolisation in liver by desulfation and/or depolymerization; excretion via kidneys in almost unchanged form
+| elimination_half-life = 200 min. for Anti-Xa activity, 257. min for Anti-IIa activity <ref>Pedersen P.C. et al. Thromb Res 1991; 61 (5-6): 477-487''</ref>
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|CAS}}
+| CAS_number =  9041-08-1
+| CAS_supplemental = (sodium salt)
+| ATC_prefix = B01
+| ATC_suffix = AB10
+| PubChem =
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 3S182ET3UA
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D06398
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201414
+| ChemSpiderID      = none
+
+<!--Chemical data-->
+| chemical_formula =
+| molecular_weight = 6500 g/mol (average)<ref>''European Pharmacopoeia, 6th Edition, 2008''</ref>
+}}
+
+'''Tinzaparin''' is an [[antithrombotic]] drug in the [[heparin]] group. It is a [[low molecular weight heparin]] (LMWH) marketed as '''Innohep''' worldwide. It has been approved by the [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]] (FDA) for once daily treatment and prophylaxis of [[deep vein thrombosis]] and [[pulmonary embolism]].<ref>Hull et al. NEJM 1992;326,15:975-982''</ref>  
+
+It can be given [[Subcutaneous injection|subcutaneous]]ly by [[syringe]], or [[intravenously]].<ref>Farmaceutiska Specialiteter i Sverige - the Swedish official drug catalog. [http://www.fass.se Fass.se] > Innohep</ref>
+It was manufactured by Leo pharmaceutical company, who withdrew the product from the US in 2011 due to low sales and a contamination issue.<ref>http://www.ashp.org/menu/DrugShortages/DrugsNoLongerAvailable/Bulletin.aspx?id=749</ref>
+
+==Use in elderly==
+In July 2008, the company revised the prescribing information to restrict the use of tinzaparin in patients 90 years of age or older. FDA is concerned that the preliminary data from the IRIS study suggests that the increased risk of mortality is not limited only to patients 90 years of age or older.
+
+According to the study Innohep increases the risk of death for elderly patients (i.e., 70 years of age and older) with renal insufficiency. Healthcare professionals should consider the use of alternative treatments to Innohep when treating elderly patients over 70 years of age with renal insufficiency and DVT, PE, or both.
+
+==Use in pregnancy==
+No LMWH, except tinzaparin, is licensed for use in [[gestational hypercoagulability]].<ref name=nhs>[http://www.nnuh.nhs.uk/viewdoc.asp?ID=265&t=TrustDoc] ''Therapeutic anticoagulation in pregnancy.'' Norfolk and Norwich University Hospital (NHS Trust). Reference number CA3017. 9 June 2006 [review June 2009]</ref> Still, tinzaparin is often the LMWH of choice in pregnant women.<ref name=nhs/>
+
+==Side effects==
+Bleeding in overdose. There is occasionally bruising at the site of injection.
+
+==Monitoring==
+Tinzaparin does ''not'' affect the international normalized ratio (INR), prothrombin time (PT).{{Citation needed|date=September 2011}} Anti-factor Xa levels can be measured, and are often used to monitor tinzaparin.
+
+==Reversal agent==
+Protamine sulfate will reverse Tinzaparin by 85% per package insert.
+
+==References==
+{{reflist}}
+* (22)ESHRE April-2011 volume 33 pages 12–13-14
+* e-medicine 2011
+* RCOG March-2010 (Royal college for Obestetric and Gynecology)
+* DVT.org/cardiologist
+* Hull, New England Journal of Medicine, 2010 volume 22 page 19
+
+==External links==
+* {{MeshName|tinzaparin}}
+* {{cite journal  |vauthors=Sprigg N, Gray LJ, Bath PM, etal |title=Early recovery and functional outcome are related with causal stroke subtype: data from the tinzaparin in acute ischemic stroke trial |journal=Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association |volume=16 |issue=4 |pages=180–4 |year=2007 |pmid=17689415 |doi=10.1016/j.jstrokecerebrovasdis.2007.02.003}}
+
+{{Antithrombotics}}
+
+[[Category:Heparins]]

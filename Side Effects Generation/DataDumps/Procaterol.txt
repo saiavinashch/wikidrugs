@@ -1,0 +1,83 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 443406123
+| IUPAC_name = (±)-(1''R'',2''S'')-''rel''-8-Hydroxy-5-[1-hydroxy-2-(isopropylamino)butyl]-quinolin-2(1''H'')-one
+| image = Procaterol.svg
+| width = 200
+| chirality = [[Racemic mixture]]
+
+<!--Clinical data-->
+| tradename =
+| Drugs.com = {{drugs.com|CONS|procaterol}}
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =
+| legal_status =
+| routes_of_administration = Oral ([[Tablet (pharmacy)|tablets]], [[syrup]]), inhalation ([[Dry-powder inhaler|DPI]])
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 59828-07-8
+| ATC_prefix = R03
+| ATC_suffix = AC16
+| ATC_supplemental =  {{ATC|R03|CC08}}
+| PubChem = 4916
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 599984
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = X7I3EMM5K0
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08424
+
+<!--Chemical data-->
+| C=16 | H=22 | N=2 | O=3
+| molecular_weight = 290.357 g/mol
+| smiles = CC(C)NC(CC)C(O)c2ccc(O)c1NC(=O)C=Cc12
+}}
+
+'''Procaterol''', applied as procaterol hydrochloride ([[United States Adopted Name|USAN]]), is an intermediate-acting{{cn|date=March 2016}} [[Beta2-adrenergic agonist|β<sub>2</sub> adrenoreceptor agonist]] used for the treatment of [[asthma]]. It has never been filed for [[Food and Drug Administration|FDA]] evaluation in the [[United States]], where it is not marketed. The drug is readily [[Redox|oxidized]] in the presence of moisture and air, making it unsuitable for therapeutic use by inhalation.<ref name="patent">{{Citation
+ | editor-last = Ghebre-sellassie
+ | editor-first = Issac
+ | editorlink =
+ | editor2-last = Nesbitt Jr.
+ | editor2-first = Russell U.
+ | editorlink2 =
+ | publication-date = 1984
+ | issue-date = 1986
+ | title = Procaterol stabilization
+ | country-code = US
+ | subscription =
+ | series-number = 4616022
+}}</ref> Pharmaceutical company [[Parke-Davis]]/[[Warner-Lambert]] researched a stabilizer to prevent oxidation, but an effective one was never developed.<ref name="patent" />
+
+==Synthesis==
+Like pirbuterol, procaterol exhibits similar broncholytic properties as [[salbutamol]] (albuterol), but it has somewhat of a more prolonged action. It is recommended for use as an inhaled drug for treating asthma.
+
+[[File:Procaterol-synthesis.svg|thumb|left|700px|Procaterol synthesis:<ref>K. Nakagawa, S. Yoshizaki, {{US Patent|4026897}} (1977).</ref><ref>S. Yoshizaki, M. Osaki, K. Nakagawa, Y. Yamura, Chem. Pharm. Bull., 28, 3441 (1980).</ref><ref>{{cite journal|doi=10.1021/jm00231a011|pmid=10441|title=Sympathomimetic amines having a carbostyril nucleus|journal=Journal of Medicinal Chemistry|volume=19|issue=9|pages=1138|year=1976|last1=Yoshizaki|first1=Shiro|last2=Tanimura|first2=Kaoru|last3=Tamada|first3=Shigeharu|last4=Yabuuchi|first4=Youichi|last5=Nakagawa|first5=Kazuyuki}}</ref><ref>{{cite journal|doi=10.1021/jm00218a024|pmid=894683|title=Isomers of erythro-5-(1-hydroxy-2-isopropylaminobutyl)-8-hydroxycarbostyril, a new bronchodilator|journal=Journal of Medicinal Chemistry|volume=20|issue=8|pages=1103|year=1977|last1=Yoshizaki|first1=Shiro|last2=Manabe|first2=Yoshiaki|last3=Tamada|first3=Shigeharu|last4=Nakagawa|first4=Kazuyuki|last5=Tei|first5=Seiso}}</ref>]]
+
+8-Hydroxycarbostyril '''1''' is acylated with 2-bromobutyric acid chloride '''2''' at the fifth position of the quinoline system, which gives the compound '''3'''. This undergoes action of isopropylamine, forming an aminoketone, the carbonyl group of which is reduced by sodium borohydride, giving procaterol '''4'''.
+
+==Trade names==
+Procaterol is available under a number of trade names (Onsukil, Masacin, Procadil and others), the most common seems to be '''Meptin''' (<small>([[South Korea|KR]])</small>, <small>([[China|CN]])</small>, <small>([[Indonesia|ID]])</small>, <small>([[Malaysia|MY]])</small>, <small>([[Philippines|PH]])</small>, <small>([[Singapore|SG]])</small>, <small>([[Thailand|TH]])</small>, <small>([[Hong Kong|HK]])</small>).<ref>{{cite web|title=International Drugs: Procaterol|url=http://www.drugs.com/international/procaterol.html|website=Drugs.com.|accessdate=7 March 2016}}</ref>
+
+==References==
+{{reflist}}
+
+{{Adrenergic agonists}}
+{{Asthma and copd rx}}
+
+[[Category:Alcohols]]
+[[Category:Beta2-adrenergic agonists]]
+[[Category:2-Quinolones]]
+[[Category:Quinolinols]]
+
+{{respiratory-system-drug-stub}}

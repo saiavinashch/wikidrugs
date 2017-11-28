@@ -1,0 +1,301 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 456689148
+| IUPAC_name = 4-amino-''N''-[(1-ethylpyrrolidin-2-yl)methyl]-5-ethylsulfonyl-2-methoxybenzamide
+| image = Amisulpride.svg
+| width = 250px
+| image2 = Amisulpride-xtal-1990-ball-and-stick-model.png
+| width2 = 250px
+
+<!--Clinical data-->
+| tradename = Solian, others
+| Drugs.com = {{drugs.com|international|amisulpride}}
+| pregnancy_AU = C
+| legal_AU = S4 
+| legal_UK = POM
+| routes_of_administration = [[Oral administration|By mouth]], [[intravenous therapy|intravenous]]
+
+<!--Pharmacokinetic data-->
+| bioavailability = 48%<ref name=Rosenzweig>{{ cite journal |author1=Rosenzweig, P. |author2=Canal, M. |author3=Patat, A. |author4=Bergougnan, L. |author5=Zieleniuk, I. |author6=Bianchetti, G. | title = A review of the pharmacokinetics, tolerability and pharmacodynamics of amisulpride in healthy volunteers. | journal = Human Psychopharmacology | volume = 17 | issue = 1 | year = 2002 | pages = 1–13 | pmid = 12404702 | doi = 10.1002/hup.320 }}</ref><ref name = SOLIAN>{{cite web|title=PRODUCT INFORMATION SOLIAN® TABLETS and SOLUTION|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2010-PI-01659-3|work=TGA eBusiness Services|publisher=Sanofi-Aventis Australia Pty Ltd|accessdate=17 October 2013|format=PDF|date=9 September 2013}}</ref>
+| protein_bound = 16%<ref name = SOLIAN/>
+| metabolism = Hepatic (minimal; most excreted unchanged)<ref name = SOLIAN/>
+| elimination_half-life = 12 hours<ref name=Rosenzweig/>
+| excretion = [[Kidney|Renal]]<ref name=Rosenzweig/> (23–46%),<ref name = BT>{{cite journal|author=Caccia, S|title=Biotransformation of Post-Clozapine Antipsychotics Pharmacological Implications|journal=Clinical Pharmacokinetics|doi=10.2165/00003088-200038050-00002|pmid=10843459|volume=38|issue=5|date=May 2000|pages=393–414}}</ref><ref name = Dys>{{cite journal|title=Amisulpride: A Review of its Clinical Potential in Dysthymia|author1=Noble, S |author2=Benfield, P |journal=CNS Drugs|volume=12|issue=6|date=December 1999|doi=10.2165/00023210-199912060-00005|pages=471–483}}</ref> [[Feces|Faecal]]<ref name = SOLIAN/>
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 71675-85-9
+| CAS_supplemental = 
+| ATC_prefix = N05
+| ATC_suffix = AL05
+| PubChem = 2159
+| IUPHAR_ligand = 963
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB06288
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2074
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 8110R61I4U
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07310
+| ChEBI_Ref = {{ebicite|changed|EBI}} 
+| ChEBI = 64045
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 243712
+
+<!--Chemical data-->
+| C=17 | H=27 | N=3 | O=4 | S=1 
+| molecular_weight = 369.48 g/mol
+| SMILES = O=S(=O)(c1cc(c(OC)cc1N)C(=O)NCC2N(CC)CCC2)CC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C17H27N3O4S/c1-4-20-8-6-7-12(20)11-19-17(21)13-9-16(25(22,23)5-2)14(18)10-15(13)24-3/h9-10,12H,4-8,11,18H2,1-3H3,(H,19,21)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = NTJOBXMMWNYJFB-UHFFFAOYSA-N
+}}
+
+'''Amisulpride''', sold under the brand name '''Solian''' among others, is an [[antipsychotic]] medication used to treat [[schizophrenia]].<ref name="SOLIAN"/> In Italy, at a lower dosage of 50&nbsp;mg per day, it is also used as a treatment for [[dysthymia]].<ref name = Itdys>{{cite journal|title=The substituted benzamides and their clinical potential on dysthymia and on the negative symptoms of schizophrenia|author1=Pani, L |author2=Gessa, GL |journal=Molecular Psychiatry|volume=7|issue=3|pages=247–253|pmid=11920152|year=2002|doi=10.1038/sj.mp.4001040|url=http://www.nature.com/mp/journal/v7/n3/pdf/4001040a.pdf}}</ref> It is usually classed with the newer generation of antipsychotics, the so called [[atypical antipsychotics]]. Chemically it is a [[benzamide]] and like other benzamide antipsychotics, such as [[sulpiride]], it is associated with a high risk of elevating blood levels of the lactation hormone, [[prolactin]] (thereby potentially causing [[amenorrhoea|the absence of the menstrual cycle]], breast enlargement, even in males, [[galactorrhoea|breast milk secretion not related to breastfeeding]], impaired fertility, [[impotence]], breast pain, ''etc.''), and a low risk, relative to the [[typical antipsychotics]], of causing [[extrapyramidal effect|movement disorders]].<ref name="AMH"/><ref name="Lancet"/><ref name="MD"/> It has also been found to be slightly more effective in treating schizophrenia than the typical antipsychotics.<ref name="Lancet"/>
+
+Amisulpride, like all other approved antipsychotics, is believed to work by reducing signalling via the [[dopamine D2 receptor|dopamine D<sub>2</sub> receptor]]. In amisulpride's case this is by blocking, or antagonizing, the receptor. Amisulpride's effectiveness in treating dysthymia and the [[negative symptoms]] of schizophrenia is believed to stem from its blockade of the [[presynaptic]] dopamine D<sub>2</sub> receptors. These presynaptic receptors regulate the release of [[dopamine]] into the [[synapse]], so by blocking them amisulpride increases dopamine concentrations in the synapse. This increased dopamine concentration is theorized to act on [[dopamine D1 receptor|dopamine D<sub>1</sub> receptors]] to relieve depressive symptoms (in dysthymia) and the negative symptoms of schizophrenia.<ref name="Itdys"/>
+
+It was introduced by [[Sanofi-Aventis]] in the 1990s. Its patent had expired by 2008 and hence generic formulations are now available.<ref>{{cite journal|author1=De Silva, V |author2=Hanwella, R |title=Pharmaceutical patents and the quality of mental healthcare in low- and middle-income countries|journal=The Psychiatrist|volume=32|issue=4|pages=121–123|doi=10.1192/pb.bp.107.015651|year=2008}}</ref> It is not marketed in the [[Canada]] or the [[United States]], although in all other English-speaking countries it is marketed.<ref name = "MD">{{Cite web| title = Amisulpride: Martindale: The Complete Drug Reference| accessdate = 5 August 2017| url = https://www.medicinescomplete.com/mc/martindale/current/1759-d.htm | website = MedicineComplete | publisher = Pharmaceutical Press | date = June 2017 | editor = Brayfield, A}}</ref>
+
+==Medical uses==
+
+===Schizophrenia===
+In a 2013 study in a comparison of 15 antipsychotic drugs in effectiveness in treating schizophrenic symptoms, amisulpride was ranked second, demonstrating high effectiveness. 11% more effective than [[olanzapine]] (3rd), 32-35% more effective than [[haloperidol]], [[quetiapine]], and [[aripiprazole]], and 25% less effective than [[clozapine]] (1st).<ref name="Lancet"/> Although according to other studies it appears to have comparable efficacy to [[olanzapine]] in the treatment of schizophrenia.<ref>{{cite journal| author = Komossa, K |author2=Rummel-Kluge, C |author3=Hunger, H |author4=Schmid, F |author5=Schwarz, S|author6=Silveira da Mota Neto, JI |author7=Kissling, W |author8=Leucht, S | date=January 2010 | title = Amisulpride versus other atypical antipsychotics for schizophrenia.| journal = The Cochrane Database of Systematic Reviews| volume = | issue = 1| pages = CD006624| pmid = 20091599| doi = 10.1002/14651858.CD006624.pub2 | pmc=4164462}}</ref><ref>{{cite journal|author1=Leucht, S |author2=Corves, C |author3=Arbter, D |author4=Engel, RR |author5=Li, C |author6=Davis, JM | date=January 2009 | title = Second-generation versus first-generation antipsychotic drugs for schizophrenia: a meta-analysis.| journal = Lancet| volume = 373| issue = 9657| pages = 31–41| pmid = 19058842| doi = 10.1016/S0140-6736(08)61764-X}}</ref> Amisulpride augmentation, similarly to [[sulpiride]] augmentation, has been considered a viable treatment option (although this is based on low-quality evidence) in [[clozapine]]-resistant cases of schizophrenia.<ref>{{cite journal|title=Current perspectives in the treatment of resistant schizophrenia|author1=Solanki, RK |author2=Sing, P |author3=Munshi, D |journal=Indian Journal of Psychiatry|volume=51|issue=4|date=Oct–Dec 2009|doi=10.4103/0019-5545.58289|pmid=20048449|pmc=2802371|pages=254–60}}</ref><ref>{{cite journal|title=Augmentation Strategies of Clozapine With Antipsychotics in the Treatment of Ultraresistant Schizophrenia|author1=Mouaffak, F |author2=Tranulis, C |author3=Gourevitch, R |author4=Poirier, MF |author5=Douki, S |author6=Olié, JP |author7=Lôo, H |author8=Gourion, D |journal=Clinical Neuropharmacology|volume=29|issue=1|pages=28–33|pmid=16518132|doi=10.1097/00002826-200601000-00009|year=2006 }}</ref> Another recent study concluded that amisulpride is an appropriate first-line treatment for the management of acute psychosis.<ref>{{ cite journal |author1=Nuss, P. |author2=Hummer, M. |author3=Tessier, C. | title = The use of amisulpride in the treatment of acute psychosis | journal = Therapeutics and Clinical Risk Management | volume = 3 | issue = 1 | year = 2007 | pages = 3–11 | pmid = 18360610 | pmc = 1936283 | doi=10.2147/tcrm.2007.3.1.3}}</ref>
+
+==Contraindications==
+Amisulpride's use is contraindicated in the following disease states<ref name = SOLIAN/><ref name = BNF/><ref name = AMH/>
+
+* [[Pheochromocytoma]]
+* Concomitant prolactin-dependent tumours e.g. [[prolactinoma]], [[breast cancer]]
+* Movement disorders (e.g. [[Parkinson's disease]] and [[dementia with Lewy bodies]])
+* Lactation
+* Children before the onset of puberty
+
+Neither is it recommended to use amisulpride in patients with hypersensitivities to amisulpride or the excipients found in its dosage form.<ref name = SOLIAN/>
+
+==Adverse effects==
+;Very Common (≥10% incidence)<ref name="eMC">Sandoz Limited {{citation |url=http://www.medicines.org.uk/emc/medicine/25321 |title=Summary of Product Characteristics |archiveurl=https://web.archive.org/web/20140817052520/http://www.medicines.org.uk/emc/medicine/25321/  |archivedate=2014-08-17 |accessdate=2014-08-17 |deadurl=no}}</ref>
+* [[Extrapyramidal side effects]] (EPS; including [[dystonia]], tremor, [[akathisia]], [[parkinsonism]]). Produces a moderate degree of EPS; more than aripiprazole (not ''significantly'', however), clozapine, iloperidone (not ''significantly''), olanzapine (not ''significantly''), quetiapine (not ''significantly'') and sertindole; less than chlorpromazine (not ''significantly''), haloperidol, lurasidone (not ''significantly''), paliperidone (not ''significantly''), risperidone (not ''significantly''), ziprasidone (not ''significantly'') and zotepine (not ''significantly'').<ref name = Lancet/>
+
+;Common (≥1%, <10% incidence)<ref name = SOLIAN/><ref name = "DRUGDEX">Truven Health Analytics, Inc. DRUGDEX® System (Internet) [cited 2013 Sep 19]. Greenwood Village, CO: Thomsen Healthcare; 2013.</ref><ref name="BNF">{{cite book | isbn = 978-0-85711-084-8 | title = British National Formulary (BNF) | last1 = Joint Formulary Committee | year = 2013 | publisher = Pharmaceutical Press | location = London, UK | edition = 65  | pages =  }}</ref><ref name="AMH">{{cite book | editor = Rossi, S | isbn = 978-0-9805790-9-3 | title = Australian Medicines Handbook | place = Adelaide | publisher = The Australian Medicines Handbook Unit Trust | year = 2013 | edition = 2013 }}</ref>
+{{colbegin|3}}
+* [[Insomnia]]
+* [[Hypersalivation]]
+* Nausea
+* Headache
+* [[Hyperactivity]]
+* Anxiety
+* Vomiting
+{{colend}}
+* [[Hyperprolactinaemia]] (which can lead to galactorrhoea, breast enlargement and tenderness, sexual dysfunction, etc.)
+* Weight gain (produces less weight gain than chlorpromazine, clozapine, iloperidone, olanzapine, paliperidone, quetiapine, risperidone, sertindole, zotepine and more (although not statistically significantly) weight gain than haloperidol, lurasidone, ziprasidone and approximately as much weight gain as aripiprazole and asenapine)<ref name = Lancet/>
+* [[Anticholinergic]] side effects (although it does not bind to the muscarinic acetylcholine receptors and hence these side effects are usually quite mild) such as
+:- constipation
+:- dry mouth
+:- disorder of accommodation
+:- Blurred vision
+;Rare (<1% incidence)<ref name = SOLIAN/><ref name = "DRUGDEX" /><ref name = "BNF" /><ref name = "AMH" />
+{{colbegin|3}}
+* [[Bradycardia]]
+* [[Hypotension]]
+* [[Palpitations]]
+* [[Urticaria]]
+* [[Seizures]]
+* [[Mania]]
+* [[Oculogyric crisis]]
+* [[Tardive dyskinesia]]
+{{colend}}
+* Blood [[dyscrasia]]s such as  [[leucopenia]], [[neutropenia]] and [[agranulocytosis]]
+* [[QT interval]] prolongation (in a recent meta-analysis of the safety and efficacy of 15 antipsychotic drugs amisulpride was found to have the 2nd highest effect size for causing QT interval prolongation<ref name = "Lancet">{{cite journal
+ |author1=Leucht, S |author2=Cipriani, A |author3=Spineli, L |author4=Mavridis, D |author5=Orey, D |author6=Richter, F |author7=Samara, M |author8=Barbui, C |author9=Engel, RR |author10=Geddes, JR |author11=Kissling, W |author12=Stapf, MP |author13=Lässig, B |author14=Salanti, G |author15=Davis, JM | date=September 2013 | title = Comparative efficacy and tolerability of 15 antipsychotic drugs in schizophrenia: a multiple-treatments meta-analysis.
+ | journal = Lancet
+ | volume = 382
+ | issue = 9896
+ | pages = 951–962
+ | pmid = 23810019
+ | doi = 10.1016/S0140-6736(13)60733-3
+ | accessdate = 
+}}</ref>)
+
+Hyperprolactinaemia results from antagonism of the [[D2 receptor|D<sub>2</sub>]] receptors located on the lactotrophic cells found in the [[anterior pituitary gland]]. Amisulpride has a high propensity for elevating plasma [[prolactin]] levels as a result of its poor [[blood-brain barrier]] penetrability and hence the resulting greater ratio of peripheral D<sub>2</sub> occupancy to central D<sub>2</sub> occupancy. This means that to achieve the sufficient occupancy (~60–80%<ref name="GG">{{cite book | isbn = 978-0-07-162442-8 | title = [[Goodman and Gilman's The Pharmacological Basis of Therapeutics]] | edition = 12th |author1=Brunton, L |author2=Chabner, B |author3=Knollman, B | year = 2010 | publisher = McGraw-Hill Professional | location = New York }}</ref>) of the central D<sub>2</sub> receptors in order to elicit its therapeutic effects a dose must be given that is enough to saturate peripheral D<sub>2</sub> receptors including those in the anterior pituitary.<ref name=mckeage>{{cite journal
+ |author1=McKeage, K |author2=Plosker, GL | title  = Amisulpride: a review of its use in the management of schizophrenia.
+ | journal = CNS Drugs
+ | volume = 18
+ | issue = 13
+ | pages = 933–956
+ | doi = 10.2165/00023210-200418130-00007
+ | pmid = 15521794
+ | issn = 1172-7047
+ | year=2004
+}}</ref><ref>{{cite journal
+ |author1=Natesan, S |author2=Reckless, GE |author3=Barlow, KB |author4=Nobrega, JN |author5=Kapur, S | date=October 2008 | title = Amisulpride the ‘atypical’ atypical antipsychotic — Comparison to haloperidol, risperidone and clozapine
+ | journal = Schizophrenia Research
+ | volume = 105
+ | issue = 1–3
+ | pages = 224–235
+ | pmid = 18710798
+ | url = 
+ | doi = 10.1016/j.schres.2008.07.005
+ | format = 
+ | accessdate = 
+}}</ref>
+* [[Somnolence]]. It produces minimal sedation due to its absence of cholinergic, histaminergic and alpha adrenergic receptor antagonism. It is one of the least sedating antipsychotics.<ref name = Lancet/>
+
+==Overdose==
+[[Torsades de pointes]] is common in overdose.<ref>{{cite journal|title=Amisulpride overdose is frequently associated with QT prolongation and torsades de pointes|journal=Journal of Clinical Psychopharmacology|date=August 2010|volume=30|issue=4|pages=391–395|doi=10.1097/JCP.0b013e3181e5c14c|pmid=20531221|author1=Isbister, GK |author2=Balit, CR |author3=Macleod, D |author4=Duffull, SB }}</ref><ref>{{cite journal|title=Prediction of Torsade de Pointes From the QT Interval: Analysis of a Case Series of Amisulpride Overdoses|journal=Clinical Pharmacology & Therapeutics|date=August 2011|volume=90|issue=2|pages=243–245|doi=10.1038/clpt.2011.107|pmid=21716272|author1=Joy, JP |author2=Coulter, CV |author3=Duffull, SB |author4=Isbister, GK }}</ref> Amisulpride is moderately dangerous in overdose (with the [[tricyclic antidepressants|TCAs]] being very dangerous and the [[Selective serotonin reuptake inhibitors|SSRIs]] being modestly dangerous).<ref name = Maudsley/><ref>{{cite journal
+ |author1=Levine, M |author2=Ruha, AM | date=July 2012 | title = Overdose of atypical antipsychotics: clinical presentation, mechanisms of toxicity and management.
+ | journal = CNS Drugs
+ | volume = 26
+ | issue = 7
+ | pages = 601–611
+ | doi = 10.2165/11631640-000000000-00000
+ | pmid = 22668123
+ | url = https://link.springer.com/content/pdf/10.2165%2F11631640-000000000-00000.pdf
+ | format = PDF
+ | accessdate = 
+}}</ref>
+
+==Interactions==
+Amisulpride should not be used in conjunction with drugs that prolong the QT interval (such as [[citalopram]], [[venlafaxine]], [[bupropion]], [[clozapine]], [[tricyclic antidepressants]], [[sertindole]], [[ziprasidone]], etc.),<ref name="Maudsley">{{cite book | isbn = 978-0-47-097948-8 | title = Maudsley Prescribing Guidelines in Psychiatry | edition = 11th |author1=Taylor, D |author2=Paton, C |author3=Shitij, K | date = 2012 | publisher = Wiley-Blackwell | location = West Sussex }}</ref> reduce heart rate and those that can induce hypokalaemia. Likewise it is imprudent to combine antipsychotics due to the additive risk for [[tardive dyskinesia]] and [[neuroleptic malignant syndrome]].<ref name = Maudsley />
+
+==Pharmacology==
+
+===Pharmacodynamics===
+{{See also|Atypical antipsychotic#Pharmacodynamics|Antipsychotic#Comparison of medications}}
+{| class="wikitable floatright" style="font-size:small;"
+|+ Amisulpride<ref name="PDSP">{{cite web | title = PDSP K<sub>i</sub> Database | work = Psychoactive Drug Screening Program (PDSP) | author1 = Roth, BL | author2 = Driscol, J | publisher = University of North Carolina at Chapel Hill and the United States National Institute of Mental Health | accessdate = 14 August 2017 | url = https://pdsp.unc.edu/databases/pdsp.php?knowID=0&kiKey=&receptorDD=&receptor=&speciesDD=&species=&sourcesDD=&source=&hotLigandDD=&hotLigand=&testLigandDD=&testFreeRadio=testFreeRadio&testLigand=amisulpride&referenceDD=&reference=&KiGreater=&KiLess=&kiAllRadio=all&doQuery=Submit+Query}}</ref><ref name="pmid19337725" />
+|-
+! Site !! K<sub>i</sub> (nM) !! Species !! Ref
+|-
+| [[5-HT1A receptor|5-HT<sub>1A</sub>]] || >10,000 || Human || <ref name="pmid19337725">{{cite journal | vauthors = Abbas AI, Hedlund PB, Huang XP, Tran TB, Meltzer HY, Roth BL | title = Amisulpride is a potent 5-HT7 antagonist: relevance for antidepressant actions in vivo | journal = Psychopharmacology | volume = 205 | issue = 1 | pages = 119–28 | year = 2009 | pmid = 19337725 | pmc = 2821721 | doi = 10.1007/s00213-009-1521-8 | url = }}</ref>
+|-
+| [[5-HT1B receptor|5-HT<sub>1B</sub>]] || 1,744 || Human || <ref name="pmid19337725" />
+|-
+| [[5-HT1D receptor|5-HT<sub>1D</sub>]] || 1,341 || Human || <ref name="pmid19337725" />
+|-
+| [[5-HT1E receptor|5-HT<sub>1E</sub>]] || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| [[5-HT2A receptor|5-HT<sub>2A</sub>]] || 8,304 || Human || <ref name="pmid19337725" />
+|-
+| '''[[5-HT2B receptor|5-HT<sub>2B</sub>]]''' || '''13''' || '''Human''' || <ref name="pmid19337725" />
+|-
+| [[5-HT2C receptor|5-HT<sub>2C</sub>]] || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| [[5-HT3 receptor|5-HT<sub>3</sub>]] || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| [[5-HT5A receptor|5-HT<sub>5A</sub>]] || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| [[5-HT6 receptor|5-HT<sub>6</sub>]] || 4,154 || Human || <ref name="pmid19337725" />
+|-
+| '''[[5-HT7 receptor|5-HT<sub>7</sub>]]''' || '''11.5''' || '''Human''' || <ref name="pmid19337725"/>
+|-
+| [[Alpha-1A adrenergic receptor|α<sub>1A</sub>]] || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| [[Alpha-1B adrenergic receptor|α<sub>1B</sub>]] || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| [[Alpha-1D adrenergic receptor|α<sub>1D</sub>]] || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| [[Alpha-2A adrenergic receptor|α<sub>2A</sub>]] || 1,114 || Human || <ref name="pmid19337725" />
+|-
+| [[Alpha-2C adrenergic receptor|α<sub>2C</sub>]] || 1,540 || Human || <ref name="pmid19337725" />
+|-
+| [[Beta-1 adrenergic receptor|β<sub>1</sub>]] || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| [[Beta-2 adrenergic receptor|β<sub>2</sub>]] || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| [[Beta-3 adrenergic receptor|β<sub>3</sub>]] || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| [[D1 receptor|D<sub>1</sub>]] || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| '''[[D2 receptor|D<sub>2</sub>]]''' || '''3.0''' || '''Human''' || <ref name="pmid19337725" />
+|-
+| '''[[D3 receptor|D<sub>3</sub>]]''' || '''3.5''' || '''Rat''' || <ref name="pmid19337725" />
+|-
+| [[D4 receptor|D<sub>4</sub>]] || 2,369 || Human || <ref name="pmid19337725" />
+|-
+| [[D5 receptor|D<sub>5</sub>]] || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| [[H1 receptor|H<sub>1</sub>]] || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| [[H2 receptor|H<sub>2</sub>]] || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| [[H4 receptor|H<sub>4</sub>]] || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| [[M1 receptor|M<sub>1</sub>]] || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| [[M2 receptor|M<sub>2</sub>]] || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| [[M3 receptor|M<sub>3</sub>]] || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| [[M4 receptor|M<sub>4</sub>]] || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| [[M5 receptor|M<sub>5</sub>]] || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| [[Sigma-1 receptor|σ<sub>1</sub>]] || >10,000 || Rat || <ref name="pmid19337725" />
+|-
+| [[Sigma-2 receptor|σ<sub>2</sub>]] || >10,000 || Rat || <ref name="pmid19337725" />
+|-
+| {{abbrlink|MOR|μ-Opioid receptor}} || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| {{abbrlink|DOR|δ-Opioid receptor}} || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| {{abbrlink|KOR|κ-Opioid receptor}} || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| '''{{abbrlink|GHB<sup>High</sup>|High-affinity γ-hydroxybutyric acid receptor}}''' || '''50 ({{abbrlink|IC<sub>50</sub>|Half-maximal inhibitory concentration}})''' || '''Rat''' || <ref name="pmid7914168" />
+|-
+| [[NMDA receptor|{{abbr|NMDA|N-Methyl-D-aspartate receptor}}<br />({{abbr|PCP|Phencyclidine site}})]] || >10,000 || Rat || <ref name="pmid8996185">{{cite journal | vauthors = Schoemaker H, Claustre Y, Fage D, Rouquier L, Chergui K, Curet O, Oblin A, Gonon F, Carter C, Benavides J, Scatton B | title = Neurochemical characteristics of amisulpride, an atypical dopamine D2/D3 receptor antagonist with both presynaptic and limbic selectivity | journal = J. Pharmacol. Exp. Ther. | volume = 280 | issue = 1 | pages = 83–97 | year = 1997 | pmid = 8996185 | doi = | url = }}</ref>
+|-
+| {{abbrlink|SERT|Serotonin transporter}} || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| {{abbrlink|NET|Norepinephrine transporter}} || >10,000 || Human || <ref name="pmid19337725" />
+|-
+| {{abbrlink|DAT|Dopamine transporter}} || >10,000 || Human || <ref name="pmid19337725" />
+|- class="sortbottom"
+| colspan="4" style="width: 1px;" | Values are K<sub>i</sub> (nM). The smaller the value, the more strongly the drug binds to the site.
+|}
+
+Amisulpride function primarily as a [[dopamine receptor|dopamine]] [[D2 receptor|D<sub>2</sub>]] and [[D3 receptor|D<sub>3</sub> receptor]] [[receptor antagonist|antagonist]]. It has high [[affinity (pharmacology)|affinity]] for these receptors with [[dissociation constant]]s of 3.0 and 3.5&nbsp;nM, respectively.<ref name="pmid19337725" /> Although standard doses used to treat [[psychosis]] inhibit [[dopaminergic]] [[neurotransmission]], low doses preferentially block inhibitory [[presynaptic]] [[autoreceptor]]s. This results in a facilitation of dopamine activity, and for this reason, low-dose amisulpride has also been used to treat [[dysthymia]].<ref name = SOLIAN/>
+
+Amisulpride and its relatives [[sulpiride]], [[levosulpiride]], and [[sultopride]] have been shown to bind to the high-affinity [[GHB receptor]] at concentrations that are therapeutically relevant ({{abbrlink|IC<sub>50</sub>|Half-maximal inhibitory concentration}} = 50&nbsp;nM for amisulpride).<ref name="pmid7914168">{{ cite journal |author1=Maitre, M. |author2=Ratomponirina, C. |author3=Gobaille, S. |author4=Hodé, Y. |author5=Hechler, V. | title = Displacement of [3H] gamma-hydroxybutyrate binding by benzamide neuroleptics and prochlorperazine but not by other antipsychotics | journal = European Journal of Pharmacology | volume = 256 | issue = 2 | pages = 211–214 |date=Apr 1994 | pmid = 7914168 | doi = 10.1016/0014-2999(94)90248-8 }}</ref>
+
+Though it was long widely assumed that dopaminergic modulation is solely responsible for the respective [[antidepressant]] and [[antipsychotic]] properties of amisulpride, it was subsequently found that the drug also acts as a potent antagonist of the [[serotonin receptor|serotonin]] [[5-HT7 receptor|5-HT<sub>7</sub> receptor]] (K<sub>i</sub> = 11.5&nbsp;nM).<ref name="pmid19337725" /> Several of the other atypical antipsychotics such as [[risperidone]] and [[ziprasidone]] are potent antagonists at the 5-HT<sub>7</sub> receptor as well, and selective antagonists of the receptor show antidepressant properties themselves. To characterize the role of the 5-HT<sub>7</sub> receptor in the antidepressant effects of amisulpride, a study prepared 5-HT<sub>7</sub> receptor knockout mice.<ref name="pmid19337725"/> The study found that in two widely used rodent models of depression, the tail suspension test, and the forced swim test, those mice did not exhibit an antidepressant response upon treatment with amisulpride.<ref name="pmid19337725"/> These results suggest that 5-HT<sub>7</sub> receptor antagonism mediates the antidepressant effects of amisulpride.<ref name="pmid19337725"/>
+
+Amisulpride also appears to bind with high affinity to the serotonin [[5-HT2B receptor|5-HT<sub>2B</sub> receptor]] (K<sub>i</sub> = 13&nbsp;nM), where it acts as an antagonist.<ref name="pmid19337725" /> The clinical implications of this, if any, are unclear.<ref name="pmid19337725" /> In any case, there is no evidence that this action mediates any of the therapeutic effects of amisulpride.<ref name="pmid19337725" />
+
+==Society and culture==
+
+===Brand names===
+Brand names include: Amazeo, Amipride <small>([[Australia|AU]])</small>, Amival, Solian <small>([[Australia|AU]], [[Ireland|IE]], [[Russian Federation|RU]], [[United Kingdom|UK]], [[South Africa|ZA]])</small>, Soltus, Sulpitac <small>([[India|IN]])</small>, Sulprix <small>([[Australia|AU]])</small> and Socian <small>([[Brazil|BR]])</small>.
+
+===Availability===
+Amisulpride is not approved by the [[Food and Drug Administration]] for use in the [[United States]], but it is used in [[Europe]] ([[France]], [[Germany]], [[Italy]], [[Switzerland]], [[Russia]], [[United Kingdom]], etc.), [[Israel]], [[India]], [[New Zealand]] and [[Australia]] ([[Therapeutic Goods Administration|TGA]] approved in February 2002<ref name = SOLIAN/>) to treat [[psychosis]] and [[schizophrenia]].<ref>{{ cite journal | author = Lecrubier, Y. | title = Consensus on the Practical Use of Amisulpride, an Atypical Antipsychotic, in the Treatment of Schizophrenia | journal = Neuropsychobiology | volume = 44 | pages = 41–46 | year = 2001 | doi = 10.1159/000054913 | pmid = 11408792 | issue = 1 |display-authors=etal}}</ref><ref>{{ cite journal | author = Kaplan, A. | title = Psychotropic Medications Around the World | journal = Psychiatric Times | volume = 21 | issue = 5 | year = 2004 | url = http://www.psychiatrictimes.com/showArticle.jhtml?articleID=175802519 }}</ref>
+
+==References==
+{{Reflist|2}}
+
+{{Antipsychotics}}
+{{Antidepressants}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Dopamine receptor modulators}}
+{{GHB receptor modulators}}
+{{Serotonin receptor modulators}}
+}}
+
+[[Category:5-HT2B antagonists]]
+[[Category:5-HT7 antagonists]]
+[[Category:Anilines]]
+[[Category:Antidepressants]]
+[[Category:Atypical antipsychotics]]
+[[Category:Benzamides]]
+[[Category:D2 antagonists]]
+[[Category:D3 antagonists]]
+[[Category:GHB receptor ligands]]
+[[Category:Phenol ethers]]
+[[Category:Pyrrolidines]]
+[[Category:Sulfones]]

@@ -1,0 +1,67 @@
+{{Chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 443888788
+| ImageFile = Isovaleramide.png
+| ImageSize = 160px
+| ImageName = Skeletal formula of isovaleramide
+| ImageFile1 = Isovaleramide-3D-balls.png 
+| ImageSize1 = 180px
+| ImageName1 = Ball-and-stick model of isovaleramide
+| IUPACName = 3-Methylbutanamide
+| OtherNames = Isopentanamide<br />Isovaleric acid amide<br />Isovaleric amide<br />beta-Methylbutyramide
+|Section1={{Chembox Identifiers
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo = 541-46-8 
+| PubChem = 10930
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D04637
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 9CP4KB634M
+| SMILES = CC(C)CC(=O)N
+| EINECS = 208-781-1
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 10467
+| InChI = 1/C5H11NO/c1-4(2)3-5(6)7/h4H,3H2,1-2H3,(H2,6,7)
+| InChIKey = SANOUVWGPVYVAV-UHFFFAOYAT
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C5H11NO/c1-4(2)3-5(6)7/h4H,3H2,1-2H3,(H2,6,7)
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = SANOUVWGPVYVAV-UHFFFAOYSA-N
+}}
+|Section2={{Chembox Properties
+| C=5 | H=11 | N=1 | O=1
+| Appearance = colourless solid
+| Density = 
+| MeltingPtC = 137
+| BoilingPtC = 226
+| Solubility = }}
+|Section3={{Chembox Hazards
+| MainHazards = 
+| FlashPt = 
+| AutoignitionPt = }}
+}}
+
+'''Isovaleramide''' is an [[organic compound]] with the formula (CH<sub>3</sub>)<sub>2</sub>CHCH<sub>2</sub>C(O)NH<sub>2</sub>. The [[amide]] derived from [[isovaleric acid]], it is a colourless solid.
+
+==Occurrence and biological activity==
+Isovaleramide is a constituent of [[valerian root]].
+
+In humans, it acts as a mild [[anxiolytic]] at lower doses and as a mild [[sedative]] at higher dosages.<ref>"Use of isovaleramide as a mild anxiolytic and sedative agent", {{cite patent|US|5506268}}</ref>  Isovaleramide has been shown to be non-[[cytotoxic]] and does not act as a [[CNS stimulant]].  It inhibits the [[liver]] [[alcohol dehydrogenase]]s and has a reported {{LD50}} of greater than 400&nbsp;mg/kg when administered [[peritoneum|intraperitoneally]] in mice.<ref>{{cite journal | journal=European Journal of Medicinal Chemistry | volume=10 | year=1975 | pages=453–462 |author1=Taillandier, Georges |author2=Benoit-Guyod, Jean L. |author3=Boucherle, Andre |author4=Broll, Madeleine |author5=Eymard, Pierre | title = Dipropylacetic series.  XII.  Anticonvulsant branched aliphatic acids and alcohols | issue = 5}}</ref>
+
+It is a [[positive allosteric modulator]] of the [[GABAA receptor|GABA<sub>A</sub> receptor]], similarly to isovaleric acid.
+<ref name="pmid20890571">{{cite journal | vauthors = Giraldo SE, Rincón J, Puebla P, Marder M, Wasowski C, Vergel N, Guerrero MF | title = [Isovaleramide, an anticonvulsant molecule isolated from Valeriana pavonii] | language = Spanish| journal = Biomedica | volume = 30 | issue = 2 | pages = 245–50 | year = 2010 | pmid = 20890571 | doi = | url = }}</ref>
+
+==References==
+{{Reflist|2}}
+
+{{GABAAergics}}
+
+[[Category:Alkaloids]]
+[[Category:Carboxamides]]
+[[Category:Anticonvulsants]]
+[[Category:Anxiolytics]]
+[[Category:Hemiterpenes]]
+[[Category:GABA analogues]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:Sedatives]]

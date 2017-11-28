@@ -1,0 +1,67 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 453501641
+| IUPAC_name =  
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1651956
+| image = Alisporivir.svg
+| alt =
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 254435-95-5
+| ATCvet =  
+| ATC_prefix = None
+| ATC_suffix =  
+| PubChem = 11513676
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+|  ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 9688467
+| NIAID_ChemDB = 268533
+| KEGG = D10087
+| KEGG_Ref = {{keggcite|changed|kegg}}
+|  smiles = O=C1N[C@H](C(=O)N(C)[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N(C)[C@H](C(=O)N(C)[C@H](C(=O)N(C)[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N(C)[C@@H](C(=O)N(CC)[C@H]1C(C)C)C)CC)[C@H](O)[C@H](C)C/C=C/C)C)C(C)C)CC(C)C)CC(C)C)C)C)CC(C)C)C(C)C
+|  StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C63H113N11O12/c1-26-29-30-40(16)52(75)51-56(79)66-44(27-2)59(82)68(20)43(19)58(81)74(28-3)49(38(12)13)55(78)67-48(37(10)11)62(85)69(21)45(31-34(4)5)54(77)64-41(17)53(76)65-42(18)57(80)70(22)46(32-35(6)7)60(83)71(23)47(33-36(8)9)61(84)72(24)50(39(14)15)63(86)73(51)25/h26,29,34-52,75H,27-28,30-33H2,1-25H3,(H,64,77)(H,65,76)(H,66,79)(H,67,78)/b29-26+/t40-,41+,42-,43-,44+,45+,46+,47+,48+,49+,50+,51+,52-/m1/s1
+|  StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = OLROWHGDTNFZBH-XEMWPYQTSA-N
+
+<!--Chemical data-->
+| C=63|H=113|N=11|O=12
+
+| molecular_weight = 1216.64 g/mol
+}}
+
+'''Alisporivir''' ([[International Nonproprietary Name|INN]]), or '''Debio 025''', '''DEB025''', (or '''UNIL-025''') is a [[cyclophilin]] inhibitor.<ref name="pmid18641676">{{cite journal |vauthors=Reutenauer J, Dorchies OM, Patthey-Vuadens O, Vuagniaux G, Ruegg UT |title=Investigation of Debio 025, a cyclophilin inhibitor, in the dystrophic mdx mouse, a model for Duchenne muscular dystrophy |journal=Br. J. Pharmacol. |volume=155 |issue=4 |pages=574–84 |date=October 2008 |pmid=18641676 |doi=10.1038/bjp.2008.285 |pmc=2579666}}</ref> Its structure is reminiscent of, and synthesized from [[ciclosporin]].
+
+It inhibits [[cyclophilin A]].<ref>{{cite journal|last=Gallay|first=PA|author2=Lin K.|title=Profile of alisporivir and its potential in the treatment of hepatitis C.|journal=Drug Des Devel Ther.|volume=7|pages=105–115|pmid=23440335|date=15 February 2013|doi=10.2147/DDDT.S30946|pmc=3578503}}</ref> Alisporivir is not immunosuppressive.<ref name="pmid18212100">{{cite journal |vauthors=Ptak RG, Gallay PA, Jochmans D |title=Inhibition of human immunodeficiency virus type 1 replication in human cells by Debio-025, a novel cyclophilin binding agent |journal=Antimicrob. Agents Chemother. |volume=52 |issue=4 |pages=1302–17 |date=April 2008 |pmid=18212100 |pmc=2292519 |doi=10.1128/AAC.01324-07 |url=http://aac.asm.org/cgi/pmidlookup?view=long&pmid=18212100|display-authors=etal}}</ref>
+
+It is being researched for potential use in the treatment of [[hepatitis C]].<ref name="pmid16557546">{{cite journal |vauthors=Paeshuyse J, Kaul A, De Clercq E |title=The non-immunosuppressive cyclosporin DEBIO-025 is a potent inhibitor of hepatitis C virus replication in vitro |journal=Hepatology |volume=43 |issue=4 |pages=761–70 |date=April 2006 |pmid=16557546 |doi=10.1002/hep.21102|display-authors=etal}}</ref><ref name="pmid19104013">{{cite journal |vauthors=Coelmont L, Kaptein S, Paeshuyse J |title=Debio 025, a cyclophilin binding molecule, is highly efficient in clearing HCV replicon containing cells, alone or when combined with Specifically Targeted Antiviral Therapy for HCV (STAT-C) inhibitors |journal=Antimicrob. Agents Chemother. |volume= 53|issue= 3|pages= 967–76|date=December 2008 |pmid=19104013 |doi=10.1128/AAC.00939-08 |url=http://aac.asm.org/cgi/pmidlookup?view=long&pmid=19104013 |pmc=2650540|display-authors=etal}}</ref> It has also been investigated for [[Duchenne muscular dystrophy]].<ref name="pmid18641676"/>
+
+Alisporivir is under development by [[Debiopharm]] for [[Japan]] and by [[Novartis]] for the rest of the world (licence granted by [[Debiopharm]]) since February 2010.
+
+==References==
+{{reflist}}
+
+[[Category:Antivirals]]
+[[Category:Peptides]]

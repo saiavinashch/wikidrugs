@@ -1,0 +1,66 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 460025724
+| IUPAC_name = (3''R'',5''S'',6''E'')-7-[4-(4-Fluorophenyl)-5-(methoxymethyl)-2,6-bis(propan-2-yl)pyridin-3-yl]-3,5-dihydroxyhept-6-enoic acid
+| image = Cerivastatin.svg
+| width = 275
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = D
+| legal_status = Withdrawn
+| routes_of_administration = [[Oral administration|By mouth]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| elimination_half-life = 2–3 hours
+
+<!--Identifiers-->
+| IUPHAR_ligand = 2950
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 145599-86-6
+| ATC_prefix = C10
+| ATC_suffix = AA06
+| ATC_supplemental =  
+| PubChem = 446156
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+ | DrugBank = DB00439
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 393588
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = AM91H2KS67
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D07661
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 3558
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1477
+
+<!--Chemical data-->
+ | C=26 | H=34 | F=1 | N=1 | O=5 
+| molecular_weight = 459.55 g/mol
+| smiles = O=C(O)C[C@H](O)C[C@H](O)/C=C/c1c(nc(c(c1c2ccc(F)cc2)COC)C(C)C)C(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C26H34FNO5/c1-15(2)25-21(11-10-19(29)12-20(30)13-23(31)32)24(17-6-8-18(27)9-7-17)22(14-33-5)26(28-25)16(3)4/h6-11,15-16,19-20,29-30H,12-14H2,1-5H3,(H,31,32)/b11-10+/t19-,20-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SEERZIQQUAZTOL-ANMDKAQQSA-N
+}}
+
+'''Cerivastatin''' ([[International nonproprietary name|INN]],<ref name="INN">{{cite web | title = International Nonproprietary Names for Pharmaceutical Substances (INN). Recommended International Nonproprietary Names (Rec. INN): List 36 | url = http://www.who.int/medicines/publications/druginformation/innlists/RL36.pdf | publisher = World Health Organization | accessdate = 29 November 2016 | page = 142 | date = 1996}}</ref> brand names: '''Baycol''', '''Lipobay''') is a synthetic member of the class of [[statin]]s used to lower [[cholesterol]] and prevent [[cardiovascular disease]]. It was marketed by the [[pharmaceutical company]] [[Bayer|Bayer A.G.]] in the late 1990s, competing with [[Pfizer Inc.|Pfizer]]'s highly successful [[atorvastatin]] (Lipitor). Cerivastatin was voluntarily withdrawn from the market worldwide in 2001, due to reports of fatal [[rhabdomyolysis]].
+
+During [[postmarketing surveillance]], 52 deaths were reported in patients using cerivastatin, mainly from rhabdomyolysis and its resultant [[renal failure]].<ref>{{cite journal|author=Furberg CD, Pitt B|title=Withdrawal of cerivastatin from the world market|journal=Curr Control Trials Cardiovasc Med|year=2001|volume=2|page=205&ndash;207|pmid=11806796|doi=10.1186/cvm-2-5-205|pmc=59524}}</ref> Risks were higher in patients using [[fibrate]]s, mainly [[gemfibrozil]] (Lopid), and in patients using the highest (0.8&nbsp;mg/day) dose of cerivastatin. Bayer A.G. added a contraindication for the concomitant use of cerivastatin and [[gemfibrozil]] to the package 18 months after the drug interaction was found.<ref name="pmid15572720">{{cite journal |vauthors=Psaty BM, Furberg CD, Ray WA, Weiss NS |title=Potential for conflict of interest in the evaluation of suspected adverse drug reactions: use of cerivastatin and risk of rhabdomyolysis |journal=JAMA |volume=292 |issue=21 |pages=2622–31 |year=2004 |pmid=15572720 |doi=10.1001/jama.292.21.2622}}</ref> The frequency of deadly cases of [[rhabdomyolysis]] with cerivastatin was 16 to 80 times higher than with other statins.<ref name="pmid12879633">{{cite journal |vauthors=Zeitlinger M, Müller M |title=[Clinico-pharmacologic explanation models of cerivastatin associated rhabdomyolysis] |language=German |journal=Wien Med Wochenschr |volume=153 |issue=11–12 |pages=250–4 |year=2003 |pmid=12879633 |doi=10.1046/j.1563-258X.2003.03029.x}}</ref> Another 385 nonfatal cases of [[rhabdomyolysis]] were reported. This put the risk of this (rare) complication at 5-10 times that of the other [[statin]]s. Cerivastatin also induced [[myopathy]] in a dose-dependent manner when administered as monotherapy, but that was revealed only after Bayer was sued and unpublished company documents were opened.<ref name="pmid16541751">{{cite journal |vauthors=Saito M, Hirata-Koizumi M, Miyake S, Hasegawa R |title=[Withdrawal of cerivastatin revealed a flaw of post-marketing surveillance system in the United States] |language=Japanese |journal=Kokuritsu Iyakuhin Shokuhin Eisei Kenkyusho Hokoku |volume= |issue=123 |pages=41–5 |year=2005 |pmid=16541751 |doi=}}</ref>
+
+==References==
+{{reflist}}
+
+{{Statins}}
+
+[[Category:Carboxylic acids]]
+[[Category:Diols]]
+[[Category:Ethers]]
+[[Category:Fluoroarenes]]
+[[Category:Pyridines]]
+[[Category:Statins]]
+[[Category:Withdrawn drugs]]

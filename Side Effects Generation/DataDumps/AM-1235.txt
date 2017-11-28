@@ -1,0 +1,84 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 451605797
+| IUPAC_name = 1-[(5-fluoropentyl)-6-nitro-1H-indol-3-yl]-(naphthalen-1-yl)methanone
+| image = AM-1235_structure.png
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = Schedule II
+| legal_UK = <!-- GSL         / P       / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC                   / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 335161-27-8 
+| ATC_prefix =  
+| ATC_suffix =  
+| PubChem =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII = 2HV9AH611M
+| UNII_Ref = {{fdacite|changed|FDA}}
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 26633899
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C24H21FN2O3/c25-13-4-1-5-14-26-16-22(20-12-11-18(27(29)30)15-23(20)26)24(28)21-10-6-8-17-7-2-3-9-19(17)21/h2-3,6-12,15-16H,1,4-5,13-14H2
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = LNGVQORPSNNMSZ-UHFFFAOYSA-N
+
+<!--Chemical data-->
+| C=24 | H=21 | F=1 | N=2 | O=3 
+| molecular_weight = 404.433 g/mol
+| smiles = c24ccccc2cccc4C(=O)c(c3)c1ccc([N](=O)=O)cc1n3CCCCCF
+}}
+
+'''AM-1235''' ('''1-(5-fluoropentyl)-3-(naphthalen-1-oyl)-6-nitroindole''') is a drug that acts as a potent and reasonably selective [[agonist]] for the [[cannabinoid receptor]] [[Cannabinoid receptor 1|CB<sub>1</sub>]].
+
+==Pharmacology==
+
+===Pharmacodynamics===
+AM-1235 is a [[cannabinoid receptor]] [[agonist]] with [[Dissociation constant|K<sub>i</sub>]] of 1.5nM at CB<sub>1</sub> compared to 20.4nM at [[Cannabinoid receptor 2 (macrophage)|CB<sub>2</sub>]].<ref name="US 7241799">{{Ref patent2 | country = US | number = 7241799 | status = granted | title = Cannabimimetic indole derivatives | pubdate = 2004-11-05 | gdate = 2007-07-10 | pridate= 2004-11-05 | inventor = Makriyannis A, Deng H | assign1= }}</ref> While the 6-nitro substitution on the [[indole]] ring reduces affinity for both CB<sub>1</sub> and CB<sub>2</sub> relative to the unsubstituted parent compound [[AM-2201]], CB<sub>2</sub> affinity is reduced much more, resulting in a CB<sub>1</sub> selectivity of around 13x.<ref>{{Cite thesis |type=PhD. Dissertation |title=Design and synthesis of selective cannabinoid receptor ligands: Aminoalkylindole and other heterocyclic analogs |url=http://proquest.umi.com/pqdlink?did=726066941&Fmt=7&clientId=79356&RQT=309&VName=PQD |author= |last=Deng |first=Hongfeng |year=2000 |publisher=University of Connecticut }}</ref> This is in contrast to other related compounds such as [[AM-1221]] where a 6-nitro substitution instead confers significant selectivity for CB<sub>2</sub>.<ref name="WO 2001 28557 A1">{{Ref patent2 |country= WO |number= 200128557 |status= granted |title= Cannabimimetic indole derivatives |pubdate= 2001-04-26 |gdate= 2001-06-07 |pridate= 1999-10-18 |inventor= Makriyannis A, Deng H }}</ref>
+
+===Pharmacokinetics===
+{{Refimprove section|date=July 2012}}
+{{Main|JWH-018#Pharmacokinetics|l1=Pharmacokinetic data of JWH-018 are generally applicable to AM-1235.}}
+AM-1235 [[metabolism]] differs only slightly from that of [[JWH-018]]. AM-1235 N-[[dealkylation]] produces fluoropentane instead of [[pentane]] (or plain [[alkane]]s in general). It has been speculated that the fluoropentane might function as an [[alkylating agent]] or is further metabolized into toxic [[fluoroacetic acid]]. This is not true since [[fluoroalkane]]s do not act as [[alkylating agent]]s under normal conditions and uneven [[fluoroalkane]] chains metabolize into substantially less toxic [[fluoropropanoic acid]].<ref>[https://wayback.archive-it.org/all/20120227014952/http://article.pubs.nrc-cnrc.gc.ca/ppv/RPViewDoc?issn=1480-3291&volume=34&issue=11&startPage=1532 Millington JE, Pattison FLM. TOXIC FLUORINE COMPOUNDS: XII. ESTERS OF ω-FLUOROALCOHOLS. ''Canadian Journal of Chemistry''. 1956 Nov;34(11):1532-1541.]</ref><ref>[https://wayback.archive-it.org/all/20120227015004/http://article.pubs.nrc-cnrc.gc.ca/ppv/RPViewDoc?issn=1480-3291&volume=35&issue=2&startPage=141 Pattison FLM, Howell WC, Woolford RG. TOXIC FLUORINE COMPOUNDS: XIII. ω-FLUOROALKYL ETHERS. ''Canadian Journal of Chemistry''. 1957 Feb;35(2):141-148.]</ref>
+
+==See also==
+* [[AM-694]]
+* [[AM-906]]
+* AM-1235
+* [[AM-2232]]
+* [[AM-2233]]
+* [[AM-2389]]
+* [[JWH-018]]
+* [[List of AM cannabinoids]]
+* [[List of JWH cannabinoids]]
+* [[O-1812]]
+* [[THJ-2201]]
+
+==References==
+{{reflist}}
+
+{{Cannabinoids}}
+
+[[Category:Cannabinoids]]
+[[Category:Designer drugs]]
+[[Category:Naphthoylindoles]]
+[[Category:Fluoroalkanes]]
+[[Category:AM cannabinoids]]
+[[Category:Nitro compounds]]

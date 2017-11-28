@@ -1,0 +1,85 @@
+{{Infobox drug
+| drug_name = 
+| IUPAC_name        =  2-[3,5-Bis(trifluoromethyl)phenyl]-''N'',2-dimethyl-''N''-[4-(2-methylphenyl)-6-(4-methyl-1-piperazinyl)-3-pyridinyl]propanamide
+| image             = Netupitant.svg
+| alt               = 
+| caption           =
+
+<!-- Clinical data -->
+| tradename         = Akynzeo
+| Drugs.com         = 
+| MedlinePlus       = 
+| pregnancy_AU      = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US      = <!-- A / B            / C / D / X -->
+| pregnancy_category= 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = RX-only
+| legal_status      = 
+| routes_of_administration = [[Mouth|Oral]]
+
+<!-- Pharmacokinetic data -->
+| bioavailability   = >60% (estimated)
+| protein_bound     = >99%
+| metabolism        = mainly [[CYP3A4]]; also [[CYP2D6]] and [[CYP2C9]]
+| onset             = 
+| elimination_half-life = 88 hours
+| excretion         = 71% ([[faeces]])
+
+<!-- Identifiers -->
+| CAS_number        = 290297-26-6
+| ATCvet            = 
+| ATC_prefix        = <!-- 'none' if uncategorised -->
+| ATC_suffix        = 
+| PubChem           = 6451149
+| ChemSpiderID      = 4953629
+| DrugBank          = DB09048
+| ChEMBL            = 206253
+| ChEBI             = 85155
+| UNII              = 7732P08TIR
+| KEGG              = D05152
+
+<!-- Chemical data -->
+| chemical_formula =
+| C=30 | H=32 | F=6 | N=4 | O=1 
+| molecular_weight  = 578.59 g/mol
+| SMILES = Cc1ccccc1c2cc(ncc2N(C)C(=O)C(C)(C)c3cc(cc(c3)C(F)(F)F)C(F)(F)F)N4CCN(CC4)C
+|  StdInChI = 1S/C30H32F6N4O/c1-19-8-6-7-9-23(19)24-17-26(40-12-10-38(4)11-13-40)37-18-25(24)39(5)27(41)28(2,3)20-14-21(29(31,32)33)16-22(15-20)30(34,35)36/h6-9,14-18H,10-13H2,1-5H3
+|  StdInChIKey = WAXQNWCZJDTGBU-UHFFFAOYSA-N
+}}
+
+'''Netupitant''' is an [[antiemitic]] drug.  In the United States, the [[combination drug]] [[netupitant/palonosetron]] (trade name ''Akynzeo'') is approved by the [[Food and Drug Administration]] for prevention of acute and delayed [[chemotherapy-induced nausea and vomiting]], including highly [[emetogenic]] chemotherapy such as with [[cisplatin]].<ref>{{cite web | url = http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm418375.htm | title = FDA approves Akynzeo for nausea and vomiting associated with cancer chemotherapy | publisher = [[Food and Drug Administration]] | date = October 10, 2014}}</ref> In Europe, it is approved by the [[European Medicines Agency]] for the same indication.<ref name="EPAR">{{cite web|title=Akynzeo: Summary of Product Characteristics|publisher=[[European Medicines Agency]]|accessdate=12 July 2016|url=http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/003728/WC500188432.pdf}}</ref>
+
+==Adverse effects==
+Side effects of the combination netupitant/palonosetron are similar to palonosetron alone, so that no common side effects can be attributed to netupitant.<ref name="EPAR" />
+
+==Interactions==
+Netupitant blood plasma levels are expected to increase when combined with inhibitors of the liver enzyme [[CYP3A4]] and lowered when combined with inductors of this enzyme.<ref name="EPAR" />
+
+Being a CYP3A4 inhibitor itself, netupitant could also increase plasma levels of pharmaceuticals that are metabolized by CYP3A4. This effect has been observed with [[dexamethasone]], the anti-cancer drugs [[docetaxel]] and [[etoposide]], and to a minor (not clinically significant) extent with [[levonorgestrel]], [[erythromycin]] and [[midazolam]].<ref name="EPAR" />
+
+==Pharmacology==
+===Mechanism of action===
+Netupitant is a selective [[NK1 receptor antagonist|NK<sub>1</sub> receptor antagonist]].<ref>{{Cite journal |vauthors=Rizzi A, Campi B, Camarda V, Molinari S, Cantoreggi S, Regoli D, Pietra C, Calo G | title = In vitro and in vivo pharmacological characterization of the novel NK(1) receptor selective antagonist netupitant | journal = Peptides | date = 2012 | volume = 37| issue = 1 | pages = 86–97 | doi= 10.1016/j.peptides.2012.06.010| pmid = 22732666 }}</ref>
+
+===Pharmacokinetics===
+[[Bioavailability]] is estimated to be over 60% for orally taken netupitant. Highest blood plasma concentrations are reached five hours after application. Availability is moderately (10–20%) increased when taken after a fatty meal. Netupitant and its main metabolites (called M1 and M3) are bound to [[plasma proteins]] to more than 99%, and M2 protein binding is 97%.<ref name="EPAR" />
+
+The substance is mainly metabolized by CYP3A4, and to a lesser extent by [[CYP2D6]] and [[CYP2C9]]. The main metabolites are [[desmethyl]]-netupitant (M1), netupitant [[amine oxide|''N''-oxide]] (M2), and [[hydroxyl|hydroxy]]-netupitant (M3); all three are pharmacologically active.<ref name="EPAR" /><ref name="Spinelli">{{cite journal|pmc=4282341|year=2013|author1=Spinelli|first1=T|title=Netupitant PET imaging and ADME studies in humans|journal=The Journal of Clinical Pharmacology|volume=54|issue=1|pages=97–108|last2=Calcagnile|first2=S|last3=Giuliano|first3=C|last4=Rossi|first4=G|last5=Lanzarotti|first5=C|last6=Mair|first6=S|last7=Stevens|first7=L|last8=Nisbet|first8=I|doi=10.1002/jcph.198|pmid=24122871}}</ref>
+
+Netupitant and its metabolites are mainly excreted via the [[faeces]].<ref name="EPAR" /> [[Biological half-life]] is 88 hours, significantly longer than that of the first NK<sub>1</sub> receptor antagonist, [[aprepitant]], which has a half-life of 9 to 13 hours.<ref name="AC">{{cite book|title=Austria-Codex|editor=Haberfeld, H|publisher=Österreichischer Apothekerverlag|location=Vienna|year=2015|language=German}}</ref>
+
+[[File:Netupitant metabolites.svg|thumb|left|upright=2|Netupitant metabolites<ref name="Spinelli" />]]
+{{clear left}}
+
+==References==
+{{reflist|35em}}
+
+{{Antiemetics}}
+{{Neurokinin receptor modulators}}
+
+[[Category:Antiemetics]]
+[[Category:NK1 receptor antagonists]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Piperazines]]

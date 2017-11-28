@@ -1,0 +1,84 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 413312613
+| IUPAC_name = 2-<nowiki/>{4-[(methylamino)carbonyl]- 1''H''-pyrazol-1-yl}[[adenosine]]
+| image = Regadenoson structure.svg
+| width = 300
+
+<!--Clinical data-->
+| tradename =  
+| Drugs.com = {{drugs.com|MTM|regadenoson}}
+| licence_US = Regadenoson
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = C
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = Rx-only
+| legal_status =  
+| routes_of_administration = [[Intravenous therapy|Intravenous]]
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5596
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 313348-27-5
+| CAS_supplemental = {{CAS|875148-45-1}}
+| ATC_prefix = C01
+| ATC_suffix = EB21
+| ATC_supplemental =  
+| PubChem = 219024
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB06213 
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 7AXV542LZ4
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D05711
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201750
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID      = 189859
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=15 | H=18 | N=8 | O=5 
+| molecular_weight = 390.354 g/mol
+| synonyms = 1-[6-amino-9-[(2''R'',3''R'',4''S'',5''R'')-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]purin-2-yl]- ''N''-methylpyrazole-4-carboxamide
+| smiles            = CNC(=O)C1=CN(N=C1)C2=NC(=C3C(=N2)N(C=N3)[C@H]4[C@@H]([C@@H]([C@H](O4)CO)O)O)N
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI          = 1S/C15H18N8O5/c1-17-13(27)6-2-19-23(3-6)15-20-11(16)8-12(21-15)22(5-18-8)14-10(26)9(25)7(4-24)28-14/h2-3,5,7,9-10,14,24-26H,4H2,1H3,(H,17,27)(H2,16,20,21)/t7-,9-,10-,14-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey       = LZPZPHGJDAGEJZ-AKAIJSEGSA-N
+}}
+'''Regadenoson''' ('''CVT-3146''', '''Lexiscan''') is an [[Adenosine A2a receptor|A<sub>2A</sub>]] [[adenosine receptor]] [[agonist]] that is a coronary [[vasodilator]] that is commonly used in pharmacologic stress testing. It produces [[hyperemia]] quickly and maintains it for a duration that is useful for radionuclide [[myocardial perfusion imaging]].<ref name="pmid15261132">{{cite journal |author=Cerqueira MD |title=The future of pharmacologic stress: selective A2A adenosine receptor agonists |journal=Am. J. Cardiol. |volume=94 |issue=2A |pages=33D–40D; discussion 40D–42D |date=July 2004 |pmid=15261132 |doi=10.1016/j.amjcard.2004.04.017 |url=http://linkinghub.elsevier.com/retrieve/pii/S0002914904005934}}</ref> The selective nature of the drug makes it preferable to other stress agents such as [[adenosine]], which are less selective and therefore cause more side-effects.
+
+Regadenoson was approved by the [[United States]] [[Food and Drug Administration]] on April 10, 2008 and is marketed by [[Astellas Pharma]] under the tradename Lexiscan.<ref>[http://www.astellas.us/press_room/docs/FINAL_LEXISCANAPPROVAL041008.pdf CV Therapeutics and Astellas Announce FDA Approval for Lexiscan(TM)<!-- Bot generated title -->]</ref> It is approved for use in the [[European Union]] and under the name of Rapiscan. It is currently being marketed by [[GE Healthcare]] and is being sold in both the United Kingdom and Germany.
+
+Regadenoson has a 2 to 3 minute [[biological half-life]], as compared with [[adenosine]]'s 10-second half-life. As a result, regadenoson stress protocols use a single [[Bolus (medicine)|bolus]], instead of a 4-6 minute continuous infusion, which was needed with adenosine. Another difference is that adenosine infusion is weight based (140mcg/kg/minute), while with regadenoson, a 0.4mg/5mL preloaded syringe dose is standard for all weights. Regadenoson stress tests are not affected by the presence of [[beta blockers]], as regadenoson vasodilates via the adenosine pathway without stimulating beta [[adrenergic receptor]]s.{{Citation needed|date=December 2008}}
+
+One side effect of regadenoson is that it can temporarily disrupt the integrity of the [[blood-brain barrier]] by inhibiting [[P-glycoprotein]] function.<ref>Do-Geun Kim, Margaret S. Bynoe. A2A adenosine receptor modulates drug efflux transporter P-glycoprotein at the blood-brain barrier. ''Journal of Clinical Investigation'', 2016; doi: 10.1172/JCI76207</ref>
+
+==References==
+{{Reflist|2}}
+
+
+{{Adenosinergics}}
+
+[[Category:Vasodilators]]
+[[Category:Purines]]
+[[Category:Pyrazoles]]
+[[Category:Carboxamides]]
+[[Category:Nucleosides]]
+[[Category:Ribosides]]
+[[Category:Adenosine receptor agonists]]
+
+
+{{cardiovascular-drug-stub}}

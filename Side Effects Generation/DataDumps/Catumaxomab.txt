@@ -1,0 +1,89 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 460022109
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = 3funct
+| source = axo
+| target = [[EpCAM]], [[CD3 (immunology)|CD3]]
+<!-- Clinical data -->
+| tradename = Removab
+| Drugs.com = {{drugs.com|international|catumaxomab}}
+| licence_EU = Removab
+| pregnancy_AU =
+| pregnancy_US =
+| pregnancy_category =
+| legal_AU =
+| legal_CA =
+| legal_UK =
+| legal_US =
+| legal_status = Rx-only
+| routes_of_administration = [[Intraperitoneal injection|intraperitoneal]] infusion
+<!-- Pharmacokinetic data -->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+| excretion =
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 509077-98-9
+| ATC_prefix = L01
+| ATC_suffix = XC09
+| PubChem =
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+<!-- Chemical data -->
+| chemical_formula =
+| molecular_weight =
+}}
+'''Catumaxomab'''<ref>{{cite journal|last=Linke|first=Rolf |author2=Anke Klein |author3=Diane Seimetz|title=Catumaxomab: Clinical development and future directions|journal=MAbs|year=2010|volume=2|issue=2|pages=129–136|doi=10.4161/mabs.2.2.11221|pmid=20190561 |url=http://www.landesbioscience.com/journals/17/article/11221/ |pmc=2840231}}</ref> (trade name '''Removab''') is a [[rat]]-[[mouse]] hybrid [[monoclonal antibody]] which is used to treat [[malignant]] [[ascites]], a condition occurring in patients with [[Metastasis|metastasizing]] cancer. It binds to antigens [[CD3 (immunology)|CD3]] and [[EpCAM]]. It is in clinical trials in the [[United States]] currently and is used in [[Europe]]. It was developed by [[Fresenius SE|Fresenius]] Biotech and [[Trion Pharma]] ([[Germany]]).
+
+==History==
+Catumaxomab was developed by Trion Pharma, based on preliminary work by the [[Helmholtz Zentrum München]]. Dr. Horst Lindhofer is listed at the primary inventor of the patent.<ref>{{Cite web|title = About this file - European Patent Register|url = https://register.epo.org/application?number=EP01982241|website = register.epo.org|accessdate = 2015-06-10}}</ref> Fresenius Biotech conducted [[clinical trial]]s and filed the drug for approval with the [[European Medicines Agency]] (EMA). It was approved in Europe on 20 April 2009.<ref>[http://www.lifescience-online.com/TRION_Pharma__Trifunctional_Antibody_Catumaxomab_K,16211.html?portalPage=Lifescience%20Today.News TRION Pharma: Trifunctional Antibody Catumaxomab Kills Cancer Stem Cells]</ref>
+
+==Indications==
+The drug is approved for the treatment of malignant ascites in patients with EpCAM-positive cancer if a standard therapy is not available.<ref>[http://www.emea.europa.eu/humandocs/PDFs/EPAR/removab/H-972-en1.pdf European Public Assessment Report for Removab]</ref><ref>Heiss u.a.: The trifunctional antibody catumaxomab for the treatment of malignant ascites due to epithelial cancer: results of a prospective randomized phase II/III trial. Int J Cancer. (2010) 127: 2209-2221</ref> Ascites is an accumulation of fluid in the [[peritoneal cavity]].
+
+===Application===
+The usual treatment of malignant ascites is to puncture the [[peritoneum]] to let the accumulated fluid drain out. After the puncture, catumaxomab is given as an [[intraperitoneal]] infusion. The procedure is repeated four times within about eleven days. It has been shown that puncture free survival can be increased from 11 to 46 days with this treatment.<ref>{{Cite journal
+| doi = 10.1517/14712598.8.9.1407
+| title = The evolving role of catumaxomab in gastric cancer
+| year = 2008
+| last1 = Lordick | first1 = F
+| last2 = Ott | first2 = K
+| last3 = Weitz | first3 = J
+| last4 = Jäger | first4 = D
+| journal = Expert Opinion on Biological Therapy
+| volume = 8
+| pages = 1407–15| pmid = 18694358
+| issue = 9
+}}</ref>
+
+==Adverse effects==
+Common adverse effects include fever, [[nausea]] and vomiting. Fever and pain should be controlled by giving [[NSAID]]s, [[analgetic]]s or [[antipyretics]] before application of catumaxomab.<ref name="Zsilavecz">Schubert-Zsilavecz, M, Wurglics, M, ''Neue Arzneimittel 2009''</ref> All side effects were fully reversible in studies. Most are caused by the liberation of [[cytokines]].<ref name="EMEA" />
+
+==Chemical structure==
+Catumaxomab consists of one "half" (one [[Immunoglobulin heavy chain|heavy chain]] and one [[Immunoglobulin light chain|light chain]]) of an anti-EpCAM antibody and one half of an anti-CD3 antibody, so that each molecule of catumaxomab can bind both EpCAM and CD3. In addition, the Fc-region can bind to an [[Fc receptor]]  on accessory cells like other antibodies, which has led to calling the drug a [[trifunctional antibody]].
+[[File:Catumaxomab structure.svg|left|400px]]
+{{Clear}}
+
+==Mechanism of action==
+Many types of cancer cells carry EpCAM (epithelial cell adhesion molecule) on their surface. By binding to such a cell via one arm, to a [[T lymphocyte]] via the other arm and to an [[antigen-presenting cell]] like a [[macrophage]], a [[natural killer cell]] or a [[dendritic cell]] via the heavy chains, an immunological reaction against the cancer cell is triggered. Removing cancer cells from the abdominal cavity reduces the tumour burden which is seen as the cause for ascites in cancer patients.<ref name="EMEA">[http://www.emea.europa.eu/humandocs/PDFs/EPAR/removab/H-972-en6.pdf Assessment Report for Removab]</ref><ref>[http://www.fresenius.se/internet/fag/com/faginpub.nsf/Content/P-Info2004_01_15 Capital Market Day Fresenius Biotech: Fresenius concentrates biotechnology activities on antibody and innovative cell therapies]</ref><ref>{{Cite journal | doi = 10.1038/sj.bjc.6603881 | last1 = Ruf | first1 = P. | last2 = Gires | first2 = O. | last3 = J | first3 = M. | last4 = Fellinger | first4 = K. | last5 = Atz | first5 = J. | last6 = Lindhofer | first6 = H.| title = Characterisation of the new EpCAM-specific antibody HO-3: implications for trifunctional antibody immunotherapy of cancer | year = 2007 | journal = British Journal of Cancer | pages = 315–321 | volume = 97 | pmid = 17622246 | issue = 3 | pmc = 2360319 }}</ref>
+
+[[File:Catumaxomab mechanism.svg|left|400px]]
+{{Clear}}
+
+==References==
+{{reflist}}
+
+== External links ==
+* [http://www.removab.com The trifunctional antibody catumaxomab: information for healthcare professionals] (manufacturer website)
+
+{{Extracellular chemotherapeutic agents}}
+{{Monoclonals for tumors}}
+
+[[Category:Monoclonal antibodies for tumors]]
+[[Category:Experimental drugs]]

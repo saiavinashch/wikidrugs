@@ -1,0 +1,149 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 669804571| drug_name = 
+| IUPAC_name        = ''N''-(2,4-Di-''tert''-butyl-5-hydroxyphenyl)-4-oxo-1,4-dihydroquinoline-3-carboxamide
+| image             = Ivacaftor.svg
+| alt               = 
+| caption           =
+<!--Clinical data-->
+| tradename         = Kalydeco
+| licence_US        = Ivacaftor
+| Drugs.com         = 
+| MedlinePlus       = 
+| pregnancy_AU      = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US      = B
+| pregnancy_category= 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM -->
+| legal_US = Rx-only
+| legal_status      = 
+| routes_of_administration = Oral
+<!--Pharmacokinetic data-->
+| bioavailability   = 
+| protein_bound     = 99%
+| metabolism        = CYP3A
+| elimination_half-life = 12 hrs (single dose)
+| excretion         = 88% faeces
+<!--Identifiers-->
+| IUPHAR_ligand = 4342
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number        = 873054-44-5
+| ATCvet            = 
+| ATC_prefix        = R07
+| ATC_suffix        = AX02
+| PubChem           = 16220172
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 66901
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank          = 
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID      = 17347474
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII              = 1Y740ILL1Z
+| synonyms          = VX-770
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D09916
+<!--Chemical data-->
+| chemical_formula  =
+| C=24 | H=28 | N=2 | O=3
+| molecular_weight  = 392.490 g/mol
+| smiles = O=C\2c1c(cccc1)N/C=C/2C(=O)Nc3cc(O)c(cc3C(C)(C)C)C(C)(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C24H28N2O3/c1-23(2,3)16-11-17(24(4,5)6)20(27)12-19(16)26-22(29)15-13-25-18-10-8-7-9-14(18)21(15)28/h7-13,27H,1-6H3,(H,25,28)(H,26,29)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = PURKAOJPTOLRMP-UHFFFAOYSA-N
+}}
+'''Ivacaftor''' (trade name '''Kalydeco''', developed as '''VX-770''') is a [[pharmaceutical drug|drug]] used to treat [[cystic fibrosis]] in people with certain mutations in the [[cystic fibrosis transmembrane conductance regulator]] (CFTR) gene (primarily the G551D mutation), who account for 4–5% cases of cystic fibrosis.<ref name="pmid19747007">{{cite journal |vauthors=Jones AM, Helm JM | title = Emerging treatments in cystic fibrosis | journal = Drugs | volume = 69 | issue = 14 | pages = 1903–10 |date=October 2009 | pmid = 19747007 | doi = 10.2165/11318500-000000000-00000 }}</ref><ref name="pmid23616952">{{cite journal |vauthors=McPhail GL, Clancy JP | title = Ivacaftor: the first therapy acting on the primary cause of cystic fibrosis | journal = Drugs Today | volume = 49 | issue = 4 | pages = 253–60 |date=April 2013 | pmid = 23616952 | doi = 10.1358/dot.2013.49.4.1940984 }}</ref> It is also included in a [[combination drug]], [[lumacaftor/ivacaftor]] (trade name ''Orkambi''), which is used to treat people with cystic fibrosis who have the [[ΔF508|F508del]] mutation in CFTR.
+
+Ivacaftor was developed by [[Vertex Pharmaceuticals]] in conjunction with the [[Cystic Fibrosis Foundation]] and is the first drug that treats the underlying cause rather than the symptoms of the disease.<ref name="prnewswire">{{cite web | url = http://www.prnewswire.com/news-releases/phase-3-study-of-vx-770-shows-marked-improvement-in-lung-function-among-people-with-cystic-fibrosis-with-g551d-mutation-116725199.html | title = Phase 3 Study of VX-770 Shows Marked Improvement in Lung Function Among People with Cystic Fibrosis with G551D Mutation | date = 2011-02-23 | publisher = Cystic Fibrosis Foundation | work = Press Release }}</ref> It was approved by the FDA in January 2012, and was called "the most important new drug of 2012",<ref>{{cite web |url=https://www.forbes.com/sites/matthewherper/2012/12/27/the-most-important-new-drug-of-2012/ |title=The Most Important New Drug Of 2012 - Forbes |format= |work= |accessdate=}}</ref> and "a wonder drug".<ref>{{cite web |url=https://www.nytimes.com/2014/07/19/opinion/joe-nocera-cystic-fibrosis-drug-price.html?_r=0 |title=The $300,000 Drug - NYTimes.com |format= |work= |accessdate=}}</ref> It is one of the most expensive drugs, costing over [[US$]]300,000 per year, which has led to criticism of Vertex for the high cost. The combination drug was approved by the FDA in July 2015.
+
+Cystic fibrosis is caused by any one of several defects in the CFTR protein, which regulates fluid flow within cells and affects the components of sweat, digestive fluids, and mucus. One such defect is the G551D mutation, in which the amino acid [[glycine]]&nbsp;(G) in position 551 is replaced with [[aspartic acid]]&nbsp;(D).  G551D is characterized by a dysfunctional CFTR protein on the cell surface.  In the case of G551D, the protein is trafficked to the correct area, the epithelial cell surface, but once there the protein  cannot transport chloride through the channel. Ivacaftor, a CFTR [[potentiator]], improves the transport of chloride through the ion channel by binding to the channels directly to induce a non-conventional mode of gating which in turn increases the probability that the channel is open.<ref name="pmid22942289">{{cite journal |vauthors=Eckford PD, Li C, Ramjeesingh M, Bear CE | title = Cystic fibrosis transmembrane conductance regulator (CFTR) potentiator VX-770 (ivacaftor) opens the defective channel gate of mutant CFTR in a phosphorylation-dependent but ATP-independent manner | journal = J. Biol. Chem. | volume = 287 | issue = 44 | pages = 36639–49 |date=October 2012 | pmid = 22942289 | doi = 10.1074/jbc.M112.393637 | pmc=3481266}}</ref><ref name="pmid19846789">{{cite journal |vauthors=Van Goor F, Hadida S, Grootenhuis PD, Burton B, Cao D, Neuberger T, Turnbull A, Singh A, Joubran J, Hazlewood A, Zhou J, McCartney J, Arumugam V, Decker C, Yang J, Young C, Olson ER, Wine JJ, Frizzell RA, Ashlock M, Negulescu P | title = Rescue of CF airway epithelial cell function in vitro by a CFTR potentiator, VX-770 | journal = Proc. Natl. Acad. Sci. U.S.A. | volume = 106 | issue = 44 | pages = 18825–30 |date=November 2009 | pmid = 19846789 | pmc = 2773991 | doi = 10.1073/pnas.0904709106 }}</ref><ref name="pmid20829696">{{cite journal |vauthors=Sloane PA, Rowe SM | title = Cystic fibrosis transmembrane conductance regulator protein repair as a therapeutic strategy in cystic fibrosis | journal = Curr Opin Pulm Med | volume = 16 | issue = 6 | pages = 591–7 |date=November 2010 | pmid = 20829696 | doi = 10.1097/MCP.0b013e32833f1d00 }}</ref>
+
+== Medical uses ==
+Ivacaftor is used for the treatment of [[cystic fibrosis]] in people having one of several specifics mutations in the [[cystic fibrosis transmembrane conductance regulator]] (CFTR) protein including G551D, G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N, S549R, or R117H.<ref name=IvacaftorLabel>[http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/203188s017lbl.pdf Ivacaftor Label] Last revised March, 2015.  For updates, see index at FDA site [http://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.Set_Current_Drug&ApplNo=203188&DrugName=KALYDECO&ActiveIngred=IVACAFTOR&SponsorApplicant=VERTEX%20PHARMS&ProductMktStatus=1&goto=Search.Label_ApprovalHistory  here]</ref>
+
+Ivacaftor is also included in a combination product, [[lumacaftor/ivacaftor]], in a single pill, which is used to treat people with [[cystic fibrosis]] who have the [[ΔF508|F508del]] mutation in CFTR.<ref name=2015revKuk/><ref name=CW>{{cite web|title=Orkambi (lumacaftor and ivacaftor)|url=http://www.centerwatch.com/drug-information/fda-approved-drugs/drug/100082/orkambi-lumacaftor-and-ivacaftor|publisher=CenterWatch|accessdate=24 March 2016}}</ref><ref name=Label>[http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/206038Orig1s000lbl.pdf Lumacaftor/ivacaftor label].  Last updated July 2015.  Check index page [http://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.Set_Current_Drug&ApplNo=206038&DrugName=ORKAMBI&ActiveIngred=IVACAFTOR%3B%20LUMACAFTOR&SponsorApplicant=VERTEX%20PHARMS%20INC&ProductMktStatus=1&goto=Search.Label_ApprovalHistory here] for label updates</ref>
+
+== Adverse effects ==
+
+The most common adverse reactions experienced by patients who received ivacaftor in the pooled placebo-controlled Phase 3 studies were abdominal pain (15.6% versus 12.5% on placebo), diarrhoea (12.8% versus 9.6% on placebo), dizziness (9.2% versus 1.0% on placebo), rash (12.8% versus 6.7% on placebo), upper respiratory tract reactions (including upper respiratory tract infection, nasal congestion, pharyngeal erythema, oropharyngeal pain, rhinitis, sinus congestion, and nasopharyngitis) (63.3% versus 50.0% on placebo), headache (23.9% versus 16.3% on placebo) and bacteria in sputum (7.3% versus 3.8% on placebo). One patient in the ivacaftor group reported a serious adverse reaction: abdominal pain.<ref name="url_EMA_Kalydeco"/>
+
+==Pharmacology==
+
+=== Pharmacodynamics ===
+
+Ivacaftor is a "potentiator" of CFTR, meaning it increases the probability that the defective channel will be open and allow chloride ions pass through the channel pore.<ref name=2015revKuk>{{cite journal | pmid = 26416827 | doi=10.1177/1753465815601934 | volume=9 | title=Lumacaftor and ivacaftor in the management of patients with cystic fibrosis: current evidence and future prospects | year=2015 | journal=Ther Adv Respir Dis | pages=313–26 | vauthors=Kuk K, Taylor-Cousar JL}}</ref>
+
+===Pharmacokinetics===
+
+==== Distribution ====
+
+Ivacaftor is approximately 99% bound to plasma proteins, primarily to [[Orosomucoid|alpha 1-acid glycoprotein]] and [[albumin]]. Ivacaftor does not bind to human red blood cells.<ref name="url_EMA_Kalydeco"/>
+
+==== Biotransformation ====
+
+Ivacaftor is extensively metabolised in humans. [[In vitro]] and [[in vivo]] data indicate that ivacaftor is primarily metabolised by CYP3A. M1 and M6 are the two major metabolites of ivacaftor in humans. M1 has approximately one-sixth the potency of ivacaftor and is considered pharmacologically active. M6 has less than one-fiftieth the potency of ivacaftor and is not considered pharmacologically active.<ref name="url_EMA_Kalydeco"/>
+
+==== Elimination ====
+
+Following oral administration, the majority of ivacaftor (87.8%) is eliminated in the faeces after metabolic conversion. The major metabolites M1 and M6 accounted for approximately 65% of total dose eliminated with 22% as M1 and 43% as M6. There was negligible urinary excretion of ivacaftor as unchanged parent. The apparent terminal half-life was approximately 12 hours following a single dose in the fed state. The apparent clearance (CL/F) of ivacaftor was similar for healthy subjects and patients with CF. The mean (±SD) of CL/F for the 150&nbsp;mg dose was 17.3 (8.4)&nbsp;L/h in healthy subjects at steady state.<ref name="url_EMA_Kalydeco"/>
+
+== Society and culture ==
+The US [[Food and Drug Administration]] approved ivacaftor in January 2012<ref name="fda.gov">FDA. Jan. 31, 2012 [http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm289633.htm Press Release: FDA approves Kalydeco to treat rare form of cystic fibrosis]</ref> and soon afterwards so too did the European Medicines Agency (EMA)<ref name="url_EMA_Kalydeco">{{cite web | url = http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Product_Information/human/002494/WC500130696.pdf | title = Kalydeco: Annex I: Summary of product characteristics | format = PDF | work = | publisher = European Medicines Agency }}</ref> and Canada<ref>http://www.hc-sc.gc.ca/dhp-mps/prodpharma/sbd-smd/drug-med/sbd_smd_2012_kalydeco_155318-eng.php</ref> and across some European countries. Ivacaftor was approved by the FDA in January 2012;<ref name="fda.gov"/>
+
+Lumacaftor/ivacaftor was approved by the FDA in July 2015 under [[breakthrough therapy]] status and under a [[Priority review (FDA)|priority review]].<ref>{{cite web|title=FDA approves new treatment for cystic fibrosis|url=http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm453565.htm|publisher=United States Food and Drug Administration|date=July 2, 2015}}</ref>
+
+===Economics===
+The cost of ivacaftor is $311,000 per year, roughly similar to the price of other drugs for extremely rare diseases.<ref>{{cite news |url=https://www.nytimes.com/2012/02/01/business/fda-approves-cystic-fibrosis-drug.html |title=F.D.A. Approves New Cystic Fibrosis Drug |work=New York Times |date=January 31, 2012 |accessdate=2015-02-10 }}</ref>  In the first 9 months of its second year on the market (2014), ivacaftor sales were $339M, representing 54% of Vertex's product sales revenue.  During the same period, drug development expenses were $458M, most of which was spent on cystic fibrosis-related research.<ref>{{cite web |url=https://www.sec.gov/Archives/edgar/data/875320/000087532014000063/a2014q310-q.htm |title=Vertex Pharmaceuticals 10-Q, Quarter ending September 30, 2014 |accessdate=2015-02-10 }}</ref>
+
+An editorial in JAMA called the price of ivacaftor "exorbitant", citing the support by the [[Cystic Fibrosis Foundation]] in its development and the contribution made by fundamental scientific research performed by the [[National Institutes of Health]] and relied upon by Vertex in its cystic fibrosis drug discovery programs.<ref name="exorbitant">{{cite journal| title =Viewpoint: Pricing for Orphan Drugs: Will the Market Bear What Society Cannot?| journal =JAMA | date =October 2, 2013| author1 =Brian P. O’Sullivan| author2 = David M. Orenstein| author3 = Carlos E. Milla| volume =310| issue =13| pages =1343–1344| url =http://jama.jamanetwork.com/article.aspx?articleID=1745685| doi =10.1001/jama.2013.278129| pmid =| pmc =}}</ref> The company responded in an email that "while publicly funded academic research provided important early understanding of the cause of cystic fibrosis, it took Vertex scientists 14 years of their own research, funded mostly by the company, before the drug won approval."<ref>{{cite web |url=http://www.medpagetoday.com/Pulmonology/CysticFibrosis/39217 |title=Cystic Fibrosis: Charity and Industry Partner for Profit |publisher=MedPage Today |date=May 19, 2013 |accessdate=2015-02-10 }}</ref>
+
+The Cystic Fibrosis Foundation, a non-profit organization dedicated to improving healthcare for people with cystic fibrosis, provided $150 million of the funding for the development for ivacaftor in exchange for royalty rights in the event that the drug was successfully developed and commercialized.  In 2014, the Foundation sold these royalty rights for $3.3 billion. The Foundation has stated that it intends to spend these funds in support of further research.<ref>{{cite web |url=http://www.xconomy.com/boston/2014/11/19/cf-foundation-cashes-out-on-kalydeco-in-3-3b-sale-to-royalty-pharma/ |title=CF Foundation Cashes Out on Kalydeco in $3.3B Sale to Royalty Pharma &#124; Xconomy |format= |work= |accessdate=}}</ref><ref>{{cite web |url=http://www.cff.org/aboutCFFoundation/PressRoom/PressReleases/PressReleaseArchive/11-19-Transformational-Royalty-Sale.cfm |title=CF Foundation Royalty Sale Will Be Transformational for People with CF |format= |work= |accessdate=}}</ref>
+
+Vertex said it would make the drug available free to patients in the United States with no insurance and a household income of under $150,000.<ref>{{cite press release |author=<!--Staff writer(s); no by-line.--> |title= FDA Approves KALYDECO™ (ivacaftor), the First Medicine to Treat the Underlying Cause of Cystic Fibrosis|url= http://investors.vrtx.com/releasedetail.cfm?ReleaseID=644257|location= Cambridge, Massachusetts|publisher= [[Vertex Pharmaceuticals]]|date= 2012-01-31|accessdate=2014-02-01}}</ref> In 2012, 24 US doctors and researchers involved in the development of the drug wrote to Vertex to protest the price of the drug, which had been set at about $300,000 per year. In the UK, the company provided the drug free for a limited time for certain patients, then left the hospitals to decide whether to continue to pay for it for those patients. UK agencies estimated the cost per quality adjusted life year ([[QALY]]) at between £335,000 and £1,274,000 —well above the [[National Institute for Health and Care Excellence]] thresholds.<ref name="BMJ-2014">{{cite journal| title =Orphan Drugs: Paying twice: questions over high cost of cystic fibrosis drug developed with charitable funding| journal =BMJ | date =12 February 2014| author1 =Deborah Cohen| author2 = James Raftery| volume =348 | issue =| pages =g1445| url =http://www.bmj.com/content/348/bmj.g1445| doi =10.1136/bmj.g1445 | pmid =| pmc =}}</ref>
+
+The drug was not covered under the [[Ontario Drug Benefit]] plan until June 2014 when the [[Province of Ontario]] and the manufacturer negotiated for what "Ontario Health Minister [[Deb Matthews]] had called a “fair price” for taxpayers". The negotiations took 16 months and it was estimated that around 20 Ontarians required the drug at the time.<ref>{{cite news |last= Ferguson|first=Rob |date=June 20, 2014 |title=OHIP to cover cystic fibrosis drug Kalydeco |url=https://www.thestar.com/news/queenspark/2014/06/20/ohip_to_cover_cystic_fibrosis_drug_kalydeco.html |newspaper=The Toronto Star |location= |publisher= |accessdate= June 20, 2014}}</ref>
+
+The province of [[Alberta]] began covering the drug in July 2014, and in September the province of [[Saskatchewan]] became the third province to include it in its provincial drug plan.<ref>{{cite news
+| url = http://www.cbc.ca/news/canada/saskatchewan/saskatchewan-to-cover-300k-cystic-fibrosis-drug-kalydeco-1.2749525
+| title = Saskatchewan to cover $300K cystic fibrosis drug Kalydeco
+| publisher = [[CBC News]]
+| date = 2014-08-28
+| accessdate = 2014-08-28}}</ref>
+
+Government delays in agreeing to provide ivacaftor in national health plans led to patient group protests in Wales,<ref>{{cite web |url=http://www.itv.com/news/wales/update/2013-05-08/plea-for-kalydeco-drug-to-be-introduced/ |title=Plea for Kalydeco drug to be introduced &#124; Wales - ITV News |format= |work= |accessdate=}}</ref><ref>{{cite web |url=http://www.bbc.com/news/uk-wales-22440811 |title=BBC News - Cystic fibrosis: New drug Kalydeco refused for Welsh NHS |format= |work= |accessdate=}}</ref> England,<ref>{{cite web |url=http://www.birminghammail.co.uk/news/health/protests-at-birmingham-hospital-as-cystic-fibrosis-274099 |title=Protests at Birmingham Hospital as cystic fibrosis sufferer is denied life-saving drug - Birmingham Mail |format= |work= |accessdate=}}</ref> and Australia.<ref>{{cite web |url=http://www.manningrivertimes.com.au/story/1991040/kalydeco-breakthrough-plea-for-life-saving-medicine-proves-a-winner/ |title=Kalydeco breakthrough: Plea for life-saving medicine proves a winner &#124; Manning River Times |format= |work= |accessdate=}}</ref>
+
+As of March 2016 the combination drug cost $259,000 a year in the United States.<ref name=FierceNICE>{{cite web|last1=Wasserman|first1=Emily|title=NICE gives initial thumbs-down to Vertex's CF combo med Orkambi, citing costs|url=http://www.fiercepharma.com/story/nice-gives-initial-thumbs-down-vertexs-cf-combo-med-orkambi-citing-costs/2016-03-23|publisher=FiercePharma|date=March 23, 2016}}</ref>
+
+==Research==
+The clinical trials used in the regulatory approval of ivacaftor are described here.
+
+===G551D mutation===
+Of the approximately 70,000 cases of cystic fibrosis worldwide, 4% (~3,000) are due to a mutation called G551D.<ref>{{cite web |url=http://www.cff.org/AboutCF/Faqs/ |title=FAQs about the Cause, Diagnosis, Treatment of Cystic Fibrosis & More &#124; CF Foundation |format= |work= |accessdate=}}</ref><ref>{{cite journal |vauthors=Bobadilla JL, Macek M, Fine JP, Farrell PM |title=Cystic fibrosis: a worldwide analysis of CFTR mutations--correlation with incidence data and application to screening |journal=Hum. Mutat. |volume=19 |issue=6 |pages=575–606 | date=June  2002 |pmid=12007216 |doi=10.1002/humu.10041 |url=}}</ref>  The safety and efficacy of ivacaftor for the treatment of cystic fibrosis in patients with this mutation was examined in 2 clinical trials.
+
+The first trial was performed in adults having baseline respiratory function (FEV1) between 32% and 98% of normal for persons of similar age, height, and weight. The baseline average was 64%. Improvement in FEV1 was rapid and sustained.  At the end of 48 weeks, people treated with ivacaftor had on average an absolute increase in FEV1 of 10.4%, vs. a decline of 0.2% in the placebo group.  Pulmonary exacerbations were reduced by about half in the ivacaftor group relative to the placebo group.<ref>{{cite web |url=http://pi.vrtx.com/files/uspi_ivacaftor.pdf |title=pi.vrtx.com |format= |work= |accessdate=}}</ref>
+
+In a second trial conducted in children age 6 to 11, the average improvement in FEV1 was an absolute increase of 12.5% in the ivacaftor group at 48 weeks, compared to a very slight decline in the placebo group.<ref>{{cite web |url=http://pi.vrtx.com/files/uspi_ivacaftor.pdf |title=pi.vrtx.com |format= |work= |accessdate=}}</ref>
+
+===G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N, and S549R mutations ===
+A third clinical trial examined the efficacy of ivacaftor in people with cystic fibrosis due to G1244E, G1349D, G178R, G551S, S1251N, S1255P, S549N, or S549R mutations.  This trial, which included 39 people of age greater than 6 years, used a crossover design.  The people in the trial had FEV1 averaging 78% of normal at baseline.  The people in the trial were randomized to receive either ivacaftor or placebo for 8 weeks.  This was followed by a 4 to 8 week washout period, then each group received the opposite treatment from what it received in the first part of the trial.  At week 8, the people on treatment with ivacaftor experienced an average absolute improvement in FEV1 of 13.8%, but there was a strong dependence of the efficacy on the exact mutation that a patient had. The detailed data for different mutation types is shown in the U.S package insert.<ref>{{cite web |url=http://pi.vrtx.com/files/uspi_ivacaftor.pdf |title=pi.vrtx.com |format= |work= |accessdate=}}</ref>
+
+== See also ==
+* [[Ataluren]], targeting premature stop codons
+* [[Lumacaftor]], targeting the F508del mutation
+
+== References ==
+{{reflist|35em}}
+
+== External links ==
+* [http://www.cff.org/research/ClinicalResearch/FAQs/VX-770/ FAQs About VX-770] from the Cystic Fibrosis Foundation
+
+{{Other respiratory system products}}
+
+[[Category:4-Quinolones]]
+[[Category:Phenols]]
+[[Category:Anilides]]
+[[Category:Cystic fibrosis]]
+[[Category:Breakthrough therapy]]
+[[Category:Tert-butyl compounds]]

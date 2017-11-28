@@ -1,0 +1,68 @@
+{{refimprove|date=April 2016}}
+
+{{Chembox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 456682206
+| ImageFile = Altizide.svg
+| ImageSize = 250
+| IUPACName = (3''R'')-3-[(Allylsulfanyl)methyl]-6-chloro-3,4-dihydro-2''H''-1,2,4-benzothiadiazine-7-sulfonamide 1,1-dioxide
+| OtherNames = {{unbulleted list|Althiazide|CB 8093|P 1779|Altizidum}}
+
+| Section1 = {{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = GI8CB72B0D
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 599870
+| PubChem = 6604323
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 5036613
+| SMILES = O=S(=O)(c1c(Cl)cc2c(c1)S(=O)(=O)N[C@@H](N2)CSC\C=C)N
+| InChI = 1/C11H14ClN3O4S3/c1-2-3-20-6-11-14-8-4-7(12)9(21(13,16)17)5-10(8)22(18,19)15-11/h2,4-5,11,14-15H,1,3,6H2,(H2,13,16,17)/t11-/m1/s1
+| InChIKey = VGLGVJVUHYTIIU-LLVKDONJBT
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C11H14ClN3O4S3/c1-2-3-20-6-11-14-8-4-7(12)9(21(13,16)17)5-10(8)22(18,19)15-11/h2,4-5,11,14-15H,1,3,6H2,(H2,13,16,17)/t11-/m1/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = VGLGVJVUHYTIIU-LLVKDONJSA-N
+| CASNo_Ref = {{cascite|changed|??}}
+| CASNo = 5588-16-9
+| PubChem2 = 2122
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02838
+| SMILES2 = C=CCSCC1NC2=CC(=C(C=C2S(=O)(=O)N1)S(=O)(=O)N)Cl
+ }}
+
+| Section2 = {{Chembox Properties
+| Formula = C<sub>11</sub>H<sub>14</sub>ClN<sub>3</sub>O<sub>4</sub>S<sub>3</sub>
+| MolarMass = 383.89456
+| Appearance =
+| Density = 1.502 g/mL
+| MeltingPt =
+| BoilingPtC = 625.8
+| Solubility =
+ }}
+
+| Section3 = {{Chembox Hazards
+| MainHazards =
+| FlashPt =
+| AutoignitionPt =
+ }}
+}}
+
+'''Altizide''' is a thiazide [[diuretic]]. Together with [[spironolactone]] it's sold under the brand name of '''Aldactacine''' and '''Aldactazine''' by [[Pfizer]] and other names by other companies.<ref>{{cite web|title=Altizide|url=http://www.drugs.com/international/altizide.html|website=drugs.com}}</ref>
+
+==Synthesis==
+[[File:Altizide synthesis.svg|thumb|center|700px|Altizide synthesis: J. M. McMannus, {{Cite patent|GB|902658}} (1962).]]
+
+==References==
+{{Reflist}}
+
+{{Diuretics}}
+
+[[Category:Allyl compounds]]
+[[Category:Benzothiadiazines]]
+[[Category:Chloroarenes]]
+[[Category:Diuretics]]
+[[Category:Thioethers]]
+
+{{pharmacology-stub}}

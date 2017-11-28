@@ -1,0 +1,72 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464383368
+| IUPAC_name = (''RS'')-4-(3-cyclopentyloxy-4-methoxy-phenyl)pyrrolidin-2-one
+| image = Rolipram.svg
+| width = 200
+
+<!--Clinical data-->
+| tradename =
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category = 
+| legal_AU = <!-- Unscheduled / S2 / S4 / S8 -->
+| legal_UK = <!-- GSL / P / POM / CD -->
+| legal_US = <!-- OTC / Rx-only -->
+| legal_status = Investigational
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability = 75%<ref name = PK>{{cite journal|title=Pharmacokinetics of (+)-rolipram and (−)-rolipram in healthy volunteers|journal=European Journal of Clinical Pharmacology|year=1990|volume=38|issue=1|pages=71–75|doi=10.1007/BF00314807|author1=Krause, W |author2=Kühne, G |author3=Sauerbrey, N |pmid=2328751|url=https://link.springer.com/content/pdf/10.1007/BF00314807.pdf|format=PDF}}</ref>
+| protein_bound =
+| metabolism = [[Liver]] via [[CYP2C8]], [[CYP2C9]], [[CYP2C19]] and [[CYP2D6]]<ref name = PK/>
+| elimination_half-life = 3 hours<ref name = PK/>
+| excretion = Urine (80%)<ref name = PK/>
+
+<!--Identifiers-->
+| IUPHAR_ligand = 5260
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 61413-54-5
+| ATC_prefix = none
+| ATC_suffix = 
+| ATC_supplemental = 
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4913
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 104872
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H21NO3/c1-19-14-7-6-11(12-9-16(18)17-10-12)8-15(14)20-13-4-2-3-5-13/h6-8,12-13H,2-5,9-10H2,1H3,(H,17,18)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = HJORMJIFDVBMOB-UHFFFAOYSA-N
+| PubChem = 5092
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB04149
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = K676NL63N7
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 63
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D01783
+
+<!--Chemical data-->
+| C=16 | H=21 | N=1 | O=3
+| molecular_weight = 275.347 g/mol
+| smiles = COc1ccc(cc1OC1CCCC1)C1CNC(=O)C1
+}}
+
+'''Rolipram''' is a selective [[phosphodiesterase-4 inhibitor]] discovered and developed by [[Schering AG]] as a potential [[antidepressant]] drug in the early 1990s.<ref name="Zhu 387–98">{{cite journal|last=Zhu|first=J|author2=Mix, E |author3=Winblad, B |title=The antidepressant and antiinflammatory effects of rolipram in the central nervous system.|journal=CNS Drug Reviews|date=Winter 2001|volume=7|issue=4|pages=387–98|pmid=11830756|doi=10.1111/j.1527-3458.2001.tb00206.x}}</ref>  It served as a prototype molecule for several companies' [[drug discovery]] and development efforts.<ref name=McKenna>McKenna, JM and Muller, GW.  Medicinal Chemistry of PDE4 Inhibitors. Chapter 33 in Cyclic Nucleotide Phosphodiesterases in Health and Disease, Eds Joseph A. Beavo et al. CRC Press, Dec 5, 2006 {{ISBN|9781420020847}}</ref>{{rp|668ff}}  Rolipram was discontinued after clinical trials showed that its [[therapeutic window]] was too narrow; it could not be dosed at high enough levels to be effective without causing significant gastrointestinal side effects.<ref name=McKenna/>{{rp|668}}
+
+Rolipram has several activities that make it a continuing focus for research.  The etiology of many neurodegenerative diseases involves misfolded and clumped proteins which accumulate in the brain. Cells have a mechanism to dispose of such proteins called the proteasome.  However, in Alzheimer's disease and some other conditions the activity of these proteasomes is impaired leading to a buildup of toxic aggregates. Research in mice suggests that rolipram has the ability to ramp up the activity of proteasomes and reduce the burden of these aggregates. Preliminary evidence suggests that this can improve spatial memory in mice engineered to have aggregate build-up.<ref name="Myeku 46-53">{{cite journal| last=Myeku|first= Natura| journal = Nature Medicine| title=Tau-driven 26S proteasome impairment and cognitive dysfunction can be prevented early in disease by activating cAMP-PKA signaling.| date=December 21, 2015|doi = 10.1038/nm.4011| volume=22| pages=46–53| pmid=26692334| pmc=4787271}}</ref> It continues to be used in research as a well-characterized PDE4 inhibitor.<ref name=McKenna/>{{rp|669}}  It has been used in studies to understand whether PDE4 inhibition could be useful in [[autoimmune diseases]],<ref>{{cite journal  |vauthors=Kumar N, etal | date = Apr 2013 | title = Phosphodiesterase 4-targeted treatments for autoimmune diseases | journal = BMC Med. | volume = 11 | issue = 1| page = 96 | doi = 10.1186/1741-7015-11-96 | pmid = 23557064 | pmc=3616808}}</ref>  Alzheimer's disease,<ref>{{cite journal  |vauthors=García-Osta A, etal | date = Nov 2012 | title = Phosphodiesterases as therapeutic targets for Alzheimer's disease | journal = ACS Chem Neurosci | volume = 3 | issue = 11| pages = 832–44 | doi = 10.1021/cn3000907 | pmid = 23173065 | pmc=3503343}}</ref> cognitive enhancement,<ref>{{cite journal |vauthors=Normann C, Berger M | date = Nov 2008 | title = Neuroenhancement: status quo and perspectives | url = | journal = Eur Arch Psychiatry Clin Neurosci | volume = 258 | issue = Suppl 5| pages = 110–4 | doi = 10.1007/s00406-008-5022-2 | pmid = 18985306 }}</ref> spinal cord injury,<ref>{{cite journal |vauthors=Hannila SS, Filbin MT | date = Feb 2008 | title = The role of cyclic AMP signaling in promoting axonal regeneration after spinal cord injury | journal = Exp Neurol | volume = 209 | issue = 2| pages = 321–32 | doi = 10.1016/j.expneurol.2007.06.020 | pmid = 17720160 | pmc=2692909}}</ref> and respiratory diseases like asthma and [[COPD]].<ref>{{cite journal |vauthors=Huang Z, Mancini JA | year = 2006 | title = Phosphodiesterase 4 inhibitors for the treatment of asthma and COPD | url = | journal = Curr Med Chem. | volume = 13 | issue = 27| pages = 3253–62 | pmid = 17168849 | doi=10.2174/092986706778773040}}</ref>
+
+==See also==
+*[[Roflumilast]]
+
+==References==
+{{Reflist|33em}}
+
+{{Phosphodiesterase inhibitors}}
+
+[[Category:PDE4 inhibitors]]
+[[Category:Phenol ethers]]
+[[Category:Pyrrolidones]]

@@ -1,0 +1,79 @@
+{{COI|date=October 2016}}
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 
+| IUPAC_name = 4-Hydroxy-5-methoxy-''N'',1-dimethyl-2-oxo-''N''-[4-(trifluoromethyl)phenyl]-1,2-dihydroquinoline-3-carboxamide
+| image = Chemical structure of tasquinimod.svg
+| image2 = 
+<!--Clinical data-->
+| tradename = 
+| Drugs.com = 
+| MedlinePlus = 
+| licence_US = 
+| pregnancy_AU = 
+| pregnancy_US = 
+| pregnancy_category = 
+| legal_AU = 
+| legal_CA = 
+| legal_UK = 
+| legal_US = 
+| legal_status =  Experimental
+| routes_of_administration = 
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 40 ± 16 hours<ref name="bratt2009">{{cite journal |doi=10.1038/sj.bjc.6605322 |title=Open-label, clinical phase I studies of tasquinimod in patients with castration-resistant prostate cancer |year=2009 |last1=Bratt |first1=O |last2=Häggman |first2=M |last3=Ahlgren |first3=G |last4=Nordle |first4=Ö |last5=Björk |first5=A |last6=Damber |first6=J-E |journal=British Journal of Cancer |volume=101 |issue=8 |pages=1233–40 |pmid=19755981 |pmc=2768463}}</ref>
+| excretion = 
+<!--Identifiers-->
+| IUPHAR_ligand = 8098
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 254964-60-8
+| CAS_supplemental = 
+| ATC_prefix = 
+| ATC_suffix = <!--will come into effect 2012-->
+| PubChem = 54682876
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 11444963
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 756U07KN1R
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 2107784
+<!--Chemical data-->
+| C=20 | H=17 | F=3 | N=2 | O=4
+| molecular_weight = 406.355 g/mol
+| smiles = CN1C2=C(C(=CC=C2)OC)C(=C(C1=O)C(=O)N(C)C3=CC=C(C=C3)C(F)(F)F)O 
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C20H17F3N2O4/c1-24(12-9-7-11(8-10-12)20(21,22)23)18(27)16-17(26)15-13(25(2)19(16)28)5-4-6-14(15)29-3/h4-10,26H,1-3H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = ONDYALNGTUAJDX-UHFFFAOYSA-N
+}}
+'''Tasquinimod''' (ABR-215050, CID 54682876) is an experimental drug currently being investigated for the treatment of solid tumors. Tasquinimod has been mostly studied in [[prostate cancer]], but its mechanism of action suggests that it could be used to treat other cancers. Castration-resistant prostate cancer (CRPC), formerly called hormone-resistant or hormone-refractory prostate cancer, is prostate cancer that grows despite medical or surgical androgen deprivation therapy. Tasquinimod targets the tumor microenvironment and counteracts cancer development by inhibiting angiogenesis and metastasis and by modulating the immune system.<ref name="isaacs2006">{{cite journal |doi=10.1002/pros.20509 |title=Identification of ABR-215050 as lead second generation quinoline-3-carboxamide anti-angiogenic agent for the treatment of prostate cancer |year=2006 |last1=Isaacs |first1=John T. |last2=Pili |first2=Roberto |last3=Qian |first3=David Z. |last4=Dalrymple |first4=Susan L. |last5=Garrison |first5=Jason B. |last6=Kyprianou |first6=Natasha |last7=Björk |first7=Anders |last8=Olsson |first8=Anders |last9=Leanderson |first9=Tomas |journal=The Prostate |volume=66 |issue=16 |pages=1768–78 |pmid=16955399 }}</ref><ref name="isaacs2012">{{cite journal |doi=10.1158/0008-5472.CAN-12-2730 |title=Tasquinimod is an Allosteric Modulator of HDAC4 Survival Signaling within the Compromised Cancer Microenvironment |year=2012 |last1=Isaacs |first1=J. T. |last2=Antony |first2=L. |last3=Dalrymple |first3=S. L. |last4=Brennen |first4=W. N. |last5=Gerber |first5=S. |last6=Hammers |first6=H. |last7=Wissing |first7=M. |last8=Kachhap |first8=S. |last9=Luo |first9=J. |last10=Xing |first10=L. |last11=Björk |first11=P. |last12=Olsson |first12=A. |last13=Björk |first13=A. |last14=Leanderson |first14=T. |journal=Cancer Research |volume=73 |issue=4 |pages=1386–99 |pmid=23149916 |pmc=3578133}}</ref><ref name="kallberg2012">{{cite journal |doi=10.1371/journal.pone.0034207 |title=S100A9 Interaction with TLR4 Promotes Tumor Growth |year=2012 |editor1-last=Lebedeva |editor1-first=Irina V |last1=Källberg |first1=Eva |last2=Vogl |first2=Thomas |last3=Liberg |first3=David |last4=Olsson |first4=Anders |last5=Björk |first5=Per |last6=Wikström |first6=Pernilla |last7=Bergh |first7=Anders |last8=Roth |first8=Johannes |last9=Ivars |first9=Fredrik |last10=Leanderson |first10=Tomas |journal=PLoS ONE |volume=7 |issue=3 |pages=e34207 |pmid=22470535 |pmc=3314596}}</ref><ref name="jennbacken2012">{{cite journal |doi=10.1002/pros.21495 |title=Inhibition of metastasis in a castration resistant prostate cancer model by the quinoline-3-carboxamide tasquinimod (ABR-215050) |year=2012 |last1=Jennbacken |first1=Karin |last2=Welén |first2=Karin |last3=Olsson |first3=Anders |last4=Axelsson |first4=Bengt |last5=Törngren |first5=Marie |last6=Damber |first6=Jan-Erik |last7=Leanderson |first7=Tomas |journal=The Prostate |volume=72 |issue=8 |pages=913–24 |pmid=22287276}}</ref> It is now in phase III [[Drug development|development]],<ref name="NCT01234311">{{ClinicalTrialsGov|NCT01234311|A Study of Tasquinimod in Men With Metastatic Castrate Resistant Prostate Cancer}}</ref><ref name="ABPRDec2012">{{cite press release |title=Active Biotech and Ipsen announce completion of recruitment of tasquinimod clinical phase III study in prostate cancer |publisher=Active Biotech |date=Dec 10, 2012 |url=https://www.reuters.com/article/2012/12/10/idUS45430+10-Dec-2012+HUG20121210 |accessdate=January 4, 2014}}</ref> following successful phase II trial outcomes.<ref name="ABPRDec2012" /><ref name="pili2011">{{cite journal |doi=10.1200/JCO.2011.35.6295 |title=Phase II Randomized, Double-Blind, Placebo-Controlled Study of Tasquinimod in Men with Minimally Symptomatic Metastatic Castrate-Resistant Prostate Cancer |year=2011 |last1=Pili |first1=R. |last2=Häggman |first2=M. |last3=Stadler |first3=W. M. |last4=Gingrich |first4=J. R. |last5=Assikis |first5=V. J. |last6=Björk |first6=A. |last7=Nordle |first7=O. |last8=Forsberg |first8=G. |last9=Carducci |first9=M. A. |last10=Armstrong |first10=A. J. |journal=Journal of Clinical Oncology |volume=29 |issue=30 |pages=4022–8 |pmid=21931019}}</ref><ref name ="armstrong2012">Armstrong AJ, Häggman M, Stadler WM, et al. Tasquinimod and survival in men with metastatic castration-resistant prostate cancer: Results of long-term follow-up of a randomized phase II placebo-controlled trial. [Abstract no. 4550 plus poster].  American Society of Clinical Oncology Annual Meeting; 2012 June 1–5; Chicago.  http://www.asco.org/ASCOv2/Meetings/Abstracts?&vmview=abst_detail_view&confID=114&abstractID=98057; http://activebiotech.com/file/asco-poster-os-2012-final.pdf</ref>
+
+== History ==
+Collaborative studies by laboratories at [[Johns Hopkins School of Medicine]] and Active Biotech Research AB identified tasquinimod as the lead agent for developing a treatment for prostate cancer.<ref name="isaacs2006" /><ref name="bjork2009">{{cite journal |doi=10.1371/journal.pbio.1000097 |title=Identification of Human S100A9 as a Novel Target for Treatment of Autoimmune Disease via Binding to Quinoline-3-Carboxamides |year=2009 |editor1-last=Akira |editor1-first=Shizuo |last1=Björk |first1=Per |last2=Björk |first2=Anders |last3=Vogl |first3=Thomas |last4=Stenström |first4=Martin |last5=Liberg |first5=David |last6=Olsson |first6=Anders |last7=Roth |first7=Johannes |last8=Ivars |first8=Fredrik |last9=Leanderson |first9=Tomas |journal=PLoS Biology |volume=7 |issue=4 |pages=e97 |pmid=19402754 |pmc=2671563 }}</ref><ref name="isaacs2010">{{cite journal |doi=10.1517/13543784.2010.514262 |title=The long and winding road for the development of tasquinimod as an oral second-generation quinoline-3-carboxamide antiangiogenic drug for the treatment of prostate cancer |year=2010 |last1=Isaacs |first1=John T |journal=Expert Opinion on Investigational Drugs |volume=19 |issue=10 |pages=1235–43 |pmid=20836618}}</ref> Tasquinimod was one of several second-generation quinoline-3-carboxamide variants synthesized using the drug [[roquinimex]] as a starting point, and it performed well in pre-clinical studies of cancer [[Model organism|models]].<ref name="isaacs2006" /><ref name="isaacs2010" /><ref name="dalrymple2007">{{cite journal |doi=10.1002/pros.20573 |title=The quinoline-3-carboxamide anti-angiogenic agent, tasquinimod, enhances the anti-prostate cancer efficacy of androgen ablation and taxotere without effecting serum PSA directly in human xenografts |year=2007 |last1=Dalrymple |first1=Susan L. |last2=Becker |first2=Robin E. |last3=Isaacs |first3=John T. |journal=The Prostate |volume=67 |issue=7 |pages=790–7 |pmid=17373719}}</ref><ref name="olsson2010">{{cite journal |doi=10.1186/1476-4598-9-107 |title=Tasquinimod (ABR-215050), a quinoline-3-carboxamide anti-angiogenic agent, modulates the expression of thrombospondin-1 in human prostate tumors |year=2010 |last1=Olsson |first1=Anders |last2=Björk |first2=Anders |last3=Vallon-Christersson |first3=Johan |last4=Isaacs |first4=John T |last5=Leanderson |first5=Tomas |journal=Molecular Cancer |volume=9 |pages=107 |pmid=20470445 |pmc=2885345}}</ref>
+
+In April 2011, [[Ipsen]] and Active Biotech entered into a broad partnership for the co-development of tasquinimod for the treatment of cancer. Active Biotech granted Ipsen exclusive rights to commercialize tasquinimod worldwide, except in North and South America and Japan where Active Biotech retained all commercial and marketing rights.<ref name="ABPRApr2011">{{cite press release |title=Active Biotech and Ipsen enter into a broad partnership for the co- development and commercialization of TASQ in |publisher=Active Biotech |date=Apr 18, 2011 |url=https://www.reuters.com/article/2011/04/18/idUS38113+18-Apr-2011+MW20110418 |accessdate=January 4, 2014}}</ref>
+
+== Mechanism of action ==
+Tasquinimod is a novel small-molecule inhibitor that targets the tumor microenvironment by controlling the accumulation and immunosuppressive, pro-angiogenic and pro-metastatic functions of regulatory myeloid cells (also called myeloid-derived suppressor cells).<ref name="isaacs2006" /><ref name="kallberg2012" /><ref name="jennbacken2012" /><ref name="murdoch2008">{{cite journal |doi=10.1038/nrc2444 |title=The role of myeloid cells in the promotion of tumour angiogenesis |year=2008 |last1=Murdoch |first1=Craig |last2=Muthana |first2=Munitta |last3=Coffelt |first3=Seth B. |last4=Lewis |first4=Claire E. |journal=Nature Reviews Cancer |volume=8 |issue=8 |pages=618–31 |pmid=18633355}}</ref> It binds to and inhibits the interactions of [[S100A9]], an immunomodulatory protein that promotes tumor development,<ref name="turovskaya2008">{{cite journal |doi=10.1093/carcin/bgn188 |title=RAGE, carboxylated glycans and S100A8/A9 play essential roles in colitis-associated carcinogenesis |year=2008 |last1=Turovskaya |first1=O. |last2=Foell |first2=D. |last3=Sinha |first3=P. |last4=Vogl |first4=T. |last5=Newlin |first5=R. |last6=Nayak |first6=J. |last7=Nguyen |first7=M. |last8=Olsson |first8=A. |last9=Nawroth |first9=P. P. |last10=Bierhaus |first10=A. |last11=Varki |first11=N. |last12=Kronenberg |first12=M. |last13=Freeze |first13=H. H. |last14=Srikrishna |first14=G. |journal=Carcinogenesis |volume=29 |issue=10 |pages=2035–43 |pmid=18689872 |pmc=2556970}}</ref> influences suppressive and pro-angiogenic cells in the tumor microenvironment,<ref name="turovskaya2008" /><ref name="rafii2006">{{cite journal |doi=10.1038/ncb1206-1321 |title=S100 chemokines mediate bookmarking of premetastatic niches |year=2006 |last1=Rafii |first1=Shahin |last2=Lyden |first2=David |journal=Nature Cell Biology |volume=8 |issue=12 |pages=1321–3 |pmid=17139281 |pmc=2955889}}</ref><ref name="sinha2008">{{cite journal |pmid=18802069 |year=2008 |last1=Sinha |first1=P |last2=Okoro |first2=C |last3=Foell |first3=D |last4=Freeze |first4=HH |last5=Ostrand-Rosenberg |first5=S |last6=Srikrishna |first6=G |title=Proinflammatory S100 proteins regulate the accumulation of myeloid-derived suppressor cells |volume=181 |issue=7 |pages=4666–75 |pmc=2810501 |journal=Journal of immunology |doi=10.4049/jimmunol.181.7.4666}}</ref> and participates in the establishment of [[Pre-metastatic niche|pre-metastatic niches]].<ref name="rafii2006" />
+ 
+Tasquinimod may also target the tumor microenvironment by suppressing the tumor hypoxic response, in which genes involved in the adaptation and survival of cells during hypoxia are induced.<ref name="isaacs2012" /> Tasquinimod reduces tumor [[angiogenesis]]; but its anti-angiogenic effects do not appear to be linked to [[vascular endothelial growth factor]] (VEGF) neutralization or VEGF receptor tyrosine kinase inhibition.<ref name="isaacs2006" /><ref name="olsson2010" />
+
+== Clinical studies ==
+A randomized, double-blind, placebo-controlled phase II study comparing tasquinimod with placebo in 206 men with metastatic CRPC was completed in 2009.<ref name=pili2011 /> The primary endpoint in the trial was to show a difference in the number of patients with disease progression at 6 months.<ref name=pili2011 /> The proportion of patients who were disease progression-free after 6 months was 69% for patients treated with tasquinimod versus 37% for placebo-treated patients (p<0.001).<ref name=pili2011 /> Median [[progression-free survival]] (PFS) was significantly improved in patients treated with tasquinimod compared with patients receiving placebo (7.6 vs 3.3 months; hazard ratio [HR] 0.57; 95% confidence interval [CI] 0.39, 0.85, p=0.0042).<ref name=pili2011 /> Tasquinimod thus delayed disease progression by about 4.3 months. Overall survival (OS) observed for tasquinimod-treated patients was longer than previously reported in this patient population.<ref name=armstrong2012 /> Median overall survival was 33.4 months for the tasquinimod group versus 30.4 months for the placebo group (p=0.49).<ref name=armstrong2012 /> Using a multivariate analysis, treatment with tasquinimod was associated with an OS advantage with a HR of 0.64 (95% CI 0.42, 0.97, p=0.034).<ref name=armstrong2012 /> It was hypothesized that the prolongation in PFS observed with tasquinimod treatment may lead to a survival advantage in men with metastatic CRPC. Also, a stronger trend for survival benefit was seen in patients with bone metastases; 34.2 for the tasquinimod group vs 27.1 months for the placebo group (HR 0.73, 95% CI 0.46, 1.17, p=0.19).<ref name=armstrong2012 /> 
+
+Analysis of up to 3 years of safety data from phase II studies showed that treatment-related [[adverse event]]s were mild to moderate, manageable and less frequent after 2 months of therapy.<ref name=ABPRDec2012 /> Adverse events observed included gastrointestinal disorders, fatigue, musculoskeletal pain as well as elevations of some laboratory parameters.<ref name=ABPRDec2012 /> 
+
+A phase III randomized controlled trial called 10TASQ10<ref name="NCT01234311" /> to confirm tasquinimod’s effect on disease progression is ongoing. More than 1,200 patients with asymptomatic to mildly symptomatic metastatic CRPC were successfully enrolled in the study, as planned in the clinical protocol.<ref name=ABPRDec2012 /> The study is expected to complete in 2016.<ref name=NCT01234311 /> Other indications are currently under investigation.<ref name=NCT01234311 /><ref name="NCT01743469">{{ClinicalTrialsGov|NCT01743469|A Study With Tasquinimod Treating Patients in Four Independent Cohorts of Hepatocellular, Ovarian, Renal Cell and Gastric Cancers}}</ref>
+
+== References ==
+{{reflist}}
+
+[[Category:Experimental cancer drugs]]
+[[Category:2-Quinolones]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Quinolinols]]
+[[Category:Anilides]]

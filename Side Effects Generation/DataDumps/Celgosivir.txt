@@ -1,0 +1,72 @@
+{{Infobox drug
+| drug_name         =
+| INN               =
+| IUPAC_name        = [(1''S'',6''S'',7''S'',8''R'',8a''R'')-1,7,8-Trihydroxy-1,2,3,5,6,7,8,8a-octahydroindolizin-6-yl] butanoate
+| image             = Celgosivir.svg
+| alt               = 
+| caption           =
+<!-- Clinical data -->
+| pronounce         =
+| tradename         = 
+| Drugs.com         = 
+| MedlinePlus       = 
+| pregnancy_AU      = <!-- A/B1/B2/B3/C/D/X -->
+| pregnancy_AU_comment = 
+| pregnancy_US      = <!-- A/B/C/D/X/N -->
+| pregnancy_category= 
+| routes_of_administration = 
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_AU_comment =
+| legal_CA = <!-- OTC, Rx-only, Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_DE = <!-- Anlage I, II, III -->
+| legal_NZ = <!-- Class A, B, C -->
+| legal_UK = <!-- GSL, P, POM, CD, CD Lic, CD POM, CD No Reg POM, CD (Benz) POM, CD (Anab) POM or CD Inv POM / Class A, B, C -->
+| legal_US = <!-- OTC/Rx-only/Schedule I, II, III, IV, V -->
+| legal_UN = <!-- N I, II, III, IV / P I, II, III, IV-->
+| legal_status      = Investigational
+<!-- Pharmacokinetic data -->
+| bioavailability   = 
+| protein_bound     = 
+| metabolism        = 
+| metabolites       =
+| onset             = 
+| elimination_half-life = 
+| duration_of_action =
+| excretion         = 
+<!-- Identifiers -->
+| index_label       =
+| index2_label      =
+| CAS_number        = 
+| ATCvet            = 
+| ATC_prefix        = <!-- 'none' if uncategorised -->
+| ATC_suffix        = 
+| PubChem           = 60734
+| PubChem2          = 3033824
+| DrugBank          = 
+| synonyms = 6-''O''-Butanoylcastanospermine; MDL-28574; MX-3253
+|  ChemSpiderID = 54737
+<!-- Chemical data -->
+| C=12 | H=21 | N=1 | O=5
+| StdInChI=1S/C12H21NO5/c1-2-3-9(15)18-8-6-13-5-4-7(14)10(13)12(17)11(8)16/h7-8,10-12,14,16-17H,2-6H2,1H3/t7-,8-,10+,11+,12+/m0/s1
+| StdInChIKey=HTJGLYIJVSDQAE-VWNXEWBOSA-N
+| smiles = CCCC(=O)O[C@H]1CN2CC[C@@H]([C@@H]2[C@H]([C@@H]1O)O)O
+}}
+
+'''Celgosivir''', in development by Migenix for the treatment of [[hepatitis C virus]] (HCV) infection, is an oral [[prodrug]] of the natural product [[castanospermine]] that inhibits [[alpha-glucosidase]] I, an enzyme that plays a critical role in viral maturation by initiating the processing of the N-linked [[oligosaccharides]] of viral envelope [[glycoproteins]]. Celgosivir is well absorbed ''[[in vitro]]'' and ''[[in vivo]]'', and is rapidly converted to castanospermine. Celgosivir has a novel [[mechanism of action]] (i.e. host-directed glycosylation), and demonstrates broad antiviral activity ''in vitro''.<ref name=Durantel>{{cite journal | pmid=19649930 | year=2009 | author1=Durantel | first1=D | title=Celgosivir, an alpha-glucosidase I inhibitor for the potential treatment of HCV infection | journal=Current opinion in investigational drugs (London, England : 2000) | volume=10 | issue=8 | pages=860–70 }}</ref>
+
+==Clinical trials== 
+Celgosivir is not efficient as a monotherapy for the treatment of HCV, but has demonstrated a synergistic effect in combination with [[pegylated interferon alfa-2b]] plus [[ribavirin]], both ''in vitro'' and in phase II clinical trials that last up to 1 year in patients with chronic HCV infection. Celgosivir may prove to be a valuable component for combination therapy and may help to prevent the apparition of drug resistance. Long-term toxicity studies are necessary to confirm the safety of this novel drug in humans.<ref name=Durantel/>
+
+Although generally safe and well tolerated, celgosivir does not seem to reduce viral load or fever burden in patients with [[dengue fever]].<ref>{{cite journal | doi = 10.1016/S1473-3099(14)70730-3| pmid = 24877997| title = Efficacy and safety of celgosivir in patients with dengue fever (CELADEN): A phase 1b, randomised, double-blind, placebo-controlled, proof-of-concept trial| journal = The Lancet Infectious Diseases| volume = 14| issue = 8| pages = 706| year = 2014| last1 = Low| first1 = Jenny G| last2 = Sung| first2 = Cynthia| last3 = Wijaya| first3 = Limin| last4 = Wei| first4 = Yuan| last5 = Rathore| first5 = Abhay P S| last6 = Watanabe| first6 = Satoru| last7 = Tan| first7 = Boon Hian| last8 = Toh| first8 = Liying| last9 = Chua| first9 = Lian Tee| last10 = Hou| first10 = Yan'an| last11 = Chow| first11 = Angelia| last12 = Howe| first12 = Shiqin| last13 = Chan| first13 = Wing Ki| last14 = Tan| first14 = Kah Hin| last15 = Chung| first15 = Jasmine S| last16 = Cherng| first16 = Benjamin P| last17 = Lye| first17 = David C| last18 = Tambayah| first18 = Paul A| last19 = Ng| first19 = Lee Ching| last20 = Connolly| first20 = John| last21 = Hibberd| first21 = Martin L| last22 = Leo| first22 = Yee Sin| last23 = Cheung| first23 = Yin Bun| last24 = Ooi| first24 = Eng Eong| last25 = Vasudevan| first25 = Subhash G}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.genome.jp/dbget-bin/www_bget?D03433 KEGG DRUG: Celgosivir Hydrochloride]
+
+[[Category:Antivirals]]
+[[Category:Iminosugars]]
+[[Category:Butyrates]]
+[[Category:Triols]]
+[[Category:Indolizidines]]

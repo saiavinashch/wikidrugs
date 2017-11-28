@@ -1,0 +1,87 @@
+{{chembox
+| Verifiedfields = changed
+| verifiedrevid = 446670426
+| ImageFile=Molsidomine.svg
+| IUPACName=1-Ethoxy-''N''-(3-morpholino-5-oxadiazol-3-iumyl)methanimidate
+| OtherNames=
+|Section1={{Chembox Identifiers
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = D46583G77X
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4090
+| InChI = 1/C9H14N4O4/c1-2-16-9(14)10-8-7-13(11-17-8)12-3-5-15-6-4-12/h7H,2-6H2,1H3
+| InChIKey = XLFWDASMENKTKL-UHFFFAOYAC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C9H14N4O4/c1-2-16-9(14)10-8-7-13(11-17-8)12-3-5-15-6-4-12/h7H,2-6H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = XLFWDASMENKTKL-UHFFFAOYSA-N
+| CASNo_Ref = {{cascite|correct|??}}
+| CASNo=25717-80-0
+| PubChem=5353788
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1256353
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01320
+| SMILES = [O-]C(OCC)=Nc2on[n+](N1CCOCC1)c2
+}}
+|Section2={{Chembox Properties
+| Formula=C<sub>9</sub>H<sub>14</sub>N<sub>4</sub>O<sub>4</sub>
+| MolarMass=242.23 g/mol
+| Appearance=
+| Density=
+| MeltingPt=
+| BoilingPt=
+| Solubility=
+  }}
+|Section6={{Chembox Pharmacology
+| ATCCode_prefix = C01
+| ATCCode_suffix = DX12
+}}
+|Section7={{Chembox Hazards
+| MainHazards=
+| FlashPt=
+| AutoignitionPt =
+  }}
+}}
+
+'''Molsidomine''' is an orally active, long acting [[vasodilator|vasodilating]] [[drug]]. Molsidomine is [[drug metabolism|metabolized]] in the [[liver]] to the [[active metabolite]] [[linsidomine]]. Linsidomine is an unstable compound that releases [[nitric oxide]] (NO) upon decay as the actual vasodilating compound.<ref>{{Cite journal 
+| last1 = Rosenkranz | first1 = B. 
+| last2 = Winkelmann | first2 = B. R. 
+| last3 = Parnham | first3 = M. J. 
+| title = Clinical pharmacokinetics of molsidomine 
+| journal = Clinical pharmacokinetics 
+| volume = 30 
+| issue = 5 
+| pages = 372–384 
+| year = 1996 
+| pmid = 8743336
+| doi=10.2165/00003088-199630050-00004
+}}</ref>
+
+==Release of nitric oxide<ref>{{Cite book|last1=Mutschler|first1=Ernst|last2=Schäfer-Korting|first2=Monika|title=Arzneimittelwirkungen|language=German|location=Stuttgart|publisher=Wissenschaftliche Verlagsgesellschaft|year=2001|edition=8|page=558|isbn=3-8047-1763-2}}</ref>==
+[[File:Activation of molsidomine.svg|thumb|center|700px]]
+== Chemistry==
+Molsidomine as well as linsidomine are [[sydnone imine]]s, a class of [[mesoionic]] [[heterocyclic compound|heterocyclic]] [[aromatic]] [[chemical compound]]s.
+==Synthesis==
+A [[mesoionic]] [[sydnone]] is active as an antianginal agent.
+[[File:Molsidomine synthesis.svg|thumb|center|700px|Molsidomine synthesis:<ref>[http://ci.nii.ac.jp/els/110003632546.pdf?id=ART0004139913&type=pdf&lang=en&host=cinii&order_no=&ppv_type=0&lang_sw=&no=1438091494&cp= Chemical & pharmaceutical bulletin 19(1), 72-79, 1971-01-25.]</ref>]]
+Its synthesis starts by reacting 1-aminomorpholine with formaldehyde and hydrogen cyanide to give '''2'''. [[Nitrosation]] gives the N-nitroso analog ('''3''') which cyclizes to the [[sydnone]] ('''4''') on treatment with anhydrous acid. Formation of the ethyl urethane is then made possible by reacting [[Linsidomine]] with [[Ethyl chloroformate]].
+
+== See also ==
+* [[Nitric oxide]]
+* [[Nitrate (pharmacology)]]
+* [[Vasodilator]]
+
+==References==
+{{Reflist}}
+
+
+{{Vasodilators used in cardiac diseases}}
+{{Nitric oxide signaling}}
+
+[[Category:Vasodilators]]
+[[Category:Morpholines]]
+[[Category:Carbamates]]
+[[Category:Oxadiazoles]]
+
+{{cardiovascular-drug-stub}}

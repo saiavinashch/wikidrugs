@@ -1,0 +1,78 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 
+| IUPAC_name = [({1-[(2-Amino-9''H''-purin-9-yl)methyl]cyclopropyl}oxy)methyl]phosphonic acid
+| image = Besifovir.svg
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 441785-25-7
+| ATC_prefix = 
+| ATC_suffix = 
+| ATC_supplemental = <ref>{{cite web|url=http://www.whocc.no/atcddd/new_atc_ddd.html#ATCDDD_FINAL |title=ATC/DDD Classification (FINAL): New ATC 5th level codes |date=August 27, 2008 |author=WHO International Working Group for Drug Statistics Methodology |publisher=WHO Collaborating Centre for Drug Statistics Methodology |accessdate=2008-09-05 |archiveurl=https://web.archive.org/web/20080506023243/http://www.whocc.no/atcddd/new_atc_ddd.html#ATCDDD_FINAL |archivedate=2008-05-06 |deadurl=yes |df= }}</ref>
+| PubChem = 5270766
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 4PLG22CQUU
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = 
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 
+|  ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 4435660
+|  smiles = NC1=NC=C2N=CN(CC3(OCP(O)(O)=O)CC3)C2=N1
+|  StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = InChI=1S/C10H14N5O4P/c11-9-12-3-7-8(14-9)15(5-13-7)4-10(1-2-10)19-6-20(16,17)18/h3,5H,1-2,4,6H2,(H2,11,12,14)(H2,16,17,18)
+|  StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = KDNSSKPZBDNJDF-UHFFFAOYSA-N
+
+<!--Chemical data-->
+| chemical_formula =  
+| C=10 | H=14 | N=5 | O=4 | P=1
+| molecular_weight = 299.223022 g/mol
+}}
+
+'''Besifovir''' ([[International nonproprietary name|INN]]) is an [[Investigational New Drug|investigational]] [[medication]] to treat [[hepatitis B virus]] (HBV) infection. 
+It is a novel and potent acyclic nucleotide phosphonate with a similar chemical structure to [[adefovir]] and [[tenofovir]].<ref>{{cite journal
+| vauthors              = Lin CL, Yang HC, Kao JH
+| date                  = 4 January 2016
+| title                 = Hepatitis B virus: new therapeutic perspectives
+| url                   = http://onlinelibrary.wiley.com/doi/10.1111/liv.13003/abstract;jsessionid=556F31E6E697EA2E21098DC595667260.f04t04?systemMessage=Wiley+Online+Library+will+be+unavailable+on+Saturday+30th+July+2016+from+08%3A00-11%3A00+BST+%2F+03%3A00-06%3A00+EST+%2F+15%3A00-18%3A00+SGT+for+essential+maintenance.Apologies+for+the+inconvenience.
+| journal               = Liver Int.
+| publisher             = John Wiley & Sons Ltd
+| volume                = 36
+| issue                 = Supplement S1
+| pages                 = 85–92
+| doi                   = 10.1111/liv.13003
+| pmc                   = 
+| pmid                  = 26725903 
+}}</ref>
+
+==References==
+{{Reflist}}
+
+[[Category:Antivirals]]
+[[Category:Phosphonic acids]]
+[[Category:Purines]]
+[[Category:Cyclopropanes]]

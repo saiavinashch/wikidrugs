@@ -1,0 +1,85 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 477236952
+| IUPAC_name = ''mixture of:''<br />(10E,14E,16E)-(1R,4S,5′S,6S,6′R,8R,12S,13S,20R,21R,24S)-6′-[(S)-sec-butyl]-21,24-dihydroxy-5′,11,13,22-tetramethyl-2-oxo-(3,7,19-trioxatetracyclo[15.6.1.14,8.020,24]pentacosa-10,14,16,22-tetraene)-6-spiro-2′-(5′,6′-dihydro-2′H-pyran)-12-yl 2,6-dideoxy-4-O-(2,6-dideoxy-3-O-methyl-α-L-arabino-hexopyranosyl)-3-O-methyl-α-L-arabino-hexopyranoside<br />''and''<br />(10E,14E,16E)-(1R,4S,5′S,6S,6′R,8R,12S,13S,20R,21R,24S)-21,22-dihydroxy-6′-isopropyl-5′,11,13,22-tetramethyl-2-oxo-(3,7,19-trioxatetracyclo[15.6.1.14,8.020,24]pentacosa-10,14,16,22-tetraene)-6-spiro-2′-(5′,6′-dihydro-2′H-pyran)-12-yl 2,6-dideoxy-4-O-(2,6-dideoxy-3-O-methyl-α-L-arabino-hexopyranosyl)-3-O-methyl-α-L-arabino-hexopyranoside
+| image = Avermectins.png
+| width = 250
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B            / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_CA = <!-- Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only / Schedule I, II, III, IV, V -->
+| legal_status = 
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 71751-41-2
+| CAS_supplemental =  
+| ATCvet = yes
+| ATC_prefix = P54
+| ATC_suffix = AA02
+| ATC_supplemental =  
+| PubChem =  
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 8095964
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 5U8924T11H
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02777
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1630577
+
+<!--Chemical data-->
+| chemical_formula = [[Carbon|C]]<sub>48</sub>[[Hydrogen|H]]<sub>72</sub>[[Oxygen|O]]<sub>14</sub> (B1a)<br />C<sub>47</sub>H<sub>70</sub>O<sub>14</sub> (B1b)
+| C= | H= | N= | O=  
+| molecular_weight =  
+| smiles =  
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C48H72O14.C47H70O14/c1-11-25(2)43-28(5)17-18-47(62-43)23-34-20-33(61-47)16-15-27(4)42(26(3)13-12-14-32-24-55-45-40(49)29(6)19-35(46(51)58-34)48(32,45)52)59-39-22-37(54-10)44(31(8)57-39)60-38-21-36(53-9)41(50)30(7)56-38;1-24(2)41-27(5)16-17-46(61-41)22-33-19-32(60-46)15-14-26(4)42(25(3)12-11-13-31-23-54-44-39(48)28(6)18-34(45(50)57-33)47(31,44)51)58-38-21-36(53-10)43(30(8)56-38)59-37-20-35(52-9)40(49)29(7)55-37/h12-15,17-19,25-26,28,30-31,33-45,49-50,52H,11,16,20-24H2,1-10H3;11-14,16-18,24-25,27,29-30,32-44,48-49,51H,15,19-23H2,1-10H3/b13-12+,27-15+,32-14+;12-11+,26-14+,31-13+/t25-,26-,28-,30-,31-,33+,34-,35-,36-,37-,38-,39-,40+,41-,42-,43+,44-,45+,47+,48+;25-,27-,29-,30-,32+,33-,34-,35-,36-,37-,38-,39+,40-,41+,42-,43-,44+,46+,47+/m00/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = IBSREHMXUMOFBB-JFUDTMANSA-N
+| synonyms = avermectin B1 ([[Chemical Abstracts Service|CAS]] name), MK-936
+}}
+'''Abamectin''' is a widely used [[insecticide]] and [[anthelmintic]].
+
+==Chemistry==
+Abamectin is a mixture of [[avermectin]]s containing more than 80[[%]] avermectin B1a and less than 20% avermectin B1b. These two components, B1a and B1b have very similar biological and toxicological properties. The avermectins are insecticidal and antihelmintic compounds derived from various laboratory broths fermented by the soil [[bacterium]] ''[[Streptomyces avermitilis]]''. Abamectin is a natural fermentation product of this bacterium.<ref name="Campbell2012">{{cite book|last=Campbell|first=William C.|title=Ivermectin and Abamectin|url=https://books.google.com/books?id=LAHaBwAAQBAJ|year=2012|publisher=Springer Science & Business Media|isbn=978-1-4612-3626-9|pages=89–91}}</ref>
+
+==Activity==
+Abamectin is an insecticide as well as an [[acaricide]] and a [[nematicide]].
+
+==Use==
+Abamectin is used to control [[insect]] and [[mite]] [[pest (animal)|pest]]s of a range of [[agronomic]], [[fruit]], vegetable and ornamental [[agriculture|crops]], and it is used by homeowners for control of fire [[ant]]s. Abamectin is also used as a veterinary [[antihelmintic]].  Resistance to abamectin-based antihelmintics, although a growing problem, is not as common as to other classes of veterinary antihelmintics. The benzoate salt [[emamectin benzoate]] is also used as an insecticide.
+
+== Trade names ==
+Trade names include Abba, Abathor, Affirm, Agri-Mek, Avid, Dynamec, Epi-Mek, Genesis Horse Wormer, Reaper, Termictine 5%, Vertimec, 
+CAM-MEK 1.8% EC (cam for agrochemicals), Zephyr and Cure 1.8 EC.
+
+== References ==
+{{reflist}}
+*"[http://pmep.cce.cornell.edu/profiles/extoxnet/24d-captan/abamectin-ext.html Pesticide Information Profile: Abamectin.]" Pesticide Management Education Program. May 1994. Cornell University Cooperative Extension. 18 Sep 2007.
+
+==External links==
+* [http://www.farmchemicalsinternational.com/cropprotection/cpd/?op=cpdproductdetail&pid=20440 Crop Protection Database: Learn more about abamectin]
+
+{{Endectocides}}
+
+[[Category:Antiparasitic agents]]
+[[Category:Insecticides]]
+[[Category:Macrocycles]]

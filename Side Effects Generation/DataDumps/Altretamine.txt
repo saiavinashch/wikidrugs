@@ -1,0 +1,109 @@
+{{Drugbox
+| verifiedrevid = 456682333
+| drug_name =
+| IUPAC_name = ''N''<sup>2</sup>,''N''<sup>2</sup>,''N''<sup>4</sup>,''N''<sup>4</sup>,''N''<sup>6</sup>,''N''<sup>6</sup>-Hexamethyl-1,3,5-triazine-2,4,6-triamine
+| image = Altretamine.svg
+| width = 180
+| alt = Skeletal formula of altretamine
+| image2 = Altretamine-3D-balls.png
+| width2 = 180
+| alt2 = Ball-and-stick model of the altretamine molecule
+
+<!--Clinical data-->
+| tradename = Hexalen
+| Drugs.com = {{drugs.com|monograph|altretamine}}
+| MedlinePlus = a601200
+| licence_US = Altretamine
+| pregnancy_AU = D
+| pregnancy_US = D
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_US = Rx-only
+| routes_of_administration = Oral ([[Capsule (pharmacy)|capsules]])
+
+<!--Pharmacokinetic data-->
+| protein_bound = 94%
+| metabolism = Extensive [[liver]]
+| metabolites = Pentamethylmelamine, tetramethylmelamine
+| elimination_half-life = 4.7–10.2 hours
+
+<!--Identifiers-->
+| IUPHAR_ligand = 7112
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 645-05-6
+| ATC_prefix = L01
+| ATC_suffix = XX03
+| PubChem = 2123
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00488
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2038
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = Q8BIH59O7H
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D02841
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 24564
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1455
+| synonyms = <small>2,4,6-Tris(dimethylamino)-1,3,5-triazine</small>
+
+<!--Chemical data-->
+| C=9 | H=18 | N=6
+| molecular_weight = 210.28 g/mol
+| smiles = n1c(nc(nc1N(C)C)N(C)C)N(C)C
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C9H18N6/c1-13(2)7-10-8(14(3)4)12-9(11-7)15(5)6/h1-6H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = UUVWYPNAQBNQJQ-UHFFFAOYSA-N
+}}
+
+'''Altretamine''' (trade name '''Hexalen''') is an [[antineoplastic agent]]. It was approved by the [[Food and Drug Administration|U.S. FDA]] in 1990.
+
+== Uses ==
+It is indicated for use as a single agent in the palliative treatment of patients with persistent or recurrent [[ovarian cancer]] following first-line therapy with [[cisplatin]] and/or [[Alkylating antineoplastic agent|alkylating agent]]-based combination.<ref>{{cite web|title=Hexalen (altretamine) Capsule. Human Prescription Drug Label|url=https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8456a8db-a7f6-4bc0-86be-e9c8c374140b|website=dailymed.nlm.nih.gov|publisher=Eisai Inc.|accessdate=24 August 2016}}</ref>
+
+It is not considered a first-line treatment,<ref name="pmid12586589">{{cite journal |vauthors=Keldsen N, Havsteen H, Vergote I, Bertelsen K, Jakobsen A |title=Altretamine (hexamethylmelamine) in the treatment of platinum-resistant ovarian cancer: a phase II study |journal=Gynecol. Oncol. |volume=88 |issue=2 |pages=118–22 |year=2003 |pmid=12586589 |doi=10.1016/S0090-8258(02)00103-8}}</ref> but it can be useful as [[salvage therapy]].<ref name="pmid14751188">{{cite journal |vauthors=Chan JK, Loizzi V, Manetta A, Berman ML |title=Oral altretamine used as salvage therapy in recurrent ovarian cancer |journal=Gynecol. Oncol. |volume=92 |issue=1 |pages=368–71 |year=2004 |pmid=14751188 |doi=10.1016/j.ygyno.2003.09.017}}</ref> It also has the advantage of being less toxic than other drugs used for treating refractory ovarian cancer.<ref name="pmid11302345">{{cite journal |author =Malik IA |title=Altretamine is an effective palliative therapy of patients with recurrent epithelial ovarian cancer |journal=Jpn. J. Clin. Oncol. |volume=31 |issue=2 |pages=69–73 |year=2001 |pmid=11302345 |doi=10.1093/jjco/hye012}}</ref>
+
+== Mechanism ==
+The precise mechanism by which altretamine exerts its anti-cancer effect is unknown but it is classified by [[Medical Subject Headings|MeSH]] as an [[alkylating antineoplastic agent]].<ref name="pmid7656502">{{cite journal |vauthors=Damia G, D'Incalci M |title=Clinical pharmacokinetics of altretamine |journal=Clinical pharmacokinetics |volume=28 |issue=6 |pages=439–48 |year=1995 |pmid=7656502 |doi=10.2165/00003088-199528060-00002}}</ref>
+
+This unique structure is believed to damage [[tumor]] cells through the production of the weakly alkylating species [[formaldehyde]], a product of [[CYP450]]-mediated [[Demethylation|''N''-demethylation]]. Administered orally, altretamine is extensively metabolized on first pass, producing primarily mono- and didemethylated metabolites. Additional demethylation reactions occur in tumor cells, releasing [[formaldehyde]] in situ before the drug is excreted in the urine. The [[carbinolamine]] (methylol) intermediates of CYP450-mediated metabolism also can generate electrophilic iminium species that are capable of reacting covalently with DNA [[guanine]] and [[cytosine]] residues as well as protein. Iminium-mediated DNA cross-linking and DNA-protein interstrand cross-linking, mediated through both the iminium intermediate and formaldehyde, have been demonstrated, although the significance of DNA cross-linking on altretamine antitumor activity is uncertain.<ref>{{cite book|editor1-last=Lemke|editor1-first=Thomas L.|editor2-last=Williams|editor2-first=David A.|title=Foye's Principles of Medicinal Chemistry|date=2008|publisher=Lippincott Williams & Wilkins|location=Philadelphia|isbn=978-0-7817-6879-5|edition=6th|accessdate=24 August 2016}}</ref>
+
+== Side effects ==
+Side effects include [[nausea]], [[vomiting]], [[anemia]] and [[Peripheral neuropathy|peripheral sensory neuropathy]].<ref name="Drugs.com">Drugs.com: [http://www.drugs.com/monograph/altretamine.html Altretamine Monograph]</ref>
+
+== Interactions ==
+Combination with [[pyridoxine]] (vitamin B<sub>6</sub>) decreases [[neurotoxicity]] but has been found to reduce the effectiveness of an altretamine/[[cisplatin]] regime.<ref>{{cite journal
+| doi = 10.3109/07357909209032783
+| last1 = Wiernik | first1 = P. H.
+| last2 = Yeap | first2 = B.
+| last3 = Vogl | first3 = S. E.
+| last4 = Kaplan | first4 = B. H.
+| last5 = Comis | first5 = R. L.
+| last6 = Falkson | first6 = G.
+| last7 = Davis | first7 = T. E.
+| last8 = Fazzini | first8 = E.
+| last9 = Cheuvart | first9 = B.
+| last10 = Horton | first10 = J.
+| title = Hexamethylmelamine and low or moderate dose cisplatin with or without pyridoxine for treatment of advanced ovarian carcinoma: A study of the Eastern Cooperative Oncology Group
+| journal = Cancer investigation
+| volume = 10
+| issue = 1
+| pages = 1–9
+| year = 1992
+| pmid = 1735009
+}}</ref> [[MAO inhibitor]] can cause severe [[orthostatic hypotension]] when combined with altretamine; and [[cimetidine]] can increase its elimination half-life and toxicity.<ref name="Drugs.com" />
+
+== See also ==
+* [[Triethylenemelamine]]
+
+== References ==
+{{reflist|30em}}
+
+{{Chemotherapeutic agents}}
+{{Use dmy dates|date=April 2017}}
+
+[[Category:DNA replication inhibitors]]
+[[Category:Orphan drugs]]
+[[Category:Triazines]]

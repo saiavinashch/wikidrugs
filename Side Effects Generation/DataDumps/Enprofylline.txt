@@ -1,0 +1,70 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 405783678
+| IUPAC_name = 3-Propyl-7''H''-purine-2,6-dione
+| image = Enprofylline.svg
+| alt = Skeletal formula
+| width = 140
+| image2 = Enprofylline molecule spacefill.png
+| alt2 = Space-filling model of enprofylline
+
+<!--Clinical data-->
+| tradename =
+| pregnancy_category =
+| legal_AU =
+| legal_CA =
+| legal_UK =
+| legal_US =
+| legal_status =
+| routes_of_administration =
+
+<!--Pharmacokinetic data-->
+| bioavailability =
+| protein_bound =
+| metabolism =
+| elimination_half-life =
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 41078-02-8
+| ATC_prefix = None
+| ATC_suffix =
+| ATC_supplemental =
+| PubChem = 1676
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = DB00824
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 1613
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = DT7DT5E518
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D04006
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 126237
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 279898
+
+<!--Chemical data-->
+| C=8 | H=10 | N=4 | O=2 
+| molecular_weight = 194.190 g/mol
+| smiles = O=C2N(c1ncnc1C(=O)N2)CCC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C8H10N4O2/c1-2-3-12-6-5(9-4-10-6)7(13)11-8(12)14/h4H,2-3H2,1H3,(H,9,10)(H,11,13,14)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = SIQPXVQCUCHWDI-UHFFFAOYSA-N
+}}
+
+'''Enprofylline''' ('''3-propylxanthine''') is a [[xanthine]] derivative used in the treatment of [[asthma]], which acts as a [[bronchodilator]]. It acts primarily as a competitive nonselective [[phosphodiesterase inhibitor]] with relatively little activity as a nonselective [[adenosine receptor]] antagonist.<ref name="pmid6288396">{{cite journal |vauthors=Lunell E, Svedmyr N, Andersson KE, Persson CG |title=Effects of enprofylline, a xanthine lacking adenosine receptor antagonism, in patients with chronic obstructive lung disease |journal=European Journal of Clinical Pharmacology |volume=22 |issue=5 |pages=395–402 |year=1982 |pmid=6288396 |doi= 10.1007/bf00542541|url=}}</ref><ref name="pmid3325233">{{cite journal |author=Laursen LC |title=Anti asthmatic effects and pharmacokinetics of enprofylline--a new xanthine derivate |journal=Danish Medical Bulletin |volume=34 |issue=6 |pages=289–97 |date=December 1987 |pmid=3325233 |doi= |url=}}</ref>
+
+==References==
+{{reflist}}
+
+{{Asthma and copd rx}}
+{{Phosphodiesterase inhibitors}}
+{{Adenosinergics}}
+
+[[Category:Adenosine receptor antagonists]]
+[[Category:Bronchodilators]]
+[[Category:Phosphodiesterase inhibitors]]
+[[Category:Xanthines]]

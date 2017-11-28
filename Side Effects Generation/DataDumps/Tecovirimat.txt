@@ -1,0 +1,57 @@
+{{Drugbox
+| verifiedrevid =  
+| IUPAC_name = ''N''-<nowiki/>{3,5-Dioxo-4- azatetracyclo[5.3.2.0<sup>{2,6}</sup>.0<sup>{8,10}</sup>]dodec-11-en-4- yl}-4-(trifluoromethyl)benzamide
+| image = Tecovirimat.svg
+| width = 200
+<!--Clinical data-->
+| tradename =  
+| licence_EU =  
+| licence_US =  
+| pregnancy_US =  
+| legal_status =  Investigational
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| metabolism =  
+| excretion =  
+<!--Identifiers-->
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID =  
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = F925RR824R
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG =  
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1242629
+| synonyms = ST-246
+<!--Chemical data-->
+| C=19 | H=15 | F=3 | N=2 | O=3
+| molecular_weight = base: 376.3 g/mol
+| smiles = FC(F)(F)c1ccc(cc1)C(=O)NN1C(=O)C2C(C3C=CC2C2CC32)C1=O
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H15F3N2O3/c20-19(21,22)9-3-1-8(2-4-9)16(25)23-24-17(26)14-10-5-6-11(13-7-12(10)13)15(14)18(24)27/h1-6,10-15H,7H2,(H,23,25)
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = CSKDFZIMJXRJGH-UHFFFAOYSA-N
+}}
+
+'''Tecovirimat''' ('''ST-246''') is an [[Antiviral drug|antiviral]] with activity against [[orthopoxviruses]] such as [[smallpox]] and is currently undergoing clinical trials. It was previously owned by [[Viropharma]] and discovered in collaboration with scientists at [[USAMRIID]].  It is currently owned and is synthesized by [[Siga Technologies]], a drug development company in the [[biodefense]] arena. It works by blocking cellular transmission of the virus, thus preventing the disease. Tecovirimat has been effective in laboratory testing, with no serious side effects reported to date. Despite not yet having FDA approval for medical use, tecovirimat is stockpiled in the US [[Strategic National Stockpile]] as a defense against a smallpox outbreak.<ref>{{cite journal | doi = 10.1371/journal.ppat.1004108| pmid = 24789223| title = Are We There Yet? The Smallpox Research Agenda Using Variola Virus| journal = PLoS Pathogens| volume = 10| issue = 5| pages = e1004108| year = 2014| last1 = Damon| first1 = Inger K.| last2 = Damaso| first2 = Clarissa R.| last3 = McFadden| first3 = Grant| pmc=4006926}}</ref>
+
+==Clinical study==
+The results of clinical trials involving tecovirimat supports its use against smallpox and other related orthopoxviruses. It has shown potential for a variety of uses including [[prophylaxis]], as a post-exposure therapeutic, as a therapeutic and an adjunct to vaccination.<ref>[http://www.siga.com/index.php?ID=9 Siga Technologies]</ref>
+
+Tecovirimat can be taken orally and has recently been granted permission to conduct Phase II trials by the [[Food and Drug Administration (United States)|U.S. Food and Drug Administration]] (FDA). In phase I trials tecovirimat was generally well tolerated with no serious adverse events.<ref>{{cite journal | pmc = 2346641| year = 2008| author1 = Jordan| first1 = R| title = Single-Dose Safety and Pharmacokinetics of ST-246, a Novel Orthopoxvirus Egress Inhibitor| journal = Antimicrobial Agents and Chemotherapy| volume = 52| issue = 5| pages = 1721–1727| last2 = Tien| first2 = D| last3 = Bolken| first3 = T. C.| last4 = Jones| first4 = K. F.| last5 = Tyavanagimatt| first5 = S. R.| last6 = Strasser| first6 = J| last7 = Frimm| first7 = A| last8 = Corrado| first8 = M. L.| last9 = Strome| first9 = P. G.| last10 = Hruby| first10 = D. E.| doi = 10.1128/AAC.01303-07| pmid = 18316519}}</ref> Due to its importance for biodefense, the FDA has designated tecovirimat  for 'fast-track' status, creating a path for expedited FDA review and eventual regulatory approval.
+
+==Operating mechanism==
+{{clarify section|reason=the mechanism of action described here doesn't make sense as written.  Tecovirimat cannot target a gene, but it must instead target a protein encoded by the gene.|date=November 2014}}
+Tecovirimat is an orthopoxvirus egress [[Enzyme inhibitor|inhibitor]]. Tecovirimat appears to target the V061 gene in cowpox, which is homologous to the vaccinia virus F13L. By targeting this gene, tecovirimat inhibits the function of a major envelope protein required for the production of extracellar virus. Thus the virus is prevented from leaving the cell, and the spread of the virus within the body is prevented.<ref>{{cite journal | pmc = 1235851| year = 2005| author1 = Yang| first1 = G| title = An Orally Bioavailable Antipoxvirus Compound (ST-246) Inhibits Extracellular Virus Formation and Protects Mice from Lethal Orthopoxvirus Challenge| journal = Journal of Virology| volume = 79| issue = 20| pages = 13139–13149| last2 = Pevear| first2 = D. C.| last3 = Davies| first3 = M. H.| last4 = Collett| first4 = M. S.| last5 = Bailey| first5 = T| last6 = Rippen| first6 = S| last7 = Barone| first7 = L| last8 = Burns| first8 = C| last9 = Rhodes| first9 = G| last10 = Tohan| first10 = S| last11 = Huggins| first11 = J. W.| last12 = Baker| first12 = R. O.| last13 = Buller| first13 = R. L.| last14 = Touchette| first14 = E| last15 = Waller| first15 = K| last16 = Schriewer| first16 = J| last17 = Neyts| first17 = J| last18 = Declercq| first18 = E| last19 = Jones| first19 = K| last20 = Hruby| first20 = D| last21 = Jordan| first21 = R| doi = 10.1128/JVI.79.20.13139-13149.2005| pmid = 16189015}}</ref>
+
+==References==
+<references/>
+
+[[Category:Antivirals]]
+[[Category:Poxviruses]]
+[[Category:Imides]]
+[[Category:Hydrazides]]
+[[Category:Experimental drugs]]
+[[Category:Trifluoromethyl compounds]]
+[[Category:Benzamides]]
+[[Category:Nitrogen heterocycles]]

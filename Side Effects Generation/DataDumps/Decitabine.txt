@@ -1,0 +1,103 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 450864482
+| IUPAC_name = 4-Amino-1-(2-deoxy-β-<small>D</small>-erythro-pentofuranosyl)-1,3,5-triazin-2(1''H'')-one
+| image = Decitabine.svg
+<!--Clinical data-->
+| tradename = Dacogen
+| Drugs.com = {{drugs.com|monograph|decitabine}}
+| MedlinePlus = a608009
+| pregnancy_category = D
+| legal_status = Rx-only
+| routes_of_administration = [[Intravenous therapy|Intravenous]]
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = <1%
+| metabolism =  
+| elimination_half-life = 30 minutes
+<!--Identifiers-->
+| IUPHAR_ligand = 6805
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 2353-33-5
+| ATC_prefix = L01
+| ATC_suffix = BC08
+| ATC_supplemental =  
+| PubChem = 451668
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01262
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 397844
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 776B62CQ27
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03665
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 50131
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 1201129
+<!--Chemical data-->
+| C=8 | H=12 | N=4 | O=4
+| molecular_weight = 228.206 g/mol
+| smiles = O=C1/N=C(\N=C/N1[C@@H]2O[C@@H]([C@@H](O)C2)CO)N
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C8H12N4O4/c9-7-10-3-12(8(15)11-7)6-1-4(14)5(2-13)16-6/h3-6,13-14H,1-2H2,(H2,9,11,15)/t4-,5+,6+/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = XAUDJQYHKZQPEU-KVQBGUIXSA-N
+}}
+
+'''Decitabine''' (trade name '''Dacogen'''), or '''5-aza-2'-deoxycytidine''', acts as an Nucleic Acid Synthesis Inhibitor.<ref>{{Cite web|url=https://pubchem.ncbi.nlm.nih.gov/compound/451668|title=Decitabine|last=|first=|date=|website=National Center for Biotechnology Information|publisher=|access-date=September 24, 2016}}</ref> It is a [[pharmaceutical drug|drug]] for the treatment of [[myelodysplastic syndromes]], a class of conditions where certain blood cells are dysfunctional, and for [[acute myeloid leukemia]] (AML).<ref name=EC-AML>{{cite news|title=EC Approves Marketing Authorization Of DACOGEN For Acute Myeloid Leukemia|url=http://www.rttnews.com/1973982/ec-approves-marketing-authorization-of-dacogen-for-acute-myeloid-leukemia.aspx?type=qf|accessdate=28 September 2012|date=2012-09-28}}</ref> Chemically, it is a [[cytidine]] [[analog (chemistry)|analog]].
+
+
+==Medical use==
+Decitabine is used to treat [[myelodysplastic syndromes]] (MDS) including previously treated and untreated, de novo and secondary MDS of all French-American-British subtypes ([[refractory anemia]], [[refractory anemia with ringed sideroblasts]], [[refractory anemia with excess blasts]], [[refractory anemia with excess blasts in transformation]], and [[chronic myelomonocytic leukemia]]) and Intermediate-1, Intermediate-2, and High-Risk International Prognostic Scoring System groups. In patients with renal insufficiency, Batty and colleagues reported the first case series on the feasibility of therapy with hypomethylating agents in patients with renal insufficiency.<ref>{{Cite journal 
+| last1 = Ravandi | first1 = F. 
+| last2 = Kantarjian | first2 = J. E. 
+| last3 = Issa | first3 = S. 
+| last4 = Jabbour | first4 = S. 
+| last5 = Santos | first5 = G. 
+| last6 = McCue | first6 = D. 
+| last7 = Garcia-Manero | first7 = F. P. S. 
+| last8 = Pierce | first8 = E. 
+| last9 = O'Brien | first9 = J. P. 
+| last10 = Cortés 
+| doi = 10.3816/CLML.2010.n.032 | first10 = J. E. 
+| last11 = Ravandi | first11 = F. 
+| title = Feasibility of Therapy with Hypomethylating Agents in Patients with Renal Insufficiency 
+| journal = Clinical Lymphoma, Myeloma & Leukemia 
+| volume = 10 
+| issue = 3 
+| pages = 205–210 
+| year = 2010 
+| pmid = 20511166 
+| pmc =3726276 
+}}</ref>
+
+It also has EU approval for [[acute myeloid leukemia]] (AML).<ref name=EC-AML/>
+
+==Pharmacology==
+Decitabine is a [[hypomethylating agent]].<ref name="pmid16532500">{{cite journal |vauthors=Kantarjian H, Issa JP, Rosenfeld CS |title=Decitabine improves patient outcomes in myelodysplastic syndromes: results of a phase III randomized study |journal=Cancer |volume=106 |issue=8 |pages=1794–1803 |date=April 2006 |pmid=16532500 |doi=10.1002/cncr.21792|display-authors=etal}}</ref><ref name="pmid12879469">{{cite journal |vauthors=Kantarjian HM, O'Brien S, Cortes J |title=Results of decitabine (5-aza-2'deoxycytidine) therapy in 130 patients with chronic myelogenous leukemia |journal=Cancer |volume=98 |issue=3 |pages=522–528 |date=August 2003 |pmid=12879469 |doi=10.1002/cncr.11543|display-authors=etal}}</ref> It hypomethylates DNA by inhibiting [[DNA methyltransferase]]. 
+
+It functions in a similar manner to [[azacitidine]], although decitabine can only be incorporated into DNA strands while azacitidine can be incorporated into both DNA and RNA chains.
+
+==Research – atherosclerosis==
+A number of investigators have shown a relationship between atherosclerosis and disturbed blood flow. This upregulates DNA methyltransferase expression, which leads to genome-wide DNA methylation alterations and global gene expression changes. These studies have revealed several mechanosensitive genes, such as HoxA5, Klf3, and Klf4, whose promoters were hypermethylated by disturbed blood flow, but rescued by DNA methyltransferases inhibitors such as 5-aza-2'-deoxycytidine. It has been found that use of this DNA methyltranferase inhibitor prevents atherosclerosis lesion formation and reduces the production of inflammatory cytokines by macrophages.<ref>{{cite journal|last1=Dunn|first1=J|last2=Thabet|first2=S|last3=Jo|first3=H|title=Flow-Dependent Epigenetic DNA Methylation in Endothelial Gene Expression and Atherosclerosis.|journal=Arteriosclerosis, thrombosis, and vascular biology|date=July 2015|volume=35|issue=7|pages=1562–9|pmid=25953647|pmc=4754957}}</ref>
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+*{{cite journal |vauthors=Moon C, Kim SH |title=Use of epigenetic modification to induce FOXP3 expression in naïve T cells |journal=Transplant Proc. |volume=41 |issue=5 |pages=1848–1854 |date=June 2009 |pmid=19545742 |doi=10.1016/j.transproceed.2009.02.101 }}
+
+== External links ==
+* [http://www.dacogen.com/ Product website]
+
+{{Intracellular chemotherapeutic agents}}
+
+[[Category:Nucleosides]]
+[[Category:Pyrimidine antagonists]]
+[[Category:Triazines]]
+[[Category:Lactams]]
+
+
+{{antineoplastic-drug-stub}}

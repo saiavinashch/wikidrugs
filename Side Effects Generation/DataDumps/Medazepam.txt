@@ -1,0 +1,76 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 462101416
+| IUPAC_name = 7-chloro-1-methyl-5-phenyl-2,3-dihydro-1,4-benzodiazepine
+| image = File:Medazepam.svg
+| width = 170
+| image2 = Medazepam ball-and-stick model.png
+
+<!--Clinical data-->
+| tradename = Rudotel
+| Drugs.com = {{drugs.com|international|medazepam}}
+| pregnancy_category =
+| legal_CA = Schedule IV
+| legal_DE = Rx-only/Anlage III
+| legal_US = Schedule IV
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability = 50–75% (С<sub>max</sub> = 1–2 hours)
+| protein_bound = >99%
+| metabolism = [[Liver|Hepatic]]
+| elimination_half-life = 2 hours, 36–150 hours (terminal)
+| excretion = [[Kidney|Renal]] (63–85%), [[Bile|Biliary]] 15–37%
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 2898-12-6
+| ATC_prefix = N05
+| ATC_suffix = BA03
+| PubChem = 4041
+| DrugBank_Ref = {{drugbankcite|changed|drugbank}}
+| DrugBank = none
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3901
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = P0J3387W3S
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D01292
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 28333
+
+<!--Chemical data-->
+| C=16 | H=15 | Cl=1 | N=2 
+| molecular_weight = 270.8 g/mol
+| smiles = ClC1=CC(C(C2=CC=CC=C2)=NCCN3C)=C3C=C1
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C16H15ClN2/c1-19-10-9-18-16(12-5-3-2-4-6-12)14-11-13(17)7-8-15(14)19/h2-8,11H,9-10H2,1H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = YLCXGBZIZBEVPZ-UHFFFAOYSA-N
+}}
+
+'''Medazepam''' is a drug that is a [[benzodiazepine]] derivative. It possesses [[anxiolytic]], [[anticonvulsant]], [[sedative]], and [[skeletal muscle relaxant]] properties. It is known by the following brand names:  '''Azepamid''', '''Nobrium''', '''Tranquirax''' (mixed with [[bevonium]]), '''Rudotel''', '''Raporan''', '''Ansilan''' and '''Mezapam'''.<ref>[http://www.drug-encyclopedia.eu/DW_EN/benzodiazepines.shtml Encyclopedia of Drugs: Benzodiazepines<!-- Bot generated title -->]</ref> Medazepam is a long-acting benzodiazepine drug. The half-life of medazepam is 36–200 hours.<ref>{{cite web | url = http://www.bcnc.org.uk/equivalence.html | title = BENZODIAZEPINE EQUIVALENCY TABLE | accessdate = September 23, 2007 | author = Professor heather Ashton |date=April 2007 }}</ref>
+
+==Pharmacology==
+Benzodiazepine drugs including medazepam increase the inhibitory processes in the cerebral cortex by allosteric modulation of the GABA receptor.<ref>{{cite journal | author = Zakusov VV |author2=Ostrovskaya RU |author3=Kozhechkin SN |author4=Markovich VV |author5=Molodavkin GM |author6=Voronina TA.  |date=October 1977 | title = Further evidence for GABA-ergic mechanisms in the action of benzodiazepines. | volume = 229 | issue = 2 | pages = 313–26 | pmid = 23084 | journal = Archives Internationales de Pharmacodynamie et de Thérapie }}</ref> Benzodiazepines may also act via [[micromolar]] benzodiazepine-binding sites as [[Calcium in biology|Ca<sup>2+</sup>]] channel blockers and significantly inhibited depolarization-sensitive calcium uptake in experiments with cell components from rat brains. This has been conjectured as a mechanism for high dose effects against seizures in a study.<ref>{{cite journal | journal = Proc Natl Acad Sci USA |date=May 1984 | volume = 81 | issue = 10 | pages = 3118–22 | url = http://www.pnas.org/cgi/reprint/81/10/3118.pdf |format=PDF| type = PDF | title = Micromolar-affinity benzodiazepine receptors regulate voltage-sensitive calcium channels in nerve terminal preparations | author = Taft WC |author2=DeLorenzo RJ | pmid = 6328498 | doi = 10.1073/pnas.81.10.3118 | pmc = 345232}}</ref> It has major active benzodiazepine metabolites, which gives it a more prolonged therapeutic effects after administration.<ref>{{cite journal |author=Jochemsen R, Breimer DD |title=Pharmacokinetics of benzodiazepines: metabolic pathways and plasma level profiles |journal=Curr Med Res Opin |volume=8 Suppl 4 |issue= |pages=60–79 |year=1984 |pmid=6144464 |doi= 10.1185/03007998409109545|url=}}</ref>
+
+==See also==
+*[[Benzodiazepine]]
+*[[Benzodiazepine dependence]]
+*[[Benzodiazepine withdrawal syndrome]]
+*[[Long-term effects of benzodiazepines]]
+
+==References==
+<references/>
+
+==External links==
+* [http://www.inchem.org/documents/pims/pharm/pim460.htm Inchem - Medazepam]
+
+{{Benzodiazepines}}
+{{Anxiolytics}}
+{{GABAAR PAMs}}
+
+[[Category:Benzodiazepines]]
+[[Category:Chloroarenes]]
+[[Category:GABAA receptor positive allosteric modulators]]

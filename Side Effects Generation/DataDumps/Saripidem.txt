@@ -1,0 +1,69 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 464387333
+| IUPAC_name = ''N''-<nowiki>[[</nowiki>2-(4-chlorophenyl)imidazo[1,2-a]pyridin-3-yl]methyl]-''N''-methylbutanamide
+| image = Saripidem.svg
+| width = 222
+
+<!--Clinical data-->
+| tradename =  
+| pregnancy_AU = <!-- A / B1 / B2 / B3 / C / D / X -->
+| pregnancy_US = <!-- A / B / C / D / X -->
+| pregnancy_category =  
+| legal_AU = <!-- Unscheduled / S2 / S3 / S4 / S5 / S6 / S7 / S8 / S9 -->
+| legal_CA = <!-- / Schedule I, II, III, IV, V, VI, VII, VIII -->
+| legal_UK = <!-- GSL / P / POM / CD / Class A, B, C -->
+| legal_US = <!-- OTC / Rx-only  / Schedule I, II, III, IV, V -->
+| legal_status =  
+| routes_of_administration =  
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound =  
+| metabolism =  
+| elimination_half-life =  
+| excretion =  
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 103844-86-6
+| ATC_prefix = none
+| ATC_suffix =  
+| PubChem = 3058746
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank =  
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 2319846
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = 0J6174G60N
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 73416
+
+<!--Chemical data-->
+| C=19 | H=20 | Cl=1 | N=3 | O=1 
+| molecular_weight = 341.835 g/mol
+| smiles = O=C(N(C)Cc1c(nc2ccccn12)c3ccc(Cl)cc3)CCC
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C19H20ClN3O/c1-3-6-18(24)22(2)13-16-19(14-8-10-15(20)11-9-14)21-17-7-4-5-12-23(16)17/h4-5,7-12H,3,6,13H2,1-2H3
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = LIFDPEORUVTOCP-UHFFFAOYSA-N
+}}
+
+'''Saripidem''' is a [[sedative]] and [[anxiolytic]] drug in the [[imidazopyridine]] family, which is related to the better known drugs [[zolpidem]] and [[alpidem]]. 
+
+Saripidem has a similar pharmacological profile to the [[benzodiazepine]] family of drugs including sedative and anxiolytic properties, but its [[chemical structure]] is quite different from that of the benzodiazepine drugs, and saripidem is described as a [[nonbenzodiazepine]]. 
+
+The mechanism of action by which saripidem produces its sedative and anxiolytic effects is by modulating the benzodiazepine binding site on [[GABAA receptor|GABA<sub>A</sub>]] receptors, however unlike many older GABA<sub>A</sub> [[agonist]]s, saripidem is highly subtype selective and binds primarily to the ω1 subtype.<ref name="pmid11224318">{{cite journal | author = Sanger DJ | title = Behavioural effects of novel benzodiazepine (omega) receptor agonists and partial agonists: increases in punished responding and antagonism of the pentylenetetrazole cue | journal = Behavioural Pharmacology | volume = 6 | issue = 2 | pages = 116–126 | year = 1995 | pmid = 11224318 | doi = 10.1097/00008877-199503000-00003| issn = }}</ref>
+
+==References==
+<references/>
+
+{{Hypnotics and sedatives}}
+{{GABAAR PAMs}}
+
+[[Category:Carboxamides]]
+[[Category:Chloroarenes]]
+[[Category:GABAA receptor positive allosteric modulators]]
+[[Category:Imidazopyridines]]
+[[Category:Sedatives]]

@@ -1,0 +1,65 @@
+{{Drugbox
+| Verifiedfields = changed
+| verifiedrevid = 458291247
+| image = Mertansine mab structure.svg
+<!-- Monoclonal antibody data -->
+| type = mab
+| mab_type = mab
+| source = zu/o
+| target = [[MUC1]]
+<!-- Clinical data -->
+| tradename = 
+| pregnancy_AU = 
+| pregnancy_US = 
+| pregnancy_category = 
+| legal_AU = 
+| legal_CA = 
+| legal_UK = 
+| legal_US = 
+| legal_status = 
+| routes_of_administration = 
+<!-- Pharmacokinetic data -->
+| bioavailability = 
+| protein_bound = 
+| metabolism = 
+| elimination_half-life = 
+| excretion = 
+<!-- Identifiers -->
+| CAS_number_Ref = {{cascite|changed|??}}
+| CAS_number = 400010-39-1
+| ATC_prefix = none
+| ATC_suffix = 
+| PubChem = 
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = 
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = 7Z7EUX7R6M
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = none
+<!-- Chemical data -->
+| chemical_formula = 
+| molecular_weight = 
+}}
+'''Cantuzumab mertansine''' (SB-408075; huC242-DM1) is an [[antibody-drug conjugate]] investigated to treat [[colorectal cancer]] and other types of cancer.<ref>[http://www.ama-assn.org/ama1/pub/upload/mm/365/cantuzumab_mer.doc Statement On A Nonproprietary Name Adopted By The Usan Council - Cantuzumab mertansine], ''American Medical Association''.{{dead link|date=August 2015}}</ref> It is a [[humanized monoclonal antibody]], [[cantuzumab]] (huC242) linked to a [[cytotoxic agent]], [[mertansine]] (DM1).<ref name=Rodon2008>{{cite journal| pmid=18301896 | doi=10.1007/s00280-007-0672-8 | volume=62 | title=Cantuzumab mertansine in a three-times a week schedule: a phase I and pharmacokinetic study | year=2008 | journal=Cancer Chemother Pharmacol | pages=911–9 | last1 = Rodon | first1 = J | last2 = Garrison | first2 = M | last3 = Hammond | first3 = LA | last4 = de Bono | first4 = J | last5 = Smith | first5 = L | last6 = Forero | first6 = L | last7 = Hao | first7 = D | last8 = Takimoto | first8 = C | last9 = Lambert | first9 = JM | last10 = Pandite | first10 = L | last11 = Howard | first11 = M | last12 = Xie | first12 = H | last13 = Tolcher | first13 = AW}}</ref> It was developed by [[ImmunoGen]].
+
+==Mechanism==
+After the huC242 mab binds to the external domain of [[CanAg]], the cantuzumab mertansine-CanAg complex is internalized, and the DM1 molecules are released intracellularly by cleavage of the DM1-huC242 [[disulfide bond]]s.<ref name=Helft2004>[http://clincancerres.aacrjournals.org/content/10/13/4363.full A Phase I Study of Cantuzumab Mertansine Administered as a Single Intravenous Infusion Once Weekly in Patients with Advanced Solid Tumors. Helft et al. 2004]</ref>
+
+==Clinical trials==
+Three phase I clinical studies had reported results by 2003.<ref>http://phx.corporate-ir.net/phoenix.zhtml?c=97573&p=irol-newsArticle&ID=354351&highlight=</ref> By 2005, clinical development had been suspended.<ref>http://adisinsight.springer.com/drugs/800007546</ref>
+
+== See also ==
+*[[Cantuzumab ravtansine]]
+
+== References ==
+<references/>
+
+{{Monoclonals for tumors}}
+
+[[Category:Antibody-drug conjugates]]
+[[Category:Monoclonal antibodies for tumors]]
+[[Category:Experimental cancer drugs]]
+
+
+{{monoclonal-antibody-stub}}
+{{antineoplastic-drug-stub}}

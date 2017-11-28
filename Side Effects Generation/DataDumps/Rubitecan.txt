@@ -1,0 +1,67 @@
+{{Drugbox
+| Verifiedfields = changed
+| Watchedfields = changed
+| verifiedrevid = 376278337
+| IUPAC_name = (4''S'')-4-Ethyl-4-hydroxy-11-nitro-1''H''-pyrano[3',4':6,7]indolizino[1,2-''b'']quinoline-3,14(4''H'',12''H'')-dione
+| image = Rubitecan.svg
+
+<!--Clinical data-->
+| tradename = Orathecin
+| pregnancy_category =  
+| legal_status = Application withdrawn
+| routes_of_administration = Oral ([[Capsule (pharmacy)|capsules]])
+
+<!--Pharmacokinetic data-->
+| bioavailability = 25–30% (rubitecan and 9-AC; in dogs)
+| protein_bound = 97% (rubitecan), 65% (9-AC)
+| metabolism = Probably [[Cytochrome P450|CYP]]-dependent
+| metabolites = 9-Aminocamptothecin (9-AC)
+| elimination_half-life = 15–18 hours (rubitecan), 18–22 hours (9-AC)
+| excretion = [[Bile]] and [[feces]] (major proportion), [[urine]] (the minor one)<ref>{{cite web|title=Withdrawal Assessment Report for Orathecin (rubitecan). Applicant: EuroGen Pharmaceuticals, Ltd.|url=http://www.ema.europa.eu/docs/en_GB/document_library/Application_withdrawal_assessment_report/2010/01/WC500069806.pdf|publisher=European Medicines Agency|accessdate=15 July 2016|pages=4–8|date=30 November 2007}}</ref>
+
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 91421-42-0
+| ATC_prefix = None
+| ATC_suffix =  
+| PubChem = 472335
+| DrugBank = 
+| ChemSpiderID_Ref = {{chemspidercite|changed|chemspider}}
+| ChemSpiderID = 414807
+| UNII_Ref = {{fdacite|changed|FDA}}
+| UNII = H19C446XXB
+| ChEBI_Ref = {{ebicite|changed|EBI}}
+| ChEBI = 90225
+| ChEMBL_Ref = {{ebicite|changed|EBI}}
+| ChEMBL = 77305
+| KEGG_Ref = {{keggcite|changed|kegg}}
+| KEGG = D04031
+
+<!--Chemical data-->
+| C=20 | H=15 | N=3 | O=6 
+| molecular_weight = 393.349 g/mol
+| synonyms = 9-Nitrocamptothecin<br>Camptogen<br><small>(19''S'')-19-Ethyl-19-hydroxy-10-nitro-17-oxa-3,13-diazapentacyclo[11.8.0.0<sup>2,11</sup>.0<sup>4,9</sup>.0<sup>15,20</sup>]henicosa-1(21),2,4,6,8,10,15(20)-heptaene-14,18-dione</small>
+| smiles = CC[C@@]1(C2=C(COC1=O)C(=O)N3CC4=CC5=C(C=CC=C5[N+](=O)[O-])N=C4C3=C2)O
+| StdInChI_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChI = 1S/C20H15N3O6/c1-2-20(26)13-7-16-17-10(8-22(16)18(24)12(13)9-29-19(20)25)6-11-14(21-17)4-3-5-15(11)23(27)28/h3-7,26H,2,8-9H2,1H3/t20-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|changed|chemspider}}
+| StdInChIKey = VHXNKPBCCMUMSW-FQEVSTJZSA-N
+}}
+
+'''Rubitecan''' ([[International Nonproprietary Name|INN]], marketing name '''Orathecin''') is an oral [[topoisomerase]] inhibitor, developed by Supergen. 
+
+==History==
+On January 27, 2004, Supergen announced that it has completed the submission of an NDA for rubitecan to the US FDA,<ref>{{cite web |url=http://www.drugs.com/nda/orathecin_040128.html |title=Drugs.com, SuperGen completes submission of New Drug Application (NDA) for Orathecin as an oral treatment for pancreatic cancer |accessdate=2008-03-25 |format= |work= }}</ref> and was accepted for filing on March 2004.<ref>{{cite web |url=http://www.drugs.com/nda/orathecin_040326.html |title=Drugs.com, SuperGen’s New Drug Application for Orathecin (rubitecan) capsules accepted by FDA for filing |accessdate=2008-03-25 |format= |work= }}</ref>
+
+On January 2005, Supergen withdrew the NDA for rubitecan, based on feedback indicating that the current data package would not be sufficient to gain US approval,<ref>{{cite web |url=http://www.drugs.com/nda/orathecin_050103.html |title=Drugs.com, SuperGen Announces Withdrawal of Orathecin NDA |accessdate=2008-03-25 |format= |work= }}</ref> and on January 2006, the Marketing Authorization Application (MAA) filed with the [[European Medicines Agency]] (EMA) was also withdrawn.<ref>{{cite web |url=http://www.emea.europa.eu/humandocs/PDFs/EPAR/orathecin/2621906en.pdf |title=Press release from the EMEA website regarding withdrawal of Orathecin MAA |accessdate=2008-03-25 |format=PDF |work= }}</ref> 
+
+==References==
+{{Reflist}}
+
+{{Chemotherapeutic agents}}
+
+[[Category:Abandoned drugs]]
+[[Category:Topoisomerase inhibitors]]
+
+{{antineoplastic-drug-stub}}

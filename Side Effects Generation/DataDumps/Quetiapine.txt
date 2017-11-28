@@ -1,0 +1,443 @@
+{{pp-semi-indef}}
+{{Infobox drug
+| Watchedfields = changed
+| verifiedrevid = 443404910
+| IUPAC_name = 2-(2-(4-Dibenzo[''b'',''f''][1,4]thiazepine-11-yl-1-piperazinyl)ethoxy)ethanol
+| image = Quetiapine.svg
+| width = 250px
+| image2 = Quetiapine-from-xtal-3D-balls.png
+| width2 = 225px
+<!--Clinical data-->
+| pronounce = {{IPAc-en|k|w|ᵻ|ˈ|t|aɪ|.|ə|p|iː|n}} {{respell|kwi|TY|ə-peen}}
+| tradename = Seroquel, Temprolide, others
+| Drugs.com = {{drugs.com|monograph|quetiapine-fumarate}}
+| MedlinePlus = a698019
+| licence_US = Quetiapine
+| pregnancy_AU = B3
+| pregnancy_US = C
+| legal_AU = S4
+| legal_US = Rx-only
+| legal_UK = POM
+| routes_of_administration = [[Oral administration|By mouth]]
+<!--Pharmacokinetic data-->
+| bioavailability = 100%<ref name = Medscape />
+| metabolism = [[Liver]] via CYP3A4-catalysed sulfoxidation to its active metabolite norquetiapine (N-desalkylquetiapine)<ref name = GG>{{cite book|last1=Brunton|first1=L|last2=Chabner|first2=B|last3=Knollman|first3=B|title=Goodman and Gilman’s The Pharmacological Basis of Therapeutics|edition=12th|publisher=McGraw Hill Professional|year=2010|isbn=978-0071624428}}</ref>
+| protein_bound = 83%<ref name=EMC>{{cite web|title=Quetiapine 25 mg film-coated tablets - Summary of Product Characteristics|date=January 2013|accessdate=20 October 2013|work=electronic Medicines Compendium|publisher=Sandoz|url=http://www.medicines.org.uk/emc/medicine/26575/SPC/Quetiapine+25+mg+film-coated+tablets/|deadurl=no|archiveurl=https://web.archive.org/web/20131020062812/http://www.medicines.org.uk/emc/medicine/26575/SPC/Quetiapine+25+mg+film-coated+tablets/|archivedate=20 October 2013|df=}}</ref>
+| elimination_half-life = 7 hours (parent compound); 9–12 hours (active metabolite, norquetiapine)<ref name = EMC/><ref name = DD>Truven Health Analytics, Inc. DrugPoint System (Internet) [cited 2013 Sep 18]. Greenwood Village, CO: Thomsen Healthcare; 2013.</ref>
+| excretion = [[Kidney]] (73%), faeces (20%)<ref name=Medscape>{{cite web|title=quetiapine (Rx) - Seroquel, Seroquel XR|url=http://reference.medscape.com/drug/seroquel-xr-quetiapine-342984#10|work=Medscape Reference|publisher=WebMD|accessdate=11 October 2013|deadurl=no|archiveurl=https://web.archive.org/web/20131020163700/http://reference.medscape.com/drug/seroquel-xr-quetiapine-342984#10|archivedate=20 October 2013|df=}}</ref><ref name = EMC/><ref name = DD /><ref name=DM>{{cite web|title=QUETIAPINE FUMARATE tablet QUETIAPINE FUMARATE (quetiapine fumarate ) tablet [Ascend Laboratories, LLC]|work=DailyMed|publisher=Ascend Laboratories, LLC|date=October 2013|accessdate=26 November 2013|url=http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3112a006-1c61-47f2-84f5-9a7670d09c9b|deadurl=no|archiveurl=https://web.archive.org/web/20131202224630/http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3112a006-1c61-47f2-84f5-9a7670d09c9b|archivedate=2 December 2013|df=}}</ref>
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 111974-69-7
+| ATC_prefix = N05
+| ATC_suffix = AH04
+| PubChem = 5002
+| IUPHAR_ligand = 50
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB01224
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 4827
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = BGL0JSY5SI
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D08456
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 8707
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 716
+<!--Chemical data-->
+| C=21 | H=25 | N=3 | O=2 | S=1
+| molecular_weight = 383.5099 g/mol
+| SMILES = N\1=C(\c3c(Sc2c/1cccc2)cccc3)N4CCN(CCOCCO)CC4
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H25N3O2S/c25-14-16-26-15-13-23-9-11-24(12-10-23)21-17-5-1-3-7-19(17)27-20-8-4-2-6-18(20)22-21/h1-8,25H,9-16H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = URKOMYMAXPYINW-UHFFFAOYSA-N
+| solubility = 3.29
+}}
+<!-- Definition and medical uses -->
+'''Quetiapine''', marketed as '''Seroquel''' among others, is an [[atypical antipsychotic]] used for the treatment of [[schizophrenia]], [[bipolar disorder]], and [[major depressive disorder]].<ref name=AHFS2017>{{cite web|title=Quetiapine Fumarate|url=https://www.drugs.com/monograph/quetiapine-fumarate.html|publisher=The American Society of Health-System Pharmacists|accessdate=26 March 2017|deadurl=no|archiveurl=https://web.archive.org/web/20170910000000/http://www.drugs.com/monograph/quetiapine-fumarate.html|archivedate=10 September 2017|df=}}</ref><ref name =Cochrane2010>{{cite journal |vauthors=Komossa K, Depping AM, Gaudchau A, Kissling W, Leucht S | title = Second-generation antipsychotics for major depressive disorder and dysthymia. | journal = The Cochrane Database of Systematic Reviews | issue = 12 | pages = CD008121 | date = Dec 8, 2010 | pmid = 21154393 | doi = 10.1002/14651858.CD008121.pub2 }}</ref> It is also sometimes used as a sleep aid due to its sedating effect, but this use is not recommended.<ref>{{cite journal |author1=James J. Gugger |author2=Manouchkathe Cassagnol |title=Low-dose quetiapine is not a benign sedative-hypnotic agent. |journal=The American Journal on Addictions |volume=17 |issue=5 |pages=454–455 |year=2008 |pmid=18770092 |doi=10.1080/10550490802266185}}</ref> It is taken by mouth.<ref name=AHFS2017/>
+
+<!-- Side effects and mechanism -->
+Common side effects include sleepiness, [[constipation]], weight gain, and [[dry mouth]].<ref name=AHFS2017/> Other side effects include [[orthostatic hypotension|low blood pressure with standing]], [[seizures]], [[priapism|prolonged erection]], [[high blood sugar]], and [[neuroleptic malignant syndrome]].<ref name=AHFS2017/> In elderly people with [[dementia]] its use increases the risk of death.<ref name=AHFS2017/> Use during the later part of [[pregnancy]] may result in a [[movement disorder]] in the baby for a period of time after birth.<ref name=AHFS2017/> Quetiapine is believed to work by blocking a number of receptors including [[serotonin receptor|serotonin]] and [[dopamine receptors]].<ref name=AHFS2017/>
+
+<!-- History and culture -->
+Quetiapine was developed in 1985 and approved for medical use in the United States in 1997.<ref name=AHFS2017/><ref>{{cite journal|last1=Riedel|first1=M|last2=Müller|first2=N|last3=Strassnig|first3=M|last4=Spellmann|first4=I|last5=Severus|first5=E|last6=Möller|first6=HJ|title=Quetiapine in the treatment of schizophrenia and related disorders.|journal=Neuropsychiatric disease and treatment|date=April 2007|volume=3|issue=2|pages=219–35|pmid=19300555}}</ref> Patent protection for the product ended in 2012; however, in a number of regions the long acting version remains under patent until 2017.<ref>{{cite web|author1=AstraZeneca|title=Pioneering science, life-changing medicines|url=https://www.sec.gov/Archives/edgar/data/901832/000095010314001994/dp44853_ex1501.htm|website=www.sec.gov|accessdate=26 March 2017|date=2013|deadurl=no|archiveurl=https://web.archive.org/web/20160306213537/http://www.sec.gov/Archives/edgar/data/901832/000095010314001994/dp44853_ex1501.htm|archivedate=6 March 2016|df=}}</ref> In the United States as of 2017 the short acting version has a wholesale cost of about {{USD}}12 per month.<ref>{{cite web|title=NADAC as of 2017-03-22|url=https://data.medicaid.gov/Drug-Pricing-and-Payment/NADAC-as-of-2017-03-22/9q7x-utx9|publisher=Centers for Medicare and Medicaid Services|accessdate=26 March 2017|deadurl=no|archiveurl=https://web.archive.org/web/20170326230852/https://data.medicaid.gov/Drug-Pricing-and-Payment/NADAC-as-of-2017-03-22/9q7x-utx9|archivedate=26 March 2017|df=}}</ref> In the United Kingdom a month's supply costs the [[NHS]] about £3.19.<ref name=BNF69>{{cite book|title=British national formulary : BNF 69|date=2015|publisher=British Medical Association|isbn=9780857111562|page=245|edition=69th}}</ref>
+
+==Medical uses==
+[[File:Seroquel-25mg.jpg|thumb|Quetiapine (Seroquel) 25 mg tablets, next to [[Penny (United States coin)|US one-cent]] coin for comparison.]]
+[[File:SeroquelXR150.jpg|thumb|Seroquel XR 150 mg tablet box]]
+
+Quetiapine is primarily used to treat schizophrenia or bipolar disorder.<ref name=AHFS>{{cite web|title=quetiapine-fumarate|url=http://www.drugs.com/monograph/quetiapine-fumarate.html|work=The American Society of Health-System Pharmacists|accessdate=3 April 2011|deadurl=no|archiveurl=https://web.archive.org/web/20110210181855/http://www.drugs.com/monograph/quetiapine-fumarate.html|archivedate=10 February 2011|df=}}</ref>
+
+===Schizophrenia===
+A 2013 Cochrane [[Systematic review|review]] compared quetiapine to typical antipsychotics: 
+{| class="wikitable"
+|+ Quetiapine compared to typical antipsychotics for schizophrenia<ref name=Sut2013>{{cite journal|last1=Suttajit|first1=S|last2=Srisurapanont|first2=M|first3=J|last3=Xia|title=Quetiapine versus typical antipsychotic medications for schizophrenia|journal=Cochrane Database of Systematic Reviews|date=2013|volume=5|url=http://www.cochrane.org/CD007815/SCHIZ_quetiapine-versus-typical-antipsychotic-drugs-for-schizophrenia|pages=CD007815.pub2|DOI=10.1002/14651858.CD007815.pub2|deadurl=no|archiveurl=https://web.archive.org/web/20160421052117/http://www.cochrane.org/CD007815/SCHIZ_quetiapine-versus-typical-antipsychotic-drugs-for-schizophrenia|archivedate=2016-04-21|df=}}</ref>
+|-
+! Summary
+|-
+|Quetiapine may not differ from typical [[antipsychotic]]s in the treatment of [[Schizophrenia#Positive and negative|positive symptoms]], general psychopathology, and [[Schizophrenia#Positive and negative|negative symptoms]]. However, it causes fewer adverse effects in terms of abnormal [[Electrocardiography|ECG]], [[Extrapyramidal symptoms|extrapyramidal]] effects, abnormal prolactin levels and weight gain.<ref name=Sut2013/>
+|-
+| style="padding:0;" |
+{| class="wikitable collapsible collapsed" style="width:100%;"
+|-
+! scope="col" style="text-align: left;"| Outcome
+! scope="col" style="text-align: left;"| Findings in words
+! scope="col" style="text-align: left;"| Findings in numbers
+! scope="col" style="text-align: left;"| Quality of evidence
+|-
+! colspan="4" style="text-align: left;"| Global state
+|-
+| No clinical significant response || There is no clear difference between people given quetiapine and those receiving typical antipsychotic drugs. These findings are based on data of moderate quality. || [[Relative risk|RR]] 0.96 (0.75 to 1.23 ) || [[The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach|Moderate]]
+|-
+! colspan="4" style="text-align: left;"|Mental state
+|-
+| Average [[Schizophrenia#Positive and negative|positive symptom]] score ([[Positive and Negative Syndrome Scale|PANSS]])|| On average, people receiving quetiapine scored higher (worse) than people treated with typical antipsychotic drugs. There was, however, no clear difference between the groups. This finding is based on data of moderate quality. || [[Mean absolute difference|MD]] 0.02 higher (0.39 lower to 0.43 higher)* || [[The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach|Moderate]]
+|-
+| Average [[Schizophrenia#Positive and negative|negative symptom]] score ([[Positive and Negative Syndrome Scale|PANSS]])|| On average, people receiving quetiapine scored lower (better) than people treated with typical antipsychotic drugs. This finding is based on data of moderate quality. || [[Mean absolute difference|MD]] 0.82 lower (1.59 to 0.04 lower)* || [[The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach|Moderate]]
+|-
+! colspan="4" style="text-align: left;"| [[Cognition|Cognitive function]]
+|-
+| Average score|| On average, people receiving quetiapine scored higher (better) than people treated with typical antipsychotic drugs. There was no clear difference between the groups. This finding is based on data of very limited quality. || [[Mean absolute difference|MD]] 1.55 higher (0.62 lower to 3.72 higher)* || [[The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach|Very low]]
+|-
+! colspan="4" style="text-align: left;"| Leaving the study early
+|-
+| For any reason || Quetiapine is not clearly more acceptable than typical antipsychotic drugs. These findings are based on data of moderate quality. || [[Relative risk|RR]] 0.91 (0.81 to 1.01 ) || [[The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach|Moderate]]
+|-
+! colspan="4" style="text-align: left;"| Adverse effects
+|-
+| Extrapyramidal effects || Quetiapine may reduce the chance of experiencing these movement disorders. This finding is based on data of moderate quality. || [[Relative risk|RR]] 0.17 (0.09 to 0.32 ) || [[The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach|Moderate]]
+|-
+| Prolactin level<br />Average level (ng/mL) || On average, people receiving quetiapine scored lower (better) than people treated with typical antipsychotic drugs. There was a clear difference between the groups. This finding is based on data of moderate quality.|| [[Mean absolute difference|MD]] 16.20 lower (23.34 to 9.07 lower)* || [[The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach|Moderate]]
+|-
+| || *The meaning of these findings for day-to-day care is not clear || ||
+|}
+|}
+
+There is tentative evidence of the benefit of quetiapine versus placebo in schizophrenia; however, definitive conclusions are not possible due to the high rate of attrition in trials (greater than 50%) and the lack of data on economic outcomes, social functioning, or quality of life.<ref name=Coch2004>{{cite journal|last=Srisurapanont|first=M|author2=Maneeton, B|author3= Maneeton, N|title=Quetiapine for schizophrenia|journal=Cochrane Database of Systematic Reviews|year=2004|issue=2|pages=CD000967|pmid=15106155|doi=10.1002/14651858.CD000967.pub2|editor1-last=Srisurapanont|editor1-first=Manit}}</ref>
+
+It is debatable whether, as a class, [[typical antipsychotics|typical]] or [[atypical antipsychotic]]s are more effective.<ref>{{vcite journal |author=Kane JM, Correll CU |title=Pharmacologic treatment of schizophrenia |journal=Dialogues Clin Neurosci |volume=12|issue=3 |pages=345–57 |year=2010 |pmid=20954430 |pmc=3085113}}</ref> Both have equal drop-out and symptom relapse rates when typicals are used at low to moderate dosages.<ref name=AFP07>{{vcite journal |author=Schultz SH, North SW, Shields CG |title=Schizophrenia: a review |journal=Am Fam Physician |volume=75 |issue=12 |pages=1821–9 |year=2007 |month=June|pmid=17619525}}</ref> While quetiapine has lower rates of extrapyramidal side effects, there is greater sleepiness and rates of dry mouth.<ref name=Coch2004/>
+
+A Cochrane review comparing quetiapine to other atypical antipsychotic agents tentatively concluded that it may be less efficacious than [[olanzapine]] and [[risperidone]]; produce fewer movement related side effects than [[paliperidone]], [[aripiprazole]], [[ziprasidone]], risperidone and olanzapine; and produce weight gain similar to risperidone, [[clozapine]] and aripiprazole. They concluded that it produces suicide attempt, suicide, death, QTc prolongation, [[low blood pressure]], [[tachycardia]], sedation, [[gynaecomastia]], [[galactorrhoea]], [[menstrual irregularity]] and [[white blood cell count]] at a rate similar to first generation antipsychotics.<ref name="Asmal L, Flegar SJ, Wang J, Rummel-Kluge C, Komossa K, Leucht S 2013 CD006625">{{cite journal |vauthors=Asmal L, Flegar SJ, Wang J, Rummel-Kluge C, Komossa K, Leucht S |title=Quetiapine versus other atypical antipsychotics for schizophrenia |journal=Cochrane Database of Systematic Reviews |volume=11 |issue= |pages=CD006625 |year=2013 |pmid=24249315 |doi=10.1002/14651858.CD006625.pub3 |url=}}</ref>
+
+===Bipolar disorder===
+In those with [[bipolar disorder]], quetiapine is used to treat depressive episodes, acute manic episodes associated with [[bipolar I disorder]] (as either monotherapy or adjunct therapy to [[Lithium pharmacology|lithium]], [[Valproic acid|valproate]] or [[lamotrigine]]), and maintenance treatment of bipolar I disorder (as adjunct therapy to lithium or divalproex).<ref name="Thase MacFadden Weisler Chang et al : Efficacy of Quetiapine Monotherapy in Bipolar I and II Depression">{{cite journal |vauthors=Thase ME, Macfadden W, Weisler RH, Chang W, Paulsson B, Khan A, Calabrese JR | title = Efficacy of Quetiapine Monotherapy in Bipolar I and II Depression | journal = Journal of Clinical Psychopharmacology | volume = 26 | issue = 6 | pages = 600–9 | year = 2006 | pmid = 17110817 | pmc = | doi = 10.1097/01.jcp.0000248603.76231.b7 }}</ref><ref>British National Formulary (BNF) 65. Pharmaceutical Pr; 2013. {{ISBN|978-0857110848}}</ref>
+
+===Major depressive disorder===
+Quetiapine is effective when used by itself<ref name =Cochrane2010/> and when used along with other medications in [[major depressive disorder]] (MDD).<ref name =Cochrane2010/><ref>{{cite journal |vauthors=Spielmans GI, Berman MI, Linardatos E, Rosenlicht NZ, Perry A, Tsai AC | year = 2013| title = Adjunctive Atypical Antipsychotic Treatment for Major Depressive Disorder: A Meta-Analysis of Depression, Quality of Life, and Safety Outcomes | url = | journal = PLoS Med | volume = 10 | issue = 3| page = e1001403 | doi = 10.1371/journal.pmed.1001403 | pmid=23554581 | pmc=3595214}}</ref> However, sedation is often an undesirable side effect.<ref name =Cochrane2010/>
+
+In the United States,<ref name = "DD" /> the United Kingdom<ref name = "BNF 65" /> and Australia (while not subsidised by the Australian [[Pharmaceutical Benefits Scheme]] for treatment of MDD), quetiapine is licensed for use as an add on treatment in MDD.<ref name = "AMH">{{cite book | title = Australian Medicines Handbook | year = 2013 | publisher = The Australian Medicines Handbook Unit Trust | isbn = 978-0-9805790-9-3 | edition = 2013 | place = Adelaide | editor = Rossi, S }}</ref>
+
+===Alzheimer's disease===
+Quetiapine does not decrease agitation among people with [[Alzheimer's]]. Quetiapine worsens intellectual functioning in the elderly with dementia and therefore is not recommended.<ref name="Ballard Margallo-Lana Juszczak Douglas et al : Quetiapine and rivastigmine and cognitive decline in Alzheimer's disease: randomised double blind placebo controlled trial">{{cite journal |vauthors=Ballard C, Margallo-Lana M, Juszczak E, Douglas S, Swann A, Thomas A, O'Brien J, Everratt A, Sadler S, Maddison C, Lee L, Bannister C, Elvish R, Jacoby R | title = Quetiapine and rivastigmine and cognitive decline in Alzheimer's disease: randomised double blind placebo controlled trial | journal = BMJ | volume = 330 | issue = 7496 | pages = 874 | year = 2005 | pmid = 15722369 | pmc = 556156 | doi = 10.1136/bmj.38369.459988.8F }}</ref>
+
+===Others===
+The use of low doses of quetiapine for [[insomnia]], while common, is not recommended; there is little evidence of benefit and concerns regarding adverse effects.<ref>{{cite journal |vauthors=Coe HV, Hong IS | title = Safety of low doses of quetiapine when used for insomnia | journal = The Annals of pharmacotherapy | volume = 46 | issue = 5 | pages = 718–22 | date = May 2012 | pmid = 22510671 | doi = 10.1345/aph.1Q697 }}</ref><ref>{{cite journal |vauthors=Maglione M, Maher AR, Hu J, etal | title = Off-Label Use of Atypical Antipsychotics: An Update | date = September 2011 | pmid = 22132426 }}</ref>
+
+It is sometimes used [[off-label]], often as an augmentation agent, to treat conditions such as [[Tourette syndrome]],<ref name="Mukaddes Abali : Quetiapine Treatment of Children and Adolescents with Tourette's Disorder">{{cite journal |vauthors=Mukaddes NM, Abali O | title = Quetiapine Treatment of Children and Adolescents with Tourette's Disorder | journal = Journal of Child and Adolescent Psychopharmacology | volume = 13 | issue = 3 | pages = 295–9 | year = 2003 | pmid = 14642017 | pmc = | doi = 10.1089/104454603322572624 }}</ref> [[musical hallucinations]]<ref>Oliver Sacks "Musicophilia" Knopf NY 2007 P.67</ref> and [[anxiety disorder]]s.<ref name="Becker : Treatment of sleep dysfunction and psychiatric disorders">{{cite journal | author = Becker PM | title = Treatment of sleep dysfunction and psychiatric disorders | journal = Current Treatment Options in Neurology | volume = 8 | issue = 5 | pages = 367–375 | year = 2006 | pmid = 16901376 | pmc = | doi = 10.1007/s11940-006-0026-6 }}</ref>
+
+Quetiapine and [[clozapine]] are the most widely used medications for the treatment of [[Parkinson's disease]] psychosis due to their very low extrapyramidal side effect liability. Owing to the risks associated with clozapine (e.g. agranulocytosis, diabetes mellitus, etc.), clinicians often attempt treatment with quetiapine first, although the evidence to support quetiapine's use for this indication is significantly weaker than that of clozapine.<ref>{{cite journal |vauthors=Shotbolt P, Samuel M, David A | title = Quetiapine in the treatment of psychosis in Parkinson’s disease | journal = Therapeutic Advances in Neurological Disorders | volume = 3 | issue = 6 | pages = 339–350 | date = November 2010 | pmid = 21179595 | pmc = 3002640 | doi = 10.1177/1756285610389656 }}</ref><ref name = Maudsley/>
+
+==Adverse effects==
+Sources for incidence lists:<ref name = Medscape /><ref name = "DD"/><ref name = "BNF 65">{{cite book|title=British National Formulary (BNF) 65|year=2013|publisher=Pharmaceutical Press|location=London, UK|isbn=9780857110848|page=235}}</ref><ref name = AMH /><ref name = Maudsley>{{cite book|last1=Taylor|first1=D|last2=Carol|first2=P|last3=Shitij|first3=K|title=The Maudsley prescribing guidelines in psychiatry|year=2012|publisher=Wiley-Blackwell|location=West Sussex|isbn=9780470979693}}</ref><ref name=TGA>{{cite web|title=PRODUCT INFORMATION STADA(TM) Quetiapine (quetiapine fumarate Tablets 25 mg, 100 mg, 200 mg, 300 mg)|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2012-PI-03014-1|date=30 November 2012|accessdate=19 September 2013|work=TGA eBusiness Services|publisher=STADA Pharmaceuticals Australia Pty Limited|deadurl=no|archiveurl=https://web.archive.org/web/20170327075724/https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2012-PI-03014-1|archivedate=27 March 2017|df=}}</ref>
+
+;Very common (>10% incidence) adverse effects
+* Dry mouth
+* Dizziness
+* Headache
+* [[Somnolence]] (drowsiness; of 15 antipsychotics quetiapine causes the 5th most sedation. Extended release (XR) formulations tend to produce less sedation, dose-by-dose than the immediate release formulations)<ref name=Lancet>{{cite journal |vauthors=Leucht S, Cipriani A, Spineli L, Mavridis D, Orey D, Richter F, Samara M, Barbui C, Engel RR, Geddes JR, Kissling W, Stapf MP, Lässig B, Salanti G, Davis JM | title = Comparative efficacy and tolerability of 15 antipsychotic drugs in schizophrenia: a multiple-treatments meta-analysis | journal = The Lancet | volume = 382 | issue = 9896 | pages = 951–962 | date = September 2013 | pmid = 23810019 | doi = 10.1016/S0140-6736(13)60733-3 }}</ref>
+
+;Common (1–10% incidence) adverse effects
+{{colbegin|5}}
+* [[Hypertension|High blood pressure]]
+* [[Orthostatic hypotension]]
+* [[Tachycardia|High pulse rate]]
+* [[Hypercholesterolaemia|High blood cholesterol]]
+* Elevated serum triglycerides
+* Abdominal pain
+* Constipation
+* Increased appetite
+* Vomiting
+* Increased liver enzymes
+* Backache
+* [[Asthenia]]
+* Insomnia
+* Lethargy
+* Tremor
+* Agitation
+* Nasal congestion
+* [[Pharyngitis]]
+* Fatigue
+* Pain
+* [[Dyspepsia]] (Indigestion)
+* Peripheral [[oedema]]
+* [[Dysphagia]]
+{{colend}}
+* [[Extrapyramidal side effects|Extrapyramidal disease]]: quetiapine and clozapine are noted for their relative lack of extrapyramidal side effects<ref name = "BNF 65" /><ref name = Maudsley /><ref name = Lancet />
+* Weight gain: [[Standardised mean difference|SMD]] 0.43&nbsp;kg when compared to placebo. Produces roughly as much weight gain as [[risperidone]], less weight gain than [[clozapine]], [[olanzapine]] and [[zotepine]] and more weight gain than [[ziprasidone]], [[lurasidone]], [[aripiprazole]] and [[asenapine]].<ref name = Lancet /> As with many other atypical antipsychotics this action is likely due to its actions at the [[Histamine H1 receptor|H<sub>1</sub> histamine receptor]] and [[5-HT2C receptor]].<ref name = GG />
+
+;Rare (<1% incidence) adverse effects
+{{colbegin|2}}
+* Prolonged [[QT interval]] (had an odds ratio for prolonging the QT interval over placebo of 0.17)<ref name = "Lancet" />
+* [[Sudden cardiac death]]
+* [[Syncope (medicine)|Syncope]]
+* [[Diabetic ketoacidosis]]
+* [[Restless legs syndrome]]
+* [[Hyponatraemia]], low blood sodium.
+* [[Jaundice]], yellowing of the eyes, skin and mucous membranes due to an impaired ability of the body to clear bilirubin, a by product of haem breakdown.
+* [[Pancreatitis]], pancreas swelling.
+* [[Agranulocytosis]], a potentially fatal drop in white blood cell count.
+* [[Leukopenia]], a drop in white blood cell count, not as severe as agranulocytosis.
+* [[Neutropenia]], a drop in neutrophils, the cell of the immune cells that defends the body against bacterial infections.
+* [[Eosinophilia]]
+* [[Anaphylaxis]], a potentially fatal allergic reaction.
+* [[Seizure]]
+* [[Hypothyroidism]], underactive thyroid gland.
+* [[Myocarditis]], swelling of the myocardium.
+* [[Cardiomyopathy]]
+* [[Hepatitis]], swelling of the liver.
+* [[Suicidal ideation]]
+* [[Priapism]]. A prolonged and painful erection.
+* [[Stevens-Johnson syndrome]]. A potentially fatal skin reaction.
+{{colend}}
+* [[Neuroleptic malignant syndrome]] a rare and potentially fatal complication of antipsychotic drug treatment. It is characterised by the following symptoms: tremor, rigidity, hyperthermia, tachycardia, mental status changes (e.g. confusion), etc.
+* [[Tardive Dyskinesia]]. A rare and often irreversible neurological condition characterised by involuntary movements of the face, tongue, lips and rest of the body. Most commonly occurs after prolonged treatment with antipsychotics. It is believed to be particularly uncommon with atypical antipsychotics, especially quetiapine and clozapine<ref name="AMH"/><ref>{{cite journal|title=Efficacy of Low-dose Pramipexole Augmentation in the Treatment of Refractory Psychotic Depression Complicated with Tardive Dyskinesia A Case Report|journal=Bulletin of Clinical Psychopharmacology|language=Turkish|author1=Erkan, A|author2=Pirildar, S|author3=Acarer, A|author4=Akdeniz, F|doi=10.5455/bcp.20111029071711|volume=21|issue=4|pages=353–355|year=2011|url=http://www.psikofarmakoloji.org/pdf/21_4_8.pdf|format=PDF|deadurl=no|archiveurl=https://web.archive.org/web/20120113020807/http://www.psikofarmakoloji.org/pdf/21_4_8.pdf|archivedate=2012-01-13|df=}}</ref>
+{{colend}}
+
+Both typical and atypical antipsychotics can cause [[tardive dyskinesia]].<ref name=TD08>{{cite journal |vauthors=Correll CU, Schenk EM | title = Tardive dyskinesia and new antipsychotics | journal = Current Opinion in Psychiatry | volume = 21 | issue = 2 | pages = 151–6 | date = March 2008 | pmid = 18332662 | doi = 10.1097/YCO.0b013e3282f53132 }}</ref> According to one study, rates are lower with the atypicals at 3.9% as opposed to the typicals at 5.5%.<ref name=TD08/> Although quetiapine and clozapine are atypical antipsychotics, switching to these atypicals is an option to minimize symptoms of tardive dyskinesia caused by other atypicals.<ref>{{cite journal | vauthors=Aia PG, Revuelta GJ, Cloud LJ, Factor SA | title = Tardive Dyskinesia | journal = Current Treatment Options in Neurology | volume = 13 | issue = 3 | pages = 231–241 | year = 2011 | pmid = 21365202 | doi = 10.1007/s11940-011-0117-x }}</ref>
+
+Weight gain can be a problem for some, with quetiapine causing more weight gain than [[fluphenazine]], [[haloperidol]], [[loxapine]], [[molindone]], [[olanzapine]], [[pimozide]], [[risperidone]], [[thioridazine]], [[thiothixene]], [[trifluoperazine]], and [[ziprasidone]], but less than [[chlorpromazine]], [[clozapine]], [[perphenazine]], and [[sertindole]].<ref>[http://altcancerweb.com/bipolar/weight-gain/antipsychotic-induced-weight-gain-1999.pdf Antipsychotic-Induced Weight Gain: A Comprehensive Research Synthesis] {{webarchive|url=https://web.archive.org/web/20120425233956/http://altcancerweb.com/bipolar/weight-gain/antipsychotic-induced-weight-gain-1999.pdf |date=2012-04-25 }} Am J Psychiatry 1999;156:1686-1696.</ref>
+
+Studies conducted on [[beagle]]s have resulted in the formation of [[cataract]]s. While there are reports of cataracts occurring in humans, controlled studies including thousands of patients have not demonstrated a clear causal association between quetiapine therapy and this side-effect.{{Citation needed|reason=Reference needed to April 2006 results of CATIE study.|date=September 2011}} However, the Seroquel website<ref>[http://www.seroquel.com/ Seroquel website] {{webarchive|url=https://web.archive.org/web/20070217194559/http://seroquel.com/ |date=2007-02-17 }}</ref> still recommends users have eye examinations every six months.
+
+As with some other anti-psychotics, quetiapine may lower the [[seizure threshold]],<ref>[http://www.astrazeneca-us.com/cgi-bin/az_pi.cgi?product=seroquel&country=us&popup=no Seroquel Prescribing Information]</ref> and should be taken with caution in combination with drugs such as [[bupropion]].
+
+===Discontinuation and withdrawal===
+Quetiapine should be discontinued gradually, with careful consideration from the prescribing doctor, to avoid withdrawal symptoms or relapse.
+
+The [[British National Formulary]] recommends a gradual withdrawal when discontinuing anti-psychotic treatment to avoid acute withdrawal syndrome or rapid relapse.<ref name="Group 2009 192"/> Due to compensatory changes at dopamine, serotonin, adrenergic and histamine receptor sites in the central nervous system, withdrawal symptoms can occur during abrupt or over-rapid reduction in dosage. However, despite increasing demand for safe and effective antipsychotic withdrawal protocols or dose-reduction schedules, no specific guidelines with proven safety and efficacy are currently available.
+
+Withdrawal symptoms reported to occur after discontinuation of antipsychotics include nausea, [[emesis]], lightheadedness, [[diaphoresis]], [[dyskinesia]], [[orthostatic hypotension]], [[tachycardia]], [[insomnia]], nervousness, dizziness, headache, excessive non-stop crying, and [[anxiety]].<ref name="Kim-2005"/><ref>{{cite journal |vauthors=Michaelides C, Thakore-James M, Durso R | title = Reversible withdrawal dyskinesia associated with quetiapine | journal = Mov Disord | volume = 20 | issue = 6 | pages = 769–70 | date = Jun 2005 | pmid = 15747370 | doi = 10.1002/mds.20427 }}</ref> Some have argued that additional somatic and psychiatric symptoms associated with dopaminergic super-sensitivity, including dyskinesia and acute psychosis, are common features of withdrawal in individuals treated with neuroleptics.<ref>{{Cite journal | last1 = Miller | first1 = R. | last2 = Chouinard | first2 = G. | title = Loss of striatal cholinergic neurons as a basis for tardive and L-dopa-induced dyskinesias, neuroleptic-induced supersensitivity psychosis and refractory schizophrenia | url = http://www.biologicalpsychiatryjournal.com/article/0006-3223(93)90044-E/abstract | journal = Biol Psychiatry | volume = 34 | issue = 10 | pages = 713–38 |date=Nov 1993 | pmid =7904833 | doi = 10.1016/0006-3223(93)90044-E }}</ref><ref>{{cite journal | author = Moncrieff J | title = Does antipsychotic withdrawal provoke psychosis? Review of the literature on rapid onset psychosis (supersensitivity psychosis) and withdrawal-related relapse | journal = Acta Psychiatr Scand | volume = 114 | issue = 1 | pages = 3–13 | date = Jul 2006 | pmid = 16774655 | doi = 10.1111/j.1600-0447.2006.00787.x | url = http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0447.2006.00787.x/abstract | deadurl = no | archiveurl = https://web.archive.org/web/20120524054701/http://onlinelibrary.wiley.com/doi/10.1111/j.1600-0447.2006.00787.x/abstract | archivedate = 2012-05-24 | df = }}</ref>
+
+Due to compensatory changes at dopamine, serotonin, adrenergic and histamine receptor sites in the central nervous system, a gradual reduction in dosage is recommended to minimise or avoid withdrawal symptoms. Withdrawal symptoms reported to occur after discontinuation of quetiapine include [[insomnia|trouble sleeping]], [[nausea]], [[vomiting]], [[lightheadedness]], [[perspiration|sweating]], [[orthostatic hypotension|feeling light headed when standing]], [[tachycardia|fast heart rate]], as well as [[Anxiety|nervousness]], [[dizziness]], [[headache]], and [[anxiety]]. The present evidence suggests that these symptoms affect a small number of susceptible individuals treated with quetiapine.<ref name="Kim-2005">{{cite journal |vauthors=Kim DR, Staab JP | title = Quetiapine discontinuation syndrome | journal = Am J Psychiatry | volume = 162 | issue = 5 | page = 1020 | date = May 2005 | pmid = 15863814 | doi = 10.1176/appi.ajp.162.5.1020 | url = http://ajp.psychiatryonline.org/cgi/content/full/162/5/1020 }}</ref>
+
+The [[British National Formulary]] recommends a gradual withdrawal when discontinuing antipsychotic treatment to avoid acute withdrawal syndrome or rapid relapse.<ref name="Group 2009 192">{{cite book |editor1-first=BMJ |editor1-last=Group |title=British National Formulary |edition=57 |date=March 2009 |publisher=Royal Pharmaceutical Society of Great Britain |location=United Kingdom |page=192 |chapter=4.2.1 |quote=Withdrawal of antipsychotic drugs after long-term therapy should always be gradual and closely monitored to avoid the risk of acute withdrawal syndromes or rapid relapse.}}</ref>
+
+===Pregnancy and lactation===
+Placental exposure is least for quetiapine compared to other atypical antipsychotics.<ref name = Maudsley/> The evidence is insufficient to rule out any risk to the foetus but available data suggests it is unlikely to result in any major foetal malformations.<ref name = EMC/><ref name = DM/><ref name = TGA/> It is secreted in breast milk and hence quetiapine-treated mothers are advised not to breastfeed.<ref name = EMC/><ref name = DM/><ref name = TGA/>
+
+==Overdose==
+Most instances of acute overdosage result only in sedation, hypotension and tachycardia, but cardiac arrhythmia, coma and death have occurred in adults. Serum or plasma quetiapine concentrations are usually in the 1–10&nbsp;mg/L range in overdose survivors, while postmortem blood levels of 10–25&nbsp;mg/L are generally observed in fatal cases.<ref>R. Baselt, ''Disposition of Toxic Drugs and Chemicals in Man'', 8th edition, Biomedical Publications, Foster City, CA, 2008, pp. 1355–1357.</ref> Non-toxic levels in postmortem blood extend to around 0.8&nbsp;mg/kg, but toxic levels in postmortem blood can begin at 0.35&nbsp;mg/kg.<ref name="Skov 2015 41-44">{{cite journal |vauthors=Skov L, Johansen SS, Linnet K | title = Postmortem Femoral Blood Reference Concentrations of Aripiprazole, Chlorprothixene, and Quetiapine | journal = Journal of Analytical Toxicology | volume = 39 | issue = 1 | pages = 41–44 | date = Jan 2015 | doi = 10.1093/jat/bku121 | pmid = 25342720 }}</ref><ref name="Skov 2015 557-561">{{cite journal |vauthors=Skov L, Johansen SS, Linnet K | title = Postmortem Quetiapine Reference concentrations in Brain and Blood | journal = Journal of Analytical Toxicology | volume = 39 | issue = 7 | pages = 557–561 | date = Jul 2015 | doi = 10.1093/jat/bkv072 | pmid = 26159868 }}</ref>
+
+==Pharmacology==
+
+===Pharmacodynamics===
+{{See also|Atypical antipsychotic#Pharmacodynamics|Antipsychotic#Comparison of medications}}
+{| class="wikitable floatright" style="font-size:small;"
+|+ Quetiapine (and metabolite)<ref name="PDSP">{{cite web | title = PDSP K<sub>i</sub> Database | work = Psychoactive Drug Screening Program (PDSP) | author1 = Roth, BL | author2 = Driscol, J | publisher = University of North Carolina at Chapel Hill and the United States National Institute of Mental Health | accessdate = 14 August 2017 | url = https://pdsp.unc.edu/databases/pdsp.php?knowID=0&kiKey=&receptorDD=&receptor=&speciesDD=&species=&sourcesDD=&source=&hotLigandDD=&hotLigand=&testLigandDD=&testFreeRadio=testFreeRadio&testLigand=quetiapine&referenceDD=&reference=&KiGreater=&KiLess=&kiAllRadio=all&doQuery=Submit+Query}}</ref><ref name="pmid18059438" />
+|-
+! Site !! {{abbr|QTP|Quetiapine}} !! {{abbr|NQTP|Norquetiapine}} !! Action !! Ref
+|-
+| {{abbrlink|SERT|Serotonin transporter}} || >10,000 || 927 || Blocker || <ref name="pmid18059438">{{cite journal | vauthors = Jensen NH, Rodriguiz RM, Caron MG, Wetsel WC, Rothman RB, Roth BL | title = N-desalkylquetiapine, a potent norepinephrine reuptake inhibitor and partial 5-HT1A agonist, as a putative mediator of quetiapine's antidepressant activity | journal = Neuropsychopharmacology | volume = 33 | issue = 10 | pages = 2303–12 | year = 2008 | pmid = 18059438 | doi = 10.1038/sj.npp.1301646 | url = }}</ref>
+|-
+| '''{{abbrlink|NET|Norepinephrine transporter}}''' || '''>10,000''' || '''58''' || '''Blocker''' || <ref name="pmid18059438" />
+|-
+| {{abbrlink|DAT|Dopamine transporter}} || >10,000 || >10,000 || {{abbr|ND|No data}} || <ref name="pmid18059438" />
+|-
+| '''[[5-HT1A receptor|5-HT<sub>1A</sub>]]''' || '''320–432''' || '''45''' || '''Partial agonist''' || <ref name="pmid18059438" /><ref name="pmid8935801">{{cite journal | vauthors = Schotte A, Janssen PF, Gommeren W, Luyten WH, Van Gompel P, Lesage AS, De Loore K, Leysen JE | title = Risperidone compared with new and reference antipsychotic drugs: in vitro and in vivo receptor binding | journal = Psychopharmacology | volume = 124 | issue = 1-2 | pages = 57–73 | year = 1996 | pmid = 8935801 | doi = | url = }}</ref>
+|-
+| [[5-HT1B receptor|5-HT<sub>1B</sub>]] || 1,109–2,050 || 1,117 || {{abbr|ND|No data}} || <ref name="pmid18059438" /><ref name="pmid8935801" />
+|-
+| '''[[5-HT1D receptor|5-HT<sub>1D</sub>]]''' || '''>10,000''' || '''249''' || '''{{abbr|ND|No data}}''' || <ref name="pmid18059438" /><ref name="pmid8935801" />
+|-
+| '''[[5-HT1E receptor|5-HT<sub>1E</sub>]]''' || '''1,250–2,402''' || '''97''' || '''{{abbr|ND|No data}}''' || <ref name="pmid18059438" /><ref name="pmid8935801" />
+|-
+| [[5-HT1F receptor|5-HT<sub>1F</sub>]] || 2,240 || {{abbr|ND|No data}} || {{abbr|ND|No data}} || <ref name="pmid8935801" />
+|-
+| '''[[5-HT2A receptor|5-HT<sub>2A</sub>]]''' || '''96–101''' || '''48''' || '''Antagonist''' || <ref name="pmid18059438" /><ref name="pmid8935801" />
+|-
+| '''[[5-HT2B receptor|5-HT<sub>2B</sub>]]''' || '''{{abbr|ND|No data}}''' || '''14''' || '''Antagonist''' || <ref name="pmid18059438" />
+|-
+| '''[[5-HT2C receptor|5-HT<sub>2C</sub>]]''' || '''2,502''' || '''107''' || '''Antagonist''' || <ref name="pmid18059438" />
+|-
+| '''[[5-HT3 receptor|5-HT<sub>3</sub>]]''' || '''>10,000''' || '''394''' || '''Antagonist''' || <ref name="pmid18059438" />
+|-
+| [[5-HT4 receptor|5-HT<sub>4</sub>]] || {{abbr|ND|No data}} || {{abbr|ND|No data}} || {{abbr|ND|No data}} || {{abbr|ND|No data}}
+|-
+| '''[[5-HT5A receptor|5-HT<sub>5A</sub>]]''' || '''3,120''' || '''768''' || '''{{abbr|ND|No data}}''' || <ref name="pmid18059438" />
+|-
+| '''[[5-HT6 receptor|5-HT<sub>6</sub>]]''' || '''1,865''' || '''503''' || '''Antagonist''' || <ref name="pmid18059438" />
+|-
+| '''[[5-HT7 receptor|5-HT<sub>7</sub>]]''' || '''307''' || '''76''' || '''Antagonist''' || <ref name="pmid18059438" />
+|-
+| '''[[Alpha-1A adrenergic receptor|α<sub>1A</sub>]]''' || '''22''' || '''144''' || '''Antagonist''' || <ref name="pmid18059438" />
+|-
+| '''[[Alpha-1B adrenergic receptor|α<sub>1B</sub>]]''' || '''39''' || '''95''' || '''Antagonist''' || <ref name="pmid18059438" />
+|-
+| '''[[Alpha-2A adrenergic receptor|α<sub>2A</sub>]]''' || '''2,230–3,630''' || '''237''' || '''Antagonist''' || <ref name="pmid18059438" /><ref name="pmid8935801" />
+|-
+| '''[[Alpha-2B adrenergic receptor|α<sub>2B</sub>]]''' || '''90–747''' || '''378''' || '''Antagonist''' || <ref name="pmid18059438" /><ref name="pmid8935801" />
+|-
+| '''[[Alpha-2C adrenergic receptor|α<sub>2C</sub>]]''' || '''28.7–350''' || '''736''' || '''Antagonist''' || <ref name="pmid18059438" /><ref name="pmid8935801" />
+|-
+| [[Beta-1 adrenergic receptor|β<sub>1</sub>]] || >10,000 || >10,000 || {{abbr|ND|No data}} || <ref name="pmid18059438" /><ref name="pmid8935801" />
+|-
+| [[Beta-2 adrenergic receptor|β<sub>2</sub>]] || >10,000 || >10,000 || {{abbr|ND|No data}} || <ref name="pmid18059438" /><ref name="pmid8935801" />
+|-
+| '''[[Dopamine D1 receptor|D<sub>1</sub>]]''' || '''712''' || '''214''' || '''Antagonist''' || <ref name="pmid18059438" />
+|-
+| '''[[Dopamine D2 receptor|D<sub>2</sub>]]''' || '''245''' || '''196''' || '''Antagonist''' || <ref name="pmid18059438" />
+|-
+| '''[[Dopamine D2 receptor|D<sub>2L</sub>]]''' || '''700''' || '''{{abbr|ND|No data}}''' || '''Antagonist''' || <ref name="pmid8935801" />
+|-
+| '''[[Dopamine D2 receptor|D<sub>2S</sub>]]''' || '''390''' || '''{{abbr|ND|No data}}''' || '''Antagonist''' || <ref name="pmid8935801" />
+|-
+| '''[[Dopamine D3 receptor|D<sub>3</sub>]]''' || '''340–483''' || '''567''' || '''Antagonist''' || <ref name="pmid18059438" /><ref name="pmid8935801" />
+|-
+| [[Dopamine D4 receptor|D<sub>4</sub>]] || 1,202 || 1,297 || Antagonist || <ref name="pmid18059438" />
+|-
+| [[Dopamine D4 receptor|D<sub>4.2</sub>]] || 1,600 || {{abbr|ND|No data}} || Antagonist || <ref name="pmid8935801" />
+|-
+| [[Dopamine D5 receptor|D<sub>5</sub>]] || 1,738 || 1,419 || Antagonist || <ref name="pmid18059438" />
+|-
+| '''[[Histamine H1 receptor|H<sub>1</sub>]]''' || '''2.2–11''' || '''3.5''' || '''Antagonist''' || <ref name="pmid18059438" /><ref name="pmid8935801" />
+|-
+| '''[[Histamine H2 receptor|H<sub>2</sub>]]''' || '''>10,000''' || '''298''' || '''Antagonist''' || <ref name="pmid18059438" />
+|-
+| [[Histamine H3 receptor|H<sub>3</sub>]] || >10,000 || >10,000 || {{abbr|ND|No data}} || <ref name="pmid18059438" />
+|-
+| [[Histamine H4 receptor|H<sub>4</sub>]] || >10,000 || 1,660 || {{abbr|ND|No data}} || <ref name="pmid18059438" />
+|-
+| '''[[Muscarinic acetylcholine receptor M1|M<sub>1</sub>]]''' || '''858''' || '''39''' || '''Antagonist''' || <ref name="pmid18059438" />
+|-
+| '''[[Muscarinic acetylcholine receptor M2|M<sub>2</sub>]]''' || '''1,339''' || '''453''' || '''{{abbr|ND|No data}}''' || <ref name="pmid18059438" />
+|-
+| '''[[Muscarinic acetylcholine receptor M3|M<sub>3</sub>]]''' || '''>10,000''' || '''23''' || '''Antagonist''' || <ref name="pmid18059438" />
+|-
+| '''[[Muscarinic acetylcholine receptor M4|M<sub>4</sub>]]''' || '''542''' || '''110''' || '''{{abbr|ND|No data}}''' || <ref name="pmid18059438" />
+|-
+| '''[[Muscarinic acetylcholine receptor M5|M<sub>5</sub>]]''' || '''1,942''' || '''23''' || '''Antagonist''' || <ref name="pmid18059438" />
+|-
+| '''[[Sigma-1 receptor|σ<sub>1</sub>]]''' || '''220–3,651''' || '''>10,000''' || '''{{abbr|ND|No data}}''' || <ref name="pmid18059438" /><ref name="pmid8935801" />
+|-
+| [[Sigma-2 receptor|σ<sub>2</sub>]] || 1,344 || 1,050 || {{abbr|ND|No data}} || <ref name="pmid18059438" />
+|-
+| [[NMDA receptor|{{abbr|NMDA|N-Methyl-D-aspartate receptor}}<br />({{abbr|PCP|Phencyclidine site}})]] || >10,000 || {{abbr|ND|No data}} || Antagonist || <ref name="pmid18059438" />
+|-
+| {{abbrlink|VDCC|Voltage-dependent calcium channel}} || >10,000 || {{abbr|ND|No data}} || {{abbr|ND|No data}} || <ref name="pmid18059438" /><ref name="pmid8935801" />
+|-
+| {{abbrlink|hERG|Human Ether-à-go-go-Related Gene}} || {{abbr|ND|No data}} || >10,000<br />({{abbrlink|IC<sub>50</sub>|Half-maximal inhibitory concentration}}) || {{abbr|ND|No data}} || <ref name="pmid18059438" />
+|- class="sortbottom"
+| colspan="5" style="width: 1px;" | Values are K<sub>i</sub> (nM), unless otherwise noted. The smaller the value, the more strongly the drug binds to the site. All data are for human cloned proteins, except σ<sub>1</sub> (guinea pig), σ<sub>2</sub> (rat), and {{abbr|VDCC|Voltage-dependent calcium channel}} (rat).<ref name="pmid18059438" /><ref name="pmid8935801" />
+|}
+
+Quetiapine has the following pharmacological actions:<ref name=Seroquel>{{Cite journal |author=[[AstraZeneca]] |id=276521 |title=Seroquel (quietapine fumarate) tablets |url=http://www1.astrazeneca-us.com/pi/Seroquel.pdf |format=PDF |deadurl=yes |archiveurl=https://web.archive.org/web/20080414031803/http://www1.astrazeneca-us.com/pi/Seroquel.pdf |archivedate=2008-04-14 |df= }}</ref><ref name="pmid11132243">{{cite journal |vauthors=Richelson E, Souder T | title = Binding of antipsychotic drugs to human brain receptors focus on newer generation compounds | journal = Life Sciences | volume = 68 | issue = 1 | pages = 29–39 | date = November 2000 | pmid = 11132243 | doi = 10.1016/S0024-3205(00)00911-5 | url = http://linkinghub.elsevier.com/retrieve/pii/S0024320500009115 }}</ref><ref name="urlNeuropsychopharmacology: the fifth ... - Google Books">{{cite book | url = https://books.google.com/?id=BKwkonZwZD0C&pg=PA778#v=onepage&q= | title = Neuropsychopharmacology: the fifth ... - Google Books | work = | accessdate = | isbn = 978-0-7817-2837-9 | author1 = Davis, Kenneth L | author2 = Neuropsychopharmacology, American College of | year = 2002 }}</ref><ref>{{cite web |url=http://www.drugs.com/pro/seroquel.html |title=Seroquel Official FDA information, side effects and uses |publisher=Drugs.com |accessdate=2012-07-09 |deadurl=no |archiveurl=https://web.archive.org/web/20120604005526/http://www.drugs.com/pro/seroquel.html |archivedate=2012-06-04 |df= }}</ref><ref name="dailymed PI">{{cite web |url=http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?id=41375#section-15.2 |title=SEROQUEL (quetiapine fumarate) tablet, extended release |author=AstraZeneca Pharmaceuticals LP |date=March 2011 |work=DailyMed |publisher=National Library of Medicine |at=Section 12.2: Pharmacodynamics |accessdate=2011-04-26}}</ref><ref>National Institute of Mental Health. PDSD Ki Database (Internet) [cited 2013 Sep 18]. Chapel Hill (NC): University of North Carolina. 1998-2013. Available from: {{cite web|url=http://pdsp.med.unc.edu/pdsp.php |title=Archived copy |accessdate=July 5, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131108013656/http://pdsp.med.unc.edu/pdsp.php |archivedate=November 8, 2013 }}</ref><ref>Jensen NH, Rodriguiz RM, Caron MG, Wetsel WC, Rothman RB, Roth BL. N-Desalkylquetiapine, a Potent Norepinephrine Reuptake Inhibitor and Partial 5-HT1A Agonist, as a Putative Mediator of Quetiapine’s Antidepressant Activity. Neuropsychopharmacology [Internet]. 2007 Dec 5 [cited 2013 Sep 18];33(10):2303–12. Available from: {{cite web |url=http://www.nature.com/npp/journal/v33/n10/full/1301646a.html |title=Archived copy |accessdate=2013-09-18 |deadurl=no |archiveurl=https://web.archive.org/web/20140903012749/http://www.nature.com/npp/journal/v33/n10/full/1301646a.html |archivedate=2014-09-03 |df= }}</ref><ref>López-Muñoz F, Álamo C. Active metabolites as antidepressant drugs: the role of norquetiapine in the mechanism of action of quetiapine in the treatment of mood disorders. Front Psychiatry [Internet]. 2013 [cited 2013 Sep 19];4:102. Available from: {{cite web |url=http://www.frontiersin.org/Neuropharmacology/10.3389/fpsyt.2013.00102/abstract |title=Archived copy |accessdate=2013-09-19 |deadurl=no |archiveurl=https://web.archive.org/web/20130928002435/http://www.frontiersin.org/Neuropharmacology/10.3389/fpsyt.2013.00102/abstract |archivedate=2013-09-28 |df= }}</ref>
+
+* [[Dopamine receptor|Dopamine]] [[D1 receptor|D<sub>1</sub>]], [[D2 receptor|D<sub>2</sub>]], [[D3 receptor|D<sub>3</sub>]], [[D4 receptor|D<sub>4</sub>]], and [[D5 receptor|D<sub>5</sub> receptor]] [[dopamine receptor antagonist|antagonist]]
+* [[Serotonin receptor|Serotonin]] [[5-HT1A receptor|5-HT<sub>1A</sub> receptor]] [[partial agonist]], [[5-HT2A receptor|5-HT<sub>2A</sub>]], [[5-HT2B receptor|5-HT<sub>2B</sub>]], [[5-HT2C receptor|5-HT<sub>2C</sub>]], [[5-HT3 receptor|5-HT<sub>3</sub>]], [[5-HT6 receptor|5-HT<sub>6</sub>]], and [[5-HT7 receptor|5-HT<sub>7</sub> receptor]] [[serotonin receptor antagonist|antagonist]], and [[5-HT1B receptor|5-HT<sub>1B</sub>]], [[5-HT1D receptor|5-HT<sub>1D</sub>]], [[5-HT1E receptor|5-HT<sub>1E</sub>]], and [[5-HT1F receptor|5-HT<sub>1F</sub> receptor]] [[ligand (biochemistry)|ligand]]
+* [[alpha-1 adrenergic receptor|α<sub>1</sub>-]] and [[alpha-2 adrenergic receptor|α<sub>2</sub>-adrenergic receptor]] [[alpha blocker|antagonist]]
+* [[Histamine receptor|Histamine]] [[H1 receptor|H<sub>1</sub> receptor]] [[antihistamine|antagonist]]
+* [[Muscarinic acetylcholine receptor]] [[antimuscarinic|antagonist]]
+
+This means quetiapine is a [[dopamine antagonist|dopamine]], [[serotonin antagonist|serotonin]], and [[adrenergic antagonist|adrenergic]] antagonist, and a potent [[antihistamine]] with some [[anticholinergic]] properties.<ref>{{cite web|last=Chew|first=ML|title=Anticholinergic activity of 107 medications commonly used by older adults|url=http://onlinelibrary.wiley.com/doi/10.1111/j.1532-5415.2008.01737.x/abstract/|publisher=J Am Geriatr Soc.|accessdate=25 August 2017|pmid=18510583|deadurl=no|archiveurl=https://web.archive.org/web/20170826031332/http://onlinelibrary.wiley.com/doi/10.1111/j.1532-5415.2008.01737.x/abstract/|archivedate=26 August 2017|df=}}</ref> Quetiapine binds strongly to serotonin receptors; the drug acts as [[partial agonist]] at 5-HT<sub>1A</sub> receptors.<ref>{{cite web|last=Guzman|first=F|title=Mechanism of action of quetiapine|url=http://psychopharmacologyinstitute.com/antipsychotics/quetiapine/mechanism-of-action/|publisher=Psychopharmacology Institute|accessdate=20 January 2013|deadurl=no|archiveurl=https://web.archive.org/web/20130811004624/http://psychopharmacologyinstitute.com/antipsychotics/quetiapine/mechanism-of-action/|archivedate=11 August 2013|df=}}</ref> Serial PET scans evaluating the D<sub>2</sub> receptor occupancy of quetiapine have demonstrated that quetiapine very rapidly disassociates from the D<sub>2</sub> receptor.<ref>{{cite journal | author = Kapur S, Seeman P | title = Does fast dissociation from the dopamine d(2) receptor explain the action of atypical antipsychotics?:a new hypothesis | journal = American Journal of Psychiatry | volume = 158 | issue = 3 | pages = 360&ndash;369 | year = 2001 | pmid = 11229973 | doi = 10.1176/appi.ajp.158.3.360 | url = http://ajp.psychiatryonline.org/cgi/content/abstract/158/3/360 | last2 = Seeman | first2 = P }}</ref> Theoretically, this allows for normal physiological surges of dopamine to elicit normal effects in areas such as the [[nigrostriatal]] and [[tuberoinfundibular]] pathways, thus minimizing the risk of side-effects such as pseudo-parkinsonism as well as elevations in [[prolactin]].<ref>{{cite journal | author = Seeman P | title = Atypical antipsychotics: mechanism of action | journal = Can J Psychiatry | volume = 47 | issue = 1 | pages = 27–38 | year = 2002 | pmid = 11873706 }}</ref> Some of the antagonized receptors (serotonin, norepinephrine) are actually [[autoreceptor]]s whose blockade tends to increase the release of neurotransmitters.
+
+At very low doses, quetiapine acts primarily as a histamine receptor blocker (antihistamine) and [[alpha-1 adrenergic receptor|α<sub>1</sub>-adrenergic]] blocker. When the dose is increased, quetiapine activates the adrenergic system and binds strongly to serotonin receptors and [[autoreceptor]]s. At high doses, quetiapine starts blocking significant amounts of dopamine receptors.<ref>{{cite journal |vauthors=Richelson E, Souder T | title = Binding of antipsychotic drugs to human brain receptors focus on newer generation compounds | journal = Life Sciences | volume = 68 | issue = 1 | pages = 29–39 | date = November 2000 | pmid = 11132243 | doi = 10.1016/S0024-3205(00)00911-5 }}</ref><ref>{{cite journal |vauthors=Gefvert O, Lundberg T, Wieselgren IM, Bergström M, Långström B, Wiesel F, Lindström L | title = D2 and 5HT2A receptor occupancy of different doses of quetiapine in schizophrenia: a PET study | journal = European Neuropsychopharmacology | volume = 11 | issue = 2 | pages = 105–110 | date = April 2001 | pmid = 11313155 | doi = 10.1016/S0924-977X(00)00133-4 }}</ref> Off-label prescriptions, e.g. for chronic insomnia, of low-dose quetiapine is not recommended due to the harmful side-effects.<ref name="low_dose">{{cite web|title=Drug Use Evaluation: Low Dose Quetiapine (Seroquel/Seroquel XR)|url=http://www.govexec.com/pdfs/013111bb1a.pdf|website=Government Executive Media Group|publisher=Oregon State|accessdate=20 January 2016|deadurl=no|archiveurl=https://web.archive.org/web/20160422184014/http://www.govexec.com/pdfs/013111bb1a.pdf|archivedate=22 April 2016|df=}}</ref>
+
+===Pharmacokinetics===
+
+The major [[active metabolite]] of quetiapine is [[norquetiapine]] (''N''-desalkylquetiapine).<ref name="pmid18059438" />
+
+[[File:Norquetiapine.svg|left|thumb|200|Skeletal formula of norquetiapine]] {{Clear left}}
+
+==Chemistry==
+Quetiapine is a [[tetracyclic compound]] and is closely related structurally to [[clozapine]], [[olanzapine]], [[loxapine]], and other tetracyclic antipsychotics.
+
+===Synthesis===
+The synthesis of quetiapine begins with a dibenzothiazepinone. The [[lactam]] is first treated with [[phosphoryl chloride]] to produce a [[dibenzothiazepine]]. A [[nucleophilic substitution]] is used to introduce the sidechain.<ref>Warawa, E. J.; Migler, B. M.; 1988, {{US Patent|4879288}}.</ref>
+
+[[File:Quetiapine syn.png|600px|center]]
+
+==History==
+
+===Sustained-release===
+AstraZeneca submitted a [[new drug application]] for a [[sustained-release]] version of quetiapine in the United States, Canada, and the European Union in the second half of 2006 for treatment of schizophrenia.<ref>{{cite press release|publisher=[[AstraZeneca]]|url=http://www.astrazeneca.com/pressrelease/5256.aspx|title=AstraZeneca Submits an NDA For Sustained Release Formulation Seroquel XR. For the treatment of schizophrenia.|date=2006-07-18|accessdate=2007-01-01|deadurl=no|archiveurl=https://web.archive.org/web/20061105230337/http://www.astrazeneca.com/pressrelease/5256.aspx|archivedate=2006-11-05|df=}}</ref><ref>{{cite press release|publisher=[[AstraZeneca]]|url=http://www.astrazeneca.com/pressrelease/5275.aspx|title=AstraZeneca Submits EU and Canadian Regulatory Filings for Sustained Release Formulation SEROQUEL XR for the Treatment of Schizophrenia|date=2006-10-19|accessdate=2007-01-01|deadurl=no|archiveurl=https://web.archive.org/web/20061107132140/http://www.astrazeneca.com/pressrelease/5275.aspx|archivedate=2006-11-07|df=}}</ref> AstraZeneca will retain the exclusive right to market sustained-release quetiapine until 2017. The sustained-release quetiapine is marketed mainly as Seroquel XR. Other marketing names are Seroquel Prolong, Seroquel Depot and Seroquel XL
+
+On May 18, 2007, AstraZeneca announced that the U.S. FDA approved Seroquel XR for acute treatment of schizophrenia.<ref>{{cite press release|publisher=[[AstraZeneca]]|url=http://www.astrazeneca.com/pressrelease/5330.aspx|title=FDA Approves AstraZeneca’s Once-Daily SEROQUEL XR Extended-Release Tablets For The Treatment Of Schizophrenia|date=2007-05-18|accessdate=2007-08-02|deadurl=no|archiveurl=https://web.archive.org/web/20070928040539/http://www.astrazeneca.com/pressrelease/5330.aspx|archivedate=2007-09-28|df=}}</ref> During its 2007 Q2 earnings conference, AstraZeneca announced plans to launch Seroquel XR in the U.S. during August 2007.<ref>{{cite press release|publisher=[[AstraZeneca]]|url=http://www.astrazeneca.com/pressrelease/5341.aspx|title=Second Quarter and Half Year Results 2007|date=2007-07-26|accessdate=2007-08-02|deadurl=no|archiveurl=https://web.archive.org/web/20070824192553/http://www.astrazeneca.com/pressrelease/5341.aspx|archivedate=2007-08-24|df=}}</ref> However, Seroquel XR has become available in U.S. pharmacies only after the FDA approved Seroquel XR for use as maintenance treatment for schizophrenia, in addition to acute treatment of the illness, on November 16, 2007.<ref>{{cite press release|publisher=[[AstraZeneca]]|url=http://www.astrazeneca.com/pressrelease/5360.aspx|title=Seroquel XR Receives Approval from FDA for Maintenance Treatment of Schizophrenia|date=2007-11-16|accessdate=2007-12-03|deadurl=no|archiveurl=https://web.archive.org/web/20071204160258/http://www.astrazeneca.com/pressrelease/5360.aspx|archivedate=2007-12-04|df=}}</ref> The company has not provided a reason for the delay of Seroquel XR's launch.
+
+[[Health Canada]] approved sale of Seroquel XR on September 27, 2007.<ref>[http://cpe0013211b4c6d-cm0014e88ee7a4.cpe.net.cable.rogers.com/NocWeb/viewnoce.jsp?noc=kilh Notice of Compliance Information - Seroquel XR]{{dead link|date=July 2016 |bot=InternetArchiveBot |fix-attempted=yes }} September 27, 2007, retrieved December 3, 2007</ref>
+
+The FDA approved Seroquel XR for the treatment of bipolar depression and bipolar mania in early October 2008. According to AstraZeneca, Seroquel XR is "the first medication approved by the FDA for the once-daily acute treatment of both depressive and manic episodes associated with bipolar."
+
+On July 31, 2008, Handa Pharmaceuticals, based in Fremont, California, announced that its abbreviated new drug application (“ANDA”) for quetiapine fumarate extended-release tablets, the generic version of AstraZeneca’s SEROQUEL XR, has been accepted by the FDA.
+
+On December 1, 2008, [[Biovail]] announced that the FDA had accepted the company's ANDA to market its own version of sustained-release quetiapine.<ref>{{cite press release|publisher=[[Biovail]]|url=http://www.biovail.com/english/Investor%20Relations/Latest%20News/default.asp?s=1&state=showrelease&releaseid=1230930|title=Biovail Announces Filing of ANDA for Quetiapine XR Tablets|date=2008-12-01|deadurl=yes|archiveurl=https://web.archive.org/web/20070809023828/http://www.biovail.com/english/investor%20relations/latest%20news/default.asp?s=1|archivedate=2007-08-09|df=}}</ref> Biovail's sustained-release tablets will compete with AstraZeneca's Seroquel XR.
+
+On December 24, 2008, AstraZeneca notified shareholders that the FDA had asked for additional information on the company's application to expand the use of sustained-release quetiapine for treatment of depression.<ref>{{cite press release|publisher=[[AstraZeneca]]|url=http://www.astrazeneca.com/media/latest-press-releases/seroquel-MDD-FDA-response?itemId=4477598|title=AstraZeneca Receives FDA Complete Response Letter on Seroquel XR for Major Depressive Disorder|date=2008-12-24|accessdate=2008-12-28|deadurl=no|archiveurl=https://web.archive.org/web/20101026190741/http://www.astrazeneca.com/media/latest-press-releases/seroquel-MDD-FDA-response?itemId=4477598|archivedate=2010-10-26|df=}}</ref>
+
+==Society and culture==
+
+===Regulatory status===
+In the United States, the [[Food and Drug Administration]] (FDA) has approved quetiapine for the treatment of [[schizophrenia]] and of acute [[mania|manic]] episodes associated with [[bipolar disorder]] ([[Bipolar disorder#Manic episodes|bipolar mania]]) and for treatment of [[Bipolar disorder#Depressive episodes|bipolar depression]].<ref name="Off-label">{{cite web | url = http://www.justice.gov/opa/pr/2010/April/10-civ-487.html | title = Pharmaceutical Giant AstraZeneca to Pay $520 Million for Off-label Drug Marketing | publisher = Justice news, US Department of Justice | accessdate = 2012-07-16 | deadurl = no | archiveurl = https://web.archive.org/web/20120713201923/http://www.justice.gov/opa/pr/2010/April/10-civ-487.html | archivedate = 2012-07-13 | df = }}</ref> In 2009, quetiapine XR was approved as adjunctive treatment of major depressive disorder.<ref>{{cite web|last=Guzman|first=F|title=Quetiapine Indications: FDA-Approved and Off-label Uses|url=http://psychopharmacologyinstitute.com/antipsychotics/quetiapine/quetiapine-indications/|publisher=Psychopharmacology Institute|accessdate=19 January 2013|deadurl=no|archiveurl=https://web.archive.org/web/20140122132819/http://psychopharmacologyinstitute.com/antipsychotics/quetiapine/quetiapine-indications/|archivedate=22 January 2014|df=}}</ref>
+
+Quetiapine received its initial indication from U.S. FDA for treatment of schizophrenia in 1997.<ref>{{cite web|title=QUETIAPINE FUMARATE|work=Electronic Orange Book|publisher=Food and Drug Administration|date=April 2007|url=http://www.accessdata.fda.gov/scripts/cder/ob/docs/obdetail.cfm?Appl_No=020639&TABLE1=OB_Rx|accessdate=2007-05-24|deadurl=no|archiveurl=https://web.archive.org/web/20090105000412/http://www.accessdata.fda.gov/scripts/cder/ob/docs/obdetail.cfm?Appl_No=020639&TABLE1=OB_Rx|archivedate=2009-01-05|df=}}</ref> In 2004, it received its second indication for the treatment of mania-associated bipolar disorder.<ref>{{cite press release| publisher=[[AstraZeneca]]| date=2004-01-13| title=AstraZeneca Receives FDA Approval for SEROQUEL in Bipolar Mania| url=http://www.prnewswire.co.uk/cgi/news/release?id=115109| deadurl=no| archiveurl=https://web.archive.org/web/20110608181218/http://www.prnewswire.co.uk/cgi/news/release?id=115109| archivedate=2011-06-08| df=}}</ref> In 2007 and 2008, studies were conducted on quetiapine’s efficacy in treating generalized anxiety disorder and major depression.
+
+===Cost===
+In the United States as of 2015 the branded extended release 400&nbsp;mg pills cost between {{USD}}9.68 and {{USD}}23.16 each.<ref>{{cite news|last1=Langreth|first1=Robert|title=Decoding Big Pharma’s Secret Drug Pricing Practices|url=https://www.bloomberg.com/graphics/2016-drug-prices/|accessdate=15 July 2016|publisher=Bloomberg|date=June 29, 2016|deadurl=no|archiveurl=https://web.archive.org/web/20160713133019/http://www.bloomberg.com/graphics/2016-drug-prices/|archivedate=13 July 2016|df=}}</ref>
+
+===Lawsuits===
+In April 2010, AstraZeneca settled a longstanding U. S. Department of Justice investigation into its aggressive marketing of Seroquel for such [[off-label use]]s with a $520-million fine.<ref name="Off-label"/> According to the Department of Justice, "the company recruited doctors to serve as authors of articles that were ghostwritten by medical literature companies and about studies the doctors in question did not conduct. AstraZeneca then used those studies and articles as the basis for promotional messages about unapproved uses of Seroquel."<ref name="Off-label"/>
+
+Multiple lawsuits have been filed in relation to quetiapine's side-effects, in particular, [[diabetes]].<ref>{{Cite news| url=http://www.madisonrecord.com/news/198781-seroquel-suit-claims-so-much-is-poured-into-marketing-and-away-from-research| title=Seroquel suit claims 'so much' is poured into marketing and away from research| work=[[The Madison / St. Clair Record]]| author=Ann Knef| date=2007-08-02| deadurl=no| archiveurl=https://web.archive.org/web/20080821141631/http://www.madisonrecord.com/news/198781-seroquel-suit-claims-so-much-is-poured-into-marketing-and-away-from-research| archivedate=2008-08-21| df=}}</ref><ref name="BloombergNewsSeroquelDiabetes">{{cite news| author=Phil Milford| date=2009-03-11| work=Bloomberg.com| publisher=[[Bloomberg L.P.]]| url=https://www.bloomberg.com/apps/news?pid=newsarchive&sid=ayzJsK2HlF6s| title=AstraZeneca May Link Seroquel, Diabetes, Doctor Says| deadurl=no| archiveurl=https://web.archive.org/web/20150924191537/http://www.bloomberg.com/apps/news?pid=newsarchive&sid=ayzJsK2HlF6s| archivedate=2015-09-24| df=}}</ref><ref>{{cite web |url=http://www.fiercepharma.com/story/astrazeneca-wins-bellwether-seroquel-case/2010-03-19 |title=AstraZeneca wins bellwether Seroquel case |publisher=FiercePharma |date=2010-03-19 |accessdate=2012-07-09 |deadurl=no |archiveurl=https://web.archive.org/web/20120314034519/http://www.fiercepharma.com/story/astrazeneca-wins-bellwether-seroquel-case/2010-03-19 |archivedate=2012-03-14 |df= }}</ref><ref>{{Cite news|url=http://www.thelocal.se/28260/20100809/|title=AstraZeneca pays out million dollar damages|work=[[The Local]]|date=2010-08-09|deadurl=no|archiveurl=https://web.archive.org/web/20100817204556/http://www.thelocal.se/28260/20100809/|archivedate=2010-08-17|df=}}</ref>
+
+Approximately 10,000<ref>{{cite web |url=http://www.marinecorpstimes.com/news/2010/08/ap-veterans-affairs-investigation-into-seroquel-083010/ |title=Questions loom over drug for sleepless vets - Marine Corps News &#124; News from Afghanistan & Iraq |publisher=Marine Corps Times |accessdate=2012-07-09 |deadurl=no |archiveurl=https://web.archive.org/web/20130602184342/http://www.marinecorpstimes.com/news/2010/08/ap-veterans-affairs-investigation-into-seroquel-083010/ |archivedate=2013-06-02 |df= }}</ref> lawsuits<ref>{{cite web |author=DUFF WILSON Published: July 18, 2011 |url=https://www.nytimes.com/2011/07/19/health/19drug.html?_r=2 |title=Heart Warning Added to Label on Popular Antipsychotic Drug |publisher=NyTimes |date=2011-07-19 |accessdate=2012-07-09 |deadurl=no |archiveurl=https://web.archive.org/web/20120702172131/http://www.nytimes.com/2011/07/19/health/19drug.html?_r=2 |archivedate=July 2, 2012 |df= }}</ref> have been filed against AstraZeneca alleging that quetiapine caused problems ranging from slurred speech and chronic insomnia to deaths.
+
+===Controversy===
+In 2004, a young man named [[Death of Dan Markingson|Dan Markingson]] committed suicide in a controversial Seroquel clinical trial at the University of Minnesota while under an involuntary commitment order.<ref>{{cite news|last=Elliott|first=Carl|title=The Deadly Corruption of Clinical Trials|url=http://www.motherjones.com/environment/2010/09/dan-markingson-drug-trial-astrazeneca|accessdate=2 December 2012|newspaper=Mother Jones|date=September–October 2010|deadurl=no|archiveurl=https://web.archive.org/web/20121117015108/http://www.motherjones.com/environment/2010/09/dan-markingson-drug-trial-astrazeneca|archivedate=17 November 2012|df=}}</ref> A group of University of Minnesota bioethicists charged that the trial involved an alarming number of ethical violations.<ref>{{cite news|last=Couzin-Frankel|first=Jennifer|title=Minnesota bioethicists critique their university|url=http://news.sciencemag.org/scienceinsider/2010/12/minnesota-bioethicists-critique-.html|accessdate=2 December 2012|newspaper=Science|date=December 7, 2010|deadurl=yes|archiveurl=https://web.archive.org/web/20130221014413/http://news.sciencemag.org/scienceinsider/2010/12/minnesota-bioethicists-critique-.html|archivedate=21 February 2013|df=}}</ref>
+
+===Nurofen Plus tampering case===
+In August 2011, the UK's [[Medicines and Healthcare products Regulatory Agency]] (MHRA) issued a class-4 drug alert following reports that some batches of [[Nurofen|Nurofen plus]] contained Seroquel XL instead.<ref>{{cite web |url=http://www.mhra.gov.uk/NewsCentre/Pressreleases/CON126226 |title=Press releases |publisher=MHRA |accessdate=2012-07-09 |deadurl=yes |archiveurl=https://web.archive.org/web/20120319232125/http://www.mhra.gov.uk/NewsCentre/Pressreleases/CON126226 |archivedate=2012-03-19 |df= }}</ref>
+
+Following the issue of the Class-4 Drug Alert, Reckitt Benckiser (UK) Ltd received further reports of rogue blister strips in cartons of two additional batches of Nurofen Plus tablets. One of the new batches contained Seroquel XL 50&nbsp;mg tablets and one contained the Pfizer product [[Neurontin]] 100&nbsp;mg capsules.
+
+Following discussions with the MHRA's Defective Medicines Report Centre (DMRC), Reckitt Benckiser (UK) Ltd decided to recall all remaining unexpired stock of Nurofen Plus tablets in any pack size, leading to a Class-1 Drug Alert.<ref>{{cite web |url=http://www.mhra.gov.uk/Publications/Safetywarnings/DrugAlerts/CON126268 |title=Drug Alerts |publisher=MHRA |accessdate=2012-07-09 |deadurl=no |archiveurl=https://web.archive.org/web/20120319232133/http://www.mhra.gov.uk/Publications/Safetywarnings/DrugAlerts/CON126268 |archivedate=2012-03-19 |df= }}</ref>
+The contamination was later traced to in-store tampering by a customer.<ref>{{cite web |url=http://www.bbc.co.uk/news/uk-england-london-18203634 |title=BBC News - Nurofen Plus tampering: Christopher McGuire jailed |publisher=Bbc.co.uk |date=2012-05-28 |accessdate=2012-07-09 |deadurl=no |archiveurl=https://web.archive.org/web/20120614124729/http://www.bbc.co.uk/news/uk-england-london-18203634 |archivedate=2012-06-14 |df= }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commonscat}}
+* {{cite web|publisher=The American Society of Health-System Pharmacists, Inc.|work=[[MedlinePlus]]|title=Quetiapine|date=2008-09-01|url=http://nlm.nih.gov/medlineplus/druginfo/meds/a698019.html}}
+* [https://web.archive.org/web/20030925213951/http://www.nami.org/Template.cfm?Section=About_Medications&template=/ContentManagement/ContentDisplay.cfm&ContentID=8190 NAMI summary]
+* [https://web.archive.org/web/20071011050410/http://www.rxlist.com/cgi/generic/quetiap_ids.htm Internet Drug List summary]
+* [http://chembank.broad.harvard.edu/compounds/display.html?compound_id=1802&sets=bioactive&realm=bioactives Compound #1802: Quetiapine]{{dead link|date=July 2016 |bot=InternetArchiveBot |fix-attempted=yes }} ChemBank
+* [http://druginfo.nlm.nih.gov/drugportal/dpdirect.jsp?name=Quetiapine U.S. National Library of Medicine: Drug Information Portal - Quetiapine]
+* [http://www.tga.gov.au/pdf/auspar/auspar-seroquel.pdf Australian Public Assessment Report for Quetiapine (as fumarate)]
+
+{{Antipsychotics}}
+{{Mood stabilizers}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Adrenergic receptor modulators}}
+{{Dopamine receptor modulators}}
+{{Histamine receptor modulators}}
+{{Monoamine reuptake inhibitors}}
+{{Muscarinic acetylcholine receptor modulators}}
+{{Serotonin receptor modulators}}
+}}
+{{Tricyclics}}
+
+[[Category:Alpha blockers]]
+[[Category:Antidepressants]]
+[[Category:Atypical antipsychotics]]
+[[Category:Dibenzothiazepines]]
+[[Category:Ethers]]
+[[Category:H1 receptor antagonists]]
+[[Category:Hypnotics]]
+[[Category:Mood stabilizers]]
+[[Category:Piperazines]]
+[[Category:Primary alcohols]]
+[[Category:Sedatives]]
+[[Category:RTT]]

@@ -1,0 +1,375 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 464369120
+| IUPAC_name = 4-[4-(4-Chlorophenyl)-4-hydroxypiperidin-1-yl]-1-(4-fluorophenyl)butan-1-one
+| image = Haloperidol.svg
+| width = 200
+| image2 = Haloperidol-from-xtal-3D-balls.png
+| width2 = 200
+
+<!--Clinical data-->
+| pronounce = {{IPAc-en|h|æ|l|oʊ|p|ɛ|r|i|d|ɒ|l}}
+
+| tradename = Haldol
+| Drugs.com = {{drugs.com|monograph|haloperidol}}
+| MedlinePlus = a682180
+| pregnancy_US = C
+| pregnancy_AU = C
+| legal_AU = S4
+| legal_CA = Rx-only
+| legal_UK = POM
+| legal_US = Rx-only
+| routes_of_administration = by mouth, [[Intramuscular injection|IM]], [[Intravenous therapy|IV]], [[Depot injection|depot]] (as [[decanoate]] [[ester]])
+
+<!--Pharmacokinetic data-->
+| bioavailability = 60–70% (Oral)<ref name = PK1999/>
+| protein_bound = ~90%<ref name = PK1999/>
+| metabolism = Liver-mediated<ref name = PK1999/>
+| elimination_half-life = 14–26 hours (IV), 20.7 hours (IM), 14–37 hours (oral)<ref name=PK1999>{{cite journal|last=Kudo|first=S|author2=Ishizaki T|title=Pharmacokinetics of haloperidol: an update|journal=Clinical pharmacokinetics|date=December 1999|volume=37|issue=6|pages=435–56|pmid=10628896|doi=10.2165/00003088-199937060-00001}}</ref>
+| excretion = [[Bile duct|Biliary]] (hence in feces) and in urine<ref name = PK1999/><ref name=TGA>{{cite web|title=PRODUCT INFORMATION Serenace|work=TGA eBusiness Services|publisher=Aspen Pharma Pty Ltd|date=29 September 2011|accessdate=29 May 2014|url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2011-PI-03532-3|format=PDF|deadurl=no|archiveurl=https://web.archive.org/web/20170314204106/https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2011-PI-03532-3|archivedate=14 March 2017|df=}}</ref>
+
+<!--Identifiers-->
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 52-86-8
+| ATC_prefix = N05
+| ATC_suffix = AD01
+| PubChem = 3559
+| IUPHAR_ligand = 86
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00502
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 3438
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = J6292F8L3D
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D00136
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 5613
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 54
+
+<!--Chemical data-->
+| C=21 | H=23 | Cl=1 | F=1 | N=1 | O=2
+| molecular_weight = 375.9 g/mol
+| smiles = c1cc(ccc1C(=O)CCCN2CCC(CC2)(c3ccc(cc3)Cl)O)F
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C21H23ClFNO2/c22-18-7-5-17(6-8-18)21(26)11-14-24(15-12-21)13-1-2-20(25)16-3-9-19(23)10-4-16/h3-10,26H,1-2,11-15H2
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = LNEPOXFFQSENCJ-UHFFFAOYSA-N
+}}
+
+<!-- Definition and uses -->
+'''Haloperidol''', marketed under the [[trade name]] '''Haldol''' among others, is a [[typical antipsychotic]] medication.<ref name=AHFS2015/> Haloperidol is used in the treatment of [[schizophrenia]], tics in [[Tourette syndrome]], [[mania]] in [[bipolar disorder]], nausea and vomiting, [[delirium]], agitation, acute [[psychosis]], and [[hallucinations]] in [[alcohol withdrawal]].<ref name=AHFS2015/><ref name=NEJM2014>{{cite journal|last1=Schuckit|first1=MA|title=Recognition and management of withdrawal delirium (delirium tremens).|journal=The New England Journal of Medicine|date=27 November 2014|volume=371|issue=22|pages=2109–13|pmid=25427113|doi=10.1056/NEJMra1407298}}</ref><ref>{{cite journal|last1=Plosker|first1=GL|title=Quetiapine: a pharmacoeconomic review of its use in bipolar disorder.|journal=PharmacoEconomics|date=1 July 2012|volume=30|issue=7|pages=611–31|pmid=22559293|doi=10.2165/11208500-000000000-00000}}</ref> It may be used by mouth, as an [[intramuscular injection|injection into a muscle]], or [[intravenously]].<ref name=AHFS2015/> Haloperidol typically works within thirty to sixty minutes.<ref name=AHFS2015/> A long-acting formulation may be used as an injection every four weeks in people with [[schizophrenia]] or related illnesses, who either forget or refuse to take the medication by mouth.<ref name=AHFS2015/>
+
+<!-- Side effects -->
+Haloperidol may result in a movement disorder known as [[tardive dyskinesia]] which may be permanent.<ref name=AHFS2015/> [[Neuroleptic malignant syndrome]] and [[Drug-induced QT prolongation|QT interval prolongation]] may occur.<ref name=AHFS2015/> In older people with psychosis due to [[dementia]] it results in an increased risk of death.<ref name=AHFS2015>{{cite web|title=Haloperidol|url=http://www.drugs.com/monograph/haloperidol.html|publisher=The American Society of Health-System Pharmacists|accessdate=Jan 2, 2015|deadurl=no|archiveurl=https://web.archive.org/web/20150102120426/http://www.drugs.com/monograph/haloperidol.html|archivedate=2015-01-02|df=}}</ref> When taken during pregnancy it may result in problems in the infant.<ref name=AHFS2015/><ref name=TGA2015>{{cite web|title=Prescribing medicines in pregnancy database|url=http://www.tga.gov.au/hp/medicines-pregnancy.htm#.U1Yw8Bc3tqw|work=Australian Government|accessdate=Jan 2, 2015|date=3 March 2014|deadurl=no|archiveurl=https://web.archive.org/web/20140408040902/http://www.tga.gov.au/hp/medicines-pregnancy.htm#.U1Yw8Bc3tqw|archivedate=8 April 2014|df=}}</ref> It should not be used in people with [[Parkinson's disease]].<ref name=AHFS2015/>
+
+<!-- History, society and culture -->
+Haloperidol was discovered in 1958 by [[Paul Janssen]].<ref>{{cite book|last1=Sneader|first1=Walter|title=Drug discovery : a history|date=2005|publisher=Wiley|location=Chichester|isbn=9780471899792|page=124|edition=Rev. and updated|url=https://books.google.ca/books?id=Cb6BOkj9fK4C&pg=PA124|deadurl=no|archiveurl=https://web.archive.org/web/20151208072014/https://books.google.ca/books?id=Cb6BOkj9fK4C&pg=PA124|archivedate=2015-12-08|df=}}</ref> It was made from [[pethidine]] (meperidine).<ref>{{cite book|last1=Ravina|first1=Enrique|title=The evolution of drug discovery : from traditional medicines to modern drugs|date=2011|publisher=Wiley-VCH|location=Weinheim|isbn=9783527326693|page=62|edition=1. Aufl.|url=https://books.google.ca/books?id=iDNy0XxGqT8C&pg=PA62|deadurl=no|archiveurl=https://web.archive.org/web/20151208071857/https://books.google.ca/books?id=iDNy0XxGqT8C&pg=PA62|archivedate=2015-12-08|df=}}</ref> It is on the [[World Health Organization's List of Essential Medicines]], the most effective and safe medicines needed in a [[health system]].<ref name=WHO19th>{{cite web|title=WHO Model List of Essential Medicines (19th List)|url=http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|work=World Health Organization|accessdate=8 December 2016|date=April 2015|deadurl=no|archiveurl=https://web.archive.org/web/20161213052708/http://www.who.int/medicines/publications/essentialmedicines/EML_2015_FINAL_amended_NOV2015.pdf?ua=1|archivedate=13 December 2016|df=}}</ref> It is the most commonly used typical antipsychotic.<ref name=Ste2004>{{cite book|last1=Stevens|first1=Andrew|title=Health care needs assessment : the epidemiologically based needs assessment reviews|date=2004|publisher=Radcliffe Medical|location=Abingdon|isbn=9781857758924|page=202|edition=2nd|url=https://books.google.ca/books?id=HCLIeMG9WgoC&pg=PA202|deadurl=no|archiveurl=https://web.archive.org/web/20151208072515/https://books.google.ca/books?id=HCLIeMG9WgoC&pg=PA202|archivedate=2015-12-08|df=}}</ref> The yearly cost of the typical dose of haloperidol is about 20 to 800 pounds (30 to 1,250 US dollars) in the United Kingdom.<ref name=Ste2004/><ref>{{cite book|last1=Stein|first1=edited by George|last2=Wilkinson|first2=Greg|title=Seminars in general adult psychiatry|date=2007|publisher=Gaskell|location=London|isbn=9781904671442|page=288|edition=2.|url=https://books.google.ca/books?id=6PGzHFuS1xkC&pg=PA288|deadurl=no|archiveurl=https://web.archive.org/web/20151208073236/https://books.google.ca/books?id=6PGzHFuS1xkC&pg=PA288|archivedate=2015-12-08|df=}}</ref> The cost in the United States is around 250 US dollars a year.<ref>{{cite book|last1=Jeste|first1=Dilip V.|title=Clinical handbook of schizophrenia|date=2011|publisher=Guilford Press|location=New York|isbn=9781609182373|page=511|edition=Pbk.|url=https://books.google.ca/books?id=KFMFzuL3husC&pg=PA511|deadurl=no|archiveurl=https://web.archive.org/web/20151208045655/https://books.google.ca/books?id=KFMFzuL3husC&pg=PA511|archivedate=2015-12-08|df=}}</ref>
+
+==Medical uses==
+Haloperidol is used in the control of the symptoms of:
+* [[Schizophrenia]]<ref name="FDA"/>
+* Acute [[psychosis]], such as drug-induced psychosis caused by LSD, psilocybin, amphetamines, ketamine,<ref>{{cite journal|doi=10.1097/00045391-200007060-00008 |title=Acute Ketamine Intoxication Treated by Haloperidol |year=2000 |last1=Giannini|first1=A. James |last2=Underwood |first2=Ned A. |last3=Condon |first3=Maggie |journal=American Journal of Therapeutics|volume=7 |issue=6 |pages=389–91 |pmid=11304647}}</ref> and phencyclidine,<ref>{{cite journal |doi=10.1002/j.1552-4604.1984.tb01831.x |title=Comparison of Haloperidol and Chlorpromazine in the Treatment of Phencyclidine Psychosis |year=1984 |last1=Giannini |first1=A. James |last2=Eighan |first2=Michael S. |last3=Loiselle |first3=Robert H. |last4=Giannini |first4=Matthew C. |journal=The Journal of Clinical Pharmacology |volume=24 |issue=4 |pages=202–4 |pmid=6725621}}</ref> and psychosis associated with high fever or metabolic disease
+* [[Hyperactivity]], [[aggression]]
+* Hyperactive [[delirium]] (to control the agitation component of delirium)
+* Otherwise uncontrollable, severe behavioral disorders in children and adolescents
+* Agitation and confusion associated with cerebral [[Sclerosis (medicine)|sclerosis]]
+* Adjunctive treatment of alcohol and opioid withdrawal
+* Treatment of severe nausea and emesis in postoperative and [[palliative care]], especially for palliating adverse effects of [[radiation therapy]] and [[chemotherapy]] in [[oncology]]
+* Treatment of neurological disorders, such as [[tic disorder]]s such as [[Tourette syndrome]], and [[Chorea (disease)|chorea]]
+* Therapeutic trial in [[personality disorders]], such as [[borderline personality disorder]]
+* Treatment of intractable [[hiccups]]<ref name="BNF">{{cite book | isbn = 978-0-85711-084-8 | title = British National Formulary (BNF) | last1 = Joint Formulary Committee | year = 2013 | publisher = Pharmaceutical Press | location = London, UK | edition = 65  | pages = 229–30  }}</ref><ref name = MD/> 
+* Alcohol-induced psychosis
+*Hallucinations in [[alcohol withdrawal]]<ref name=NEJM2014/>
+
+Haloperidol was considered indispensable for treating psychiatric emergency situations,<ref name="pmid3736271">{{cite journal |pmid=3736271 |year=1986 |last1=Cavanaugh |first1=SV |title=Psychiatric emergencies |volume=70 |issue=5|pages=1185–202 |journal=The Medical clinics of North America}}</ref><ref name="pmid15985915">{{cite journal |doi=10.1097/00131746-200301000-00006 |title=The Controversy over 'Chemical Restraint' In Acute Care Psychiatry |year=2003|last1=Currier |first1=Glenn W. |journal=Journal of Psychiatric Practice |volume=9 |pages=59–70 |pmid=15985915 |issue=1}}</ref> although the newer atypical drugs have gained greater role in a number of situations as outlined in a series of consensus reviews published between 2001 and 2005.<ref name="pmid11500996">{{cite journal |pmid=11500996 |year=2001 |last1=Allen |first1=MH |last2=Currier |first2=GW |last3=Hughes |first3=DH|last4=Reyes-Harde |first4=M |last5=Docherty |first5=JP |author6=Expert Consensus Panel for Behavioral Emergencies|title=The Expert Consensus Guideline Series. Treatment of behavioral emergencies |issue=Spec No |pages=1–88; quiz 89–90|journal=Postgraduate Medicine}}</ref><ref name="pmid15985913">{{cite journal |doi=10.1097/00131746-200301000-00004|title=Treatment of Behavioral Emergencies: A Summary of the Expert Consensus Guidelines |year=2003 |last1=Allen|first1=Michael H. |last2=Currier |first2=Glenn W. |last3=Hughes |first3=Douglas H. |last4=Docherty |first4=John P.|last5=Carpenter |first5=Daniel |last6=Ross |first6=Ruth |journal=Journal of Psychiatric Practice |volume=9 |pages=16–38|pmid=15985913 |issue=1}}</ref><ref name="pmid16319571">{{cite journal |doi=10.1097/00131746-200511001-00002|title=Introduction: Methods, Commentary, and Summary |year=2005 |last1=Allen |first1=Michael H. |last2=Currier|first2=Glenn W. |last3=Carpenter |first3=Daniel |last4=Ross |first4=Ruth W. |last5=Docherty |first5=John P.|journal=Journal of Psychiatric Practice |volume=11 |pages=5–25}}</ref>
+
+In a 2013 comparison of 15 antipsychotics in schizophrenia, haloperidol demonstrated standard effectiveness. It was 13-16% more effective than [[ziprasidone]], [[chlorpromazine]], and [[asenapine]], approximately as effective as [[quetiapine]] and [[aripiprazole]], and 10% less effective than [[paliperidone]].<ref>{{cite journal|last1=Leucht|first1=Stefan|last2=Cipriani|first2=Andrea|last3=Spineli|first3=Loukia|last4=Mavridis|first4=Dimitris|last5=Örey|first5=Deniz|last6=Richter|first6=Franziska|last7=Samara|first7=Myrto|last8=Barbui|first8=Corrado|last9=Engel|first9=Rolf R|last10=Geddes|first10=John R|last11=Kissling|first11=Werner|last12=Stapf|first12=Marko Paul|last13=Lässig|first13=Bettina|last14=Salanti|first14=Georgia|last15=Davis|first15=John M|title=Comparative efficacy and tolerability of 15 antipsychotic drugs in schizophrenia: a multiple-treatments meta-analysis|journal=The Lancet|date=September 2013|volume=382|issue=9896|pages=951–962|doi=10.1016/S0140-6736(13)60733-3}}</ref> A 2013 [[Systematic review|systematic review]] compared haloperidol to [[Placebo|placebo]] in schizophrenia:<ref name=Ada2013>{{cite journal|last1=Adams|first1=C|last2=Bergman|first2=H|first3=C|last3=Irving|title=Haloperidol versus placebo for schizophrenia|journal=Cochrane Database of Systematic Reviews|date=2013|volume=11|url=http://www.cochrane.org/CD003082/SCHIZ_haloperidol-versus-placebo-for-schizophrenia|pages=CD003082.pub3|DOI=10.1002/14651858.CD003082.pub3|deadurl=no|archiveurl=https://web.archive.org/web/20170820120020/http://www.cochrane.org/CD003082/SCHIZ_haloperidol-versus-placebo-for-schizophrenia|archivedate=2017-08-20|df=}}</ref>
+{| class="wikitable"
+! Summary
+|-
+|Haloperidol often causes troublesome adverse effects. If there is no other antipsychotic drug, using haloperidol to offset the consequences of untreated schizophrenia is justified. Where a choice of drug is available, however, an alternative [[Antipsychotic|antipsychotic]] with less likelihood of adverse effects such as parkinsonism, akathisia and acute dystonias may be more desirable.<ref name=Ada2013/>
+|-
+| style="padding:0;" |
+{| class="wikitable collapsible collapsed" style="width:100%;"
+|-
+! scope="col" style="text-align: left;"| Outcome
+! scope="col" style="text-align: left;"| Findings in words
+! scope="col" style="text-align: left;"| Findings in numbers
+! scope="col" style="text-align: left;"| Quality of evidence
+|-
+! colspan="4" style="text-align: left;"| General outcomes
+|-
+| No marked global improvement<br>Follow-up: >6-24 weeks || Haloperidol, when compared with placebo, reduces the chance of experiencing 'no improvement'. Data are based on moderate quality evidence.
+ || [[Relative risk|RR]] 0.67 (0.58 to 0.78) || [[The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach|Moderate]]
+|-
+| Not discharged from hospital<br>Follow-up: > 6-24 weeks || Haloperidol may reduce the chance of staying in hospital, but, at present it is not possible to be confident about the difference between people receiving haloperidol and people taking placebo. Data supporting this finding are very limited.
+ || [[Relative risk|RR]] 0.85 (0.47 to 1.52) || [[The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach|Very low]]
+|-
+| Relapse<br>Follow-up: < 52 weeks || Haloperidol may reduce the chance of relapse, but, at present there is only very limited data supporting this finding.
+ || [[Relative risk|RR]] 0.69 (0.55 to 0.86) || [[The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach|Very low]]
+|-
+! colspan="4" style="text-align: left;"| Leaving the study early
+|-
+| Follow-up: > 6-24 weeks || Haloperidol probably slightly reduces the risk of loss to follow up, but the difference between the two treatments is not quite clear. Data supporting this finding are based on moderate quality evidence.
+ || [[Relative risk|RR]] 0.54 (0.29 to 1) || [[The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach|Moderate]]
+|-
+! colspan="4" style="text-align: left;"| [[Adverse event|Adverse effects]] - movement disorders
+|-
+| Parkinsonism<br>Follow-up: 3 weeks to 3 months || Haloperidol substantially increases the risk of movement disorders. Data are based on moderate quality evidence.
+ || [[Relative risk|RR]] 5.48 (2.68 to 11.22) || [[The Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach|Moderate]]
+|-
+! colspan="4" style="text-align: left;"| Missing outcomes
+|-
+| || Severe adverse events, such as death, and outcomes such as [[Patient satisfaction|satisfaction with treatment]] were not measured/reported in the included studies. ||  || 
+|-
+|}
+|}
+
+===Pregnancy and lactation===
+Data from [[Animal testing|animal experiments]] indicate haloperidol is not [[teratogenic]], but is embryotoxic in high doses.  In humans, no controlled studies exist.  Reports in pregnant women revealed possible damage to the fetus, although most of the women were exposed to multiple drugs during pregnancy. In addition,  reports indicate neonates exposed to antipsychotic drugs are at risk for extrapyramidal and/or withdrawal symptoms following delivery, such as agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder. Following accepted general principles, haloperidol should be given during pregnancy only if the benefit to the mother clearly outweighs the potential fetal risk.<ref name="FDA">{{cite web |url=http://www.drugs.com/pro/haldol.html |title=Haldol Official FDA information, side effects and uses |publisher=Drugs.com |accessdate=2013-10-03 |deadurl=no |archiveurl=https://web.archive.org/web/20131005001049/http://www.drugs.com/pro/haldol.html |archivedate=2013-10-05 |df= }}</ref>
+
+Haloperidol, when given to lactating women, is found in significant amounts in their milk. Breastfed children sometimes show [[extrapyramidal symptoms]]. If the use of haloperidol during lactation seems indicated, the benefit for the mother should clearly outweigh the risk for the child, or breastfeeding should be stopped.{{Citation needed|date=April 2013}}
+
+===Other considerations===
+[[Image:Haloperidol decanoate highlighting ester group.svg|thumb|upright=0.9|[[Skeletal formula]] of haloperidol decanoate. The decanoate group is highlighted in {{color|red|red}}.]]
+During long-term treatment of chronic psychiatric disorders, the daily dose should be reduced to the lowest level needed for maintenance of remission.  Sometimes, it may be indicated to terminate haloperidol treatment gradually.<ref>{{cite web|url=http://www.chemeurope.com/en/encyclopedia/Haloperidol.html|title=Haloperidol at Chemeurope|deadurl=no|archiveurl=https://web.archive.org/web/20120612033532/http://www.chemeurope.com/en/encyclopedia/Haloperidol.html|archivedate=2012-06-12|df=}}</ref> In addition, during long-term use, routine monitoring including measurement of BMI, blood pressure, fasting blood sugar, and lipids, is recommended due to the risk of side effects.<ref name="APA schizophrenia guideline" />
+
+Other forms of therapy (psychotherapy, occupational therapy/ergotherapy, or social rehabilitation) should be instituted properly.{{Citation needed|date=April 2013}}
+PET imaging studies have suggested low doses are preferable. Clinical response was associated with at least 65% occupancy of D2 receptors, while greater than 72% was likely to cause hyperprolactinaemia and over 78% associated with extrapyramidal side effects. Doses of haloperidol greater than 5&nbsp;mg increased the risk of side effects without improving efficacy.<ref>{{cite journal |doi=10.1177/026988110101500403 |title=Determining the optimal dose of haloperidol in first-episode psychosis |year=2001 |last1=Oosthuizen |first1=P. |last2=Emsley |first2=R. A. |last3=Turner |first3=J.|last4=Keyter |first4=N. |journal=Journal of Psychopharmacology |volume=15 |issue=4 |pages=251–5 |pmid=11769818}}</ref> Patients responded with doses under even 2&nbsp;mg in first-episode psychosis.<ref>{{cite journal|doi=10.2165/00023210-200115090-00001 |title=Choosing the Right Dose of Antipsychotics in Schizophrenia |year=2001|last1=Tauscher |first1=Johannes |last2=Kapur |first2=Shitij |journal=CNS Drugs |volume=15 |issue=9 |pages=671–8 |pmid=11580306}}</ref> For maintenance treatment of schizophrenia, an international consensus conference recommended a reduction dosage by about 20% every 6 months until a minimal maintenance dose is established.<ref name="APA schizophrenia guideline">{{cite web|last=Work Group on Schizophrenia|title=Practice Guideline for the Treatment of Patients With Schizophrenia Second Edition|url=http://psychiatryonline.org/content.aspx?bookID=28&sectionID=1665359#45892|accessdate=21 April 2014}}{{dead link|date=September 2017 |bot=Level C |fix-attempted=yes }}</ref>
+* Depot forms are also available; these are injected deeply intramuscularly at regular intervals. The depot forms are not suitable for initial treatment, but are suitable for patients who have demonstrated inconsistency with oral dosages.{{Citation needed|date=April 2013}}
+
+The [[decanoate]] ester of haloperidol (haloperidol decanoate, trade names Haldol decanoate, Halomonth, Neoperidole) has a much longer duration of action, so is often used in people known to be noncompliant with oral medication. A dose is given by intramuscular injection once every two to four weeks.<ref>Goodman and Gilman's ''Pharmacological Basis of Therapeutics'', 10th edition (McGraw-Hill, 2001).{{page needed|date=September 2012}}</ref> The [[IUPAC name]] of haloperidol decanoate is [4-(4-chlorophenyl)-1-[4-(4-fluorophenyl)-4-oxobutyl]piperidin-4-yl] decanoate.
+
+[[Topical medication|Topical formulations]] of haloperidol should not be used as treatment for nausea because research does not indicate this therapy is more effective than alternatives.<ref name="AAHPMfive">{{Cite journal |author1 = American Academy of Hospice and Palliative Medicine |author1-link = American Academy of Hospice and Palliative Medicine |date =  |title = Five Things Physicians and Patients Should Question |publisher = [[American Academy of Hospice and Palliative Medicine]] |work = [[Choosing Wisely]]: an initiative of the [[ABIM Foundation]] |page =  |url = http://www.choosingwisely.org/doctor-patient-lists/american-academy-of-hospice-palliative-medicine/ |accessdate = August 1, 2013 |deadurl = no |archiveurl = https://web.archive.org/web/20130901101934/http://www.choosingwisely.org/doctor-patient-lists/american-academy-of-hospice-palliative-medicine/ |archivedate = September 1, 2013 |df =  }}, which cites
+* {{cite journal |doi=10.1016/j.jpainsymman.2011.05.017 |title=ABH Gel is Not Absorbed from the Skin of Normal Volunteers |year=2012 |last1=Smith |first1=Thomas J. |last2=Ritter |first2=Joseph K. |last3=Poklis |first3=Justin L. |last4=Fletcher |first4=Devon |last5=Coyne |first5=Patrick J. |last6=Dodson |first6=Patricia |last7=Parker |first7=Gwendolyn |journal=Journal of Pain and Symptom Management |volume=43 |issue=5 |pages=961–6 |pmid=22560361}}
+* {{cite journal |doi=10.1089/jpm.2005.8.1135 |title=Tolerability of the Compound ABHR in Hospice Patients |year=2005 |last1=Weschules |first1=Douglas J. |journal=Journal of Palliative Medicine |volume=8 |issue=6 |pages=1135–43 |pmid=16351526}}</ref>
+
+==Adverse effects==
+Sources for the following lists of adverse effects<ref>PRODUCT INFORMATION [Internet]. 2011 [cited 2013 Sep 29]. Available from: {{cite web |url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2011-PI-03532-3 |title=Archived copy |accessdate=2014-05-29 |deadurl=no |archiveurl=https://web.archive.org/web/20170314204106/https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2011-PI-03532-3 |archivedate=2017-03-14 |df= }}</ref><ref>HALDOL® Injection FOR INTRAMUSCULAR INJECTION ONLY PRODUCT INFORMATION [Internet]. Janssen; 2011 [cited 2013 Sep 29]. Available from: {{cite web |url=https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2009-PI-00998-3 |title=Archived copy |accessdate=2013-09-29 |deadurl=no |archiveurl=https://web.archive.org/web/20170314204054/https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&id=CP-2009-PI-00998-3 |archivedate=2017-03-14 |df= }}</ref><ref>Truven Health Analytics, Inc. DrugPoint® System (Internet) [cited 2013 Sep 29]. Greenwood Village, CO: Thomsen Healthcare; 2013.</ref><ref>Joint Formulary Committee. British National Formulary (BNF) 65. Pharmaceutical Pr; 2013.</ref>
+
+As haloperidol is a high-potency typical antipsychotic, it tends to produce significant [[extrapyramidal side effects]]. According to a 2013 meta-analysis of the comparative efficacy and tolerability of 15 antipsychotic drugs it was the most prone of the 15 for causing extrapyramidal side effects.<ref name = "Lancet">{{cite journal |doi=10.1016/S0140-6736(13)60733-3 |title=Comparative efficacy and tolerability of 15 antipsychotic drugs in schizophrenia: A multiple-treatments meta-analysis |year=2013 |last1=Leucht |first1=Stefan |last2=Cipriani |first2=Andrea |last3=Spineli |first3=Loukia |last4=Mavridis |first4=Dimitris |last5=Örey |first5=Deniz |last6=Richter |first6=Franziska |last7=Samara |first7=Myrto |last8=Barbui |first8=Corrado |last9=Engel |first9=Rolf R |last10=Geddes |first10=John R |last11=Kissling |first11=Werner |last12=Stapf |first12=Marko Paul |last13=Lässig |first13=Bettina |last14=Salanti |first14=Georgia |last15=Davis |first15=John M |journal=The Lancet |volume=382 |issue=9896 |pages=951–62 |pmid=23810019}}</ref>
+
+With more than 6 months of use 14% percent of users gain weight.<ref>{{cite web |url=http://www.fda.gov/ohrms/dockets/ac/00/backgrd/3619b1a.pdf |title=Archived copy |accessdate=2016-09-30 |deadurl=no |archiveurl=https://web.archive.org/web/20170119063641/http://www.fda.gov/ohrms/dockets/ac/00/backgrd/3619b1a.pdf |archivedate=2017-01-19 |df= }}</ref>
+
+;Common (>1% incidence)
+* Extrapyramidal side effects including:
+** [[Dystonia]] (continuous spasms and muscle contractions)
+** Muscle rigidity
+** [[Akathisia]] (motor restlessness)
+** [[Parkinsonism]] (characteristic symptoms such as rigidity)
+* Hypotension
+* Anticholinergic side effects such as: (These adverse effects are more common than with lower-potency typical antipsychotics, such as chlorpromazine and thioridazine.)
+** Constipation
+** Dry mouth
+** Blurred vision
+* [[Somnolence]] (which is not a particularly prominent side effect, as is supported by the results of the aforementioned meta-analysis.<ref name = "Lancet" />)
+;Unknown frequency
+* [[Prolonged QT interval]]
+* [[Orthostatic hypotension]]
+* Increased respiratory rate
+* [[Anemia]]
+* Visual disturbances
+* [[Headache]]
+;Rare (<1% incidence)
+{{Colbegin|4}}
+* Jaundice
+* Hepatitis
+* Cholestasis
+* Acute hepatic failure
+* Liver function test abnormal
+* Hypoglycemia
+* Hyperglycemia
+* Hyponatremia
+* Anaphylactic reaction
+* Hypersensitivity
+* Agranulocytosis
+* Neutropenia
+* Leukopenia
+* Thrombocytopania
+* Pancytopenia
+* [[Psychosis|Psychotic disorder]]
+* Agitation
+* Confusional state
+* Depression
+* Insomnia
+* [[Non-epileptic seizure|Seizure]]
+* [[Torsades de pointes]]
+* [[Ventricular fibrillation]]
+* Ventricular tachycardia
+* Extrasystoles
+* Bronchospasm
+* Laryngospasm
+* Laryngeal edema
+* [[Dyspnea]]
+* Nausea
+* Vomiting
+* Leukocytoclastic vasculitis
+* Dermatitis exfoliative
+* [[Urticaria]]
+* Photosensitivity reaction
+* Rash
+* Itchiness
+* Increased sweating
+* Urinary retention
+* Priapism
+* Gynecomastia
+* Sudden death
+* Face edema
+* Edema
+* Hypothermia
+* Hyperthermia
+* Injection site abscess
+* Anorexia
+* Pulmonary embolism
+* [[Tardive dyskinesia]]
+* Cataracts
+* Retinopathy
+* [[Neuroleptic malignant syndrome]]
+{{colend}}
+
+===Contraindications===
+* Pre-existing [[coma]], acute stroke
+* Severe intoxication with alcohol or other central depressant drugs
+* Known allergy against haloperidol or other butyrophenones or other drug ingredients
+* Known heart disease, when combined will tend towards cardiac arrest{{Citation needed|date=April 2013}}
+
+===Special cautions===
+* Pre-existing [[Parkinson's disease]]<ref>{{cite journal |doi=10.1097/01.yco.0000165603.36671.97 |title=Delirium in elderly people: An update |year=2005 |last1=Leentjens |first1=Albert FG |last2=Van Der Mast |first2=Rose C |journal=Current Opinion in Psychiatry |volume=18 |issue=3 |pages=325–30 |pmid=16639157}}</ref> or [[dementia with Lewy bodies]]
+* Patients at special risk for the development of [[Long QT syndrome|QT prolongation]] ([[hypokalemia]], concomitant use of other drugs causing QT prolongation)
+* Impaired [[liver]] function, as haloperidol is metabolized and eliminated mainly by the liver
+* In patients with hyperthyreosis, the action of haloperidol is intensified and side effects are more likely.
+* IV injections: risk of hypotension or orthostatic collapse
+* Patients with a history of leukopenia: a [[complete blood count]] should be monitored frequently during the first few months of therapy and discontinuation of the drug should be considered at the first sign of a clinically significant decline in white blood cells.<ref name=FDA />
+* Elderly patients with dementia-related psychosis: analysis of 17 trials showed the risk of death in this group of patients was 1.6 to 1.7 times that of placebo-treated patients. Most of the causes of death were either cardiovascular or infectious in nature. It is not clear to what extent this observation is attributed to antipsychotic drugs rather than the characteristics of the patients. The drug bears a [[boxed warning]] about this risk.<ref name=FDA />
+* A multiple-year study suggested this drug and other neuroleptic antipsychotic drugs commonly given to people with Alzheimer's with mild behavioural problems often make their condition worse and  its withdrawal was even beneficial for some cognitive and functional measures.<ref>{{cite journal |doi=10.1371/journal.pmed.0050076 |laysummary=http://news.bbc.co.uk/1/hi/health/7319393.stm |laysource=BBC News|laydate=April 1, 2008 |quote=Neuroleptics provided no benefit for patients with mild behavioural problems, but were associated with a marked deterioration in verbal skills |title=A Randomised, Blinded, Placebo-Controlled Trial in Dementia Patients Continuing or Stopping Neuroleptics (The DART-AD Trial) |year=2008 |editor1-last=Brayne |editor1-first=Carol|last1=Ballard |first1=Clive |last2=Lana |first2=Marisa Margallo |last3=Theodoulou |first3=Megan |last4=Douglas|first4=Simon |last5=McShane |first5=Rupert |last6=Jacoby |first6=Robin |last7=Kossakowski |first7=Katja |last8=Yu|first8=Ly-Mee |last9=Juszczak |first9=Edmund |journal=PLoS Medicine |volume=5 |issue=4 |page=e76 |pmid=18384230|pmc=2276521 |last10=on behalf of the Investigators DART AD|first10=<!--leave blank-->}}</ref>
+
+===Interactions===
+* Other central depressants (alcohol, tranquilizers, narcotics):  actions and side effects of these drugs (sedation, respiratory depression) are increased. In particular, the doses of concomitantly used opioids for chronic pain can be reduced by 50%.
+* [[Methyldopa]]:  increased risk of extrapyramidal side effects and other unwanted central effects
+* [[Levodopa]]:  decreased action of levodopa
+* [[Tricyclic antidepressants]]:  metabolism and elimination of tricyclics significantly decreased, increased toxicity noted (anticholinergic and cardiovascular side effects, lowering of seizure threshold)
+* [[Lithium salt|Lithium]]:  rare cases of the following symptoms have been noted:  [[encephalopathy]], early and late extrapyramidal side effects, other neurologic symptoms, and coma.<ref>{{cite journal |pmid=6415823 |year=1983 |last1=Sandyk|first1=R |last2=Hurwitz |first2=MD |title=Toxic irreversible encephalopathy induced by lithium carbonate and haloperidol. A report of 2 cases |volume=64 |issue=22 |pages=875–6 |journal=South African medical journal}}</ref>
+* [[Guanethidine]]:  antihypertensive action antagonized
+* [[Epinephrine]]:  action antagonized, paradoxical decrease in blood pressure may result
+* [[Amphetamine]] and [[methylphenidate]]: counteracts increased action of norepinephrine and dopamine in patients with [[narcolepsy]] or [[Attention deficit disorder|ADD]]/[[ADHD]]
+* [[Amiodarone]]: Q-Tc interval prolongation (potentially dangerous change in heart rhythm).<ref>{{cite journal |doi=10.2146/ajhp080039 |title=Effects of concomitant amiodarone and haloperidol on Q-Tc interval prolongation |year=2008 |last1=Bush |first1=S. E. |last2=Hatton |first2=R. C. |last3=Winterstein |first3=A. G. |last4=Thomson |first4=M. R. |last5=Woo |first5=G. W. |journal=American Journal of Health-System Pharmacy |volume=65 |issue=23 |pages=2232–6 |pmid=19020191}}</ref>
+* Other drugs metabolized by the CYP3A4 enzyme system: inducers such as [[carbamazepine]], [[phenobarbital]], and [[rifampicin]] decrease plasma levels and inhibitors such as [[quinidine]], [[buspirone]], and [[fluoxetine]] increase plasma levels<ref name=FDA />
+
+==Overdose==
+
+===Symptoms===
+Symptoms are usually due to side effects. Most often encountered are:
+* Severe [[extrapyramidal symptoms|extrapyramidal]] side effects with muscle rigidity and tremors, [[akathisia]], etc.
+* [[Hypotension]] or [[hypertension]]
+* [[Sedation]]
+* [[Anticholinergic]] side effects (dry mouth, constipation, paralytic [[ileus]], difficulties in urinating, decreased [[perspiration]])
+* Coma in severe cases, accompanied by respiratory depression and massive hypotension, shock
+* Rarely, serious ventricular arrhythmia (''torsades de pointes''), with or without prolonged [[QT-time]]
+
+===Treatment===
+Treatment is merely symptomatic and involves intensive care with stabilization of vital functions. In early detected cases of oral overdose, induction of [[emesis]], [[gastric lavage]], and the use of [[activated charcoal]] can all be tried. [[Epinephrine]] is avoided for treatment of hypotension and shock, because its action might be reversed. In the case of a severe overdose, antidotes such as [[bromocryptine]] or [[ropinirole]] may be used to treat the extrapyramidal effects caused by haloperidol, acting as dopamine receptor agonists.{{Citation needed|date=April 2013}} ECG and vital signs should be monitored especially for QT prolongation and severe arrhythmias should be treated with antiarrhythmic measures.<ref name=FDA />
+
+===Prognosis===
+In general, the prognosis of overdose is good, and lasting damage is not known, provided the person has survived the initial phase. An overdose of haloperidol can be fatal.<ref>{{cite web|url=http://www.drugs.com/mtm/haloperidol.html|title=Haloperidol at Drugs.com|deadurl=no|archiveurl=https://web.archive.org/web/20111122170902/http://www.drugs.com/mtm/haloperidol.html|archivedate=2011-11-22|df=}}</ref>
+
+==Pharmacology==
+[[File:Haloperidol 10 MG Oral Tablet.jpg|thumbnail|Haloperidol, 10-mg oral tablet]]
+Haloperidol is a typical [[butyrophenone]] type antipsychotic that exhibits high affinity dopamine D<sub>2</sub> receptor antagonism and slow receptor dissociation kinetics.<ref>{{cite journal |doi=10.1038/sj.mp.4000336 |title=Antipsychotic drugs which elicit little or no Parkinsonism bind more loosely than dopamine to brain D2 receptors, yet occupy high levels of these receptors |year=1998 |last1=Seeman |first1=P |last2=Tallerico |first2=T |journal=Molecular Psychiatry |volume=3 |issue=2 |pages=123–34 |pmid=9577836}}</ref> It has [[pharmacology|effects]] similar to the [[phenothiazine]]s.<ref name = MD>{{cite web|title=Haloperidol|work=Martindale: The Complete Drug Reference|publisher=Pharmaceutical Press|date=13 December 2013|accessdate=29 May 2014|url=http://www.medicinescomplete.com/mc/martindale/current/ms-18332-f.htm|editor=Brayfield, A|location=London, UK}}</ref> The drug binds preferentially to D<sub>2</sub> and α<sub>1</sub> receptors at low dose (ED<sub>50</sub> = 0.13 and 0.42&nbsp;mg/kg, respectively), and 5-HT<sub>2</sub> receptors at a higher dose (ED<sub>50</sub> = 2.6&nbsp;mg/kg). Given that antagonism of D<sub>2</sub> receptors is more beneficial on the positive symptoms of schizophrenia and antagonism of 5-HT<sub>2</sub> receptors on the negative symptoms, this characteristic underlies haloperidol's greater effect on delusions, hallucinations and other manifestations of psychosis.<ref>{{cite journal|last=Schotte|first=A|author2=Janssen PF |author3=Megens AA |author4=Leysen JE |title=Occupancy of central neurotransmitter receptors by risperidone, clozapine and haloperidol, measured ex vivo by quantitative autoradiography|journal=Brain Research|date=1993|volume=631|issue=2|pages=191–202|pmid=7510574|doi=10.1016/0006-8993(93)91535-z}}</ref> Haloperidol's negligible affinity for histamine H<sub>1</sub> receptors and muscarinic M<sub>1</sub> acetylcholine receptors yields an antipsychotic with a lower incidence of sedation, weight gain, and [[orthostatic hypotension]] though having higher rates of treatment emergent [[extrapyramidal symptom]]s.
+
+Haloperidol acts on these receptors: ([[Ligand (biochemistry)|K<sub>i</sub>]])
+* [[Dopamine receptor D1|D<sub>1</sub>]] (silent antagonist) — Unknown efficiency {{Citation needed|date=April 2013}}
+* [[Dopamine receptor D5|D<sub>5</sub>]] (silent antagonist) — Unknown efficiency{{Citation needed|date=April 2013}}
+* [[Dopamine receptor D2|D<sub>2</sub>]] (inverse agonist) — 1.55 nM<ref>{{cite journal |pmid=1372084 |year=1992 |last1=Leysen |first1=JE |last2=Janssen |first2=PM |last3=Gommeren |first3=W |last4=Wynants |first4=J |last5=Pauwels |first5=PJ |last6=Janssen |first6=PA |title=In vitro and in vivo receptor binding and effects on monoamine turnover in rat brain regions of the novel antipsychotics risperidone and ocaperidone |volume=41 |issue=3 |pages=494–508 |journal=Molecular Pharmacology |url=http://molpharm.aspetjournals.org/cgi/pmidlookup?view=long&pmid=1372084}}</ref>
+* [[Dopamine receptor D3|D<sub>3</sub>]] (inverse agonist) — 0.74 nM<ref>{{cite journal |pmid=9536001 |first1=Åsa |last1=Malmberg |first2=Åsa |last2=Mikaels |first3=Nina |last3=Mohell |year=1998 |title=Agonist and Inverse Agonist Activity at the Dopamine D<sub>3</sub> Receptor Measured by Guanosine 5′-[γ-Thio&#93;Triphosphate-[<sup>35</sup>S&#93; Binding |volume=285 |issue=1 |pages=119–26 |journal=The Journal of Pharmacology and Experimental Therapeutics |url=http://jpet.aspetjournals.org/cgi/pmidlookup?view=long&pmid=9536001}}</ref>
+* [[Dopamine receptor D4|D<sub>4</sub>]] (inverse agonist) — 5–9 nM<ref>{{cite journal |pmid=7520908 |year=1994 |last1=Leysen |first1=JE |last2=Janssen |first2=PM |last3=Megens |first3=AA |last4=Schotte |first4=A |title=Risperidone: A novel antipsychotic with balanced serotonin-dopamine antagonism, receptor occupancy profile, and pharmacologic activity |volume=55 |issue=Suppl |pages=5–12 |journal=The Journal of Clinical Psychiatry}}</ref>
+* [[Sigma-1 receptor|σ<sub>1</sub>]] (irreversible inactivation by haloperidol metabolite HPP<sup>+</sup>) –  3 nM<ref>{{cite journal |doi=10.1111/j.1471-4159.2007.04533.x |title=Irreversible blockade of sigma-1 receptors by haloperidol and its metabolites in guinea pig brain and SH-SY5Y human neuroblastoma cells |year=2007 |last1=Cobos |first1=Enrique J. |last2=Del Pozo |first2=Esperanza |last3=Baeyens |first3=José M. |journal=Journal of Neurochemistry |volume=102 |issue=3 |pages=812–25 |pmid=17419803}}</ref>
+* [[Sigma-2 receptor|σ<sub>2</sub>]] (agonist): 54 nM<ref>{{cite journal |doi=10.1007/s00210-004-0961-2 |title=Antiproliferative and cytotoxic effects of some σ<sub>2</sub> agonists and σ<sub>1</sub> antagonists in tumour cell lines |year=2004 |last1=Colabufo |first1=Nicolaantonio |last2=Berardi |first2=Francesco |last3=Contino |first3=Marialessandra |last4=Niso |first4=Mauro |last5=Abate |first5=Carmen |last6=Perrone |first6=Roberto |last7=Tortorella |first7=Vincenzo |journal=Naunyn-Schmiedeberg's Archives of Pharmacology |volume=370 |issue=2 |pmid=15322732 |pages=106–13}}</ref>
+* [[5-HT1A receptor|5HT<sub>1A</sub> receptor]] agonist –  1927 nM<ref name="affindata">{{cite journal |doi=10.1038/sj.npp.1300027 |title=H1-Histamine Receptor Affinity Predicts Short-Term Weight Gain for Typical and Atypical Antipsychotic Drugs |year=2003 |last1=Kroeze |first1=Wesley K |last2=Hufeisen |first2=Sandra J |last3=Popadak |first3=Beth A |last4=Renock |first4=Sean M |last5=Steinberg |first5=Seanna |last6=Ernsberger |first6=Paul |last7=Jayathilake |first7=Karu |last8=Meltzer |first8=Herbert Y |last9=Roth |first9=Bryan L |journal=Neuropsychopharmacology |volume=28 |issue=3 |pages=519–26 |pmid=12629531 }}</ref>
+* [[5-HT2A receptor|5HT<sub>2A</sub>]] (silent antagonist) –  53 nM<ref name="affindata" />
+* [[5-HT2C receptor|5HT<sub>2C</sub>]] (silent antagonist) – 10,000 nM<ref name="affindata" />
+* [[5-HT6 receptor|5HT<sub>6</sub>]] (silent antagonist) – 3666 nM<ref name="affindata" />
+* [[5-HT7 receptor|5HT<sub>7</sub>]] (irreversible silent antagonist) — 377.2 nM<ref name="affindata" />
+* [[Histamine H1 receptor|H<sub>1</sub>]] (silent antagonist) — 1,800 nM<ref name="affindata" />
+* [[Muscarinic acetylcholine receptor M1|M<sub>1</sub>]] (silent antagonist) — 10,000 nM<ref name="affindata" />
+* [[Alpha-1A adrenergic receptor|α<sub>1A</sub>]] (silent antagonist) — 12 nM<ref name="affindata" />
+* [[Alpha-2A adrenergic receptor|α<sub>2A</sub>]] (silent antagonist) — 1130 nM<ref name="affindata" />
+* [[Alpha-2B adrenergic receptor|α<sub>2B</sub>]] (silent antagonist) — 480 nM<ref name="affindata" />
+* [[Alpha-2C adrenergic receptor|α<sub>2C</sub>]] (silent antagonist) — 550 nM<ref name="affindata" />
+* NR1/NR2B subunit containing [[NMDA receptor]] (antagonist; [[ifenprodil]] site): [[IC50|IC<sub>50</sub>]] — 2,000 nM<ref>{{cite journal |pmid=8967976 |year=1996 |last1=Ilyin |first1=VI |last2=Whittemore |first2=ER |last3=Guastella |first3=J |last4=Weber |first4=E |last5=Woodward |first5=RM |title=Subtype-selective inhibition of N-methyl-D-aspartate receptors by haloperidol |volume=50 |issue=6 |pages=1541–50 |journal=Molecular Pharmacology |url=http://molpharm.aspetjournals.org/cgi/pmidlookup?view=long&pmid=8967976}}</ref>
+
+==Pharmacokinetics==
+
+===By mouth===
+The bioavailability of oral haloperidol ranges from 60–70%. However, there is a wide variance in reported mean [[Cmax (pharmacology)|T<sub>max</sub>]] and [[Biological half-life|T<sub>1/2</sub>]] in different studies, ranging from 1.7 to 6.1 hours and 14.5 to 36.7 hours respectively.<ref name=PK1999/>
+
+===Intramuscular injections===
+The drug is well and rapidly absorbed with a high bioavailability when injected intramuscularly. The T<sub>max</sub> is 20 minutes in healthy individuals and 33.8 minutes in patients with schizophrenia. The mean T<sub>1/2</sub> is 20.7 hours.<ref name=PK1999/> The [[decanoate]] injectable formulation is for intramuscular administration only and is not intended to be used intravenously. The plasma concentrations of haloperidol decanoate reach a peak at about six days after the injection, falling thereafter, with an approximate half-life of three weeks.<ref>{{cite web|url=http://www.drugs.com/pro/haldol-decanoate.html|title=drugs.com|deadurl=no|archiveurl=https://web.archive.org/web/20110810064415/http://www.drugs.com/pro/haldol-decanoate.html|archivedate=2011-08-10|df=}}</ref>
+
+===Intravenous injections===
+The bioavailability is 100% in intravenous (IV) injection, and the very rapid onset of action is seen within seconds. The T<sub>1/2</sub> is 14.1 to 26.2 hours. The apparent volume of distribution is between 9.5 and 21.7 L/kg.<ref name=PK1999 />  The duration of action is four to six hours. If haloperidol is given as a slow IV infusion, the onset of action is slowed, and the duration of action is prolonged.{{Citation needed|date=April 2013}}
+
+[[File:Haloperidol (Haldol).jpg|thumb|Haloperidol for injection]]
+
+===Therapeutic concentrations===
+Plasma levels of four to 25 micrograms per liter are required for therapeutic action. The determination of plasma levels can be used to calculate dose adjustments and to check compliance, particularly in long-term patients. Plasma levels in excess of the therapeutic range may lead to a higher incidence of side effects or even pose the risk of haloperidol intoxication.{{Citation needed|date=April 2013}}
+
+The concentration of haloperidol in brain tissue is about 20-fold higher compared to blood levels. It is slowly eliminated from brain tissue,<ref name="Kornhuber1999">{{cite journal |first1=Johannes |last1=Kornhuber |first2=Andreas |last2=Schultz |first3=Jens |last3=Wiltfang |first4=Ingolf |last4=Meineke |first5=Christoph H. |last5=Gleiter |first6=Robert |last6=Zöchling |first7=Karl-Werner |last7=Boissl |first8=Friedrich |last8=Leblhuber |first9=Peter |last9=Riederer |year=1999 |title=Persistence of Haloperidol in Human Brain Tissue |journal=The American Journal of Psychiatry |volume=156 |issue=6 |pages=885–90 |url=http://ajp.psychiatryonline.org/article.aspx?volume=156&page=885 |pmid=10360127 |doi=10.1176/ajp.156.6.885}}</ref>  which may explain the slow disappearance of side effects when the medication is stopped.<ref name="Kornhuber1999" /><ref>{{cite journal |first1=Johannes |last1=Kornhuber |first2=Jens |last2=Wiltfang |first3=Peter |last3=Riederer |first4=Stefan |last4=Bleich |year=2006 |title=Neuroleptic drugs in the human brain: Clinical impact of persistence and region-specific distribution |journal=European Archives of Psychiatry and Clinical Neuroscience |volume=256 |issue=5 |pages=274–80 |pmid=16788768 |doi=10.1007/s00406-006-0661-7}}</ref>
+
+===Distribution and metabolism===
+Haloperidol is heavily protein bound in human plasma, with a free fraction of only 7.5 to 11.6%. It is also extensively metabolized in the liver with only about 1% of the administered dose excreted unchanged in the urine. The greatest proportion of the hepatic clearance is by glucuronidation, followed by reduction and CYP-mediated oxidation, primarily by [[CYP3A4]].<ref name=PK1999 />
+
+==History==
+Haloperidol was discovered by [[Paul Janssen]].<ref>{{cite book| last=Healy| first=David| authorlink=David Healy (psychiatrist)| title=The psychopharmacologists| volume=1| year=1996| publisher=Chapman and Hall| location=London| isbn=978-1-86036-008-4}}{{page needed|date=September 2012}}
+</ref> It was developed in 1958 at the Belgian company [[Janssen Pharmaceutica]] and submitted to the first of clinical trials in [[Belgium]] later that year.<ref name=":0">{{cite journal |doi=10.1080/10401230591002048 |title=The Haloperidol Story|year=2005 |last1=Granger |first1=Bernard |last2=Albu |first2=Simona |journal=Annals of Clinical Psychiatry |volume=17|issue=3 |pages=137–40 |pmid=16433054}}</ref><ref name=JanssenHist>{{cite journal|last1=Lopez-Munoz|first1=Francisco|last2=Alamo|first2=Cecilio|title=The Consolidation of Neuroleptic Therapy: Janssen, the Discovery of Haloperidol and Its Introduction into Clinical Practice|journal=Brain Research Bulletin|date=2009|volume=79|pages=130–141|pmid= 19186209|doi=10.1016/j.brainresbull.2009.01.005}}</ref>
+
+Haloperidol was approved by the [[U.S. Food and Drug Administration]] (FDA) on April 12, 1967; it was later marketed in the U.S. and other countries under the brand name Haldol by [[McNeil Laboratories]].<ref name=":0" />
+
+===Brand names===
+Haloperidol is the [[International Nonproprietary Name|INN]], [[British Approved Name|BAN]], [[United States Adopted Name|USAN]], [[Australian Approved Name|AAN]] approved name.
+
+It is sold under the tradenames Aloperidin, Bioperidolo, Brotopon, Dozic, Duraperidol (Germany), Einalon S, Eukystol, Haldol (common tradename in the US and UK), Halosten, Keselan, Linton, Peluces, Serenace and Sigaperidol.{{Citation needed|date=April 2013}}
+
+==Veterinary use==
+Haloperidol is also used on many different kinds of animals. It appears to be particularly successful when given to birds, e.g., a parrot that will otherwise continuously [[Feather-plucking|pluck its feathers]] out.<ref>{{cite web|url=http://www.lcrx.com/veterinary_avian.html|title=Veterinary:Avian at Lloyd Center Pharmacy|deadurl=no|archiveurl=https://web.archive.org/web/20120426022957/http://www.lcrx.com/veterinary_avian.html|archivedate=2012-04-26|df=}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.rxlist.com/cgi/generic/haloper.htm Rx-List.com – Haloperidol]
+* [http://www.nlm.nih.gov/medlineplus/druginfo/meds/a682180.html Medline plus – Haloperidol]
+* [http://www.kompendium.ch/MonographieTxt.aspx?lang=de&MonType=fi Swiss scientific information on Haldol]
+* {{cite web| url  =  http://www.who.int/medicines/publications/essentialmedicines/Updated_sixteenth_adult_list_en.pdf| title = WHO Model List of Essential Medicines| edition = 16th list (updated)| publisher =  World Health Organization| accessdate = 2010-09-14| format = PDF| date=March 2010}}
+* [http://druginfo.nlm.nih.gov/drugportal/dpdirect.jsp?name=Haloperidol U.S. National Library of Medicine: Drug Information Portal - Haloperidol]
+
+{{Antipsychotics}}
+{{Antiemetics}}
+{{Navboxes
+| title = [[Pharmacodynamics]]
+| titlestyle = background:#ccccff
+| list1 = 
+{{Adrenergic receptor modulators}}
+{{Dopamine receptor modulators}}
+{{Histamine receptor modulators}}
+{{Ionotropic glutamate receptor modulators}}
+{{Serotonin receptor modulators}}
+{{Sigma receptor modulators}}
+}}
+
+[[Category:Alcohols]]
+[[Category:Antiemetics]]
+[[Category:Belgian inventions]]
+[[Category:Butyrophenone antipsychotics]]
+[[Category:Chemical substances for emergency medicine]]
+[[Category:Chloroarenes]]
+[[Category:Janssen Pharmaceutica]]
+[[Category:Fluoroarenes]]
+[[Category:NMDA receptor antagonists]]
+[[Category:Piperidines]]
+[[Category:RTT]]
+[[Category:Suspected embryotoxicants]]
+[[Category:Suspected fetotoxicants]]
+[[Category:World Health Organization essential medicines]]
+[[Category:Typical antipsychotics]]

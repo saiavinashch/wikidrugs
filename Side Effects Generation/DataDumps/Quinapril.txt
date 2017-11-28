@@ -1,0 +1,88 @@
+{{Drugbox
+| Watchedfields = changed
+| verifiedrevid = 464378463
+| IUPAC_name = (3''S'')-2-[(2''S'')-2-<nowiki>[[</nowiki>(2''S'')-1-ethoxy-1-oxo-4-phenylbutan-2-yl]amino]propanoyl]-3,4-dihydro-1''H''-isoquinoline-3-carboxylic acid
+| image = Quinapril structure.svg
+| width = 222
+
+<!--Clinical data-->
+| tradename = Accupril
+| Drugs.com = {{drugs.com|monograph|quinapril-hydrochloride}}
+| MedlinePlus = a692026
+| pregnancy_category = D
+| legal_status = Rx-only
+| routes_of_administration = Oral
+
+<!--Pharmacokinetic data-->
+| bioavailability =  
+| protein_bound = 97%
+| metabolism =  
+| elimination_half-life = 2 hours
+
+<!--Identifiers-->
+| IUPHAR_ligand = 6350
+| CAS_number_Ref = {{cascite|correct|??}}
+| CAS_number = 85441-61-8
+| ATC_prefix = C09
+| ATC_suffix = AA06
+| PubChem = 54892
+| DrugBank_Ref = {{drugbankcite|correct|drugbank}}
+| DrugBank = DB00881
+| ChemSpiderID_Ref = {{chemspidercite|correct|chemspider}}
+| ChemSpiderID = 49565
+| UNII_Ref = {{fdacite|correct|FDA}}
+| UNII = RJ84Y44811
+| KEGG_Ref = {{keggcite|correct|kegg}}
+| KEGG = D03752
+| ChEBI_Ref = {{ebicite|correct|EBI}}
+| ChEBI = 8713
+| ChEMBL_Ref = {{ebicite|correct|EBI}}
+| ChEMBL = 1592
+
+<!--Chemical data-->
+| C=25 | H=30 | N=2 | O=5
+| molecular_weight = 438.516 g/mol
+| smiles = O=C(OCC)[C@@H](N[C@H](C(=O)N2[C@H](C(=O)O)Cc1c(cccc1)C2)C)CCc3ccccc3
+| StdInChI_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChI = 1S/C25H30N2O5/c1-3-32-25(31)21(14-13-18-9-5-4-6-10-18)26-17(2)23(28)27-16-20-12-8-7-11-19(20)15-22(27)24(29)30/h4-12,17,21-22,26H,3,13-16H2,1-2H3,(H,29,30)/t17-,21-,22-/m0/s1
+| StdInChIKey_Ref = {{stdinchicite|correct|chemspider}}
+| StdInChIKey = JSDRRTOADPPCHY-HSQYWUDLSA-N
+| melting_point     = 120
+| melting_high      = 130
+}}
+
+'''Quinapril''' (marketed under the brand name Accupril by [[Pfizer]]) is an [[angiotensin-converting enzyme]] [[enzyme inhibitor|inhibitor]] ([[ACE inhibitor]]) used in the treatment of [[hypertension]] and [[congestive heart failure]]. A [[prodrug]], it is converted to its active [[metabolite]], [[quinaprilat]], in the liver.
+
+==Mechanism of action==
+{{main|ACE inhibitor}}
+{{see also|Angiotensin|renin-angiotensin system}}
+
+Quinapril inhibits [[angiotensin converting enzyme]], an enzyme which [[catalysis|catalyses]] the formation of [[angiotensin]] [[Angiotensin#Angiotensin II|II]] from its precursor, [[Angiotensin#Angiotensin I|angiotensin I]]. Angiotensin II is a powerful [[vasoconstrictor]] and increases blood pressure through a variety of mechanisms. Due to reduced angiotensin production, plasma concentrations of [[aldosterone]] are also reduced, resulting in increased excretion of [[sodium]] in the urine and increased concentrations of [[potassium]] in the blood.
+
+==Indications==
+Quinapril is indicated for the treatment of high blood pressure ([[hypertension]]) and as adjunctive therapy in the management of [[heart failure]]. It may be used for the treatment of hypertension by itself or in combination with [[thiazide diuretic]]s, and with diuretics and [[digoxin]] for heart failure.
+
+==Contraindications==
+* Pregnancy
+* Impaired renal and liver function
+* Patients with a history of angioedema related to previous treatment with an ACE inhibitor
+* Hypersensitivity to quinapril
+
+==Side effects==
+[[Adverse drug reaction|Side effect]]s of quinapril include dizziness, cough, vomiting, upset stomach, [[angioedema]], and [[fatigue (medical)|fatigue]].
+
+==External links==
+* [http://www.nlm.nih.gov/medlineplus/druginfo/medmaster/a692026.html Quinapril FAQ]
+* [https://web.archive.org/web/20080705012834/http://www.accupril.com/ Accupril Site]
+
+{{ACE inhibitors}}
+{{Angiotensin receptor modulators}}
+
+[[Category:ACE inhibitors]]
+[[Category:Carboxamides]]
+[[Category:Butyrates]]
+[[Category:Enantiopure drugs]]
+[[Category:Pfizer products]]
+[[Category:Pfizer]]
+[[Category:Prodrugs]]
+[[Category:Tetrahydroisoquinolines]]
